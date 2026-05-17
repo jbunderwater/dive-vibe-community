@@ -26,38 +26,22 @@ Tices Shoal is a shallow sandbar in the middle of Barnegat Bay, long famous as a
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barnegat Bay supports a bay habitat with horseshoe crabs, hermit crabs, bay scallops, and flounder in the sandy shallows. Striped bass and other bay fish species are present seasonally, documented by fishing charter operators in the area. Note: invasive clinging jellyfish (*Gonionemus vertens*) have been reported in Barnegat Bay near Tices Shoal in summer months and can deliver painful stings — check local advisories before swimming.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 3 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-3 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth is approximately 3 meters (10 feet) over sand and shell bottom. The site is entirely within Barnegat Bay, sheltered from ocean swell. Currents are mild. Visibility is highly variable — bay water can be murky from tidal flow and boat traffic, particularly in summer when the shoal attracts over 1,000 boats on busy weekends.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat access from Barnegat Bay. The shoal is located near Island Beach State Park in Lacey Township, Ocean County. No dedicated dive charter infrastructure serves this site; most visitors arrive by private boat. The calm, shallow water is suitable for beginners and children when conditions cooperate.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Boat traffic is the primary hazard — Tices Shoal is one of the most heavily visited spots in Barnegat Bay on summer weekends. Divers and snorkelers must display a dive flag and be vigilant about surface boat activity. Check for clinging jellyfish advisories from the New Jersey DEP before entering the water in summer.
 
 ---
-*Sources: Wikipedia/Tices_shoal, njscuba.net, visitnj.org. Last updated 2026-03-16.*
+*Sources: [Tices Shoal — Wikipedia](https://en.wikipedia.org/wiki/Tices_shoal), [Dangerous Jellyfish near Tices Shoal — WHYY](https://whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal/), [Barnegat Charter Fishing](https://barnegatcharterfishing.com/). Last updated 2026-05-17.*

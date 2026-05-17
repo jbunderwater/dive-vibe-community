@@ -26,9 +26,6 @@ Edmonds Underwater Park is a reef dive site featuring designated underwater trai
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 2-40 feet (1-12 meters)
-- **Current**: Variable, can change with tidal flows
-- **Best Time**: Winter for clarity (up to 100 feet); summer for comfort
 - **Water Temperature**: 45-55°F (7-13°C) year-round
 
 ## Marine Life
@@ -42,21 +39,6 @@ Begin at the marked entry point and descend gradually along the designated trail
 ## Entry and Exit
 
 This is a dedicated shore dive. Enter from the Edmonds Underwater Park beach where parking and facilities are available. The beach is well-maintained and features changing rooms and rinse facilities. Exit at the same location. Check current conditions before entry and be prepared for surge and variable visibility. The site is tide-independent, allowing diving at any tide stage.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

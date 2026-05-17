@@ -26,9 +26,6 @@ Daharat Abid represents the pinnacle of remote Sudan diving for experienced adve
 - **Site Type**: Wall dive
 - **Difficulty Level**: Expert
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Very strong
-- **Best Time**: February to April (very limited season)
 
 ## Marine Life—Apex Experience
 
@@ -62,10 +59,6 @@ This is remote-area diving with minimal emergency support. **Do not attempt unle
 - You understand the extreme remoteness may limit rescue options
 
 Abort immediately if nitrogen narcosis, current, or any anomaly appears. Always dive with a very experienced buddy. Maintain conservative air reserves. Strong currents, deep nitrogen narcosis, and polar remoteness make this world-class diving for the truly experienced only.
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

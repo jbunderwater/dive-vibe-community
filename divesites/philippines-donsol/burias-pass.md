@@ -13,54 +13,48 @@ addedBy: osm_import
 
 ## Burias Pass
 
-Burias Pass is a drift dive site in Philippines Donsol, Asia.
+Burias Pass is the channel between Burias Island and the Albay/Sorsogon coast, running parallel to and north of Ticao Pass. Together with Ticao Pass it forms the Ticao-Burias Pass system — jointly designated an Important Shark and Ray Area (ISRA) for its globally significant whale shark and manta ray aggregations.
 
 ## Overview
 
-Burias Pass is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pacific water entering through the San Bernardino Strait feeds both Ticao Pass and Burias Pass with cold, nutrient-rich upwelling. The two passes share the same plankton-dense character that concentrates large marine vertebrates. Zooplankton peaks in February, correlating with peak whale shark sightings across the system.
+
+Burias Pass drift dives pass through open channel waters with visibility ranging from 10–30 meters under normal conditions, dropping during heavy plankton blooms. The Manta Bowl seamount sits precisely between the two passes, drawing aggregating mantas from both current systems. Dive sites in Burias Pass access the north side of this system, with pelagic encounters similar to Ticao Pass but typically with slightly less intense current.
+
+## Marine Life
+
+- Whale sharks (*Rhincodon typus*) — the Ticao-Burias system holds the largest Southeast Asian aggregation; 614 individuals photo-identified 2006–2020
+- Reef manta rays (*Mobula alfredi*)
+- Thresher sharks, hammerhead sharks, tiger sharks
+- Schooling tunas, barracuda, trevallies
+- Sea turtles, dugongs (documented within the broader ISRA)
+- Megamouth shark (rare; recorded in the pass system)
+
+## Dive Profile
+
+Drift dive in open channel. Depth range 10–22 m. Currents can be strong but are generally slightly more moderate than Ticao Pass. Boat follows throughout; SMB required for ascent. No fixed substrate reference points — dives are largely mid-water and pelagic in character.
+
+## Entry/Exit
+
+Boat only. Accessible from Donsol operators running day trips, and from Ticao Island-based operators. Scheduling depends heavily on current conditions and whale shark / manta season.
+
+## Tips
+
+- Best season: November to June, peak February to May.
+- Combine a Burias Pass drift with a Manta Bowl stop for maximum megafauna exposure.
+- Visibility can be inversely related to marine life density — green, plankton-heavy water often means more animals.
+
+## Safety
+
+Intermediate to Advanced conditions. Strong tidal currents require experience with drift diving and SMB deployment. Open-water drift with no fixed exit point means divers must be comfortable with boat-tracked surfacing.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Burias Pass, between Burias Island and Sorsogon/Albay coast, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*

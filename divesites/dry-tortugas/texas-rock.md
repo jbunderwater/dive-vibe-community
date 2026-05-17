@@ -26,37 +26,26 @@ Texas Rock is a massive coral mound rising from sandy bottom at 18 meters to for
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18.3 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Orange dominates Texas Rock — elephant ear sponges, orange crinoids, and orange ball sponges colour the peaks and valleys. On the north side, a forest of deep-water sea fans rivals anything in the Caribbean, with black coral hidden in crevices throughout the formation. Schools of grunts, yellowtail snapper, and parrotfish swirl above the coral heads, and the site hosts more than 30 coral species according to NPS monitoring records. Large crevices and swim-throughs shelter eels and other reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18.3 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18.3 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Texas Rock sits in approximately 55–60 feet (17–18 m) of water, rising as a massive coral mound surrounded by sand flats. Rather than the gradual descending slopes typical of other Keys sites, Texas Rock features irregular peaks, mini-seamounts, valleys, and random spires — the NPS uses the site for ongoing coral growth research monitoring. The structure is large enough to require a full dive to circumnavigate. Visibility typically runs 60–120 feet and is best during flood tide.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by private or charter boat only. The Dry Tortugas are 70 miles west of Key West; no compressed-air facilities exist in the park. Dive charter vessels from Key West or the Florida Keys provide the primary access route, with the NPS mooring infrastructure around Garden Key. Consult the NPS on VHF channel 16 for current mooring availability at outlying sites.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Budget a full dive to explore the full circumference of the mound — the north side sea fans alone justify a dedicated pass. The varied peaks and valleys reward slow, methodical exploration; look into crevices for black coral and reef fish. Dive during flood tide for peak visibility. Note that the site lies beyond the park boundary markers, where strong currents can develop.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Texas Rock is rated Advanced due to depth (~60 ft), exposure, and the potential for current beyond the park boundary buoys. The Dry Tortugas offer no onsite support infrastructure; the nearest hyperbaric chamber is in Key West. Display a dive flag, carry a surface marker buoy, and dive with a charter or support vessel. Watch for fire coral, jellyfish, and sea urchins. No cell service exists in the park — carry a marine VHF radio.
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Greatest Dive Sites - Texas Rock](https://florida.greatestdivesites.com/tortugas/dry_tortugas/texas_rock), [Florida Scuba Diving Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/). Last updated 2026-05-17.*

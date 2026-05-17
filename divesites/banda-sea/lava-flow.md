@@ -13,51 +13,40 @@ addedBy: osm_import
 
 ## Lava Flow
 
-Lava Flow is a wall dive site in Banda Sea, Asia.
+Lava Flow is a coral reef site on the northern flank of Gunung Api, the active volcano that rises dramatically from the Banda Sea. The 1988 eruption sent lava cascading into the ocean, and what has grown back over the intervening decades is one of the most celebrated reef recovery stories in Southeast Asia.
 
 ## Overview
 
-Lava Flow is a dive site in Banda Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Since the 1988 eruption, the lava flow's black volcanic substrate has been colonised by extraordinarily fast-growing coral. The site now showcases staghorn, plate, table, and lettuce corals at densities that scientists use as a benchmark for reef recovery rates. Table corals grow to impressive proportions across the shallower sections, while deeper areas (20–35 m) feature cabbage-leaf corals and fusilier aggregations. The reef sits on a black volcanic backdrop, creating a striking visual contrast between dark lava rock and technicolour coral growth.
 
-## Site Information
-
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Mandarinfish (*Synchiropus splendidus*) are present in the rubble and coral heads — liveaboard operators frequently schedule a dusk dive here to catch their brief mating emergence, making Lava Flow a dual attraction: spectacular reef by day, mandarinfish spectacle at dusk.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+A gently sloping reef from the shallows to around 30–35 m. The shallower sections (3–15 m) hold the densest coral formations. Deeper areas transition to more open substrate with scattered coral blocks and fusilier schools.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- Mandarinfish (best observed at dusk in shallow coral rubble)
+- Napoleon wrasse, round batfish, mobula rays
+- Clown triggerfish, black triggerfish
+- Dogtooth tuna in open water
+- Cuttlefish (the warm water near the volcano creates productive breeding habitat)
+- Dense fusilier schools on deeper sections
 
-## Tips and Recommendations
+## Entry / Exit
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Boat dive from liveaboard or from Banda Neira-based operators. The site is within reach of day-trip boats from Banda Neira.
 
-## Safety Considerations
+## Tips
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Schedule a dusk or late-afternoon dive to witness mandarinfish mating behavior in the coral rubble
+- An afternoon dive followed by a dusk dive is a popular liveaboard sequence here
+- Shallow sections (3–10 m) are ideal for snorkellers and beginner divers
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+One of the Banda Sea's premier wide-angle reef photography sites — the black lava contrasts vividly with colourful coral formations. Dusk dives offer excellent macro opportunities with mandarinfish. Bring both setups.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Banda Ocean Divers](https://bandaoceandivers.com/), [Solitude World - Banda Sea Diving](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/), [Mikumba Diving - Banda Neira](https://www.mikumbadiving.com/banda-neira-the-spice-island/). Last updated 2026-04-05.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html). Last updated 2026-05-17.*

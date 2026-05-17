@@ -3,7 +3,7 @@ name: Fjord
 lat: 29.4165727
 lng: 34.8455429
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 27
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,45 @@ addedBy: osm_import
 
 ## Fjord
 
-Fjord is a  dive site in Red Sea, Middle East.
+Fjord Bay is a unique dive and snorkel site located approximately 15 kilometres south of Taba, on the eastern coast of the Sinai Peninsula along the Gulf of Aqaba. The bay takes its name from its distinctive fjord-like topography — steep desert mountains plunging to the waterline, framing a deep, sheltered blue-water inlet. The setting combines dramatic desert scenery above water with productive reef diving below.
 
 ## Overview
 
-Fjord is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Fjord Bay offers multiple distinct diving zones. The most notable feature is a 27-metre-deep underwater well (or hole) lined with bright red anemone, which is the site's signature attraction. A coral garden called the "Fjord Banana" lies in the shallower sections — a banana-shaped reef accessible to newly certified divers, packed with diverse fish and coral. The fjord hole itself descends from a coral bed at around 16 metres to 24 metres depth, where colourful reefs and dense fish populations reward divers. A pinnacle at the edge of the well provides an additional feature, with jacks hunting, cornetfish ready to ambush juveniles, and reportedly a resident frogfish.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sheltered bay supports a diverse Red Sea reef community. Schooling glassfish and silverfish are reported in the well, along with jacks that sweep in to hunt them. Cornetfish, frogfish, and other unusual species inhabit the pinnacle zone. The shallow banana reef hosts "numerous different types of fish and corals" typical of the northern Red Sea — anthias, wrasse, butterflyfish, and damsels. Hard coral ridges throughout the bay shelter a variety of reef species, and the bay's calm conditions allow extended observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Multiple profiles available: beginners explore the Fjord Banana reef in the shallows (5–10 metres); intermediate divers descend the coral bed to the well opening at 16 metres; more experienced divers drop into the well to 24–27 metres. Shore entry from the beach. The bay is also popular for snorkelling due to its calm, sheltered water.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Shore entry directly from the beach at Fjord Bay. The site is accessible by road from Taba (approximately 15 km) or as an excursion from Taba Heights resort.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The red-anemone-lined well is a striking wide-angle subject. The sheltered, clear water and diverse reef fish make macro photography productive in the shallow sections.
+
+## Tips
+
+- Check whether the frogfish resident is still present (local operators can advise).
+- Avoid the site during high wind periods when the bay can develop chop.
+- The overland scenery of mountains meeting the sea is as spectacular as the dive.
+
+## Site Information
+
+- **Location**: Fjord Bay, approximately 15 km south of Taba, Gulf of Aqaba, North Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 27 metres
+- **Difficulty**: Beginner (shallow sections) to Intermediate (well)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Tribloo — Fjord dive site Taba](https://www.tribloo.com/en/dive-sites/225/fjord.html), [Deluxe Tours — Fjord Bay Taba](https://deluxetourseg.com/en/blogs/44/fjord-bay-in-sinai/), [Egypt Immigration — Fjord Bay Guide](https://www.egyptimmigration.org/news/fjord-bay-egypt), [Taba — Red Sea Diving](https://www.redsea-diving.com/taba/). Last updated 2026-05-17.*

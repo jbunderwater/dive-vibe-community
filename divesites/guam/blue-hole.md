@@ -24,10 +24,10 @@ The wall below the exit is decorated with huge gorgonian sea fans. Whitetip reef
 ## Site Information
 
 - **Location**: Off Orote Point, south of Apra Harbor, Guam
-- **Entry Type**: Shore or boat
-- **Site Type**: Vertical shaft exiting onto wall
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 55 meters (wall accessible deeper)
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 30+ meters (outside the reef)
 - **Water Temperature**: 28-29 degrees C
 - **Current**: Variable; usually dived as drift

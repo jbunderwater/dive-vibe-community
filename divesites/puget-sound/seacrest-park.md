@@ -26,9 +26,6 @@ Seacrest Park is a mixed natural and artificial reef dive site with distinctive 
 - **Site Type**: Artificial_reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-40 feet (3-12 meters)
-- **Current**: Variable, typically moderate
-- **Best Time**: Winter for clarity; any season for diving
 - **Water Temperature**: 45-55°F (8-13°C) year-round
 
 ## Marine Life
@@ -42,21 +39,6 @@ Beach entry leads to a gradual slope descending to the Honey Bear wreck at 45 fe
 ## Entry and Exit
 
 Seacrest Park beach provides good shore access with parking, facilities, and rinse stations. Enter from the designated beach area. Conditions are generally tide-independent, allowing diving at any tide stage. Winter months provide excellent visibility (up to 100 feet reported), while summer visibility may be limited to 10-50 feet due to algal blooms.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

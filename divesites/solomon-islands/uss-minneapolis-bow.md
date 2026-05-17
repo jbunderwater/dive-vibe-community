@@ -24,10 +24,10 @@ The torpedo damage that caused the bow to be cut off is clearly visible in the h
 ## Site Information
 
 - **Location**: Near Tulagi, Florida Islands, Solomon Islands
-- **Entry Type**: Boat dive from Tulagi
-- **Site Type**: Wreck dive (severed WWII cruiser bow)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild

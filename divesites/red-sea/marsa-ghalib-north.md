@@ -3,7 +3,7 @@ name: Marsa Ghalib North
 lat: 25.5338257
 lng: 34.6410191
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Marsa Ghalib North
 
-Marsa Ghalib North is a  dive site in Red Sea, Middle East.
+Marsa Ghalib North is a fringing reef dive site in the Port Ghalib area of Marsa Alam, at approximately 25.53°N, 34.64°E. Port Ghalib (also known as Marsa Ghalib) is a purpose-built international marina approximately 1 hour north of Marsa Alam town. The house reef at Port Ghalib is described as a magnificent 1 km fringing reef extending from the beach, with its drop-off covered in hard and soft corals.
 
 ## Overview
 
-Marsa Ghalib North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Port Ghalib's reef system runs along the coastline and is directly accessible from the beach opposite the dive centres. The reef offers easy shore access and good conditions for both beginners and experienced divers. The drop-off descends from the shallows to a 20–30 m zone that is productive for marine life encounters. The "North" designation likely refers to the northern section of the Port Ghalib fringing reef, which may be accessed from the northern part of the marina's beach.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Port Ghalib reef typically offers:
+- Eagle rays and sea turtles on the outer reef
+- Barracuda and trevally in open water
+- Wrasse, parrotfish, and groupers along the reef wall
+- Occasional dolphin sightings (spinner dolphins known in nearby areas)
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the Port Ghalib marina beach. The reef is accessible on foot from the beach. Drop-off zone reaches 20–30 m. Calm, sheltered conditions inside the marina bay. Additional boat diving is available to offshore sites including Elphinstone and Marsa Abu Dabbab.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Port Ghalib (Marsa Ghalib), Marsa Alam area, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 meters
+- **Difficulty**: All levels — beginner-friendly inshore, deeper for advanced
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wonderful Dive – Port Ghalib dive sites](https://www.wonderful-dive.com/en/port-ghalib-marina-resort/dive-sites/), [Emperor Divers – Port Ghalib Diving](https://www.emperordivers.com/day-diving-location-subpage/port-ghalib-diving/). Last updated 2026-05-17.*

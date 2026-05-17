@@ -3,8 +3,8 @@ name: Ras Ghamila
 lat: 27.9734819
 lng: 34.4285238
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Ras Ghamila
 
-Ras Ghamila is a  dive site in Red Sea, Middle East.
+Ras Ghamila — Arabic for "Delightful Cape" — is the northernmost of Sharm el Sheikh's local dive sites, featuring an extensive plateau covered with large coral formations and one of the highest concentrations of gorgonian sea fans found at any Sharm site.
 
 ## Overview
 
-Ras Ghamila is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The dive site features an expansive plateau ranging from 14–26 m in depth, with an outer drop-off extending to about 30 m. The plateau is densely packed with coral bommies, large table corals, and gorgonian sea fans — sources report this site holds the largest number of gorgonians of any Sharm el Sheikh dive location. Strong currents are often present, which contribute to the prolific filter feeder communities.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Visibility ranges from 10–30 m. The best diving conditions are typically April through November when water temperature and marine activity peak.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The plateau hosts a diverse benthic community: crocodile fish rest camouflaged on rubble, triggerfish and cornetfish patrol above the coral tops, groupers occupy larger coral heads, and blue-spotted ribbontail rays rest in sandy gaps. Manta rays are occasionally sighted at this site, and there is potential for grey reef sharks in the current-swept areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The typical dive begins at the reef edge, works along the plateau at 14–26 m, and ascends over the coral-bommie garden. The site is suitable for Intermediate divers comfortable with currents. When current runs strongly the site can be executed as a drift dive.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Currents can be strong; plan the dive direction according to current
+- Best approached on an incoming tide when plankton-rich water flows onto the reef
+- Combine with other northern Sharm sites on the same boat trip
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [egypt-liveaboard.com — Ras Ghamila Reef](https://www.egypt-liveaboard.com/dive-sites/ras-ghamila-reef/), [PADI — Ras Ghamila Dive Site](https://www.padi.com/dive-site/egypt/ras-ghamila-2/). Last updated 2026-05-17.*

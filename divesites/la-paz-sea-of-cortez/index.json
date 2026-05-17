@@ -1,29 +1,5 @@
 [
   {
-    "name": "The Cortez Club",
-    "filename": "the-cortez-club.md",
-    "lat": 24.2035416,
-    "lng": -110.3003817,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2371780313
-  },
-  {
-    "name": "Shipwrecks",
-    "filename": "shipwrecks.md",
-    "lat": 23.1233557,
-    "lng": -109.5204339,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 1461976052
-  },
-  {
     "name": "Los Islotes",
     "filename": "los-islotes.md",
     "lat": 24.5977,

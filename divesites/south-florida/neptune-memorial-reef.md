@@ -26,38 +26,34 @@ Unique underwater memorial reef designed as an artistic representation of the Lo
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Divers report schools of great barracuda gathering beneath the cement arches, southern stingrays settling on the white sand between structures, and green moray eels, spiny lobsters, and crabs tucked into crevices on the columns and benches. The long-spined sea urchin (*Diadema antillarum*), once thought locally extirpated in much of the Caribbean, is found across the site. Sea turtles and eagle rays are reported as occasional visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef sits in a roughly uniform 40 feet (12 m) of water across the sand flat, with the tallest sculpted features rising several feet off the bottom. Currents are typically limited, and a noticeable thermocline can develop around 30 feet in summer. Divers usually circumnavigate the central gates, columns, and lion statues before fanning out to the benches and pathways that radiate from the main plaza.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only, run by Miami-area operators out of Key Biscayne, Crandon Park, and Government Cut. Dive boats tie into mooring lines on the reef; live-boat live drops are not the norm. Surface intervals are usually paired with a second dive on nearby reef ledges.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is an active memorial site holding cremated remains; respectful behavior and no removal of any object is expected.
+- Maintain neutral buoyancy near the sculpted features to avoid stirring sand and to protect the reef growth colonizing the structures.
+- Spring and fall typically offer the best visibility (33–100 ft / 10–30 m).
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- South Florida sun exposure on the boat ride and surface intervals is intense; bring reef-safe sunscreen, water, and shade.
+- Boat traffic out of Government Cut and Key Biscayne is heavy — surface with an SMB and stay close to the dive flag.
+- Hydroids and fire coral grow on the structures; avoid contact with bare skin.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle lenses suit the architectural elements — gates, columns, and the lion statues — while macro work pays off on the encrusting coral and invertebrate life colonizing the benches. Stable buoyancy is essential to avoid kicking up sand against the white bottom.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Greater Cleveland Aquarium dive feature](https://www.greaterclevelandaquarium.com/best-places-to-dive-neptune-memorial-reef/), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/). Last updated 2026-05-17.*

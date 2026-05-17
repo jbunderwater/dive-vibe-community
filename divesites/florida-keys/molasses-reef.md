@@ -26,38 +26,36 @@ Molasses Reef is the most frequently visited reef dive in the Upper Keys and arg
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+NOAA describes the 247-acre Sanctuary Preservation Area as famous for "clear water, fish populations, and numerous boulder corals." Nurse sharks are commonly found resting beneath ledges, spiny lobster and banded coral shrimp share the deeper holes in the spur-and-groove walls, and eagle rays cruise the sand channel between the reef ridges that gives Eagle Ray Alley its name. Reef sharks have been recorded along the same alley walls, and large schools of permit gather at the southern end of the SPA near Permit Ledges where current pushes off the Gulf Stream.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Molasses is a classic outer-reef spur-and-groove system with depths ranging from roughly 6 feet at the crest down to more than 90 feet at the outer ledges, and high-relief coral heads that rise 12-15 feet from the bottom along the spurs. The 45-foot lighted steel reef marker tower stands in approximately 9 feet of water and is the navigational reference for the site. More than 30 numbered mooring buoys mark distinct sub-sites including North Star, Winch Hole, Hole in the Wall, Aquarium, Eagle Ray Alley, Spanish Anchor, Fire Coral Cave, and Permit Ledges. Spanish Anchor at buoy 21 (south end) features an 8-foot Spanish-era anchor embedded in coral in 25-30 feet, and the Winch Hole holds a large mechanical winch from the 1887 wreck of the schooner Slobodana.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The reef sits roughly 6 miles southeast of Key Largo, a 30-minute run by boat from town. Anchoring on the reef is prohibited; all vessels must tie off to one of the 30+ numbered mooring buoys installed and maintained by the Sanctuary.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Choose buoys at the northern end of the reef for less current and easier conditions; the southern end runs stronger as it sits closer to the Gulf Stream and is better suited as a drift dive.
+- Operators rotate buoys based on conditions, so requesting a specific sub-site (Spanish Anchor, Eagle Ray Alley, Winch Hole) ahead of time helps.
+- The shallow crest is excellent for long second-tank dives and snorkelers, while the outer ledges below 60 feet reward advanced divers with better pelagic encounters.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Sun exposure on surface intervals is severe — bring water, reef-safe sunscreen, and sun protection.
+- The site is named in part for Fire Coral Cave; fire coral is widespread on the spurs and easily contacted with a careless fin or knee.
+- Mid-summer reef temperatures regularly hit 86 degrees F; NOAA documented widespread bleaching during the 2023 heat event, and divers should never touch corals.
+- The southern end's current can be strong; brief with the boat on drift procedures and surface-marker buoy use before entering.
+- The SPA is a strict no-take zone — no spearfishing, no lobstering, no collecting of corals or shells, no fish-feeding.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Key Largo's summer visibility on outer reefs commonly runs 60-80 feet (occasionally to 100 feet in clear winter mornings), making Molasses well-suited to wide-angle reef and seascape photography across the spur-and-groove ridges and over the historic Spanish Anchor.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [NOAA FKNMS — Molasses Reef SPA](https://floridakeys.noaa.gov/zones/spas/molasses.html), [Rainbow Reef Dive Center — Molasses Reef](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef), [Rainbow Reef — Spanish Anchor](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef/spanish-anchor), [SCUBAgo / DiveSSI — Molasses Reef](https://www.scubago.com/en/forward-mdg/divesite/molasses-reef-coral-canyon-key-largo-fl-aquarium-logans-run-hole-in-the-wall-little-united-states-3020), [Island Ventures — Molasses Reef](https://www.islandventure.com/molasses-reef/), [Florida-Scubadiving.com — Key Largo Visibility](https://www.florida-scubadiving.com/water-visibility-in-key-largo-summer-the-3-factors-that-create-crystal-clear-conditions-up-to-100-feet/). Last updated 2026-05-17.*

@@ -26,36 +26,26 @@ Palliser Rock is a rocky reef in the Sunshine Coast region near Jervis Inlet, wh
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Palliser Rock is fed by the nutrient-rich convergence of Jervis Inlet and its tributary waterways, sustaining dense sessile invertebrate communities. Plumose anemones and cloud sponge clusters colonise the deeper rock formations. Sea urchins, nudibranchs, and colourful encrusting invertebrates are abundant across shallower surfaces. Giant Pacific octopus den reliably in the rock formations. Wolf eels are known residents in the deeper sections. Lingcod and rockfish (China, copper, quillback) patrol crevices and ledges throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef descends to around 18 metres on rocky terrain typical of Jervis Inlet and Agamemnon Channel dive sites. Current-fed conditions maintain good visibility and a steady food supply for filter feeders. The Sunshine Coast's upper reaches — including sites accessible from Egmont at the entrance to Jervis Inlet — feature deep walls and excellent cold-water biodiversity; Palliser Rock shares this biological richness at a shallower, more accessible depth profile.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from Egmont or Sechelt Inlet-area launch points. The Jervis Inlet area is most commonly dived from Egmont, where local dive operators have intimate knowledge of tidal timing and site conditions.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive around slack water — Jervis Inlet and Agamemnon Channel experience genuine tidal flow and conditions become uncomfortable when currents are running. The Sunshine Coast's exceptional cold-water visibility peaks in winter; summer brings more comfortable temperatures but reduced clarity. Connect with Egmont-based dive operators for current access information and tidal guidance.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (7–10°C) requires a dry suit. Tidal currents in Jervis Inlet and adjacent channels can be strong, particularly around Skookumchuck Narrows at the inlet entrance — timing is critical. Carry a surface marker buoy. Boat traffic in the inlet warrants attention on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving on Sunshine — DAN Alert Diver](https://dan.org/alert-diver/article/diving-on-sunshine/), [British Columbia's Sunshine Coast — X-Ray Mag](https://xray-mag.com/content/british-columbias-sunshine-coast), [Scuba Diving Sunshine Coast — Sunshine Coast Tourism](https://www.sunshinecoastcanada.com/things-to-do/outdoor-activities/scuba-diving/). Last updated 2026-05-17.*

@@ -26,36 +26,26 @@ Parker Reef is a kelp-draped reef near Saturna Island in the Southern Gulf Islan
 - **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The bull kelp canopy at Parker Reef provides habitat structure that shelters juvenile rockfish, sea perch, and lingcod. Under the canopy, nudibranchs and sea urchins are scattered across the rocky substrate. Decorator crabs and plumose anemones are common in current-exposed areas. Giant Pacific octopus shelter in deeper reef crevices. Kelp greenlings are typical inhabitants of the kelp forest floor. Tidal current through the Southern Gulf Islands delivers nutrients that sustain dense sessile invertebrate communities on current-swept sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site is shallow, maxing out at 12 metres beneath a thick bull kelp canopy. The Southern Gulf Islands experience significant tidal currents through passages including Active Pass, Gabriola Pass, and Porlier Pass — while Parker Reef near Saturna Island may be in more moderate flow than the main passes, divers should assess conditions at the site before entry. Shore access means independent timing is possible.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry near Saturna Island. Accessibility from the island's limited road network should be confirmed locally. The Southern Gulf Islands are typically reached by BC Ferries or private boat; no scheduled ferry serves Saturna from Vancouver Island directly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Kelp forest dives at Parker Reef are best in summer when the bull kelp canopy is at its fullest. Navigate slowly through the kelp for the best wildlife encounters — lingcod and rockfish tend to hold position under the canopy where they can be approached closely. Current awareness is important even on shore dives in the Gulf Islands; enter and exit at slack tide for the most comfortable experience.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bull kelp can entangle gear or become wrapped around regulators and limbs — move slowly and keep SPG and octopus tucked away. Cold water (8–11°C) requires a dry suit or 7 mm wetsuit with hood. Tidal currents in the Southern Gulf Islands can be significant — assess flow before entry. Carry a surface marker buoy.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [Diving — Gulf Islands National Park, BC](https://www.gulfislandsnationalpark.com/recreation/diving/), [British Columbia's Top 10 Dives — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-17.*

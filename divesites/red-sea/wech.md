@@ -4,62 +4,28 @@ lat: 26.389115
 lng: 34.186845
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## WECH
+## Wech
 
-WECH is a  dive site in Red Sea, Middle East.
+Wech is a dive site entry in the offshore reef zone between Safaga and El Quseir (lat 26.39, lon 34.19), approximately 30 km southeast of Safaga in an area of scattered offshore reefs and shoals.
 
 ## Overview
 
-WECH is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The name "Wech" does not appear in widely available English-language dive guides for the Red Sea. The coordinates place this site roughly 15 km offshore in the mid-Red Sea zone south of Safaga, an area of open-water shoals and reef tops accessible primarily by boat. The offshore reefs in this zone — between Safaga and El Quseir — receive limited diver attention compared to the major named reefs further north (Panorama, Middle Reef, Abu Kafan) but can offer pristine coral and good pelagic activity.
+
+No specific source has been located confirming the site's topography, depth profile, or marine life under this name. "Wech" may be a local Arabic transliteration for a reef or shoal name not widely documented in English.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Offshore reef zone, Safaga–El Quseir, Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates or under this name. Description based on regional diving characteristics and coordinate location. Last updated 2026-05-17.*

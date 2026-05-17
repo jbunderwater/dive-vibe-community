@@ -11,55 +11,33 @@ osmId: null
 addedBy: osm_import
 ---
 
-## House reef oasis
+## House Reef Oasis
 
-House reef oasis is a  dive site in Red Sea, Middle East.
+House Reef Oasis is the house reef of The Oasis Dive Resort, located approximately 20 km north of Marsa Alam on a private beach on the Red Sea coast (lat 25.27, lng 34.79). The resort is a joint venture of Werner Lau Diving Centers and Sinai Divers, operating as a PADI 5-star dive centre.
 
 ## Overview
 
-House reef oasis is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The house reef is a fringing reef directly accessible from the resort's jetty and can be dived or snorkelled from 6:00 am to 8:00 pm daily. The reef runs north–south and is gently sloping, leading to a drop-off into deeper water. Divers can choose to head north or south from the jetty entry point. The north–south corridor alignment means the reef receives visits from larger pelagic species moving along the coast. The site also benefits from proximity to excellent offshore sites including Elphinstone Reef, Shaab Marsa Alam, and Samadai Reef (Dolphin House), which are reached by boat from the dive centre.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports typical Red Sea hard and soft coral communities with moray eels, sea turtles, and a full complement of reef fish. Napoleon wrasse, dolphins, and reef sharks are also reported along the reef's north–south corridor. The combination of accessible shallow reef and deep drop-off accommodates divers of all experience levels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Jetty entry; gently sloping reef to a drop-off. Suitable for all skill levels including beginners. Daytime and night diving both available. 30+ boat dive sites accessible from the centre for those wishing to explore beyond the house reef.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: The Oasis Dive Resort, ~20 km north of Marsa Alam, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [The Oasis Marsa Alam – House Reef](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/), [Sinai Divers – The Oasis Marsa Alam](https://www.sinaidivers.com/en/the-oasis-marsa-alam/). Last updated 2026-05-17.*

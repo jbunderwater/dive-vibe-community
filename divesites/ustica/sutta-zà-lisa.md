@@ -13,55 +13,45 @@ addedBy: osm_import
 
 ## Sutta zà Lisa
 
-Sutta zà Lisa is a wall dive site in Ustica, Europe.
+Sutta zà Lisa is a wall dive site within the Ustica Marine Protected Area, Sicily, Italy.
 
 ## Overview
 
-Sutta zà Lisa is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Sutta zà Lisa — Sicilian dialect for "Sotto Zia Lisa" (Under Aunt Lisa) — is a dive site within the Riserva Naturale Marina di Ustica (Ustica Marine Protected Area), Italy's first officially designated marine reserve, established in 1986. The reserve extends over 15,000 hectares around the volcanic island of Ustica, located approximately 60 kilometres north of Palermo in the Tyrrhenian Sea.
+
+The site takes the form of a wall formed from Ustica's characteristic basaltic lava rock, descending to approximately 20 metres. At around 30 metres (a slightly deeper route than the stated max depth), divers encounter octopus and grouper sheltering in the lava formations, and the site is documented as a location for finding amphora fragments that have fallen from ancient trading vessels and settled into the rock — vestiges of the rich maritime history of the Sicilian Channel. This makes Sutta zà Lisa of interest both for its marine life and for its archaeological character.
+
+The site is listed by local dive operators as suitable for underwater photography, and the lava rock formations create interesting topography for exploring. It sits within the broader ecosystem that makes Ustica famous: the island's protected waters host the three signature species of the reserve — dusky groupers (Epinephelus marginatus) described by Profondo Blu Diving as present "everywhere in Ustica," amberjacks (Seriola dumerili), and large schools of Mediterranean barracuda. The long-term protection since 1986 has allowed predator populations to recover substantially.
+
+## Dive Profile
+
+- **Entry**: Boat
+- **Depth range**: 5–20 m (wall); some sources note encounters at ~30 m in deeper route
+- **Wall type**: Basaltic lava rock formation
+- **Conditions**: Typically calm in the Tyrrhenian; some current possible
+- **Visibility**: Generally excellent in the protected reserve; 20–30 m typical
+- **Best season**: May–October
+
+## Marine Life
+
+- **Groupers**: Dusky groupers in lava rock crevices; abundant throughout the reserve
+- **Invertebrates**: Octopus in rock formations; Mediterranean spiny lobster
+- **Archaeological interest**: Amphora fragments in lava substrate
+- **Reserve species**: Amberjacks and barracuda from adjacent water column
+- **Photography**: Documented as a site suitable for underwater photography
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica Marine Protected Area, Province of Palermo, Sicily, Italy
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+- **Protected Status**: Riserva Naturale Marina di Ustica (established 1986, Italy's first marine reserve)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Lustrica Diving Ustica — dive sites](https://www.lustricadiving.it/dives/?lang=en), [Profondo Blu Diving Ustica — Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html), [Evasioni Blu Diving — Secca della Colombara / Ustica](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-05-17.*

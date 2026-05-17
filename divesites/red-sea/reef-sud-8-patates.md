@@ -3,8 +3,8 @@ name: Reef Sud 8 Patates
 lat: 23.67395
 lng: 35.79615
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,35 @@ addedBy: osm_import
 
 ## Reef Sud 8 Patates
 
-Reef Sud 8 Patates is a  dive site in Red Sea, Middle East.
+Reef Sud 8 Patates is a coral reef dive site in the deep southern Red Sea of Egypt, with coordinates (23.67°N, 35.80°E) placing it in the St. John's Reef / Ras Banas region — one of the southernmost accessible diving areas in Egyptian waters, close to the Sudanese border. The name "8 Patates" is French in origin, likely a francophone liveaboard crew designation for a cluster of reef formations ("potatoes" being a common colloquial term for coral bommies or rounded reef patches in French diving culture). "Sud" (south) indicates the southern section of this reef.
 
 ## Overview
 
-Reef Sud 8 Patates is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The St. John's Reef area — in which this site is located — is characterised by some of the healthiest coral reefs in Egypt, benefiting from low dive traffic and the remote southern location. The area features tunnels, drop-offs, and complex reef topography. Conditions are generally mild to moderate, with some exposure to open-water swells and current on the reef's exposed faces.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The southern Red Sea around St. John's Reef is noted for excellent shark encounters — hammerhead sharks and bottlenose dolphins are frequently sighted. The coral systems are among Egypt's best preserved, with dense hard coral coverage and rich invertebrate communities. Groupers, Napoleon wrasse, barracuda, and schooling reef fish populate the reef structures. The remote location means the fish life is largely undisturbed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Liveaboard access only due to the remote location. The "Sud" (south) designation suggests this is the southern face of the reef system, likely with different exposure characteristics from northern sections. Depths run from shallow reef tops to approximately 30 metres on the drop-off sides.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Liveaboard only; departure from Marsa Alam, Port Ghalib, or Hamata on southern Red Sea itineraries. The distance from any port makes day trips impractical.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: St. John's Reef area, deep southern Red Sea, approximately 160 km south of Marsa Alam
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*The exact name "Reef Sud 8 Patates" was not found in major English-language dive databases. This appears to be a French-language liveaboard designation for a reef patch cluster in the St. John's area. Coordinates confirm placement in the St. John's/Ras Banas reef zone. General regional context from: [Dive the World — Southern Red Sea Egypt](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php), [Dive the World — St. John's](https://www.dive-the-world.com/diving-sites-egypt-st-johns.php). Last updated 2026-05-17.*

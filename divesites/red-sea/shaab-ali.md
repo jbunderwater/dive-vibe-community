@@ -4,62 +4,35 @@ lat: 27.789457
 lng: 33.906156
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## SHAAB ALI
+## Shaab Ali
 
-SHAAB ALI is a  dive site in Red Sea, Middle East.
+Sha'ab Ali is a large shallow reef complex in the Strait of Gubal, best known as the location of the SS Thistlegorm — one of the world's most famous wreck dives — on its eastern side.
 
 ## Overview
 
-SHAAB ALI is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef surrounds an interior lagoon with depths of 7–10 m, providing sheltered anchorage for safari and liveaboard boats. The outer reef edges offer coral walls and slope diving with a resident community of reef fish. Sha'ab Ali lies in the middle of the Strait of Gubal, the channel connecting the Gulf of Suez to the northern Red Sea.
 
-## Site Information
+While the reef itself is a pleasant dive with healthy coral gardens, most visitors make the journey specifically for the Thistlegorm wreck (a British military transport ship sunk by German bombers in October 1941) located on the reef's eastern flank. The wreck is a separate dive site.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Reef Diving
+
+The reef edge slopes from the surface to around 20–25 m and supports crocodile fish, scorpionfish, napoleon wrasse (humphead wrasse), two resident turtles commonly reported, snappers, nudibranchs, and blue-spotted ribbontail rays. Visibility ranges from 15–25 m. Currents in the strait can be moderate.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Crocodile fish and scorpionfish rest camouflaged on the reef. Turtles frequently rest at the lagoon edges. Sharks and dolphins are occasionally encountered in the open water around the reef.
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- The primary reason to visit Sha'ab Ali is the SS Thistlegorm; the reef dive is secondary
+- Currents in the Strait of Gubal can be significant — check the tidal cycle before diving
+- The inner lagoon provides calm anchoring conditions even when external conditions are choppy
 
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle — Sha'ab Ali](https://www.zentacle.com/Beach/12215/shaab-ali), [redsea-diving.com — Strait of Gubal](https://www.redsea-diving.com/strait-of-gubal/). Last updated 2026-05-17.*

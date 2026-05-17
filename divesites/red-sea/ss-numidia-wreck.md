@@ -3,7 +3,7 @@ name: SS Numidia Wreck
 lat: 26.3156833
 lng: 34.84145
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 80
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,55 +13,40 @@ addedBy: osm_import
 
 ## SS Numidia Wreck
 
-SS Numidia Wreck is a historic wreck dive in Red Sea, Middle East.
+The SS Numidia is one of the most celebrated wreck dives in the Red Sea, resting on the northern reef slope of Big Brother Island after running aground in 1901.
 
 ## Overview
 
-SS Numidia Wreck is a dive site in Red Sea featuring a historic wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Built at D. & W. Henderson & Co.'s Meadowside Shipyard in Glasgow for the Anchor Line, the Numidia was a steam cargo ship of 6,399 gross tons. On 6 July 1901 the vessel departed Liverpool bound for Calcutta carrying a general cargo of approximately 7,000 tons with a crew of 97. On 20 July 1901 she ran aground on the northern tip of Big Brother Island — directly below the island's lighthouse. All attempts to refloat her failed, and the captain oversaw cargo salvage for approximately seven weeks before the ship finally sank. The cause of the grounding was never definitively established.
 
-## Site Information
+The wreck lies perpendicular to the reef, bow at approximately 8 metres and stern at roughly 80 metres — one of the deepest recreational and technical wreck profiles in Egyptian waters. The wooden superstructure has largely deteriorated over more than a century, leaving an iron skeleton heavily encrusted with soft and hard corals, sea fans, and sponges.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Built:** D. & W. Henderson & Co. Ltd., Meadowside, Glasgow, Scotland
+- **Operator:** Anchor Line
+- **Gross tonnage:** 6,399 GRT
+- **Departed:** Liverpool, 6 July 1901, bound for Calcutta
+- **Grounded:** 20 July 1901, northern plateau of Big Brother Island
+- **Cause:** Navigational error (specific cause not determined)
+- **Crew:** 97 — all survived
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Recreational divers typically work the upper sections between 8 and 30 m; advanced and technical divers follow the hull toward the stern near 80 m. Access is liveaboard only — Big Brother Island sits approximately 60 km from the Egyptian coast. The island's lighthouse remains staffed by the Egyptian authorities and is visible from the dive site.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dense soft corals, gorgonian fans, and sponges colonise the hull. In the blue water off the wreck divers regularly encounter oceanic whitetip sharks and grey reef sharks. Hammerhead and thresher sharks are seasonally possible at depth. Large humphead wrasse (napoleon) patrol the structure and schools of barracuda are common.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Only accessible by liveaboard (Hurghada or Port Ghalib)
+- Often combined with the SS Aida II wreck on Big Brother's southern tip, also an Anchor Line vessel
+- The shallow encrusted bow section (8–12 m) is suitable for wide-angle photography in good light
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck extends well beyond 40 m — plan gas carefully. Strong and unpredictable currents are possible at Big Brother Island. Ascend conservatively and follow your guide's current briefing.
 
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Red Sea Wreck Project — SS Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [MarsaAlam.com — SS Numidia Guide](https://marsaalam.com/ss-numidia-wreck-2025-guide/). Last updated 2026-05-17.*

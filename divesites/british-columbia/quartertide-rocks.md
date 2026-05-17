@@ -26,36 +26,26 @@ Quartertide Rocks is a rocky reef site on the south coast of Vancouver Island ne
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Juan de Fuca Strait's upwelling cold Pacific water supports robust communities on exposed rocky structures. Hydrocorals (pink and purple lace bryozoans), brooding anemones, encrusting sponges, and barnacle-covered outcrops are characteristic of this coast. Lingcod, kelp greenlings, and rockfish patrol the rocky terrain. Giant Pacific octopus den in crevices. Wolf eels are present on more complex reef sections. Plumose anemones establish where current delivers food reliably. Nudibranchs are found across encrusting surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef descends to 18 metres with a rocky terrain typical of the Juan de Fuca south coast of Vancouver Island. The Juan de Fuca Strait is subject to complex tidal patterns driven by the confluence of Pacific ocean water and outflow from the Strait of Georgia — tidal rips are common off points and shoals, and a precise slack-water window is essential. Visibility varies with season and tidal cycle; calmer conditions deliver better clarity.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from Sooke or other southern Vancouver Island launch points. The exposed Juan de Fuca coast is subject to wind chop and swell — sea state assessment is important before committing to the dive.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Plan carefully around local tidal predictions for the Juan de Fuca Strait, not general harbour tables. Local Victoria-area dive charters have detailed knowledge of slack windows at exposed sites on this coast. Conditions can change rapidly; have a contingency plan if weather deteriorates mid-dive.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (7–10°C) requires a dry suit. The Juan de Fuca Strait is one of the most tidal and weather-exposed environments in southern BC — tidal rips and unexpected chop are genuine hazards. Dive only in confirmed slack-water windows with a live boat above. Surface marker buoy is essential.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving Vancouver Island — DIVE Magazine](https://divemagazine.com/scuba-diving-travel/diving-vancouver-island), [Pacific Northwest Scuba Diving — Scuba Diving Magazine](https://www.scubadiving.com/scuba-diving-pacific-north-west), [Juan de Fuca Park — BC Parks](https://bcparks.ca/juan-de-fuca-park/). Last updated 2026-05-17.*

@@ -3,63 +3,56 @@ name: Susana Wreck
 lat: 27.2106711
 lng: 33.8481903
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 22
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Susana Wreck
+## Susana Wreck — Excalibur, Hurghada Area
 
-Susana Wreck is a  dive site in Red Sea, Middle East.
+The Susana Wreck is the remains of the Excalibur (locally known as Susanna or Suzanna), a twin-masted sailing yacht and diving safari boat that sank in the mid-1990s following an electrical fire. The wreck sits upright on a sandy seabed at a maximum depth of around 20–22 metres and is one of the most approachable wreck dives in the Hurghada area, suitable for beginner divers.
 
 ## Overview
 
-Susana Wreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Excalibur was a dive safari boat operating in the Hurghada area when an electrical fire broke out in 1996, causing her to sink. The vessel settled upright on the sandy bottom, with the deck at approximately 14 metres and the hull bottom at 20–22 metres. The relatively small size of the wreck and its sheltered, upright position make it a comfortable introduction to wreck diving.
 
-## Site Information
+The Susana Wreck lies close to shore in calm, clear water. The hull is increasingly colonised by soft corals and serves as a habitat for macro photography subjects. The surrounding seagrass beds visible from the wreck attract blue-spotted stingrays and the occasional seahorse. Because the vessel is intact and undisturbed, its profile is clearly recognisable — masts, hull, and rigging are all present.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: Excalibur (local names: Susanna, Suzanna, Susana)
+- **Type**: Twin-masted sailing yacht / dive safari boat
+- **Sunk**: Mid-1990s (circa 1996) following an electrical fire
+- **Depth**: Deck at ~14 m; maximum depth ~20–22 m
+- **Orientation**: Upright on sandy bottom
+- **Location**: Hurghada area, northern Red Sea (coordinates 27.211°N, 33.848°E)
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 14–22 m
+- **Entry**: Boat dive
+- **Conditions**: Calm; the wreck is in a sheltered area
+- **Visibility**: Typically good — 15–20 m
+- **Penetration**: Possible in the main cabin areas; torch recommended
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck structure and surrounding seagrass support nudibranchs, pipefish, blue-spotted stingrays, moray eels, and occasionally seahorses. Glass fish (cardinalfish) shelter in the interior spaces. Soft corals are establishing on the hull.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+An excellent macro photography site. The sheltered, shallow, upright wreck provides stable composition opportunities. Ambient light at 14 metres on the deck allows natural light photography. Look for nudibranchs and pipefish on the hull structure.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Hurghada area, northern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 22 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Dive3D — Excalibur/Susana](https://dive3d.eu/models/egypt/excalibur-susana/), [Hurghada wreck dive guides — Scubadore](https://scubadore-hurghada.com/hurghadas-best-wrecks-beyond-the-thistlegorm/), [Dive Hurghada — El Gouna dive sites](https://www.dive-hurghada.com/divesites/hurghada-elgouna). Last updated 2026-05-17.*

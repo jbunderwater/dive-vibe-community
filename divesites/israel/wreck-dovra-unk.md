@@ -3,7 +3,7 @@ name: Wreck Dovra unk
 lat: 32.826111
 lng: 34.940556
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,7 +24,7 @@ This site is catalogued as an unknown ("unk") barge wreck (Hebrew: dovra = barge
 - **Location**: Northern Israeli Mediterranean, Haifa area
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Variable
 

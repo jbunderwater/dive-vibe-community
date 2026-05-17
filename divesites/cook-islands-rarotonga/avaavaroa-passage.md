@@ -25,7 +25,7 @@ The south-side location brings the possibility of tidal currents running through
 
 - **Location**: South side, between Avaavaroa and Titikaveka, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/passage
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 40+ meters

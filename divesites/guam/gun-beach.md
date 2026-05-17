@@ -24,8 +24,8 @@ Entry follows cables and pipe channels from the beach through the shallow reef f
 ## Site Information
 
 - **Location**: Tumon Bay, Guam (main resort area)
-- **Entry Type**: Shore dive
-- **Site Type**: Sloping reef (Tumon Marine Preserve)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-18 meters

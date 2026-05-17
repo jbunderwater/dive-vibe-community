@@ -26,9 +26,6 @@ Elba Reef is a remarkable triangle-shaped reef composed of three distinct platea
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: March to November
 
 ## The Three Plateaus
 
@@ -41,26 +38,6 @@ Elba Reef is a remarkable triangle-shaped reef composed of three distinct platea
 ## Marine Life
 
 Wild encounters are the hallmark of Elba Reef. Grey reef sharks and hammerheads cruise the deeper plateaus regularly. The reef's pelagic location and minimal diving pressure mean sharks show natural behavior without the wariness seen at heavily dived sites. Large jackfish, barracuda, emperors, and trevally school the currents. Abundant soft corals, sea fans, and hard coral growth throughout. Occasional manta rays, eagle rays, and other large species. The pristine coral and high fish density reflect low diving impact.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

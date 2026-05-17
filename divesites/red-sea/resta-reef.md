@@ -4,7 +4,7 @@ lat: 25.6007557
 lng: 34.6143687
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Resta Reef
 
-Resta Reef is a  dive site in Red Sea, Middle East.
+Resta Reef is the house reef associated with the Resta Grand Resort and Resta Reef Resort in the Marsa Alam area of Egypt's southern Red Sea. Coraya Reef Divers, an SSI dive centre with PADI-certified instructors also available, operates from the Resta Reef Resort and provides access to this and surrounding dive sites. The coordinates (25.60°N, 34.61°E) place the site in the Coraya Bay / Marsa Alam zone.
 
 ## Overview
 
-Resta Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+House reefs in the Marsa Alam area follow a characteristic pattern: a fringing reef runs parallel to the coast in front of the resort, beginning in the shallows and dropping to a coral garden and wall at depth. The southern Red Sea in this zone is noted for excellent water clarity, minimal boat traffic compared to northern resorts, and healthy coral coverage. The reef provides convenient, flexible diving for resort guests without requiring a boat.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Marsa Alam zone, where Resta Reef is located, is one of Egypt's richest diving areas. Sea turtles (hawksbill and green) are common throughout the region's house reefs. Dugongs have been recorded at several protected bays in the vicinity. Reef fish communities are diverse and include groupers, Napoleon wrasse, moray eels, barracuda, anthias, and butterflyfish. The hard and soft coral formations typical of southern Red Sea house reefs attract lionfish, crocodilefish, and scorpionfish on the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore or jetty entry directly from the resort beach or dive centre. Flexible diving at times to suit the diver; depths range from a shallow reef top at 3–5 metres to approximately 25 metres on the outer reef edge. The dive centre offers guided dives, courses, and equipment rental.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Resta Grand Resort / Resta Reef Resort beach. The Coraya Reef Divers centre is on site.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Coraya Bay / Marsa Alam area, southern Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
+- **Dive Centre**: Coraya Reef Divers (SSI/PADI)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Tripadvisor — Dive Company at Resta Grand Resort](https://www.tripadvisor.com/ShowTopic-g311425-i9663-k2788898-Dive_Company_at_Resta_Grand_Resort-Marsa_Alam_Red_Sea_and_Sinai.html), [Coraya Divers — Marsa Alam dive spots](https://www.coraya-divers.com/en/marsa-alam/dive-spots/). Last updated 2026-05-17.*

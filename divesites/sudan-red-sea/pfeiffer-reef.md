@@ -26,9 +26,6 @@ Pfeiffer Reef is one of Sudan's pristine, lesser-known coral reefs accessed excl
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: January to May
 
 ## Marine Life
 
@@ -55,10 +52,6 @@ Access is exclusively via liveaboard dive boat, typically as part of multi-day d
 ## Safety Considerations
 
 Strong currents are the defining feature of Pfeiffer Reef. Always dive with a buddy and abort the dive if currents exceed your comfort level. Fire coral, lionfish, and stinging hydroids are present—avoid touching reef. Pressure drops rapidly with depth—monitor depth gauge closely. The remote location means immediate evacuation is limited—only dive if you are confident in your abilities and health status.
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

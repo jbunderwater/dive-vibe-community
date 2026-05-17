@@ -23,7 +23,7 @@ The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplan
 
 - **Location**: Kavieng, New Ireland Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII aviation)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25+ meters

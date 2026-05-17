@@ -2,64 +2,41 @@
 name: Turtle beach
 lat: 27.7857834
 lng: 34.2403293
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 26
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Turtle beach
+## Turtle Beach
 
-Turtle beach is a  dive site in Red Sea, Middle East.
+Turtle Beach (also known as Turtle Bay) is a gentle reef site in the Sharm el Sheikh area, well-regarded for regular turtle sightings and a sandy plateau dotted with large coral pinnacle formations.
 
 ## Overview
 
-Turtle beach is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The dive features a sandy plateau with large coral pillars scattered across it, each colonised with hard corals and hosting dense concentrations of glassfish (sweepers). Green turtles are regularly encountered at this site, typically seen grazing on soft corals along the plateau or resting on sandy areas. Large stingrays also rest on the sandy bottom between pinnacles.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The typical depth range is 10–26 m. The site can be dived as a drift depending on current direction, making it accessible to a wide range of experience levels. Shore entry is also reported at some access points.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins along the outer reef edge, dropping down to the sandy plateau at 20–26 m, then working back through the coral pinnacle formations. Visibility is usually around 25 m. The gentle topography makes this a relaxing dive suitable for beginners and photographers. Currents are generally mild.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Green turtles — regularly observed grazing or resting
+- Blue-spotted ribbontail rays resting on the sandy bottom
+- Dense glassfish schools surrounding coral pinnacles
+- General Red Sea reef fish community: wrasses, butterflyfish, angelfish, parrotfish
+- Occasional larger groupers using the pinnacle bases as shelter
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a camera — the combination of turtles and glassfish-encrusted pinnacles makes for compelling subjects
+- Patient divers who approach slowly often get extended turtle encounters
+- An easy dive suitable for dive training or certification dives
 
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Camel Dive Club — Turtle Bay](https://www.cameldive.com/dive-sites/turtle-bay/), [Divers Guide — Turtle Bay](https://www.divers-guide.com/en/turtle-bay-sharm-el-sheikh). Last updated 2026-05-17.*

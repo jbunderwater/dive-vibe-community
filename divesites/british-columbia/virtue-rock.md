@@ -26,36 +26,26 @@ Virtue Rock is a submerged rocky reef in the waters south of Victoria near the S
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Southern Vancouver Island rocky reefs in tidal channels support lingcod, quillback rockfish, copper rockfish, tiger rockfish, cabezon, and kelp greenlings. Giant Pacific octopus and wolf eels occupy crevices in the deeper rocky structure. Plumose anemones, nudibranchs, sea stars, and encrusting sponges colonise the current-swept faces. Harbour seals are frequent visitors throughout this area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive at 18 m maximum on a submerged rocky reef in the channel waters south of Victoria. The Juan de Fuca Strait influence keeps water temperatures cold and nutrient levels high. Rocky terrain with crevice habitat for fish and invertebrates; encrusting growth increases at depth.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only. Victoria-based charter operators (Rockfish Divers, Ocean Explorers) provide access to sites in this area. Timing to slack water is recommended to avoid the significant tidal flows through the Strait of Juan de Fuca approaches.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The waters near the Strait of Juan de Fuca entrance are influenced by both Pacific upwelling and tidal exchange, creating productive but cold conditions year-round. Visibility is typically best in fall and winter (10–20 m). Water temperature 8–12 °C; drysuit required. Check tidal tables carefully — tidal flow through the area can be strong.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tidal currents in the Strait of Juan de Fuca and its approaches can be significant. Plan dives around slack water and monitor conditions. Cold water (8–12 °C) requires a drysuit. Deploy surface marker buoy on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DIVE BC — Victoria Area](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Southern Gulf Islands](https://www.rockfishdivers.com/southern-gulf-islands.html), [Vancouver Island Dive Sites — Victoria](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html). Last updated 2026-05-17.*

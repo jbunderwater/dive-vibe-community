@@ -75,6 +75,5 @@ Playa Manzalina offers excellent opportunities for underwater photography in pri
 - Curaçao Marine Park information and regulations
 - Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
 
-
 ---
 *Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*

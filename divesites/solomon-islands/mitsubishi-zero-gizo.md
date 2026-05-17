@@ -24,10 +24,10 @@ The Zero shows signs of having been deliberately placed rather than crash-landed
 ## Site Information
 
 - **Location**: Off Gizo market area, near the Catholic Cathedral, Ghizo Island
-- **Entry Type**: Boat dive or shore access from Gizo waterfront
-- **Site Type**: Wreck dive (WWII fighter aircraft)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8-10 metres
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally sheltered near shore

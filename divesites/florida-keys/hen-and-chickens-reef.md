@@ -26,38 +26,31 @@ Hen and Chickens is a cluster of patch reefs off Islamorada whose coral formatio
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5.3 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Endangered Species Act-listed star corals and brain corals are the protected centerpiece of the SPA, with some coral heads rising as much as 15 feet from the bottom and large Christmas tree corals scattered through the patch. The 1949 brick barge wreck inshore of the light tower is colonized by large soft corals and ringed by resident barracuda and large tarpon that consistently shelter around the structure. Yellowtail snapper, grunts, and eagle rays are commonly reported across the patch reefs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 5.3 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-5.3 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The patch reef sits in roughly 10–22 feet of water in the middle of Hawk Channel about 3 miles offshore of Plantation Key, with the brick barge wreck running along a 100-foot axis inshore of the triangular light tower and the bow rising to within 10 feet of the surface. Most dives are slow circuits around the central "hen" patch and its surrounding smaller patches, working between the coral heads and out to the barge ribs.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Hen and Chickens is reached by boat from Islamorada and Plantation Key dive operators. Mooring buoys are installed within the SPA so vessels never anchor in coral; entry and exit are from the operator's tie-off to a buoy.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Designated a Sanctuary Preservation Area (SPA): no spearfishing, no lobstering, no collecting (including coral and shells), and no fish-feeding.
+- The shallow depth makes this a strong choice for new divers, refresher dives, and long second-tank dives, and the site doubles as a top snorkeling stop.
+- The brick barge wreck is the photogenic centerpiece — plan time around the bow where the tarpon and barracuda tend to hold.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Surface intervals exposed to strong Florida sun — bring water, sun protection, and rash guards.
+- Watch for fire coral on the patch reef heads when maneuvering between coral structures.
+- The site is in Hawk Channel with active recreational boat traffic; deploy a dive flag and surface within sight of the dive vessel.
+- Touching ESA-listed corals is a federal offense within the SPA — maintain neutral buoyancy and good fin awareness.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [NOAA FKNMS — Hen and Chickens Brick Wreck](https://floridakeys.noaa.gov/shipwrecks/hen-and-chickens-wreck.html), [NOAA FKNMS — Hen and Chickens SPA](https://floridakeys.noaa.gov/zones/spas/henchickens.html), [Florida-Scubadiving.com — Hens & Chickens Guide](https://www.florida-scubadiving.com/hens-chickens-reef-snorkeling-diving-guide-tips/), [Just Gotta Dive — Islamorada Reefs](https://www.justgottadive.com/dive_resources/travel_articles/coral-reefs-islamorada-amazing-dive-sites-floridas-middle-keys), [Florida Keys Vacation — Hen and Chickens](https://www.florida-keys-vacation.com/Hen-and-Chickens-Reef.html). Last updated 2026-05-17.*

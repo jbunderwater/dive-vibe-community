@@ -13,54 +13,39 @@ addedBy: osm_import
 
 ## El Bajo de Corbeteña
 
-El Bajo de Corbeteña is a pinnacle dive site in Puerto Vallarta, Central America.
+El Bajo de Corbeteña (also known as La Corbeteña or La Piedra) is one of Banderas Bay's most remote and celebrated pelagic dive sites, located approximately 36 nautical miles northwest of Puerto Vallarta in open Pacific water. The site is reserved for experienced divers and accessed by a one-hour (or more) boat journey, offering some of the best pelagic encounters in Mexico's Pacific coast diving.
 
 ## Overview
 
-El Bajo de Corbeteña is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Corbeteña is a deepwater seamount / pinnacle rising from the ocean floor, with walls, caves, and low arches encrusted with barnacles and filter feeders that attract an extraordinary concentration of larger pelagic species. The site is known for crystal-clear water with visibility often exceeding 30 metres (100 feet), particularly in summer and autumn. Giant manta rays are a primary draw from summer through fall, when their activity in the area increases dramatically. The remote location and challenging currents make this a site for Advanced certified divers with at minimum 25 logged dives, or Open Water divers accompanied by a divemaster on a certified guided dive.
+
+## Marine Life
+
+Giant manta rays are the headline attraction, with peak activity during summer and fall. Reef sharks and nurse sharks are regularly encountered — nurse sharks rest in caves and crevices in the wall structure. Large schools of jacks, trevally, and tropical fish circulate the seamount. Sea turtles, sailfish, marlin, and dolphins are reported on the surface and at depth. The walls are covered in barnacle and filter feeder communities supporting diverse reef fish.
+
+## Dive Profile
+
+Depth ranges from approximately 20 to 37 metres (65–120 feet). The dive involves navigating caves, low arches, and steep walls on the seamount structure. Strong currents are possible and conditions can deteriorate rapidly — only once or twice a year may conditions be ideal enough for diving, according to local operators. Visibility is at its best in summer months.
+
+## Safety Considerations
+
+Advanced certification is required. Strong and unpredictable currents necessitate drift diving experience. The remote location (36 nautical miles offshore) means rescue response times are extended — dive conservatively. An SMB is mandatory. Currents can vary significantly within a single dive.
+
+## Best Season
+
+Summer and fall for manta ray encounters and peak visibility. Conditions are variable and trips may be cancelled due to weather or sea state.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Banderas Bay, Jalisco, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Mexico Greatest Dive Sites – La Corbeteña](https://mexico.greatestdivesites.com/puerto_vallarta/corbetena), [Visit Puerto Vallarta – La Corbeteña](https://visitpuertovallarta.com/blog/la-corbetena-in-puerto-vallarta). Last updated 2026-05-17.*

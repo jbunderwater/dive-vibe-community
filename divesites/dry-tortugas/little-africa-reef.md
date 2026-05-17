@@ -26,38 +26,26 @@ Little Africa Reef is a large, shallow patch reef off the west shore of Loggerhe
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The DAN Alert Diver and NPS sources record nurse sharks, tarpon, goliath grouper, parrotfish, angelfish, triggerfish, and damselfish throughout the Loggerhead Key reef complex that includes Little Africa. Queen conch are abundant on the sandy areas surrounding the reef structure. The protected status of the national park means fish are notably more approachable and larger than at comparable Florida Keys reefs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Little Africa is a shallow patch reef sitting in approximately 6 metres of water off the west shore of Loggerhead Key. The coral formations viewed from above trace a shape resembling the African continent, the origin of the site's name. The shallow depth and generally sheltered west-shore position make it one of the calmest and most accessible dives in the Dry Tortugas, well suited to beginners and snorkelers. Visibility is consistently excellent in the park's clear Gulf water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat only. The NPS notes that Little Africa is accessible to visitors with their own vessel; it sits off Loggerhead Key, roughly 2–3 miles from Garden Key and Fort Jefferson. Day-trippers arriving on the Yankee Freedom III ferry (which docks at Garden Key) would need a separate boat to reach Loggerhead Key. Private boaters may anchor on sandy bottom clear of coral. No air fills are available in the park — arrive with full tanks.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The site's shallow depth and calm conditions make it an excellent first dive in the Dry Tortugas, or a comfortable second dive to end the day. Snorkelers can enjoy the same coral formations as divers. Arrive with a full tank and plan to spend time hovering above the reef to appreciate the Africa-shaped layout from above before descending into the coral heads.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+While relatively sheltered, the Dry Tortugas are 70 miles from Key West with no onsite emergency support. Use the buddy system, display a dive flag, and carry a surface marker buoy. Watch for fire coral and the occasional jellyfish. The park has no cell service; marine VHF radio is essential for any on-water emergency.
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [NPS Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/). Last updated 2026-05-17.*

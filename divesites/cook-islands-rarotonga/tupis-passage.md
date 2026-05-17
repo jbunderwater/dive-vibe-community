@@ -24,8 +24,8 @@ Coral cover is approximately 10%, and the volcanic reef structure supports a sim
 ## Site Information
 
 - **Location**: Northeast corner, Rarotonga, Cook Islands (100m south of Arbuthnotts)
-- **Entry Type**: Boat dive (8 minutes from Avatui Harbour)
-- **Site Type**: Volcanic reef (ridges and gullies)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 40+ meters

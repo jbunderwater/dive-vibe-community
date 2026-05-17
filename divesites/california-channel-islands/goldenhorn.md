@@ -26,38 +26,30 @@ The Goldenhorn was a German four-masted sailing barque that ran onto the rocks a
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The Goldenhorn was a Scottish-built, four-masted sailing bark, 268 feet (82 m) in length, used for international cargo runs. On the evening of September 12, 1892, the Goldenhorn was bound from Newcastle, New South Wales, Australia to San Pedro, California, carrying coal intended for the Southern Pacific Railroad. Sailing in heavy fog along the southwest coast of Santa Rosa Island, the wind failed, and the current carried the vessel onto offshore rocks before the crew could maneuver clear. The 28 crew escaped in lifeboats, rowing across the channel to reach Santa Barbara safely. Almost a year later, the salvage scow San Pedro removed approximately 65 tons of iron and other wreckage from the site. The remains were still visible for years afterward and are documented by NOAA's Channel Islands National Marine Sanctuary as one of the region's historic wrecks.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At only 4–9 meters depth, the Goldenhorn site is bathed in filtered light and kelp canopy typical of northern Channel Islands reefs. Iron hull sections are thickly encrusted with coralline algae and purple sea urchins, and garibaldi — California's state saltwater fish — patrol the kelp fronds above. Kelp bass, lingcod, and rockfish are common residents of the structural sections. The shallow reef also supports California sea stars, anemones, and the cold-water invertebrates characteristic of nutrient-rich Santa Rosa Island waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 9 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies in 4–9 meters (15–30 ft) of surgy water on the seaward side of Santa Rosa Island's southwest coast, between Sandy Point and South Point. The site is highly broken up after more than 130 years of Pacific exposure. Iron frames and fastenings are the primary identifiable wreck elements, scattered among the rocky reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only, accessible from Santa Barbara or Ventura via liveaboard or larger day-charter vessels. The exposed southwest coast of Santa Rosa Island is accessible only in very calm sea states — surge makes the site undiveable in any significant swell.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+This site can only be dived in the calmest of conditions — check forecasts carefully and be prepared to abort. The shallow depth means excellent natural light for photography in good visibility. Survey the entire reef area rather than focusing only on a single section of wreckage.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The southwest coast of Santa Rosa Island is one of the most exposed positions in the Channel Islands, prone to surge and swell from multiple directions. Dive only on the flattest days. Water temperature requires a minimum 7 mm wetsuit with hood and gloves. The shallow depth amplifies surge effects significantly.
 
 ---
-*Sources: [NPS - Channel Islands Diving and Snorkeling](https://www.nps.gov/chis/planyourvisit/diving.htm), [Scuba Diving Magazine - Guide to Channel Islands National Marine Sanctuary](https://www.scubadiving.com/guide-diving-channel-islands-national-marine-sanctuary), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/), [Dive Guide Channel Islands](https://www.diveguideschannelislands.com/), [Underwater Photography Guide - Channel Islands](https://www.uwphotographyguide.com/channel-islands-diving). Last updated 2026-04-04.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Goldenhorn](https://www.islapedia.com/index.php?title=Goldenhorn), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [OpenDiveSites - Santa Rosa Island](https://opendivesites.org/Santa_Rosa_Island). Last updated 2026-05-17.*

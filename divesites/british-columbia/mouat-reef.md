@@ -26,36 +26,26 @@ Mouat Reef lies in Haro Strait south of Saltspring Island, a heavily tidal chann
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Haro Strait's strong tidal currents feed a rich reef community. Plumose anemones and strawberry anemones colonise exposed rock surfaces throughout the site. Rockfish — including quillback and copper varieties — hold on the structure alongside lingcod. Giant Pacific octopus are reliably found in crevices at depth. Sea stars and sea urchins occupy the rocky substrate. Harbor seals frequent the area, and Haro Strait is one of the primary corridors for southern resident orca pods in the region.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Mouat Reef is a rocky reef in Haro Strait south of Saltspring Island, in the tidal channel between the Canadian Gulf Islands and the San Juan Islands. Maximum depth reaches approximately 18 metres. The strait's currents can be significant; diving at or near slack water is recommended. Visibility in Haro Strait generally ranges 9–18 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Local operators based in Sidney and Victoria service Haro Strait sites; operators include Rowand's Reef Scuba Shop. The southern Gulf Islands are accessible from Sidney Harbour by charter.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Time dives to coincide with slack water in Haro Strait, which experiences both ebb and flood currents between the Gulf Islands and San Juan Islands. Check the Canadian Hydrographic Service tide tables for the specific reference station closest to the site. Deploy an SMB on ascent given boat traffic in the strait.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Haro Strait is an active shipping and whale-watching lane; boat traffic can be frequent, particularly in summer. Deploy a surface marker buoy (SMB) on every ascent. Water temperature is 7–12°C year-round — drysuit or 7 mm wetsuit with hood required. Currents can build quickly; abort dive if current becomes uncomfortable before planned exit.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Diving Coastal British Columbia](https://xray-mag.com/content/diving-coastal-british-columbia), [Rowand's Reef Scuba Shop](https://www.rowandsreef.com/activities-shop/private-divemaster-tour). Last updated 2026-05-17.*

@@ -13,55 +13,39 @@ addedBy: osm_import
 
 ## USS PT-371
 
-USS PT-371 is a historic wreck dive in Halmahera, Asia.
+USS PT-371 is a WWII wreck dive site in the Galela area of North Halmahera, Indonesia.
 
 ## Overview
 
-USS PT-371 is a dive site in Halmahera featuring a historic wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+USS PT-371 was an American patrol torpedo boat lost during World War II. According to US Navy operational records, PT-371 grounded and was destroyed by its own crew to prevent capture at Halmahera on 19 September 1944. PT-371 was one of a group of four Scott-Paine designed PT boats (PT-368 through PT-371) originally built by the Canadian Power Boat Company for the Dutch Navy under Lend-Lease, then re-requisitioned by the US Navy after the fall of the Netherlands. At approximately 15 metres maximum depth, the wreck is relatively shallow and accessible for intermediate-level divers. North Halmahera is associated with WWII PT boat operations in the Pacific, and the site is included in liveaboard itineraries covering the area around Galela Bay.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Galela area, North Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Shallow WWII wrecks in North Halmahera are typically well-encrusted with coral after 80+ years underwater. The wreck structure and surrounding area are expected to host the reef fish community typical of North Halmahera: fusiliers, reef sharks, nudibranchs, and encrusting invertebrates. The broader Morotai/North Halmahera area is also known for occasional manta ray sightings.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 15 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+With a maximum depth of 15 metres, PT-371 is a relatively shallow wreck dive accessible to divers of intermediate experience. The patrol torpedo boat was a small, fast vessel (approximately 24 metres in length) — the wreck structure provides a compact but historically significant dive. Visibility in the Galela area is generally 15–25 metres. Currents are typically moderate.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Galela or via liveaboard on North Halmahera itineraries. Liveaboard operators including Malaillo Liveaboard list North Halmahera/Morotai WWII wrecks as standard itinerary inclusions. The nearest airport is Galela Airport (GLX) with connections to Ternate.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The 15-metre maximum depth allows extended bottom time for wreck exploration. Combine this dive with other WWII wreck and reef sites in the Galela/North Halmahera area for a historically themed multi-site itinerary. A torch is useful for illuminating the wreck structure. Early-morning dives typically offer the best visibility.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+North Halmahera is remote. The nearest recompression chamber is in Manado. The wreck is shallow and the site generally benign, but standard wreck diving caution applies — maintain external diving positions and do not enter enclosed spaces without proper wreck penetration training and equipment. Water temperature is 27–30°C. SMB should be carried on all boat dives in this area.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Pacific Wrecks – Halmahera Island](https://pacificwrecks.com/location/indonesia_halmahera.html), [US Navy Motor Torpedo Boat Operational Losses](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u-s-navy-motor-torpedo-boat-operational-losses.html), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-05-17.*

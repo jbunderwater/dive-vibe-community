@@ -24,10 +24,10 @@ The Hellcat is fully intact at just 11 metres depth. The cockpit is open, and th
 ## Site Information
 
 - **Location**: Near Queue Island, south of Kolombangara, New Georgia group
-- **Entry Type**: Boat dive from Gizo
-- **Site Type**: Wreck dive (WWII fighter aircraft)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 metres
+- **Maximum Depth**: 11 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild

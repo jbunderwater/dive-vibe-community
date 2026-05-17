@@ -26,38 +26,27 @@ This submerged boat wreck in Puget Sound sits at a shallow 12 meters, making it 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Water Temperature**: 8–12°C year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Shallow wrecks in the Mukilteo/Everett area of Puget Sound attract typical cold-water Pacific Northwest reef species. Lingcod and cabezon are common structure-holders, using the hull as a territorial base, while copper and quillback rockfish shelter among encrusted surfaces. Giant Pacific octopus (GPO) frequent wreck sites for the den space offered by hull cavities. Plumose anemones — both white and orange — colonize any hard substrate, and nudibranchs are visible on most dives. The short distance from Edmonds Underwater Park means the surrounding area holds strong populations of all these species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Maximum depth is 12 meters, making this a straightforward single-cylinder dive with generous bottom time. The shallow profile suits divers building wreck experience in cold water. Drysuit is essential — Puget Sound water temperatures run 8–12°C year-round. Visibility typically 3–12 metres depending on season; autumn and winter tend to offer the clearest water as plankton blooms subside.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access required. There is no shore entry at this location. The wreck lies in open water in the Possession Sound / northern Puget Sound area near Mukilteo.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Dive within 1–2 hours of slack water to avoid tidal current. Carry a dive flag and surface marker buoy (SMB) — boat traffic is active in this part of Puget Sound. A torch is useful for inspecting hull cavities where octopus and cabezon hide.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Drysuit mandatory — hypothermia risk is real at 8–12°C. Tidal exchange can be vigorous in this part of Puget Sound; plan around slack water. Visibility can drop to 3 metres or less in spring and early summer. Boat traffic requires a deployed dive flag.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [Seattle Met - Mukilteo Underwater Park](https://www.seattlemet.com/travel-and-outdoors/2023/05/scuba-diving-seattle-underwater-park-mukilteo), [8diving.com - Mukilteo T Dock](https://8diving.com/blog/local-scuba-diving-sites/mukilteo-t-dock). Site identification uncertain — OSM entry is a generic "Boat" node in the Mukilteo/Everett area with no named vessel on record. Last updated 2026-05-17.*

@@ -26,36 +26,26 @@ White Lady, also known as Repulse Rock, is a reef and rock dive site in the Haro
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+White Lady / Repulse Rock is noted for regular harbour seal encounters — seals here are described as playful. The rocky structure supports rockfish, lingcod, giant Pacific octopus, nudibranchs, sea stars, and plumose anemones typical of Saanich Inlet and Haro Strait channel diving. Cloud sponges have been documented at the site, though downrigger damage to sponge colonies has been reported by local divers. Current-swept rock faces show encrusting invertebrate growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive at 18 m maximum on a submerged rock in the Haro Strait/Saanich Inlet transition zone. A mooring buoy is in place for boat tie-off. Tidal currents through Haro Strait can be moderate to strong; the site is best dived at slack. Visibility in the area averages 6–9 m but can reach 18–21 m in cleaner water conditions.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only, mooring buoy available. Charter operators depart from Sidney (Tulista Park Boat Ramp) and the Saanich Peninsula. The site is included on regular charter itineraries alongside other Saanich Inlet and southern Gulf Islands sites.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Cloud sponges at this site are at risk from boat anchor downriggers — do not touch or fin near any sponge colonies, and ensure the boat is tied to the mooring buoy rather than anchoring. Visit at slack water for the calmest conditions. Combined with other Saanich Inlet sites on a day charter, this is a productive outing for rockfish and seal encounters.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Haro Strait currents can be significant at peak tidal flow. Dive at slack and monitor conditions. Cold water (8–12 °C); drysuit required. Cloud sponge fragility is both an ecological and a legal concern in BC — no-touch protocol applies.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Saanich Inlet Sites](https://scubaboard.com/community/threads/saanich-inlet-sites-w-buoys.223982/), [DIVE BC — Saanich Inlet](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Charters](https://www.rockfishdivers.com/charters-805995-404646-553944.html). Last updated 2026-05-17.*

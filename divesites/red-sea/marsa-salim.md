@@ -13,53 +13,15 @@ addedBy: osm_import
 
 ## Marsa Salim
 
-Marsa Salim is a  dive site in Red Sea, Middle East.
+Marsa Salim is a bay reef dive site in the far southern Egyptian Red Sea at approximately 23.91°N, 35.49°E, in the Hamata / Fury Shoals area north of Ras Banas.
 
 ## Overview
 
-Marsa Salim is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates of Marsa Salim place it in the deep southern Red Sea between the Fury Shoals reef chain and the Egyptian mainland coast, in the Wadi el-Gemal National Park zone. "Marsa" means bay in Arabic, indicating a sheltered coastal inlet. This section of the Egyptian Red Sea is lightly visited compared to the north, and the Fury Shoals reefs — accessed either by day boat from Hamata or by liveaboard — are among the most pristine in Egypt.
 
-## Site Information
+No site-specific sources for Marsa Salim were found under this name in dive guides or operator databases, though several "marsa" sites (protected bays) in this general area are known for seagrass, turtles, and shore-accessible reef structures typical of the Hamata coastline.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*No site-specific sources were found for this entry.*
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OpenStreetMap-recorded position data. No site-specific dive sources were located for Marsa Salim under this name. Last updated 2026-05-17.*

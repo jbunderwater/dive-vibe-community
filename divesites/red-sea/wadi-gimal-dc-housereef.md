@@ -11,55 +11,41 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wadi Gimal DC Housereef
+## Wadi Gimal DC Housereef — Shams Alam Beach Resort
 
-Wadi Gimal DC Housereef is a  dive site in Red Sea, Middle East.
+The Wadi Gimal DC Housereef is the house reef directly in front of the Shams Alam Beach Resort and its associated Wadi Gimal Dive Centre — the only diving resort with direct access to the Wadi Gimal National Park. The reef runs along the beach in three sandy bays that provide easy entry and exit, and serves as the base for exploring the 29 dive sites accessible within the national park.
 
 ## Overview
 
-Wadi Gimal DC Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Shams Alam Beach Resort is situated approximately 80 km south of Marsa Alam in the southern Red Sea, within the boundaries of the Wadi Gimal–Hamata Protected Area, one of Egypt's most ecologically significant coastal reserves. The dive centre has operated since 1999 and offers the closest direct access to the park's reef systems.
 
-## Site Information
+The house reef itself is sheltered across three sandy bays, each offering easy shore entry into clear water. The reef slopes gently before dropping to around 25 metres, with patches of sand alternating with coral heads supporting a diverse assemblage of reef fish. Blue-spotted stingrays are regular residents on the sand, and the reef hosts good numbers of butterflyfish, angelfish, parrotfish, groupers, and anthias. The national park's protected status means the reef is generally in better condition than comparable unprotected reefs to the north.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Beyond the house reef, 29 offshore dive sites are accessible within 5–45 minutes from the dive centre, including deeper walls and more remote reef systems that see very few divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–25 m (shelved in three bays with easy entry)
+- **Entry**: Shore dive — direct beach entry in each of the three bays
+- **Currents**: Generally mild — sheltered bay configuration
+- **Visibility**: 15–25 m
+- **Training**: Suitable from beginner level through technical diving
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Blue-spotted stingrays (resident), butterflyfish, angelfish, parrotfish, groupers, anthias, chromis, moray eels, and assorted reef invertebrates. The protected park status keeps fish populations robust.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good ambient light in the shallows makes this a productive site for beginner photographers. Blue-spotted rays on the sand make classic subjects. The coral heads at 15–25 m are well-lit and colourful.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Shams Alam Beach Resort, Wadi Gimal National Park, southern Red Sea (~80 km south of Marsa Alam)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Sportif Dive — Wadi Gimal](https://www.sportifdive.co.uk/divesites/34/31/Red_Sea_and_Egypt/Marsa_Alam/Wadi_Gimal_-_Marsa_Alam_Diving), [PADI — Wadi Gimal Dive Center](https://www.padi.com/dive-center/egypt/wadi-gimal/), [TripAdvisor — Wadi Gimal Diving Center reviews](https://www.tripadvisor.com/Attraction_Review-g311425-d8307939-Reviews-Wadi_Gimal_Diving_Center-Marsa_Alam_Red_Sea_and_Sinai.html). Last updated 2026-05-17.*

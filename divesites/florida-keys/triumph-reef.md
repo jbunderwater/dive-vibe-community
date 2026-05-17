@@ -13,51 +13,27 @@ addedBy: osm_import
 
 ## Triumph Reef
 
-Triumph Reef is a reef dive site in Florida Keys, North America.
+Triumph Reef is a reef dive site in the Florida Keys.
 
 ## Overview
 
-Triumph Reef is a lesser-documented coral reef site in the Upper Keys near Key Largo. With shallow depths and beginner-friendly access, this site provides opportunities to explore coral structures and reef fish communities outside the heavily visited major reef sites. Limited public research documentation exists for this site.
+Triumph Reef is a mapped reef feature at roughly 25.47°N, 80.11°W, at the northern end of the Florida Keys reef tract near Biscayne National Park. It is recorded in OpenStreetMap as a scuba diving site, but no site-specific dive operator listings, trip reports, or other public documentation could be located for Triumph Reef specifically. Anything stated below is limited to what the underlying data records — site-specific marine life, dive profile, currents, visibility, and photography conditions are not documented in the sources reviewed.
 
 ## Site Information
 
-- **Location**: Florida Keys, North America
+- **Location**: Upper Keys / Biscayne National Park area, Florida
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## What Is Not Documented
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+No public source reviewed describes: this site's marine life, typical depth profile, currents, visibility, seasonality, photography conditions, or which operators visit it. Divers interested in Triumph Reef should contact Key Largo or Homestead-area operators directly for first-hand information, as the site sits within or adjacent to Biscayne National Park waters.
 
-## Dive Profile
+## General Safety
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 7 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-7 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions and any park regulations with the boat crew before entering the water.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*No site-specific dive sources were located. Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-17.*

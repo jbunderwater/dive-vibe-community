@@ -3,63 +3,47 @@ name: Zabargad South
 lat: 23.6040396
 lng: 36.2129455
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Zabargad South
+## Zabargad South — Turtle Bay
 
-Zabargad South is a  dive site in Red Sea, Middle East.
+The southern shore of Zabargad Island (St. John's Island) hosts the most sheltered and commonly dived area of this remote Egyptian marine park. Known as Turtle Bay, the site takes its name from the green turtles that return each August to nest on the island's beaches. The protected bay provides calm conditions that contrast with the exposed northern and western walls.
 
 ## Overview
 
-Zabargad South is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Zabargad Island sits approximately 70 km offshore in Egypt's deep southern Red Sea, accessible only by liveaboard on "South" or "Deep South" itineraries from Port Ghalib or Marsa Alam. The southern fringing reef forms a wall that drops to 10–15 metres, then meets a sandy coral slope descending to approximately 35 metres before falling away into the abyss. The reef face is densely covered in hard and soft corals, broken by recesses, crevices, and small canyons.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Turtle Bay is notable for the resident hawksbill and green turtles that graze on soft corals along the reef. Green turtles nest on the beach in August, with the same individuals returning year after year. The sandy slope bottom supports crocodilefish, blue-spotted stingrays, octopus, and cuttlefish. Pufferfish and sweetlips shelter in coral patches. Schools of barracuda and trevally sweep the reef edge. Oceanic whitetip sharks, grey reef sharks, and hammerhead sharks are seen in the blue water, particularly on the reef's more exposed edges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–35 m (wall at 10–15 m; sandy slope to ~35 m; deep drop-off beyond)
+- **Entry**: Boat dive (liveaboard only)
+- **Currents**: Sheltered bay; minimal to gentle currents — best diving on the island for less experienced divers
+- **Visibility**: 15–30 m
+- **Best season**: Year-round; August for turtle nesting activity on the beach
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Hawksbill and green turtles (resident), oceanic whitetip sharks, grey reef sharks, hammerhead sharks, barracuda, trevally, crocodilefish, blue-spotted stingrays, cuttlefish, octopus, pufferfish, sweetlips, anthias, and diverse hard and soft coral formations.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtles, which are often unafraid of divers in remote areas, are the primary photographic subject. The coral-topped reef wall with ambient light in the 5–15 m range provides excellent natural light photography. Macro subjects include cuttlefish and crocodilefish on the sandy slope.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Southern shore (Turtle Bay), Zabargad Island, deep southern Red Sea (~70 km offshore)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 metres (beyond this: vertical drop-off)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Zabargad Island](https://www.redsea-diving.com/zabargad-island/), [No Troubles Just Bubbles — Zabargad Island](https://www.notroublesjustbubbles.com/diving-destinations/egypt/zabargad-island), [Scuba Diving Earth — Zabargad](https://www.scubadivingearth.com/blogs/blog/st-johns-island-jazirat-zabargad-diving-egypt-red-sea). Last updated 2026-05-17.*

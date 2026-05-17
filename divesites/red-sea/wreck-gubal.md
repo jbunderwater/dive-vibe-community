@@ -3,63 +3,55 @@ name: Wreck Gubal
 lat: 27.650871
 lng: 33.770943
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 14
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Gubal
+## Wreck Gubal — Bluff Point Barge, Gubal Island
 
-Wreck Gubal is a  dive site in Red Sea, Middle East.
+The Wreck Gubal is most likely the barge at Bluff Point, located on the eastern side of Gubal Island in the Strait of Gubal. This steel-hulled barge of approximately 35 metres in length lies in 14 metres of water and is one of the most popular night dive sites in the northern Red Sea for liveaboard boats.
 
 ## Overview
 
-Wreck Gubal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The barge's origins remain uncertain. Local accounts variously suggest it was sunk during the Arab-Israeli War of 1973, lost while being towed, or represents the remains of a former dive charter vessel. No authoritative source has confirmed its identity. The vessel has deteriorated significantly — there is little superstructure remaining, and the collapsed hull sides expose an interior floor covered with fine sand.
 
-## Site Information
+What the site lacks in wreck structure it makes up for in marine life density, particularly after dark. The Bluff Point barge is a renowned night dive: the wreck and its surrounding sand play host to moray eels, lionfish, scorpionfish, crocodilefish, octopuses, and lobsters emerging from crevices, while cuttlefish hunt over the reef. Daytime dives bring dolphins and turtles in addition to the resident wreck fauna. Position: approximately 27°40′07″N, 33°48′32″E on the eastern side of Gubal Island — coordinates differ slightly from the OSM entry, consistent with database imprecision for this area.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Identity**: Unknown; possibly lost in tow, wartime casualty, or former dive boat — no confirmed source
+- **Type**: Steel barge, approximately 35 m × 6 m
+- **Depth**: 14 m
+- **Location**: Bluff Point, eastern Gubal Island, Strait of Gubal (27°40′07″N, 33°48′32″E)
+- **Condition**: Largely collapsed; no standing superstructure
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 14 m maximum
+- **Entry**: Boat only — Gubal Island is uninhabited and remote
+- **Currents**: Mild occasional currents; check conditions
+- **Night dive**: Excellent; one of the most popular liveaboard night dives in the Gubal area
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Night: moray eels, lionfish, scorpionfish, crocodilefish, octopuses, lobsters, cuttlefish, nudibranchs, shrimp.
+Day: dolphins (occasional), sea turtles, moray eels, lionfish, scorpionfish, groupers, and reef fish in the surrounding area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Night photography is the signature experience here — the wreck's sand floor is illuminated by torch light to reveal macro life that is invisible during the day. Lionfish and cuttlefish make excellent subjects.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Bluff Point, eastern Gubal Island, Strait of Gubal
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 14 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [The Red Sea Wreck Project — Barge at Bluff Point](https://www.redseawreckproject.com/2013/08/18/barge-at-bluff-point/), [Bluff Point Wreck — Egypt Liveaboard](https://www.egypt-liveaboard.com/dive-sites/bluff-point-wreck/), [ScubaDiving.place — Gubal Barge/Bluff Point](https://scubadiving.place/divesite/gubal-barge-wreck-bluff-point-small-gubal-island). Last updated 2026-05-17.*

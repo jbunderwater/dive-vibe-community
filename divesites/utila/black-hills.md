@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Black Hills
 
-Black Hills is a seamount dive site in Utila, Caribbean.
+Black Hills is a seamount rising from deep water off the north side of Utila, considered one of the island's must-dive sites for encounters with large pelagic species.
 
 ## Overview
 
-Black Hills is a dive site in Utila offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Black Hills is widely regarded as one of the most loved dive sites in Utila. The seamount top sits at around 35 ft (10 m) and slopes down to 130 ft (40 m) and beyond, making a full circuit at 60 ft a roughly 15-minute swim. The site is located offshore and typically has current running across it, which drives the exceptional fish density and diversity that define the dive. Healthy, colorful corals carpet the slopes, and the remote location keeps reef quality high. Current conditions can be "a bit spicy," so the site is rated Intermediate and requires a boat dive with a dive operator familiar with the site.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Black Hills reliably attracts large pelagic visitors drawn to the currents sweeping the seamount. Recorded species include barracuda, Atlantic spadefish, horse-eye jacks, king mackerel, creole wrasse, green moray eels, and hawksbill turtles. Eagle rays and manta rays pass through, and the site sits within the whale shark corridor that makes Utila famous — encounters are possible, particularly during the March–May and August–October peak seasons documented by the Whale Shark and Oceanic Research Centre (WSORC).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Top of seamount**: ~35 ft (10 m)
+- **Working depth**: 40–60 ft (12–18 m)
+- **Maximum depth**: 130+ ft (40+ m)
+- **Bottom time**: A circuit of the summit at 60 ft takes approximately 15 minutes
+- **Current**: Present and variable — enhances fish life but requires good buoyancy control
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. Operators typically moor or drift the site depending on current strength.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Dive early — north side sites including Black Hills are best accessed during morning hours when conditions are calmer.
+- Dive only when conditions allow; surface current can make this site unsuitable on rough days.
+- Bring a surface marker buoy (SMB) for drift exits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The combination of pelagic passes and colorful coral slopes makes this an excellent wide-angle site. Best shots come at 40–60 ft where the reef meets the blue water backdrop. Good natural light for most of the day when current keeps visibility high.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide). Last updated 2026-05-17.*

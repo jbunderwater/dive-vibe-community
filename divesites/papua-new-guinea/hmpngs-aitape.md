@@ -23,9 +23,9 @@ HMPNGS Aitape is a former Royal Australian Navy Attack Class patrol boat, 32.6 m
 
 - **Location**: Near Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (scuttled patrol boat)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (stern with propellers at 27 meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-15 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round

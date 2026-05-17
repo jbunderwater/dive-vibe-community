@@ -26,38 +26,34 @@ The G.B. Church was a 175-foot freighter deliberately scuttled on August 11, 199
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The G.B. Church was a steel-hulled coastal freighter 53 meters (175 feet) in length, originally built in 1943 under the name Cerium and designed as a munitions carrier during the Second World War. The Artificial Reef Society of BC (ARSBC) acquired the vessel for its inaugural artificial reef project — a process that began in 1989 and required extensive decontamination, including purging of all fuel and oil systems, removal of hazardous materials, and cutting of strategically placed diver access points throughout the hull. The ship was deliberately scuttled on 11 August 1991 within Princess Margaret Marine Park off the northeast shore of Portland Island, near Sidney, on a flat sandy bottom chosen for its proximity to local dive operators and its economic benefit to the region. The G.B. Church was the first of eight vessels that ARSBC would sink over the following decades; it served as a proving ground for the more complex naval ship projects that followed. National Geographic featured the wreck in a documentary titled "Search for the Giant Octopus."
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Giant Pacific octopus (the subject of the National Geographic documentary) are regularly found under the hull on the sandy bottom near the bow. Wolf eels occupy the interior and crevices of the hull. Rockfish shelter throughout the wreck structure. In spring, lingcod and cabezon are often observed guarding egg masses on the deck plating. Nudibranchs and sculpins inhabit the encrusting growth on the hull exterior. The hull is now heavily colonized by encrusting tubeworms, plumose anemones, and other invertebrates, with the wreck functioning as a self-contained artificial reef habitat.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The G.B. Church sits upright on a flat sandy bottom with the main deck at approximately 15 meters and the maximum depth to the bottom at approximately 26–27 meters. The ship is 53 meters long, making a complete circumnavigation achievable in a single dive with efficient air management. Diver access holes cut throughout the hull allow penetration — the ARSBC designed the access points so that natural light is always visible, making this a friendly wreck for divers new to penetration diving. Visibility in the Gulf Islands is typically 9–20 meters, best in fall through winter.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Sidney is the primary departure port, approximately 5 km from Portland Island. Charter operators in Sidney (including Esquimalt Ecotours and Emerald Ocean Charters) run regular trips to the site. The wreck lies within Princess Margaret Marine Park, a protected area within Gulf Islands National Park Reserve.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Spring is the best season to find lingcod or cabezon with egg masses on the decks — a remarkable behavioural observation in relatively shallow, clear water. Carry a torch for wreck interior exploration. The upright position and always-visible-light access points make this a good introduction to wreck penetration with appropriate training. Plan two dives: one circumnavigation and one interior exploration.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Water temperature 8–12°C; drysuit required. Wreck penetration carries entanglement and disorientation risk — use a penetration line and carry redundant lights. The sandy bottom can be disturbed by fin kicks inside the hull, reducing visibility rapidly. The site sits in Princess Margaret Marine Park; collecting is prohibited.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+This wreck is consistently ranked among BC's best for underwater photography. Wide-angle shots along the full hull length show the scale of the structure. The giant Pacific octopus under the bow is the marquee subject. Spring lingcod with egg masses provide behavioral wide-angle opportunities. The encrusted hull exterior and anemone-covered superstructure suit ambient-light shooting in the Gulf Islands' clear water.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ARSBC — G.B. Church](https://artificialreefsocietybc.ca/g-b-church.html), [Wikipedia — Artificial Reef Society of BC](https://en.wikipedia.org/wiki/Artificial_Reef_Society_of_British_Columbia), [ScubaBC — Wreck Diving on Vancouver Island](https://www.scubabc.ca/wreck-diving-on-vancouver-island/), [X-Ray Mag — BC's Wreck Trek](https://xray-mag.com/content/british-columbias-wreck-trek). Last updated 2026-05-17.*

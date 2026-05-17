@@ -3,8 +3,8 @@ name: Gotha Abu Diab
 lat: 24.0424469
 lng: 35.6365371
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 40
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Gotha Abu Diab
 
-Gotha Abu Diab is a  dive site in Red Sea, Middle East.
+Gotha Abu Diab (Abu Diab) is a submerged reef in the Fury Shoals reef system, located approximately 4 km north of the Ras Banas peninsula in the southern Egyptian Red Sea. The site is accessible from Hamata and Lahami Bay by RIB, and also visited by liveaboards on passage to the Fury Shoals.
 
 ## Overview
 
-Gotha Abu Diab is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+A roughly oval reef approximately 250 metres long rises from a depth of around 20 metres. The site offers versatile reef diving with highlights at the cave systems to the south and the coral garden along the western wall. Conditions may allow drift diving when current is running, and the site is also suitable for night dives in calm weather.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Reef fish communities: groupers, wrasse, snappers
+- Sharks and pelagic species attracted to the exposed reef position
+- Rich hard and soft coral cover on the western coral garden
+- Southern cave systems shelter lobsters, moray eels, and smaller reef species
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive; accessible from Hamata or Lahami Bay (approximately 45 minutes) or by liveaboard. Average depth 20 m, maximum 40 m. Visibility 10–30 m. Moderate currents (1–2 knots) possible. The southern cave system can be dived day or night.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- The western wall's coral garden is the most visually rewarding section
+- Drift diving is best when current is running — follow guide's direction
+- Night dives reveal cave inhabitants at their most active
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Fury Shoals / Hamata area, southern Egyptian Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 40 meters
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive – Gotha Abu Diab](https://www.wannadive.net/spot/Africa/Egypt/Hamata/Gotha_Abu_Diab/), [redsea-diving.com – Abu Diab](https://www.redsea-diving.com/abu-diab/), [Egypt Liveaboard – Abu Diab Reef](https://www.egypt-liveaboard.com/dive-sites/abu-diab-reef/). Last updated 2026-05-17.*

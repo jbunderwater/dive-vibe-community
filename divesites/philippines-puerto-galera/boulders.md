@@ -23,7 +23,7 @@ Boulders sits on the seaward slope south of Puerto Galera's Lighthouse Headland,
 
 - **Location**: South of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (boulder slope)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters

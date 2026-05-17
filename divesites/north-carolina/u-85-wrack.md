@@ -26,38 +26,36 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The U-85's exposed pressure hull and open torpedo bays draw sand tiger sharks that patrol the length of the submarine in the strong Outer Banks current. Amberjack and Atlantic spadefish school above the conning tower, while black sea bass and moray eels inhabit the lower sections of the hull. The offshore location in the mixing zone of the Gulf Stream means visibility and species diversity vary considerably with season and current direction.
+The exposed torpedo tubes and open hull sections provide structure that attracts sand tiger sharks, which are regularly reported at the site. Amberjack and Atlantic spadefish school over the conning tower. The dynamic Oregon Inlet–area environment brings variable species diversity with shifting currents; visibility and water temperature fluctuate considerably according to the NOAA Monitor Sanctuary site report.
+
+## Wreck History
+
+U-85 was a German Type VIIB submarine, 66.5 m long. She was the first enemy submarine sunk by a US Navy warship in World War II.
+
+On the night of 13–14 April 1942, USS Roper (DD-147), a Wickes-class destroyer, detected U-85 on radar at a range of 2,700 yards near Bodie Island Light. U-85 attempted to flee on the surface and fired a stern torpedo that narrowly missed Roper. The destroyer closed to 700 yards, raked U-85 with machine gun fire, and scored a direct hit with her 3-inch/50 caliber gun aft of the conning tower. U-85 began sinking; USS Roper then dropped 11 depth charges. Multiple crew members were observed in the water but no rescue was attempted until daylight; by then all 46 crew had perished. 29 bodies were recovered and buried at Hampton National Cemetery in Virginia.
+
+The wreck rests on its starboard side with an approximately 80-degree list, 14 miles east of Oregon Inlet, in approximately 90 ft (27 m) of water. The bow's outer hull is absent, exposing the pressure hull and four forward torpedo tubes — some of which still contain visible torpedoes. Battle damage from Roper's guns is visible aft of the conning tower.
+
+**Note:** A recovered Enigma machine from this wreck is displayed at the Graveyard of the Atlantic Museum in Hatteras. The sub is a war grave; interior access is prohibited.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 34 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck sits at approximately 90 ft (27 m), resting on its starboard side with an 80-degree list. The exposed torpedo tubes at the bow and the conning tower are the primary dive features. The site lies 14 miles east of Oregon Inlet and is subject to strong, unpredictable currents typical of the Outer Banks. Water visibility and temperature fluctuate considerably. NOAA Monitor Sanctuary notes the environmental conditions are dynamic.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter access from Oregon Inlet or nearby Outer Banks marinas. Dive Hatteras (based in Hatteras, NC) serves the Outer Banks U-boat sites. The site is 14 miles offshore from Oregon Inlet. No shore access is possible.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+U-85 is an advanced dive given the strong, unpredictable currents common near Oregon Inlet. Always dive with a charter operator experienced in Outer Banks conditions. The exposed torpedo tubes with visible torpedoes are a dramatic feature not found on most recreational wrecks — approach carefully without disturbing the sediment. Confirm current conditions with the operator before any dive.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Currents near Oregon Inlet are among the strongest in North Carolina coastal waters — always use a surface marker buoy (SMB) and follow charter operator guidance. This is a war grave; artifact removal and penetration are prohibited. Live torpedoes may still be present in the tubes — do not approach or disturb. Depth of 90 ft is manageable but currents make this an advanced dive. Water temperature varies dramatically with current direction; be prepared for thermoclines.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Sources: [NOAA Monitor Sanctuary — U-85](https://monitor.noaa.gov/shipwrecks/u-85.html), [Wikipedia — German submarine U-85 (1941)](https://en.wikipedia.org/wiki/German_submarine_U-85_(1941)), [Scuba Diver Life — Preserving U-85](https://scubadiverlife.com/preserving-americas-underwater-battlefield-u-85/), [Warfare History Network — Sinking of U-85](https://warfarehistorynetwork.com/article/the-sinking-of-unterseeboot-85/). Last updated 2026-05-17.*

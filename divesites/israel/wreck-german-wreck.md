@@ -3,7 +3,7 @@ name: Wreck German Wreck
 lat: 32.631667
 lng: 34.916389
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ The Israeli Mediterranean coast has seen shipwrecks from WWI, WWII, and the post
 - **Location**: South of Haifa, central Israeli Mediterranean (Caesarea area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

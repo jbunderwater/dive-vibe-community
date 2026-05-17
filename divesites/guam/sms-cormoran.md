@@ -29,7 +29,7 @@ The wreck's claim to global diving fame came decades later when the Japanese tra
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters (propeller to forward funnel)
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-15 meters (Apra Harbor)
 - **Water Temperature**: 28-29 degrees C
 - **Current**: Generally mild inside the harbor

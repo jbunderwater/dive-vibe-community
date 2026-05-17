@@ -13,53 +13,25 @@ addedBy: osm_import
 
 ## Sha ab Umm Usk
 
-Sha ab Umm Usk is a  dive site in Red Sea, Middle East.
+Sha'ab Umm Usk is a horseshoe-shaped reef in the southern Strait of Gubal, between Gubal Island and Shadwan Island in the northern Egyptian Red Sea.
 
 ## Overview
 
-Sha ab Umm Usk is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sha'ab Umm Usk forms a semi-circular lagoon with the open ends pointing south. The western entrance to the lagoon is partly blocked by a large egg-shaped patch reef, creating a sheltered interior that contrasts with the more exposed outer walls. The reef features a diverse mix of terrain: large coral heads (bommies), steep reef walls, and the distinctive mushroom-shaped pinnacles characteristic of this section of the Red Sea. Acropora table corals feature prominently in the shallower sections.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The dive is primarily conducted on the western side of the reef, with the northern and southwestern sections also used. The site is noted as ideal for night diving due to its sheltered lagoon and the variety of nocturnal species active there. It also offers confined-water-like conditions inside the lagoon useful for training dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~18 m
+- **Maximum depth**: 40 m
+- **Visibility**: Good (10–30 m)
+- **Current**: Variable; can be significant on outer walls
+- **Entry**: Boat (advanced divers recommended for deeper sections)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The reef supports the typical Gubal Strait community. Night dives reveal lobsters, moray eels, cuttlefish, and various invertebrates. Dolphins have been observed in the area. The sheltered lagoon provides calm conditions for observing smaller reef species.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaDiverz — Sha'ab Umm Usk](https://scubadiverz.org/diving-locations.php?territory=africa&country=egypt&region=strait-of-gubal&diving-location=sha'ab-umm-usk&id=111), [Wannadive — Sha'ab Umm Usk](https://www.wannadive.net/spot/Africa/Egypt/Strait_of_Gubal/Sha_ab_Umm_Usk/index.html), [PADI — Umm Usk](https://www.padi.com/dive-site/egypt/umm-usk/). Last updated 2026-05-17.*

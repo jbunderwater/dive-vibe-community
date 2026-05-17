@@ -17,49 +17,19 @@ Erg Marsa Alam is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Erg Marsa Alam is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Erg Marsa Alam is a dive site at coordinates 25.069°N, 34.943°E, placing it approximately 10 km east of Marsa Alam in the open Red Sea — consistent with an offshore reef or erg pinnacle south of Elphinstone Reef and east of the town. The name uses the Arabic term "erg" (high pinnacle) combined with "Marsa Alam," indicating this is likely a coral pinnacle or erg formation in the reef complex offshore from the town. The ergs around Marsa Alam are characterised by towering coral pinnacles on a sandy bottom, colonised by hard and soft corals and hosting a full complement of Red Sea reef species. The site does not appear by this exact name in major English-language dive databases, suggesting it may be a locally designated dive spot.
+
+*No site-specific dive sources were found under this exact name. The following reflects the general character of the Sha'ab Marsa Alam / erg reef system at this location.*
+
+The Sha'ab Marsa Alam reef complex features a horseshoe-shaped offshore reef with numerous ergs on the eastern side rising from 5 m above the seabed, reaching up to 3 m below surface. The pillars are covered in soft corals. Marine life includes Napoleon wrasse, parrotfish, turtles, reef sharks, and schooling fish. The site is 10 minutes by boat from Marsa Alam marina and suitable for drift diving when current is running.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore reef area, ~10 km east of Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources located under this exact name. Description reflects general characteristics of the Marsa Alam offshore erg reef system. Last updated 2026-05-17.*

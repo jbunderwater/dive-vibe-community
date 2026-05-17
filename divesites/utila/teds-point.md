@@ -13,55 +13,38 @@ addedBy: osm_import
 
 ## Ted's Point
 
-Ted's Point is a wall dive site in Utila, Caribbean.
+Ted's Point is a south side wall dive featuring several sand channels, a gently sloping sandy bottom, and a notable bonus attraction — a sunken sailboat resting at 60 ft (18 m) on the sand at the base of the reef.
 
 ## Overview
 
-Ted's Point is a dive site in Utila featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Ted's Point begins in very shallow water, with the reef top sitting at just 10–15 ft (3–5 m) — making for bright, calm entry conditions. The wall drops to around 40 ft (12 m) where it meets a gently sloping sandy bottom, and the sailboat wreck sits at 60 ft (18 m) on this sand plateau. Several sand channels cut through the reef, providing corridors between coral sections and the sandy bottom that add navigational variety to the dive. The site is accessible by Intermediate divers, with the wall depth and optional sailboat exploration offering enough interest for those with more experience.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Ted's Point supports a healthy mix of south side Caribbean species. Documented sightings include groupers, blue tang, and green moray eels on and around the reef structure. Spotted eagle rays are reported at the site, patrolling the wall and sand. The sand channels and gently sloping bottom provide habitat for flatfish and small benthic species typical of the south side, while the sailboat wreck has attracted encrusting corals and resident fish in the years since sinking.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Reef top**: 10–15 ft (3–5 m) — very shallow, excellent for safety stops
+- **Wall**: drops to ~40 ft (12 m)
+- **Sandy bottom**: gently sloping below the wall
+- **Sailboat wreck**: ~60 ft (18 m) on sand
+- **Current**: generally mild on the south side
+- **Visibility**: typically 15–25 m
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. The south side location provides reliable access even when north side conditions are rough.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- The sunken sailboat at 60 ft is a secondary highlight — plan dive profile to include a visit without exceeding no-decompression limits.
+- The very shallow reef top at 10–15 ft makes an excellent extended safety stop.
+- Sand channels are worth exploring slowly for flatfish and invertebrates.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The combination of a wall dive, coral-covered reef top, and a small sailboat wreck gives photographers varied subjects. Eagle ray encounters on the wall face are a highlight. The sailboat wreck can be photographed in a single frame due to its modest size.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites). Last updated 2026-05-17.*

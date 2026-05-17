@@ -4,7 +4,7 @@ lat: 28.486668
 lng: 34.516587
 difficulty: Intermediate
 maxDepth: 30
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 663869868
@@ -13,54 +13,25 @@ addedBy: osm_import
 
 ## Sunsplash House Reef
 
-Sunsplash House Reef is a reef dive site in Red Sea, Middle East.
+Sunsplash House Reef is the fringing reef directly in front of Sunsplash Divers in Dahab, Sinai, providing immediate shore access to the Red Sea reef system and serving as a training ground and introductory dive between explorations of Dahab's more famous sites.
 
 ## Overview
 
-Sunsplash House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sunsplash Divers is a well-established dive centre based in Dahab with a house reef immediately in front of the property, flanked to the north by additional dive sites and extending south toward the famous Caves site. Dahab's fringing reef stretches for kilometres along the coast, and the Sunsplash section offers a calm, accessible entry point characteristic of the Dahab lighthouse and town-area reefs.
+
+Dahab house reefs in this area typically feature sandy slopes descending to about 25–30 m, patrolled by a diverse Red Sea reef fish community with good macro life on the rubble substrate. The calm bay conditions make this suitable for night dives and training.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Dahab, Sinai Peninsula, Red Sea
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
 
-## Marine Life
+## Tips
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- A convenient dive for guests of Sunsplash Divers between excursions to the Blue Hole or the Canyon
+- Suitable for certification training and check dives
+- Night dives on Dahab's fringing reefs are productive for octopus, crabs, and sleeping fish
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Sunsplash Divers Dahab — House Reef](https://www.sunsplash-divers.com/en/tauchen/tauchpl-tze-dahab/house-reef.html). No detailed depth or marine life specifics were available on the operator page; description based on typical Dahab town-area reef characteristics. Last updated 2026-05-17.*

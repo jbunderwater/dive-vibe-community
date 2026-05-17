@@ -26,36 +26,30 @@ Tattenham Ledge is a reef dive in Howe Sound, North America's southernmost fjord
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Howe Sound ledge and reef sites at this depth support plumose anemones, hydroids, nudibranchs, feather stars, blood stars, and encrusting sponges — filter-feeding communities sustained by tidal flows through the fjord. Lingcod are common on rocky ledge structures in Howe Sound. Multiple rockfish species including quillback and copper rockfish hold station around rocky relief. Giant Pacific octopus are regularly encountered under ledge overhangs. Kelp greenling and cabezon are typical shallow-ledge residents. Sea cucumbers occupy the softer bottom areas adjacent to the ledge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The ledge structure descends to 18 metres on the rocky terrain characteristic of Howe Sound. The site coordinates place it on the western side of the sound near the Thormanby Islands / Buccaneer Bay area of the Sunshine Coast Regional District. Howe Sound generally offers minimal currents at most dive sites, with visibility best in late autumn and winter (25–75 feet) and reduced during spring and summer plankton blooms.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access. Howe Sound boat dives are typically run from Horseshoe Bay (approximately 1 hour from Vancouver) or from Sunshine Coast launch points. The site is suitable for chartered dive trips operating out of Vancouver-area dive shops.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Cold water year-round (7–12°C); drysuit strongly recommended.
+- Late autumn through winter offers best visibility; spring plankton blooms can reduce visibility substantially.
+- Confirm precise site coordinates and current conditions with local charter operators before diving.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Combine with other Howe Sound sites on a full-day boat trip.
+- Visibility planning: late October through February offers the clearest conditions in Howe Sound.
+- A dive light reveals the full colour of encrusting invertebrates under ledge overhangs.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Howe Sound — Divers Alert Network](https://dan.org/alert-diver/article/howe-sound/), [Tattenham Ledge geographic record — MapCarta](https://mapcarta.com/24669608). Last updated 2026-05-17.*

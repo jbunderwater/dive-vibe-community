@@ -13,54 +13,45 @@ addedBy: osm_import
 
 ## Shark Apartment
 
-Shark Apartment is a reef dive site in Philippines Donsol, Asia.
+Shark Apartment is a reef dive in Ticao Pass known for reliably resting whitetip reef sharks among large boulder formations on a sandy seabed.
 
 ## Overview
 
-Shark Apartment is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site's name derives from its defining feature: whitetip reef sharks (*Triaenodon obesus*) that rest motionless among and beneath large boulders scattered across a sandy bottom at 18 meters. The Manta Bowl operator Shark Diving Philippines describes the site as sheltering adult-sized whitetip reef sharks around boulder and rock formations that rise from a sandy terrain, with groupers and reef fish like angelfish and bannerfish inhabiting the same structure.
+
+Shark Apartment sits in the productive waters of Ticao Pass and benefits from the same nutrient-rich current system that supports the larger pelagic sites nearby. The boulder reef structure creates sheltered microhabitats that attract both resting predators and their associated reef fish communities.
+
+## Marine Life
+
+- Whitetip reef sharks (*Triaenodon obesus*) — commonly resting beneath and among boulders
+- Groupers, angelfish, bannerfish around boulder formations
+- Reef fish communities associated with the surrounding sandy-rubble and boulder habitat
+
+## Dive Profile
+
+Boat entry; descend to sandy bottom at 18 m. Divers approach the boulder field and navigate among formations to observe resting sharks without disturbing them. Current can be moderate in Ticao Pass; site may be sheltered depending on boulder orientation. Typical dive time 40–50 minutes working through the boulder area.
+
+## Entry/Exit
+
+Boat only. Accessible from Ticao Island-based dive operators and Donsol-based operators running full-day Ticao trips.
+
+## Tips
+
+- Approach slowly and avoid silting the sandy bottom — disturbed sediment will cause resting sharks to move off.
+- Depths are manageable for a second dive after Manta Bowl on a day trip.
+- Wide-angle lens captures the shark-and-boulder context well; natural light at 18 m is usually adequate.
+
+## Safety
+
+Advanced certification recommended given the Ticao Pass current environment. The site itself is at moderate depth, but boat logistics and surrounding conditions require experience.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Ticao Pass, near Ticao Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*

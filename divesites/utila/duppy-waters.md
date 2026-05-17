@@ -13,55 +13,37 @@ addedBy: osm_import
 
 ## Duppy Waters
 
-Duppy Waters is a wall dive site in Utila, Caribbean.
+Duppy Waters is a north side wall dive at the eastern end of Turtle Harbour, named after the local Creole word for "ghost" — a reference to the eerie, sparkling quality of the water at this site after dark.
 
 ## Overview
 
-Duppy Waters is a dive site in Utila featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Duppy Waters features a reef top at 20–25 ft (6–8 m) with a sand channel running to 60 ft (18 m) and the wall dropping beyond 140 ft (43 m). The site marks the eastern boundary of Turtle Harbour and is paired with CJ's Drop Off at the western end for back-to-back north side dives on morning boat trips. The wall is decorated with oversized barrel sponges and the reef top offers a productive coral garden. Morning light on this north-facing wall provides excellent visibility into the blue during the descent. The name reflects local Caribbean English: "duppy" meaning ghost, referencing the ghostly shimmer the water takes on at night.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large barrel sponges are a defining feature of the deeper wall sections. Grouper, snapper, and turtles are regularly sighted on the reef top and upper wall. Colorful juvenile fish are abundant in the coral garden. Eagle rays patrol the wall face, and the sandy channel supports benthic species. The surrounding waters are part of the northern exposure where pelagics including barracuda and jacks appear with currents.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Reef top**: 20–25 ft (6–8 m)
+- **Sand channel**: to 60 ft (18 m)
+- **Wall**: drops past 140 ft (43 m)
+- **Current**: Present — typically aids buoyancy and brings cleaner water
+- **Night diving**: Noted for the ghostly bioluminescence that gives the site its name
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive, north side of Utila. Typically run as a morning dive alongside CJ's Drop Off.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Often paired with CJ's Drop Off in the same morning trip — plan dive profiles accordingly.
+- Night dives here are particularly atmospheric given the site's name and bioluminescent character.
+- The reef top at 20–25 ft makes an ideal safety stop with plenty of life to observe.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Wide-angle on the barrel sponges against the deep blue wall background. The shallow reef top at 20 ft also offers good macro opportunities among juvenile reef fish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*

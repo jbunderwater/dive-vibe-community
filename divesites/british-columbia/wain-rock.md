@@ -26,36 +26,26 @@ Wain Rock is a rocky reef dive site in the southern Gulf Islands near Sidney and
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The southern Gulf Islands channels are well-documented for rockfish diversity — copper, quillback, tiger, china, yellowtail, and blue rockfish are all present in this region. Lingcod, cabezon, kelp greenlings, and giant Pacific octopus occupy the rocky structure. Plumose anemones and encrusting sponges colonise current-swept faces; nudibranchs, sea stars, and hermit crabs are common throughout. Harbour seals regularly patrol these channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive at 18 m maximum on a rocky reef in the tidal channels between Vancouver Island and the southern Gulf Islands near Sidney. The Strait of Georgia and Haro Strait tidal system keeps water nutrient-rich and productive. Moderate to strong currents are a feature of this area, limiting diving to slack tide windows.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only. Sidney-area charter operators (Frank White's Dive Store, Rockfish Divers) provide regular access to boat dive sites throughout the Saanich Peninsula and southern Gulf Islands. Live-boat is standard. Timing to slack water is essential.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The Saanich Peninsula and southern Gulf Islands area offers numerous boat dive sites of similar character; combining Wain Rock with a second site is standard practice on day charters. Visibility is typically best in fall and winter (10–20 m). Water temperature 8–12 °C; drysuit required.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tidal currents through the southern Gulf Islands channels can run several knots at peak flow. Dive only at slack water, and assess actual current conditions before entering. Cold water (8–12 °C) demands a drysuit. Surface marker buoy on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DIVE BC — Southern Gulf Islands](http://dive.bc.ca/guide/sect_iv.html), [Frank White's Dive Store — Charters](https://frankwhites.com/products/scuba-diving-charters), [X-Ray Mag — Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands). Last updated 2026-05-17.*

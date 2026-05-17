@@ -27,7 +27,7 @@ Visibility at this site is more variable than other Port Vila dives, typically r
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 7-15 meters
 - **Current**: Generally mild
 - **Best Time**: April to November

@@ -3,7 +3,7 @@ name: Sparta Canyon
 lat: 32.85237
 lng: 34.95456
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wall
 ref: null
@@ -26,7 +26,7 @@ No detailed site descriptions or depth data have been confirmed in public diving
 - **Location**: Northern Haifa Bay, Israel
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Moderate; can be variable in canyon topography
 

@@ -49,4 +49,4 @@ Shore entry from Coral Beach. Descend to the wreck sitting upright at approximat
 Shore entry with a short surface swim. Mild currents typical. Depth requires proper certification. Watch for lionfish and fire coral on the wreck structure.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*

@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## El Gilwa East
 
-El Gilwa East is a  dive site in Red Sea, Middle East.
+El Gilwa East is a reef dive site on the Red Sea coast near the Hurghada / El Gouna area, with coordinates placing it along the central Egyptian Red Sea coastline. "El Gilwa" is likely a local place name referring to the embayment or bay (gilwa) in this area. The East designation suggests this is the eastern section of a two-part reef or bay system.
 
 ## Overview
 
-El Gilwa East is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Shore reefs in the Hurghada coastline zone follow a characteristic pattern: a shallow sandy flat transitions to a fringing reef running parallel to the coast, with a wall or slope dropping to 20–25 metres. The East section of this reef likely refers to the eastern side of the headland or bay, which may receive different current and visibility conditions than a western counterpart.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Coastal reefs in this part of the Egyptian Red Sea support typical Red Sea reef communities. Parrotfish, wrasse, groupers, moray eels, lionfish, and crocodilefish are standard residents. Blue-spotted stingrays (Taeniura lymma) rest on sandy patches. Schools of fusiliers and damsels populate the water column above the reef. Octopus and cuttlefish are common on night dives. The Red Sea in this zone hosts over 200 coral species and around 1,000 fish species across the broader reef system.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore or boat entry depending on access; the east-facing aspect of this reef section may offer good morning light conditions. Depths run from the shallows down to around 25 metres on the outer reef slope.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: El Gouna / Hurghada area, Red Sea coast, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources for "El Gilwa East" by that exact name were found in major English-language dive databases. This is likely a locally named reef section in the Hurghada area. Description based on regional diving characteristics of central Egyptian Red Sea coast reefs. Last updated 2026-05-17.*

@@ -13,55 +13,40 @@ addedBy: osm_import
 
 ## La Gabinière Nord
 
-La Gabinière Nord is a wall dive site in Port-Cros, Europe.
+La Gabinière Nord is a wall dive site at Port-Cros National Park, French Mediterranean coast.
 
 ## Overview
 
-La Gabinière Nord is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Gabinière Nord is the northern face of the La Gabinière islet, situated within Port-Cros National Park — Europe's oldest marine protected area, established in 1963. While the southern and eastern exposures of La Gabinière are the most celebrated for their current-driven pelagic action, the northern wall offers a different character: more sheltered from prevailing swell and easterly winds, with a steeply dropping rock face descending from the surface to approximately 40 metres.
+
+The northern aspect receives less direct current than the south, which concentrates fish life differently — groupers are present but typically in smaller numbers than the park's famous southern grouper population of ~200 individuals. The wall itself is draped with the same Mediterranean life found around the islet: gorgonian sea fans (red and yellow species), dense sponge coverage, and yellow cluster anemones. Moray eels occupy crevices throughout. Shoals of seabream, wrasse, and bogue move along the wall, with occasional barracuda passing through.
+
+Access is by boat from Hyères, La Londe-les-Maures, or Le Lavandou dive centres. The northern wall is typically combined with other La Gabinière dive sites on multi-dive days, often serving as a second dive on the same mooring trip. Mooring buoys are available around the islet; anchoring is prohibited within the national park.
+
+## Dive Profile
+
+- **Entry**: Boat only
+- **Depth range**: Surface to 40 m along the wall
+- **Conditions**: More sheltered than southern aspects; reduced current
+- **Visibility**: Mediterranean average; typically 15–25 m in summer
+- **Best season**: May–October
+
+## Marine Life
+
+Brown groupers are present along the northern wall. Moray and conger eels inhabit deeper crevices. Shoals of seabream, bogue, wrasse, and mullet cruise the mid-water column. Gorgonian fans (red and yellow), sponges, and anemones cover rock faces. Nudibranch diversity is notable for macro photographers.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+- **Protected Status**: Port-Cros National Park
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Port Cros National Park dive sites](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-05-17.*

@@ -26,38 +26,28 @@ The Fort Langley Wreck sits in the waters of Howe Sound near Sechelt on BC's Sun
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The cold, nutrient-rich fjord environment of Howe Sound creates productive conditions around any submerged hard structure. Wreck sites in this system — including artificial and natural wrecks — accumulate orange and white plumose anemones (Metridium farcimen) across hull surfaces, along with boot sponges and encrusting invertebrates. Wolf eels take up residence in open compartments and recesses. Giant Pacific octopus den under hull sections resting on the silty bottom. Lingcod and copper rockfish hold position on elevated surfaces, and cloud sponges have been documented at depth on structure in Howe Sound.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck rests at a maximum depth of 28 meters in the protected waters of Howe Sound, which is a glacially carved fjord system with generally manageable currents compared to tidal passes further south. The silty fjord bottom requires careful buoyancy control to avoid kicking up sediment and reducing visibility, which is typically best in fall and winter (up to 15–25 m) and reduced by plankton blooms in spring.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Howe Sound dive charters depart from Horseshoe Bay (West Vancouver) and from Gibsons and Langdale on the Sunshine Coast. The site's coordinates place it in the central Howe Sound area.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Maintain good buoyancy discipline around the silty bottom — visibility can degrade rapidly if sediment is disturbed. Drysuit is required. Dive in the fall or winter for best visibility. As with all Howe Sound dives, freshwater surface layers from snowmelt and rain can create thermoclines and reduce visibility in the top 5–10 meters.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Water temperature 6–10°C at depth in Howe Sound; drysuit required. The fjord bottom is silty — poor buoyancy risks complete visibility loss. Maximum depth of 28 m requires careful dive planning. Surface conditions in Howe Sound can be rough in strong northwest winds.
 
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+*Note: Published documentation about this specific wreck's identity and history was not found during research. The site appears in OpenStreetMap data but is not described in available dive guides or operator pages. The wreck history section is omitted pending verified sourcing.*
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on Howe Sound regional diving characteristics. No site-specific published sources found for the Fort Langley Wreck specifically. Regional sources: [DAN Alert Diver — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [X-Ray Mag — Diving Coastal BC](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*

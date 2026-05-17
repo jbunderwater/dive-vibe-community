@@ -26,36 +26,26 @@ Pope Rocks is a reef site in Barkley Sound on the west coast of Vancouver Island
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound's open-Pacific exposure delivers a biological character distinct from inner BC waters. Giant Pacific octopus, wolf eels, lingcod, and multiple rockfish species (china, copper, yellowtail, quillback) are the main fish highlights. White-spotted rose anemones and giant plumose anemones coat the reef structure alongside giant mussels and diverse nudibranchs including the orange-peel nudibranch and clown dorid. Sea otters have been reintroduced to the sound and are occasionally sighted. Puget Sound king crabs inhabit deeper sections, and sixgill sharks have been reported in the broader Barkley Sound area at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure at Pope Rocks descends to around 18 metres, with the main invertebrate-encrusted rock faces distributed across the mid-range depths. Upwelling cold Pacific water delivers strong visibility — winter visibility in Barkley Sound regularly exceeds 30 metres, while summer algae blooms near the surface can reduce it to 10 metres. Water temperatures range from 8–10°C in winter to around 12–15°C at depth in summer.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from Bamfield or Ucluelet-based charters. No shore access is available. Pope Rocks sits within the Pacific Rim National Park Reserve area; all diving must be conducted with respect for reserve regulations.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive with a local Bamfield or Ucluelet charter operator who knows the tidal patterns in Barkley Sound, as currents can be strong around exposed rocky features. Winter months offer the best visibility; June–September brings the calmest sea states. The open-Pacific biological character makes Barkley Sound notably different from inner Strait of Georgia sites — expect more anemone diversity and a greater chance of pelagic encounters.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (8–12°C) requires a dry suit or at minimum a 7 mm wetsuit with hood and gloves. Currents around exposed points in Barkley Sound can be substantial — time dives to slack water and use a surface marker buoy for ascent. Sea state can deteriorate rapidly on the outer coast; monitor conditions and have a weather contingency plan.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Barkley Sound — Scuba Diver Life](https://scubadiverlife.com/scuba-diving-barkley-sound/), [Barkley Sound Diving — Rendezvous Dive Adventures](https://rendezvousdiving.com/barkley-sound-diving/), [Emerald in the Rough: Barkley Sound — Scuba Diving Magazine](https://www.scubadiving.com/emerald-in-rough-scuba-diving-barkley-sound-canada), [Barkley Sound — Port Alberni Visitor Centre](https://portalbernivisitorcentre.ca/find-your-to-do/diving-alberni-inlet-barkley-sound). Last updated 2026-05-17.*

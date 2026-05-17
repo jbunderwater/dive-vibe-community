@@ -26,9 +26,6 @@ Shaab Jimna is a quaint but dramatic dive site distinguished by caves winding th
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 25-35 meters (80-115 feet)
-- **Current**: Moderate to strong
-- **Best Time**: January to May
 
 ## Marine Life Highlights
 
@@ -54,10 +51,6 @@ Access is exclusively via liveaboard dive boat. Entry typically uses giant strid
 ## Safety Considerations
 
 Strong offshore currents are significant and require advanced current management. The cave system adds navigation and entanglement risks—exploration is optional and requires caution. Fire coral, lionfish, and stinging hydroids are present. Nitrogen narcosis begins to affect judgment below 30m—stay above 28m. Abort cave exploration if visibility drops significantly or if you feel disoriented. Always dive with a buddy and carry redundant signaling devices (SMB and mirror).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

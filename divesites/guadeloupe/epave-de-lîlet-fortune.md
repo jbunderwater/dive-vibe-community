@@ -13,55 +13,29 @@ addedBy: osm_import
 
 ## Epave de l'Îlet Fortune
 
-Epave de l'Îlet Fortune is a historic wreck dive in Guadeloupe, Caribbean.
+The Épave de l'Îlet Fortune (also called the Épave de Goyave) is a metal wreck lying northeast of Îlet Fortune off the coast of Goyave on Guadeloupe's Grand-Terre side. The exact identity of the vessel is not definitively established in available sources.
 
 ## Overview
 
-Epave de l'Îlet Fortune is a dive site in Guadeloupe featuring the wreck of the Epave de l'Îlet Fortune. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The wreck is a metal structure located northeast of Îlet Fortune in the waters off Goyave. According to the dive resource site gwadaplans.com, the true name of the vessel is not known; it is referred to locally as the "Épave de l'Îlet Fortune" or the "Épave de Goyave." The wreck is accessible by boat or kayak. Parts of the structure are reported to be visible near or at the water surface, though the recorded dive depth extends to 16 metres.
 
-## Site Information
-
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The site lies within or adjacent to the Grand Cul-de-Sac Marin marine protected area, which stretches along northern Basse-Terre and hosts 29 km of coral reef — the largest in the Lesser Antilles.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth range**: Shallow to approximately 16 m
+- **Entry**: Boat dive; kayak access also possible from nearby shore
+- **Conditions**: Protected lagoon waters; generally calm
+- **Setting**: Sandy bottom within the Grand Cul-de-Sac Marin system
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The broader Grand Cul-de-Sac Marin reserve system supports diverse reef life including angelfish, snappers, hawksbill turtles, and abundant invertebrates. Artificial structures in this region typically attract schooling reef fish and invertebrates that colonise the submerged metalwork over time.
 
-## Tips and Recommendations
+## Notes
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+No site-specific documentation identifying this vessel's origin or precise dive conditions has been located in published dive guides. Divers interested in this site should contact local operators in the Goyave or Sainte-Rose area for current conditions and access logistics.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Guadeloupe Islands — Îlet Fortune](https://www.lesilesdeguadeloupe.com/en/natural-heritage/ilet-fortune/). Last updated 2026-05-17.*

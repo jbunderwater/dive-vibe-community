@@ -2,10 +2,10 @@
 name: The Excalibur Wreck
 lat: 27.2158333
 lng: 33.8444667
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 22
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## The Excalibur Wreck
 
-The Excalibur Wreck is a  dive site in Red Sea, Middle East.
+The Excalibur — also known locally as the Susannah — is Hurghada's most accessible wreck dive, a small steel-hulled motor-sailor lying upright on a sandy bottom reachable by a short swim from shore.
 
 ## Overview
 
-The Excalibur Wreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The vessel was a twin-masted motor and sail craft approximately 22 metres in length with a white and light blue hull. It sank in late 1995 or early 1996 — the exact date is undocumented — reportedly as the result of an electrical fire while in Hurghada harbour. The wreck settled upright with a slight starboard list on a flat sandy bottom at 18–22 m. Its bowsprit remains in place and the pilothouse and some accommodation areas can be penetrated.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Because she rests at Open Water depth and lies perfectly upright, the Excalibur suits divers of all levels: beginners can work the upper deck and superstructure while more experienced divers can explore the holds and engine room.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A short shore swim leads to the wreck. The deck sits around 15–18 m; maximum depth on the sandy bottom is 22 m. Visibility is typically 10–20 m. No boat is required, making this a popular second or third dive of the day for operators based in Hurghada.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The wreck supports a healthy resident community. At least three lionfish guard the bow; scorpionfish and moray eels shelter in the ironwork. Large schools of glassfish fill the wheelhouse windows. Day octopuses are regularly seen on the structure. Soft corals colonise the deck rails.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Shore entry — no boat required
+- Suitable as a confidence-building wreck dive before deeper Red Sea sites
+- Penetration of the pilothouse is straightforward; engine room penetration requires torch and experience
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The upright intact hull makes a satisfying wide-angle subject. The glassfish cloud in the wheelhouse is a favourite macro and wide-angle target. Carry a torch for the interior.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Dive RED — Excalibur Wreck](https://dive-red.com/dive-sites/excalibur-wreck/), [The Scuba News — Featured Red Sea Wreck: Excalibur](https://www.thescubanews.com/2014/01/03/featured-red-sea-wreck-excalibur-also-known-as-susannah/). Last updated 2026-05-17.*

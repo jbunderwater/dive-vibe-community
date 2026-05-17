@@ -22,10 +22,10 @@ Dick is a ridge reef located west of Cape Liguan in the Rabaul area of East New 
 ## Site Information
 
 - **Location**: West of Cape Liguan, Rabaul, East New Britain Province, Papua New Guinea
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall/ridge dive
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25-30 meters
 - **Current**: Moderate (drift dive)
 - **Best Time**: Year-round; calmest conditions April to November

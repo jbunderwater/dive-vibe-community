@@ -26,38 +26,26 @@ Small Wall is the shallowest of the four dive zones at Madrona Point in Nanoose 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Giant Pacific octopus are reliably found denning in the crevices along the wall face — discarded crab shells at den entrances are a sure sign. Wolf eels are resident in the deeper sections. Lingcod and rockfish (copper, quillback) patrol the wall's ledges, and nudibranchs and sea stars are scattered across encrusting surfaces. In autumn and winter, California and Steller's sea lions from the nearby log dump regularly investigate divers, swimming close and engaging curiously in open water.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Small Wall is the leftmost of the dive zones at Madrona Point, entered via the far left approach. Maximum depth is approximately 60 feet (18 m), making it the shallowest of the Madrona walls and accessible to intermediate divers as an introduction to the site or a relaxed second dive after the Big Wall. The wall face has octopus dens, encrusting anemones, and sea star assemblages throughout. The end of the wall features a small rocky outcropping at around 45–50 feet.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the beach at the end of Madrona Drive in Nanoose Bay, approximately a 70-metre walk from the parking area. Entry point is on the far left side of the point. The site offers good shore access and the walk is short, though gear management on the rocky foreshore requires care.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Check octopus den entrances carefully for crab shell middens — GPO are reliably present here. A compass heading out and back simplifies navigation on the wall. If sea lions are present (most common October–February), keep your distance but enjoy the encounter — they are curious and rarely aggressive. Madrona Point is one of central Vancouver Island's best and most accessible shore dives; the Small Wall is a good orientation dive before attempting the Big Wall.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Cold water (8–10°C) requires a dry suit. Visibility can vary; winter months typically offer the clearest conditions. Assess sea lion activity before entering — a 500+ lb Steller's demands respect. Always carry a surface marker buoy for ascent, as boat traffic operates in Nanoose Bay.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Madrona Point Dive Site — ScubaBC](https://www.scubabc.ca/madrona-point-nanoose/), [Madrona Point Dive Site — Parksville Qualicum Beach Tourism](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/), [vancouver-island-dive-sites.com — Madrona Point](http://www.vancouver-island-dive-sites.com/madrona-point-dive-site.html). Last updated 2026-05-17.*

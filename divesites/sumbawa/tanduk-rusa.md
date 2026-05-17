@@ -13,52 +13,29 @@ addedBy: osm_import
 
 ## Tanduk Rusa
 
-Tanduk Rusa is a reef dive site in Sumbawa, Asia.
+Tanduk Rusa ("Deer Antler" in Indonesian) is an advanced dive site at the northern tip of Gili Banta (Banta Island), an uninhabited ancient volcanic island off the northwest coast of Sumbawa, near the boundary of Komodo National Park. The site is also known locally as Rollercoaster or referenced in the same area — sources confirm Tanduk Rusa is a cleaning station where manta rays gather.
 
 ## Overview
 
-Tanduk Rusa is a dive site in Sumbawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tanduk Rusa sits at the northern part of Gili Banta and features an underwater shallow promontory at approximately 12 metres depth that functions as a manta ray cleaning station — mantas hover here to allow cleaner wrasses to remove parasites and dead skin. The site is protected in a slight indent from the fierce currents that sweep around Banta's outer points, giving divers a chance to observe mantas in relatively stable conditions. The wider Gili Banta area is known for grey reef sharks, whitetip sharks, blacktip sharks, giant trevally, big-eyed jacks, and tuna feeding on the plankton-rich currents flowing through the Sape Strait. Depths on the slopes reach 40 m. Advanced certification is required given the strong currents typical of the area and the need for negative entries. Access is by liveaboard or day trips from Kalimaya Dive Resort in east Sumbawa (approximately 40 minutes by speedboat).
 
 ## Site Information
 
-- **Location**: Sumbawa, Asia
+- **Location**: Northern tip of Gili Banta, near Komodo National Park boundary
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Currents**: Strong; vertical and horizontal
+- **Best Season**: April–November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta rays (oceanic and reef), grey reef sharks, whitetip sharks, blacktip sharks, giant trevally, big-eyed jacks, yellowfin tuna, cleaner wrasses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-
+Descend to the cleaning station at ~12 m and hover to observe mantas. Slopes descend to 40 m. Currents can be powerful — plan negative descent and use reef hooks if necessary.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/moyo-island/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/). Last updated 2026-04-04.*
+*Sources: [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa.php), [Petites Bulles d'Ailleurs - Sumbawa Gili Banta](https://petitesbullesdailleurs.fr/en/sumbawa-komodo-sangean-gili-banta-indonesia-20190625/), [Kalimaya Dive Resort - Dive Sites](https://kalimayadiveresort.com/diving-site/). Last updated 2026-05-17.*

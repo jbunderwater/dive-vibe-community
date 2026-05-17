@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## Abu Dabour
 
-Abu Dabour is a  dive site in Red Sea, Middle East.
+Abu Dabour is an offshore reef dive site in the northern Marsa Alam area at approximately 25.38°N, 34.72°E, about 4 km off the mainland, 25 km south of Port Ghalib and 32 km north of Marsa Alam.
 
 ## Overview
 
-Abu Dabour is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Dabour lies in a very narrow bay that offers two contrasting dive profiles, accessible only in good weather due to the entry and exit logistics. The site features a sandy bay interior flanked by reefs on both the north and south sides, with beautiful hard and soft corals at depths of 14, 16, 18, and 24 m on prominent coral block formations.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The south side of the bay is considered the more rewarding dive: from the reef edge, a sloping sandy bottom leads to a glassfish cavity in the reef — a cavern with two chambers, the second of which has an exit to the main bay. Inside the cavern, goatfish and yellow snappers shelter under shafts of light filtering down from the entrance. The north side offers its own coral wall dive with corners and overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 14–25 m on main reef structures; cavern at approximately 20 m
+- **Current**: Low to moderate; entry/exit can be weather-dependent
+- **Visibility**: Good (20+ m in open water)
+- **Entry**: Boat (weather-dependent)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Goatfish and yellow snappers in the south cavern. Soft and hard corals on both north and south reefs. Typical Marsa Alam reef species including parrotfish, grouper, and angelfish along the reef walls.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [SSI Dive Guide — Abu Dabour](https://www.divessi.com/en/mydiveguide/divesite/abu-dabour-abudabur-concorde-moreen-marsa-alam-shoni-bay-abou-sharm-dolphinshouse-hausriff-egypt-21377). Last updated 2026-05-17.*

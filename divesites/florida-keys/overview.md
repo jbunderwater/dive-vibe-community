@@ -8,34 +8,35 @@ Coral reefs, wreck trails, and marine sanctuaries in crystal-clear tropical wate
 
 ## Description
 
-Florida Keys is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 12 to 40 meters. Florida Keys is particularly known for coral reefs, wreck trail, marine sanctuary. Notable sites include John Pennekamp Coral Reef, USS Vandenberg, Spiegel Grove. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+The Florida Keys form a 120-mile arc of islands extending southwest from the Florida mainland to Key West and the Dry Tortugas. The reef tract running parallel to the islands is the only living barrier reef in the continental United States and lies almost entirely within the Florida Keys National Marine Sanctuary. The Keys are best known for accessible shallow coral reefs, the Shipwreck Trail of artificial and historic wrecks, and warm tropical water year-round.
 
 ### Diving Opportunities
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Reef Diving**: Spur-and-groove coral reefs from John Pennekamp Coral Reef State Park in the Upper Keys down to the Dry Tortugas, with named sites including Molasses Reef, French Reef, and Looe Key.
+- **Wreck Diving**: The Florida Keys Shipwreck Trail features purpose-sunk vessels such as the USCGC Duane, USCGC Bibb, USNS Vandenberg, and the USS Spiegel Grove, alongside historic wrecks.
+- **Boat Diving**: Most reef and wreck sites are 4–8 miles offshore and reached by charter boat from ports along the Overseas Highway.
 
 ### Accessibility
 
-- **Getting There**: Florida Keys is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Key West International Airport (EYW) serves the Lower Keys; many divers fly into Miami (MIA) or Fort Lauderdale (FLL) and drive the Overseas Highway (US-1).
+- **Dive Operators**: A large number of dive operators run daily trips from Key Largo, Islamorada, Marathon, Big Pine, and Key West.
+- **Accommodation**: Dive lodges, motels, and vacation rentals are concentrated in the main island clusters.
 
-### Marine Life & Environment
+### Conditions
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Type**: Warm tropical saltwater.
+- **Season**: Diving is possible year-round. Summer (June–October) overlaps with Atlantic hurricane season; winter cold fronts can bring brief windy periods.
+- **Visibility and currents**: Vary by site, season, and weather; confirm with the chosen operator on the day of the dive.
+
+### Conservation
+
+The Florida Keys National Marine Sanctuary regulates anchoring, spearfishing, and lobstering in protected zones. Mooring buoys are widely used to prevent anchor damage; do not anchor on coral.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
 - **Currency**: US Dollar
 - **Language**: English
-- **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Standard tropical reef-diving precautions apply: sun and dehydration management, awareness of fire coral and sea urchins on the reef, and boat traffic at the surface. Verify the location of the nearest hyperbaric chamber before diving (Mariners Hospital, Tavernier).
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Florida Keys National Marine Sanctuary](https://floridakeys.noaa.gov/), [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-05-17.*

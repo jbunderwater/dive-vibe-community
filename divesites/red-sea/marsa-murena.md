@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## Marsa Murena
 
-Marsa Murena is a  dive site in Red Sea, Middle East.
+Marsa Murena ("Moray Bay") is a bay dive site on the Egyptian Red Sea coast between El Quseir and Port Ghalib (lat 25.40, lng 34.70). The name — murena being the genus name for moray eels — suggests a bay historically noted for moray eel sightings. The coordinates place this site approximately 43 km north of Marsa Alam, in the transitional zone between the El Quseir and Marsa Alam diving areas.
 
 ## Overview
 
-Marsa Murena is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Bay dive sites in the El Quseir to Port Ghalib coastal corridor typically feature narrow bay entrances opening to sandy-bottomed inlets with fringing coral reefs on both sides. The inner bay bottom is protected and calmer than the outer reef; coral gardens and reef walls develop on the bay margins. The southern Red Sea coast at this latitude is documented for healthy reef conditions with diverse marine communities. Sources for the broader Marsa Murena area describe bays nestled deep into the land with sandy bottoms, narrow entrances, and coral-rich margins; one source places it 43 km north of Marsa Alam with depths reaching 60 m toward the south.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The bay name suggests a moray eel presence, consistent with the broader region's documented moray eel populations. The El Quseir coastal reef zone supports diverse reef fish, blue-spotted rays, sea turtles, and large morays. Dugongs and sea turtles are possible in seagrass areas in this coastal stretch.
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: El Quseir coast, ~43 km north of Marsa Alam, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinate position and regional diving documentation. No site-specific dive sources were located in English-language dive databases. Last updated 2026-05-17.*

@@ -26,36 +26,34 @@ Ten Mile Point near Cadboro Bay is one of Victoria's most sought-after advanced 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wall is densely packed with plumose anemones (Metridium senile) from the shallows down to depth, leaving little bare rock visible on the face. Encrusting sponges, sea squirts (tunicates), zoanthids, feather stars, and colonial ascidians coat the wall below the kelp zone. Rockfish — including quillback, copper, and black rockfish — are abundant, along with lingcod, kelp greenling, red Irish lords, and cabezon. Wolf eels are a regular sighting in the deeper rubble sections. Giant Pacific octopus occupy crevices and overhangs. Dungeness and red rock crabs patrol the sandy bottom at the base of the wall. Harbour seals occasionally follow divers. Rare orca sightings have been reported at the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Bull kelp covers the upper wall to approximately 15 metres, below which the main vertical face drops away to a sandy bottom at 27–30 metres. The most productive zone is 21–27 metres (70–90 feet), where the anemone coverage is densest and fish diversity greatest. Tidal currents at this site can reach 3.5–7 knots during large exchanges — the dive window at slack is 20–30 minutes. Use Race Passage tide tables, offsetting approximately 15 minutes for this site. Drift diving is possible when current is approximately 1 knot.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Shore entry from the end of White Rock Street in the Cadboro Bay district. Parking is limited. The rock entry is difficult — choose footholds carefully and time your entry to wave sets. Multiple exit options: the original entry rocks, a nearby boat ramp, a drainage pipe, and a beach a short distance away. Swim into any current at the start of the dive to ensure a manageable return.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Current is the primary hazard — arriving late to slack can mean an extremely strong drift.
+- A constant background current of varying strength is present even during slack periods.
+- 20+ dives of experience recommended; the site is not suitable for beginners.
+- Carry a dive knife: discarded fishing line is present on the wall.
+- Cold water (8–12°C); drysuit strongly recommended.
+- Limited parking; arrive early to secure a spot before the slack window.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Reference Race Passage current tables and arrive 30 minutes before predicted slack.
+- Bring a dive light to appreciate the colour of the anemones and invertebrates.
+- A drift dive along the wall is possible when currents are moderate (~1 knot).
+- Visibility is best in autumn and winter outside plankton bloom periods.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Ten Mile Point — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Ten_Mile_Point/index.htm), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria), [Ten Mile Point — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/ten-mile-point.html), [Victoria BC — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/victoria-bc). Last updated 2026-05-17.*

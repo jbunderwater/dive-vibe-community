@@ -13,54 +13,47 @@ addedBy: osm_import
 
 ## Parola
 
-Parola is a drift dive site in Philippines Donsol, Asia.
+Parola (Filipino for "lighthouse") is the tip of San Miguel Island, where converging currents create a current-swept point dive frequented by sharks, rays, and schooling pelagics.
 
 ## Overview
 
-Parola is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The point at Parola is where currents from multiple directions meet at the tip of San Miguel Island. Shark Diving Philippines describes the site as experiencing moderate to strong currents, with the current convergence attracting sharks, manta rays, and eagle rays. Multiple ledges at varying depths add structural complexity, and the guide notes exploratory caves on the point that divers can peer into, inhabited by lionfish, lobsters, and groupers.
+
+The site is sometimes referred to as "The Point" by operators. Its character is current-driven: the animals present correlate directly with current activity, and calm days produce less interesting dives than days with moderate flow.
+
+## Marine Life
+
+- Sharks (species composition varies with conditions; whitetip reef sharks commonly reported)
+- Manta rays and eagle rays visiting on current
+- Schooling reef fish in the current stream
+- Ledge and cave fauna: lionfish, lobsters, groupers
+- Occasional turtles
+
+## Dive Profile
+
+Boat entry at the point. Divers descend quickly to the ledge structure (10–20 m) and position themselves on the current-sheltered side, watching the blue water beyond for pelagic visitors. The ledges and cave systems offer secondary exploration. Currents can be moderate to strong depending on tide — dive direction and entry point are set by the local guide based on conditions.
+
+## Entry/Exit
+
+Boat only. Parola is accessed as part of a San Miguel Island day-trip from Donsol-based operators.
+
+## Tips
+
+- Visit on an incoming tide for the strongest current and most animal activity.
+- Peer into caves at moderate depth (12–18 m) for resident groupers and lobsters — bring a torch.
+- Parola pairs well with Tres Grace or Bobby's Wall for a full San Miguel Island day.
+
+## Safety
+
+Moderate to strong currents require solid buoyancy control and current-diving experience. Intermediate certification is the minimum; divers should be comfortable with current-influenced conditions before diving this site.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Tip of San Miguel Island, Donsol area, Sorsogon Province, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Island Hopping in the Philippines — San Miguel Island dive sites](https://islandhoppinginthephilippines.com/visayas/faq/diving-ticao-pass-masbate/). Last updated 2026-05-17.*

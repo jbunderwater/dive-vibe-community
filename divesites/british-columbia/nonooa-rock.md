@@ -26,36 +26,26 @@ Nonooa Rock is a submerged rocky reef in the Strait of Georgia offshore from the
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Strait of Georgia offshore from central Vancouver Island supports the region's characteristic cold-water reef community. Lingcod and rockfish — including quillback and copper rockfish — are reliable finds on the rocky structure. Giant Pacific octopus occupy crevices in the reef. Plumose anemones and encrusting sponges colonise exposed surfaces. Nudibranchs, sea urchins, and cabezon are regular sightings. Harbor seals patrol the shallower zones and are common on boat dives in this part of the strait.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Nonooa Rock is a submerged rocky reef in the Strait of Georgia offshore from the Nanaimo area, sitting in some of the most biodiverse waters on the BC coast. Maximum depth reaches approximately 18 metres. Visibility can be exceptional outside of spring plankton bloom periods — the Nanaimo area is documented as one of the best cold-water diving regions in the Pacific Northwest. Light to moderate currents are typical at this location; conditions should be assessed on descent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Nanaimo Dive Outfitters operates local charters and has detailed knowledge of Strait of Georgia sites in the Nanaimo area. The site is accessible from Nanaimo Harbour.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Outside of spring plankton bloom (typically April–June), water clarity can reach 20+ metres, making this an excellent photography site. A drysuit is appropriate year-round. Deploy an SMB on ascent — the Strait of Georgia has significant ferry and commercial boat traffic near Nanaimo.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Water temperature is 7–12°C year-round — full thermal protection required. Boat traffic in the Strait of Georgia near Nanaimo includes BC Ferries and commercial shipping; always ascend with an SMB deployed. Moderate currents are possible; check conditions on descent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Nanaimo Dive Outfitters — Dive Sites](https://www.nanaimodiveoutfitters.ca/dive-sites/), [ScubaBC — Scuba Diving in Nanaimo BC](https://www.scubabc.ca/scuba-diving-in-nanaimo-bc/). Last updated 2026-05-17.*

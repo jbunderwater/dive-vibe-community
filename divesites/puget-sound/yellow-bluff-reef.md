@@ -21,44 +21,34 @@ Yellow Bluff Reef is a spectacular wall dive site located in Hood Canal featurin
 
 ## Site Information
 
-- **Location**: Hood Canal, Washington
+- **Location**: Northern Puget Sound / San Juan Islands area, Washington (coordinates 48.54°N, 122.65°W — near Anacortes / Fidalgo Island area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-30 feet (3-9 meters)
-- **Current**: Variable, can be significant
-- **Best Time**: Year-round; winter for better visibility
-- **Water Temperature**: 45-55°F (8-13°C)
+- **Water Temperature**: 8–13°C year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Wall dives in the northern Puget Sound / San Juan Islands region are characterised by dense invertebrate communities supported by strong tidal currents delivering constant nutrition. White and orange plumose anemones carpet vertical surfaces. Crimson anemones and tube anemones occupy crevices. Wolf eels claim rock dens along the wall, and large lingcod stake territories at depth transitions. Copper, quillback, and black rockfish school around reef structure. Giant Pacific octopus use boulder fields at the base of the wall. Nudibranchs — particularly alabaster-coloured and red flabellina species — are abundant on this type of substrate. Bull kelp grows in shallower sections above the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The wall begins in approximately 6–10 metres and drops to beyond recreational limits; the stated maximum depth for the site is 24 metres. Divers typically work the wall face at 12–24 metres where marine life density is highest. Drysuit essential. Tidal current can be significant in this area — dive within the slack window. Visibility varies widely: 8–20 metres on good days, less during plankton blooms.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access required. No shore entry. The area around Anacortes / Fidalgo Island has several public boat launches; specific ramp selection depends on exact site location.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Check tide tables and aim for a small-exchange slack for the most manageable conditions. Bring a light to inspect wall crevices for wolf eels and octopus. A compass bearing perpendicular to the wall makes for efficient navigation and easy return to the boat.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current is the primary hazard — strong flood and ebb tides in this region can exceed 2 knots. Dive slack only. Drysuit mandatory. SMB essential. Maintain your depth ceiling; the wall can draw divers deeper than planned if not actively monitored.
 
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+**Note:** "Yellow Bluff Reef" does not appear in the standard published dive guides for Hood Canal or the San Juan Islands that were consulted. The OSM node is classified as a wall site at these northern Puget Sound coordinates. The description above reflects conditions typical of wall dives in this region but is not drawn from site-specific sources.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — San Juan Islands diving](https://xray-mag.com/content/san-juan-islands), [Emerald Diving — Hood Canal dive report](https://www.emeralddiving.com/Hood_Canal_08.02.08.html), [Explore Hood Canal — SCUBA](https://www.explorehoodcanal.com/thingstodo/scuba). Site not found in published regional dive guides; description reflects wall dive conditions typical of northern Puget Sound. Last updated 2026-05-17.*

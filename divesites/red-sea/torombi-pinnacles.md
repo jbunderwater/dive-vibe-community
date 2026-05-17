@@ -3,8 +3,8 @@ name: Torombi Pinnacles
 lat: 25.6541383
 lng: 34.5856905
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,39 @@ addedBy: osm_import
 
 ## Torombi Pinnacles
 
-Torombi Pinnacles is a  dive site in Red Sea, Middle East.
+Torombi Pinnacles is one of three dive sites at Ras Torombi, a headland named after the local Bishari tribe on the Marsa Ghalib peninsula, approximately 80 km north of Hamata in Egypt's southern Red Sea. The area is known for its pristine, uncrowded reefs and a genuinely wild feel — Torombi is often visited as one of the few boats in the area.
 
 ## Overview
 
-Torombi Pinnacles is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site features several coral pinnacles rising from a sandy bottom, flanked by finger-like coral walls on the eastern side of the largest pinnacle. Divers descend from the boat to the base of the pinnacles at around 18 metres, then ascend the structure while exploring the rich marine life concentrated on and around the coral towers. The surrounding coastline is undeveloped, adding to the sense of remoteness.
 
-## Site Information
+A school of barracuda is a reliable summer feature, gathering beneath the dive boat before dispersing as divers descend. Moving around the pinnacles at depth, divers encounter eagle rays and stingrays on the sandy patches, along with lionfish and scorpionfish on the coral. The eastern pinnacle wall is covered in colourful hard corals and hosts thousands of small reef fish — anthias, chromis, and wrasse — at all depths. Sea turtles are occasional visitors.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Two companion sites — Torombi Garden (a small lagoon) and Marsa Torombi (a shallow southern reef drift with table corals) — are typically dived on the same outing.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 5–18 m (relatively shallow throughout)
+- **Entry**: Boat dive
+- **Currents**: Approximately 1 knot; generally manageable
+- **Visibility**: 15–25 m
+- **Dive style**: Pinnacle circumnavigation, coral wall
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Barracuda (schooling in summer beneath the boat), eagle rays, stingrays, lionfish, scorpionfish, anthias, chromis, wrasse, groupers, and sea turtles (occasional). The sandy bottom patches support gobies and their cleaner shrimp. Table corals extend across shallower sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pinnacle structure with ambient light makes this site excellent for wide-angle reef photography. The barracuda school — when present — offers a dramatic subject in the open water column. Scorpionfish and lionfish provide macro opportunities on the coral surface.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Ras Torombi, near Port Ghalib / Marsa Ghalib, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Torombi](https://www.redsea-diving.com/torombi/), [Divers Guide — Ras Torombi](https://www.divers-guide.com/en/ras-torombi), [ScubaDiving.place — Ras Torombi](https://scubadiving.place/divesite/ras-torombi). Last updated 2026-05-17.*

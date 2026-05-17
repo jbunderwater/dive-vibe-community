@@ -26,38 +26,30 @@ U-352 is one of the most celebrated dive sites on the US East Coast — a 218-fo
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-U-352 is famous for its resident sand tiger sharks — up to three large individuals are regularly seen cruising low along the hull, utterly indifferent to divers. Dense schools of Atlantic spadefish and amberjack hover over the conning tower, barracuda patrol the stern, and black sea bass and sheepshead occupy the lower hull sections along with the occasional moray eel. The wreck's offshore Gulf Stream position delivers warm, clear water in summer, making close-up encounters with the sharks a near-certainty on calm weather days.
+Sand tiger sharks are the signature attraction — individuals regularly patrol the length of the hull just above the sediment, unfazed by divers. Dense schools of Atlantic spadefish and amberjack hover over the conning tower, barracuda work the stern, and black sea bass occupy the lower hull sections. Discovery Diving's site report notes the U-352 as one of North Carolina's most popular dives for its reliable schooling baitfish and shark encounters.
+
+## Wreck History
+
+U-352 was a German Type VIIC submarine, 67.1 m (220 ft) in length, that operated in the Atlantic during World War II. On 9 May 1942 she was sunk by depth charges from the US Coast Guard Cutter Icarus approximately 26 miles south of Morehead City. Of the approximately 44–60 crew, 33 survived and were taken prisoner; 15 perished. The wreck was discovered in 1975 by George Purifoy, founder of Olympus Dive Center in Morehead City, using Loran-C navigation. She sits with a 45-degree starboard list in 110 ft (33.5 m) of water and was listed on the National Register of Historic Places on 12 November 2015. Penetration of the interior is prohibited — the wreck is a war grave.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Bottom depth is 110 ft (33.5 m); the conning tower rises to approximately 90 ft. The wreck is 218 ft long and sits nearly intact with a starboard list. Divers typically descend the mooring line to the conning tower area, then work fore and aft along the hull. The bow section exposes the pressure hull and forward torpedo tubes. Bottom time at this depth limits dives to approximately 20–30 minutes on air; nitrox extends bottom time. The site is visited on full-day charter trips by Olympus Dive Center and Discovery Diving, both operating from Morehead City/Beaufort, approximately 26–28 nautical miles offshore.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by charter boat from Morehead City or Beaufort. Olympus Dive Center (Morehead City) operates full-day trips visiting U-352 two to three times per week during the dive season (April–October). Discovery Diving (Beaufort, 414 Orange St) also runs regular charters. The mooring line is attached near the conning tower. No shore access is possible given the 26-mile offshore position.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Olympus Dive Center requires Advanced and Nitrox certifications plus experience diving from a boat to depths greater than 70 ft. Book multiple dive days when planning a visit — weather cancellations are common given the 26-mile offshore distance. Peak shark activity runs June through September. Visit early in the season for clearer water before summer thermoclines develop.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Depth of 110 ft puts this at the recreational limit. Nitrox is strongly recommended. Strong currents can develop off the North Carolina coast — always confirm conditions with the charter operator before booking. Water temperature ranges from approximately 60°F (15°C) in winter to over 80°F (27°C) in summer at the surface; thermoclines can drop temperatures significantly at depth. This is a designated war grave — wreck penetration is prohibited by law.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Sources: [Olympus Dive Center — U-352](https://olympusdiving.com/u-352), [Wikipedia — German submarine U-352](https://en.wikipedia.org/wiki/German_submarine_U-352), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Evolution Underwater — NC Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Scuba Diving Magazine — U-352 History](https://www.scubadiving.com/history-north-carolina-u-352-shipwreck). Last updated 2026-05-17.*

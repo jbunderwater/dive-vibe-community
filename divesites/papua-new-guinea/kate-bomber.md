@@ -23,9 +23,9 @@ The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that s
 
 - **Location**: Off Anelaua Island, 33 km west of Nusa Island Resort, Kavieng, New Ireland Province
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII aviation)
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (aircraft depth)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 12-15 meters
 - **Current**: Generally mild
 - **Best Time**: Year-round; calmest conditions April to November

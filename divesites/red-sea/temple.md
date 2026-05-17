@@ -3,9 +3,9 @@ name: Temple
 lat: 27.8472964
 lng: 34.308849
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 20
+entryType: boat
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## Temple
 
-Temple is a  dive site in Red Sea, Middle East.
+Temple is one of Sharm el Sheikh's most distinctive dive sites — a group of massive coral pinnacles rising from a sandy bottom that inspired the site's name through their resemblance to ancient temple columns.
 
 ## Overview
 
-Temple is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site features a large central coral tower that rises from a sandy bottom at approximately 20 m up to within about 5 m of the surface, surrounded by smaller coral columns. The formation's pillars and their arrangement evoke an ancient underwater temple. Sheer walls on each pinnacle are densely covered with soft corals, sponges, gorgonian fans, and hard coral growth.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Temple is one of Sharm el Sheikh's most popular night diving sites due to its sheltered position close to Na'ama Bay and the concentration of nocturnal species sheltering in the coral structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Typical depth range is 5–20 m. The dive begins on the sandy bottom around the main pinnacle and works upward through progressively shallower coral formations. Suitable for Open Water divers. No significant current is normally encountered. Multiple entry points allow divers to approach from different angles.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Giant moray eels reside in the crevices throughout the year. Groups of lionfish and individual scorpionfish are common on the pinnacle faces. Blue-spotted ribbontail rays rest on the sandy areas between the pinnacles. Gorgonian fans frame many of the swimthroughs and crevices. The site hosts a high density and variety of coral species.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- An excellent night dive due to proximity to Naama Bay and the richness of nocturnal species
+- Macro photographers will find the crevices rewarding throughout the day
+- Multiple pinnacles allow a complete circuit in a single dive
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The coral columns photographed against blue water make attractive wide-angle compositions. The gorgonian fans and moray eel dens reward closer macro work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Camel Dive Club — Temple Dive Site](https://www.cameldive.com/dive-sites/temple/), [PADI — Temple Dive Site](https://www.padi.com/dive-site/egypt/temple/). Last updated 2026-05-17.*

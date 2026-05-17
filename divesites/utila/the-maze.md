@@ -13,54 +13,38 @@ addedBy: osm_import
 
 ## The Maze
 
-The Maze is a reef dive site in Utila, Caribbean.
+The Maze is a north side reef site in Turtle Harbour offering a labyrinth of spur-and-groove coral channels that divers navigate at shallow depths, making it one of Utila's most distinctive beginner dives.
 
 ## Overview
 
-The Maze is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Located in Turtle Harbour on the north side of Utila, The Maze is defined by a series of maze-like channels cut through the reef by spur-and-groove formations. The channels begin at around 15 ft (4.5 m) and descend to 40 ft (12 m), with a deeper cave feature reported at around 70 ft (21 m) beyond the channel system. The shallowest section of the reef sits at approximately 15 ft (4.5 m), making this a well-lit, manageable dive for beginners while retaining enough structure to keep experienced divers engaged. The Maze is neighboured by Willy's Hole, a cavern site at about 24 m. The channel system rewards methodical navigation and careful observation of the reef walls.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The maze channels and caves shelter a variety of Caribbean invertebrates and reef fish. Documented species at this site include southern stingrays encountered in the channels, scorpionfish (well-camouflaged against the reef — look carefully), lionfish in the deeper cave section, lobster, green moray eels, queen triggerfish, and nudibranchs on the reef walls. Seahorses have been observed in the Turtle Harbour area, and the site is recommended for macro photography throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Channel top**: ~15 ft (4.5 m) — bright and shallow
+- **Channel floor**: drops to ~40 ft (12 m)
+- **Cave feature**: ~70 ft (21 m) — accessible to experienced divers
+- **Average depth**: ~21 m maximum; most of the dive shallower
+- **Current**: variable — Turtle Harbour north side can see tidal flow
+- **Visibility**: good — February 2024 reviewer noted "good viz"
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive, north side of Utila. Located in Turtle Harbour alongside neighbouring sites.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Slow down and look carefully in channel crevices — scorpionfish blend into the reef remarkably well.
+- Bring a torch for the deeper cave section and for lighting overhangs where lobster and morays shelter.
+- Night dives in the Turtle Harbour area are recommended by local divers — The Maze's channel structure is particularly interesting after dark.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+An excellent macro site — nudibranchs on the channel walls, lobster in crevices, and the possibility of lionfish portraits in the cave. The shallow, well-lit channels provide good ambient light for natural-light photography in the morning.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [The Scuba Directory – The Maze, Utila](https://thescubadirectory.com/divesiteprofile/The-Maze-Utila-Honduras-Dive-Site), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide). Last updated 2026-05-17.*

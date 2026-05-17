@@ -13,54 +13,43 @@ addedBy: osm_import
 
 ## Terumbu Gora
 
-Terumbu Gora is a pinnacle dive site in Halmahera, Asia.
+Terumbu Gora is a pinnacle dive site in the Goraici Islands group, located between Halmahera and Bacan in the Molucca Sea, North Maluku, Indonesia.
 
 ## Overview
 
-Terumbu Gora is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Terumbu Gora is one of three primary dive sites in the Goraici island group — alongside Reenie's Rock and a third site off Pulau Goweba — and represents some of the healthiest reef in the Halmahera region. The Goraici locals have a long-standing reputation for environmental stewardship, having effectively prevented destructive dynamite and cyanide fishing, which has allowed the coral and fish populations to thrive. At Terumbu Gora, large sponges and healthy hard corals cover the structure, and the reef teems with fish life. Predatory species including Napoleon wrasse, dogtooth tuna, and reef sharks actively hunt on the current-swept walls.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Goraici Islands, between Halmahera and Bacan, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Fish life at Terumbu Gora is described as "very healthy," with large sponges and healthy corals supporting dense reef fish populations. Active hunters on the walls include Napoleon wrasse, dogtooth tuna, and reef sharks. The Goraici island group as a whole also features macro life in the sheltered bays and is an excellent night dive destination with octopus, crustaceans, and nudibranchs. Dogtooth tuna, grey reef sharks, surgeonfish, and black snappers are documented in the current-facing zones.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The pinnacle structure allows divers to work the current-exposed sides where the predatory activity is concentrated, then retreat to sheltered areas when needed. Currents are typically present and are the reason for the productive marine life — this site is best dived on a running tidal flow. Depth range is 5–35 metres, with the most productive zone on the walls at 15–30 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard from Ternate or Bacan. Mermaid Liveaboards lists Terumbu Gora as one of its documented dive sites, and other Halmahera liveaboard operators include the Goraici group on their itineraries. No land-based dive operation services this remote island group.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The Goraici Islands are best combined over multiple dives — diving Terumbu Gora on current and then exploring the shallower coral gardens and bay sites for night dives provides a well-rounded experience of the area. The island group is approximately 50 km west of mainland Halmahera; liveaboard travel time from Ternate is several hours.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Goraici group is remote, with no infrastructure or emergency services. All medical emergencies would require evacuation to Ternate by liveaboard or local boat, then onward to Manado. Currents can be strong on the pinnacle walls. The area has historically received very little dive traffic, so conditions may be less well-mapped than more established destinations. Carry an SMB on all dives. Water temperature is 27–30°C.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The healthy, unbleached coral and active predator behaviour make Terumbu Gora an excellent wide-angle photography site. Large sponges provide foreground interest, while reef sharks and Napoleon wrasse in the blue water column offer compelling subjects. For night diving in the sheltered bays, macro photography of octopus and nudibranchs is productive.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Mermaid Liveaboards – Terumbu Gora](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*

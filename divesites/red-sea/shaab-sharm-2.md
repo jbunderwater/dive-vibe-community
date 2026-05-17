@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Shaab Sharm (2)
 
-Shaab Sharm (2) is a  dive site in Red Sea, Middle East.
+Shaab Sharm (2) is a reef dive site in the central Egyptian Red Sea at approximately 24.84°N, 35.17°E — approximately 5 km north of the primary Shaab Sharm entry (24.79°N, 35.18°E). These are closely positioned entries likely representing different sections or access points of the same large reef system.
 
 ## Overview
 
-Shaab Sharm (2) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+**Possible OSM duplicate flag**: Shaab Sharm and Shaab Sharm (2) are separated by approximately 5 km along the same offshore reef system. Sha'ab Sharm is described as a large kidney-shaped reef lying 12 km off the Egyptian coast and measuring 700 m at its longest — large enough to have multiple dive entry points that generate distinct OSM entries. The "(2)" suffix indicates this is a secondary OSM import entry, possibly recording a different section or mooring point of the same reef.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Sha'ab Sharm is a well-documented offshore reef. It sits atop a vast undersea mountain thought to be an ancient volcano. Its steep walls descend in steps to over 200 m, with strong currents flowing freely around the reef that drive exceptional coral growth. Night dives are not possible due to the exposed position; the site is not suitable for beginners.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 5–20 m on plateau; walls to 200+ m
+- **Current**: Can be strong
+- **Entry**: Boat only (liveaboard itinerary standard)
+- **Difficulty**: Intermediate to advanced
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The strong currents attract pelagics: barracuda, jacks, tuna, and occasional reef sharks. The walls feature good coral coverage on the steps and overhangs.
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*Note: This entry likely represents a second section or mooring point of Sha'ab Sharm rather than an entirely distinct reef.*
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Sha'ab Sharm](https://www.redsea-diving.com/shaab-sharm/), [PADI — Shoab Sharm](https://www.padi.com/dive-site/egypt/shoab-sharm/). Last updated 2026-05-17.*

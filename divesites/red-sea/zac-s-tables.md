@@ -11,55 +11,34 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Zac s Tables
+## Zac's Tables
 
-Zac s Tables is a  dive site in Red Sea, Middle East.
+Zac's Tables is a reef dive site located at approximately 29.380°N, 34.809°E in the northern Gulf of Aqaba on the Sinai coast. The coordinates place this site south of Nuweiba and north of Dahab — a section of the Sinai coast that is less frequently visited than the Dahab and Taba dive zones but hosts productive fringing reef diving.
 
 ## Overview
 
-Zac s Tables is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The name "Zac's Tables" suggests a reef formation characterised by table or plate corals (Acropora table corals are common in the Red Sea at depths of 5–20 metres). The site does not appear in major English-language dive databases, suggesting it may be a local name used by dive centres operating in the Nuweiba or south Taba area rather than a regionally marketed dive site. The mid-Sinai coast in this latitude is characterised by fringing reef systems with a mix of hard coral plateaux (tables), coral slopes, and sandy channels descending to 25 metres or deeper.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Gulf of Aqaba waters at this location are clear and warm, with good year-round visibility. Shore diving from the Sinai coast in this area typically involves a short walk across a reef flat before descending the outer reef slope. Marine life includes parrotfish, surgeonfish, butterflyfish, chromis, anthias, groupers, and moray eels, with blue-spotted stingrays on sandy patches. Napoleon wrasse and trevally appear at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–25 m
+- **Entry**: Shore dive
+- **Currents**: Generally mild in the Gulf of Aqaba at this latitude
+- **Visibility**: 15–25 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Parrotfish, surgeonfish, butterflyfish, chromis, anthias, groupers, moray eels, blue-spotted stingrays, Napoleon wrasse (occasional). Table (plate) coral formations may be a feature of the shallow reef sections.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Gulf of Aqaba, Sinai Peninsula (between Nuweiba and Dahab, approx. 29.38°N)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*"Zac's Tables" was not identified in available English-language dive databases. The name and coordinates suggest a locally-named dive site on the mid-Sinai coast. Divers should contact local dive operators in Nuweiba for specific site access and current conditions. No site-specific published sources were located. Last updated 2026-05-17.*

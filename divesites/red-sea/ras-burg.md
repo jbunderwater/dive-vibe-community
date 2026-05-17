@@ -3,8 +3,8 @@ name: Ras Burg
 lat: 27.7563739
 lng: 34.2520452
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,35 @@ addedBy: osm_import
 
 ## Ras Burg
 
-Ras Burg is a  dive site in Red Sea, Middle East.
+Ras Burg ("Tower Cape" in Arabic) is a wall dive site at the eastern edge of Ras Mohammed National Park, on the Sinai Peninsula. The site takes its name from a large fossil coral pinnacle that protrudes above the water like a tower, forming the entry marker for the dive. It is one of several Ras Mohammed sites that see lighter traffic than the famous Shark & Yolanda reef, making it notably pristine.
 
 ## Overview
 
-Ras Burg is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The dive descends from the surface alongside the pinnacle-marked entry point and follows a wall to the right. The wall drops gradually to around 20 metres, along the way reaching a wide chimney — a vertical shaft open at the top — similar in structure to the chimney at Ras Za'atar nearby. A large cavern sits to the left of the Burg landmark. The site is recognised for its intact, uncrowded soft coral and gorgonian coverage.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Inside the chimney, yellow gorgonian fans are abundant and spectacularly coloured, alongside red sponges (*Cliona vastifica*), siphon sponges, and large schools of anthias filling the upper arch opening. Butterflyfish (genus *Chaetodon*) are common along the wall. Soft corals (alcyonarians) and madreporarian hard corals are both described as "still intact" due to lower visitor pressure. The site is recommended for macro and wide-angle photography, particularly around midday when light penetrates the chimney from above.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+A drift/wall dive entering at the surface near the fossil pinnacle and following the wall to the right at depth. The wall configuration and chimney are the primary features at 15–20 metres depth. The dive can also be made as a swim-through the chimney. Current can be moderate; the site is rated Advanced due to the wall character and the need for buoyancy control in the chimney.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent photography conditions: the chimney's yellow gorgonians and coloured sponges under midday light, the dramatic fossil pinnacle above water, and the intact wall soft corals all provide strong compositions. Less crowded than nearby Shark Reef and Yolanda, making timing and framing easier.
+
+## Site Information
+
+- **Location**: Eastern coast of Ras Mohammed National Park, South Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 metres
+- **Difficulty**: Advanced
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Sharm Club — Ras Mohammed Dive Sites](https://www.sharm-club.com/egypt/diving/ras-mohammed-dive-sites), [Scubago — Explore Ras Mohammed](https://www.scubago.com/en/explore/destination/ras-mohammed-9753408). Last updated 2026-05-17.*

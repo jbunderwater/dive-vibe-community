@@ -26,37 +26,26 @@ McGrail Bank is a deep reef within the Flower Garden Banks National Marine Sanct
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 43.9 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+NOAA's McGrail Bank page documents creolefish, groupers, snappers, reef butterflyfish, blue chromis, creole wrasses, rock beauty, schools of yellow goatfish, squirrelfish, and horse-eye jacks in the mid-water column. The deep reef cap supports the dominant blushing star coral (*Stephanocoenia intersepta*) colonies — no other known coral reef is dominated by this species. Deeper mesophotic zones (below 60 m, accessible only by submersible or rebreather) host black corals, octocorals, dense sponge communities, and sharks. NOAA designates McGrail a Coral Habitat Area of Particular Concern in recognition of its unique ecosystem.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 43.9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+McGrail Bank (formerly known as 18 Fathom Bank) peaks at 144 feet (44 m) below the surface — right at the technical diving threshold. The reef top extends over 4.7 square miles in two separate sanctuary sections east of Rankin and 28 Fathom Banks, approximately 109 miles from shore. Coral coverage reaches approximately 28% in the shallowest areas. Below the reef cap, the bank descends to 512 feet (156 m), with documented exploration around 180–200 feet by research submersibles. For recreational divers, a brief excursion to the reef top requires decompression-capable equipment or a carefully managed no-decompression dive at 40–44 m.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+McGrail Bank is accessible only via liveaboard charter, the same operators serving East and West Banks (M/V *Fling* and M/V *Spree* from Freeport, Texas). NOAA confirms it is one of only seven sanctuary banks with reef habitat within the 130-foot (39.6 m) recreational dive limit, but just barely — the reef top sits exactly at that boundary. Most visitors to McGrail are technical divers or mixed-gas divers. The site is approximately 109 miles from shore; no day-boat access is practical.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+McGrail is a specialist destination: plan it as a technical dive with appropriate gas planning for 44 m with a decompression stop. The unique blushing star coral formation is worth a careful, controlled bottom time. Carry a computer configured for your gas mix and have a stage cylinder ready for deco. This is not a site to improvise. Confirm with the liveaboard operator whether McGrail is on the itinerary — not all trips include it given the depth requirements.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+At 44 m, McGrail sits beyond the safe recreational no-decompression limit without careful gas management. Technical diving training (minimum Advanced Nitrox/Decompression Procedures or equivalent) is required. Narcosis at depth, unpredictable Gulf currents, and distance from shore (109 miles) all elevate the risk profile. Emergency evacuation is a multi-hour operation. The site carries NOAA's Coral Habitat Area of Particular Concern designation — no anchoring, no take, strict no-contact reef rules apply.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Sources: [NOAA McGrail Bank](https://flowergarden.noaa.gov/about/mcgrailbank.html), [NOAA Mesophotic Habitats](https://flowergarden.noaa.gov/about/mesophotic.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/). Last updated 2026-05-17.*

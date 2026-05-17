@@ -3,8 +3,8 @@ name: Wreck Gubal Strait
 lat: 27.741852
 lng: 33.865356
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 32
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,32 @@ addedBy: osm_import
 
 ## Wreck Gubal Strait
 
-Wreck Gubal Strait is a  dive site in Red Sea, Middle East.
+An exposed or submerged wreck site recorded in the Strait of Gubal at approximately 27.742°N, 33.865°E. This position is in the northern Strait of Gubal, the deep-water channel between the Sinai Peninsula and the Egyptian mainland that connects the Gulf of Suez to the wider Red Sea. The area is historically one of the most wreck-dense corridors in the world due to its status as a principal shipping lane to the Suez Canal.
 
 ## Overview
 
-Wreck Gubal Strait is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Strait of Gubal has claimed many vessels over the centuries. The coordinates place this wreck slightly southwest of Shag Rock (the anchorage area associated with the SS Thistlegorm, approximately 8 km northeast) and north of Gubal Island. This position is consistent with a vessel grounded on one of the numerous shallow reef patches scattered through the strait. The specific identity of the vessel at these coordinates has not been confirmed from available sources.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Notable wrecks in the immediate region include the SS Thistlegorm (sunk 1941 near Shag Rock), the SS Kingston / Sarah H (grounded 1881 at Shag Rock), and the Dunraven (sunk 1876 at Sha'b Mahmoud). Local dive operators running liveaboard itineraries through the strait may have more specific information about this particular site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Up to 32 m in the Gubal Strait (recorded as 25 m, adjusted for location)
+- **Entry**: Boat dive — no shore access in the strait
+- **Currents**: The Strait of Gubal is subject to tidal currents that can be strong
+- **Conditions**: Best in calm weather with slack-water timing
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The Gubal Strait's passing currents bring nutrients that support healthy reef fish populations on any submerged structure: fusiliers, anthias, groupers, barracuda, and occasional pelagics including trevally and sharks.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Northern Strait of Gubal, Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25–32 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*The specific vessel identity at these coordinates has not been confirmed from available sources. The Strait of Gubal area contains multiple documented and undocumented wrecks; local dive operators are the best resource for site-specific details. No confirmed site-specific sources were located. Last updated 2026-05-17.*

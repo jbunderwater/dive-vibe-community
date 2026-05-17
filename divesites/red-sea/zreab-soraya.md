@@ -3,7 +3,7 @@ name: Zreab Soraya
 lat: 26.0303323
 lng: 34.3241322
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -11,55 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Zreab Soraya
+## Zreab Soraya (Zerib Soraya) — El Quseir
 
-Zreab Soraya is a  dive site in Red Sea, Middle East.
+Zreab Soraya (also spelled Zerib Soraya, Zerib Soraya, or Zerib Kebir in related sites) is the house reef in front of the Utopia Beach Club / Pensee resort complex, located south of El Quseir on Egypt's southern Red Sea coast. The site is accessible as a shore dive through a tunnel over the reef top, and is notable for its combination of an inner shallow snorkelling area and a deeper outer reef with soft corals, anemone gardens, and a regular roster of marine life including Napoleon wrasse, sand eels, and dolphins.
 
 ## Overview
 
-Zreab Soraya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef at Zreab Soraya forms a protected inner lagoon that is ideal for snorkelling, training dives, and night dives, while the outer southern reef drops to approximately 30 metres and features soft coral formations and a beautiful coral garden. Entry and exit are via a gap in the reef top, providing a controlled and convenient access point that also protects the deeper reef from heavy anchor damage.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site lies in the El Quseir area of the southern Red Sea (approximately 26.030°N, 34.324°E), a region known for healthy reefs and marine life that is less disturbed than the busier northern resorts around Sharm El Sheikh and Hurghada. Sand eels are frequently seen on sandy patches adjacent to the reef. Napoleon (humphead) wrasse appear with regularity, and dolphins occasionally swim into the protected bay. Moray eels inhabit the reef structure, and a particularly beautiful anemone garden is a feature of the shallower inner reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 1–30 m (inner reef/lagoon for snorkelling and training; outer reef to 30 m)
+- **Entry**: Shore dive through a gap/tunnel in the reef top
+- **Currents**: Protected inner section: calm; outer reef may have mild drift
+- **Visibility**: 15–25 m
+- **Night diving**: The inner reef is excellent for night dives
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Napoleon (humphead) wrasse, sand eels, dolphins (occasional), moray eels, anemones with clownfish (notable anemone garden on inner reef), blue-spotted stingrays, parrotfish, anthias, butterflyfish, and assorted soft coral reef fish. Turtles are occasional visitors.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The anemone garden in the shallows provides excellent close-focus wide-angle photography. Sand eels in columns on the sandy bottom are a distinctive macro subject. The outer reef soft corals make attractive wide-angle subjects in clear water.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: South of El Quseir, southern Red Sea (Utopia Beach Club / Pensee resort)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaGo — Zerib Soraya](https://www.scubago.com/en/explore/divesite/zerib-soraya-321837), [Wonderful Dive — El Quseir Reef Sites](https://www.wonderful-dive.com/en/el-quseir-2/el-quseir/reef/). Last updated 2026-05-17.*

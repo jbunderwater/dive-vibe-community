@@ -11,56 +11,37 @@ osmId: 663869261
 addedBy: osm_import
 ---
 
-## Passe de Céran - TAHAA
+## Passe de Céran — Taha'a
 
-Passe de Céran - TAHAA is a drift dive site in French Polynesia, Pacific.
+Passe de Céran is a drift dive on the eastern side of Taha'a, one of the Society Islands of French Polynesia. The pass is part of a shared lagoon system with Raiatea and is considered one of the area's most rewarding dive sites, offering a current-assisted dive over a piton (pinnacle) structure covered in yellow coral, with reliable encounters of sharks, trevally, and barracuda.
 
 ## Overview
 
-Passe de Céran - TAHAA is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
-
-## Site Information
-
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Taha'a and Raiatea share the same large lagoon, which contains nine passes accessible to dive operators in the area. Céran Pass on the eastern side of Taha'a is among the most scenic, with two large pinnacles rising just off a ridge that leads to a larger seamount structure. The dive is conducted as a drift on incoming current, which funnels marine life through the pass. Excellent visibility is characteristic of the site. Te Mara Nui and other local operators run this site for advanced-level divers due to the depth and current requirements.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Bigeye trevally are a consistent presence in the pass, along with surgeonfish and impressive schools of barracuda. Whitetip reef sharks are regularly encountered along the pinnacles and reef edges. Large groupers and Napoleon wrasse (humphead wrasse) occupy the deeper seamount structure below the ridgeline. Angelfish inhabit the coral formations on the pinnacle faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The dive begins at the pass entrance and follows the incoming current over the piton structure, descending to the larger seamount below. Maximum depth is approximately 25 metres. Advanced certification (PE 40 equivalent or similar) is required by local operators due to the depth and current conditions. Visibility on this site is reliably excellent.
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current strength varies with tidal flow. The dive requires experience in current diving and drift techniques. An SMB is essential. Operators time the dive to coincide with optimal current for marine life activity.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Taha'a, Society Islands, French Polynesia
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Manawa – Exploration Diving Raiatea and Taha'a](https://www.manawa.com/en-GB/activity/french-polynesia/raiatea-tahaa/scuba-diving/exploration-diving-in-raiatea-and-tahaa-french-polynesia/13991), [PADI Blog – Best Dive Sites French Polynesia](https://blog.padi.com/escape-into-the-turquoise-waters-of-french-polynesias-islands-and-atolls/). Last updated 2026-05-17.*

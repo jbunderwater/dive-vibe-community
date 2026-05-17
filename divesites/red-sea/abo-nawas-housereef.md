@@ -17,49 +17,35 @@ Abo Nawas Housereef is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Abo Nawas Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Abo Nawas (Abu Nawas) housereef is the shore dive belonging to the Bliss Abo Nawas Resort, located about 15 km north of Marsa Alam town. The reef is accessed via a long jetty extending from the resort, with divers entering at the jetty end or using a zodiac to reach specific sections. The reef is described as a magnificent coral garden featuring large fields of both hard and soft corals, beautifully overgrown pillars, overhangs, and a rich seabed. Visibility is typically around 25 m and depths reach approximately 12 m (39 ft) on the house reef flat, with the outer edge dropping further. This is not a demanding dive — it is a relaxed coral-garden site ideal for photography and marine life observation, accessible to all certification levels.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Resident species include squid, various snapper species, hawksbill turtles, scorpionfish, and moray eels. The site is well known for its high biodiversity and large numbers of coral-dwelling species. Clownfish in anemones, angelfish, and surgeonfish are common throughout. The pillar and overhang structures shelter soldierfish and bigeye.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore/jetty entry via the long jetty (zodiac available for outer sections). Reef flat at 5–12 m with gradual slopes. Most dives are relaxed and shallow — suitable for training dives, check dives, and photography. Low current. Duration 45–60 minutes. Water temperature 24–30°C year-round.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry from the resort jetty or by zodiac to selected sections of the reef. A sandy beach entry is also available near the resort. Suitable for all levels.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Night dives here are rewarding — scorpionfish and moray eels are more active, and nudibranchs can be found on encrusting corals. Best for macro photography and unhurried reef exploration.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on the reef structure. Watch for blue-spotted stingrays resting on sandy patches. Water is warm — dehydration is a risk during long surface intervals.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: ~15 km north of Marsa Alam, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m (outer edge)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle — Abo Nawas Housereef](https://www.zentacle.com/Beach/11096/abo-nawas-housereef), [SeaHorse Diving Club — Abu Nawas Reef](https://seahorse-marsaalam.com/dive-sites/abu-nawas-reef/), [Divers Guide — Abo Nawas](https://www.divers-guide.com/en/abo-nawas). Last updated 2026-05-17.*

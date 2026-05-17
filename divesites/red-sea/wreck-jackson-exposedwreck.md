@@ -3,63 +3,60 @@ name: Wreck JAckson ExposedWreck
 lat: 28.011703
 lng: 34.473553
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 48
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck JAckson ExposedWreck
+## Wreck Jackson — Lara, Jackson Reef
 
-Wreck JAckson ExposedWreck is a  dive site in Red Sea, Middle East.
+The exposed wreck on Jackson Reef is the skeletal remains of the Lara, a 137.5-metre Cypriot cargo vessel that ran aground on the northern side of Jackson Reef in November 1982. Its rusting hull is visible above the waterline and is one of the most photographed shipwrecks in the Red Sea. Jackson Reef is the northernmost of the four Tiran reef systems in the Straits of Tiran.
 
 ## Overview
 
-Wreck JAckson ExposedWreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Lara began life as the refrigerated cargo ship Nopal Trader, built in Kiel, Germany in 1956, measuring 137.5 metres in length with an 18-metre beam. She changed names several times — Krohn Trader, Aghios Lefteris, Crest Lion — before being sold and renamed Lara in 1980. She ran aground on Jackson Reef's northern side in November 1982. Salvage operations in the mid-1990s removed external hull plating and cut away sections that fell into deep water, leaving a skeleton of the former ship. The main debris field descends from approximately 40 metres, with the mast reaching 48 metres — technical diving territory. Shallow hull sections scattered near the reef surface are accessible to recreational divers at 10–20 metres.
 
-## Site Information
+The reef wall itself is equally celebrated: the southern side drops to 40 metres and features crevices sheltering sea turtles, lyretail cod, and groupers. The northern point, near the wreck, is where scalloped hammerhead sharks concentrate in the blue water — most reliably July through September, at depths between 10 and 30 metres. Grey reef sharks, whitetip reef sharks, trevally, and barracuda are also regularly seen.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: Lara (ex Nopal Trader, ex Krohn Trader, ex Aghios Lefteris, ex Crest Lion)
+- **Built**: 1956, Kiel, Germany; 7,103 GRT refrigerated cargo vessel
+- **Dimensions**: 137.5 m length, 18 m beam
+- **Grounded**: November 1982, Jackson Reef northern side (28° 00′ 43″ N / 34° 28′ 26″ E)
+- **Salvaged**: Mid-1990s — hull plating removed; sections cut and fell to depth
+- **Current state**: Skeletal above-water hull; debris field from ~40 m into technical depth range
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Recreational zone**: 10–20 m (scattered hull sections near reef top)
+- **Technical zone**: 40–48+ m (mast, main debris field — requires tec certification)
+- **Reef wall**: Down to 40 m on southern side
+- **Visibility**: 20–30 m typically
+- **Currents**: Strong, particularly on northern side — drift-dive experience required
+
+## Marine Life
+
+Scalloped hammerhead sharks (especially July–September), grey reef sharks, whitetip reef sharks, sea turtles, lyretail cod, groupers, barracuda, trevally, snapper, triggerfish, blue-spotted stingrays.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat only. Strong currents at the northern point make this an advanced site. Boats typically moor on the calmer southern side for reef diving.
 
-## Tips and Recommendations
+## Safety
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Strong and unpredictable currents prevail at the northern reef tip. The wreck debris at depth is strictly for technical divers with appropriate training and equipment. Always carry a surface marker buoy.
 
-## Safety Considerations
+## Site Information
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Jackson Reef, northern Straits of Tiran, Sinai Peninsula
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 48 m (wreck mast); recreational to 30 m on reef wall
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [The Red Sea Wreck Project — Lara](https://www.redseawreckproject.com/dive-sites/red-sea-wreck-diving-sites-l/lara/), [The Scuba News — The Lara](https://www.thescubanews.com/2014/01/30/featured-red-sea-wreck-the-lara/), [Dive The World — Straits of Tiran](https://www.dive-the-world.com/diving-sites-egypt-straits-of-tiran.php), [Circle Divers — Jackson Reef](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/jackson-reef-tiran). Last updated 2026-05-17.*

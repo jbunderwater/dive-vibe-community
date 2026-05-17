@@ -72,7 +72,6 @@ Most divers enter the tube system from the reef side, exploring the main passage
 
 This is a surge-dependent dive. On calm days, it's an excellent intermediate site. On high-swell days, it can be more challenging. Experienced operators will recommend postponement if surge is excessive. Check local conditions and swell forecasts before booking.
 
-
 ---
 *This dive site information was researched from Kona dive operator reviews, diver trip reports, and lava tube diving guides. Last updated 2026-03-16.*
 

@@ -156,18 +156,6 @@
     "osmId": 277183068
   },
   {
-    "name": "Equator",
-    "filename": "equator.md",
-    "lat": 48.0039264,
-    "lng": -122.2180318,
-    "difficulty": "Beginner",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 542865620
-  },
-  {
     "name": "Center Reef",
     "filename": "center-reef.md",
     "lat": 48.6357132,
@@ -286,18 +274,6 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 1304763529
-  },
-  {
-    "name": "Pacific Queen",
-    "filename": "pacific-queen.md",
-    "lat": 47.8930647,
-    "lng": -122.3285542,
-    "difficulty": "Beginner",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 1319352424
   },
   {
     "name": "Boat",

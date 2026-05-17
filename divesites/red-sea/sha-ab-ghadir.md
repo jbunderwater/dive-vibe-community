@@ -13,53 +13,25 @@ addedBy: osm_import
 
 ## Sha ab Ghadir
 
-Sha ab Ghadir is a  dive site in Red Sea, Middle East.
+Sha'ab Ghadir (also spelled Shaab Ghadeer Soghayr) is an offshore bank reef approximately 8 km off the mainland and 29 km south of Marsa Alam, in the Radir/Ghadir reef group.
 
 ## Overview
 
-Sha ab Ghadir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The egg-shaped bank reef measures approximately 330 m in length and 220 m in width. The reef's northern approach features a large coral garden with towering coral formations arranged in a natural labyrinth. Strong currents typically split at the northern end and flow along both sides of the reef toward the south, making this an excellent site for drift diving.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+On the western side, coral gardens continue along the reef wall to a depth of approximately 15 m, where the reef meets a bright white sandy bottom dotted with small coral formations. A small erg (isolated pinnacle) rises to the south of the main reef, creating a channel with the main structure that funnels current — and on the northern face of this erg a colony of garden eels inhabits the sand, feeding on the plankton the current brings. The relatively low number of visiting liveaboards means the site is not crowded, and visibility is often excellent.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~15 m (western wall / sandy floor)
+- **Current**: Often strong, flowing north-to-south along both sides
+- **Visibility**: Often excellent (frequently over 30 m)
+- **Entry**: Boat only (approximately 8 km offshore)
+- **Suitable for**: Beginners and advanced divers
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Garden eels on the sandy south erg. Reef fish typical of the southern Red Sea: snappers, grouper, parrotfish, angelfish. Coral gardens on the western wall feature varied hard coral formations.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Shaab Ghadir](https://www.redsea-diving.com/5405-2/), [Wannadive — Sha'ab Ghadir Soraya](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Sha_ab_Ghadir_Soraya/index.html). Last updated 2026-05-17.*

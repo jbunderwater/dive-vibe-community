@@ -17,49 +17,19 @@ Abu Kefan is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Abu Kefan is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Kefan is a reef dive site at coordinates 26.656°N, 34.113°E, placing it on the Red Sea coast approximately midway between El Quseir and Safaga. The site is referenced in the Dive Site Directory under "Abu Kafan" as a Safaga-area reef, suggesting the name is known to local operators despite limited online documentation in English-language databases. The El Quseir / South Safaga coastal zone features varied reef diving: fringing coral systems, offshore ergs, and wall dives in relatively clear water with less boat traffic than the Hurghada area.
+
+*Detailed site-specific dive documentation was not located for Abu Kefan. The following reflects the general character of the Safaga / El Quseir reef system at this location.*
+
+The Safaga-El Quseir coastal reef corridor offers healthy hard and soft coral coverage, with marine life including Napoleon wrasse, barracuda, moray eels, groupers, reef sharks, and a full complement of tropical reef fish. The Safaga reef system is known for its somewhat cooler, more nutrient-rich water — particularly in winter — which supports good soft coral growth and healthy fish populations.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Safaga / El Quseir area, central Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Limited public documentation. [Dive Site Directory — Abu Kafan](http://www.divesitedirectory.co.uk/dive_site_red_sea_safaga_reef_abu_kafan.html) confirms the site exists near Safaga. No detailed site-specific dive reports located. Last updated 2026-05-17.*

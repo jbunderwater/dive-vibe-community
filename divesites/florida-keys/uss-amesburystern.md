@@ -26,38 +26,36 @@ The USS Amesbury stern section is part of a split WWII-era Navy destroyer escort
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The stern section has attracted a thriving community of tropical reef fish, including yellowtail snapper, parrotfish, gray angelfish, and French angelfish navigating the wreck's jagged edges. Green moray eels are a fixture in the deeper recesses, while nurse sharks and spiny lobster populate the underside of the hull. Southern stingrays forage on the surrounding sand, and green sea turtles are a regular presence at this shallow Key West site.
+Local operators report sheepshead, snapper, angelfish, hogfish, porkfish, and barracuda working the structure, with goliath grouper using the larger sheltered spaces as the population recovers on Keys artificial reefs. Oyster growth covers much of the exposed older steel.
 
 ## Dive Profile
 
-The USS Amesbury stern sits in 25 feet of water with some sections extending toward the surface. Exercise caution due to jagged wreck sections. The stern structure provides opportunities to explore the starboard side and remaining military equipment. The shallow depth allows for extended exploration and photography, though divers should stay aware of surface-reaching wreck hazards.
+The stern section sits in roughly 25–30 feet of water about 5 nautical miles west of Key West, separated from the bow by approximately 600 feet (200 yards) — the gap was created when a hurricane in the early 1960s broke the already-grounded hulk in two. Where the bow section is the southern half (bow and port side), the stern is the northern half (stern and starboard side) and includes an additional Bofors gun and Welin davits, with a debris field of bridge, upper hull, and superstructure components on the eastern side. Some parts of the stern reach surface level at low tide, which is also when visibility is at its best.
+
+## Wreck History
+
+The Amesbury stern is the northern half of USS Amesbury (DE-66 / APD-46), a Buckley-class destroyer escort laid down 8 March 1943 and launched 6 June 1943 at Bethlehem Hingham Shipyard, commissioned 30 August 1943, 306 feet long with a 37-foot beam and roughly 1,400 tons displacement. She escorted Atlantic convoys, participated in the Normandy invasion on 6 June 1944 as part of Task Force 124, then served in the Pacific as a high-speed transport carrying Underwater Demolition Team 12 and Marines off Korea and China. She earned one battle star, was decommissioned 3 July 1946, and was sold for scrap in October 1962. While under tow to deep water for sinking as an artificial reef, she grounded and broke up in a storm; a subsequent hurricane split the hulk into the present bow and stern sections.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. The stern is marked by a buoy and is on the regular rotation of Key West operators, often paired with the bow section on a single trip. The Gulf-side location makes the site a common choice when Atlantic-side conditions are rough.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Dive bow and stern as separate sites — the 600-foot gap is too far to swim against currents and shallow chop.
+- Plan around low tide for best visibility and to keep above the surface-piercing structure.
+- Carry a light for shaded recesses under the hull.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The defining hazard here is that parts of the stern reach the surface, creating a navigation risk for vessels and a real overhead-impact risk for divers ascending. Stay aware of the surface profile, ascend along the mooring line, and use an SMB on any drift away from the line. The wreckage is described by operators as "extremely jagged" — protruding broken steel is everywhere; maintain buoyancy discipline and avoid contact. There is no safe penetration: the structure is broken, not an intact hull, and any internal exploration requires full wreck training and equipment.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow depth and bright sunlight allow natural-light photography on calm days, though visibility is highly variable (operator reports average around 20 feet, best at low tide). The starboard side, Bofors gun, and the surface-breaking stern profile from below are the distinctive subjects here.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - USS Amesbury](https://en.wikipedia.org/wiki/USS_Amesbury), [NOAA Florida Keys National Marine Sanctuary - Amesbury](https://floridakeys.noaa.gov/shipwrecktrail/amesbury.html), [Florida Keys Vacation - Alexander's Wreck](https://www.florida-keys-vacation.com/Alexanders-Wreck.html), [Dive In Key West - Alexander's Wreck](https://diveinkeywest.net/alexanders-wreck.php). Last updated 2026-05-17.*

@@ -23,7 +23,7 @@ Ernies Cave is a two-part dive site located off Monkey Beach in Puerto Galera. T
 
 - **Location**: Off Monkey Beach, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Cave (overhang) and wreck
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 15-20 meters

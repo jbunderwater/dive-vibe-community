@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Shaab Rahma
 
-Shaab Rahma is a  dive site in Red Sea, Middle East.
+Shaab Rahma is a distinctive reef dive site in the Al-Qusayr area of the Red Sea (lat 26.33, lng 34.18), notable for its tunnel and cave features. The site is accessible as a shore dive or minibus-assisted excursion and is documented in multiple dive operator listings for the central Red Sea coast.
 
 ## Overview
 
-Shaab Rahma is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site is characterised by its tunnel system. One documented entry route passes through a hole in the reef roof, then traverses an approximately 80 m tunnel ending at a depth of 7 m in a coral garden. A shorter alternative involves a 30 m tunnel with a small hole exit, with a transit time of approximately 4 minutes; current can be present inside the tunnel. The outer reef features coral blocks reaching from 10 m to 40 m, with a well-developed coral garden to the south containing many table corals. Additional features include small caves, crevices, and sand eel habitats.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports soft corals and coral boulder communities. Sand eels inhabit the sandy patches. The cave and tunnel sections provide habitat for invertebrates and smaller reef fish. The outer coral garden with table corals hosts a variety of reef fish typical of the central Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The tunnel route requires careful buoyancy control and is not suitable for large groups simultaneously. The outer reef can be enjoyed without the tunnels for less experienced divers. Depth ranges from the tunnel exit at 7 m to the outer reef at 20–25 m. Current possible inside the tunnels.
 
-## Entry and Exit
+## Tips & Safety
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Tunnel diving requires good buoyancy and a torch; not recommended for claustrophobic divers
+- Current can occur inside the tunnel — check conditions before committing
+- The outer coral garden is accessible without the tunnels for less advanced divers
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Al-Qusayr area, Red Sea, Egypt (26°19'N, 34°10'E)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divers Guide – Shaab Rahma](https://www.divessi.com/en/mydiveguide/divesite/shaab-rahma-egypt-321985). Last updated 2026-05-17.*

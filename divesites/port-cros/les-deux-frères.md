@@ -13,53 +13,40 @@ addedBy: osm_import
 
 ## Les Deux Frères
 
-Les Deux Frères is a reef dive site in Port-Cros, Europe.
+Les Deux Frères is a reef dive site near Port-Cros National Park, French Mediterranean coast.
 
 ## Overview
 
-Les Deux Frères is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Les Deux Frères ("The Two Brothers") is a rocky reef site in the Hyères archipelago area near Port-Cros National Park. The name refers to the characteristic twin-rock formation that defines the topography of the site, with diving around and between the rocky structures to a maximum depth of approximately 30 metres.
+
+Like other sites in the Port-Cros archipelago, the waters here benefit from the national park's no-take protections, which extend fish populations across the broader area. Typical Mediterranean reef species are present: groupers, seabream, moray eels, wrasse, and octopus inhabit the rocky substrate, while posidonia seagrass meadows in adjacent areas shelter juvenile fish and invertebrates. The 180 fish species recorded across the Port-Cros marine protected area reflect the broader biodiversity of the Hyères archipelago ecosystem.
+
+The site's twin-rock structure creates varied depth zones from shallow to 30 metres, making it accessible to intermediate divers. Visibility in the region typically reaches 15–20 metres during summer months. Currents are generally moderate. Local dive centres in the Hyères area include this site in their regular rotation alongside the more frequently dived La Gabinière and Pointe de la Galère.
+
+## Dive Profile
+
+- **Entry**: Boat only
+- **Depth range**: 5–30 m
+- **Conditions**: Moderate currents typical; conditions vary by weather
+- **Visibility**: 15–20 m typical in summer
+- **Best season**: May–October
+
+## Marine Life
+
+Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typical of this Mediterranean reef environment. Posidonia seagrass beds in adjacent areas support fan mussels (Pinna nobilis) and diverse invertebrate communities consistent with the broader Port-Cros protected zone.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Hyères Archipelago / Port-Cros area, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Protected Status**: Within or adjacent to Port-Cros National Park zone
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Provence Méditerranée diving destinations](https://www.provencemed.com/en/living-provence/holidays-by-the-sea/a-diving-destination/). No site-specific sources for Les Deux Frères were located; description reflects regional park characteristics. Last updated 2026-05-17.*

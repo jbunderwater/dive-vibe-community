@@ -26,36 +26,29 @@ Templar Rock is a rocky reef in the southern Strait of Juan de Fuca near Victori
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Rocky reef sites in the southern Strait of Juan de Fuca near Victoria support plumose anemones, brooding anemones (*Epiactis prolifera*), encrusting sponges, and hydrocorals — cold-water filter-feeding communities sustained by tidal mixing at this junction of the Strait of Georgia and the open Pacific. Lingcod are the dominant large predator on rocky structure at this depth. Quillback rockfish and kelp greenlings are common mid-water fish. Giant Pacific octopus regularly inhabit crevices in rocky reef substrates in this area. Nudibranchs and solitary cup corals (*Balanophyllia elegans*) appear on shaded rock faces. Harbour seals are commonly encountered throughout southern Vancouver Island waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Rocky reef to 18 metres in the southern Juan de Fuca area. The Juan de Fuca Strait experiences significant tidal exchange between the Pacific and the Strait of Georgia, making tidal timing important for comfortable diving. Visibility is typically good in late autumn through winter. No specific dive profile data for this site was found in available sources; the site characteristics described reflect the documented conditions of the southern Victoria reef zone.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access. Charter operators from Victoria serve southern Strait of Juan de Fuca reef sites. The site's position (48.41°N, 123.33°W) places it in the outer southern approaches to the Gulf Islands near Victoria.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Tidal currents from the Strait of Juan de Fuca can be strong; dive around predicted slack water.
+- Cold water (7–11°C) year-round; drysuit required.
+- Remote boat site — maintain surface watch and carry SMB for ascent.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Best combined with other southern Juan de Fuca reef dives on a chartered day trip from Victoria.
+- Autumn and winter offer peak visibility; spring plankton blooms can significantly reduce clarity.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Victoria BC — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/victoria-bc), [British Columbia's Southern Gulf Islands — X-Ray Mag](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Friends of Ecological Reserves — Juan de Fuca Marine Park species](https://ecoreserves.bc.ca/1975/05/30/the-intertidal-and-subtidal-macroflora-and-macrofauna-in-the-proposed-juan-de-fuca-national-marine-park-near-victoria-bc/). Last updated 2026-05-17.*

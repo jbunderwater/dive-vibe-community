@@ -21,43 +21,34 @@ The Osprey is a relatively recent Puget Sound wreck, sinking in December 2018 in
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Northern Puget Sound / Bellingham Bay area, Washington (coordinates 48.77°N, 122.53°W)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Water Temperature**: 8–12°C year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The northern Puget Sound / Bellingham area holds dense populations of cold-water Pacific Northwest species. Wrecks at this depth provide structure for lingcod, cabezon, copper rockfish, and black rockfish. Giant Pacific octopus are regularly encountered on wrecks in this part of the Sound. Plumose anemones colonize all hard surfaces. Wolf eels occasionally use larger hull spaces as dens. The nutrient-rich waters of northern Puget Sound support some of the highest invertebrate biomass in the region.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Maximum depth 18 metres. Single-tank dive with comfortable bottom time. Drysuit essential in 8–12°C water. The northern Puget Sound sector has stronger tidal exchanges than the central Sound — plan the dive around slack water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access required. The site lies in open water and is not accessible from shore. Charter vessels or private boat required.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Tidal currents in the Bellingham Bay / Lummi Island area can be significant; verify tide tables and plan to dive within the slack window. A surface marker buoy (SMB) is essential in this boating area.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drysuit mandatory. Strong tidal currents — dive slack water only. Carry SMB. Entanglement risk on any wreck structure. Visibility can range 5–15 metres depending on tidal and seasonal conditions.
 
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+**Note:** The identity of this wreck has not been independently confirmed through published dive-site sources. The OSM node is labelled "Osprey" at these coordinates in northern Puget Sound. USCGC Osprey (WPB-87307) is a Marine Protector-class cutter based in Port Townsend and was still in active service as of 2023. No documentation of a decommissioned or sunken vessel named Osprey at this location has been located. Exercise caution treating wreck-history claims at this site as verified.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [DVIDS — USCGC Osprey WPB-87307 in Strait of Juan de Fuca](https://www.dvidshub.net/image/8185352/coast-guard-cutter-osprey-operates-strait-juan-de-fuca), [ScubaBoard — Wreck or rock, what do you think? (Bellingham Bay unidentified object)](https://scubaboard.com/community/threads/wreck-or-rock-what-do-you-think.627426/), [X-Ray Mag — San Juan Islands diving](https://xray-mag.com/content/san-juan-islands). Last updated 2026-05-17.*

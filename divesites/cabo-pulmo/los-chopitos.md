@@ -18,8 +18,8 @@ Los Chopitos is a shallow reef site in Cabo Pulmo best suited for macro diving a
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
-- **Entry Type**: Boat dive (5 min from Cabo Pulmo village)
-- **Site Type**: Shallow reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-25 meters

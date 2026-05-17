@@ -26,36 +26,26 @@ Yaculta Bank is a reef dive site in the Discovery Passage area near the Yuculta 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Yuculta Rapids area is fed by some of the strongest tidal exchanges on the BC coast, producing the dense invertebrate carpet characteristic of current-swept Discovery Islands diving: plumose anemones, strawberry anemones, cup corals, tubeworms, sulphur sponges, and hydroids cover the rocky substrate. Wolf eels, lingcod, rockfish, kelp greenlings, and giant Pacific octopus occupy the crevices. Humpback whales and Steller sea lions are regularly observed in these waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive at 18 m maximum in the Discovery Passage area near the Yuculta Rapids. The bank's position near the southern end of Johnstone Strait places it in waters with significant tidal energy. Slack-tide windows may be short — assess actual conditions on the day. The relatively shallow maximum depth allows good bottom time if conditions allow.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only; typically accessed from Campbell River on day charters. Local charter operators with knowledge of the Yuculta Rapids tidal pattern are essential. Live-boat support required throughout the dive.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The Yuculta Rapids (also spelled Yaculta) are one of the most powerful tidal rapids on the BC coast. Current timing here requires local knowledge beyond standard tide tables — current turns may lag the published slack. Book with experienced Campbell River operators. Water temperature 8–10 °C; drysuit required. Visibility typically 9–20 m, best in winter.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Current near the Yuculta Rapids can be extreme outside of slack. Diving at any time other than confirmed slack water is not safe. A live-aboard skipper familiar with this specific tidal system is non-negotiable. Cold water (8–10 °C) demands drysuit diving. Deploy surface marker buoy before ascending.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Scubaverse — Diving Discovery Passage](https://www.scubaverse.com/diving-discovery-passage/), [Abyssal Diving Charters — Campbell River Scuba Diving](https://www.abyssal.com/blog/campbell-river-scuba-diving), [DIVER Magazine — Discovery Passage](https://divermag.com/diving-discovery-passage-bc/). Last updated 2026-05-17.*

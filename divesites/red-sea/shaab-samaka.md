@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## Shaab Samaka
 
-Shaab Samaka is a  dive site in Red Sea, Middle East.
+Shaab Samaka ("Fish Reef") is a coral reef dive site in the Abu Dabbab / northern Marsa Alam area of the southern Red Sea (lat 24.85, lng 35.00). The Arabic name "samaka" means "fish," describing a reef known for its fish populations. The coordinates place the site in the offshore reef zone east of the Abu Dabbab coast — an area with multiple numbered reef structures (Shaab Abu Dabbab 1–6) and documented habitats for sea turtles and dugongs.
 
 ## Overview
 
-Shaab Samaka is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Abu Dabbab reef zone is one of the most biodiverse diving areas in Marsa Alam, featuring reefs, tunnels, caves, pinnacles, and seagrass beds. The broader area is particularly noted for sea turtles and dugongs grazing in the seagrass, with healthy hard coral systems on the reef structures. Shaab Samaka's position within this reef zone, and its name suggesting a fish-rich reef, is consistent with the documented character of reefs in this area. No specific independent documentation for "Shaab Samaka" as a distinct named site was found beyond its OSM entry.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Abu Dabbab reef zone is documented to support green sea turtles, dugongs (in seagrass areas), guitar sharks, marbled stingrays, moray eels, crocodile fish, lion fish, and diverse reef fish communities. Clownfish are found in anemone patches on the reef structures.
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Abu Dabbab / offshore reef zone, northern Marsa Alam area, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Egypt Liveaboard – Abu Dabbab Reefs](https://www.egypt-liveaboard.com/dive-sites/abu-dabbab-reefs/). Site-specific description for "Shaab Samaka" not found; context derived from Abu Dabbab reef zone documentation. Last updated 2026-05-17.*

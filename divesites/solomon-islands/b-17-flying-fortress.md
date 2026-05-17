@@ -24,10 +24,10 @@ The aircraft is remarkably well preserved. The fuselage, wings, engines, and pro
 ## Site Information
 
 - **Location**: Near Ndomo village, Guadalcanal, Solomon Islands -- 19 km east of Henderson Airfield
-- **Entry Type**: Shore dive
-- **Site Type**: Wreck dive (WWII aircraft)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 metres
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild at this site

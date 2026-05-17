@@ -13,55 +13,40 @@ addedBy: osm_import
 
 ## Foya Wreck
 
-Foya Wreck is a historic wreck dive in Halmahera, Asia.
+Foya Wreck is a historic wreck dive in Weda Bay, on the east coast of Central Halmahera, Indonesia.
 
 ## Overview
 
-Foya Wreck is a dive site in Halmahera featuring the wreck of the Foya Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese World War II vessel — a 35-metre steamer believed to have served as a sub-chaser — resting in excellent condition at depths of 10 to 30 metres in Weda Bay. The wreck sits upright on a sandy slope, its structure still largely intact, and has been colonised by soft corals and sponges over the decades. It is one of the few documented WWII dive sites on the east coast of Halmahera, offering both historical interest and healthy marine life in a relatively sheltered bay environment.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Weda Bay, Central Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Depth Range**: 10–30 metres
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck and surrounding sandy areas support a mix of reef fish and macro life typical of Weda Bay. Pygmy seahorses, turtles, and giant groupers have been recorded in the broader bay environment. The wreck's structure provides shelter for nudibranchs and encrusting invertebrates, while larger pelagics such as blacktip reef sharks and Napoleon wrasse are regular visitors to Weda Bay dive sites.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on a gradual sandy slope, allowing divers to explore from the shallowest superstructure at around 10 metres down to the hull and seabed at 30 metres. Weda Bay generally offers easy diving with minimal current, making this accessible for intermediate-level divers with wreck diving experience. Visibility on the east shore typically ranges from 10–25 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Weda Resort, located on the east coast of Central Halmahera. Weda Resort operates the dive sites in this area and is the primary operator for the Foya Wreck. Jailolo or Weda village are the nearest onshore reference points; the resort is reachable via Ternate (ferry or speedboat).
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The wreck is best dived in the morning when visibility is at its peak. Because it was discovered relatively recently (2014), it remains lightly visited and in good condition. Combining this dive with Weda Bay's muck and reef sites makes for a varied multi-day itinerary. A dive computer and SMB are recommended for the deeper sections.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Halmahera is a remote destination with limited emergency medical infrastructure. The nearest recompression chamber is in Manado, North Sulawesi. Carry a fully charged SMB and dive within your certification limits. While Weda Bay typically has gentle conditions, open-water transfers between sites can involve chop and longer boat rides.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*

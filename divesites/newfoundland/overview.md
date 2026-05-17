@@ -4,38 +4,36 @@ addedBy: osm_import
 
 ## Newfoundland
 
-Iceberg diving, historic shipwrecks, and cold-water marine life.
+Iceberg diving, historic shipwrecks, and cold-water marine life on Canada's North Atlantic coast.
 
 ## Description
 
-Newfoundland is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 25 to 35 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+Newfoundland sits on the northwestern edge of the Atlantic Ocean, where the cold Labrador Current meets the continental shelf. The province's diving is known for icebergs that drift south along "Iceberg Alley" in late spring and early summer, historic WWII-era and earlier shipwrecks, and the marine life of the cold North Atlantic. This is cold-water diving — drysuit and appropriate training are typical requirements.
 
 ### Diving Opportunities
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Iceberg Diving**: Seasonal (late May through July, weather and ice dependent) — diving alongside icebergs that have drifted from the Greenland glaciers.
+- **Wreck Diving**: Historic Atlantic wrecks including WWII-era casualties; conditions and access vary by site.
+- **Boat Diving**: Most sites are reached by charter boat from coastal communities.
 
 ### Accessibility
 
-- **Getting There**: Newfoundland is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: St. John's International Airport (YYT) is the main gateway. Smaller airports serve outport communities; ferry service connects parts of Newfoundland and Labrador.
+- **Dive Operators**: A small number of specialist operators run cold-water and iceberg trips, primarily seasonally.
+- **Accommodation**: Lodging in St. John's and various outport communities; dive-specific lodging is limited.
 
-### Marine Life & Environment
+### Conditions
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Type**: Cold North Atlantic saltwater.
+- **Temperature**: Cold year-round; surface temperatures rarely exceed 10–15 °C in summer, and bottom temperatures are colder.
+- **Season**: Practical recreational diving is generally late May through October, with iceberg season concentrated in late spring/early summer.
+- **Visibility and currents**: Vary widely by site and weather; confirm with the chosen operator.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
 - **Currency**: Canadian Dollar (CAD)
-- **Language**: English, French
-- **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
+- **Language**: English (French in some communities)
+- **Safety**: Cold-water exposure and remote locations are the dominant risks. Drysuit diving and cold-water training are typical requirements. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-05-17.*

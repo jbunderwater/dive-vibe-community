@@ -23,7 +23,7 @@ Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes
 
 - **Location**: Northeast of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Cave (swim-through) and reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15-25 meters

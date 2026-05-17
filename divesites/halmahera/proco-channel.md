@@ -13,54 +13,40 @@ addedBy: osm_import
 
 ## Proco Channel
 
-Proco Channel is a drift dive site in Halmahera, Asia.
+Proco Channel is a drift dive site located between Pulau Salah and Pulau Saleh Kecil, in the Patinti Strait area of South Halmahera, Indonesia.
 
 ## Overview
 
-Proco Channel is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Proco Channel is one of the most talked-about dive sites in the Patinti Strait area, sitting west of Pulau Kusu between two small islands that funnel tidal currents into a powerful flow. The channel features a sublime mix of soft coral and sponge gardens in the shallower sections, while the deeper reaches and current-exposed walls produce serious pelagic action. The site has a reputation for dramatic shark activity when conditions align, and must be timed carefully to the tides — in the wrong conditions it is simply too dangerous to dive. When properly planned, it offers some of the most memorable big-animal encounters in the region.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Depth Range**: 5–30 metres (pelagic action concentrated around 20–24 metres)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Proco Channel is a hotspot for reef sharks, barracuda, giant trevally, eagle rays, and schooling pelagics that ride the current through the channel. The shallower soft coral and sponge gardens host nudibranchs, ghostpipefish, and other macro subjects. The combination of pelagic and macro life in a single dive is one of the channel's great attractions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is conducted as a drift, entering the channel in the shallows where soft coral gardens begin and drifting deeper as the current increases. Pelagic encounters typically occur at 20–24 metres on the current-exposed sections of the wall. An experienced liveaboard guide and a divemaster who knows the channel timing are essential. Strong downward currents (downwellings) have been reported in the Patinti Strait — divers must maintain buoyancy control throughout.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from liveaboard operators running South Halmahera itineraries, or from Proco Island Bambu Resort, which is the nearest land-based operation. The channel is entered by zodiac or dhoni, with divers dropped at the up-current end and picked up at the down-current exit.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive timing relative to tidal flow is critical — ideally the incoming current during a moderate tide. Confirm timing with the liveaboard guide before entering. An SMB should be deployed early so the pickup boat can track your position. Divers should be comfortable performing safety stops in moving water without a reef reference. Dry season (March–November) generally offers the most stable conditions.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+This is strictly an advanced dive site. Downdrafts and unpredictable current surges are documented hazards in the Patinti Strait. Only divers with significant drift experience and good buoyancy control should attempt Proco Channel. An SMB is mandatory. Emergency evacuation to Ternate (speedboat) and then to Manado would be required in a medical emergency. The nearest recompression chamber is in Manado.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [IndoPacificImages – South-West Halmahera Scuba Diving Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/), [Neptune Liveaboards – Halmahera](https://www.neptuneliveaboards.com/blog/halmahera-diving/), [Bluewater Dive Travel – Halmahera](https://www.bluewaterdivetravel.com/destination/halmahera-diving), [Jakare Liveaboard – Halmahera Dive Sites](https://jakare-liveaboard.com/destination/halmahera-moluques/). Last updated 2026-05-17.*

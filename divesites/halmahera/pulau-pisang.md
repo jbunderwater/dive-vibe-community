@@ -13,54 +13,43 @@ addedBy: osm_import
 
 ## Pulau Pisang
 
-Pulau Pisang is a pinnacle dive site in Halmahera, Asia.
+Pulau Pisang is a pinnacle and reef dive destination in southern Halmahera, Indonesia — a group of four islands notable for shark density and unusual macro life.
 
 ## Overview
 
-Pulau Pisang is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pulau Pisang ("banana island") is a group of four islands in southern Halmahera, the largest being Pulau Pisang itself. The area has built a reputation as a shark paradise, with shallow reef slopes covered in hard corals hosting a diverse shark community. An unusual and scientifically notable feature of Pulau Pisang is the presence of endemic amphipods — a crustacean species documented only at this specific location in Halmahera — making it a site of interest to marine biologists and underwater naturalists. The diving takes place on a series of underwater ridges connecting Pulau Pisang to smaller surrounding islands, featuring large pinnacles covered with branching corals.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Southern Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks present at the site include reef sharks (Carcharhinus amblyrhynchos), silvertip sharks (Carcharhinus albimarginatus), whitetip reef sharks (Triaenodon obesus), and blacktip reef sharks (Carcharhinus melanopterus). Moray eels, Napoleon wrasse, anthias, and barracuda are also documented. The site is also noted for bumphead parrotfish schools and pelagic species. The endemic amphipod colony is a unique scientific feature of the site. Coralia Liveaboard also documents large coral heads in the shallows and soft corals in deeper areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives are conducted along the underwater ridges connecting the islands, with pinnacles providing structure from the shallows down to 35 metres. The shallow reef slopes (5–15 metres) are productive for shark encounters, while the pinnacles and connecting ridges offer the depth gradient. Current is variable. Large coral heads in the shallows and giant gorgonians in the deeper sections provide varied habitat across the dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from a liveaboard visiting southern Halmahera. Coralia Liveaboard and Jakare Liveaboard both include Pulau Pisang on South Halmahera itineraries. The nearest significant port is Labuha on Bacan Island or Ternate.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Shark encounters are most consistent in the shallower hard coral zones — do not rush to depth. The endemic amphipod colony requires careful searching and ideally a knowledgeable local guide. Bring a macro lens alongside your wide-angle setup to photograph both the sharks and the unique invertebrate life. Large bumphead parrotfish schools are more commonly encountered in the early morning.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Southern Halmahera is remote with very limited infrastructure. Medical emergencies require evacuation to Ternate and then Manado. The site is exposed to open-ocean swells from the Banda Sea. Carry an SMB, and be prepared for variable current on the ridges. Water temperature is 27–30°C year-round.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Pulau Pisang offers unusual dual opportunities: wide-angle photography of multiple reef shark species on shallow coral slopes, and macro photography of the endemic amphipods and reef invertebrates. The combination of large coral heads in the shallows and dramatic pinnacles at depth makes this a versatile photo destination.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Jakare Liveaboard – Halmahera Hidden Dive Gem](https://jakare-liveaboard.com/halmahera-hidden-dive-gem/), [Coralia Liveaboard – Halmahera](https://www.coralia-liveaboard.com/halmahera-liveaboard-diving/), [X-Ray Mag – Halmahera Liveaboard Diving](https://xray-mag.com/content/halmahera-0). Last updated 2026-05-17.*

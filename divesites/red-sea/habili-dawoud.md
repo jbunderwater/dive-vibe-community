@@ -4,8 +4,8 @@ lat: 24.869924
 lng: 34.994368
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,29 @@ addedBy: osm_import
 
 ## Habili Dawoud
 
-Habili Dawoud is a  dive site in Red Sea, Middle East.
+Habili Dawoud is a submerged pinnacle (habili) in the southern Red Sea, located at approximately 24.87°N, 34.99°E — placing it in the Ras Banas / Marsa Alam offshore zone. In Arabic, "habili" refers to a reef that never breaks the surface. The coordinates are very close to Halg Dawoud (24.87°N, 34.99°E), suggesting these may be the same reef complex recorded under two names from different sources.
 
 ## Overview
 
-Habili Dawoud is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Ras Banas offshore zone hosts numerous named habili pinnacles that are favourite sites for day boats from Marsa Alam and Port Ghalib. Habili dive sites in this region characteristically feature submerged pinnacles rising from sandy seabeds, covered in hard and soft corals, and attracting resident reef fish communities. Pelagic species including reef sharks and tuna are drawn by the exposed offshore position. No operator-confirmed description for this specific site was independently located.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Typical for southern Red Sea habili sites:
+- Blue-spotted stingrays on sandy base
+- Groupers, wrasse, and basslets on the pinnacle flanks
+- Schools of anthias around the coral-covered summit
+- Reef sharks and occasional pelagic species
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate
 
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+**Note:** Coordinates overlap closely with Halg Dawoud — these may represent the same reef recorded under two names.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific operator descriptions found. Last updated 2026-05-17.*

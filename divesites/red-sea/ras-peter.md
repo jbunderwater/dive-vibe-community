@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Ras Peter
 
-Ras Peter is a  dive site in Red Sea, Middle East.
+Ras Peter (also known as Tank Garden or Tank Reef) is a wreck dive site in the Hurghada/Safaga area of the Egyptian Red Sea at approximately 27.85°N, 34.29°E, featuring submerged military vehicles on the seabed.
 
 ## Overview
 
-Ras Peter is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Peter is a unique historical dive site where a collection of submerged military tracked vehicles and support vehicles — together with at least one unexploded landmine — rest on the seafloor at 34–40 m depth. Despite corrosion from their time underwater, many of the vehicles remain remarkably intact, with some still upright. The site is recommended for advanced divers due to the significant depth.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The identity and history of the vehicles and how they came to rest here is not widely documented in the public record. The site appears to pre-date the deliberately sunk Hurghada Underwater Military Museum (created 2023), and represents historical military equipment rather than an artificial reef project.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 34–40 m (advanced divers)
+- **Suitable for**: Advanced divers; depth at limit of recreational diving
+- **Entry**: Boat (deep drift dive)
+- **Visibility**: Variable
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Minimal coral colonisation currently documented. The metal structures are beginning to attract encrusting organisms and small reef fish as the site matures.
 
-## Tips and Recommendations
+## Wreck/History Note
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The specific origin, nationality, and date of loss of the military vehicles at Ras Peter are not documented in available sources. Divers should not approach or disturb the unexploded landmine. Advanced training and appropriate gas planning is required.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divebooker — Ras Peter](https://divebooker.com/ras-peter-baz10801), [SSI Dive Guide — Ras Peter / Tank Garden](https://www.divessi.com/en/mydiveguide/divesite/ras-peter-tank-garden-wreck-egypt-695145), [Zentacle — Ras Peter](https://www.zentacle.com/Beach/4628/ras-peter). Last updated 2026-05-17.*

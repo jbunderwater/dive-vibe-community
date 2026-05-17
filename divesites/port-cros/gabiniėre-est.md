@@ -13,53 +13,45 @@ addedBy: osm_import
 
 ## Gabiniėre Est
 
-Gabiniėre Est is a reef dive site in Port-Cros, Europe.
+Gabiniėre Est is the eastern drop-off dive site of the La Gabinière islet at Port-Cros National Park, French Mediterranean coast.
 
 ## Overview
 
-Gabiniėre Est is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures . De 10 a 40m... Appelé aussi MerouLand. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Gabiniėre Est (the eastern drop-off of La Gabinière) is one of the three main sections of diving around the La Gabinière islet in Port-Cros National Park. The eastern face is characterised by a sloping and then dropping rocky structure, sheltered from easterly winds by the islet's orientation, making it one of the more reliably diveable aspects in varying weather.
+
+The eastern drop-off descends from shallow rocky terrain to approximately 40 metres, with the wall decorated by red gorgonian fans, false coral, yellow gorgonians, and sea urchins. Groupers — the park's signature species, with a measured population of approximately 200 individuals around the islet — are encountered throughout. At around 28 metres on the eastern side, large anglerfish (monkfish) are commonly spotted resting on the substrate. Moray eels, conger eels, crayfish, and scorpionfish occupy the rocky crevices.
+
+The eastern aspect receives moderate current, which drives mid-water life: shoals of barracuda, yellowtails (Seriola dumerili), porgies (dentex), and seabream are frequently seen in the water column. Compared to the southern pinnacles, the eastern drop-off has more moderate conditions and is within reach of Intermediate-level divers, though depth management to 40 metres requires Advanced certification in practice.
+
+## Dive Profile
+
+- **Entry**: Boat only; mooring buoys around the islet
+- **Depth range**: 10–40 m
+- **Conditions**: Sheltered from easterly winds; moderate current possible
+- **Visibility**: Typically 15–25 m in summer
+- **Best season**: May–October
+
+## Marine Life
+
+- **Groupers**: Brown groupers present throughout; approach divers closely due to long-term park protection
+- **Anglerfish**: Commonly spotted at ~28 m on east side, resting on rocky substrate
+- **Pelagics**: Barracuda, yellowtail (amberjack), dentex in mid-water
+- **Reef fish**: Seabream, bogue, wrasse
+- **Invertebrates**: Moray eels, conger eels, crayfish, scorpionfish, sea urchins
+- **Flora**: Red gorgonian fans, false coral, yellow gorgonians
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Protected Status**: Port-Cros National Park
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php). Last updated 2026-05-17.*

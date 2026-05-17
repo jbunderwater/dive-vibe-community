@@ -18,8 +18,8 @@ El Cien is a deep outer reef site with a dramatic drop-off, offering some of Cab
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (outer reef)
-- **Entry Type**: Boat dive (10-15 min from Cabo Pulmo village)
-- **Site Type**: Reef with drop-off
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters

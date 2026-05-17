@@ -69,7 +69,6 @@ Megafauna including tiger sharks, manta rays, dolphins, and whale sharks make re
 
 This is primarily a working harbor and diving hub rather than a standalone dive site. Most divers use Honokohau as the launching point for boat adventures rather than diving directly from the shore here. The adjacent Crescent Beach offers the best shore diving access.
 
-
 ---
 *This dive site information was researched from Kona harbor operator websites and dive community reviews. Last updated 2026-03-16.*
 

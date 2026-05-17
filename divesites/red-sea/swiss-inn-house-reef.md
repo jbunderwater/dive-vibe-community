@@ -2,8 +2,8 @@
 name: Swiss Inn House Reef
 lat: 28.4791456
 lng: 34.4936961
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,25 @@ addedBy: osm_import
 
 ## Swiss Inn House Reef
 
-Swiss Inn House Reef is a  dive site in Red Sea, Middle East.
+Swiss Inn House Reef is the shallow fringing reef adjacent to the Swiss Inn Resort in Dahab, Sinai — a sheltered training reef featuring a coral nursery station and artificial reef structures.
 
 ## Overview
 
-Swiss Inn House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Swiss Inn Resort Dahab (operated by Extra Divers Worldwide) has its house reef entry via the resort's swimmer zone. The reef is characterised by sand and seagrass with scattered small and larger coral blocks; the largest block sits at 12 m, which is also the maximum depth. The site serves partly as an artificial reef where various objects have been placed to encourage coral settlement — functioning as a coral nursery station.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Due to its very shallow maximum depth and sheltered location, the Swiss Inn House Reef is primarily used for Discover Scuba Diving sessions, certification training dives, and gentle warm-up dives. It is not intended as a destination dive but as a convenient entry point to Dahab's reef system.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth 12 m. Sandy slope with seagrass and scattered coral blocks. Calm, protected conditions. Shore entry from the resort's swimmer zone.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Typical Dahab shallow-reef residents: small reef fish, wrasses, surgeonfish, and the occasional octopus or cuttlefish on night dives. The artificial reef structures attract anthias and damselfish.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best used as a check dive, training dive, or orientation for guests newly arrived in Dahab
+- Combine with a boat trip to the Canyon, Blue Hole, or Eel Garden for more diverse diving
 
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Extra Divers Worldwide — Swiss Inn Resort Dahab](https://extradivers-worldwide.com/en/dive-center/country/egypt/dive-center-swiss-inn-resort-dahab_11.html). Additional detail from web search: Swiss Inn house reef maximum depth 12 m, coral nursery function. Last updated 2026-05-17.*

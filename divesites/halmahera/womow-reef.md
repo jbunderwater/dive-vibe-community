@@ -13,54 +13,44 @@ addedBy: osm_import
 
 ## Womow Reef
 
-Womow Reef is a pinnacle dive site in Halmahera, Asia.
+Womow Reef is a seamount dive site in the northern reaches of the Maluku Sea, accessed by liveaboard in North Halmahera, Indonesia.
 
 ## Overview
 
-Womow Reef is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Womow Reef is a submerged seamount whose top rises to approximately 7 metres below the surface, with steep drop-offs falling away on all sides. The reef top is covered in hard corals and hosts large numbers of small schooling fish, while the walls and blue water around the pinnacle attract a consistent population of reef sharks and large pelagics. The site is included in liveaboard itineraries covering North Halmahera and is considered one of the reliable shark-encounter sites in the region. A second site nearby, sometimes called Womow Reef 2, offers similar coral growth and marine life.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: North Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Shallowest Point**: ~7 metres
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Documented species include grey reef sharks, blacktip reef sharks, whitetip reef sharks, tunas, giant trevallies, fusiliers, surgeonfish, and pyramid butterflyfish. The hard coral reef top supports dense communities of smaller reef fish, while the drop-offs bring in the pelagic action typical of exposed Coral Triangle seamounts.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to the reef top at 7 metres and can then follow the walls down to 30–35 metres. Current is generally moderate but can strengthen, making the drop-offs productive for pelagic encounters. The shallow reef top provides an excellent safety stop with good light and coral coverage. Visibility in this part of the Molucca Sea is typically 15–30 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Womow Reef is accessed exclusively by liveaboard from Ternate or Manado. No resort or land-based dive operation services this site. Operators running North Halmahera itineraries include Malaillo Liveaboard and others departing from Ternate.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The shallow reef top at 7 metres makes this site suitable for intermediate divers comfortable with some current. Arriving early in the dive group allows time on the deeper walls before ascending to the productive reef top for the safety stop. The second Womow site is worth combining into the same session if conditions allow.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+North Halmahera is extremely remote. The nearest decompression facility is in Manado. Currents on the drop-offs can be stronger than conditions at the surface suggest — always deploy an SMB before ascending in open water. Water temperature is 27–30°C year-round.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The combination of a hard-coral reef top at 7 metres and reliable shark patrols on the walls makes Womow Reef well suited to wide-angle photography. Good ambient light in the shallows allows natural-light shots of schooling fish, while reef shark encounters on the walls benefit from a fisheye lens and dual strobes.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*

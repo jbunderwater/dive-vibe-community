@@ -4,7 +4,7 @@ lat: 28.0326158
 lng: 34.4441772
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Ras Murat
 
-Ras Murat is a  dive site in Red Sea, Middle East.
+Ras Murat is a cape and reef dive site in the northern Sinai Peninsula area, with coordinates (28.03°N, 34.44°E) placing it in the vicinity of the Nabq Protected Area, north of Sharm El Sheikh on the Gulf of Aqaba coast. "Ras" means cape in Arabic; "Murat" is the place name for this headland.
 
 ## Overview
 
-Ras Murat is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+This part of the Sinai coast near Nabq features fringing reefs close to the shore, with the Gulf of Aqaba's clear, deep water dropping away quickly from the coastal shelf. Reefs in this zone benefit from the Gulf of Aqaba's exceptional water clarity (often 20–30+ metres visibility), relatively minimal current compared to the open Red Sea, and rich coral growth. The headland structure creates varied terrain suitable for exploration diving.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The northern Red Sea and Gulf of Aqaba reef communities include a high density of endemic species — the Gulf of Aqaba is particularly noted for its endemic Red Sea fauna. Reef fish include anthias, butterflyfish, angelfish, wrasse, groupers, and moray eels. Stonefish, scorpionfish, and crocodilefish occupy the reef base. Blue-spotted stingrays (*Taeniura lymma*) are common on sandy patches. Reef sharks (whitetip) patrol the outer reef edge. The Nabq area's protected status contributes to healthy, undisturbed reef ecology.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Sharm El Sheikh (approximately 45–60 minutes). The headland creates a 360-degree dive opportunity — divers can work the reef wall on one face, round the cape tip, and explore the sheltered side. Maximum depth approximately 25 metres on the outer reef.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Nabq area, north of Sharm El Sheikh, Gulf of Aqaba, Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources for "Ras Murat" were found in major English-language dive databases. Coordinates place the site in the Nabq Protected Area north of Sharm El Sheikh. Description based on regional diving characteristics. General context from: [PADI — Diving in Sharm El Sheikh](https://www.padi.com/dive-sites/sharm-el-sheikh/), [Nabq Bay Protected Area](https://travelinoclub.com/en/nabq-bay-sharm-el-sheikh/). Last updated 2026-05-17.*

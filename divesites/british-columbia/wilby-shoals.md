@@ -26,36 +26,26 @@ Wilby Shoals is a shallow reef on the approach to Discovery Passage near Quadra 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Discovery Islands region around Quadra Island is among BC's richest diving environments; humpback whales have been observed at Wilby Shoals itself. The reef structure in this nutrient-driven environment supports lingcod, rockfish, giant Pacific octopus, wolf eels, and kelp greenlings, along with dense invertebrate assemblages of anemones, sponges, tubeworms, sea urchins, and sea stars typical of tidal-current reefs throughout the Discovery Passage system.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive on a shallow reef at 18 m maximum, situated roughly 8 km southeast of Quathiaski Cove on Quadra Island. The shoal's position near the approaches to Discovery Passage means it receives nutrient-rich, current-swept water but may be more accessible than the inner passage sites. Relatively shallow profile allows good bottom time.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only, reached via charter from Campbell River or Quadra Island operators. Live-boat support is standard for Discovery Islands diving. Check current predictions before committing to any dive in this area — tidal exchanges in the region can reach 4.5 m.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Book through Campbell River-based operators (Abyssal Diving Charters, Big Animal Encounters) who dive the Discovery Islands system regularly and know the slack windows for individual sites. Water temperature 8–10 °C year-round; drysuit required. Visibility is typically good (9–20 m) — best in fall and winter.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Even shoals adjacent to Discovery Passage can experience strong tidal flow during exchange. Dive at slack tide and monitor conditions continuously. Cold water requires a well-fitted drysuit. Surface marker buoy deployment before ascent is essential.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Quadra Island — Diving](https://www.quadraisland.ca/adventure-recreation-tours/diving.html), [Scubaverse — Diving Discovery Passage](https://www.scubaverse.com/diving-discovery-passage/), [Mapcarta — Wilby Shoals](https://mapcarta.com/24709032). Last updated 2026-05-17.*

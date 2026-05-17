@@ -3,63 +3,46 @@ name: Um Hal Hal
 lat: 26.7001667
 lng: 34.1109333
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Um Hal Hal
+## Um Hal Hal — Safaga / El Quseir Area
 
-Um Hal Hal is a  dive site in Red Sea, Middle East.
+Um Hal Hal (also known as Um Halhala) is a reef dive site in the central Red Sea, with coordinates (26.700°N, 34.111°E) placing it in the Safaga or northern El Quseir area. It is described as a hidden gem in this part of the Red Sea, valued for calm conditions, healthy coral formations, and a rich diversity of reef fish and invertebrates.
 
 ## Overview
 
-Um Hal Hal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site lies in an area of the Egyptian Red Sea between the busy resort areas of Safaga/Hurghada to the north and the quieter southern region around El Quseir. The reef is noted for its peaceful atmosphere and relatively undisturbed coral formations. A mix of dive types is offered — the PADI site lists it as supporting drift, reef, and ocean diving.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef structure consists of hard and soft corals with a sandy bottom interspersed among the coral heads. Reef fish diversity is high: butterflyfish, angelfish, parrotfish, and anthias are consistent throughout, while groupers, trevally, and barracuda appear at depth. Blue-spotted stingrays rest on sandy patches, moray eels occupy crevices, and octopus are found among the corals. The site's clean water and good visibility make it popular with underwater photographers seeking a calmer alternative to busier northern sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–20 m (maximum depth 20 m per PADI data)
+- **Entry**: Boat dive (the area has no accessible shore entry for this reef)
+- **Currents**: Generally mild; drift diving is possible when current is present
+- **Visibility**: 15–25 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Butterflyfish, angelfish, parrotfish, anthias, groupers, trevally, barracuda, blue-spotted stingrays, moray eels, octopus. Hard and soft corals with colourful invertebrate life. Suitable for underwater photographers at all levels.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of calm conditions, good visibility, and diverse reef life makes Um Hal Hal particularly rewarding for photography. The sandy patches with stingrays and the coral heads with schooling reef fish are the primary subjects.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Safaga / El Quseir area, central Red Sea (approx. 26.7°N)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [PADI — Um Halhala Dive Site](https://www.padi.com/dive-site/egypt/um-halhala-divesite/). No additional site-specific sources were located. Last updated 2026-05-17.*

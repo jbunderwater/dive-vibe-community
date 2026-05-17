@@ -13,54 +13,31 @@ addedBy: osm_import
 
 ## Vallée aux Murènes
 
-Vallée aux Murènes is a reef dive site in French Polynesia, Pacific.
+Vallée aux Murènes ("Valley of the Moray Eels") is a reef dive site in the waters around Moorea, French Polynesia, named for its prominent moray eel population. The site lies within Moorea's outer reef system, where valley-like formations in the reef slope create sheltered habitat for large morays alongside the diverse shark populations for which Moorea is internationally known.
 
 ## Overview
 
-Vallée aux Murènes is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site sits within Moorea's outer reef, where the bottom forms a series of valleys and ridges typically at 20–30 feet (6–9 metres) depth on the ridges, descending deeper into the valley floors. Like most outer-reef sites in Moorea, Vallée aux Murènes requires calm weather conditions with an incoming current for optimal visibility and access. It is considered an exceptional dive that is not always accessible due to weather constraints. The site is suitable for certified divers with some current diving experience.
+
+## Marine Life
+
+Large moray eels — described as impressive and resident at specific valley sections — are the defining feature of the site. Resident morays have been documented at specific mooring points within the valley system. As with all outer-reef Moorea dives, multiple shark species are encountered: blacktip reef sharks, whitetip reef sharks, grey reef sharks, and lemon sharks are all regularly present. Fish populations moving between the lagoon and ocean pass through this corridor, making the marine life diverse and active.
+
+## Dive Profile
+
+Maximum depth is approximately 25 metres at the deepest valley floors; ridge tops are shallower at 6–9 metres. The site is accessed by boat. An incoming current improves both visibility and marine life activity. Weather conditions must be calm for the dive to be conducted safely.
 
 ## Site Information
 
-- **Location**: French Polynesia, Pacific
+- **Location**: Moorea, Society Islands, French Polynesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Diving Moorea – Hacking Family](https://hackingfamily.com/Underwater/Diving/diving_moorea.htm), [Dive Discovery – Moorea Diving](https://www.divediscovery.com/tahiti/divesites/moorea-diving.php), [DeeperBlue – Top 6 Dive Sites in Mo'orea](https://www.deeperblue.com/top-6-dive-sites-moorea-french-polynesia/). Last updated 2026-05-17.*

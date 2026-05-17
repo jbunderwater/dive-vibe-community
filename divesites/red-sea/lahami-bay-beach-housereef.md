@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Lahami Bay Beach Housereef
 
-Lahami Bay Beach Housereef is a  dive site in Red Sea, Middle East.
+Lahami Bay Beach Housereef is the direct shore-entry section of the Lahami Bay Beach Resort housereef in Hamata, southern Egyptian Red Sea. Located 180 km south of Marsa Alam and 10 km south of Hamata village, this is the inner beach-accessible portion of a 1.5 km banana-shaped coral ridge that runs parallel to the Lahami Bay coastline.
 
 ## Overview
 
-Lahami Bay Beach Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The beach housereef is the most accessible section of the Lahami Bay reef system, reachable on foot from the beach. An attractive fringing reef with coral outcrops rising from a sandy plateau creates natural swimthroughs and allows multiple repeat dives with varied routes. Between the beach entry and the reef itself, a seagrass meadow provides sheltered habitat for seahorses. The outer sections of the housereef (accessed by resort boat) offer more dramatic drop-offs and deeper coral formations.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Seahorses in the seagrass meadow between beach and reef
+- Reef fish communities: triggerfish, parrotfish, angelfish, wrasse
+- Lionfish and moray eels in coral crevices
+- Sea turtles as regular visitors
+- Diverse coral assemblages of hard and soft corals
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry directly from the resort beach. Inner reef 5–15 m; coral outcrops and swimthroughs in the 10–25 m range. Calm conditions protected from prevailing winds. Ideal for multiple dives per day as an unlimited housereef.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Explore the seagrass patch near the entry for seahorses — approach slowly
+- Multiple routes through coral outcrops reward repeat dives
+- Evening and night dives offer different species activity
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate — accessible to all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Extra Divers Lahami Bay](https://extradivers-worldwide.com/en/destinations/egypt/extra-divers-lahami-bay/), [Regal Dive – Lahami Bay Beach Resort](https://www.regal-diving.co.uk/lahami-bay-beach-resort), [Zentacle – Lahami Bay Beach Housereef](https://www.zentacle.com/Beach/4872/lahami-bay-beach-housereef). Last updated 2026-05-17.*

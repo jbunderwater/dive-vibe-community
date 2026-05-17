@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Lighthouse Reef
 
-Lighthouse Reef is a reef dive site in Utila, Caribbean.
+Lighthouse Reef is a south side reef wall only 5 minutes by boat from Utila town, identified on the surface by the concrete lighthouse pillar that marks the entrance channel to Utila Harbour.
 
 ## Overview
 
-Lighthouse Reef is a dive site in Utila offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Lighthouse Reef sits just off the main Utila Harbour entrance, making it one of the most conveniently located dive sites on the island. The lighthouse structure — a concrete pillar rising approximately 10 m (30 ft) above the surface — serves as the navigation marker for the harbour channel and doubles as the visual reference for divers entering the water. The reef top begins at around 10 ft (3 m) and the wall drops to 80 ft (24 m), with large rope sponges and varied hard and soft corals along the wall face. Sand patches scattered throughout the reef top support small creature diversity. Its proximity to town means it is frequently visited, but regular sightings of eagles rays and hawksbill turtles confirm the site remains productive.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Lighthouse Reef offers a strong mix of Caribbean wall species. Reported sightings include snapper, green moray eels, porcupine pufferfish, toadfish, hawksbill turtles, and spotted eagle rays. The rope sponges and coral overhangs on the wall face attract a variety of reef fish, and the sand patches on the top provide habitat for flatfish and small critters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Reef top**: ~10 ft (3 m) — shallow and excellent for safety stops
+- **Wall face**: drops to ~80 ft (24 m)
+- **Sponge zone**: varied depths along the wall
+- **Current**: generally mild; proximity to harbour entrance means current can shift with tides
+- **Visibility**: typically 20–30 m
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive, approximately 5 minutes from Utila town. One of the quickest sites to access from the main dive centres.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Popular with both training dives and fun dives due to short boat ride and reliable conditions.
+- Sandy patches on the shallow reef top are worth checking slowly for camouflaged species (toadfish, flatfish).
+- The lighthouse structure itself is a useful surface reference and photography subject.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Colourful rope sponges and moray eels make good portrait subjects. Turtle and eagle ray encounters are unpredictable but the shallow reef top provides good natural light. Macro photographers will find toadfish and small critters in the sand patches.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*

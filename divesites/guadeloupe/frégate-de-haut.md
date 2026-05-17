@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Frégate-de-Haut
 
-Frégate-de-Haut is a reef dive site in Guadeloupe, Caribbean.
+Frégate-de-Haut is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe. It lies adjacent to Frégate-de-Bas, with both sites positioned within the protected lagoon system north-east of Pointe-à-Pitre.
 
 ## Overview
 
-Frégate-de-Haut is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Frégate-de-Haut (Upper Frigate) sits slightly south and inshore of Frégate-de-Bas, with coordinates suggesting both sites are closely related reef features within the Grand Cul-de-Sac Marin reserve. The site is a boat dive reaching a maximum depth of 20 metres, suitable for beginner divers.
 
-## Site Information
-
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Grand Cul-de-Sac Marin is a 15,000-hectare marine reserve protecting the largest coral reef in the Lesser Antilles — nearly 29 kilometres of reef. It is one of Guadeloupe's most biologically rich marine environments, encompassing coral reefs, seagrass beds, and mangroves.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: Shallow to 20 m
+- **Entry**: Boat dive
+- **Current**: Typically calm within the protected lagoon
+- **Conditions**: Sheltered from Atlantic swell; visibility generally good in settled weather
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Grand Cul-de-Sac Marin ecosystem supports French angelfish, yellowtail snapper, hawksbill turtles, red starfish, sea urchins, lobsters, and diverse schooling reef fish. Seagrass beds adjacent to coral reef areas attract juvenile fish and herbivorous species.
 
-## Tips and Recommendations
+## Notes
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+No site-specific published dive guide documentation has been located for Frégate-de-Haut as a named dive site distinct from the broader Grand Cul-de-Sac Marin. Operators based in Sainte-Rose are the primary access point for reef dives in this section of the reserve.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*

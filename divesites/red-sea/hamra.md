@@ -13,53 +13,23 @@ addedBy: osm_import
 
 ## Hamra
 
-Hamra is a  dive site in Red Sea, Middle East.
+Hamra is a reef dive site on the Egyptian Red Sea coast in the Port Ghalib / El Quseir area (lat 25.58, lng 34.63). It is listed as a speedboat-accessible site approximately 10 minutes south from the Port Ghalib / Coraya Bay dive centre jetty.
 
 ## Overview
 
-Hamra is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Hamra sits within the broader El Quseir to Marsa Alam coastal diving zone, an area known for healthy fringing and offshore reefs. Sites in this corridor are accessible by speedboat and feature the coral diversity typical of the central Egyptian Red Sea. The Port Ghalib / El Quseir area is documented to feature reefs suitable for encountering oceanic whitetip sharks, hammerhead sharks, rays, Napoleon fish, and large barracudas on the better offshore sites; closer coastal sites like Hamra provide sheltered reef diving. No detailed site-specific documentation for "Hamra" was found in English-language dive sources beyond its listing in operator schedules.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Port Ghalib / El Quseir area, Red Sea, Egypt — ~10 minutes south of Port Ghalib by speedboat
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Coraya Divers – Dive Spots](https://www.coraya-divers.com/en/marsa-alam/dive-spots/). Hamra listed as a speedboat site from Port Ghalib area. No detailed site-specific description was found. Last updated 2026-05-17.*

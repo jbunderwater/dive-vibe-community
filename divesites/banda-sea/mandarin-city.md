@@ -13,51 +13,40 @@ addedBy: osm_import
 
 ## Mandarin City
 
-Mandarin City is a muck dive site in Banda Sea, Asia.
+Mandarin City is a shallow muck dive site in Banda Neira, located near Hotel Maulana and the old town harbour. It is specifically noted for one of the densest concentrations of mandarinfish (*Synchiropus splendidus*) found anywhere in Indonesia — multiple sources describe it as "arguably the biggest colony of Mandarin fish in the world."
 
 ## Overview
 
-Mandarin City is a dive site in Banda Sea offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site consists of shallow rubble, broken coral heads, collapsed historic sea walls, and jetty rubble in front of the Banda Neira waterfront. Mandarinfish inhabit the small coral heads and rubble piles, emerging at dusk to perform their brief, spectacular mating display. Divers crouch over the rubble in just a few metres of water as the vivid blue, green, and orange fish emerge in pairs for their nightly ritual — one of the most sought-after macro encounters in Indonesia.
 
-## Site Information
-
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Muck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+By day, the site also rewards slow exploration: scorpionfish and crocodilefish rest on the rubble, pipefish hide in sea grass patches, and juvenile batfish and moray eels inhabit the old stone structures. The shallowness and shore-entry access make this the only true beginner site in the Banda Islands, and it is also one of the most unusual — a piece of living history, where a 400-year-old spice trading port now hosts some of the ocean's most flamboyant fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry to a maximum of 12 m, with most productive mandarinfish habitat in 2–8 m. No significant current. Water is calm and clear. Ideal for dusk dives (30–60 minutes before sunset) and night dives.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- Mandarinfish (exceptionally dense colony; best at dusk)
+- Scorpionfish and crocodilefish on rubble
+- Pipefish and juvenile batfish
+- Moray eels in stone rubble
+- Ascidians, sponges, and soft corals on jetty structures
 
-## Tips and Recommendations
+## Entry / Exit
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Shore entry from the Banda Neira waterfront near Hotel Maulana. One of the few accessible shore dives in the Banda Islands.
 
-## Safety Considerations
+## Tips
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Arrive 30–45 minutes before sunset and settle into position over the rubble before the mandarinfish emerge
+- Use a small red-filtered torch for the dusk approach — bright white lights cause the fish to retreat
+- Avoid touching or stirring up the rubble substrate, which disturbs resting fish
+- This site is shore-accessible; no boat required
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A dedicated macro and close-up site. Use a macro lens or wet diopter for mandarinfish portraits. The dusk light creates a challenging low-light environment — set your camera for low-light macro before the dive.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Banda Ocean Divers](https://bandaoceandivers.com/), [Solitude World - Banda Sea Diving](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/), [Mikumba Diving - Banda Neira](https://www.mikumbadiving.com/banda-neira-the-spice-island/). Last updated 2026-04-05.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/). Last updated 2026-05-17.*

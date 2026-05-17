@@ -26,38 +26,36 @@ The Ready lies at the base of old pilings at Britannia Beach in Howe Sound, just
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The CCGS Ready was a former Canadian Coast Guard vessel that sank in January 2011 at Britannia Beach in Howe Sound after colliding with an older, unidentified wood-hulled wreck already on the bottom. She came to rest on her starboard side at approximately 12–15 metres depth, with her mast rising to within 3 metres of the surface. A third, larger wreck (reportedly sunk in the 1980s) lies approximately 49 metres to the south at around 12 metres depth. Britannia Beach was historically one of the most polluted stretches of shoreline in North America due to acid-mine drainage from the Britannia Mine; a capping project completed in 2002 and a water-treatment plant operational since 2005 substantially improved water quality in the surrounding area.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Schools of shiner perch and tube snout are common around the wrecks. Lingcod — including breeding pairs with egg masses in season — have established territories on the hull structure. Giant Pacific octopus occupy cavities beneath the wreck, and nudibranchs are found on encrusting growth across the hull. Dungeness and red rock crabs move through the surrounding silty bottom. Bull kelp grows on the shallower sections of the mast structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Ready sits in 12–15 metres with her mast at roughly 3 metres below the surface, making this a relatively shallow wreck accessible to Advanced Open Water divers. The larger wreck to the south reaches similar depths. Maximum depth to the surrounding seafloor is approximately 15 metres. The collision debris field between the two overlapping wrecks creates an irregular bottom topography worth exploring. The frontmatter maximum depth of 28 m likely reflects the deepest extent of the broader Britannia Beach site rather than the Ready specifically.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Shore entry from the gravel parking area near the former Galileo Coffee Company building at Britannia Beach. The site is unmarked. Gear up at vehicles and enter from the gravel beach, swimming or wading to the wreck. The entry and surrounding area can be silty — buoyancy control matters to avoid stirring sediment and reducing visibility.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Cold water (6–10°C) year-round; drysuit strongly recommended.
+- Silt on and around the wreck is easily disturbed; poor buoyancy control can reduce visibility to near-zero.
+- The wreck is not formally designated; internal penetration is not sanctioned and the structure is unstable.
+- Current in Howe Sound can be present; check conditions before entry.
 
-## Photography
+## Tips and Recommendations
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Dive at high tide to maximize depth and reduce silting at the entry.
+- A surface marker buoy (SMB) is advisable when surfacing between the two wreck areas.
+- Best visibility in late autumn through winter when Howe Sound plankton blooms subside.
+- Britannia Beach Heritage Museum (the old mining facility) is worth combining with a dive day.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Dive at Britannia Beach — Cold Ocean Diver](https://coldoceandiver.ca/britannia-beach), [Britannia Beach Diving — britanniabeach.com](https://www.britanniabeach.com/diving-in-britannia-beach/), [Britannia Beach — Scuba Diver Life](https://scubadiverlife.com/britannia-beach-bc/), [Howe Sound — Divers Alert Network](https://dan.org/alert-diver/article/howe-sound/). Last updated 2026-05-17.*

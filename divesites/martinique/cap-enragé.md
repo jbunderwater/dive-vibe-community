@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Cap Enragé
 
-Cap Enragé is a reef dive site in Martinique, Caribbean.
+Cap Enragé (Furious Cape) is a canyon and drop-off dive site on Martinique's Caribbean coast north of Case-Pilote. The site is characterised by a succession of small canyons and natural corridors descending from the surface to approximately 15 metres, then continuing as a drop-off to around 25 metres.
 
 ## Overview
 
-Cap Enragé is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site's topography consists of a series of canyons with caves, natural arches, and rock corridors between 0 and 25 metres depth. The shallow canyon section down to 15 metres is particularly rich in marine life and well-suited to all experience levels. The site is frequently offered as a drift dive by local operators, making it a good choice for an afternoon outing.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 0–25 m (recorded maximum 22–23 m)
+- **Entry**: Boat dive
+- **Current**: Generally light; conditions support drift diving
+- **Visibility**: Good
+- **Best time**: Afternoon dives — fish activity is highest later in the day; the site is considered ideal for post-lunch excursions
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The canyon walls host large feather gorgonians (*gorgones plumeau*). Commonly encountered species include moray eels, angelfish, stonefish camouflaged in the sand, turtles, lobsters, and octopuses. The site is well regarded for underwater photography due to the variety of invertebrates and reef fish.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The gorgonians and canyon light shafts provide excellent wide-angle subjects. Stonefish, frogfish, and other bottom-dwelling cryptic species are regular macro finds. Afternoon light angles work particularly well for illuminating the canyon interiors.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html). Last updated 2026-05-17.*

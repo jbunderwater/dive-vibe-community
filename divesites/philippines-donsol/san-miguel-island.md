@@ -13,54 +13,48 @@ addedBy: osm_import
 
 ## San Miguel Island
 
-San Miguel Island is a reef dive site in Philippines Donsol, Asia.
+San Miguel Island is a small island off Donsol that serves as a hub for multiple scuba dive sites, offering a contrast to the pelagic experiences at Manta Bowl. The island's dive sites range from hard and soft coral gardens to ledge dives and current points.
 
 ## Overview
 
-San Miguel Island is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+San Miguel Island's surrounding reef offers healthy hard and soft coral gardens with exceptional macro life diversity. A blog account of diving the island describes "an endless field of thriving hard and soft corals" with nudibranchs ("tiny underwater aliens"), colourful reef fish, starfish, frogfish, mandarin fish, and harlequin sweetlips juveniles — characterised by the author as "the best dives of my life."
+
+Liveaboard.com describes the overall San Miguel's dive area as hosting healthy reefs full of macro life, with caves to explore at depth, and dive sites ranging in maximum depth from 16–20 m that cater to all ability levels. The island has multiple named sites, including Bobby's Wall (northern coast), Tres Grace (northern corner beach), Parola (the tip), and Lapus Lapus West and East (eastern side). This general "San Miguel Island" entry represents the island's reef complex as a whole.
+
+## Marine Life
+
+- Abundant hard and soft corals
+- Macro: nudibranchs, frogfish, pipefish, mandarin fish, harlequin sweetlips juveniles, Colmani shrimp, sea snakes
+- Reef fish: angelfish, bannerfish, surgeonfish, groupers, sweetlips
+- Cuttlefish and squid (reported at Lapus Lapus sites)
+- Sharks and rays at the current-exposed tip (Parola)
+- Sea turtles
+
+## Dive Profile
+
+Multiple entry points around the island; all are boat-accessed. Depths range from 5 m (shallow reef crest) to 20 m (sandy bottom below slope). Currents are site-dependent — sheltered cove sites (Bobby's Wall, Tres Grace) are gentle; the tip (Parola) experiences moderate to strong flow.
+
+## Entry/Exit
+
+Boat only. Operators from Donsol run multi-site day trips to San Miguel Island, typically combining 2–3 sites (e.g., Bobby's Wall + Tres Grace + Parola). Boat ride from Donsol is approximately 45 minutes.
+
+## Tips
+
+- A full day at San Miguel Island comfortably covers three sites with surface intervals on the boat.
+- The island's macro diversity rewards slow, thorough dives rather than fast bottom-time dives.
+- Visibility is generally good (15–25 m) when plankton blooms are not heavy.
+
+## Photography
+
+Outstanding macro photography destination. The variety of micro-habitats — sandy slope, limestone wall, soft-coral garden — offers diverse subject options. One underwater photography account rates the macro density here among the best in the Donsol/Ticao region.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: San Miguel Island, off Donsol, Sorsogon Province, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*

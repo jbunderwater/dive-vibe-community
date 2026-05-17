@@ -4,8 +4,8 @@ lat: 24.2133087
 lng: 35.4433966
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Lahami Bay Buoy 3 Batfish Pinnacle
 
-Lahami Bay Buoy 3 Batfish Pinnacle is a  dive site in Red Sea, Middle East.
+Lahami Bay Buoy 3 Batfish Pinnacle is an outer housereef dive site at Lahami Bay Beach Resort (Extra Divers Lahami Bay), accessed by resort boat in Hamata, southern Egyptian Red Sea. The site is named for the batfish (Platax species) that congregate around the pinnacle formation at this outer reef section, which is one of the seven outer reef spots designated by the resort along its 1.5 km housereef.
 
 ## Overview
 
-Lahami Bay Buoy 3 Batfish Pinnacle is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Batfish pinnacles are a characteristic feature of healthy Red Sea reefs, where these large, disc-shaped fish often gather in schools around prominent coral structures. The Batfish Pinnacle at Buoy 3 is a known feature of the Lahami Bay outer housereef, recognised as a highlight site by the resort. The outer housereef sections are accessible by felluka or zodiac and offer more developed reef topography than the inner beach reef.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Batfish (longfin spadefish, Platax teira) in schools around the pinnacle
+- Coral outcrops rising from the sandy plateau with associated reef fish
+- Moray eels and lionfish in pinnacle crevices
+- Sea turtles as regular visitors in this area
+- Seahorses reported in the seagrass zones near the beach entry
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Small boat (felluca/zodiac) access from the beach station; part of the daily housereef boat program (minimum 2 trips daily). Specific depth for the pinnacle not confirmed in available sources; typical Hamata outer housereef depths 10–30 m.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- The batfish schooling behaviour is best observed by approaching slowly and staying near the sandy bottom
+- Often combined with other outer housereef buoy sites in a single boat outing
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Extra Divers Lahami Bay](https://extradivers-worldwide.com/en/destinations/egypt/extra-divers-lahami-bay/), [Regal Dive – Lahami Bay](https://www.regal-diving.co.uk/lahami-bay-beach-resort). Last updated 2026-05-17.*

@@ -25,7 +25,7 @@ Dari Laut is the wreck of an old abandoned floating casino that now rests on a s
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (wreck deepest at ~25 m, bottom at ~30 m)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Variable

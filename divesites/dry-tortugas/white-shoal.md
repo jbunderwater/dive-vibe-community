@@ -26,37 +26,26 @@ White Shoal sits near the eastern boundary of Dry Tortugas National Park, marked
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The mound structure acts as a magnet for marine life in an otherwise open sand flat environment. White Shoal's north side hosts a forest of deep-water sea fans, and careful investigation of nooks and crevices reveals rare black coral. With the exception of elkhorn and staghorn, almost every species of stony coral can be found here according to regional dive guides. The site is an established coral growth monitoring station, indicating long-term reef health documentation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+White Shoal sits near the eastern boundary of the national park, marked by a navigational light tower. Shallow coral heads — which have claimed historic shipwrecks over the centuries — give way to deeper reef structure at 23–24 metres beyond the park boundary. The elevation change from the surrounding sand bottom concentrates both reef fish and open-ocean species. White Shoal, along with Bird Key Reef and Black Coral Rock, is one of three original Coral Reef Evaluation and Monitoring Project (CREMP) monitoring stations in the Dry Tortugas, reflecting its scientific importance. Visibility of 60–120 feet is typical; best during flood tide.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by private or charter boat only. The eastern park boundary location means it is one of the more distant sites from Garden Key. Divers should anchor on sandy bottom clear of coral. Dive charter vessels from Key West offer multi-site day or overnight trips. The Yankee Freedom III ferry cannot carry compressed tanks; air-equipped charter or private vessels are required.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Plan to spend time on the north-side sea fan forest and investigate crevices at depth for black coral. Respect the monitoring station — do not touch or disturb coral. Carry a surface marker buoy given the site's proximity to the park boundary where current can increase. Best visibility occurs during flood tide.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Current can be stronger near the park boundary and in the deeper, open water beyond 23 metres. The site's remote eastern position within an already remote national park amplifies the importance of self-sufficiency. No emergency support exists in the park; the nearest hyperbaric chamber is in Key West. Dive with a surface-equipped charter or vessel, carry VHF radio, and display a dive flag.
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [FWC CREMP Dry Tortugas](https://myfwc.com/research/habitat/coral/cremp/overview/drytortugas/). Last updated 2026-05-17.*

@@ -25,7 +25,7 @@ The Poor Knights Islands are perched on the edge of the continental shelf, 23 ki
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters

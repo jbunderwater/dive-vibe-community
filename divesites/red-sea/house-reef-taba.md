@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## House Reef Taba
 
-House Reef Taba is a  dive site in Red Sea, Middle East.
+House Reef Taba is a shore dive site in Taba, located at the northernmost tip of the Gulf of Aqaba at the Egyptian–Israeli border. Taba is the northernmost diving destination on the Egyptian Red Sea, and house reefs in this area give divers direct beach access to the Gulf of Aqaba's clear, reef-lined shores.
 
 ## Overview
 
-House Reef Taba is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Taba and the surrounding area (Taba Heights) are characterised by calm Gulf of Aqaba conditions, excellent visibility, and fringing reefs that are accessible directly from the shore. The site is ideal for training, beginner divers, and underwater photographers. The Gulf of Aqaba's northern section features rich coral communities along nearshore reef walls. Popular named sites in Taba include Abou Lou Lou House Reef (groupers, moray eels, lionfish) and El Mazeriq (hard coral hills and valleys with a famous giant brain coral). The "House Reef Taba" designation in OSM likely refers to the fringing reef of a specific Taba resort — exact property identity not confirmed.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Gulf of Aqaba fringing reefs in the Taba area typically support:
+- Groupers, moray eels, and pufferfish in reef structure
+- Lionfish abundant on the reef walls
+- Crabs and shrimp in crevices
+- Coral gardens with diverse hard coral formations
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry. Calm Gulf of Aqaba conditions; minimal swell. Excellent visibility typical. Depth range 0–25 m along the fringing reef wall.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Taba, northern Gulf of Aqaba, Egyptian Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate — suitable for all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Egypt Tours Plus – Diving in Taba](https://www.egypttoursplus.com/diving-in-taba/), [Divernet – Taba Heights](https://divernet.com/scuba-news/egypts-taba-heights-is-back/). Last updated 2026-05-17.*

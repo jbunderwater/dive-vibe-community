@@ -4,7 +4,7 @@ lat: 25.9714525
 lng: 34.3658137
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,19 @@ addedBy: osm_import
 
 ## Helioland
 
-Helioland is a  dive site in Red Sea, Middle East.
+Helioland is a dive site at coordinates 25.97°N, 34.37°E, which places it in the Safaga offshore reef zone, south of Hurghada. The name "Helioland" does not appear in major published dive guides or operator sites for the Safaga region; it may be a historical or locally used name for a reef in this area, possibly a variation of "Helgeland" or another European place-name given by early dive pioneers.
 
 ## Overview
 
-Helioland is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Safaga area is known for its offshore ergs and reef systems, including well-known sites such as Panorama Reef, Tobia Arba, and the Salem Express wreck. Reefs in this zone at 25–26°N latitude offer typical northern Red Sea fringing and offshore reef characteristics: rich coral growth, diverse fish communities, and good visibility. No site-specific descriptions for "Helioland" from local operators were independently located.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Safaga offshore reef zone, central Egyptian Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific dive sources found for this name. Last updated 2026-05-17.*

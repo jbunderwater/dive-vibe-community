@@ -13,55 +13,40 @@ addedBy: osm_import
 
 ## Halliburton Wreck
 
-Halliburton Wreck is a historic wreck dive in Utila, Caribbean.
+The Halliburton is the largest wreck dive around Utila — an approximately 100 ft (30 m) cargo ship intentionally sunk in 1998 to create an artificial reef, now sitting perfectly upright on the sandy bottom in 100 ft (30 m) of water.
 
 ## Overview
 
-Halliburton Wreck is a dive site in Utila featuring the wreck of the Halliburton Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Halliburton was deliberately sunk in 1998 as a community-led project to provide Utila with a dedicated wreck dive site. The vessel lies upright on the seafloor at 100 ft (30 m), with the main deck at approximately 85 ft (26 m) and the bridge top reachable at around 65 ft (20 m). The hull rises in a near-vertical wall of steel encrusted with coral and sponges, and several sections of the wreck — including the cargo hold, wheelhouse, and engine room — are accessible for penetration dives. The wheelhouse reportedly contains a plaque reading "Jesus Was A Pirate" and dive memorabilia left by visiting professionals. Nitrox is recommended to extend bottom time at this depth. The site suits Advanced divers and is used for wreck specialty training by local operators.
 
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Visibility in Utila regularly exceeds 100 ft (30 m), making the full profile of this wreck viewable from mid-water on descent.
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has become an established artificial reef ecosystem over more than 25 years. Documented residents include large green moray eels, fire worms, nudibranchs, sea slugs, small shrimp, and crabs in the crevices. Schools of snapper and blue runners circle the structure, and fusiliers pass through. Tiger groupers have been reported guarding the wheelhouse. Spotted eagle rays visit the surrounding sand.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Maximum depth**: 100 ft (30 m) — seafloor
+- **Main deck**: ~85 ft (26 m)
+- **Bridge top**: ~65 ft (20 m)
+- **Hull top**: accessible mid-water
+- **Penetration**: cargo hold, wheelhouse, engine room — accessible but requires proper training
+- **Nitrox**: strongly recommended for extended bottom time
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. The wreck is moored and accessed by descent line.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced certification minimum; Wreck Diver specialty training is offered here by local operators.
+- Penetration of the cargo hold and interior requires proper wreck diving training and equipment (lights, line).
+- Nitrox extends bottom time at 85–100 ft significantly.
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Wreck penetration carries overhead environment risks. All penetration dives should be conducted only by divers with proper training and working dive lights. Do not enter without a certified guide on first visits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Scuba Diver Life – Halliburton Wreck, Utila](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Lena on the Move – Dive Guide Utila](https://lenaonthemove.com/dive-guide-utila/). Last updated 2026-05-17.*

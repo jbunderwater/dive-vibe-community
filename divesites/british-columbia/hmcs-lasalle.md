@@ -26,38 +26,30 @@ HMCS Lasalle was a River-class frigate that served with the Royal Canadian Navy 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+HMCS LaSalle (K519) was a River-class frigate built by Davie Shipbuilding & Repairing Co. Ltd. at Lauzon, Quebec. She was laid down 4 June 1943, launched 11 December 1943, and commissioned into the Royal Canadian Navy on 29 June 1944 at Quebec City. After working up in Bermuda, LaSalle returned to Canada in October 1944 and joined Escort Group EG 27 for convoy escort duties in the Battle of the St. Lawrence, conducting anti-submarine patrols and support operations until June 1945. She was paid off at Esquimalt on 17 December 1945, sold to Capital Iron & Metals Ltd. of Victoria in 1947, stripped, and sunk as a breakwater at Kelsey Bay, BC in 1948. She lies near sister ships HMCS Longueuil and HMCS Runnymede along the Kelsey Bay foreshore.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The strong tidal currents of Discovery Passage maintain cold, highly oxygenated water around the Kelsey Bay hulks, supporting rich invertebrate communities on the steel hull surfaces. Plumose anemones — white and orange — colonize the exposed metalwork. Lingcod and cabezon take up position on elevated hull sections. Rockfish including copper and quillback species shelter in the corroded structure. The complex substrate of deteriorating steel provides den sites for giant Pacific octopus. Nudibranchs occupy sponge-covered surfaces throughout. Sea pens may be found in adjacent sediment areas where tidal flow is reduced.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The LaSalle breakwater hulk lies along the Kelsey Bay foreshore in Discovery Passage. The hull has settled into the silty bottom and is partially collapsed and buried, but substantial steel structure remains accessible. Depth at the site is reported to approximately 28 meters on the seaward side. Discovery Passage generates significant tidal currents — the narrow channel between Vancouver Island and Quadra Island funnels large tidal volumes and currents can run 3–5 knots or more at maximum flow. Diving is planned around slack water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access. The nearest dive charter operations are based in Campbell River (approximately 40 km south of Kelsey Bay via Highway 19), which is the practical hub for Discovery Passage boat diving. The Kelsey Bay site is also reachable by small boat from the Kelsey Bay Marina at Sayward.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Plan the dive on the slack-water window for Discovery Passage — current predictions for Seymour Narrows are used as a reference, with local adjustment. The three Kelsey Bay frigates (LaSalle, Longueuil, Runnymede) are in proximity and can be part of a multi-site liveaboard or multi-day charter trip. The site is remote — advance planning with a Campbell River charter is strongly advised.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Discovery Passage currents are the dominant hazard: plan carefully around slack water and have strict abort criteria. Drysuit required (water 7–10°C). The wrecks are partially collapsed — penetration is not advised without structural assessment. Remote location means emergency response times are long.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Lasalle (K519)](https://en.wikipedia.org/wiki/HMCS_Lasalle_(K519)), [uboat.net — HMCS LaSalle](https://uboat.net/allies/warships/ship/186.html), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*

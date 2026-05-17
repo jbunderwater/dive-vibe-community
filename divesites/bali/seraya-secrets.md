@@ -22,7 +22,7 @@ Seraya Secrets is located near the village of Seraya, roughly 3 kilometres south
 ## Site Information
 
 - **Location**: Seraya, East Bali, Indonesia (approximately 3 km SE of Tulamben)
-- **Entry Type**: Shore entry (access by car from Tulamben)
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

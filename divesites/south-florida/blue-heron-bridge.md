@@ -26,37 +26,39 @@ Iconic shallow-water shore dive at Phil Foster Park in Riviera Beach, accessible
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Blue Heron Bridge is widely regarded as Florida's exotic critter capital. Documented residents include lined and longsnout seahorses, multiple pipefish species, Atlantic longarm (mimic) octopus, Caribbean reef octopus, and striated, ocellated, dwarf, and Sargassum frogfish. Sea robins, flying gurnards, and several batfish species (polka-dot, shortnose, roughback) work the sandy areas alongside stargazers, jawfish, blennies, and gobies. Schools of spadefish hold around the east-bridge sailboat wreck, and rainbow parrotfish, French and queen angelfish, and large green and spotted moray eels live on the pilings. Decorator crabs, arrow crabs, banded coral shrimp, mantis shrimp, and squid round out the macro list, with over 100 documented nudibranch species. Seasonal sightings include spotted eagle rays, nurse sharks, goliath grouper, and manatees in winter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 3 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-3 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site sits in Lake Worth Lagoon just inside Lake Worth Inlet, with depths from about 4 feet at the swim entry out to roughly 20 feet near the boat wrecks under the bridges. Two structures define the dive: the taller west bridge (over the main channel) with columned pilings and the "Red Wall" of pink and red sponges, and the lower east bridge with a submerged sailboat and resident spadefish school. The Phil Foster Park Snorkel Trail runs roughly 800 feet between the bridges in 6 to 10 feet of water and includes more than 600 tons of Anastasia limestone boulders, reef balls, mini wrecks, and hammerhead shark statues. Slack high-tide visibility commonly runs 20 to 40 feet and can briefly exceed 80 feet.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry is from the sandy beach inside Phil Foster Park (900 Phil Foster Park Drive, Riviera Beach), reached from the bridge's island midpoint. The park has free parking that fills early on weekends and holidays, plus restrooms, outdoor showers, picnic shelters, and a fishing pier. Most divers gear up at their vehicles, walk the short path to the beach, surface-swim to the bridge pilings, then drop down and work the structure before returning to the same beach.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Enter the water about 30 minutes before high slack tide. The usable window is roughly one hour before to one hour after high tide; outside that window currents pick up and visibility drops sharply.
+- Check the published Blue Heron Bridge high-tide tables before the trip and plan around the published slack times, not generic Riviera Beach tides.
+- A divers-down flag is mandatory in Florida and you must stay within 300 feet of it.
+- No spearfishing, lobstering, or wildlife handling is permitted in the park.
+- Night diving is only allowed under a county permit; Pura Vida Divers and Force-E run permitted night dives.
+- The east-side park has marked swim areas that are off-limits to divers.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- The marked boat channel passes directly under the west bridge and parallel to the park. Surface only inside the protected wading/dive zone and stay clear of the channel and the larger bridge spans.
+- Fishing is active from both bridges; watch for monofilament, hooks, and lead weights around the pilings.
+- Outside the slack-tide window, currents through Lake Worth Inlet are strong enough to push divers under the bridge and into traffic. Abort if you cannot hold position.
+- Florida sun, heat, and dehydration are the most common surface issues; bring water and shade gear.
+- Avoid contact with fire coral and hydroids on the pilings; lionfish are present.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The site has been ranked the best shore dive in the world by Sport Diver and is the most-photographed macro site on the Florida coast. The combination of shallow depth, long bottom times, and consistent presence of seahorses, frogfish, pipefish, octopus, and over 100 nudibranch species makes it a year-round macro destination. Wide-angle work is more limited but the bridge pilings, the snorkel-trail hammerhead statues, and the east-bridge sailboat are common subjects.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Pura Vida Divers - Blue Heron Bridge](https://www.puravidadivers.com/dive-blue-heron-bridge-phil-foster-park/), [Force-E Scuba Centers - Blue Heron Bridge](https://www.force-e.com/go-diving/shore-dive-sites/blue-heron-bridge-at-phil-foster-park/), [DAN Alert Diver - Blue Heron Bridge](https://world.dan.org/alert-diver/article/blue-heron-bridge/). Last updated 2026-05-17.*

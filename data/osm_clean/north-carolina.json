@@ -19,25 +19,6 @@
     }
   },
   {
-    "name": "Bedfordshire (Wrack)",
-    "lat": 34.3120167,
-    "lon": -76.45025,
-    "osm_id": 663869492,
-    "osm_type": "node",
-    "depth": 32,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "nc-wreckdiving.com/WRECKS/BEDFORD, monitor.noaa.gov/shipwrecks, discoverydiving.com/diving/dive-sites",
-    "tags": {
-      "historic": "wreck",
-      "name": "Bedfordshire (Wrack)",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "U-576 (Wrack)",
     "lat": 34.51,
     "lon": -75.22,

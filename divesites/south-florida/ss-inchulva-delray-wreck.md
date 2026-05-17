@@ -26,38 +26,36 @@ Historic 1903 steamship wreck resting in 25 feet (7.6m) of water approximately 1
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Tarpon are a signature species at the Inchulva, with large schools regularly hovering in the water column above the boiler field in the calm, shallow conditions. Yellowtail snapper, hogfish, and parrotfish work the encrusted boiler debris, while nurse sharks rest on the sandy bottom amid the scattered ironwork. Spiny lobster and green moray eels are found throughout the wreck site, and southern stingrays glide across the sand between the boiler sections.
+Large tarpon are reported as a signature sighting at the wreck. The remains are encrusted with soft and hard corals in yellows and reds, with tiny hermit crabs across the structure and resident red-and-white coral-banded shrimp and neon-blue cleaner shrimp working the crevices.
+
+## Vessel History
+
+The S.S. Inchulva was a 386-foot, 48-foot beam, steel-hulled British steamship of 4,823 gross tons built in 1892 by W. Gray & Co. Ltd. at West Hartlepool, England. Originally christened *Alberta*, she was renamed for the Inch Shipping Company. She departed Galveston, Texas on September 6, 1903 bound for Newport News, Virginia under Captain G.W. Davis, carrying wheat, lumber, and cotton with a crew of 28. On September 11, 1903, she was caught in the Florida Hurricane off Delray Beach; her steering gear failed and her anchors parted. She grounded and broke apart less than 150 yards offshore at roughly 5 p.m. Nine crew members drowned. A naval court of inquiry exonerated Captain Davis and the surviving officers.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 7.6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies broken into five sections in 15–25 feet (5–7.6 m) of water about 150 yards off the south end of Delray's municipal beach. The boilers are the most recognizable surviving feature; a debris field of plates, ribs, and other ironwork is scattered across roughly 70 feet, with portions covered or uncovered by sand depending on recent storms and tide cycles. Conditions are shallow enough for snorkelers to free-dive the structure on calm days; scuba is needed to spend time on the deeper sections.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore dive from the south end of Delray's public beach — most divers stage from Anchor Park or the Seagate Beach Club area and swim or paddle the 150 yards out to the site. There is no permanent mooring; the wreck is found on a compass heading directly offshore from the historical marker on the multi-use path. Calm seas and low tide give the best visibility.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Best diving is typically in spring with calm seas; surge can be significant in shallower swell.
+- Pick a day with low east-component swell — the site is fully exposed to onshore wind and chop.
+- A historical marker on the beach side commemorates the wreck and points roughly toward the site.
 
 ## Safety Considerations
 
-Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Shore swims of ~150 yards through Atlantic surf can be hazardous in any onshore wind; assess the break before entering.
+- South Florida sun exposure during the surface swim is intense.
+- Boat traffic and recreational watercraft transit close to shore — fly a dive flag and tow it on the swim out and back.
+- Hydroids and fire coral grow on the wreckage; wear exposure protection.
+- Surge in shallow water can push divers onto sharp iron plates — maintain distance from the structure when swell is up.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Delray Wreck](https://en.wikipedia.org/wiki/Delray_Wreck), [Palm Beach County History Online — Final Voyage and Sinking of SS Inchulva](http://pbchistory.blogspot.com/2016/08/final-voyage-and-sinking-of-ss-inchulva.html), [Downtown Delray Beach — The Delray Wreck](https://downtowndelraybeach.com/go/the-delray-wreck), [Florida Backroads Travel — Delray Shipwreck Inchulva](https://www.florida-backroads-travel.com/delray-shipwreck-inchulva.html), [Wanderlog — SS Inchulva The Delray Wreck](https://wanderlog.com/place/details/10409034/ss-inchulva-the-delray-wreck). Last updated 2026-05-17.*

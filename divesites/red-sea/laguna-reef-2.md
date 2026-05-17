@@ -4,7 +4,7 @@ lat: 27.9939833
 lng: 34.4923667
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## Laguna Reef (2)
 
-Laguna Reef (2) is a  dive site in Red Sea, Middle East.
+Laguna Reef (2) is a dive site on the western side of Tiran Island, at coordinates placing it in the Tiran Strait at approximately 28.00°N, 34.49°E. Tiran Island's western coast hosts the Laguna reef system, which is divided by a transverse hard coral wall into North Laguna and South Laguna. This entry (marked as "(2)") likely corresponds to a secondary entry or mapping of the same reef complex, or possibly a separate section of the lagoon wall.
 
 ## Overview
 
-Laguna Reef (2) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Tiran Island's Laguna Reef is described by Camel Dive Club as a drift dive along the outer wall of South Laguna, running between the lagoon entrance and the green beacon depending on current direction. The reef is bordered by a madreporic (hard coral) formation standing over a coral lagoon averaging 10–12 m depth. Strong tidal currents influence this site, making afternoon dives preferable. South Laguna (also known locally as Marsa Shabir) offers the best mooring in the region.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Schools of butterflyfish along the hard coral wall
+- Glassfish pinnacles adorned with gorgonian fan corals
+- Larger pelagic species cruising in the current
+- Rich reef fauna among hard and soft corals
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive from Sharm El Sheikh (approximately 30–45 minutes). Current-dependent drift dive along the outer wall. Depth 10–25 m on the plateau, with the wall descending further. Suitable for all levels but best experienced as a drift; current can be strong and change direction. Best in the afternoon when tidal conditions favour a predictable current.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Tiran Island, Strait of Tiran, northern Red Sea (Sharm El Sheikh area)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Camel Dive Club – Laguna Reef](https://www.cameldive.com/dive-sites/laguna-reef/), [redsea-diving.com – Lagoona Reef](https://www.redsea-diving.com/lagoona-reef/). Last updated 2026-05-17.*

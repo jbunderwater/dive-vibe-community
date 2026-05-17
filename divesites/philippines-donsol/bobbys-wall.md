@@ -13,55 +13,48 @@ addedBy: osm_import
 
 ## Bobby's Wall
 
-Bobby's Wall is a wall dive site in Philippines Donsol, Asia.
+Bobby's Wall is a multi-feature dive site on the northern part of San Miguel Island, combining a sloping sandy bottom, ledges, coral formations, and a sheer wall section with caverns and overhangs.
 
 ## Overview
 
-Bobby's Wall is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site sits in a small cove near San Miguel Island adjacent to a fishing village. Shark Diving Philippines describes the site as a blend of terrain types: sandy slope, ledges, reef wall, steep slope, rock formations, and sheer wall with caverns and overhangs. This mixed topography creates habitat diversity uncommon in a single site — macro critters inhabit the sandy slope and ledges while the wall and overhang sections hold encrusting corals, sponges, and soft corals.
+
+The UW Photography Guide notes the sandy slope and small coral heads near Bobby's Wall are exceptionally rich with macro subjects. Reported species during one visit included Colmani shrimp on fire urchins, nudibranchs, pipefish, frogfish, and coriocella. The Te Moana Expeditions guide adds that schools of anchovies and tunas pass through in the water column alongside the wall, with soft corals contrasting against the white sandy bottom — a site suitable for all skill levels.
+
+Bobby's Wall I and Bobby's Wall II are sometimes listed as separate entries by local operators, with slight variations in depth and terrain.
+
+## Marine Life
+
+- Macro invertebrates: nudibranchs, pipefish, frogfish, Colmani shrimp (on fire urchins), coriocella
+- Schooling anchovies and tunas in the water column alongside the wall
+- Soft corals and encrusting sponges on wall and overhang sections
+- Moray eels, scorpionfish, stonefish in crevices (reported by Shark Diving Philippines)
+
+## Dive Profile
+
+Boat entry near the cove on the northern side of San Miguel Island. Divers can work the sandy slope at shallower depths (6–12 m) for macro, then drop to the wall section (to 18 m maximum). The mixed topography allows divers to structure the dive by interest — shallow macro on the slope, deeper wall for soft corals and larger fish.
+
+## Entry/Exit
+
+Boat only from San Miguel Island / Donsol operators.
+
+## Tips
+
+- The sandy slope between the cove and the wall is worth spending significant time on — macro life density can be very high.
+- Bring a magnification diopter lens; the site rewards macro photographers.
+- Suitable as a second dive after Manta Bowl given the manageable depth and sheltered cove entry.
+
+## Photography
+
+Excellent macro site. The contrast between white sand and dark overhang sections also suits wide-angle compositions. Natural light reaches 18 m well in calm, clear conditions.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Northern San Miguel Island, Donsol area, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-18 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*

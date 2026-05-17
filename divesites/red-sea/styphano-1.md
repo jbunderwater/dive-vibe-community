@@ -4,7 +4,7 @@ lat: 23.5473
 lng: 35.80345
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,22 @@ addedBy: osm_import
 
 ## Styphano 1
 
-Styphano 1 is a  dive site in Red Sea, Middle East.
+Styphano 1 is a reef site in the southern Red Sea in the Fury Shoals region south of Marsa Alam — an area comprising approximately 20 reefs stretching 30 km along the Egyptian coast north of Ras Banas.
 
 ## Overview
 
-Styphano 1 is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates (lat 23.55, lon 35.80) place this site firmly within the Fury Shoals reef system, one of Egypt's most pristine and least-trafficked diving areas. Styphano 1 and Styphano 2 (approximately 2 km apart) appear to be two distinct sections or nodes within the same named reef structure.
 
-## Site Information
+The Fury Shoals system offers a variety of dive types: sheltered shallow dives, wall diving, fast drift dives, and occasional small wrecks on the reef edges. Hard coral reefs in this area rise to the surface with maximum recreational depths around 25 m. The system is accessible primarily by liveaboard due to the distance from shore bases.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+No independent source has been found specifically documenting "Styphano 1" by name. The site is classified within the Fury Shoals context.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Typical Fury Shoals depth range: surface to 25 m. Hard coral reef rising to the surface. Area conditions vary from sheltered and calm to exposed with current depending on orientation. Liveaboard access only in most cases.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The Fury Shoals are known for pristine hard and soft corals, abundant reef fish, dolphins frequently encountered in the area, turtles, and reef sharks on outer exposures. The enclosed lagoon areas within the reef system provide calm habitat for macro life and juvenile fish.
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific source was found for Styphano 1 by name. Description based on Fury Shoals regional characteristics. [Dive the World — Fury Shoals](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php), [ScubaDiverLife — Fury Shoals](https://scubadiverlife.com/dive-site-fury-shoals-red-sea/). Last updated 2026-05-17.*

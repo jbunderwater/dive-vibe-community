@@ -13,53 +13,25 @@ addedBy: osm_import
 
 ## Aquarium (2)
 
-Aquarium (2) is a  dive site in Red Sea, Middle East.
+Aquarium (2) is a reef dive site in the Gulf of Aqaba at approximately 29.39°N, 34.82°E, in the Taba / Nuweiba area of Egypt's northeastern Sinai coast. This is a geographically distinct site from the "Aquarium" entry (27.14°N, 33.95°E) which is located near El Quseir — these are not duplicates.
 
 ## Overview
 
-Aquarium (2) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates (29.39°N, 34.82°E) place this site on the northern Gulf of Aqaba coast between Taba and Nuweiba — a section known for shore-accessible reef diving in calm, clear water with minimal currents. The Gulf of Aqaba in this zone is warm year-round, with water temperatures staying above 21°C, and the calm conditions make it particularly suitable for beginner divers.
 
-## Site Information
+"Aquarium"-style dive sites in the Taba/Nuweiba area are typically named for the dense, colourful fish populations that concentrate in shallow reef gardens — resembling a marine aquarium. Sites in this area typically feature depths of 6–18 m, coral outcrops on sandy slopes, and a wide variety of reef fish species easily approached by divers.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+No site-specific source for this exact OSM entry ("Aquarium 2") in the Taba/Nuweiba zone was found in dive guides, though the Taba area is described as having excellent beginner diving.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Shallow (likely 5–25 m based on Gulf of Aqaba Taba-zone sites)
+- **Current**: Minimal (Gulf of Aqaba location)
+- **Entry**: Shore (Taba-area sites are primarily shore-accessed)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The Gulf of Aqaba supports clownfish, lionfish, butterflyfish, grouper, moray eels, turtles, blue-spotted stingrays, and juvenile reef fish typical of an "aquarium" reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Taba Diving Guide — Egypt Tours Plus](https://www.egypttoursplus.com/diving-in-taba/), [Dive Site Directory — Taba](https://www.divesitedirectory.co.uk/red_sea_nuweiba_taba.html). No site-specific source found for this exact OSM entry. Last updated 2026-05-17.*

@@ -24,10 +24,10 @@ The wreck's harbour location and shallow depth make it one of the most accessibl
 ## Site Information
 
 - **Location**: Gizo Harbour, Ghizo Island, Western Province
-- **Entry Type**: Boat dive from Gizo (short ride within the harbour)
-- **Site Type**: Wreck dive (former WWII Fairmile motor launch)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 metres
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally sheltered within the harbour

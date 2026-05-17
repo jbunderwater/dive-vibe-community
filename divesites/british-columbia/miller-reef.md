@@ -26,36 +26,26 @@ Miller Reef is situated in Barkley Sound on the exposed west coast of Vancouver 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound's rocky reefs support an exceptional diversity of cold-water species. Quillback, china, copper, and tiger rockfish hold tight to the structure. Lingcod and cabezon occupy ledges and overhangs. Giant Pacific octopus are reliably encountered in crevices at depth. Wolf eels appear in den openings throughout the rocky substrate. Plumose anemones, nudibranchs (including alabaster, orange-peel, and giant red varieties), fish-eating anemones, and sea cucumbers coat the reef surfaces. Sea otters, Steller sea lions, and harbor seals are present in the wider sound.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Miller Reef is a rocky reef site in Barkley Sound reaching to approximately 18 metres maximum depth. The reef structure offers ledges and rocky relief attractive to lingcod and rockfish. Barkley Sound generally experiences lighter currents than the inner waterways of Vancouver Island, making the site more accessible than tidal passage dives. The remote location requires a significant boat journey — most Barkley Sound divers depart from Port Alberni and travel roughly 40 kilometres down Alberni Inlet before entering the sound.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Most divers arrive via charter from Port Alberni; Rendezvous Dive Adventures operates from this port. The Barkley Sound trip typically involves an overnight or multi-day expedition given travel distances. Mooring or anchoring at the reef is standard for the area.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Winter months bring water clarity of 30 metres or more, while summer algae blooms can reduce visibility to 10 metres near the surface — though conditions typically improve below 12 metres. A drysuit or thick 7 mm wetsuit is required; water temperatures range 8–10°C in winter and can approach 19°C at the surface in summer. Book well in advance with local operators as Barkley Sound trips fill quickly.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Water temperatures at depth remain cold year-round (8–10°C); thermal protection is non-negotiable. Barkley Sound is exposed west coast — weather and sea state can change rapidly. Defer to the charter operator's judgment on site conditions and access. Surface conditions can be rough in offshore swell.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Rendezvous Dive Adventures — Barkley Sound](https://rendezvousdiving.com/barkley-sound-diving/), [Scuba Diver Life — Barkley Sound](https://scubadiverlife.com/scuba-diving-barkley-sound/). Last updated 2026-05-17.*

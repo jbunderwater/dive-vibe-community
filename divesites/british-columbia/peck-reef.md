@@ -26,36 +26,26 @@ Peck Reef is a rocky reef in the southern Gulf Islands between Salt Spring Islan
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Peck Reef's current-fed structure supports the dense invertebrate communities characteristic of tidally active southern Gulf Islands sites. Plumose anemones dominate the upper surfaces, supplemented by encrusting sponges, decorator crabs, nudibranchs, and shrimp. Lingcod and multiple rockfish species hold on prominent outcrops. Giant Pacific octopus den in the deeper crevices. The shallower sections near the reef's crown receive the most nutrients and light, supporting the densest marine growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef peaks in the shallows and descends to 18 metres, with the main biological interest concentrated in the mid-range depths where current and ambient light overlap. Tidal flow through the nearby passages — Sansum Narrows and Active Pass are the primary current drivers in this part of the southern Gulf Islands — delivers nutrients and maintains visibility. Winter months offer the clearest water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Launch from Salt Spring Island or the Saanich Peninsula. Coordinate with local operators who know the specific tidal timing for this reef's location.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Plan the dive around slack tide. The shallower sections reward methodical searching for nudibranchs and decorator crabs. A safety sausage/SMB is essential for ascent. This is typical Gulf Islands reef diving — rewarding when timed right, challenging when the current is running.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (7–10°C) demands a dry suit. Tidal currents are the primary hazard; confirm the slack window using local tidal predictions. A live boat above is strongly recommended. Carry a surface marker buoy.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving — Salt Spring Island Tourism](https://saltspringisland.com/things-to-do-and-see/outdoor-adventure/diving/), [Gulf Islands Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [Diving Coastal BC — X-Ray Mag](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*

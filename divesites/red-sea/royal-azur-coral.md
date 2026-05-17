@@ -13,53 +13,35 @@ addedBy: osm_import
 
 ## Royal Azur Coral
 
-Royal Azur Coral is a  dive site in Red Sea, Middle East.
+Royal Azur Coral is the house reef associated with a hotel property in the Hurghada area of Egypt's Red Sea coast, with coordinates (26.99°N, 33.92°E) placing it in the central Hurghada resort zone. The name references the Azur chain of resort hotels present in the Hurghada area; the "Coral" designation indicates the reef directly in front of the property.
 
 ## Overview
 
-Royal Azur Coral is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Hotel house reefs in the central Hurghada zone provide convenient shore-entry diving directly from the beach, as is standard for Red Sea resort properties with a fringing reef. The broader Hurghada reef zone features hard and soft corals, diverse reef fish, and clear water with typical visibility of 15–25 metres. House reefs in this area are generally accessible to all certification levels and provide relaxed, convenient diving without the need for a boat.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+House reefs in the Hurghada zone support typical central Egyptian Red Sea communities: parrotfish, wrasse, groupers, moray eels, lionfish, blue-spotted stingrays, and schools of damsels and fusiliers. Eagle rays, trumpet fish, puffer fish, clownfish in anemones, and occasional dolphins or sharks have been reported at nearby Hurghada resort house reefs. Octopus and cuttlefish are active on night dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the hotel beach with direct access to the fringing reef. The reef runs from the shallows (3–5 metres) to approximately 20–25 metres at the outer wall or slope. Multiple dive profiles available depending on the section explored.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Direct shore entry from the Royal Azur hotel beach. The house reef is accessible to hotel guests; a dive centre on or adjacent to the property typically provides equipment and guided options.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Hurghada, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources for "Royal Azur Coral" as a named dive site were found in major dive databases. The site is a hotel house reef in the Hurghada resort zone, documented by its OSM coordinate record. General regional context for Hurghada house reefs from: [Tripadvisor — Arabia Azur Resort Coral Reef](https://www.tripadvisor.com/Hotel_Review-g297549-d651119-Reviews-Arabia_Azur_Resort-Hurghada_Red_Sea_and_Sinai.html), [ScubaBoard — Hurghada Dive Resort with House Reef](https://scubaboard.com/community/threads/hurghada-dive-resort-with-house-reef.629844/). Last updated 2026-05-17.*

@@ -3,63 +3,62 @@ name: Zabargad West
 lat: 23.6166667
 lng: 36.1833333
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Zabargad West
+## Zabargad West — Khanka / Russian Wreck Bay
 
-Zabargad West is a  dive site in Red Sea, Middle East.
+The western side of Zabargad Island (also known as St. John's Island) is home to a sheltered bay that protects one of the Red Sea's most intriguing dive sites: the wreck of a former Soviet surveillance vessel, known locally as the Khanka or "Russian Wreck." The wreck rests at 24 metres in the bay, and the surrounding reef offers sloping coral walls and a resident diversity of pelagic and reef species.
 
 ## Overview
 
-Zabargad West is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Zabargad Island is Egypt's largest offshore island in the deep south of the Red Sea, located approximately 70 km from the mainland near the Sudanese border. It is accessible only by liveaboard — typically on "South" or "Deep South" itineraries departing from Port Ghalib or Marsa Alam. The western bay provides the main sheltered anchorage and night diving area for liveaboards.
 
-## Site Information
+The Khanka is a roughly 70-metre vessel whose design closely resembles the Soviet MOMA-class (Project 861M), originally built for oceanographic research but often used for signals intelligence. Sinking is estimated around 1970 based on coral growth, though the circumstances remain unknown — two large openings in the bow and stern allowed flooding, whether by accident or design. The bow has separated from the main hull and lies on its port side; the remaining hull sits nearly keel-down with a slight lean. The main mast breaks the surface at low tide, making this a natural navigation reference. The hull, deck, and superstructure are extensively covered in corals.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Features accessible to divers include the cargo holds (bow section), the bridge and chart room, engine room (via hatches), large winches, anchor chains, and the helm and control room remnants. Much onboard equipment was removed prior to or shortly after sinking, though Cyrillic markings and evidence of antenna arrays are still visible.
 
-## Marine Life
+## Wreck History
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: Khanka (identity unconfirmed; MOMA-class design)
+- **Type**: Soviet oceanographic / surveillance vessel; approximately 70 m length
+- **Sunk**: Estimated circa 1970 (based on coral growth)
+- **Cause**: Unknown; two large hull openings in bow and stern
+- **Depth**: Maximum 24 m; mast breaks surface at low tide
+- **GPS (western bay)**: N 23° 36.854′, E 36° 12.386′
+- **Access**: By liveaboard only
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 2–24 m (mast at 2 m surface; maximum wreck depth 24 m)
+- **Currents**: Minimal in the sheltered western bay
+- **Visibility**: 15–30 m
+- **Penetration**: Experienced divers only for narrow internal spaces; the site occasionally closes due to military restrictions
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The western bay and reef slope support hammerhead sharks, oceanic whitetip sharks, grey reef sharks, sea turtles (including nesting greens in summer), moray eels, octopuses, crocodilefish, and a variety of reef fish. The coral-covered wreck is itself a miniature reef with anthias and damselfish.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The wreck's coral-encrusted hull, Cyrillic markings, and accessible bridge structure make for atmospheric wide-angle photography. The mast breaking the surface creates a dramatic reference shot.
 
-## Additional Resources
+## Safety
 
-- **Last Updated**: 2026-04-11
+Internal penetration of the wreck requires appropriate training and equipment. The site may be subject to military access restrictions. Confirm access with your liveaboard operator before diving.
+
+## Site Information
+
+- **Location**: Western bay, Zabargad Island, deep southern Red Sea (~70 km offshore, near Sudan border)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 24–30 m (reef slope beyond wreck)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — The Shipwreck of Zabargad](https://www.redsea-diving.com/the-shipwreck-of-zabargad/), [The Scuba News — The Khanka](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-khanka-aka-the-russian-wreck/), [No Troubles Just Bubbles — Zabargad Island](https://www.notroublesjustbubbles.com/diving-destinations/egypt/zabargad-island). Last updated 2026-05-17.*

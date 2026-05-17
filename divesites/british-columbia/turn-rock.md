@@ -26,36 +26,31 @@ Turn Rock sits in the waters near the southern tip of the Gulf Islands, close to
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Southern Salish Sea reef sites at the BC-Washington border are documented for lingcod (including large individuals on rocky structure), quillback and copper rockfish, black rockfish schools, cabezon, and kelp greenling in the kelp beds. Mosshead warbonnets and decorated warbonnets inhabit crevices. Swimming scallops are found on mixed rock-sand substrates. Giant Pacific octopus are common throughout the southern Gulf Islands. Sea stars — including sunflower stars — patrol the reef edges. Harbour seals and harbour porpoises are frequently encountered in this busy southern channel.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Rocky reef to 18 metres in the southern Salish Sea near the BC-Washington border (coordinates 48.53°N, 122.96°W place this site near the Canadian San Juan Islands / southern Gulf Islands). The site is subject to tidal currents flowing through the southern channel system. Visibility is variable but typically good in autumn and winter. A boat drop directly onto the reef is the most efficient approach given the exposed location.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access. The site coordinates suggest a remote southern Gulf Islands / Haro Strait position requiring boat charter from Victoria, Sidney, or nearby launch points. No shore access.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Tidal currents through southern Salish Sea channels can be strong — dive at or near slack water.
+- Cold water (7–12°C) year-round; drysuit recommended.
+- Exposed southern channel location; surface conditions can deteriorate rapidly in southerly winds.
+- Boat must remain on station; use a shot line for descent in current.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Dive at predicted tidal slack and use the current chart for the nearest reference station (Race Passage or Admiralty Inlet).
+- Bull kelp on the shallower sections provides habitat for kelp greenling and smaller species worth investigating on the ascent.
+- Autumn through early winter (October–January) gives best visibility in this southern corridor.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [British Columbia's Southern Gulf Islands — X-Ray Mag](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/). Last updated 2026-05-17.*

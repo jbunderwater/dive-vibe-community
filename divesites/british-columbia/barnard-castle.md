@@ -26,38 +26,34 @@ The Barnard Castle was a 260-foot iron steam collier built in 1878 that struck R
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The Barnard Castle was an iron steam screw collier built in 1878 in England, 260 feet (79 m) long and capable of carrying 2,500 tons of cargo. After working Atlantic trade routes between Liverpool and New York, the vessel was chartered by R. Dunsmuir & Sons in 1881 to run coal between Nanaimo and San Francisco; Dunsmuir purchased her outright in October 1886. On 2 November 1886, while on passage south with coal, she struck Rosedale Reef. The captain managed to limp the damaged hull to Bentinck Island and beach her in Pilot Bay, but the ship sank following unsuccessful salvage attempts. In 1992, the Underwater Archaeological Society of BC (UASBC) placed eight interpretive plaques along the wreck, establishing one of BC's few formal underwater heritage trails.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck's iron structure and surrounding kelp forest attract dense schools of black rockfish — reportedly large schools can be encountered directly over the hull. Lingcod hold position among the scattered hull plating and machinery. The site's location near Race Rocks ecological reserve means harbor seals and Steller sea lions are frequently seen in the water column or hauled out nearby. The boiler structures and crevices in the deteriorating hull provide habitat for giant Pacific octopus.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Barnard Castle lies in Pilot Bay on the south side of Bentinck Island, in approximately 12 meters of water (the frontmatter lists a site maximum of 28 m, likely reflecting the slope extending from the wreck toward deeper water). Main features are two large Scotch boilers, the propeller shaft tube, sections of deck plating, and crankshafts. The site is often covered in thick bull kelp. Current is generally light in Pilot Bay compared to the exposed Race Passage immediately to the south, though Race Rocks is an area of strong tidal flows and conditions can change quickly. Navigation to the wreck can be difficult — live-boat pickup is standard.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+All-boat dive. Charters depart from Pedder Bay Marina in Metchosin (approximately 20 minutes from the site). Live-boat pickup is used during the dive. Pedder Bay is the closest practical launch point for Race Rocks-area dives.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Follow the UASBC interpretive trail plaques to make sense of the scattered machinery — the boilers are the most recognizable features. Thick kelp canopy can complicate buoyancy at the surface; plan ascents away from dense kelp. Check Race Rocks tidal predictions before booking: diveable windows typically center on slack water. Water temperature is 7–10°C year-round; a drysuit is essential.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Water temperature ranges 7–10°C; drysuit required. The adjacent Race Passage generates some of the strongest tidal currents on the BC coast — currents at the wreck site in Pilot Bay are more moderate but can become uncomfortable with wind against tide. Kelp entanglement risk at the surface. The site lies within the Race Rocks Ecological Reserve boundary area; no collecting of any materials.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The interpretive trail plaques make interesting wide-angle framing targets alongside the encrusted ironwork. Schools of black rockfish above the wreck offer opportunity for fish-behavior images. The Scotch boilers, heavily draped in plumose anemones and encrusting invertebrates, suit ambient-light macro work.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Race Rocks — Shipwrecks](https://racerocks.ca/shipwrecks-around-race-rocks/), [UASBC — Nanette & Barnard Castle](https://uasbc.com/exploration-dive-trips/nanette-barnard-castle), [Victoria BC Diving — Bentinck Island](http://www.victoriabcdiving.com/bentinckisland.html), [ScubaBoard — Barnard Castle video thread](https://scubaboard.com/community/threads/feb-12-2017-barnard-castle-wreck-southern-tip-of-vancouver-island-video.540562/). Last updated 2026-05-17.*

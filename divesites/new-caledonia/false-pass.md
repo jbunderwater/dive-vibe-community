@@ -25,7 +25,7 @@ The site is a break in the barrier reef that is dived as a drift. The highlight 
 
 - **Location**: Near Poum, northern tip of Grande Terre, New Caledonia (410 km N of Noumea)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive with tunnel
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-40 meters

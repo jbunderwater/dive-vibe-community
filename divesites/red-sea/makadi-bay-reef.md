@@ -2,8 +2,8 @@
 name: Makadi Bay Reef
 lat: 26.9977982
 lng: 33.9100742
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,39 @@ addedBy: osm_import
 
 ## Makadi Bay Reef
 
-Makadi Bay Reef is a  dive site in Red Sea, Middle East.
+Makadi Bay Reef is the house reef of Makadi Bay, a modern beach resort area located approximately 30 km south of Hurghada. The bay's house reef sits directly in front of the resort strip and is operated by several dive centres including Scuba World Divers and IDive Makadi Bay. It is one of the most accessible shore dive sites in the northern Red Sea.
 
 ## Overview
 
-Makadi Bay Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Makadi Bay house reef extends from a shallow entry at 3–5 m down to 30 m on the outer reef structure. The main reef platform lies at approximately 14–18 m. The site is notable for regular turtle sightings — two turtles are described by local operators as frequent residents. The reef is diverse enough to reward repeated dives, with distinct zones from the shallow coral rubble near the jetty through to the drop-off and sandy patches at depth.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Resident sea turtles (two individuals regularly encountered)
+- Scorpionfish and stonefish on coral rubble — exercise caution
+- Blue-spotted rays on sandy patches
+- Octopus, pipefish, and seahorses in sheltered areas
+- Crocodile fish, moray eels, and lionfish throughout
+- Occasional bowmouth guitarfish (mangrove ray) and eagle rays
+- Pyramid boxfish and diverse reef fish
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the jetty — just a few steps from the dive centre. Descend to 3–5 m then follow the reef down to 14–18 m (main reef) or 30 m (maximum). Minimal current; suitable for all levels. Good visibility. The Sabina reef section and artificial reef structures add interest in the shallows.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- The shallow reef near the jetty rewards careful searching for macro subjects
+- Turtle encounters are near-certain on morning dives
+- Multiple routes allow varied profiles on repeat dives
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Makadi Bay, ~30 km south of Hurghada, northern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 meters
+- **Difficulty**: Beginner — suitable for all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Scuba World Divers – Makadi Bay House Reef](https://www.scubaworlddivers.com/makadi-bay/dive-sites/makadi/house-reef-makadi-bay), [Extra Divers Makadi Bay](https://extradivers-worldwide.com/en/dive-center/country/egypt/dive-center-cleopatra-luxury-resort-makadi-bay_1136.html). Last updated 2026-05-17.*

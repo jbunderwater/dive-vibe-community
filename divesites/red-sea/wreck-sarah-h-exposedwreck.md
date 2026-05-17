@@ -3,63 +3,58 @@ name: Wreck Sarah H ExposedWreck
 lat: 27.777901
 lng: 33.875656
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 17
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Sarah H ExposedWreck
+## Wreck Sarah H — The Kingston, Shag Rock
 
-Wreck Sarah H ExposedWreck is a  dive site in Red Sea, Middle East.
+The wreck known locally as "Sarah H" is in fact the SS Kingston, a British iron cargo steamer that ran aground on Shag Rock in the Strait of Gubal on 22 February 1881. For many years the wreck was misidentified and named after a local divemaster, until British wreck researcher Peter Collings confirmed its true identity as the Kingston in 1996.
 
 ## Overview
 
-Wreck Sarah H ExposedWreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Kingston was built in 1871 at the Oswald Shipbuilding Company yards in Pallion, Sunderland, England. She measured 78 metres (262 feet) in length, weighed 1,436–1,448 GRT, and achieved a cruising speed of 10 knots. On her final voyage, she departed Cardiff on 28 January 1881 carrying 1,740 tonnes of coal bound for Aden, with a crew of 25. On the night of 22 February 1881, she struck Shag Rock Reef at speed in the Strait of Gubal. Despite attempts to free the vessel by jettisoning coal, rescue efforts failed and the ship sank on 20 February (some accounts give 22 February as the grounding date). No crew were lost.
 
-## Site Information
+The wreck now lies completely upright at the base of Shag Rock, with the bow at approximately 5–10 metres and the stern at around 17 metres, making it an excellent recreational dive. The hull is heavily colonised by hard and soft corals, providing habitats for a wide variety of reef species. The impressive coral garden surrounding the wreck makes it a favourite among underwater photographers in the South Sinai area.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: SS Kingston
+- **Built**: 1871, Pallion (Sunderland), England; Oswald Shipbuilding Co.
+- **Type**: Iron screw steamer; 1,436–1,448 GRT
+- **Dimensions**: ~78 m length, 10 m beam
+- **Last cargo**: 1,740 tonnes of coal; Cardiff to Aden
+- **Grounded/sunk**: February 1881, Shag Rock Reef, Strait of Gubal
+- **Misidentification**: Long called "Sara H" or "Sarah H" after a local divemaster; true identity confirmed 1996 by Peter Collings
+- **Depth**: 5–17 m (bow shallower, stern deeper)
+- **Orientation**: Upright on sandy bottom
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–17 m
+- **Conditions**: Moderate; currents can run through the Strait of Gubal — time dives at slack water when possible
+- **Best time**: Second dive of the day (shallow depth ideal)
+- **Visibility**: 15–25 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Dense coral encrustation hosts anthias, chromis, parrotfish, wrasse, groupers, and moray eels. Sandy patches around the hull support blue-spotted stingrays and flatfish. The wreck's shallow position brings strong light for excellent colour and photography.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Regarded as one of the best underwater photography sites in South Sinai due to the combination of clear water, ambient light at shallow depth, and photogenic coral-covered hull. The coral colonies on the iron hull are well-established and colourful.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Shag Rock, Strait of Gubal (near Sharm El Sheikh)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 17 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [The Scuba News — The Kingston (aka Sarah H)](https://www.thescubanews.com/2014/01/22/featured-red-sea-wreck-the-kingston-aka-sarah-h/), [Blue Force Fleet — Kingston Wreck](https://www.blueforcefleet.com/blog/red-sea-wrecks-kingston/), [ScubaDiving.place — Kingston/Sarah H](https://scubadiving.place/divesite/kingston-wreck). Last updated 2026-05-17.*

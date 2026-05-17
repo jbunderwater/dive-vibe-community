@@ -8,34 +8,31 @@ WWII wrecks and sand tiger shark encounters in the 'Graveyard of the Atlantic'.
 
 ## Description
 
-North Carolina is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 20 to 20 meters. North Carolina is particularly known for WWII U-boat wrecks, sand tiger sharks, Graveyard of the Atlantic. Notable sites include U-352, Caribsea, Papoose. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+The waters off North Carolina's Outer Banks — the "Graveyard of the Atlantic" — hold one of the highest concentrations of shipwrecks on the US East Coast, with more than a thousand documented losses spanning colonial-era vessels, Civil War casualties, and WWII U-boat and merchant ship wrecks. The region is also a reliable destination for sand tiger shark encounters, which aggregate at several wrecks seasonally. Diving is primarily offshore wreck diving from charter boats out of Beaufort, Morehead City, Hatteras, and Wrightsville Beach.
 
 ### Diving Opportunities
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **WWII Wreck Diving**: U-boat wrecks (notably U-352), torpedoed merchant ships, and Allied wartime losses, mostly in 30–40 m of water.
+- **Sand Tiger Shark Encounters**: Sand tigers aggregate at certain wrecks, with the warmer months generally offering the most consistent sightings.
+- **Boat Diving**: All offshore wrecks are reached by charter boat; some inshore reefs and artificial reefs are also accessible.
 
 ### Accessibility
 
-- **Getting There**: North Carolina is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Coastal Carolina Regional Airport (EWN, New Bern) and Wilmington International (ILM) are the closest hubs; many divers drive from Raleigh-Durham (RDU) or further inland.
+- **Dive Operators**: Established wreck-charter operators run trips from Beaufort/Morehead City and Hatteras during the dive season.
+- **Accommodation**: Lodging is widely available along the Outer Banks coast.
 
-### Marine Life & Environment
+### Conditions
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Type**: Warm-temperate Atlantic, influenced by the Gulf Stream — water clarity often improves dramatically when Gulf Stream water moves onshore.
+- **Season**: Typical dive season runs roughly May to October; offshore wreck trips are highly weather-dependent.
+- **Visibility, currents, and temperature**: Vary substantially with proximity of the Gulf Stream and seasonal conditions; confirm with the chosen operator before booking.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
 - **Currency**: US Dollar
 - **Language**: English
-- **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Many wrecks sit deep enough (30 m+) to require Advanced or technical training. Offshore weather and current changes can be abrupt. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-05-17.*

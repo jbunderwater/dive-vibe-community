@@ -4,7 +4,7 @@ lat: 28.1278569
 lng: 34.4443703
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,42 @@ addedBy: osm_import
 
 ## Nabeq
 
-Nabeq is a  dive site in Red Sea, Middle East.
+Nabeq (also spelled Nabq) is a reef dive site within Nabq Protected Area, a nature reserve approximately 35 kilometres north of Sharm El Sheikh on the Gulf of Aqaba coast of the Sinai Peninsula. Declared a protected area in 1992, Nabq covers 600 square kilometres (including 130 km² of marine area) and is notable for being home to the most northerly mangrove forest in the world — a 4.8-kilometre fringe of *Avicennia marina* trees running along the shoreline.
 
 ## Overview
 
-Nabeq is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Diving at Nabeq takes place on the offshore coral reefs accessible from the protected bay. The reefs are rich in hard and soft corals and support abundant invertebrate and fish life. Visibility offshore is generally good, though the proximity to the mangroves can cause some sediment-related reduction in clarity in the shallow inshore zones. The reefs are in excellent condition owing to the area's protected status.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Gulf of Aqaba reefs at Nabeq host a typical northern Red Sea reef community: colourful reef fish, invertebrates, and mollusks. The mangrove forest inland provides critical nursery habitat for juvenile fish, boosting the density of reef fish populations on the adjacent reefs. Ospreys, waders, and herons are visible above water. Nubian ibex, gazelles, and other desert mammals inhabit the surrounding reserve. The marine environment includes the full range of Red Sea reef species — butterflyfish, wrasse, groupers, moray eels, and small reef sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Offshore reef diving accessible by boat from the bay. Depths range from shallow reef tops to approximately 25 metres at the reef edge. The site is generally accessible to Intermediate-level divers.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access. Shore entry through the mangroves is not appropriate; the mangrove ecosystem is protected and fragile.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The reserve entrance requires a permit; arrange access through Sharm El Sheikh dive operators.
+- Avoid disturbing the mangrove root systems — they are a rare, protected ecosystem.
+- Sediment near the mangrove shore can limit inshore visibility; head offshore for clearer water.
 
-## Safety Considerations
+## Site Information
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Nabq Protected Area, 35 km north of Sharm El Sheikh, Gulf of Aqaba, Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
+- **Protected Status**: Nabq Protected Area (since 1992)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Lonely Planet — Nabq Protectorate](https://www.lonelyplanet.com/egypt/sinai-coast/attractions/nabq-protectorate/a/poi-sig/1453521/1330651), [Egypt Today — Nabq Reserve](https://www.egypttoday.com/Article/6/21750/8-facts-to-know-about-Nabq-reserve-Sharm-El-Sheikh), [Daily News Egypt — Nabq Protected Area](https://www.dailynewsegypt.com/2020/05/17/untouched-natural-splendours-and-wildlife-at-nabq-protected-area/). Last updated 2026-05-17.*

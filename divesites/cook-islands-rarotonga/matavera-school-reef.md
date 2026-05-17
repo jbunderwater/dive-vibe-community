@@ -24,10 +24,10 @@ Despite the impressive topography, coral cover at this site is the lowest observ
 ## Site Information
 
 - **Location**: Northeast corner, off Matavera School, Rarotonga, Cook Islands
-- **Entry Type**: Boat dive (12 minutes from Avatui Harbour)
-- **Site Type**: Volcanic reef/wall
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (wall drops to 100+ meters)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 40+ meters
 - **Water Temperature**: 24-27 degrees C
 - **Current**: Generally mild

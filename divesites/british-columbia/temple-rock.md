@@ -26,36 +26,30 @@ Temple Rock is a reef site in the Strait of Georgia north of Nanaimo, in an area
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Reef sites in the northern Strait of Georgia in the Powell River / Texada–Lasqueti Island area are documented for yellow cloud sponge (*Aphrocallistes vastus*) patches, boot sponges, rock scallops, and sea cucumbers on hard substrate. Schools of rockfish — including black, quillback, and copper rockfish — hold station around rocky reef structure. Lingcod are the primary large predator. Giant Pacific octopus use crevices throughout. Harbour seals are common and frequently approach divers in the northern Strait of Georgia. Kelp greenling, red Irish lords, and cabezon round out the rocky-reef fish community. Nudibranchs and feather stars occur on encrusting invertebrate growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Rocky reef to 18 metres in the northern Strait of Georgia, which provides clearer, cleaner water than the southern approaches due to lower runoff influence. Visibility is best in late autumn and winter, with spring plankton blooms temporarily reducing clarity. The site coordinates (49.62°N, 124.10°W) place it in the waters northwest of Nanaimo toward Texada Island. No specific profile data was found for Temple Rock specifically; conditions described reflect the documented northern Strait of Georgia reef zone.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access. Dive charters from Nanaimo, Powell River, or the Comox Valley serve reefs in this part of the Strait of Georgia.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Cold water (7–12°C) year-round; drysuit recommended.
+- Spring plankton blooms (March–June) can severely reduce visibility.
+- Confirm site coordinates and current conditions with a local charter before diving.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Late October through February offers the clearest water in the northern Strait of Georgia.
+- Cloud sponge colonies, where present, indicate high-quality cold water and are a highlight of northern Strait reefs.
+- Harbour seals in this area are notably curious and may follow divers throughout the dive.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Nanaimo BC Dive Sites — ScubaBC](https://www.scubabc.ca/scuba-diving-in-nanaimo-bc/), [Diving Coastal British Columbia — X-Ray Mag](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*

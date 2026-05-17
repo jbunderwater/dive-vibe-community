@@ -13,50 +13,40 @@ addedBy: osm_import
 
 ## Pohon Miring
 
-Pohon Miring is a reef dive site in Banda Sea, Asia.
+Pohon Miring ("Crooked Tree") is a drift dive site on the northeastern tip of Banda Besar. The site is named for a distinctive leaning tree on the shore above the dive site. Divers come here for an impressive swim-through tunnel and for the convergence of north and south currents that aggregates large schools of pelagic fish.
 
 ## Overview
 
-Pohon Miring is a dive site in Banda Sea offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The defining feature of Pohon Miring is a 15-metre-long almond-shaped swim-through tunnel at 26–30 m depth. The passage walls are lined with orange dendronephthya soft corals, barrel sponges, and sea fans — making it one of the more visually striking structures in the Banda Islands. Moray eels, scorpionfish, leaffish, and ghost pipefish inhabit the tunnel and its surrounds.
 
-## Site Information
-
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+At the current-swept plateau above and beyond the tunnel, north and south current systems meet, creating an upwelling that concentrates bumphead parrotfish, Napoleon wrasse, dogtooth tuna, and emperor angelfish in large numbers. This is a drift dive: divers descend, transit the tunnel, and are swept along the reef in the combined current flow. Sweetlips and black snappers are found on the outer reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drift dive on the northeastern tip of Banda Besar. The swim-through is at 26–30 m; the current-swept plateau above is at 15–20 m. Currents can be strong where north and south flows converge. Plan a drift exit and coordinate pickup with the liveaboard tender. Visibility: 20–30 m. Water temperature: 27–29°C.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- Bumphead parrotfish (schools, on current-swept plateau)
+- Napoleon wrasse, dogtooth tuna
+- Emperor angelfish, sweetlips, black snappers
+- Moray eels, scorpionfish, leaffish
+- Ghost pipefish in the tunnel interior
+- Orange dendronephthya soft corals, barrel sponges, sea fans
 
-## Tips and Recommendations
+## Entry / Exit
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat dive with drift exit. Entry at the uptide end of the site; pickup at the end of the drift. Strong current makes this an intermediate-to-advanced drift dive despite the 30 m maximum depth.
 
-## Safety Considerations
+## Tips
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- The swim-through is the centrepiece — follow the guide through in single file
+- Station yourself on the upcurrent side of the tunnel exit to catch bumphead parrotfish returning to the plateau
+- Best current for fish action: moderate incoming push from either direction
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The orange dendronephthya in the swim-through makes a striking frame for wide-angle shots with a diver or school of fish visible at the exit. The plateau's bumphead parrotfish schools are a classic wide-angle subject.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Banda Ocean Divers](https://bandaoceandivers.com/), [Solitude World - Banda Sea Diving](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/), [Mikumba Diving - Banda Neira](https://www.mikumbadiving.com/banda-neira-the-spice-island/). Last updated 2026-04-05.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*

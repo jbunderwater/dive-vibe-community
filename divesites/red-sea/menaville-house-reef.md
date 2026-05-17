@@ -3,7 +3,7 @@ name: Menaville House Reef
 lat: 26.7889274
 lng: 33.9377439
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 8
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,38 @@ addedBy: osm_import
 
 ## Menaville House Reef
 
-Menaville House Reef is a  dive site in Red Sea, Middle East.
+Menaville House Reef (also listed as Menaville Hotel Reef) is the in-front-of-hotel fringing reef of the Menaville Hotel in Safaga, on Egypt's Red Sea coast approximately 60 kilometres south of Hurghada. Menadive, an SSI/PADI dive centre, operates from the hotel and provides direct access to the reef. The site is small and shallow, making it an ideal introduction to Red Sea reef diving.
 
 ## Overview
 
-Menaville House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef is a compact fringing reef directly in front of the Menaville Hotel. Maximum depth is approximately 8 metres (around 26 feet), and the shallow clear-water environment makes it well suited to first open water dives, refresher dives, and snorkelling. The site is primarily used by resort guests learning to dive or seeking a quick, uncrowded reef experience.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the hotel beach leads directly onto the reef. The shallow, calm conditions allow extended bottom time and unhurried exploration. Divers should be aware of boat traffic during peak periods — around 08:30 and 15:30 when dive boats transit near the site.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Direct shore entry from the Menaville Hotel beach. The Menadive dive centre on site offers guided dives and instruction.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Avoid diving around 08:30 and 15:30 due to boat traffic in the area.
+- The site is best suited for beginner and refresher dives rather than experienced divers seeking challenging profiles.
+- Nearby Safaga reefs (including more advanced sites such as Abu Kafan and Abo Galawa) can be accessed by boat from the Menadive centre for divers wanting more challenging conditions.
 
-## Safety Considerations
+## Site Information
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Safaga, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 8 metres
+- **Difficulty**: Beginner
+- **Access**: Menaville Hotel guests; Menadive centre on site
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle — Menaville House Reef](https://www.zentacle.com/Beach/9878/menaville-house-reef), [Regaldive — Menaville Hotel](https://www.regal-diving.co.uk/menaville-hotel). Last updated 2026-05-17.*

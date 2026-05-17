@@ -11,55 +11,29 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Aquanaut house reef
+## Aquanaut House Reef
 
-Aquanaut house reef is a  dive site in Red Sea, Middle East.
+Aquanaut House Reef is the dive site associated with Aquanaut Dive Club, located at Sand Beach Hotel in Hurghada at approximately 27.26°N, 33.82°E. Aquanaut Dive Club has operated in Hurghada since 1992 and is noted as the first and only dive centre in Hurghada to use speedboats for diving operations, accessing more than 40 dive sites in the northern Red Sea.
 
 ## Overview
 
-Aquanaut house reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The house reef at Aquanaut Dive Club (Sand Beach Hotel) provides direct shore access for resort guests and day divers. Hurghada's nearshore reefs in this zone feature typical northern Red Sea coral communities. Aquanaut's primary dive operations focus on boat trips to notable offshore sites including Umm Gamar, Carless Reef, Giannis D, the Carnatic, and Dolphin House (Shaab El Erg), rather than a prominent house reef. The house reef serves for training, check dives, and shore diving.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Hurghada nearshore reefs typically support:
+- Reef fish: angelfish, parrotfish, triggerfish, wrasse
+- Moray eels and lionfish in coral structure
+- Occasional dolphins near the Shaab El Erg system
+- Blue-spotted stingrays on sandy patches
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Sand Beach Hotel, Hurghada, northern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate — suitable for training and all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Aquanaut Dive Club – Dive Sites](https://www.aquanautclub.com/dive-sites), [Aquanaut Dive Club – Dive Center](https://www.aquanautclub.com/dive-center). Last updated 2026-05-17.*

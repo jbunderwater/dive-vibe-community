@@ -24,10 +24,10 @@ Today the seabed along approximately 200 metres of shoreline is littered with mi
 ## Site Information
 
 - **Location**: Northern end of Tulagi, Florida Islands, Solomon Islands
-- **Entry Type**: Shore dive
-- **Site Type**: Wreck/debris field (WWII military surplus dump)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild close to shore

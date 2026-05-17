@@ -26,9 +26,6 @@ Porteau Cove is located on the east side of Howe Sound, 24 km north of Horseshoe
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-14 meters (best in winter)
-- **Current**: Generally mild to moderate
-- **Best Time**: October to February (best visibility)
 - **Water Temperature**: 8-12°C (cold water diving required)
 
 ## Featured Wrecks
@@ -113,10 +110,6 @@ This is an Intermediate site suitable for trained recreational divers:
 - Use surface marker buoy for boat communication
 - Plan air management carefully for multi-structure dives
 - Carry proper signaling devices
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -26,38 +26,26 @@ Wall Beach is a shore entry dive at Nanoose Bay near Parksville on central Vanco
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The main draw is the regular presence of Steller and California sea lions, particularly October through March when a large colony occupies the Northwest Bay log sort nearby. Encounters of four to six sea lions at a time have been reported. Away from sea lion activity, the rocky bottom and wall structure support occasional giant Pacific octopus and small bottom-dwelling creatures in the shallows, including nudibranchs and hermit crabs. The site is not noted for high fish density.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+From the rocky beach entry, swim on a heading of approximately 350°–030° until you reach the wall; the drop begins in the 15–27 m (50–90 ft) range. Follow the wall east along your dive until air management dictates a turn; return heading is approximately 210°. The name embedded in this site's title records the local compass practice. Technical divers can continue beyond 55 m (180 ft), but the sport diving profile is comfortable in the 15–27 m zone.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from a rocky beach at the end of Seahaven Road (off Wall Beach Road, off Northwest Bay Road). Parking at the road end. Best at high slack tide for easiest rock scramble into the water and to maximise wall depth. Entry is straightforward for a shore dive.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Sea lion season (October–March) is the primary attraction; summer dives are quieter. The site suits all experience levels in the shallow zone, but the depth potential makes it Advanced territory for those following the wall into the 27–30 m range. Navigate carefully — heading too far west of 030° puts you on a shallow, muddy bottom rather than the wall. Check tidal tables: Northwest Bay Road from Highway 19 north, right at the Petro-Canada gas bar.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Cold Strait of Georgia water (8–12 °C) requires a drysuit. Sea lion encounters are generally benign but these are large, fast-moving animals; maintain a calm posture and give them space. Best dived at high slack tide to reduce current on the exposed bay bottom.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Parksville Qualicum Beach Tourism — Wall Beach](https://www.visitparksvillequalicumbeach.com/blog/wall-beach-dive-site-in-nanoose-bay/), [Vancouver Island Dive Sites — Wall Beach](http://www.vancouver-island-dive-sites.com/wall-beach.html), [Vanislander — Wall Beach Diving](https://vanislander.com/activity/diving/wall-beach-diving). Last updated 2026-05-17.*

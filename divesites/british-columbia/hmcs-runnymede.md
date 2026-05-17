@@ -26,38 +26,30 @@ HMCS Runnymede was a River-class frigate built in 1944 that served on North Atla
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+HMCS Runnymede (K678) was a River-class frigate built by Canadian Vickers Ltd. at Montreal, Quebec. She was laid down 11 September 1943, launched 27 November 1943, and commissioned on 14 June 1944. After working up at Bermuda, Runnymede was assigned to Mid-Ocean Escort Force escort group C-5, known as the "Barber Pole Squadron" for the distinctive striped markings on their funnels. She served as a trans-Atlantic convoy escort until May 1945, at times as Senior Officer's Ship of her group. Following the end of the European war, Runnymede was sent to Esquimalt to undergo tropicalization refit in preparation for Pacific operations, but the work was suspended after Japan's surrender. She was placed in reserve at Esquimalt and paid off on 19 January 1946. Sold to Capital Iron & Metals Ltd. in 1947, Runnymede's hull was expended as a breakwater at Kelsey Bay, BC in 1948. She lies near HMCS LaSalle and HMCS Longueuil along the Kelsey Bay foreshore.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+As with the adjacent HMCS LaSalle and Longueuil hulks, HMCS Runnymede's steel in the tidal flow of Discovery Passage supports dense plumose anemone colonization and rich invertebrate communities. Lingcod and cabezon occupy exposed hull sections. Rockfish — copper and quillback species among others — shelter in recesses. Giant Pacific octopus use the corroded hull. The three frigate hulks together form an extended substrate that creates a larger effective artificial reef habitat than any single vessel alone.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Runnymede's hull lies along the Kelsey Bay foreshore in proximity to the LaSalle and Longueuil hulks (coordinates within a few hundred meters of each other). The deteriorated steel structure sits partially buried on the silty bottom of Discovery Passage. Dive depth reaches approximately 28 meters on the seaward face. Discovery Passage currents require careful tidal planning.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Campbell River or Kelsey Bay Marina at Sayward. The three Kelsey Bay frigates and the broader Discovery Passage dive environment (including HMCS Columbia at Campbell River) are served by Campbell River-based charter operations.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+A sign at the Kelsey Bay site reportedly identifies the hulks left to right as Lasalle, Longueuil, Cardena, and Runnymede — useful for orientation. A multi-day Campbell River liveaboard or charter itinerary covering all three frigates plus the Campbell River artificial reefs provides the most efficient access. The "Barber Pole Squadron" history gives Runnymede a distinctive wartime story worth knowing before the dive.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Discovery Passage tidal currents; dive within slack-water window only. Drysuit required (7–10°C). Partially collapsed structure; no penetration without proper assessment. Remote location with limited emergency services.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Runnymede (K678)](https://en.wikipedia.org/wiki/HMCS_Runnymede_(K678)), [For Posterity's Sake — HMCS Runnymede K678](http://www.forposterityssake.ca/Navy/HMCS_RUNNYMEDE_K678.htm), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*

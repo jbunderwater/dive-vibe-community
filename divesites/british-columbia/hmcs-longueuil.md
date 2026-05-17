@@ -26,38 +26,30 @@ HMCS Longueuil was a River-class frigate commissioned in 1944 that served in the
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+HMCS Longueuil (K672) was a River-class frigate built by Canadian Vickers Ltd. at Montreal, Quebec. She was laid down 17 July 1943, launched 30 October 1943, and commissioned on 18 May 1944. Under the command of Lieutenant Commander M.J. Woods, RCNVR — her only commanding officer — Longueuil served as a convoy escort in the Battle of the Atlantic. Her first convoy escort was with Convoy HX.302, which departed New York City on 4 August 1944 and arrived at Liverpool on 17 August. She spent her entire wartime career on convoy duty, serving at times as Senior Officer's Ship of her escort group. In June 1945, she was deployed to Esquimalt in preparation for Operation Downfall, the Allied invasion of Japan, joining the RCN's Pacific Fleet only weeks before Japan's surrender following the atomic bombings of Hiroshima and Nagasaki. Longueuil was paid off at Esquimalt on 31 December 1945, sold in 1947, and expended as part of the breakwater at Kelsey Bay, BC in 1948. She lies in proximity to HMCS LaSalle and HMCS Runnymede along the same foreshore.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Like the adjacent HMCS LaSalle and Runnymede hulks, Longueuil's steel structure in the cold, current-swept Discovery Passage environment supports dense colonization by plumose anemones, boot sponges, and encrusting invertebrates. Rockfish shelter in the corroding steel. Giant Pacific octopus find den sites in the deteriorating hull recesses. Lingcod and cabezon occupy elevated surfaces, and nudibranchs are found throughout the sponge-covered areas. The high nutrient load delivered by Discovery Passage tidal currents maintains rich benthic communities across all three frigate hulks.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Longueuil hulk lies along the Kelsey Bay foreshore in Discovery Passage, in close proximity to HMCS LaSalle (coordinates differ by only tens of metres) and HMCS Runnymede. The hull has deteriorated and settled into the bottom over more than 75 years; structure is partially buried and collapsed. Maximum dive depth is approximately 28 meters on the outer hull. Discovery Passage currents dominate dive planning — the site is diveable only around slack water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Campbell River (approximately 40 km south via Highway 19) or from Kelsey Bay Marina at Sayward. Campbell River charter operators provide the most reliable access to Discovery Passage wreck sites.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The proximity of three frigate hulks at Kelsey Bay makes this a multi-wreck dive area rarely matched elsewhere in BC. A liveaboard or multi-day charter based at Campbell River can cover all three sites plus other Discovery Passage highlights such as the HMCS Columbia at Maude Island. Plan around Discovery Passage slack-water windows — a local current table or tidal prediction for Seymour Narrows provides the base reference.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Strong Discovery Passage tidal currents; dive only within a narrow slack-water window. Drysuit required (water 7–10°C). Partially collapsed hull — do not penetrate without proper structural assessment and equipment. Remote location; emergency response is limited.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Longueuil (K672)](https://en.wikipedia.org/wiki/HMCS_Longueuil_(K672)), [uboat.net — HMCS Longueuil](https://uboat.net/allies/warships/ship/182.html), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*

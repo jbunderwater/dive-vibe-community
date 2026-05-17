@@ -26,36 +26,26 @@ Nash Bank is a submerged bank in the Strait of Georgia between Texada Island and
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The northern Strait of Georgia supports diverse cold-water species on submerged bank structures. Sea cucumbers, rock scallops, and lingcod are typical bottom dwellers in this part of the strait. Rockfish — including quillback and china varieties — hold on rocky relief. Giant Pacific octopus occupy any available crevice structure. Yellow cloud sponges are documented in the Texada Island area at depth. Boot sponges and plumose anemones colonise elevated rocky structures. Spiny dogfish are common at many bank sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Nash Bank is a submerged bank in the Strait of Georgia between Texada Island and the northern Sunshine Coast. Maximum depth at the recorded site reaches approximately 18 metres. The northern Strait of Georgia generally experiences lighter surge than the island passages, making bank dives accessible in calm conditions. Water clarity in this part of the strait is typically excellent — the upper Sunshine Coast and Texada Island area receives significantly less dive traffic than the southern Gulf Islands.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The nearest significant launch points are on the Sunshine Coast (Lund or Powell River) or Texada Island (Gillies Bay or Van Anda). Local operators in Powell River service northern strait bank sites.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Check surface conditions before departure — the northern Strait of Georgia is exposed to wind-generated chop from the north and south. Dive in calm to moderate conditions. A drysuit is strongly recommended. The area sees light boat traffic; deploy an SMB on ascent.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Water temperature in the northern Strait of Georgia is 7–12°C year-round. Thermal protection is essential for diver comfort and safety. Boat traffic is light but present; always ascend with an SMB. Weather in the strait can change more quickly than forecast — maintain awareness of conditions throughout the dive.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — British Columbia's Sunshine Coast](https://xray-mag.com/content/british-columbias-sunshine-coast), [ScubaBoard — Texada Island dive sites](https://scubaboard.com/community/threads/looking-for-good-dive-sites-near-texada-island-b-c.63388/). Last updated 2026-05-17.*

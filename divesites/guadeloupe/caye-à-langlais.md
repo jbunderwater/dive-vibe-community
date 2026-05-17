@@ -13,54 +13,27 @@ addedBy: osm_import
 
 ## Caye à l'Anglais
 
-Caye à l'Anglais is a reef dive site in Guadeloupe, Caribbean.
+Caye à l'Anglais is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe (Basse-Terre side), accessible by boat. The site sits within the broader Grand Cul-de-Sac Marin marine reserve, which protects the largest coral reef system in the Lesser Antilles at approximately 29 kilometres of reef.
 
 ## Overview
 
-Caye à l'Anglais is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Grand Cul-de-Sac Marin covers around 15,000 hectares and encompasses seagrass beds, mangroves, and coral reef environments. Caye à l'Anglais lies within this protected lagoon system. The coordinates place it north-east of Pointe-à-Pitre, in the sheltered inner reef waters that characterise this part of Guadeloupe. The site reaches a maximum depth of 18 metres, suitable for beginner and intermediate divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: Shallow to 18 m
+- **Entry**: Boat dive
+- **Current**: Typically calm within the protected lagoon
+- **Conditions**: Sheltered from Atlantic swell; good visibility in settled weather
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Grand Cul-de-Sac Marin reef system hosts nearly 250 fish species and 60 species of coral, sponges, and gorgonians. Species documented in this protected lagoon include French angelfish, yellowtail snapper, hawksbill turtles, red starfish, schooling reef fish, sea urchins, and crustaceans. Seagrass areas near the reef support juvenile fish.
 
-## Tips and Recommendations
+## Notes
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+No site-specific published dive guide documentation has been found for Caye à l'Anglais as a named dive site distinct from the broader Grand Cul-de-Sac Marin area. Operators based in Sainte-Rose are the primary access point for dives in this part of the reserve.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*

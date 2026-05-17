@@ -13,54 +13,45 @@ addedBy: osm_import
 
 ## Tres Grace
 
-Tres Grace is a reef dive site in Philippines Donsol, Asia.
+Tres Grace is a sloping limestone wall dive at the corner of a white sand beach on the northern end of San Miguel Island, featuring swim-throughs and an exceptional display of soft corals.
 
 ## Overview
 
-Tres Grace is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site begins at the edge of a pristine white sand beach and descends as a steep sloping wall. Shark Diving Philippines describes the limestone formations as threaded with swim-throughs and mini caves, with soft corals densely covering the slope — characterised as a "garden of flowers." Liveaboard.com confirms the soft coral coverage and the steep sloping wall profile off the white beach on the north of San Miguel Island.
+
+The contrast between the white sand beach above water and the richly covered limestone wall below makes Tres Grace one of the more visually distinctive sites in the Donsol area. The swim-throughs add structural interest to what is otherwise a sloping wall dive, suitable for intermediate divers.
+
+## Marine Life
+
+- Dense soft coral growth on limestone slope — multiple colour morphs reported
+- Reef fish associated with coral-covered walls
+- Swim-throughs and mini-cave structures hosting resident fish and invertebrates
+
+## Dive Profile
+
+Boat entry near the white sand beach on the north of San Miguel Island. Divers follow the limestone slope from shallow (5–8 m) down to 20 m maximum depth, exploring swim-throughs along the way. The sandy bottom below the wall provides a clean visual reference for depth. Typical dive time 40–50 minutes.
+
+## Entry/Exit
+
+Boat only. Accessible from Donsol-based operators and San Miguel Island operators.
+
+## Tips
+
+- The shallow section near the beach offers the densest soft coral colour — do not rush past it descending to depth.
+- Swim-through navigation is straightforward; no penetration training required.
+- Combine with Bobby's Wall for a diverse two-site day on San Miguel Island.
+
+## Photography
+
+The soft coral garden is the primary photo subject. Wide-angle with strobe brings out the coral colour against the blue water. Swim-throughs offer framing opportunities with natural light filtering in.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Northern San Miguel Island, Donsol area, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*

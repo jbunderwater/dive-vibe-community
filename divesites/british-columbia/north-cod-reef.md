@@ -26,36 +26,26 @@ North Cod Reef is a rocky reef site in the Gulf Islands east of Saltspring Islan
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+North Cod Reef is documented as one of the classic dive sites in the Sidney Gulf Islands area, known for stronger tidal-current-fed marine life. Giant Pacific octopus are a consistent highlight, found in dens throughout the rocky structure. Wolf eels occupy crevices and can be approached closely. Plumose anemones cover the rocky faces. Lingcod and rockfish hold on the structure, and sea stars are present across the reef surface. Visibility can reach 18 metres (60 feet) or more on good days.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+North Cod Reef is a rocky reef in the Gulf Islands east of Saltspring Island in the tidal waters of the southern Strait of Georgia. Maximum depth reaches approximately 18 metres. Current-fed conditions on the reef sustain the dense invertebrate and fish populations. Some sections require recent experience and may be more advanced in character during tidal flow; dive at or near slack water for the safest conditions. Visibility typically ranges 6–18 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Operators based in Sidney, including Ocean Quest Dive Centre, service Gulf Islands sites in this area. Frank White's Dive Store also runs charters to southern Gulf Islands reef sites.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Time dives carefully around slack water — the stronger currents responsible for the excellent marine life can also make off-slack conditions challenging. A surface marker buoy (SMB) is essential given boat traffic in the southern Gulf Islands. A drysuit is recommended year-round.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Water temperature is 7–12°C year-round — drysuit or 7 mm wetsuit with hood required. Currents can be significant and build quickly at southern Gulf Islands sites. Always dive at slack water and deploy an SMB on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Gulf Islands Diving Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [X-Ray Mag — Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands). Last updated 2026-05-17.*

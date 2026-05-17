@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Axel Carlson
 
-Axel Carlson is a reef dive site in New Jersey Shore, North America.
+Axel Carlson (also known as Mantoloking Reef) is a New Jersey DEP artificial reef approximately 2.1 miles off Point Pleasant Beach.
 
 ## Overview
 
-The Axel Carlson Reef (also known as Mantoloking Reef) sits in a trough beside the Manasquan Ridge and features an impressive collection of sunken structures including Army tanks, reef balls, the 90-foot steel dragger Carrabassett, and the 110-foot tugboat Veronica M lying in 75 feet of water. The wrecks and structures are colonized by blue mussels, tubularian hydroids, and frilled anemones, attracting black sea bass, cunner, tautog, and lobster. Visibility tends to be limited due to the silty mud bottom, with water temperatures ranging from 7-24°C.
+The Axel Carlson Reef is one of New Jersey's developed artificial reef sites, situated in a trough beside the underwater ridge known as the Manasquan Ridge. The reef received its first deployment in 1996 and has since accumulated over one million cubic yards of reef material — 97% of which is dredge rock from New York Harbor projects. The site also hosts a number of purpose-sunk vessels: the 90-foot steel dragger Carrabassett, the 110-foot tugboat Veronica M, concrete reef balls, and Army surplus armored vehicles. The silty mud bottom typically produces limited visibility, but the structures are well colonized by marine life and the site is productive for black sea bass, tautog, and lobster.
 
 ## Site Information
 
-- **Location**: New Jersey Shore, North America
+- **Location**: Approximately 2.1 miles off Point Pleasant Beach / Bay Head (Mantoloking area), New Jersey
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The rock, reef balls, and sunken vessels support blue mussels, barnacles, sea anemones, and tubularian hydroids that form the base of the food web. Black sea bass and tautog (blackfish) shelter under overhangs and in the crevices formed by the reef material throughout the warmer months, and are among the primary targets for both divers and anglers. Cunner (bergall) are found working the mussel-covered surfaces. American lobster — some reaching impressive size — shelter beneath the larger rock piles and vessel structures. Summer flounder (fluke) and scup are also present seasonally. The site typically takes several years for new structures to achieve full marine colonization, but established sections of the Axel Carlson Reef now show mature encrustation throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Depth ranges from 71 to 80 feet (22–24 meters) depending on location within the reef. Average visibility is approximately 20–25 feet, though the silty mud bottom can reduce visibility significantly when disturbed by surge or current. The wreck sections — particularly the Veronica M tugboat (built 1950, sunk 2004 as reef) and the Carrabassett dragger — provide the most structured diving, while the rock-pile sections offer habitat exploration. The Veronica M rises approximately 25 feet off the bottom. No exceptional currents are typical at this inshore site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter boats depart from Manasquan Inlet and Point Pleasant Beach — the reef is approximately 2.1 miles offshore. This short transit makes Axel Carlson accessible on shorter schedules than offshore wrecks. Local dive operators and fishing charter boats service the reef throughout the season.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Veronica M tugboat and Carrabassett dragger are the most structured and visually rewarding sections; confirm the anchor target with the captain
+- The silty bottom is easily disturbed — maintain good buoyancy control and avoid fin kicks near the bottom
+- Lobster diving is productive in the established rock sections
+- Visibility is typically better in the morning before boat traffic and surge stir the bottom
+- Best diving is June through October; the reef is very close to shore making weather windows easier to catch
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Water temperature ranges from approximately 5°C (41°F) in winter to 21°C (70°F) in late summer; a 5–7mm wetsuit or drysuit is required outside summer months
+- Low visibility on the silty bottom requires careful navigation; use a compass and surface marker buoy
+- The reef material includes sharp metal and concrete; protect hands and exposed skin
 
 ---
-*Sources: njscuba.net/axel-carlson-reef. Last updated 2026-03-16.*
+*Sources: [njscuba.net — Axel Carlson Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [National Fisherman — Carrabassett](https://www.nationalfisherman.com/northeast/the-final-journey-of-the-ma-fishing-vessel-carrabassett), [NJ DEP Axel Carlson Reef data](https://dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf). Last updated 2026-05-17.*

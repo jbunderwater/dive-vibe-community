@@ -13,52 +13,29 @@ addedBy: osm_import
 
 ## Tikno Reef
 
-Tikno Reef is a muck dive site in Sumbawa, Asia.
+Tikno Reef is a muck and macro dive site at Sangeang Island in east Sumbawa, one of three classic dives (alongside Bubble Reef and Black Magic) offered in the Sangeang volcanic diving area. The site suits divers seeking deeper muck diving than the nearby shallower sites.
 
 ## Overview
 
-Tikno Reef is a dive site in Sumbawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tikno Reef features a sandy slope descending to approximately 18–31 metres over volcanic black substrate. Black coral is abundant, clustered off the main wall, and sea whips are a defining feature — most of the whips host gobies that spend their entire lives on these structures. Orangutan crabs hiding in bubble corals, hawkfish perched among gorgonians, ornate ghost pipefish, and nudibranchs are among the targets for macro photographers. Schools of yellow snapper gather over the black sand. The volcanic setting gives the reef an unusual character — coral formations growing out of dark substrate with high contrast for photography. Currents are generally light. Access by liveaboard or day trips from Kalimaya Dive Resort. Best season April to November.
 
 ## Site Information
 
-- **Location**: Sumbawa, Asia
+- **Location**: Sangeang Island, east Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Currents**: Light to occasional
+- **Best Season**: April–November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea whip gobies, orangutan crabs, hawkfish, ornate ghost pipefish, nudibranchs, yellow snapper, black coral, gorgonians.
 
-## Dive Profile
+## Photography Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-
+High contrast between black volcanic substrate and colourful marine life makes for striking images. Look for sea whip gobies at close range and check bubble corals for hiding orangutan crabs. Macro lens recommended.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/moyo-island/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/). Last updated 2026-04-04.*
+*Sources: [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/), [Kalimaya Dive Resort Review - Dive Happy](https://divehappy.com/kalimaya-dive-resort-review-july-august-2025/), [Asia Dive Site - Sangeang Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/sangeang-island.php). Last updated 2026-05-17.*

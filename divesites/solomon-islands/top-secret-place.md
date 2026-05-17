@@ -24,10 +24,10 @@ The site is known for encounters with manta rays and other large ray species. Gr
 ## Site Information
 
 - **Location**: South of Nusa Aghana Island, SE Ferguson Passage -- ~20 min from Gizo
-- **Entry Type**: Boat dive from Gizo
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30+ metres (wall drops 60+ metres)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 40+ metres at depth
 - **Water Temperature**: 27-28°C
 - **Current**: Variable; can be strong in the passage

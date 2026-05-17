@@ -13,55 +13,37 @@ addedBy: osm_import
 
 ## Ron's Wreck
 
-Ron's Wreck is a historic wreck dive in Utila, Caribbean.
+Ron's Wreck is a small sunken fishing boat sitting on a sandy bottom at 18 m (60 ft), nestled within a U-shaped reef wall on the south side of Utila — a relaxed wreck dive accessible to Intermediate divers.
 
 ## Overview
 
-Ron's Wreck is a dive site in Utila featuring the wreck of the Ron's Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Ron's Wreck lies within a distinctive U-shaped coral reef enclosure, with the wreck itself resting on a gently sloping sandy bottom at approximately 18 m (60 ft). The fishing vessel is modest in size — roughly 18 m (60 ft) long — making it a thorough but manageable single-tank dive. The site can be approached by crossing over the western wall of the reef system, and the surrounding sandy area extends to about 10 m (35 ft). The site is sometimes included as a secondary stop within the Moon Hole area, which features a large sandy patch surrounded by coral ideal for buoyancy practice. The combination of a small wreck with adjacent coral habitat makes this a popular training site as well as a recreational dive.
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck and surrounding sandy floor provide habitat for crustaceans — lobster and shrimp are common — and octopus that forage among the coral rubble. The U-shaped reef system surrounding the wreck hosts a typical south side mix of Caribbean reef fish including grouper and snapper. Pipefish and moray eels have been reported around the wreck structure itself.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Wreck depth**: ~18 m (60 ft) on sand
+- **Surrounding reef / sand**: ~10 m (35 ft)
+- **Wreck size**: small fishing vessel, ~18 m in length
+- **Current**: minimal — sheltered south side location
+- **Visibility**: typically 15–25 m
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. Often combined with Moon Hole as a two-site dive given the close proximity of both within the same reef complex.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- A gentle, unhurried dive — take time to search the wreck's nooks for shrimp, crabs, and octopus.
+- Good site for Underwater Navigation specialty training given the defined reef structure.
+- Can be combined with Moon Hole as a back-to-back dive or extended single dive.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The wreck's encrusted hull and resident macro life (shrimp, crabs, octopus) reward close-focus photography. Natural light at 18 m is typically adequate for ambient shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Lena on the Move – Dive Guide Utila](https://lenaonthemove.com/dive-guide-utila/). Last updated 2026-05-17.*

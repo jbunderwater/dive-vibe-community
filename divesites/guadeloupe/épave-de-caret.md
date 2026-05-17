@@ -13,55 +13,31 @@ addedBy: osm_import
 
 ## Épave de Caret
 
-Épave de Caret is a historic wreck dive in Guadeloupe, Caribbean.
+Épave de Caret is a sunken vessel lying west of Îlet Caret in the Grand Cul-de-Sac Marin marine reserve of northern Guadeloupe (Basse-Terre side). The wreck was deliberately sunk to function as an artificial reef and fish aggregation device.
 
 ## Overview
 
-Épave de Caret is a dive site in Guadeloupe featuring the wreck of the Épave de Caret. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The wreck is an old metal boat that was previously used for sand dredging. It was intentionally sunk approximately 26 years ago — reportedly around the time of Hurricane Hugo — to create a substrate for marine growth and to serve as a fish concentration device. The vessel lies within the Grand Cul-de-Sac Marin, a 15,000-hectare protected marine reserve that hosts Guadeloupe's largest coral reef system.
 
-## Site Information
+The wreck sits at relatively shallow depth, reportedly as little as 2–3 metres in its shallowest sections, though OSM data records the dive to 18 metres, likely indicating the deepest point of the hull or adjacent seafloor. The entire structure is visible from above in calm conditions.
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers are warned not to penetrate the interior of the wreck, as it remains structurally unstable and contains fire corals.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth range**: 2–18 m (shallowest hull sections near surface; deepest point ~18 m)
+- **Entry**: Boat dive; accessible from Grand Cul-de-Sac Marin operators (Sainte-Rose)
+- **Current**: Calm within the protected lagoon
+- **Visibility**: Good in settled conditions
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Abundant tropical marine life has colonised the wreck. Algae growth, sponges, and diverse species of tropical fish use the hull as shelter and feeding ground. The artificial reef function of the wreck has been effective in concentrating fish populations. The surrounding Grand Cul-de-Sac Marin reef system supports 250 fish species and 60 species of coral, sponges, and gorgonians.
 
-## Tips and Recommendations
+## Safety Notes
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Entry inside the wreck is prohibited — the hull is structurally unstable and fire corals are present on interior surfaces.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Nomad Diver — Les épaves de Guadeloupe](https://nomad-diver.com/2021/07/06/les-epaves-de-guadeloupe/). Last updated 2026-05-17.*

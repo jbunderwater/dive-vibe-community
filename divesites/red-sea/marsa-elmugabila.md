@@ -4,7 +4,7 @@ lat: 29.3734991
 lng: 34.7925854
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,35 @@ addedBy: osm_import
 
 ## Marsa Elmugabila
 
-Marsa Elmugabila is a  dive site in Red Sea, Middle East.
+Marsa Elmugabila (also spelled Marsa El Mugabila) is a bay dive site in the Taba area of the northern Gulf of Aqaba, on the northeastern tip of the Sinai Peninsula. The site is reached by boat from Taba, with the journey taking approximately one hour from the Hilton jetty. It is suited to a range of experience levels and offers both diving and snorkelling.
 
 ## Overview
 
-Marsa Elmugabila is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site is centred on a reef characterised by prominent finger coral formations, which grow into distinctive shapes described as resembling castle walls. These hard coral columns and ridges provide the main structural feature of the reef. Fish life is diverse across depths, with the most productive zone around 20 metres.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Glassfish shoal in large numbers at around 20 metres depth among the finger coral formations. Yellowtail barracuda patrol the mid-water column. Eagle rays cruise along the reef, and stonefish occupy camouflaged positions in rubble and broken coral zones. The finger corals and overhangs shelter a range of smaller reef fish typical of the northern Red Sea — butterflyfish, anthias, wrasse, and damsels are all present.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat entry from the Taba area; the reef is explored at depths primarily between 10 and 20 metres, with the canyon/drop-off sections reaching around 25 metres. Surface currents may be present in the Gulf of Aqaba but typically diminish at depth, making the bottom sections manageable. The site suits divers at all certification levels.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat only from the Taba/Hilton jetty area, approximately one hour by RIB or day boat.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Taba area, Gulf of Aqaba, northern Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Marsa El Mugabila](https://www.redsea-diving.com/marsa-el-mugabila/). Last updated 2026-05-17.*

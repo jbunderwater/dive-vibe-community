@@ -23,9 +23,9 @@ The Finger is located on the east side of Basilisk Passage on Nateara Reef, near
 
 - **Location**: East side of Basilisk Passage, Nateara Reef, Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/reef dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ meters (western wall)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 30-40 meters
 - **Current**: Mild to strong (especially at the tip)
 - **Best Time**: Year-round; night dives are the standout experience

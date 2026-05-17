@@ -17,49 +17,35 @@ Domina Coral Bay reef is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Domina Coral Bay reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Domina Coral Bay reef is the private house reef fronting the large Domina Coral Bay Resort in the Na'ama Bay area of Sharm el-Sheikh — a few kilometres from Na'ama Bay's centre, with direct beach access. The resort operates its own diving centre (Sheikh Coast Diving Center) with a private pier, giving divers easy access to the reef. The housereef sits within the fringing reef system that runs along this stretch of the Sinai coast, with the typical structure of a shallow reef top transitioning to a slope and wall. The coordinates place it in the Ras Umm Sid / Na'ama Bay reef corridor, which is known for healthy hard and soft coral coverage and clear water. The resort also operates day-boat excursions to Ras Mohammed, Tiran Island, and other major Sharm el-Sheikh sites.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The fringing reef system along the Na'ama Bay coast typically hosts anthias, butterflyfish, angelfish, surgeonfish, parrotfish, moray eels, and lionfish. Blue-spotted stingrays are common on sandy patches. Hawksbill turtles pass along the reef wall. The coral structure provides habitat for nudibranchs, cleaner shrimps, and octopus.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore/pier entry directly from the resort. The reef begins at the shoreline; depths vary along the wall from 5 m on the reef flat to greater depths on the outer slope. Most diving is recreational (10–25 m). Currents are generally mild inshore along this stretch. Visibility typically 15–25 m.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the resort beach or via the private pier. Suitable for all certification levels. Snorkelling is also available from the resort's beach area.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Use the house reef for morning warm-up dives before boat trips to Ras Mohammed or Tiran. Evening dives can be productive for moray eel and lionfish encounters. Confirm current reef condition with the dive centre as coral bleaching has affected parts of the Na'ama Bay fringing reef in recent years.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on upper reef sections. Boat traffic near the pier requires surfacing in designated areas. Strong afternoon sun — use high-SPF protection.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Na'ama Bay / Ras Umm Sid area, Sharm el-Sheikh, Sinai Peninsula
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25+ m (outer slope)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divescover — Domina Coral Bay Reef](https://divescover.com/dive-site/domina-coral-bay-reef/19990), [Domina Coral Bay Resort](https://www.domina.it/en/hotel/domina-coral-bay/). Last updated 2026-05-17.*

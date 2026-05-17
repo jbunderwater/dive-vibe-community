@@ -3,7 +3,7 @@ name: Wreck Nuweiba -40.0m
 lat: 28.933182
 lng: 34.652252
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: null
@@ -11,55 +11,38 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Nuweiba -40.0m
+## Wreck Nuweiba — 40 m Shore Dive
 
-Wreck Nuweiba -40.0m is a  dive site in Red Sea, Middle East.
+A shore dive site near Nuweiba in the northern Gulf of Aqaba, reaching a maximum depth of 40 metres where the remains of an old fishing vessel lie on the seabed. The site is one of several reef and wreck entries accessible from the shore around the Multinational Forces and Observers (MFO) camp area south of the Elaria Beach Resort.
 
 ## Overview
 
-Wreck Nuweiba -40.0m is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Nuweiba coastline along the Gulf of Aqaba offers relatively easy shore diving across a range of depths. This particular entry reaches 40 metres where the engine and partial remains of an old fishing boat rest on the seabed; other sections of the vessel have been washed away over time. The surrounding reef wall and sandy bottom host a variety of macro life, including nudibranchs, gobies, and cleaning stations among coral heads.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site is recorded at coordinates 28.933°N, 34.652°E — placing it north of Nuweiba town along the Gulf of Aqaba coast of Sinai. The 40-metre maximum depth means this is an advanced recreational dive or suitable for divers with enriched air nitrox certification seeking to extend bottom time.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 0–40 m (wreck at maximum depth; shallower reef above)
+- **Entry**: Shore dive with easy beach entry
+- **Currents**: Rare at this site
+- **Visibility**: Typically good — Gulf of Aqaba is known for clear water
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Nudibranchs, gobies, cleaning stations, anthias, parrotfish, butterflyfish, wrasse, and blue-spotted stingrays on sandy bottom. The reef walls in the Gulf of Aqaba carry both hard and soft corals with good fish diversity.
 
-## Tips and Recommendations
+## Safety
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The 40-metre depth limit requires advanced certification or dive guide accompaniment. Bottom time at this depth is limited on air — nitrox is beneficial. Only the engine and partial hull remain; the wreck is fragmented.
 
-## Safety Considerations
+## Site Information
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Near Nuweiba, Gulf of Aqaba, northern Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on regional dive site databases and OSM data. Sources: [African Divers Nuweiba — Dive Site List](https://africandiver2.weebly.com/dive-site-list.html), [X-Ray Mag — Nuweiba](https://xray-mag.com/content/nuweiba). The specific vessel identity is not documented in available sources. Last updated 2026-05-17.*

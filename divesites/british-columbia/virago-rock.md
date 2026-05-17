@@ -26,36 +26,30 @@ Virago Rock sits in the swift tidal currents of Porlier Pass in the Strait of Ge
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wreck structure supports a dense invertebrate community: juvenile Puget Sound king crabs (bright red), frosted nudibranchs, decorator crabs, orange social tunicates, cup corals, feather stars, and swimming scallops colonise the hull and propeller. Lingcod, cabezon, and rockfish shelter in the lee of the wreck and along the adjacent Virago Rock kelp line. Painted greenlings are frequently sighted in the shallow sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Depth: 10–15 m (33–49 ft) at the main wreck site. The broken vessel rests inverted on a shallow ledge; the bow section was flipped upright by a 1993 storm. The propeller and stern sections offer photogenic subject matter in the 12–15 m range. Adjacent rock terrain extends shallower for decompression stops or end-of-dive exploration.
+
+## Wreck History
+
+The *Point Grey* was a 32-metre (105 ft) steel steam tug built in 1911 at Wallace Shipyards, North Vancouver. On 26 February 1949 the vessel struck the then-unmarked Virago Rock while towing railway cars through Porlier Pass in thick fog; a following barge then rammed the stricken tug, forcing it further onto the reef. The wreck remained perched on the rock until the early 1960s, when a storm rolled the hull over and it slipped underwater. Strong currents broke the vessel in two in February 1993, flipping the bow section right-side up. The site carries an Underwater Archaeological Society of BC heritage plaque.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only. Porlier Pass currents run 4–9 knots and can form overfalls and whirlpools, particularly at the northern entrance. Dive only at slack water — the window is short and the timing must be precise. A knowledgeable local skipper is essential. Day-charter operators run from Thetis Island and the Chemainus area.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Time the dive to coincide with both the slack and calm surface conditions; the site is exposed and chop can develop quickly in Trincomali Channel. Wide-angle setups work well for the propeller and hull sections; a macro lens captures the nudibranchs and cup corals on the plating. Visibility on autumn days can reach 12 m (40 ft), enough to see most of the hull length. The area offers eight further dive sites including additional wrecks and wall dives in Porlier Pass.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Strong and unpredictable current is the primary hazard. Even at slack, residual flow can be felt. Cold water (8–12 °C), drysuit required. Depths are within recreational limits but current conditions dictate all dive planning.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Thetis Island](https://xray-mag.com/content/thetis-island), [UASBC — Porlier Pass Tug Point Grey](https://uasbc.com/exploration-dive-trips/porlier-pass-tug-point-grey), [Nautilus Liveaboards — Porlier Pass](https://nautilusliveaboards.com/2007/06/12/diving-porlier-pass-in-the-gulf-islands/). Last updated 2026-05-17.*

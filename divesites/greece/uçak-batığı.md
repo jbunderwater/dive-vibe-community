@@ -7,61 +7,47 @@ maxDepth: 72
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 10973665012
+osmId: 2092439797
 addedBy: osm_import
 ---
 
 ## Uçak Batığı
 
-Uçak Batığı is a historic wreck dive in Greece, Europe.
+Uçak Batığı is a wreck dive site in the Dodecanese region of Greece, near the border with Turkish waters.
 
 ## Overview
 
-Uçak Batığı is a dive site in Greece featuring the wreck of the Uçak Batığı. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Uçak Batığı is Turkish for "airplane wreck." This site is located in the northern Dodecanese, in the sea channel between Kos island (Greece) and the Turkish Bodrum peninsula. The coordinates (36.987°N, 27.432°E) place it in Greek waters very close to the Turkish border — the identical site name and near-identical coordinates appear for a dive site listed by Turkish operators as a decommissioned Turkish Air Force Dakota C-47 intentionally sunk in the Bodrum area. It is possible this represents the same aircraft, or a different wreck in adjacent waters.
 
-## Site Information
+The recorded maximum depth of 72 metres makes this one of the deepest aircraft wrecks accessible in this area and places it firmly in technical diving territory — recreational sport diving limits (40 m with advanced training) would not reach the deepest sections. The dive would require technical diving certification (trimix or advanced nitrox) for the full depth profile.
 
-- **Location**: Greece, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 72 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+The name "Uçak Batığı" appears in Greek and Turkish dive site databases for aircraft wrecks in the Kos–Bodrum strait area. Aircraft wrecks in this part of the Aegean typically originate from WWII aerial operations over the Dodecanese, though intentionally sunk aircraft are also present in Turkish waters for dive tourism purposes.
 
-## Marine Life
-
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+No Greek dive operator documentation specifically for this site at these coordinates and this depth was found during research. Given the 72-metre maximum depth and the proximity to the Turkish border, this site may be primarily accessed from Turkish operators or may represent a different aircraft than the shallower C-47 listed by Bodrum operators.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 72 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Entry**: Boat
+- **Maximum depth**: 72 metres (technical diving depths)
+- **Minimum certification**: Technical diving (advanced nitrox / trimix required for depths below 40 m)
+- **Location note**: Near Greek/Turkish maritime border in the Kos–Bodrum strait
+- **Conditions**: Aegean; visibility typically 15–25 m
 
-## Entry and Exit
+## Safety
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+A maximum depth of 72 metres requires technical diving certification and mixed-gas equipment. This site is not accessible to recreational divers without technical training. Decompression obligations at this depth are significant.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- **Location**: Northern Dodecanese, Greece (Kos–Bodrum strait area)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 72 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). Relationship between these two listings is unclear. Last updated 2026-05-17.*

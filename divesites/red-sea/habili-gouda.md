@@ -4,8 +4,8 @@ lat: 25.5098923
 lng: 34.6636737
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Habili Gouda
 
-Habili Gouda is a  dive site in Red Sea, Middle East.
+Habili Gouda (also spelled Habili Gudda or Habili Gooda) is a small submerged pinnacle located within the Marsa Mubarak dive zone, accessible from Port Ghalib in the Marsa Alam area. Emperor Divers lists "Habili Gudda" as part of their Marsa Mubarak site cluster, and it has been cited by an Emperor Red Sea dive guide manager as a personal favourite site in the Port Ghalib area.
 
 ## Overview
 
-Habili Gouda is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site consists of small coral pinnacles rising from the seabed, covered in purple soft corals and fire corals. The pinnacle top hosts dense aggregations of anthias and cardinalfish. A resident juvenile green turtle has been reported at this site. The compact size and relatively sheltered position make it accessible for intermediate divers, and it rewards repeated dives given its compact but detail-rich topography.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Dense anthias and cardinalfish clouds around the pinnacle
+- Purple soft corals and fire corals covering the pinnacle structure
+- Resident juvenile green turtle reported at the site
+- Leopard blennies on the safety stop at the coral summit
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive from Port Ghalib (Marsa Mubarak zone). The pinnacle rises from the sandy bottom. Maximum depth approximately 25 m. Suitable for intermediate divers. Part of the Marsa Mubarak cluster which may include Shaab Abu Ziyad, Madrassah, El Aruk Goa, Farsha Sahab, and Shaab Abu Mahmoud.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- The safety stop on the coral-covered pinnacle top is a highlight in itself
+- Look carefully at the anthias clouds — leopard blennies may be tucked among them
+- Often dived as a second or complementary dive to other Marsa Mubarak sites
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Marsa Mubarak zone, Port Ghalib area, southern Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Emperor Divers – Port Ghalib Dive Sites](https://www.emperordivers.com/day-diving-location-subpage/port-ghalib-diving/), [Emperor Divers – Day Diving Sites](https://www.emperordivers.com/red-sea-day-diving-sites/). Last updated 2026-05-17.*

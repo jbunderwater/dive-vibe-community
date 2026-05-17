@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## Saint John North
 
-Saint John North is a  dive site in Red Sea, Middle East.
+Saint John North is a reef dive site within the St. John's reef complex in Egypt's far southern Red Sea, on the Tropic of Cancer in Foul Bay south of Ras Banas, accessible only by liveaboard.
 
 ## Overview
 
-Saint John North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+St. John's reefs lie approximately 210 km south-southeast of Marsa Alam, making them the southernmost dive sites in Egypt and among the most remote. The reef complex covers roughly 290 km² and features a mix of gotas (reefs breaking the surface) and habilis (submerged reefs with peaks below the surface). St. John's North refers to the northern section of this reef system, characterised by the relatively sheltered topography typical of the northern groupings — coral walls, gardens, overhangs, and swim-throughs in excellent condition due to low diver traffic.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Because no day-trip boats reach St. John's, the sites experience far fewer divers than any other Egyptian Red Sea destination, resulting in coral in outstanding health and marine life that is significantly bolder and less disturbed than at northern sites. Visibility is typically 20–35 m, and water temperature ranges from 23–30°C depending on season.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–40+ m depending on dive point
+- **Current**: Can be strong; intermediate to advanced recommended
+- **Entry**: Liveaboard only (departing Marsa Alam or Port Ghalib)
+- **Visibility**: 20–35 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Spinner dolphins, manta rays, sea turtles, grey reef sharks, hammerhead sharks, barracuda, tuna, grouper, and parrotfish are regularly encountered throughout the St. John's complex. The undisturbed reef walls support dense coral growth including both hard and soft corals, gorgonians, and sea fans.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- Intermediate to advanced divers only due to potential for strong currents and surface swells
+- Allow 2–3 days minimum at St. John's to dive the full range of sites; most liveaboards include 15–20 dives
+- Early morning dives reward with the best chance of calm conditions
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Dive the World — St. John's Diving](https://www.dive-the-world.com/diving-sites-egypt-st-johns.php), [Egypt Liveaboard — St. John's Reefs](https://www.egypt-liveaboard.com/dive-sites/st-johns-reefs/), [ZuBlu — St. John's, Rocky Island & Zabargad](https://www.zubludiving.com/destination/red-sea/egypt-red-sea/st-johns-rocky-island-zabargad). Last updated 2026-05-17.*

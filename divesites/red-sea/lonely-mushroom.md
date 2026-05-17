@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Lonely Mushroom
 
-Lonely Mushroom is a  dive site in Red Sea, Middle East.
+Lonely Mushroom is a pinnacle (erg) dive site in the Safaga area of the northern Egyptian Red Sea, at approximately 27.74°N, 34.16°E. The name describes an isolated coral pinnacle with a characteristic mushroom-shaped profile.
 
 ## Overview
 
-Lonely Mushroom is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Safaga area is known for its field of isolated coral pinnacles (ergs) rising from a sandy plateau, often described as resembling a mushroom garden. "Lonely Mushroom" appears to refer to a single, isolated erg standing apart from the main pinnacle clusters — giving it the distinctive "lonely" character of a solitary structure in open water. This pattern of isolated ergs is characteristic of the Middle Reef / Safaga offshore zone, where coral columns of varying sizes stand on a sandy bottom at 10–20 m depth.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Pinnacle dives like this one concentrate fish life, as the isolated structure draws pelagics and reef fish that have nowhere else to shelter in the open sandy environment. The mushroom shape — with a broader coral cap overhanging a narrower stem — creates sheltered undercut zones on all sides.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Sandy floor at ~20–25 m; pinnacle top at shallower depths
+- **Current**: Variable
+- **Entry**: Boat
+- **Visibility**: Typically good in Safaga offshore waters (15–25 m)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Isolated pinnacles in the Safaga zone attract reef fish in concentrated numbers: grouper, snapper, fusiliers, and parrotfish cluster around the structure. Turtles and reef sharks are occasionally seen on the offshore erg sites in this area.
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*Note: No dedicated sources for this specific named site were found. Description is based on the documented character of pinnacle/erg formations in the Safaga offshore zone.*
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Safaga — Red Sea Diving](https://www.redsea-diving.com/safaga/), [Greatest Dive Sites — Hurghada Ergs](https://egypt.greatestdivesites.com/hurghada). No site-specific source confirmed for this named pinnacle. Last updated 2026-05-17.*

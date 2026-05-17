@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Shag Rock (2)
 
-Shag Rock (2) is a  dive site in Red Sea, Middle East.
+Shag Rock (2) is a reef dive site at approximately 27.80°N, 33.86°E in the northern Egyptian Red Sea — approximately 2.5 km northwest of the primary Shag Rock entry (27.77°N, 33.88°E). Both entries are in the Gubal Strait area near the SS Thistlegorm.
 
 ## Overview
 
-Shag Rock (2) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+**Possible OSM duplicate flag**: Shag Rock and Shag Rock (2) are separated by approximately 2–3 km. Shag Rock is described as referring to "two reefs located on the south-western side of the Sinai Peninsula tip" — the "(2)" entry may represent the second of these two reefs, a distinct dive point on the same reef system, or a duplicate OSM entry for the same structure recorded at slightly different coordinates.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shag Rock is an iconic northern Red Sea dive site located approximately 5 miles south of Sha'ab Ali (the Thistlegorm reef) and 6 miles from the Thistlegorm wreck itself. The Kingston — a 78 m twin-mast steamship that sank on 22 February 1881 — lies on the northern slopes of Shag Rock at a maximum depth of 15 m. The site is exposed to strong currents typical of the Gubal Strait position.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 5–25 m on main reef; Kingston wreck at 15 m max
+- **Current**: Can be strong (Gubal Strait location)
+- **Entry**: Boat
+- **Difficulty**: Intermediate (due to currents)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shag Rock supports glassfish-filled crevices, grey reef sharks, and typical Gubal Strait reef fish concentrations. The Kingston wreck provides additional habitat for wreck-associated species.
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*Note: The relationship between this entry and the primary Shag Rock entry should be verified — both may represent sections of the same reef.*
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Shag Rock](https://www.redsea-diving.com/shag-rock/), [Divezone — Kingston Wreck](https://divezone.net/divesite/kingston-wreck). Last updated 2026-05-17.*

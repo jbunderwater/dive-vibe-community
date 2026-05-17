@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## Shabrour Lahmi
 
-Shabrour Lahmi is a  dive site in Red Sea, Middle East.
+Shabrour Lahmi is a reef dive site in the deep southern Egyptian Red Sea, approximately 10 km south of Hamata village, accessible by boat from Hamata or Wadi Lahami.
 
 ## Overview
 
-Shabrour Lahmi is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shabrour Lahmi lies in the Fury Shoals / Hamata area of the deep south Egyptian Red Sea, one of the most remote and least-visited sections of the Egyptian coast. The site is 10 km south of Hamata — "one of the last signs of civilization before the border with Sudan." The Fury Shoals reefs in this zone are protected within Wadi el-Gemal National Park and are consistently cited as among the most pristine reefs in the entire Red Sea.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shabrour Lahmi is a reef dive site suitable for open water level divers, with a moderate current of 1–2 knots. The average depth is around 12 m, with the maximum reaching 30 m. Visibility ranges from good (10–30 m). The reef is characterised by beautiful coral gardens and interesting marine biodiversity, and is noted as a good site for underwater photography. Sources also mention possible encounters with larger pelagic species in the blue — "nudis and perhaps something big in blue" — suggesting occasional visitors including larger fish or sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~12 m
+- **Maximum depth**: 30 m
+- **Current**: Medium (1–2 knots)
+- **Visibility**: Good (10–30 m)
+- **Entry**: Boat (Hamata or Wadi Lahami)
+- **Suitable for**: Open water level divers (CMAS */OW)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Nudibranchs are specifically noted. Beautiful coral gardens. The remote location and low diver traffic means marine life is relatively undisturbed. Occasional sightings of larger pelagic species possible due to proximity to open ocean.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Access is by day boat from Hamata or Wadi Lahami. The area forms part of the broader Fury Shoals reef system; combining Shabrour Lahmi with nearby reefs in a day or liveaboard itinerary is standard practice.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive — Shabrour Lahmi](https://www.wannadive.net/spot/Africa/Egypt/Hamata/Shabrour_Lahmi/index.html), [Diveboard — Shabrour Lahmi](https://www.diveboard.com/explore/spots/egypt/hamata-and-ras-banas-L2MPIwK/shabrour-lahmi-SJWgDd), [Red Sea Diving Safari — Wadi Lahami](https://www.redsea-divingsafari.com/dive-sites/wadi-lahami). Last updated 2026-05-17.*

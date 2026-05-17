@@ -17,51 +17,31 @@ addedBy: osm_import
 
 ## Overview
 
-Épave du Transpacific is a dive site in Newfoundland featuring the wreck of the Épave du Transpacific which sank in 1971-05-18. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Épave du Transpacific is the wreck of a German-flagged cargo vessel that ran aground near Île aux Marins in the French territory of Saint-Pierre and Miquelon on May 18, 1971, and subsequently broke apart. Sections of the hull remain at and just below the waterline near the island's shore, making this a shallow, historically interesting site accessible from Île aux Marins.
 
 ## Site Information
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Wreck History
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The *Transpacific* was a 3,865-ton German general cargo ship built in 1954 at Flender Werke in Lübeck, Germany, measuring 124 m in length. She was registered in Hamburg and operated by Poseidon Lines on Great Lakes and North Atlantic routes after the St. Lawrence Seaway opened in 1959. On May 18, 1971, she ran aground in dense fog at "Basse à Marie-Rose," approximately 100 metres south of Île aux Marins, while approaching Saint-Pierre. The captain had radioed ahead reporting failures in both radar and the Decca navigation system. Carrying 11 passengers and a mixed cargo including aluminium bars, timber logs, juke boxes, and riding lawn mowers, she grounded and salvage attempts failed. That night, approximately 70 local dories looted cargo and provisions. Officials subsequently set the ship ablaze; it burned for 61 hours. Autumn storms broke the vessel into three pieces — the bow washed ashore at Cap Beaudry on Île aux Marins, the central section containing the engine and wheelhouse settled in shallow water, and the stern sank further offshore.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The accessible wreck sections lie in very shallow water — the OSM-recorded maximum depth is 10 m, consistent with the central hull and engine section resting in the shallows off Île aux Marins. The wreck is fragmented and heavily broken up following 55 years of Atlantic storm action; the remaining structure is scattered rather than intact. Shore entry is possible from Île aux Marins. Water temperatures in Saint-Pierre waters range approximately 7–14°C seasonally; a drysuit is recommended.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Shore dive accessible from Île aux Marins. The Club Nautique Saint-Pierrais, based in Saint-Pierre, organises diving excursions in the archipelago from June to October and is the primary local operator for dive activities in the territory.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The broken, scattered wreck structure offers limited penetration but sharp rusting metal edges are present throughout. Surge in exposed conditions and cold water (drysuit recommended year-round) are the main hazards at this site.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Wreck of the Transpacific - The Howorths](https://thehoworths.com/2015/08/wreck-of-the-transpacific/), [Wikimedia Commons - Transpacific (ship, 1954)](https://commons.wikimedia.org/wiki/Category:Transpacific_(ship,_1954)), [Saint-Pierre et Miquelon - Transpacific ephemeris](https://www.saintpierreetmiquelon.net/18051971-transpacific/), [NOAA - Transpacific](https://www.vos.noaa.gov/MWL/fall_03/transpacific.shtml), [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/). Last updated 2026-05-17.*

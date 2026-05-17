@@ -17,49 +17,35 @@ Gassous Bay is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Gassous Bay is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Gassous Bay (also listed as "Coral Garden / Gassous Bay" in dive databases) is a seldom-dived shore site in the El Quseir area, reachable by minibus from El Quseir. The site is characterised by a large natural hole in the reef top that serves as the entry point, leading through a short canyon to the dive area proper. On both sides of the canyon the reef slopes carry beautiful coral gardens with rugged reef structures. Depths range from 14 to 30 m. A channel through the site is subject to occasional stronger current; in such conditions the inside (sheltered) area is dived instead of attempting the full passage. Because the site lacks a protective outer reef to stop on, it can only be approached safely in calm weather — a limitation that keeps it lightly visited and keeps the coral in pristine condition. The site is located at approximately 26.57°N, 34.03°E, consistent with a position north of El Quseir on the coast road.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The undisturbed conditions support a typical healthy Red Sea coral-garden community: anthias, butterflyfish, parrotfish, surgeonfish, and groupers on the reef structures. The canyon walls and overhangs shelter moray eels, lionfish, and cleaner shrimp. Blue-spotted stingrays are found on sandy patches at the base of the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry through the reef-top hole, then through the short canyon to the coral garden. Depths 14–30 m. The canyon passage can carry stronger current — assess before committing. In calm weather: full-site exploration is possible. In stronger current: dive the sheltered inside area only. No boat required; minibus access from El Quseir dive centres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Minibus transfer from El Quseir, then shore entry through the natural reef hole. A rope assists entry and exit. Only practical in calm sea conditions (no protective reef to moor alongside if conditions deteriorate).
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Check weather and sea state carefully before choosing this site — it can only be dived safely in calm conditions. The relative rarity of visitors means the coral garden is particularly well-preserved. Visit on a flat-calm day for the full passage experience.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cannot be dived in anything other than calm weather — this is an absolute constraint, not a recommendation. The channel current can be strong enough to make passage impossible; have a plan to dive only the inside area if current is present. A rope is provided for the entry/exit but divers should be comfortable with the entry method before committing.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: El Quseir area, southern Red Sea coast
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Scubago — Coral Garden / Gassous Bay](https://www.scubago.com/en/explore/destination/el-quesir-9753391/divesites). Last updated 2026-05-17.*

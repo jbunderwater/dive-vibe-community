@@ -13,54 +13,38 @@ addedBy: osm_import
 
 ## Jack Neil Point
 
-Jack Neil Point is a reef dive site in Utila, Caribbean.
+Jack Neil Point (sometimes listed alongside Jack Neil Beach and the adjacent Madelene's site) is a south side reef dive celebrated for its exceptional hard and soft coral coverage, accessible depths, and rich variety of Caribbean reef species.
 
 ## Overview
 
-Jack Neil Point is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Jack Neil Point is one of the standout south side sites on Utila, with long, shallow reef formations draped in healthy hard and soft corals. The reef drops to around 60 ft (18 m) before giving way to sandy areas extending deeper. The site is well-suited to beginner and Open Water divers who want to explore pristine Mesoamerican Barrier Reef structure without contending with strong currents or depth. It is frequently praised as a prime example of what makes Utila's south side exceptional — a wealth of fish life, healthy coral formations, and easy, relaxed diving.
 
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+The Madelene's section adjacent to Jack Neil features a large sandy area bordered by reefs, ideal for observing small benthic creatures.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Jack Neil Point is one of Utila's richest sites for biodiversity. Documented species include hawksbill and green turtles, Caesar grunts, Nassau groupers, various damselfish, spotted drums, pufferfish, trunkfish, seahorses, eagle rays, and green moray eels. The sandy sections of Madelene's host seahorses, pipefish, pipe horses, flounders, and nudibranchs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Reef depth**: Shallow formations leading to reef walls at 40–60 ft (12–18 m)
+- **Sandy area**: Extends beyond 60 ft (18 m)
+- **Current**: Generally mild on the south side
+- **Visibility**: Typically good — south side is sheltered from north swells
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. The south side location means access is possible on most days, including when north side conditions are rough.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- One of the best south side sites for beginner divers wanting to see large Caribbean species.
+- The Madelene's sandy area is excellent for slow, patient macro observation.
+- Can be combined with nearby south side sites in a two-tank morning trip.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Excellent for both macro (seahorses, nudibranchs, spotted drums) and wide-angle (turtle encounters, moray eels, coral formations). Natural light is good in the shallower sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites). Last updated 2026-05-17.*

@@ -3,63 +3,59 @@ name: Zingara
 lat: 28.0177274
 lng: 34.4874197
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Zingara
+## Zingara (Kormoran Wreck) — Laguna Reef, Straits of Tiran
 
-Zingara is a  dive site in Red Sea, Middle East.
+The Zingara — also known as the Kormoran — is a shallow exposed shipwreck sitting on the northern side of Laguna Reef in the Straits of Tiran. Its stern protrudes above the waterline, making it a recognisable landmark. The wreck is completely broken, scattered across a coral reef in 10–12 metres of water, and conditions must be calm to dive here.
 
 ## Overview
 
-Zingara is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The vessel was built in 1963 at the Rostock shipyards in East Germany as the Kormoran, a general cargo ship 82.4 metres in length. It changed names to Adamastos and then Zingara in 1980, and was registered in Naples by the time of its loss. On 21 August 1984, the Zingara was sailing from Aqaba, Jordan, with a cargo of phosphate when a navigational error caused it to strike the northern side of Laguna Reef in the Straits of Tiran (28°01.063′ N, 34°29.242′ E). The impact destroyed the bow and opened two large cracks in the hull. Salvage attempts failed, and the wreck was declared a total loss.
 
-## Site Information
+Today the vessel is "completely broken" — the midsection lies as a scattered metal debris field in less than 12 metres of water, while the stern remains partially above the surface. Well-preserved sections include the stern, propeller, and six-cylinder engine. The surrounding coral reef, with both hard and soft corals, is itself a photogenic attraction.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: Zingara (ex Kormoran, ex Adamastos)
+- **Built**: 1963, Rostock, East Germany; 1,744 GRT, 2,733 t displacement
+- **Dimensions**: 82.4 m length, 12.7 m beam
+- **Grounded**: 21 August 1984, Laguna Reef, Straits of Tiran (28° 00′ 16″ N, 34° 29′ 03″ E per Wikipedia)
+- **Cargo**: Phosphate from Aqaba
+- **Current state**: Completely broken; stern above water; debris in 10–12 m
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 10–15 m maximum
+- **Visibility**: Variable — good in calm conditions, poor when swell stirs up sediment
+- **Currents**: Best visited in the afternoon when tidal flow is weakest
+- **Dive style**: Wreck exploration, coral reef
+
+## Marine Life
+
+The hard and soft coral formations on and around the wreck support reef fish typical of the Tiran area: anthias, chromis, wrasse, fusiliers, and the occasional moray eel or grouper in the wreck structure. The surrounding Laguna Reef adds coral garden variety.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat only. The site is only accessible in calm sea conditions due to its exposed position. Afternoon visits when swell is lowest are preferred. The wreck is the only dive in the Tiran Straits recommended for Open Water certified divers.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The stern, propeller, and engine make attractive wide-angle subjects, particularly when the water is clear. Macro subjects including nudibranchs may be found on the encrusted metal.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Laguna Reef, Straits of Tiran, Sinai Peninsula (near Sharm El Sheikh)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wikipedia — Zingara (ship)](https://en.wikipedia.org/wiki/Zingara_(ship)), [Circle Divers — Kormoran/Zingara](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/kormoran-zingara-wreck-tiran), [Red Sea Diving — Kormoran Wreck](https://www.redsea-diving.com/kormoran-wreck/). Last updated 2026-05-17.*

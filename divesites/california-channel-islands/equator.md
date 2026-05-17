@@ -17,7 +17,7 @@ Equator is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Equator is a 19th-century wooden-hulled brigantine that wrecked on the rocks off Anacapa Island, one of the oldest shipwrecks in the Channel Islands and notable for its well-preserved bronze and iron hardware visible among the kelp-covered debris field. The site sits in shallow water around 12 meters and is frequently visited by the California sea lions that haul out on Anacapa's rocky shores, often swooping through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
+The Equator is a 93-foot commercial fishing vessel built in Tacoma in 1949 that wrecked on the rocks at Middle Anacapa Island the same year. The dynamic sand-buried debris field sits in shallow water around 12 meters, where bronze and iron hardware is occasionally exposed among the kelp. California sea lions haul out on Anacapa's rocky shores and frequently swoop through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
 
 ## Site Information
 
@@ -26,38 +26,30 @@ The Equator is a 19th-century wooden-hulled brigantine that wrecked on the rocks
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The Equator was a fishing vessel just under 93 feet (28 m) in length, built in Tacoma, Washington in 1949. She plied the Pacific Coast fishing trade for only a short time before wrecking on the rocks of Middle Anacapa Island the same year she was built — 1949. Almost immediately after the grounding, explosive charges were used to open the hull and recover the most valuable hardware, including the nearly new diesel engine. The site is located just east of East Fish Camp anchorage on the seaward side of Middle Anacapa Island, in approximately 12 meters of water. The wreck falls within Channel Islands National Park and Channel Islands National Marine Sanctuary, where it is a protected archaeological site; removing or disturbing anything from the wreck carries federal penalties including fines and potential jail time.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Equator site is surrounded by the kelp forest habitat characteristic of Middle Anacapa Island. California sea lions from the adjacent Anacapa haul-outs frequently visit the site. Garibaldi are abundant in the kelp fronds, and sheephead patrol the rocky substrate around the scattered wreckage. The site's location on the seaward side of the island exposes it to nutrient-rich upwelling that supports healthy invertebrate growth on any exposed hull sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck is in a constant state of change: sand periodically sweeps in and buries portions of the debris field, then shifts away to expose hardware again. At times a light kelp growth makes the site difficult to spot from above. Identifiable elements include metal hardware and hull plating at approximately 12 meters (40 ft). The site is shallow enough for snorkelers in very calm conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive — Anacapa Island lies 11–14 miles from the Ventura/Oxnard coast. Day-charter vessels from Ventura Harbor reach the island in approximately 1–1.5 hours. The East Fish Camp anchorage is the reference point for this site. M/V Peace (Ventura) and Spectre (Santa Barbara Aquatics, Santa Barbara) both run regular trips to Anacapa.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Ask your captain or divemaster specifically about the Equator when visiting Anacapa — it is a smaller, less-visited site than the Winfield Scott and requires local knowledge of current sand cover to locate the best portions. Summer and early fall offer the clearest water and most stable conditions.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Water temperature at Anacapa ranges from approximately 12°C in winter to 18°C in summer. A 7 mm wetsuit with hood and gloves is recommended. The seaward (south) exposure of this site means it is more susceptible to swell than Frenchy's Cove on the island's north side. Dive only in settled conditions.
 
 ---
-*Sources: [NPS - Channel Islands Diving and Snorkeling](https://www.nps.gov/chis/planyourvisit/diving.htm), [Scuba Diving Magazine - Guide to Channel Islands National Marine Sanctuary](https://www.scubadiving.com/guide-diving-channel-islands-national-marine-sanctuary), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/), [Dive Guide Channel Islands](https://www.diveguideschannelislands.com/), [Underwater Photography Guide - Channel Islands](https://www.uwphotographyguide.com/channel-islands-diving). Last updated 2026-04-04.*
+*Sources: [California Diving News - Anacapa's Wreck of the Equator](https://cadivingnews.com/dive-spots/anacapas-wreck-of-the-equator/), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Aquatics - Spectre Dive Day Trip](https://santabarbaraaquatics.com/products/spectre-dive-day-event), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-05-17.*

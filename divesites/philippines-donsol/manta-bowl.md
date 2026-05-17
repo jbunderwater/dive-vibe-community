@@ -13,54 +13,52 @@ addedBy: osm_import
 
 ## Manta Bowl
 
-Manta Bowl is a pinnacle dive site in Philippines Donsol, Asia.
+Manta Bowl is an underwater seamount in Ticao Pass, approximately 7 km off the northern coast of Ticao Island. It sits where the nutrient-rich waters of Ticao Pass and Burias Pass converge, creating one of the most plankton-dense environments in the Philippines and the most significant manta ray aggregation site in the country.
 
 ## Overview
 
-Manta Bowl is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site, representing approximately 70% of all reef manta ray sightings in the Philippines.
+
+The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site.
+
+The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) recognizing its global significance as reproductive and foraging habitat.
+
+## Marine Life
+
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
+- Oceanic manta rays
+- Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
+- Thresher sharks, hammerhead sharks, whitetip reef sharks
+- Schooling tunas and trevallies
+- Cleaner wrasse at coral cleaning stations
+- Sea turtles, dolphins
+
+## Dive Profile
+
+Negative entry is required to descend quickly through strong surface current. Divers descend to the plateau (14–23 m) and use reef hooks to hold station at the cleaning stations without fin-kicking, allowing mantas to approach. Drift periods between cleaning stations can produce fast-moving pelagic encounters. Dive time is typically 45–60 minutes. Depth: 14–23 m.
+
+## Entry/Exit
+
+Boat only. Departures from Donsol take approximately 25 minutes; from Ticao Island resorts, the transfer is shorter. Operators include Ticao Island Resort & Dive Center (PADI) and Donsol-based dive operators. Conditions can vary sharply — operators switch to sheltered reef dives on Ticao when Manta Bowl currents or visibility are unfavorable.
+
+## Tips
+
+- Reef hooks are essential equipment — confirm your operator provides them.
+- The seamount rewards patient, still divers: excessive movement disturbs approaching mantas.
+- Best encounters: December to May, peak February to May coinciding with plankton bloom peak.
+- A wide-angle lens is strongly recommended; ambient light conditions vary with plankton density.
+
+## Safety
+
+Advanced certification required. Currents can exceed 3 knots and change direction with little warning. Negative entry, strong currents, and occasional low-visibility conditions make this unsuitable for inexperienced divers. Always dive with an experienced local guide who knows current patterns.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Ticao Pass, off northern Ticao Island, Masbate Province, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*

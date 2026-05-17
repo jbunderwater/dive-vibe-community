@@ -13,54 +13,39 @@ addedBy: osm_import
 
 ## Batu Jabu
 
-Batu Jabu is a reef dive site in Halmahera, Asia.
+Batu Jabu is a reef dive site located near the northern tip of Pulau Kusu island, in the Patinti Strait area of South Halmahera, Indonesia.
 
 ## Overview
 
-Batu Jabu is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Batu Jabu is an oval-shaped reef built around a submerged rock seamount whose tip breaks the surface. It sits in the lee of Pulau Kusu, where rich nutrient-bearing currents from the Patinti Strait feed the reef and keep it in excellent condition. The site is consistently described as a pleasant, fish-rich dive — less dramatic in terms of pelagic action than neighbouring Proco Channel, but notably more reliable and approachable for intermediate divers. The white water breaking around the rock tip is used as a natural indicator of current strength: when it is churning heavily, the dive requires more caution.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Off Pulau Kusu, Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The nutrient-rich currents from the Patinti Strait support abundant reef fish populations. Blacktip and whitetip reef sharks are regular sightings. Anthias, fusiliers, and schooling reef fish populate the shallower sections of the reef, while Napoleon wrasse and larger predators are seen at depth. Macro life is found in the current-sheltered areas on the lee side of the rock.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef is dived as a circuit around the central rock, descending along the current-facing walls to explore the deeper reef before ascending to the shallower sections on the lee side. The oval reef structure allows divers to manage exposure to current by positioning on sheltered sides. Depth range is typically 5–30 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from liveaboard operators running Patinti Strait itineraries (including Jakare Liveaboard and others), or from Proco Island Bambu Resort. The site is a standard inclusion on multi-day South Halmahera dive packages.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive the current-exposed face when conditions allow for the best fish density, then shelter on the lee side for the end of the dive and safety stop. This site pairs well with nearby Proco Channel — dive Batu Jabu on a relaxed tide slot when Proco is not runnable. The surface-breaking rock tip makes the site easy to locate and the boat crew to hold position on.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The Patinti Strait is characterised by strong tidal currents. While Batu Jabu is generally more manageable than Proco Channel, conditions can change rapidly. Carry an SMB on every dive. Halmahera is remote — emergency access to a recompression chamber requires evacuation to Manado. Water temperature is 27–30°C year-round.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [IndoPacificImages – South-West Halmahera Scuba Diving Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/), [Jakare Liveaboard – Halmahera Dive Sites](https://jakare-liveaboard.com/destination/halmahera-moluques/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*

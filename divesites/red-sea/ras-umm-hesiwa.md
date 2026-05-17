@@ -4,7 +4,7 @@ lat: 26.9020942
 lng: 33.9969778
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Ras Umm Hesiwa
 
-Ras Umm Hesiwa is a  dive site in Red Sea, Middle East.
+Ras Umm Hesiwa is a cape and reef dive site located in the Safaga area of Egypt's Red Sea coast, approximately 60 kilometres south of Hurghada. "Ras" means cape in Arabic, and "Umm Hesiwa" is the local place name for this headland. The Safaga area is known for a cluster of accessible offshore reef and wreck diving sites.
 
 ## Overview
 
-Ras Umm Hesiwa is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Safaga region features a mix of fringing reefs, offshore patch reefs, and coral gardens. Ras Umm Hesiwa's position as a cape means the headland's profile creates localised current and depth variation that can concentrate fish life, particularly at the tip. Reefs in this zone are characterised by diverse hard and soft coral coverage, good visibility (typically 15–30 metres), and warm water throughout the year.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The broader Safaga area supports a typical mid-Egyptian Red Sea reef community: groupers, Napoleon wrasse, moray eels, barracuda, trevally, and reef sharks (whitetip and grey reef) are standard species. Blue-spotted stingrays, scorpionfish, and lionfish occupy the reef base. Hard and soft coral formations provide habitat for anthias, butterflyfish, wrasse, and damsels. Dolphins are occasionally reported offshore.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Safaga dive operators. The cape structure creates a dive profile that may involve following the reef from a shallow plateau (5–10 m) around the headland tip and down the wall section (15–25 m), using current direction for navigation. Conditions are generally suitable for Intermediate-level divers.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Safaga area, Red Sea, Egypt (approximately 60 km south of Hurghada)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources for "Ras Umm Hesiwa" by that exact name were found in major English-language dive databases. The site is placed in the Safaga area based on coordinates. Description based on regional diving characteristics. General context from: [Regal Diving — El Quseir / Safaga](https://www.regal-diving.co.uk/el-quseir), [PADI — Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-05-17.*

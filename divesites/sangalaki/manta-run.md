@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Manta Run
 
-Manta Run is a reef dive site in Sangalaki (Derawan Islands), Asia.
+Manta Run is a reef dive site on the northwest coast of Sangalaki Island in the Derawan Archipelago, East Kalimantan, Indonesia.
 
 ## Overview
 
-Manta Run is a dive site in Sangalaki (Derawan Islands) offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Run forms one segment of Sangalaki's celebrated "manta highway" — a series of connected reef sites along the island's northern and eastern shores where reef manta rays (*Manta alfredi*) gather in extraordinary numbers to feed on plankton-rich currents. The site consists of rocky coral outcrops and bommies studded with gorgonian fans, soft corals, and barrel sponges, forming a sandy-bottomed channel that funnels prevailing currents and concentrates surface plankton. Mantas are regularly observed feeding in the shallow water above the reef, with their wingtips breaking the surface. Most diving here occurs at 5–15 metres, making it accessible year-round to Open Water certified divers.
+
+## Marine Life
+
+- Reef manta rays (*Manta alfredi*) — feeding and visiting cleaning stations
+- Leopard sharks resting on sandy patches
+- Garden eels emerging from sandy corridors
+- Leaf fish, frogfish, and cardinalfish among bommies
+- Feather stars and gorgonian sea fans on coral outcrops
+- Schooling fusiliers and reef fish throughout
+
+## Dive Profile
+
+Depths range from 5 to 15 metres across sandy channels and coral ridges. Currents are variable — manta activity peaks when gentle surface currents concentrate plankton, so dive timing depends on conditions observed by the boat crew. Visibility averages 15–25 metres. Bottom time is generous given the shallow depth.
+
+## Entry and Exit
+
+Boat dive only, departing from Sangalaki or nearby resort jetties. A surface check by the dive guide determines current direction before descent. Manta sightings may also occur at the surface before the dive.
+
+## Tips
+
+- Follow your guide's instructions on positioning — settling low on the reef and remaining still dramatically increases manta dwell time at the site.
+- Mantas are best observed at high tide when plankton concentrations are highest near the surface.
+- Snorkellers can also encounter mantas here without descending.
+- Avoid rising quickly through the water column — ascending slowly prevents startling feeding mantas.
+
+## Safety Considerations
+
+Currents can shift unexpectedly. Maintain close contact with your dive group and surface on schedule. The shallow depth makes nitrogen management straightforward, but sun exposure during long surface intervals can be significant — bring sun protection.
+
+## Photography
+
+Manta Run rewards wide-angle photography. Shooting upward with blue-water backlighting and mantas silhouetted overhead is the signature shot. A recirculating current can stir up fine particulate — early-morning dives typically offer the clearest water for photography.
 
 ## Site Information
 
-- **Location**: Sangalaki (Derawan Islands), Asia
+- **Location**: Sangalaki Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Top Dive Sites](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki). Last updated 2026-05-17.*

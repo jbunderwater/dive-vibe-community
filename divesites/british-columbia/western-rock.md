@@ -26,36 +26,26 @@ Western Rock is a rocky reef dive site in the Strait of Georgia off the Sunshine
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Powell River area's rock sites support cloud sponges and boot sponges (cloud sponges beginning at 15 m at nearby sites), wolf eels, giant Pacific octopus, lingcod, copper rockfish, quillback rockfish, juvenile yelloweye rockfish, cabezon, and kelp greenlings. Feather stars, orange plumose anemones, chimney sponges, and sea cucumbers colonise the rocky faces. Harbour seals are regularly encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive at 18 m maximum on a rocky reef in the Strait of Georgia off the Sunshine Coast, accessible from the Powell River area. The cold, clear Strait of Georgia water supports excellent visibility, particularly in fall and winter. The rocky terrain offers crevice habitat for fish and invertebrates typical of northern Strait of Georgia diving.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only. Powell River area operators (Salish Sea Dive) provide local charter access. The Sunshine Coast is accessible from Vancouver via BC Ferries (Horseshoe Bay to Langdale or Powell River ferry). Live-boat support is standard.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Powell River diving is considered some of BC's best — the region hosts over 100 documented dive sites, and the cold, clear Strait of Georgia water offers excellent visibility (9–30 m) with the best conditions in fall and winter. Water temperature 8–12 °C at depth; drysuit required. Cloud sponge habitat is present in the region — avoid fin contact with any sponge growth.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (8–12 °C) requires a drysuit with appropriate undergarments. Currents in the Strait of Georgia are generally moderate at rocky reef sites away from narrows, but check conditions locally. Surface marker buoy deployment recommended on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Sunshine Coast](https://xray-mag.com/content/british-columbias-sunshine-coast), [DAN Alert Diver — Diving on Sunshine](https://dan.org/alert-diver/article/diving-on-sunshine/), [Sunshine Coast Tourism — Scuba Diving](https://www.sunshinecoastcanada.com/things-to-do/outdoor-activities/scuba-diving/). Last updated 2026-05-17.*

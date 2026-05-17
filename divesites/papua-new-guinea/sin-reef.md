@@ -23,9 +23,9 @@ Sin Reef is a figure-8 shaped reef formation located in Ataliklikum Bay, approxi
 
 - **Location**: Ataliklikum Bay, 2 km from Kabaira Resort, Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (figure-8 formation)
-- **Difficulty Level**: Beginner to Intermediate
-- **Maximum Depth**: 35+ meters (SE side)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-25 meters
 - **Current**: Mild
 - **Best Time**: Year-round

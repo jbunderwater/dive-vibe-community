@@ -13,55 +13,39 @@ addedBy: osm_import
 
 ## Batu Mandi
 
-Batu Mandi is a wall dive site in Halmahera, Asia.
+Batu Mandi is a wall dive site in the Goraici Islands or Patinti Strait area of Halmahera, Indonesia.
 
 ## Overview
 
-Batu Mandi is a dive site in Halmahera featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres and beyond. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. The site sits near the coordinates of the Goraici Islands / western Halmahera area and is featured on liveaboard itineraries that include the Patinti Strait region.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Western Halmahera / Goraici area, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. Wall substrate supports soft corals and sponges. The broader Halmahera region's characteristic marine life — reef sharks, Napoleon wrasse, fusiliers — is expected on the current-exposed walls. The nearby Goraici Islands area also features macro life including nudibranchs and crustaceans.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Entry is from the surface near the low-tide rock marker, descending to around 3 metres where the wall begins. The wall drops steeply to 30 metres and beyond. Divers typically work the wall between 10–30 metres where fish density is highest, ascending along the structure for a safety stop in the shallows. Currents are variable, with the wall exposed to tidal flows that bring in the schooling fish.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from a liveaboard or from the nearest dive operation in the Patinti Strait / western Halmahera area. Konjo Cruising Indonesia lists Batu Mandi as part of its Halmahera liveaboard itinerary. The rock's visible presence at low tide serves as a natural marker for skippers locating the site.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Look for the humphead wrasse early in the dive while in the shallower zone. Descend along the wall face slowly, scanning for batfish and bannerfish schools in mid-water. A safety stop at 5 metres on the rock structure itself allows time to observe the shallower fish communities. A maximum depth of 30 metres is recommended for the recreational range; the wall continues deeper for those with appropriate advanced training.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Currents on the wall can accelerate unexpectedly in the Patinti Strait area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. The 50-metre maximum depth recorded is beyond recreational limits; no decompression diving should only be attempted with appropriate training.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*

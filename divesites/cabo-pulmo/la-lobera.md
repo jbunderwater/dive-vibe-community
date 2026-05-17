@@ -18,8 +18,8 @@ La Lobera sits near Los Frailes at the southern end of the park and is home to a
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, near Los Frailes (southern end)
-- **Entry Type**: Boat dive (10-15 min from Cabo Pulmo village)
-- **Site Type**: Rocky reef with sea lion colony
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 10-25 meters

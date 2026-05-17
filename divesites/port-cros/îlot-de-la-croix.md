@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## Îlot de la Croix
 
-Îlot de la Croix is a reef dive site in Port-Cros, Europe.
+Îlot de la Croix is a reef dive site at Port-Cros National Park, French Mediterranean coast.
 
 ## Overview
 
-Îlot de la Croix is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Îlot de la Croix (Cape La Croix) is a headland dive site within Port-Cros National Park, accessible to both beginner and intermediate divers. The site has a topography similar to Pointe de Montrémian, with depths ranging from 5 to 30 metres. The site is notably exposed to wind from certain directions, so diving conditions depend on the day's weather. Dive centres assess conditions before committing to this site.
+
+The defining feature of Îlot de la Croix is its outstanding growth of white gorgonians (Eunicella singularis), which dominate the shallower rock faces and give the site a distinctive, pale-branched character unlike the red gorgonian-dominated deeper walls found at La Gabinière. Adjacent posidonia seagrass beds serve as a fish nursery, supporting dense populations of juvenile fish that in turn attract predators. Groupers, moray eels, and sarpa salpa (salema porgy, a distinctive striped reef fish) are regularly encountered. The seagrass meadows are habitat for protected fan mussels (Pinna nobilis) and seagrass pipefish.
+
+The site is suitable for those building experience in the national park system, combining shallower reef terrain with some wall sections. It can be dived as an exploratory drift around the cape or as an anchored dive on the northern face.
+
+## Dive Profile
+
+- **Entry**: Boat only
+- **Depth range**: 5–30 m
+- **Conditions**: Exposed to wind; operator assessment required before diving
+- **Visibility**: Typically 15–20 m in summer
+- **Best season**: May–September (weather dependent)
+
+## Marine Life
+
+- **Signature**: White gorgonians (Eunicella singularis) coating shallow rock faces
+- **Fish**: Brown groupers, moray eels, sarpa salpa (salema porgy), seabream, wrasse
+- **Invertebrates**: Sea urchins, starfish
+- **Nursery habitat**: Adjacent posidonia seagrass beds with juvenile fish and pipefish
+- **Protected species**: Fan mussels (Pinna nobilis) in seagrass
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Protected Status**: Port-Cros National Park
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park overview](https://worldadventuredivers.com/port-cros-national-park/), [Aquabormes — Port-Cros dive sites](https://aquabormes.fr/page-port-cros.html). Last updated 2026-05-17.*

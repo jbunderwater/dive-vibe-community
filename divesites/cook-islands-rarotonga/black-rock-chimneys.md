@@ -24,8 +24,8 @@ The boat anchors at approximately 7 meters on the reef top. A gully drops to 12 
 ## Site Information
 
 - **Location**: Off Black Rock (Tuoro), west side, Rarotonga, Cook Islands
-- **Entry Type**: Boat dive (8 minutes from Avatui Harbour)
-- **Site Type**: Volcanic reef (ridges and gullies)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 40+ meters

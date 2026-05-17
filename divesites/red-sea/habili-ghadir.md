@@ -2,10 +2,10 @@
 name: Habili Ghadir
 lat: 24.8430667
 lng: 35.1249833
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,29 @@ addedBy: osm_import
 
 ## Habili Ghadir
 
-Habili Ghadir is a  dive site in Red Sea, Middle East.
+Habili Ghadir is a submerged pinnacle (habili) located in the Marsa Alam offshore zone at approximately 24.84°N, 35.12°E, making it a deep-water reef accessible by boat from Marsa Alam and Port Ghalib. "Ghadir" means a small pool or watering place in Arabic. The site is recorded in dive databases as an advanced drift and wall dive with strong currents and excellent visibility.
 
 ## Overview
 
-Habili Ghadir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Habili Ghadir rises steeply from depth and is subject to open-ocean conditions. Average depth is 20 m with a maximum of 30 m. Strong currents (over 2 knots) are reported, making this a drift dive site for experienced divers. The exposed position attracts sharks and large pelagic fish that make this one of the more exciting habili dives in the Marsa Alam region. The site is described as difficult to locate, requiring a long boat journey of over 30 minutes from port.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Reef sharks and large pelagic fish attracted by the exposed, current-swept reef
+- Diverse reef fish communities on the coral-covered flanks
+- Good coral growth on the pinnacle structure
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat only; long approach from Marsa Alam. Drift dive along the wall in strong current. Average depth 20 m, maximum 30 m. Visibility excellent (30+ m). Current consistently strong (2+ knots). Recommended for Advanced Open Water certified divers or equivalent. Depth and current are the primary hazards.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Marsa Alam offshore zone, southern Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 30 meters
+- **Difficulty**: Advanced
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive – Habili Ghadir](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Habili_Ghadir/index.html). Last updated 2026-05-17.*

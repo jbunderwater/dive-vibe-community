@@ -17,49 +17,35 @@ Dolphin reef is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Dolphin reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Dolphin Reef is one of five documented dive sites in the Ain Sokhna area, located on the western shore of the Gulf of Suez approximately 55 km south of the Suez Canal and about one hour's drive from Cairo. The site is named for dolphin sightings in the area. Ain Sokhna is primarily a weekend resort town for Cairo residents, and its dive sites are relatively shallow and modest in coral coverage compared to the main Red Sea coastline — the Gulf of Suez supports only about 35 of the Red Sea's approximately 335 coral species due to cooler winter temperatures (below 20°C at times) and generally more turbid conditions. Dolphin Reef records a maximum depth of 12 m, making it an accessible drift and reef dive suitable for all levels. The shallow, warm-season conditions (water peaks at 26–28°C in summer) attract reef fish and the site occasionally delivers dolphin encounters that give it its name.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Gulf of Suez's limited coral diversity means reef fish communities are less dense than further south, but the area still supports groupers, parrotfish, wrasse, and various coral-dwelling species typical of the northern Red Sea. Dolphins — primarily bottlenose — are sometimes encountered. Turtles are occasionally sighted. The Ain Sokhna area dive sites share similar marine character, with the main distinction being depth and reef structure between sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth 12 m, making this a purely shallow reef experience. Current possible (drift site); generally gentle. Suitable for beginners. Water temperature 18–28°C depending on season — a 5 mm wetsuit is advisable in winter months (December–February).
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive or shore/jetty entry from the Ain Sokhna resort area. Most diving is arranged through resort dive centres (e.g., Egypt Sunmarine Adventures). Dive conditions are typically good during the warm months (April–October); winter months can bring cooler water and reduced visibility.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Visit during summer (June–September) for the warmest water and best visibility. Dolphins are not guaranteed — they move freely through the area. The site is best suited to those learning to dive or seeking easy, relaxed reef exploration near Cairo.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Winter water temperatures can drop to 18–20°C — always wear an appropriate wetsuit. Visibility can be variable due to the Gulf of Suez's higher turbidity versus the main Red Sea. Always confirm current conditions with the local dive centre before entry.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Ain Sokhna, Gulf of Suez (55 km south of Suez)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 12 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive — Ain Sukhna Dive Sites](https://www.wannadive.net/spot/Africa/Egypt/Ain_Sukhna/index.html), [Scuba World Divers — Shaab El Erg Dolphin House](https://scubaworlddivers.com/el-gouna/dive-sites/elgouna/shaab-el-erg-(dolphinhouse)) (context). Last updated 2026-05-17.*

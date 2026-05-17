@@ -23,7 +23,7 @@ Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated
 
 - **Location**: South of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (deep)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters

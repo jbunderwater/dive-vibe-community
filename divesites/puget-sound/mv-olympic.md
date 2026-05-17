@@ -21,43 +21,32 @@ The MV Olympic rests at 15 meters off the Steilacoom area of Puget Sound, one of
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Ketron Island / Steilacoom area, South Puget Sound, Washington
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Water Temperature**: 8–12°C year-round
+
+## Wreck History
+
+The MV Olympic (also known as *Olympic II*) is a former automobile ferry launched December 11, 1937 at Maryland Drydock Company. Originally commissioned as the *Governor Harry W. Nice* for Chesapeake Bay service, she was eventually acquired by Washington State Ferries and served various Puget Sound routes until retirement in 1993. The vessel was sold in 1997 and ran aground on the eastern shoreline of Ketron Island around 2010 during a transit, where she has remained beached. Passengers on the Steilacoom–Anderson Island ferry route can see her above the waterline. Washington state officials have been unable to remove the vessel due to its size and position on private property. The submerged portion at 15 metres is accessible by boat and has attracted local interest as a dive site, though it is not a formally managed wreck dive. The vessel is not decommissioned as a reef and the beaching was accidental rather than intentional.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The submerged hull portions host the typical Puget Sound wreck community: plumose anemones, nudibranchs, small rockfish, and cabezon using hull cavities. Giant Pacific octopus may be encountered in hull spaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Maximum depth approximately 15 metres. Single-tank dive with generous bottom time. Drysuit required. The wreck is partially above and partially below water, so the diveable section is a shallow, gradual exploration along the encrusted hull.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Boat access. Closest public launch is Steilacoom boat ramp. No shore access due to private property restrictions on Ketron Island.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Drysuit mandatory. Entanglement risk from derelict material. The hull is in ongoing deterioration — exercise caution with structural stability. Visibility 5–15 metres typical. Dive within slack water window to avoid Puget Sound tidal current.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [Salish Sea Then and Now — Looking at a Few Shipwrecks on Puget Sound](https://salishseathenandnow.substack.com/p/looking-at-a-few-shipwrecks-on-puget), [Bainbridge Island Review — Historic ferry taken off Bainbridge Island](https://www.bainbridgereview.com/news/historic-ferry-taken-off-bainbridge-island/), [InvestigateWest — Washington's old ferries bring environmental and legal risks](https://www.investigatewest.org/washington-ferries-are-going-hybrid-electric-but-disposal-of-old-ones-poses-environmental-legal-risks/). Last updated 2026-05-17.*

@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## North Sangalou
 
-North Sangalou is a reef dive site in Sangalaki (Derawan Islands), Asia.
+North Sangalou is a reef dive site in the Derawan Archipelago, East Kalimantan, Indonesia, featuring a rolling coral landscape that descends from the shallows to 40 metres.
 
 ## Overview
 
-North Sangalou is a dive site in Sangalaki (Derawan Islands) offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+North Sangalou is described by Scuba Junkie Sangalaki's dive guide as a site that "surprises many with its vast, undulating reefscape" — divers descend to find a rolling coral landscape of ridges and valleys rather than the flat shelf typical of other Sangalaki area sites. The terrain drops progressively to 40 metres, though most diving occurs to 30 metres, where pelagic species patrol the outer reef. The site combines macro life in the shallower coral gardens with wider encounters deeper — white-tip reef sharks, mangrove whiprays, and blue-spotted stingrays are reported. Blue-spotted ribbontail rays (*Taeniura lymma*) hide in sandy gully floors between the coral ridges.
+
+## Marine Life
+
+- White-tip reef sharks (*Triaenodon obesus*) on the deeper reef
+- Mangrove whiprays and blue-spotted stingrays in sandy gullies
+- Nudibranchs and flatworms throughout the coral garden
+- Triggerfish, angelfish, and parrotfish on the reef face
+- Fusiliers, snappers, and trevally in open water
+- Moray eels in crevices along the ridge walls
+- Schooling batfish in open water above the reef
+
+## Dive Profile
+
+The rolling terrain descends from approximately 8 metres on the upper reef to 40 metres at the outer base of the reef structure. Recommended maximum dive depth is 30 metres to allow sufficient bottom time. Intermediate divers work the 15–25 metre zone where the reef rolls most dramatically. Currents are moderate; visibility in this area can reach 20–30 metres. An SMB is recommended for open-water ascents.
+
+## Entry and Exit
+
+Boat dive only. The site is on the outer reef and typically accessed from Sangalaki-based operators as part of a multi-site day. Entry is at the reef crest; navigation follows the rolling contours.
+
+## Tips
+
+- Spend time at 8–12 metres on the way back up — the upper reef is colourful and hosts nudibranchs and macro life that rewards slow searching.
+- Check sandy gully floors at around 15–18 metres for resting blue-spotted stingrays.
+- The rolling topography can disorient divers — maintain close buddy contact and check your compass heading periodically.
+
+## Safety Considerations
+
+At 40 metres maximum depth, this site exceeds the limit where Open Water divers should operate. Advanced certification and experience with deep dive planning are appropriate. The outer reef setting means return to the boat is via open water — deploy an SMB for all ascents.
+
+## Photography
+
+The undulating reefscape provides unusual composition opportunities — shooting along ridgelines creates depth and leading lines in wide-angle images. Macro life (nudibranchs, shrimps) on the upper coral garden complements wide-angle pelagic shooting deeper. Good ambient light in the 15–20 metre zone supports natural light reef photography.
 
 ## Site Information
 
-- **Location**: Sangalaki (Derawan Islands), Asia
+- **Location**: Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php). Last updated 2026-05-17.*

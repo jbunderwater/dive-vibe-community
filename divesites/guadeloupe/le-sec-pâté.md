@@ -13,55 +13,29 @@ addedBy: osm_import
 
 ## Le Sec Pâté
 
-Le Sec Pâté is a wall dive site in Guadeloupe, Caribbean.
+Le Sec Pâté is an advanced wall dive near the Îles des Saintes in southern Guadeloupe. This site — distinct from the famous pinnacle of the same name located further north in the Saintes Channel — is an OSM-recorded wall dive feature on the southern edge of the Les Saintes archipelago, descending to 30 metres.
 
 ## Overview
 
-Le Sec Pâté is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue . Wall dive in Les Saintes with steep drop-off, similar characteristics to pinnacle Sec Pâté but distinct location, requires Advanced certification, strong currents possible. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This entry corresponds to an OSM-recorded dive node at the southern tip of the Les Saintes archipelago (lat 15.90°N), classified as a wall dive. It is distinct from the celebrated Sec Pâté pinnacle site in the central Saintes Channel. Local validation sources note it shares similar advanced characteristics: steep drop-off, strong currents, and a requirement for Advanced certification.
 
-## Site Information
-
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Les Saintes is a compact archipelago of nine islands south of Basse-Terre, renowned for some of the best diving in the French Caribbean. The wall sites around the archipelago drop sharply into the deep Saintes Channel, with excellent visibility and diverse marine life.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range**: Shallow reef to 30 m wall
+- **Entry**: Boat dive
+- **Current**: Strong currents possible; Advanced certification required
+- **Visibility**: Typically excellent in the Les Saintes area (15+ metres)
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Les Saintes wall diving sites host hawksbill turtles, barracudas, groupers, moray eels, lobsters, queen and gray angelfish, and dense sponge and gorgonian growth on the wall faces. Scorpionfish are common on rocky substrates.
 
-## Tips and Recommendations
+## Notes
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The OSM validation notes that this site shares characteristics with the famous Sec Pâté pinnacle but is a distinct location. Divers visiting Les Saintes should confirm the exact site with their operator, as "Le Sec Pâté" can refer to multiple related features in the area.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Tribloo — Le Sec Pâté dive site, Les Saintes](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/). Last updated 2026-05-17.*

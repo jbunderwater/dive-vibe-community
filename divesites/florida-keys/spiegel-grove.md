@@ -26,38 +26,41 @@ The USS Spiegel Grove is a 510-foot Navy landing ship lying in the Florida Keys 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 42.7 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The ex-USS Spiegel Grove (LSD-32) was a Thomaston-class dock landing ship laid down at Ingalls Shipbuilding in Pascagoula, Mississippi in September 1954, launched on November 10, 1955, and commissioned on June 8, 1956. She was 510 feet long with an 84-foot beam, named for the Fremont, Ohio estate of President Rutherford B. Hayes, and served the U.S. Navy in amphibious operations until decommissioning on October 2, 1989. Acquired for use as an artificial reef off Key Largo, she sank prematurely on May 17, 2002 — settling several hours ahead of schedule, rolling to starboard, and ending up upside-down with the bow protruding from the surface. In June 2002, Resolve Marine Group rolled her onto her starboard side at an additional cost of $250,000, and in July 2005 Hurricane Dennis shifted the hull onto her keel upright — the orientation originally intended.
 
 ## Marine Life
 
-The Spiegel Grove hosts one of the densest concentrations of goliath grouper in the Florida Keys, particularly in the bow section and vehicle deck. Large schools of barracuda, yellowtail snapper, and horse-eye jacks swirl around the superstructure, while hogfish and spiny lobster inhabit the lower decks. Spotted eagle rays and southern stingrays cruise the sandy bottom around the hull, and hawksbill turtles are a reliable sighting throughout the year.
+Florida-Scubadiving.com reports over 144 fish species documented on the wreck, including large groupers, cubera snapper, barracuda, jacks, reef and nurse sharks, and sea turtles. Operators consistently observe schools of pelagic fish swirling around the superstructure, with the encrusted crane arms and railings draped in colorful sponges and soft corals.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 42.7 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck sits upright on sand at Dixie Shoal roughly 6 miles off Key Largo. The top of the superstructure is approximately 60 feet (some sources note 60-65 feet depending on tide), the main deck sits around 80-90 feet, and the sandy bottom alongside the hull reaches 130-135 feet. The ship is 510 feet long and 84 feet wide — large enough that operators commonly say "you could dive it a hundred times and not see all of it." Many of the original openings have been widened and lined for daylight swim-throughs accessible to advanced divers without committing to true penetration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The site is accessible only by boat (about a 25-30 minute run from Key Largo) and is moored, never anchored. Operators tie off to one of several permanent mooring buoys positioned around the wreck. Divers descend the mooring line to the superstructure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Operators typically require Advanced Open Water certification at minimum, with deep dive experience within the past year; some require proof of 25 logged dives.
+- Nitrox extends bottom time meaningfully at the 80-100-foot decks and is widely supported by Key Largo operators.
+- Plan dives around the superstructure and deck features (crane arms, conning tower, deck guns) on a first visit before descending to the lower hull.
+- Multiple operators offer a PADI "Spiegel Grove Diver" distinctive specialty course oriented to the site.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- True penetration requires proper overhead-environment training and equipment; silt inside the hull can drop visibility to near zero and cause disorientation. Daylight swim-throughs are not a substitute for wreck-penetration certification.
+- Currents at the site can be strong; brief on drift contingency and surface-marker buoy use before splashing.
+- The 60-foot deck is well below recreational no-decompression limits for repetitive dives — monitor computers carefully and plan conservative profiles.
+- Sun exposure on surface intervals 6 miles offshore is intense; bring water, sun protection, and a wind layer.
+- Visibility ranges widely; on cloudy days the superstructure can fade into blue-green haze and divers should stay close to the mooring line on descent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Florida-Scubadiving.com notes the ship's crane arms, encrusted with sponges and corals, are a signature wide-angle subject; the upright orientation since 2005 makes the superstructure photogenic and navigable, though the depth and ambient light loss favor strobes and fast wide lenses.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — USS Spiegel Grove](https://en.wikipedia.org/wiki/USS_Spiegel_Grove), [WreckWiki — Spiegel Grove](https://www.wreckwiki.com/wreck/spiegel-grove), [Spiegelgrove.com (Ocean Divers)](https://www.spiegelgrove.com/), [Scuba-Fun Florida — The Spiegel Grove Wreck](https://scubafunflorida.com/the-spiegel-grove-wreck/), [Florida-Scubadiving.com — USS Spiegel Grove](https://www.florida-scubadiving.com/uss-spiegel-grove-key-largo/), [Visit Florida Keys — Spiegel Grove](https://visitfloridakeys.com/experiences/what-were-famous-for/diving-snorkeling/shipwrecks/spiegel-grove). Last updated 2026-05-17.*

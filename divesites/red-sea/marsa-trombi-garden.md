@@ -4,7 +4,7 @@ lat: 25.6481614
 lng: 34.585197
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,35 @@ addedBy: osm_import
 
 ## Marsa Trombi Garden
 
-Marsa Trombi Garden is a  dive site in Red Sea, Middle East.
+Marsa Trombi Garden is one of three distinct dive sites within the Ras Torombi bay complex, located approximately 8.5 kilometres north of Ras Ghalib in the Marsa Alam region of Egypt's southern Red Sea. "Marsa" means bay in Arabic, and Torombi Bay is a 360-metre-wide protected inlet that forms part of a marine protected area in place for over 20 years.
 
 ## Overview
 
-Marsa Trombi Garden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The Garden section is described as a small lagoon just south of the large bay, drawing increasing numbers of divers with its calm, sheltered conditions and rich coral coverage. Optimal depth for the most interesting marine life is 10–15 metres, where hard corals and table corals stack in colourful formations near the reef plate. The outer reef edge drops to around 30 metres before the bottom shelves away.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site regularly turns up hawksbill turtles and dugongs — the bay's resident dugong population was the reason part of it was restricted from boat access to protect animals from propellers. Unicornfish, titan triggerfish, and burrfish are commonly encountered on the reef. Blue-spotted stingrays rest on sandy patches. Crocodilefish and stonefish blend into rubble areas; sea slugs and other macro subjects reward patient divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A classic shallow-water reef dive with most of interest between 8 and 15 metres. The southern reef offers a short drift section over hard corals toward the reef plate. Night dives are available and productive. Current is typically around one knot; visibility ranges from 5–25 metres depending on season, with the best conditions from May to September when 25-metre-plus visibility is common.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access; a RIB typically drops divers at the northern end of the bay and they dive back to the liveaboard or day boat. The fringing reef requires care on entry — best achieved with a RIB rather than a large vessel.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Marsa Alam region, southern Red Sea, approximately 8.5 km north of Ras Ghalib
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 metres (optimal 10–15 m)
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving — Torombi](https://www.redsea-diving.com/torombi/), [Scuba Diving Place — Ras Torombi](https://scubadiving.place/divesite/ras-torombi), [Divers Guide — Ras Torombi](https://www.divers-guide.com/en/ras-torombi). Last updated 2026-05-17.*

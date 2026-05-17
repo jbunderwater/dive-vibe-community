@@ -26,36 +26,26 @@ Patey Rock is a rocky reef near Salt Spring Island in the Gulf Islands, consider
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Patey Rock hosts a classic Gulf Islands cold-water assemblage. Giant Pacific octopus den in the deeper rock crevices; wolf eels occupy fissures in the mid-range structure. Multiple rockfish species — china, copper, quillback, and tiger rockfish — hold station on exposed ledges. Lingcod are resident year-round. Plumose anemones and encrusting sponges blanket the upper surfaces, with nudibranchs and decorator crabs found throughout. Harbour seals frequent the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rocky reef descends to around 18 metres, with the densest invertebrate growth concentrated on the shallower sections where light and current-delivered nutrients sustain plumose anemone colonies and sponges. Tidal currents flowing through nearby Gulf Island passages maintain excellent visibility and food supply. Visibility is typically best in winter months (October–March).
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from Salt Spring Island or nearby Gulf Islands operators. The site is in open, tidally active water and requires a competent boat handler familiar with local current patterns.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Check the tidal schedule before diving — currents through Gulf Island passages can be substantial on spring tides. Dive around the slack for the most comfortable conditions and best visibility. Patey Rock is regarded as one of the signature Gulf Islands boat dives; it rewards those willing to wait for the right tidal window.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (7–10°C) requires a dry suit. Tidal currents are a primary hazard — always use a surface marker buoy and dive with a live boat above. Winds and chop in the Gulf Islands can increase quickly; have a weather contingency plan.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving — Salt Spring Island Tourism](https://saltspringisland.com/things-to-do-and-see/outdoor-adventure/diving/), [Gulf Islands Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [British Columbia's Southern Gulf Islands — X-Ray Mag](https://xray-mag.com/content/british-columbias-southern-gulf-islands). Last updated 2026-05-17.*

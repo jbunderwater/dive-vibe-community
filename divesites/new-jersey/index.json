@@ -12,18 +12,6 @@
     "osmId": 663869526
   },
   {
-    "name": "Sea King",
-    "filename": "sea-king.md",
-    "lat": 39.7533579,
-    "lng": -74.101544,
-    "difficulty": "Beginner",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 1404734824
-  },
-  {
     "name": "Tices Shoal",
     "filename": "tices-shoal.md",
     "lat": 39.8335824,
@@ -90,18 +78,6 @@
     "lng": -73.5667,
     "difficulty": "Advanced",
     "maxDepth": 33,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": null
-  },
-  {
-    "name": "Andrea Doria",
-    "filename": "andrea-doria.md",
-    "lat": 40.2958,
-    "lng": -69.8508,
-    "difficulty": "Advanced",
-    "maxDepth": 73,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",

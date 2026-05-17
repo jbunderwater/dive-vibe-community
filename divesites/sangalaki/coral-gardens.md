@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Coral Gardens
 
-Coral Gardens is a reef dive site in Sangalaki (Derawan Islands), Asia.
+Coral Gardens is a reef dive site on the western side of Sangalaki Island in the Derawan Archipelago, East Kalimantan, Indonesia.
 
 ## Overview
 
-Coral Gardens is a dive site in Sangalaki (Derawan Islands) offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Gardens occupies Sangalaki's southwestern shelf, where the reef shelves gradually from a shallow hard coral garden down to a flat sandy bottom at 27 metres. The site is characterised by brightly coloured hard and soft corals — acropora table corals, mosaic corals, and encrusting formations — interspersed with sponges, sea fans, and anemone gardens. At depth, the sandy flat hosts goatfish rooting through sediment alongside garden eels. The site connects to Turtle Town to the south and Sandy Ridge to the east, and mild currents occasionally allow drift dives linking all three locations. Dive The World describes it as "a very satisfying night dive" for the critters that emerge after dark.
+
+## Marine Life
+
+- Anthias, damsels, snappers, and triggerfish on the reef face
+- Cuttlefish hunting over sandy margins
+- Frogfish and leaf scorpionfish in rubble zones
+- Giant clams (*Tridacna* spp.) embedded in coral heads
+- Anemonefish (*Amphiprion* spp.) in resident anemones
+- Angelfish and butterfly fish throughout the coral garden
+- At night: hermit crabs, octopus, lobsters, and mantis shrimp emerge from crevices
+
+## Dive Profile
+
+The reef shelves from approximately 5 metres on the crest to 27 metres where coral gives way to open sand. A typical profile descends the gradual slope to around 20 metres and returns at 10–12 metres along the more colourful upper reef. Visibility averages 15–25 metres. Currents are gentle and rarely cause problems at this site.
+
+## Entry and Exit
+
+Boat dive only. Entry is at the reef crest; the gradual topography makes navigation straightforward. Night dives are commonly offered here with a guide.
+
+## Tips
+
+- Night dives are highly recommended — the site transforms with octopus, lobsters, and mantis shrimp visible in the open.
+- The shallow coral garden at the top of the slope is ideal for ending your dive during safety stop — maximum diversity is above 10 metres.
+- Check sandy patches carefully for camouflaged cuttlefish and frogfish.
+
+## Safety Considerations
+
+The site is beginner-friendly with minimal current. Night divers should maintain close group formation and confirm torch signals with guides before descent.
+
+## Photography
+
+The colourful hard coral garden in 5–10 metres of water makes excellent wide-angle reef photography in natural light. The flat sandy bottom at depth is well-suited for macro work — cuttlefish, frogfish, and garden eels are reliable subjects. Night photography rewards patience as animals emerge from shelter.
 
 ## Site Information
 
-- **Location**: Sangalaki (Derawan Islands), Asia
+- **Location**: Sangalaki Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/). Last updated 2026-05-17.*

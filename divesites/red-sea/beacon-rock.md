@@ -31,4 +31,4 @@ Beacon Rock is a dive site in the Red Sea. Located in the Middle East region, th
 - **Best Time**: September to May
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*

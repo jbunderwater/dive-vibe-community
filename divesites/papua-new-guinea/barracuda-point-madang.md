@@ -26,7 +26,7 @@ The combination of reliable current, a healthy shallow reef top, and an impressi
 - **Location**: Pig Island, Madang Lagoon, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate to Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Reef Top**: 3-5 meters
 - **Current**: Always present; direction varies with tide

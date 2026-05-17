@@ -26,38 +26,32 @@ The Jib Wall is a wall dive at Madrona Point in Nanoose Bay, with compass bearin
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The Jib Wall at Madrona Point holds the typical Nanoose Bay / central Strait of Georgia community: giant Pacific octopus under overhangs and in crevices, wolf eels in the rock cracks, lingcod on flat ledges, and multiple rockfish species in the water column. Cabezon occupy the rubble zones at the wall's base. Nudibranchs and sunflower stars (Pycnopodia helianthoides) are found on the rocky surfaces. Schools of Pacific spiny dogfish patrol the deeper sections. In autumn and winter, Steller sea lions from nearby haul-outs regularly buzz divers exploring the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The site's name encodes the two main dive lines from the beach entry. The shallow route follows a compass bearing of 270° (due west) to a wall section at approximately 15–18 metres (50–60 feet). The deeper route follows 220° (south-southwest) to a series of ledges and the main wall, where depth exceeds 30 metres (100 feet) — watch gauges carefully at this end. A rock-formation maze on the deeper section provides complex habitat. The site is generally accessible year-round and does not experience the extreme currents found further north in Discovery Passage.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The site is accessible as a shore dive via Madrona Point off Northwest Bay Road (turn onto Claudet Road following signs to Beachcomber Marina; Claudet becomes Marina Way; turn left onto "The Jib" road for beach access between two houses). Parking is limited to 2–3 vehicles at road's end, with additional roadside spots available. No on-site facilities. Shore entries can also be supplemented by boat drop for the deeper wall sections to avoid the surface swim.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- The deeper 220° route easily reaches technical depths (30+ m); monitor gas and depth carefully.
+- Cold water year-round (8–12°C); drysuit recommended.
+- Moderate currents can be present; plan dives around tidal conditions.
+- Limited parking — do not block residential driveways.
 
-## Photography
+## Tips and Recommendations
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+- Begin the dive by swimming to the white marker buoy at approximately 0° bearing, then follow the wall west.
+- The 270° shallow route is suitable for advanced divers consolidating skills; the 220° deep route is for experienced divers only.
+- Nitrox (32–36%) recommended for the deeper route to extend bottom time within NDL limits.
+- Fall and winter offer best visibility (25+ metres) and sea lion encounters.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Madrona Point Nanoose Bay — ScubaBC](https://www.scubabc.ca/madrona-point-nanoose/), [Wall Beach Dive Site Nanoose Bay — Parksville Qualicum Beach Tourism](https://www.visitparksvillequalicumbeach.com/blog/wall-beach-dive-site-in-nanoose-bay/). Last updated 2026-05-17.*

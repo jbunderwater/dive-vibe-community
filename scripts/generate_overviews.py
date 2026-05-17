@@ -137,7 +137,13 @@ def generate_overview(dest, stats, region_data):
 
     diving_opps = "\n".join([f"- {st}" for st in site_types])
 
-    # Highlights
+    # Highlights — only emit if curated in DESTINATION_SPECIFICS. Do NOT
+    # synthesize regional water/visibility/season/species/hazards claims,
+    # since REGION_DATA keys (especially "North America") cover too broad
+    # a geographic area to be accurate per destination — e.g., the original
+    # template produced "sea lions, harbor seals, garibaldi, kelp bass"
+    # marine biodiversity for the Florida Keys (tropical) and Great Lakes
+    # (freshwater). Hand-curate after this stub is generated.
     highlights = dest_info.get("highlights", [])
     famous = dest_info.get("famous_sites", [])
     highlights_text = ""
@@ -146,8 +152,9 @@ def generate_overview(dest, stats, region_data):
     if famous:
         highlights_text += " Notable sites include " + ", ".join(famous[:3]) + "."
 
-    # Marine life
-    marine_species = ", ".join(region_data["typical_marine_life"][:10])
+    depth_range = ""
+    if stats.get("min_depth") is not None and stats.get("max_depth") is not None:
+        depth_range = f" with depths ranging from {stats['min_depth']} to {stats['max_depth']} meters"
 
     content = f"""---
 addedBy: osm_import
@@ -159,7 +166,7 @@ addedBy: osm_import
 
 ## Description
 
-{name} is a {'premier' if stats['total'] > 20 else 'notable'} diving destination in the {region} region{', offering ' + str(stats['total']) + ' documented dive sites' if stats['total'] > 0 else ''} with depths ranging from {stats.get('min_depth', 5)} to {stats.get('max_depth', 30)} meters.{highlights_text} Water temperatures average {region_data['water_temp']}, with visibility typically reaching {region_data['visibility']}. {'Year-round diving is possible' if region_data['year_round'] else 'The diving season runs ' + region_data['best_season']}, with the best conditions during {region_data['best_season']}.
+{name} is a {'premier' if stats['total'] > 20 else 'notable'} diving destination in the {region} region{', offering ' + str(stats['total']) + ' documented dive sites' if stats['total'] > 0 else ''}{depth_range}.{highlights_text}
 
 ### Diving Opportunities
 
@@ -171,32 +178,20 @@ addedBy: osm_import
 - **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
 - **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
 - **Transportation**: {'Rental vehicles are recommended for accessing shore dive sites independently' if stats['shore'] > 5 else 'Local transportation and dive operator transfers are the primary means of reaching dive sites'}.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
-
-### Marine Life & Environment
-
-- **Water Conditions**: Water temperatures range from {region_data['water_temp']} with visibility of {region_data['visibility']}. Currents are generally {region_data['current'].lower()}.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including {marine_species}.
-- **Conservation**: {'Marine protected areas help preserve the reef ecosystems and regulate diving activities.' if region in ('Caribbean', 'Pacific', 'Asia', 'Oceania', 'Middle East', 'Central America', 'South America') else 'Local conservation efforts help protect marine habitats and ensure sustainable diving practices.'}
 
 ## Additional Information
 
-- **Best Time to Visit**: {region_data['best_season']}. {'Diving is possible year-round' if region_data['year_round'] else 'Outside the main season, conditions may be less favorable'}.
 - **Currency**: {currency}
 - **Language**: {language}
-- **Safety**: Always dive within certification limits. Be aware of {', '.join(region_data['hazards'][:3])}. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Always dive within certification limits. Verify the location of the nearest hyperbaric chamber before diving.
 
 ## Sources
 
 - OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
 
 ---
 
-*Last updated: {datetime.now().strftime('%B %Y')}*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Stub generated from OpenStreetMap data. Water conditions, season, marine life, and destination-specific hazards have not been validated and require hand curation. Last updated {datetime.now().strftime('%B %Y')}.*
 """
     return content.strip() + "\n"
 

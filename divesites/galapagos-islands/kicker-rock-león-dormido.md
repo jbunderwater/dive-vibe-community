@@ -13,55 +13,39 @@ addedBy: osm_import
 
 ## Kicker Rock (León Dormido)
 
-Kicker Rock (León Dormido) is a wall dive site in Galápagos Islands, South America.
+Kicker Rock (León Dormido — "Sleeping Lion") is one of the Galápagos Islands' most iconic dive sites, located approximately 1.5 hours by boat northeast of Puerto Baquerizo Moreno on San Cristóbal Island. The formation is the eroded remnant of a vertical tuff cone rising 153 metres above the surface, split by a narrow 70-foot channel that forms the primary dive corridor.
 
 ## Overview
 
-Kicker Rock (León Dormido) is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+The twin rock pillars and the channel between them create a dramatic underwater environment where pelagic species converge, drawn by the strong nutrient-rich currents that sweep through the passage. The walls plunge vertically from the surface to depths of 30–40 metres and beyond. Diving here is reserved for intermediate to advanced divers due to the potential for strong currents and the depth of some routes. Marine life abundance peaks from May to November when cooler, nutrient-dense water creates more active feeding conditions.
+
+## Marine Life
+
+Whitetip reef sharks and Galápagos sharks are commonly encountered throughout the dive, while scalloped hammerheads occasionally emerge from deeper water. Eagle rays and golden rays are regularly sighted. Green sea turtles and marine iguanas are present. Sea lions often interact with divers near the surface. Barracuda, moray eels, octopus, parrotfish, and surgeonfish inhabit the wall formations. Overhead, blue-footed boobies, masked boobies, and frigatebirds nest on the cliff ledges.
+
+## Dive Profile
+
+Dive depth ranges from 9–40 metres (30–130 ft). The channel between the two rock faces averages 18 metres and is the most sheltered section. Wall diving on the outside of the formation reaches deeper zones where shark encounters are more frequent. Two dive sites are typically conducted during a day trip to Kicker Rock, covering different areas of the formation.
+
+## Entry and Exit
+
+All dives are by guided day trip from Puerto Baquerizo Moreno. Tours include two dives. Divers enter directly from the tour boat; there is no shore access. Currents in the channel can be strong and direction-reversing, making dive timing critical — guides assess conditions before entry.
+
+## Safety Considerations
+
+Strong and variable currents, particularly through the channel, require good buoyancy control and current diving experience. Divers should stay close to the wall and be prepared to adjust for surge. Advanced or at minimum Intermediate certification is expected.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: San Cristóbal Island, Galápagos, Ecuador
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
-
-## Marine Life
-
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/diving-at-kicker-rock-tips-marine-life-and-best-time-to-visit/), [Visit Galapagos – Kicker Rock](https://www.visitgalapagos.travel/visitor-sites/kicker-rock-leon-dormido-galapagos-islands.html). Last updated 2026-05-17.*

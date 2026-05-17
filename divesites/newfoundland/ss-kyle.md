@@ -26,38 +26,26 @@ The SS Kyle is a 1913-built Clyde-side steamship that ran aground at Harbour Gra
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Wreck History
 
-The shallow hull of the SS Kyle is encrusted with horse mussels, sea urchins, and cold-water anemones, with cunner and Atlantic cod sheltering around the rusting steel plates. Sea ravens and shorthorn sculpin are frequently spotted tucked into crevices along the wreck's lower hull, and the barnacle-covered superstructure provides ideal macro subjects including northern lobster and sea stars.
+The SS Kyle was launched on April 7, 1913, from Swan Hunter & Wigham Richardson's yard at Wallsend, Newcastle-on-Tyne (Yard No. 906), built for Reid Newfoundland Company as the tenth vessel in their "Alphabet Fleet." She measured 220 feet (67 m) long, 32 feet (9.8 m) wide, and displaced 1,055 gross tons, powered by a 3-cylinder triple-expansion steam engine. Operating Canada's first scheduled coastal ferry service to Labrador, she became known as the "Bulldog of the North." The Kyle served Newfoundland coastal communities for over 50 years — on the Northwest Coast and Labrador routes, as a Port aux Basques–North Sydney ferry, and during World War II as a troop transport. In 1961 she was sold and converted to a sealing vessel; ice damage during the 1965 seal hunt left her uneconomical to repair. On February 4, 1967, a northeast storm dislodged her from her moorings at night and she drove aground at Riverhead, Harbour Grace — where she has remained. The Newfoundland government purchased her for $4,000 in 1972; her exterior was repainted in original colours in 1997 through federal and provincial funding. She is the last surviving vessel of the Reid Alphabet Fleet.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Kyle sits beached and partially flooded in just 6 m (20 ft) of water at Riverhead, with much of her superstructure visible above the surface. The accessible underwater portion is the stern and lower hull, making this one of Newfoundland's shallowest wreck dives. The extreme shallowness keeps natural light flooding the dive throughout, though surge from exposed conditions can make entry and exit hazardous on rough days. The cable room has collapsed into the smoke room; the wreck's upper structure is no longer safe to board above water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore dive directly from the beach at Riverhead, Harbour Grace. The wreck is visible from shore and from a waterfront boardwalk that provides viewing access. Divers typically enter from the shingle beach. No dive operator is required for the shore portion, but local advice on current surge conditions is recommended before entering the water.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The Kyle is exceptionally photogenic — the rusty superstructure rising above the waterline in the Harbour Grace inlet makes for striking surface and above-water photography as well as underwater shots. Visit the nearby Kearney Tourist Chalet's "Kyle Room," which displays artefacts and photographs of the vessel's working life. Be aware that surge can make the very shallow, rocky entry treacherous; calm conditions are strongly preferred. A drysuit is recommended even in summer given North Atlantic water temperatures.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The extreme shallowness — maximum 6 m — makes depth-related pressure issues minimal, but surge in exposed conditions is the principal hazard. The collapsed internal structure above the waterline is unsafe to enter or board. Cold water still requires appropriate exposure protection; a wetsuit at minimum, drysuit preferred.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [SS Kyle History - sskyle.org](https://sskyle.org/history/), [Wikipedia - SS Kyle](https://en.wikipedia.org/wiki/SS_Kyle), [Town of Harbour Grace - SS Kyle](https://www.hrgrace.ca/tourism-heritage/attractions/ss-kyle/), [The Scuba News - Maritime History SS Kyle](https://www.thescubanews.com/2022/03/17/maritime-history-ss-kyle-in-newfoundland/). Last updated 2026-05-17.*

@@ -13,52 +13,40 @@ addedBy: osm_import
 
 ## Karang Hatta
 
-Karang Hatta is a reef dive site in Banda Sea, Asia.
+Karang Hatta (also called Sekaru — meaning "shallow area" in local usage) is a 500-metre-wide submerged reef system located a few kilometres off the south coast of Pulau Hatta. It sits closer to the 5,900-metre-deep Banda Trench than any other commonly dived site in the archipelago, which concentrates an exceptional range of pelagic species over its sloping reefs.
 
 ## Overview
 
-Karang Hatta is a dive site in Banda Sea offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef slopes gradually from around 5 m down to beyond 40 m, offering productive diving at almost any depth. The 25 m zone is widely considered the sweet spot, where endless cascades of neon fusiliers sweep across the reef in dense schools, attracting dogtooth tuna, schooling trevally, great barracuda, and eagle rays in pursuit. Hammerhead sharks and grey reef sharks are reported here, especially when a southerly current pushes nutrient-rich water up over the reef edge.
 
-## Site Information
-
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef flat sections show evidence of past blast fishing damage but are recovering, with scattered hard coral growth. The deeper walls feature some of the region's largest sea fans and elephant ear sponges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Gently sloping reef from 5 m to 25–30 m sweet spot, then dropping more steeply. Typical dive depth 15–35 m. Current is variable — a southerly push concentrates fish on the reef edge and outer slopes. Advanced divers can follow the deeper wall.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- Schooling fusiliers in large aggregations
+- Dogtooth tuna, great barracuda, schooling trevally
+- Eagle rays, green turtles
+- Hammerhead sharks and grey reef sharks (current-dependent)
+- Triggerfish, groupers, Napoleon wrasse
+- Large sea fans and elephant ear sponges on deeper sections
 
-## Tips and Recommendations
+## Entry / Exit
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat dive from liveaboard. Hatta Island is approximately 25 km from Banda Neira. Calmer conditions are typical but current can pick up along the outer reef.
 
-## Safety Considerations
+## Tips
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Best season for pelagics: September–November and March–April when currents are stronger
+- Check current direction with your guide before entry — southerly flow concentrates the fish action
+- Combine with nearby Goa Hatta for a full day on Hatta Island
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-
+Outstanding wide-angle destination. The fusilier schools, combined with the deep blue background of the Banda Trench, make for dramatic open-water compositions. Bring a large dome port for reef-and-blue shots.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/). Last updated 2026-04-05.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html). Last updated 2026-05-17.*

@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Habili Wadi Gimal
 
-Habili Wadi Gimal is a  dive site in Red Sea, Middle East.
+Habili Wadi Gimal is an offshore pinnacle (habili) dive site in the Wadi Gimal / Marsa Alam area of the southern Red Sea. It is one of five outer reef sites accessible from the Wadi Gimal dive centre, located 50–90 minutes from the base by speedboat. The site is in the same family of outer reef habilis as Shaab Sharm, Habili Dahara, and Habili Radir.
 
 ## Overview
 
-Habili Wadi Gimal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+As an exposed outer reef habili, Habili Wadi Gimal lies in open water and is dependent on suitable weather conditions for access and diving. The deeper nature of the site (25–40 m) and the possibility of currents make this an intermediate-to-advanced site. When conditions allow, the site rewards divers with encounters with larger pelagic species alongside abundant reef life.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Outer reef habilis in the Wadi Gimal area are documented to host nudibranchs, scorpionfish, sweetlips, bannerfish (sometimes in schools of up to 200), various hard and soft corals, large tuna, shoals of barracudas, whitetip reef sharks, and Napoleon wrasse of all sizes. Eagle rays and stingrays are also reported at the outer reef habilis in this region.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Depth ranges from 25 m to 40 m. The site is accessible only in favourable weather. Dive duration is typically 50–60 minutes. Boat travel time from Wadi Gimal base is 50–90 minutes.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Outer reef, Wadi Gimal area, Marsa Alam, southern Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Sportif Dive – Wadi Gimal Dive Sites](https://www.sportifdive.co.uk/divesites/34/31/Red_Sea_and_Egypt/Marsa_Alam/Wadi_Gimal_-_Marsa_Alam_Diving). Last updated 2026-05-17.*

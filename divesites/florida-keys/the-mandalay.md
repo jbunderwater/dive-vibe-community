@@ -26,38 +26,31 @@ The Mandalay is the best snorkeling shipwreck in Biscayne National Park, located
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Wreck History
 
-The Mandalay's very shallow remains teem with colorful reef fish easily visible from the surface, including sergeant majors, blue tangs, parrotfish, and gray angelfish. Nurse sharks rest motionless beneath hull sections in the daytime, and spiny lobster are abundant in the cracks and overhangs throughout the wreck. Hawksbill turtles and southern stingrays are frequently encountered, making this an excellent snorkeling and beginner dive for wildlife observation.
+The Mandalay was a 110-foot-6-inch steel-hulled auxiliary schooner built in 1928 by George Lawley & Son Corporation for $177,000. After multiple owners, Windjammer Cruises Inc. acquired and renamed her in 1965 for use as a "barefoot" luxury cruise ship. On the night of December 31, 1965 / early January 1, 1966, returning from a 10-day Bahamian cruise to Miami with 23 passengers and 12 crew, the captain miscalculated the distance from Fowey Rocks and left a novice seaman at the helm; the schooner ran aground on Long Reef roughly 20 miles off her intended course. An SOS at 3:45 AM brought Coast Guard helicopters and patrol boats and all aboard were rescued. Salvage tugs failed to pull her free; the masts were removed under contract for re-use on a replica Spanish galleon, and the hull was picked clean by opportunistic salvors before official recovery crews arrived. The wreck remains embedded on Long Reef as one of six sites on Biscayne National Park's Maritime Heritage Trail.
 
 ## Dive Profile
 
-The Mandalay wreck's remains are spread out in approximately 12 feet of water, making it one of the most accessible wreck sites in South Florida. The shallow depth allows for extended bottom time and excellent visibility of the wreck structure. Divers and snorkelers can explore the remains and observe the abundant marine life that has colonized the wreck.
+What remains of the Mandalay rests in very shallow water on Long Reef in the eastern portion of Biscayne National Park — frontmatter depth of approximately 12 feet. NPS describes the wreck as a "skeleton" embedded on the reef and rates it "one of the best shallow dive spots in the park" as well as an outstanding snorkeling wreck. The shallow profile allows extended bottom time and surface-light photography across the hull frames.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Mandalay is reachable only by boat through Biscayne National Park, which maintains a Maritime Heritage Trail mooring at the site. Tie up to the mooring; no anchoring on the reef is permitted within the park.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The wreck is shallow enough for free-diving and snorkeling and is often combined into a single trip with the nearby Lugano (a few hundred meters north on the same Long Reef line), which is better suited to scuba.
+- NPS publishes a waterproof site guide for the Maritime Heritage Trail interpreting visible features at each wreck.
+- Biscayne National Park rules prohibit removal or disturbance of any artifact — a federal offense.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Sun exposure is intense at this exposed offshore reef; bring water and reef-safe sun protection for surface time.
+- Exposed steel hull frames and remnants are sharp and degraded after 60 years of storms; avoid contact and watch fin placement.
+- Long Reef sits in open water with boat traffic; deploy a dive flag and surface within sight of the dive vessel.
+- Fire coral and stinging hydroids commonly encrust shallow Keys wrecks; maintain neutral buoyancy.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [NPS — Mandalay (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/mandalay.htm), [NPS Places — Mandalay](https://www.nps.gov/places/mandalay.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park). Last updated 2026-05-17.*

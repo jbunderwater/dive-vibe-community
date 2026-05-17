@@ -13,55 +13,46 @@ addedBy: osm_import
 
 ## Great Wall of Ticao
 
-Great Wall of Ticao is a wall dive site in Philippines Donsol, Asia.
+The Great Wall of Ticao is a dramatic vertical wall dive located near Burubangkaso Island in the Ticao Island area of Masbate Province. Unique rock formations break the surface above, marking the beginning of a sheer drop that plunges into water exceeding 300 meters depth.
 
 ## Overview
 
-Great Wall of Ticao is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall is characterised by near-vertical to overhanging limestone rock faces encrusted with soft corals, sponges, and tunicates. The Te Moana Expeditions dive guide describes the site's distinctive above-surface geology — unusual rock formations that make the entry point identifiable from the boat. Below the surface, the wall descends steeply through deepening coral and soft-coral habitat. Schooling tunas pass through in open water adjacent to the wall. Nudibranchs inhabit crevices and overhangs along the shallower sections of the wall.
+
+The site is part of Ticao Island's broader dive portfolio, which ranges from the pelagic seamount of Manta Bowl to sheltered macro sites. The Great Wall offers the most dramatic topography of the Ticao wall dives, combining the visual impact of the drop-off with the possibility of pelagic visitors attracted by the current-swept channel environment.
+
+## Marine Life
+
+- Schooling tunas and trevallies in the blue water alongside the wall
+- Soft corals and encrusting sponges on the wall face
+- Nudibranchs in crevices and overhangs
+- Reef fish along the shallower crest sections
+
+## Dive Profile
+
+Boat entry; descend along the wall face. The typical dive profile follows the wall from the shallow crest (8–12 m) down to advanced depth limits (30–35 m), then ascends along the wall while exploring overhangs and coral formations at mid-depth before a safety stop. Wall orientation and current patterns vary — local guides set the dive direction based on conditions.
+
+## Entry/Exit
+
+Boat only. Accessed from Ticao Island operators. The site is on the outer exposure of Ticao/Burubangkaso, meaning swell and current conditions can fluctuate.
+
+## Tips
+
+- Best season: November to May when seas are calm and visibility peaks.
+- Focus on the wall between 15–25 m for the richest soft-coral coverage.
+- Wide-angle photography captures the scale of the drop-off; macro subjects exist in crevices throughout.
+
+## Safety
+
+Advanced certification required. Wall dives with significant depth invite rapid descent — monitor depth closely. Current can be present at the wall's exposed location.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Near Burubangkaso Island, Ticao Island, Masbate Province, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*

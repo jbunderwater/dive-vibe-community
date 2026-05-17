@@ -26,38 +26,40 @@ Fort Lauderdale's largest artificial reef complex consisting of five decommissio
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The Tenneco Towers platforms are festooned with dense soft coral growth and host an impressive diversity of South Florida reef fish, including large barracuda, hogfish, queen angelfish, and yellowtail snapper schooling around the steel legs. Bull sharks and nurse sharks are regular visitors to the deeper platform towers, and spotted eagle rays and southern stingrays are frequently seen patrolling the sandy bottom between structures. Goliath grouper have colonized the lower sections of several towers, making this one of the more reliable goliath encounters in Broward County.
+The platforms are heavily encrusted with hard and soft corals and sponges, and host large schools of reef fish. Sources report angelfish, hogfish, blue tangs, parrotfish, graysby, and barracuda working the structures, with bull sharks regularly sighted around the deeper platforms. Pelagic visitors include tunas and mackerels, and sea turtles are observed on the upper sections. Invasive lionfish are abundant on the structure and are actively culled by some operators.
+
+## Site History
+
+In 1985 the Tenneco Oil Company donated five decommissioned Gulf of Mexico oil platforms to the Broward County Artificial Reef Program. The platforms were towed across to the Atlantic and sunk off Hallandale Beach in October 1985, forming what is now Lauderdale's largest artificial reef complex. They sit in three adjacent sites, with the eastern end of the structure rising shallower than the western end.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Three of the five platforms are within recreational limits, with top decks at approximately 60, 80, and 100 feet (18, 24, and 30 m); the remaining two sit at roughly 190–200 feet and are reserved for technical/trimix divers and fisheries. Most recreational dives work the 60–80 foot platforms, where the open steel framework allows divers to weave through the towers. Strong tidal currents can occur — operators usually plan dives at slack tide. Average visibility is around 20 m (10–30 m / 33–100 ft range), best in summer.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only, run by charters out of Fort Lauderdale, Hallandale Beach, and Miami. Operators typically tie off the platform structure or run live drift drops depending on conditions. Advanced Open Water certification is the standard minimum; Deep Diver specialty is recommended for the 100-foot platform, and the 200-foot rigs require technical training.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Plan multi-level: drop on the deepest platform you intend to dive first, then work shallower across the towers.
+- The eastern (shallower) end is the better choice when current is running and bottom time is tight.
+- Reef Smart Guides publishes a 3D site card with platform layouts and a suggested navigation path that is useful for first-time visitors.
 
 ## Safety Considerations
 
-Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Currents on the platforms can be strong and unpredictable across depth — confirm conditions with the operator and consider slack tide.
+- Depth and narcosis are real factors on the 80 and 100 ft platforms; monitor air, depth, and NDLs closely.
+- Surface intervals expose divers to intense South Florida sun and offshore boat traffic; surface with an SMB.
+- Hydroids, fire coral, and stinging hydroid colonies grow heavily on the steel; wear exposure protection.
+- The 200-foot platforms are outside recreational limits — do not attempt without proper technical training and gas planning.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Wide-angle is the right choice for the platform structure; the open steel lattice silhouettes well against the surface light on the shallower rigs. Strobe positioning matters around the heavy growth — back off the structure to avoid backscatter and to fit the towers in frame.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Squalo Divers — Tenneco Towers](https://www.scubadivinginmiami.com/sites/tenneco-towers/), [OceanWide Explorers — Diving Tenneco Towers in South Florida](https://oceanwideexplorers.com/diving-tenneco-towers-in-south-florida/), [Florida Scuba Diving — Tenneco Towers Diving Guide](https://www.florida-scubadiving.com/tenneco-towers-fort-lauderdale-diving-guide-tips/), [Greatest Dive Sites — Tenneco Towers](https://florida.greatestdivesites.com/lauderdale/tenneco_towers_or_oil_platforms), [Reef Smart Guides — Tenneco Towers](https://reefsmartguides.com/product/tenneco-towers/). Last updated 2026-05-17.*

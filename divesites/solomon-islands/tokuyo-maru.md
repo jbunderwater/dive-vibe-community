@@ -24,10 +24,10 @@ Unlike the many WWII wrecks in the Solomon Islands, this is a modern vessel with
 ## Site Information
 
 - **Location**: Near Ferguson Passage, Western Province, Solomon Islands
-- **Entry Type**: Boat dive from Gizo
-- **Site Type**: Wreck dive (modern fishing trawler)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 38 metres
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Variable near Ferguson Passage

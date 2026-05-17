@@ -13,50 +13,42 @@ addedBy: osm_import
 
 ## Swanee Reef
 
-Swanee Reef is a natural rocky reef formation famous for its historic collision with the Salvatierra ferry and as a productive reef diving site.
+Swanee Reef is a shallow rocky reef pinnacle in the San Lorenzo Channel, historically significant as the site that sank the Salvatierra ferry and now a productive macro and fish diving site.
 
 ## Overview
 
-Swanee Reef is a natural reef located in the San Lorenzo Channel, situated between Isla Espiritu Santo and Isla Cerralvo. The reef is historically significant as the site where the Salvatierra ferry collided and sank in the 1970s. The reef itself is an excellent natural dive site offering diverse marine life and reef structures. The reef maximum depth is approximately 12 meters, with scenic rocky formations and kelp forests creating a dynamic underwater landscape.
+Swanee Reef (also written Suwanee Reef or Swanee Rock) is a submerged rocky pinnacle in the San Lorenzo Channel between La Paz and the Espíritu Santo Archipelago. Its top reaches just 6 feet (approximately 2 meters) below the surface — shallow enough to be a serious maritime hazard, which is exactly what it proved to be in June 1976 when the cargo ferry Salvatierra struck it at night and sank in 60 feet of water nearby. After the sinking, the reef was fitted with a warning light. Today Swanee Reef is a beginner-friendly dive site and popular night dive spot, with cauliflower coral covering the pinnacle sides and a diverse community of reef fish and macro life.
 
 ## Site Information
 
-- **Location**: San Lorenzo Channel, between Isla Espiritu Santo and Isla Cerralvo
+- **Location**: San Lorenzo Channel, between La Paz and Isla Espíritu Santo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Variable, can increase with tidal exchange
-- **Best Time**: July to November
 
 ## Marine Life
 
-Swanee Reef supports abundant reef fish including snappers, groupers, jacks, and cabrilla. Sea lions frequent the area, and kelp forests provide habitat for numerous species. Eagle rays, mobula rays, and occasional whale sharks may be encountered in the surrounding waters. The reef structures host soft and hard corals with productive macro diving opportunities.
+The pinnacle's cauliflower coral covering hosts numerous small tropical fish species. Documented species at Swanee Reef include coral hawkfish, groupers, king angelfish, octopus, Mexican goatfish, moray eels, and garden eels in the surrounding sand. Schools of sardines, barracuda, mackerel, snappers, sergeant majors, triggerfish, and grunts move through regularly. Nudibranchs are frequently sighted on the reef surfaces. The DAN Alert Diver article specifically documents coral hawkfish and garden eels at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The pinnacle rises from approximately 12 meters to within 2 meters of the surface. Divers typically descend the sides through the cauliflower coral zone, then explore the sand areas at depth for garden eels and macro subjects. Excellent visibility is typical for this site. The shallow top section is suitable for snorkeling as well as diving.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from La Paz. Swanee Reef is often paired with the nearby Salvatierra Wreck as a two-tank dive combination (the site that sank the ship + the wreck itself). Multiple La Paz operators serve this site.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is an excellent night dive site — damselfish mating displays and macro species are active after dark.
+- Macro photographers should look for nudibranchs, hawkfish perched on coral heads, and garden eels in the sand surround.
+- The shallow reef top is accessible to snorkelers and makes a good second stop for a boat day.
+- Pair with the Salvatierra Wreck (a short distance away) for a historically themed two-tank day.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The reef top is only 2 meters below the surface — boat traffic in the San Lorenzo Channel means divers should use a dive flag and surface marker buoy for boat pick-up away from the pinnacle. Depth is minimal so decompression considerations are low. Appropriate for newly certified divers in calm conditions.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [Swanee Reef dive site — PADI](https://www.padi.com/dive-site/mexico/swanee-reef/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Scuba Go — Swanee Reef](https://www.scubago.com/en/explore/divesite/swanee-reef-162094), [UCR — The Wreck of the Salvatierra](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html). Last updated 2026-05-17.*

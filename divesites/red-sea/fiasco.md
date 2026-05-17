@@ -17,49 +17,35 @@ Fiasco is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Fiasco is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Fiasco is a local shore dive site in the Sharm el-Sheikh area, situated in the Na'ama Bay coastal reef corridor. It is classified by local dive operators as one of the beginner-friendly "local" dive sites frequently used for check dives, training dives, and warm-up dives before excursions to more challenging locations such as Ras Mohammed or the Tiran Strait reefs. The site's coordinates (27.85°N, 34.32°E) place it south of the main Na'ama Bay hotel zone, along the same fringing reef system as Amphoras, Paradise, and Turtle Bay. Like those sites, Fiasco features a shallow reef top, sandy slope areas, and coral pinnacle (erg) structures typical of the Sharm el-Sheikh coastline. Detailed site-specific documentation from dedicated diving sources was not located for this entry — the information below is consistent with the known character of the local Sharm el-Sheikh reef system at this location.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Na'ama Bay fringing reef system hosts anthias, butterflyfish, angelfish, surgeonfish, parrotfish, moray eels, lionfish, and scorpionfish. Blue-spotted stingrays are common on sandy slopes. Hawksbill turtles periodically pass through. Nudibranchs and cleaner shrimps are found on encrusting corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore dive from a beach or pier entry. Reef begins near the surface, with sandy slopes descending to 15–25 m. Currents are generally mild. Suitable for all certification levels, including beginners and those completing PADI check dives.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the associated beach or via a nearby hotel jetty. Most Sharm el-Sheikh dive operators include this site in local programmes for less experienced divers.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Best used as a morning check dive or training dive before heading to offshore sites in the afternoon. The shallow sandy areas are good for finding blue-spotted stingrays and cryptic reef residents.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present throughout the reef. Boat traffic along this stretch of coastline requires ascent in a controlled area with an SMB. Sun is intense during surface intervals.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Na'ama Bay / Sharm el-Sheikh coastline, Sinai Peninsula
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: Limited public documentation. [Sharm el-Sheikh dive site overview — A Little Nomad](https://alittlenomad.com/blog/sharm-el-sheikh-diving-guide/) contextually confirms Fiasco as a beginner-friendly local site. No site-specific dive reports located. Last updated 2026-05-17.*

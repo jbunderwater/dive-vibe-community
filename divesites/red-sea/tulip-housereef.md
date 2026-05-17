@@ -11,55 +11,41 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Tulip Housereef
+## Tulip Housereef — Royal Tulip / Magic Tulip Resort, Marsa Alam
 
-Tulip Housereef is a  dive site in Red Sea, Middle East.
+The Tulip Housereef is the house reef fronting the Royal Tulip Beach Resort (also associated with the Magic Tulip Resort) on the southern Red Sea coast, approximately 20 km south of Marsa Alam Airport. The reef is accessible via a long pontoon bridge — approximately 700 metres — that crosses the lagoon and ends directly above the reef drop-off, enabling easy access in all conditions.
 
 ## Overview
 
-Tulip Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Royal Tulip Beach Resort is a dedicated dive destination located between Marsa Alam Airport and the town, offering direct reef access via the long pontoon walkway. Orca Dive Club operates an on-site dive centre, running house reef dives and excursions to the broader Marsa Alam dive region.
 
-## Site Information
+The pontoon delivers divers directly to the drop-off, eliminating the need to wade through the lagoon. The reef features a healthy coral wall descending to approximately 25 metres, with good hard coral coverage and diverse reef fish populations. Clownfish in anemones, butterflyfish, and tangs are abundant in the shallow sections. Sea turtles are occasionally sighted along the reef, and spinner dolphins have been reported visiting the bay. Reef sharks make infrequent appearances on the deeper sections.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site is particularly well-suited to beginner divers due to its controlled entry via the pontoon, the calm bay conditions, and the variety of marine life in a compact area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–25 m (reef wall from drop-off level)
+- **Entry**: Shore via long pontoon (700 m walk over the lagoon)
+- **Currents**: Sheltered bay — minimal currents
+- **Visibility**: 15–25 m
+- **Night diving**: Available — the reef and lagoon edge are productive after dark
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Clownfish (in anemones), butterflyfish, surgeonfish, parrotfish, anthias, chromis, moray eels, groupers, sea turtles (occasional), reef sharks (occasional deeper sections), and spinner dolphins (rare bay visits). A wide diversity of hard corals on the reef face, with giant clams in the shallows.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pontoon provides easy topside photography opportunities at dusk. Underwater, the shallow anemone beds with resident clownfish are reliable macro subjects. The drop-off wall in clear water makes excellent wide-angle reef photography.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Royal Tulip Beach Resort, ~20 km south of Marsa Alam Airport, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [SSI Dive Guide — Tulip Resort House Reef](https://www.divessi.com/en/mydiveguide/divesite/tulip-resort-house-reef-housereef-hausriff-egypt-12295), [Ultimate Diving — Tulip Magic Resort](https://www.ultimatediving.co.uk/dive-holidays/red-sea/marsa-alam-diving/marsa-alam-hotels/tulip-resort-hotel.aspx), [Snorkeling Report — Royal Tulip Marsa Alam](https://www.snorkeling-report.com/spot/snorkeling-royal-magic-tulip-resorts-marsa-alam/). Last updated 2026-05-17.*

@@ -26,36 +26,26 @@ Reay Island is a small island in the southern Gulf Islands east of the Saanich P
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Reay Island's rocky reef community reflects the rich cold-water biodiversity typical of the southern Gulf Islands. Giant Pacific octopus are a highlight — reliably found in crevices and under ledges. Rockfish (copper, quillback, china) shelter on the structure, with lingcod and kelp greenlings common throughout. Plumose anemones, cloud sponge clusters, nudibranchs, and decorator crabs colonise the rocky substrate. Harbour seals frequent the site and often approach divers with curiosity. Winter months bring exceptional water clarity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef descends to 18 metres with rocky structures providing habitat throughout the depth range. The site benefits from low recreational diving pressure, making encounters with less-shy species more likely. Visibility is typically at its best from October to March. Water temperatures run 7–10°C year-round.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from the Saanich Peninsula or nearby Gulf Islands launch points. The site is in the relatively sheltered eastern Gulf Islands, with less exposure to Pacific swell than outer-coast sites.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Reay Island's relative obscurity means less dive traffic and more relaxed marine life behaviour — GPO and rockfish here tend to be less conditioned to flee. Dive around slack tide for best conditions. Winter dives reward the hardy with exceptional clarity. A dry suit is required year-round.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (7–10°C) requires a dry suit. While the eastern Gulf Islands are more sheltered than open-coast sites, tidal currents in adjacent channels can be significant on spring tides — plan around slack water. Always use a surface marker buoy for ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [British Columbia's Southern Gulf Islands — X-Ray Mag](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Diving — Vancouver Island Tourism](https://vancouverisland.com/things-to-do-and-see/recreation/vancouver-island-bc-islands/diving/), [DIVE BC Saanich Inlet Guide](http://www.dive.bc.ca/guide/sect_iii.html). Last updated 2026-05-17.*

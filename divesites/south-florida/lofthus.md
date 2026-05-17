@@ -26,38 +26,34 @@ Historic shipwreck from 1898 located off Manalapan and Boynton Beach in shallow 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The Lofthus was a 222-foot iron-hulled, three-masted barque built in 1868 by T.R. Oswald in Sunderland, England, and originally christened *Cashmere*. The vessel measured 36.7 feet at the beam with a 22.7-foot depth of hold and registered 1,277 gross tons. After a career in the East Indian trade, she was sold to a Norwegian firm and renamed *Lofthus*. On February 4, 1898, while sailing from Pensacola to Buenos Aires loaded with a cargo of lumber, she was driven ashore in a storm off the southeast Florida coast. All 16 crew members were rescued. The cargo was salvaged by locals and reportedly used to build early homes in the Boynton Beach area. The wreck was added to the U.S. National Register of Historic Places on January 6, 2004, and designated Florida's eighth Underwater Archaeological Preserve — the first in Palm Beach County.
 
 ## Marine Life
 
-The shallow, well-lit wreck is draped in soft corals and sponges that attract schools of yellowtail snapper, parrotfish, and sergeant majors swirling around the exposed hull framing. Nurse sharks are frequently found resting against the wreck on the sandy bottom, and southern stingrays cruise the adjacent sand flats. Spiny lobster and green moray eels shelter in the gaps between the encrusted timbers and iron fittings.
+Species documented at the site include Caribbean spiny lobster, grunts, jacks, porcupine fish, porkfish, snapper, southern stingrays, and wrasse. Scorpionfish hide among the rusted iron framing, and sergeant majors and cowfish are common around the structure. Small nurse sharks are sometimes found resting beneath the hull sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreckage is scattered across an area roughly 290 feet long by 50 feet wide, with the bow, midships, and stern lying as three distinct sections following historical salvage dynamiting. Highest relief is approximately six feet above the sand, and total depth ranges from 15–20 feet (4.5–6 m). Visible remains include deck beams, hull frames, iron plating, fragments of the three masts, and what is believed to be a steering-gear worm. A bronze memorial plaque marks the center of the site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access is the standard method, with the wreck lying roughly three-quarters of a mile north of Boynton Inlet and 175 yards offshore of Manalapan. The shallow depth also makes paddleboard and kayak access feasible from the Manalapan shoreline. Anchor only in sand — never on the wreck itself.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+Sand cover at the site shifts dramatically with storms and seasonal currents, so portions of the wreck may be fully exposed on one visit and largely buried the next. Calm seas and light winds produce the best conditions. Because the preserve is shallow and well-lit, both scuba and snorkeling work well here. Nothing may be removed from the site under Florida law — take only photos.
 
 ## Safety Considerations
 
-Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck is shallow and lies close to a popular boating corridor between Boynton Inlet and Lake Worth Inlet; a dive flag is required by Florida statute. Watch for sharp edges of corroded iron framing, especially where the structure is partially buried. Strong onshore winds can quickly turn the surface choppy, and visibility drops sharply when sand is mobilized. Florida sun exposure is intense year-round — hydrate and use UV protection topside.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Sun penetration to 20 feet keeps the wreck well-lit for wide-angle work on calm days, when visibility is best. Sand movement is the dominant variable for image quality, so plan dives after stretches of settled weather.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Lofthus (shipwreck) - Wikipedia](https://en.wikipedia.org/wiki/Lofthus_(shipwreck)), [Lofthus Shipwreck - U.S. National Park Service](https://www.nps.gov/articles/lofthus.htm), [Florida's Underwater Archaeological Preserves: The Lofthus - Scuba Diver Life](https://scubadiverlife.com/floridas-underwater-archaeological-preserves-lofthus/), [Shipwrecks - Lofthus - Coralheads](https://coralheads.com/shipwrecks-lofthus-palm-beach-county-wreck-dive/), [Explore the Lofthus Wreck - Florida Scuba Diving](https://www.florida-scubadiving.com/the-lofthus-wreck-north-florida/). Last updated 2026-05-17.*

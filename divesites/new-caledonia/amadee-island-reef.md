@@ -25,7 +25,7 @@ The reef around Amadee Island is protected as a Marine Protected Area, and the c
 
 - **Location**: Amadee Island, south of Noumea, New Caledonia (UNESCO lagoon)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (Marine Protected Area)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-20 meters

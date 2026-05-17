@@ -2,7 +2,7 @@
 name: Sonesta Beach Reef
 lat: 27.9135243
 lng: 34.33492
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: shore
 siteType: reef
@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Sonesta Beach Reef
 
-Sonesta Beach Reef is a  dive site in Red Sea, Middle East.
+Sonesta Beach Reef is the house reef fronting the Sonesta Beach Resort in Naama Bay, Sharm el Sheikh — a sheltered shore dive characterised by a gently sloping reef in the calm waters of the bay.
 
 ## Overview
 
-Sonesta Beach Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Sonesta Beach Resort stretches across the sands of Naama Bay and maintains a private beach with direct reef access. Naama Bay house reefs drop from a shallow sandy zone into a sloping reef at depths of 10–25 m. The sheltered bay conditions produce consistently gentle conditions with water temperature ranging from 20°C in winter to 27°C in summer and visibility typically 20–30 m.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef is used primarily for resort-based Discover Scuba Diving sessions and certification training, as well as night dives, with the calm waters and gradual slope well suited to new divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the beach. Sandy slope descending to reef at 10–25 m. Typical Naama Bay conditions: minimal current, good visibility. The gently sloping seafloor and sheltered bay make this suitable for night diving.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Typical Sharm el Sheikh/Naama Bay reef community: diverse reef fish, reef-associated species including moray eels, parrotfish, wrasses, and surgeonfish. The reef corals in Naama Bay feature a range of hard and soft species.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A convenient introductory or training dive for resort guests
+- Night dives on Naama Bay reefs are productive and logistically simple
+- More adventurous dives (Ras Mohammed, Tiran) are available by boat from nearby marinas
 
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Reef Oasis Dive Club — Sharm El Sheikh Dive Sites](https://www.reefoasisdiveclub.com/diving-sharm-el-sheikh/dive-sites/). No dedicated source found specifically for Sonesta Beach Reef; description based on Naama Bay house reef characteristics. Last updated 2026-05-17.*

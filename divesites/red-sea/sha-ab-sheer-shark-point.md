@@ -11,55 +11,33 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sha ab Sheer - Shark Point
+## Sha'ab Sheer – Shark Point
 
-Sha ab Sheer - Shark Point is a  dive site in Red Sea, Middle East.
+Sha'ab Sheer Shark Point is the eastern dive site of the Sha'ab Sheer reef system, located just south of Safaga in the Red Sea (lat 26.66, lng 34.06). Sha'ab Sheer is a large reef with a protected lagoon on the south side; Shark Point occupies the exposed eastern tip where currents attract larger marine life. Boats overnight here during liveaboard cruises.
 
 ## Overview
 
-Sha ab Sheer - Shark Point is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Sha'ab Sheer is a long reef offering two distinct dive experiences: Shark Point (east, current-exposed) and Coral Paradise (west, sheltered). Shark Point's exposed eastern position creates conditions that attract pelagic species, giving the site its name. The reef features pristine coral formations including brain corals, table corals, and acroporas. Visibility is typically excellent at 10–30 m. Boats commonly anchor in the protected south lagoon overnight.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Species documented at Shark Point include jacks, snappers, tuna, and reef sharks. The coral formations support diverse reef fish communities. The eastern exposure with medium currents (1–2 knots) makes this a productive site for observing both reef and pelagic species. Brain corals and acropora colonies are notably developed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Average depth 20 m, maximum 25 m. Medium currents of 1–2 knots on the eastern tip; the southern and western sides are more sheltered. Suitable for intermediate to advanced divers on the eastern point; beginners can dive the western coral garden. Best season: March to November.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: South of Safaga, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle – Sha'ab Sheer Shark Point](https://www.zentacle.com/Beach/1747/shaab-sheer-shark-point), [Dive the World – Sha'ab Sheer Safaga](https://divescover.com/dive-site/sha-ab-sheer-shark-point/19945). Last updated 2026-05-17.*

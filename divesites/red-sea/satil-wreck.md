@@ -49,4 +49,4 @@ Shore entry from Village Beach with a short surface swim. The keel sits at 22-24
 Shore entry with a short swim. Mild currents typical. Watch for lionfish around the wreck structure. Do not attempt penetration beyond the bow section without proper wreck diving training.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*

@@ -26,37 +26,26 @@ Ledge reef system in the Haulover area north of Miami. Depths range from 20-30 f
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 13 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Haulover-area ledges and low-profile shelf reefs north of the inlet hold typical southeast Florida reef tract species — snapper, roaming grouper, and hogfish along the ledge edges, with tropicals, moray eels, and Caribbean spiny lobster sheltering in the undercuts. Larger predators move along the reef line, and the nearby Deep Trench cut is known to occasionally host sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a low-profile ledge system running roughly parallel to shore at depths in the 20–40 foot range. Local operators typically run it as a drift dive, dropping divers up-current and recovering them down-reef, taking advantage of the prevailing north-south current that parallels the coastline. The nearby Deep Trench — a 1920s-era pipe cut dropping from 48 to 60 feet — provides current relief and a refuge from stronger drift conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only, typically out of Haulover Marina. Operators run negative-entry drops on busy current days and recover divers via surface marker buoy at the end of the drift. The site sits about 10 minutes' run north of Haulover Inlet.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+A surface marker buoy and reel are standard kit here — the prevailing parallel current makes drift profiles the default, and SMBs make pickup safer in the busy water north of the inlet. Carry a backup signaling device (whistle or mirror). For divers less confident in current, ask the captain about working the Deep Trench cut where the reef geometry breaks the flow.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The waters off Haulover are heavily trafficked: this is the only ocean inlet between Government Cut and Port Everglades, and recreational boats, fishing vessels, and jet skis transit constantly. Surface profile management and SMB use are essential — never surface without one. Currents in the broader area are strong and tied to the nearby Gulf Stream; conditions can change quickly with tide changes. Florida sun and dehydration are real factors on long surface intervals. Watch for fire coral on the ledge faces and avoid contact with hydroid-encrusted surfaces.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Diver's Paradise - DP Dive Sites](https://diversparadise.miami/divesites/), [South Florida Diving Headquarters - Shallow Reefs](https://www.southfloridadiving.com/shallow-reefs/), [FishingBooker - Spearfishing Miami Guide](https://fishingbooker.com/blog/spearfishing-in-miami/), [Mase Seitz Briggs - Why Haulover Inlet Is So Dangerous](https://www.maselaw.com/news/haulover-inlet-florida/), [Greatest Dive Sites - Haulover Artificial Reef Site](https://florida.greatestdivesites.com/miami/haulover_artificial_reef_site). Last updated 2026-05-17.*

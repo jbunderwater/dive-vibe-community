@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## Marsa Asalay
 
-Marsa Asalay is a  dive site in Red Sea, Middle East.
+Marsa Asalay is a bay dive site on Egypt's central Red Sea coast at approximately 25.16°N, 34.85°E, in the Marsa Alam region — one of the marsa (bay) dive sites characteristic of this stretch of coastline.
 
 ## Overview
 
-Marsa Asalay is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Marsa Asalay is a sandy-bottomed bay covered with seagrass beds, a combination that attracts marine megafauna characteristic of the Marsa Alam region. The site is noted as a location where dugongs (Dugong dugon) have been observed feeding on the seagrass meadows, alongside the gorgeous colourful reef structures that border the bay. In the Marsa Alam area, dugong sightings are largely limited to a handful of locations with suitable seagrass habitat, and Marsa Asalay is one of these.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The typical profile of a Marsa Alam bay site: a sheltered inlet with a broad sandy/seagrass interior, fringing reef along the bay sides, and a drop-off at the bay mouth. Shore diving is feasible from the beach in good weather.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Shallow bay interior (2–8 m over seagrass); reef edges to ~25 m
+- **Current**: Typically low in sheltered bay
+- **Entry**: Shore
+- **Visibility**: Good in calm conditions
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Dugong (Dugong dugon) feed on seagrass beds — sightings are possible but not guaranteed. Green sea turtles graze on seagrass; hawksbill turtles are found around the reef sections. The reef borders host parrotfish, angelfish, grouper, and the typical Marsa Alam reef community.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Reef Oasis Dive Club — Marsa Alam Dive Sites](https://www.reefoasisdiveclub.com/diving-marsa-alam/dive-sites/), [TripAdvisor — Marsa Asalay](https://www.tripadvisor.com/LocationPhotoDirectLink-g311425-d3780574-i58573295-Seasecrets_Divers-Marsa_Alam_Red_Sea_and_Sinai.html). Last updated 2026-05-17.*

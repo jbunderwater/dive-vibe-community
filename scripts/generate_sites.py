@@ -236,50 +236,25 @@ def get_region_data(region):
     return REGION_DATA.get(region, REGION_DATA["Pacific"])
 
 
-def determine_visibility(region_data, site_type):
-    """Estimate visibility based on region and site type."""
-    return region_data["visibility"]
-
-
-def determine_current(region_data, tags):
-    """Determine current strength."""
-    osm_current = tags.get("scuba_diving:current", "")
-    if osm_current:
-        return osm_current.title()
-    return region_data["current"]
-
-
-def get_marine_life_text(region_data, site_type, dest_name):
-    """Generate marine life description based on region and site type."""
-    if site_type == "wreck":
-        species = region_data["wreck_marine_life"] + region_data["typical_marine_life"][:6]
-    else:
-        species = region_data["typical_marine_life"]
-
-    species_text = ", ".join(species[:8])
-    additional = ", ".join(species[8:12]) if len(species) > 8 else ""
-
-    text = f"Divers at this site can expect to encounter {species_text}."
-    if additional:
-        text += f" Additional species commonly sighted include {additional}."
-    if site_type == "wreck":
-        text += " The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species."
-    elif site_type == "wall":
-        text += " The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall."
-    elif site_type == "cave":
-        text += " The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs."
-
-    return text
-
-
 def generate_site_markdown(site, dest, region_data):
-    """Generate high-quality markdown content for a dive site."""
+    """Generate an honest stub for a dive site.
+
+    Produces only what can be stated from OSM/source data: frontmatter,
+    a short identifying line, a brief overview, and a structural Site
+    Information block. Marine life, dive profile, photography, safety
+    advice, and regional defaults (visibility, current, best season)
+    are intentionally NOT generated — they require site-specific
+    research and were a major source of hallucinations in earlier
+    auto-generated content.
+
+    The `region_data` parameter is retained for compatibility with the
+    caller but is unused.
+    """
     name = site["name"]
     lat = site["lat"]
     lon = site["lon"]
     tags = site.get("tags", {})
     dest_name = dest["name"]
-    slug = dest["slug"]
 
     # Determine site attributes
     site_type = site.get("site_type", "reef")
@@ -287,14 +262,6 @@ def generate_site_markdown(site, dest, region_data):
     difficulty = site.get("difficulty") or "Intermediate"
     depth = site.get("depth") or 25
     osm_id = site.get("osm_id")
-
-    # Get destination-specific info
-    dest_info = DESTINATION_SPECIFICS.get(slug, {})
-
-    # Build site information
-    visibility = determine_visibility(region_data, site_type)
-    current = determine_current(region_data, tags)
-    best_time = region_data["best_season"]
 
     # Entry type display
     entry_display = entry_type.title()
@@ -317,144 +284,33 @@ def generate_site_markdown(site, dest, region_data):
     elif site_type == "cave":
         type_display = "Cave/Cavern"
 
-    # Generate overview
-    overview_parts = [f"{name} is a {'renowned ' if name in str(dest_info.get('famous_sites', '')) else ''}dive site in {dest_name}"]
+    # Brief overview — only what we can state from the source data. Do NOT
+    # auto-generate marine life, depth profile, photography, or safety advice;
+    # those make site-specific claims that the source data cannot support and
+    # frequently end up wrong (e.g. Pacific-NW species attached to Florida
+    # reefs via the "North America" regional default). Hand-curate after.
     if site_type == "wreck":
         sunk_date = tags.get("wreck:date_sunk", "")
-        overview_parts.append(f"featuring {'the wreck of the ' + name if not name.lower().startswith(('wreck', 'ss ', 'hms ', 'uss ', 'mv ')) else 'a historic wreck'}")
+        overview = f"{name} is a wreck dive in {dest_name}"
         if sunk_date:
-            overview_parts.append(f"which sank in {sunk_date}")
+            overview += f", reported to have sunk in {sunk_date}"
+        overview += "."
     elif site_type == "wall":
-        overview_parts.append("featuring a dramatic vertical wall that drops into the deep blue")
+        overview = f"{name} is a wall dive in {dest_name}."
     elif site_type == "cave":
-        overview_parts.append("featuring underwater cave and cavern formations")
+        overview = f"{name} is a cave/cavern dive in {dest_name}."
     else:
-        overview_parts.append(f"offering {'excellent' if difficulty == 'Beginner' else 'rewarding'} diving on healthy coral reef structures")
+        overview = f"{name} is a {site_type} dive site in {dest_name}."
 
     note = tags.get("description", tags.get("note", ""))
     if note and len(note) < 200:
-        overview_parts.append(f". {note}")
+        overview += f" {note.rstrip('.')}." if not note.endswith(".") else f" {note}"
 
-    overview = " ".join(overview_parts) + "."
-    overview += f" Located in the {dest['region']} region, this site offers {visibility.split('(')[0].strip()} of visibility"
-    overview += f" with water temperatures averaging {region_data['water_temp'].split('(')[0].strip()}."
-
-    # Marine life text
-    marine_life = get_marine_life_text(region_data, site_type, dest_name)
-
-    # Dive profile
-    if site_type == "wreck":
-        dive_profile = (
-            f"The dive typically begins with a descent to the top of the wreck structure. "
-            f"Plan for a maximum depth of {depth} meters with appropriate bottom time for your certification level. "
-            f"Explore the exterior features and any accessible penetration points while monitoring air supply and depth. "
-            f"Begin your ascent with adequate reserve for a safety stop at 5 meters."
-        )
-    elif site_type == "wall":
-        dive_profile = (
-            f"Begin along the reef top at shallower depths before descending along the wall. "
-            f"The wall descends to significant depths, so careful depth management is essential. "
-            f"Most of the interesting features and marine life are found between 10-{depth} meters. "
-            f"Maintain good buoyancy control and monitor your depth gauge regularly."
-        )
-    else:
-        dive_profile = (
-            f"The site offers diving at depths ranging from shallow reef areas down to approximately {depth} meters. "
-            f"Begin your dive in the shallower sections and gradually work deeper as conditions allow. "
-            f"The most abundant marine life is typically found between 5-{min(depth, 20)} meters. "
-            f"Plan your dive within your certification limits and allow adequate air for a safety stop."
-        )
-
-    # Entry and exit
-    if entry_type == "shore":
-        entry_exit = (
-            f"Enter from the shore following established entry points. Check conditions before entering "
-            f"and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using "
-            f"natural landmarks or compass bearings. Exit at the same location, approaching the shore "
-            f"carefully to avoid surge zones."
-        )
-    elif entry_type == "boat":
-        entry_exit = (
-            f"Access is by dive boat from local operators. Entry is typically via giant stride or back roll. "
-            f"Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) "
-            f"during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures."
-        )
-    else:
-        entry_exit = (
-            f"This site can be accessed from shore or by boat. Shore entry follows established paths to the water. "
-            f"Boat access is available through local dive operators. Check conditions and choose the most "
-            f"appropriate entry method based on weather and sea state."
-        )
-
-    # Tips
-    tips = []
-    if difficulty == "Beginner":
-        tips.append("Excellent site for newer divers — calm conditions and easy navigation")
-    if site_type == "wreck":
-        tips.extend([
-            "Bring a dive torch to illuminate wreck interiors and dark overhangs",
-            "Maintain proper buoyancy to avoid disturbing silt inside the wreck",
-            "Do not attempt penetration without proper training and equipment",
-        ])
-    if site_type == "wall":
-        tips.extend([
-            "Watch your depth carefully — wall dives can lead to unintentional deep descents",
-            "Look in crevices and overhangs for hidden marine life",
-        ])
-    if entry_type == "boat":
-        tips.append("Book with reputable local dive operators who know the site conditions")
-    tips.extend([
-        "Bring an underwater camera — this site offers excellent photography opportunities",
-        "Check local weather and sea conditions before diving",
-        "Respect marine life and maintain proper buoyancy to protect the reef",
-    ])
-    if "strong" in current.lower():
-        tips.append("Carry a surface marker buoy (SMB) and be prepared for current changes")
-
-    # Safety
-    hazards_text = ", ".join(region_data["hazards"][:3])
-    safety = (
-        f"Be aware of {hazards_text} in this area. "
-        f"Dive within your certification limits and experience level. "
+    overview += (
+        " No site-specific dive sources have been validated for this entry yet — "
+        "marine life, typical dive profile, currents, visibility, and photography "
+        "conditions are not documented and should be researched before publication."
     )
-    if difficulty == "Advanced":
-        safety += "This site is recommended for experienced divers only. "
-    if "strong" in current.lower() or "strong" in region_data["current"].lower():
-        safety += "Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. "
-    safety += "Always dive with a buddy and carry a safety sausage (SMB)."
-
-    # Photography
-    if site_type == "wreck":
-        photography = (
-            f"The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. "
-            f"A torch is essential for illuminating interior details and bringing out colors. "
-            f"Macro opportunities abound on the encrusted surfaces."
-        )
-    elif site_type == "wall":
-        photography = (
-            f"Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. "
-            f"The interplay of light and shadow along the wall creates compelling compositions. "
-            f"Look for macro subjects in wall crevices and overhangs."
-        )
-    else:
-        photography = (
-            f"This site offers excellent opportunities for both wide-angle and macro photography. "
-            f"The reef structures and marine life provide diverse subjects. "
-            f"Natural light conditions are typically best during morning hours."
-        )
-
-    # Build the markdown
-    tips_text = "\n".join([f"- {tip}" for tip in tips[:6]])
-
-    ref = tags.get("ref", "")
-    website = tags.get("website", "")
-
-    resources = ""
-    if website:
-        resources += f"- **Website**: {website}\n"
-    if ref:
-        resources += f"- **Reference**: Site #{ref}\n"
-    resources += f"- **Last Updated**: {datetime.now().strftime('%Y-%m-%d')}"
 
     content = f"""---
 name: {name}
@@ -464,7 +320,7 @@ difficulty: {difficulty}
 maxDepth: {depth}
 entryType: {entry_type}
 siteType: {site_type}
-ref: {ref if ref else 'null'}
+ref: {tags.get("ref", "") if tags.get("ref") else "null"}
 osmId: {osm_id if osm_id else 'null'}
 addedBy: osm_import
 ---
@@ -484,40 +340,9 @@ addedBy: osm_import
 - **Site Type**: {type_display}
 - **Difficulty Level**: {difficulty}
 - **Maximum Depth**: {depth} meters
-- **Typical Visibility**: {visibility}
-- **Current**: {current}
-- **Best Time**: {best_time}
-
-## Marine Life
-
-{marine_life}
-
-## Dive Profile
-
-{dive_profile}
-
-## Entry and Exit
-
-{entry_exit}
-
-## Tips and Recommendations
-
-{tips_text}
-
-## Safety Considerations
-
-{safety}
-
-## Photography
-
-{photography}
-
-## Additional Resources
-
-{resources}
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated {datetime.now().strftime('%Y-%m-%d')}.*
+*Stub generated from OpenStreetMap data. No site-specific dive sources have been validated. Last updated {datetime.now().strftime('%Y-%m-%d')}.*
 """
     return content.strip() + "\n"
 

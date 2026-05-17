@@ -2,8 +2,8 @@
 name: Marsa Egla
 lat: 25.1713889
 lng: 34.8405556
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Marsa Egla
 
-Marsa Egla is a  dive site in Red Sea, Middle East.
+Marsa Egla is a protected shallow bay approximately 11 km north of Marsa Alam, widely regarded as one of the most beginner-friendly dive sites in the Marsa Alam area. "Marsa" means "bay" in Arabic; Egla translates roughly as "calf." The bay is naturally sheltered, producing calm conditions even when nearby exposed reefs are affected by wind.
 
 ## Overview
 
-Marsa Egla is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Marsa Egla is a large sandy bay accessible from the shore, sloping gently down to a vibrant fringing reef rich in both soft and hard corals. North and south reef sections are separated by a central seagrass patch, where lucky divers may encounter turtles and dugongs. The site is used for Open Water training courses and as a first-dive introduction site due to its easy access and reliable conditions. Visibility typically ranges from 15 to 30 m; water temperature 22–29°C seasonally.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Sea turtles and occasional dugongs in the seagrass between north and south reefs
+- Batfish, snappers, and moray eels on the reef
+- Octopus, crocodilefish, and scorpionfish on the sandy-rubble base
+- Stingrays and groupers throughout the reef structure
+- Porcupinefish in coral crevices
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry into the sandy bay. Gentle slope descends to the reef wall, with a maximum depth of approximately 30 m. Minimal current; protected from most wind directions. Suitable for all experience levels. Included in standard dive packages from Marsa Alam operators including SeaHorse Diving Club and Deep South Divers.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Check the seagrass area between the north and south reefs carefully for turtles and dugongs
+- Morning dives before the onshore breeze develops offer the best visibility
+- The sheltered bay makes this a reliable site in most weather conditions
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: ~11 km north of Marsa Alam, southern Egyptian Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 30 meters
+- **Difficulty**: Beginner — ideal for all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [SeaHorse Diving Club – Marsa Egla](https://seahorse-marsaalam.com/dive-sites/marsa-egla/), [Deep South Divers – Marsa Egla](https://deepsouthdiverseg.com/tours/marsa-egla/), [Sambo Divers – Marsa Egla](https://sambodivers.com/marsa-egla/). Last updated 2026-05-17.*

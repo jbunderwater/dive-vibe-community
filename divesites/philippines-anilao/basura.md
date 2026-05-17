@@ -17,50 +17,46 @@ Basura is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Basura is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Basura — "garbage" in Spanish — is one of Anilao's most celebrated muck diving sites, located in front of the Anilao Beach Club on a gradual slope of rubble and silty substrate. The site earned its name from debris that once collected on the shallow slope, but this same rubble and bottom composition is precisely what attracts an exceptional density of macro critters. Basura is consistently rated among the top muck sites in the Philippines, comparable to Lembeh Strait in Indonesia for unusual invertebrate encounters.
+
+## Marine Life
+
+The site is renowned for frogfish — giant, clown, and hairy variants are regularly found sitting motionless on rocks, pipes, and encrusted metal fragments. Pipefish are common, including coral-banded species, and pregnant individuals with eggs have been photographed here. Wonderpus octopus and flamboyant cuttlefish have been recorded at the site, alongside rhinopias (scorpionfish relatives highly prized by macro photographers). Nudibranchs appear in significant variety throughout the rubble slope.
+
+## Dive Profile
+
+Basura is a shallow, gradual slope beginning from shore entry in front of the beach club. Maximum depth is around 10–12 meters, making it well suited for extended bottom times and slow, methodical muck diving. The site rewards patience — critters are most easily spotted by moving slowly and examining rubble, old pipes, and substrate edges.
+
+## Entry and Exit
+
+Shore entry from the beach at Anilao Beach Club area. The sandy/rubble entry is easy for all levels. Boat traffic in the area requires attention; divers should use a surface marker buoy (SMB) on ascent.
+
+## Tips and Recommendations
+
+- Move slowly and scan every piece of rubble — the best finds are camouflaged against substrate
+- Visit early morning when critters are most active
+- Night dives reveal different species; bring a torch and go slowly
+- A macro lens (60mm or 100mm) is ideal for the resident critters
+
+## Safety Considerations
+
+Be alert to boat traffic above — the site is in an active boat zone. Deploy an SMB on ascent. The shallow depth makes this very safe for extended dives.
+
+## Photography
+
+One of Anilao's premier macro photography sites. Frogfish in multiple colour forms, rhinopias, wonderpus, and nudibranchs make this a bucket-list site for underwater photographers.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Guide to the Philippines – Anilao Diving Guide](https://guidetothephilippines.ph/articles/adventure-and-outdoors/anilao-batangas-diving-guide), [7641 Islands – Anilao Dive Sites Breakdown](https://7641islands.ph/explore/a-breakdown-of-anilaos-most-popular-diving-sites/). Last updated 2026-05-17.*

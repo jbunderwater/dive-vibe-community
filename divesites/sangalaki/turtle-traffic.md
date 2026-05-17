@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Turtle Traffic
 
-Turtle Traffic is a reef dive site in Sangalaki (Derawan Islands), Asia.
+Turtle Traffic is a reef dive site near Maratua Island in the Derawan Archipelago, East Kalimantan, Indonesia, renowned for the exceptional density of green and hawksbill sea turtles on a single reef.
 
 ## Overview
 
-Turtle Traffic is a dive site in Sangalaki (Derawan Islands) offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Traffic earns its name from the sheer volume of turtle encounters — PADI's site description quips that "if you can count the turtles on a single dive then it is not a normal dive," and one diver account on Undercurrent counted more than 40 turtles in a single dive. Green sea turtles (*Chelonia mydas*) are the most common species, found resting beneath large coral heads and table corals; hawksbill turtles (*Eretmochelys imbricata*) are also regularly spotted feeding on soft corals and sponges. Bluewater Dive Travel describes the site as featuring "sand channels and massive coral bommies" where turtles rest in crevices, particularly during low tide. The site is calm and shallow — maximum 15 metres — making it accessible to entry-level divers and snorkellers.
+
+## Marine Life
+
+- Green sea turtles (*Chelonia mydas*) — resting under table corals and coral heads
+- Hawksbill turtles (*Eretmochelys imbricata*) — feeding on soft corals and sponges
+- Moray eels in crevices between bommies
+- Mantis shrimp in sand channels
+- Lobsters under coral overhangs
+- Nudibranchs and flatworms on coral surfaces
+- Bumphead parrotfish (periodic, passing aggregations)
+
+## Dive Profile
+
+The site is shallow reef with coral bommies and sandy channels to a maximum of 15 metres. Most diving occurs between 5 and 12 metres where turtle density is highest. Currents are mild. Visibility is typically good. Bottom time is extended by the shallow depth. Low tide is recommended by local operators for maximum turtle sightings, when turtles shelter in crevices and under table corals.
+
+## Entry and Exit
+
+Boat dive only. A short boat ride from Green Nirvana Maratua Resort or Maratua-based operators. Entry is at the reef edge with a slow descent along the bommies.
+
+## Tips
+
+- Dive at low tide when turtles are resting under corals and crevices — they are easier to approach and less likely to move away.
+- Move slowly and breathe quietly — turtles on this reef are accustomed to divers but will swim off if approached too rapidly.
+- Look under large table corals first — green turtles frequently wedge themselves underneath in groups.
+- Hawksbills tend to be found on the bommie slopes where they feed on sponges and soft corals.
+
+## Safety Considerations
+
+This is a beginner-appropriate site with minimal current and shallow depth. Standard reef diving precautions apply; maintain buoyancy control to avoid accidental contact with corals or turtles. Turtles are protected under Indonesian law — do not touch, ride, or obstruct their path to the surface.
+
+## Photography
+
+Turtle Traffic is one of the best turtle photography sites in Kalimantan. Shooting upward against blue-water backlighting captures turtles in silhouette above the bommies; shooting laterally at turtle level in clear water produces full-body portraits. A wide-angle lens at 16–20 mm works well. The presence of multiple turtles in frame simultaneously is common here, unlike most other turtle sites.
 
 ## Site Information
 
-- **Location**: Sangalaki (Derawan Islands), Asia
+- **Location**: Maratua Island vicinity, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
+*Sources: [PADI – Turtle Traffic](https://www.padi.com/dive-site/indonesia/turtle-traffic/), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives). Last updated 2026-05-17.*

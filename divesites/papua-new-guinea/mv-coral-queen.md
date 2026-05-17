@@ -23,7 +23,7 @@ The MV Coral Queen was a 31.7-meter island freighter that formerly serviced Papu
 
 - **Location**: Madang Harbour, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (scuttled freighter)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-20 meters (harbour conditions)

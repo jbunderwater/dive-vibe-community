@@ -26,36 +26,26 @@ Power Squadron Reef is a rocky reef in the northern Strait of Georgia near Hornb
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Power Squadron Reef shares the marine character of the broader Hornby Island area, celebrated for its cold-water biodiversity. Giant Pacific octopus den in rock crevices, and wolf eels are reliably encountered on the reef structure. Lingcod occupy prominent rocky perches; china, copper, and quillback rockfish are common. Plumose anemones and stubby rose anemones encrust the sculpted sandstone formations, while nudibranchs — including red flabellina — are abundant. Hornby Island's Flora Islet nearby is one of the only known locations in the Strait of Georgia where bluntnose sixgill sharks visit recreational diving depths (primarily April–September).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef descends to around 18 metres on good-visibility sandstone structure. Good visibility and generally gentle currents make this an accessible Intermediate dive. The Hornby Island area is noted for drift dives, wall dives, and sculpted sandstone terrain; Power Squadron Reef's shallower profile makes it suitable for extended bottom times. Water temperatures typically range 8–10°C, with winter months offering the best visibility.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Hornby Island or nearby Courtenay/Comox-area launch points. Dive with a local guide or operator familiar with Hornby Island's tidal patterns.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Hornby Island diving is best planned around tidal charts — conditions vary significantly with the cycle. Winter (November–March) delivers the clearest water and the highest chance of sixgill shark encounters at nearby Flora Islet if that objective is on the agenda. A dry suit is essential. The sandstone reef formations reward close inspection for nudibranchs and other cryptic invertebrates.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold water (8–10°C) requires a dry suit. Monitor tidal currents — while generally gentle at Power Squadron Reef, nearby passages can generate significant flow. Always dive with a surface marker buoy in these waters as boat traffic is present.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving Hornby Island, BC — Diver Trek](https://divertrek.com/diving-hornby-island-british-columbia/), [Hornby Island Scuba Diving — best-scuba-diving-vacations-in-british-columbia.com](https://best-scuba-diving-vacations-in-british-columbia.com/hornby-island.html), [Six-Gill Shark Hornby Island — Elasmodiver](https://www.elasmodiver.com/Hornby%20Island.htm), [Diving Coastal BC — X-Ray Mag](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*

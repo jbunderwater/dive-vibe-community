@@ -24,10 +24,10 @@ Whitetip and grey reef sharks are the headline attractions, but the supporting c
 ## Site Information
 
 - **Location**: WNW of Toa Maru wreck, near Gizo, Western Province
-- **Entry Type**: Boat dive from Gizo
-- **Site Type**: Current-swept reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30-35 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Best with strong current; variable

@@ -26,37 +26,28 @@ Brilliant Shoal is a shallow reef formation within the remote Dry Tortugas Natio
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+As a protected national park site, Brilliant Shoal supports the same assemblage of Atlantic tropical reef fish documented across Dry Tortugas reefs: yellowtail snapper, grunts, parrotfish, angelfish, triggerfish, and barracuda. Nurse sharks are commonly sighted resting on sandy areas between the coral heads, and green sea turtles forage on the surrounding seagrass and algae. The park's no-take regulations produce fish populations noticeably larger and bolder than at comparable unprotected Florida reefs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Brilliant Shoal is a scattered reef formation in the western Dry Tortugas, with coral heads rising from a sandy bottom. The frontmatter records a maximum depth of 21 metres, though the coral structures themselves are shallower. The park's typical visibility of 60–120 feet and warm Gulf water temperatures make the site comfortable for intermediate divers. The shoal's name appears in the REEF database catalogue of 87 named Dry Tortugas dive sites, confirming it as a recognised destination.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by private or charter boat only — 70 miles from Key West with no shore access. Dive charters out of Key West and the Florida Keys operate multi-site day and overnight trips throughout the Dry Tortugas. The Yankee Freedom III passenger ferry does not carry scuba tanks; divers must arrive via air-equipped vessels. Anchor on sandy bottom, not on coral.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+As one of the less-publicised sites in the Dry Tortugas, Brilliant Shoal tends to see fewer divers than the Windjammer wreck or Little Africa, offering a quieter experience with the same park-protected marine life. Dive during flood tide for optimal visibility. Carry a surface marker buoy.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Dry Tortugas have no onsite emergency support infrastructure. Divers are 70 miles from Key West with no cell service. Carry a marine VHF radio, dive with a buddy, display a dive flag, and ensure your surface vessel remains attended. Fire coral, jellyfish, sea urchins, and lionfish are present throughout park reefs. The nearest hyperbaric chamber is in Key West.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+*Description based on Dry Tortugas National Park regional diving characteristics and REEF site catalogue. No Brilliant Shoal-specific published source was found.*
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [ScubaBoard Dry Tortugas thread (REEF database reference)](https://scubaboard.com/community/threads/dry-tortugas.96031/). Last updated 2026-05-17.*

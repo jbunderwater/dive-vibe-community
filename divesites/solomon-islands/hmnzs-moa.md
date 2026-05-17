@@ -24,10 +24,10 @@ The wreck is remarkably well preserved. A large bomb hole is visible in the star
 ## Site Information
 
 - **Location**: Tulagi, Florida Islands, Solomon Islands
-- **Entry Type**: Boat dive from Tulagi
-- **Site Type**: Wreck dive (WWII minesweeper/corvette)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Variable; generally mild in the Tulagi anchorage

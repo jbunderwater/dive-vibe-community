@@ -19,7 +19,7 @@ Where the Pacific Ocean meets the Sea of Cortez at the famous El Arco rock arch.
 
 - **Location**: Cabo San Lucas Marine Park, at the tip of the Baja Peninsula
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-25 meters

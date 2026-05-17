@@ -13,54 +13,31 @@ addedBy: osm_import
 
 ## Vaageli Faru Süd
 
-Vaageli Faru Süd is a reef dive site in Maldives, Asia.
+Vaageli Faru Süd is a reef dive site in the Vaageli Channel area of the Maldives, in Kaafu (North Malé) Atoll. The site lies within the channel system associated with the Vaageli thila, a submerged pinnacle structure with terraced reef formations that supports a broad range of Maldivian reef species.
 
 ## Overview
 
-Vaageli Faru Süd is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Vaageli Channel system contains several dive structures, and the southern reef (Süd/south) presents a fringing reef with overhangs and terrace formations descending to a sandy bottom at around 20–25 metres. The channel's current flow brings nutrients that sustain healthy soft and hard coral growth, and the overhangs between 10–20 metres are colonised by black corals and soft corals. The site is suitable for divers from beginner to advanced level.
+
+## Marine Life
+
+Whitetip reef sharks patrol the channel and reef edge. Eagle rays are regularly sighted, and octopus inhabit crevices in the reef structure. Lionfish lurk in overhangs alongside vibrant flatworms and cleaning stations. Napoleon wrasse (humphead wrasse) and groupers are recorded in the channel. Schools of reef fish, colourful nudibranchs, and cleaning shrimp complete the macro picture. The overhangs between 10–20 metres are the most productive areas for diverse invertebrate life.
+
+## Dive Profile
+
+The top of the reef structure begins at approximately 10 metres, with terraces descending to the sandy bottom at 20–28 metres. Visibility in the channel can reach 18 metres or more. Current flows vary with tides and drive the quality of marine life encounters — incoming currents typically produce the most active feeding behaviour. Maximum depth on this dive is approximately 25 metres.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Kaafu Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Champ – Vaagali Thila](https://divechamp.com/divesite/vaagali-thila), [DiveSsi – Vaagali Caves](https://www.divessi.com/en/mydiveguide/divesite/vaagali-caves-kandu-maldives-246579). Last updated 2026-05-17.*

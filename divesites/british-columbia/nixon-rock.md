@@ -26,36 +26,26 @@ Nixon Rock is a rocky submerged pinnacle in Discovery Passage near Quadra Island
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Discovery Passage's extreme tidal energy creates some of the most productive reef habitat on the BC coast. Plumose anemones — some reaching half a metre in length — carpet exposed surfaces. Strawberry anemones and encrusting sponges colonise every available substrate. Lingcod and rockfish shelter in the structure; Irish lords and kelp greenling are common along the rocky faces. Giant Pacific octopus occupy crevices throughout the reef. Wolf eels appear in den openings. Spiny dogfish are present at depth, and harbour seals patrol the shallower zones.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Nixon Rock is a submerged rocky site in Discovery Passage near Quadra Island. Maximum depth reaches approximately 18 metres. Discovery Passage experiences tidal currents reaching 15+ knots in Seymour Narrows, and significant flow at all reef sites throughout the corridor. Diving must be timed precisely to the slack-water window — often 20–40 minutes. Visibility in the passage rarely drops below 9 metres and can exceed 30 metres in optimal conditions due to constant upwelling of clear Pacific water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Charter operators include Abyssal Diving Charters and Oceanfix Dive Centre, both based in Campbell River. Most sites in Discovery Passage are reachable within 30 minutes of Fisherman's Wharf in Campbell River. Divers should be aboard the charter at the planned time and ready to enter the water precisely at slack.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Use Canadian Hydrographic Service tide tables for Discovery Passage; slack at Nixon Rock may differ from nearby reference stations. Drift conditions build rapidly once the tide turns — plan entry and exit times conservatively. Local charter operators have site-specific knowledge of exact slack windows and are essential for first-time visitors to Discovery Passage.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Current hazard is the primary safety concern at all Discovery Passage sites. Only dive during confirmed slack water; abort if current begins to build before the planned exit. Water temperature is 7–12°C year-round — a drysuit is strongly recommended. Brief all divers on the abort signal and emergency procedures before entering the water.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Abyssal Diving Charters — World Class Diving](https://www.abyssal.com/world-class-diving), [DIVER Magazine — Discovery Passage](https://divermag.com/diving-discovery-passage-bc/), [Scubaverse — Diving Discovery Passage](https://www.scubaverse.com/diving-discovery-passage/). Last updated 2026-05-17.*

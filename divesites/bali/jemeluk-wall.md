@@ -25,7 +25,7 @@ Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of 
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ meters (recreational limit applies)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Variable, generally mild to moderate

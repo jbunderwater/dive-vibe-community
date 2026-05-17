@@ -21,43 +21,36 @@ The USCGC Tiger is a 125-foot former Coast Guard cutter with a WWII history — 
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: South Puget Sound near Tacoma, Washington (coordinates 47.29°N, 122.42°W)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Water Temperature**: 7–12°C year-round
+
+## Wreck History
+
+The USCGC *Tiger* was a 125-foot (38 m) Treasury-class Coast Guard cutter displacing 232 tons, with a beam of 23.6 feet and draft of 7.6 feet. On December 7, 1941, while patrolling off Barber's Point, Honolulu, the *Tiger* was present during the Japanese attack on Pearl Harbor — she earned her single Battle Star for this action and may have detected a Japanese midget submarine via sonar before the signals faded. She subsequently rescued fourteen survivors from the torpedoed freighter *SS Prusa* and spent the remainder of World War II escorting convoys in and out of Honolulu Harbor alongside her sister ship *Reliance*.
+
+The *Tiger* was decommissioned on November 12, 1947 and sold on June 14, 1948. She was renamed *Polar Merchant* (registration #257391) and was ultimately used as a stripped floating hull in Tacoma, Washington. According to Wikipedia, she was "completely stripped and used as a floating hull in Tacoma, Washington in 2018." The OSM wreck node at these south Puget Sound coordinates is consistent with a vessel that ended its days in the Tacoma area.
+
+**Note:** No independent source has been found confirming the *Tiger* was deliberately sunk as a dive-site reef or that her remains are at the coordinates listed. This identification should be treated as uncertain until confirmed by local dive operators or maritime records.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Wrecks in the South Puget Sound / Tacoma area attract lingcod, cabezon, copper rockfish, and giant Pacific octopus. Plumose anemones (white and orange) colonize steel surfaces. Wolf eels may occupy larger hull cavities. Nudibranchs are seasonally abundant on all encrusted surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Depth 18 metres. Single-tank dive with comfortable bottom time. Drysuit mandatory in 7–12°C water. South Puget Sound tidal exchanges can be significant; plan around slack water. Visibility typically 5–12 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Boat access from Tacoma-area launches. No shore entry available.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Drysuit mandatory. Tidal current timing essential. Steel hull poses entanglement and penetration risks — do not enter enclosed spaces without appropriate wreck training and equipment. SMB required.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [USCGC Tiger — Wikipedia](https://en.wikipedia.org/wiki/USCGC_Tiger), [Scuba Diving Magazine — Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). Wreck identity at this location is unconfirmed by dive-specific sources. Last updated 2026-05-17.*

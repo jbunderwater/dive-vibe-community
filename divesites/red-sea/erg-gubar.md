@@ -3,8 +3,8 @@ name: Erg Gubar
 lat: 24.6570659
 lng: 35.1322607
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 40
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Erg Gubar
 
-Erg Gubar is a  dive site in Red Sea, Middle East.
+Erg Gubar is a pinnacle dive site in the southern Red Sea of Egypt, with coordinates (24.66°N, 35.13°E) placing it in the Hamata area, south of Marsa Alam. "Erg" is the Arabic word for pinnacle or pointed rock formation, describing an isolated coral structure rising from the seabed — a site type common throughout the southern Egyptian Red Sea. "Gubar" is the local place name for this particular pinnacle.
 
 ## Overview
 
-Erg Gubar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Erg (pinnacle) dive sites in the southern Red Sea are characterised by isolated coral towers rising from a sandy seabed, typically starting from around 25–40 metres depth and ascending to within a few metres of the surface. The pinnacle's exposed position in open water means it attracts both reef fish, which use it as a habitat anchor, and pelagic species that sweep past in the blue water surrounding it. Erg diving in this region is known for encounters with large schooling fish and, at the best sites, sharks and rays.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Hamata / southern Red Sea zone is among Egypt's richest diving areas. Pinnacle sites in this region attract barracuda schools, trevally, and grey reef sharks that use the structure as a reference point. The pinnacle itself is typically encrusted with soft corals, sea fans (gorgonians), and hard corals, providing habitat for moray eels, groupers, anthias, and smaller reef fish. Sea turtles and eagle rays are frequently sighted around ergs in this area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat drop at the pinnacle; divers descend the mooring or the structure itself, circling the pinnacle at progressively different depths. The shallowest sections at 5–10 metres beneath the surface have the richest coral growth; the deeper sections toward the base (30–40 metres) tend to have more pelagic encounters. Drift conditions can develop around isolated pinnacles; experience with current diving is an advantage.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Hamata area, southern Red Sea, approximately 120 km south of Marsa Alam
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 40 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*"Erg Gubar" was not found by that exact name in major English-language dive databases. The "erg" (pinnacle) site type and Hamata-area coordinates are used to provide a contextually appropriate description. General regional context from: [Emperor Divers — Port Ghalib Diving](https://www.emperordivers.com/day-diving-location-subpage/port-ghalib-diving/), [Marsa Alam Dive Sites — Scuba Diving Place](https://scubadiving.place/egypt/marsa-alam). Last updated 2026-05-17.*

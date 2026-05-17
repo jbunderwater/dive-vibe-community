@@ -23,9 +23,9 @@ Helmuts Reef is a submerged pinnacle located at the entrance to Steffen Strait, 
 
 - **Location**: Entrance to Steffen Strait, Kavieng, New Ireland Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40+ meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25+ meters
 - **Current**: Strong to extreme (reef hooks required)
 - **Best Time**: Year-round; current strength varies with tidal cycles

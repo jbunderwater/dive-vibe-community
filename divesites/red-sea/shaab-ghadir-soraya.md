@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Shaab Ghadir Soraya
 
-Shaab Ghadir Soraya is a  dive site in Red Sea, Middle East.
+Shaab Ghadir Soraya (Soraya = "small" in Arabic) is the smaller companion reef to the main Shaab Ghadeer, located in the northern part of the Radir/Ghadir reef group approximately 8 km offshore and 29 km south of Marsa Alam.
 
 ## Overview
 
-Shaab Ghadir Soraya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Soraya functions as the "little sister" to the larger Sha'ab Ghadir. The reef features a shallow atoll on its northern side where juvenile fish congregate in sheltered water, and multiple small canyons running through the structure create an interesting topography for exploration. The site is 15 minutes by boat east of Marsa Alam.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef is characterised by rich fish schools and a variety of canyon passages that make the dive unforgettable, according to logged diver accounts. The currents here are moderate (1–2 knots), and visibility averages in the good range of 10–30 m. The reef's proximity to the larger Sha'ab Ghadir means both can sometimes be combined in a single dive or consecutive dives from the same boat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~11 m
+- **Maximum depth**: ~25 m
+- **Current**: Medium (1–2 knots)
+- **Visibility**: Good (10–30 m)
+- **Entry**: Boat (approximately 15 minutes from Marsa Alam)
+- **Suitable for**: Advanced divers (CMAS **/AOW)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Dense fish schools are the primary attraction. Juvenile fish congregate in the shallow northern atoll. Canyon passages host typical southern Red Sea reef species: grouper, snapper, parrotfish, and smaller invertebrates. Pelagic species occasionally pass by on stronger current days.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive — Sha'ab Ghadir Soraya](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Sha_ab_Ghadir_Soraya/index.html), [Red Sea Diving — Shaab Ghadir](https://www.redsea-diving.com/5405-2/). Last updated 2026-05-17.*

@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Site de Plongée La Perle
 
-Site de Plongée La Perle is a wall dive site in Martinique, Caribbean.
+La Perle (Îlet de la Perle) is an advanced wall dive site off Martinique's north-west coast, on the Dominica Channel. A small volcanic rock islet, it features reef walls that begin around 20–25 metres and plunge steeply into open ocean, attracting both reef and pelagic species.
 
 ## Overview
 
-Site de Plongée La Perle is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Îlet de la Perle sits less than two miles offshore in the Dominica Channel, where strong open-ocean currents regularly push through. These currents bring nutrient-rich water that supports dense fish populations, making La Perle one of Martinique's most productive dive sites for large pelagic encounters. The walls drop from the reef top at approximately 20–25 metres to depths well below 40 metres, with a maximum scheduled recreational depth of around 40 metres.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range**: 20–40 m on the walls; shallower reef areas above
+- **Entry**: Boat dive, offshore crossing into the Dominica Channel
+- **Currents**: Strong to very strong; conditions must be favourable for safe diving
+- **Visibility**: Excellent when currents are manageable
+- **Difficulty**: Advanced Open Water minimum recommended; experience with drift and current diving essential
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Barracudas and large schools of horse-eye jacks (*Caranx latus*) are consistently reported. Groupers, snappers, and parrotfish inhabit the upper reef. Pelagic species including marlins are occasionally sighted in the channel. Hawksbill turtles are frequently encountered on the wall faces.
 
-## Tips and Recommendations
+## Safety Notes
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Strong, unpredictable Dominica Channel currents require experienced dive planning. Only experienced divers with proper advanced certification and drift-diving experience should attempt this site. Always dive with a local operator familiar with the current patterns.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The steep wall, school fish concentrations, and channel visibility create conditions ideal for wide-angle photography. Barracuda and jack schools photograph well in the blue-water environment above the wall.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Just Gotta Dive — Martinique Dive Sites](http://www.justgottadive.com/dive_resources/travel_articles/captivating-coves-martiniques-plunging-coastal-dive-sites), [Martinique.org — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving). Last updated 2026-05-17.*

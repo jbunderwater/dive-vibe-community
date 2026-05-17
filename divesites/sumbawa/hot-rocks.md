@@ -13,52 +13,37 @@ addedBy: osm_import
 
 ## Hot Rocks
 
-Hot Rocks is a reef dive site in Sumbawa, Asia.
+Hot Rocks is the most iconic dive site at Sangeang Island, an active volcanic island located off the northeast coast of Sumbawa. The site sits on the northern side of Sangeang Api volcano and is named for the geothermally heated rocks that divers can feel — but must not touch — at the edge of the volcanic gas vents.
 
 ## Overview
 
-Hot Rocks is a dive site in Sumbawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Hot Rocks is a macro paradise built on volcanic geology. The dive begins in shallow water at around 5 metres over a black sand bottom, where streams of volcanic gases bubble up from the seafloor in a scene likened to "diving in champagne." Some rocks adjacent to the vents are genuinely too hot to touch due to geothermal activity, and the water shimmers in thermal gradients around them. Beyond the bubble field, the reef opens into colourful hard and soft corals, large gorgonian seafans, and vibrant black corals that contrast sharply against the dark sand. Pygmy seahorses are nearly guaranteed sightings in the seafans — guides know their regular locations. Other reliable subjects include nudibranchs (all colours and sizes), ghost pipefish, orangutan crabs in bubble corals, frogfish, ribbon eels, and mushroom coral pipefish. Schools of bumphead parrotfish occasionally sweep through. The site is sheltered from most currents, allowing extended bottom time for photography. Visibility typically reaches 30 m.
+
+Depths stay under 20 m for most of the dive. Access is by liveaboard or day trips from Kalimaya Dive Resort (approximately 45 minutes by speedboat). Best season April to November, though the site is accessible year-round.
 
 ## Site Information
 
-- **Location**: Sumbawa, Asia
+- **Location**: Northern side of Sangeang Island, northeast Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Visibility**: ~30 metres
+- **Currents**: Sheltered; generally low current
+- **Water Temperature**: ~27°C (warmer near vents)
+- **Best Season**: April–November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Pygmy seahorses, nudibranchs, ghost pipefish, orangutan crabs, frogfish, ribbon eels, mushroom coral pipefish, bumphead parrotfish (occasional), large gorgonian seafans, black coral.
 
-## Dive Profile
+## Photography Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The combination of black sand, colourful soft corals, and volcanic gas streams creates unique wide-angle compositions. Macro subjects are abundant — carry a dioptre. Shoot around the bubble vents for otherworldly frames, but watch for hot rocks near the vents.
 
-## Entry and Exit
+## Safety Notes
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-
+Do not touch rocks near the volcanic gas vents — geothermal heating can cause burns. The volcanic gases are sulphurous in nature; stay clear of heavy concentrations. The site is otherwise low-risk for an intermediate diver.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/moyo-island/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/). Last updated 2026-04-04.*
+*Sources: [Master Liveaboards - Hot Rocks Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/), [Michael McFadyen Scuba - Hot Rocks](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=855), [Kalimaya Dive Resort - Dive Sites](https://kalimayadiveresort.com/diving-site/). Last updated 2026-05-17.*

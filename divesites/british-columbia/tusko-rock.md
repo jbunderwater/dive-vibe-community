@@ -26,36 +26,31 @@ Tusko Rock is a reef dive site in the Discovery Passage area north of Quadra Isl
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Discovery Passage reef and rocky sites are documented for carpets of strawberry anemones, plumose anemones (white), sulphur sponge (bright yellow), encrusting soft corals, and diverse invertebrate communities sustained by nutrient-rich tidal upwelling. Lingcod and multiple rockfish species inhabit crevices and ledges. Wolf eels are regular occupants of rocky crevices in this area. Red Irish lord sculpins are a Discovery Passage hallmark species. Giant Pacific octopus are common. Puget Sound king crabs and purple tube worms (feather dusters) are documented at nearby Discovery Passage sites. Decorated warbonnets hide in crevice openings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Rocky reef to 18 metres in the Discovery Passage / north Quadra Island area (site coordinates 50.23°N, 125.15°W), one of BC's premier tidal-current reef diving zones. Slack tide windows occur approximately every 6 hours and are the only safe diving intervals at most Discovery Passage sites. Campbell River charter operators have precise local slack-water timing. Outside of slack, currents can reach 15+ knots in the passage. No site-specific data was found for Tusko Rock by name; the dive characteristics described reflect documented conditions at nearby Discovery Passage reef sites.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access via Campbell River charter operators. Every Discovery Passage dive site is within a 20-minute boat ride of Campbell River. Local operators include Abyssal Diving Charters and Oceanfix Dive Centre.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Diving Discovery Passage is only safe at tidal slack — missing the window can mean being swept by currents up to 15+ knots.
+- Cold water (6–10°C) year-round; drysuit essential.
+- Confirm precise site coordinates and current timing with local charter operators.
+- A current hook (reef hook) may be useful at marginal slack periods.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Book through an established Campbell River charter: operators time all dives around the slack window and will not dive in unsafe conditions.
+- Row and Be Damned, Copper Cliff, and Steep Island are among the most celebrated nearby sites — multi-dive days allow sampling multiple Discovery Passage reefs.
+- Bring a dive light: the dense invertebrate coverage in crevices and under overhangs rewards close inspection.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [World-Class Diving — Abyssal Diving Charters Campbell River](https://www.abyssal.com/world-class-diving), [The Wonder of BC's Discovery Passage — DIVER Magazine](https://divermag.com/diving-discovery-passage-bc/), [Diving Campbell River Six Sites — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-campbell-river-six-sites-are-sure-present-challenge). Last updated 2026-05-17.*

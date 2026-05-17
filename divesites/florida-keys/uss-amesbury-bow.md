@@ -26,38 +26,36 @@ The USS Amesbury bow section, locally known as Alexander's Wreck, is a shallow W
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The bow section's gun mounts and military hardware are heavily encrusted with sponges and soft corals, providing habitat for hogfish, yellowtail snapper, mutton snapper, and large green moray eels. Nurse sharks are commonly seen resting on the sandy bottom beneath the hull, and spiny lobster crowd every sheltered opening in the structure. Spotted eagle rays and southern stingrays cruise the surrounding sand flats, with the occasional barracuda patrolling the water column above.
+Local operators report sheepshead, snapper, angelfish, barracuda, hogfish, porkfish, and goliath grouper around the structure, with oyster growth on the older exposed steel. The endangered goliath grouper population is described as making a comeback at this and similar Keys artificial reefs.
 
 ## Dive Profile
 
-The USS Amesbury bow section sits in 25 feet of water, making it one of the most accessible wreck dives in Key West. Notable features include the 5-inch gun mount behind a semicircular shield and twin 40-millimeter Bofors-style anti-aircraft guns on an elevated pedestal. The shallow depth allows for extended exploration and photography of these military artifacts.
+The bow section rests in roughly 25–30 feet of water about 5 nautical miles west of Key West. The signature features are the 5-inch gun mount (behind a semicircular gun shield) located about 50 feet behind the bow, and the twin 40-millimeter Bofors-style anti-aircraft guns mounted on an elevated pedestal just aft. The shallow depth gives essentially unlimited bottom time but visibility is variable and typically modest — local operators report an average of around 20 feet, with the best clarity at low tide.
+
+## Wreck History
+
+USS Amesbury (DE-66) was a Buckley-class destroyer escort, laid down 8 March 1943 and launched 6 June 1943 at Bethlehem Hingham Shipyard, commissioned 30 August 1943. She measured 306 feet long with a 37-foot beam and a displacement of roughly 1,400 tons. Amesbury escorted trans-Atlantic convoys and joined Task Force 124 for the Normandy invasion on 6 June 1944, where she rescued crew and troops from LST-496 after it struck a mine. Reclassified APD-46 (high-speed transport) in February 1945, she carried Underwater Demolition Team 12 and Marines in post-war operations off Korea and China, earning one battle star for WWII service. She was decommissioned and placed in reserve on 3 July 1946 and sold for scrap in October 1962. While under tow to deep water for sinking as an artificial reef, she grounded and broke up in a storm before she could be refloated, leaving her on the bottom 5 nautical miles west of Key West. A later hurricane in the early 1960s broke the hulk in two, producing the present bow and stern sites separated by roughly 600 feet.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. The site is marked by a buoy and is a regular destination for Key West operators (Lost Reef Adventures, Key West Dive Center, and others), especially when the Atlantic side is too rough — its location on the Gulf side makes it a common "Plan B" day-trip site.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Excellent dive for first-time wreck divers because of the shallow depth and bottom-time margin.
+- Plan around low tide for best visibility — at low tide parts of the wreck break the surface.
+- A light helps for peering into the gun-shield interior and other sheltered spots even in daylight.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The bow section is broken-up steel — jagged edges and protruding metal are present throughout the hull. Maintain good buoyancy and avoid contact with the wreck. There is no safe penetration here: the structure is fragmented, not an intact hull, and any attempt to swim inside requires proper wreck training, redundant lights and gas, and a continuous guideline. Watch for surface boat traffic given the shallow depth.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow depth and abundant sunlight make this a workable site for natural-light wide-angle photography when visibility cooperates, with the 5-inch gun mount and twin 40 mm Bofors guns the obvious subjects. Conditions vary considerably — operators specifically recommend the site at low tide and on calm days for the best clarity.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - USS Amesbury](https://en.wikipedia.org/wiki/USS_Amesbury), [NOAA Florida Keys National Marine Sanctuary - Amesbury](https://floridakeys.noaa.gov/shipwrecktrail/amesbury.html), [Florida Keys Vacation - Alexander's Wreck](https://www.florida-keys-vacation.com/Alexanders-Wreck.html), [Dive In Key West - Alexander's Wreck](https://diveinkeywest.net/alexanders-wreck.php). Last updated 2026-05-17.*

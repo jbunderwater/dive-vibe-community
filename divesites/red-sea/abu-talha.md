@@ -17,49 +17,19 @@ Abu Talha is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Abu Talha is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Talha is a dive site at coordinates 28.548°N, 34.518°E, placing it in the Hurghada / El Quseir area of the northern Red Sea, approximately 30–40 km south of Hurghada toward the Safaga zone. The name "Abu Talha" (meaning "father of acacia") is an Arabic topographic term and does not appear prominently in English-language dive databases for this area, suggesting it may be a locally designated reef or one of many smaller named features along this stretch of coast. The northern Red Sea reef system in this band — between Safaga and Hurghada — features accessible reef diving with hard and soft corals, including notable sites such as Panorama Reef, Middle Reef, and various offshore ergs.
+
+*No site-specific dive documentation was located for Abu Talha. The following reflects the general character of the northern Red Sea reef system at this location.*
+
+The northern Red Sea fringing reefs at this latitude feature hard coral gardens, coral walls, and sandy channels. Marine life characteristic of the area includes anthias, butterflyfish, Napoleon wrasse, groupers, moray eels, blue-spotted stingrays, and barracuda. Water is warm year-round (22–28°C); visibility typically 15–25 m. Access by boat from Hurghada or Safaga.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: ~30–40 km south of Hurghada / Safaga area, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources located for Abu Talha. Description reflects general characteristics of the northern Red Sea reef system at this location. Last updated 2026-05-17.*

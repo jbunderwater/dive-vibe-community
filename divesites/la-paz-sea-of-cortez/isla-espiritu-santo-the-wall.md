@@ -13,51 +13,41 @@ addedBy: osm_import
 
 ## Isla Espiritu Santo - The Wall
 
-Isla Espiritu Santo - The Wall is a dramatic 75-foot+ wall dive along the northern point of the protected marine park island.
+Isla Espiritu Santo - The Wall is a dramatic wall dive along the northern area of Espíritu Santo, descending to 75 feet and beyond through fan coral-covered rock face.
 
 ## Overview
 
-Located at the northernmost point of Isla Espiritu Santo within the protected Espiritu Santo National Park, this wall dive features a long vertical descent covered in fan coral and inhabited by numerous species of rockfish and reef fish. The wall structure creates a dynamic diving environment with varying light conditions and pelagic encounters in the open water beyond the wall.
+Located within Espiritu Santo National Park along the northern section of Isla Espíritu Santo, The Wall is a vertical descent covered in large sea fans, sponges, and diverse rockfish species. Wall sections in this part of the island are documented reaching 75+ feet (23+ meters), with some sections dropping to nearly 90 feet before hitting sand bottom. Espíritu Santo's surrounding waters are known as part of the "Aquarium of the World" — a UNESCO-recognized archipelago hosting more than 890 fish species and 39% of the world's marine mammal species. The wall dive format provides access to depth-stratified communities and pelagic encounters in the open water off the wall face.
 
 ## Site Information
 
-- **Location**: Northern point of Isla Espiritu Santo, Espiritu Santo National Park
+- **Location**: Northern area of Isla Espíritu Santo, Espiritu Santo National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Mild to moderate
-- **Best Time**: July to November
 
 ## Marine Life
 
-The wall is decorated with colorful fan coral, sponges, and soft corals hosting abundant reef fish including rockfish, cabrilla, groupers, snappers, and jacks. Larger species include sea lions, eagle rays, mobula rays, and occasionally dolphin pods. Macro diving opportunities abound with crustaceans, nudibranchs, and sea stars visible on the wall structures.
+The wall surface is decorated with sea fans, sponges, and encrusting corals. Fish life on the wall includes cabrilla, grouper, Panama graysby, snapper, octopus, king angelfish, parrotfish, and several moray eel species. Stonefish have been documented on Espíritu Santo walls. In the open water off the face of the wall, passing mantas, sea lions from Los Islotes, and dolphin pods are possible. The wall's depth range and varied structure support higher diversity than comparable shallow reef sites.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The wall drops from near the surface to 23–27+ meters before reaching a sand ledge. Advanced divers typically work the upper wall sections (15–27 m) where density of sea fans and fish life is highest, then ascend along the wall for the safety stop. Conditions can include current along the wall face, making drift wall technique useful.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from La Paz (approximately 45–60 minutes). Espiritu Santo National Park fee required. Multiple La Paz operators run wall dive days on the island's northern and western sides.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Wide-angle lens works well for the fan coral wall sections at mid-depth.
+- Work the wall slowly to find octopus, morays, and small cryptic species tucked into crevices.
+- Combine with a Los Islotes sea lion dive (nearby to the north) for a varied two-tank day.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall's depth reaches Advanced-level territory — narcosis can be a factor below 30 m. Currents along the wall can push divers away from the structure; maintain a close swimming position relative to the wall for reference. A surface marker buoy is essential for open-water pick-up after drift sections.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [The Dive Gurus — Espiritu Santo dive sites](https://www.thedivegurus.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/). Last updated 2026-05-17.*

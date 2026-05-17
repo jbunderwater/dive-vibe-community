@@ -3,8 +3,8 @@ name: Marsa Shona Sogayar
 lat: 25.417598
 lng: 34.6951675
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 45
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Marsa Shona Sogayar
 
-Marsa Shona Sogayar is a  dive site in Red Sea, Middle East.
+Marsa Shona Sogayar is a bay and reef dive site in the Marsa Alam region of Egypt's southern Red Sea. "Marsa Shona" means "small/lesser bay" in Arabic. The site features a sandy-bottomed bay framed by north and south reef structures with drop-offs, making it suitable for both reef exploration and deeper dives.
 
 ## Overview
 
-Marsa Shona Sogayar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The entry bay has an easy sandy bottom providing calm conditions. North and south reef plateaus extend from the bay and are covered in coral gardens, leading to drop-offs on both sides. The southern reef plateau is the more commonly dived section. Average depth is around 20 metres, with the drop-off reaching a maximum of approximately 45 metres. Visibility is generally 25 metres and can reach 30 metres, with reduced clarity during the summer months of July and August (5–25 metres).
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports a well-rounded Red Sea ecosystem. Barracuda and sharks — including reef species — are reported sightings. Blue-spotted stingrays (Taeniura lymma) rest on sandy patches within the bay. Sea turtles visit the reef gardens. The coral plateau hosts a typical southern Red Sea reef community including wrasse, parrotfish, grouper, and smaller reef fish. The site is also noted for productive night diving.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A versatile site with multiple zones: the sheltered bay interior at 5–10 metres for initial exploration, the coral garden plateaus at 15–25 metres, and the drop-off pushing to around 45 metres for more experienced divers. Currents average 1–2 knots and are most pronounced on the outer reef edges. Water temperature ranges from 22°C in winter to 34°C at the surface in summer; the reef stays warm year-round.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access typical of the Marsa Alam region. Night dives are available and recommended.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Marsa Alam region, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 45 metres
+- **Difficulty**: Intermediate
+- **Best Season**: November–May for clearest visibility
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Scuba Diving Place — Marsa Shona Sogayar](https://scubadiving.place/divesite/marsa-shona-sogayar), [Wannadive — Marsa Shona Sogayar](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Marsa_Shona_Sogayar/index.html). Last updated 2026-05-17.*

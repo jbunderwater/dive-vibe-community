@@ -4,7 +4,7 @@ lat: 24.8390443
 lng: 35.0256371
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,19 @@ addedBy: osm_import
 
 ## The Garden of Eden
 
-The Garden of Eden is a  dive site in Red Sea, Middle East.
+The Garden of Eden is a reef dive site in the southern Red Sea on the Egyptian coast north of Marsa Alam, a stretch well known for its pristine, relatively undived reef systems.
 
 ## Overview
 
-The Garden of Eden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates (lat 24.84, lon 35.03) place this site in the coastal reef zone between El Quseir and Marsa Alam. This section of Egyptian coastline hosts extensive fringing reefs with clear water, dense coral growth, and relatively low diver pressure compared to the northern Red Sea. The nearby Sharks Point site (approximately 1 km away) suggests this is part of a local cluster of named dive sites in the area.
+
+No specific source document has been located confirming the detailed characteristics of this exact site under the name "The Garden of Eden." Sites with this name in other Red Sea locations typically feature lush soft coral gardens, diverse reef fish communities, and shallow to intermediate depth profiles consistent with the site's frontmatter.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Southern Red Sea, Egypt (El Quseir–Marsa Alam coastal zone)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates. Description based on regional diving characteristics. Last updated 2026-05-17.*

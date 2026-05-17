@@ -23,7 +23,7 @@ The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance
 
 - **Location**: Kavieng, New Ireland Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII aviation)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 12-15 meters

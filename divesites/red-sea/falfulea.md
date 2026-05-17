@@ -17,49 +17,19 @@ Falfulea is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Falfulea is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Falfulea is a dive site at coordinates 27.202°N, 33.956°E, placing it in the El Quseir area of the central Red Sea coast, south of Hurghada. The site clusters geographically with other El Aruk and El Fanadir sites in the broader El Quseir dive region. The Arabic term "falfulea" (sometimes transliterated "fulfula") is associated with the name of the pepper plant and appears as a place name in this stretch of the Egyptian Red Sea coast. The site does not appear in major English-language dive databases for El Quseir, suggesting it may be a locally used site name among Egyptian dive operators.
+
+*No site-specific dive sources were located for Falfulea. The following reflects the general character of the El Quseir reef system at this location.*
+
+The El Quseir coastline offers varied diving: coral-covered pinnacles on sandy slopes, narrow passages between reef blocks, canyon systems, and cavern areas. Marine life typical of the area includes parrotfish, triggerfish, moray eels, lionfish, blue-spotted stingrays, Napoleon wrasse, barracuda, and occasional whitetip reef sharks. The El Quseir zone is less dived than Hurghada, keeping reefs in notably good condition. Shore or boat access depending on site position relative to the coast road.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: El Quseir area, central Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources located for Falfulea. Description reflects general characteristics of the El Quseir reef system. Last updated 2026-05-17.*

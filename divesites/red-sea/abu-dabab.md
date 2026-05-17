@@ -13,53 +13,32 @@ addedBy: osm_import
 
 ## Abu Dabab
 
-Abu Dabab is a  dive site in Red Sea, Middle East.
+Abu Dabab (also spelled Abu Dabbab) is one of the most famous dive and snorkel sites in the Marsa Alam region of Egypt's southern Red Sea, renowned for its resident dugongs, large green and hawksbill sea turtles, and extensive seagrass meadows.
 
 ## Overview
 
-Abu Dabab is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Dabab Bay — sometimes called Turtle Bay or Dugong Bay — is a sandy-bottomed bay with extensive seagrass beds in its centre, fringing coral reefs along its edges, and a small accessible beach. The combination of seagrass habitat and sheltered bay conditions makes it one of the very few sites in Egypt where dugong (Dugong dugon) can be reliably encountered. Local dive guides report identifying two resident dugongs that visit the bay most frequently, though the population using the area is larger.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The bay hosts more than 100 resident turtles. Green sea turtles graze on the central seagrass meadows; hawksbill turtles are found around the reef structures where they feed on coral and sponges. The site is considered suitable for all experience levels due to its shallow depth, sheltered conditions, and absence of significant currents.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 0–15 m over seagrass; reef edges to ~20 m
+- **Current**: Minimal in sheltered bay
+- **Entry**: Shore or boat; beach entry available
+- **Visibility**: Good in calm conditions (15–25 m on reef)
+- **Suitable for**: All levels including snorkellers
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- **Dugong** (Dugong dugon): regularly sighted in seagrass meadows; not guaranteed but frequently seen
+- **Green sea turtle** (Chelonia mydas): abundant; graze on central seagrass
+- **Hawksbill turtle** (Eretmochelys imbricata): around reef sections
+- **Reef fish**: parrotfish, angelfish, butterflyfish, grouper, moray eels on reef sections
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The shallow seagrass areas with dugongs and turtles in natural light are ideal for underwater photography. Early morning light gives the best conditions before boat traffic increases.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Sambo Divers — Abu Dabbab Bay](https://sambodivers.com/abu-dabbab-bay/), [PADI — Abu Dabbab 1](https://www.padi.com/dive-site/egypt/abu-dabbab-1-dive-site/), [Snorkel Around the World — Abu Dabbab](https://snorkelaroundtheworld.com/abu-dabbab-dugong-bay/). Last updated 2026-05-17.*

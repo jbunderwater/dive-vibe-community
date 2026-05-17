@@ -23,7 +23,7 @@ Aphols Point is located on Maricaban Island, approximately 3 kilometres south of
 
 - **Location**: Maricaban Island, Anilao, Batangas, Philippines (3 km S of Buceo Anilao)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef dive (sandy bottom with coral debris and boulders)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-20 meters

@@ -13,54 +13,37 @@ addedBy: osm_import
 
 ## Pretty Bush
 
-Pretty Bush is a reef dive site in Utila, Caribbean.
+Pretty Bush is a south side coral reef site on Utila, consistently recommended as one of the best destinations on the island for macro photography and small creature observation.
 
 ## Overview
 
-Pretty Bush is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Pretty Bush sits on the south shore of Utila, where calmer, sheltered water conditions make it accessible to beginner divers on most days of the year. The reef starts at around 13 ft (4 m) and slopes down to approximately 100 ft (30 m) at the base. Rock formations and varied coral structures create a patchwork of micro-habitats particularly favourable for small Caribbean reef creatures. The site is frequently name-checked alongside Black Coral Wall as a macro photographer's dream on the south side. Its relatively shallow accessible depths, benign current conditions, and close proximity to Utila's harbour make it a reliable two-tank morning dive choice, especially when north side conditions are affected by swell.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+While no exhaustive species inventory exists for this site, multiple sources cite Pretty Bush specifically for macro life — nudibranchs, small crustaceans, and juvenile reef fish in the rock and coral formations. The south side reef structure typically supports Caribbean reef species including angelfish, parrotfish, damselfish, and spotted cleaning stations. The varied coral and rock habitat provides excellent substrate for encrusting sponges and invertebrates typical of the Mesoamerican Barrier Reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Shallow reef**: starts at ~13 ft (4 m)
+- **Reef base**: ~100 ft (30 m)
+- **Working depth**: most activity between 15–60 ft (5–18 m)
+- **Current**: generally calm — sheltered south side location
+- **Visibility**: typically 15–25 m
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. South side access remains reliable when north side conditions are unfavourable.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Ideal for macro photographers — move slowly and check rock overhangs and coral bases for small critters.
+- Pair with Jack Neil Point or Lighthouse Reef for a two-tank south side morning trip.
+- The calm conditions make this a good site for open water and fun diver training alike.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Among Utila's premier macro sites. Bring a dedicated macro lens — the varied substrate rewards methodical searching. Natural light is good in the shallow sections in the morning.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [ZuBlu – Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-05-17.*

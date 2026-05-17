@@ -4,62 +4,40 @@ lat: 27.91317
 lng: 34.364891
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Merset EtAt ExposedWreck
+## Wreck Merset Etat
 
-Wreck Merset EtAt ExposedWreck is a  dive site in Red Sea, Middle East.
+An exposed wreck site located in the Strait of Gubal area, approximately at coordinates 27.913°N, 34.365°E. The name "Merset Etat" has not been matched to a vessel identity in available English-language dive databases. The location places this wreck in the central Strait of Gubal, an area with historically heavy shipping traffic and several documented groundings.
 
 ## Overview
 
-Wreck Merset EtAt ExposedWreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Strait of Gubal, between the Sinai Peninsula and Hurghada, is one of the most congested shipping corridors in the world, leading to the Suez Canal. The combination of strong currents, submerged reefs, and heavy traffic has resulted in numerous wrecks over the decades. The name "Merset Etat" may be an Arabic transliteration of a vessel name, or a local designation for an unidentified wreck. At approximately 27.9°N, the site lies between the Tiran reefs and the central Gubal Strait area.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Based on the "exposed wreck" classification in the OSM data, this is likely a vessel grounded on a reef rather than submerged in open water, potentially visible above the waterline. The recorded depth of 25 metres is consistent with a grounding on the reef edge rather than a wreck sitting on a sandy seabed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Up to 25 m (based on recorded data)
+- **Entry**: Boat dive (no shore access in this area)
+- **Conditions**: Strait of Gubal conditions — currents can be strong; best in calm weather
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The Strait of Gubal area supports healthy reef fish populations on coral-encrusted structures: anthias, wrasse, groupers, surgeonfish, and fusiliers. Pelagic species including barracuda and trevally pass through the strait regularly.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Strait of Gubal, northern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*The identity of the vessel at this site has not been confirmed from available sources. The "Merset Etat" name does not appear in accessible English-language or major dive databases. Local dive operators in Sharm El Sheikh or Hurghada would be the best source for site-specific information. No confirmed site-specific dive sources were located. Last updated 2026-05-17.*

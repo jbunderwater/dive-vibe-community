@@ -13,54 +13,43 @@ addedBy: osm_import
 
 ## Pulau Tifore
 
-Pulau Tifore is a reef dive site in Halmahera, Asia.
+Pulau Tifore is an open-ocean reef and seamount dive destination located in the middle of the Molucca Sea, roughly halfway between Halmahera and North Sulawesi, Indonesia.
 
 ## Overview
 
-Pulau Tifore is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tifore Island sits in open sea, exposed to strong tidal flows that concentrate nutrients and attract large numbers of fish. The site is renowned within liveaboard diving circles for its spectacular schooling fish behaviour — massive tornadoes of barracuda, trevally, and fusiliers that number in the thousands are regularly encountered. The southern side of the island features a reef known informally for its barracuda schools, while the island's position between two major Indonesian island groups makes it a productive mid-passage stop on Halmahera liveaboard itineraries.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Pulau Tifore is particularly famous for large, dense schools of bigeye trevally and barracuda that form dramatic swirling "tornado" formations. Fusiliers, snappers, jacks, reef sharks, and Napoleon wrasse are regular sightings. The island's exposed position in the Molucca Sea also brings hammerhead sharks and mobula rays on productive days. At the reef called Pantai Sago on the southern side, barracuda schools numbering over 1,000 individuals have been observed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at Tifore are generally conducted in drift conditions, taking advantage of the strong tidal currents that aggregate the schooling fish. The reef structure varies around the island, with sloping walls and coral bommies. Maximum depth is around 30 metres; most action occurs in the mid-water column (10–25 metres) where the schools congregate. Divers experienced with drift conditions are best placed to enjoy this site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Pulau Tifore is exclusively accessible by liveaboard. It is a standard stop on Halmahera itineraries departing from Ternate. Due to its position between islands, it is also visited by liveaboards routing between Lembeh (North Sulawesi) and Halmahera.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Current direction and strength dictate the best entry point on any given dive. Let the current carry you toward the fish aggregations rather than fighting against it. Wide-angle lenses benefit from the schooling fish behaviour; an 8–10mm fisheye captures tornado formations effectively. Be prepared for blue-water conditions if the fish move off the reef structure.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at Tifore can be strong and unpredictable — this is an intermediate-level site that is not appropriate for beginners or divers uncomfortable with drift conditions. An SMB should be deployed on every ascent. The site is in open ocean, remote from any medical facility; the nearest recompression chamber is in Manado or Bitung, North Sulawesi. Water temperature is 27–30°C.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Pulau Tifore is a premier wide-angle destination. The trademark barracuda and trevally tornadoes create some of Indonesia's most dramatic schooling-fish images. A fisheye lens with dual strobes or a large dome port for natural-light shooting in blue water are both effective approaches. Arrive early in the dive to position yourself before the schools scatter.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Mikumba Diving – Halmahera Final Frontier](https://www.mikumbadiving.com/halmahera-diving-indonesias-final-frontier/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Last updated 2026-05-17.*

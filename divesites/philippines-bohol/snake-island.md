@@ -26,9 +26,9 @@ Surface currents can be strong, mellowing as you descend, making this a good dri
 ## Site Information
 
 - **Location**: Cervera Shoal, 11 km from Panglao, Bohol, Philippines
-- **Entry Type**: Boat dive (~30 min from Panglao)
-- **Site Type**: Shoal reef with steep slope
-- **Difficulty Level**: Intermediate (strong surface currents)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 26-30 degrees C

@@ -23,7 +23,7 @@ Montani is a shallow drift dive in the Puerto Galera channel that epitomises muc
 
 - **Location**: Puerto Galera channel, Mindoro Island, Philippines
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive (drift)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10-15 meters

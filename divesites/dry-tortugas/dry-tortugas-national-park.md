@@ -26,37 +26,26 @@ Dry Tortugas National Park encompasses some of the most pristine coral reefs in 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The NPS documents a rich cross-section of Atlantic tropical species throughout the park: parrotfish, angelfish, triggerfish, barracuda, and damselfish on the reefs; goliath grouper, tarpon, nurse sharks, and reef squid around the Fort Jefferson moat wall and historic coal pier pilings; and the endangered American crocodile has been spotted in the park. Night dives off the moat wall reveal octopuses and basket starfish. Green sea turtles forage on seagrass flats near Bird Key and Loggerhead Key. Lionfish have been observed in the park since their Gulf invasion.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The park encompasses seven islands and the surrounding shallow bank, with dive sites ranging from the Fort Jefferson moat wall (5–35 feet) to deeper open-reef sites beyond the park boundary (75–80 feet). The historic coal pier pilings at Garden Key provide structure for larger species. Texas Rock, a massive coral mound at 55 feet, is used for active NPS coral monitoring and is one of the park's signature dives. The Windjammer wreck off Loggerhead Key lies in 18–21 feet. Visibility runs 60–120 feet, best at flood tide, from May through September.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The park is 70 miles west of Key West and accessible only by water or seaplane. The primary day-trip option is the Yankee Freedom III high-speed catamaran ferry, which departs Key West's Lands End Village and arrives at Garden Key in approximately 2–2.5 hours; however, the ferry cannot carry compressed air tanks. Divers must arrive via private vessel or dive-specific charter boat equipped with tanks and compressor. Several Key West operators run dive charters to the park; overnight stays require anchoring on sandy bottom within one nautical mile of the Garden Key harbour light. The park entrance fee applies regardless of arrival method.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+The park offers multiple distinct environments: the moat wall for easy reef diving, the coal piers for big-fish encounters, the Windjammer wreck for history, Texas Rock for pristine deep reef, and Loggerhead Key's patch reefs (including Little Africa) for beginner and snorkelling dives. Plan multiple sites across a two-day stay if anchoring overnight. Visibility is best on flood tide; schedule dive times around the tidal cycle. The NPS visitor centre at Garden Key has laminated dive trail guides for the Windjammer wreck.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+No emergency dive support infrastructure exists in the park — the nearest hyperbaric chamber is in Key West. There is no cell service; carry a marine VHF radio. Currents beyond the park boundary buoys can be strong and are not recommended for novice divers. Standard hazards include fire coral, jellyfish, sea urchins, and lionfish. Do not touch, move, or remove any natural or cultural artefacts — the park includes both ecological and archaeological protected zones with significant federal penalties. Always use the buddy system and display a dive flag.
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [NPS Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [Florida Scuba Diving Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Last updated 2026-05-17.*

@@ -3,7 +3,7 @@ name: Pharao Housereef
 lat: 26.0922081
 lng: 34.2910552
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Pharao Housereef
 
-Pharao Housereef is a  dive site in Red Sea, Middle East.
+Pharao Housereef is the house reef associated with the Pharaoh Dive Club in El Quseir, a small historical port town on Egypt's Red Sea coast approximately 85 kilometres south of Safaga. El Quseir is known for relaxed, uncrowded diving with pristine reefs accessible as shore dives directly from beach or jetty. The Pharaoh Dive Club is a well-established BSAC-affiliated centre operating in the area.
 
 ## Overview
 
-Pharao Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The house reef at El Quseir is one of the most colourful and varied reefs in the Red Sea, with easy shore entry and exit directly from the dive centre. The reef extends from the shore, dropping through a coral slope to the fringing reef wall. Average depth is around 15 metres, with the maximum reaching approximately 35 metres along the wall sections. Visibility is typically 10–30 metres.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+El Quseir's reefs are known for their rich, intact coral communities and diverse fish life. The house reef hosts a variety of species typical of healthy southern Egyptian Red Sea reefs: large batfish, clownfish in anemones, ghost pipefish, seamoth, moray eels, groupers, and a resident population of colourful reef fish including anthias, wrasse, and butterflyfish. The relatively low boat traffic in El Quseir compared to northern resorts contributes to the reef's pristine condition.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Direct shore entry from the Pharaoh Dive Club. The reef can be dived at multiple profiles: a shallow reef-top exploration at 5–10 metres, a mid-wall dive at 15–20 metres, or a deeper wall section pushing to 35 metres. The site suits all certification levels; beginners can explore the shallows while more experienced divers work the wall.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Pharaoh Dive Club / El Quseir dive area. Multiple entry and exit points available along the beach.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: El Quseir, Red Sea, Egypt (approximately 85 km south of Safaga)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 35 metres
+- **Difficulty**: Intermediate
+- **Dive Centre**: Pharaoh Dive Club (BSAC-affiliated)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BSAC — Pharaoh Dive Club](https://www.bsac.com/training/find-a-bsac-training-centre/find-an-overseas-training-centre/pharaoh-dive-club/), [Regaldive — El Quseir Diving](https://www.regal-diving.co.uk/el-quseir), [Euro Divers — Diving in El Quseir](https://www.euro-divers.com/scuba-diving-egypt/). Last updated 2026-05-17.*

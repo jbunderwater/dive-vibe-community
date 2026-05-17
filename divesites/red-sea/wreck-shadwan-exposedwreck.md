@@ -4,62 +4,40 @@ lat: 27.507362
 lng: 34.006805
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Shadwan ExposedWreck
+## Wreck Shadwan
 
-Wreck Shadwan ExposedWreck is a  dive site in Red Sea, Middle East.
+An exposed wreck lying near Shadwan Island (Jazira Shadwan) in the northern Red Sea, at the southern end of the Gulf of Suez. The island sits at the junction of major shipping lanes and has witnessed several groundings over the decades. The specific vessel identity for this OSM-recorded wreck has not been independently confirmed from available sources.
 
 ## Overview
 
-Wreck Shadwan ExposedWreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shadwan Island is an uninhabited island at the mouth of the Gulf of Suez, close to Abu Nuhas reef. The island's shallows and surrounding reef have claimed various vessels over the years. Based on coordinates (27.507°N, 34.007°E), this entry places the wreck on or near the island's reef flank, in an area accessible by boat from Hurghada or on liveaboard routes between Hurghada and the Abu Nuhas wrecks.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site is recorded as a shore-accessible exposed wreck in the OSM database, consistent with a vessel grounded on a shallow reef rather than sunk in deep water. Exposed wrecks in this area are typically visited on calm-weather day trips and offer a mix of wreck structure, encrusted coral growth, and reef fish habitats.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Shallow to approximately 25 m based on recorded data
+- **Entry**: Boat dive (the island is uninhabited and remote from shore)
+- **Conditions**: Best in calm weather; the area around Shadwan Island can experience strong currents
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The Red Sea waters around Shadwan Island support typical northern Red Sea reef species: anthias, fusiliers, parrotfish, wrasse, groupers, moray eels, and blue-spotted stingrays on sandy patches. The proximity to Abu Nuhas means occasional pelagic visitors.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Near Shadwan Island, northern Red Sea / Gulf of Suez entrance
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres (recorded)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description partially based on regional context and OSM data. The specific vessel identity for this wreck has not been confirmed from available sources — the Shadwan Island area has claimed multiple vessels and further research with local dive operators is recommended. No site-specific dive sources were located. Last updated 2026-05-17.*

@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Büyük Resif
 
-Büyük Resif is a wall dive site in Turkey, Europe.
+Büyük Resif (Big Reef) is a wall and reef dive site near Bodrum, Turkey.
 
 ## Overview
 
-Büyük Resif is a dive site in Turkey featuring a dramatic vertical wall that drops into the deep blue . Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Büyük Resif — Turkish for "Big Reef" — is one of the most celebrated dive sites in the Bodrum area of Turkey's Aegean coast. The reef is positioned approximately 20 minutes by boat from Bodrum city centre, between the Bodrum Peninsula and Karaada (Black Island), directly opposite St. Peter's Castle. The site is a prominent underwater pinnacle that rises from the seafloor to within 4 metres of the surface, with a maximum depth of 34 metres at the base.
+
+The reef presents contrasting characters on its two main faces: the Karaada-facing wall drops vertically from 7 metres to 34 metres — a true wall dive — while the Gümbet-facing side descends in terraces, offering a more gradual dive profile. The top of the reef at 4–7 metres is a productive zone with octopus, bream, and scorpionfish. The steep wall face is documented as one of the richest marine life sites in the Bodrum area and is described by local operators as particularly well suited for underwater photography.
+
+The reef is noted as a crossing point for Red Sea migrants — species that have expanded into the eastern Mediterranean through the Suez Canal — adding unpredictability to encounter opportunities alongside the resident population. Octopus, moray eels, groupers, barracuda, jacks, and spiny lobster inhabit the structure, and colourful sea slugs and sponges colonise the rock faces. Strong currents at this exposed site are common, and advanced buoyancy control is required on the wall.
+
+## Dive Profile
+
+- **Entry**: Boat; descent by anchor chain to reef top at 7 m
+- **Depth range**: 7–34 m (top at 4 m; wall face starts at 7 m)
+- **Wall face**: Vertical, 7–34 m, facing Karaada (Black Island)
+- **Terrace face**: Gradual slope facing Gümbet
+- **Conditions**: Strong currents possible; experienced divers required for wall sections
+- **Visibility**: Mediterranean average; typically 15–25 m in summer
+- **Best season**: April–October
+
+## Marine Life
+
+- **Resident fish**: Octopus, moray eels, dusky grouper, scorpionfish, sea bream, damselfish, wrasse
+- **Pelagics and transients**: Barracuda, jacks (Caranx spp.), occasional tuna
+- **Red Sea migrants**: Various Lessepsian species (specific species subject to seasonal variation)
+- **Invertebrates**: Spiny lobster, sea slugs (nudibranchs), sponges
+- **Photography note**: Wall face described as "particularly well suited for photography" by Happy Bubbles Dive Center
+
+## Safety
+
+Strong currents are the primary hazard. Advanced buoyancy control and awareness of current direction are essential on the wall. Book with an established Bodrum dive operator who monitors conditions. The exposed location means surface conditions can deteriorate with wind.
 
 ## Site Information
 
-- **Location**: Turkey, Europe
+- **Location**: Bodrum, Muğla Province, Turkey (Aegean Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-34 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Happy Bubbles Dive Center — Big Reef](https://happybubbles.com/en/ds-big-reef/), [The Divers' Club — Big Reef](https://www.thediversclub.com.tr/?dive-sites=big-reef&lang=en), [SSI MyDiveGuide — Big Reef Bodrum](https://www.divessi.com/en/mydiveguide/divesite/big-reef-bodrum-resif-buyuk-karaada-mavi-yildiz-great-turkey-67809). Last updated 2026-05-17.*

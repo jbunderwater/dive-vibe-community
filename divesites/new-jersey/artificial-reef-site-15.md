@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Artificial Reef Site 15
 
-Artificial Reef Site 15 is a reef dive site in New Jersey Shore, North America.
+Artificial Reef Site 15 is part of New Jersey's DEP artificial reef network, located in the Ocean City / Great Egg area of the southern New Jersey coast.
 
 ## Overview
 
-Artificial Reef Site 15 is part of New Jersey's extensive artificial reef network, one of the most recognized programs on the entire Atlantic Coast. The Cape May area reef contains sunken Army tanks, tire units, and decommissioned subway cars that now serve as habitat for black sea bass, tautog (blackfish), porgy, and American lobster at depths of 50 to 75 feet. Visibility is typically 5-25 meters depending on season and currents, with water temperatures ranging from 7-24°C, and the best diving conditions occurring from June through October.
+New Jersey's artificial reef program, administered by the NJ DEP Division of Fish and Wildlife since 1984, maintains a network of named reef sites along the state's coast. The coordinates for this entry (39.1917°N, 74.3583°W) place it in the Ocean City Reef / Great Egg Reef area of southern New Jersey — not off Cape May as previously noted. The NJ DEP reef program designates its sites by name rather than number; there is no site officially called "Site 15" in the program's records. The reef sites in this general area (Ocean City Reef, Great Egg Reef) contain Army surplus armored vehicles, tire units, concrete castings, and various sunken vessels deployed to provide hard substrate for fish and invertebrates in an otherwise sandy seafloor environment.
+
+**DATA NOTE:** The name "Artificial Reef Site 15" does not correspond to any officially named NJ DEP reef site. The nearest named reef sites to these coordinates are the Ocean City Reef (4.5 nautical miles off Ocean City, NJ) and the Great Egg Reef (7.2 nautical miles off Atlantic City). The actual reef site identity should be verified against current NJ DEP reef coordinates.
 
 ## Site Information
 
-- **Location**: New Jersey Shore, North America
+- **Location**: Southern New Jersey coast, Ocean City / Great Egg area (exact site identity unverified)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+NJ artificial reef sites in the Ocean City and Great Egg area support black sea bass, tautog (blackfish), summer flounder (fluke), scup, and cunner around the hard substrate. American lobster are present in crevices formed by the deployed materials. Blue mussels, barnacles, and sea anemones colonize the army tanks, concrete, and tire units. Seasonal visitors include Atlantic spadefish around the reef structures in summer months.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+At approximately 20 meters (65 feet) maximum depth, this is an accessible intermediate dive site. The army tanks and other deployed materials typically rise several feet off the sandy seafloor, creating swimthrough and shelter opportunities. Visibility on southern NJ reef sites is variable — typically 5–20 feet — and depends heavily on season, currents, and plankton conditions. Best conditions are generally June through September.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter boats depart from Ocean City, Somers Point, or Atlantic City-area marinas for reef sites in this area. The offshore transit to southern NJ reef sites is typically 4–8 nautical miles depending on departure point and specific reef.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Confirm the specific reef site and GPS waypoints with the charter captain before booking, as "Artificial Reef Site 15" is not an official NJ DEP designation
+- The army tanks and reef balls at southern NJ sites are the most photogenic structures
+- Lobster hunting is productive in the tire and rock sections
+- Best diving is June through October
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Water temperature ranges from approximately 7°C (45°F) in winter to 22°C (72°F) in late summer; heavy wetsuit or drysuit required outside summer months
+- Visibility is highly variable; a surface marker buoy and compass are recommended
+- Current flows across flat sandy bottom can be stronger than expected at offshore reef sites
 
 ---
-*Sources: njscuba.net/cape-may-reef, nj.gov DEP reef guide. Last updated 2026-03-16.*
+*Sources: [NJ DEP Artificial Reef Program](https://dep.nj.gov/njfw/fishing/marine/artificial-reef-program/), [NJ Artificial Reef Site Locations](https://www.fffnj.com/fgw/reefloc.html), [NJ DEP Reef Guide](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf). Last updated 2026-05-17.*
+
+*Note: No site-specific source for "Artificial Reef Site 15" was found. Site identity and description are based on the NJ DEP artificial reef program documentation for the Ocean City and Great Egg reef areas nearest to the recorded coordinates.*

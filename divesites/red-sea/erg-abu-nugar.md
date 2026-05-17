@@ -17,49 +17,35 @@ Erg Abu Nugar is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Erg Abu Nugar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Erg Abu Nugar is part of the Abu Nugar reef complex, one of the most northerly dive sites in the Hurghada area — almost reaching El Gouna — and approximately 60–90 minutes by boat from central Hurghada. The name Abu Nugar translates as "father of the pools," referring to the clear lagoons formed in the reef top. The site combines a long T-shaped reef to the west and a shallow plateau to the east dotted with numerous ergs (coral pinnacles). The pinnacles are set on a seabed averaging 12–14 m depth, topped with colourful table corals, brain corals, yellow and purple gorgonians, and horn corals. Because of its distance from the tourist hub, Abu Nugar sees fewer divers than closer sites and the corals are impressively pristine.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The ergs and reef host an active community of reef fish: parrotfish, angelfish, surgeonfish, butterflyfish, and schooling anthias. Cornfish (cornetfish) and hunting packs of tuna, jacks, and occasionally barracuda and Spanish mackerel patrol the outer areas. Along the drop-off edge, whitetip reef sharks and, occasionally, hammerheads and feathertail rays are reported. On the shallow plateau, turtles, blue-spotted stingrays, Spanish dancers (Hexabranchus sanguineus), moray eels, and lunartail and leopard groupers are regular sightings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shallow site — maximum depth 14–18 m, making it accessible to all levels. The plateau is typically calm with very weak currents, allowing long bottom times. Navigation follows the erg field east-to-west and back along the main reef. Visibility is typically excellent due to the reduced boat traffic — often 20–30 m. Duration 50–70 minutes.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive from Hurghada or El Gouna (60–90 min transit). No shore access. Suitable for all certification levels; the shallow depth and low current make it particularly good for beginners and snorkellers.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Plan the trip for a full-day excursion given the long transit. The pristine condition of the corals rewards slow, attentive diving — look carefully in the crevices between ergs for lobsters and moray eels. Best visibility and calmest conditions are typically mid-morning.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Weak currents — assess direction before beginning the dive. Shallow depth minimises decompression risk. Sun exposure during the long boat transit each way is significant; use full SPF sun protection. The open-water location means surface swells are larger than at inshore sites — prepare for a potentially rolling surface interval.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: ~60–90 min north of Hurghada / near El Gouna, northern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divescover — Erg Abu Nugar](https://divescover.com/dive-site/erg-abu-nugar/40829), [Shaab Abu Nugar — RedSea Life](https://redsealife.com/diving-hurghada/dive-sites/shaab-abu-nugar/). Last updated 2026-05-17.*

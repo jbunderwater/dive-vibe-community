@@ -17,47 +17,39 @@ El Bajo Seamount is a legendary seamount dive site renowned for hammerhead shark
 
 ## Overview
 
-El Bajo is actually a group of three isolated seamounts located 8 miles from Los Islotes within Espiritu Santo National Park. Rising from deep water with steep walls and canyons, El Bajo is considered one of the world's premier hammerhead shark dive sites. Approximately 90 minutes by boat from La Paz, this advanced site attracts massive schools of pelagic fish, eagle rays, mobula rays, marlin, tuna, and dolphins alongside the iconic scalloped hammerhead sharks.
+El Bajo (also called El Bajo Marisla) is a group of three isolated underwater pinnacles located approximately 8 miles from Los Islotes within Espiritu Santo National Park. The three peaks rise to between 52 and 83 feet from the surface, with walls dropping far deeper into open ocean. Because this submerged formation is one of the only shelters for kilometres of open sea, it functions as a critical cleaning station and aggregation point for pelagic megafauna. Approximately 90 minutes by boat from La Paz, this advanced site is considered one of the premier hammerhead shark dive sites in the world.
 
 ## Site Information
 
-- **Location**: Espiritu Santo National Park, 8 miles from Los Islotes
+- **Location**: Espiritu Santo National Park, approximately 8 miles from Los Islotes
 - **Entry Type**: Boat dive
 - **Site Type**: Seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-30 meters (weather dependent)
-- **Current**: Strong and consistent—advanced divers only
-- **Best Time**: July to November (optimal conditions and marine life activity)
 
 ## Marine Life
 
-El Bajo is world-renowned for encounters with scalloped hammerhead sharks, often found schooling around the seamount. The site also features vibrant coral and sponge-covered boulders hosting diverse species: mobula rays, giant mantas, eagle rays, marlin, wahoo, trevally, amberjacks, tuna, octopus, and occasionally whale sharks. Dolphin pods and sea lions frequent the area during peak season.
+El Bajo is best known for schooling scalloped hammerhead sharks, which congregate around the seamount — encounters with groups ranging from a handful to hundreds have been recorded. The site also hosts silky sharks, giant Pacific manta rays, whale sharks (seasonal), amberjacks, tuna, wahoo, eagle rays, Panamic green moray eels, and large schools of trevally. Dolphin pods pass through regularly. Hammerhead sightings are most reliable from May through early winter, with peak encounters in cooler months (September–December).
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Three submerged pinnacles top out between 52 and 83 feet (16–25 m). Divers typically work the upper sections of the peaks where hammerheads congregate, then follow the walls deeper. Most productive dives take place below 30 meters. Strong, variable currents are normal; blue-water conditions and open-ocean surge are common. Drift diving technique is often used.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by boat from La Paz — typical crossing time is approximately 90 minutes. Local operators including the Cortez Club, Cantamar Dive, and La Paz Divers run day trips to El Bajo. The site is within Espiritu Santo National Park; a park fee applies.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Advanced Open Water certification minimum; Rescue Diver or higher strongly recommended given depth and current.
+- Blue-water seamount diving skills and strong buoyancy control are essential.
+- Arrive early — morning dives typically have calmer conditions and better hammerhead activity.
+- Wide-angle lens is optimal for pelagic photography.
+- Bring a surface marker buoy (SMB); open-ocean conditions make boat pick-up critical.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Strong and unpredictable currents are normal at this open-ocean site. Divers must be comfortable in blue water with limited visual reference. Depth can lead to nitrogen narcosis below 30 m. Always dive with a local guide who knows current patterns. Surface conditions can be choppy on the 90-minute crossing; seasickness precaution is advisable.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [PADI Dive Site — El Bajo (Marisla)](https://www.padi.com/dive-site/mexico/el-bajo-marisla/), [Cantamar Tours — Hammerheads in La Paz](https://tours.clubcantamar.com/en/scuba-diving-with-hammerheads-in-la-paz-an-unforgettable-underwater-adventure/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/). Last updated 2026-05-17.*

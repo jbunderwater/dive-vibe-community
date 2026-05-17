@@ -3,8 +3,8 @@ name: Small Gubal
 lat: 27.6116033
 lng: 33.7954903
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 28
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## Small Gubal
 
-Small Gubal is a  dive site in Red Sea, Middle East.
+Small Gubal (Gubal Seghir) is a small uninhabited island in the Strait of Gubal whose surrounding reefs and walls offer varied diving — best known as the resting place of the 1887 wreck of the Ulysses on its northern face.
 
 ## Overview
 
-Small Gubal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The island sits approximately 49 km north of Hurghada in the Strait of Gubal, the channel connecting the northern Red Sea to the Gulf of Suez. The island's most notable dive attraction is the Ulysses wreck, an 1887 iron steamer lying on its port side on the northern reef face with the bow in 4–5 m and the stern at about 28 m.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Beyond the wreck, the island hosts several reef sites: Bluff Point on the western side presents a steep wall covered with soft and hard corals and overhangs; the shallower Gubal Garden reef is a colourful coral garden reaching only about 10 m in maximum depth and is suitable for snorkelling.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Colourful schools of anthias, reef fish, and moray eels throughout the site. The coral gardens support reef sharks, turtles, and barracuda on the outer walls. Currents in the strait can be strong and unpredictable — the enhanced nutrient flow supports a productive reef ecosystem with good soft coral growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Depths range from the surface down to 28 m on the wreck stern. Multiple dive sites around the island at different depth ranges suit various experience levels. The Ulysses wreck offers an accessible shallow section plus a deeper stern. Currents around the island can be challenging; Advanced divers will find the outer walls and full wreck most rewarding.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Primary dive attraction is the Ulysses wreck on the northern face
+- Bluff Point wall is a dedicated wall dive with overhangs
+- Suitable for a two-dive trip (wreck + reef garden)
+- Strong tidal currents possible — check with your guide before entry
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [egypt-liveaboard.com — Gubal Island](https://www.egypt-liveaboard.com/dive-sites/gubal-island/), [DiveSSSI — Bluff Point (Small Gubal Island)](https://www.divessi.com/en/mydiveguide/divesite/223562). Last updated 2026-05-17.*

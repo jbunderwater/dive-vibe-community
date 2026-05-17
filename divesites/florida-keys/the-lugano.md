@@ -26,38 +26,31 @@ The Lugano is a shallow wreck dive located on Long Reef south of The Mandalay in
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Wreck History
 
-The shallow wreck structure has become a productive artificial reef supporting dense populations of yellowtail snapper, sergeant majors, parrotfish, and French angelfish. Nurse sharks and green moray eels shelter beneath the encrusted hull plates, while spiny lobster tuck into every available crevice. Southern stingrays forage in the sandy patches surrounding the wreck, and green sea turtles are a common sight at this accessible depth.
+The Lugano was a 350-foot, 3,770-ton single-screw iron-hulled British cargo steamship built in England in 1882. On March 9, 1913, en route from Galveston to Hamburg with 116 passengers, Captain P. Penwill drove her aground on Long Reef in high winds and heavy seas, significantly off course. The tug Rescue evacuated all passengers safely to Key West. Salvage attempts continued until April 15, when efforts were abandoned and the steamer declared a total loss after further storm damage. Wreckers subsequently stripped the vessel down to the hull. The Lugano was the largest vessel ever to wreck in the Florida reefs up to that time, and is now one of six sites on Biscayne National Park's Maritime Heritage Trail — the only underwater archaeological trail in the National Park System.
 
 ## Dive Profile
 
-The Lugano wreck lies in shallow 20-30 feet of water with good visibility and visibility conditions. The wreck's visible outline makes it easy to navigate and explore. Divers can circumnavigate the wreck structure and examine the encrusted surfaces supporting diverse aquatic life. The shallow depth and clear profile make this an ideal site for recreational diving and photography.
+The Lugano's remains rest at roughly 25 feet on Long Reef in the eastern portion of Biscayne National Park. As of the early 20th century, a broken mast and stack were still visible above the seafloor; today the substantially deteriorated iron hull persists with structural plates and frames embedded on the reef. The shallow profile and large hull footprint make for an easy navigational dive along the wreck's perimeter, but the site is best suited to scuba (rather than snorkeling) given the depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Lugano is accessible only by boat through Biscayne National Park, which maintains the Maritime Heritage Trail mooring system at the site. Vessels tie off to the trail mooring; no anchoring on the reef is permitted.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The site is part of an interpretive underwater archaeological trail; the National Park Service has published a waterproof site guide for the Maritime Heritage Trail wrecks.
+- Combine with The Mandalay (also on Long Reef, a few hundred meters south) for a two-tank day from a single boat trip.
+- The Lugano is on National Park Service land — removal or disturbance of any artifact is a federal offense.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Exposed offshore site with intense sun on surface intervals; bring water and reef-safe sun protection.
+- Old iron wreck structure: jagged plates, frames, and corroded edges. Avoid contact and watch fin placement near collapsed sections.
+- Long Reef sits in open water with active boat traffic; deploy a dive flag and surface within sight of the dive vessel.
+- Fire coral and stinging hydroids are present on encrusted wreckage; maintain neutral buoyancy.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [NPS — Lugano (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/lugano.htm), [NPS Places — Lugano](https://www.nps.gov/places/lugano.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park), [Archaeology Channel — Dive Into History: SS Lugano](https://www.archaeologychannel.org/video-guide-summary/2473-dive-into-history-episode-four). Last updated 2026-05-17.*

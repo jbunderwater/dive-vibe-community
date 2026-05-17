@@ -26,36 +26,26 @@ Ripple Shoal is a reef in the Discovery Islands area north of Campbell River, po
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Discovery Passage's fast-flowing, oxygen-rich, nutrient-dense water sustains one of BC's most productive reef communities. Massive bunches of strawberry anemones cover rock surfaces, and giant Pacific octopus are common in rocky crevices. Red Irish lords and grunt sculpins sit camouflaged on the bottom, while lingcod and cabezon take up position on current-swept boulders. Puget Sound king crabs patrol the deeper sections. Wolf eels inhabit the larger fissures, and Steller's sea lions patrol the passage seasonally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shoal sits in the Discovery Passage current system, which generates some of the strongest tidal flows in the world — up to 15 knots at peak flow. Diving is strictly limited to the slack-water window, which may be as short as 15–20 minutes at spring tides. Depth on the shoal reaches around 18 metres, though the current influence and biology are the defining features rather than depth alone. Visibility, driven by constant upwelling of clear water, rarely drops below 9 metres and is excellent in spring, autumn, and winter.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from Campbell River or Quadra Island-based charters. The site requires a knowledgeable local captain who can read the precise slack window for this specific location — tidal predictions at nearby published reference points may not accurately reflect slack timing at the shoal itself.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Use local dive operators based in Campbell River who know Discovery Passage's tidal patterns intimately. Inflate and deploy a surface marker buoy early as boat traffic in the passage is active. If current picks up mid-dive, ascend immediately via a descent line — do not try to fight Discovery Passage current. This is one of BC's most current-intense environments and must be treated with respect.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This is a current-dependent dive requiring advanced dive skills and local knowledge. The same tidal dynamics that create the exceptional marine life make this potentially dangerous if dive timing is misjudged. A dry suit (8–10°C water) is essential. Carry redundant surface signalling — SMB and whistle at minimum. Dive with a live boat above.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Discovery Passage Diving — DIVER Magazine](https://divermag.com/diving-discovery-passage-bc/), [Campbell River & Quadra Island Dive Sites — Dive Campbell River](https://divecampbellriver.com/dive-sites), [Abyssal Diving Charters — Campbell River](https://www.abyssal.com/blog/campbell-river-scuba-diving), [Scuba Diving BC — bcadventure.com](http://www.bcadventure.com/adventure/scubadiving/dive.htm). Last updated 2026-05-17.*

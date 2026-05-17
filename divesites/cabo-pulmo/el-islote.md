@@ -18,7 +18,7 @@ El Islote is a seamount and rock island at the southern end of the park, rising 
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (southern end)
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
+- **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters

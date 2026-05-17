@@ -11,56 +11,37 @@ osmId: 663869231
 addedBy: osm_import
 ---
 
-## Le fer à cheval
+## Le Fer à Cheval
 
-Le fer à cheval is a reef dive site in French Polynesia, Pacific.
+Le Fer à Cheval ("The Horseshoe") is an exceptional and rare dive site in the south of Tahiti Iti (the smaller peninsula of Tahiti), located in the area between Teahupoo and Tautira. The site is a submerged lava tube — a large natural tunnel carved through volcanic rock — approximately 100 metres long and 20–30 metres wide, shaped like a horseshoe. It is organised monthly by specialist operators when conditions permit.
 
 ## Overview
 
-Le fer à cheval is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Le Fer à Cheval is one of French Polynesia's most distinctive dive experiences — an underwater traverse through a volcanic tunnel system rather than a conventional reef or wall dive. The tunnel's interior features chimneys, a prominent peak known as Oti Point, and near-constant crystal clarity. The site lies within Tahiti Iti's southern diving frontier, accessible via Tahiti Iti Diving, which also conducts scientific partnership dives; a March 2013 census with IRD (Institut de Recherche pour le Développement) studied Polynesian sponge populations inside the cave system.
+
+## Marine Life
+
+The tunnel walls and ceiling are colonised by sponges in significant variety, studied in scientific census work. Prawns, lanternfish, and invertebrates adapted to low-light environments inhabit the tunnel's interior. On the ocean-facing exit of the tunnel, whitetip reef sharks have been recorded resting on the sand, and heteroconger (garden) eels and pipefish have been observed in the channel. The 200-metre route through the tunnel system yields diverse encrusting life throughout.
+
+## Dive Profile
+
+The lava tube runs approximately 100 metres in length and 20–30 metres in width. Depth inside the tunnel reaches up to 25 metres. The site is organised monthly by Tahiti Iti Diving and requires appropriate conditions for safe passage — it is not always accessible. Divers traverse the horseshoe-shaped tunnel and emerge on the ocean side. A specialty or cave diving background, or at minimum an Intermediate open-water certification with strong buoyancy control, is recommended.
+
+## Safety Considerations
+
+This is an overhead environment requiring proper buoyancy, torch, and dive experience appropriate for confined spaces. The site is operated only in suitable conditions by Tahiti Iti Diving. Divers should not attempt this site without local guide accompaniment.
 
 ## Site Information
 
-- **Location**: French Polynesia, Pacific
+- **Location**: Tahiti Iti (Taiarapu Est), Tahiti, French Polynesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Tahiti Iti Diving – Scuba Diving](https://tahitiitidiving.com/portfolio-item/scuba-diving/?lang=en), [Tahiti Tourisme – Tahiti Iti Diving](https://tahititourisme.pf/experiences/le-plein-activites/tahiti-iti-diving-taiarapu-est-fr-5003854/). Last updated 2026-05-17.*

@@ -19,7 +19,7 @@ Named for a whale-shaped rock formation visible above the surface. A sandy botto
 
 - **Location**: Start of the Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters

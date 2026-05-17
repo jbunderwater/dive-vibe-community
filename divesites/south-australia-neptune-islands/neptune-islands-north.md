@@ -26,10 +26,7 @@ Neptune Islands North is a surface cage diving site in the Neptune Islands Group
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Depth**: 2 meters (cage floats at surface)
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Generally mild in sheltered bay
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
-- **Best Time**: May-October for peak great white activity; year-round diving possible
 
 ## Marine Life
 
@@ -55,10 +52,6 @@ No diving required. Divers and non-divers enter the cage via the boat's cage pla
 ## Safety Considerations
 
 Great white sharks are naturally cautious; cage diving prioritizes observer safety with secure cage construction and professional guide supervision. Respect all operator safety briefings and stay within designated cage areas. Surface cage diving has minimal decompression risks compared to submerged diving. Always verify operator licensing and safety records before booking.
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

@@ -19,7 +19,7 @@ A mysterious shipwreck of unknown origin split into three large sections resting
 
 - **Location**: Near San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-20 meters

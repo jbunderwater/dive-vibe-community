@@ -2,10 +2,10 @@
 name: Marsa Abu Dabbab North
 lat: 25.3420674
 lng: 34.741559
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 10
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,41 @@ addedBy: osm_import
 
 ## Marsa Abu Dabbab North
 
-Marsa Abu Dabbab North is a  dive site in Red Sea, Middle East.
+Marsa Abu Dabbab is one of the most celebrated dive and snorkel sites in the Egyptian Red Sea, located approximately 30 km north of Marsa Alam. The northern section of the bay contains the primary seagrass meadow that serves as the main feeding ground for the bay's resident megafauna, most notably dugongs and green sea turtles.
 
 ## Overview
 
-Marsa Abu Dabbab North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Abu Dabbab Bay hosts resident dugongs — locally reported as two individuals known to local dive guides, ranking among only seven known dugongs along the entire Egyptian Red Sea coast. The bay also supports over 100 resident sea turtles according to the Red Sea Project organisation, making turtle encounters near-certain. The shallow, calm conditions make this site accessible to all levels including first-time divers and snorkellers.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Resident dugongs (Dugong dugon) feeding on seagrass meadows
+- Green sea turtles (Chelonia mydas) and hawksbill turtles (Eretmochelys imbricata)
+- Bowmouth guitarfish (guitar sharks) resting on sandy bottom
+- Ornate ghost pipefish and thorny seahorses among seagrass fronds
+- Reef fish communities along the bay's coral margins
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry is directly from the beach into shallow, calm water. The central bay is a vast seagrass meadow averaging 0–10 m depth with minimal current. Visibility is typically 10–20 m but can be reduced by fine sand suspension. The northern bay margins offer slightly more coral structure.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Visit on a weekday morning for smaller crowds — this is one of the most popular sites in Marsa Alam
+- Dugong presence is not guaranteed; they range widely across the bay
+- No aggressive approach to wildlife; maintain a respectful distance from dugongs and turtles
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent for wide-angle and behavioural shots of dugongs and turtles. Shallow bright conditions suit natural-light photography. Best early morning before boat traffic increases sediment.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: ~30 km north of Marsa Alam, Egyptian Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Muck dive
+- **Maximum Depth**: 10 meters
+- **Difficulty**: Beginner — suitable for all levels
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divezone – Abu Dabbab](https://divezone.net/divesite/abu-dabbab), [Girls That Scuba – Marsa Alam](https://www.girlsthatscuba.com/scuba-diving-marsa-alam-abu-dabbab/), [Sambo Divers – Abu Dabbab Bay](https://sambodivers.com/abu-dabbab-bay/). Last updated 2026-05-17.*

@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Siyul
 
-Siyul is a  dive site in Red Sea, Middle East.
+Siyul (also called Suyul Island) is an island reef within Wadi El Gemal National Park in the southern Red Sea, near Hamata. It is distinct from Siyul Kebira in the north Hurghada area — the Siyul islands in this area are part of the Qulaan Archipelago and form one of the outstanding dive and snorkel destinations within the national park.
 
 ## Overview
 
-Siyul is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Siyul Island is a protected area within Wadi El Gemal National Park. The island is known locally as the "Island of the Birds," having been colonised by eight nesting bird species. Underwater, the site features colossal table corals teeming with marine life, reef drop-offs close to the surface, and sandy shallows between the island and surrounding reef structures. The reef profile includes steep drop-offs on one side and shallow sandy beds on the other, accessible only at higher tides.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports finger corals, tabular corals, and fire corals. Common reef fish include bluespotted ribbontail rays, regal angelfish, Red Sea clownfish, threadfin butterflyfish, Red Sea bannerfish, and sea goldies. The shallow areas are rich in reef fish diversity. The surrounding Wadi El Gemal National Park area is known for turtles and occasional dugongs in seagrass areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth approximately 10 m at reef structures; sandy bottoms at 15–25 m. The steep reef drop-off surfaces at 1–3 feet below the surface, making it excellent for snorkelling and shallow reef dives. Access is by boat tour from Hamata or nearby operators within the national park.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Qulaan Archipelago, Wadi El Gemal National Park, Hamata area, southern Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Snorkeling Report – Suyul Island](https://www.snorkeling-report.com/spot/snorkeling-suyul-island-hamata/), [Abu Ghosoun – Wadi El Gemal National Park](https://www.abughosoun.org/wgnp/). Last updated 2026-05-17.*

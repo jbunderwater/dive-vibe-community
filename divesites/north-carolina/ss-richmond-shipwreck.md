@@ -26,38 +26,30 @@ The SS Richmond was formerly the Confederate blockade runner Blenheim — a Brit
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The very shallow, sound-side setting hosts an inshore community of sheepshead and black sea bass picking invertebrates from the encrusted iron machinery, alongside Atlantic spadefish and occasional triggerfish. Blue crabs and fiddler crabs are abundant around the exposed paddle wheel and engine components, and mullet school through the area in season. The calm, clear-bottomed shallows also make this a good spot to observe loggerhead sea turtles moving through Pamlico Sound in summer.
+The very shallow inshore setting hosts sheepshead and black sea bass picking invertebrates from the exposed iron machinery. The steeple engine and paddle wheel shaft emerging from the water are the most distinctive visible features. Blue crabs are abundant in the inshore sound environment.
+
+## Wreck History
+
+The wreck long thought to be the USS Pocahontas was confirmed to be the SS Richmond — formerly the British blockade runner Blenheim — through identification of a steeple steam engine, a distinctive British design found on no other vessel known to have grounded in northern North Carolina. Two independent sources confirm this identification: the presence of the steeple engine is a documented identifier, and historical records confirm the Richmond (ex-Blenheim) ran aground at Salvo in January 1866.
+
+The Blenheim was built in Glasgow, Scotland (circa 1848) and ran the Union blockade into Wilmington during the Civil War, reportedly making four successful runs before Fort Fisher fell in January 1865. Captured and renamed Richmond, she was pressed into commercial service and ran aground near Salvo, Hatteras Island on 25 January 1866 after a faulty compass sent her off course.
+
+The wreck is accessible by driving north on the beach from Ramp 23 near Salvo until the paddle wheel shaft is visible emerging from the water. The steeple engine and a section of paddle wheel are visible in 3–5 m of water.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a very shallow shore dive, 3–5 m depth, in the protected sound-side environment near Salvo. The exposed machinery — steeple engine and paddle wheel shaft — are visible from the surface in calm conditions. The site requires minimal dive experience given the depth.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Shore access via Ramp 23 near Salvo on Hatteras Island; drive north on the beach until the paddle wheel shaft is visible emerging from the water. Protected sound-side location generally offers calmer conditions than the ocean side. A 4WD vehicle with a Cape Hatteras National Seashore beach access permit is required.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The very shallow depth (3–5 m) and protected sound-side location make this one of the most accessible dives on the Outer Banks. Boat traffic in the sound requires a dive flag. Check beach driving conditions before visiting — soft sand sections require 4WD and appropriate tire pressure reduction.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Sources: [OBX4Sale — Shipwreck Secrets of Salvo: The True Story of the SS Richmond](https://obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond/), [Civil War Traveler — Shipwrecks off North Carolina: SS Richmond](https://civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental/), [Dive Hatteras — Cape Hatteras Beach Wrecks](https://www.divehatteras.com/beach%20wrecks.html). Last updated 2026-05-17.*

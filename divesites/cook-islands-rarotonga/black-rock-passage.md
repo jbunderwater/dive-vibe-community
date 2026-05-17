@@ -25,7 +25,7 @@ The site shares the same marine life community and conditions as Black Rock Chim
 
 - **Location**: Off Black Rock (Tuoro), west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Volcanic reef (ridges and gullies)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 40+ meters

@@ -17,7 +17,7 @@ U-869 (Wrack) is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-U-869 is one of the most historically significant and harrowing wreck dives in the world — a German Type IXC/40 U-boat lying at 73 meters, about 60 miles off the New Jersey coast, whose true identity was unknown for decades and was only confirmed by scuba divers in 1991 after a painstaking investigation that became the book Shadow Divers. The submarine lies upright and largely intact with her conning tower, deck gun, and torpedo tubes still visible, entombed in cold dark water with the remains of her 56 crew still inside. The extreme depth demands trimix, and decompression obligations of well over an hour make this an exclusively technical dive — but for those qualified, the U-869 carries an emotional weight unlike almost any other dive site on earth.
+U-869 is one of the most historically significant wreck dives in the world — a German Type IXC/40 U-boat lying at approximately 70 meters (230 feet), about 60 miles off the New Jersey coast, whose true identity was unknown for decades and was only confirmed through a painstaking six-year investigation by sport divers that became the basis for Robert Kurson's 2004 book *Shadow Divers*. The submarine lies largely intact with her conning tower, deck structure, and torpedo tubes still present, and the remains of her crew are still aboard. The extreme depth demands trimix, redundant systems, and substantial decompression planning, making this an exclusively technical dive.
 
 ## Site Information
 
@@ -26,38 +26,34 @@ U-869 is one of the most historically significant and harrowing wreck dives in t
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 73 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+U-869 was a Type IXC/40 submarine built by Deutsche Schiff- und Maschinenbau AG Weser (Deschimag) in Bremen, with her keel laid on April 5, 1943 and commissioned on January 26, 1944. She displaced 1,144 tonnes surfaced and measured 76.76 meters in length, carrying a crew of 56 men.
+
+The wreck was discovered on September 2, 1991, by Captain Bill Nagle and diver John Chatterton aboard the charter boat *Seeker*, approximately 60 miles off the New Jersey coast at 39°34′N 73°02′W, in roughly 70 meters of water. Initially nicknamed "U-Who" because her identity was completely unknown, the divers spent six years of return dives recovering artifacts to identify her.
+
+Five key artifacts ultimately confirmed the identity: (1) crockery bowls dated 1942 with an eagle/swastika mark from the officers' quarters; (2) a dinner knife with "Horenburg" hand-carved in the handle, matching a single name on the German U-boat casualty list — Funkmeister Martin Horenburg, lost on U-869; (3) a schematic drawing on aluminum sheet identifying "Type IX C" and "Deschimag Bremen"; (4) an escape lung cylinder with a hydrostatic test date of April 15, 1944; and (5) a wooden box with a plastic tag marked "U-869." The identity was officially confirmed on August 31, 1997.
+
+The cause of U-869's sinking remains debated. The official German naval record listed her as sunk off Gibraltar on February 28, 1945, by USS *Fowler* and the French submarine chaser *L'Indiscret*. Chatterton and co-diver Richie Kohler concluded that U-869 was sunk by her own malfunctioning torpedo redirecting back on its circular run on February 11, 1945. Researcher Gary Gentile disputes this, citing attack logs and eyewitness accounts from USS *Howard D. Crow* and USS *Koiner* suggesting the boat was destroyed by hedgehog and depth charges from those vessels. Both theories are documented in independent sources.
+
+Three divers died during the years of investigation dives, as documented in Kurson's *Shadow Divers* and confirmed by the Wikipedia entry for *The Last Dive*, a related book.
 
 ## Marine Life
 
-At 73 meters the U-869 hosts cold-water Atlantic species adapted to the dark and depth, including ocean pout, monkfish, and sea ravens resting on the sandy bottom around the hull. Large codfish and pollock school in the thermoclines above the wreck, and blue sharks are frequently encountered during the long decompression ascents. Starfish, sea urchins, and encrusting anemones coat the steel surfaces of the conning tower and pressure hull.
+X-Ray Magazine notes the wreck is largely in one piece though its plating is falling off, creating complex structure at depth. At 70+ meters, the site hosts cold-water Atlantic species in darkness and cold. The wreck's condition and depth mean marine life observations are secondary to the demanding dive; most published accounts focus on the technical challenges rather than specific species at this extreme depth.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 73 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The bottom lies at approximately 70–73 meters (230–240 feet). This is a trimix decompression dive with total in-water time of several hours for a modest bottom time. Visibility is described by X-Ray Magazine as generally excellent in the blue offshore water. Water temperatures at depth run near 5°C (40°F) year-round. Decompression obligations are substantial — typically well over an hour of staged stops.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+All access is by technical charter boat departing from the New Jersey shore, most commonly Brielle, New Jersey. John Chatterton's final report on the identification notes: "Divers meet where their story began: on a dock in the small town of Brielle." Charters are timed to favorable sea state and current. The 60-mile offshore run makes these full-day or overnight operations. Only divers with documented trimix and technical wreck experience should book these trips.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+U-869 is among the most dangerous recreational dive sites in the northeastern United States. Depth (70+ m) creates narcosis and oxygen toxicity risk; trimix is essential. Decompression obligations at this depth are extensive — an unplanned ascent is life-threatening. The wreck's falling plating and cables create entanglement hazards documented by X-Ray Magazine. Three divers died during investigation dives in the 1990s. Human remains are present inside the submarine — this is an active war grave and should be treated with corresponding respect. No artifact removal is legal or ethical.
 
 ---
-*Sources: njscuba.net/u-869, Wikipedia, Shadow Divers book. Last updated 2026-03-16.*
+*Sources: [German Submarine U-869 — Wikipedia](https://en.wikipedia.org/wiki/German_submarine_U-869), [Shadow Divers — Wikipedia](https://en.wikipedia.org/wiki/Shadow_Divers), [Final Report on U-869 — John Chatterton](https://johnchatterton.com/final-report-on-u869/), [The Men of U-869](https://www.u869.com/), [Shipwrecks of War NY-NJ — X-Ray Magazine](https://xray-mag.com/content/shipwrecks-war-new-york-new-jersey). Last updated 2026-05-17.*

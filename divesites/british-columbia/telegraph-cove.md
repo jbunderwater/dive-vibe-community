@@ -26,36 +26,31 @@ Telegraph Cove is a calm, shore-accessible muck dive in the Cadboro Bay area of 
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The shallow sediment-and-eelgrass bottom of Telegraph Bay (the Cadboro Bay-area site at coordinates 48.46, -123.27) hosts crabs, gunnels, urchins, shrimp, sea stars, and rockfish among the kelp beds. Nudibranchs are found on encrusting growth. Giant Pacific octopus are occasionally encountered in rocky patches at the edge of the bay. Sea lions have been sighted but are not reliably present. Bull kelp provides habitat in the shallower sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site is shallow throughout, reaching a maximum of approximately 10–11 metres (35 feet). The bottom is largely flat sand and silt with eelgrass beds near shore giving way to scattered rubble further out. A light current develops about 75 metres from shore. The site is beginner-friendly in the inner bay; more experienced divers may find it limited.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Shore entry from Telegraph Bay Road in the Cadboro Bay district of Victoria, near the intersection of Tudor and Arbutus. Wade in several metres before achieving full depth. Entry is easy with minimal surge. Parking is relatively uncrowded.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Light current can develop about 75 metres from shore; stay in the inner bay if conditions deteriorate.
+- Cold water (8–12°C); drysuit recommended.
+- Kelp beds can be an entanglement hazard in summer; carry a dive knife.
+- Suitable for training dives and beginners when conditions are calm.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Best visited in colder months (November–February) when kelp dies back and visibility typically improves.
+- Macro photography is the site's strength: look for nudibranchs, small fish, and invertebrates in the eelgrass.
+- The nearby Spring Bay and Ten Mile Point offer more advanced diving on the same day.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Telegraph Bay — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Telegraph/index.htm), [Victoria BC Dive Sites — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria). Last updated 2026-05-17.*

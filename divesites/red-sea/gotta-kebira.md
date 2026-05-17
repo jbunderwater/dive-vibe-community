@@ -2,10 +2,10 @@
 name: Gotta Kebira
 lat: 23.4100333
 lng: 35.9306833
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 40
+entryType: boat
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,38 @@ addedBy: osm_import
 
 ## Gotta Kebira
 
-Gotta Kebira is a  dive site in Red Sea, Middle East.
+Gotta Kebira (Gota Kebir — "the big gota") is the largest reef in the St. John's reef system, located in the extreme southern Red Sea in Foul Bay, south of the Ras Banas peninsula. The reef stretches approximately 840 metres long by 400 metres wide, making it one of the largest individual dive sites in the southern Egyptian Red Sea. It is accessible primarily by liveaboard.
 
 ## Overview
 
-Gotta Kebira is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Gotta Kebira presents sheer coral walls that plunge from just below the surface to well beyond 40 metres on all sides. The reef's size means diver groups spread out across its various sections, providing a relatively uncrowded experience at each face. Strong winds affecting nearby sites often leave Gotta Kebira well-sheltered, making it a reliable alternative in poor conditions. Its northern tip, where currents split, is the most productive zone for big-fish encounters.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Whitetip and grey reef sharks on the northern plateaus
+- Pelagic sharks including hammerheads and oceanic whitetips at the northern tip
+- Large schools of snappers patrolling the walls
+- Hunting jacks working along the reef edges
+- Swim-throughs and hidden cave entrances on the eastern face harbouring reef fish
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive only; liveaboard access. The reef is circumnavigated in sections — one dive per face is typical. Wall drops from surface to 20–40+ metres, with a ledge around 25–30 m on the southern side. The northern tip offers the best shark action but requires monitoring of splitting currents. Not suitable for beginners due to depth and current. Night diving is not advised.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Northern tip is the highlight: position yourself to drift with the split current
+- Eastern side has small cave entrances worth investigating shallowly
+- Multiple dives needed to fully explore — plan to cover different faces
+- Strong conditions at other nearby sites often mean calmer conditions here
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: St. John's reef system, southern Egyptian Red Sea (Foul Bay)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Maximum Depth**: 40 meters
+- **Difficulty**: Advanced
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [redsea-diving.com – Gota Kebira](https://www.redsea-diving.com/gota-kebira/), [St. John's Diving – Dive The World](https://www.dive-the-world.com/diving-sites-egypt-st-johns.php). Last updated 2026-05-17.*

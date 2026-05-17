@@ -22,8 +22,8 @@ Caban Cove is a drift dive site on the western side of Caban Island in the Anila
 ## Site Information
 
 - **Location**: West side of Caban Island, Anilao, Batangas, Philippines
-- **Entry Type**: Boat dive (drift dive)
-- **Site Type**: Drift dive (steeply sloping reef)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters

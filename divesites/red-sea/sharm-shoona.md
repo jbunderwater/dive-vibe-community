@@ -13,53 +13,23 @@ addedBy: osm_import
 
 ## Sharm Shoona
 
-Sharm Shoona is a  dive site in Red Sea, Middle East.
+Sharm Shoona is a bay reef dive site on the Egyptian Red Sea coast between Port Ghalib and El Quseir (lat 25.40, lng 34.70 — note: coordinates are close to Marsa Murena). The site is listed among dive destinations in the Marsa Alam area by local dive operators. A comparable site called "Marsa Shouna" appears in Red Sea Diving's Marsa Alam listings.
 
 ## Overview
 
-Sharm Shoona is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Bay sites in the Port Ghalib to El Quseir coastal corridor typically feature sandy-bottomed bays with coral garden margins and walls accessible from shore. The central Red Sea coast at this latitude benefits from protected bay conditions and diverse reef communities. "Shaab Shona" (Reef of Shona) is separately listed as a dive site in the Marsa Alam OSM data, suggesting this name family refers to multiple similar bay/reef sites in the region. No detailed site-specific documentation for "Sharm Shoona" at these coordinates was found in English-language dive sources.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: El Quseir / Port Ghalib area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific dive sources were located in English-language dive databases. Last updated 2026-05-17.*

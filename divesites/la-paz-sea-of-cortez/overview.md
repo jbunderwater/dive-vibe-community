@@ -8,34 +8,36 @@ Jacques Cousteau's 'World's Aquarium' with sea lions, whale sharks, and diverse 
 
 ## Description
 
-La Paz & Sea of Cortez is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+The Sea of Cortez (Gulf of California) lies between the Baja California peninsula and the Mexican mainland, and was famously described by Jacques Cousteau as "the world's aquarium" for its concentration of marine life. La Paz, on Baja's southeast coast, is the main hub for diving the southern Gulf. The region's most distinctive encounters are with the Los Islotes California sea lion colony, seasonal whale sharks in La Paz Bay, schools of mobula rays, and large schools of jacks and snappers around the islands of Espíritu Santo and Cerralvo.
 
 ### Diving Opportunities
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Sea Lion Colony**: Los Islotes — a rookery off the northern tip of Espíritu Santo where California sea lions reliably interact with divers outside the closure season.
+- **Whale Sharks**: Seasonal (typically October–April) snorkeling encounters with juvenile whale sharks aggregating in La Paz Bay.
+- **Boat Diving**: All sites are reached by panga or larger dive boat from La Paz harbour.
+- **Wreck Diving**: A handful of wrecks including the Salvatierra ferry, accessible to recreational divers.
 
 ### Accessibility
 
-- **Getting There**: La Paz & Sea of Cortez is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: La Paz International (LAP) and San José del Cabo (SJD) — many divers fly into SJD and transfer to La Paz by road (~2 hours).
+- **Dive Operators**: Several established operators run daily trips from La Paz, with most sites a 30–90 minute boat ride out.
+- **Accommodation**: Range of hotels and dive lodges in La Paz.
 
-### Marine Life & Environment
+### Conditions
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Type**: Subtropical/tropical Pacific (Gulf of California) saltwater.
+- **Temperature and visibility**: Vary strongly by season — summer/early fall is warmer with better visibility; winter is cooler. Confirm conditions with the chosen operator before booking.
+- **Currents**: Variable; some sites around islands and seamounts have strong currents at tide changes.
+
+### Conservation
+
+Espíritu Santo and surrounding islands are a UNESCO-listed biosphere reserve and Mexican national park. The Los Islotes sea lion colony has a seasonal closure (typically June–August) to protect breeding animals; operators observe this and other park regulations.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
 - **Currency**: Mexican Peso (MXN)
 - **Language**: Spanish
-- **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Crossings to the islands can be choppy; seasickness is the most common discomfort. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-05-17.*

@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## Sandy Island 1
 
-Sandy Island 1 is a  dive site in Red Sea, Middle East.
+Sandy Island 1 is a reef dive site near the Fury Shoals in Egypt's far southern Red Sea, at approximately 24.0°N, 35.78°E, in the Hamata / Wadi el-Gemal National Park area.
 
 ## Overview
 
-Sandy Island 1 is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates of Sandy Island 1 (24.99°N, 35.78°E) place it in the Fury Shoals / Hamata area, the deep southern Red Sea reef chain roughly halfway between Marsa Alam and Hamata. The Fury Shoals comprise approximately 20 individual reefs running 30 km in a northwest-southeast direction, accessed only by liveaboard or day boat from Hamata. These reefs are among the least-visited in Egypt, protected within Wadi el-Gemal National Park, and noted for pristine coral coverage.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Sandy Island itself is described as a small (~500 m across) oval-shaped barren sand island with steep walls exposed to strong currents and a short reef plateau — the plateau serves as a convenient decompression/safety-stop area. The eastern point of the island (Rocky Island, nearby) is known for intense schooling action and drift diving.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: Wall dives from surface to 30+ m; plateau at 5–15 m
+- **Current**: Can be strong; experienced divers recommended
+- **Entry**: Boat/liveaboard only
+- **Visibility**: Typically 20–30 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Schools of snappers and surgeonfish are common. Grey reef sharks, barracuda, and eagle rays are regularly seen on the outer walls. The undisturbed reef structure supports dense hard and soft coral growth, including large gorgonians.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Dive the World — Southern Red Sea Diving](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php), [ZuBlu — St. John's, Rocky Island & Zabargad](https://www.zubludiving.com/destination/red-sea/egypt-red-sea/st-johns-rocky-island-zabargad), [No Troubles Just Bubbles — Zabargad](https://www.notroublesjustbubbles.com/diving-destinations/egypt/zabargad-island). Last updated 2026-05-17.*

@@ -24,10 +24,10 @@ The wall starts at approximately 3 meters and drops to around 20 meters, decorat
 ## Site Information
 
 - **Location**: Off Alona Beach, Panglao Island, Bohol, Philippines
-- **Entry Type**: Boat or shore dive
-- **Site Type**: Vertical wall
-- **Difficulty Level**: Beginner to Intermediate
-- **Maximum Depth**: 20 meters (wall base)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: Up to 25 meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Normally calm, without currents

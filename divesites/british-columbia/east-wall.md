@@ -26,38 +26,26 @@ East Wall is one of the wall sections at Madrona Point in Nanoose Bay on central
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Madrona Point's walls — including East Wall — host giant Pacific octopus in rocky crevices and wolf eels in mated pairs tucked into the deeper recesses. Lingcod of various sizes perch along ledges scanning for prey. Multiple rockfish species occupy different depth bands along the wall face. Nudibranchs in diverse forms are distributed across sponge-covered rock surfaces throughout the dive. Cabezon are present in the rockier zones. Pacific spiny dogfish are regularly sighted in summer. Steller sea lions and California sea lions from a nearby log dump periodically approach divers, particularly in fall and winter. Orange and white plumose anemones (Metridium farcimen) cover the overhangs, and boot sponges proliferate lower on the wall face.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+East Wall is one of the outer wall options at Madrona Point in Nanoose Bay, dropping to approximately 30 meters (roughly 100 feet) along a rocky face with cracks, crevices, and boulders at its base. This is among the more advanced of the dive plans available at the site. A compass heading and surface swim or boat drop-off positions divers on the wall top. The wall extends laterally and divers can traverse it before ascending the shallower rock formations that lead back toward shore. Visibility is typically 9–15 meters and is best in winter; spring and early summer plankton blooms can reduce it to 3 meters near the surface though it improves at depth.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore dive accessed from Madrona Drive in Nanoose Bay, approximately 1.5 hours north of Nanaimo via Island Highway 19. A compass bearing from the beach directs divers to the wall, or a charter boat drops divers directly onto the wall face. Parking accommodates 2–3 vehicles at the road end plus additional street parking. No facilities on-site.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Steel tanks (100+ cf) and 32–36% Nitrox are recommended for managing bottom time at depth. Winter offers the best visibility. Set a compass bearing before descending — the Maze rock formations are encountered en route to East Wall, and they make navigation interesting. Sea lions may approach aggressively during fall; remain calm and give them space. Descend early in the dive while air is full to maximize time on the deeper section.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Water temperature is 8–12°C year-round; drysuit required. No significant tidal current at Madrona Point — this is a mild, sheltered site by BC standards. Depth to 30 m requires proper dive planning for no-decompression limits, especially if Nitrox is not used. Surface return via kelp-clear route is important in the shallow zone.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC — Madrona Point](https://www.scubabc.ca/madrona-point-nanoose/), [Parksville Qualicum Tourism — Madrona Point](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/). Last updated 2026-05-17.*

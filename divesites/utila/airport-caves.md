@@ -13,54 +13,37 @@ addedBy: osm_import
 
 ## Airport Caves
 
-Airport Caves is a cave dive site in Utila, Caribbean.
+Airport Caves is a cavern and swim-through dive site on the south side of Utila, accessible to beginners and well-regarded for its distinctive U-shaped cave structure and the play of natural light through multiple openings.
 
 ## Overview
 
-Airport Caves is a dive site in Utila featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Airport Caves features a beautiful U-shaped open cavern system with multiple entrances that allow sunlight to stream in from several directions, illuminating the interior in shifting beams. The site is not a true overhead-environment cave dive — all penetrations remain within the cavern zone with natural light visible — making it suitable for divers of all certification levels including Open Water. The wall outside the caves drops to around 40 ft (12 m) before giving way to a sandy floor sloping to 70 ft (21 m). The cave entry itself sits at approximately 15 ft (4.5 m).
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cavern structure shelters a variety of small creatures. Documented species include seahorses, toadfish, southern stingrays, and spotted eagle rays in the surrounding area. Hundreds of glassy sweepers (silversides) gather inside the caves, creating dense schools that part as divers enter. The sandy floor outside supports benthic species, and the walls host sponges and encrusting corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Cave entrance depth**: ~15 ft (4.5 m)
+- **Wall base**: ~40 ft (12 m)
+- **Sand channel maximum**: ~70 ft (21 m)
+- **Site character**: Cavern with ambient light throughout — not a dark cave penetration
+- **Current**: Generally mild on the south side
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. The south side location means calm conditions for most of the year, making this a reliable all-weather alternative when north side sites are wind-affected.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- No specialist cave training required — the cavern stays well-lit throughout.
+- A torch or video light enhances visibility of small critters in overhangs and crevices.
+- The site pairs well with a second dive on the nearby reef or wreck sites.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+An excellent macro site — toadfish and seahorses in the sand, silversides schooling in the cave mouth with light shafts overhead. Wide-angle divers can shoot the cave silhouette backlit by openings.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*

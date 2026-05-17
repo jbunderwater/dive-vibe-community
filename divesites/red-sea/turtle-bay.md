@@ -3,63 +3,47 @@ name: Turtle Bay
 lat: 27.2695408
 lng: 33.8937718
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 26
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Turtle Bay
+## Turtle Bay — Sharm El Sheikh
 
-Turtle Bay is a  dive site in Red Sea, Middle East.
+Turtle Bay is a sheltered reef dive site in the Sharm El Sheikh area, located south of Naama Bay. It is a drift dive suitable for divers of all experience levels, known for sandy plateau diving with large coral pinnacle formations colonised by glass fish, and regular encounters with sea turtles and stingrays.
 
 ## Overview
 
-Turtle Bay is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site features a sandy plateau at 10–26 metres depth, scattered with large coral pinnacles. The pinnacles are densely packed with glass fish (cardinalfish and glassfish schools), creating shimmering curtains of small fish around each coral formation. Larger species including stingrays rest on the sandy bottom between pinnacles, and sea turtles are regularly found grazing on soft corals along the plateau.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Turtle Bay is a drift dive requiring a current check before entry to establish the best starting point. When conditions are right, divers are carried gently along the reef, passing from pinnacle to pinnacle with minimal effort. The site is pleasant for beginners due to its shallow depth and low current, yet engaging enough for experienced divers who come to photograph marine life.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 10–26 m
+- **Dive style**: Drift dive over sandy plateau with pinnacles
+- **Currents**: Check before entry; generally mild
+- **Visibility**: 15–25 m
+- **Entry**: Boat dive
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sea turtles (frequent — grazing on soft corals), large stingrays (resting on sand), glass fish (schooling around pinnacles), anthias, chromis, fusiliers, wrasse, groupers, and moray eels in crevices. The sandy bottom supports gobies and the occasional cephalopod.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of shallow depth, good ambient light, and approachable marine life makes Turtle Bay a photogenic site. Turtles and stingrays are the main subjects. Glass fish clouds around pinnacles create striking wide-angle images when backlit by ambient light.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: South of Naama Bay, Sharm El Sheikh area, Gulf of Aqaba
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 26 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Camel Dive Club — Turtle Bay](https://www.cameldive.com/dive-sites/turtle-bay/), [SSI Dive Guide — Turtle Bay](https://www.divessi.com/en/mydiveguide/divesite/turtle-bay-turft-el-shahed-gordon-reef-ras-ghozlani-sheik-coast-diving-center-sharm-sheikh-beach-egypt-10839), [Divers Guide — Turtle Bay Sharm El Sheikh](https://www.divers-guide.com/en/turtle-bay-sharm-el-sheikh). Last updated 2026-05-17.*

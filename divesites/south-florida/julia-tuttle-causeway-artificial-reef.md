@@ -26,38 +26,22 @@ Artificial reef built in April 2019 for Miami-Dade County, consisting of 727 ton
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Site Structure
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Julia Tuttle Artificial Reef Site is a multi-deployment habitat complex rather than a single feature. The April 2019 deployment placed approximately 727 tons of limestone boulders directly on top of the previously deployed Larson Barge, creating a layered hard structure with roughly 17 feet of vertical relief in 32 feet of water. A December 2019 deployment added about 45 tons of demolished concrete slabs and pilings intermixed with the boulders. Subsequent deployments at the broader site include the Dinner Key Pier material (February 2020), the FDOT SW 1st Bridge pilings (February 2020), and additional concrete dock material in 2022 and 2023. Boulder and concrete configurations were specified by Miami-Dade DERM biologists to maximize reef-building habitat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Recreational depth on the boulder/barge structure is approximately 23–32 feet, well within no-decompression limits for beginners. The structure provides hard substrate for the reef-building organisms — barnacles, sponges, corals, and clams — that progressively colonize this kind of habitat. Because the site is relatively new and primarily intended as a fisheries-enhancement reef, descriptions in the dive operator community are limited compared with the established offshore reef tract.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat dive only. The site is located in the Atlantic offshore of the Julia Tuttle Causeway corridor; coordinates for the 2019 boulder deployment are 25° 48.899' N, 80° 10.269' W. Surface conditions and approach should be coordinated with a Miami-area dive charter familiar with the artificial reef program coordinates.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The site lies in a busy nearshore Miami corridor with substantial recreational and commercial boat traffic — a diver-down flag is required by Florida law and an SMB on ascent is strongly recommended. Currents along this stretch of coast generally run parallel to shore and can be stronger than expected near the bottom; check conditions with the operator. The artificial structure includes rebar, concrete edges, and stacked boulders with pinch points — maintain buoyancy and avoid penetration of any voids. Standard Florida sun and hydration precautions apply topside.
 
 ---
-*Sources: [South Florida Diving Headquarters](https://www.southfloridadiving.com/all-south-florida-dive-sites/), [Scuba Diving Magazine - South Florida](https://www.scubadiving.com/where-to-scuba-dive-in-south-florida), [Barnacle King Dive Spots](https://barnacleking.com/blog/best-scuba-diving-locations-throughout-south-florida/), [Sea Hunt Scuba Florida Sites](https://seahuntscuba.com/florida-dive-sites/), [PADI Diving in Florida](https://www.padi.com/diving-in/florida/). Last updated 2026-04-04.*
+*Sources: [Miami-Dade County - Artificial Reef Deployments](https://www.miamidade.gov/environment/reefs-artificial-locations.asp), [Industrial Divers Corp - Environmental Artificial Reef](https://industrialdivers.com/services/environmental/artificialreef.html), [Miami-Dade Reef and Buoy Finder](https://gisweb.miamidade.gov/artificialreefs/), [Florida DEP - Biscayne Bay Aquatic Preserves Resources](https://floridadep.gov/rcp/aquatic-preserve/content/resources-biscayne-bay-aquatic-preserves). Last updated 2026-05-17.*

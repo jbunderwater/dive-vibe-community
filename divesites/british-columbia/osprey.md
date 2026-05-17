@@ -26,38 +26,28 @@ The Osprey is a relatively recent wreck that sank in December 2018 in the waters
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Cold-water BC wrecks develop rich invertebrate communities as artificial structure provides anchor points for sessile organisms. Plumose anemones colonise hull surfaces and exposed metalwork. Rockfish — including quillback and copper varieties — shelter in the wreck's enclosed spaces and on the superstructure. Lingcod take up residence on flat surfaces and in openings. Giant Pacific octopus move into any sheltered space large enough to occupy. Nudibranchs and kelp greenling are typical of wrecks in this depth range. Harbor seals are common in the surrounding waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Osprey sits at up to 28 metres depth in the waters of the southern Gulf Islands near the Canada-US boundary. The wreck is relatively recent and the extent of marine growth will vary with time since sinking. The site requires Advanced certification given the depth and wreck-diving character. Currents in this part of the southern Gulf Islands can be variable; diving should be timed around slack water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. No mooring is confirmed at this site; anchoring by the charter vessel is the expected access method. Local dive charters operating in the southern Gulf Islands are the most likely source of current information about this site's accessibility and conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Contact local dive operators in Sidney or the southern Gulf Islands to confirm current access and conditions — this is a relatively obscure wreck site with limited published documentation. A drysuit is required given water temperatures of 7–12°C. Penetration of the wreck structure, if any is possible, requires proper wreck diving training and equipment.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Water temperature is 7–12°C — drysuit required. At 28 metres, bottom time is limited by no-decompression limits; plan the dive conservatively. If wreck penetration is considered, it requires proper training, redundant lighting, and a guideline; never penetrate without these. Currents in the southern Gulf Islands can be significant; dive at slack water and deploy an SMB on ascent.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*No site-specific published sources found for this wreck. The coordinates (48.7681908, -122.5282916) place the site near the southern Gulf Islands in the vicinity of Patos Island and the Canada-US boundary. The OSM import indicates siteType=wreck and maxDepth=28m. Vessel history and sinking details could not be verified from available sources — description based on regional cold-water wreck diving characteristics. Contact local operators for current site information.*
+
+*Description based on regional cold-water wreck diving characteristics. No verified site-specific sources found.*

@@ -17,49 +17,35 @@ Abu Sawatir is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-Abu Sawatir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Abu Sawatir (also spelled Abu Sawatyr or Abu Sauatir) is a pristine reef dive site approximately 15 km north of El Quseir, accessible from a small camp on the beach with an easy launch from the sand. The site is described as one of the most rewarding but relatively under-visited reefs along the El Quseir coastline, featuring a coral garden enclosed by a sandy plateau sloping to around 25 m, with towering coral pinnacles, steep drop-offs, and hard-coral plateaus. El Quseir's proximity to the reef means concentrated diving without the crowds common at Hurghada. On the reef top, Abu Sawatir is notable for the largest anemone garden in the El Quseir area, a dense field of carpet anemones with their resident clownfish. The site suits intermediate to advanced divers due to occasional moderate currents, though calm periods allow easier exploration.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Schools of fusiliers, snappers, and barracuda are regular features. Napoleon wrasse and large trevally are frequently encountered. Grey reef sharks and whitetip reef sharks appear, particularly near the drop-off. Nudibranchs, cleaner shrimp, and pipefish are found on the coral structure. Hard coral coverage includes Acropora (table and branching), Porites, and brain corals, as well as soft coral blooms on the drop-off walls. Moray eels inhabit crevices throughout. The anemone garden on the shallow plateau is a key attraction for photography.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat or beach launch from the small camp north of El Quseir. The coral garden sits at 5–25 m; steep drop-offs and walls begin at 25 m and descend beyond recreational limits. Drift diving is possible when current is running. Visibility frequently exceeds 25 m. Water temperature 26–30°C April–November.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore launch by boat or direct beach entry from the camp site north of El Quseir (15 km). Most El Quseir dive operators (e.g., Pharaoh Dive Club / Roots Red Sea) include this site in their programme. Advanced Open Water or equivalent experience recommended due to occasional currents.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Spend time on the shallow plateau exploring the anemone garden before descending to the pinnacles and drop-offs. April through November offers the best conditions. The site is uncrowded — even at peak season, dive groups are small. Drift dive possibilities make the site especially rewarding on days when current is running.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Occasional moderate currents require situational awareness — plan the dive with the current, not against it. The drop-off descends quickly beyond recreational limits; monitor depth carefully. Deploy an SMB on ascent if current is running. Fire coral is present on reef surfaces.
 
-## Photography
+## Site Information
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: ~15 km north of El Quseir, southern Red Sea coast
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25+ m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Deep South Divers — Abu Sawatyr](https://deepsouth-divers.com/tours/abu-sawatyr/), [Sportif Dive — Abu Sauatir](https://www.sportifdive.co.uk/divesites/33/15/Red_Sea_and_Middle_East/El_Quseir/Abu_Sauatir_Dive_Sites). Last updated 2026-05-17.*

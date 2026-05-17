@@ -4,7 +4,7 @@ lat: 27.2461972
 lng: 33.8488278
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## Habibty Reef
 
-Habibty Reef is a  dive site in Red Sea, Middle East.
+Habibty Reef (the name means "my darling" in Arabic) is a dive site located in the El Quseir offshore reef zone at approximately 27.25°N, 33.85°E. This position places it within the reef system south of Hurghada and north of Safaga, an area characterised by healthy coral structures and shore-accessible reefs. El Quseir's reefs are lightly dived and known for excellent fish diversity.
 
 ## Overview
 
-Habibty Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+El Quseir is described by dive operators as a premier shore-diving destination where the reefs are "immaculate and brimming with life." Habibty Reef, as a locally-named site in this zone, likely offers the typical El Quseir experience: rich coral communities, diverse reef fish, and easy conditions. Specific site descriptions from local operators were not independently located; information below reflects regional context.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+El Quseir reefs generally support:
+- Large batfish, clownfish, ghost pipefish in sheltered areas
+- Moray eels and groupers in reef structure
+- Occasional sea turtles and eagle rays
+- Diverse hard and soft coral communities
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: El Quseir offshore reef zone, northern–central Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 meters
+- **Difficulty**: Intermediate
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context from [Extra Divers El Quseir](https://extradivers-worldwide.com/en/destinations/egypt/extra-divers-el-quseir/). No site-specific sources found. Last updated 2026-05-17.*

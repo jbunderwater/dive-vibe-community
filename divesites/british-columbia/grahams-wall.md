@@ -26,38 +26,26 @@ Graham's Wall is a boat-access wall dive in the southern Gulf Islands near Portl
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The tidally driven passages of the southern Gulf Islands deliver cold, food-rich water that supports dense invertebrate communities on vertical rock faces. Plumose anemones (white and orange) are the dominant visual feature on walls in this area, forming curtains across overhangs. Nudibranchs in many forms occupy the sponge-covered rock at all depths. Lingcod perch on ledges and overhangs at depth. Wolf eels use crevices and recesses in the wall face. Rockfish — including quillback, copper, and black species — shelter in the wall's nooks. Sea stars populate the wall, though populations have been affected by sea star wasting disease in recent years. Sea pens are found at depth on the adjacent sediment areas.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Graham's Wall drops to approximately 30 meters along a rocky wall face in the tidal channels near Portland Island, in the same dive area cluster as the G.B. Church wreck. The wall provides vertical relief with ledges, overhangs, and crevices. Currents running through the Gulf Islands passages can be strong — the wall benefits from a current that delivers nutrients but the flow itself requires dive-timing consideration. Visibility is typically 9–20 meters and is best fall through winter.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Sidney is the primary departure port for this area, approximately 5–10 km from Portland Island. Charter operators running trips to the G.B. Church wreck often combine with Graham's Wall as a second dive on the same day trip.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Combine with the G.B. Church for a full day of diving — the sites are close enough for a two-dive day on a single charter. Plan both dives around the same slack-water window if current is running. Descend the wall face into deeper water first to maximize time at depth, then work your way back up through the invertebrate-rich shallows. A torch reveals nudibranchs and small invertebrates in crevices.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Water temperature 8–12°C; drysuit required. Tidal currents are the primary hazard — strong currents through the Gulf Islands tidal passages can run several knots. Plan around slack water and have clear abort criteria. Carry a surface marker buoy (SMB) and deploy at depth before ascending if current is present.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — British Columbia's Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [X-Ray Mag — BC's Wreck Trek](https://xray-mag.com/content/british-columbias-wreck-trek). Last updated 2026-05-17.*

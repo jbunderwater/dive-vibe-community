@@ -29,7 +29,7 @@ The wreck has attracted many large fish to the area, and the interior spaces are
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters (sand)
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 20-30 meters
 - **Water Temperature**: 22-27 degrees C
 - **Current**: Generally mild

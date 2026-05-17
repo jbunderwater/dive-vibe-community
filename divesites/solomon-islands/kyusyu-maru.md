@@ -24,10 +24,10 @@ The hold is a time capsule of wartime cargo -- divers can see rifle rounds, burn
 ## Site Information
 
 - **Location**: Guadalcanal coast -- approximately 18 km west of Honiara
-- **Entry Type**: Shore dive
-- **Site Type**: Wreck dive (WWII transport)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 46 metres (stern props)
+- **Maximum Depth**: 46 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild close to shore

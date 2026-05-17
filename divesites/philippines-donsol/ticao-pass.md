@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Ticao Pass
 
-Ticao Pass is a drift dive site in Philippines Donsol, Asia.
+Ticao Pass is the main navigation strait separating Ticao Island from the Bicol Peninsula in Sorsogon Province. As a dive site reference it describes the broader channel drift dives through the pass, distinct from the Manta Bowl seamount site within it. The pass is recognized as the highest plankton-concentration waterway in the Philippines, with Pacific waters entering via the San Bernardino Strait driving persistent nutrient upwelling.
 
 ## Overview
 
-Ticao Pass is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Strong, sustained currents push cold, plankton-rich water from the south through the pass year-round. This creates a marine superhighway: the dense plankton bloom supports whale sharks, reef and oceanic manta rays, thresher sharks, hammerhead sharks, and schools of tunas, barracuda, and trevallies. Zooplankton in the pass is dominated by nauplii and copepods, with a seasonal abundance peak in February aligning with the main whale shark season.
+
+The pass earned Important Shark and Ray Area (ISRA) designation alongside Burias Pass. The Ticao-Burias Pass system supports the largest whale shark aggregation in Southeast Asia by number of individuals identified — 614 photo-identified whale sharks between 2006 and 2020.
+
+Drift dives through Ticao Pass carry divers through open-water columns above depths that plunge well beyond sport-diving limits. The experience is pelagic in character: expect open blue water, large animals, and fast-moving current rather than coral reef work.
+
+## Marine Life
+
+- Whale sharks (*Rhincodon typus*) — largest Southeast Asian aggregation by documented individuals
+- Reef manta rays (*Mobula alfredi*) and oceanic manta rays
+- Thresher sharks, hammerhead sharks, whitetip reef sharks, tiger sharks
+- Schooling skipjack tuna, barracuda, giant trevally
+- Dugongs (documented presence in the wider ISRA)
+- Sea turtles; occasionally megamouth shark (globally rare; documented in the pass)
+
+## Dive Profile
+
+Current-driven drift dive. Divers descend quickly from the boat, maintain depth in mid-water column or along shelf edges, and surface away from the entry point. Depth range for drift dives: 10–25 m. Boat follows diver bubbles throughout. Surface marker buoys mandatory.
+
+## Entry/Exit
+
+Boat only. Operators depart from Donsol town or Ticao Island. Boat pickup at surface after drift. Conditions vary significantly with tide and season; local operators gauge current strength before committing to specific entry points.
+
+## Tips
+
+- Best season for pelagic encounters: November to May (peak February–May).
+- Reef hooks are useful if the operator stops at a section with substrate.
+- SMB deployment proficiency is essential before this dive.
+- Surface intervals should be taken seriously — strong currents increase nitrogen loading.
+
+## Safety
+
+Advanced certification required. Current strength can exceed 3 knots. Open-water, pelagic-style conditions with significant boat-to-diver separation risks if communication protocols are not followed. Dive only with operators holding current knowledge of pass conditions.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Ticao Pass, between Ticao Island and Bicol Peninsula, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*

@@ -26,38 +26,26 @@ The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Wreck History
 
-The very shallow depth floods the Ilex with enough light to reveal a rich covering of sea urchins, horse mussels, and cold-water anemones across the hull. Cunner dart through the structure, while sea ravens, lumpfish, and shorthorn sculpin rest motionless on the encrusted steel — the wreck's compact size makes thorough exploration of this intertidal ecosystem easy in a single dive.
+The S.S. Ilex was a 694-ton vessel operated by Wareham and Sons of Spencer's Cove, Newfoundland. On October 27, 1948, she departed St. John's bound for Kingston, Jamaica, with a cargo of salt fish. An approaching storm forced the ship to seek refuge in Fermeuse Harbour. A fire broke out in the engine room, originating from the ignition of fuel in the ship's oil-fired boilers; the chief engineer narrowly survived an initial backdraft explosion. The entire crew escaped by lifeboat before the vessel was fully engulfed in flames. The Ilex was declared a total loss and was left where she burned, on the rocky shores of Kingman's Cove, Fermeuse Harbour. The hulk has not been formally developed as a tourist site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Ilex lies in approximately 5 m (16 ft) of water in the intertidal zone at Kingman's Cove, Fermeuse Harbour. The extreme shallowness means the wreck is bathed in natural light throughout. The rusting hull is visible above the waterline as well as below, and explorers can reach the wreck on foot along the rocky beach. The compact size allows thorough examination in a single dive or snorkel.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore access via a rocky beach hike of approximately 30 minutes each way from the Kingman's Cove approach. The wreck can be viewed from across the harbour from the road to Port Kirwan. Kayak or paddleboard access is an alternative to the beach hike. There is no dive operator infrastructure at the site; divers should self-organise.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The best viewing point for the above-water portion is from across the harbour on the Port Kirwan road. Calm weather is essential at this intertidal site — surge over rocky substrate in exposed conditions makes the entry dangerous. The very shallow depth makes this equally suited to snorkelling as to scuba diving, and it provides an accessible introduction to Newfoundland wreck exploration.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Surge over rocky substrate is the primary hazard given the intertidal exposure. Cold Atlantic water requires adequate exposure protection. The rusting hull has sharp edges. The site is remote — the nearest services are in Fermeuse or Trepassey — so divers should be self-sufficient with safety equipment including a surface marker buoy.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-05-17.*

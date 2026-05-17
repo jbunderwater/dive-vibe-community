@@ -3,8 +3,8 @@ name: Mohammed Hasabella wreck
 lat: 27.2255405
 lng: 33.8474125
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 34
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,33 @@ addedBy: osm_import
 
 ## Mohammed Hasabella wreck
 
-Mohammed Hasabella wreck is a  dive site in Red Sea, Middle East.
+The Mohammed Hasabella (also spelled Mohamed Hasabella) is the wreck of an Egyptian fishing trawler lying intact on the floor of Hurghada harbour, just south of the El Minya wreck — forming the so-called "Twin Wrecks" often dived together.
 
 ## Overview
 
-Mohammed Hasabella wreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The FV Mohamed Hasabella was an Egyptian trawler of the type common to the Red Sea fishing industry. The vessel rests completely intact on the sandy harbour floor at a depth of 34 metres, with the top of the wreck accessible at approximately 20 metres. The wreck lies just two minutes by boat from Emperor Divers' marina in Hurghada, immediately south of the El Minya wreck, and the proximity of the two wrecks allows experienced divers with good buoyancy and air consumption to visit both in a single dive — starting with El Minya and then swimming 1–2 minutes to the Mohamed Hasabella.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The wreck's history is not widely documented in the public record; it appears to have sunk relatively recently and "its history is probably only known among the local fishing community." The vessel's deck equipment and stern gear, including trawling apparatus, remain visible. Penetration of the interior is possible but confined, requiring appropriate training and equipment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 20 m (top of wreck) to 34 m (seafloor)
+- **Current**: Minimal in harbour location
+- **Entry**: Boat (2 minutes from Hurghada marina)
+- **Difficulty**: Intermediate; depth places it at OW limit
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The wreck is in early stages of colonisation by soft corals and other encrusting marine life. The relatively clear interior and minimal marine growth currently makes this an excellent site for wreck photography.
 
-## Tips and Recommendations
+## Wreck History
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Vessel type**: Egyptian fishing trawler (FV)
+- **Identity confirmed by**: Red Sea Wreck Project, Zentacle, ScubaDiverz
+- **Depth**: 34 m (floor), 20 m (shallowest structure)
+- **Condition**: Intact
 
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*The specific sinking date and full history of this vessel are not documented in publicly available sources.*
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Wreck Project — Mohamed Hasabella](https://www.redseawreckproject.com/dive-sites/m-red-sea-wreck-diving-database/mohamed-hasabella/), [Zentacle — Mohammed Hasabella](https://www.zentacle.com/Beach/7106/mohammed-hasabella-wreck), [ScubaDiverz — Mohammed Hasabella](https://scubadiverz.org/diving-locations.php?territory=africa&country=egypt&region=hurghada&diving-location=mohammed-hasabella-wreck&id=582). Last updated 2026-05-17.*

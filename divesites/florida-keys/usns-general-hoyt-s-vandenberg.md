@@ -26,38 +26,37 @@ The Vandenberg is a 524-foot former Cold War missile-tracking ship scuttled 7 mi
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 42.7 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Goliath grouper have claimed the Vandenberg's cavernous holds and machinery spaces as their own, with some individuals exceeding 400 pounds and showing no fear of divers. The tracking dishes and upper superstructure are blanketed in colorful encrusting sponges and soft corals, attracting hogfish, mutton snapper, queen angelfish, and large green moray eels. Bull sharks and nurse sharks are regularly encountered along the hull, and loggerhead sea turtles are frequently spotted resting on the deck structures.
+Goliath grouper are resident in the cargo holds and machinery spaces, and the upper structures host moray eels, tarpon, and large schools of barracuda. Bull sharks and nurse sharks are regular sightings around the hull, with the occasional sea turtle moving across the deck. Lionfish and scorpionfish are also commonly noted on the wreck. The superstructure and radar dishes have become heavily encrusted with sponges and soft corals.
+
+## Wreck History
+
+The Vandenberg was originally laid down on 22 February 1943 and launched on 10 October 1943 at Kaiser shipyards in Richmond, California as the troop transport USS General Harry Taylor (AP-145). At 522 feet 10 inches in length with a displacement of 9,950 tons light and 17,250 tons loaded, she carried troops during the final year of WWII. She was acquired by the US Air Force in 1961 and renamed in honor of General Hoyt S. Vandenberg, then redesignated T-AGM-10 in 1964 as a missile range instrumentation ship, tracking ballistic missile tests and supporting US space program operations. In 1998, scenes for the science-fiction film Virus were shot aboard her, with the vessel standing in for a fictional Russian ship. After years of preparation by the city of Key West and the Vandenberg artificial reef project, she was scuttled on 27 May 2009 approximately 7 miles south of Key West, becoming the second-largest artificial reef in the world. Hurricane Irma in 2017 shifted the wreck deeper; she now sits with her deepest point at roughly 165 feet.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 42.7 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The tallest upper structures — including the two large parabolic tracking dishes that gave the ship her distinctive profile — reach to within 55–70 feet of the surface, with some repositioned structural elements as shallow as 40 feet. The main deck runs at 100–105 feet, and the sand falls away to roughly 140 feet (with the deepest point near 165 feet post-Irma). Wreck-trained divers can swim a continuous 475-foot run along the starboard section of Deck 1 and explore the cargo holds, stair towers, elevator shafts, and hallways through openings cut into the hull during preparation. The size of the ship means no single dive covers the whole wreck — multiple dives at different depths are the norm.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. The Vandenberg is served by mooring buoys; descending and ascending on the buoy line is standard practice given the depth and the open-water location. Multiple Key West operators (Lost Reef Adventures, Key West Dive Center, and others) run two-tank trips, with operators typically requiring open-water divers to be paired with a guide and to have logged recent dives.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced Open Water plus Nitrox certification is the practical minimum for the main deck.
+- Wreck Diver and Deep Diver training are strongly recommended for any penetration of the lower decks.
+- Plan multiple dives — the radar dishes and bridge are a different experience from the deeper deck runs.
+- Bring a primary light and backup for any internal exploration.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depths of 100+ feet put divers well into the deep range with limited no-deco time on air; nitrox extends bottom time meaningfully. Open-water currents at the site can be strong and variable. Penetration of the Vandenberg is not safe by default — the elevator shafts, cargo holds, and lower-deck corridors require proper wreck training, redundant lights and gas, and a continuous guideline. Hurricane shifts have left some internal hazards; do not enter areas you cannot back out of cleanly.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Vandenberg's twin parabolic tracking dishes and the broad upper deck silhouette are among the most recognizable subjects in the Keys, and the typically blue water 7 miles offshore lets wide-angle shooters capture the full structure of the dishes when conditions cooperate. Wide-angle lenses and strobes are the standard rig.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - USNS General Hoyt S. Vandenberg](https://en.wikipedia.org/wiki/USNS_General_Hoyt_S._Vandenberg), [Lost Reef Adventures - Vandenberg Wreck](https://lostreefadventures.com/vandenberg-wreck/), [PADI - USNS Vandenberg dive site](https://www.padi.com/dive-site/united-states-of-america-usa/usns-general-hoyt-s-vandenberg-t-agm-10/), [Florida Scuba Diving - USNS Vandenberg](https://www.florida-scubadiving.com/usns-vandenberg-key-west-florida/). Last updated 2026-05-17.*

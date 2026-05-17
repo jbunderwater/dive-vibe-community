@@ -26,38 +26,30 @@ The SS Lord Strathcona was an ore carrier sunk by U-513 during the first Bell Is
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+The SS Lord Strathcona was a 7,335-gross-ton steam ore carrier built in 1915 by William Doxford & Sons Ltd in Sunderland, England, owned by Dominion Shipping Co Ltd of Montreal — a subsidiary of the Dominion Steel & Coal Corporation, which owned the Bell Island iron mines. On September 5, 1942, she lay at anchor off Bell Island loaded with iron ore when U-513 (Kapitänleutnant Rolf Rüggeberg) — already having sunk the Saganaga earlier that morning — struck her stern with two bow torpedoes at approximately 12:17 PM. The Lord Strathcona sank in approximately 90 seconds. Her crew of 44 had moments warning (the U-boat's conning tower had struck her stern before the torpedoes were fired) and all hands escaped by lifeboat; there were no fatalities. All 44 survivors were rescued by a Customs launch and brought ashore at Lance Cove, Bell Island.
 
 ## Marine Life
 
-The cold, dark depths of Conception Bay surrounding the Lord Strathcona support Atlantic cod, ocean pout, and Atlantic wolffish sheltering within the hull's recesses. The iron-ore-laden holds are colonised by cold-water corals, sea cucumbers, and dense populations of northern lobster, while Greenland sharks are occasional visitors patrolling the deeper sections of the wreck.
+White, orange, and gold plumose anemones cover virtually every surface of the Lord Strathcona's superstructure, creating a vivid display that has been likened to a tropical coral reef in press accounts. Lumpfish — including bright red breeding males in season — are regularly encountered on the wreck, as are cunner, Atlantic cod, flatfish, and shorthorn sculpin. Pink lion's mane jellyfish (*Cyanea capillata*) float among the ship's cranes. The 4.7-inch stern deck gun is blanketed in a thick coating of sea anemones. Nudibranchs (*Coryphella verrucosa*) and basket stars have been photographed on the encrusted hull.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 37 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Lord Strathcona sits upright with its superstructure spanning approximately 27–38 m (90–125 ft) depth — the second deepest of the four Bell Island wrecks. The wreck offers penetration opportunities into the cavernous holds and engine room (where one torpedo entered), and the bow section includes an anchor in place, Marconi radio equipment visible in the bow area, and a deck gun at the stern. Towering superstructure and broken spars provide dramatic framing. Visibility on good days can exceed 30 m (100 ft).
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. Ocean Quest Adventures (Conception Bay South, NL) operates guided trips to this wreck throughout spring, summer, and autumn. Divers descend a mooring line. Given the depth, dive planning should account for accelerated bottom-time consumption and drysuit buoyancy management.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Drysuit with heavy undergarments is essential — bottom temperature is approximately 2–4°C (35–39°F). Dive lights are strongly recommended for exploring the holds and engine room. At 37 m maximum depth, bottom time is limited for recreational divers on air; nitrox certification and a dive computer are beneficial. The depth, cold, and penetration opportunities make this a more demanding dive than the shallower PLM-27 or Saganaga.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The 37 m maximum depth places this wreck at or beyond recreational diving limits. Adequate thermal protection against near-freezing temperatures is non-negotiable. Overhead environments in the holds require proper wreck diving training. The wreck is a designated war grave; no removal of artefacts is permitted.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [Ocean Quest Adventures - Bell Island Shipwrecks](https://oceanquestadventures.com/newfoundland-shipwrecks/), [Scuba Diver Life - The Bell Island Wrecks](https://scubadiverlife.com/bell-island-wrecks/), [wrecksandreefs.com - Lord Strathcona](https://www.wrecksandreefs.com/l_strahc.htm), [uboat.net - Lord Strathcona](https://uboat.net/allies/merchants/ship/2123.html), [Community Stories - Sinking of SS Saganaga and Lord Strathcona](https://www.communitystories.ca/v2/wwii-came-to-bell-island_seconde-guerre-mondiale/story/the-sinking-of-ss-saganaga-and-lord-strathcona/), [Ikelite - Canadian Splash Newfoundland](https://www.ikelite.com/blogs/features/canadian-splash-destination-newfoundland), [Wikipedia - Battle of Bell Island](https://en.wikipedia.org/wiki/Battle_of_Bell_Island). Last updated 2026-05-17.*

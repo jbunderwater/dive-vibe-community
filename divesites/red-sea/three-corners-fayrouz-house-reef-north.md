@@ -3,7 +3,7 @@ name: Three Corners Fayrouz House Reef North
 lat: 25.522611
 lng: 34.649055
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,39 @@ addedBy: osm_import
 
 ## Three Corners Fayrouz House Reef North
 
-Three Corners Fayrouz House Reef North is a  dive site in Red Sea, Middle East.
+The northern section of the house reef fronting the Three Corners Fayrouz Plaza Beach Resort, located near Port Ghalib (Marsa Alam), southern Red Sea. The resort is accessed via a jetty a few metres from the dive centre, and the reef is known for exceptional visibility, diverse marine life, and a rare dugong sighting record. The sheltered entry and exit points make diving possible in nearly any weather.
 
 ## Overview
 
-Three Corners Fayrouz House Reef North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Three Corners Fayrouz Plaza Beach Resort sits approximately 5 km from Port Ghalib Marina, between Marsa Alam Airport and the town. The house reef runs along the beach frontage in both a northern and southern section, with Extra Divers managing the on-site dive centre. The reef gradually slopes away from the drop-off into deeper water, hosting a rich coral garden with a diversity well above what most Egyptian resort reefs offer.
 
-## Site Information
+The northern reef section reaches a maximum depth of around 30 metres. The reef structure is intact and in good condition, with octopuses, moray eels, and stingrays among the regular residents. Dugongs have been reported on the house reef — an increasingly rare sighting in the Red Sea. Barracudas and turtles are regularly observed, and occasional manta rays and whitetip reef sharks pass through the deeper sections. Seahorses have been found in the shallow seagrass areas connecting to the reef.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Boat dives to Port Ghalib and beyond are also available from the centre, offering access to offshore reefs including Marsa Shouna, Marsa Egla, and the broader Marsa Alam dive sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–30 m (shallow coral garden grading to deeper reef slope)
+- **Entry**: Shore dive via jetty directly over the reef
+- **Currents**: Sheltered — diving possible in most weather conditions
+- **Visibility**: Approximately 20 m
+- **Night diving**: Available and productive
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Dugongs (rare but recorded), sea turtles, barracuda, octopuses, moray eels, blue-spotted stingrays, whitetip reef sharks (occasional), manta rays (occasional), seahorses (in seagrass), anthias, butterflyfish, groupers, and parrotfish. Hard and soft corals throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The dugong sightings — when they occur — represent one of the Red Sea's most sought-after photographic opportunities. The shallow, clear conditions make the house reef well-suited to wide-angle coral photography. Macro subjects including nudibranchs and pipefish are found in deeper sections.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Three Corners Fayrouz Plaza Beach Resort, near Port Ghalib, Marsa Alam area
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Extra Divers — Three Corners Fayrouz](https://extradivers-worldwide.com/en/dive-center/country/aegypten/dive-center-extra-divers-fayrouz_32.html), [Snorkeling Report — Three Corners Fayrouz](https://www.snorkeling-report.com/spot/snorkeling-royal-magic-tulip-resorts-marsa-alam/), [Divers Guide — Fayrouz Plaza Housereef](https://www.divers-guide.com/en/fayrouz-plaza-housereef), [Ultimate Diving — Fayrouz Plaza](https://www.ultimatediving.co.uk/Dive-Holidays/Red-Sea/Marsa-Alam/Marsa-Alam-Resort/Three-Corners-Fayrouz-Plaza-Beach-Resort.aspx). Last updated 2026-05-17.*

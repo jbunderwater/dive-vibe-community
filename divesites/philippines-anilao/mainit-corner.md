@@ -23,7 +23,7 @@ Mainit Corner is centred on a large bommie that breaks the surface off the south
 
 - **Location**: S point of Mainit peninsula, Anilao, Batangas, Philippines (~600 m from resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef dive (bommie with wall)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-20 meters

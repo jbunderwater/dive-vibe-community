@@ -13,55 +13,45 @@ addedBy: osm_import
 
 ## Big Brother Island
 
-Big Brother Island is a wall dive site in Red Sea, Middle East.
+Big Brother Island (part of El Akhawein, "The Brothers") is a remote liveaboard-only wall dive in the Egyptian Red Sea, approximately 90 km offshore. It is widely regarded as one of Egypt's premier dive destinations, combining dramatic reef walls, two historically significant wrecks, and reliable pelagic shark encounters.
 
 ## Overview
 
-Big Brother Island is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Big Brother is the larger of two uninhabited rocky islets. A British-built lighthouse (1883) still operates on the island. The site is a marine park requiring permits, and diver numbers are controlled. Currents can be strong and unpredictable; the site is suitable only for experienced advanced divers.
+
+## Wreck History
+
+**SS Numidia** — A British steam cargo ship (6,399 GRT, 137 m long) built by D. & W. Henderson & Co. in Glasgow, Scotland. She ran aground on the northern plateau of Big Brother on 20 July 1901 while bound for India on her second voyage. Salvage operations lasted approximately seven weeks before the vessel finally sank. The bow rests at approximately 8 m; the stern lies at approximately 80 m — far beyond recreational limits. The hull is densely colonised with large gorgonian fans and soft corals.
+
+**Aida** — A 75.1 m lighthouse tender and troop carrier (1,426 GRT) built in June 1911 at the Loire shipyard in Nantes, France, originally for the Egyptian Ports and Lighthouses Administration. On 15 September 1957, during a heavy storm, the ship struck the reef while attempting to moor at the island's southeast jetty to deliver personnel and supplies to the Egyptian Coast Guard station. A tugboat rescued 77 of the 157 people aboard. The bow rests at 25 m and the stern at 60 m; the engine room and cargo hatches can be explored with proper penetration experience.
+
+## Marine Life
+
+Big Brother is one of a very small number of sites globally where oceanic whitetip sharks (*Carcharhinus longimanus*) are reliably encountered. Additional shark species include grey reef sharks, hammerheads, silvertip sharks, and — seasonally in autumn and winter — thresher sharks. Resident reef populations include Napoleon wrasse, large groupers, barracuda, unicornfish, anthias, glassfish, and sweepers. Both wrecks support dense growth of gorgonian fans and colourful soft corals.
+
+## Dive Profile
+
+The reef walls drop sharply from the surface. Eastern and western walls offer drift dives with currents running north to south. The Numidia recreational sections range from 16–40 m; the Aida spans 25–60 m. Penetration of either wreck requires specialist training and appropriate equipment.
+
+## Tips & Safety
+
+- Liveaboard only — no day trips available
+- Marine park permit required; visitor numbers are strictly controlled
+- Currents can be strong and change rapidly; always dive with a surface marker buoy
+- Advanced certification with significant deep dive experience strongly recommended
+- Oceanic whitetip sharks are curious and bold; maintain situational awareness throughout the dive
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt — approximately 90 km offshore, liveaboard access only
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Red Sea Wreck Project – Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [Red Sea Wreck Project – Aida](https://www.redseawreckproject.com/dive-sites/a-red-sea-wreck-diving-database/aida/), [Dive the World – Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Last updated 2026-05-17.*

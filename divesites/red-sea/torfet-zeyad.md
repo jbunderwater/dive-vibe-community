@@ -13,53 +13,34 @@ addedBy: osm_import
 
 ## Torfet Zeyad
 
-Torfet Zeyad is a  dive site in Red Sea, Middle East.
+Torfet Zeyad is a reef dive site located at approximately 25.517°N, 34.652°E on the southern Red Sea coast near Port Ghalib / Marsa Alam. The name follows the local Egyptian naming convention for reef points ("torfet" = promontory or cape), and the site lies within the broader Marsa Alam reef zone known for healthy fringing reefs and diverse marine life.
 
 ## Overview
 
-Torfet Zeyad is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The coordinates place Torfet Zeyad in the southern Red Sea near Port Ghalib, in a region characterised by well-preserved fringing reefs, sandy bays, and offshore reef systems. The area encompasses a number of similarly-named "torfet" sites (reef extensions and promontory dive spots), with the Giftun National Park and broader Marsa Alam marine reserve providing protection to the surrounding reefs.
 
-## Site Information
+At this depth (maximum 25 m) and location, the reef likely features a sloping coral garden with sandy channels and hard coral formations at depth, transitioning to a shallower reef flat. The southern Red Sea around Port Ghalib is known for blue-spotted stingrays, anthias, parrotfish, Napoleon wrasse, groupers, and occasional dugong sightings.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site appears in the OSM database as a shore-entry reef dive at intermediate level, consistent with other fringing reef sites in the Marsa Alam area that offer productive shore diving from sandy beach entries without needing a boat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 5–25 m
+- **Entry**: Shore
+- **Currents**: Typically mild at fringing reef sites in this area
+- **Visibility**: 15–25 m
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Typical southern Red Sea fringing reef: anthias, chromis, parrotfish, surgeonfish, wrasse, groupers, moray eels, blue-spotted stingrays, and occasional sea turtles. Soft coral formations support nudibranchs and pipefish.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Near Port Ghalib / Marsa Alam, southern Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on coordinates, regional context, and OSM data. "Torfet Zeyad" was not identified in available English-language dive databases; the name closely resembles other "Torfet / Turfet" reef sites in the Port Ghalib area. No site-specific published dive sources were located. Local dive operators in Port Ghalib are the best resource for current conditions. Last updated 2026-05-17.*

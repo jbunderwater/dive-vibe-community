@@ -11,55 +11,36 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Stella Beach Reef
+## Stella Beach Reef — Stella Di Mare, Sharm El Sheikh
 
-Stella Beach Reef is a  dive site in Red Sea, Middle East.
+Stella Beach Reef is the house reef and shore dive site fronting the Stella Di Mare Beach Hotel and Spa in Sharm El Sheikh, on the Gulf of Aqaba coast. The site is accessible directly from the beach with dedicated PADI dive centre support on-site (Desert Rose Diving Center), making it a convenient entry point for hotel guests who want to explore a working Red Sea reef without a boat trip.
 
 ## Overview
 
-Stella Beach Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Stella Di Mare Beach Hotel sits on the Sharm El Sheikh coastline, with coordinates (27.904°N, 34.331°E) placing the reef in the southern Gulf of Aqaba area, within the broader Sharm diving region that also encompasses nearby sites like Naama Bay, Ras Nasrani, and the Tiran reefs. The house reef is accessible directly from the hotel beach, with snorkelling and diving possible in the clear Gulf of Aqaba waters.
 
-## Site Information
+The Gulf of Aqaba fringing reefs in this area are characterised by clear, warm water, hard coral formations on the shallower sections, and a steep slope or wall dropping to sandy bottom at depth. Typical marine life in the Sharm area includes parrotfish, surgeonfish, butterflyfish, angelfish, groupers, moray eels, blue-spotted stingrays, and occasional Napoleon wrasse. Turtles are recorded at nearby dive sites.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site provides an accessible reef experience for guests at the intermediate level, with the dive centre managing conditions and guiding divers through the reef structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 5–25 m (shore access to reef drop-off and slope)
+- **Entry**: Shore dive via hotel beach
+- **Currents**: Gulf of Aqaba fringing reefs here are generally calm with mild currents
+- **Visibility**: 15–25 m (Gulf of Aqaba water clarity is excellent)
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Parrotfish, surgeonfish, butterflyfish, angelfish, groupers, moray eels, blue-spotted stingrays, chromis, anthias, and Napoleon wrasse. The reef structure supports both hard and soft corals typical of the northern Gulf of Aqaba.
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Stella Di Mare Beach Hotel, Sharm El Sheikh coast, Gulf of Aqaba
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle — Stella Beach Reef](https://www.zentacle.com/Beach/9920/stella-beach-reef), [PADI — Desert Rose Diving Center at Stella Di Mare](https://www.padi.com/dive-center/egypt/desert-rose/). No detailed site-specific dive descriptions were located for this house reef. Last updated 2026-05-17.*

@@ -3,8 +3,8 @@ name: Petra
 lat: 27.3607909
 lng: 33.9154816
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,39 @@ addedBy: osm_import
 
 ## Petra
 
-Petra is a  dive site in Red Sea, Middle East.
+Petra (also known as Shaab Petra) is a two-pinnacle reef dive site in the Magawish Island area, approximately 45 minutes southeast of central Hurghada by boat. The site is one of a cluster of offshore reefs in this area popular with Hurghada dive centres as a day-trip destination.
 
 ## Overview
 
-Petra is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site features two oval-shaped coral pinnacles (ergs) rising almost to the surface and separated by approximately 50 metres, with an elongated coral garden connecting them. The twin pinnacles sit on a sandy bottom at 8–9 metres. Their east-facing sides carry the richest coral cover, and a tunnel in the smaller pinnacle is packed with shrimp, bannerfish, and glassfish. The figure-of-eight dive route around both pinnacles takes approximately 45 minutes at a relaxed pace.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The pinnacles host a dense community of small reef fish: humbug damsels, Arabian damsels, blue-green pullers, and bicolour pullers cover the erg surfaces. Large schools of sergeant major fish and goatfish sweep between the pinnacles. Various holes and overhangs shelter squirrelfish, soldierfish, cardinalfish, and glassfish. Larger species include spotted eagle rays, lionfish, Mediterranean moray eels (Roman eels), parrotfish, and sea turtles — the latter particularly active during night dives. Stonefish have been recorded in rubble areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth of approximately 9 metres (sandy bottom) makes this an excellent site for Open Water divers, refresher dives, and underwater photographers seeking calm conditions. The mild current from the northeast or northwest means comfortable drift diving is sometimes possible. Night dives are excellent, with turtles as a primary sighting.
 
-## Entry and Exit
+## Entry / Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat drop-off at the pinnacles from Hurghada day-boat operators (45 minutes transit). The site is calm and suitable as a training dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, clear, and calm environment — with colourful pinnacles, diverse reef fish, and night turtle activity — makes this a strong photography site, particularly for wide-angle reef shots and macro subjects in the tunnel.
+
+## Site Information
+
+- **Location**: Magawish Island area, approximately 45 minutes southeast of Hurghada
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 metres (typical dive 9 m)
+- **Difficulty**: Beginner
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Divers Guide — Sha'ab Petra](https://www.divers-guide.com/en/shaab-petra), [Funnydivers Hurghada — Shaab Petra](https://funnydivers.com/shaab-petra/), [Fun Fly Divers — Shaab Petra](https://www.funflydivers.com/dive-sites/shaab-petra/), [Zentacle — Petra](https://www.zentacle.com/Beach/3166/petra). Last updated 2026-05-17.*

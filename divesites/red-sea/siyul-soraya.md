@@ -2,9 +2,9 @@
 name: Siyul Soraya
 lat: 27.5523972
 lng: 33.8591552
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Siyul Soraya
 
-Siyul Soraya is a  dive site in Red Sea, Middle East.
+Siyul Soraya (also known as Small Siyul or Shaab Sheer Soraya) is a compact, rounded reef north of Hurghada, well suited to beginner and intermediate divers seeking a relaxed, visually engaging dive at a manageable depth.
 
 ## Overview
 
-Siyul Soraya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef is a small, roughly circular structure reaching a maximum depth of approximately 18–20 m. It sits north of Hurghada in the offshore reef zone and is accessible by boat as part of day trips or liveaboard itineraries from Hurghada and El Gouna. The compact size allows divers to explore the full perimeter of the reef in a single dive.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The reef top is at snorkelling depth and the sloping sides support a typical northern Red Sea coral community with good fish life.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Reef-associated fish species typical of the northern Red Sea: anthias, damselfish, wrasses, butterflyfish, and parrotfish on the coral slopes. Larger visitors including eagle rays and occasional reef sharks may be encountered in the blue water around the reef. The shallow reef top supports dense shoals of smaller reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth 18–20 m. The compact reef can be circumnavigated in a single tank dive. Suitable for Open Water divers. The sheltered top (3–8 m) provides a good safety stop zone and is accessible for snorkellers.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- An excellent second or third dive of the day due to the shallow maximum depth
+- Good choice for newly qualified divers building confidence on offshore reefs
+- Often paired with Siyul Kebira (Greater Siyul) in the same boat trip
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaDiving.place — Siyul Soraya / Siyul Saghira](https://scubadiving.place/divesite/siyul-soraya-siyul-saghira-small-siyul), [PADI — Shaab Sheer Soraya](https://www.padi.com/dive-site/egypt/shaab-sheer-soraya/). Last updated 2026-05-17.*

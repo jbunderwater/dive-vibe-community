@@ -2,9 +2,9 @@
 name: PUTSKER
 lat: 33.012902
 lng: 35.089919
-difficulty: Intermediate
-maxDepth: null
-entryType: boat
+difficulty: Beginner
+maxDepth: 15
+entryType: shore
 siteType: reef
 ref: null
 osmId: null
@@ -24,9 +24,9 @@ The Putsker Diving Club offers boat and shore dives to various sites along the n
 ## Site Information
 
 - **Location**: Northern Israeli Mediterranean, Nahariya/Rosh Hanikra area
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Operator**: Putsker Diving Club, Nahariya (HaMaapilim 5)
 

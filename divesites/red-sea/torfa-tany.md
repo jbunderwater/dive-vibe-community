@@ -4,7 +4,7 @@ lat: 25.6695339
 lng: 34.5877075
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,21 @@ addedBy: osm_import
 
 ## Torfa Tany
 
-Torfa Tany is a  dive site in Red Sea, Middle East.
+Torfa Tany is a reef site in the central Egyptian Red Sea coast (lat 25.67, lon 34.59), roughly midway between Hurghada and El Quseir — a stretch of coastline with numerous fringing reefs and offshore shoals that are less frequently visited than the northern resort areas.
 
 ## Overview
 
-Torfa Tany is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Torfa" in Arabic refers to a protruding reef tip or point, and "Tany" may be a local place name or designation indicating a secondary tip of a larger reef system. The coordinates place this site in an area of moderate reef development along the Egyptian Red Sea mainland coast, with typical mid-Red Sea conditions.
+
+Sources note that "Torfa" sites in the broader area are best dived at 10–15 m for coral quality, with the sandy bottom at 20 m being the domain of rays and resting nurse and guitar sharks. The area around this latitude on the Egyptian mainland coast has well-developed fringing reefs but receives relatively limited dive operator traffic.
+
+No specific source has been found documenting "Torfa Tany" by name in widely available English-language dive guides.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Central Egyptian Red Sea coast (Hurghada–El Quseir zone)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates. Description based on regional reef characteristics. [Divers Guide — Torfa](https://www.divers-guide.com/en/torfa). Last updated 2026-05-17.*

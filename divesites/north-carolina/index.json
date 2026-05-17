@@ -12,18 +12,6 @@
     "osmId": 663869490
   },
   {
-    "name": "Bedfordshire (Wrack)",
-    "filename": "bedfordshire-wrack.md",
-    "lat": 34.3120167,
-    "lng": -76.45025,
-    "difficulty": "Intermediate",
-    "maxDepth": 32,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 663869492
-  },
-  {
     "name": "U-576 (Wrack)",
     "filename": "u-576-wrack.md",
     "lat": 34.51,

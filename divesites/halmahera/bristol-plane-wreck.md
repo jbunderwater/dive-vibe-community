@@ -13,55 +13,40 @@ addedBy: osm_import
 
 ## Bristol Plane Wreck
 
-Bristol Plane Wreck is a historic wreck dive in Halmahera, Asia.
+Bristol Plane Wreck is a WWII aircraft wreck dive site in the Morotai/North Halmahera area, North Maluku, Indonesia.
 
 ## Overview
 
-Bristol Plane Wreck is a dive site in Halmahera featuring the wreck of the Bristol Plane Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down near Morotai island, which served as a major Allied base during the Pacific campaign. The wrecks rest on a sloping reef at considerable depth, reaching 45–50 metres at the deepest point. Morotai and North Halmahera hold a concentration of WWII aircraft and vessel wrecks from the intense Allied and Japanese operations in the region during 1944–1945. The Bristol Beaufort was a twin-engine aircraft used by Allied forces in the Pacific, and wrecks of these aircraft have been documented in the Gotolamo village area of Morotai, associated with the airfields that were central to Allied operations in the region.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Morotai / North Halmahera area, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Recreational Range**: 30–40 metres (shallower aircraft sections)
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+WWII wrecks in North Halmahera are typically encrusted with decades of coral growth. Fusiliers, reef sharks, turtles, and Napoleon wrasse have been documented in the area around the Bristol wreck. The sloping reef habitat adjacent to the aircraft supports a broader reef fish community, while the wreck structure itself provides substrate for soft corals and sponges.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck rests on a sloping reef, with the aircraft distributed across a depth gradient reaching 45–50 metres at the lowest points. This makes the site suitable only for advanced divers; recreational divers should plan to explore the shallower sections of the aircraft structure (30–40 metres) and should have solid deep-diving experience before attempting this site. The sloping reef topography means depth can be managed by ascending the reef slope. Visibility in the Morotai area is typically good at 15–30 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat as part of a North Halmahera / Morotai liveaboard itinerary. Liveaboard operators (Malaillo Liveaboard and others) include Morotai WWII wreck diving in their North Halmahera programmes. Local dive guides in Morotai familiar with the wreck locations are essential for locating the site efficiently.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The 50-metre maximum depth puts significant sections of this wreck beyond recreational dive limits — plan your dive to remain within your certified depth range. A dive computer with a decompression alarm is essential. A torch is necessary to illuminate the aircraft structure. Aircraft identification and wreck survey diving requires additional training beyond the Advanced Open Water certification. Combine with shallower Morotai reef and wreck sites to build a well-rounded North Halmahera itinerary.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+This is strictly an advanced dive site due to depth. No-decompression limits are quickly reached at 40–50 metres. Only advanced certified divers with experience of deep wreck diving should attempt the deeper sections. The site is remote — the nearest recompression chamber is in Manado, a significant distance from Morotai. Strong currents can occur in the North Halmahera area. An SMB should always be carried. Wreck penetration (entering enclosed sections of aircraft) requires proper training and equipment.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Morotai Indonesia Tourism – Gotalamo Village](https://www.morotai.indonesia-tourism.com/gotalamo_village.html), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*

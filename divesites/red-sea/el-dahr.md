@@ -4,7 +4,7 @@ lat: 27.7442015
 lng: 34.1654205
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## El Dahr
 
-El Dahr is a  dive site in Red Sea, Middle East.
+El Dahr is a dive site in the Ras Mohammed National Park zone on the Sinai Peninsula, with coordinates placing it in the western sector of the park area near the Gulf of Suez side. The name "El Dahr" is Arabic for "the back" or "the ridge," suggesting a reef or ridge-type structure.
 
 ## Overview
 
-El Dahr is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site sits in the Ras Mohammed peninsula area, one of the Red Sea's richest marine environments. The park was declared a protected area in 1983 and covers 480 km². Sites on the western (Gulf of Suez) side of Ras Mohammed differ in character from the famous eastern wall dives: they tend to feature more sheltered conditions, with coral gardens and sandy slopes as opposed to the dramatic vertical walls of Shark Reef and Yolanda. The strong plankton-bearing currents that characterise the Ras Mohammed tip circulate nutrients throughout the peninsula, supporting excellent coral growth across all sectors.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Ras Mohammed National Park ecosystem supports over 200 coral species and approximately 1,000 fish species. Sites in this sector of the park host typical Red Sea reef communities including groupers, Napoleon wrasse, barracuda, eagle rays, pufferfish, and anthias-covered coral structures. Pelagic species are seasonally present, particularly between June and August.
 
-## Dive Profile
+## Site Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Ras Mohammed National Park area, South Sinai
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 25 metres
+- **Difficulty**: Intermediate
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources for "El Dahr" by that exact name were found in major dive databases. The site is placed in the Ras Mohammed National Park area based on coordinates. Description based on regional diving characteristics. General regional context from: [Dive the World — Ras Mohammed](https://www.dive-the-world.com/diving-sites-egypt-ras-mohammed.php), [Ras Mohamed National Park — Sharm Scuba Service](https://www.sharmscubaservice.com/ras-mohammed-en/). Last updated 2026-05-17.*

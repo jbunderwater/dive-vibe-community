@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## Uçak Batığı
 
-Uçak Batığı is a historic wreck dive in Turkey, Europe.
+Uçak Batığı (Airplane Wreck) is a wreck dive site near Bodrum, Turkey.
 
 ## Overview
 
-Uçak Batığı is a dive site in Turkey featuring the wreck of the Uçak Batığı . Savoia-Marchetti SM.79 Italian torpedo bomber wreck from WWII, bow at 58m, tail at 71m. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Uçak Batığı — Turkish for "airplane wreck" — is a decommissioned Turkish Air Force Dakota C-47 transport aircraft that was intentionally sunk to create an artificial reef dive site in the waters near Bodrum, Turkey. The aircraft rests on the seabed in the Bodrum area of the Aegean coast, not far from the Greek island of Kos.
 
-## Site Information
+The wreck lies at depth, with the shallowest accessible sections at approximately 17 metres and the deepest portions at 32 metres (local operators report a max depth of 17–32 m for the accessible wreck; the OSM-recorded depth of 65 m likely reflects the nearby seabed rather than the wreck itself). The C-47 has broken into two main sections. The cockpit and engines lie at the shallower end, with the wings spread outward. The fuselage and tail section rest deeper in the sandy substrate. A rear cabin door at approximately 29 metres is the only penetrable section of the aircraft.
 
-- **Location**: Turkey, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 65 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+The wreck has attracted a resident community of groupers, tuna, lionfish, scorpionfish, and various sea bream species. The aircraft structure — engines, cockpit framing, and spread wings — provides distinctive compositional subjects for underwater photography. Approach from the entry point leads first to the cockpit and engine nacelles, then along the wing structure before reaching the fuselage tail.
 
-## Marine Life
-
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The dive is described by Aquapro Dive Center (Bitez Marina, Bodrum) as accessible to entry-level divers and above for the shallower sections, though depth management and the wreck environment require awareness. Penetration is limited to the rear cabin door only.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 65 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Entry**: Boat
+- **Depth range**: 17–32 m (accessible wreck sections)
+- **Cockpit/engines**: Shallower end (~17 m)
+- **Rear cabin door**: ~29 m (only penetrable section)
+- **Fuselage/tail**: Deepest section (~32 m)
+- **Conditions**: Typically calm in the Bodrum area; Aegean visibility 15–25 m in summer
+- **Best season**: April–October
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Groupers inhabit sheltered sections beneath the wings and fuselage. Tuna, lionfish, scorpionfish, and sea bream are regularly encountered. The sandy substrate around the wreck supports additional Mediterranean species.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The spread wings and intact cockpit framing create strong subjects for wide-angle photography. The aircraft silhouette is particularly striking when approached from below in good visibility.
+
+## Safety
+
+The depth range (17–32 m) places this in Advanced territory for full wreck exploration. Penetration is restricted to the rear cabin door — no other sections should be entered. Lionfish and scorpionfish present minor hazard if touched. Dive with a Bodrum-area operator familiar with the site.
+
+## Site Information
+
+- **Location**: Bodrum area, Muğla Province, Turkey (Aegean Sea)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 65 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Aquapro Dive Center Bodrum — Plane Wreck Dive](https://aquapro-turkey.com/services/plane-wreck-dive/), [Diving in Bodrum — SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide/destination/bodrum-9752736). Last updated 2026-05-17.*

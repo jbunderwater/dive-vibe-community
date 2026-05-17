@@ -26,38 +26,14 @@ The MSC Baltics III is a large cargo vessel that grounded on the northern coast 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
-## Marine Life
+## Current Status
 
-Once accessible, the wreck's steel surfaces will likely attract the cold-water species typical of Newfoundland's northern coast — Atlantic cod, cunner, sea ravens, and shorthorn sculpin among the encrusting invertebrates. Northern lobster, snow crab, sea urchins, and cold-water anemones are expected to colonise the hull over time, as they do on established wrecks throughout the region.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The MSC Baltic III grounded on February 15, 2025, after losing power in severe winter weather near Wild Cove in the Bay of Islands, Newfoundland. All 20 crew members were rescued by Royal Canadian Air Force helicopter. As of 2026, an emergency safety exclusion zone remains in place around the wreck while salvage and environmental response operations continue. The vessel's hull has sustained significant structural damage from subsequent winter storms, with visible steel plate buckling on both sides and the stern section settling visibly lower. Resolve Marine, contracted by Mediterranean Shipping Company, is leading the removal effort; full removal is expected around summer 2027. **The site is not accessible for recreational diving and approaching within the exclusion zone is prohibited under Transport Canada marine notices.**
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+This site is off-limits to recreational divers as of 2026. An active exclusion zone enforced by the Canadian Coast Guard prohibits approach. Monitor Transport Canada and Canadian Coast Guard advisories for any updates on exclusion zone status before considering any visit.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [CBC News - MSC Baltic III removal contract](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract-9.7187035), [CBC News - One year later Baltic III](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860), [gCaptain - Baltic III hull further compromised](https://gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised-after-winter-storms/), [Maritime Executive - Salvage Efforts Baltic III](https://maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii-for-winter). Last updated 2026-05-17.*

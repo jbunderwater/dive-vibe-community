@@ -26,36 +26,26 @@ Spring Bay is a muck dive site near Victoria in the Cadboro Bay area, offering s
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Spring Bay supports the diverse cryptic community typical of Victoria-area muck and mixed-substrate diving. Giant Pacific octopus den on any rocky rubble patches along the bottom, their dens betrayed by crab shell middens. Nudibranchs are abundant on encrusting surfaces and in the eelgrass beds. Purple sea urchins, sea cucumbers, crabs (rock crabs, hermit crabs), flatfish, and sea stars are distributed across the sandy and silty bottom. Heading straight from the bay opens up rocky reef terrain with lingcod and rockfish; heading left follows a calmer rocky shoreline suited to small-creature searching.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site is a sheltered bay with a shallow profile to around 15 metres (50 feet) maximum. The bay itself is calm and beginner-friendly; conditions become more demanding toward Ten Mile Point to the right, where currents increase significantly. Visibility is tidal-dependent and ranges from around 3 m in poor conditions to good visibility near shore on calm days with incoming tide. A slack-water dive is strongly preferred.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry via Tudor Avenue in the Cadboro Bay district of Victoria. Parking for approximately 10 vehicles is available. The entry involves stairs down to the beach followed by a rocky, sometimes slippery shore crossing of about 40 metres to the water. The entry point is manageable but requires care with gear.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive at slack tide for best visibility. For macro and cryptic species, head left along the rocky shoreline and keep close to shore. For reef fish and nudibranchs on rocky structure, head straight out of the bay. Avoid venturing toward Ten Mile Point unless you are an experienced diver comfortable with current — conditions change quickly in that direction. This site is productive year-round; winter months bring the best visibility.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tidal currents increase sharply toward Ten Mile Point — stay in the bay if inexperienced with current. Cold water (7–10°C) requires a dry suit or thick wetsuit with hood and gloves. The rocky entry can be slippery, especially with gear; booties with good grip are important. Always dive at or near slack water.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Spring Bay — Zentacle Dive Reviews](https://www.zentacle.com/Beach/1382/spring-bay), [Shore Diving in Victoria — Rockfish Divers](https://www.rockfishdivers.com/shore-diving.html), [Victoria BC Dive Sites — vancouver-island-dive-sites.com](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html). Last updated 2026-05-17.*

@@ -23,7 +23,7 @@ West Escareo occupies a small bay west of Puerto Galera's Lighthouse Headland. T
 
 - **Location**: West of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (sandy bay with coral outcrops)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: ~20 meters

@@ -25,7 +25,7 @@ The pass is famous for manta ray encounters -- the mantas come to the pass to fe
 
 - **Location**: Outer barrier reef near Amadee Island, south of Noumea, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive through reef pass
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-30 meters

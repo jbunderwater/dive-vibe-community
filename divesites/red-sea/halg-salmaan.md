@@ -3,8 +3,8 @@ name: Halg Salmaan
 lat: 25.500538
 lng: 34.6691608
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,38 @@ addedBy: osm_import
 
 ## Halg Salmaan
 
-Halg Salmaan is a  dive site in Red Sea, Middle East.
+Halg Salmaan is a protected reef inlet in the Marsa Alam area, accessible from Port Ghalib by boat. The name refers to a crack in the fringing reef that does not reach the shore, forming a V-shaped channel with walls on both the north and south sides. It is described by Emperor Divers as one of several distinct dive zones accessible from Port Ghalib and frequently dived as a second dive following Marsa Mubarak.
 
 ## Overview
 
-Halg Salmaan is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The site features two distinct sub-sites — Halg Maksour and Halg Hadana — separated by a lagoon that regularly attracts pods of spinner dolphins. "Maksour" means "broken" in Arabic, describing the cracked reef wall filled with crevices and channels; "Hadana" means "breeding ground," reflecting the pinnacles that shelter juvenile fish. Together they form a complementary dive that suits all levels, with easy conditions and interesting topography.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Spinner dolphins frequently seen in the lagoon between the two sub-sites
+- Scorpionfish and moray eels in reef structure
+- Large black and twin-spotted snappers sheltering around Halg Hadana pinnacles
+- Giant table corals and fire coral formations in shallow zones
+- Whitetip reef sharks, turtles, and napoleon wrasse reported by divers
+- Dugongs occasionally observed in the broader area
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive; typically a day trip from Port Ghalib. Depth 5–35 m (sandy bottom at 36 m). Very low current; rated easy for all experience levels. North reef offers more shelter; south reef best in calm conditions. Visibility 20–30 m.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Watch the lagoon between sub-sites for spinner dolphins before and after the dive
+- Maksour's deep ravine and giant pinnacle are the structural highlights
+- Hadana's pinnacle marks the start of a small lagoon: check for juvenile fish in the shelter
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Port Ghalib / Marsa Alam area, southern Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 35 meters
+- **Difficulty**: All levels (easy conditions)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Seahorse Diving Club – Halg Salmaan](https://seahorse-marsaalam.com/dive-sites/halg-salmaan/), [Divers-Guide – Halg Salmaan](https://www.divers-guide.com/en/halg-salmaan), [Emperor Divers – Port Ghalib](https://www.emperordivers.com/day-diving-location-subpage/port-ghalib-diving/). Last updated 2026-05-17.*

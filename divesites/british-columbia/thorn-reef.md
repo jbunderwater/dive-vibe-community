@@ -26,36 +26,31 @@ Thorn Reef is a rocky reef dive site in Barkley Sound on the outer west coast of
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound reef sites in this area are documented for giant Pacific octopus, wolf eels in rocky crevices (some reaching 1.5 metres in length), lingcod, and multiple rockfish species including tiger, quillback, and China rockfish with distinctive colouring. Nudibranchs — including orange peel nudibranchs and neon-coloured species — are abundant on encrusting invertebrates. Sea cucumbers, sea pens, and scallops are found on more sheltered sections of the reef. Fish-eating anemones (bright orange) and plumose anemones decorate rocky faces. Ratfish are commonly seen at these depths in the outer sound.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Rocky reef to approximately 18 metres in the outer Barkley Sound. Visibility is typically excellent (15–20+ metres) in autumn and winter outside plankton bloom periods. The site sits in a current-swept, nutrient-rich zone that sustains high invertebrate diversity. Moderate swells from the open Pacific can be present; conditions are best in calm summer and early autumn windows.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Boat-only access via charter from Port Alberni or Ucluelet. No shore access to this outer-sound reef. Confirm precise coordinates with local operators (Rendezvous Dive Adventures operates extensively in this area). Descent and ascent should be via shot line or anchor line in open water.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Exposed outer sound location; Pacific swell can create hazardous surface conditions for entries and exits.
+- Drysuit required year-round — water temperature 7–11°C.
+- Time dives around tidal slack to minimise current on the reef.
+- Remote location — boat must remain on station throughout the dive.
 
-## Photography
+## Tips and Recommendations
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Pair with nearby sites (Renate Reef, Kyen Point, Chup Point) in a multi-dive day through a Barkley Sound charter.
+- Macro photographers: the nudibranch diversity here rivals many Indo-Pacific destinations at this depth range.
+- Best overall conditions: July through October for calm seas; November–February for peak visibility.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Barkley Sound Diving — Rendezvous Dive Adventures](https://rendezvousdiving.com/barkley-sound-diving/), [Scuba Diving Barkley Sound — Scuba Diver Life](https://scubadiverlife.com/scuba-diving-barkley-sound/), [Emerald in the Rough: Barkley Sound — Scuba Diving Magazine](https://www.scubadiving.com/emerald-in-rough-scuba-diving-barkley-sound-canada). Last updated 2026-05-17.*

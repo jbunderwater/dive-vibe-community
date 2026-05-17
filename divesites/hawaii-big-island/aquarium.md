@@ -63,7 +63,6 @@ Dives typically navigate between the various grottoes and caverns. The site requ
 
 This site does not require advanced cavern training for the typical tourist dive, as experienced divemasters keep divers in light-penetrating areas with clear exits. However, respect the limitations of the cavern environment and follow your divemaster's guidance closely.
 
-
 ---
 *This dive site information was researched from Kona dive operator reviews and underwater topography guides. Last updated 2026-03-16.*
 

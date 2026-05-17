@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Sharm Lulli
 
-Sharm Lulli is a  dive site in Red Sea, Middle East.
+Sharm Lulli (also spelled Sharm El Luli) is a beach and reef dive site within Wadi El Gemal National Park, located approximately 60 km south of Marsa Alam on the southern Egyptian Red Sea coast (lat 24.63, lng 35.12). It is described as one of the most beautiful beaches in Egypt, with shallow turquoise water and healthy coral reefs beginning just metres from shore.
 
 ## Overview
 
-Sharm Lulli is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Sharm El Luli is a protected site within Wadi El Gemal National Park, with strict conservation rules designed to keep the reef healthy and the beach pristine. The water is shallow, calm, and clear — making it accessible for beginners while offering excellent visibility (up to 30 m on good days) for experienced divers and snorkellers. The fringing reef features soft and hard coral gardens in excellent condition.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Sea turtles are regularly seen at the reef. The site supports diverse reef fish communities across the soft and hard coral structures. The protected national park status contributes to the reef's notable health and marine biodiversity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the beach with calm, shallow water entry. Reef begins within metres of the shoreline. Conditions are generally calm and protected. Suitable for beginners upward. The national park setting means regulations apply — check current permit requirements with local operators.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Wadi El Gemal National Park, ~60 km south of Marsa Alam, Red Sea, Egypt
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Tourista Travel – Sharm El Luli](https://tourista-travel.com/sharm-el-luli-marsa-alam/), [TripAdvisor – Sharm El Luli](https://www.tripadvisor.com/Attraction_Review-g311425-d2703875-Reviews-Sharm_El_Luli-Marsa_Alam_Red_Sea_and_Sinai.html). Last updated 2026-05-17.*

@@ -13,54 +13,37 @@ addedBy: osm_import
 
 ## Stingray Point
 
-Stingray Point is a reef dive site in Utila, Caribbean.
+Stingray Point is a south side reef site at the western end of Utila, considered by some local operators to have the healthiest and most vibrant coral on the island, and named for the southern stingrays and spotted eagle rays regularly encountered here.
 
 ## Overview
 
-Stingray Point is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
-
-## Site Information
-
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+Stingray Point features a shallow reef top ranging from just 5 to 25 ft (1.5–8 m), with a large sand channel descending to 130 ft (40 m) separating two distinct reef sections. The contrast between the shallow coral-covered sections and the open sand channel creates a varied habitat that supports an impressive range of species. Multiple sources rate the coral quality here as among the best on Utila, with both hard and soft coral varieties in good condition across the reef sections on either side of the sand channel. The site's western location means it can be reached as a drift dive endpoint from adjacent sites.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The sand channel hosts a characteristic assembly of ray species — southern stingrays and spotted eagle rays are regular sightings that give the site its name. Garden eels inhabit the sandy floor in colonies, emerging to feed in the current. Seahorses and pipefish are found in the surrounding coral, alongside flounder partially buried in the sand. The reef structures support the full range of south side Caribbean fish: snapper, grouper, parrotfish, angelfish, and wrasse.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Reef top**: 5–25 ft (1.5–8 m) — very shallow entry zone
+- **Sand channel**: slopes to ~130 ft (40 m)
+- **Working depth**: most marine life found between 15–60 ft (5–18 m)
+- **Current**: generally calm; site is on the south/west exposure
+- **Visibility**: typically good — clear water over sand
 
-## Entry and Exit
+## Entry / Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Utila town. Experienced divers can incorporate Stingray Point as the endpoint of a drift dive from adjacent west side sites.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Move slowly over the sand channel — garden eels retract as divers approach, but patience rewards with full-colony views.
+- Southern stingrays are most reliably seen over the sand bottom, partially buried or resting.
+- The shallow reef top offers an extended, bright safety stop with plenty to observe.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Excellent for ray photography — southern stingrays on sand, spotted eagle rays mid-water over the channel. The garden eel colonies are also a distinctive Utila subject. Wide-angle over the sand channel captures the scale of the habitat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*

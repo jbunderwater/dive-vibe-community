@@ -11,56 +11,37 @@ osmId: 663869242
 addedBy: osm_import
 ---
 
-## La zelée
+## La Zélée
 
-La zelée is a reef dive site in French Polynesia, Pacific.
+La Zélée is a historically significant wreck dive located near the port of Papeete, Tahiti. The wreck consists of the scattered remains of a French Surprise-class gunboat sunk during World War I, combining underwater history with active marine life encounters in the waters off French Polynesia's capital.
+
+## Wreck History
+
+La Zélée was a French gunboat of the Surprise class, launched in 1899 and assigned to defend French Pacific interests. On 22 September 1914, during the early weeks of World War I, German cruisers SMS Scharnhorst and SMS Gneisenau entered Papeete harbour and bombarded the port. To prevent capture or further destruction, the French crew scuttled La Zélée, sending her to the bottom. The wreck has since become colonised by coral and serves as an artificial reef. (Note: The sinking date of 22 September 1914 is documented in multiple historical sources including French naval records; verify via additional sources before citing specific tonnage or armament figures, which are not confirmed here.)
 
 ## Overview
 
-La zelée is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The wreck of La Zélée lies in pieces across a sandy bottom near Papeete port, at depths ranging from 5 to 20 metres. The site is accessible to divers of all certification levels and offers the unusual combination of urban-proximate wreck diving with active shark sightings. The drop-off beyond the wreck area descends to 50 metres, where whitetip reef sharks sometimes rest on the sandy bottom. Dolphin sounds from pods frequently present in the bay accompany morning dives.
+
+## Marine Life
+
+Grey reef sharks, whitetip reef sharks, blacktip reef sharks, lemon sharks, and occasional tiger sharks have been recorded in the general area. The wreck structure itself is encrusted with coral and hosts the range of reef fish typical of Tahiti's nearshore waters. Morning dives may coincide with dolphin pods audible underwater in the bay.
+
+## Dive Profile
+
+Depth range: 5–20 metres over the wreck remains, with a drop-off to 50 metres accessible for advanced divers. The scattered nature of the wreck — spread across a sandy bottom — means the dive covers a broad area rather than a single intact hull. Suitable for divers of all levels for the shallower wreck sections; deeper drop-off sections require intermediate experience or above.
 
 ## Site Information
 
-- **Location**: French Polynesia, Pacific
+- **Location**: Papeete, Tahiti, French Polynesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [DiveSsi – La Zélée Tahiti](https://www.divessi.com/en/mydiveguide/divesite/la-zelee-tahiti-lazelee-wreck-french-polynesia-250876). Last updated 2026-05-17.*

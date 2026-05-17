@@ -21,43 +21,34 @@ Sunken Harbor comprises a thriving artificial reef system approximately one mile
 
 ## Site Information
 
-- **Location**: 1 mile offshore, Mission Bay area, San Diego
+- **Location**: Approximately 1–2 miles offshore from Mission Beach, San Diego (coordinates 32.77°N, 117.26°W — Wreck Alley area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Water Temperature**: 15–20°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Wreck Alley complex — which this site appears to be part of, or closely related to — supports a thriving assemblage of Southern California reef species. Strawberry anemones (*Corynactis californica*) and white metridium anemones carpet wreck surfaces. Kelp bass, calico bass, and barred sand bass school around structure. Garibaldi (California's state marine fish) are present on shallower reef sections. Lingcod, sheephead, and opaleye are frequently reported. Giant sea bass (ESA-listed; recovering population) have been observed on deep wrecks in this area. California spiny lobster shelter in hull cavities. Schools of blacksmith, señorita, and other wrasse-family fish are common. Red and purple sea urchins, scallops, and various nudibranchs colonize all surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Maximum depth 30 metres (the deeper wrecks in this complex, particularly the HMCS Yukon at approximately 30 m, reach this depth). The site is advanced-only due to depth and the need for careful gas management. Most wreck surfaces are in the 18–30 m range. Bottom time at depth is limited; plan dive profiles conservatively. Visibility is generally excellent — Wreck Alley is known for clear water, typically 10–20 metres, with occasional days exceeding 30 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access required via charter from Mission Bay. Multiple San Diego dive charter operators run regular trips to Wreck Alley. The wrecks are marked with surface buoys for mooring. No shore access.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Book with a licensed dive charter out of Mission Bay for the most reliable access. Penetration of wrecks in this complex — particularly the HMCS Yukon, which has been extensively modified with interior access holes — requires wreck penetration certification. Carry a torch for interior exploration. Advanced Open Water minimum; Wreck certification recommended for interior dives.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced divers only. Depth (up to 30 m) requires careful gas planning and ascent management. Penetration of any wreck structure requires appropriate wreck training and redundant light sources. Nitrogen narcosis can be a factor at maximum depth. Current is generally mild but should be checked pre-dive. Cold thermoclines can occur — water temperature may drop noticeably below 20 m.
 
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+**Note:** "Sunken Harbor" as a named site does not appear in published Wreck Alley dive guides or Wikipedia's Wreck Alley article. The OSM node at these coordinates places this site in the Wreck Alley complex approximately 1–2 miles off Mission Beach. The description above is based on the documented characteristics of Wreck Alley and its constituent wrecks.
 
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Wreck Alley](https://en.wikipedia.org/wiki/Wreck_Alley), [Waterhouse Charters — Wreck Alley San Diego](https://www.waterhorsecharters.com/wreck-alley/), [La Jolla.com — Complete Guide to Wreck Alley](https://lajolla.com/article/guide-to-wreck-alley-san-diego/). Last updated 2026-05-17.*

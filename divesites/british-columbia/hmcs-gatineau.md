@@ -26,38 +26,30 @@ HMCS Gatineau was originally built for the Royal Navy as HMS Express in 1934 and
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+
+## Wreck History
+
+HMCS Gatineau (pennant H61) began her career as HMS Express (H61), an E-class destroyer built by Swan Hunter at Wallsend-on-Tyne. She was laid down 24 March 1932 and launched 29 May 1934. During the Second World War, Express saw exceptional service with the Royal Navy: she was one of the last two ships to leave Dunkirk on 4 June 1940, evacuating 3,419 troops over the course of the operation. On 19 December 1941, she rescued nearly 1,000 survivors of the battleship HMS Prince of Wales, sunk by Japanese aircraft off Malaya. Transferred to the Royal Canadian Navy on 15 June 1943 and renamed HMCS Gatineau, she joined the Mid-Ocean Escort Force. On 6 March 1944, while escorting Convoy HX 280, Gatineau participated in the sinking of the German submarine U-744. That May she transferred to Escort Group 11 and was present during the D-Day landings. She was paid off into reserve at Esquimalt on 10 January 1946, struck from the Navy List on 1 April 1947, and sold to Capital Iron & Steel Metals of Victoria. Her hull was used to form part of the Royston Wrecks breakwater at Royston, BC in 1948, protecting the Comox Logging & Railway Company's booming grounds in Comox Bay.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Royston Wrecks complex — including the Gatineau hulk — supports eel grass beds in the adjacent shallows, which provide habitat for juvenile fish and invertebrates. The metal hull remnants attract encrusting life: plumose anemones on exposed fittings, rockfish sheltering in hollow sections, and the occasional lingcod on elevated structure. The site is largely buried in rip-rap and sediment; what remains above the bottom is heavily colonized by sessile invertebrates typical of sheltered northern Vancouver Island waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Gatineau hulk at Royston lies in Comox Bay in relatively shallow water. Like the other Royston breakwater vessels, the wreck is partially buried and dispersed — this is not an intact penetrable wreck like the ARSBC artificial reefs, but rather a historically significant collection of hull remnants spread along the breakwater line. Diving conditions are governed by the bay's exposure to southerly weather. Depths are shallow (under 10–12 m) along the breakwater line.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore or small-boat access from the Royston foreshore, accessible via the Royston Greenway trail south of Courtenay. The site is on private property and protected under the BC Heritage Conservation Act. Visitors access the intertidal zone of the wrecks at low tide from the adjacent public path, and diving is conducted from small boats or shore entries on calm days.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Visit at low tide to see the upper portions of the wrecks before diving. Dive only on calm days — the bay is exposed to southerly swells and conditions become dangerous in wind. Respect the archaeological site designation: no artifacts may be removed or disturbed. Combining the Royston dive with Comox Valley kayak tours is a popular option when weather limits underwater access.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The site is exposed to southerly winds and swells. Dive only in calm conditions. The shallow depth (under 12 m) reduces decompression risk, but visibility in Comox Bay is variable. Drysuit recommended (water temperature 8–12°C). BC Heritage Conservation Act prohibits disturbing or removing any part of the archaeological site.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61)), [For Posterity's Sake — HMCS Gatineau H61](http://www.forposterityssake.ca/Navy/HMCS_GATINEAU_H61.htm), [Bigdoer.com — Royston Wrecks](https://www.bigdoer.com/63751/exploring-history/royston-wrecks-vancouver-island-bc/), [UASBC — Regional Shipwreck Surveys](https://www.uasbc.com/communications/regional-shipwreck-surveys). Last updated 2026-05-17.*

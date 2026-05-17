@@ -13,50 +13,43 @@ addedBy: osm_import
 
 ## Los Islotes
 
-Los Islotes is an iconic reef and wall dive site in La Paz & Sea of Cortez, famous for its playful California sea lion colony.
+Los Islotes is an iconic reef and wall dive site in La Paz & Sea of Cortez, famous for its resident California sea lion colony — the southernmost rookery of the species in the Gulf of California.
 
 ## Overview
 
-Los Islotes ranks among the most iconic dive sites in La Paz, featuring two rocky islets at the northern tip of the Espiritu Santo Archipelago within Espiritu Santo National Park. The site is home to over 900 California sea lions, with curious juveniles often compared to underwater puppies. Los Islotes offers diverse diving opportunities, from snorkeling in shallow areas to wall dives descending to 26+ meters.
+Los Islotes consists of two rocky islets at the northern tip of the Espíritu Santo Archipelago within Espiritu Santo National Park. The site is home to the southernmost California sea lion (Zalophus californianus) rookery in the Gulf of California. Researchers tracking the colony since 1980 document approximately 600 individuals, with around 170 pups born annually. Curious juveniles approach divers closely — the interactions are often compared to diving with underwater puppies. Beyond the sea lions, Los Islotes offers wall dives descending to 26+ meters, an underwater arch decorated with cup coral, large boulders, and cavern-like formations. The boat ride from La Paz is approximately 80 minutes.
 
 ## Site Information
 
-- **Location**: Espiritu Santo National Park, La Paz, Sea of Cortez
+- **Location**: Northern tip of the Espíritu Santo Archipelago, Espiritu Santo National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 15-30 meters (excellent in good conditions)
-- **Current**: Variable, can be strong
-- **Best Time**: July to November (warm water, peak megafauna season)
 
 ## Marine Life
 
-Los Islotes is renowned for its California sea lion encounters—playful juveniles are a highlight for most divers. The site features fan coral-covered walls inhabited by numerous species of rockfish including Cabrilla and Grouper. Other common encounters include stonefish, eagle rays, mobula rays, dolphin pods, and during peak season (October-February), whale sharks in nearby waters.
+California sea lions are the defining encounter — juvenile sea lions are particularly playful and inquisitive with divers. The rocky walls host fan corals, cup corals, and sponges, with rockfish species including cabrilla and grouper. Moray eels, octopus, and king angelfish are regularly sighted. Giant manta rays and dolphin pods pass through the area, particularly in the September–November reopening period. During the open season, whale sharks may be encountered in nearby Bay of La Paz waters (October–April).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Multiple dive zones ring the islets, ranging from shallow snorkel-depth areas (3–5 m) around the sea lion haul-out rocks to wall sections descending to 26 m. The underwater arch (explored around 10–15 m) is a highlight. Visibility is typically 15–25 meters. Conditions are generally calm but can be affected by surge and seasonal swell.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only from La Paz (~80 minutes crossing). The Cortez Club and La Paz Divers are among the main operators running Los Islotes trips. National park fees apply. Divers must follow park regulations on minimum approach distances to sea lions and observe all ecological guidelines set by certified operators.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not touch, chase, or corner sea lions — observe and let them approach you.
+- Bull sea lions are territorial; stay aware of their body language (open mouth, stiff posture = warning).
+- Visit early in the dive season (September–October) when young animals are most active and playful.
+- Seahorse and jawfish sightings have been documented at this site — check sandy patches near boulders.
+- Snorkeling is possible in the shallower zones if not diving.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+**Seasonal closure: Los Islotes is closed to all visitor access from June 1 through August 31 each year.** This mandatory closure protects California sea lions during their breeding season when mothers are nursing pups and territorial bulls are most aggressive. The site reopens on September 1. Always confirm current closure status with your operator before planning a visit. In water, maintain respectful distance from bulls displaying territorial behavior.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [TOSEA — The Successful Sea Lions of Los Islotes](https://tosea.net/the-successful-sea-lions-of-los-islotes/), [Cortez Club — Los Islotes is Back](https://cortezclub.com/los-islotes-is-back-dolphins-mantas-and-sea-lions-in-full-swing/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [La Paz Divers — Sea Lions Tour](https://lapazdivers.com/la-paz-sea-lions-tour/). Last updated 2026-05-17.*

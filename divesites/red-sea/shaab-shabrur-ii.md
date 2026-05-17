@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Shaab Shabrur II
 
-Shaab Shabrur II is a  dive site in Red Sea, Middle East.
+Shaab Shabrur II is an offshore reef dive site near Marsa Alam, Egypt, at approximately 24.88°N, 34.99°E — closely neighbouring the main Shaab Shabrur / Shaab Shabror reef at 24.89°N, 34.99°E. These two entries represent distinct but very closely positioned reef sections (approximately 100–200 m apart) of the same reef system.
 
 ## Overview
 
-Shaab Shabrur II is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Shabrur (and its second section, Shaab Shabrur II) is accessible by short boat ride (under 10 minutes) from Marsa Alam marina. The reef offers excellent visibility — typically exceeding 30 m — and minimal current (under 1 knot), making it suitable for divers of all experience levels.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef is categorised as suitable for marine biology observation and underwater photography, with a "good" quality rating on dive databases and described as biologically interesting. The average dive depth is approximately 18 m, with the maximum reaching 35 m at the deepest reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~18 m
+- **Maximum depth**: 35 m
+- **Current**: Low (under 1 knot)
+- **Visibility**: Excellent (over 30 m)
+- **Entry**: Boat (under 10 minutes from Marsa Alam)
+- **Suitable for**: All divers
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The southern Red Sea reef community: grouper, snappers, shoals of bannerfish and jacks. Occasionally spinner dolphins pass through the Marsa Alam offshore reef zone. Soft and hard corals along the reef wall. Scorpionfish and crocodilefish on sandy areas.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Wannadive — Shaab Shabrur II](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Shaab_Shabrur_II/index.html), [ScubaDiverz — Shaab Shabrur II](https://scubadiverz.org/diving-locations.php?territory=africa&country=egypt&region=marsa-alam&diving-location=shaab-shabrur-ii&id=634). Last updated 2026-05-17.*

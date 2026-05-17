@@ -13,54 +13,38 @@ addedBy: osm_import
 
 ## Sharm el-Naga
 
-Sharm el-Naga is a reef dive site in Red Sea, Middle East.
+Sharm el-Naga is a well-established reef dive site situated approximately 40 km south of Hurghada in a protected bay on the Egyptian Red Sea coast. It is one of the most popular shore-dive destinations in the Hurghada/Safaga region, known for its accessible house reef, calm conditions, and diverse reef fish communities.
 
 ## Overview
 
-Sharm el-Naga is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site centres on a protected bay with a fringing house reef accessible directly from shore. The reef is notable for its outstanding coral health — visitors report over 200 coral species — and the bay's calm, sheltered character makes it suitable for both beginner and experienced divers. The reef drops from the shallows to a sandy bottom at 30 m, with deeper drop-offs reaching approximately 80 m. Boat excursions from the site reach additional nearby dive spots including The Wall, Canyon Reef, Coral Garden, Panorama Reef, and Sadana Drop Off. A Sadana Wreck from the 18th century with amphoras is also accessible by zodiac.
+
+## Marine Life
+
+Sharm el-Naga's reef supports abundant and varied marine life. Regularly encountered species include crocodile fish, nudibranchs, blue-spotted stingrays, moray eels, and sea turtles. Eagle rays are seen along the reef slope. Whale sharks are occasionally reported in the bay, though sightings are rare and seasonal. Anemonefish (clownfish) are common in shallow reef areas.
+
+## Dive Profile
+
+Shore entry from the beach leads directly to the reef. Depth is gradual from the shallows, reaching a sandy plateau at around 25–30 m. The reef can be dived in both directions. Conditions are typically calm with minimal current inside the bay. Visibility is generally excellent. Suitable for all levels from beginners upward.
+
+## Tips & Safety
+
+- One of the best shore-dive options in the Hurghada region; no boat required for the house reef
+- The site operates a dive centre on-site (Sharm El Naga Resort & Diving Center, operating since 1985)
+- Morning dives typically offer the best light and visibility
+- Additional boat dive sites accessible by zodiac from the resort
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Approximately 40 km south of Hurghada, Red Sea coast, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Sharm El Naga Resort & Diving Center](https://www.sharmelnaga.com/diving-center/dive-sites/), [Memphis Tours – Sharm El Naga](https://www.memphistours.com/Egypt/WikiTravel/sinai-and-red-sea/wiki/Sharm-El-Naga). Last updated 2026-05-17.*

@@ -26,38 +26,30 @@ The S.F. Tolmie was a 235-foot four-masted barquentine built in Victoria in 1921
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The scattered wreck structure is colonised by encrusting invertebrates typical of southern Vancouver Island's cold-water environment. Plumose anemones and fish-eating anemones attach to exposed metal knees and hawse pipes. Small rockfish and kelp greenlings shelter among the debris, and giant Pacific octopus den in the crevices where wreck material meets the sandy bottom. Sea stars are common on adjacent substrate, and harbour seals frequently haul out on the small surrounding islands and investigate divers below.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies at approximately 30–40 feet (9–12 m) depth, following the line where rocky reef transitions to sand. The shallowest remnants (including the hawse pipes near the former bow) begin at around 30 feet; deeper debris scatters toward 40 feet. Because the hull was wooden, little superstructure survives — what remains are iron structural members, metal fittings, and scattered frames colonised in marine growth. Visibility in this area is moderate and improves in winter months.
+
+## Wreck History
+
+The S.F. Tolmie was a 235-foot (72 m), 1,497-deadweight-ton four-masted barquentine with a wooden hull, built in 1921 at Victoria, BC, by the Cholberg Shipyard and named in honour of Simon Fraser Tolmie, who later served as Premier of British Columbia. The vessel operated on voyages to the Orient and Australia before being sold and converted, eventually becoming a log barge with masts removed. On December 27, 1944, gale-force winds drove the barge free from its moorings at Ogden Point in Victoria Harbour; it dragged its anchor out of the harbour and was wrecked on Macaulay Point (also described as Harrison Island) where the wooden hull broke up. The wreck is now only diveable by boat, as the adjacent shoreline is Department of National Defence property.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from West Bay or other Victoria-area launch points. The adjacent land is DND property, so shore access is not permitted. The site suits open-water certified divers given its shallow depth; a compass heading following the reef-to-sand transition helps locate scattered wreckage.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Look for the distinctive hawse pipes (anchor chain tubes, 6–10 feet long) near the bow area as a navigational anchor point. Rusticles similar in appearance to those on the Titanic can be seen in protected sections, and coralline algae gives some wreckage a pink hue. Low-viz conditions respond well to wide-angle macro work. A dry suit is recommended year-round given Victoria's cold water (7–10°C).
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Cold water (7–10°C) requires a dry suit or a well-fitted thick wetsuit. The site is relatively sheltered but Victoria Harbour's tidal cycles affect visibility and mild currents — time dives to slack water for best conditions. No overhead hazards on this open, scattered wreck.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Nauticapedia — S.F. Tolmie](https://www.nauticapedia.ca/Gallery/SF_Tolmie.php), [UASBC — San Pedro & S.F. Tolmie](http://www.uasbc.com/exploration-dive-trips/san-pedro-sf-tolmie), [ScubaBoard — S.F. Tolmie Wreck Video](https://scubaboard.com/community/threads/mar-25-2012-s-f-tolmie-wreck-victoria-video.415645/), [ScubaBC — Wreck Diving on Vancouver Island](https://www.scubabc.ca/wreck-diving-on-vancouver-island/). Last updated 2026-05-17.*

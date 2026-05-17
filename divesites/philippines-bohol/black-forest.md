@@ -24,8 +24,8 @@ The site features a steep slope that drops from coral heads in the shallows at 8
 ## Site Information
 
 - **Location**: Northeast side, Balicasag Island, Bohol, Philippines
-- **Entry Type**: Boat dive (30 min from Alona Beach)
-- **Site Type**: Steep slope/wall
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters

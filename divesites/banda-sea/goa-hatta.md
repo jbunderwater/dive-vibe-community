@@ -13,53 +13,41 @@ addedBy: osm_import
 
 ## Goa Hatta
 
-Goa Hatta is a wall dive site in Banda Sea, Asia.
+Goa Hatta (also known as "Hole in the Wall" or "Hatta Goa") is a wall dive on Pulau Hatta, roughly 25 km from Banda Neira. The site takes its name from a dramatic archway or sinkhole that divers descend through — a vertical gap in the reef that opens onto an expansive seaward wall.
 
 ## Overview
 
-Goa Hatta is a dive site in Banda Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The dive begins with a descent through a narrow gap or archway in the reef at shallow depth, which opens dramatically to a vertical wall dropping into the depths of the Banda Sea. The wall is richly decorated with large sea fans, barrel sponges, black sun corals, and colonies of leather corals. Giant clams are embedded in the wall at shallower sections, and hawksbill turtles are frequently spotted resting on ledges or cruising the wall face.
 
-## Site Information
-
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
-
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Eagle rays and midnight snappers patrol the deeper portions of the wall, while the shallower archway and surrounding reef harbour triggerfish, wrasse, striped catfish, and damselfish. The site's exceptional health and coral cover are typical of Hatta Island's relative remoteness from fishing pressure.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Entry through a shallow archway or gap (5–10 m), then descending the seaward wall to 30–50 m. Most marine life is concentrated in the 15–35 m range. Visibility is typically excellent — 20–30 m. Currents are generally mild at this site, making it accessible for intermediate divers despite the wall depth.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- Hawksbill turtles (frequent wall encounters)
+- Eagle rays on deeper wall sections
+- Giant clams on shallower reef
+- Large sea fans and barrel sponges
+- Black sun corals on wall overhangs
+- Midnight snappers, triggerfish, wrasse
+- Leather coral colonies and soft corals
 
-## Tips and Recommendations
+## Entry / Exit
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Boat dive from liveaboard or day-trip vessel from Banda Neira. The site is on the sheltered side of Hatta Island. Currents are typically mild.
 
-## Safety Considerations
+## Tips
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Best combined with Karang Hatta for a full day on Hatta Island
+- The archway entry is the defining feature — ask your guide to position the group for the descent through the gap
+- Calm conditions make this a good site for underwater photography
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-
+The archway provides a natural frame for wide-angle photography. The wall's sea fan gardens and turtle encounters make this one of the more photogenic Hatta sites. Bring a wide-angle setup.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/). Last updated 2026-04-05.*
+*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/). Last updated 2026-05-17.*

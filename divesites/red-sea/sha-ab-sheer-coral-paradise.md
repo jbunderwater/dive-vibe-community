@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## Sha ab Sheer - Coral Paradise
 
-Sha ab Sheer - Coral Paradise is a  dive site in Red Sea, Middle East.
+Sha'ab Sheer — Coral Paradise is the western dive site on Sha'ab Sheer, a large horseshoe-shaped offshore reef located just south of Safaga in the northern Egyptian Red Sea.
 
 ## Overview
 
-Sha ab Sheer - Coral Paradise is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sha'ab Sheer is a substantial reef system stretching over a kilometre, offering two distinct dive areas: Shark Point at the eastern end and Coral Paradise at the western end. Coral Paradise, as the name implies, is characterised by the exceptional quality and density of its coral formations — brain corals, table corals (Acropora), and extensive hard coral gardens are the defining feature here.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The western face is more sheltered than the exposed eastern point, with depths ranging from around 5 m on the shallow reef top to 30 m along the wall. Visibility is typically excellent at 20–30 m, especially in spring and autumn. The site is accessible on both liveaboard itineraries (overnight anchoring is common in the sheltered sections) and day trips from Safaga.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth**: 5–30 m
+- **Current**: Variable; generally moderate on western side
+- **Visibility**: 20–30 m
+- **Entry**: Boat
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Blue-spotted stingrays (Taeniura lymma), scorpionfish, and moray eels inhabit the reef crevices. Macro life includes nudibranchs, cleaner shrimp, and juvenile fish sheltering in coral heads. The western orientation and shelter allow the coral gardens to reach their greatest density and variety on this section of the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Egypt Liveaboard — Sha'ab Sheer](https://www.egypt-liveaboard.com/dive-sites/shaab-sheer-safagas-underwater-sanctuary-of-color-and-calm/), [Zentacle — Sha'ab Sheer Coral Paradise](https://www.zentacle.com/Beach/1748/shaab-sheer-coral-paradise). Last updated 2026-05-17.*

@@ -24,7 +24,7 @@ Shore entry over the black volcanic pebble beach makes this an accessible dive w
 ## Site Information
 
 - **Location**: Tulamben, northeast Bali, Indonesia
-- **Entry Type**: Shore dive (black pebble beach)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

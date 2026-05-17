@@ -19,7 +19,7 @@ The most iconic dive site in Cabo San Lucas. A large pinnacle covered in purple 
 
 - **Location**: Cabo San Lucas Marine Park, inside the bay
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / pinnacle
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-25 meters

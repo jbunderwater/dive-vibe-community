@@ -26,36 +26,26 @@ Warner Rock is a rocky reef dive site in Barkley Sound, a world-class cold-water
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound rocky reefs consistently produce encounters with giant Pacific octopus, wolf eels, lingcod, cabezon, and rockfish (tiger, china, quillback). Invertebrate assemblages on exposed Pacific reef structure include giant plumose anemones, strawberry anemones, sea pens, nudibranchs, and encrusting sponges. Ratfish and harbour seals are regular visitors. Steller sea lions frequent the outer sound. The region's proximity to the open Pacific generates more species diversity than comparable sheltered east-coast sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive to 18 m maximum on an exposed rocky reef in outer Barkley Sound. The Pacific influence maintains cold, oxygen-rich conditions year-round. Bull kelp grows in the upper reef zone; the deeper rocky terrain transitions to dense invertebrate carpeting. Relatively shallow profile allows extended bottom time.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only, departing from Bamfield or Ucluelet. Live-boat support is standard for outer Barkley Sound sites; local operators know the specific entry points and current patterns for each rock. Independent access without local knowledge is not recommended.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Book through established Barkley Sound charter operators. Best conditions above the waterline are summer and fall; underwater visibility peaks in fall and winter (30+ m at depth). Spring plankton may reduce near-surface visibility, with better clarity below 9 m. Water temperature: 8–10 °C at dive depth. Drysuit required.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Open Pacific exposure creates real weather risk — swell height and wind can change quickly. Cold water (8–10 °C) makes drysuit diving mandatory. Always ascend with a surface marker buoy deployed; live-boat pickup is standard practice.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Rendezvous Dive Adventures — Barkley Sound](https://rendezvousdiving.com/barkley-sound-diving/), [Scuba Diver Life — Barkley Sound](https://scubadiverlife.com/scuba-diving-barkley-sound/), [Scuba Diving Magazine — BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-17.*

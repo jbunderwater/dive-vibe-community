@@ -3,8 +3,8 @@ name: Shaab Samadai East
 lat: 24.9857333
 lng: 34.9966333
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Shaab Samadai East
 
-Shaab Samadai East is a  dive site in Red Sea, Middle East.
+Shaab Samadai East is the eastern section of Sha'ab Samadai (Dolphin House), the famous spinner dolphin sanctuary 11 km southeast of Marsa Alam marina, situated closest to the inner lagoon where dolphins rest.
 
 ## Overview
 
-Shaab Samadai East is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sha'ab Samadai — "Dolphin House" — is a crescent-shaped offshore reef approximately 1.4 km long and 1 km wide. The eastern arm of the reef borders the dolphins' resting lagoon (Zone A, no entry) and transitions into the snorkelling zone (Zone B). The eastern diving area in Zone C offers shallower and calmer conditions than the western wall, making it the more beginner-friendly side of the site.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The eastern reef features shallower coral gardens, protected from open-ocean currents by the reef's crescent shape. Hard corals, soft corals, and diverse reef fish concentrate here. The proximity to the lagoon means spinner dolphins occasionally swim close to the reef edge, and snorkellers in Zone B can interact with the dolphins within the regulations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Maximum depth**: ~20 m (shallower than western side)
+- **Current**: Low
+- **Entry**: Boat only (approximately 1–1.5 hours from Marsa Alam)
+- **Difficulty**: Beginner-friendly on eastern shallows
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Spinner dolphins (Stenella longirostris) are the main draw — the inner lagoon holds a resident pod that returns daily to rest. On the reef itself: clownfish and anemones, batfish, parrotfish, and the typical Marsa Alam reef community. The calmer eastern side supports good coral coverage accessible to snorkellers and novice divers.
 
-## Tips and Recommendations
+## Regulations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Zone A (inner lagoon) is strictly off-limits. Snorkellers in Zone B must wear life jackets. No feeding, touching, or chasing dolphins. The site can become crowded due to its fame — early morning departures offer less-crowded conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [SeaHorse Diving Club — Shaab Samadai](https://seahorse-marsaalam.com/dive-sites/shaab-samadai-dolphin-house/), [PADI — Shaab Samadai Dolphin House](https://www.padi.com/dive-site/egypt/shaab-samadai-dolphin-house/), [Marsaalam.com — Samadai and Sataya Reefs](https://marsaalam.com/samadai-and-sataya-dolphin-house-reefs/). Last updated 2026-05-17.*

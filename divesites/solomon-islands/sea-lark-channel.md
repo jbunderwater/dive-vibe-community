@@ -24,10 +24,10 @@ Visibility is typically around 25 metres. Currents can reach 2 knots or more, pa
 ## Site Information
 
 - **Location**: Sealark Reef, east of Honiara, Guadalcanal
-- **Entry Type**: Boat dive from Honiara
-- **Site Type**: Drift dive along reef wall
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30+ metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: ~25 metres
 - **Water Temperature**: 27-28°C
 - **Current**: 2+ knots at bends; consistent incoming tide current

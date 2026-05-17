@@ -26,36 +26,10 @@ Boca Catalina is a sheltered bay on Aruba's calm leeward coast where a gently sl
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
 Green sea turtles graze on the seagrass with little concern for divers, making this one of Aruba's most reliable turtle encounter sites in the calm, shallow bay. Southern stingrays glide through the sandy lanes between coral heads, and the patch reef supports parrotfish, small angelfish, and reef fish typical of Aruba's protected western-coast shallows.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: PADI, Zentacle, SnorkelingReport, TropicalSnorkeling. Last updated 2026-03-16.*

@@ -23,7 +23,7 @@ Sabang Bay Wrecks is a collection of several deliberately scuttled small vessels
 
 - **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (scuttled vessels)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-12 meters

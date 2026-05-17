@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## Sha ab Khanzir
 
-Sha ab Khanzir is a  dive site in Red Sea, Middle East.
+Sha'ab Khanzir is a reef dive site in the Egyptian Red Sea at approximately 28.40°N, 34.45°E, in the northern Red Sea / Hurghada offshore zone.
 
 ## Overview
 
-Sha ab Khanzir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The name Khanzir is Arabic for triggerfish, and the site is named for the abundance of redtooth triggerfish (Odonus niger) typically found here — making it distinct from the common assumption that "khanzir" refers to pigs (which is a different Arabic usage). This is a moderate reef with minimal current, making it accessible for divers of various experience levels.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site features a sandy plateau at around 20 m with coral heads scattered across it, and a main reef structure with a mix of hard coral species. The site is not considered one of the dramatic headline destinations of the northern Red Sea, but offers reliable encounters with a wide range of common reef species in calm conditions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Average depth**: ~20 m (sandy plateau)
+- **Maximum depth**: ~25 m
+- **Current**: Very low
+- **Entry**: Boat
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Redtooth triggerfish are the defining species. Blue-spotted stingrays, moray eels, parrotfish, butterflyfish, and grouper are typical reef inhabitants. The sandy plateau between coral heads provides habitat for garden eels and small invertebrates.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Greatest Dive Sites — Sha'ab Khanzir](https://egypt.greatestdivesites.com/dahab/shaab_khanzir). Last updated 2026-05-17.*

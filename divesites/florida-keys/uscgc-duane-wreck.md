@@ -26,38 +26,37 @@ The USCGC Duane is a 327-foot Treasury-class US Coast Guard cutter intentionally
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36.6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
-The Duane is famous for its resident population of massive goliath grouper that congregate in the holds and around the props, often approaching divers closely. Large schools of barracuda and permit patrol the upper structure alongside hawksbill turtles, while green moray eels and spiny lobster occupy the lower decks and darker recesses. Bull sharks and spotted eagle rays are occasional visitors in the open water surrounding the wreck.
+The Duane is known for resident goliath grouper that shelter in the holds and around the screws, joined by massive schools of grunt that pack the wheelhouse and formations of barracuda cruising the mooring lines. Sea turtles often rest inside the radar tower, and large tarpon and Caribbean reef sharks are regular sightings. Three decades of Gulf Stream nutrients have produced dense encrusting growth — orange cup corals and sponges blanket the superstructure and railings.
+
+## Wreck History
+
+The Duane was a 327-foot Treasury-class US Coast Guard cutter built at the Philadelphia Navy Yard — keel laid 1 May 1935, launched 3 June 1936, commissioned 1 August 1936 — with a displacement of 2,350 long tons. During the Battle of the Atlantic she escorted convoys and, on 17 April 1943 while screening Convoy HX-233, joined her sister cutter Spencer in the attack that sank U-175; Duane picked up 22 of the U-boat's survivors as prisoners of war. She later served on ocean station and Vietnam patrol duty (redesignated WHEC-33 in 1965) and conducted four sea rescues totaling 346 survivors. Decommissioned 1 August 1985 as the oldest active US military vessel, she was donated to the Keys Association of Dive Operators and scuttled on 27 November 1987 by opening hatches and seacocks, settling upright on a sandy bottom roughly one mile south of Molasses Reef. The wreck was added to the National Register of Historic Places on 16 May 2002 and is a featured stop on the Florida Keys National Marine Sanctuary Shipwreck Trail.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36.6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Duane sits upright with the mast and crow's nest at 60 feet, the navigating bridge at 70 feet, wheelhouse at 80 feet, superstructure deck at 90 feet, main deck at 100 feet, and sand at roughly 118-120 feet. Hull, rudders, propellers, ladders, portholes, and railings are largely intact. Currents outside the reef line are typically strong, which often produces excellent visibility — local operators report being able to see the wreck's outline from the surface in clear conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. Mooring buoys are set at the bow and stern; descending and ascending on the buoy line is essentially mandatory given the current. Most Key Largo operators (Rainbow Reef, Horizon Divers, and similar) run two-tank trips to the Duane.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced Open Water is the minimum certification; the site is also commonly used for Deep Diver and Wreck Diver specialty training.
+- Nitrox is strongly recommended given the 100-foot main deck depth.
+- A reel is required for any penetration; pre-cut openings make swim-throughs possible, but cables and lines inside the hull create entanglement risk.
+- Plan to start at the deepest planned point and work shallower toward the crow's nest as a built-in safety stop.
 
 ## Safety Considerations
 
-Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong, variable currents are the defining hazard — divers without buoy-line discipline can be swept off the site quickly. Currents at times are reported strong enough to pull the site's mooring buoys underwater. Depths of 100-120 feet put divers well into the deep range with meaningful narcosis and short no-deco windows on air. Penetration is not safe by default and requires proper wreck training, a continuous guideline, and redundant lights and gas; entanglement from internal cables is a documented hazard. This is not a beginner dive.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck's intact, upright silhouette and three decades of orange cup coral and sponge encrustation on the superstructure are the marquee subjects. The depth and current make this a wide-angle, strobe-or-video-light dive — bottom time and gas planning constrain shot count, so plan compositions before splashing. Schooling barracuda along the mooring lines and grunt clouds in the wheelhouse are reliable wildlife subjects.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [Florida Keys National Marine Sanctuary - Duane](https://floridakeys.noaa.gov/shipwrecktrail/duane.html), [Wikipedia - USCGC Duane](https://en.wikipedia.org/wiki/USCGC_Duane), [DAN Alert Diver - Silver Anniversary of the USCGC Duane](https://dan.org/alert-diver/article/the-silver-anniversary-of-the-uscgc-duane/), [US Coast Guard - The Sinking of U-175](https://coastguard.dodlive.mil/2013/04/the-sinking-of-u-175/), [National Marine Sanctuary Foundation - USCGC Duane](https://marinesanctuary.org/blog/the-uscgc-duane-a-historic-ship-and-artificial-reef/). Last updated 2026-05-17.*

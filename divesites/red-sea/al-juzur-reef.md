@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Al Juzur Reef
 
-Al Juzur Reef is a reef dive site in Red Sea, Middle East.
+Al Juzur Reef is an offshore reef dive site in the Strait of Tiran area at approximately 28.48°N, 34.51°E — placing it near the four major reefs (Jackson, Woodhouse, Thomas, Gordon) that form the Tiran Strait dive zone between Tiran Island and the Sinai Peninsula.
 
 ## Overview
 
-Al Juzur Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Al Juzur" means "the islands" or "the reefs" in Arabic. The coordinates place this reef within the Straits of Tiran, the narrow channel connecting the Red Sea to the Gulf of Aqaba. This is one of the most hydrodynamically active sections of the Egyptian Red Sea — the strait is over 250 m deep in places and funnels large volumes of water, producing the strong currents that make the main Tiran reefs famous for their rich pelagic life.
 
-## Site Information
+The site is recorded as a boat dive with a maximum depth of 16 m, suggesting a shallower reef platform within the Tiran zone rather than one of the deep-wall sites. The Tiran strait reefs are known for supporting sharks (grey reef, hammerhead), barracuda, tuna, eagle rays, and dense coral life on walls that plunge to 60+ m, though shallower platforms at 16 m also exist on portions of the reef structures.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+No site-specific source for "Al Juzur Reef" as a distinct named dive destination separate from the main Tiran reefs was found in dive guides.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Maximum depth**: 16 m (as recorded)
+- **Current**: Can be strong (Strait of Tiran location)
+- **Entry**: Boat (approximately 1.5 hours from Sharm el-Sheikh)
+- **Visibility**: ~20 m (consistent year-round in strait)
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Reef sharks, barracuda, tuna, eagle rays, grouper, and diverse reef fish are typical in the Tiran zone. Hard and soft corals on the reef structure.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [PADI — Diving in Straits of Tiran](https://www.padi.com/diving-in/straits-of-tiran/), [Scuba Diving Place — Tiran](https://scubadiving.place/egypt/sharm-el-sheikh/tiran-straits-of-tiran). Last updated 2026-05-17.*

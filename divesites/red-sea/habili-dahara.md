@@ -13,53 +13,31 @@ addedBy: osm_import
 
 ## Habili Dahara
 
-Habili Dahara is a  dive site in Red Sea, Middle East.
+Habili Dahara is a small isolated pinnacle (habili) in the Marsa Alam / Wadi Gimal area of the southern Red Sea. It lies 5.5 km from Dahara Island and 4.6 km south of Shaab Sharm, rising from a sandy seabed to just below the surface. It is typically visited in transit by liveaboard boats.
 
 ## Overview
 
-Habili Dahara is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The habili is approximately 70 m long and unsheltered, though strong currents are rarely encountered here. When currents do occur, the southern side provides refuge. During calm conditions the site is suitable for less experienced divers. The reef is not particularly rich in hard coral compared to larger reef systems, but supports characteristic Red Sea habili fauna. Mooring is possible for up to two boats in calm conditions.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Common sightings include moray eels, blue-spotted stingrays, scorpionfish, and occasional shoals of butterflyfish and squirrelfish. Coral rocks dotted across the surrounding sandy bottom at approximately 18 m provide habitat for hiding species. The site rewards patient divers willing to look carefully among the coral rocks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Average depth around the habili is 18 m, rising to near the surface at the top of the pinnacle. Sandy bottom surrounds the reef at 18–20 m. Conditions are generally calm and moderate, making this a relaxed dive when conditions allow. Access is by boat; usually visited as a transit stop.
 
-## Entry and Exit
+## Site Information
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- **Location**: Wadi Gimal area, Marsa Alam, southern Red Sea, Egypt — 5.5 km from Dahara Island
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving – Habili Dahara](https://www.redsea-diving.com/habili-dahara/). Last updated 2026-05-17.*

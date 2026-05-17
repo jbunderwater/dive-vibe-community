@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Pointe à Lézard
 
-Pointe à Lézard is a wall dive site in Guadeloupe, Caribbean.
+Pointe à Lézard is a wall dive site near Bouillante on the western coast of Basse-Terre, Guadeloupe, within the broader Cousteau Reserve diving area. The cape — a classified protected coastal zone since 2009 — features colourful sponge growth and an underwater landscape of small peaks and rocky formations.
 
 ## Overview
 
-Pointe à Lézard is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue . Gently sloping wall with barrel sponges, geothermal vents (23m), hot springs in basin, magnificent fault, royal lobsters, unique volcanic geothermal features from Bouillante. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pointe à Lézard is a cape in the commune of Bouillante, between Pointe-à-Lézard and Pointe Mahault. This stretch of coast was formally classified as a marine and coastal protected area in 2009. The dive site lies in the same western Basse-Terre corridor as the Cousteau Reserve (Jacques Cousteau Marine Reserve), which begins at the Îlets Pigeon a short distance to the south.
 
-## Site Information
-
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The site is described by Plongeur.com as offering "beautiful coloured sponges" with diving between small peaks. Depths range from 6 to 40 metres, though the maximum planned recreational depth here is 25 metres.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range**: 6–25 m (recreational maximum)
+- **Entry**: Boat dive
+- **Current**: Light to moderate; western Basse-Terre is generally calmer than Atlantic-facing sites
+- **Visibility**: Good; consistent with Cousteau Reserve area conditions
+- **Setting**: Rocky pinnacles, sponge-covered walls, and mixed reef terrain
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The western Basse-Terre reef corridor supports typical Cousteau Reserve fauna. Documented reef species in this area include yellowtail snapper, French angelfish, hawksbill turtles, southern stingrays, hogfish, moray eels, and lobsters. The colourful sponge communities on the rocky formations provide habitat for a diverse range of invertebrates and small reef fish. The area's protected status since 2009 has contributed to healthy reef condition.
 
-## Tips and Recommendations
+## Notes
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+This site sits just north of the core Cousteau Reserve zone. Most dive operators based in Bouillante (including Tropical Sub Diving and Les Heures Saines) include Pointe à Lézard on their site rotation alongside the Îlets Pigeon reserve sites.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+
+*Sources: [Plongeur.com — La Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard). Last updated 2026-05-17.*

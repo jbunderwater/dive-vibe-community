@@ -13,54 +13,39 @@ addedBy: osm_import
 
 ## Reenie's Rock
 
-Reenie's Rock is a reef dive site in Halmahera, Asia.
+Reenie's Rock is a reef dive site in the Goraici Islands group, between Halmahera and Bacan, North Maluku, Indonesia.
 
 ## Overview
 
-Reenie's Rock is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Reenie's Rock is one of three primary dive sites around the Goraici island group, alongside Terumbu Gora and a site off Pulau Goweba. The Goraici archipelago is a rosary of small islands exposed to tidal currents between Halmahera and Bacan, and the locals' successful protection of their reefs from destructive fishing has resulted in some of the healthiest coral in the region. During dives at Reenie's Rock, divers have documented dogtooth tuna, blacktip and whitetip reef sharks, grey reef sharks, and leaf fish among the coral-covered walls. The site combines coral-covered walls dropping into deeper water with macro hotspots typical of the Goraici group.
 
 ## Site Information
 
-- **Location**: Halmahera, Asia
+- **Location**: Goraici Islands, between Halmahera and Bacan, North Maluku, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Documented species at Reenie's Rock and the wider Goraici group include dogtooth tuna, blacktip reef sharks, whitetip reef sharks, grey reef sharks, leaf fish (Taenianotus triacanthus), and a range of reef fish. Night dives in the Goraici group are productive for octopus, crustaceans, and nudibranchs in the sheltered bays between islands. The reefs support large pelagic species on the current-facing walls and richer macro life in the calmer areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site features coral-covered walls that drop from the shallows into deeper water reaching 40 metres. Current flows vary by tidal state — the productive shark and pelagic encounters typically coincide with running current on the exposed faces. The sheltered sections allow divers to manage exposure and finish dives comfortably. Visibility is generally good throughout the Goraici group, typically 20–30 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by liveaboard. The Goraici Islands are approximately 50 km west of mainland Halmahera and are not serviced by any land-based dive operation. Operators including Mermaid Liveaboards and others include Reenie's Rock in their Halmahera / West Halmahera itineraries.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Time the current-facing wall dives to the tidal flow for best shark encounters, then explore the sheltered reef sections for macro subjects. The Goraici group rewards multi-day visits — combining Reenie's Rock, Terumbu Gora, and the Pulau Goweba site provides a comprehensive picture of the area.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The Goraici Islands are among the more remote destinations in the Halmahera region. Emergency evacuation to Ternate would be required for any medical incident, followed by onward transfer to Manado. Currents on the exposed walls can be strong. Always carry an SMB and do not drift beyond pickup range. Water temperature is 27–30°C.
 
 ---
-*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*
+*Sources: [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [IndoPacificImages – West Halmahera Scuba Diving Sites, The Goraici Islands](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*

@@ -23,7 +23,7 @@ Sabang Point sits on the eastern side of Sabang Bay, where currents sweep around
 
 - **Location**: Eastern Sabang Bay, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive (reef and sand)
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: ~15 meters

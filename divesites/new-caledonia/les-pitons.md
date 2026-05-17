@@ -25,7 +25,7 @@ The remote northern location, 410 kilometres from Noumea, means this site sees m
 
 - **Location**: Near Poum, northern tip of Grande Terre, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/tunnel system in reef pinnacles
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters

@@ -17,49 +17,19 @@ El Mohgar is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-El Mohgar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+El Mohgar is a dive site at coordinates 26.005°N, 34.335°E, placing it approximately 20–25 km north of Marsa Alam town along the southern Red Sea coast. This general area — between Marsa Alam and El Quseir — features the type of intact fringing reef typical of the southern Egyptian Red Sea: healthy hard coral coverage, clear water, and relatively low dive traffic compared to the more northern Hurghada sites. The name "El Mohgar" does not appear in major English-language dive databases, suggesting it may be a locally used topographic or site name. No site-specific dive operator descriptions were located for this entry.
+
+*No site-specific dive sources were found for El Mohgar. The following reflects the general character of the southern Red Sea reef system at this location.*
+
+The reef corridor between Marsa Alam and El Quseir consists of fringing coral reefs with walls, overhangs, and sandy channels. Marine life characteristic of this stretch includes Napoleon wrasse, groupers, moray eels, turtles, reef sharks, and diverse reef fish communities including anthias, butterflyfish, and surgeonfish. Shore access varies — some sites require boat transfer, others can be reached from coastal camp facilities. Water is typically clear (20–30 m visibility) and warm (24–30°C).
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Red Sea coast, ~25 km north of Marsa Alam
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*No site-specific dive sources located for El Mohgar. Description reflects general characteristics of the Marsa Alam / El Quseir reef system at this location. Last updated 2026-05-17.*

@@ -3,7 +3,7 @@ name: Wadi El Gimal
 lat: 24.3627547
 lng: 35.2996087
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## Wadi El Gimal
 
-Wadi El Gimal is a  dive site in Red Sea, Middle East.
+Wadi El Gimal is a protected marine area in the southern Red Sea, situated within the Wadi El Gemal National Park between Marsa Alam and Hamata — one of the few diving destinations in Egypt with direct beach access to pristine reefs inside a national park boundary.
 
 ## Overview
 
-Wadi El Gimal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Shams Alam Hotel (formerly Wadi Gimal Diving Centre) has operated in the area since 1999 and maintains the only dive resort with direct access to the Wadi El Gemal National Park. The park encompasses both terrestrial and marine zones, protecting some of Egypt's least-disturbed reef systems. The park is named after the valley "Wadi el Gemal" (Valley of the Camels) that cuts westward from the coast to the Saharan mountains.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The house reef is accessible directly from a diver's platform on the beach. Shore dives cover a sheltered reef with sandy bays and diverse coral gardens at depths of 5–17 m. Zodiac transfers access 10 outer reef sites reaching 40 m, including platforms, pillar formations, and deeper wall sections.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Documented residents include napoleons (humphead wrasse), white-tip reef sharks, turtles, barracudas, tuna, and varied stingray species. The site has numerous cleaning stations where groupers and snappers queue for attention from cleaner shrimps and wrasses. Nudibranchs, crocodile fish, and scorpionfish are regularly seen on the reef substrate. The protected status of the park has helped maintain healthy fish populations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from a dedicated diver's platform. The house reef extends across three sandy bays at accessible depths. Outer reef sites (50–90 minutes by zodiac) are dependent on sea conditions and are suitable for divers comfortable with open water. Total logged sites: 29 plateau sites plus 10 outer reef locations.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- The house reef is ideal for a relaxed first dive or training dives
+- Outer reef conditions are weather-dependent; check with guides before committing
+- The park setting means reduced diver numbers compared to northern Red Sea sites
 
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Sportifdive — Wadi Gimal Dive Site](https://www.sportifdive.co.uk/divesites/34/31/Red_Sea_and_Egypt/Marsa_Alam/Wadi_Gimal_-_Marsa_Alam_Diving), [TheRedSeaDiver — Wadi El Gemal](https://www.theredseadiver.com/wadi-el-gemal). Last updated 2026-05-17.*

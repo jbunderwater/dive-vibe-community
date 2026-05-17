@@ -11,7 +11,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "House reef for many diveclubs. Elephant statue under the water",
-      "description:ru": "Домашний риф для дайв центров. Есть статуя слона под водой.",
+      "description:ru": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0440\u0438\u0444 \u0434\u043b\u044f \u0434\u0430\u0439\u0432 \u0446\u0435\u043d\u0442\u0440\u043e\u0432. \u0415\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u044f \u0441\u043b\u043e\u043d\u0430 \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439.",
       "name": "Light House",
       "scuba_diving:depth": "18",
       "scuba_diving:difficulty": "1",
@@ -34,7 +34,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Sand bottom with hundreds of eels",
-      "description:ru": "Песчаное дно с сотнями угрей.",
+      "description:ru": "\u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0435 \u0434\u043d\u043e \u0441 \u0441\u043e\u0442\u043d\u044f\u043c\u0438 \u0443\u0433\u0440\u0435\u0439.",
       "name": "Eel Garden",
       "scuba_diving:depth": "20",
       "scuba_diving:difficulty": "1",
@@ -58,12 +58,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "الجزر",
+      "alt_name": "\u0627\u0644\u062c\u0632\u0631",
       "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
-      "description:ru": "Потрясающий подводный ландшафт из коралловых островков. Подходит для ночных погружений. На рифе живет черепаха.",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442 \u0438\u0437 \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043a\u043e\u0432. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439. \u041d\u0430 \u0440\u0438\u0444\u0435 \u0436\u0438\u0432\u0435\u0442 \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430.",
       "name": "Al Juzur Reef",
-      "name:ar": "الجزر",
-      "name:ar1": "الجزر",
+      "name:ar": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar1": "\u0627\u0644\u062c\u0632\u0631",
       "name:en": "The Islands",
       "scuba_diving:depth": "16",
       "scuba_diving:entry": "shore",
@@ -86,7 +86,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description:ru": "Британский вооруженный сухогруз, затонул 6 октября 1941 года",
+      "description:ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0445\u043e\u0433\u0440\u0443\u0437, \u0437\u0430\u0442\u043e\u043d\u0443\u043b 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1941 \u0433\u043e\u0434\u0430",
       "historic": "wreck",
       "name": "SS Thistlegorm",
       "seamark:type": "wreck",
@@ -95,7 +95,7 @@
       "sport:scuba_diving": "yes",
       "wikidata": "Q32276",
       "wikimedia_commons": "Category:Thistlegorm (ship, 1940)",
-      "wikipedia": "ar:سفينة زيستل جورم",
+      "wikipedia": "ar:\u0633\u0641\u064a\u0646\u0629 \u0632\u064a\u0633\u062a\u0644 \u062c\u0648\u0631\u0645",
       "wreck:max_depth": "31",
       "validated": true,
       "validation_source": "perplexity"
@@ -248,7 +248,7 @@
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Beautiful place with coral arches, narrow entrance. Named for knocking of tank to narrow coral tunnel.",
-      "description:ru": "Красивый дайвсайт, с узким тунелем в коралле, постепенно уходящем на глубину и аркой на глубине около 25м. Название получил за характерный звук стука балонов о коралловые стенки.",
+      "description:ru": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0434\u0430\u0439\u0432\u0441\u0430\u0439\u0442, \u0441 \u0443\u0437\u043a\u0438\u043c \u0442\u0443\u043d\u0435\u043b\u0435\u043c \u0432 \u043a\u043e\u0440\u0430\u043b\u043b\u0435, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0438 \u0430\u0440\u043a\u043e\u0439 \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u043e\u043a\u043e\u043b\u043e 25\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0437\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u0437\u0432\u0443\u043a \u0441\u0442\u0443\u043a\u0430 \u0431\u0430\u043b\u043e\u043d\u043e\u0432 \u043e \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0435 \u0441\u0442\u0435\u043d\u043a\u0438.",
       "name": "The Bells",
       "scuba_diving:depth": "31",
       "scuba_diving:entry": "shore",
@@ -271,7 +271,7 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Shark Reef",
-      "name:ru": "риф Акула",
+      "name:ru": "\u0440\u0438\u0444 \u0410\u043a\u0443\u043b\u0430",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
@@ -1166,14 +1166,14 @@
     "lon": 34.84145,
     "osm_id": 663869779,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 80,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "SS Numidia Wreck",
-      "name:ar": "نوميديا",
+      "name:ar": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
       "name:de": "Numidia",
       "name:en": "Numidia",
       "name:fr": "Numidia",
@@ -1183,7 +1183,8 @@
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "perplexity_limited"
-    }
+    },
+    "max_depth": 80
   },
   {
     "name": "Aida II Wreck",
@@ -1196,11 +1197,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "brand:ar": "عايدة",
-      "brand:wikipedia": "ar:عايدة (سفن سياحية)",
+      "brand:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "brand:wikipedia": "ar:\u0639\u0627\u064a\u062f\u0629 (\u0633\u0641\u0646 \u0633\u064a\u0627\u062d\u064a\u0629)",
       "historic": "wreck",
       "name": "Aida II Wreck",
-      "name:ar": "عايدة",
+      "name:ar": "\u0639\u0627\u064a\u062f\u0629",
       "name:de": "Aida",
       "name:en": "Aida",
       "name:fr": "Aida",
@@ -1768,9 +1769,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Umm Sid",
-      "name:ar": "رأس أم سد",
+      "name:ar": "\u0631\u0623\u0633 \u0623\u0645 \u0633\u062f",
       "name:en": "Ras Umm Sid",
-      "name:ru": "Рас Умм Сид",
+      "name:ru": "\u0420\u0430\u0441 \u0423\u043c\u043c \u0421\u0438\u0434",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wikidata": "Q14218645",
@@ -1916,7 +1917,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kormoran",
-      "name:ru": "Корморан",
+      "name:ru": "\u041a\u043e\u0440\u043c\u043e\u0440\u0430\u043d",
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "perplexity_limited"
@@ -2100,18 +2101,19 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "سنسبلاش هاوس ريف",
+      "alt_name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
       "name": "Sunsplash House Reef",
-      "name:ar": "سنسبلاش هاوس ريف",
-      "name:ar1": "سنسبلاش هاوس ريف",
+      "name:ar": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar1": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
       "name:en": "Sunsplash Housereef",
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "perplexity_limited"
-    }
+    },
+    "max_depth": 30
   },
   {
     "name": "Blue Hole",
@@ -2126,7 +2128,7 @@
     "tags": {
       "depth": "100",
       "description:en": "One of the most popular deep dive site in the world. Blue hole arch under 50m depth",
-      "description:ru": "Одно из самых популярных мест в мире для глубоководных погружений - арка Голубой дыры на глубине болee 50м",
+      "description:ru": "\u041e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043c\u0438\u0440\u0435 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439 - \u0430\u0440\u043a\u0430 \u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0434\u044b\u0440\u044b \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0431\u043e\u043bee 50\u043c",
       "name": "Blue Hole",
       "name:de": "Blaues Loch",
       "scuba_diving:entry": "shore",
@@ -2169,7 +2171,7 @@
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Amazing landscape, deep dive polular place.",
-      "description:ru": "Потрясающий ландшафт, популярное место для глубоководных погружений.",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439.",
       "name": "Canyon",
       "scuba_diving:depth": "39",
       "scuba_diving:entry": "shore",
@@ -2232,7 +2234,7 @@
       "historic": "wreck",
       "name": "Sufa Wreck",
       "name:en": "Soufa",
-      "name:he": "סופה",
+      "name:he": "\u05e1\u05d5\u05e4\u05d4",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
@@ -2715,11 +2717,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "شرم الناقة",
-      "int_name": "Sharm el-Nâqa, Sharm al Naqa",
+      "alt_name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "int_name": "Sharm el-N\u00e2qa, Sharm al Naqa",
       "name": "Sharm el-Naga",
-      "name:ar": "شرم الناقة",
-      "name:ar1": "شرم الناقة",
+      "name:ar": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar1": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
       "name:de": "Sharm al Naqa",
       "name:en": "Sharm al Naqa",
       "name:fr": "Sharm al Naqa",
@@ -3010,7 +3012,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Laguna Reef",
-      "name:ru": "риф Лагуна",
+      "name:ru": "\u0440\u0438\u0444 \u041b\u0430\u0433\u0443\u043d\u0430",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
@@ -3031,7 +3033,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Salama",
-      "name:de": "Gummibärchenriff",
+      "name:de": "Gummib\u00e4rchenriff",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:reef": "yes",
@@ -3444,7 +3446,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Saddle is the part of Blue hole wall destroyed by scientists",
-      "description:ru": "Седло - часть стенок кораллового колодца разрушенное учеными.",
+      "description:ru": "\u0421\u0435\u0434\u043b\u043e - \u0447\u0430\u0441\u0442\u044c \u0441\u0442\u0435\u043d\u043e\u043a \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043b\u043e\u0434\u0446\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0435 \u0443\u0447\u0435\u043d\u044b\u043c\u0438.",
       "name": "Saddle",
       "scuba_diving:depth": "6",
       "scuba_diving:entry": "shore",
@@ -3595,23 +3597,24 @@
     "lon": 34.862559,
     "osm_id": 5610583021,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "attraction": "sport",
       "name": "Small Brother Island",
-      "name:ar": "موقع الغوص - جزيرة الأخ الصغير",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
       "name:en": "Little Brother Dive Site",
       "name:fr": "Little Brother",
-      "name:uk": "Малий Брат місце для занурення",
+      "name:uk": "\u041c\u0430\u043b\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
       "validation_source": "perplexity"
-    }
+    },
+    "max_depth": 40
   },
   {
     "name": "Big Brother Island",
@@ -3625,10 +3628,10 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Big Brother Island",
-      "name:ar": "موقع الغوص - جزيرة الأخ الأكبر",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
       "name:en": "Big Brother Dive Site",
       "name:fr": "Big Brother",
-      "name:uk": "Великий Брат місце для занурення",
+      "name:uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
@@ -3929,7 +3932,7 @@
     "tags": {
       "historic": "wreck",
       "name": "Satil Wreck",
-      "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
+      "name:he": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
@@ -4808,7 +4811,7 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Woodhouse Reef",
-      "name:ar": "شعب وودهاوس",
+      "name:ar": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
       "name:de": "Woodhouse-Riff",
       "name:en": "Woodhouse Reef",
       "natural": "reef",
@@ -4877,7 +4880,7 @@
     "tags": {
       "int_name": "Panorama Reef",
       "name": "Panorama Reef",
-      "name:ar": "الإسم العربي ؟",
+      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
@@ -4945,7 +4948,7 @@
       "name": "Elphinstone Reef",
       "name:de": "Elphinstone-Riff",
       "name:en": "Elphinstone Reef",
-      "name:fr": "Récif d'Elphinstone",
+      "name:fr": "R\u00e9cif d'Elphinstone",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
@@ -5399,10 +5402,10 @@
     "name": "M GHAZLANI",
     "lat": 27.823618,
     "lon": 34.266015,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -5427,29 +5430,31 @@
     "name": "SHAAB ALI",
     "lat": 27.789457,
     "lon": 33.906156,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "SHARM",
     "lat": 27.856359,
     "lon": 34.280859,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Wreck Gubal",
@@ -5665,10 +5670,10 @@
     "name": "Gribal",
     "lat": 27.5532333,
     "lon": 33.9035167,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -5707,10 +5712,10 @@
     "name": "La Sirene housereef",
     "lat": 29.009158,
     "lon": 34.686857,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -5746,60 +5751,49 @@
     }
   },
   {
-    "name": "Beacon Rock (2)",
-    "lat": 27.7094049,
-    "lon": 34.1228485,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "Swiss Inn House Reef",
     "lat": 28.4791456,
     "lon": 34.4936961,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 12
   },
   {
     "name": "Sonesta Beach Reef",
     "lat": 27.9135243,
     "lon": 34.33492,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Sunk Buoy",
     "lat": 28.9785706,
     "lon": 34.6845889,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Falfulea",
@@ -5917,10 +5911,10 @@
     "name": "Last Alternative",
     "lat": 27.7293687,
     "lon": 34.2035294,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -5973,10 +5967,10 @@
     "name": "Aquanaut house reef",
     "lat": 27.2627363,
     "lon": 33.822248,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -5987,29 +5981,31 @@
     "name": "Small Gubal",
     "lat": 27.6116033,
     "lon": 33.7954903,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 28
   },
   {
     "name": "Siyul Soraya",
     "lat": 27.5523972,
     "lon": 33.8591552,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 20
   },
   {
     "name": "Mohammed Hasabella wreck",
@@ -6029,15 +6025,16 @@
     "name": "North Passage",
     "lat": 27.7755318,
     "lon": 34.0559435,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Sha ab Khanzir",
@@ -6085,29 +6082,31 @@
     "name": "Stingray Station",
     "lat": 27.7338321,
     "lon": 34.1852474,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 15
   },
   {
     "name": "Turtle beach",
     "lat": 27.7857834,
     "lon": 34.2403293,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 26,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 26
   },
   {
     "name": "Royal Azur Coral",
@@ -6169,24 +6168,10 @@
     "name": "Habibty Reef",
     "lat": 27.2461972,
     "lon": 33.8488278,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
-    "name": "Ulysses (2)",
-    "lat": 27.6902924,
-    "lon": 33.7919551,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6295,10 +6280,10 @@
     "name": "Makadi Bay Reef",
     "lat": 26.9977982,
     "lon": 33.9100742,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6351,15 +6336,16 @@
     "name": "Ras Ghamila",
     "lat": 27.9734819,
     "lon": 34.4285238,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 30
   },
   {
     "name": "Ras Burg",
@@ -6421,15 +6407,16 @@
     "name": "Temple",
     "lat": 27.8472964,
     "lon": 34.308849,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 20
   },
   {
     "name": "El Shugarat",
@@ -6502,41 +6489,28 @@
     }
   },
   {
-    "name": "Napoleon Reef (2)",
-    "lat": 28.4662014,
-    "lon": 34.5045805,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "The Excalibur Wreck",
     "lat": 27.2158333,
     "lon": 33.8444667,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 22
   },
   {
     "name": "Laguna Reef (2)",
     "lat": 27.9939833,
     "lon": 34.4923667,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6547,15 +6521,16 @@
     "name": "Middle Reef (2)",
     "lat": 26.7082288,
     "lon": 34.1046095,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 30
   },
   {
     "name": "Zingara",
@@ -6614,20 +6589,6 @@
     }
   },
   {
-    "name": "Tobia Hamra (2)",
-    "lat": 26.8251267,
-    "lon": 33.984925,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "Um Hal Hal",
     "lat": 26.7001667,
     "lon": 34.1109333,
@@ -6656,27 +6617,13 @@
     }
   },
   {
-    "name": "Panorama reef (2)",
-    "lat": 26.7518091,
-    "lon": 34.0873575,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "Gota El Dir",
     "lat": 27.4348962,
     "lon": 33.7380351,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6743,10 +6690,10 @@
     "name": "House Reef Taba",
     "lat": 29.4898343,
     "lon": 34.9020624,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6852,32 +6799,19 @@
     }
   },
   {
-    "name": "ELPHINSTON",
-    "lat": 25.30424,
-    "lon": 34.861574,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "WECH",
     "lat": 26.389115,
     "lon": 34.186845,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Abo Soyaeer",
@@ -6897,10 +6831,10 @@
     "name": "Habili Gouda",
     "lat": 25.5098923,
     "lon": 34.6636737,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -6967,15 +6901,16 @@
     "name": "Torfa El Mesheich",
     "lat": 24.664154,
     "lon": 35.1144236,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 20
   },
   {
     "name": "Wadi Gimal DC Housereef",
@@ -7023,10 +6958,10 @@
     "name": "Habbibi",
     "lat": 24.375,
     "lon": 35.3583333,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7093,10 +7028,10 @@
     "name": "Little One",
     "lat": 24.2167,
     "lon": 35.5834333,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7107,10 +7042,10 @@
     "name": "Makabi",
     "lat": 24.3,
     "lon": 35.4216667,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7149,15 +7084,16 @@
     "name": "White Rock",
     "lat": 23.81,
     "lon": 35.8033333,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Zabargad West",
@@ -7177,43 +7113,46 @@
     "name": "Paradise Reef (2)",
     "lat": 24.1884133,
     "lon": 35.4429245,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 20
   },
   {
     "name": "Styphano 1",
     "lat": 23.5473,
     "lon": 35.80345,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Styphano 2",
     "lat": 23.5290667,
     "lon": 35.80025,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Saint John North",
@@ -7331,10 +7270,10 @@
     "name": "Happy Life Housereef",
     "lat": 25.370436,
     "lon": 34.730603,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7401,10 +7340,10 @@
     "name": "Gotha Abu Diab",
     "lat": 24.0424469,
     "lon": 35.6365371,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7415,10 +7354,10 @@
     "name": "Gotta Kebira",
     "lat": 23.4100333,
     "lon": 35.9306833,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7471,10 +7410,10 @@
     "name": "Marsa Egla",
     "lat": 25.1713889,
     "lon": 34.8405556,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7541,10 +7480,10 @@
     "name": "Halg Salmaan",
     "lat": 25.500538,
     "lon": 34.6691608,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7583,10 +7522,10 @@
     "name": "Marsa Ghalib North",
     "lat": 25.5338257,
     "lon": 34.6410191,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7723,10 +7662,10 @@
     "name": "Lahami Bay Buoy 3 Batfish Pinnacle",
     "lat": 24.2133087,
     "lon": 35.4433966,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7737,15 +7676,16 @@
     "name": "Sharks Point",
     "lat": 24.8389226,
     "lon": 35.0338876,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Dreams Reef",
@@ -7765,10 +7705,10 @@
     "name": "Habili Dawoud",
     "lat": 24.869924,
     "lon": 34.994368,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7779,10 +7719,10 @@
     "name": "Habili Ghadir",
     "lat": 24.8430667,
     "lon": 35.1249833,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7793,10 +7733,10 @@
     "name": "Helioland",
     "lat": 25.9714525,
     "lon": 34.3658137,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7807,15 +7747,16 @@
     "name": "Wadi El Gimal",
     "lat": 24.3627547,
     "lon": 35.2996087,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 40
   },
   {
     "name": "Marsa Salim",
@@ -7877,10 +7818,10 @@
     "name": "Halg Dawoud",
     "lat": 24.870805,
     "lon": 34.9881345,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -7905,15 +7846,16 @@
     "name": "The Garden of Eden",
     "lat": 24.8390443,
     "lon": 35.0256371,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Gassous Bay",
@@ -7947,15 +7889,16 @@
     "name": "Torfa Tany",
     "lat": 25.6695339,
     "lon": 34.5877075,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Sha ab Ghadir",
@@ -8017,10 +7960,10 @@
     "name": "Lahami Bay Buoy 2 Housereef",
     "lat": 24.1969276,
     "lon": 35.4388368,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8045,10 +7988,10 @@
     "name": "Lahami Bay Beach Housereef",
     "lat": 24.208377,
     "lon": 35.4345989,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8059,10 +8002,10 @@
     "name": "Marsa Abu Dabab South",
     "lat": 25.3375,
     "lon": 34.7419444,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8087,10 +8030,10 @@
     "name": "Marsa Abu Dabbab North",
     "lat": 25.3420674,
     "lon": 34.741559,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 10,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8199,10 +8142,10 @@
     "name": "Marsa shagra",
     "lat": 25.2451181,
     "lon": 34.7968286,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8213,10 +8156,10 @@
     "name": "House Reef",
     "lat": 24.2563749,
     "lon": 35.4067469,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -8255,43 +8198,31 @@
     "name": "Sha ab Ghaza",
     "lat": 26.6194067,
     "lon": 34.013232,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Spit Reef",
     "lat": 26.6916,
     "lon": 33.9733,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52"
-    }
-  },
-  {
-    "name": "Daedalus Reef (2)",
-    "lat": 24.92835,
-    "lon": 35.8618,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+    },
+    "max_depth": 25
   },
   {
     "name": "Zabargad South",

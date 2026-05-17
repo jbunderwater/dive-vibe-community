@@ -3,7 +3,7 @@ name: Wreck Maria Shredder ExposedWreck
 lat: 28.188858
 lng: 34.447632
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: shore
 siteType: reef
 ref: null
@@ -11,55 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Maria Shredder ExposedWreck
+## Wreck Maria Schröder — Nabq Nature Reserve
 
-Wreck Maria Shredder ExposedWreck is a  dive site in Red Sea, Middle East.
+The Maria Schröder (the OSM dataset records this as "Maria Shredder") is the exposed wreck of a Norwegian-built steam cargo ship that ran aground on the Nabq reef on 11 April 1956. The vessel rests on the reef top approximately 100 metres from shore, largely above the waterline, within the Nabq State Natural Reserve north of Sharm El Sheikh.
 
 ## Overview
 
-Wreck Maria Shredder ExposedWreck is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Originally named Rolf Jarl, the Maria Schröder was built in Trondheim, Norway at Trondhjems Mekaniske Værksted (yard number 174), with a gross tonnage of 1,917 GRT, a "three-island" design typical of pre-WWII cargo steamers. On 11 April 1956, while en route from Aqaba, Jordan to West Germany, the ship ran aground on the Nabq reef in the Gulf of Aqaba. All efforts to refloat her failed and she was declared a constructive total loss.
 
-## Site Information
+Today the wreck's main hull sits above the waterline, a prominent landmark visible from the beach. A trail of hull plating and debris extends from the starboard side of the reef down to approximately 24 metres. The surrounding reef — part of the Nabq Managed Resource Protected Area — is encrusted with corals and sponges. The shallow, accessible position means the site is popular with snorkellers and beginner divers as well as visitors on day excursions from Sharm El Sheikh who explore on foot at low tide.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+## Wreck History
 
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- **Vessel**: Maria Schröder (ex Rolf Jarl)
+- **Built**: Trondheim, Norway (Trondhjems Mekaniske Værksted); 1,917 GRT
+- **Type**: Steam cargo ship, "three-island" design
+- **Grounded**: 11 April 1956 on Nabq reef, Gulf of Aqaba, while en route from Aqaba to West Germany
+- **Current state**: Main hull above water; debris trail to ~24 m depth; approximately 100 m from shore
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range**: 0–24 m (snorkelling to recreational diving depth)
+- **Entry**: Shore (via beach/reef flat at low tide for snorkelling; boat preferable for deeper sections)
+- **Visibility**: Typically 15–25 m in the Gulf of Aqaba
+- **Currents**: Generally mild in this sheltered coastal area
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The coral-encrusted wreck supports lionfish, moray eels, schools of reef fish (surgeonfish, wrasse, fusiliers), and assorted invertebrates. The Nabq Protected Area's fringing reef adjacent to the site adds garden eels in sandy patches and butterflyfish on the coral heads.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The exposed superstructure makes for dramatic above-water photography; the underwater section offers colourful, well-lit wide-angle shots given the shallow depth and clear Gulf of Aqaba water.
 
-## Additional Resources
+## Site Information
 
-- **Last Updated**: 2026-04-11
+- **Location**: Nabq Nature Reserve, Gulf of Aqaba, ~40 km north of Sharm El Sheikh
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 24 metres (debris trail)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [The Scuba News — Maria Schröder](https://www.thescubanews.com/2014/02/14/featured-red-sea-wreck-maria-schroder/), [Wrecks at Risk — Maria Schröder](https://wrecksatrisk.com/locations/maria-schroder/). Last updated 2026-05-17.*

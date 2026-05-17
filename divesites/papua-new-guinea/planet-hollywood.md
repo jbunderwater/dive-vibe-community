@@ -25,7 +25,7 @@ Planet Hollywood is located at the mouth of Planet Channel, the passage between 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45+ meters (wall continues deeper)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 30 meters
 - **Current**: Extremely strong and unpredictable
 - **Best Time**: Year-round; current conditions vary with tides

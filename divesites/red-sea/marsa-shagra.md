@@ -3,7 +3,7 @@ name: Marsa shagra
 lat: 25.2451181
 lng: 34.7968286
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: null
@@ -11,55 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Marsa shagra
+## Marsa Shagra
 
-Marsa shagra is a  dive site in Red Sea, Middle East.
+Marsa Shagra is the flagship house reef of Red Sea Diving Safari's Shagra Village, located approximately 10 km north of Marsa Alam. One of the most pristine and well-protected fringing reefs in the Egyptian Red Sea, the site has been a designated protected area for over 20 years. The reef stretches roughly 2 km along the coast, with a naturally sheltered bay providing easy beach entry to both the north and south reef sections.
 
 ## Overview
 
-Marsa shagra is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+The bay of Shagra begins at just 1–10 metres depth and gradually deepens toward outer walls dropping to 40–50 metres. The reef has been documented by marine biologist Robert Myers as hosting over 300 species of fish and more than 100 species of coral. Certified divers may explore independently according to their certification level, with Zodiac support available during daylight hours. The site is accessible for all levels from snorkellers to advanced divers.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+- Lionfish, pufferfish, angelfish, parrotfish throughout the reef
+- Ghost pipefish and multiple nudibranch species on close inspection
+- Pelagic visitors including dolphins and occasional manta rays
+- Colourful soft corals, gorgonian fans, and complex coral formations
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry is directly from the beach through the sheltered sandy-bottomed bay. Divers can head north or south along the fringing wall, which begins at 5–10 m and drops to 40+ m on the outer faces. Long bottom times are possible at mid-reef depths of 15–20 m. Night dives are a highlight of the site.
 
-## Entry and Exit
+## Tips
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- Shore entry via the sheltered bay is easy in most conditions
+- Both north and south reef sections offer distinct dive profiles
+- RSDS guests have unlimited independent access throughout the day
+- Nearby liveaboard day trips run to Elphinstone and Marsa Abu Dabbab
 
-## Tips and Recommendations
+## Site Information
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Marsa Alam area, Egyptian Red Sea
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Maximum Depth**: 40 meters
+- **Difficulty**: All levels; outer walls suit intermediate and above
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Red Sea Diving Safari – Marsa Shagra](https://www.redsea-divingsafari.com/villages/marsa-shagra), [PADI Dive Site – Marsa Shagra House Reef](https://www.padi.com/dive-site/egypt/marsa-shagra-house-reef/). Last updated 2026-05-17.*

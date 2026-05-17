@@ -3,7 +3,7 @@ name: Small Brother Island
 lat: 26.3007944
 lng: 34.862559
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,55 +13,34 @@ addedBy: osm_import
 
 ## Small Brother Island
 
-Small Brother Island is a wall dive site in Red Sea, Middle East.
+Small Brother Island (also called Little Brother) is the smaller of the two Brothers Islands in the central Red Sea, surrounded by near-vertical walls that plunge hundreds of metres and regarded as some of Egypt's finest shark diving.
 
 ## Overview
 
-Small Brother Island is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The island measures approximately 170 metres in length and is uninhabited and fully exposed to the open Red Sea. Both flanks present near-vertical walls densely colonised with healthy hard and soft corals, gorgonian fans, and anemones. To the northwest a slanting plateau extends the reef base before dropping into the depths at around 40 m. Circumnavigation of the island in a single tank is possible in good conditions.
 
-## Site Information
-
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Compared to its larger neighbour, Small Brother sees considerably lighter diver traffic, and the coral structure is notably pristine — table corals and gorgonian fans coat the walls from the surface to depth.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Divers typically work the walls between 15 and 40 m. The northeastern wall is the prime site for oceanic whitetip shark encounters, typically in the mid-water column. The northwestern plateau at 30–40 m is an excellent station from which to watch sharks patrol in the blue. Strong currents and occasional downwelling events make Advanced Open Water certification with 50+ logged dives, including current experience, the practical minimum.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Oceanic whitetip sharks** — present year-round, most reliably on the northeast wall
+- **Scalloped hammerhead sharks** — seasonal (peak May–October), typically seen in the blue water off the wall
+- **Thresher sharks** — occasional, particularly on early morning dives
+- **Grey reef sharks** — regularly present
+- Dense schools of damselfish, surgeonfish, and fusiliers; barracuda; schools of tuna
+- Curious humphead wrasse (napoleon) frequently follow divers
+- Manta rays sighted seasonally
 
-## Tips and Recommendations
+## Conditions
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Big waves and strong breezes are common over the exposed open water. Currents along the walls can be severe and change intensity during a dive; documented downwelling events have been reported. The site is suitable only for experienced current divers. Access is by liveaboard only.
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Do not attempt this site without current-diving experience. Be prepared to abort a dive if conditions change; ascend freely away from the wall if downwelling is encountered. Night diving is strongly discouraged due to the current regime and remote location.
 
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Travel to Dive — Brothers Islands Complete Guide](https://traveltodive.com/destinations-guide/brothers-islands-red-sea-the-complete-diving-guide/), [SCUBA Travel — Brothers Islands](https://www.scubatravel.co.uk/redsea/brothersdive.html), [Dive the World — Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Last updated 2026-05-17.*
