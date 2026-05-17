@@ -13,19 +13,22 @@ addedBy: osm_import
 
 ## Sumbawa Surprise
 
-Sumbawa Surprise is a reef dive site in Sumbawa, Asia.
+Sumbawa Surprise is a reef dive site on the north coast of Sumbawa, positioned between the Moyo Island area and Satonda Island. The name suggests an unexpected encounter or feature, a naming convention common among liveaboard crews exploring less-documented reef sections of Indonesia.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Sumbawa Surprise sits in a part of Sumbawa's north coast that is infrequently documented individually online. The coordinates place it in the transition zone between the Moyo Island reef complex and the Satonda Island area — a coastline characterised by fringing reefs, sheltered bays, and occasional wall structures. Liveaboard operators covering this corridor note the diversity of reef fish and invertebrates along these north-coast reefs, with typical Coral Triangle species including angelfish, butterflyfish, damselfish, parrotfish, and reef sharks. The beginner-rated depth (to 30 m) and reef topography suggest a sloping coral reef with coral gardens rather than a dramatic wall or strong-current drift site. Best season April to November.
 
 ## Site Information
 
-- **Location**: Sumbawa, Asia
+- **Location**: North coast Sumbawa, between Moyo Island and Satonda Island areas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30 metres
+- **Best Season**: April–November
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/moyo-island/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/). Last updated 2026-04-04.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+
+*Note: Sumbawa Surprise is not individually documented in online dive databases. No site-specific sources found.*
