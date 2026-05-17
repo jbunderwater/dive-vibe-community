@@ -1,15 +1,14 @@
 ---
-name: RMS Rhone
+name: "RMS Rhone"
 lat: 18.3733
 lng: -64.6269
-difficulty: Intermediate
+difficulty: "Intermediate"
 maxDepth: 26
-entryType: boat
-siteType: wreck
-ref: null
-osmId: null
-addedBy: osm_import
+entryType: "boat"
+siteType: "wreck"
+addedBy: "osm_import"
 ---
+
 
 # RMS Rhone
 
@@ -62,4 +61,4 @@ The RMS Rhone is among the most photographed wrecks in the world. The stern sect
 - The wreck is accessible to charter yachts — many BVI bareboat itineraries include a Rhone stop
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: Test Edit, [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
