@@ -29,11 +29,29 @@ The USS Alligator was a US Navy anti-piracy schooner commissioned in 1821 that r
 
 ## Marine Life
 
-The shallow reef surrounding the wreck remnants hosts an abundance of Florida Keys tropical species, including yellowtail snapper, parrotfish, blue tangs, sergeant majors, and queen and French angelfish. Nurse sharks rest in the shaded crevices beneath ballast stones, while green moray eels occupy the more intact hull fragments. Green sea turtles and hawksbill turtles are frequently seen grazing on the sponge-encrusted rubble, making this site rewarding even at snorkeling depth.
+The protected Sanctuary Preservation Area reef around the wreck remnants is documented to support over 500 species. Common sightings reported by Islamorada operators include nurse sharks, goliath grouper, sea turtles, spotted eagle rays, and barracuda alongside the usual Keys reef fish life.
 
 ## Dive Profile
 
-The USS Alligator wreck lies in extremely shallow water of 3-12 feet depth 200 feet southwest of Alligator Reef Lighthouse. The visible remains consist primarily of ballast piles with the most preserved structure—the lower hull—located just south of the lighthouse. This shallow profile makes it suitable for snorkeling or beginner diving. The narrow depth range and protected location offer excellent stability and water conditions for exploration.
+The site sits at an average depth of about 20 feet, with the most preserved structure — the lower hull ballast pile — in shallow water near Alligator Reef Lighthouse. Conditions are typically calm with minimal current, and visibility ranges from 40 to 100 feet, with the best clarity from May through October. The reef itself is the main feature — the wreck remnants are a small archaeological component of a large, healthy shallow reef system, not a swimmable structure.
+
+## Wreck History
+
+The USS Alligator was an 86-foot US Navy schooner, launched on 2 November 1820 at the Charlestown Navy Yard near Boston as one of five schooners built to suppress piracy and the slave trade during the Monroe administration. On 18 November 1822 she departed Matanzas, Cuba, and the following morning ran hard aground in Hawk Channel on what was later named Alligator Reef. After several days of unsuccessful refloating attempts, the crew was taken off by a passing vessel; on 23 November 1822 they set fire to the schooner, which then exploded. A 1996 NOAA-led expedition challenged whether the surviving ballast pile is actually from the Alligator, and her precise resting place remains an open archaeological question.
+
+## Entry and Exit
+
+Boat dive only. The Sanctuary Preservation Area designation prohibits anchoring on the reef, so all operators tie into the mooring buoys around Alligator Reef Lighthouse. Islamorada operators run regular trips to the site, often combined with the lighthouse and the surrounding reef.
+
+## Tips and Recommendations
+
+- Suitable for snorkelers as well as divers given the shallow depth.
+- The lighthouse and the broader Sanctuary Preservation Area reef are the main attractions — set expectations that the "wreck" is a ballast pile and reef rubble, not an intact hull.
+- Bring a camera for the reef and lighthouse silhouette rather than expecting wreck imagery.
+
+## Safety Considerations
+
+This is a benign site in most conditions, but the shallow depth means surface chop and boat traffic around the lighthouse are the main hazards. Stay close to the mooring line on descent and ascent, and watch for vessel traffic when surfacing. The site sits inside the Florida Keys National Marine Sanctuary — do not touch, take, or disturb any artifact or coral.
 
 ---
-*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*
+*Sources: [US Navy History - USS Alligator Potential Wreck Site](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-alligator.html), [Wikipedia - USS Alligator (1820)](https://en.wikipedia.org/wiki/USS_Alligator_(1820)), [Islamorada Dive Center - Alligator Reef](https://www.islamoradadivecenter.com/florida-keys-dive-sites/alligator-reef), [NOAA Ocean Explorer - Hunt for the USS Alligator](https://oceanexplorer.noaa.gov/projects/04alligator/welcome.html), [NPS - USS Alligator Shipwreck](https://www.nps.gov/articles/ussalligator.htm). Last updated 2026-05-17.*
