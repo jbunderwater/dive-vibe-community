@@ -46,8 +46,8 @@ Currents at Beacon Rock can be tricky and unpredictable — an experienced dive 
 ## Site Information
 
 - **Location**: Safaga area, northern Red Sea
-- **Entry Type**: Boat dive
-- **Site Type**: Reef / wall
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 m
 

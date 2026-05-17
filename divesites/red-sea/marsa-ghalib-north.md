@@ -3,8 +3,8 @@ name: Marsa Ghalib North
 lat: 25.5338257
 lng: 34.6410191
 difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+maxDepth: 30
+entryType: shore
 siteType: reef
 ref: null
 osmId: null
@@ -36,7 +36,7 @@ Shore entry from the Port Ghalib marina beach. The reef is accessible on foot fr
 - **Location**: Port Ghalib (Marsa Ghalib), Marsa Alam area, southern Red Sea
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~30 metres
+- **Maximum Depth**: 30 meters
 - **Difficulty**: All levels — beginner-friendly inshore, deeper for advanced
 
 ---

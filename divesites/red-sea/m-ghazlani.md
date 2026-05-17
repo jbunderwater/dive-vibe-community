@@ -4,7 +4,7 @@ lat: 27.823618
 lng: 34.266015
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -33,9 +33,9 @@ Boat dive; no mooring — drift dive with strong prevailing current. Depth: drop
 ## Site Information
 
 - **Location**: Ras Mohammed area, Sharm El Sheikh, northern Red Sea
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25+ metres
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate–Advanced (current management required)
 
 ---

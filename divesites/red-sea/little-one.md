@@ -22,9 +22,9 @@ The southern Egyptian Red Sea coastline between Marsa Alam and Hamata features n
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea, Marsa Alam / Hamata coastal zone
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 ---

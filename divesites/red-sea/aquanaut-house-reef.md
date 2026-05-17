@@ -32,7 +32,7 @@ Hurghada nearshore reefs typically support:
 - **Location**: Sand Beach Hotel, Hurghada, northern Red Sea
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate — suitable for training and all levels
 
 ---

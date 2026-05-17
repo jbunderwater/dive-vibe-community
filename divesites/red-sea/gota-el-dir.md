@@ -2,10 +2,10 @@
 name: Gota El Dir
 lat: 27.4348962
 lng: 33.7380351
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -41,9 +41,9 @@ Boat dive; entry from zodiac or day boat. Descend to the sandy base at 14–16 m
 ## Site Information
 
 - **Location**: ~30 minutes south of El Gouna, Northern Red Sea
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: 18 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 18 meters
 - **Difficulty**: Beginner
 
 ---

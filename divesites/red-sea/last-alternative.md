@@ -4,7 +4,7 @@ lat: 27.7293687
 lng: 34.2035294
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -22,9 +22,9 @@ The Sharm El Sheikh area (including Tiran Island, Ras Mohammed, and the southern
 ## Site Information
 
 - **Location**: Sharm El Sheikh / Tiran area, northern Red Sea
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 ---

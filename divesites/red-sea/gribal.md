@@ -22,9 +22,9 @@ Based on coordinate position (27.55°N, 33.90°E), Gribal lies within the reef-r
 ## Site Information
 
 - **Location**: El Gouna / Hurghada offshore reef zone, northern Red Sea
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 ---

@@ -2,7 +2,7 @@
 name: Makadi Bay Reef
 lat: 26.9977982
 lng: 33.9100742
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -44,7 +44,7 @@ Shore entry from the jetty — just a few steps from the dive centre. Descend to
 - **Location**: Makadi Bay, ~30 km south of Hurghada, northern Red Sea
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Difficulty**: Beginner — suitable for all levels
 
 ---

@@ -2,7 +2,7 @@
 name: Marsa Egla
 lat: 25.1713889
 lng: 34.8405556
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -42,7 +42,7 @@ Shore entry into the sandy bay. Gentle slope descends to the reef wall, with a m
 - **Location**: ~11 km north of Marsa Alam, southern Egyptian Red Sea
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Difficulty**: Beginner — ideal for all levels
 
 ---
