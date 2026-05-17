@@ -10,7 +10,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bottles-up-diving.com, allstarliveaboards.com, merapitours.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "bottles-up-diving.com, allstarliveaboards.com, merapitours.com, alovelyplanet.com, dive-the-world.com"
     }
   },
   {
@@ -24,7 +26,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bottles-up-diving.com, dive-the-world.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "bottles-up-diving.com, dive-the-world.com, merapitours.com, mermaid-liveaboards.com, bluewaterdivetravel.com"
     }
   },
   {
@@ -38,7 +42,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "merapitours.com, bottles-up-diving.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "merapitours.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
   {
@@ -48,11 +54,13 @@
     "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bottles-up-diving.com, dive-the-world.com, xray-mag.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "bottles-up-diving.com, dive-the-world.com, xray-mag.com, diveindonesia.com, merapitours.com"
     }
   },
   {
@@ -66,7 +74,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bottles-up-diving.com, xray-mag.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "bottles-up-diving.com, xray-mag.com, dive-the-world.com, bluewaterdivetravel.com, calicojackcharters.com"
     }
   },
   {
@@ -80,7 +90,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "xray-mag.com, bottles-up-diving.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "xray-mag.com, bottles-up-diving.com, dive-the-world.com, calicojackcharters.com"
     }
   },
   {
@@ -94,7 +106,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "xray-mag.com, bottles-up-diving.com, solitude.world"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "xray-mag.com, originaldiving.com, mermaid-liveaboards.com, dive-the-world.com"
     }
   },
   {
@@ -108,7 +122,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "merapitours.com, bottles-up-diving.com, scubaboard.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "merapitours.com, bottles-up-diving.com, scubaboard.com, allstarliveaboards.com, dan.org"
     }
   },
   {
@@ -122,7 +138,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "cilubintang.com, merapitours.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "cilubintang.com, merapitours.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
   {
@@ -136,7 +154,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com, bottles-up-diving.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "dive-the-world.com, bottles-up-diving.com, indonesia.greatestdivesites.com, calicojackcharters.com"
     }
   },
   {
@@ -146,11 +166,13 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bottles-up-diving.com, merapitours.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "bottles-up-diving.com, merapitours.com, dive-the-world.com, dan.org"
     }
   },
   {
@@ -164,7 +186,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "merapitours.com, bottles-up-diving.com"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "merapitours.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
   {
@@ -178,7 +202,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "xray-mag.com, allstarliveaboards.com, solitude.world"
+      "validated": "true",
+      "last_qa_date": "2026-05-17",
+      "validation_source": "xray-mag.com, allstarliveaboards.com, solitude.world, originaldiving.com, bluewaterdivetravel.com"
     }
   }
 ]
