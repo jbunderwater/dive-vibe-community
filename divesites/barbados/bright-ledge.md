@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Bright Ledge
 
-A distinctive intermediate reef site on Barbados's west coast — the "ledge" topography creates a step feature at 15–20 metres that accumulates sponge life and sheltering fish, adding structural interest to a site in the island's typically clear west coast water.
+Described by Dive Hightide as "one of the most spectacular dives in Barbados" — a ledge-forming reef on the west coast barrier system known for hawksbill turtles and large schools of tropical fish.
 
 ## Overview
 
-Bright Ledge is named for the pronounced ledge feature that characterises the site's underwater topography — a horizontal step in the reef at approximately 15 metres before the slope continues to 20 metres. This terrace accumulates current-borne nutrients along its face and provides a sheltered underside that develops richer sponge and encrusting coral growth than the exposed reef sections above. The site lies in the calm Caribbean waters of Barbados's west coast in the parish of St. James, with the consistently protected conditions that define west coast Barbadian diving. Visibility averages 20–25 metres. Water temperature is 26–28°C.
+Bright Ledge is part of Barbados's offshore barrier reef system on the west coast. Dive Hightide, which operates regularly at this site, characterises it as one of Barbados's most spectacular dives, noting hawksbill turtles and schooling tropical fish as the defining attractions. Scuba Diving Earth lists it as a drift dive site ranging from 17–40 metres, accessible for various certification levels. The site's name suggests a prominent ledge feature — a horizontal terrace that creates habitat diversity across the reef structure. Visibility averages 20–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,32 +33,27 @@ Bright Ledge is named for the pronounced ledge feature that characterises the si
 
 ## Marine Life
 
-The ledge structure creates micro-habitat diversity within a relatively compact site. Caribbean spiny lobster shelter in the crevices under the ledge face. Large groupers occupy the ledge overhangs. Spotted and green morays are present in the crevices throughout. Hawksbill turtles patrol the upper reef section. Schools of creole wrasse sweep along the ledge face in the current lanes. Southern stingrays rest on the sandy floor at the base.
+Dive Hightide cites hawksbill turtles and schooling tropical fish as the primary marine life at Bright Ledge. Large schools of tropical species — typical of the west coast barrier reef — sweep through the site. The ledge and overhang structure provides shelter for invertebrates including lobsters and morays. Scuba Diving Earth notes yellowtail snapper, jacks, lionfish, barracuda, turtles, moray eels, and octopus at the reef system. The turtle encounter rate is noted as reliable.
 
 ## Dive Profile
 
-Descent to the upper reef at 8–10 metres and follow the slope to the ledge feature at 15 metres. Explore the ledge face and overhang sections carefully before continuing to the sandy base at 20 metres. Ascend back through the productive ledge zone for the safety stop at the reef crest.
+Descent to the upper reef and follow the ledge structure down to 18–20 metres. Explore the ledge face and overhang sections. The gentle slope and ledge profile makes this suitable for multilevel dive planning. Safety stop at the reef crest.
 
 ## Entry and Exit
 
-Boat dive from west coast operators in the St. James area. Giant stride entry; DSMB required. Often paired with a wreck site or Dottin's Reef for a two-tank day.
+Boat dive from west coast operators in the St. James area. Giant stride entry; DSMB required. Often paired with Dottin's Reef or Barracuda Junction for a two-tank west coast day.
 
 ## Tips and Recommendations
 
-The ledge underside is the most productive zone — look up and inward along the overhang for lobster, grouper, and moray encounters. The site rewards slow, patient exploration of the structural features rather than a quick swim-through. Carry a torch to illuminate the ledge overhang sections.
+Dive Hightide describes this as a "spectacular" site by Barbados standards — a notable endorsement from an operator with first-hand knowledge of the island's full dive inventory. Carry a torch for any ledge overhang sections. Best combined with Dottin's Reef for a varied two-tank morning.
 
 ## Safety Considerations
 
-Standard west coast precautions apply. DSMB required. Fire coral is present. Maintain buoyancy throughout to avoid contact with the ledge face. Monitor air consumption on the deeper base section.
+DSMB required. Fire coral is present. Maintain buoyancy throughout. Monitor air on the outer reef edge where the reef drops deeper.
 
 ## Photography
 
-The ledge feature creates dramatic photographic compositions — shooting along the ledge face with the overhang shadow and fish in the frame is the site's characteristic image. Lobster portraits under the overhang and grouper close-ups in the crevice sections are strong macro subjects. Natural light is adequate for the upper reef sections.
-
-## Additional Resources
-
-- West coast Barbados dive operators in the St. James area: include Bright Ledge on intermediate dive programs
-- Best combined with Dottin's Reef or the Stavronikita for a two-tank west coast day
+The ledge structure, hawksbill turtle encounters, and schooling tropical fish provide strong photographic subjects. Natural light is good in the 8–18 metre range in morning conditions.
 
 ---
-*Sources: barbados.org - Established reef diving site, southeast coast. Last updated 2026-03-28.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*

@@ -5,34 +5,38 @@
     "lon": -59.642,
     "osm_id": 13461568301,
     "osm_type": "node",
-    "depth": 36,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "OSM node 13461568301, divernet.com, scubadiving.bb - Greek freighter sunk 1978, 111m vessel, mast at 6m, deck at 18-24m, rated top 10 wreck dive worldwide",
     "tags": {
       "historic": "wreck",
       "name": "SS Stavronikita",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1978",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Carlisle Bay - Berwyn",
     "lat": 13.0859,
     "lon": -59.6116,
-    "depth": 8,
+    "depth": 7,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -44,25 +48,29 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Pamir Wreck",
     "lat": 13.1,
     "lon": -59.615,
-    "depth": 14,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org - Carlisle Bay wreck, accessible for experienced recreational divers",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "caribbean-beat.com,divehightide.com,scubadivingearth.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -74,10 +82,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "padi.com, adventuredives.com - 100ft Dutch freighter (1984), 55ft depth, broken in 3 pieces",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,numa.net",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -89,10 +99,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "barbados.org - Established reef diving site, southeast coast",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -104,10 +116,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org - Shallow reef for beginners, south coast",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -119,10 +133,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "folkestonemarinepark.com, tripadvisor.com - Protected marine park, beginner-friendly shore access, 5-30ft depth range",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "folkestonemarinepark.com,barbados.org,scubaverse.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -134,10 +150,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "barbados.org - Named reef structure for intermediate divers",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divehightide.com,barbados.org,divebarbadosblue.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -149,10 +167,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "villasunnysidebarbados.com - Deep coral reef, 135-145ft depth (41-44m), strong currents, offshore pelagic encounters",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,villasunnysidebarbados.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -164,10 +184,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org - Beginner-friendly shore reef",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divebarbadosblue.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -181,14 +203,16 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "caribbeanwarehouse.co.uk, diveoclock.com - 110ft drug boat sunk June 8 1996, 55ft depth (17m), air pocket in bow for penetration",
     "tags": {
       "access": "yes",
       "historic": "wreck",
       "name": "Eillon",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -202,7 +226,6 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "caribbeanwarehouse.co.uk, diveoclock.com - Former tugboat 'Pelican' then party boat, sunk May 19 2002, 35ft depth (11m), Carlisle Bay Marine Park",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -210,7 +233,10 @@
       "seamark:type": "wreck",
       "seamark:wreck:category": "hull_visible",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -224,12 +250,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "wanderlusters.com, sandals.com - Naval Landing Barge, 12ft depth (3.6m), shallowest Carlisle Bay wreck, good for macro photography",
     "tags": {
       "historic": "wreck",
       "name": "The Barge",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,wanderlusters.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -241,10 +269,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "barbados.org, Reefers & Wreckers, DiveAdvisor, DIVEIN - Northernmost west coast reef, finger reef formations with elephant ear sponges, barracuda, rays",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -256,10 +286,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org, Reefers & Wreckers, Wikivoyage, BarbadosByMap - Shallow reef near Weston, Caribbean reef squid, popular second dive",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,barbados.org,scubadivingearth.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -271,10 +303,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Dive Hightide, Reefers & Wreckers, Active Caribbean Travel, DIVEIN - Multilevel reef with rare nurse sharks, excellent visibility",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -286,10 +320,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Dive Hightide, Reefers & Wreckers, Active Caribbean Travel, DIVEIN - Barrier reef south of Tropicana, Hawksbill turtles, barracuda",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -301,10 +337,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org, Reefers & Wreckers, Wikivoyage, Barbados Blue - Sandy area with coral heads, stingrays, peacock flounders",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -316,10 +354,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Wikivoyage, DiveAdvisor, Active Caribbean Travel, Maduro Dive - Named after Sandy Lane Hotel, multilevel reef, large schools of tropicals",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -331,25 +371,29 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "DiveAdvisor, DIVEIN, Active Caribbean Travel, Girls That Scuba - Drift dive with large barracuda schools, reef slopes past recreational limits",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "divehightide.com,activecaribbeantravel.com,scubadivingearth.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Lord Combermere",
     "lat": 13.1351,
     "lon": -59.6405,
-    "depth": 12,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "barbados.org, Dive Hightide, Reefers & Wreckers, Wikivoyage, NUMA - Water carrier scuttled 1960s near Batt's Rock, coral-encrusted",
     "tags": {
       "source": "curated",
-      "addedBy": "scubadiving_bb_corroboration"
+      "addedBy": "scubadiving_bb_corroboration",
+      "validated": "true",
+      "validation_source": "caribbean-beat.com,divehightide.com,insandoutsbarbados.com",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Bell Buoy Reef
 
-A deeper intermediate reef off Barbados's southwest coast — named for the channel marker buoy above the site, with sponge-dominated terrain at depth, regular reef shark activity, and the expansive visibility of the open Caribbean west coast.
+A large dome-shaped reef on Barbados's southwest coast named for the navigation buoy above — featuring impressive 8-foot brown coral tree forests, gorgonians, and good fish populations in a well-lit, photogenic setting.
 
 ## Overview
 
-Bell Buoy Reef is located off the southwest coast of Barbados in the area where the island's fringing reef system gives way to the more open Caribbean basin. The site is named for the navigation bell buoy that marks the area. The reef descends to 22 metres, with a character that shifts from hard coral-dominated shallows to sponge and gorgonian terrain at depth. The southwest coast position gives the site exposure to slightly stronger current than the more sheltered north coast sites, which drives the productivity of the deeper sponge community. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+Bell Buoy Reef is a large, rounded reef structure on Barbados's southwest coast, named for the navigation bell buoy that marks its position. Dive Hightide describes it as a dome-shaped reef ranging from 35 to 70 feet (10 to 22 metres), featuring "huge 8ft brown coral tree forests" and gentle sloping coral formations — among the most distinctive reef structures on Barbados's west coast. Barbados.org notes "brown coral forests, sloping corals and schools of fish." The site has educational value and is used by dive operators for reef ecology instruction. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–22 m |
+| Depth Range | 10–22 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,32 +33,27 @@ Bell Buoy Reef is located off the southwest coast of Barbados in the area where 
 
 ## Marine Life
 
-Bell Buoy Reef's deeper character brings a different species mix from the shallower west coast sites. Caribbean reef sharks are reliably present, particularly in the 15–22 metre zone. Schools of horse-eye jacks sweep through the current lanes. Spotted eagle rays pass at the reef edge. Large groupers occupy deeper overhangs and sponge formations. The encrusted barrel sponges at 18–22 metres host bigeye fish communities. Hawksbill turtles patrol the upper reef sections.
+Bell Buoy Reef is known for its assemblage of smaller reef fish and invertebrates rather than large pelagic encounters. The brown coral tree forests and gorgonian growth host brown and blue chromis in large numbers. Angelfish, parrotfish, and chromis school throughout the structure. The dome's crevices and overhangs shelter lobsters and morays. Hawksbill turtles patrol the upper reef sections. The abundant gorgonian growth and good natural light at this depth make it a noted photography site.
 
 ## Dive Profile
 
-Descent to the reef top at 8–10 metres and assess current conditions. Follow the slope to 18–22 metres for the shark and pelagic activity zone, then ascend through the productive mid-reef at 12–18 metres. Safety stop on the shallow reef crest. Plan descent early to maximise bottom time at depth within NDL limits.
+Descent to the reef top at 10 metres and exploration of the dome structure, working outward and downward through the coral tree formations to 18–22 metres. The circular reef shape allows complete circumnavigation. Safety stop at the reef crest.
 
 ## Entry and Exit
 
-Boat dive from Bridgetown-area and southwest coast operators. Giant stride entry; DSMB required for the ascent. Often combined with Carlisle Bay wrecks for a varied two-tank dive day.
+Boat dive from Bridgetown-area operators. Giant stride entry; DSMB required. Often combined with Carlisle Bay wrecks or Dottin's Reef for a two-tank day.
 
 ## Tips and Recommendations
 
-The southwest position of Bell Buoy Reef gives it stronger current potential than the north coast sites — time dives with the operator's guidance on tidal conditions. The deeper 18–22 metre zone is the most productive for shark and pelagic encounters — plan to spend the early part of the dive here before ascending.
+The bell buoy above the site acts as a surface reference throughout the dive. The coral tree forests are the signature feature — take time to explore their structure and the fish sheltering within. Photography benefits from the abundant natural light at moderate depth.
 
 ## Safety Considerations
 
-Monitor NDL limits at 22 metres. Current can run on the exposed southwest side — if conditions strengthen, ascend to the shallower sections. DSMB required. This site is more demanding than the standard beginner west coast reef dives.
+DSMB required for open-water ascent. Moderate current is possible on the exposed southwest side. Monitor depth on the outer rim of the dome.
 
 ## Photography
 
-Bell Buoy Reef's deeper character and shark activity offer intermediate and advanced photography subjects not available at the shallower west coast sites. Caribbean reef shark portraits against the sponge terrain, eagle ray passes in open water, and close-focus barrel sponge compositions are the defining subjects.
-
-## Additional Resources
-
-- Heatwave Water Sports and Coral Isle Divers: offer Bell Buoy Reef on intermediate dive programs
-- Best combined with the Stavronikita or Carlisle Bay wrecks for a full south coast dive day
+Bell Buoy Reef's combination of dramatic coral tree formations, gorgonian growth, and good natural light makes it one of Barbados's better reef photography sites. Coral tree close-ups and chromis schools against the reef structure are the defining images. Natural light is excellent throughout the depth range.
 
 ---
-*Sources: barbados.org - Named reef structure for intermediate divers. Last updated 2026-03-28.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Barbados Blue](https://divebarbadosblue.com/scuba-diving/barbados-dive-sites/reef-diving). Last updated 2026-05-17.*

@@ -19,31 +19,29 @@ The reef adjacent to the famous USAT Liberty wreck at Tulamben -- one of the mos
 
 Coral Garden is the stretch of reef immediately alongside the USAT Liberty wreck site at Tulamben, on Bali's northeast coast. While most divers come to Tulamben for the Liberty, Coral Garden is a destination in its own right and one of the most-dived reef sites on the island. The reef begins in the shallows near shore and slopes down over varied hard coral formations -- table corals, staghorn thickets, massive Porites heads -- interspersed with large barrel sponges and sea fans. The site reaches a maximum depth of approximately 25 meters on the sandy slope below the reef edge.
 
-Shore entry over the black volcanic pebble beach makes this an accessible dive without the need for a boat, and the site can be dived at all levels. The proximity to the Liberty wreck means that marine life moves freely between the two sites, and species attracted to the wreck's artificial reef structure are regularly encountered on the adjacent coral formations.
+Shore entry over the black volcanic pebble beach makes this an accessible dive without the need for a boat, and the site can be dived at all levels. The shallow maximum depth of 15 metres means extended bottom times and easy profiles. The proximity to the Liberty wreck means that marine life moves freely between the two sites, and species attracted to the wreck's artificial reef structure are regularly encountered on the adjacent reef. Sunken Balinese statues — including Buddha figures and Hindu deity representations — have been placed on the reef over the years, serving as focal points for marine life.
 
 ## Site Information
 
-- **Location**: Tulamben, northeast Bali, Indonesia
-- **Entry Type**: Boat dive
+- **Location**: Tulamben, northeast Bali, Indonesia (between the Liberty Wreck and the Drop-off)
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-30 metres
 - **Current**: Generally mild; occasional moderate current possible
 - **Water Temperature**: 26-30°C
 - **Best Time**: April to November (dry season); diveable year-round
 
 ## Marine Life
 
-Bumphead parrotfish are among the most impressive residents, moving in small groups across the reef in the early morning. Reef sharks -- predominantly blacktip and whitetip -- patrol the deeper sections of the slope. Cuttlefish hover over the coral heads, flashing color changes as divers approach. Nudibranchs of many species are found throughout the reef on sponges and coral rubble, making this a rewarding site for macro hunters.
-
-The hard coral formations support dense populations of damselfish, anthias, and butterflyfish. Anemones host multiple species of clownfish. Barrel sponges along the slope provide shelter for hawkfish and small crustaceans. Moray eels occupy crevices in the reef structure. The sandy patches between coral heads are worth checking for garden eels and gobies.
+The Coral Garden is confirmed to host ghost pipefish, leaf scorpionfish, harlequin shrimp, and mantis shrimp — specialist critters on a reef that most visitors to Tulamben overlook while heading directly to the Liberty. Clownfish are abundant in large anemone patches. Blue and yellow ribbon eels inhabit sandy areas. Schools of trevally, sweetlips, and snapper are regular visitors. Reef sharks — predominantly blacktip and whitetip — are occasionally seen. Cuttlefish and squid hover over the coral heads. Spanish dancers (nudibranchs) are a night-dive highlight. Bumphead parrotfish move through in small groups, typically in early morning.
 
 ## Dive Profile
 
-Enter from the black pebble beach at Tulamben and swim out over the reef, which begins in just a few meters of water. The reef slopes gradually, with the richest coral formations between 5 and 18 meters. Continue deeper along the slope to reach the maximum depth of approximately 25 meters, where the coral gives way to a sandy bottom. The table corals and barrel sponges are concentrated in the 8-15 meter range and deserve the most time.
+Enter from the black pebble beach at Tulamben — the same entry used for the Liberty Wreck — and swim out over the reef, which begins in just a few metres of water. The reef slopes gradually with the richest coral formations between 5 and 15 metres. Table corals, staghorn thickets, massive Porites heads, and anemone patches are concentrated in this range and reward slow, methodical searching.
 
-Work your way back toward shore along the reef at a shallower depth for the second half of the dive, finishing with a safety stop over the shallow reef top where natural light illuminates the coral colors without strobes.
+Work your way back toward shore along the reef at a shallower depth for the second half of the dive, finishing with a safety stop over the shallow reef top where natural light illuminates the coral colours without strobes. Night dives on the Coral Garden are particularly productive for Spanish dancers and other nocturnal species.
 
 ## Entry and Exit
 
@@ -66,4 +64,4 @@ Coral Garden is a straightforward reef dive without significant hazards. The sho
 Both macro and wide-angle photography are productive here. The table coral formations and barrel sponges provide excellent wide-angle subjects with good natural light in the shallows. Nudibranchs and small critters throughout the reef reward macro work. Bumphead parrotfish are challenging to photograph as they move steadily, but a wide-angle lens and patient positioning can yield dramatic shots. Cuttlefish are more cooperative subjects, often holding still or approaching curious photographers. The black volcanic sand creates a distinctive dark backdrop for close-focus wide-angle compositions of coral heads.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=877). Last updated 2026-04-08.*
+*Sources: [Let's Dive Tulamben - Coral Garden](https://letsdivetulamben.com/dive-sites/coral-garden/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=877). Last updated 2026-05-17.*

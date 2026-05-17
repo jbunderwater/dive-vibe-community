@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # The Barge
 
-An ultra-shallow wreck dive off the north Barbados coast — a construction or work barge lying in just 4 metres of water, offering a pure snorkel and beginner experience in the clear Caribbean water with above-average fish life drawn to the artificial structure.
+A naval landing barge lying in just 4 metres of water on Barbados's west coast — more of a snorkel and introductory diving platform than a conventional dive, but home to puffer fish, reef fish, and good natural light throughout.
 
 ## Overview
 
-The Barge is a decommissioned work barge that was sunk or grounded in 4 metres of water off the north coast of Barbados, creating an incidental artificial reef in the shallow inshore zone. The wreck's extreme shallowness makes it more of a snorkel and introductory dive site than a conventional dive destination — the entire structure is visible from the surface and accessible to non-divers. The barge has accumulated a productive encrustation and the fish community that has established around it is noticeably denser than on the bare sandy bottom nearby. The calm north coast water gives consistent conditions. Visibility averages 15–20 metres. Water temperature is 26–28°C.
+The Barge is a naval landing vessel that was sunk or grounded in the very shallow inshore water of Barbados's west coast. At 4 metres maximum depth, the entire structure is visible from the surface and accessible to free divers and snorkellers as much as to scuba divers. Dive Hightide and Barbados Blue both list it in their site inventories as a beginners' and introductory option. Barbados Blue notes puffer fish and reef species as residents. The Wanderlusters dive blog describes it as the shallowest Carlisle Bay wreck, though its listed coordinates place it north of Carlisle Bay proper — likely the "Naval Landing Barge" listed by Dive Hightide on the west coast. Visibility averages 15–20 metres when conditions are calm. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,32 +33,27 @@ The Barge is a decommissioned work barge that was sunk or grounded in 4 metres o
 
 ## Marine Life
 
-The barge structure has attracted a typical shallow-water Caribbean community. Schools of sergeant majors and French grunts occupy the structure. Large parrotfish graze the encrusted surfaces. Hawksbill turtles are occasional visitors along this section of coast. The sandy surrounding area hosts southern stingrays and small schools of squid that are sometimes visible in the clear shallow water.
+The barge structure has accumulated a shallow-water Caribbean community. Puffer fish are noted residents. Schools of sergeant majors and French grunts occupy the structure. Large parrotfish graze the encrusted surfaces. The surrounding sandy area may host southern stingrays in calmer conditions.
 
 ## Dive Profile
 
-Boat entry into shallow water adjacent to the barge. The entire structure is at 1–4 metres and accessible by free diving and snorkelling as well as scuba. The dive is more of an extended snorkel/shallow scuba with exploration of the barge exterior and the surrounding sandy bottom. The unlimited depth allows extensive time on the structure.
+Boat entry into shallow water adjacent to the barge. The entire structure at 1–4 metres is accessible by free diving and snorkelling as well as scuba. Best treated as an extended shallow exploration and photography opportunity rather than a structured dive.
 
 ## Entry and Exit
 
-Boat dive from north Barbados area operators. The barge is typically visited as an add-on to a nearby deeper dive or as a dedicated beginner/snorkel experience. Giant stride or backward roll entry.
+Boat dive from west coast operators. Typically offered as an add-on experience for beginners or snorkellers rather than a standalone dive destination.
 
 ## Tips and Recommendations
 
-The Barge is best appreciated as a snorkel experience or as an orientation/checkout dive for total beginners rather than as a dive in its own right. Combine with a deeper nearby site for a two-tank day that gives more range. The extremely shallow depth makes this an excellent location for practising buoyancy and underwater photography without depth pressure.
+The Barge is best appreciated as a snorkel experience or orientation dive for total beginners. Combine with a deeper nearby site for a two-tank day that adds more range. The extreme shallowness makes it ideal for practising buoyancy control and underwater photography without depth pressure.
 
 ## Safety Considerations
 
-The extreme shallowness creates no decompression risk but means any boat above is very close — be aware of vessel position before surfacing. The boat operator must remain alert during the dive. Fire coral may be present on the barge surfaces.
+The extreme shallowness creates no decompression risk, but any boat above is very close — confirm vessel position before surfacing. Fire coral may be present on barge surfaces.
 
 ## Photography
 
-The ultra-shallow depth and good visibility make The Barge a natural-light photography location without any strobes needed. Sergeant major egg-guarding behaviour, parrotfish grazing on the barge, and the barge structure in the clear blue water are the main subjects.
-
-## Additional Resources
-
-- North Barbados dive operators: include The Barge on snorkel and beginner dive programs
-- Best combined with a north coast reef dive for a varied two-tank day
+Ultra-shallow depth and good visibility make this a natural-light photography site. Puffer fish, parrotfish on the encrusted barge, and the barge structure against the clear blue water are the main subjects.
 
 ---
-*Sources: wanderlusters.com, sandals.com - Naval Landing Barge, 12ft depth (3.6m), shallowest Carlisle Bay wreck, good for macro photography. Last updated 2026-03-28.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*

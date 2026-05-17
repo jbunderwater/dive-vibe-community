@@ -1,7 +1,7 @@
 ---
 name: Carlisle Bay - Ce-Trek
-lat: 13.088
-lng: -59.622
+lat: 13.0864
+lng: -59.6117
 difficulty: Beginner
 maxDepth: 12
 entryType: shore
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Carlisle Bay - Ce-Trek
 
-One of Carlisle Bay's mid-depth wrecks — a cargo vessel resting at 12 metres that offers a richer encrustation and more complex interior than the shallower wrecks, making it the natural progression for divers ready to step beyond the Berwyn.
+An unusual ferro-cement vessel sunk in January 1986 on the northern edge of Carlisle Bay Marine Park — lying at 12 metres, structurally distinct from iron-hulled wrecks and notable for frogfish, long-snout seahorses, and audibly grazing parrotfish.
 
 ## Overview
 
-The Ce-Trek is a former cargo vessel that is part of the Carlisle Bay wreck cluster, lying at 12 metres off the coast south of Bridgetown. The vessel has developed more substantial marine growth than the very shallow wrecks — sponge encrustation, coral growth, and the fish community that accompanies it are all more developed at this depth. The wreck sits upright on a sandy bottom and has accessible deck and interior sections suitable for beginner divers under controlled conditions. Carlisle Bay's consistently calm, west-coast conditions make the Ce-Trek diveable year-round with excellent visibility of 15–20 metres. Water temperature is 26–28°C.
+The Ce-Trek is a ferro-cement (concrete construction) vessel — a structural rarity among the Carlisle Bay wrecks. Sunk in January 1986, she rests at 12 metres on the northern edge of Carlisle Bay Marine Park. The concrete hull develops different encrustation characteristics from the iron-hulled wrecks nearby; its textured surfaces are excellent habitat for cryptic species. The wreck sits upright on a sandy bottom with accessible deck and interior sections suitable for beginner divers. Carlisle Bay's consistently calm west coast conditions give reliable visibility of 15–20 metres year-round. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,32 +33,27 @@ The Ce-Trek is a former cargo vessel that is part of the Carlisle Bay wreck clus
 
 ## Marine Life
 
-The Ce-Trek's hull and deck surfaces support a denser fish community than the very shallow bay wrecks. Schools of French grunts and glassy sweepers occupy the deck spaces. Large parrotfish graze the encrusted hull surfaces. Spotted moray eels occupy crevices throughout the vessel. Hawksbill turtles visit the wreck regularly, feeding on sponges. The sandy bottom around the wreck hosts southern stingrays.
+The Ce-Trek is particularly noted for cryptic and macro species. Frogfish occupy the textured hull surfaces, relying on camouflage against the encrusted concrete. Long-snout seahorses shelter in the crevices and gorgonian growth. Large parrotfish graze the encrusted hull surfaces — their scraping on the concrete is audible underwater. Schools of French grunts and glassy sweepers fill the deck spaces. Hawksbill turtles visit the wreck. The sandy bottom hosts southern stingrays.
 
 ## Dive Profile
 
-Shore entry and surface swim or immediate descent to the wreck at 12 metres. Explore deck to hull in a circumnavigation before visiting any accessible interior sections. The upright orientation makes navigation intuitive. Multiple passes over the wreck are possible in a single tank at this depth.
+Shore entry and surface swim or immediate descent to the wreck at 12 metres. Explore deck to hull in a circumnavigation, looking carefully at the textured concrete surfaces for frogfish and seahorses. Multiple passes are possible in a single tank at this depth.
 
 ## Entry and Exit
 
-Shore entry from Carlisle Bay beach access. Surface swim to the wreck cluster mooring buoys visible from the surface. Exit at the same beach entry point.
+Shore entry from the Carlisle Bay beach access. Surface swim to the wreck cluster mooring buoys. Exit at the same beach entry point.
 
 ## Tips and Recommendations
 
-The Ce-Trek is best experienced as part of a multi-wreck Carlisle Bay dive day — combine with the Berwyn (shallower, simpler) and the Eillon (similar depth) for a comprehensive wreck tour of the bay. Ask local dive guides about the current state of the hull — the encrustation changes over time. Carry a torch for any partially shaded interior sections.
+Look very carefully at the hull surfaces — frogfish are masters of camouflage and easily missed on first pass. The Ce-Trek is best experienced as part of a multi-wreck Carlisle Bay dive day, combined with the Berwyn (shallower, older) and the Eilon (similar depth) for a varied tour. Carry a torch for shaded sections.
 
 ## Safety Considerations
 
-Do not penetrate into fully enclosed compartments without wreck diving training. The 12-metre depth and benign conditions make this a low-risk site. DSMB recommended for signalling during surface return. Fire coral may be present on hull surfaces.
+Do not penetrate fully enclosed compartments without wreck diving training. DSMB recommended for return to the beach. Fire coral may be present on hull surfaces.
 
 ## Photography
 
-The Ce-Trek at 12 metres in Carlisle Bay's clear water is a well-lit, accessible wreck photography site. Hull encrustation close-ups, moray portraits, and turtle-over-wreck compositions are the main subjects. Natural light is adequate for the full depth range in morning conditions.
-
-## Additional Resources
-
-- Barbados Blue: offers guided Carlisle Bay multi-wreck tours including the Ce-Trek
-- The wreck cluster can be explored independently by confident shore divers familiar with the bay layout
+The Ce-Trek's concrete encrustation with its distinct texture is a strong macro photography subject — frogfish and seahorse portraits are the standout images. Natural light is adequate for the full depth range in morning conditions.
 
 ---
-*Sources: barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era. Last updated 2026-03-28.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*

@@ -13,38 +13,41 @@ addedBy: scubadiving_bb_corroboration
 
 # Tropicana
 
-A fantastic multilevel reef on the west coast barrier system, one of the rare Barbados sites where nurse sharks are encountered
+A standout multilevel reef on the west coast barrier system — the rare Barbados site where nurse sharks have been reported sheltering under ledges, with excellent visibility and a varied depth profile for intermediate divers.
 
 ## Overview
-Tropicana is one of Barbados' standout reef dives, located on the offshore barrier reef along the west coast. The site features a long reef approximately 15-30 meters wide with pronounced ledges that create an excellent multilevel dive profile. It is one of very few sites in Barbados where nurse sharks have been spotted — a rare occurrence in the island's southern Caribbean waters. Typically dived as a drift, Tropicana offers excellent visibility and rich marine life throughout its depth range.
+
+Tropicana is located on the offshore barrier reef along Barbados's west coast between Weston and Holetown. Dive Hightide describes it as an "excellent multilevel dive with great visibility." It is one of very few sites in Barbados where nurse sharks have been reported resting under ledges — the site's notable distinction. The reef features pronounced ledges at 18–24 metres with some sections dropping to 30 metres. Typically dived as a drift, the site offers rich coral coverage with both hard and soft species. Visibility regularly exceeds 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, offshore barrier reef between Weston and Holetown
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-30+ meters (65-100+ feet)
+- **Typical Visibility**: 20–30+ metres
 - **Current**: Light to moderate (typically a drift dive)
-- **Best Time**: December to April (calmest seas, best visibility)
+- **Best Time**: December to April (calmest seas)
 
 ## Marine Life
-The headline attraction is the possibility of nurse shark sightings beneath the reef ledges — almost unheard of elsewhere in southern Barbados. Beyond this, the reef supports hawksbill turtles, cleaner shrimp, anemones, and large schools of tropical fish. Coral coverage is healthy with both hard and soft species, sea fans, and colorful sponges lining the ledges. The fringing reef structure creates a rich habitat for a wide variety of reef fish.
+
+The headline sighting at Tropicana is the nurse shark — reported by multiple operators and sources resting beneath the reef ledges, an almost unheard-of occurrence at other southern Barbados sites. The reef supports hawksbill turtles, cleaner shrimp at cleaning stations, sea fans, and large schools of tropical fish. Coral coverage is healthy with extensive hard coral, sea fans, and colourful sponges lining the ledges. General reef fish typical of the west coast barrier reef are present throughout.
 
 ## Dive Profile
-Descend to the reef top and work through the multilevel ledge system. The reef ranges from around 18 meters to 24 meters, with some ledges extending to 30 meters. The multilevel profile makes it particularly good for computer divers who can optimize bottom time across different depth levels. Typically done as a gentle drift along the reef's length.
+
+Descend to the reef top and work through the multilevel ledge system. Ranges from approximately 18 to 24 metres, with ledges reaching 30 metres. The multilevel profile is well suited to computer divers. Typically run as a gentle drift along the reef's length.
 
 ## Entry and Exit
+
 Boat dive from Speightstown or Holetown operators. Usually paired with Whitegates or Spawnee for a two-tank trip.
 
 ## Tips and Recommendations
-- Check under the reef ledges for resting nurse sharks
-- The multilevel profile is ideal for optimizing no-decompression time
-- Excellent visibility makes this a top photography site
-- Drift direction depends on current — follow the divemaster's briefing
+
+Check under the reef ledges for resting nurse sharks — they rest in the darker overhang sections. The multilevel profile optimises no-decompression time for computer divers. Carry an SMB — the drift can carry you some distance from the entry point.
 
 ## Safety Considerations
-Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group and carry an SMB. The ledges drop below recreational limits at the reef edges, so monitor depth carefully.
+
+Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group. The ledge edges drop below recreational limits at the outer reef — monitor depth carefully. Always carry and deploy an SMB for pickup.
 
 ---
-*Sources: Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, DIVEIN, Girls That Scuba, DIVEIN - Multilevel reef with rare nurse sharks, excellent visibility. Last updated 2026-04-02.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-05-17.*

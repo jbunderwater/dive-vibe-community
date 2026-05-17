@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Batu Belah
 
-A black sand and rubble macro site in the Tulamben area — prime territory for frogfish, rare nudibranchs, and specialist critter hunters.
+A coastal reef in the Amed area with rich coral formations rising from a sandy bottom — known for its abundance of snappers, fusiliers, frogfish, and macro life on productive volcanic reef.
 
 ## Overview
 
-Batu Belah sits near Tulamben on Bali's northeast coast, in an area consisting of black volcanic sand and rubble rather than classic coral reef. This is a dedicated macro dive site that rewards patient divers who take time to search the seemingly bare substrate. Rhipopias scorpionfish, various frogfish species, and specialist nudibranchs that would be invisible on a coral reef stand out against the dark sand. The site pairs well with neighbouring Batu Ringgit and the famous USAT Liberty wreck nearby, offering a complete contrast to the more photogenic reef dives.
+Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible directly from shore. The distinctive feature is a substantial coral clump rising from a sandy bottom, creating a dynamic reef habitat with rich nutrients from the nearby Lombok Strait. The reef is considered productive for macro life including frogfish and leaf fish, as well as schooling species like snappers, platax (batfish), and fusiliers. Tuna pass in the blue water beyond the reef. Conditions are generally calm with little to moderate current and good visibility of 15–30 metres.
 
 ## Site Information
 
 - **Location**: Tulamben area, northeast Bali
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–20 m
-- **Current**: Generally mild
+- **Difficulty Level**: Beginner to Intermediate
+- **Maximum Depth**: 30 meters (typical: 10–25 m)
+- **Typical Visibility**: 15–30 metres
+- **Current**: Nil to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Frogfish in multiple colour morphs, leaf scorpionfish, and rhipopias scorpionfish are the specialist finds. Rare and unusual nudibranch species including aeolid and dorid varieties that are uncommon at coral reef sites. Blue-spotted stingrays and pipefish on the sandy bottom. Mantis shrimp emerge from burrows, and ghost pipefish are occasionally found among sparse debris.
+Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen in blue water adjacent to the reef. Nudibranchs, crabs, and mantis shrimp inhabit the substrate. Giant frogfish and leaf scorpionfish — rare species that can be difficult to locate — have been confirmed at this site. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
 
 ## Dive Profile
 
-Descend to the black sand bottom at 10–25 m and move slowly and systematically across the substrate. Keep a distance of 20–30 cm above the sand to spot cryptic critters without disturbing them. Focus on isolated rubble pieces, sparse coral fragments, and any organic debris where critters seek cover. Allow 50–60 minutes for a thorough search.
+Enter from the sandy and rocky beach shore and descend to the reef structure, which begins close to shore. The coral clumps rise from the sandy bottom and are the focal points of the dive. Work across the reef formations at 10–25 metres, checking for frogfish and macro life on coral surfaces while watching the surrounding water for schooling species. The reef extends to around 30 metres on the deeper edge.
 
 ## Entry and Exit
 
-Boat dive from Tulamben. Entry via back roll. Currents are generally mild. Follow the guide's search pattern for the best results at this site.
+Shore entry from the sandy and rocky beach at Batu Belah, with coral reef beginning just a few metres from shore. Enter carefully over the rocky substrate and swim out to the reef formations. Exit at the same point.
 
 ## Tips and Recommendations
 
-- Move extremely slowly — cryptic species are spotted by shape irregularity, not colour
-- A compact macro camera with a diopter is ideal; dedicated UW macro systems shine here
-- Ask your guide specifically about current frogfish and nudibranch locations before the dive
-- Pair with the USAT Liberty wreck dive the same morning for a complete Tulamben experience
-- Visit at dawn or dusk when critters are most active on the sandy substrate
+- Ask your guide about current frogfish and macro species locations on the reef
+- The proximity to the Lombok Strait means passing tuna and pelagics can appear quickly — look into the blue periodically
+- Suitable for recently certified divers as well as macro photographers at intermediate level
 
 ## Safety Considerations
 
-Current is usually mild, but conditions can change. Maintain neutral buoyancy above the black sand to avoid disturbing critters and reducing visibility. Be careful not to kneel or stand on the substrate — camouflaged scorpionfish and stonefish are a real hazard on muck sites.
+Currents are generally mild with occasional moderate periods. Maintain good buoyancy to avoid contact with the reef structure. Camouflaged scorpionfish and stonefish may rest on substrate surfaces — observe without touching or placing hands on coral or rock.
 
 ## Photography
 
-This is a dedicated macro photography site. A 60mm or 100mm macro lens reveals tiny nudibranch details. Frogfish in situ on rubble require careful background management — position your strobes to avoid distracting shadows. Black sand backgrounds can look striking with correct exposure.
+Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
