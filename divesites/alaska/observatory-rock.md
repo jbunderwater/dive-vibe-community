@@ -23,7 +23,7 @@ Observatory Rock sits in the tidal waterways of the southern approaches to Ketch
 
 - **Location**: Southern approaches to Ketchikan, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

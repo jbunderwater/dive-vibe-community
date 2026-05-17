@@ -26,10 +26,10 @@ The Oduna now rests in shallow water at approximately 12 meters depth with porti
 ## Site Information
 
 - **Location**: Cape Pankof, Ikatan Peninsula, Unimak Island, southwest Alaska (approximately 18 miles SE of False Pass)
-- **Entry Type**: Boat dive (expedition logistics required)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~12 meters (hull exposed at low and high tide)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: Unknown — no recreational dive reports found
 - **Current**: Strong tidal and oceanic currents typical of Unimak Pass approaches
 - **Water Temperature**: 3–8°C (37–46°F) — among the coldest recreational dive conditions in Alaska

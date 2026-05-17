@@ -23,7 +23,7 @@ Pleasant Island Reef lies in Icy Strait, one of Southeast Alaska's most biologic
 
 - **Location**: Icy Strait near Pleasant Island, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)

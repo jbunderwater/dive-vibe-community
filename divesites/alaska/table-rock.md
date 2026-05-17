@@ -23,7 +23,7 @@ Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay an
 
 - **Location**: Alaska Peninsula / Shumagin Islands area, Southwest Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–20 meters (26–66 feet)

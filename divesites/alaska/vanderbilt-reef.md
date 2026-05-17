@@ -27,7 +27,7 @@ Underwater, Vanderbilt Reef descends to 26 meters and supports the typical cold-
 
 - **Location**: Junction of Favorite Channel and Lynn Canal, 30 miles NW of Juneau, Southeast Alaska (58°35'N, 135°01'W)
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)

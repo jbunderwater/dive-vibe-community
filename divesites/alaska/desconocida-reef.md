@@ -23,7 +23,7 @@ Desconocida Reef — its name derived from the Spanish word for "unknown" — si
 
 - **Location**: Outer island chains, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–20 meters (26–66 feet)

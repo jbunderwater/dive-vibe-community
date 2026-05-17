@@ -29,7 +29,7 @@ Prince William Sound waters at this location are cold and productive. The Sound 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~16 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–40 feet (3–12 meters), best October–May
 - **Current**: Moderate tidal
 - **Water Temperature**: 8–14°C (46–57°F) summer; colder in winter

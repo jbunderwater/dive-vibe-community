@@ -23,7 +23,7 @@ Eagle Reef lies in the tidal system south of Juneau, where freshwater draining f
 
 - **Location**: South of Juneau, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)

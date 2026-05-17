@@ -29,7 +29,7 @@ Southeast Alaska waters in this region (Inside Passage, Chatham Strait) are cold
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~18 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Unknown — no dive reports found
 - **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)

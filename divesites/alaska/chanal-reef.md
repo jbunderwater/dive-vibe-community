@@ -23,7 +23,7 @@ Chanal Reef sits in the Dixon Entrance area at the southernmost edge of Alaska's
 
 - **Location**: Dixon Entrance area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

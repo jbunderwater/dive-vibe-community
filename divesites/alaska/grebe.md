@@ -29,7 +29,7 @@ Because no independent sources confirming the vessel's identity, history, or div
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~15 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–40 feet (3–12 meters), best October–May
 - **Current**: Moderate tidal
 - **Water Temperature**: 8–14°C (46–57°F) summer; colder in winter

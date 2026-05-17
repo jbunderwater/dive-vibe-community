@@ -23,7 +23,7 @@ Douglas Rock is a submerged rocky formation rising from the cold waters of the I
 
 - **Location**: Southeast Alaska (Ketchikan area), Inside Passage
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

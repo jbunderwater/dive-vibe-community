@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Current Alley
 
-Current Alley is a drift dive site in Alor Archipelago, Asia.
+Current Alley is a drift dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — also known as Yellow Corner and Munaseli, this advanced current-swept underwater ridge is Alor's most reliably cited site for encounters with scalloped hammerhead sharks, particularly around full and new moon periods.
 
 ## Overview
 
-Current Alley is a dive site in Alor Archipelago offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Current Alley (Yellow Corner, Munaseli, Tanjung Muna) is a massive underwater ridge exposed on all sides to the full force of the sea, plunging sharply into deep water. The site is swept by powerful — and sometimes positively ripping — currents that concentrate nutrients and sustain a food chain dense enough to attract large pelagics on a regular basis. Multiple operator sources confirm that this is Alor's premier hammerhead site: scalloped hammerheads emerge from the depths here, particularly around full and new moon cycles when current patterns intensify. The optimum diving depth for pelagic encounters is 20–30 metres at the corner of the wall, though conditions vary significantly with tide. A reef hook is recommended due to the intensity of the current. The Alor Tanapi guide describes this site as one that "advanced divers only" should attempt.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia (also known as Yellow Corner, Munaseli, Tanjung Muna)
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20–35 metres
+- **Current**: Strong to very strong; can be extreme
+- **Best Time**: May to October; hammerhead activity peaks around full and new moon
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Multiple independent sources confirm the following species at Current Alley/Yellow Corner: scalloped hammerhead sharks (seasonal, around full and new moon), barracuda, blacktip reef sharks, grey reef sharks, eagle rays, large Napoleon wrasse, and big-eye trevally. Mola mola have been reported at this and adjacent sites. The Nautika Dive Alor guide confirms "hammerhead sharks, barracudas, blacktip sharks, eagle rays" as expected species. The ewdr.com guide calls Yellow Corner "the most famous spot for schools of scalloped hammerhead sharks" in Alor and lists white tip, blacktip, gray reef, silky sharks, mobulas, and eagle rays. One ScubaBoard report noted barracuda and only occasional hammerhead sightings, underscoring that encounters are not guaranteed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop directly onto the ridge at the agreed entry point and descend to 20–30 metres on the corner where pelagic action concentrates. A reef hook clipped to dead rock or rubble (never living coral) allows divers to hold station in the current and scan the blue for approaching animals. Spend the first portion of the dive at depth before ascending methodically to the ridge crest. Surface pickup requires a deployed SMB well before the safety stop ends; current at the surface will carry divers rapidly downflow.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Exclusively by liveaboard or day-boat with experienced crew. The guide times entry against tidal tables to catch the productive window — entering at the wrong phase produces difficult conditions with fewer animals. Exit by drift pickup using SMB; current at the surface is strong. A reef hook, large SMB, and audible signaling device are all recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time this dive for the days around full and new moon for the best hammerhead probability — local operators track lunar cycles for itinerary planning
+- Descend quickly and quietly to the corner at 20–30 metres before settling into position; rapid initial descent minimises disturbance before animals become aware of the group
+- Hold position calmly using a reef hook on dead substrate — movement and bubbles disturb hammerheads at distance; patience pays
+- Hammerheads are shy at this site; do not approach, chase, or flash strobes directly at them — allow the animals to pass close on their own terms
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current Alley is one of the most demanding dives in the Alor region. The current can be extreme, and downwellings along the ridge face can carry divers significantly deeper than planned within seconds — if you feel downward pull, fin horizontally away from the structure into open water immediately. Monitor your depth computer from the moment of descent. This site is suitable only for Advanced-certified divers with substantial current-diving experience. Never dive without a computer, SMB, and audible signal.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Wide-angle or fisheye is the correct choice for hammerhead and pelagic photography. Pre-set exposure for mid-water ambient light at 20–25 metres and shoot in bursts as animals pass through the frame — they move fast and do not pause. Shooting toward the surface silhouettes the animals against lighter water. Stationary positioning, enabled by a reef hook, produces better images than pursuit.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Nautika Dive Alor](https://www.nautikadivealor.com/diving-in-alor), [The Occasional Traveller Alor Dive Logs](https://theoccasionaltraveller.com/scuba-diving-in-alor/), [EWDR Alor Complete Guide](https://ewdr.com/en/dive-inspiration/diving-in-alor-a-complete-guide/), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). Last updated 2026-05-17.*

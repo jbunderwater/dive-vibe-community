@@ -27,7 +27,7 @@ Bligh Reef's underwater terrain is rocky and irregular, descending to 30 meters 
 
 - **Location**: Off Bligh Island, northeastern Prince William Sound (60°50'N, 146°53'W)
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–40 feet (3–12 meters) in summer; better in winter/spring

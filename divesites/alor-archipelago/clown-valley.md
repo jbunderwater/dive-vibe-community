@@ -23,7 +23,7 @@ Clown Valley (locally called Apuri) sits off Pura Island and delivers an experie
 
 - **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia (off Pura Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / anemone field
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 metres

@@ -23,7 +23,7 @@ Harvey Rock is one of the named submerged rocks in the Ketchikan diving area, ri
 
 - **Location**: Ketchikan archipelago, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

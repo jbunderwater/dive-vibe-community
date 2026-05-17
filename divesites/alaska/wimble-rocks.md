@@ -23,7 +23,7 @@ Wimble Rocks is a cluster of submerged rocky formations in the outer approaches 
 
 - **Location**: Outer Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

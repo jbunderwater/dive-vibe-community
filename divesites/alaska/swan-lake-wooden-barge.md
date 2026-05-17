@@ -29,7 +29,7 @@ The Sand Point area sits at the edge of the Bering Sea and Pacific Ocean approac
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~14 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: Unknown — no recreational dive reports found
 - **Current**: Moderate to strong tidal
 - **Water Temperature**: 3–10°C (37–50°F)

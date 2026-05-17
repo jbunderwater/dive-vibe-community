@@ -23,7 +23,7 @@ La Perouse Reef takes its name from the French explorer Jean-François de Galaup
 
 - **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

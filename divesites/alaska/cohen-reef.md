@@ -23,7 +23,7 @@ Cohen Reef is situated in the rich tidal waterways south of Juneau, where the mi
 
 - **Location**: South of Juneau, Lynn Canal system, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)

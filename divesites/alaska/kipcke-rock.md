@@ -23,7 +23,7 @@ Kipcke Rock is a submerged pinnacle in the outer coastal waters accessible from 
 
 - **Location**: Outer approaches, southern Southeast Alaska / Prince Rupert area
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

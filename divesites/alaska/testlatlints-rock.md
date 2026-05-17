@@ -23,7 +23,7 @@ Testlatlints Rock takes its name from the Haida language, reflecting the long In
 
 - **Location**: Ketchikan area reef cluster (Dixon Entrance approaches), Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

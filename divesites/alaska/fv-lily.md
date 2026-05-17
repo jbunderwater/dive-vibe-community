@@ -27,7 +27,7 @@ The Cold Bay area is extremely remote, with cold water (4–8°C year-round), st
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~15 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Unknown — no recreational dive reports found
 - **Current**: Strong tidal and oceanic currents
 - **Water Temperature**: 4–8°C (39–46°F)

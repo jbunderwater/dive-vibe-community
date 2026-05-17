@@ -27,7 +27,7 @@ The wreck lies at approximately 20 meters depth and has been colonized by the co
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~20 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (26–49 feet)
 - **Current**: Moderate, tidal
 - **Water Temperature**: 6–12°C (43–54°F)

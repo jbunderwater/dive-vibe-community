@@ -23,7 +23,7 @@ Alert Rock is a submerged reef formation rising from the cold, nutrient-rich wat
 
 - **Location**: Southeast Alaska (Ketchikan area), Inside Passage
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

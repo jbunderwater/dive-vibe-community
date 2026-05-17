@@ -29,9 +29,9 @@ The wreck remained partially submerged for over two decades until the Good Frida
 
 - **Location**: Middleton Island, Gulf of Alaska (approximately 80 miles south of Cordova)
 - **Status**: Above water — NOT a dive site
-- **Entry Type**: N/A (land access only, no regular access to the island)
-- **Site Type**: Grounded wreck (above water)
-- **Difficulty Level**: N/A
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Current Condition**: Deteriorating land-based wreck serving as a seabird colony; public access is limited to protect nesting birds
 
 ## Data Quality Note

@@ -23,7 +23,7 @@ Marchand Reef is one of the named reef formations clustered in the Dixon Entranc
 
 - **Location**: Ketchikan area reef cluster, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

@@ -27,7 +27,7 @@ The vessel capsized near Whittier and came to rest in Shotgun Cove, an arm of Pa
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~17 meters
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 8–15 meters (26–49 feet); better October–May, reduced in summer
 - **Current**: Moderate, tidal
 - **Water Temperature**: 4–14°C (39–57°F) — coldest in winter

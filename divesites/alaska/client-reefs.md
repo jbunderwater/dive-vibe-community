@@ -23,7 +23,7 @@ Client Reefs lie in the productive waters near the Alaska–British Columbia bor
 
 - **Location**: Chatham Sound area, Southeast Alaska near Prince Rupert
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

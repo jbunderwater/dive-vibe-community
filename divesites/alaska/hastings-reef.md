@@ -23,7 +23,7 @@ Hastings Reef offers a challenging cold-water dive on exposed rocky formations c
 
 - **Location**: Southeast Alaska (Ketchikan area), Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Typical Visibility**: 8-20 meters (26-66 feet)
 - **Current**: Strong, slack tide required

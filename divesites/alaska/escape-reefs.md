@@ -23,7 +23,7 @@ Escape Reefs are located in the outer waters near the southern end of the Alaska
 
 - **Location**: Southern Southeast Alaska, near Prince Rupert area
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

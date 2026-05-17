@@ -23,7 +23,7 @@ Haswell Reef lies in the southern approaches to the Ketchikan region, in an area
 
 - **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)

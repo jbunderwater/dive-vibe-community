@@ -3,7 +3,7 @@ name: Mike's Delight
 lat: -8.295
 lng: 124.36
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -23,7 +23,7 @@ Mike's Delight is located on the east coast of Pura Island, where the reef desce
 
 - **Location**: East coast of Pura Island, Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / sloping reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 metres
