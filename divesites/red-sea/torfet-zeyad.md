@@ -37,7 +37,7 @@ Typical southern Red Sea fringing reef: anthias, chromis, parrotfish, surgeonfis
 ## Site Information
 
 - **Location**: Near Port Ghalib / Marsa Alam, southern Red Sea
-- **Entry Type**: Shore dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres

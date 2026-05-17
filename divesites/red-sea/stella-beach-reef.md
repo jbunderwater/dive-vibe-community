@@ -37,8 +37,8 @@ Parrotfish, surgeonfish, butterflyfish, angelfish, groupers, moray eels, blue-sp
 ## Site Information
 
 - **Location**: Stella Di Mare Beach Hotel, Sharm El Sheikh coast, Gulf of Aqaba
-- **Entry Type**: Shore dive
-- **Site Type**: Reef (house reef)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 
