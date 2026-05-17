@@ -5,7 +5,7 @@ lng: 34.994368
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -30,9 +30,9 @@ Typical for southern Red Sea habili sites:
 ## Site Information
 
 - **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 **Note:** Coordinates overlap closely with Halg Dawoud — these may represent the same reef recorded under two names.

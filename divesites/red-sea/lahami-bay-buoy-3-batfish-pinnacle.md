@@ -5,7 +5,7 @@ lng: 35.4433966
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -39,9 +39,9 @@ Small boat (felluca/zodiac) access from the beach station; part of the daily hou
 ## Site Information
 
 - **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 ---

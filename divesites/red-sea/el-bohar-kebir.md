@@ -17,19 +17,35 @@ El Bohar Kebir is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+El Bohar Kebir (also known as Shaab Bohar Kebir) is a large coral reef within the Fury Shoals complex, located in the northern section of the Fury Shoals reef chain southeast of Hamata, approximately one hour's sail from Hamata port. The Fury Shoals extend roughly 9 km north–south and 30 km east–west and comprise about twenty bank reefs south of Marsa Alam. El Bohar Kebir is described as a large garden site with two distinct dive areas: the eastern section features several coral pinnacles beginning at approximately 20 m on a sandy bottom, with hard and soft corals covering the structure; the northern section has coral blocks supporting abundant small marine life, while the southern end hosts an Anemone City — a dense field of carpet anemones with resident clownfish — at a maximum depth of 12 m. The site is rated suitable for all levels of diver.
+
+## Marine Life
+
+Clownfish (anemonefish) in dense anemone fields are the headline attraction at the southern Anemone City. Nudibranchs are frequently found on the coral pinnacles. Whitetip reef sharks patrol the reef and are commonly encountered. Eagle rays appear at the deeper pinnacle sections. Schools of reef fish — anthias, butterflyfish, and fusiliers — are present throughout. Larger groupers and Napoleon wrasse are periodic visitors.
+
+## Dive Profile
+
+Two distinct profiles: shallow Anemone City dive (max 12 m, beginner-friendly, excellent for photography and snorkelling); and deeper eastern pinnacle dive (20–25 m, with hard and soft coral-covered structures). Boat access from Hamata; approximately one hour transit. Current is generally moderate at Fury Shoals sites. Visibility typically 15–25 m.
+
+## Entry and Exit
+
+Boat dive from Hamata port (1 hour transit) or from liveaboards operating in the Fury Shoals. The site can also be accessed from Marsa Alam on longer day trips. Most southern Red Sea operators offer Fury Shoals day trip or liveaboard programmes.
+
+## Tips and Recommendations
+
+Visit the Anemone City section (south, 12 m) first to preserve time and air for the deeper eastern pinnacles. Look for nudibranchs on the pinnacle surfaces — diversity is high. Early morning light illuminates the shallow anemone garden beautifully for photography.
+
+## Safety Considerations
+
+Transit from Hamata in the open Red Sea can be choppy — seasickness prevention is advisable. Moderate currents may be present around the reef. Deploy an SMB on ascent; the Fury Shoals is a remote location. Fire coral is present on reef surfaces.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Fury Shoals, north section, ~1 hour from Hamata, southern Red Sea
+- **Entry Type**: Boat dive (day boat from Hamata or liveaboard)
+- **Site Type**: Coral reef / pinnacles
+- **Difficulty Level**: Intermediate (all levels for Anemone City section)
+- **Maximum Depth**: 25 m (pinnacles); 12 m (Anemone City)
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [TGI Diving — Marsa Alam dive sites (Shaab Bohar Kebir)](https://www.tgidiving.com/en/red-sea/marsa-alam-egypt/dive-sites/). Last updated 2026-05-17.*

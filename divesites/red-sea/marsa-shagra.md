@@ -42,7 +42,7 @@ Entry is directly from the beach through the sheltered sandy-bottomed bay. Diver
 - **Location**: Marsa Alam area, Egyptian Red Sea
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Maximum Depth**: 40+ metres
+- **Maximum Depth**: 40 meters
 - **Difficulty**: All levels; outer walls suit intermediate and above
 
 ---

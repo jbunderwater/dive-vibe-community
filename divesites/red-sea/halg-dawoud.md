@@ -22,9 +22,9 @@ The offshore reef zone near Ras Banas is home to a series of submerged reef stru
 ## Site Information
 
 - **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 
 **Note:** Coordinates overlap closely with Habili Dawoud — these may represent the same reef recorded under two names. Verification with local operators recommended.
