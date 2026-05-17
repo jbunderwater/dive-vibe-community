@@ -2,10 +2,10 @@
 name: Daedalus Reef (2)
 lat: 24.92835
 lng: 35.8618
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -45,8 +45,8 @@ The combination of large pelagic sharks, steep walls coloured by anthias and sof
 ## Site Information
 
 - **Location**: Red Sea, offshore from Marsa Alam — liveaboard access only
-- **Entry Type**: Boat (liveaboard)
-- **Site Type**: Wall / drift
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 40+ metres
 - **Difficulty**: Advanced
 - **Best Season**: October–February (pelagic activity peak)

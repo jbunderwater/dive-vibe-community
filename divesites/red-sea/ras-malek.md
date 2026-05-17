@@ -30,8 +30,8 @@ Boat access from Hurghada or Sahl Hasheesh operators. The headland tip creates t
 ## Site Information
 
 - **Location**: Hurghada / Sahl Hasheesh area, Red Sea, Egypt
-- **Entry Type**: Boat
-- **Site Type**: Cape reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

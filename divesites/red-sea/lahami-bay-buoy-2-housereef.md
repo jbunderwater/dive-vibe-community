@@ -35,8 +35,8 @@ Small boat (felluca/zodiac) access from the beach station. Depth and specific to
 ## Site Information
 
 - **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
-- **Entry Type**: Boat (housereef boat from beach)
-- **Site Type**: Fringing coral reef (outer housereef section)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres
 - **Difficulty**: Intermediate
 

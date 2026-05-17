@@ -30,8 +30,8 @@ Shore or boat entry depending on access; the east-facing aspect of this reef sec
 ## Site Information
 
 - **Location**: El Gouna / Hurghada area, Red Sea coast, Egypt
-- **Entry Type**: Shore
-- **Site Type**: Fringing coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

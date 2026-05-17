@@ -42,9 +42,9 @@ Occasional moderate currents require situational awareness — plan the dive wit
 ## Site Information
 
 - **Location**: ~15 km north of El Quseir, southern Red Sea coast
-- **Entry Type**: Boat dive (shore launch from beach camp)
-- **Site Type**: Coral reef / pinnacles / drop-off
-- **Difficulty Level**: Intermediate to Advanced
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25+ m
 
 ---

@@ -34,8 +34,8 @@ Boat only. Day trips from Sharm El Sheikh take approximately 45–60 minutes. Li
 ## Site Information
 
 - **Location**: Western side of Tiran Island, Straits of Tiran
-- **Entry Type**: Boat
-- **Site Type**: Coral reef / lagoon
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres (lagoon 10–12 m)
 - **Difficulty**: Intermediate
 - **Best Dive Time**: Afternoon (easier current)

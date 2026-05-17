@@ -33,8 +33,8 @@ Boat dive; no mooring — drift dive with strong prevailing current. Depth: drop
 ## Site Information
 
 - **Location**: Ras Mohammed area, Sharm El Sheikh, northern Red Sea
-- **Entry Type**: Boat (drift dive)
-- **Site Type**: Reef wall / sloping reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25+ metres
 - **Difficulty**: Intermediate–Advanced (current management required)
 

@@ -34,8 +34,8 @@ Shore entry from the Pharaoh Dive Club / El Quseir dive area. Multiple entry and
 ## Site Information
 
 - **Location**: El Quseir, Red Sea, Egypt (approximately 85 km south of Safaga)
-- **Entry Type**: Shore
-- **Site Type**: Fringing coral reef / wall
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 35 metres
 - **Difficulty**: Intermediate
 - **Dive Centre**: Pharaoh Dive Club (BSAC-affiliated)

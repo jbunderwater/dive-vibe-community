@@ -38,8 +38,8 @@ The gorgonian fan forest and giant table corals of the lagoon are strong wide-an
 ## Site Information
 
 - **Location**: Dahab area, Gulf of Aqaba, North Sinai
-- **Entry Type**: Boat
-- **Site Type**: Reef / canyon
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Intermediate
 

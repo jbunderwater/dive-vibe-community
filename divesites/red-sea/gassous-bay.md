@@ -42,8 +42,8 @@ Cannot be dived in anything other than calm weather — this is an absolute cons
 ## Site Information
 
 - **Location**: El Quseir area, southern Red Sea coast
-- **Entry Type**: Shore dive (minibus transfer)
-- **Site Type**: Coral reef / canyon
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 m
 

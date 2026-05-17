@@ -42,8 +42,8 @@ The headland catches stronger currents than the enclosed bays — check conditio
 ## Site Information
 
 - **Location**: ~12 km north of Sharm el-Sheikh / 15 min north of Na'ama Bay, Sinai Peninsula
-- **Entry Type**: Shore dive (also boat access from hotel)
-- **Site Type**: Coral reef / wall / headland
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 60 m (recreational sections to 30 m)
 

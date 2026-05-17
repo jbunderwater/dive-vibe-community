@@ -22,8 +22,8 @@ The offshore reef zone near Ras Banas is home to a series of submerged reef stru
 ## Site Information
 
 - **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
-- **Entry Type**: Boat
-- **Site Type**: Coral reef / reef crack
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
 - **Difficulty**: Intermediate
 

@@ -42,9 +42,9 @@ Weak currents — assess direction before beginning the dive. Shallow depth mini
 ## Site Information
 
 - **Location**: ~60–90 min north of Hurghada / near El Gouna, northern Red Sea
-- **Entry Type**: Boat dive
-- **Site Type**: Reef / erg field (coral pinnacles)
-- **Difficulty Level**: Intermediate (all levels welcome)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 m
 
 ---

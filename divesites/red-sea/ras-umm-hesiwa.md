@@ -30,8 +30,8 @@ Boat access from Safaga dive operators. The cape structure creates a dive profil
 ## Site Information
 
 - **Location**: Safaga area, Red Sea, Egypt (approximately 60 km south of Hurghada)
-- **Entry Type**: Boat
-- **Site Type**: Cape reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

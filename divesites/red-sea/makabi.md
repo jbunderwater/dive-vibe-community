@@ -22,7 +22,7 @@ The coastal zone at 24.3°N in the Egyptian Red Sea encompasses the transition b
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea, Marsa Alam / Hamata coastal zone
-- **Entry Type**: Boat or shore (unconfirmed)
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
 - **Difficulty**: Intermediate

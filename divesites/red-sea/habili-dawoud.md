@@ -30,8 +30,8 @@ Typical for southern Red Sea habili sites:
 ## Site Information
 
 - **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
-- **Entry Type**: Boat
-- **Site Type**: Submerged pinnacle (habili)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
 - **Difficulty**: Intermediate
 

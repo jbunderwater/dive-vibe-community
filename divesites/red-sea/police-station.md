@@ -30,8 +30,8 @@ Shore entry — typical of this region — with a walk or wade across the reef f
 ## Site Information
 
 - **Location**: Hurghada / El Gouna area, Red Sea, Egypt
-- **Entry Type**: Shore
-- **Site Type**: Fringing coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

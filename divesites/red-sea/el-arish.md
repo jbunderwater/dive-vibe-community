@@ -51,9 +51,9 @@ The portside depth (37 m) requires careful gas management. Wreck penetration bey
 ## Site Information
 
 - **Location**: Safaga area, northern Red Sea
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced (portside sections); Intermediate (superstructure)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 m
 
 ---

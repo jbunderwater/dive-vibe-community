@@ -34,7 +34,7 @@ Boat access from Sharm El Sheikh (approximately 45–60 minutes). Tiran Island d
 ## Site Information
 
 - **Location**: Tiran Island / Straits of Tiran area, northern Red Sea
-- **Entry Type**: Boat
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate

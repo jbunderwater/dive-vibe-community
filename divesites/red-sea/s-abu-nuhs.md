@@ -26,7 +26,7 @@ Reef communities in this zone include the full complement of typical Red Sea ree
 ## Site Information
 
 - **Location**: South of central Hurghada, Red Sea, Egypt
-- **Entry Type**: Boat
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate

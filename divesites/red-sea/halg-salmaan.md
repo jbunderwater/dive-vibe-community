@@ -41,8 +41,8 @@ Boat dive; typically a day trip from Port Ghalib. Depth 5–35 m (sandy bottom a
 ## Site Information
 
 - **Location**: Port Ghalib / Marsa Alam area, southern Red Sea
-- **Entry Type**: Boat
-- **Site Type**: Reef inlet with wall and pinnacle features
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 35 metres
 - **Difficulty**: All levels (easy conditions)
 

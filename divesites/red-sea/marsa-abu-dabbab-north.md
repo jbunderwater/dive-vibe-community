@@ -2,10 +2,10 @@
 name: Marsa Abu Dabbab North
 lat: 25.3420674
 lng: 34.741559
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 10
 entryType: shore
-siteType: muck
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -45,7 +45,7 @@ Excellent for wide-angle and behavioural shots of dugongs and turtles. Shallow b
 
 - **Location**: ~30 km north of Marsa Alam, Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Seagrass bay / shallow sandy
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~10 metres
 - **Difficulty**: Beginner — suitable for all levels
 

@@ -2,10 +2,10 @@
 name: Ras Burg
 lat: 27.7563739
 lng: 34.2520452
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -34,8 +34,8 @@ Excellent photography conditions: the chimney's yellow gorgonians and coloured s
 ## Site Information
 
 - **Location**: Eastern coast of Ras Mohammed National Park, South Sinai
-- **Entry Type**: Boat
-- **Site Type**: Wall / cave / drift
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Advanced
 

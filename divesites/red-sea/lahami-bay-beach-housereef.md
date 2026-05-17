@@ -41,7 +41,7 @@ Shore entry directly from the resort beach. Inner reef 5–15 m; coral outcrops 
 
 - **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres
 - **Difficulty**: Intermediate — accessible to all levels
 

@@ -30,8 +30,8 @@ Boat access from Sharm El Sheikh (approximately 45–60 minutes). The headland c
 ## Site Information
 
 - **Location**: Nabq area, north of Sharm El Sheikh, Gulf of Aqaba, Sinai
-- **Entry Type**: Boat
-- **Site Type**: Cape reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

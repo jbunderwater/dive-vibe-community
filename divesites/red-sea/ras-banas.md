@@ -34,8 +34,8 @@ Liveaboard access from Marsa Alam or Port Ghalib on southern Red Sea itineraries
 ## Site Information
 
 - **Location**: Ras Banas peninsula, approximately 160 km south of Marsa Alam, southern Red Sea, Egypt
-- **Entry Type**: Boat (liveaboard recommended)
-- **Site Type**: Coral reef / wall
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30+ metres
 - **Difficulty**: Intermediate
 

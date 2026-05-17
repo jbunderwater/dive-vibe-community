@@ -2,10 +2,10 @@
 name: Petra
 lat: 27.3607909
 lng: 33.9154816
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -38,8 +38,8 @@ The shallow, clear, and calm environment — with colourful pinnacles, diverse r
 ## Site Information
 
 - **Location**: Magawish Island area, approximately 45 minutes southeast of Hurghada
-- **Entry Type**: Boat
-- **Site Type**: Pinnacle / erg
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 15 metres (typical dive 9 m)
 - **Difficulty**: Beginner
 

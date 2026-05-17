@@ -34,8 +34,8 @@ Boat access; a RIB typically drops divers at the northern end of the bay and the
 ## Site Information
 
 - **Location**: Marsa Alam region, southern Red Sea, approximately 8.5 km north of Ras Ghalib
-- **Entry Type**: Boat
-- **Site Type**: Coral reef / lagoon
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres (optimal 10–15 m)
 - **Difficulty**: Intermediate
 

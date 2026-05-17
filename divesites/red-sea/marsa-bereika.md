@@ -34,8 +34,8 @@ Boat access from Sharm El Sheikh; day-boat trips reach the site in approximately
 ## Site Information
 
 - **Location**: Ras Mohammed National Park, South Sinai
-- **Entry Type**: Boat
-- **Site Type**: Coral reef / slope
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

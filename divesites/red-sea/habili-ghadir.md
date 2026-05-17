@@ -2,10 +2,10 @@
 name: Habili Ghadir
 lat: 24.8430667
 lng: 35.1249833
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -32,8 +32,8 @@ Boat only; long approach from Marsa Alam. Drift dive along the wall in strong cu
 ## Site Information
 
 - **Location**: Marsa Alam offshore zone, southern Red Sea
-- **Entry Type**: Boat (long journey)
-- **Site Type**: Submerged pinnacle (habili) — drift/wall
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Advanced
 

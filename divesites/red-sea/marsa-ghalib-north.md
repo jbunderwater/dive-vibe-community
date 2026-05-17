@@ -35,7 +35,7 @@ Shore entry from the Port Ghalib marina beach. The reef is accessible on foot fr
 
 - **Location**: Port Ghalib (Marsa Ghalib), Marsa Alam area, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~30 metres
 - **Difficulty**: All levels — beginner-friendly inshore, deeper for advanced
 

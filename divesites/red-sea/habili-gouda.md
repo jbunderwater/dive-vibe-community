@@ -5,7 +5,7 @@ lng: 34.6636737
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -39,8 +39,8 @@ Boat dive from Port Ghalib (Marsa Mubarak zone). The pinnacle rises from the san
 ## Site Information
 
 - **Location**: Marsa Mubarak zone, Port Ghalib area, southern Red Sea
-- **Entry Type**: Boat
-- **Site Type**: Submerged pinnacle (habili)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres
 - **Difficulty**: Intermediate
 

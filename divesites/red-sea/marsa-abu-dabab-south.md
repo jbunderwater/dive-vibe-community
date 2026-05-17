@@ -2,7 +2,7 @@
 name: Marsa Abu Dabab South
 lat: 25.3375
 lng: 34.7419444
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: shore
 siteType: reef
@@ -35,7 +35,7 @@ Shore entry from the southern beach section of Abu Dabbab Bay. Depths range from
 
 - **Location**: Abu Dabbab Bay, ~30 km north of Marsa Alam, Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Seagrass bay / patch reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~15 metres
 - **Difficulty**: Beginner
 

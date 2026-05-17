@@ -38,8 +38,8 @@ The house reef is particularly valued by guests who prefer unlimited, flexible d
 ## Site Information
 
 - **Location**: Sahl Hasheesh, Hurghada, Red Sea
-- **Entry Type**: Shore
-- **Site Type**: Coral reef / wall
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Intermediate
 - **Access**: The Oberoi Beach Resort guests; PADI dive centre on site

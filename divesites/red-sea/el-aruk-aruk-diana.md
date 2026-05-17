@@ -42,9 +42,9 @@ Shallow depth makes decompression risk minimal. Fire coral may be present on erg
 ## Site Information
 
 - **Location**: North of Gota Abu Ramada, ~45–75 min from Hurghada, northern Red Sea
-- **Entry Type**: Boat dive
-- **Site Type**: Reef / erg field (coral pinnacles)
-- **Difficulty Level**: Intermediate (all levels welcome)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 m
 
 ---

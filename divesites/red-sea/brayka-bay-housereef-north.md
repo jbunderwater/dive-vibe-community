@@ -40,9 +40,9 @@ Visibility can be temporarily reduced during strong wave action and low tide nea
 ## Site Information
 
 - **Location**: Brayka Bay, Marsa Alam, southern Red Sea
-- **Entry Type**: Shore dive
-- **Site Type**: Coral reef / wall
-- **Difficulty Level**: Intermediate (all levels welcome)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 m
 
 ---

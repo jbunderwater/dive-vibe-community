@@ -2,10 +2,10 @@
 name: ELPHINSTON
 lat: 25.30424
 lng: 34.861574
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -46,9 +46,9 @@ The southern plateau offers outstanding wide-angle opportunities for oceanic whi
 ## Site Information
 
 - **Location**: Offshore, ~25 km north of Marsa Alam, southern Red Sea
-- **Entry Type**: Boat dive (liveaboard or day boat from Port Ghalib)
-- **Site Type**: Wall / plateau / drift
-- **Difficulty Level**: Advanced
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 m (recreational); walls exceed 100 m
 
 ---

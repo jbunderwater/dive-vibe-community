@@ -2,10 +2,10 @@
 name: Gotta Kebira
 lat: 23.4100333
 lng: 35.9306833
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -41,8 +41,8 @@ Boat dive only; liveaboard access. The reef is circumnavigated in sections — o
 ## Site Information
 
 - **Location**: St. John's reef system, southern Egyptian Red Sea (Foul Bay)
-- **Entry Type**: Boat (liveaboard)
-- **Site Type**: Wall reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 40+ metres
 - **Difficulty**: Advanced
 

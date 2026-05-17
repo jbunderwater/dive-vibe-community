@@ -3,7 +3,7 @@ name: Aida II Wreck
 lat: 26.3138104
 lng: 34.8432379
 difficulty: Advanced
-maxDepth: 60
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -50,10 +50,10 @@ Currents at Big Brother Island can surge unexpectedly; always ascend close to th
 ## Site Information
 
 - **Location**: Big Brother Island, central Red Sea (approx. 60 km NE of Marsa Alam)
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 60–65 m (stern); recreational sections to 40 m
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [The Red Sea Wreck Project — Aida](https://www.redseawreckproject.com/dive-sites/a-red-sea-wreck-diving-database/aida/), [Red Sea Diving — The Aida](https://www.redsea-diving.com/the-aida/), [Egypt Liveaboard — Aida II Wreck](https://www.egypt-liveaboard.com/dive-sites/aida-ii-wreck/). Last updated 2026-05-17.*

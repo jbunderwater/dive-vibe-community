@@ -2,7 +2,7 @@
 name: Menaville House Reef
 lat: 26.7889274
 lng: 33.9377439
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 8
 entryType: shore
 siteType: reef
@@ -36,8 +36,8 @@ Direct shore entry from the Menaville Hotel beach. The Menadive dive centre on s
 ## Site Information
 
 - **Location**: Safaga, Red Sea, Egypt
-- **Entry Type**: Shore
-- **Site Type**: Fringing coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 8 metres
 - **Difficulty**: Beginner
 - **Access**: Menaville Hotel guests; Menadive centre on site

@@ -42,9 +42,9 @@ Minimal current and calm conditions make this one of the safest daily dive sites
 ## Site Information
 
 - **Location**: Coraya Bay, ~30 km south of Port Ghalib, southern Red Sea
-- **Entry Type**: Shore / jetty dive
-- **Site Type**: Coral reef / wall
-- **Difficulty Level**: All levels (beginner-friendly)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 m
 
 ---

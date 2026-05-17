@@ -2,7 +2,7 @@
 name: Fjord
 lat: 29.4165727
 lng: 34.8455429
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 27
 entryType: shore
 siteType: reef
@@ -44,8 +44,8 @@ The red-anemone-lined well is a striking wide-angle subject. The sheltered, clea
 ## Site Information
 
 - **Location**: Fjord Bay, approximately 15 km south of Taba, Gulf of Aqaba, North Sinai
-- **Entry Type**: Shore
-- **Site Type**: Coral reef / bay
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 27 metres
 - **Difficulty**: Beginner (shallow sections) to Intermediate (well)
 

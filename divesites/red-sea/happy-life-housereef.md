@@ -31,7 +31,7 @@ Marsa Alam's fringing reefs in this zone typically support:
 
 - **Location**: Northern Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres
 - **Difficulty**: Intermediate
 

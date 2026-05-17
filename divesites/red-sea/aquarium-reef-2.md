@@ -46,8 +46,8 @@ Gulf of Suez winter water (Dec–Feb) can fall to 18°C — a 5 mm wetsuit is es
 ## Site Information
 
 - **Location**: Ain Sokhna, Gulf of Suez (55 km south of Suez)
-- **Entry Type**: Boat / shore dive
-- **Site Type**: Reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 m
 

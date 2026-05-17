@@ -2,10 +2,10 @@
 name: Ras Fanar
 lat: 27.7330724
 lng: 34.2243004
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -34,8 +34,8 @@ Boat access from Sharm El Sheikh (approximately 45–60 minutes). Dives are curr
 ## Site Information
 
 - **Location**: Northern boundary of Ras Mohammed National Park, South Sinai
-- **Entry Type**: Boat
-- **Site Type**: Wall / coral garden
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Advanced (due to currents)
 

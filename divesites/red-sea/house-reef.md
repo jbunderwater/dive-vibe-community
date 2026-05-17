@@ -34,8 +34,8 @@ Shore entry from beach, with additional sections accessible by small boat (fellu
 ## Site Information
 
 - **Location**: Hamata / Lahami Bay area, southern Egyptian Red Sea
-- **Entry Type**: Shore (with boat access to outer reef)
-- **Site Type**: Fringing coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~25 metres
 - **Difficulty**: Intermediate
 

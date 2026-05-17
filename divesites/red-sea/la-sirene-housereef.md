@@ -2,7 +2,7 @@
 name: La Sirene housereef
 lat: 29.009158
 lng: 34.686857
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 12
 entryType: shore
 siteType: reef
@@ -34,7 +34,7 @@ Shore entry from the private beach. The main reef platform is at 5–12 m depth.
 
 - **Location**: Nuweiba, Gulf of Aqaba, northern Red Sea (Sinai)
 - **Entry Type**: Shore entry
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: ~12 metres (main reef platform)
 - **Difficulty**: Beginner — suitable for all levels
 

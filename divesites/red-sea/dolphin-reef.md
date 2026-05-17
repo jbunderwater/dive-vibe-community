@@ -42,9 +42,9 @@ Winter water temperatures can drop to 18–20°C — always wear an appropriate 
 ## Site Information
 
 - **Location**: Ain Sokhna, Gulf of Suez (55 km south of Suez)
-- **Entry Type**: Boat / shore dive
-- **Site Type**: Reef / drift
-- **Difficulty Level**: Beginner-friendly
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 m
 
 ---
