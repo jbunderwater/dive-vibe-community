@@ -13,57 +13,43 @@ addedBy: osm_import
 
 ## Grebe
 
-Grebe is a historic wreck dive in Alaska, North America.
+The Grebe is a wreck in Prince William Sound near Cordova, Alaska, resting in approximately 15 meters of water with the hull visible at both high and low tide.
 
 ## Overview
 
-The Grebe is a sunken vessel resting in Prince William Sound near Cordova, part of a cluster of wreck dive sites in this productive, glacier-framed inlet of the Gulf of Alaska. The wreck lies at around 15 meters depth and has become home to lingcod, rockfish, and the typical cold-water invertebrate community of the Sound, with plumose anemones and sea stars colonizing the hull structure. Prince William Sound's water temperatures average 8-14 degrees C in summer, requiring full drysuit gear, and the Sound's exceptional scenery — tidewater glaciers, sea otters, and humpback whales visible from the surface — adds a memorable dimension to every dive day.
+The Grebe is an OSM-documented wreck at approximately 60.54°N, 145.76°W in Prince William Sound, near Cordova. The hull is marked as visible at both high and low tide, suggesting it is a shallow-water wreck partially above the waterline. No vessel history for a craft specifically named Grebe in this location was found in the Alaska Shipwrecks database or maritime records searched during this QA pass.
+
+Prince William Sound is known for cold, productive diving with visibility ranging from 10–40 feet in summer months and water temperatures of 8–14°C (46–57°F) in summer. The Sound contains several documented wrecks and is accessible via Whittier and Cordova as base ports.
+
+Because no independent sources confirming the vessel's identity, history, or dive conditions were found, this site cannot be validated and no specific claims are made about its nature beyond the OSM data.
 
 ## Site Information
 
-- **Location**: Prince William Sound, Alaska
+- **Location**: Prince William Sound, near Cordova, Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-15 meters (26-49 feet)
-- **Current**: Moderate, tidal
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
-- **Best Time**: July-September (calmest conditions)
-
+- **Maximum Depth**: ~15 meters
+- **Typical Visibility**: 10–40 feet (3–12 meters), best October–May
+- **Current**: Moderate tidal
+- **Water Temperature**: 8–14°C (46–57°F) summer; colder in winter
+- **Best Time**: May–September
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
-
+No site-specific marine life reports have been found for this wreck. Prince William Sound supports lingcod, rockfish, giant Pacific octopus, plumose anemones, nudibranchs, and sea stars as regional fauna. Without confirmed dive reports from this specific location, no species are attributed to the site.
 
 ## Dive Profile
 
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
-
+The wreck sits at approximately 15 meters with hull visible at low and high tide. Dive profile details are unknown — contact Cordova-area or Whittier-area operators for current site information before planning a dive.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
-
-
-## Tips and Recommendations
-
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
-
+Access from Cordova or Whittier by charter boat. No established dive infrastructure is known at this site.
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
-
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Cold-water wreck in a remote Prince William Sound location. Dry suit mandatory. Penetration of an unknown wreck with unconfirmed structural integrity is not recommended. Buddy diving required.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

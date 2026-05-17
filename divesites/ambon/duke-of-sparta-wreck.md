@@ -3,7 +3,7 @@ name: Duke of Sparta Wreck
 lat: -3.6658
 lng: 128.1715
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,51 +13,54 @@ addedBy: osm_import
 
 ## Duke of Sparta Wreck
 
-Duke of Sparta Wreck is a historic wreck dive in Ambon, Asia.
+The Duke of Sparta — officially the SS Aquila — is a 134-meter British cargo ship lying on the silty floor of Ambon Bay, sunk in 1958 during a Cold War CIA covert operation.
 
 ## Overview
 
-The Duke of Sparta is a British merchant ship that was sunk in Ambon Bay during the Japanese occupation in World War II, now lying on her side at around 30-40 meters depth with substantial coral and sponge growth covering the hull. The wreck's holds and superstructure are accessible for penetration by experienced divers, and the structure shelters lionfish, scorpionfish, large groupers, and batfish among its encrusted framework. This is one of the deeper and more challenging wreck dives in the Ambon area, best suited to Advanced divers with wreck experience, and the visibility inside the bay can be reduced by silt when conditions are unsettled.
+The wreck known locally as the Duke of Sparta is the Italian-flagged cargo vessel SS Aquila, originally launched in 1940 as the SS Duke of Sparta by William Gray & Company at West Hartlepool, UK. The ship was sold to Grimaldi Brothers of Naples in 1951 and renamed Aquila. In late April 1958 — sources give the date as either 28 April or 1–2 May — a CIA-operated Douglas B-26 Invader, part of Operation Haik (a covert effort to destabilise President Sukarno's government by targeting foreign merchant shipping), bombed and damaged the vessel while she was in Ambon waters. The ship remained afloat for approximately one month before sinking on 27 May 1958.
+
+The wreck was not positively identified until October 2009, when divers penetrating the engine room recovered a maker's plate from one of the water heaters, tracing the vessel to her West Hartlepool shipyard of origin. Underwater measurement by Marcel Hagendijk confirmed a hull length of 134 meters (sources: indopacificimages.com reports 134m; starfish.ch reports 137m; coralia-liveaboard.com states "over 100m"). Wikipedia confirms 441.1 ft (134.4 m) as the vessel's registered length, with a beam of 57.8 ft (17.6 m) and 5,397 GRT.
+
+The wreck lies on a slope facing down the harbor gradient: the stern mooring buoy sits at around 12–15 meters, the foredeck reaches approximately 32 meters, and the bow extends beyond 40 meters. The hull is intact and heavily encrusted with coral and sponge growth. Visibility in the busy harbor is typically 5–15 meters, improving somewhat on incoming tides.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: Northern Ambon Bay, near the main harbor
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 5–15 meters (harbor conditions)
+- **Current**: Mild to moderate; tidal influence
+- **Best Time**: Incoming tide for clearest water
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Sources confirm moray eels, frogfish, nudibranchs, shrimps, and juvenile fish such as boxfish and emperor angelfish on and around the wreck structure. The mast area carries dense hard and soft coral growth. Fimbriated moray eels have been documented on the top deck at cleaning stations attended by cleaner shrimp. Lionfish and scorpionfish use the encrusted hull for cover. No site-specific reports of manta rays, whale sharks, or reef sharks have been found in independent sources; these species are associated with Ambon's outer coast, not the inner harbor.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck is best approached from the stern mooring buoy, which sits at around 12–15 meters. From here divers can work along the superstructure toward the foredeck at approximately 32 meters, with the bow section dropping beyond 40 meters — a depth suitable only for certified advanced divers on air or diluent. The interior is penetrable in the holds and superstructure but always requires a torch, line, and proper wreck training. Visibility and silt conditions make buoyancy control essential throughout.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by boat from local Ambon operators; no shore entry is possible. Descent via the mooring line is recommended given harbor vessel traffic. Deploy a surface marker buoy before ascending and coordinate pickup with the boat crew.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a primary and backup dive torch — visibility drops sharply inside the structure
+- Maintain strict buoyancy; the harbor floor is heavily silted and easily disturbed
+- Do not attempt penetration without proper wreck diving training and equipment
+- Schedule the dive for incoming tide to maximise visibility
+- Book with operators familiar with the site; local knowledge of the mooring and descent route is essential
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Harbor boat traffic is an active hazard at the surface. The wreck's depth (bow at 40+ meters) means strict NDL management for recreational divers. Interior penetration always requires redundant lighting, a guideline, and proper overhead-environment training — characterising it as safe or routine would be inaccurate. Never attempt deep penetration solo or without wreck diving certification.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The encrusted mast and superstructure offer strong wide-angle subjects when visibility cooperates. The macro opportunities on the hull — juvenile fish, nudibranchs, shrimp on cleaning stations — are the most consistently productive. A torch is essential for revealing colours inside the dark cavities.
 
 ---
-*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Aquila (1940)](https://en.wikipedia.org/wiki/SS_Aquila_(1940)), [IndoPacificImages — The Ambon Shipwreck](https://indopacificimages.com/indonesia/maluku/maluku-province-the-ambon-shipwreck/), [Coralia Liveaboard — SS Duke of Sparta](https://www.coralia-liveaboard.com/ss-duke-of-sparta-wreck-in-ambon/), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html). Last updated 2026-05-17.*

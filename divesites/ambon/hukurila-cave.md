@@ -3,7 +3,7 @@ name: Hukurila Cave
 lat: -3.7365
 lng: 128.2515
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: cave
 ref: null
@@ -13,50 +13,53 @@ addedBy: osm_import
 
 ## Hukurila Cave
 
-Hukurila Cave is a cave dive site in Ambon, Asia.
+Hukurila Cave is the most famous dive site on Ambon's south coast — a lava-formed chimney cave with twisting passages, multiple swim-throughs, and walls draped in gorgonian sea fans and colourful sponges.
 
 ## Overview
 
-Hukurila Cave is a large sea cave on Ambon's south coast formed by a submerged freshwater spring discharging into the ocean, creating a dramatic halocline inside the cavern where fresh and salt water meet in shimmering, refracting layers. The cave entrance sits at around 12 meters depth with the cavern opening large enough for groups to enter without artificial light, and the mix of fresh and salt water has produced unusual biological communities compared to the open reef outside. The site is typically dived in combination with the nearby Pintu Kota arch, as the south coast's clearer Indian Ocean water makes both sites more visually rewarding than the murkier Ambon Bay.
+Hukurila Cave is located on the headland at Hukurila on Ambon's south coast, further east along the coastline from Pintu Kota. It is one of the most visited dive sites in the Ambon region. The cave is formed by lava, creating a honeycombed headland of twisting chimneys, passages, and caverns. The main entry is a chimney best entered from the top — divers drop into an approximately 1.5-meter-wide "gate" at around 10 meters depth, then descend through the twisting passage which splits into three exits at the bottom. Additional arches and swim-through openings at various depths provide multiple route options.
+
+Sources are consistent that the cave is formed by lava (not a freshwater spring halocline system): indonesia-tourism.com, bottles-up-diving.com, and indopacificimages.com all describe the site as a lava cave. No source found indicates a freshwater spring or halocline inside Hukurila Cave; a description of halocline conditions published in earlier iterations of this entry was unsupported and has been removed.
+
+Bottles-up-diving.com describes it as "the most famous and liked dive site on the south side" with "twisting passages, caverns and canyons." Visibility is typically good at 15–20 meters, with the clear Indian Ocean water of the south coast offering better conditions than inner Ambon Bay.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: Hukurila headland, south coast of Ambon Island
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 15–20 meters
+- **Current**: Can be strong outside the cave; sheltered inside
+- **Best Time**: Dry season (October to April); calm south-coast conditions required
 
 ## Marine Life
 
-Inside Hukurila Cave, the freshwater-saltwater halocline creates a shimmering visual effect and supports unusual crustacean and invertebrate communities, with banded coral shrimp and spiny lobsters occupying the cavern walls. The outer reef on Ambon's south coast benefits from cleaner Indian Ocean water than the bay sites, with hawksbill turtles, reef sharks, and schools of snappers and fusiliers frequenting the area around the cave entrance. Nudibranchs and soft corals colonise the rock surfaces in the transition zone where light filters into the cavern opening.
+The cave walls are covered in large red, pink, and orange gorgonian sea fans, barrel sponges, and whip corals. Multiple sources confirm the presence of cardinalfish, damselfish, gobies, groupers, snappers, and fusiliers swimming inside the cavern. Moray eels, stonefish, cuttlefish, and Ambon scorpionfish have been reported in the cave environment. The outer reef on the south coast — benefiting from Indian Ocean water quality — is home to reef fish in good numbers; larger pelagic encounters are possible on the reef outside the cave entrance. No site-specific confirmed records of manta rays or sharks inside the cave were found; such encounters, if they occur, are on the outer reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive from Ambon City or the inner bay; the south coast trip takes approximately one hour and is weather-dependent. The main entry is the chimney from the top at approximately 10 meters — descend through the lava tube to the multiple exits at depth. The cave can be navigated in a loop, emerging from different openings. The deepest sections reach approximately 28 meters. Good buoyancy control is important in the narrow sections to avoid disturbing coral growth on the walls. A dive torch is recommended to reveal the colours of the gorgonians inside.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat mooring or drift approach from the surface. Divers descend into the chimney entry from the top. Follow guide instructions for the chosen route through the passages — the cave has multiple exits, and staying with a guide prevents disorientation. Exit to the outer reef and ascend for boat pickup; deploy SMB before ascending in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a torch to illuminate the gorgonian walls inside the cave — the colours are brilliant under artificial light
+- The south coast is only accessible in calm conditions — check sea state before committing
+- Often paired with Pintu Kota for a full south-coast dive day
+- Good buoyancy is essential in the narrow chimney sections to avoid contact with cave walls
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The chimney entry is approximately 1.5 meters wide — this is a genuine restriction that requires good buoyancy and appropriate equipment configuration. Strong currents are possible outside the cave entrance on the open south coast; time your entry between surges. This is not a full cave dive requiring cave certification (the passages are well-lit cavern sections), but divers should be comfortable with overhead environments. A torch is important for safety as well as aesthetics.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The gorgonian-draped walls with natural blue-water light framing through the cave openings are the defining photographic opportunity. Wide-angle with a torch to paint light on the fans creates the classic Hukurila shot. The fish life inside the cavern suits mid-range and macro approaches. Shoot toward the cave openings for dramatic silhouette and backlit compositions.
 
 ---
-*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*
+*Sources: [Indonesia Tourism — Hukurila Cave](https://www.indonesia-tourism.com/maluku/hukurila_cave.html), [IndoPacificImages — Ambon South Coast](https://indopacificimages.com/indonesia/maluku/diving-indonesia-maluku-province-ambons-south-coast-dives/), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-05-17.*

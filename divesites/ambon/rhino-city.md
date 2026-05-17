@@ -3,7 +3,7 @@ name: Rhino City
 lat: -3.7073
 lng: 128.098
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 20
 entryType: shore
 siteType: muck
 ref: null
@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Rhino City
 
-Rhino City is a muck dive site in Ambon, Asia.
+Rhino City is a sandy muck slope west of Laha where rhinopias scorpionfish — among the most sought-after macro subjects in the Indo-Pacific — are found in concentrations that justify the site's name.
 
 ## Overview
 
-Rhino City takes its name from the rhinopias scorpionfish species — both the weedy and the paddle-flap rhinopias — which are found here in unusually high concentrations on the silty slopes of inner Ambon Bay. These spectacular, flamboyant scorpionfish are among the most sought-after macro subjects in the Indo-Pacific, and the site's reputation for hosting multiple individuals on a single dive brings underwater photographers specifically from overseas. Beyond the rhinopias, the site reliably produces Ambon scorpionfish, various frogfish, ghost pipefish, and the occasional mimic octopus working the sandy substrate at 10-25 meters depth.
+Rhino City lies west of Laha along the same stretch of north Ambon Bay coastline, sharing the same general sand-and-rubble topography. The site takes its name from the rhinopias scorpionfish species that are reliably found here — starfish.ch, which provides the most detailed independent site-by-site documentation of Ambon, distinguishes between weedy rhinopias (Rhinopias frondosa) and Eschmeyer's rhinopias (R. eschmeyeri) as the two species present, and notes that lacy scorpionfish (Rhinopias aphanes) have also been reported. Multiple colour variants of each species are possible on a single dive.
+
+Beyond the rhinopias, the site features sandy slopes with stones, anemones, coral patches, soft corals, and sponges — a slightly richer substrate composition than the darkest muck sections at Laha. Starfish.ch notes a maximum depth of 28 meters at this site, though most productive diving is shallower. The site has been described as an extension of the same long sandy slope that runs from Laha westward.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: West of Laha, north Ambon Bay
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 10 meters (long-shore currents can reduce visibility)
+- **Current**: Mild long-shore currents typical
+- **Best Time**: October to April
 
 ## Marine Life
 
-Rhino City is world-renowned for concentrations of weedy and paddle-flap rhinopias scorpionfish — among the most flamboyant and sought-after macro subjects in the Indo-Pacific — with multiple individuals often found on a single dive. Beyond the rhinopias, Ambon scorpionfish blend into the silty substrate alongside various frogfish species, ghost pipefish, and mimic octopus working the sandy bottom. The site consistently produces some of the most dramatic critter photography of any muck site in Indonesia.
+Confirmed species at Rhino City include: rhinopias scorpionfish (Rhinopias frondosa and R. eschmeyeri; Rhinopias aphanes also reported), ghost pipefish (robust and ornate variants), ribbon eels, anemone shrimps, emperor shrimps, jawfish, short-snout pipefish, nudibranchs, moray eels, dragonets, hairy crabs, and orangutan crabs. Commensal shrimps and arrow crabs are noted among the anemones. The sandy slopes at the shallower sections are particularly rich in nudibranchs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the coastal access path west of the main Laha operator area. The slope descends gradually from 5 to 28 meters; rhinopias are found at varying depths and locations, so working the entire slope methodically with a guide is the most productive approach. Most divers stay in the 10–20 meter range. Plan conservatively to allow time in the shallows for the diverse nudibranch and anemone-fauna community.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry; confirm the specific access point with your guide, as it varies from the Laha operator sites. The sheltered bay shore makes entry straightforward in typical conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A local guide with regular dives at this specific site is essential for rhinopias locations
+- Don't neglect the shallows — the anemone and nudibranch communities are productive at 5–10 meters
+- Multiple rhinopias on a single dive is possible but not guaranteed — visit on consecutive days for best odds
+- Bring a torch to illuminate crevices where rhinopias rest motionless
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally calm; long-shore currents can reduce visibility but are not typically strong enough to create drift. Dive within your depth certification limits. Always surface with SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rhinopias are among the most dramatic and rewarding macro subjects in the Indo-Pacific. The pale or vibrant colouration contrasts well against the dark sand; position strobes carefully to avoid harsh shadows on the complex body texture. Side-on portraits at 60–100mm work well. The anemone shrimp community in the shallows rewards a diopter and patience.
 
 ---
-*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-05-17.*

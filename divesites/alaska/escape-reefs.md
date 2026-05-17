@@ -23,7 +23,7 @@ Escape Reefs are located in the outer waters near the southern end of the Alaska
 
 - **Location**: Southern Southeast Alaska, near Prince Rupert area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ The proximity to the BC border means vessel traffic from both directions can be 
 Multiple reef structures within one dive offer variety for photographers. Anemone colonies in clusters provide textured wide-angle compositions. Macro subjects include nudibranchs, small crustaceans, and colorful sea stars. Video light or strobe is required to reveal the true palette of these cold-water communities.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

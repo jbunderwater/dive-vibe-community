@@ -13,49 +13,49 @@ addedBy: osm_import
 
 ## Kal's Dream
 
-Kal's Dream is a pinnacle dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a remote submerged seamount that surfaces from deep water to draw together pelagic predators and dense reef life in one of Alor's most celebrated dives.
+Kal's Dream is a pinnacle dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — named after Kal Muller, the pioneering diver who first explored it in the early 1990s, this two-pinnacle seamount between Kepa and Pura islands is famous for its unpredictable currents and the large pelagics they bring in.
 
 ## Overview
 
-Named after an early pioneer of diving in Alor, Kal's Dream is a volcanic pinnacle that rises from depths well below recreational limits to a crown at approximately 8 metres. Its isolation in open water means it is swept by currents from multiple directions, which in turn pile nutrients onto the structure and attract every level of the food chain. The sides of the pinnacle are encrusted with gorgonian fans, black coral trees, and barrel sponges. Strong current at depth can be disorienting, but the pinnacle's structure provides shelter on its lee side, allowing divers to rest and scan the blue for passing pelagics. This site is for confident advanced divers comfortable with current and depth management. It features in most liveaboard itineraries as the signature dive of any Alor trip.
+Known locally as Batu Mandi ("showering stone"), Kal's Dream consists of two underwater pinnacles with crowns at approximately 7 metres and 2 metres below the surface — the shallower peak is visible at low tide, when wave action rains water down its sides. The pinnacles lie northwest of Kepa Island in open water, exposed to currents arriving from the north that hit the rocks head-on. Conditions are therefore highly variable: the site is frequently undiveable, and guides carefully time dives to appropriate current states. The pinnacles are covered in soft corals typical of high-current environments, with reef fish communities swarming the structure. Multiple operators describe the site as demanding — one experienced ScubaBoard diver characterised it as "not stunning" visually and noted it requires patience or the right conditions to deliver its best — but the potential for pelagic encounters makes it a standard feature of Alor liveaboard itineraries.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
+- **Location**: Between Kepa and Pura Islands, Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20–35 metres
-- **Current**: Strong to very strong; multi-directional, shifts with tide
-- **Best Time**: May to October (dry season, strongest upwellings, best pelagic activity)
+- **Typical Visibility**: 15–30 metres
+- **Current**: Strong to very strong; unpredictable, multi-directional from the north
+- **Best Time**: May to October (good conditions more frequent; dive timing critical)
 
 ## Marine Life
 
-Kal's Dream is one of a small number of sites in East Nusa Tenggara with consistent scalloped hammerhead shark sightings, typically at 25–35 metres on the down-current side of the pinnacle. Grey reef sharks, whitetip reef sharks, and occasionally silvertip sharks patrol the upper structure. Dogtooth tuna and giant trevally hunt in the current streams off the pinnacle tips, and schools of big-eye jack orbit the structure at mid-depth. The reef itself supports an impressive density of anthias, damsels, and wrasse, with large napoleon wrasse present year-round. Mantis shrimp and pygmy seahorses have been recorded in the gorgonian fans on the sheltered side, a surprising contrast to the pelagic action in the open water.
+Multiple sources confirm the following species at Kal's Dream: Spanish mackerel, various shark species, dogtooth tuna, Napoleon wrasse, sweetlips, big barracuda, giant trevally, blue-fin trevally, schools of jacks, triggerfish, fusiliers, surgeonfish, and moray eels. Coral crouchers (*Caracanthus maculatus*) and yellow-spotted scorpionfish (*Sebastapistes cyanostigma*) have been found between the corals. Hammerhead sharks and mola mola have been reported but are occasional appearances rather than reliable encounters.
 
 ## Dive Profile
 
-Drop directly onto the pinnacle crown at 8–10 metres and immediately assess current direction. Descend along the pinnacle face to the 25–35 metre zone on the down-current side for the best chance of hammerhead sightings — this window is usually the first 10–15 minutes. Ascend methodically to the mid-pinnacle zone at 15–20 metres and hold position in the shelter of the structure, watching for pelagics circling in the blue. Finish the dive on the protected crown, which provides a current-free zone for your safety stop. Total bottom time at depth must be managed carefully to allow a full safety stop at 5 metres.
+A drop directly onto the pinnacle crown (7 m or 2 m, depending on tidal state) is standard. Assess the current immediately and find the lee side of the structure. The productive depth range is the pinnacle sides from 10–35 metres. The guide will determine current state before entry; if conditions have gone wild, the site may be substituted. On a productive dive, work the current-facing side first for pelagics and retreat to the sheltered face to rest and observe reef life.
 
 ## Entry and Exit
 
-Access exclusively by liveaboard. A live drop from the tender directly onto the pinnacle crown is standard. The tender and liveaboard follow divers' SMBs. Deploy your SMB early at the start of your safety stop — surface current can separate divers from the boat quickly. Pickups can be done over a range if the current carries divers past the structure.
+Access by liveaboard or day-boat tender. Live drop onto the pinnacle top. SMB deployment early in the safety stop is essential — surface current will carry divers away from the structure quickly. The liveaboard crew tracks divers' SMBs for pickup.
 
 ## Tips and Recommendations
 
-- Descend quickly to depth and get into position on the down-current face within the first few minutes — hammerheads typically pass early before the boat's presence disperses them
-- Use the lee side of the pinnacle as a rest point whenever current becomes too strong; fighting it wastes air and fatigues you for the most interesting part of the dive
-- Carry a reef hook in case current makes maintaining position at depth exhausting — clip to dead rock or rubble, never to living coral
-- Bring a dive computer with decompression capability; the combination of depth and excitement makes it easy to extend bottom time without realising it
+- Trust your guide's judgment on current state — this site has been described as "too wild to dive most of the time" and entering in the wrong conditions yields nothing and creates risk
+- Use the lee side of the pinnacle as a rest point between current exposure phases
+- Carry a reef hook and clip to dead rock or rubble if you need to hold station at depth — never hook into living coral
+- Bring a dive computer with decompression capability; current conditions and pelagic excitement make it easy to exceed planned depth
 
 ## Safety Considerations
 
-This is an advanced dive requiring comfort with strong multi-directional currents and the ability to manage depth at 30+ metres. Downwellings on the exposed faces of the pinnacle can pull divers rapidly deeper — if you feel a strong downward pull, fin horizontally away from the pinnacle structure rather than fighting vertically upward. Always carry an SMB and audible signal. Solo diving is not appropriate at this site. Hammerheads are shy and non-aggressive; do not approach or chase them.
+This is an advanced dive requiring comfort with unpredictable, strong currents. Downwellings and upwellings around the exposed faces are common; if swept downward, fin horizontally away from the pinnacle into open water rather than fighting the downward pull vertically. Monitor your depth from the moment of descent. Solo diving is not appropriate here.
 
 ## Photography
 
-The pinnacle is among the best wide-angle sites in Alor. A fisheye or ultra-wide lens captures the scale of the structure with the open blue behind it. Hammerhead and shark photography requires patience and a camera preset for fast-moving subjects in variable light — these animals will not pause for posed shots. The gorgonian fans on the sheltered face are excellent for macro work after the pelagic action slows, with pygmy seahorses rewarding patient searching.
+A wide-angle or fisheye lens captures the pinnacle structure with the open blue behind it. Pelagic subjects — tuna, trevally, sharks — move fast and require pre-set exposure for mid-water ambient light with burst-mode shooting. The coral crouchers and yellow-spotted scorpionfish on the structure reward macro photographers on calmer sections of the dive.
 
 ---
-*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Merapi Tours Alor Dive Sites](https://www.merapitours.com/indonesia/other-sunda-islands/dive-sites-alor), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Underwater Asia Alor Diving](https://underwaterasia.info/indonesia/alor-diving), [ScubaBoard Seven Days on Alor](https://scubaboard.com/community/threads/seven-days-on-alor-part-one-the-diving.438798/). Last updated 2026-05-17.*

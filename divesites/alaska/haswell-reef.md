@@ -23,7 +23,7 @@ Haswell Reef lies in the southern approaches to the Ketchikan region, in an area
 
 - **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ Standard Inside Passage precautions apply: strict slack-tide diving, dry suit ma
 The layered invertebrate community on Haswell Reef is excellent for environmental portrait photography. Anemone-encrusted surfaces behind a lingcod or rockfish subject create compelling compositions. Macro shots of nudibranchs on bryozoan mats benefit from a dedicated macro lens and close-focus strobe positioning.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

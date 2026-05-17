@@ -13,57 +13,53 @@ addedBy: osm_import
 
 ## MV Vashon
 
-MV Vashon is a historic wreck dive in Alaska, North America.
+The MV Vashon is a wooden passenger and automobile ferry that ran aground at Johnson Cove on Prince of Wales Island in June 1986, now resting in shallow water and serving as an artificial reef in Southeast Alaska.
 
 ## Overview
 
-The MV Vashon is a vessel that sank in June 1986 in the southern end of Alaska's Inside Passage near Ketchikan, now resting at around 20 meters depth in waters that consistently support exceptional cold-water marine life. In the four decades since sinking, the hull has become heavily colonized by anemones, sponges, and encrusting organisms, with lingcod and large rockfish occupying the structure and giant Pacific octopus tucked into the darker spaces beneath. The relatively shallow maximum depth and proximity to Ketchikan dive operations makes this one of the more accessible Southeast Alaska wreck dives for experienced cold-water divers.
+The MV Vashon was built in 1930 at the Lake Washington Shipyard in Houghton, Washington, measuring 200 feet long, 58 feet wide, and 12 feet deep, with a gross tonnage of 641 tons. It served Washington State ferry routes for decades — including Vashon Island, the San Juan Islands, and Hood Canal — and was the last wooden ferry in Washington State Ferries service when it made its final run in December 1980. Sold in 1982, it was eventually brought to Alaska for use as a supply boat. On June 6, 1986, the vessel ran aground at the head of Johnson Cove on Prince of Wales Island, approximately 55 miles north of Ketchikan. The hull rolled onto its side and was declared a total loss. Wreckage remains at the site, with portions visible at low tide.
+
+The wreck lies at approximately 20 meters depth and has been colonized by the cold-water invertebrate communities typical of Inside Passage sites. Access is by boat from Ketchikan-area operators.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Johnson Cove, Prince of Wales Island, Southeast Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-15 meters (26-49 feet)
+- **Maximum Depth**: ~20 meters
+- **Typical Visibility**: 8–15 meters (26–49 feet)
 - **Current**: Moderate, tidal
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
-- **Best Time**: July-September (calmest conditions)
-
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
-
+No site-specific marine life reports have been found for this wreck. The cold waters of the Inside Passage around Prince of Wales Island support rockfish, lingcod, giant Pacific octopus, anemones, nudibranchs, and sea stars as regional fauna, which likely colonize the hull structure. Site-specific species confirmation requires diver reports from the location.
 
 ## Dive Profile
 
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
-
+Descend to the wreck structure and explore the exterior. The hull lies on its side, creating a distinctive dive profile along the port or starboard side. Plan for conservative bottom time in cold water. Ascend on a line or reference the hull to the shallows.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
-
+Access by boat from Ketchikan-area dive operators. Johnson Cove is approximately 55 nautical miles north of Ketchikan near Prince of Wales Island. No permanent mooring lines are established. Use GPS coordinates and a descent line. Always deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
-
+- Contact Ketchikan-based operators for current access conditions and bottom state of the wreck
+- Dry suit with adequate undergarment is mandatory — water temperatures are consistently cold
+- A dive torch is useful for examining the hull underside and any openings
+- The wreck is in an increasingly deteriorated state — penetration is not recommended
+- Prince of Wales Island can be reached from Ketchikan by floatplane or ferry
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
-
+Cold-water wreck in a remote setting. Penetration of this wooden-hulled wreck is not recommended — the structural integrity of a vessel sunk in 1986 in cold Alaskan waters is unpredictable. Buddy diving is mandatory. Deploy SMB before ascending. Cold water requires attention to thermal protection throughout the dive.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wooden hull structure and encrusting growth provide wide-angle wreck subjects. Natural light penetration is limited at depth in Southeast Alaska waters — an artificial light source is essential for bringing out colors and revealing detail in crevices.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Sources: [Alaska Shipwrecks — V](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-v/), [Evergreen Fleet — MV Vashon](https://evergreenfleet.com/vashon/), [NOAA IncidentNews — M/V Vashon](https://incidentnews.noaa.gov/incident/6365). Last updated 2026-05-17.*

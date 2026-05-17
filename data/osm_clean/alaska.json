@@ -14,8 +14,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -33,8 +34,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -52,8 +54,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -71,8 +74,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -90,8 +94,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -109,8 +114,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -128,8 +134,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -147,8 +154,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -167,12 +175,12 @@
       "is_in": "Pacific Ocean",
       "name": "MV Vashon",
       "seamark:type": "wreck",
-      "wreck:cargo": "human",
       "wreck:date_sunk": "1986-06",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "alaskashipwreck.com,evergreenfleet.com,incidentnews.noaa.gov",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -191,8 +199,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -210,8 +219,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -229,8 +239,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -248,8 +259,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -267,8 +279,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -286,8 +299,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -305,8 +319,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -325,8 +340,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -347,8 +363,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -369,8 +386,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -392,7 +410,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "wikipedia.org,en.wikipedia.org/wiki/Exxon_Valdez_oil_spill,evostc.state.ak.us",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -416,12 +435,13 @@
       "wikimedia_commons": "Ferry LESCHI on Lake Washington, Washington, ca 1915 (WASTATE 1824).jpeg",
       "wikipedia": "en:Leschi (steam ferry)",
       "wreck:cargo": "human",
-      "wreck:date_sunk": "1978",
+      "wreck:date_sunk": "1986",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "en.wikipedia.org/wiki/Leschi_(steam_ferry),alaskashipwreck.com,progressivealaska.blogspot.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -439,8 +459,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -461,8 +482,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "qa_note": "CRITICAL: SS Coldbrook (not USS) grounded 1942 on Middleton Island. The 1964 Alaska earthquake raised the island 12 feet, leaving the wreck permanently above water. This is NOT a dive site — the vessel sits on land above the high tide line and serves as a seabird nesting colony. Site should be flagged for removal from dive database.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -481,8 +504,9 @@
       "source:position": "USGS Topo",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -500,8 +524,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -519,8 +544,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -538,8 +564,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -560,7 +587,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "en.wikipedia.org/wiki/Vanderbilt_Reef,en.wikipedia.org/wiki/SS_Princess_Sophia,nps.gov",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -579,8 +607,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -599,8 +628,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -626,7 +656,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "alaskashipwreck.com,coastview.org,scubaboard.com",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]

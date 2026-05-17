@@ -23,7 +23,7 @@ Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay an
 
 - **Location**: Alaska Peninsula / Shumagin Islands area, Southwest Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–20 meters (26–66 feet)
@@ -60,4 +60,4 @@ Table Rock sits in one of the most remote and weather-affected corners of Alaska
 The kelp forest and cold-water reef environment offer a unique photographic context rarely available to visiting divers. Wide-angle shots of kelp canopy with fish subjects are striking. Macro photography of cold-water invertebrates found in this Bering Sea-influenced environment can document species difficult to access elsewhere. Natural light is limited — artificial lighting is essential.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

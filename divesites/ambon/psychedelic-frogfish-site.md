@@ -3,7 +3,7 @@ name: Psychedelic Frogfish Site
 lat: -3.706
 lng: 128.101
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 7
 entryType: shore
 siteType: muck
 ref: null
@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Psychedelic Frogfish Site
 
-Psychedelic Frogfish Site is a muck dive site in Ambon, Asia.
+Psychedelic Frogfish Site marks the Laha I area where the psychedelic frogfish (Histiophryne psychedelica) was first photographed in January 2008 — this section of the Laha muck complex is the species' type locality and the most reliable place in the world to look for it.
 
 ## Overview
 
-The Psychedelic Frogfish Site earned its name as the location where the psychedelic frogfish (Histiophryne psychedelica) was first discovered and described by science in 2009 — a species found almost exclusively in Ambon Bay. This small, pale frogfish with a pattern of concentric orange and white stripes bounces along the sandy bottom using its pectoral fins as legs, and Ambon Bay remains the most reliable place in the world to observe it. The surrounding black sand muck slope holds additional macro subjects including various anglerfish species, dragonets, and the abundant sand-dwelling critters that make Ambon's bay dives world-class for underwater photographers.
+This site represents the Laha I portion of the greater Laha muck diving area, operated historically by Maluku Divers (now Spice Island Divers). In January 2008, guides Buck Randolph, Fitrie Randolph, and Toby Fadirsyair photographed the psychedelic frogfish here for the first time; a holotype specimen was collected on 2 April 2008, and ichthyologists Theodore Pietsch, Rachel Arnold, and David Hall formally described the new species in the journal Copeia in 2009.
+
+According to Wikipedia and the original species description, the fish was found at depths of 5–7 meters, approximately 20 meters from the shoreline, within 100 meters of the commercial jetty. The habitat is described as coral rubble in shallow muck conditions — the standard Laha substrate. The species has so far been positively identified only at Ambon Island, though it may eventually be found elsewhere in Indonesia.
+
+The psychedelic frogfish is small (maximum 15 cm), pale yellow-brown to peach in colour with unique swirling white-stripe patterns — each individual's markings are distinct, enabling researchers to track specimens over time. It walks on its pectoral fins and uses jet propulsion to move. Sightings are not guaranteed on any given dive; local guides who know the site are the most reliable means of locating individuals.
+
+Note: This site overlaps geographically with the Laha and Twilight Zone dive areas — these are not sharply delineated separate dive sites but sections of the same north-bay muck slope that different operators and guides name slightly differently.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: Laha I area, north Ambon Bay (Spice Island Divers / former Maluku Divers site)
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 7 meters
+- **Typical Visibility**: 5–15 meters
+- **Current**: Minimal in sheltered bay
+- **Best Time**: October to April
 
 ## Marine Life
 
-This site is the type locality for the psychedelic frogfish (Histiophryne psychedelica), a species described by science in 2009 that is found almost exclusively in Ambon Bay, bouncing along the black sand on its pectoral fins. The surrounding muck slope is rich in additional anglerfish species including hairy frogfish and painted frogfish, alongside dragonets, ribbon eels, and ornate ghost pipefish. Thorny seahorses and various nudibranch species are scattered through the sand and rubble, making every dive here a macro photography event.
+The psychedelic frogfish (Histiophryne psychedelica) is the defining species of this site — confirmed at 5–7 meters depth on coral rubble. The broader Laha I / Twilight Zone complex where this site sits supports hairy frogfish, painted frogfish, and warty frogfish (multiple anglerfish species confirmed across the Laha area by starfish.ch and diveplanit.com), alongside mandarin fish (on evening dives), harlequin shrimp, ghost pipefish, nudibranchs, and various gobies. Species lists attributed to the broader Laha complex rather than specifically to this subsection are noted as such and should not be taken as guaranteed sightings at this precise location.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Very shallow dive — 5 to 7 meters of depth for the primary target zone. Shore entry from the Laha I area near the Spice Island Divers / former Maluku Divers jetty. Move slowly over coral rubble, inspecting crevices and overhangs. A local guide is essential; this species is cryptic and easily missed without trained eyes. Allow long bottom times — the shallow depth permits extended dives on a single tank.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Laha I access point. Confirm the exact entry location with your dive operator, as access points shift with the local working-jetty activity. Exit from the same location.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book with a guide who knows the Laha I area specifically — this species is extremely cryptic
+- Morning dives before sediment disturbance from boats tend to have better visibility
+- Photograph carefully without disturbing the fish; it is a rare endemic and easily stressed
+- Sightings are not guaranteed — treat any encounter as a fortunate bonus, not a given
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is very shallow (5–7 meters) and generally calm. The main hazard is boat traffic in the active harbour area — always surface with awareness of overhead vessels. Always dive with a guide familiar with the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The psychedelic frogfish is one of the most photographed rare species in the Indo-Pacific. At 5–7 meters, natural light is adequate but strobes produce better colour on the pale, strikingly patterned skin. Use a diopter or macro lens; maximum body size is 15 cm. Patience and stillness are more important than any equipment choice.
 
 ---
-*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-05-17.*
