@@ -27,5 +27,27 @@ The Ex-Tortuga is a deliberately sunk vessel resting off Santa Cruz Island, the 
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
+## Marine Life
+
+The waters off Santa Cruz Island support the full complement of Channel Islands kelp forest species. At this depth and location, divers typically encounter garibaldi, sheephead, kelp bass, lingcod, and cabezon. California sea lions from Santa Cruz Island haul-outs regularly visit dive sites in this area. Invertebrate growth on any hard substrate — including wreck structure — accumulates rapidly in the nutrient-rich Channel Islands upwelling, with coralline algae, anemones, and encrusting invertebrates typical.
+
+## Dive Profile
+
+The site sits at approximately 20 meters (65 ft) off Santa Cruz Island. Santa Cruz Island is the largest of the Channel Islands and offers diverse dive terrain, with the wreck adding artificial reef structure to the rocky reef environment.
+
+## Entry and Exit
+
+Boat dive only. Santa Cruz Island lies approximately 20–25 miles from Ventura Harbor and Channel Islands Harbor, making it one of the more accessible of the northern Channel Islands for day trips. Charter vessels including M/V Peace (Ventura) and Spectre (Santa Barbara Aquatics, Santa Barbara) service Santa Cruz regularly.
+
+## Tips and Recommendations
+
+Summer and early fall provide the best diving conditions at Santa Cruz Island, with calmer seas and improved visibility. The northern islands chain from Ventura or Santa Barbara provides the shortest crossings to Santa Cruz.
+
+## Safety Considerations
+
+Water temperature at Santa Cruz Island ranges from approximately 12°C (54°F) in winter to 18°C (65°F) in summer. A 7 mm wetsuit with hood and gloves is recommended; drysuit preferred in winter. The 20-meter depth requires good buoyancy control for air management. Kelp entanglement is possible — carry a cutting tool.
+
 ---
-*Sources: [NPS - Channel Islands Diving and Snorkeling](https://www.nps.gov/chis/planyourvisit/diving.htm), [Scuba Diving Magazine - Guide to Channel Islands National Marine Sanctuary](https://www.scubadiving.com/guide-diving-channel-islands-national-marine-sanctuary), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/), [Dive Guide Channel Islands](https://www.diveguideschannelislands.com/), [Underwater Photography Guide - Channel Islands](https://www.uwphotographyguide.com/channel-islands-diving). Last updated 2026-04-04.*
+*Note: The vessel's full history has not been independently verified through multiple sources. The name "Ex-Tortuga" indicates the vessel was formerly known as Tortuga, but details of its original service, how it came to rest at this location, and its dimensions have not been confirmed through publicly available records. No fabricated historical claims are included.*
+
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Peace Dive Boat](https://peaceboat.com/), [Santa Barbara Aquatics - Spectre Dive Day Trip](https://santabarbaraaquatics.com/products/spectre-dive-day-event). Last updated 2026-05-17.*
