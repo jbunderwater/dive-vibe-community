@@ -24,8 +24,8 @@ The Salvatierra was a cargo ferry — an ex-U.S. Navy World War II LST (Landing 
 - **Location**: San Lorenzo Channel, near the southern end of Isla Espíritu Santo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (accessible to novice divers; no penetration required)
-- **Maximum Depth**: 19 meters (60 feet); wreck rests on sandy bottom
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 19 meters
 
 ## Wreck History
 

@@ -24,8 +24,8 @@ The Fang Ming was a Chinese fishing vessel later converted to a cargo ship. In A
 - **Location**: West side of Isla Espíritu Santo, near Isla Ballena, Espiritu Santo National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (Open Water certification minimum)
-- **Maximum Depth**: 22 meters (deck at approximately 14 m)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 22 meters
 
 ## Wreck History
 

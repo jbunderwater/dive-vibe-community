@@ -23,9 +23,9 @@ La Reina (also spelled La Reyna) is a small rocky islet topped by a lighthouse j
 
 - **Location**: Northern tip of Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / rocky islet
-- **Difficulty Level**: Intermediate (current experience required)
-- **Maximum Depth**: 25 meters (dives typically 9–25 m range)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

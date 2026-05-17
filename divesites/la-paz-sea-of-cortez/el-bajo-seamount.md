@@ -25,7 +25,7 @@ El Bajo (also called El Bajo Marisla) is a group of three isolated underwater pi
 - **Entry Type**: Boat dive
 - **Site Type**: Seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (pinnacle tops at 16–25 m)
+- **Maximum Depth**: 40 meters
 
 ## Marine Life
 

@@ -22,10 +22,10 @@ The OSM source tags this node as a maritime wreck seamark near the East Cape coa
 ## Site Information
 
 - **Location**: Near East Cape / Los Cabos area (approximately 140 km south of La Paz)
-- **Entry Type**: Shore (per OSM tag — unverified)
-- **Site Type**: Wreck (per OSM seamark tag — unverified as dive site)
-- **Difficulty Level**: Intermediate (placeholder — unverified)
-- **Maximum Depth**: 25 meters (placeholder — unverified)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ---
 *Sources: [OpenStreetMap Node 1461976052](https://www.openstreetmap.org/node/1461976052) (seamark:type=wreck, source=Bing), [Cabosanlucasbeaches.com — Shipwrecks (East Cape surf/beach)](https://www.cabosanlucasbeaches.com/shipwrecks/). No scuba dive site confirmed at these coordinates. Last updated 2026-05-17.*

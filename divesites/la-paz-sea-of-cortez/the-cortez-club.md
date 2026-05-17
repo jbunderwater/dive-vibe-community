@@ -13,23 +13,17 @@ addedBy: osm_import
 
 ## The Cortez Club
 
-The Cortez Club is a productive reef dive site close to La Paz offering consistent intermediate diving and good marine diversity.
+> **DATA QUALITY FLAG — LIKELY NOT A DIVE SITE**: The Cortez Club is a well-known La Paz dive operator, not a dive site. It is the leading 5-Star PADI IDC Gold Palm Resort and dive center in Baja California, established in 1993 and based at La Concha Beach Resort / Costa Baja Marina (Carretera a Pichilingue Km 5, La Paz). The OSM node (ID 2371780313) was added with only `name: The Cortez Club` and `sport: scuba_diving` tags — no dive site-specific tags. OSM edit history describes it as a "Hotel added" node. No dive operator website, PADI database, DAN article, or regional dive guide lists "The Cortez Club" as the name of a dive site. **This entry should be removed from osm_clean and the divesites index. It represents a dive shop mistakenly ingested as a dive site location.**
 
 ## Overview
 
-The Cortez Club is a well-established reef dive site near La Paz, accessible from local dive operators as a convenient day dive. The site features healthy reef structures in the warm, clear waters of the Sea of Cortez. The site offers straightforward navigation and good visibility conditions, making it reliable for intermediate divers. The reef habitat supports abundant fish life and occasional pelagic visitors.
+The Cortez Club (cortezclub.com) is the dive operator at this OSM coordinate location — the La Concha Beach Resort on the Pichilingue road north of La Paz. It operates dive trips to Los Islotes, El Bajo, Las Animas, La Reina, Swanee Reef, the Salvatierra Wreck, the Fang Ming Wreck, and other genuine La Paz dive sites. It is not itself a dive site.
 
 ## Site Information
 
-- **Location**: Near La Paz, Sea of Cortez
+- **Location**: Carretera a Pichilingue Km 5, La Paz — La Concha Beach Resort (dive operator address)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-
-## Marine Life
-
-The site features reef fish including snappers, groupers, jacks, and various damselfish and parrotfish species. Sea lions occasionally visit, and rays including eagle rays and mobula rays may be encountered. The reef structures are decorated with corals and sponges, providing macro subjects and habitat for crustaceans and nudibranchs. During peak season, whale sharks may be sighted in nearby offshore waters.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [Cortez Club — Official Website](https://cortezclub.com/), [PADI Dive Center Listing — The Cortez Club](https://www.padi.com/dive-center/mexico/the-cortez-club/), [OpenStreetMap Node 2371780313](https://www.openstreetmap.org/node/2371780313). Confirmed: this is a dive operator, not a dive site. Recommend removal from osm_clean. Last updated 2026-05-17.*

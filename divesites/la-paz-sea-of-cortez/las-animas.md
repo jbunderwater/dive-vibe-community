@@ -23,7 +23,7 @@ Las Animas is a small rocky island with associated pinnacle formations located n
 
 - **Location**: North of Los Islotes, Espíritu Santo area, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/island with reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 
