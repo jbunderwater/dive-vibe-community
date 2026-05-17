@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Abu Dabour
 
-Abu Dabour is a  dive site in Red Sea, Middle East.
+Abu Dabour is an offshore reef dive site in the northern Marsa Alam area at approximately 25.38°N, 34.72°E, about 4 km off the mainland, 25 km south of Port Ghalib and 32 km north of Marsa Alam.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Abu Dabour lies in a very narrow bay that offers two contrasting dive profiles, accessible only in good weather due to the entry and exit logistics. The site features a sandy bay interior flanked by reefs on both the north and south sides, with beautiful hard and soft corals at depths of 14, 16, 18, and 24 m on prominent coral block formations.
 
-## Site Information
+The south side of the bay is considered the more rewarding dive: from the reef edge, a sloping sandy bottom leads to a glassfish cavity in the reef — a cavern with two chambers, the second of which has an exit to the main bay. Inside the cavern, goatfish and yellow snappers shelter under shafts of light filtering down from the entrance. The north side offers its own coral wall dive with corners and overhangs.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+## Dive Profile
 
-## Additional Resources
+- **Depth**: 14–25 m on main reef structures; cavern at approximately 20 m
+- **Current**: Low to moderate; entry/exit can be weather-dependent
+- **Visibility**: Good (20+ m in open water)
+- **Entry**: Boat (weather-dependent)
 
-- **Last Updated**: 2026-04-11
+## Marine Life
+
+Goatfish and yellow snappers in the south cavern. Soft and hard corals on both north and south reefs. Typical Marsa Alam reef species including parrotfish, grouper, and angelfish along the reef walls.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [SSI Dive Guide — Abu Dabour](https://www.divessi.com/en/mydiveguide/divesite/abu-dabour-abudabur-concorde-moreen-marsa-alam-shoni-bay-abou-sharm-dolphinshouse-hausriff-egypt-21377). Last updated 2026-05-17.*

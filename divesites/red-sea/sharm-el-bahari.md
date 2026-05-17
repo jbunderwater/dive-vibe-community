@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Sharm el Bahari
 
-Sharm el Bahari is a  dive site in Red Sea, Middle East.
+Sharm el Bahari ("the sea bay") is a bay reef dive site on the Egyptian Red Sea coast near El Quseir (lat 25.85, lng 34.43). The name is a common Arabic geographic descriptor for a sea-facing bay. The coordinates sit in the El Quseir / Qusayr area, known for a series of accessible shore-dive bays and fringing reefs.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Bay dive sites in the El Quseir area typically feature sandy beach entries with fringing reef structures providing coral gardens and slopes to 20–25 m. The El Quseir coastline is documented for its healthy coral reef systems with colorful reef fish diversity. Dive operators in El Quseir offer shore dives at bays along this stretch of coast. No specific named dive site documentation for "Sharm el Bahari" was found in English-language dive databases at these coordinates.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: El Quseir area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on coordinate position in the El Quseir coastal diving area. No site-specific dive sources were located. Last updated 2026-05-17.*

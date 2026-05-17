@@ -13,23 +13,15 @@ addedBy: osm_import
 
 ## Sha ab Talata
 
-Sha ab Talata is a  dive site in Red Sea, Middle East.
+Sha'ab Talata is a reef dive site in the northern Egyptian Red Sea at approximately 27.14°N, 33.88°E, in the Gubal Strait / El Quseir offshore zone near other Sha'ab formations in this area.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+"Talata" means "three" in Arabic, suggesting the site may feature three distinct reef structures or sections. The coordinates (27.14°N, 33.88°E) place this reef close to the Sha'ab Adel entry in the northern El Quseir offshore zone, in a cluster of reef systems in this section of the central Egyptian Red Sea.
 
-## Site Information
+No site-specific sources for Sha'ab Talata were found under this name in published dive guides, operator sites, or diving databases. The site is categorised as a coral reef in OSM data.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*No site-specific sources were found for this entry.*
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on OpenStreetMap-recorded position data. No site-specific dive sources were located for Sha'ab Talata under this name. Last updated 2026-05-17.*

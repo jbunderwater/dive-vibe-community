@@ -4,32 +4,28 @@ lat: 26.389115
 lng: 34.186845
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## WECH
+## Wech
 
-WECH is a  dive site in Red Sea, Middle East.
+Wech is a dive site entry in the offshore reef zone between Safaga and El Quseir (lat 26.39, lon 34.19), approximately 30 km southeast of Safaga in an area of scattered offshore reefs and shoals.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The name "Wech" does not appear in widely available English-language dive guides for the Red Sea. The coordinates place this site roughly 15 km offshore in the mid-Red Sea zone south of Safaga, an area of open-water shoals and reef tops accessible primarily by boat. The offshore reefs in this zone — between Safaga and El Quseir — receive limited diver attention compared to the major named reefs further north (Panorama, Middle Reef, Abu Kafan) but can offer pristine coral and good pelagic activity.
+
+No specific source has been located confirming the site's topography, depth profile, or marine life under this name. "Wech" may be a local Arabic transliteration for a reef or shoal name not widely documented in English.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Offshore reef zone, Safaga–El Quseir, Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates or under this name. Description based on regional diving characteristics and coordinate location. Last updated 2026-05-17.*

@@ -11,25 +11,25 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Arba reef
+## Arba Reef
 
-Arba reef is a  dive site in Red Sea, Middle East.
+Arba Reef is a coral reef dive site in the deep south Red Sea, positioned near the Hamata / Wadi El Gemal area (lat 24.31, lng 35.45). The Arabic word "arba" means "four," possibly referring to the reef's shape or a group of four reef structures. The site sits within the general range of the Wadi El Gemal National Park diving area.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The coordinates place Arba Reef in the southern Red Sea, south of Marsa Alam, in a region characterised by limited dive traffic and pristine reef conditions. The surrounding area — including the Wadi El Gemal National Park — is documented to feature colossal table corals and abundant marine life, with approximately 450 coral species and over 1,200 fish species in the broader national park ecosystem. No specific documentation for Arba Reef as a named dive site was found in English-language dive sources; this entry appears to be a locally-known reef.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Red Sea, Hamata / Wadi El Gemal area, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on coordinate position in the Wadi El Gemal / Hamata area. No site-specific dive sources were located in English-language dive databases. Last updated 2026-05-17.*

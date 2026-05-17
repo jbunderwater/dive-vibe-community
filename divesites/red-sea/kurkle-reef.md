@@ -13,23 +13,15 @@ addedBy: osm_import
 
 ## Kurkle reef
 
-Kurkle reef is a  dive site in Red Sea, Middle East.
+Kurkle reef is a reef dive site in the Gulf of Suez at approximately 29.69°N, 32.41°E — placing it near the northern end of the Egyptian Red Sea coast, likely in the Gulf of Suez zone north of Ras Sudr.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The coordinates of Kurkle reef (29.69°N, 32.41°E) locate it in the northern Gulf of Suez, a shallower and more sediment-influenced section of the Red Sea compared to the main body. The Gulf of Suez averages 40 m depth and supports fringing reef structures along its edges, though coral quality is generally lower than the main Red Sea due to the Gulf's hydrological conditions.
 
-## Site Information
+No site-specific sources for Kurkle reef were found under this name in published dive guides, operator databases, or diving forums. The site may be a locally-used name for a reef structure in this area.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*No site-specific sources were found for this entry. Position is derived from OSM data.*
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on OpenStreetMap-recorded position data. No site-specific dive sources were located for Kurkle reef under this name. Last updated 2026-05-17.*

@@ -11,25 +11,33 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sha ab Sheer - Shark Point
+## Sha'ab Sheer – Shark Point
 
-Sha ab Sheer - Shark Point is a  dive site in Red Sea, Middle East.
+Sha'ab Sheer Shark Point is the eastern dive site of the Sha'ab Sheer reef system, located just south of Safaga in the Red Sea (lat 26.66, lng 34.06). Sha'ab Sheer is a large reef with a protected lagoon on the south side; Shark Point occupies the exposed eastern tip where currents attract larger marine life. Boats overnight here during liveaboard cruises.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Sha'ab Sheer is a long reef offering two distinct dive experiences: Shark Point (east, current-exposed) and Coral Paradise (west, sheltered). Shark Point's exposed eastern position creates conditions that attract pelagic species, giving the site its name. The reef features pristine coral formations including brain corals, table corals, and acroporas. Visibility is typically excellent at 10–30 m. Boats commonly anchor in the protected south lagoon overnight.
+
+## Marine Life
+
+Species documented at Shark Point include jacks, snappers, tuna, and reef sharks. The coral formations support diverse reef fish communities. The eastern exposure with medium currents (1–2 knots) makes this a productive site for observing both reef and pelagic species. Brain corals and acropora colonies are notably developed.
+
+## Dive Profile
+
+Average depth 20 m, maximum 25 m. Medium currents of 1–2 knots on the eastern tip; the southern and western sides are more sheltered. Suitable for intermediate to advanced divers on the eastern point; beginners can dive the western coral garden. Best season: March to November.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: South of Safaga, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-05-17
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [Zentacle – Sha'ab Sheer Shark Point](https://www.zentacle.com/Beach/1747/shaab-sheer-shark-point), [Dive the World – Sha'ab Sheer Safaga](https://divescover.com/dive-site/sha-ab-sheer-shark-point/19945). Last updated 2026-05-17.*

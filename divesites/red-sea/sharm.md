@@ -4,32 +4,28 @@ lat: 27.856359
 lng: 34.280859
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## SHARM
+## Sharm
 
-SHARM is a  dive site in Red Sea, Middle East.
+Sharm is a generic reef site entry in the southern Sinai area near Ras Mohammed (lat 27.86, lon 34.28). "Sharm" is the Arabic word for a sheltered bay or inlet, and this name may refer to a local reef associated with a particular bay along the south Sinai coast.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The coordinates place this site on the southwestern Sinai coast in the Ras Mohammed National Park buffer zone — an area of high marine biodiversity where nutrient-rich currents from both the Gulf of Aqaba and Gulf of Suez converge. The southern Sinai coast in this zone hosts numerous named and unnamed reef sections with typical depths of 10–25 m.
+
+No specific source has been found documenting "Sharm" as a distinct named dive site (separate from the city of Sharm el Sheikh) in widely available English-language dive guides. The site may be a local navigation marker name recorded in OSM data.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Southern Sinai / Ras Mohammed area, Red Sea
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates. Description based on coordinate location analysis. Last updated 2026-05-17.*

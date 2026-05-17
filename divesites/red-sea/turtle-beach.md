@@ -2,34 +2,41 @@
 name: Turtle beach
 lat: 27.7857834
 lng: 34.2403293
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 26
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Turtle beach
+## Turtle Beach
 
-Turtle beach is a  dive site in Red Sea, Middle East.
+Turtle Beach (also known as Turtle Bay) is a gentle reef site in the Sharm el Sheikh area, well-regarded for regular turtle sightings and a sandy plateau dotted with large coral pinnacle formations.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The dive features a sandy plateau with large coral pillars scattered across it, each colonised with hard corals and hosting dense concentrations of glassfish (sweepers). Green turtles are regularly encountered at this site, typically seen grazing on soft corals along the plateau or resting on sandy areas. Large stingrays also rest on the sandy bottom between pinnacles.
 
-## Site Information
+The typical depth range is 10–26 m. The site can be dived as a drift depending on current direction, making it accessible to a wide range of experience levels. Shore entry is also reported at some access points.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+## Dive Profile
 
-## Additional Resources
+The dive typically begins along the outer reef edge, dropping down to the sandy plateau at 20–26 m, then working back through the coral pinnacle formations. Visibility is usually around 25 m. The gentle topography makes this a relaxing dive suitable for beginners and photographers. Currents are generally mild.
 
-- **Last Updated**: 2026-04-11
+## Marine Life
 
----
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+- Green turtles — regularly observed grazing or resting
+- Blue-spotted ribbontail rays resting on the sandy bottom
+- Dense glassfish schools surrounding coral pinnacles
+- General Red Sea reef fish community: wrasses, butterflyfish, angelfish, parrotfish
+- Occasional larger groupers using the pinnacle bases as shelter
+
+## Tips
+
+- Bring a camera — the combination of turtles and glassfish-encrusted pinnacles makes for compelling subjects
+- Patient divers who approach slowly often get extended turtle encounters
+- An easy dive suitable for dive training or certification dives
+
+*Sources: [Camel Dive Club — Turtle Bay](https://www.cameldive.com/dive-sites/turtle-bay/), [Divers Guide — Turtle Bay](https://www.divers-guide.com/en/turtle-bay-sharm-el-sheikh). Last updated 2026-05-17.*

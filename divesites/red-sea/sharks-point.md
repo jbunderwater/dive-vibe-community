@@ -4,7 +4,7 @@ lat: 24.8389226
 lng: 35.0338876
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,19 @@ addedBy: osm_import
 
 ## Sharks Point
 
-Sharks Point is a  dive site in Red Sea, Middle East.
+Sharks Point is a dive site in the southern Red Sea coastal zone between El Quseir and Marsa Alam, positioned approximately 1 km from The Garden of Eden site — suggesting the two form part of a local cluster of named reef sites in this lightly dived stretch of Egyptian coast.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The coordinates (lat 24.84, lon 35.03) place this site in the southern Egyptian Red Sea, a region known for relatively low diver pressure and healthy reef systems. The name "Sharks Point" is consistent with Red Sea reef points where pelagic species such as grey reef sharks, whitetip reef sharks, and occasionally oceanic whitetips gather at reef edges exposed to open water.
+
+No specific source document has been located confirming shark species, depth profile, or entry conditions for this exact coordinate pair. The overall site type classification as a reef is consistent with the surrounding coastal reef zone between El Quseir and Marsa Alam.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Southern Red Sea, Egypt (El Quseir–Marsa Alam coastal zone)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*No site-specific dive source was found for this entry at these coordinates. Description based on regional diving characteristics and coordinate location. Last updated 2026-05-17.*

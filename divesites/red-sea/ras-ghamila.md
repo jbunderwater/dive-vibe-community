@@ -3,8 +3,8 @@ name: Ras Ghamila
 lat: 27.9734819
 lng: 34.4285238
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,26 @@ addedBy: osm_import
 
 ## Ras Ghamila
 
-Ras Ghamila is a  dive site in Red Sea, Middle East.
+Ras Ghamila — Arabic for "Delightful Cape" — is the northernmost of Sharm el Sheikh's local dive sites, featuring an extensive plateau covered with large coral formations and one of the highest concentrations of gorgonian sea fans found at any Sharm site.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The dive site features an expansive plateau ranging from 14–26 m in depth, with an outer drop-off extending to about 30 m. The plateau is densely packed with coral bommies, large table corals, and gorgonian sea fans — sources report this site holds the largest number of gorgonians of any Sharm el Sheikh dive location. Strong currents are often present, which contribute to the prolific filter feeder communities.
 
-## Site Information
+Visibility ranges from 10–30 m. The best diving conditions are typically April through November when water temperature and marine activity peak.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+## Marine Life
 
-## Additional Resources
+The plateau hosts a diverse benthic community: crocodile fish rest camouflaged on rubble, triggerfish and cornetfish patrol above the coral tops, groupers occupy larger coral heads, and blue-spotted ribbontail rays rest in sandy gaps. Manta rays are occasionally sighted at this site, and there is potential for grey reef sharks in the current-swept areas.
 
-- **Last Updated**: 2026-04-11
+## Dive Profile
 
----
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+The typical dive begins at the reef edge, works along the plateau at 14–26 m, and ascends over the coral-bommie garden. The site is suitable for Intermediate divers comfortable with currents. When current runs strongly the site can be executed as a drift dive.
+
+## Tips
+
+- Currents can be strong; plan the dive direction according to current
+- Best approached on an incoming tide when plankton-rich water flows onto the reef
+- Combine with other northern Sharm sites on the same boat trip
+
+*Sources: [egypt-liveaboard.com — Ras Ghamila Reef](https://www.egypt-liveaboard.com/dive-sites/ras-ghamila-reef/), [PADI — Ras Ghamila Dive Site](https://www.padi.com/dive-site/egypt/ras-ghamila-2/). Last updated 2026-05-17.*

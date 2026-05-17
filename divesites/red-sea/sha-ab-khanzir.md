@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Sha ab Khanzir
 
-Sha ab Khanzir is a  dive site in Red Sea, Middle East.
+Sha'ab Khanzir is a reef dive site in the Egyptian Red Sea at approximately 28.40°N, 34.45°E, in the northern Red Sea / Hurghada offshore zone.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The name Khanzir is Arabic for triggerfish, and the site is named for the abundance of redtooth triggerfish (Odonus niger) typically found here — making it distinct from the common assumption that "khanzir" refers to pigs (which is a different Arabic usage). This is a moderate reef with minimal current, making it accessible for divers of various experience levels.
 
-## Site Information
+The site features a sandy plateau at around 20 m with coral heads scattered across it, and a main reef structure with a mix of hard coral species. The site is not considered one of the dramatic headline destinations of the northern Red Sea, but offers reliable encounters with a wide range of common reef species in calm conditions.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+## Dive Profile
 
-## Additional Resources
+- **Average depth**: ~20 m (sandy plateau)
+- **Maximum depth**: ~25 m
+- **Current**: Very low
+- **Entry**: Boat
 
-- **Last Updated**: 2026-04-11
+## Marine Life
+
+Redtooth triggerfish are the defining species. Blue-spotted stingrays, moray eels, parrotfish, butterflyfish, and grouper are typical reef inhabitants. The sandy plateau between coral heads provides habitat for garden eels and small invertebrates.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [Greatest Dive Sites — Sha'ab Khanzir](https://egypt.greatestdivesites.com/dahab/shaab_khanzir). Last updated 2026-05-17.*

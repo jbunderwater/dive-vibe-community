@@ -13,23 +13,26 @@ addedBy: osm_import
 
 ## Shaab Ghadir Soraya
 
-Shaab Ghadir Soraya is a  dive site in Red Sea, Middle East.
+Shaab Ghadir Soraya (Soraya = "small" in Arabic) is the smaller companion reef to the main Shaab Ghadeer, located in the northern part of the Radir/Ghadir reef group approximately 8 km offshore and 29 km south of Marsa Alam.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Soraya functions as the "little sister" to the larger Sha'ab Ghadir. The reef features a shallow atoll on its northern side where juvenile fish congregate in sheltered water, and multiple small canyons running through the structure create an interesting topography for exploration. The site is 15 minutes by boat east of Marsa Alam.
 
-## Site Information
+The reef is characterised by rich fish schools and a variety of canyon passages that make the dive unforgettable, according to logged diver accounts. The currents here are moderate (1–2 knots), and visibility averages in the good range of 10–30 m. The reef's proximity to the larger Sha'ab Ghadir means both can sometimes be combined in a single dive or consecutive dives from the same boat.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+## Dive Profile
 
-## Additional Resources
+- **Average depth**: ~11 m
+- **Maximum depth**: ~25 m
+- **Current**: Medium (1–2 knots)
+- **Visibility**: Good (10–30 m)
+- **Entry**: Boat (approximately 15 minutes from Marsa Alam)
+- **Suitable for**: Advanced divers (CMAS **/AOW)
 
-- **Last Updated**: 2026-04-11
+## Marine Life
+
+Dense fish schools are the primary attraction. Juvenile fish congregate in the shallow northern atoll. Canyon passages host typical southern Red Sea reef species: grouper, snapper, parrotfish, and smaller invertebrates. Pelagic species occasionally pass by on stronger current days.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [Wannadive — Sha'ab Ghadir Soraya](https://www.wannadive.net/spot/Africa/Egypt/Marsa_Alam/Sha_ab_Ghadir_Soraya/index.html), [Red Sea Diving — Shaab Ghadir](https://www.redsea-diving.com/5405-2/). Last updated 2026-05-17.*

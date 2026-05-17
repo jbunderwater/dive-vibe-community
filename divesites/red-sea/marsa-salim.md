@@ -13,23 +13,15 @@ addedBy: osm_import
 
 ## Marsa Salim
 
-Marsa Salim is a  dive site in Red Sea, Middle East.
+Marsa Salim is a bay reef dive site in the far southern Egyptian Red Sea at approximately 23.91°N, 35.49°E, in the Hamata / Fury Shoals area north of Ras Banas.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The coordinates of Marsa Salim place it in the deep southern Red Sea between the Fury Shoals reef chain and the Egyptian mainland coast, in the Wadi el-Gemal National Park zone. "Marsa" means bay in Arabic, indicating a sheltered coastal inlet. This section of the Egyptian Red Sea is lightly visited compared to the north, and the Fury Shoals reefs — accessed either by day boat from Hamata or by liveaboard — are among the most pristine in Egypt.
 
-## Site Information
+No site-specific sources for Marsa Salim were found under this name in dive guides or operator databases, though several "marsa" sites (protected bays) in this general area are known for seagrass, turtles, and shore-accessible reef structures typical of the Hamata coastline.
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+*No site-specific sources were found for this entry.*
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on OpenStreetMap-recorded position data. No site-specific dive sources were located for Marsa Salim under this name. Last updated 2026-05-17.*
