@@ -23,7 +23,7 @@ The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balines
 
 - **Location**: Jemeluk Bay, Amed, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15–25 m

@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "australia",
-    "azores",
-    "bahamas",
-    "bali",
-    "banda-sea",
-    "barbados",
     "belize",
     "belize-barrier-reef",
     "bermuda",
@@ -138,7 +132,6 @@
     "socorro-islands",
     "solomon-islands",
     "south-africa",
-    "south-australia-neptune-islands",
     "south-florida",
     "south-pacific",
     "sri-lanka",
@@ -174,7 +167,14 @@
     "ambon",
     "andaman-islands",
     "antigua-and-barbuda",
-    "aruba"
+    "aruba",
+    "australia",
+    "azores",
+    "bahamas",
+    "bali",
+    "banda-sea",
+    "barbados",
+    "south-australia-neptune-islands"
   ],
   "history": [
     {
@@ -253,6 +253,85 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/66",
+      "errors": []
+    },
+    {
+      "date": "2026-05-17",
+      "slugs": [
+        "australia",
+        "azores",
+        "bahamas",
+        "bali",
+        "banda-sea",
+        "barbados"
+      ],
+      "notes": "australia agent processed south-australia-neptune-islands instead; both destinations marked completed",
+      "summary": {
+        "sites_total": 122,
+        "sites_validated_today": 91,
+        "sites_re_audited": 118,
+        "hallucinations_removed": 33,
+        "marine_life_stripped": 19,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 18,
+        "by_destination": {
+          "south-australia-neptune-islands": {
+            "sites_total": 10,
+            "sites_validated_today": 4,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6
+          },
+          "azores": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4
+          },
+          "bahamas": {
+            "sites_total": 26,
+            "sites_validated_today": 23,
+            "sites_re_audited": 26,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3
+          },
+          "bali": {
+            "sites_total": 37,
+            "sites_validated_today": 29,
+            "sites_re_audited": 37,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5
+          },
+          "banda-sea": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0
+          },
+          "barbados": {
+            "sites_total": 22,
+            "sites_validated_today": 22,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]

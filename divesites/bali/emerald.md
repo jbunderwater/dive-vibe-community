@@ -3,7 +3,7 @@ name: Emerald
 lat: -8.2837348
 lng: 115.6028731
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben 
 
 - **Location**: Southeast of Tulamben Bay, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Mild to moderate; drift possible
 - **Best Time**: April to November

@@ -5,7 +5,7 @@ lng: 115.6214953
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 4747124685
 addedBy: osm_import

@@ -23,7 +23,7 @@ Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks
 
 - **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 m

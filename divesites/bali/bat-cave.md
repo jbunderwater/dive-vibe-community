@@ -3,7 +3,7 @@ name: Bat Cave
 lat: -8.093384
 lng: 114.5289757
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong; head-on current from the east
 - **Best Time**: April to November (dry season, best visibility)

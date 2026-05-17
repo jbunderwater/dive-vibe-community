@@ -23,7 +23,7 @@ Kubu Reef is located off the village of Kubu on Bali's northeast coast, approxim
 
 - **Location**: Kubu Village, East Bali, Indonesia (3.5 km NW of Tulamben)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
@@ -59,4 +59,4 @@ The shore entry involves a walk over uneven terrain -- the porters are well wort
 Kubu Reef offers excellent opportunities for both macro and wide-angle photography. The anglerfish are superb macro subjects, and pygmy seahorses on gorgonias are a prized capture for patient photographers with appropriate macro equipment. The barrel sponges and gorgonias at depth provide good wide-angle compositions. A versatile setup or a dedicated macro rig is recommended.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=876). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=876), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Pebble and Fins - Kubu Dive Sites](https://pebbleandfins.com/the-ultimate-guide-to-kubus-hidden-dive-sites/). Last updated 2026-05-17.*

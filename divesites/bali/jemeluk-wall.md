@@ -59,4 +59,4 @@ The wall drops well beyond 40 meters, so uncontrolled descents are a real risk. 
 Jemeluk Wall offers both wide-angle and macro opportunities. The large pink gorgonia fans and barrel sponges along the wall make excellent wide-angle subjects, particularly when backlit or shot with divers for scale. Macro subjects include nudibranchs, ribbon eels, and the invertebrates living on the sponges and corals. The wall structure itself provides dramatic depth perspectives for wide-angle compositions.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-04-08.*
+*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-05-17.*

@@ -59,4 +59,4 @@ The entry over the rocky beach requires care, especially when carrying camera eq
 Liberty Muck is outstanding for macro photography. The black volcanic sand creates clean, dark backgrounds that highlight small, colourful subjects. Mimic octopus, ghost pipefish, and nudibranchs are the primary photographic targets. A macro lens (60mm or 100mm) and a focus light are essential. The garden eel colonies also make excellent subjects if approached slowly and patiently.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/). Last updated 2026-05-17.*

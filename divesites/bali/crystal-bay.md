@@ -23,7 +23,7 @@ Crystal Bay is Bali's premier site for encountering the ocean sunfish (mola mola
 
 - **Location**: Northwest Nusa Penida, Bali, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (can drop to 5 m in algae blooms)

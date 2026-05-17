@@ -2,9 +2,9 @@
 name: Coral Garden Tulamben
 lat: -8.2769163
 lng: 115.5946864
-difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+difficulty: Beginner
+maxDepth: 15
+entryType: shore
 siteType: reef
 ref: null
 osmId: 6428015268
@@ -25,7 +25,7 @@ Shore entry over the black volcanic pebble beach makes this an accessible dive w
 
 - **Location**: Tulamben, northeast Bali, Indonesia (between the Liberty Wreck and the Drop-off)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 metres

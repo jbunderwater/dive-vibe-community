@@ -3,8 +3,8 @@ name: Pyramids
 lat: -8.3341953
 lng: 115.6536502
 difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+maxDepth: 22
+entryType: both
 siteType: reef
 ref: null
 osmId: 5149607925
@@ -22,10 +22,10 @@ The Pyramids dive site near Jemeluk Bay in Amed was created when local fishermen
 ## Site Information
 
 - **Location**: Near Jemeluk Bay, Amed, northeast Bali
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore or boat entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30+ m (current-swept)
 - **Current**: Moderate to strong; drift possible
 - **Best Time**: April to November

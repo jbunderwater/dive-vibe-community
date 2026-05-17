@@ -59,4 +59,4 @@ This is a current-assisted drift dive, so experience with drift diving technique
 Wide-angle photography excels here. The density of barrel sponges and gorgonias along the wall provides spectacular reef-scape compositions. The garden eel colony is an excellent wide-angle subject if you can approach slowly enough to avoid spooking them. Ribbon eels in the wall crevices are a rewarding macro target, though shooting macro on a drift dive requires skill and quick reflexes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1090). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1090), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*

@@ -3,8 +3,8 @@ name: Batu Belah
 lat: -8.3078554
 lng: 115.6208435
 difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+maxDepth: 30
+entryType: shore
 siteType: reef
 ref: null
 osmId: 4747124684
@@ -23,9 +23,9 @@ Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible di
 
 - **Location**: Tulamben area, northeast Bali
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner to Intermediate
-- **Maximum Depth**: 30 meters (typical: 10–25 m)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Nil to moderate
 - **Best Time**: April to November

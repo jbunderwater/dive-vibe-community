@@ -23,7 +23,7 @@ Manta Point is located on the southwestern coast of Nusa Penida and is the most 
 
 - **Location**: Southwest coast of Nusa Penida, Bali region
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 m

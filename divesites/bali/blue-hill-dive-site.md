@@ -2,9 +2,9 @@
 name: Blue Hill Dive Site
 lat: -8.2875992
 lng: 115.6050638
-difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+difficulty: Beginner
+maxDepth: 15
+entryType: shore
 siteType: reef
 ref: null
 osmId: 3747662782
@@ -22,10 +22,10 @@ Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situat
 ## Site Information
 
 - **Location**: Tulamben area, northeast Bali
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–22 m
 - **Current**: Moderate; generally predictable
 - **Best Time**: April to November
@@ -59,4 +59,4 @@ Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overha
 Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-05-17.*

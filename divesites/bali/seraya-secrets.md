@@ -3,7 +3,7 @@ name: Seraya Secrets
 lat: -8.295722
 lng: 115.611972
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: shore
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Seraya Secrets is located near the village of Seraya, roughly 3 kilometres south
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Generally mild
