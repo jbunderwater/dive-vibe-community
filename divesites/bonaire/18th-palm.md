@@ -6,56 +6,58 @@ difficulty: Beginner
 maxDepth: 25
 entryType: shore
 siteType: reef
-ref: 
+ref: 34
 osmId: 854130076
 addedBy: jbunderwater_ai
 ---
 
 # 18th Palm
 
+*A central Bonaire fringing reef named for a row of palm trees marking the shore entry — an easy beginner dive in the busy central dive belt.*
+
 ## Overview
-18th Palm is a beautiful dive site located in central Bonaire near Oil Slick Leap. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+18th Palm (BNMP #34) is a central west coast shore dive named for the palm trees visible from the road that mark the entry point. It lies in the busy stretch of diving between Calabas Reef and Windsock, offering typical central Bonaire fringing reef conditions: easy entry, calm water, and a gradual reef slope. The site is well-suited to beginner divers and those wanting a relaxed, uncomplicated dive.
 
 ## Site Information
-- **Location**: Central Bonaire (near Oil Slick Leap)
+
+- **Location**: Central Bonaire, BNMP Site #34
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning to afternoon
 
 ## Marine Life
-18th Palm is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Central Bonaire reef species: parrotfish, grunts, angelfish, snapper, and groupers. Turtles seen along the coast. Moray eels in reef crevices.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Entry over sand/shore and gradual swim to the reef. Reef begins within a short swim and slopes to 25 metres. A relaxed out-and-back profile.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the pull-off near the palm trees. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- The palm trees make this entry easy to identify from the coastal road
+- Good between-sites dive when touring the central corridor
+
+## Safety
+
+Easy conditions. Standard shore-dive precautions.
 
 ## Photography
-18th Palm offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Standard reef photography in good visibility.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, Calabas Reef, and Bari Reef. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/18_Palm/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Calabas Reef (Divi Flamingo house reef) is to the south. Windsock is nearby to the north. Bachelor's Beach is also close.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

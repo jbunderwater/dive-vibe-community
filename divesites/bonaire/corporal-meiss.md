@@ -13,49 +13,50 @@ addedBy: jbunderwater_ai
 
 # Corporal Meiss
 
+*Also known as North Belnem — a central Bonaire shore reef between Bachelor's Beach and Windsock, with easy conditions and straightforward access from the coastal road.*
+
 ## Overview
-Corporal Meiss is a beautiful dive site located in central Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Corporal Meiss (alt. name: North Belnem) is a central Bonaire shore site on the lower west coast, in the busy dive belt south of Kralendijk between Windsock and Bachelor's Beach. The site shares the fringing reef character of the central west coast: easy shore entry, a gradual reef slope, and calm conditions typical of Bonaire's protected leeward side. It is used frequently as a between-dives fill-in site or a morning warm-up given its accessible location.
 
 ## Site Information
-- **Location**: Central Bonaire (near Salt Pier)
+
+- **Location**: Central Bonaire, BNMP corridor south of Kralendijk
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning to afternoon
 
 ## Marine Life
-Corporal Meiss is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Standard central Bonaire reef community: parrotfish, angelfish, grunts, snapper, and groupers on the reef slope. Turtles are seen along this stretch of coast. Macro subjects in the encrusting reef.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry and gradual reef slope. Most productive life in the 8–20 metre range. Sandy bottom at depth.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry via standard western coast ironshore. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Convenient for central coast touring with other nearby sites in the same corridor
+
+## Safety
+
+Easy site. Monitor depth on the outer slope.
 
 ## Photography
-Corporal Meiss offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Standard fringing reef photography opportunity in good visibility.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Angel City, and Bachelor's Beach. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/corporal-meiss
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Windsock is to the north. Bachelor's Beach is to the south. Salt Pier and Angel City are further south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Corporal Meiss](https://www.divers-guide.com/en/dive-spots/corporal-meiss), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

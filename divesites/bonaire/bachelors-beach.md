@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Bachelor's Beach
 
+*A central Bonaire shore reef with a notable coral nursery at 5–9 metres — one of the BNMP's active reef restoration sites, with easy conditions and good fish density.*
+
 ## Overview
-Bachelor's Beach is a beautiful dive site located south of Kralendijk near the airport. The site features a small sandy beach with a short swim to a dramatic drop-off that starts at about 20 feet and descends to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its dramatic topography and abundance of marine life. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Bachelor's Beach is a central Bonaire shore site on the west coast south of Kralendijk. The site is notable for hosting a BNMP coral nursery project in the 5–9 metre range, where coral fragments are grown on underwater tree structures and later transplanted to restore damaged sections of reef. The reef slope itself is typical of the central west coast: gradual, calm, and well-populated with reef fish. It is an easy shore dive suitable for beginners, and the shallow nursery section adds an educational dimension to the dive.
 
 ## Site Information
-- **Location**: South of Kralendijk, near airport
-- **Entry Type**: Shore entry
+
+- **Location**: Central Bonaire, west coast south of Kralendijk
+- **Entry Type**: Shore entry — staircase access
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: All day
 
 ## Marine Life
-Bachelor's Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Reef fish typical of central Bonaire: parrotfish, grunts, snapper, angelfish, and damselfish populate the slope. Turtles are seen along this stretch. The nursery structures attract fish that shelter among the coral fragments. Moray eels in reef crevices.
 
 ## Dive Profile
-Enter the water from the small sandy beach and swim out to the drop-off, which starts at about 20 feet. The reef wall descends steeply, making it easy to explore at different depths. Plan your dive to explore the wall at various depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
+
+Enter from the staircase and swim to the reef. The coral nursery is at 5–9 metres. The main reef slope continues deeper. A relaxed, shallow profile to observe the nursery, then a descent to the main reef, makes good use of the site.
 
 ## Entry and Exit
-The entry is via a small sandy beach that provides comfortable access to the water. Swim out to the drop-off, which is easily visible from the surface. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with experienced divers due to the dramatic drop-off
-- The short swim to the drop-off makes it easy to access
-- Look for the dramatic reef wall and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry via a staircase to the beach. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The dramatic drop-off requires proper buoyancy control. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Look for the coral nursery frames at 5–9 metres — you can see the coral fragments growing
+- Do not touch or disturb the nursery structures
+- Excellent site for beginner divers and those interested in reef conservation
+
+## Safety
+
+Easy conditions. Shallow and calm. The staircase entry is manageable for all skill levels.
 
 ## Photography
-Bachelor's Beach offers excellent photography opportunities. The dramatic reef wall and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
+
+The coral nursery frames are an unusual photographic subject. Standard reef photography on the slope.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Angel City, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/bachelors-beach
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Topography**: Features dramatic drop-off
-- **Last Updated**: 2025-06-24
+Windsock and Corporal Meiss are nearby to the north. Calabas Reef and 18th Palm are to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Beyond the Corals Bonaire – Bachelor's Beach](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Bachelor's Beach](https://www.divers-guide.com/en/dive-spots/bachelors-beach). Last updated 2026-05-18.*

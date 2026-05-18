@@ -6,59 +6,59 @@ difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
-ref: 
+ref: 53
 osmId: 663869404
 addedBy: jbunderwater_ai
 ---
 
 # Pink Beach
 
-A beautiful dive site on Bonaire's southwestern coast, featuring a stunning pink sand beach and vibrant coral reef
+*Named for the distinctive rose-tinted sand created by crushed red coral and shells — a popular beach and shore dive on the southern coast with a healthy reef slope and easy entry.*
 
 ## Overview
-Pink Beach is one of Bonaire's most picturesque dive sites, located on the southwestern coast of the island. The site is named for its distinctive pink sand beach, created by the erosion of red coral and shells mixed with white sand. The underwater environment features a gradual slope that leads to a healthy coral reef system with excellent marine life viewing opportunities. The site offers good visibility and is suitable for divers of various experience levels, though intermediate skills are recommended due to the depth and potential currents.
+
+Pink Beach (BNMP #53) is one of southern Bonaire's most photographed above-water locations, where the sand takes on a distinctive pink hue from the accumulated fragments of red coral and shells mixed with white sand. Below the surface, the site delivers a typical southern Bonaire reef dive with a gradual slope from shore into a healthy coral garden. The site is accessible to beginners and snorkellers and sees significant surface-level traffic due to the beach's visual appeal, though the reef itself is generally uncrowded. Located between Tori's Reef to the north and English Garden to the south, it is frequently combined with adjacent sites on a single day.
 
 ## Site Information
-- **Location**: Southwest Bonaire (near Kralendijk)
-- **Entry Type**: Shore entry
+
+- **Location**: South Bonaire, BNMP Site #53
+- **Entry Type**: Shore entry — beach entry from the pink sand
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
 - **Best Time**: Morning to early afternoon
 
 ## Marine Life
-Pink Beach supports a diverse ecosystem with numerous fish species and marine invertebrates. Expect to see large schools of blue tangs, parrotfish, and grunts swimming among the coral formations. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+The reef supports the standard southern Bonaire assemblage: schools of grunts, parrotfish, snapper, and angelfish. Turtles are seen regularly. Moray eels inhabit reef crevices. The gentle slope supports coral formations that shelter the usual array of Caribbean reef fish. Eagle ray sightings are occasionally reported over the sandy bottom between reef sections.
 
 ## Dive Profile
-Begin your dive by entering from the beautiful pink sand beach and swimming out to the reef. The site features a gradual slope that starts at about 10 feet and descends to depths of 100 feet. Most of the interesting marine life and coral formations are found between 30-60 feet. Plan your dive to explore the reef at different depths, taking time to observe the coral formations and marine life. The site is suitable for recreational diving with appropriate bottom time based on your certification level.
+
+Enter from the pink sand beach and swim out to the reef. The slope begins gently and deepens progressively. Most of the coral life is in the 8–22 metre range. The reef continues to 30 metres.
 
 ## Entry and Exit
-Access Pink Beach via the distinctive pink sand beach along the southwestern coast. The entry area features a sandy bottom that gradually transitions to the reef. Enter the water from the beach and swim out to the reef system. Exit at the same location, being mindful of the coral formations when approaching the shore. The entry and exit are generally straightforward, though conditions can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- The pink sand beach makes for a beautiful entry and exit point
-- Check local conditions before diving, as currents can vary
-- The best diving is along the reef slope, not in the sandy areas
-- Look for the healthy coral formations and sea fans
-- This site is excellent for both wide-angle and macro photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to protect the coral formations
+Beach entry from the distinctive pink sand. The sandy entry is comfortable and easy. Exit at the same point. Be mindful of snorkellers in the shallows, especially on busier days when the beach attracts surface visitors.
 
-## Safety Considerations
-Always dive within your certification limits and experience level. Be aware of potential currents, especially during certain tide conditions. Maintain proper buoyancy control to protect the coral formations and avoid contact with marine life. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- The beach is beautiful above and below water — the pink sand photos from the entry point are a Bonaire cliché worth getting
+- Morning dives avoid the afternoon surface crowd
+- Combine with Tori's Reef to the north or English Garden to the south on the same day
+
+## Safety
+
+Easy conditions overall. Light-to-moderate current can build in the afternoon. Maintain buoyancy awareness in the shallow beach entry zone due to snorkeller traffic.
 
 ## Photography
-Pink Beach offers excellent photography opportunities with its healthy coral formations and abundant marine life. The clear water and good visibility make it ideal for wide-angle shots of the reef and fish schools. The coral formations provide great subjects for macro photography. The pink sand beach also makes for unique above-water photography opportunities. Natural light is best during morning hours when the sun illuminates the reef.
+
+The pink sand beach provides unique entry/exit photography above water. Below the surface, the reef slope is standard but well-lit in the morning.
 
 ## Nearby Sites
-Nearby sites include Red Slave, White Slave, and other southwestern Bonaire dive sites. All are accessible along the southwestern coast of the island.
 
-## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Pink_Beach/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Tori's Reef lies to the north along the same coast. English Garden is to the south. Alice in Wonderland is a short drive north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Pink Beach](https://www.divers-guide.com/en/pink-beach). Last updated 2026-05-18.*

@@ -13,51 +13,54 @@ addedBy: jbunderwater_ai
 
 # 1000 Steps
 
-A famous Bonaire dive site featuring a dramatic limestone staircase entry and excellent coral formations
+*Named for the steep staircase entry — 67 actual steps that feel like a thousand with full gear — leading down to a wall dive that drops from a shallow terrace to beyond 30 metres, with healthy coral gardens and consistent marine life.*
 
 ## Overview
-1000 Steps is one of Bonaire's most iconic dive sites, named for the limestone staircase that leads down to the entry point. Despite the name, there are actually only 67 steps! This site features a dramatic drop-off that starts at about 15 feet and descends to over 100 feet. The reef is in excellent condition with healthy coral formations, including large brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility.
+
+1000 Steps (BNMP #16) is one of Bonaire's most recognisable dive sites, set on the northwest coast just south of the Washington Slagbaai National Park boundary. The name is the joke: there are 67 stone steps cut into the limestone cliff, but after a full dive in tropical heat with tanks on your back, the climb back up earns the exaggeration. Below the surface, the site features a classic Bonaire wall profile — a shallow terrace at 6–9 metres descends into a steep drop-off that continues past 30 metres. The reef is in good condition with dense hard-coral formations including brain and staghorn corals, gorgonians, and sea whips. The site is more than just the wall: the sandy beach and calm conditions in the shallows make it a frequent snorkelling stop, and the site can be dived at night without the stair penalty being an issue.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry
+
+- **Location**: Northwest Bonaire, BNMP Site #16
+- **Entry Type**: Shore entry — 67-step staircase descent to sandy beach; boat access also available
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 30 metres (recreational range; wall continues deeper)
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning for calm conditions; arrive early to claim parking
 
 ## Marine Life
-1000 Steps is renowned for its diverse marine life. Expect to see large schools of blue tangs, parrotfish, and grunts. The site is also home to sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species.
+
+Regular sightings include barracuda, large tarpon in the shallows, sea turtles, and schools of blue tangs. Porcupine fish, trumpet fish, parrotfish, angelfish, and sergeant majors are common on the wall and terrace. Moray eels inhabit crevices in the reef. The sandy beach zone is worth checking for flounder and garden eels. Night dives reveal octopus and lobsters.
 
 ## Dive Profile
-Start your dive by descending the staircase and entering the water at the sandy area. Swim out to the drop-off, which begins at about 15 feet. The reef wall descends steeply to depths of 100+ feet. Plan your dive to explore the wall at different depths, with most of the marine life found between 30-60 feet. The site is suitable for both recreational and technical diving.
+
+Descend the stairs to the sandy beach and enter the water from shore. Swim out to the reef edge at around 6–9 metres and follow the wall northward or southward as preferred. Most of the productive diving is in the 9–25 metre range along the wall face. The slope continues steeply past 30 metres but offers little additional benefit for recreational divers. Plan a relaxed out-and-back profile — the site rewards slow observation rather than distance.
 
 ## Entry and Exit
-The entry is via a well-maintained limestone staircase (67 steps) that leads down to a small sandy beach. The staircase can be slippery when wet, so use caution. Enter the water from the sandy area and swim out to the drop-off. Exit at the same location, being mindful of the steps when climbing back up.
 
-## Tips and Recommendations
-- Arrive early to avoid crowds, as this is one of Bonaire's most popular sites
-- The staircase can be challenging with heavy gear - consider making multiple trips
-- The best diving is along the wall, not in the sandy areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for both wide-angle and macro photography
+The 67-step staircase from the road-level parking area is the only shore entry. The steps can be slippery when wet; take your time and use the rail. With a full kit, most divers make two trips — fins down first, then tanks. Boat entry is available as an alternative and eliminates the stair challenge. Exit is at the same beach.
 
-## Safety Considerations
-The staircase can be slippery and challenging with dive gear. Take your time and consider making multiple trips to carry equipment. The drop-off is dramatic, so maintain proper buoyancy control. Be aware of boat traffic in the area, though it's typically light at this location.
+## Tips
+
+- Arrive early — the limited parking fills up, and mornings are cooler for the stair carry
+- Consider boat access if knee or hip issues make the stair carry uncomfortable
+- The wall is to the right (south) after entry; swim left along the terrace for the sandy areas and garden eels
+- Night dives here are very accessible given the easy beach entry once gear is staged
+- Bring a dive light for crevices at any time of day
+
+## Safety
+
+The staircase demands care in wet conditions. The drop-off begins fairly quickly after entry — maintain buoyancy awareness from the moment you leave the terrace. Current is usually light but can pick up at depth. Always carry an SMB on the open-water sections of the wall.
 
 ## Photography
-1000 Steps offers exceptional photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
+
+The wall is excellent for wide-angle reef-and-diver compositions with strong ambient light in the morning. The terrace coral formations photograph well at shallower depths. Tarpon in the blue alongside the drop-off are a classic Bonaire shot. Macro subjects — moray eels, arrow crabs — are plentiful in the reef structure.
 
 ## Nearby Sites
-Nearby sites include Karpata, La Denia's Leap, and Weber's Joy. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Reference**: Site #16
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireN/1000_Steps/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Karpata lies a short drive north and shares a similar wall profile. La Denia's Leap and Weber's Joy / Witches Hut are in the same northern corridor. The Washington Slagbaai National Park boundary is just north of the site.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide – Thousand Steps](https://www.divers-guide.com/en/thousand-steps), [Sunwise Bonaire – 1000 Steps](https://sunwisebonaire.com/blog/1000-steps-bonaire-diving/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html). Last updated 2026-05-18.*

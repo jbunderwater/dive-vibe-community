@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Buddy's Reef
 
+*The house reef of Buddy Dive Resort on Bonaire's central west coast — a convenient shore dive with a classic fringing reef profile and easy access from the resort dock.*
+
 ## Overview
-Buddy's Reef is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Buddy's Reef is the house reef of Buddy Dive Resort, Bonaire's largest dive operation, situated on the central west coast north of Kralendijk. The site offers what Bonaire's central coast reefs do consistently well: a gradual slope from shallow water into a healthy coral reef system with steady fish diversity, calm conditions, and easy shore access. It is used heavily as a first-dive orientation site for newly-arrived guests and as a convenient warm-up or night dive.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry
+
+- **Location**: Central Bonaire, Buddy Dive Resort house reef
+- **Entry Type**: Shore entry — from resort beach
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: All day; dawn and night dives productive
 
 ## Marine Life
-Buddy's Reef is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Typical central Bonaire reef species: parrotfish, angelfish, surgeonfish, grunts, snapper, and sergeant majors populate the reef face. Moray eels and groupers hold territory in reef crevices. Turtles are seen along this stretch of coast. The shallow sections are active during dawn and dusk periods.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter from the resort beach and follow the reef slope outward. The shallow shelf transitions to the main reef and slope at around 6–9 metres. Most productive marine life is in the 8–20 metre range. The reef continues to 30 metres on the slope.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Sandy and rocky beach entry from Buddy Dive Resort. The resort's dock makes gear staging convenient. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Convenient for multiple dives in a day given the direct resort access
+- Night dives are easily arranged given proximity to the resort
+- Good for training dives and gear check-out dives
+
+## Safety
+
+A beginner-appropriate site with no significant hazards. Monitor boat traffic near the resort dock area when surfacing.
 
 ## Photography
-Buddy's Reef offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The reef slope provides standard Caribbean reef photography. Macro subjects are present throughout the encrusted reef face.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Oil Slick Leap, and Andrea I. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/buddys-reef
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+La Machaca is immediately south. Cliff and Andrea II are nearby to the north. Bari Reef (Sand Dollar Resort) is also in the same area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Buddy Dive Resort](https://buddydive.com/about-bonaire/diving/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

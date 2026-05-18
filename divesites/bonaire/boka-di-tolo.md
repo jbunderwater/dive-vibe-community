@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Boka di Tolo
 
+*Also known as "Ol' Blue" — a northern Bonaire fringing reef between Karpata and the central coast, in the section where the road begins to curve inland, offering easy conditions and healthy coral.*
+
 ## Overview
-Boka di Tolo is a beautiful dive site located in northern Bonaire near Karpata. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Boka di Tolo (short name: Tolo; also called "Ol' Blue" on some dive maps) is a northern Bonaire shore site between the more famous Karpata to the north and the central coast dive belt to the south. Described by local divers as a pleasant, low-key dive with healthy coral and good visibility, the site delivers the fringing reef diving typical of northern Bonaire: excellent water quality and fish diversity without the crowds of the southern belt. Despite some rough surface conditions reported occasionally, underwater the site is calm. The Papiamentu name "Boka di Tolo" translates roughly to "bay" or "mouth" location.
 
 ## Site Information
-- **Location**: North Bonaire (near Karpata)
+
+- **Location**: North-central Bonaire, between Karpata and the central dive belt
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 20–30 metres
+- **Current**: Usually light; surface can be rough
+- **Best Time**: Morning
 
 ## Marine Life
-Boka di Tolo is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Northern Bonaire reef species with good diversity: tarpon reported in the shallows, porcupine fish, red-banded shrimp, trumpetfish, flounder, and typical reef fish throughout the slope.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry via a stone pathway from elevated parking. Once in the water, conditions calm quickly beneath the surface. Standard out-and-back reef slope dive to 25 metres.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+The parking area is elevated and a stone path leads down to the water. Entry and exit via the stone pathway.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Do not be deterred by rough-looking surface conditions — the site is typically calm underwater
+- Combine with Karpata (a short drive north) for a productive northern coast dive day
+- Tarpon in the shallows can be spotted during entry and exit
+
+## Safety
+
+Light current. The stone pathway entry requires care when wet. Surface conditions can be choppy.
 
 ## Photography
-Boka di Tolo offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Good reef photography in clear northern Bonaire water. Tarpon in the shallows are a good shallow-water subject.
 
 ## Nearby Sites
-Nearby sites include Karpata, Oil Slick Leap, and Boka Bartol. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/tolo
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Karpata is to the north. La Denia's Leap is also nearby. Jeff Davis Memorial and Weber's Joy are to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Scuba Diving Smiles – Bonaire Northern Sites (Ol' Blue)](https://www.scuba-diving-smiles.com/bonaire-diving.html), [Divers-Guide – Tolo](https://www.divers-guide.com/en/dive-spots/tolo). Last updated 2026-05-18.*

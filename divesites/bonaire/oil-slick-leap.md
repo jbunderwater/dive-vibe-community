@@ -3,61 +3,63 @@ name: Oil Slick Leap
 lat: 12.2001711
 lng: -68.308717
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: wall
-ref: 
+ref: 20
 osmId: 663869425
 addedBy: jbunderwater_ai
 ---
 
 # Oil Slick Leap
 
-An exciting cliff jump dive site featuring dramatic entry and excellent coral formations
+*A wall dive on Bonaire's north-central coast with two entry options — a 2-metre cliff jump or a steel ladder — leading to a coral-covered drop-off with good fish life and minimal current.*
 
 ## Overview
-Oil Slick Leap is one of Bonaire's most thrilling dive sites, named for the dramatic cliff jump entry that provides an adrenaline rush before the dive even begins. The site features a rocky ledge about 15 feet above the water, from which divers make a giant stride entry. Once in the water, divers are greeted by a beautiful reef wall that starts at about 20 feet and drops steeply to depths of over 100 feet. The reef is in excellent condition with healthy coral formations and abundant marine life. The site is particularly popular with adventurous divers who enjoy the exciting entry.
+
+Oil Slick Leap (BNMP #20) sits on the northwest coast between the Andrea sites to the south and 1000 Steps to the north. The name refers not to any actual oil but to a failed oil terminal project planned for this stretch of coast. The site is known for its easy, well-organised entry: divers can choose between a giant stride off a low limestone cliff (about 2 metres above the surface) or a steel ladder for a more conventional approach. Below the surface, the reef starts at around 6 metres and slopes steeply through a productive coral garden to depths over 40 metres. The site is relatively uncrowded compared to the more southerly Bonaire sites and offers calm conditions with little current throughout most of the year. Both diving and snorkelling are popular here.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry
+
+- **Location**: North-central Bonaire, BNMP Site #20 — between Andrea I and 1000 Steps
+- **Entry Type**: Shore entry — cliff jump or steel ladder
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light, but can be moderate
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 40 metres (slope continues past recreational limits)
+- **Typical Visibility**: 20–30 metres
+- **Current**: Usually light
+- **Best Time**: Morning to afternoon; tends to be less crowded than southern sites
 
 ## Marine Life
-Oil Slick Leap is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The reef supports schools of parrotfish, barracuda cruising the drop-off, sea turtles, and frogfish camouflaged on sponge-covered surfaces. Seahorses have been reported in the coral garden zone. Hunting jacks pass through near the drop-off. Angelfish, filefish, turtles, and flounder are seen regularly. The mix of exposed coral wall and sheltered garden areas produces a good diversity of reef fish throughout the dive.
 
 ## Dive Profile
-The entry is via a dramatic cliff jump from a rocky ledge about 15 feet above the water. After the giant stride entry, swim out to the reef wall, which starts at about 20 feet. Plan your dive to explore the wall at different depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
+
+The cliff entry drops you directly onto the shallow reef zone. Swim out from the entry point to the drop-off at around 6 metres, then follow the wall at your preferred depth. The productive zone is 6–25 metres; the wall continues steeply to 40 metres and beyond. Most divers work the wall at mid-depth and return to the shallows for their safety stop. The site rewards slow swimming and careful observation in the coral garden sections.
 
 ## Entry and Exit
-The entry is via a giant stride from a rocky ledge about 15 feet above the water. The ledge is easily accessible and provides a safe jumping point. After the dive, exit at the same location by climbing back up the rocks. The exit can be challenging with dive gear, so take your time.
 
-## Tips and Recommendations
-- This site is not for the faint of heart due to the cliff jump entry
-- The entry is safe but requires confidence and proper technique
-- The best diving is along the wall, not in the sandy areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for both wide-angle and macro photography
+The cliff entry requires confidence: stand on the limestone ledge and take a committed giant stride into approximately 2 metres of drop. The steel ladder is immediately adjacent for divers who prefer a controlled descent. Exiting via the ladder is the standard approach regardless of entry method — the rocky shoreline makes clambering out freely difficult. The platform area is well-maintained. A valid STINAPA nature tag is required.
 
-## Safety Considerations
-The cliff jump entry requires confidence and proper technique. The rocky ledge can be slippery when wet, so use caution. The reef wall is dramatic, so maintain proper buoyancy control. The exit can be challenging with dive gear, so take your time. Be aware of boat traffic in the area, though it's typically light at this location.
+## Tips
+
+- The steel ladder makes entry/exit accessible to all — no obligation to take the cliff jump
+- Check the shallow areas carefully for frogfish and seahorses before heading deeper
+- Less busy than the southern sites: mornings here are often uncrowded
+- The gentle current and good vis make this a reliable dive in most conditions
+
+## Safety
+
+Light current is the norm. The cliff entry is straightforward but requires the entry point to be free of other divers. Do not jump if visibility at the surface suggests rocks or divers below. The drop-off starts quickly after entry — establish buoyancy control before descending.
 
 ## Photography
-Oil Slick Leap offers exceptional photography opportunities. The dramatic reef wall and healthy coral formations provide excellent wide-angle shots. The abundant marine life offers great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
+
+The coral garden offers good macro opportunities: frogfish, cleaning stations, and seahorse subjects. The wall provides wide-angle framing with strong ambient light in the morning. Schools of parrotfish and barracuda photograph well in open water alongside the drop-off.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, 18th Palm, and Calabas Reef. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/oil-slick-leap
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Shore entry
-- **Last Updated**: 2025-06-24
+Andrea I and II lie to the south with similar wall/reef profiles. 1000 Steps is a short drive north. Jeff Davis Memorial and Boka di Tolo are also nearby along the northern coast road.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Sunwise Bonaire – Oil Slick Leap](https://sunwisebonaire.com/blog/bonaire-dive-sites-oil-slick-leap/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/). Last updated 2026-05-18.*
