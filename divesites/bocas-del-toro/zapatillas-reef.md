@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Zapatillas Reef
 
-A pristine reef surrounding the Isla Zapatillas — two idyllic cays in a national marine park at the southeastern edge of Bocas del Toro, with outstanding coral coverage and no permanent human habitation.
+A pristine reef surrounding the Isla Zapatillas within Bastimentos National Marine Park — two protected cays with excellent coral coverage, a confirmed 200+ tropical fish species, and cavern formations on the exposed side.
 
 ## Overview
 
-Zapatillas Reef surrounds the two small, protected Isla Zapatillas (Zapatilla Cays) at the southern end of the Bocas del Toro archipelago, part of the Bastimentos National Marine Park. The islands are uninhabited and receive significantly less boat traffic than the sites closer to Bocas Town — a distance that preserves the reef quality. The fringing reef is in excellent condition by Caribbean standards, with high hard coral coverage including brain, star, and intact elkhorn coral formations in the shallows. The reef descends from 2 meters at the beach to 14 meters at the outer sandy base. Visibility is 20–25 meters, better than the inner sites due to the cleaner water on the park's exposed southern edge. Water temperature is 27–29°C.
+Zapatillas Reef surrounds the Isla Zapatillas (Zapatilla Cays) at the southern end of the Bocas del Toro archipelago, within the Bastimentos National Marine Park. The cays are uninhabited and receive significantly less boat traffic than inner sites closer to Bocas Town — the distance preserves reef quality. Zapatillas Dive Center at Al Natural Resort operates small-group diving at the protected reefs around the cays.
+
+The site features "pristine" reef conditions, with over 200 confirmed tropical fish species. The reef descends from the beach to approximately 12–14 meters. Cavern formations are present on the more exposed side of the cay system. The park protection status restricts fishing and anchoring. Visibility is 20–25 meters on the exposed side.
 
 ## Site Information
 
@@ -33,32 +35,32 @@ Zapatillas Reef surrounds the two small, protected Isla Zapatillas (Zapatilla Ca
 
 ## Marine Life
 
-Zapatillas Reef benefits from Bastimentos National Marine Park protection, which restricts fishing and anchoring. The result is a fish community of notably higher density and species diversity than at more impacted sites. Green sea turtles are abundant — the sandy beaches of Zapatilla Cay are important nesting sites, and the same animals feed on the reef. Hawksbill turtles feed on reef sponges. Caribbean reef squid hover in schools at the reef edge. Large parrotfish, which are typically overfished throughout the Caribbean, are common and large here. Nurse sharks rest in the sandy areas at the reef base.
+Over 200 tropical fish species confirmed at the site. Sea turtles are present — the Zapatilla Cay beaches are confirmed nesting grounds. Rays and tropical fish schools are reported by therealdealtours.com. The cavern sections provide habitat for species sheltering from the open reef.
 
 ## Dive Profile
 
-Boat drop at the northern tip of the main Zapatilla cay, with descent to the reef at 3–5 meters. Navigation east around the outer reef face at 8–14 meters for the first half, ascending to the crest at 3–5 meters for the return. The complete circuit of the main cay's reef provides 50–60 minutes of diving at an easy pace.
+Boat drop at the reef edge, navigation along the outer reef face at 8–14 meters. Cavern sections on the exposed side can be explored where accessible. The protected park setting means the full reef can be explored at a leisurely pace. Total dive: 50–60 minutes.
 
 ## Entry and Exit
 
-Boat dive, requiring a 30–45 minute boat ride from Bocas Town and a national park fee payment for Bastimentos National Marine Park. Entry by giant stride or backward roll onto the reef. The beaches of Zapatilla Cay are available for surface intervals. Some operators allow snorkelling from the beach.
+Boat dive requiring 30–45 minutes from Bocas Town and a national park entry fee for Bastimentos National Marine Park. The Zapatillas Dive Center at Al Natural Resort operates on-site. Beach surface intervals available on the cay.
 
 ## Tips and Recommendations
 
-The Zapatillas are a full-day destination from Bocas Town given the travel time. Plan a surface interval on the beautiful white-sand beach — the cays are genuinely idyllic above water as well as below. The park fee is nominal and goes toward conservation. The improved visibility relative to inner sites makes Zapatillas Reef the best wide-angle photography site at a beginner-accessible depth in the entire Bocas del Toro region.
+The Zapatillas are a full-day destination from Bocas Town given travel time. The improved visibility relative to inner sites makes this the best beginner-accessible photography site in the region. The park rules are enforced — no fishing or collecting. Turtle nesting season (April–October) may restrict certain beach areas.
 
 ## Safety Considerations
 
-Bastimentos National Marine Park rules prohibit all fishing, collecting, and anchoring. The national park rangers patrol the area. Boat traffic at the Zapatillas is lower than inner sites, but the park-appropriate slow-speed zones apply. DSMB recommended. Sea turtle nesting season (April–October) means certain beach areas may be restricted.
+National Marine Park rules prohibit fishing, collecting, and anchoring. The exposed southern position means swells are possible in trade wind conditions — check conditions before the trip. DSMB recommended.
 
 ## Photography
 
-Zapatillas Reef is the best beginner-accessible photography site in Bocas del Toro. The combination of better-than-average visibility, pristine coral, abundant turtles, and excellent ambient light in 5–12 meters creates outstanding wide-angle reef photography conditions. The undisturbed large parrotfish are exceptional portrait subjects — they are significantly larger and less skittish than at heavily fished sites. Split-level photography above the reef with the cay visible above the waterline is achievable in calm conditions.
+The pristine coral, 200+ fish species diversity, and superior visibility create outstanding wide-angle reef photography conditions. Sea turtles on the reef and nesting beaches are primary subjects. The cavern sections provide opportunities for lit cavern photography.
 
 ## Additional Resources
 
+- Zapatillas Dive Center (Al Natural Resort): on-site operator at the cays
 - Bastimentos National Marine Park: permits and visitor information
-- Bocas del Toro operators: day-trip packages to Zapatillas including park fee and guided diving
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-05-18.*
