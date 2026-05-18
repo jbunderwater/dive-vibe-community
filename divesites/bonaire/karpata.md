@@ -22,10 +22,10 @@ Karpata (BNMP #9) is widely regarded as one of Bonaire's finest dive sites and t
 ## Site Information
 
 - **Location**: North Bonaire, BNMP Site #9 — northernmost major shore site before the reserve
-- **Entry Type**: Shore entry — concrete platform, rocky bottom entry
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres (sandy bottom; wall continues)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres (average 25 m)
 - **Current**: Usually light; check before diving
 - **Best Time**: Morning

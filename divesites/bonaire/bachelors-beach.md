@@ -22,10 +22,10 @@ Bachelor's Beach is a central Bonaire shore site on the west coast south of Kral
 ## Site Information
 
 - **Location**: Central Bonaire, west coast south of Kralendijk
-- **Entry Type**: Shore entry — staircase access
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: All day

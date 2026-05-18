@@ -5,7 +5,7 @@ lng: -68.2367651
 difficulty: Advanced
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869394
 addedBy: jbunderwater_ai
@@ -13,52 +13,52 @@ addedBy: jbunderwater_ai
 
 # Willemstoren Lighthouse
 
-A historic dive site on Bonaire's southern tip, featuring the iconic lighthouse and excellent coral reef diving
+*The southernmost active lighthouse in the Dutch Caribbean, standing at Bonaire's southern tip — a wall/slope dive exposed to current sweeping around the point, suitable for experienced divers only.*
 
 ## Overview
-Willemstoren Lighthouse is a unique dive site located at Bonaire's southernmost point, named after the historic lighthouse that stands as a landmark on the shore. The site features a dramatic drop-off that starts near the shore and descends to depths of over 100 feet. The reef is characterized by healthy coral formations, including large brain corals, elkhorn coral, and colorful soft corals. The site offers excellent visibility and is particularly known for its abundance of marine life and the dramatic underwater topography created by the southern tip of the island.
+
+Willemstoren Lighthouse stands at Bonaire's southern tip, one of the oldest lighthouses in the Dutch Caribbean. The dive site takes its name from this landmark and shares the character of Red Slave and the other southern-tip sites: a steep reef slope that dives like a wall, exposure to current rounding the point, and Advanced conditions that reward experienced divers with a pristine, less-visited reef. The coastal road ends well before this point — access requires driving the southern route past the salt pier and slave huts and parking near the lighthouse.
 
 ## Site Information
-- **Location**: Southern tip of Bonaire (Willemstoren)
+
+- **Location**: Bonaire's southern tip, at Willemstoren Lighthouse
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20–30 metres
+- **Current**: Can be strong at the southern tip; assess from shore before diving
+- **Best Time**: Early morning when conditions are calmest
 
 ## Marine Life
-Willemstoren Lighthouse supports a rich diversity of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming along the reef wall. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks patrolling the deeper waters. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+The current-swept southern tip brings pelagic species past the reef. Barracuda, horse-eye jacks, and groupers are regular sightings. Turtles are seen. The steep sponge-covered slope supports the same colourful community as Red Slave.
 
 ## Dive Profile
-Begin your dive by entering from the shore near the lighthouse and swimming out to the drop-off. The site features a dramatic drop-off that starts at about 15 feet and descends steeply to depths of 100+ feet. Most of the interesting marine life and coral formations are found between 30-70 feet along the wall. Plan your dive to explore the wall at different depths, taking time to observe the coral formations and marine life. The steep wall makes this site particularly suitable for wall diving techniques.
+
+Rocky shore entry near the lighthouse. The reef drops away steeply into a slope/wall structure. Keep the reef on one side and make a north-turning dive to avoid being carried south around the tip in any current. Most productive at 10–20 metres.
 
 ## Entry and Exit
-Access Willemstoren Lighthouse via a marked entry point near the historic lighthouse at Bonaire's southern tip. The entry area features a rocky shoreline that leads to the reef wall. Enter the water carefully from the rocks and swim out to the drop-off. Exit at the same location, being mindful of the rocky shoreline when approaching. The entry and exit can be challenging due to the rocky terrain, so take your time and use appropriate footwear.
 
-## Tips and Recommendations
-- The historic lighthouse makes for a great landmark and photo opportunity
-- The rocky entry can be challenging - wear appropriate footwear
-- The best diving is along the wall, not in the shallow areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for wall diving techniques
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy when diving along the wall
+Rocky entry at the lighthouse. Time entry between sets. Exit at the same point. Assess conditions from shore before gearing up.
 
-## Safety Considerations
-The rocky entry and exit require careful navigation. The steep wall requires good buoyancy control and wall diving experience. Be aware of potential currents along the wall, especially at depth. Maintain proper distance from the coral formations to avoid damage. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Always assess current from shore before entry — conditions here are similar to Red Slave
+- Dive early morning when southerly swell is typically calmer
+- Turn north after entry to avoid the exposed southern point
+
+## Safety
+
+The southern tip is exposed to current rounding the island. Conditions can change between one visit and the next. An SMB and conservative gas planning are essential. Red Slave has a documented history of divers being carried around the point — the same risk applies here.
 
 ## Photography
-Willemstoren Lighthouse offers exceptional photography opportunities with its dramatic wall and abundant marine life. The steep drop-off creates impressive wide-angle shots, while the coral formations provide great subjects for macro photography. The historic lighthouse also makes for unique above-water photography opportunities. Natural light is best during morning hours when the sun illuminates the wall.
+
+The sponge-covered slope and pelagic visitors make for productive photography. The lighthouse backdrop above water is a distinctive topside element.
 
 ## Nearby Sites
-Nearby sites include other southern Bonaire dive sites. The site is located at the southern tip of the island, making it a unique location for exploring the southernmost diving opportunities on Bonaire.
 
-## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Willemstoren_Lighthouse/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Red Slave is a short drive west along the same southern coastal track. Vista Blue and Sweet Dreams are also in the area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

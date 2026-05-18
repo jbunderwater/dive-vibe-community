@@ -22,10 +22,10 @@ Buddy's Reef is the house reef of Buddy Dive Resort, Bonaire's largest dive oper
 ## Site Information
 
 - **Location**: Central Bonaire, Buddy Dive Resort house reef
-- **Entry Type**: Shore entry — from resort beach
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: All day; dawn and night dives productive

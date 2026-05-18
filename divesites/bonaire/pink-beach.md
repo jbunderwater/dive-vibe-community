@@ -22,10 +22,10 @@ Pink Beach (BNMP #53) is one of southern Bonaire's most photographed above-water
 ## Site Information
 
 - **Location**: South Bonaire, BNMP Site #53
-- **Entry Type**: Shore entry — beach entry from the pink sand
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
 - **Best Time**: Morning to early afternoon

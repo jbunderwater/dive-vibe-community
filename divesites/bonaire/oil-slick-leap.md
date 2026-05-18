@@ -22,10 +22,10 @@ Oil Slick Leap (BNMP #20) sits on the northwest coast between the Andrea sites t
 ## Site Information
 
 - **Location**: North-central Bonaire, BNMP Site #20 — between Andrea I and 1000 Steps
-- **Entry Type**: Shore entry — cliff jump or steel ladder
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres (slope continues past recreational limits)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning to afternoon; tends to be less crowded than southern sites

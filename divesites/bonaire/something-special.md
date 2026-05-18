@@ -3,7 +3,7 @@ name: Something Special
 lat: 12.1613822
 lng: -68.2838525
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 18
 entryType: shore
 siteType: muck
 ref: 
@@ -25,7 +25,7 @@ Also known by its Papiamentu name "Pali Grandi," Something Special sits at the e
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light, sheltered
 - **Best Time**: Morning or night — night dives are particularly productive here

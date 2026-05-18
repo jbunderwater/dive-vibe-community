@@ -23,9 +23,9 @@ Weber's Joy (also called Witches Hut by some operators and dive guides) is a nor
 
 - **Location**: North Bonaire, near the national park approach road
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning

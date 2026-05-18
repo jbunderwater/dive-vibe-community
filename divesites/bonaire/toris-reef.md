@@ -13,51 +13,50 @@ addedBy: jbunderwater_ai
 
 # Tori's Reef
 
-A beautiful reef dive site located on the southwestern coast of Bonaire, known for its healthy coral formations and diverse marine life
+*A southern Bonaire fringing reef between Pink Beach and English Garden — easy conditions with a gradual slope and the healthy soft coral and sea fan cover typical of the southwest coast.*
 
 ## Overview
-Tori's Reef is a pristine dive site located on Bonaire's southwestern coast, offering excellent shore diving opportunities. The site features a gradual slope that leads to a vibrant reef system with healthy coral formations. The reef is particularly known for its abundance of soft corals, sea fans, and colorful reef fish. The site offers good visibility year-round and is suitable for divers of various experience levels, though intermediate skills are recommended due to the depth and potential currents.
+
+Tori's Reef is a southern Bonaire shore site on the southwest coast, between Pink Beach to the north and English Garden to the south. The site offers the calm, gradual reef diving that defines Bonaire's leeward coast, with a soft coral and sea fan community on the slope and the easy conditions suitable for beginners and family divers.
 
 ## Site Information
-- **Location**: Southwest Bonaire (near Kralendijk)
+
+- **Location**: Southwest Bonaire, between Pink Beach and English Garden
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters
+- **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
 - **Best Time**: Morning to early afternoon
 
 ## Marine Life
-Tori's Reef is home to a diverse array of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming among the coral formations. The site is particularly known for its abundance of soft corals and sea fans, which provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. Look for sea turtles, eagle rays, and occasionally nurse sharks. The reef also supports healthy populations of butterflyfish, angelfish, and damselfish.
+
+Parrotfish, angelfish, grunts, and snapper on the reef slope. Sea fans and soft corals provide shelter for smaller reef fish. Turtles seen along the coast. Moray eels in reef crevices.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef. The site features a gradual slope that starts at about 10 feet and descends to depths of 100 feet. Most of the interesting marine life and coral formations are found between 30-60 feet. Plan your dive to explore the reef at different depths, taking time to observe the coral formations and marine life. The site is suitable for recreational diving with appropriate bottom time based on your certification level.
+
+Shore entry and gradual reef slope to 30 metres. Most productive at 8–22 metres.
 
 ## Entry and Exit
-Access Tori's Reef via a marked entry point along the southwestern coast. The entry area features a sandy bottom that gradually transitions to the reef. Enter the water from the shore and swim out to the reef system. Exit at the same location, being mindful of the coral formations when approaching the shore. The entry and exit are generally straightforward, though conditions can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- Check local conditions before diving, as currents can vary
-- The best diving is along the reef slope, not in the sandy areas
-- Look for the large sea fans and soft coral formations
-- This site is excellent for both wide-angle and macro photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to protect the coral formations
+Shore entry from the marked point. Exit at the same location.
 
-## Safety Considerations
-Always dive within your certification limits and experience level. Be aware of potential currents, especially during certain tide conditions. Maintain proper buoyancy control to protect the coral formations and avoid contact with marine life. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Good pairing with Pink Beach just to the north on the same day
+
+## Safety
+
+Easy conditions. Standard precautions. Light-to-moderate current possible in the afternoon.
 
 ## Photography
-Tori's Reef offers excellent photography opportunities with its healthy coral formations and abundant marine life. The clear water and good visibility make it ideal for wide-angle shots of the reef and fish schools. The soft corals and sea fans provide great subjects for macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The soft coral and sea fan community makes good close-up photography subjects.
 
 ## Nearby Sites
-Nearby sites include Pink Beach, Red Slave, and other southwestern Bonaire dive sites. All are accessible along the southwestern coast of the island.
 
-## Additional Resources
-- **Website**: https://www.zentacle.com/Beach/1457/toris-reef
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Pink Beach is to the north. English Garden is to the south. Alice in Wonderland is accessible further north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

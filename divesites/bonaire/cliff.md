@@ -25,7 +25,7 @@ Cliff (BNMP #26) is a wall dive on the central west coast, a short drive north o
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning

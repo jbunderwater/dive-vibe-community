@@ -22,10 +22,10 @@ addedBy: jbunderwater_ai
 ## Site Information
 
 - **Location**: Northwest Bonaire, BNMP Site #16
-- **Entry Type**: Shore entry — 67-step staircase descent to sandy beach; boat access also available
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (recreational range; wall continues deeper)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning for calm conditions; arrive early to claim parking

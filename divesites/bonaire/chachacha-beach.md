@@ -13,51 +13,51 @@ addedBy: jbunderwater_ai
 
 # Chachacha Beach
 
-A beautiful beach dive site featuring excellent coral formations and abundant marine life
+*A shallow north-central Bonaire shore reef near Oil Slick Leap — beginner-friendly with a sandy beach entry and a shallow fringing reef to 15 metres.*
 
 ## Overview
-Chachacha Beach is a beautiful dive site located in central Bonaire near Oil Slick Leap. The site features a sandy beach with easy access to a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Chachacha Beach is a shallow shore dive site on Bonaire's north-central west coast, in the vicinity of Oil Slick Leap. The site has a sandy beach entry leading to a shallow fringing reef — one of the shallower sites on the west coast, with a maximum depth of 15 metres making it well suited to beginners, snorkellers, and photographers wanting to work a shallow reef in good light. The name refers to the beach at this point on the coastal road.
 
 ## Site Information
-- **Location**: Central Bonaire (near Oil Slick Leap)
+
+- **Location**: North-central Bonaire west coast, near Oil Slick Leap
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 15–25 metres
+- **Current**: Light
+- **Best Time**: Morning
 
 ## Marine Life
-Chachacha Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Typical west-coast reef species in a shallow setting: parrotfish, damselfish, wrasses, and grunts. The shallow reef is also accessible to snorkellers.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Sandy beach entry and short swim to the fringing reef. Maximum depth 15 metres — suitable for a relaxed shallow dive or snorkel.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Sandy beach entry. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Good option for a shallow afternoon dive when northerly trade winds push swells into exposed sites
+- Accessible to snorkellers and beginner divers
+
+## Safety
+
+Straightforward conditions. Light current. Standard precautions.
 
 ## Photography
-Chachacha Beach offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The shallow depth and good light make this well suited to reef photography and snorkel photography.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, Calabas Reef, and Bari Reef. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/chachacha
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Oil Slick Leap is nearby to the south. Karpata is further north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Bonaire](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

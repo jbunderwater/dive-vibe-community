@@ -22,10 +22,10 @@ Calabas Reef is the house reef of Divi Flamingo Beach Resort, one of Bonaire's e
 ## Site Information
 
 - **Location**: Central Bonaire, Divi Flamingo Beach Resort house reef
-- **Entry Type**: Shore entry — beach entry from resort
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: All day

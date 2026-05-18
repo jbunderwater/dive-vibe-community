@@ -22,10 +22,10 @@ Alice in Wonderland (BNMP #45) is one of southern Bonaire's most celebrated dive
 ## Site Information
 
 - **Location**: South Bonaire near the salt flats, BNMP Site #45
-- **Entry Type**: Shore entry — marked path to water, mooring buoy
-- **Site Type**: Double reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (second/outer reef)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

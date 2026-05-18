@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Nukove
 
+*Also known as Doblet — a northern Bonaire shore reef south of Washington-Slagbaai, accessible by paved road with excellent reef health and a narrow channel entry.*
+
 ## Overview
-Nukove is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Nukove (also called Doblet by some operators) is one of the northernmost accessible shore dives on Bonaire's paved coastal road — south of the Washington-Slagbaai National Park area. The site is notable for a narrow channel cut through the ironshore that serves as the entry point, leading divers directly onto the reef. The northern location means less traffic and reliably excellent water quality. The reef here is typical of northern Bonaire: high coral diversity, good fish populations, and clear water.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Northern Bonaire, south of Washington-Slagbaai National Park
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Nukove is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Northern Bonaire reef species with good diversity: parrotfish, angelfish, groupers, snappers, turtles, and grunts. The healthy reef supports the typical Caribbean assemblage with some larger individuals compared to the busier southern sites.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter through the ironshore channel and immediately reach the reef. Standard fringing reef slope to 30 metres. Most of the reef life is in the 8–20 metre zone.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+The ironshore channel entry requires care — enter feet-first and be aware of the narrow sides. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- The channel entry is the distinctive feature — take care on entry with tank and fins
+- The paved road access makes this one of the easier northern sites to reach without 4WD
+- Combine with Carel's Vision or Taylor Made for a northern coast dive day
+
+## Safety
+
+The channel entry requires attention. Standard fringing reef dive otherwise.
 
 ## Photography
-Nukove offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Good reef photography in excellent northern water clarity.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/nukove-doblet
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Carel's Vision and Taylor Made are nearby. Boka Slagbaai is further north (inside the park). Karpata is to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Nukove/Doblet](https://www.divers-guide.com/en/dive-spots/nukove-doblet), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

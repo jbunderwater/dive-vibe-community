@@ -23,9 +23,9 @@ addedBy: jbunderwater_ai
 
 - **Location**: Central Bonaire, BNMP Site #34
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning to afternoon

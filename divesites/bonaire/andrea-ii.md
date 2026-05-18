@@ -23,7 +23,7 @@ Andrea II is a paired site with Andrea I on Bonaire's central west coast. Despit
 
 - **Location**: Central west coast Bonaire (between Oil Slick Leap and Karpata)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters

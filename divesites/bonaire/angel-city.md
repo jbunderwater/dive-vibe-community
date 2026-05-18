@@ -22,10 +22,10 @@ Angel City (BNMP #44) sits on the south coast between the Hilma Hooker wreck and
 ## Site Information
 
 - **Location**: South Bonaire, BNMP Site #44 — between Salt Pier and Hilma Hooker
-- **Entry Type**: Shore entry — mooring buoy approximately 25 m from shore
-- **Site Type**: Double reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres (outer reef)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20 metres average
 - **Current**: Usually mild
 - **Best Time**: Morning and dusk; excellent for night diving

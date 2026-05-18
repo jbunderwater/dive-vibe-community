@@ -23,9 +23,9 @@ Boka di Tolo (short name: Tolo; also called "Ol' Blue" on some dive maps) is a n
 
 - **Location**: North-central Bonaire, between Karpata and the central dive belt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light; surface can be rough
 - **Best Time**: Morning

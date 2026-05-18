@@ -23,7 +23,7 @@ Boka Katuna sits inside Washington-Slagbaai National Park on Bonaire's northwest
 
 - **Location**: Washington-Slagbaai National Park, northwest Bonaire (4WD + Nature Tag required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters

@@ -13,48 +13,52 @@ addedBy: jbunderwater_ai
 
 # Taylor Made
 
+*A remote far-north Bonaire shore reef on the northwest coast between Carel's Vision and Playa Frans — advanced due to isolation, limited road access, and exposure to currents.*
+
 ## Overview
-Taylor Made is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Taylor Made is a far-north Bonaire shore site on the northwest coast, positioned between Carel's Vision to the south and Playa Frans further north. The site is in the less-visited stretch approaching Washington-Slagbaai National Park — a remote, quiet section of the reef belt where road access is rougher and services are absent. The advanced difficulty reflects the isolated location, potential for current on the exposed northwest coast, and the self-sufficiency required rather than unusual depth.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Far-north Bonaire, northwest coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 15–25 metres
+- **Current**: Light to moderate; can be stronger at the exposed northwest coast
+- **Best Time**: Calm conditions; morning
 
 ## Marine Life
-Taylor Made is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Northern Bonaire reef species typical of the less-dived northwest coast: parrotfish, grunts, snapper, groupers, and turtles. The lower dive traffic means the reef is relatively undisturbed.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry and gradual reef slope to 35 metres. Most productive at 8–25 metres.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the far-north coastal road. Rough road access — 4WD recommended. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Self-sufficiency required — no nearby facilities or emergency services
+- Carry an SMB given the remote location
+- Check road conditions before driving in
+
+## Safety
+
+Advanced due to remote location, rough access road, and current potential. No rescue services nearby. Plan conservatively and never dive solo.
 
 ## Photography
-Taylor Made offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The low dive traffic on the northwest coast means undisturbed reef subjects in good visibility.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Carel's Vision is to the south. Playa Frans is to the north. Washington-Slagbaai park sites (Boka Bartol, Boka Katuna) are further north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

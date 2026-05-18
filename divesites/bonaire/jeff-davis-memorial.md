@@ -23,9 +23,9 @@ Jeff Davis Memorial is a northern Bonaire shore site located near Weber's Joy an
 
 - **Location**: North Bonaire, near Weber's Joy and the national park approach
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning

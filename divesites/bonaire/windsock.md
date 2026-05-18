@@ -23,9 +23,9 @@ Windsock is a central Bonaire shore dive located directly adjacent to the runway
 
 - **Location**: Central Bonaire, adjacent to Flamingo Airport
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning to afternoon

@@ -23,9 +23,9 @@ Invisibles is a southern Bonaire shore dive named for its unusual double-reef st
 
 - **Location**: Southern Bonaire west coast
 - **Entry Type**: Shore entry
-- **Site Type**: Double reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres (outer reef)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning

@@ -22,10 +22,10 @@ La Machaca (BNMP #27) is a 14-metre (45-foot) locally-built fishing boat that wa
 ## Site Information
 
 - **Location**: Central Bonaire, off Captain Don's Habitat dock — BNMP Site #27
-- **Entry Type**: Shore entry — sandy/rocky entry near the dock
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 metres
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Usually light
 - **Best Time**: Morning or night

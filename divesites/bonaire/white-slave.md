@@ -23,7 +23,7 @@ White Slave is the counterpart to Red Slave on Bonaire's southern leeward coast.
 
 - **Location**: Southern Bonaire, adjacent to the historic white slave huts (north of Red Slave)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters

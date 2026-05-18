@@ -23,9 +23,9 @@ Punt Vierkant ("Square Point" in Dutch) is a southern Bonaire shore site sitting
 
 - **Location**: Southern Bonaire, between Aquarius and Angel City
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
 - **Best Time**: Morning

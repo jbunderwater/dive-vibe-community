@@ -23,9 +23,9 @@ Aquarius is a southern Bonaire shore site in the busy dive corridor between the 
 
 - **Location**: Southern Bonaire, in the Angel City–Salt Pier corridor
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning

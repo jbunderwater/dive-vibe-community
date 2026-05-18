@@ -23,7 +23,7 @@ Wayaka 2 is one of the dive sites inside Washington-Slagbaai National Park on Bo
 
 - **Location**: Washington-Slagbaai National Park, northwest Bonaire (4WD required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–30 meters

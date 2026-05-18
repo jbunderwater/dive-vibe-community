@@ -22,10 +22,10 @@ Salt Pier is unlike any other Bonaire dive. This is an active industrial facilit
 ## Site Information
 
 - **Location**: South-central Bonaire, at the salt export pier near the southern salt flats
-- **Entry Type**: Shore entry — sandy beach on north or south side of pier
-- **Site Type**: Pier/artificial reef dive
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Usually light; minimal
 - **Best Time**: Morning; always check for ships before gearing up
