@@ -5,17 +5,19 @@
     "lon": -87.977162,
     "osm_id": 1574464135,
     "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 9,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "wikipedia.org,holchanmarinereserve.org,atlasandboots.com,dive-the-world.com",
     "tags": {
       "name": "Hol Chan Cut",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "wikipedia.org,holchanmarinereserve.org,atlasandboots.com,dive-the-world.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -24,19 +26,21 @@
     "lon": -87.6075978,
     "osm_id": 5484628121,
     "osm_type": "node",
-    "depth": 15,
-    "site_type": "reef",
+    "depth": 18,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "belizedivehaven.com,itravelbelize.com,dive-the-world.com",
     "tags": {
       "name": "Long Caye Aquarium",
       "name:es": "Acuario de Cayo Largo",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "belizedivehaven.com,itravelbelize.com,dive-the-world.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -48,15 +52,17 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "hamanasi.com,scubaboard.com,dive-the-world.com",
     "tags": {
       "name": "Half Moon Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "hamanasi.com,scubaboard.com,dive-the-world.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -69,14 +75,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Catalan Rocks",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -90,7 +96,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "ambergriscaye.com,7newsbelize.com,belize.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -102,7 +108,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "ambergriscaye.com,7newsbelize.com,belize.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -116,7 +124,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "7newsbelize.com,ambergriscaye.com,belize.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -128,7 +136,9 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "7newsbelize.com,ambergriscaye.com,belize.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -141,14 +151,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Columbus Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -162,13 +172,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "padi.com,hamanasi.com,dive-the-world.com",
     "tags": {
       "name": "Belize Barrier Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "padi.com,hamanasi.com,dive-the-world.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -177,18 +189,20 @@
     "lon": -88.0374381,
     "osm_id": 9993288817,
     "osm_type": "node",
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "depth": 33,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "ecomarbelize.org,padi.com,seasportsbelize.com",
     "tags": {
       "name": "Gallows Point Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "ecomarbelize.org,padi.com,seasportsbelize.com",
+      "last_qa_date": "2026-05-18"
     }
   },
   {
@@ -199,10 +213,10 @@
     "osm_type": "node",
     "depth": 8,
     "site_type": "wreck",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "ambergriscaye.com,dive-the-world.com,tripadvisor.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -211,7 +225,9 @@
       "seamark:wreck:category": "non-dangerous",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "ambergriscaye.com,dive-the-world.com,tripadvisor.com",
+      "last_qa_date": "2026-05-18"
     }
   }
 ]

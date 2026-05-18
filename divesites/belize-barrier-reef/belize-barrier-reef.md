@@ -23,13 +23,13 @@ The Belize Barrier Reef is the second-largest coral reef system in the world, st
 
 - **Location**: Belize Barrier Reef, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Splendid toadfish — endemic to Belize — can be found in reef crevices, and large grouper and tarpon are common in the channels and deeper sections of the reef system.
+The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Large grouper and tarpon are common in the channels and deeper sections of the reef system. Note: the Whitespotted Toadfish (Sanopus astrifer), Belize's endemic toadfish species, is found specifically at Turneffe Atoll and is not confirmed at general inner barrier reef sites.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Wikipedia - Belize Barrier Reef](https://en.wikipedia.org/wiki/Belize_Barrier_Reef), [Dive the World - Belize](https://www.dive-the-world.com/diving-sites-belize.php). Last updated 2026-05-18.*

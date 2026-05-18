@@ -13,31 +13,31 @@ addedBy: osm_import
 
 ## Southwest Breaker
 
-A shallow outer reef system on Bermuda's windward southwest edge offering healthy coral formations and diverse reef fish communities.
+A lone outer reef two miles off Bermuda's southwest corner, built on prehistoric worm fossils rather than typical coral, featuring vertical walls, overhangs, and a central tunnel — and selected by Peter Benchley for the opening scene of the 1977 film *The Deep*.
 
 ## Overview
 
-The Southwest Breaker sits on Bermuda's outer reef perimeter at the southwest extremity of the island — one of several named reef breaks that define the boundary between the shallow Bermuda platform and the deep Atlantic beyond. The reef here rises from the sandy bottom to near the surface in places, creating a varied shallow environment with high light penetration and active wave energy that maintains a diverse, healthy coral community. This is classic Bermuda shallow reef diving: excellent visibility, warm water, abundant reef fish, and the occasional passing pelagic. The site is visited regularly as part of Bermuda's outer reef circuit and provides an accessible introduction to the island's natural reef environment away from the wreck-focused sites.
+Southwest Breaker sits approximately two miles off the southwest corner of Bermuda, a lone reef break at the edge of the Bermuda platform where shallow water meets the deep Atlantic. Unusually, the formation is built on prehistoric fossil worms rather than typical coral or volcanic rock, making it extremely durable against winter storms. The reef features vertical wall-like structures and overhangs sheltering diverse marine life, plus a central tunnel system that fills with silversides in summer. With an average depth of around 28 feet (9 meters) and visibility frequently exceeding 100 feet, this is one of Bermuda's most productive shallow reef dives. Author Peter Benchley selected Southwest Breaker for the opening scene of the 1977 film adaptation of *The Deep*, and also referenced it in his novel *The Beast*.
 
 ## Site Information
 
-- **Location**: Southwest outer reef, Bermuda
+- **Location**: Southwest outer reef, approximately 2 miles off southwest Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20–40 meters (65–130 feet)
+- **Typical Visibility**: 20–40 meters (65–130+ feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
 - **Best Time**: May–October
 
 ## Marine Life
 
-The Southwest Breaker reef community reflects the biodiversity of Bermuda's outer platform edge. Brain corals, staghorn corals, sea fans, and encrusting fire coral create a diverse structural habitat. French and gray angelfish are abundant. Schools of blue tang, sergeant major, and various grunt species populate the coral heads. Hawksbill turtles are regularly sighted in this area. The outer edge location means occasional encounters with passing pelagic fish — wahoo and other open-water species sometimes pass through.
+Southwest Breaker supports rich and diverse reef life. Schools of snappers, grunts, and hogfish inhabit the area year-round. The central tunnel hosts green moray eels, spiny lobster, glassy-eyed sweepers, and groupers. In summer, silversides fill the tunnel in enormous numbers. Eagle rays, sea turtles, and barracuda are regularly sighted at this outer site. Sea fans, cowries, trumpet tritons, and leopard flatworms are found on the reef structure.
 
 ## Dive Profile
 
-This site divides naturally into two zones: the upper reef crest in the 3–5 meter range, and the deeper reef face dropping to 9 meters. Begin the dive on the deeper face before finishing with extended time on the shallow reef crest. The very shallow maximum depth allows unlimited bottom time and makes this comfortable for newer divers and snorkelers.
+This site divides naturally into two zones: the upper reef crest in the 3–5 meter range, and the deeper reef face with walls and overhangs dropping to 9 meters. Spend time in the central tunnel to observe the sweeper schools and resident eels. Finish with extended time on the shallow reef crest. The very shallow maximum depth allows unlimited bottom time and makes this comfortable for newer divers and snorkelers.
 
 ## Entry and Exit
 
@@ -46,10 +46,10 @@ Boat dive. The offshore location means conditions can be rougher than sheltered 
 ## Tips and Recommendations
 
 - This site is best dived in calm morning conditions before afternoon Atlantic swell builds
-- The outer edge location means better chances of pelagic fish encounters than inshore sites
+- The central tunnel is the key feature — enter from the deeper side and exit shallow for a natural dive profile
+- Summer silversides in the tunnel create spectacular light-filtered swarms
+- The outer edge location means better chances of eagle ray and pelagic fish encounters
 - Hawksbill turtle sightings are regular here — observe from a distance without pursuing
-- The high visibility at this outer site makes natural light photography particularly effective
-- Combine with another outer reef wreck or reef site nearby for a full dive day
 
 ## Safety Considerations
 
@@ -57,7 +57,7 @@ The Southwest Breaker's offshore location exposes it to Atlantic swell more than
 
 ## Photography
 
-Excellent visibility at this outer reef site makes it ideal for natural light photography throughout the water column. Coral formations, sea fans, and the reef crest in shallow water photograph beautifully with sunlight. Angelfish and turtle encounters reward patient positioning with natural light compositions. A strobe enhances the fire coral and encrusting invertebrate colors in deeper sections.
+Excellent visibility at this outer reef site makes it ideal for natural light photography throughout the water column. The tunnel with silversides creates stunning ambient light images, especially in summer. Coral formations, sea fans, and the reef crest photograph beautifully with sunlight. Eagle ray and turtle encounters reward patient positioning.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Attractions - Southwest Breaker](https://www.bermuda-attractions.com/bermuda_00005e.htm), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Go To Bermuda - Diving Bermuda](https://www.gotobermuda.com/inspiration/article/where-go-diving-bermuda-best-locations-all-skill-levels). Last updated 2026-05-18.*

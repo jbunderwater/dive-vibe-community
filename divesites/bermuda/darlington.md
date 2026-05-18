@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Darlington
 
-A 19th-century iron-hulled steamer resting on its port side in Bermuda's shallow Western Reef, with its rudder almost reaching the surface.
+A 285-foot iron-hulled British steamer built in 1881, wrecked on February 22, 1886 carrying 5,000 bales of cotton and 15,000 bushels of grain, resting on its port side in 6 meters on Bermuda's Western Reef.
 
 ## Overview
 
-The Darlington was an iron-hulled British steamer powered by a 250-horsepower compound inverted engine. Carrying cotton and grain from New Orleans to Bremen, Germany, the vessel ran into trouble on the night of February 22, 1886, when Captain Richard Ward failed to assign a lookout while navigating the unfamiliar reefs surrounding Bermuda. The ship crashed into the Western Reef and became a total loss. Today the wreck lies on its port side in 6 to 9 meters of water, relatively intact despite having collapsed partially onto itself. The steam boilers, propeller shaft, deck winches, and a rudder that points toward the surface are all clearly identifiable. In stormy weather, the rudder can break the waterline, making the site visible even from the surface.
+The Darlington was a 285-foot (87 m), 1,990-ton iron-hulled steamer built in 1881 at Swan & Hunter Shipyard in Newcastle, England, powered by a 250-horsepower compound inverted engine. On February 22, 1886, Captain Richard Ward — carrying more than 5,000 bales of cotton and 15,000 bushels of grain from New Orleans to Bremen, Germany — failed to assign a lookout while navigating the unfamiliar Bermuda reefs. The ship crashed into the Western Reef. All five officers and 23 crew members survived. A Marine Board of Inquiry later found Captain Ward negligent. Today the wreck lies relatively intact but collapsed onto its port side in 6 meters (20 feet) of water, with the steam boilers, propeller shaft, deck winches, and a rudder pointing toward the surface all clearly identifiable.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ Shallow Bermudian wreck sites like the Darlington are productive fish habitats. 
 
 ## Dive Profile
 
-At 6 meters maximum depth, the Darlington is equally accessible to divers and confident snorkelers. Work around the identified structural landmarks — steam boilers, propeller shaft, and the prominent rudder — in a systematic circuit. The collapsed hull plates require careful buoyancy to navigate without disturbing sediment. Extended bottom times are easily achieved at this depth.
+At 6 meters maximum depth, the Darlington is equally accessible to divers and confident snorkelers. Work around the identified structural landmarks — steam boilers, propeller shaft, deck winches, and the prominent rudder — in a systematic circuit. The collapsed hull plates require careful buoyancy to navigate without disturbing sediment. Extended bottom times are easily achieved at this depth.
 
 ## Entry and Exit
 
@@ -57,7 +57,7 @@ At 6 meters, depth-related hazards are minimal. The primary concerns are boat tr
 
 ## Photography
 
-The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe. Macro subjects including cleaning shrimp and encrusting invertebrates are abundant.
+The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda 100 Project - Darlington](https://bermuda100.ucsd.edu/darlington/), [Bermuda Department of Environment and Natural Resources - Darlington](https://environment.bm/darlington), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*

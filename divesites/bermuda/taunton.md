@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Taunton
 
-A 228-foot Danish coal carrier wrecked in 1920 with its engine and boilers standing upright in just 6 meters of water, making it one of Bermuda's best combined dive and snorkel sites.
+A 228-foot Danish cargo steamer built in 1902 and wrecked in November 1920, its engine and boilers still standing upright in just 6 meters of water near St. George's — one of Bermuda's most photogenic shallow wrecks.
 
 ## Overview
 
-The Taunton was a 228-foot Danish cargo steamer built in 1902, en route from Norfolk, Virginia to St. George's carrying coal when she wrecked on Bermuda's northeastern reef in November 1920. She now lies broken up on the reef in about 6 meters of water, but her engine and steam boilers remain standing nearly upright, reaching toward the surface in a manner that makes them visible as shadows from above on a calm day. The Taunton is frequently described as one of Bermuda's most photogenic shallow wrecks, with the upright machinery creating dramatic visual compositions against the sandy reef bottom. Its very shallow depth makes it equally accessible to divers and snorkelers, and conditions at this protected northeastern site are often calm enough for both.
+The Taunton was a 228-foot (69.5 m) Danish cargo steamer built in 1902. In November 1920, she ran aground on Bermuda's northeastern reef while carrying coal. The ship lies broken up on the reef in about 6 meters of water, but her engine and steam boilers remain standing nearly upright, reaching toward the surface — their profile visible as shadows from above on a calm day. The Taunton is frequently cited as one of Bermuda's most photogenic shallow wrecks, with the upright machinery creating dramatic visual compositions against the sandy reef bottom. Its very shallow depth makes it equally accessible to divers and snorkelers. The northeastern location near St. George's tends to provide calmer conditions than more exposed South Shore sites.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Taunton was a 228-foot Danish cargo steamer built in 1902, en route from Nor
 
 ## Marine Life
 
-The Taunton's upright machinery and scattered hull plates support an active fish community typical of shallow Bermuda reef wrecks. Schools of sergeant majors nest on horizontal metal surfaces in summer. Snapper and grunt shelter around the boiler structures. Parrotfish and wrasse move through the broader reef area. Resident spiny lobster occupy crevices in the scattered hull remains. The clean, shallow water with good light penetration creates a productive photosynthetic zone for coral growth on the exposed metal surfaces.
+The Taunton's upright machinery and scattered hull plates support an active fish community typical of shallow Bermuda reef wrecks. Schools of sergeant majors nest on horizontal metal surfaces in summer. Snapper and grunt shelter around the boiler structures. Parrotfish and wrasse move through the broader reef area. Resident spiny lobster occupy crevices in the scattered hull remains. Good light penetration at this shallow depth supports coral growth on the exposed metal surfaces.
 
 ## Dive Profile
 
@@ -45,11 +45,11 @@ Boat dive from Bermuda operators, particularly those based near St. George's on 
 
 ## Tips and Recommendations
 
-- The upright engine and boilers are the primary photographic subjects — approach them from below for dramatic upward-looking compositions
-- A glass-bottom boat or snorkel tour over this site is worthwhile if diving conditions are marginal
+- The upright engine and boilers are the primary photographic subjects — approach from below for dramatic upward-looking compositions
 - Summer brings sergeant major spawning activity on horizontal wreck surfaces — a fascinating behavior to observe
 - This is an excellent orientation dive for wreck diving beginners
 - The northeastern location near St. George's tends to be well-sheltered from southwest swell
+- A glass-bottom boat or snorkel tour over this site is worthwhile if diving conditions are marginal
 
 ## Safety Considerations
 
@@ -57,7 +57,7 @@ At 6 meters, this is one of Bermuda's most benign wrecks from a depth perspectiv
 
 ## Photography
 
-The Taunton's upright engine and boilers in shallow, clear water are exceptional photography subjects. Upward-looking wide-angle compositions with the machinery silhouetted against the bright surface are iconic. Natural light photography is outstanding at 6 meters. The coral and sponge encrustation on the boiler surfaces creates rich macro opportunities. Snorkelers with waterproof cameras can photograph the machinery from above.
+The Taunton's upright engine and boilers in shallow, clear water are exceptional photography subjects. Upward-looking wide-angle compositions with the machinery silhouetted against the bright surface are iconic. Natural light photography is outstanding at 6 meters. Snorkelers with waterproof cameras can photograph the machinery from above.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda). Last updated 2026-05-18.*
