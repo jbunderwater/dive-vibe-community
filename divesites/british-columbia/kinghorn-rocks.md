@@ -23,7 +23,7 @@ Kinghorn Rocks lie in the northern Strait of Georgia near Desolation Sound, one 
 
 - **Location**: Northern Strait of Georgia, near Desolation Sound, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

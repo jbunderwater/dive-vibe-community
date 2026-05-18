@@ -23,7 +23,7 @@ Collins Shoal lies in the Strait of Georgia near Gabriola Island, in the waters 
 
 - **Location**: Strait of Georgia, near Gabriola Island, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

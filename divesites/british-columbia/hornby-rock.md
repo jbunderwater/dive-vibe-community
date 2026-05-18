@@ -23,7 +23,7 @@ Hornby Rock lies within the productive outer waters of Barkley Sound, where cold
 
 - **Location**: Barkley Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 metres

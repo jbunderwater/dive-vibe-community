@@ -23,7 +23,7 @@ Temple Rock is a reef site in the Strait of Georgia north of Nanaimo, in an area
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

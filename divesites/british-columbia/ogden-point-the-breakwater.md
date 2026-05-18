@@ -107,4 +107,4 @@ This is an Intermediate site suitable for trained recreational divers:
 - The site is safe and accessible but cold water remains a factor year-round
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Cold Ocean Diver — Ogden Point](https://coldoceandiver.ca/ogden), [The Scuba News — Ogden Point](https://www.thescubanews.com/2022/02/07/scuba-diving-ogden-point-breakwater-victoria-british-columbia/), [Zentacle — Ogden Breakwater](https://www.zentacle.com/Beach/637/ogden-breakwater), [PADI — Ogden Point](https://www.padi.com/dive-site/canada/ogden-point/). Last updated 2026-05-18.*

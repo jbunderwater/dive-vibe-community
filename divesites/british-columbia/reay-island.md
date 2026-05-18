@@ -23,7 +23,7 @@ Reay Island is a small island in the southern Gulf Islands east of the Saanich P
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ Alden Bank sits in the waters between Saturna Island and the San Juan Islands, w
 
 - **Location**: Northern Haro Strait, near Saturna Island, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

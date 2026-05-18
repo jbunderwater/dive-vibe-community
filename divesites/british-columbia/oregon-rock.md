@@ -23,7 +23,7 @@ Oregon Rock is a submerged rocky reef in the Strait of Georgia offshore from cen
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

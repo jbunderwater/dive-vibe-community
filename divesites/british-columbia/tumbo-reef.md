@@ -23,7 +23,7 @@ Tumbo Reef lies off the eastern tip of Tumbo Island in the southern Gulf Islands
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

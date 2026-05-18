@@ -23,7 +23,7 @@ Nash Bank is a submerged bank in the Strait of Georgia between Texada Island and
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

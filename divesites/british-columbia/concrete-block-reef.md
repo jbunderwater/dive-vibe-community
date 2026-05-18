@@ -23,7 +23,7 @@ Concrete Block Reef is an artificial reef in Howe Sound north of Squamish, creat
 
 - **Location**: Howe Sound, near Squamish, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–12 metres

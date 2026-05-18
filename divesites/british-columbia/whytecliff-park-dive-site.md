@@ -65,4 +65,4 @@ Bull kelp towers make dramatic wide-angle subjects when the sun angle is right i
 - Last Updated: 2026-03-28
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [PADI — Whytecliff Park](https://www.padi.com/dive-site/canada/whytecliff-park/), [Make Some Bubbles — Whytecliff Park](https://makesomebubbles.com/posts/2023/vancouver-dive-sites-whytecliff-park/), [Fraser Valley Scuba Club — Whytecliff](http://www.fvscuba.org/whytecliff-park.html). Last updated 2026-05-18.*

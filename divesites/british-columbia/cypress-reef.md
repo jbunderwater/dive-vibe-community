@@ -5,7 +5,7 @@ lng: -122.7224932
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: wreck
+siteType: reef
 ref: null
 osmId: 1470400960
 addedBy: osm_import
@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Cypress Reef
 
-A wreck site in the southern Strait of Georgia combining a historic vessel with cold-water Pacific Northwest marine life.
+A submerged natural reef in the southern Strait of Georgia near the BC-Washington border, offering cold-water rocky reef diving with a typical Pacific Northwest mix of rockfish, lingcod, and invertebrates.
 
 ## Overview
 
-Cypress Reef is a wreck site in the southern Strait of Georgia, near the BC-Washington border area. The wreck has become an artificial reef structure that supports significant marine life, combining the interest of a historic vessel with the biological richness of the cold Salish Sea. At 28 metres maximum depth, this is an advanced site requiring solid buoyancy skills and gas management. Water temperatures are cold at 8–12°C throughout the year, and visibility typically ranges from 6–12 metres.
+Cypress Reef is a submerged rocky reef in the southern Strait of Georgia, south of the Gulf Islands near the BC-Washington border. The name refers to the natural reef feature — no wreck is documented at this site. The reef drops to approximately 28 metres and features the productive cold-water habitat typical of this region: kelp-fringed rock faces, plumose anemone gardens, and rocky crevices. Water temperatures are 8–12°C year-round; a drysuit is required. Moderate tidal currents affect this area and the dive should be timed around slack water.
+
+**Data note:** The site was previously classified as a wreck in the dive database. OSM source data tags this feature as `natural=reef` with no historic or seamark wreck tags. No specific vessel wreck at these coordinates could be confirmed through independent research. The site is accurately classified as a natural reef.
 
 ## Site Information
 
-- **Location**: Southern Strait of Georgia, near the Gulf Islands, British Columbia
+- **Location**: Southern Strait of Georgia, near the BC-Washington border
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 6–12 metres
@@ -32,33 +34,19 @@ Cypress Reef is a wreck site in the southern Strait of Georgia, near the BC-Wash
 
 ## Marine Life
 
-The wreck structure has been extensively colonised by cold-water invertebrates over the years. Plumose anemones and encrusting sponges coat the vessel's hull and deck structures. Giant Pacific octopus have adopted the wreck's interior as prime denning habitat — multiple individuals are typically present. Lingcod claim territories on the wreck deck and railings. Copper rockfish and quillback rockfish are abundant. China rockfish are seen in the deeper sections. Kelp greenlings investigate the wreck structure throughout. Harbour seals often hover around the wreck, investigating divers.
+The cold rocky reef supports the typical southern Strait of Georgia community: plumose anemones and encrusting sponges on hard surfaces, lingcod and various rockfish (copper, quillback, China) holding territory throughout the structure. Giant Pacific octopus den in crevices in the deeper sections. Kelp greenlings are present throughout. Harbour seals patrol the site.
 
 ## Dive Profile
 
-Begin by descending the anchor line or a shot line to the wreck. Orient yourself on the wreck before proceeding — note the bow/stern orientation. Explore the outer hull and deck areas during the dive, saving interior penetration for those with proper wreck diving training. Maximum depth of 28 metres limits bottom time — plan conservatively. Ascend the anchor line with a safety stop at 5 metres. Deploy an SMB if drifting from the line.
+Descend to the reef by anchor or shot line. The shallowest reef structure begins around 8–12 metres, dropping to 28 metres at the perimeter. Explore the rocky terrain at your planned depth, working back to shallower areas for the ascent and safety stop. Deploy an SMB before surfacing in the open Strait of Georgia waters.
 
 ## Entry and Exit
 
-Boat access from Sidney, Roche Harbor, or nearby Gulf Island facilities. GPS coordinates essential. A mooring buoy or drift-dive technique is preferred over anchoring on the wreck to avoid damage. Ensure the boat tender maintains continuous watch during the dive.
-
-## Tips and Recommendations
-
-- Wreck penetration requires proper wreck diving certification — exterior tours are suitable for Advanced open-water divers
-- A primary and backup dive light are essential for exploring the wreck's darker areas
-- The wreck site rewards multiple dives — each visit reveals different species and behaviours
-- Check local dive operators for current wreck condition reports
+Boat access from Sidney, Anacortes, or local Gulf Island launch facilities. GPS coordinates are essential for locating this submerged reef. Anchor clear of the reef or use a drifting approach. Maintain boat tender watch during the dive. Tides and currents in this area require careful planning.
 
 ## Safety Considerations
 
-Advanced depth of 28 metres requires careful NDL management. Wreck diving adds entanglement and navigation hazards — exterior diving only without wreck certification. Cold water demands drysuit protection. Tidal current timing is critical. Always use a reference line for ascent. Never dive wrecks alone. Gas management: turn at one-third of starting pressure.
-
-## Photography
-
-Wrecks make exceptional wide-angle subjects, with the hull providing scale and the encrusting life adding colour. Shoot along the hull with the bow or stern silhouetted in the background. Octopus in den openings on the wreck hull are compelling subjects. The interaction of artificial structure with natural marine life provides unique compositional opportunities.
-
-- Sidney area dive operators for charter access and current conditions
-- Fisheries and Oceans Canada tide tables: tides.gc.ca
+Advanced depth of 28 metres requires careful NDL management. Cold water (8–12°C) demands drysuit protection. Tidal currents in the southern Strait of Georgia can be strong — time the dive to slack. Always surface with a deployed SMB; boating traffic in the Strait is active. Gas management: turn at one-third of starting pressure.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM geographic data (natural:reef classification) and regional diving characteristics. No site-specific dive sources found for this named reef. Last updated 2026-05-18.*

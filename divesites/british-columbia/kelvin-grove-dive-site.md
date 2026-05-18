@@ -3,9 +3,9 @@ name: Kelvin Grove Dive Site
 lat: 49.4500039
 lng: -123.240248
 difficulty: Intermediate
-maxDepth: 18
-entryType: boat
-siteType: reef
+maxDepth: 28
+entryType: shore
+siteType: wall
 ref: null
 osmId: 12589860894
 addedBy: osm_import
@@ -13,52 +13,50 @@ addedBy: osm_import
 
 # Kelvin Grove Dive Site
 
-A popular dive site in Howe Sound near Squamish with excellent cold-water marine life in a spectacular fjord setting.
+A shore-entry wall dive in Lions Bay on Howe Sound's eastern shore, with two rocky walls descending to 28 metres and beyond, known for giant Pacific octopus, wolf eels, and cloud sponges.
 
 ## Overview
 
-Kelvin Grove is a dive site in Howe Sound, the spectacular fjord north of Vancouver that extends from Horseshoe Bay toward Squamish. Howe Sound's fjord geography creates cold, nutrient-rich water conditions that support excellent marine life, and Kelvin Grove is one of the area's well-established dive sites. The site is accessible to Vancouver-based divers via the Sea to Sky Highway. Water temperatures are cold at 7–11°C year-round, and visibility typically reaches 6–15 metres.
+Kelvin Grove sits in a small protected cove at Lions Bay, roughly 30 minutes north of Vancouver along the Sea-to-Sky Highway. The site is a shore dive offering two distinct walls: the left (south) side is shallower and suitable for training dives, while the right (north) side drops as a sheer marine-life encrusted wall to 28 metres and beyond recreational limits. Howe Sound's fjord geography funnels cold, nutrient-rich water past the site, supporting exceptional invertebrate growth on the wall faces — cloud sponges, boot sponges, and dense plumose anemone colonies are the signature features. Water temperatures are 7–11°C year-round; a drysuit is essential.
 
 ## Site Information
 
-- **Location**: Howe Sound, north of Vancouver, British Columbia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Lions Bay, Howe Sound, British Columbia (Sea-to-Sky Highway, ~30 min north of Vancouver)
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 6–15 metres
-- **Current**: Tidal currents in Howe Sound — check before diving
-- **Best Time**: Year-round; best visibility in winter months
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 5–18 metres; best October through March
+- **Current**: Moderate tidal currents; generally manageable
+- **Best Time**: Year-round; winter months for best clarity
 
 ## Marine Life
 
-Howe Sound is known for exceptional giant Pacific octopus populations, and Kelvin Grove delivers consistent octopus encounters. Lingcod are abundant in the rocky terrain. Copper rockfish and quillback rockfish are the dominant reef fish. Plumose anemones carpet hard surfaces throughout the site. Wolf eels are occasionally encountered. In winter, Howe Sound sees large aggregations of Pacific herring, which bring dramatically increased predator activity. Harlequin ducks dive in Howe Sound's shallows and can be seen underwater. Harbour seals are abundant.
+Giant Pacific octopus are reliably encountered in rocky crevices and along the wall base. Wolf eels occupy dens in the north wall. Lingcod and tiger rockfish claim territories throughout the rocky terrain. Nudibranchs are prolific on the wall faces, and brotulas have been documented in deeper crevices. Sea stars, sea cucumbers, and kelp greenlings populate the shallower zones. In winter, Howe Sound sees large aggregations of Pacific herring that bring dramatically increased predator activity — feeding frenzies with lingcod, seals, and sea lions are possible.
 
 ## Dive Profile
 
-The reef drops from shallow rocky terrain at approximately 6–8 metres to 18 metres at the base. Work the deeper sections of the reef during the main dive phase, then ascend to the shallower areas for the safety stop. Howe Sound reefs tend to be diverse in structure — look into crevices and overhangs throughout the dive.
+The site has two distinct profiles. The **south wall** is shallower (12–15 m), suitable for Open Water training and beginners. The **north wall** starts at approximately 12 metres and drops to 28+ metres as a sheer face with caverns and overhangs hosting the highest density of marine life. Work the north wall between 15 and 25 metres — this is where cloud sponges and boot sponges appear and where wolf eel dens are found. Ascend slowly along the wall, spending the safety stop in the kelp zone at 5–8 metres.
 
 ## Entry and Exit
 
-Boat access from Porteau Cove Provincial Park or Squamish launch facilities. Howe Sound is exposed to squamish winds from the north that can develop suddenly and dramatically. Monitor weather forecasts carefully. The site should be departed in the morning before afternoon winds develop. Deploy SMB before ascending — pleasure boat traffic is moderate in Howe Sound.
+Shore entry from the Kelvin Grove parking area in Lions Bay. A staircase and a gravel beach both provide water access. Note: a parking permit is required from the Lions Bay Marina (return to the marina after parking). Enter with fins on — the entry can be slippery at low tide over algae-covered rocks. Exit at the same location. Carry an SMB for ascents given Howe Sound boat traffic.
 
 ## Tips and Recommendations
 
-- Howe Sound is excellent for winter diving when squamish winds are less frequent
-- Porteau Cove Provincial Park has designated mooring buoys and shore dive facilities for adjacent sites
-- The sea-to-sky scenery above water rivals the underwater experience
-- Kelvin Grove is accessible to Vancouver divers as a day trip — depart early to avoid wind
+- Dive in winter for the best visibility and the most dramatic Howe Sound marine activity
+- The north wall's deeper sections reward divers willing to push past 20 metres — cloud sponges start around 20–22 m
+- Parking permits are enforced; get the permit before gearing up
+- Squamish winds develop rapidly in Howe Sound; plan to be off the water by midday in summer
+- A focus light dramatically improves the colour rendering on the wall at depth
 
 ## Safety Considerations
 
-Squamish winds — strong, sudden northerly outflow winds from the Squamish Valley — are the primary hazard in Howe Sound. Always check Environment Canada marine forecasts before departure. Cold water (7–11°C) requires drysuit proficiency. The fjord's steep walls create deep water close to shore — monitor depth carefully.
+Squamish winds — strong, sudden northerly outflow winds from the Squamish Valley — are Howe Sound's primary hazard. Always check Environment Canada marine forecasts and depart the water well before afternoon winds build. Cold water (7–11°C) requires a well-sealed drysuit. The north wall drops beyond recreational limits quickly — monitor depth carefully. Deploy an SMB before surfacing; power boat and kayak traffic is present. Dive with a buddy and carry a dive knife for occasional kelp at the entry zone.
 
 ## Photography
 
-The fjord environment creates unique underwater photography opportunities. Rocky reef with plumose anemones and the deep blue water column of the fjord beyond make excellent wide-angle images. Octopus in natural positions on rocky substrate are outstanding macro and wide-angle subjects. In winter, herring schools and feeding predators provide extraordinary action photography.
-
-- Porteau Cove Provincial Park: bcparks.ca
-- Fisheries and Oceans Canada tide tables and marine weather: tides.gc.ca
+The north wall's boot sponges and cloud sponges make striking subjects with wide-angle strobes fired from above. Nudibranchs on the wall face reward macro shooting. In winter, shooting herring schools with a wide-angle fisheye against the surface light produces dramatic Howe Sound schooling images. Octopus in natural crevice positions are outstanding close-focus subjects.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Zentacle — Kelvin Grove](https://www.zentacle.com/Beach/446/kelvin-grove), [Fraser Valley Scuba Club — Kelvin Grove](http://www.fvscuba.org/kelvin-grove.html), [Just Gotta Dive — Kelvin Grove](http://www.justgottadive.com/dive_resources/travel_articles/diving-vancouvers-kelvin-grove-one-wreck-you-wont-soon-forget). Last updated 2026-05-18.*

@@ -23,7 +23,7 @@ Collinson Reef sits in the central Gulf Islands in the Haro Strait area, between
 
 - **Location**: Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

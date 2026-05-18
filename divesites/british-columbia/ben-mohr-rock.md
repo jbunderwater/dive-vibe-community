@@ -23,7 +23,7 @@ Ben Mohr Rock is a submerged rocky outcrop in the central Gulf Islands, sitting 
 
 - **Location**: Central Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-12 meters (25-40 feet)

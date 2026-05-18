@@ -23,7 +23,7 @@ Arachne Reef lies in the sheltered waters between Sidney Island and the D'Arcy I
 
 - **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet)

@@ -23,7 +23,7 @@ Miller Reef is situated in Barkley Sound on the exposed west coast of Vancouver 
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
