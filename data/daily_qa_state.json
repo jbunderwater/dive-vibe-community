@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "belize",
-    "belize-barrier-reef",
-    "bermuda",
-    "bocas-del-toro",
-    "bonaire",
-    "british-columbia",
     "british-virgin-islands",
     "cabo-pulmo",
     "california-channel-islands",
@@ -174,7 +168,13 @@
     "bali",
     "banda-sea",
     "barbados",
-    "south-australia-neptune-islands"
+    "south-australia-neptune-islands",
+    "belize",
+    "belize-barrier-reef",
+    "bermuda",
+    "bocas-del-toro",
+    "bonaire",
+    "british-columbia"
   ],
   "history": [
     {
@@ -333,6 +333,86 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/68",
       "errors": []
+    },
+    {
+      "date": "2026-05-19",
+      "slugs": [
+        "belize",
+        "belize-barrier-reef",
+        "bermuda",
+        "bocas-del-toro",
+        "bonaire",
+        "british-columbia"
+      ],
+      "summary": {
+        "sites_total": 281,
+        "sites_validated_today": 111,
+        "sites_re_audited": 118,
+        "hallucinations_removed": 31,
+        "marine_life_stripped": 69,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 20,
+        "by_destination": {
+          "belize-barrier-reef": {
+            "sites_total": 10,
+            "sites_validated_today": 7,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3
+          },
+          "belize": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0
+          },
+          "bermuda": {
+            "sites_total": 15,
+            "sites_validated_today": 15,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 15,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0
+          },
+          "bocas-del-toro": {
+            "sites_total": 13,
+            "sites_validated_today": 7,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4
+          },
+          "bonaire": {
+            "sites_total": 61,
+            "sites_validated_today": 51,
+            "sites_re_audited": 51,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 40,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 10
+          },
+          "british-columbia": {
+            "sites_total": 172,
+            "sites_validated_today": 21,
+            "sites_re_audited": 21,
+            "hallucinations_removed": 13,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/70",
+      "errors": [
+        "belize agent confused with belize-barrier-reef slug \u2014 both destinations processed, belize created as new destination"
+      ]
     }
   ]
 }
