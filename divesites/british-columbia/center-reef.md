@@ -23,7 +23,7 @@ Center Reef sits in the south Strait of Georgia east of Victoria, in the channel
 
 - **Location**: South Strait of Georgia, east of southern Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres

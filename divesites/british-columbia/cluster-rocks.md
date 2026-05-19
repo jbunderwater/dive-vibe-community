@@ -23,7 +23,7 @@ Cluster Rocks is a collection of rocky underwater outcrops in the Strait of Geor
 
 - **Location**: Strait of Georgia, Nanaimo area near Gabriola Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

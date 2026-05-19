@@ -23,7 +23,7 @@ Carpenter Rock lies in the northern Strait of Georgia in waters between Vancouve
 
 - **Location**: Northern Strait of Georgia, near Hornby Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

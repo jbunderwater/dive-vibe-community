@@ -23,7 +23,7 @@ Playa Frans sits at the far north of Bonaire's western coast, technically just o
 
 - **Location**: Far north Bonaire west coast, at the Washington-Slagbaai Park boundary
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–30 meters

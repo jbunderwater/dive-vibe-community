@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Playa Funchi
 
+*A Washington-Slagbaai National Park shore reef accessible only by 4WD — a freshwater spring in the bay is a distinctive feature. Note: currently listed as closed for diving on infobonaire.com (verify current status before visiting).*
+
 ## Overview
-Playa Funchi is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Playa Funchi is inside Washington-Slagbaai National Park on Bonaire's northwest coast, accessible by 4WD via the park road. A notable feature of the bay here is a freshwater spring that creates a halocline effect in the water column. The diving is pristine fringing reef in a protected national park setting. As of early 2026, infobonaire.com lists several Washington-Slagbaai park sites as currently closed for diving — **verify the current status of this site with STINAPA or the park entrance before visiting**.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Washington-Slagbaai National Park, northwest Bonaire (4WD + park entry required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: Variable — freshwater spring creates halocline
+- **Current**: Can be present; northwest-facing
+- **Best Time**: Calm-weather days only; verify site is open
 
 ## Marine Life
-Playa Funchi is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Protected park reef with typical northern Bonaire species. The freshwater mixing zone from the spring creates an unusual microhabitat at the halocline depth.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry from the bay beach. The freshwater spring creates a halocline effect that can temporarily reduce visibility in the water column. Swim below the halocline for clear saltwater diving on the reef.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+4WD access through the park. Sandy beach entry in the bay. Exit at the same point. Park closes at 17:00.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- **Check current site closure status before visiting**
+- The halocline from the freshwater spring is an interesting natural phenomenon — worth noting on descent
+- Park entry fee required
+
+## Safety
+
+Remote location. Plan conservatively. 4WD required for access.
 
 ## Photography
-Playa Funchi offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The halocline effect can create unusual refraction photographs. The reef below is in good condition for wildlife photography.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/playa-funchi
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Playa Benge, Bisé Morto, and Boka Slagbaai are other park sites nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Funchi](https://www.divers-guide.com/en/dive-spots/playa-funchi), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

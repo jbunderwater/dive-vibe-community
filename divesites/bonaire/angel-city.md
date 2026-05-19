@@ -6,56 +6,60 @@ difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
-ref: 
+ref: 44
 osmId: 663869415
 addedBy: jbunderwater_ai
 ---
 
 # Angel City
 
+*Named for its abundant angelfish population — a classic Bonaire double-reef dive with a sandy-channel structure from 4.5 to 18 metres, adjacent to the Hilma Hooker wreck site.*
+
 ## Overview
-Angel City is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Angel City (BNMP #44) sits on the south coast between the Hilma Hooker wreck and the Salt Pier, sharing the same double-reef system that makes this stretch of coastline particularly productive. The site is named for the large angelfish populations that characterise it. The dive offers the double-reef layout typical of southern Bonaire: an inner reef at 4.5–18 metres, a sandy channel, and an outer reef continuing deeper. The "sweet spot" is the 8–20 metre range where fish density is highest. The site has a mooring buoy 25 metres from shore, making it easy to locate and reducing the surface swim. It is suitable for most experience levels including recently-certified divers, and is a popular night dive site where tarpons, octopus, and hunting jacks are active.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
+
+- **Location**: South Bonaire, BNMP Site #44 — between Salt Pier and Hilma Hooker
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20 metres average
+- **Current**: Usually mild
+- **Best Time**: Morning and dusk; excellent for night diving
 
 ## Marine Life
-Angel City is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Angelfish are the defining species — queen angelfish, French angelfish, and grey angelfish are all seen in higher-than-average numbers. Trumpetfish, filefish, and scorpionfish are common. Garden eels inhabit the sandy channel. Turtles and moray eels are regular sightings. Eagle rays and barracuda pass through on the outer reef side. At night, octopus emerge, jacks hunt actively near the reef structure, and tarpon cruise the shallows.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Swim from shore to the mooring buoy at 25 metres and descend to the inner reef at 4.5 metres. Most divers explore the inner reef and sand channel in the 8–20 metre depth range, which holds the greatest variety of marine life. The outer reef descends deeper for those who want to extend the dive. A standard mooring buoy ascent for the safety stop works well given the close-to-shore position.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry across rocky shoreline — dive shoes or booties are useful. Follow the yellow mooring buoy line and the yellow painted stone marking the site entry. The swim from shore to the mooring is short. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- This is an excellent site for night diving: the short swim and calm conditions make it very manageable
+- Check the sand channel carefully for garden eels and eagle rays
+- Visit both early in the day and at dusk on the same trip for two quite different experiences
+- The proximity to Hilma Hooker makes combining both sites in a day straightforward
+
+## Safety
+
+The site is benign for most experience levels. The outer reef requires some depth awareness. Monitor buoyancy over the sandy channel to avoid stirring sediment. Light current is the norm; flag or SMB for the surface return.
 
 ## Photography
-Angel City offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The high angelfish density makes portrait-quality fish photography consistently rewarding. Trumpetfish and scorpionfish photograph well. Night photography of hunting jacks and octopus subjects is excellent given the calm conditions and accessible depth.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Hilma Hooker, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/angel-city
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Hilma Hooker lies approximately 200 metres south along the same reef. Salt Pier is north. Aquarius, Larry's Lair, and Punt Vierkant are in the same southern corridor.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Sunwise Bonaire – Angel City](https://sunwisebonaire.com/blog/bonaire-dive-sites-angel-city/), [Beyond the Corals Bonaire – Angel City](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-18.*

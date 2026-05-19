@@ -23,7 +23,7 @@ Atrevida Reef sits in the remote waters of Desolation Sound, one of British Colu
 
 - **Location**: Desolation Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters (33-65 feet)

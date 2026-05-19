@@ -23,7 +23,7 @@ Dorcas Rock lies in the Strait of Georgia offshore from Qualicum Beach on easter
 
 - **Location**: Strait of Georgia, Qualicum Beach area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

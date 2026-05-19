@@ -19,7 +19,7 @@ Boy Scout is a beautiful dive site located in central Bonaire near Bari Reef. Th
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
@@ -57,4 +57,4 @@ Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible alon
 - **Last Updated**: 2025-06-24
 
 ---
-*Description based on regional diving characteristics of the central west-coast fringing reef belt near Palu Lechi. No site-specific sources found — "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; it may be a local or informal name for a section of the adjacent house reefs. Last updated 2026-05-16.*
+*Description based on regional diving characteristics of the central west-coast fringing reef belt near Palu Lechi. No site-specific sources found — "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; it may be a local or informal name for a section of the adjacent house reefs. Last updated 2026-05-18.*

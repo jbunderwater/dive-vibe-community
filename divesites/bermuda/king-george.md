@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## King George
 
-A historic Bermuda wreck on the island's outer reef system offering well-encrusted structural remains in moderate depths.
+A 171-foot government dredger built in 1910, scuttled in 1930 after being replaced by more modern equipment, now resting upright and intact in 18 meters with ladders, catwalks, engines, and winches all accessible.
 
 ## Overview
 
-The King George is one of Bermuda's many historic shipwrecks positioned along the island's outer reef system, where navigational errors and Atlantic storms have deposited vessels across three centuries of maritime history. Resting in up to 18 meters of water, the wreck has been extensively colonized by hard and soft corals over the decades since sinking, transforming its structural remains into an artificial reef habitat of considerable ecological value. The site is visited by Bermuda dive operators as part of the island's extensive wreck diving portfolio, with the depth range making it accessible to Intermediate divers. The surrounding reef adds to the dive experience beyond the wreck itself.
+The King George was one of three purpose-built dredgers commissioned by the Bermuda Government to deepen harbour channels for visiting vessels. Built in 1910 at the Glasgow yard of Lobnitz and Co., she arrived in Bermuda on June 28, 1911. Her 30 dredging buckets initially deepened channels to 30 feet; she was later refitted to dredge an additional 4 feet. After the more modern Lord Cochrane replaced her in 1930, the King George was towed five miles from North Rock and scuttled — making her one of Bermuda's first purpose-sunk dive sites. Today the 171-foot dredger rests upright and largely intact in 18 meters (60 feet) of water, with ladders, catwalks, engines, winches, and forward holds all accessible to divers. Over the decades she has become colonized with purple tunicates, soft corals, and clouds of schooling fish.
 
 ## Site Information
 
-- **Location**: Outer reef system, Bermuda
+- **Location**: Approximately 5 miles from North Rock, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -33,11 +33,11 @@ The King George is one of Bermuda's many historic shipwrecks positioned along th
 
 ## Marine Life
 
-The King George's coral-encrusted structure hosts schools of grunts, snapper, and parrotfish that treat the wreck as a permanent reef habitat. Spiny lobster occupy crevices between the hull remains. The surrounding reef areas bring additional species: angelfish, trumpetfish, queen triggerfish, and hawksbill turtles are all regularly reported around outer reef wreck sites in this area of Bermuda. Moray eels are common in the more enclosed structural spaces.
+The King George's coral and tunicate-encrusted structure hosts schools of grunts, snapper, and parrotfish that treat the wreck as a permanent reef habitat. Spiny lobster occupy crevices between dredging buckets and structural elements. Seahorses have been reported among the encrusted machinery. Larger fish including grouper and barracuda patrol the exterior. Soft corals and purple tunicates blanket much of the hull.
 
 ## Dive Profile
 
-Explore the structural remains systematically, focusing on the best-preserved sections where coral growth is densest. The 18-meter maximum depth provides comfortable no-decompression time for Intermediate divers. Work from the deepest structural features upward, spending the latter portion of the dive in the shallower reef zones. Safety stop at 5 meters before surfacing.
+Descend to the main deck level and work systematically through the accessible interior spaces — the engine room, forward holds, and catwalks are all penetrable without special equipment. The dredging buckets and associated machinery provide unique photographic landmarks not found on other Bermuda wrecks. The 18-meter maximum depth provides comfortable no-decompression time for Intermediate divers. Work from the deepest structural features upward. Safety stop at 5 meters before surfacing.
 
 ## Entry and Exit
 
@@ -45,19 +45,19 @@ Boat dive from Bermuda operators. Giant stride or back roll entry. The offshore 
 
 ## Tips and Recommendations
 
-- Bermuda outer reef wrecks benefit from the clarity that comes with distance from the island's harbour
-- A torch illuminates the coral-encrusted structural spaces and reveals resident lobster
-- Combine with nearby outer reef wreck sites for a productive multi-dive day
-- Late afternoon dives see the best light angles for the outer reef area
-- Check current Bermuda government wreck protection designations before diving
+- The dredging buckets and mechanical infrastructure are unique among Bermuda wrecks — look for the chain conveyor system
+- A torch illuminates the interior spaces and reveals resident lobster and encrusting invertebrates
+- The purple tunicate colonization of the hull is a distinctive photographic subject
+- The upright orientation makes navigation inside this wreck intuitive
+- Combine with nearby wreck sites for a productive multi-dive day
 
 ## Safety Considerations
 
-Intermediate depth and offshore location are the primary considerations. Moderate currents can develop over the outer reef and wreck area — if current increases significantly during the dive, abort and ascend. Deploy SMB before surfacing as vessel traffic in the outer approaches to Bermuda can be significant.
+Intermediate depth and offshore location are the primary considerations. Moderate currents can develop — if current increases significantly during the dive, abort and ascend. Deploy SMB before surfacing as vessel traffic can be significant in the approach channels.
 
 ## Photography
 
-Coral-encrusted wreck structures provide rich photographic subjects. The combination of structural remains and natural reef fish creates layered compositions. Bermuda's characteristically clear water allows natural light photography at 18 meters, with minimal color filtration. A strobe or video light enhances the coral colors on the wreck surfaces.
+The King George's dredging machinery — buckets, chains, engines — provides industrial-scale photographic subjects not found on typical Bermuda wrecks. The purple tunicate colonization creates vivid color contrast against the steel hull. Wide-angle natural light photography captures the intact upright profile in Bermuda's clear water.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [DiveBuddy - King George Dredger](http://www.divebuddy.com/divesite/5050/king-george-dredger-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites). Last updated 2026-05-18.*

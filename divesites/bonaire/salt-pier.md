@@ -3,7 +3,7 @@ name: Salt Pier
 lat: 12.0835942
 lng: -68.2819519
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: 
@@ -13,52 +13,54 @@ addedBy: jbunderwater_ai
 
 # Salt Pier
 
-A unique industrial dive site featuring pier pilings and excellent macro life
+*Bonaire's most distinctive man-made dive site — the working salt export pier, whose massive concrete pilings are completely encrusted in colourful sponges and corals, sheltering an exceptional concentration of fish and macro subjects in just 5–15 metres.*
 
 ## Overview
-Salt Pier is one of Bonaire's most unique dive sites, located at the island's salt export facility near the airport. The site features the massive concrete pilings of the salt pier, which create an artificial reef environment teeming with marine life. The pilings are completely encrusted with coral, sponges, and other marine organisms, creating a fascinating underwater landscape. The site is particularly known for its excellent macro life and unique industrial setting. **Important Note**: Diving is not allowed when ships are at the pier, so check conditions before visiting.
+
+Salt Pier is unlike any other Bonaire dive. This is an active industrial facility — a working pier used to load salt from the southern salt pans onto cargo ships — and the dive happens beneath and around the concrete pilings that support it. Over decades, those pilings have become encrusted with colourful sponges, hard and soft corals, and encrusting organisms, creating a dense artificial reef in very shallow water. The site depth ranges from 5 to 15 metres, making it accessible to snorkellers and novice divers. Schools of barracuda, tarpons, and grunts congregate around the pilings; the encrusted surfaces harbour seahorses, octopus, blennies, gobies, and spotted eagle rays. The catch: **diving is strictly prohibited when a salt carrier is docked at the pier**. Check from the road before gearing up — if a ship is present, come back another day.
 
 ## Site Information
-- **Location**: Central Bonaire (near airport)
+
+- **Location**: South-central Bonaire, at the salt export pier near the southern salt flats
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15–25 metres
+- **Current**: Usually light; minimal
+- **Best Time**: Morning; always check for ships before gearing up
 
 ## Marine Life
-Salt Pier is renowned for its exceptional macro life. The pier pilings are home to countless small creatures including cleaner shrimp, arrow crabs, nudibranchs, and various species of blennies and gobies. Larger marine life includes schools of grunts, snappers, and barracuda that congregate around the pilings. The site is also frequented by sea turtles and eagle rays. The coral-encrusted pilings provide habitat for countless reef fish species.
+
+The encrusted pilings create a microhabitat for a remarkable range of creatures. Seahorses shelter in sponge growth on the pilings. Octopus hide in piling crevices, particularly at night. Blennies and gobies occupy every available niche in the encrusting organisms. Schools of grunts and snapper circle the piling bases. Large barracuda and tarpon cruise the open-water sections between pilings. Sea turtles and spotted eagle rays pass through regularly. At night the pilings come alive with moray eels actively hunting and lobster emerging from cover.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the pier pilings, which start at about 15 feet. The pilings extend down to depths of over 60 feet. Plan your dive to explore the pilings at different depths, with most of the macro life found between 20-40 feet. The site is excellent for both recreational and technical diving.
+
+Enter from the sandy beach on either the north or south side of the pier. The south-side entry is preferable when any wave action is present. Swim out to the first line of pilings and begin working your way beneath the pier structure. The maximum depth is around 15 metres directly beneath the outer pilings. Most marine life and colour is in the 5–12 metre range. Plan a slow, methodical survey of the piling surfaces rather than a distance swim. Night dives are particularly rewarding and the shallow depth makes air management easy.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. Swim out to the pier pilings, which are easily visible from the surface. Exit at the same location. **Important**: Check for ships at the pier before diving, as access is prohibited when ships are present.
 
-## Tips and Recommendations
-- **Always check for ships at the pier before diving**
-- This site is particularly popular with macro photographers
-- The pier pilings provide excellent shelter for small marine life
-- Look for the coral-encrusted pilings and the marine life they support
-- This site is excellent for both wide-angle and macro photography
+Two entry points: north side (closer to the road, sandy entry) and south side (sandy access, better in mild surge). Enter slowly, swim beneath the pier structure, and exit the same way you came in. Do not surface directly under the pier. The sharp edges of barnacle and coral encrustation on the pilings require good buoyancy; do not grab pilings. **Never dive when ships are docked.**
 
-## Safety Considerations
-**Never dive when ships are at the pier** - this is strictly prohibited and dangerous. The pier pilings can have sharp edges, so maintain proper buoyancy control. Be aware of boat traffic in the area. The site is located near an industrial facility, so respect all safety protocols.
+## Tips
+
+- **Check for ships at the pier before gearing up** — access is prohibited when a vessel is loading
+- Night dives here are among the best in Bonaire given the shallow depth and active marine life
+- Bring a torch even by day to illuminate the piling surfaces and reveal small creatures
+- The south-side entry is smoother when there is any chop
+- The STINAPA nature tag (annual fee) is required
+
+## Safety
+
+**Do not dive when ships are at the pier** — this is a safety and legal restriction. The piling edges are sharp; maintain good buoyancy and avoid contact. The enclosed pier structure limits surfacing options: always know your exit route. Otherwise the shallow, calm conditions make this one of Bonaire's easiest dives.
 
 ## Photography
-Salt Pier is a macro photographer's paradise. The pier pilings provide excellent subjects for macro photography, with countless small creatures to discover. The coral-encrusted pilings also provide dramatic wide-angle opportunities. Natural light is best during morning hours when the sun illuminates the pilings.
+
+Salt Pier is exceptional for macro photography on the colourful sponge-encrusted pilings. The structures also provide dramatic wide-angle compositions with school fish and available light filtering through the pier deck above. Strobes are essential to reveal the reds and oranges of the sponge growth. Night photography of hunting eels and seahorse portraits on the pilings rewards patient photographers.
 
 ## Nearby Sites
-Nearby sites include Hilma Hooker, Angel City, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Salt_Pier/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Important**: Check for ships before diving
-- **Macro Life**: Particularly popular with macro photographers
-- **Last Updated**: 2025-06-24
+Hilma Hooker is approximately 1.5 km south — a frequent day-trip pairing with Salt Pier. Angel City and Alice in Wonderland are along the same southern coast.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Sunwise Bonaire – Salt Pier](https://sunwisebonaire.com/blog/bonaire-dive-sites-salt-pier/), [Beyond the Corals Bonaire – Salt Pier](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-18.*

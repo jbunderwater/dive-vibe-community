@@ -23,7 +23,7 @@ Coghlan Rock lies in the waters south of Victoria near Race Rocks, one of the st
 
 - **Location**: Strait of Juan de Fuca, south of Victoria near Race Rocks, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

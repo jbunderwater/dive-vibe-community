@@ -23,7 +23,7 @@ Ripple Shoal is a reef in the Discovery Islands area north of Campbell River, po
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

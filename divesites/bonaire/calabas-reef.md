@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Calabas Reef
 
+*The house reef of Divi Flamingo Beach Resort on Bonaire's central west coast — an accessible fringing reef with easy beach entry and a slope running to 35 metres.*
+
 ## Overview
-Calabas Reef is a beautiful dive site located in central Bonaire near Oil Slick Leap. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Calabas Reef is the house reef of Divi Flamingo Beach Resort, one of Bonaire's established dive resort hotels on the central west coast. The site is used heavily as a training dive, warm-up dive, and night dive by resort guests. The fringing reef here is typical of central Bonaire: a gradual slope starting in shallow water and running to around 35 metres, with healthy coral formations and steady fish life. The beach entry is easy and comfortable, making this one of the more accessible sites in the central corridor.
 
 ## Site Information
-- **Location**: Central Bonaire (near Oil Slick Leap)
+
+- **Location**: Central Bonaire, Divi Flamingo Beach Resort house reef
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: All day
 
 ## Marine Life
-Calabas Reef is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Central Bonaire reef community: parrotfish, angelfish, grunts, snapper, and groupers on the reef slope. Turtles are seen along this stretch of coast. The resort proximity means the reef is dived regularly and the fish are relatively accustomed to divers.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Beach entry from the resort and swim to the reef. Gradual slope from shallow to 35 metres. Most of the interesting life is in the 8–25 metre range.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Easy beach entry from Divi Flamingo resort. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Night dives are excellent given the easy beach entry and proximity to the resort
+- Good training site for recent graduates working on buoyancy
+- The shallow inner reef is ideal for snorkelling
+
+## Safety
+
+Easy beginner conditions. The 35m slope is deeper than it looks — monitor depth on the outer section.
 
 ## Photography
-Calabas Reef offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Standard Bonaire reef photography. The inner reef in good morning light is particularly photogenic.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, Bari Reef, and Buddy's Reef. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/calabas-reef
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+18th Palm is just north. Windsock and Bachelor's Beach are in the same central corridor. Chachacha Beach is nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Calabas Reef](https://www.divers-guide.com/en/dive-spots/calabas-reef), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

@@ -13,51 +13,50 @@ addedBy: jbunderwater_ai
 
 # Salt City
 
-A unique dive site on Bonaire's southwestern coast, featuring interesting coral formations and diverse marine life
+*A southern Bonaire fringing reef near the salt flats — between Invisibles and Jeannie's Glory, with intermediate depth and the healthy reef typical of the southern dive belt.*
 
 ## Overview
-Salt City is a distinctive dive site located on Bonaire's southwestern coast, known for its unique underwater topography and healthy coral formations. The site features a gradual slope that leads to a vibrant reef system with interesting coral formations and abundant marine life. The reef is particularly characterized by its mix of hard and soft corals, creating a diverse underwater landscape. The site offers good visibility and is suitable for divers of various experience levels, though intermediate skills are recommended due to the depth and potential currents.
+
+Salt City is a southern Bonaire shore site on the west coast near the salt production facilities that give much of this coastline its character. The site offers intermediate-depth fringing reef diving between the Invisibles to the north and Jeannie's Glory to the south, with the healthy coral cover and steady fish diversity that characterises this stretch of the Bonaire National Marine Park.
 
 ## Site Information
-- **Location**: Southwest Bonaire (near Kralendijk)
+
+- **Location**: Southern Bonaire, west coast near the salt flats
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
+- **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Salt City supports a diverse ecosystem with numerous fish species and marine invertebrates. Expect to see large schools of blue tangs, parrotfish, and grunts swimming among the coral formations. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+Parrotfish, angelfish, grunts, snapper, and groupers. Turtles seen along the coast. Moray eels in reef crevices.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef. The site features a gradual slope that starts at about 10 feet and descends to depths of 100 feet. Most of the interesting marine life and coral formations are found between 30-60 feet. Plan your dive to explore the reef at different depths, taking time to observe the coral formations and marine life. The site is suitable for recreational diving with appropriate bottom time based on your certification level.
+
+Shore entry and gradual reef slope to 25 metres. Most activity in the 8–20 metre range.
 
 ## Entry and Exit
-Access Salt City via a marked entry point along the southwestern coast. The entry area features a sandy bottom that gradually transitions to the reef. Enter the water from the shore and swim out to the reef system. Exit at the same location, being mindful of the coral formations when approaching the shore. The entry and exit are generally straightforward, though conditions can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- Check local conditions before diving, as currents can vary
-- The best diving is along the reef slope, not in the sandy areas
-- Look for the unique coral formations and sea fans
-- This site is excellent for both wide-angle and macro photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to protect the coral formations
+Shore entry from roadside. Exit at the same point.
 
-## Safety Considerations
-Always dive within your certification limits and experience level. Be aware of potential currents, especially during certain tide conditions. Maintain proper buoyancy control to protect the coral formations and avoid contact with marine life. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Good addition to a southern day touring Invisibles, Jeannie's Glory, and Alice in Wonderland
+
+## Safety
+
+Intermediate depth. Light to moderate current possible. Standard precautions.
 
 ## Photography
-Salt City offers excellent photography opportunities with its diverse coral formations and abundant marine life. The clear water and good visibility make it ideal for wide-angle shots of the reef and fish schools. The coral formations provide great subjects for macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Standard southern Bonaire reef photography.
 
 ## Nearby Sites
-Nearby sites include Tori's Reef, Pink Beach, and other southwestern Bonaire dive sites. All are accessible along the southwestern coast of the island.
 
-## Additional Resources
-- **Website**: https://www.zentacle.com/Beach/1301/salt-city
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Invisibles is to the north. Jeannie's Glory is to the south. The Rock is also nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [PADI – Bonaire Sites](https://www.padi.com/dive-site/bonaire/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-18.*

@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Ermlund
 
-Ermlund is a historic wreck dive in Belize Barrier Reef, Caribbean.
+Ermlund is a Norwegian freighter wreck resting approximately 1,000 yards north of Half Moon Caye at Lighthouse Reef Atoll, one of the few above-water visible wrecks in Belize.
 
 ## Overview
 
-The Ermlund is a 4,000-ton Norwegian freighter that lost power during a storm in 1971 and was deposited on the reef by surge, coming to rest approximately 1,000 yards north of Half Moon Caye at Lighthouse Reef Atoll — the wreck's superstructure once looming visibly above the waterline, though it has since settled lower into the reef. The hull has been thoroughly colonized by Caribbean reef life, with groupers, snapper, soldierfish, and sponge encrustation transforming the steel into a living reef, surrounded by the exceptional 20-40 meter visibility that characterizes Lighthouse Reef, Belize's most remote atoll. Divers visiting Half Moon Caye often pair an Ermlund dive with the famous Half Moon Wall just a short distance away, combining wreck and wall diving in one day at one of the Western Hemisphere's most pristine reefs.
+The Ermlund lost power during a storm in 1971 and was driven onto the reef by surge, coming to rest approximately 1,000 yards north of Half Moon Caye at Lighthouse Reef Atoll. Regional dive guides describe the vessel as a Norwegian freighter of approximately 4,000 gross tons and 350–400 feet in length; independent ship records confirming these specific figures have not been located, so treat them as approximate. The wreck was once visible above the waterline and has since settled deeper into the reef structure over more than five decades. The hull has been colonized by Caribbean reef life, with groupers, snappers, soldierfish, and sponge encrustation transforming the steel hull into living reef. Divers visiting Half Moon Caye often pair the Ermlund with the nearby Half Moon Wall, combining wreck and wall diving at this remote atoll in a single day.
+
+Penetration diving into any wreck carries risk; interior exploration should only be undertaken by properly trained and equipped divers with appropriate certification.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Lighthouse Reef Atoll, Belize (north of Half Moon Caye)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [Belize.com - Shipwrecks](https://belize.com/ancient-treasure/), [7 News Belize - Hulking Wreck Stuck on Lighthouse Reef](https://www.7newsbelize.com/sstory.php?nid=25580), [AmbergrisCaye.com - Lighthouse Reef Diving](https://ambergriscaye.com/pages/town/divelighthouse.html). Last updated 2026-05-18.*

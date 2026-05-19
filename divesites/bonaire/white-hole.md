@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # White Hole
 
+*An east-coast Bonaire site near Sorobon — Advanced despite shallow depth due to exposed Atlantic conditions and tidal current. Access via gravel road.*
+
 ## Overview
-White Hole is a beautiful dive site located in southern Bonaire near Willemstoren Lighthouse. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+White Hole is on Bonaire's Atlantic-facing east coast, near the Sorobon windsurfing area south of Lac Bay. The site is shallow — only 15 metres — but carries an Advanced difficulty rating because the east coast is open to Atlantic swell, tidal current, and unpredictable conditions that make it fundamentally different from the calm leeward western sites. Like Cai to the north, White Hole should only be dived in calm weather windows and ideally with guidance from a local operator familiar with east-coast conditions.
 
 ## Site Information
-- **Location**: South Bonaire (near Willemstoren Lighthouse)
+
+- **Location**: East coast Bonaire, near Sorobon
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: Variable — depends on east-coast conditions
+- **Current**: Can be strong; tidal flow from Lac Bay proximity
+- **Best Time**: Calm-weather windows; avoid after strong east winds
 
 ## Marine Life
-White Hole is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+East coast reef with Atlantic-influenced species mix. Turtles are seen. The sheltered reef structure supports parrotfish and typical Caribbean reef species.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry. The reef is shallow and relatively compact. The challenge is not the depth but the conditions: assess surface current and swell carefully before committing.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Access via the gravel road to Sorobon. Shore entry over sand and rocky bottom. An SMB is advisable given the potential for surface drift.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Only dive in calm weather — east-coast conditions can change quickly
+- A local operator's guidance on conditions is valuable for this site
+- Combine with Cai (further north) for an east-coast day trip
+
+## Safety
+
+Advanced rating despite 15m depth is real: Atlantic swell, tidal current, and limited nearby exit options make this site hazardous in poor conditions. Carry an SMB. Never dive solo on the east coast.
 
 ## Photography
-White Hole offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Unique east-coast reef environment. If conditions are good, the clear water and different species mix make for interesting photography distinct from the standard west-coast sites.
 
 ## Nearby Sites
-Nearby sites include Willemstoren Lighthouse, Sweet Dreams, and Vista Blue. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/white-hole
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Cai is the other main east-coast dive site, to the north at the mouth of Lac Bay. Western sites are across the island.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – White Hole](https://www.divers-guide.com/en/white-hole), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

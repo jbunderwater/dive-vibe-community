@@ -5,7 +5,7 @@ lng: -124.9488236
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: kelp
+siteType: wreck
 ref: null
 osmId: 1304387925
 addedBy: osm_import
@@ -23,7 +23,7 @@ The Forest Friend was a five-masted barquentine built in Washington State in 191
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Kelp
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 

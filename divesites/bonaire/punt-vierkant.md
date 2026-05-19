@@ -13,51 +13,51 @@ addedBy: jbunderwater_ai
 
 # Punt Vierkant
 
-A scenic reef dive site on Bonaire's western coast, featuring healthy coral formations and diverse marine life
+*A southern Bonaire reef site near the Hilma Hooker — "Square Point" in Dutch, marking a slight geographic protrusion on the west coast near Angel City.*
 
 ## Overview
-Punt Vierkant is a beautiful dive site located on Bonaire's western coast, known for its healthy coral formations and excellent marine life viewing opportunities. The site features a gradual slope that leads to a vibrant reef system with a mix of hard and soft corals. The reef is particularly characterized by its abundance of sea fans, soft corals, and colorful reef fish. The site offers good visibility and is suitable for divers of various experience levels, though intermediate skills are recommended due to the depth and potential currents.
+
+Punt Vierkant ("Square Point" in Dutch) is a southern Bonaire shore site sitting between the Salt Pier area to the south and Angel City/Hilma Hooker to the north. The name refers to the slight geographic feature at this point on the coastline. The site offers a typical southern Bonaire reef profile with the gradual slope and healthy coral that characterises this stretch of coast. It is frequently used as an alternative or additional dive when visiting the Hilma Hooker area.
 
 ## Site Information
-- **Location**: Western Bonaire (north of Kralendijk)
+
+- **Location**: Southern Bonaire, between Aquarius and Angel City
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
+- **Typical Visibility**: 15–25 metres
 - **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Punt Vierkant supports a rich diversity of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming among the coral formations. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+Southern Bonaire reef species: parrotfish, angelfish, grunts, snapper, turtles, and groupers. The southern coast reef has good diversity consistent with the overall protected reef system.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef. The site features a gradual slope that starts at about 10 feet and descends to depths of 100 feet. Most of the interesting marine life and coral formations are found between 30-60 feet. Plan your dive to explore the reef at different depths, taking time to observe the coral formations and marine life. The site is suitable for recreational diving with appropriate bottom time based on your certification level.
+
+Shore entry and gradual reef slope. The productive zone is 8–20 metres. Sandy bottom at 25 metres.
 
 ## Entry and Exit
-Access Punt Vierkant via a marked entry point along the western coast. The entry area features a sandy bottom that gradually transitions to the reef. Enter the water from the shore and swim out to the reef system. Exit at the same location, being mindful of the coral formations when approaching the shore. The entry and exit are generally straightforward, though conditions can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- Check local conditions before diving, as currents can vary
-- The best diving is along the reef slope, not in the sandy areas
-- Look for the large sea fans and soft coral formations
-- This site is excellent for both wide-angle and macro photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to protect the coral formations
+Shore entry over ironshore/rocky beach. Exit at the same point.
 
-## Safety Considerations
-Always dive within your certification limits and experience level. Be aware of potential currents, especially during certain tide conditions. Maintain proper buoyancy control to protect the coral formations and avoid contact with marine life. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Convenient as an additional dive when visiting Hilma Hooker — the sites are close
+- Good visibility site on the southern coast
+
+## Safety
+
+Intermediate rating due to depth and mild current potential. Standard precautions.
 
 ## Photography
-Punt Vierkant offers excellent photography opportunities with its healthy coral formations and abundant marine life. The clear water and good visibility make it ideal for wide-angle shots of the reef and fish schools. The sea fans and soft corals provide great subjects for macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Good southern coast reef photography. The proximity to the Hilma Hooker area means the reef is regularly dived and fish are accustomed to divers.
 
 ## Nearby Sites
-Nearby sites include other western Bonaire dive sites such as those along the western coast. All are accessible along the western coast of the island.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/punt-vierkant
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Angel City and Hilma Hooker are to the north. Aquarius and Larry's Lair are nearby. Salt Pier is to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Punt Vierkant](https://www.divers-guide.com/en/dive-spots/punt-vierkant), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

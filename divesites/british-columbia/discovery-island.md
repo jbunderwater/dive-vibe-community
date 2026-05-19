@@ -57,8 +57,5 @@ Haro Strait currents affect the exposed sides of Discovery Island significantly.
 
 Muck diving is a macro photographer's delight. Pacific spiny lumpsuckers make uniquely BC photographs — these small, clumsy fish are highly photogenic. Decorator crabs covered in camouflage materials make striking macro images. Pipefish in eelgrass, gunnels in kelp, and nudibranchs on sponges all reward careful searching and macro technique.
 
-- Discovery Island Provincial Marine Park information: bcparks.ca
-- Oak Bay area dive operators for kayak dive support
-
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC — Victoria Diving](https://www.scubabc.ca/dive-sites/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html), [Just Gotta Dive — Victoria Shore Dives](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria). Last updated 2026-05-18.*

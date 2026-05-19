@@ -23,7 +23,7 @@ Western Rock is a rocky reef dive site in the Strait of Georgia off the Sunshine
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

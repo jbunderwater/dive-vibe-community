@@ -23,7 +23,7 @@ Kellett Rock is located near Port San Juan (Port Renfrew) at the western end of 
 
 - **Location**: Near Port Renfrew, western Strait of Juan de Fuca, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres

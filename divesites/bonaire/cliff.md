@@ -1,61 +1,64 @@
 ---
 name: Cliff
-lat: 12.1733517
-lng: -68.2894267
+lat: 12.1743645
+lng: -68.2901782
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: wall
-ref: 
+ref: 26
 osmId: 663869433
 addedBy: jbunderwater_ai
 ---
 
 # Cliff
 
+*A steep wall drop-off on Bonaire's central west coast (BNMP #26) — a straightforward shore-entry wall dive with a dramatic underwater cliff face, healthy coral cover, and good fish diversity in an uncrowded setting.*
+
 ## Overview
-Cliff is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Cliff (BNMP #26) is a wall dive on the central west coast, a short drive north of Kralendijk between Buddy's Reef and Andrea II. The underwater topography gives the site its name: a steep drop-off that descends from a shallow terrace into the blue, with the wall face covered in hard and soft corals. The site is less heavily visited than the famous southern sites, giving it a quieter atmosphere. Fish diversity is typical of central Bonaire's healthy fringing reef system.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
+
+- **Location**: Central-north Bonaire, BNMP Site #26
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Cliff is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The wall face is colonised with brain corals, soft corals, and encrusting sponges providing habitat for parrotfish, angelfish, grunts, and snappers. Barracuda patrol the open water along the wall edge. Groupers hold territory in the reef crevices. Turtles are seen along the central west coast reefs. The shallow terrace has good fish density including sergeant majors and chromis schools.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry over ironshore or rocky beach. Swim out to the reef edge and descend along the wall face. The drop-off begins fairly quickly from shore. Most divers work the wall in the 10–25 metre range and return to the shallow terrace for the safety stop. The wall extends deeper for those qualified and equipped to go there.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry via the standard western-coast ironshore entry. Wetsuit or dive skin is recommended for the rocky shore. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- The less-visited location means this site is often quieter than sites closer to town
+- Bring a light for the deeper sections of the wall to bring out sponge colours
+- Check the shallow terrace on the way back for macro subjects
+
+## Safety
+
+Standard wall-dive precautions: monitor depth to avoid unintended descent, track gas for the return swim, carry an SMB.
 
 ## Photography
-Cliff offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The wall face offers wide-angle opportunities with coral formations and schooling fish. Macro subjects on the encrusted surfaces reward close-up work.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Oil Slick Leap. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/cliff
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Buddy's Reef and La Machaca are immediately to the south. Andrea II is to the north. Bari Reef (Sand Dollar Resort) is nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Cliff](https://www.divers-guide.com/en/cliff). Last updated 2026-05-18.*

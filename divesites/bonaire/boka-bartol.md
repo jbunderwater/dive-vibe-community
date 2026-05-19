@@ -23,7 +23,7 @@ Boka Bartol is the northernmost dive site on Bonaire (BNMP #1), at the far end o
 
 - **Location**: Northernmost Bonaire, inside Washington-Slagbaai National Park (4WD + Nature Tag required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters

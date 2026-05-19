@@ -23,7 +23,7 @@ Bakers Reef lies in Boundary Pass, the international waterway between the southe
 
 - **Location**: Boundary Pass, southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet)

@@ -11,10 +11,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "DiveBuddy, Bermuda 100 Project, Scuba Diver Life"
+    "validation_source": "environment.bm,scubadiverlife.com,divemagazine.com,divebermuda.com,bermuda-attractions.com"
   },
   {
     "name": "Constellation",
@@ -28,10 +29,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "Department of Environment and Natural Resources, DiveBuddy, Scuba Diver Life"
+    "validation_source": "scubadiverlife.com,divemagazine.com,bermudascubasomerset.com,divebermuda.com,bermuda-attractions.com"
   },
   {
     "name": "Cristobal Colon",
@@ -45,10 +47,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, DiveBuddy, Bermuda 100 Project, DeeperBlue"
+    "validation_source": "environment.bm,divemagazine.com,bermuda-attractions.com,bermudascubagrottobay.com,divebermuda.com"
   },
   {
     "name": "Hermes",
@@ -62,10 +65,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Sport Diver, Go To Bermuda, Bermuda 100 Project"
+    "validation_source": "bermuda100.ucsd.edu,bermuda-attractions.com,divemagazine.com,bermudascubasomerset.com,divebermuda.com"
   },
   {
     "name": "King George",
@@ -79,10 +83,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "DiveBuddy, Go To Bermuda, The Bermudian Magazine"
+    "validation_source": "bermudascubagrottobay.com,divemagazine.com,divebuddy.com,divebermuda.com,bermudascubasomerset.com"
   },
   {
     "name": "Taunton",
@@ -96,10 +101,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "Go To Bermuda, DiveMagazine"
+    "validation_source": "bermudascubagrottobay.com,bermudascubasomerset.com,divebermuda.com,bermuda-attractions.com,divemagazine.com"
   },
   {
     "name": "North Carolina",
@@ -113,10 +119,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "DiveBuddy, Bermuda 100 Project, Scuba Diving Magazine"
+    "validation_source": "bermuda100.ucsd.edu,divemagazine.com,bermuda-attractions.com,divebermuda.com,cambridge.org"
   },
   {
     "name": "Pelinaion",
@@ -130,10 +137,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "Department of Environment and Natural Resources, PADI, Bermuda 100 Project"
+    "validation_source": "environment.bm,bermudascubagrottobay.com,bermuda-attractions.com,divemagazine.com,divebermuda.com"
   },
   {
     "name": "Darlington",
@@ -147,10 +155,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "Department of Environment and Natural Resources, DiveMagazine"
+    "validation_source": "bermuda100.ucsd.edu,environment.bm,bermudascubasomerset.com,divemagazine.com,divebermuda.com"
   },
   {
     "name": "Mary Celestia",
@@ -164,10 +173,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Department of Environment and Natural Resources, Scuba Diver Life"
+    "validation_source": "environment.bm,bermuda100.ucsd.edu,bermudascubasomerset.com,scubadiverlife.com,divebermuda.com"
   },
   {
     "name": "Minnie Breslauer",
@@ -175,16 +185,17 @@
     "lon": -64.8086,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Bermuda Attractions, Shipwreck Expo"
+    "validation_source": "environment.bm,bermuda-attractions.com,bermudascubasomerset.com,divemagazine.com,divebermuda.com"
   },
   {
     "name": "Lartington",
@@ -198,10 +209,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Bermuda 100 Project, DiveBuddy"
+    "validation_source": "bermuda-attractions.com,bermudascubasomerset.com,divebermuda.com,bermuda100.ucsd.edu,divemagazine.com"
   },
   {
     "name": "Southwest Breaker",
@@ -215,10 +227,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Bermuda 100 Project, Bermuda Attractions"
+    "validation_source": "bermuda-attractions.com,scubadiverlife.com,divebermuda.com,bermudascubasomerset.com,gotobermuda.com"
   },
   {
     "name": "Cathedral Bermuda",
@@ -226,16 +239,17 @@
     "lon": -64.6594,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 17,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "PADI, Bermuda 100 Project, Go To Bermuda"
+    "validation_source": "bermudascubagrottobay.com,bermuda-attractions.com,divebermuda.com,padi.com,gotobermuda.com"
   },
   {
     "name": "Tarpon Hole",
@@ -249,9 +263,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-18"
     },
     "validated": true,
-    "validation_source": "Bermuda 100 Project, Go To Bermuda"
+    "validation_source": "bermuda100.ucsd.edu,bermudascubasomerset.com,scubadiverlife.com,gotobermuda.com,bermuda-attractions.com"
   }
 ]

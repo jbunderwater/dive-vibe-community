@@ -2,10 +2,10 @@
 name: Gallows Point Reef
 lat: 17.3968824
 lng: -88.0374381
-difficulty: Beginner
-maxDepth: 12
-entryType: shore
-siteType: reef
+difficulty: Intermediate
+maxDepth: 33
+entryType: boat
+siteType: wall
 ref: null
 osmId: 9993288817
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Gallows Point Reef
 
-Gallows Point Reef is a reef dive site in Belize Barrier Reef, Caribbean.
+Gallows Point Reef is a wall dive site off St. George's Caye, 10 miles east of Belize City, recognized as critical habitat for the critically endangered hawksbill sea turtle.
 
 ## Overview
 
-Gallows Point Reef is a five-mile section of the barrier reef located off St. George's Caye near Belize City, notable for its wall formations rather than the coral canyons found further north. The dive begins over sandy flats at around 10 meters before reaching canyons formed by star, brain, and plate coral that lead to a wall dropping from about 10 meters down to a sandy slope at 33 meters. The wall is covered in gorgonian sea fans and soft corals, while the sand below hosts garden eels, jawfish, and tube worms. This site is recognized as important habitat for the critically endangered hawksbill sea turtle, with frequent sightings alongside spotted eagle rays, snappers, groupers, angelfish, and trumpetfish.
+Gallows Point Reef is a five-mile section of the Belize Barrier Reef off St. George's Caye, notable for its wall formations rather than the coral canyons typical of the northern cayes. Divers start over sandy flats at roughly 10 meters, traverse canyons formed by star, brain, and plate coral, and reach the wall edge at around 10 meters — the wall drops to a sandy slope at approximately 33 meters. The wall face is draped in gorgonian sea fans and soft corals, while the sandy bottom below holds garden eels, jawfish, and tube worms. ECOMAR (Environmental Conservation Organization and Marine Education and Research) has monitored this site since 2009 specifically for hawksbill sea turtle activity, identifying it as the most abundant turtle habitat within this section of the reef.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Location**: Off St. George's Caye, near Belize City, Belize
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 33 meters
 
 ## Marine Life
 
-Critically endangered hawksbill sea turtles are frequently sighted here and are a key reason the site is recognized as important protected habitat. Spotted eagle rays, snappers, groupers, angelfish, and trumpetfish populate the gorgonian-draped wall and canyons, while garden eels sway from the sandy slope below and jawfish tend their burrows in the softer substrate.
+The critically endangered hawksbill sea turtle is the most abundant species recorded at this site, making it a recognized developmental habitat. Spotted eagle rays, snappers, groupers, angelfish, and trumpetfish are commonly sighted along the gorgonian-draped wall, while garden eels sway from the sandy slope below and jawfish tend their burrows in the substrate.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [ECOMAR - Gallow's Point](https://www.ecomarbelize.org/gallows-point.html), [PADI - Gallows Point Reef](https://www.padi.com/dive-sites/belize/gallows-point-reef/), [St. George's Caye Resort - Scuba Diving](https://belizeislandparadise.com/activities/scuba-diving). Last updated 2026-05-18.*

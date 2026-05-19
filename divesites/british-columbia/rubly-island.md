@@ -23,7 +23,7 @@ Situated in the Gulf Islands between Vancouver Island and the BC mainland, Rubly
 
 - **Location**: Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres

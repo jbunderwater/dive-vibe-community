@@ -23,7 +23,7 @@ Celia Reefs is a complex of submerged reef structures in the central Gulf Island
 
 - **Location**: Gulf Islands, central Strait of Georgia / Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

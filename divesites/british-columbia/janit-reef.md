@@ -23,7 +23,7 @@ Janit Reef lies in Barkley Sound on the west coast of Vancouver Island, one of B
 
 - **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Mary Celestia
 
-A fast Confederate blockade runner sunk at 13 knots in 1864, uniquely preserving one intact paddle wheel and a cargo of Civil War-era artifacts in Bermuda's southern reef.
+A fast Confederate blockade runner sunk at 13 knots on September 6, 1864, uniquely preserving one intact paddle wheel standing upright on Bermuda's southern reef.
 
 ## Overview
 
-The Mary Celestia was an iron-hulled, sidewheel-powered paddle steamer built for speed — capable of 17 knots — that served as a Confederate blockade runner during the American Civil War, carrying guns, ammunition, and supplies to Confederate ports under various aliases including "Mary Celeste" and "Bijou." On September 6, 1864, she struck a blind boiler rock on Bermuda's South Shore at 13 knots on a flat calm day and sank almost immediately. Speculation about sabotage has never been resolved. The wreck rests at 17 meters in a sand patch surrounded by reef, and is the only paddle wreck in Bermuda that retains one of its paddle wheels intact. In 2011 a storm removed significant sand from the bow section, and marine archaeologists uncovered sealed bottles of French wine and perfume — one bottle was opened and sampled at the Charleston Wine & Food Festival.
+The Mary Celestia was a 221-foot (67.5 m) iron-hulled side-paddlewheel steamer built in 1861 at the Liverpool shipyard of William C. Miller & Sons, registered at 207 tons. Built for speed — capable of 17 knots — she served as a Confederate blockade runner, carrying guns, ammunition, food, and supplies through the Union blockade to Confederate ports. To evade monitoring, she operated under various aliases including Marie Celeste and Bijou. On September 6, 1864, she struck a blind boiler rock on Bermuda's South Shore near Gibbs Hill Lighthouse at 13 knots on a flat calm day and sank almost immediately. Questions about possible sabotage have never been definitively resolved. The wreck rests at approximately 17 meters (55 feet) in a sand patch surrounded by reef, approximately 600 yards off the south coast. One paddlewheel frame stands upright like a miniature Ferris wheel — the only paddle wreck in Bermuda retaining an intact paddlewheel. In 2011, storms exposed the bow section and archaeologists discovered sealed bottles of French wine and perfume from the cargo.
 
 ## Site Information
 
-- **Location**: South Shore reef, near Gibbs Hill Lighthouse, Bermuda
+- **Location**: South Shore reef, near Gibbs Hill Lighthouse, approximately 600 yards offshore
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -33,23 +33,23 @@ The Mary Celestia was an iron-hulled, sidewheel-powered paddle steamer built for
 
 ## Marine Life
 
-The Mary Celestia's sand patch setting surrounded by reef creates an excellent mixed habitat. Parrotfish, angelfish, and grunt populate the surrounding reef. The wreck structure itself supports resident moray eels and spiny lobster. Sea turtles are regularly sighted in this area of Bermuda's South Shore. The well-preserved paddle wheel provides a unique hard structure that attracts encrusting corals and sheltering fish.
+The Mary Celestia's sand patch setting surrounded by reef creates an excellent mixed habitat. Parrotfish, angelfish, and grunt populate the surrounding reef. The wreck structure itself supports resident moray eels and spiny lobster. The well-preserved paddlewheel frame provides a unique hard structure that attracts encrusting corals and sheltering fish.
 
 ## Dive Profile
 
-Descend to the sandy bottom around the wreck and orient using the prominent intact paddle wheel. Work along the wreck structure taking in the hull iron, engine components, and preserved cargo areas in the bow. The 17-meter depth is comfortable for Intermediate divers. A natural safety stop over the surrounding reef in 5 meters adds time to observe the reef fish community.
+Descend to the sandy bottom around the wreck and orient using the prominent intact paddlewheel frame standing upright. Work along the wreck structure taking in the hull iron, engine components, boilers, anchor, and the archaeologically significant bow section. The 17-meter depth is comfortable for Intermediate divers. A natural safety stop over the surrounding reef in 5 meters adds time to observe the reef fish community.
 
 ## Entry and Exit
 
-Boat dive from South Shore operators. The wreck is a protected historic site under Bermuda law. Giant stride or back roll entry. The location near the South Shore may experience afternoon swell — morning dives are typically calmer.
+Boat dive from South Shore operators. The wreck is a protected historic site under Bermuda law, buoyed under the Bermuda Dive Sites programme with a 300-meter no-fishing zone. The location near the South Shore may experience afternoon swell — morning dives are typically calmer.
 
 ## Tips and Recommendations
 
-- The intact paddle wheel is the defining feature of this wreck — spend significant time examining it
-- The bow section where archaeological discoveries were made in 2011 is historically significant
-- Photographs of wine bottle discoveries and excavation details are available online for context before your dive
+- The intact paddlewheel frame standing upright is the defining feature of this wreck — spend significant time examining it
+- The bow section, partially excavated in 2011, is historically significant — high-grade smokeless coal and artifacts remain visible
 - South Shore can develop significant swell — check marine forecasts and choose morning dive times
 - This is a protected wreck — no artifacts may be removed or disturbed
+- Deposits of high-grade smokeless coal on the seafloor around the bow are a distinctive feature
 
 ## Safety Considerations
 
@@ -57,7 +57,7 @@ This is a protected heritage site under Bermuda law. Handling, removing, or dist
 
 ## Photography
 
-The Mary Celestia is one of Bermuda's most historically compelling photography subjects. The intact paddle wheel is a unique and immediately recognizable element. The iron hull structure against the white sand bottom photographs beautifully in Bermuda's clear water. A video light or single strobe enhances the detail of artifact-bearing areas near the bow without disturbing the archaeological context.
+The Mary Celestia is one of Bermuda's most historically compelling photography subjects. The intact paddlewheel frame standing upright is a unique and immediately recognizable element. The iron hull structure against the white sand bottom photographs beautifully in Bermuda's clear water.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Department of Environment and Natural Resources - Mary Celestia](https://environment.bm/mary-celestia), [Bermuda 100 Project - Mary Celestia](https://bermuda100.ucsd.edu/mary-celestia/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*

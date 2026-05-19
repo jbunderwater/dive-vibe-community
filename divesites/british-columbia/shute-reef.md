@@ -23,7 +23,7 @@ Shute Reef sits in the channel systems of the central Gulf Islands near Saltspri
 
 - **Location**: Central Gulf Islands, Saltspring Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres

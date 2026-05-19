@@ -13,49 +13,50 @@ addedBy: jbunderwater_ai
 
 # Jeff Davis Memorial
 
+*A northern Bonaire shore reef named in memory of a diver — a good condition fringing reef with a gradual slope, easy entry, and less traffic than the more famous central sites.*
+
 ## Overview
-Jeff Davis Memorial is a beautiful dive site located in northern Bonaire near Weber's Joy. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Jeff Davis Memorial is a northern Bonaire shore site located near Weber's Joy and Boka di Tolo on the upper west coast. The site is named in memory of a diver. Like its northern neighbours, it offers a healthy fringing reef with a gradual slope and calm conditions, visited by divers doing a northern coast touring day. The site sees considerably less traffic than the central and southern dive belt, making it a pleasant choice for those seeking a quieter Bonaire dive.
 
 ## Site Information
-- **Location**: North Bonaire (near Weber's Joy)
+
+- **Location**: North Bonaire, near Weber's Joy and the national park approach
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Jeff Davis Memorial is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Northern Bonaire reef species: parrotfish, angelfish, grunts, groupers, and snapper on a well-maintained reef. Turtles are seen along the northern coast. Moray eels and lobsters in reef crevices.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry and gradual swim to the reef. Standard out-and-back slope dive with the shallow shelf for the safety stop return.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the roadside pull-off. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Good choice for a second or third dive on a northern coast day — combine with Weber's Joy and Boka di Tolo
+
+## Safety
+
+Easy conditions. Monitor boat traffic on the surface.
 
 ## Photography
-Jeff Davis Memorial offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Reef photography in good visibility. The uncrowded northern sites allow relaxed framing without other divers in shot.
 
 ## Nearby Sites
-Nearby sites include Weber's Joy, Boka Di Tolo, and Karpata. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/jeff-davis-memorial
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Weber's Joy is immediately adjacent. Boka di Tolo and Oil Slick Leap are a short drive south. Karpata is further north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Jeff Davis Memorial](https://www.divers-guide.com/en/jeff-davis-memorial), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

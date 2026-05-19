@@ -23,7 +23,7 @@ Dyer Rocks are situated in the southern portion of Saanich Inlet, one of the mos
 
 - **Location**: Saanich Inlet, near Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres

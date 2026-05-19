@@ -23,7 +23,7 @@ Bari Reef is the house reef of Sand Dollar Resort on Bonaire's central west coas
 
 - **Location**: Just north of Kralendijk, Sand Dollar Resort house reef
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters

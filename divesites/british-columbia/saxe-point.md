@@ -58,4 +58,4 @@ This is an advanced site due to depth potential, currents on the exposed face, a
 Wolf eel portraiture is the headline photo opportunity — the resident animals at Saxe Point are photogenic and used to camera lights. Plumose anemone wall shots with wide-angle lenses are spectacular. Nudibranchs require a macro setup but are plentiful on kelp stipes and encrusted rock.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC — Victoria Dive Sites](https://www.scubabc.ca/dive-sites/), [Rockfish Divers — Top Ten Victoria Dive Sites](https://www.rockfishdivers.com/blog/top-ten-dive-sites-in-the-greater-victoria-area), [Just Gotta Dive — Five Shore Dives Victoria](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria), [Vancouver Island Dive Sites — Victoria](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html). Last updated 2026-05-18.*

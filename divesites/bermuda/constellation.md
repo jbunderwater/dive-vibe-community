@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Constellation
 
-The inspiration for Peter Benchley's novel *The Deep*, this WWII-era wreck lies just 9 meters down amid a scattered cargo of cement bags, slate, and whisky bottles.
+The inspiration for Peter Benchley's novel *The Deep*, this WWII-era four-masted schooner lies just 9 meters down amid a scattered cargo of cement bags, pool-table slates, morphine ampoules, and cases of Scotch whisky.
 
 ## Overview
 
-The Constellation was a 192-foot wooden-hulled, four-masted sailing vessel converted to cargo use during World War II. In July 1943, en route from New York to Venezuela, she struck a reef northwest of Bermuda and sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, drug ampoules, glassware, and 700 cases of Scotch whisky. Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its subsequent film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion four miles northwest of the island.
+The Constellation was a 192-foot (58.5 m) wooden-hulled, four-masted schooner built in 1918. On July 30, 1943, while waiting for a local pilot near Bermuda's northwest reef, she was driven onto the same reef as the Montana and rapidly sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, morphine ampoules, glassware, and cases of Johnny Walker Scotch whisky (sources disagree on exact number: some cite 700 cases, others 700 bottles). Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its 1977 film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion on Bermuda's northwest reef.
 
 ## Site Information
 
-- **Location**: Northwest Bermuda reef, approximately 4 miles from the island
+- **Location**: Northwest Bermuda reef, near Western Blue Cut
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -33,11 +33,11 @@ The Constellation was a 192-foot wooden-hulled, four-masted sailing vessel conve
 
 ## Marine Life
 
-Gray snappers and small barracuda frequent the scattered wreck site. The cement bag pyramids stacked in rows attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage. The shallow sandy bottom and nearby coral heads support blue tangs, moray eels, and resident spiny lobster. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat.
+Gray snappers and small barracuda frequent the scattered wreck site. The cement bag pyramids stacked in rows attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage. The shallow sandy bottom and nearby coral heads support diverse reef fish typical of Bermuda's outer platform. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat.
 
 ## Dive Profile
 
-The shallowness makes this an ideal beginner wreck and a perfect snorkel site — the 50-pound cement bags are accessible at just 8 feet below the surface. Divers typically cover the scattered cargo field across a wide sand flat. Visible highlights include the intact pyramids of cement bags, scattered medicine ampoules (iconic from the Benchley book), and the ship's structural remains. Budget time to visit the neighboring Montana on the same dive.
+The shallowness makes this an ideal beginner wreck and a viable snorkel site — the cement bags are accessible at just a few feet below the surface. Divers typically cover the scattered cargo field across a wide sand flat. Visible highlights include intact pyramids of cement bags, scattered morphine ampoules (iconic from the Benchley book), and the ship's structural remains. Budget time to visit the neighboring Montana on the same dive.
 
 ## Entry and Exit
 
@@ -49,7 +49,7 @@ The site is buoyed under the Bermuda Dive Sites program, making it easy to locat
 - The nearby Montana wreck can be visited on the same dive — plan navigation between the two sites
 - Snorkelers can experience the upper cargo in very shallow water
 - Slack tide conditions improve visibility over the sandy wreck floor
-- Drug ampoules from the cargo are protected historical artifacts — do not disturb or remove
+- The morphine ampoules from the cargo are protected historical artifacts — do not disturb or remove
 
 ## Safety Considerations
 
@@ -57,7 +57,7 @@ At 9 meters, this is one of Bermuda's most accessible wrecks. The primary hazard
 
 ## Photography
 
-The scattered cargo field provides unique photographic subjects not found on typical wreck dives — rows of cement bags, intact glassware half-buried in sand, and historical ampoules. Wide-angle shots of the cargo field in excellent Bermuda visibility capture the surreal quality of this site. Natural light photography is practical in the 9-meter depth range.
+The scattered cargo field provides unique photographic subjects not found on typical wreck dives — pyramids of cement bags, intact glassware half-buried in sand, and historical ampoules. Wide-angle shots of the cargo field in excellent Bermuda visibility capture the surreal quality of this site. Natural light photography is practical in the 9-meter depth range.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset - Dive Sites](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-05-18.*

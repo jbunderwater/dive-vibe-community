@@ -3,7 +3,7 @@ name: Invisibles
 lat: 12.077631
 lng: -68.2801815
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 35
 entryType: shore
 siteType: reef
 ref: 
@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Invisibles
 
+*A double-reef site on southern Bonaire's west coast — the "invisibles" refer to a second outer reef that is difficult to spot from the shallows, with the first reef ending at 20 metres and the outer reef extending to 35 metres.*
+
 ## Overview
-Invisibles is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Invisibles is a southern Bonaire shore dive named for its unusual double-reef structure. The inner reef runs from the shallows to about 20 metres, where it gives way to a sandy channel. The "invisible" second reef is the defining feature: it lies further out and is not visible from the surface or the inner reef without swimming the sand channel to find it. This second reef extends to 18–35 metres and is separated from the inner reef by the sand channel. Garden eels inhabit the sandy channel between the two reef systems. The structure and layout are similar to Alice in Wonderland, and the two sites are not far apart on the southern coast.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
+
+- **Location**: Southern Bonaire west coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Invisibles is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The sand channel between the reefs hosts garden eels. The inner reef supports schools of grunts, parrotfish, angelfish, and snapper. The outer reef's deeper sections host larger groupers and barracuda. Turtles are seen along this stretch of coast.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter from shore and follow the inner reef to 20 metres where it meets the sand channel. Cross the channel to locate the outer reef. Most divers explore the inner reef first, cross to the outer reef at depth, and return to the inner reef for the safety stop ascent. Careful depth management is required in the sand channel area.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the road. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- The outer reef is the reward — take time finding it before descending too deep in the channel
+- Garden eels in the sand channel are worth pausing for
+- The double-reef layout means two distinct environments on one dive
+
+## Safety
+
+The outer reef extends to 35 metres — this is the deepest section and requires careful no-decompression limit management. Gas planning should account for the channel crossing and return.
 
 ## Photography
-Invisibles offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Wide-angle compositions across the sand channel from one reef to the other are unusual and distinctive. Garden eels in the sand make strong close-up subjects. The outer reef's larger coral formations photograph well with a strobe at depth.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Angel City, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.zentacle.com/Beach/1433/the-invisibles
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Salt City is immediately north. The Rock is nearby. Alice in Wonderland is south along the same coast with a very similar double-reef structure.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Beyond the Corals Bonaire – Invisibles](https://beyondthecorals.com/bonaire/dive-sites/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-18.*

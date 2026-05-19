@@ -23,7 +23,7 @@ Cottam Reef lies in the Strait of Georgia near Qualicum Beach, in the waters off
 
 - **Location**: Strait of Georgia, near Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

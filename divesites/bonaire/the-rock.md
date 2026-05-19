@@ -13,48 +13,51 @@ addedBy: jbunderwater_ai
 
 # The Rock
 
+*A southwest-coast Bonaire pinnacle dive — a distinct coral formation rising from the sandy bottom, intermediate depth and current exposure, with good fish life around the structure.*
+
 ## Overview
-The Rock is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+The Rock is a named pinnacle on Bonaire's southwest coast, positioned between Pink Beach and the Salt Pier area. Unlike the standard fringing reef profile of most Bonaire west-coast sites, The Rock is a distinct pinnacle formation — a coral-encrusted structure rising from a sandy bottom — which concentrates marine life and creates more varied topography than a typical shore dive. The intermediate difficulty reflects the current exposure and the 27-metre maximum depth.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
+
+- **Location**: Southwest Bonaire west coast, south of Salt Pier
 - **Entry Type**: Shore entry
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20–30 metres
+- **Current**: Light to moderate
+- **Best Time**: Morning
 
 ## Marine Life
-The Rock is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Pinnacle structures in Bonaire typically attract schooling fish that use the current breaks around the formation. Parrotfish, snapper, groupers, and barracuda are common around coral pinnacles.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry with a swim to the pinnacle structure. The pinnacle provides a reference point for circling at different depths. Most productive at 10–22 metres around the structure.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the road. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Swim around the full structure to see all aspects of the pinnacle
+- Check current direction before entry — the pinnacle can accelerate flow around it
+
+## Safety
+
+Intermediate depth and current exposure. Standard precautions. Carry an SMB.
 
 ## Photography
-The Rock offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The pinnacle provides a more varied photographic subject than a flat reef slope — good for wide-angle around the structure.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Angel City, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Pink Beach is nearby. Salt Pier is to the north. Angel City is accessible to the north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

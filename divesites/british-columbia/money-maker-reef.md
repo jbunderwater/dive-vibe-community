@@ -23,7 +23,7 @@ Money Maker Reef is a rocky reef site in the Gulf Islands, lying in the southern
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

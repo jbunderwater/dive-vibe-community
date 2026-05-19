@@ -23,7 +23,7 @@ Brinn Rock lies in the Haro Strait southeast of Victoria, in the channel between
 
 - **Location**: Haro Strait, south of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

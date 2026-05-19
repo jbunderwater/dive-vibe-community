@@ -23,7 +23,7 @@ Chesil Bank sits in the central Gulf Islands in the waters between Salt Spring I
 
 - **Location**: Gulf Islands, central Strait of Georgia / Haro Strait, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

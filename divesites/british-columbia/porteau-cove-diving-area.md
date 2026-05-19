@@ -72,11 +72,9 @@ The site supports diverse marine communities:
 
 ## Dive Profile
 
-Beginners: Start on Granthall wreck in 10-15m, explore external features and cutaway sections (20-30 minutes), ascend with safety stop.
+Intermediate (cold-water OW certified): Start on the Granthall in 10–15 m, explore external features and access cutaways, 20–30 minutes. Cold water (8–12°C) and low visibility make this site Intermediate as a minimum — this is not a beginner site despite shallow depth.
 
-Intermediate: Explore multiple wrecks and reef structures, reach 20-25m on secondary sites, plan 40-50 minute dives with extended safety stops.
-
-Advanced: Deeper wreck penetration (20-30m), complex navigation between structures, potential for staged dives.
+Advanced: Explore the deeper tire reef and Centennial III dredge tender (15–18 m), navigate between structures, plan 40–50 minute dives. Penetration of the Granthall requires wreck training.
 
 ## Entry and Exit
 
@@ -92,7 +90,7 @@ A concrete stairway provides direct water access. Entry best during high tide (e
 
 - Time entry for high tide if possible
 - Check winter for best visibility (up to 14m)
-- Beginners should start with Granthall (10-15m, easy navigation)
+- Newly certified divers should start on the Granthall (10-15m, easy external navigation) but cold water demands proper drysuit training
 - Winter visibility can reach 14 meters—excellent for photography
 - Summer plankton/algae can reduce visibility significantly
 - The park-like arrangement allows structured progression through depths
@@ -104,7 +102,7 @@ This is an Intermediate site suitable for trained recreational divers:
 - Cold water (8-12°C) requires proper thermal protection
 - Entry can be challenging at low tide
 - Surge and surge zone hazards near shore
-- Wreck penetration of Granthall is safe without technical training, but stay external unless trained
+- The Granthall has ARSBC-designed access cutaways; exterior exploration is accessible to Advanced OW divers, but wreck penetration requires proper wreck diving training regardless
 - The Nakaya lies partially outside park boundary; respect boundaries
 - Always dive with a buddy
 - Use surface marker buoy for boat communication
@@ -112,4 +110,4 @@ This is an Intermediate site suitable for trained recreational divers:
 - Carry proper signaling devices
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Just Gotta Dive — Porteau Cove](https://www.justgottadive.com/dive_resources/travel_articles/diving-porteau-cove-provincial-park-reefs-wrecks-and-more), [Cold Ocean Diver — Porteau Cove](https://coldoceandiver.ca/porteau-cove), [ARSBC — Porteau Wrecks and Reefs](https://artificialreefsocietybc.ca/uploads/6/9/3/9/69390363/porteau_wrecks_and_reefs_2013.pdf). Last updated 2026-05-18.*

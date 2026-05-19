@@ -13,48 +13,51 @@ addedBy: jbunderwater_ai
 
 # Hidden Beach (unmarked site)
 
+*An unmarked "dive like a local" site on the far southern Bonaire coast — not on the official BNMP yellow-stone marker system, limited site-specific information available.*
+
 ## Overview
-Hidden Beach is a beautiful dive site located in southern Bonaire near Atlantis. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Hidden Beach is an unmarked dive site on Bonaire's southern west coast, near the southern tip between Vista Blue and the Willemstoren area. The site does not appear in the official BNMP numbered-marker system, InfoBonaire, STINAPA, or standard PADI dive-site directories. It is known as a "dive like a local" entry point — one of several unmarked shore access spots on the southern coast used by local divers who know the road. The intermediate difficulty reflects the relatively exposed southwest location rather than technical depth.
 
 ## Site Information
-- **Location**: South Bonaire (near Atlantis)
+
+- **Location**: Southern Bonaire, southwest coast near the southern tip
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 15–25 metres
+- **Current**: Light to moderate
+- **Best Time**: Morning
 
 ## Marine Life
-Hidden Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Typical southern Bonaire reef species. No site-specific confirmed species lists available.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry to a fringing reef slope. Depths to 25 metres. Similar character to the other unmarked southern sites in this area.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry from the southern coastal road. Exit at the same point. The entry point is not marked with a BNMP yellow stone.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Local knowledge is helpful for identifying the entry point
+- Combine with nearby official sites (Vista Blue, Atlantis) for a southern dive day
+
+## Safety
+
+Intermediate conditions due to southwest exposure. Carry an SMB. Assess conditions from shore.
 
 ## Photography
-Hidden Beach offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Southern Bonaire reef with low dive traffic and clear water.
 
 ## Nearby Sites
-Nearby sites include Atlantis, Red Beryl, and Margate Bay. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Vista Blue and Atlantis are to the north. Yellow Hut and Soft Coral Garden are nearby unmarked sites.
 
 ---
-*Description based on regional diving characteristics of the southern Bonaire fringing reef. This is an unmarked "dive like a local" site — it does not appear on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) lists it between Vista Blue and Fisherman's Hut on the south coast. Last updated 2026-05-16.*
+*Unmarked "dive like a local" site on the southern west coast — not on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) places it in the southern coast area. Last updated 2026-05-18.*

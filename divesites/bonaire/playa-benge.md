@@ -13,49 +13,53 @@ addedBy: jbunderwater_ai
 
 # Playa Benge
 
+*A Washington-Slagbaai National Park reef dive accessible only by 4WD — pristine, remote fringing reef on Bonaire's northwest coast. Note: currently listed as closed for diving on infobonaire.com (verify current status before visiting).*
+
 ## Overview
-Playa Benge is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Playa Benge is located inside Washington-Slagbaai National Park on Bonaire's northwest coast, accessible only by 4WD via the park road. The site offers pristine fringing reef diving in an unspoiled setting, with the lower visitor numbers that come with the access barrier. As of early 2026, infobonaire.com lists several Washington-Slagbaai park sites as currently closed for diving — **verify the current status of this site with STINAPA or the park entrance before visiting**. The difficulty rating of Advanced reflects the remote location and the logistical challenges of diving without nearby support.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Washington-Slagbaai National Park, northwest Bonaire (4WD + park entry required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20–30 metres
+- **Current**: Can be present; northwest-facing exposure
+- **Best Time**: Calm-weather days only; verify site is open
 
 ## Marine Life
-Playa Benge is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The protected national park location supports excellent reef health with typical northern Bonaire species: parrotfish, angelfish, groupers, snappers, and turtles. The lower visitor traffic means fish are less accustomed to divers and behaviour is more natural.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Shore entry and gradual reef slope. The northwest exposure means conditions should be carefully assessed before entry.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+4WD access through the park. Entry over rocky or sandy beach depending on conditions. Exit at the same point. The park closes at 17:00 — plan time for the drive out before closure.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- **Check current site closure status with STINAPA before visiting**
+- A park entry fee is required in addition to the STINAPA nature tag
+- Combine with other park sites on the same day to justify the access effort
+- Carry more water and sun protection than usual given the remote setting
+
+## Safety
+
+Remote location means no nearby emergency services. Advanced difficulty despite moderate depth reflects the isolation and logistics. Dive conservatively and ensure buddy protocols are tight.
 
 ## Photography
-Playa Benge offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The pristine reef and clear northern water are excellent for photography. The wildlife is less habituated to divers, which can yield more natural behaviour shots.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/playa-benge
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Boka Bartol, Playa Funchi, and Bisé Morto are other park sites in the same area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Benge](https://www.divers-guide.com/en/dive-spots/playa-benge), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

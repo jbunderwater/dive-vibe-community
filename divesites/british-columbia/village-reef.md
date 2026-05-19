@@ -23,7 +23,7 @@ Village Reef is a boat dive site in Barkley Sound, positioned in the heart of on
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

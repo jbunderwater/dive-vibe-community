@@ -23,7 +23,7 @@ Egerton Rock lies in the Strait of Georgia off the Sunshine Coast, in the waters
 
 - **Location**: Strait of Georgia, Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

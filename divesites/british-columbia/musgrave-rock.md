@@ -23,7 +23,7 @@ Musgrave Rock is a rocky outcrop in Satellite Channel off the southwest coast of
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

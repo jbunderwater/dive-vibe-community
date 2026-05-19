@@ -23,7 +23,7 @@ Escape Reef is located in the Strait of Georgia north of Nanaimo near Gabriola I
 
 - **Location**: Strait of Georgia, north of Nanaimo near Gabriola Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

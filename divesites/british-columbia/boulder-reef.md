@@ -23,7 +23,7 @@ Boulder Reef sits in the southern Strait of Georgia near the US-Canada border, i
 
 - **Location**: Southern Strait of Georgia, near Saturna Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

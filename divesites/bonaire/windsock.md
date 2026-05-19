@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Windsock
 
+*A beginner-friendly shore reef adjacent to Flamingo Airport's runway — named for the airport windsock visible from the shore entry, with easy conditions and a gradual reef slope.*
+
 ## Overview
-Windsock is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Windsock is a central Bonaire shore dive located directly adjacent to the runway at Flamingo International Airport, close to the airport windsock that gives the site its name. The setting is unusual — planes take off and land within sight of the entry point — but the diving itself is a typical Bonaire fringing reef experience: an easy sandy entry, a gradual reef slope, and good conditions for beginners and those looking for a no-fuss dive. It is convenient for divers arriving or departing and needing a quick dive, and the proximity to the road makes gear logistics straightforward.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
+
+- **Location**: Central Bonaire, adjacent to Flamingo Airport
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning to afternoon
 
 ## Marine Life
-Windsock is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Standard central Bonaire reef species: parrotfish, grunt and snapper schools, angelfish, and damselfish throughout the reef slope. Turtles are seen along this stretch of coast. The sandy entry area may host stingrays and garden eels. Groupers and moray eels inhabit reef crevices.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter over sand and follow the reef slope to depth. The reef begins within a short swim of shore and the slope runs to around 25 metres. A relaxed out-and-back profile works well at this site.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Sandy entry from the roadside pull-off. Exit at the same point. Be aware of low-flying aircraft on approach to the adjacent runway.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- A convenient first or last dive of a trip given proximity to the airport
+- Good beginner site for those unfamiliar with Bonaire's shore-diving system
+- Morning dives avoid any afternoon breeze that can build later in the day
+
+## Safety
+
+Standard entry precautions over sandy/rocky shore. Minimal current. Be aware of boat traffic when surfacing.
 
 ## Photography
-Windsock offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Typical reef photography opportunity. The unusual airport backdrop makes above-water shots distinctive.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/windsock
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Bachelor's Beach and Corporal Meiss are nearby to the south. Calabas Reef and 18th Palm are in the same corridor.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Windsock](https://www.divers-guide.com/en/dive-spots/windsock), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*

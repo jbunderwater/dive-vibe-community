@@ -4,7 +4,7 @@ lat: 12.1139501
 lng: -68.2952067
 difficulty: Advanced
 maxDepth: 35
-entryType: boat
+entryType: shore
 siteType: wall
 ref: 
 osmId: 663869420
@@ -22,7 +22,7 @@ Lighthouse Point is on Bonaire's south coast, several hundred meters north of th
 ## Site Information
 
 - **Location**: South coast Bonaire, north of Willemstoren Lighthouse
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters

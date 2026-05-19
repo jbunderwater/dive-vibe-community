@@ -2,60 +2,64 @@
 name: Alice in Wonderland
 lat: 12.0998035
 lng: -68.2852927
-difficulty: Beginner
-maxDepth: 22
+difficulty: Intermediate
+maxDepth: 30
 entryType: shore
 siteType: reef
-ref: 
+ref: 45
 osmId: 635881804
 addedBy: jbunderwater_ai
 ---
 
 # Alice in Wonderland
 
+*Southern Bonaire's showcase double-reef dive (BNMP #45) — an inner reef at 7–22 metres, a sandy channel, and a second outer reef dropping to 30 metres, with huge tube sponges, fan corals, and plate corals on the outer wall.*
+
 ## Overview
-Alice in Wonderland is a beautiful dive site located in southern Bonaire near Pink Beach. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Alice in Wonderland (BNMP #45) is one of southern Bonaire's most celebrated dive sites, known for its rare double-reef structure. The first reef starts at 7 metres and descends gradually to around 22 metres, where it meets a sandy bottom studded with isolated coral bommies. The sand channel at 24–30 metres connects to a second, outer reef system that drops away into deeper water and is home to impressive large corals: huge tube sponges, fan coral, plate coral, leaf coral, and brain coral all appear here in sizes not found on the shallower inner reef. Crossing from the inner to the outer reef requires careful depth monitoring — this is the aspect that moves the site into Intermediate territory rather than Beginner. The site is located near the southern salt flats, close to Pink Beach and English Garden.
 
 ## Site Information
-- **Location**: South Bonaire (near Pink Beach)
+
+- **Location**: South Bonaire near the salt flats, BNMP Site #45
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20–30 metres
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon
 
 ## Marine Life
-Alice in Wonderland is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The inner reef supports a wide range of typical Caribbean reef fish: horse-eye jacks, triggerfish, barracuda, parrotfish, and angelfishes. Sea turtles are seen along both reef zones. Eagle ray sightings are reported on the outer reef and over the sandy channel. Garden eels inhabit the sandy channel between the two reefs. The outer reef's larger coral structures provide shelter for bigger groupers, snappers, and the site's distinctive large sponge colonies.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter at the marked shore point and follow the painted rocks or mooring line out to the reef. The inner reef begins at 7 metres and the slope runs to about 22 metres; this section alone makes a full dive with plenty to see. To visit the outer reef, cross the sandy channel (24–30 m) carefully and ascend back onto the second reef structure. Gas management is important: plan the outer-reef crossing with enough reserve for a return to the shallows and safety stop. The sandy bommies in the channel between the reefs are worth investigating.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry over a sandy and rocky beach. Follow the marked path to the water. Exit at the same point. The mooring buoy offshore marks the site and gives a bearing for the return.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- The inner reef alone is excellent for a beginner-level dive; leave the outer reef crossing to when buoyancy is solid
+- The sandy channel between reefs is the best place to watch for eagle rays and garden eels
+- Look closely at the large tube sponges on the outer reef for resident fish
+- Morning light illuminates the inner reef most effectively
+
+## Safety
+
+The outer reef dive requires disciplined depth management — the channel bottom is 30 metres and it is easy to miss the ascent point onto the second reef. Always know your gas reserve before committing to the outer reef section. Current is usually light but check conditions before crossing the sand channel.
 
 ## Photography
-Alice in Wonderland offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Wide-angle works well for the large sponge formations and fan corals on the outer reef, particularly with a diver for scale. The inner reef is good for reef-fish portraits. The sandy channel with garden eels in the background is an unusual composition.
 
 ## Nearby Sites
-Nearby sites include Pink Beach, English Garden, and Margate Bay. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/alice-in-wonderland
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Pink Beach lies a short distance south along the same coast. English Garden and Tori's Reef are nearby. Hilma Hooker and Angel City are accessible by driving a short distance north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Alice in Wonderland](https://infobonaire.com/alice-in-wonderland/), [Divers-Guide – Alice in Wonderland](https://www.divers-guide.com/en/alice-in-wonderland), [Beyond the Corals Bonaire](https://beyondthecorals.com/bonaire/dive-sites/). Last updated 2026-05-18.*
