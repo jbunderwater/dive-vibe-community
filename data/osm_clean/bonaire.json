@@ -16,7 +16,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,scubadiving.com,bonaireisland.com,reef.org",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -25,7 +26,7 @@
     "lon": -68.3217112,
     "osm_id": 313863131,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -37,7 +38,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire.com,scubaboard.com,sunwisebonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -55,8 +57,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "no_site_specific_sources_found",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -75,7 +78,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -84,7 +88,7 @@
     "lon": -68.2893863,
     "osm_id": 635094207,
     "osm_type": "node",
-    "depth": 10,
+    "depth": 14,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -93,13 +97,14 @@
       "name": "La Machaca",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:depth": "10m",
+      "wreck:depth": "14m",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,divers-guide.com,dreamwrecks.com,divingaway.com",
+      "last_qa_date": "2026-05-19"
     },
-    "depth_max": 9
+    "depth_max": 14
   },
   {
     "name": "English Garden",
@@ -117,7 +122,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,divers-guide.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -126,7 +132,7 @@
     "lon": -68.2852927,
     "osm_id": 635881804,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -136,7 +142,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com,sunwisebonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -155,21 +162,22 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "wikidata": "Q1618842",
-      "wreck:date_commissioned": "1951",
+      "wreck:date_commissioned": "1951-05-21",
       "wreck:date_sunk": "1984-09-12",
       "wreck:depth": "30m",
       "wreck:gross_tonnage": "691",
       "wreck:dwt": "1025",
-      "wreck:length": "236",
-      "wreck:beam": "36",
-      "wreck:built": "Van der Giessen de Noord, Netherlands",
+      "wreck:length": "71.78m",
+      "wreck:beam": "11.01m",
+      "wreck:built": "Van der Giessen de Noord, Krimpen aan den IJssel, Netherlands",
       "wreck:original_name": "Midsland",
       "wreck:cause": "hull_deterioration",
       "wreck:cargo": "marijuana",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia,scubadiving.com,scubaboard,buddydive.com"
+      "validation_source": "wikipedia.org,infobonaire.com,scubaboard.com,bonaire.com",
+      "last_qa_date": "2026-05-19"
     },
     "depth_max": 30
   },
@@ -192,7 +200,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -211,7 +220,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
+      "validation_source": "infobonaire.com,sunwisebonaire.com,thediveglobe.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -230,7 +240,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
+      "validation_source": "bonaire.com,sunwisebonaire.com,divers-guide.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -249,7 +260,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -269,7 +281,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -288,7 +301,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,divessi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -307,7 +321,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -326,7 +341,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -345,7 +361,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-digital,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.digital,padi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -356,7 +373,7 @@
     "osm_type": "node",
     "depth": 35,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "name": "Lighthouse Point",
@@ -366,7 +383,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -387,7 +405,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -406,7 +425,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -415,7 +435,7 @@
     "lon": -68.2819519,
     "osm_id": 663869401,
     "osm_type": "node",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -426,8 +446,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard",
-      "site_note": "pier dive"
+      "validation_source": "sunwisebonaire.com,scubadobonaire.com,padi.com,infobonaire.com",
+      "site_note": "pier dive",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -446,7 +467,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -465,7 +487,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -484,7 +507,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -503,7 +527,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -522,7 +547,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -541,7 +567,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -562,7 +589,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -581,7 +609,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -600,7 +629,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -620,7 +650,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,padi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -639,7 +670,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,padi,divers-guide"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -659,7 +691,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -668,7 +701,7 @@
     "lon": -68.2872133,
     "osm_id": 663869415,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -678,7 +711,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sunwisebonaire.com,infobonaire.com,divers-guide.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -698,7 +732,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,padi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -717,7 +752,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -735,8 +771,10 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     }
   },
   {
@@ -755,8 +793,10 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     }
   },
   {
@@ -774,8 +814,10 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     }
   },
   {
@@ -797,7 +839,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -819,7 +862,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -828,7 +872,7 @@
     "lon": -68.308717,
     "osm_id": 663869425,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -840,7 +884,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire.com,sunwisebonaire.com,divers-guide.com,scubaboard.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -861,7 +906,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -880,7 +926,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,bonaireisland.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -889,7 +936,7 @@
     "lon": -68.2901782,
     "osm_id": 663869433,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -899,7 +946,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire.com,scubaboard.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -908,7 +956,7 @@
     "lon": -68.3521324,
     "osm_id": 663869440,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -918,7 +966,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "sunwisebonaire.com,padi.com,divers-guide.com,infobonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -927,7 +976,7 @@
     "lon": -68.3481483,
     "osm_id": 663869441,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "drift",
     "entry_type": "shore",
     "difficulty": "Advanced",
@@ -938,7 +987,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,padi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -956,8 +1006,10 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     }
   },
   {
@@ -976,7 +1028,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire.com,kasdivi.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -995,7 +1048,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1014,7 +1068,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1033,7 +1088,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1052,7 +1108,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,padi.com,divers-guide.com,kasdivi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1061,7 +1118,7 @@
     "lon": -68.3753404,
     "osm_id": 2625769975,
     "osm_type": "node",
-    "depth": 55,
+    "depth": 60,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Technical",
@@ -1071,7 +1128,15 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
+      "validation_source": "dreamwrecks.com,numa.net,divers-guide.com,blue-oceans.com",
+      "wreck:vessel_type": "iron_barque",
+      "wreck:masts": "3",
+      "wreck:depth": "60m",
+      "wreck:built": "1874, Barclay Curle and Company, Glasgow",
+      "wreck:original_name": "Mairi Bhan",
+      "wreck:date_sunk": "1912-12",
+      "wreck:cargo": "asphalt",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1091,11 +1156,12 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
-    "name": "Bis\u00e9 Morto",
+    "name": "Bisé Morto",
     "lat": 12.2935303,
     "lon": -68.4132212,
     "osm_id": 4200486589,
@@ -1105,12 +1171,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Bis\u00e9 Morto",
+      "name": "Bisé Morto",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     },
     "depth_max": 18
   },
@@ -1129,8 +1197,10 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validated": "false",
+      "validation_source": "infobonaire.com,bonaireisland.com",
+      "last_qa_date": "2026-05-19",
+      "site_note": "Currently closed per 123carrentalbonaire.com (2026)"
     }
   },
   {
@@ -1149,7 +1219,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
+      "validation_source": "infobonaire.com,divers-guide.com,bonaire.com,123carrentalbonaire.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1167,8 +1238,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "no_site_specific_sources_found",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1186,8 +1258,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "no_site_specific_sources_found",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -1205,8 +1278,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "no_site_specific_sources_found",
+      "last_qa_date": "2026-05-19"
     }
   }
 ]

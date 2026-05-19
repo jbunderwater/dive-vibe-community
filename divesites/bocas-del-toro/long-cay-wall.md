@@ -13,11 +13,15 @@ addedBy: osm_import
 
 # Long Cay Wall
 
-The most dramatic wall dive in Bocas del Toro — a nearly vertical drop from shallow coral garden to 28 meters on the exposed southeastern edge of the archipelago, with large sponge formations and pelagic visitors.
+An advanced wall dive site in the Bastimentos area of the Bocas del Toro archipelago. Note: this site was not found under this name in any dive operator source consulted; the description reflects general characteristics of wall diving in this region.
 
 ## Overview
 
-Long Cay Wall is the definitive advanced dive site of the Bocas del Toro archipelago — a vertical wall on the eastern, ocean-facing side of Long Cay that drops from a shallow reef crest at approximately 8 meters to a sandy base at 28 meters. The site is exposed to more Atlantic water influence than the sheltered inner sites, delivering improved clarity and bringing in pelagic species from the open Caribbean. The wall face carries large barrel sponge formations from 15 meters down, sea fans in the 12–18 meter zone, and encrusting organisms throughout. Current on the outer wall can be moderate, making buoyancy control important. This is the site where advanced Bocas del Toro divers go for the best diving the region offers. Visibility is 20–25 meters.
+Long Cay Wall is positioned in this database on the southeastern edge of the Bastimentos archipelago area at 28 meters maximum depth. No site under this exact name was identified across major local dive operator websites, regional dive databases, or community forums during research. The best-documented wall dive in Bocas del Toro is Manuel's Wall (also called White House Wall), located near Isla Solarte, which drops from 15 meters to 30+ meters and is described by multiple sources including solbungalowsbocas.com and tourismpanama.com as the primary advanced wall dive in the region.
+
+It is possible that Long Cay Wall corresponds to Manuel's Wall under a different name, or represents a less-documented local site. The outer Bastimentos area does have ocean-facing wall topography consistent with the site data.
+
+*No site-specific sources were found confirming "Long Cay Wall" as a named dive site used by operators.*
 
 ## Site Information
 
@@ -27,38 +31,31 @@ Long Cay Wall is the definitive advanced dive site of the Bocas del Toro archipe
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wall |
-| Visibility | 20–25 m |
-| Current | Moderate |
+| Visibility | Unknown |
+| Current | Moderate (outer reef position) |
 | Water Temp | 27–29°C |
 
 ## Marine Life
 
-Long Cay Wall's position on the open Atlantic side of the archipelago brings species less common at sheltered inner sites. Spotted eagle rays are regular, sweeping the wall face in pairs or groups. Caribbean reef sharks patrol the deeper sections. Schools of horse-eye jacks orbit the upper wall in current-assisted hunting formations. Green sea turtles are common at the wall top. The barrel sponge communities at 18–25 meters support cleaning stations frequented by large groupers and jacks.
+No site-specific marine life sources found for Long Cay Wall. The documented Manuel's Wall (comparable wall dive in the region) is confirmed to have large dog snapper, moray eels, and nudibranchs per solbungalowsbocas.com. Tourismpanama.com describes wall dives in Bocas del Toro as hosting schools of snapper, angelfish, eagle rays, and diverse reef fish. These cannot be attributed to Long Cay Wall specifically.
+
+Spotted eagle rays, Caribbean reef sharks, horse-eye jacks, and barrel sponge communities at depth were claimed in the previous description without site-specific source confirmation; those claims have been removed.
 
 ## Dive Profile
 
-Descent to the wall top at 8 meters, then a controlled descent along the wall face to the planned maximum depth. Advanced divers typically work the deepest sections (22–28 m) where the barrel sponge formations are concentrated, then ascend the wall face gradually, spending time at each depth level before a safety stop on the reef crest. Plan the dive carefully to avoid spending excessive time at maximum depth.
+No site-specific profile available.
 
 ## Entry and Exit
 
-Boat dive from Bocas Town operators. The southeastern outer edge requires a longer boat ride (20–30 minutes) and is only dived in suitable sea conditions. Entry by backward roll or giant stride. DSMB mandatory for ascent off the open wall.
+Boat dive from Bocas Town. No site-specific access information available.
 
 ## Tips and Recommendations
 
-Long Cay Wall is the premium dive site in Bocas del Toro and should be reserved for divers with real wall diving experience and good buoyancy control. The combination of current, depth, and exposed position makes it unsuitable for divers still developing their skills. Plan the dive for slack or incoming tide for best current conditions. Morning dives typically have the best visibility.
+Verify with local operators whether Long Cay Wall is an active named site. If seeking a documented advanced wall dive in Bocas del Toro, Manuel's Wall near Isla Solarte is the most thoroughly sourced option in the region.
 
 ## Safety Considerations
 
-Wall dives make unintentional deep descents easy — set a firm maximum depth before entering the water and monitor the dive computer throughout. Current on the outer wall can increase suddenly. The open-water ascent after the dive requires DSMB deployment in advance of surfacing. Do not ascend from the wall face directly below the dive boat.
-
-## Photography
-
-Long Cay Wall is Bocas del Toro's best photography site for advanced wide-angle reef work. The vertical wall face with barrel sponges and a diver descending creates the archetypal wall photography composition. Eagle ray encounters in clear water against the deep blue are the premium shot. Close-focus wide-angle at barrel sponge cleaning stations captures the fish activity in context.
-
-## Additional Resources
-
-- La Buga and Bocas Water Sports: both offer guided dives at Long Cay Wall for advanced divers
-- Best conditions: February–March dry season for maximum visibility
+Wall dives make unintentional deep descents easy — set a firm maximum depth before entering and monitor the dive computer throughout. DSMB essential for open-water ascent. Current on outer walls can increase suddenly.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Description based on regional wall diving characteristics. No site-specific sources found for "Long Cay Wall" as a named dive site after searching therealdealtours.com, labugapanama.com, solbungalowsbocas.com, tribloo.com, padi.com, bocasdiversparadise.com, tourismpanama.com. Last updated 2026-05-19.*

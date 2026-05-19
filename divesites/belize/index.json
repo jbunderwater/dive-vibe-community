@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Gladden Spit",
+    "filename": "gladden-spit.md",
+    "lat": 16.5667,
+    "lng": -88.0333,
+    "difficulty": "Advanced",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Silk Cayes",
+    "filename": "silk-cayes.md",
+    "lat": 16.445,
+    "lng": -88.039,
+    "difficulty": "Beginner",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Laughing Bird Caye",
+    "filename": "laughing-bird-caye.md",
+    "lat": 16.4434,
+    "lng": -88.1973,
+    "difficulty": "Beginner",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "South Water Caye",
+    "filename": "south-water-caye.md",
+    "lat": 16.8136,
+    "lng": -88.0821,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Hole",
+    "filename": "shark-hole.md",
+    "lat": 16.905,
+    "lng": -88.055,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Elbow",
+    "filename": "the-elbow.md",
+    "lat": 17.103,
+    "lng": -87.928,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sayonara Wreck",
+    "filename": "sayonara-wreck.md",
+    "lat": 17.2019,
+    "lng": -87.9317,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Witconcrete Wreck",
+    "filename": "witconcrete-wreck.md",
+    "lat": 17.3406,
+    "lng": -88.1922,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Glover's Reef Pinnacles",
+    "filename": "glovers-reef-pinnacles.md",
+    "lat": 16.823,
+    "lng": -87.79,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Esmeralda Canyons",
+    "filename": "esmeralda-canyons.md",
+    "lat": 17.9102,
+    "lng": -87.9525,
+    "difficulty": "Intermediate",
+    "maxDepth": 21,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

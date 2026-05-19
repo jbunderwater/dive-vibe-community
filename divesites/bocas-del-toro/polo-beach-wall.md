@@ -2,8 +2,8 @@
 name: Polo Beach Wall
 lat: 9.292
 lng: -82.158
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: cavern
 ref: null
@@ -13,52 +13,47 @@ addedBy: osm_import
 
 # Polo Beach Wall
 
-A deep outer reef wall on the northwestern tip of the Bocas del Toro archipelago featuring cavern formations in the wall face, large sponge communities, and clear Atlantic water.
+A cavern and tunnel network on Isla Bastimentos, known for swim-throughs and rocky underwater structures rather than coral — a site with well-lit caverns accessible to intermediate divers in the right season.
 
 ## Overview
 
-Polo Beach Wall is on the northern, more exposed side of the Bocas del Toro archipelago, adjacent to Polo Beach on the outer island edge. The site features a vertical reef wall dropping to 30 meters with cavern formations cut into the wall face — open-sky caverns rather than enclosed caves, but providing significant overhang environments where cave-associated organisms develop. The exposed position delivers clearer Atlantic water than the sheltered inner sites, with visibility regularly reaching 20–25 meters. Water temperature is 27–29°C. The cavern formations distinguish this site from the typical Bocas reef profiles and make it a destination for experienced advanced divers.
+Polo Beach (also called Polo Channel or Cuevas de Polo in some sources) is located on Isla Bastimentos and features an extensive network of caverns, caves, and underwater tunnels formed by rocky formations. Multiple sources describe it as a semi-cave experience where natural light penetrates throughout most of the site. Tribloo.com records a maximum depth of 20 meters and classifies it as intermediate. Sol Bungalows and therealdealtours.com both note this site is seasonal — best visited July to September, when turbid waters clear enough to reveal the site's structural interest. Sources note that coral growth is limited here due to turbid conditions; the appeal is the geological structure rather than coral coverage.
+
+The difficulty was previously listed as Advanced in this database; sources including therealdealtours.com and tribloo.com classify it as Intermediate, and sol bungalows notes it is accessible to all levels, though swimming skills and previous diving experience are required due to current.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–30 m |
-| Difficulty | Advanced |
+| Depth Range | 5–20 m |
+| Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Cavern |
-| Visibility | 20–25 m |
-| Current | Moderate |
+| Visibility | Variable (best July–September) |
+| Current | Light to moderate |
 | Water Temp | 27–29°C |
 
 ## Marine Life
 
-The cavern formations on the wall face host organisms that thrive in reduced-light environments: orange cup corals (Tubastraea) on the cavern ceilings, dense encrusting sponge communities, and colonies of banded coral shrimp beneath overhangs. Schools of copper sweepers fill the cavern interiors. Caribbean reef sharks cruise the outer wall. Large groupers occupy the wall crevices. The exposed position attracts spotted eagle rays and schools of bar jacks that use the wall structure for hunting. Hawksbill turtles are regularly encountered at the upper sections of the wall.
+Sources confirm giant moray eels and crustaceans (lobsters, crabs) are the primary residents of the cavern structures. Therealdealtours.com also notes snapper, parrotfish, and octopus among the rock formations. The site's proximity to open ocean means large pelagics are possible. Tribloo.com confirms giant moray eels and families of crustaceans.
+
+No source confirmed Caribbean reef sharks, hawksbill turtles, orange cup corals, or schools of copper sweepers as specific species at this site. The previous description's claims of barrel sponge communities and specific cavern organisms were not corroborated by sources and have been removed.
 
 ## Dive Profile
 
-Descent to the wall top at 10 meters, then a controlled descent along the wall face to the cavern formations at 18–25 meters. The caverns are explored from the outside — divers hover at the cavern entrance to observe the interior without penetrating. Maximum depth on the sand base is 30 meters. Ascent along the wall face with a safety stop at the reef crest.
+Descent to the rock formations and entry into the cavern network. The caverns are well-lit, with direct surface access available throughout approximately 90% of the site according to therealdealtours.com. Maximum depth is 20 meters at the sandy base. Navigation through the tunnels and swim-throughs is the primary dive activity.
 
 ## Entry and Exit
 
-Boat dive from Bocas Town operators. The northwestern outer edge involves a 25–35 minute boat trip and is sea-state dependent. Entry by backward roll or giant stride. DSMB required for open-water ascent.
+Boat dive from Bocas Town operators. Travel time to Isla Bastimentos is approximately 20–30 minutes. Entry conditions are sea-state dependent. The site is accessible only when conditions are suitable, primarily July–September.
 
 ## Tips and Recommendations
 
-Carry a torch for the cavern interiors — the orange cup corals and encrusting sponges on the cavern ceilings only reveal their full colour with artificial lighting. Do not penetrate into the caverns beyond light penetration from the entrance. Position yourself at the cavern mouth horizontally to observe inside without disturbing the silt on the floor. This site should only be dived in suitable sea conditions given its exposed position.
+Visit during the July–September window when visibility is best. The cavern structures are well-lit so a torch is optional but useful for examining crevice life. The tunnels are navigable without penetration training given the natural light, but good buoyancy control prevents silt disturbance. Do not attempt in poor visibility.
 
 ## Safety Considerations
 
-The cavern formations require attention to buoyancy — do not disturb silt on the cavern floor, which reduces visibility dramatically. Avoid penetrating deeper into the caverns than is comfortable with your level of training. The 30-meter maximum depth limits bottom time significantly — plan the dive to allow adequate reserve for the safety stop. DSMB essential for the open-water ascent.
-
-## Photography
-
-The cavern interiors are exceptional photography subjects with supplemental lighting — the contrast between the dark interior with cup coral and the bright open-water entrance creates a compelling composition. A wide-angle lens positioned at the cavern entrance captures both the interior organisms and the open reef beyond. External wall photography with the cavern openings as mid-ground elements is effective.
-
-## Additional Resources
-
-- Bocas del Toro advanced dive operators: Polo Beach Wall requires a knowledgeable guide familiar with the site
-- Weather-dependent site: check northern swell forecasts before booking
+The cavern environment requires careful buoyancy. Silt disturbance within tunnels can sharply reduce visibility. Current through some of the narrower passages can be stronger than at open reef sites. Assess conditions before committing to tunnel passages. DSMB required for boat pickup.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Sources: [The Real Deal Tours — Bocas del Toro Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Tribloo — Polo Beach](https://www.tribloo.com/en/dive-sites/691/polo-beach.html), [Sol Bungalows — Scuba Diving in Bocas del Toro](https://solbungalowsbocas.com/scuba-diving-in-bocas-del-toro/). Last updated 2026-05-19.*

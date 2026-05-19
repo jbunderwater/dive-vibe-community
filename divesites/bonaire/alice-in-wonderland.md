@@ -13,49 +13,48 @@ addedBy: jbunderwater_ai
 
 # Alice in Wonderland
 
+*South Bonaire's classic double-reef dive (BNMP #45) — a shallow inner reef, sandy inter-reef channel, and a second outer reef requiring compass navigation, with fan, leaf, star, and brain coral formations.*
+
 ## Overview
-Alice in Wonderland is a beautiful dive site located in southern Bonaire near Pink Beach. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Alice in Wonderland (BNMP #45) is located in southern Bonaire near the salt flats. The defining feature is a double-reef structure: an inner reef beginning at approximately 7 meters, a sandy plateau at 24–30 meters separating the two systems, and a second outer reef with a drop-off beyond 30 meters. The second reef is not immediately visible from the inner reef — divers use a compass to cross the sand channel and find it. The reef structure is composed primarily of fan, leaf, star, and brain coral. The easy sandy entry and calm conditions make the inner reef accessible for beginners; the full double-reef dive, particularly the deeper outer sections, requires more experience.
 
 ## Site Information
-- **Location**: South Bonaire (near Pink Beach)
+
+- **Location**: South Bonaire, near salt flats (BNMP #45)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-30 meters
+- **Site Type**: Double reef (fringing reef with outer drop-off)
+- **Difficulty Level**: Beginner (inner reef); Advanced (outer reef and drop-off)
+- **Maximum Depth**: 30+ meters (outer reef drop-off continues deeper)
+- **Typical Visibility**: 15–30 meters (average 20 meters)
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: Morning
 
 ## Marine Life
-Alice in Wonderland is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Documented species at this site include tarpons, barracudas (on the outer reef), triggerfish, anemones, shrimp, gobies, moray eels, turtles, and filefish. The outer second reef is where larger species tend to congregate. No comprehensive site-specific species survey was found; marine life accounts reflect what multiple dive sources report for this specific site rather than the full regional species list.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Sandy entry leading to the inner reef at 7 meters. The inner reef slopes to a sand plateau at approximately 24–30 meters. Navigate by compass across the sand channel to locate the outer reef and drop-off. The outer reef drop-off hosts barracuda and larger fish species. Depth management is important: the outer reef sections exceed recreational single-dive comfort for less experienced divers.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry with parking approximately 15 meters from the water (EEG Boulevard, near salt flats). Sandy entry, easy and flat. Bonaire Nature Tag required.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Bring a compass — the outer reef is not visible from the inner reef
+- Beginners can stay on the inner reef for a satisfying and safe dive
+- The second reef rewards more experienced divers willing to manage depth
+
+## Safety
+
+Monitor depth carefully when crossing to the outer reef — the drop-off can draw divers deeper than planned. Plan gas turnpoints with the inter-reef crossing included in the return profile.
 
 ## Photography
-Alice in Wonderland offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
 
-## Nearby Sites
-Nearby sites include Pink Beach, English Garden, and Margate Bay. All are accessible along the southern coast of Bonaire.
-
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/alice-in-wonderland
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Fan and leaf corals on the inner reef make good wide-angle subjects. Barracuda on the outer reef are best captured in open-water framing. The sand channel offers interesting contrast with the reef structures on either side.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Alice in Wonderland](https://infobonaire.com/alice-in-wonderland/), [Divers-Guide – Alice in Wonderland](https://www.divers-guide.com/en/alice-in-wonderland), [Sunwise Bonaire – Angel City / Double Reefs](https://sunwisebonaire.com/blog/bonaire-dive-sites-angel-city/), [Bonaireisland.com – Alice in Wonderland](https://bonaireisland.com/experiences/diving/sites/alice-in-wonderland/). Last updated 2026-05-19.*

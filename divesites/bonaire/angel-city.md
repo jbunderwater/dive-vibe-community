@@ -13,49 +13,48 @@ addedBy: jbunderwater_ai
 
 # Angel City
 
+*South Bonaire's signature beginner-friendly double reef — sand channel between two reef systems hosts garden eels, frogfish, and octopus, while the outer reef extends to 40 meters with angelfish, moray eels, and eagle rays.*
+
 ## Overview
-Angel City is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Angel City lies on the southern coast between Alice in Wonderland and the Hilma Hooker wreck. Unlike the deeper double-reef systems further south, Angel City's second reef is comparatively shallow, making the full double-reef experience accessible for confident beginners. The site begins with a shallow plateau at approximately 4.5 meters, then slopes to the sand channel between the two reefs. The channel bottom and surrounding structure host a range of macro and critter life. The outer reef continues to approximately 40 meters. Yellow mooring buoy and yellow stone markers along the coast road identify the entry point. Visibility averages 20 meters; water temperature 27–29°C.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+
+- **Location**: South Bonaire, between Alice in Wonderland and Hilma Hooker
+- **Entry Type**: Shore entry (walk-in, pull up and gear up)
+- **Site Type**: Double reef (fringing reef with accessible outer reef)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 40 meters (outer drop-off; most diving at 8–20 meters)
+- **Typical Visibility**: 15–30 meters (average 20 meters)
+- **Current**: Usually mild and sheltered
+- **Best Time**: Morning or evening; good night dive
 
 ## Marine Life
-Angel City is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The sand channel between reefs hosts garden eels, moray eels, frogfish, and octopus. Documented species at this specific site include: angelfish (the site's namesake association), eagle rays, parrotfish, trumpetfish, filefish, scorpionfish, jawfish, flounders, tarpons, and sea turtles. Night dives reveal hunting jacks. The inner reef is the most species-dense section for daytime observation.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter at the easy beach access and cross the shallow plateau (4.5 meters) to the inner reef. Descend the slope to the sand channel separating the two reef systems. The outer reef rises again from the channel floor. The most productive depth range for marine life is 8–20 meters on and around the inner reef. The outer reef drop-off to 40 meters is accessible for more experienced divers.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Easy sandy beach access — no rocky entry. Look for the yellow BNMP marker stone on the coast road. No boat required for either reef.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Night dives here are productive for frogfish, octopus, and hunting jacks
+- Macro shooters should work the sand channel carefully — frogfish and jawfish shelter here
+- The inner reef offers a complete dive without needing to reach the outer reef
+
+## Safety
+
+The outer reef drops to 40 meters — manage depth carefully if crossing to the second reef. The shallow inner reef is benign for beginners.
 
 ## Photography
-Angel City offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
 
-## Nearby Sites
-Nearby sites include Salt Pier, Hilma Hooker, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
-
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/angel-city
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+The sand channel provides distinct subjects from the reef — garden eels in the sandy substrate, frogfish on coral heads. Wide-angle works well on the inner reef slope. Angelfish and trumpetfish provide portrait subjects in natural light.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Sunwise Bonaire – Angel City](https://sunwisebonaire.com/blog/bonaire-dive-sites-angel-city/), [InfoBonaire – Angel City](https://infobonaire.com/angel-city/), [Divers-Guide – Angel City](https://www.divers-guide.com/en/angel-city), [Bonaireisland.com – Angel City](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-19.*

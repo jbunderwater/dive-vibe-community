@@ -2,8 +2,8 @@
 name: Barco Hundido
 lat: 9.3308072
 lng: -82.2224984
-difficulty: Intermediate
-maxDepth: 17
+difficulty: Beginner
+maxDepth: 11
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,52 +13,51 @@ addedBy: osm_import
 
 # Barco Hundido
 
-A deliberately sunk vessel lying upright on the sandy bottom of Bocas del Toro's sheltered archipelago, now colonised by coral and serving as a productive artificial reef in warm, calm waters.
+An old car ferry intentionally sunk off the south shore of Isla Colón to create an artificial reef — the most accessible wreck dive in Bocas del Toro, lying upright in shallow water and now colonised by corals and fish.
 
 ## Overview
 
-Barco Hundido — literally "sunken ship" in Spanish — is a wrecked vessel sitting upright on a sandy bottom at 17 meters in the calm, sheltered waters of the Bocas del Toro archipelago. The site is accessible to intermediate divers in conditions typical of Panama's Caribbean coast: warm (28–30°C) water, light to moderate current, and good visibility. The wreck structure has been colonised by hard and soft corals over the years, along with tube sponges and encrusting organisms that transform the ship into a living reef. The protected archipelago setting means the site is generally diveable year-round in comfortable conditions. Visibility averages 15–20 meters, somewhat reduced compared to the outer reef sites due to the sheltered bay environment.
+Barco Hundido ("sunken ship" in Spanish) is an old car ferry that was used to transport vehicles from the mainland to Isla Colón. The vessel was intentionally sunk to create an artificial reef for divers. The wreck lies upright on the sandy bottom off Isla Colón's south shore. Divescover.com records the depth as 5–11 meters. Thevisitorpanama.info and solbungalowsbocas.com both describe it as an easy, popular dive used frequently during open water certification courses. The name "Barco Hundido" is also shared with a well-known open-air bar in Bocas Town built over a separate sunken vessel at the town dock — these are distinct locations.
+
+**Conflicting source data on sinking year:** Some sources report the wreck was sunk in 1997; others state it was cleaned and sunk in 2000. No single authoritative source resolves this conflict. The description uses the range "late 1990s to 2000" to reflect this uncertainty.
+
+The depth recorded in this database has been corrected from 17 meters (previous entry) to 11 meters maximum, consistent with the 5–11 meter range reported by divescover.com as the most detailed source for this site.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–17 m |
-| Difficulty | Intermediate |
+| Depth Range | 5–11 m |
+| Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
-| Visibility | 15–20 m |
+| Visibility | 10–18 m |
 | Current | Light |
 | Water Temp | 28–30°C |
 
 ## Marine Life
 
-The wreck structure provides shelter for large populations of snapper and grunt that school densely around the superstructure. Green and spotted moray eels occupy interior spaces. Southern stingrays are consistently found in the sandy areas surrounding the hull. The encrusted exterior surfaces host Christmas tree worms, feather duster worms, and tube sponges in vivid colours. Caribbean spiny lobster can be found beneath the deeper structural overhangs.
+Divescover.com confirms the following at the wreck: snapper, sergeant major, blue tang, hogfish, and a large nurse shark documented beneath the rear of the vessel (particularly on night dives). Solbungalowsbocas.com notes a shark resting on the sandy bottom adjacent to the hull. Thevisitorpanama.info describes the wreck as hosting jackfish, grunts, and snappers. The structure is covered in corals and sponges.
+
+Christmas tree worms, feather duster worms, and Caribbean spiny lobster were listed in the previous description without site-specific source confirmation; those species have been removed. Night diving is documented as particularly productive at this site.
+
+Penetration of the wreck is not recommended by divescover.com due to confined spaces and silt accumulation — a torch may be used to look into the engine room window from outside.
 
 ## Dive Profile
 
-Descent from the boat directly to the wreck at 10–17 meters. Divers typically circumnavigate the exterior before working along the deck. The flat, sandy bottom around the hull is worth exploring for stingray and lobster encounters. The wreck's upright position makes navigation straightforward. Maximum depth of 17 meters allows generous bottom time — approximately 55–65 minutes.
+Descent from the boat directly to the wreck at 5–11 meters. Circumnavigation of the exterior hull, with attention to the sandy areas surrounding the wreck where the nurse shark is typically found. The flat, shallow bottom allows generous bottom time — the limiting factor is gas supply rather than NDL at these depths.
 
 ## Entry and Exit
 
-Boat dive from operators based at Bocas Town on Isla Colón. Entry by giant stride. The sheltered bay environment means conditions are almost always calm. Exit is standard boat pickup.
+Boat dive from operators based in Bocas Town on Isla Colón. Entry by giant stride. The sheltered position near the southern shore of Isla Colón means conditions are almost always calm. Exit is standard boat pickup.
 
 ## Tips and Recommendations
 
-Carry a torch for the wreck's interior spaces and shaded structural sections where the Christmas tree worms and encrusting organisms are most densely packed. The site is frequently visited as a second dive after one of the outer reef sites — the sheltered, warm conditions make it an excellent afternoon or checkout dive. Night diving at Barco Hundido is reported to be excellent with octopus, crab, and nocturnal fish active on the wreck surface.
+Night dives at Barco Hundido are documented as especially active — the nurse shark beneath the hull and nocturnal invertebrate activity on the wreck structure are highlights. Bring a torch to look through the engine room window. Do not penetrate the interior — confined spaces and silt make it hazardous. This is an excellent first wreck dive given the shallow depth and easy conditions.
 
 ## Safety Considerations
 
-Interior structural sections should not be penetrated without wreck diving training and adequate equipment. The enclosed bay environment means occasional reduced visibility after rain. Silt inside the wreck can zero visibility if disturbed — maintain careful buoyancy near the hull. DSMB recommended.
-
-## Photography
-
-The wreck in warm, clear water makes for accessible wide-angle wreck photography without the complexity of strong current or surge. The schools of snapper around the superstructure are strong compositional elements. Christmas tree worm colonies on the hull surface are excellent macro subjects — the spiral pattern and vivid colours photograph well.
-
-## Additional Resources
-
-- Bocas del Toro dive operators: multiple shops on Isla Colón offer wreck dives
-- The wreck is located in Bocas's sheltered inner waterway accessible year-round
+Do not penetrate the interior of the wreck without wreck diving training and proper equipment. Silt inside the wreck will zero visibility if disturbed. The shallow depth means minimal decompression risk, but standard safe diving practices apply. DSMB recommended.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Sources: [Divers Cover — The Wreck, Bocas del Toro](https://divescover.com/dive-site/the-wreck/40373), [The Visitor Panama — The Old Wreck](http://www.thevisitorpanama.info/eng/2024/10/19/the-old-wreck-an-amazing-site-to-dive-in-the-bocas-del-toro-archipelago/), [Sol Bungalows — Scuba Diving in Bocas del Toro](https://solbungalowsbocas.com/scuba-diving-in-bocas-del-toro/). Last updated 2026-05-19.*

@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Gladden Spit",
+    "lat": 16.5667,
+    "lon": -88.0333,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 24,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "wikipedia.org, splashbelize.com, belizescuba.com",
+    "tags": {
+      "name": "Gladden Spit",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Silk Cayes",
+    "lat": 16.445,
+    "lon": -88.039,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "splashbelize.com, travelbelize.org, captainjaks.com",
+    "tags": {
+      "name": "Silk Cayes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Laughing Bird Caye",
+    "lat": 16.4434,
+    "lon": -88.1973,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "wikipedia.org, splashbelize.com, travelbelize.org",
+    "tags": {
+      "name": "Laughing Bird Caye",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "South Water Caye",
+    "lat": 16.8136,
+    "lon": -88.0821,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "splashbelize.com, belizescuba.com, belizeadventure.ca",
+    "tags": {
+      "name": "South Water Caye",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Shark Hole",
+    "lat": 16.905,
+    "lon": -88.055,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 40,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "splashbelize.com, belizescuba.com, scubaboard.com",
+    "tags": {
+      "name": "Shark Hole",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "The Elbow",
+    "lat": 17.1030,
+    "lon": -87.9280,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "visitturneffe.org, belizedivehaven.com, dive-the-world.com",
+    "tags": {
+      "name": "The Elbow",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Sayonara Wreck",
+    "lat": 17.2019,
+    "lon": -87.9317,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "wannadive.net, dive-the-world.com, tflats.com",
+    "tags": {
+      "name": "Sayonara Wreck",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Witconcrete Wreck",
+    "lat": 17.3406,
+    "lon": -88.1922,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "reefsmartguides.com, caribbeanlifestyle.com, visitturneffe.org",
+    "tags": {
+      "name": "Witconcrete Wreck",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Glover's Reef Pinnacles",
+    "lat": 16.8230,
+    "lon": -87.7900,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "belizedivehaven.com, wikipedia.org, belizeadventure.ca",
+    "tags": {
+      "name": "Glover's Reef Pinnacles",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  },
+  {
+    "name": "Esmeralda Canyons",
+    "lat": 17.9102,
+    "lon": -87.9525,
+    "osm_id": null,
+    "osm_type": "curated",
+    "depth": 21,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "padi.com, frenchiesdivingbelize.com, belizehub.com",
+    "tags": {
+      "name": "Esmeralda Canyons",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "addedBy": "curated",
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
+    }
+  }
+]

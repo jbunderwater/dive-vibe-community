@@ -13,51 +13,49 @@ addedBy: jbunderwater_ai
 
 # Oil Slick Leap
 
-An exciting cliff jump dive site featuring dramatic entry and excellent coral formations
+*Marked BNMP #20 — a north Bonaire wall dive with a steel-ladder entry onto a fringing reef, home to an active elkhorn coral nursery and large barracuda schools.*
 
 ## Overview
-Oil Slick Leap is one of Bonaire's most thrilling dive sites, named for the dramatic cliff jump entry that provides an adrenaline rush before the dive even begins. The site features a rocky ledge about 15 feet above the water, from which divers make a giant stride entry. Once in the water, divers are greeted by a beautiful reef wall that starts at about 20 feet and drops steeply to depths of over 100 feet. The reef is in excellent condition with healthy coral formations and abundant marine life. The site is particularly popular with adventurous divers who enjoy the exciting entry.
+
+Oil Slick Leap (BNMP #20) takes its name from a once-proposed industrial facility that was never built, leaving the reef intact. The primary entry is via a permanently fixed steel ladder descending directly into the water at 5–6 meters depth. A raised concrete platform alongside also allows a giant-stride jump (approximately 2.5 meters at low tide) for those who prefer it — but the ladder is the standard entry. The site features a sloping fringing reef dropping from approximately 6 meters to 25 meters, with a reef face that is well-suited to intermediate-depth exploring. An elkhorn coral nursery has been established here, managed as part of Bonaire's reef restoration program.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+
+- **Location**: North-central Bonaire, marked site BNMP #20
+- **Entry Type**: Shore entry via steel ladder (platform jump optional)
+- **Site Type**: Wall dive (sloping fringing reef)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light, but can be moderate
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Usually light to moderate
+- **Best Time**: Morning
 
 ## Marine Life
-Oil Slick Leap is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Large schools of barracuda are frequently reported at this site. The shallow reef zone (3–8 meters) is suitable for snorkelers and beginner divers. The elkhorn coral nursery frames the upper reef. Regional reef fish (parrotfish, surgeonfish, angelfish) are present throughout. No site-specific marine life surveys were found beyond the barracuda and nursery-associated species — do not expect unique or unusual species beyond the standard north Bonaire reef community.
 
 ## Dive Profile
-The entry is via a dramatic cliff jump from a rocky ledge about 15 feet above the water. After the giant stride entry, swim out to the reef wall, which starts at about 20 feet. Plan your dive to explore the wall at different depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
+
+Enter via the steel ladder at approximately 5–6 meters depth. The reef slopes from 6 to 25 meters, with most interesting structure between 10 and 25 meters. The elkhorn coral nursery is located in the shallower section. Explore the slope, then return to the ladder for exit. The depth is manageable for recreational divers and provides comfortable bottom time without decompression concerns.
 
 ## Entry and Exit
-The entry is via a giant stride from a rocky ledge about 15 feet above the water. The ledge is easily accessible and provides a safe jumping point. After the dive, exit at the same location by climbing back up the rocks. The exit can be challenging with dive gear, so take your time.
 
-## Tips and Recommendations
-- This site is not for the faint of heart due to the cliff jump entry
-- The entry is safe but requires confidence and proper technique
-- The best diving is along the wall, not in the sandy areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for both wide-angle and macro photography
+Steel ladder provides a controlled entry directly into water. The concrete platform is low — approximately 2.5 meters at low tide — for those who prefer to jump. The ladder rungs may be slippery with growth; step carefully. Exit via the same ladder. This site is also commonly dived by boat.
 
-## Safety Considerations
-The cliff jump entry requires confidence and proper technique. The rocky ledge can be slippery when wet, so use caution. The reef wall is dramatic, so maintain proper buoyancy control. The exit can be challenging with dive gear, so take your time. Be aware of boat traffic in the area, though it's typically light at this location.
+## Tips
+
+- The steel ladder is the standard entry — don't feel obligated to jump from the platform
+- Visit the elkhorn coral nursery in the shallows before descending
+- Large barracuda schools are worth lingering for in the mid-water column
+- Morning light on the reef face from the east makes this a good early-day dive
+
+## Safety
+
+The ladder may have damaged or missing lower rungs — inspect before use and descend with care. The reef wall is straightforward, but maintain buoyancy to avoid damaging the coral nursery. Monitor gas carefully if exploring deeper sections.
 
 ## Photography
-Oil Slick Leap offers exceptional photography opportunities. The dramatic reef wall and healthy coral formations provide excellent wide-angle shots. The abundant marine life offers great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
 
-## Nearby Sites
-Nearby sites include Bari Reef, 18th Palm, and Calabas Reef. All are accessible along the central coast of Bonaire.
-
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/oil-slick-leap
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Shore entry
-- **Last Updated**: 2025-06-24
+The elkhorn coral nursery frames interesting wide-angle reef shots. Barracuda schools photograph well in mid-water column against open blue. The ladder entry itself makes a dramatic composition with a diver in the frame.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Oil Slick Leap](https://infobonaire.com/oil-slick-leap/), [Sunwise Bonaire – Oil Slick Leap](https://sunwisebonaire.com/blog/bonaire-dive-sites-oil-slick-leap-cliff-jumps-reefs-and-epic-underwater-views/), [Divers-Guide – Oil Slick Leap](https://www.divers-guide.com/en/oil-slick-leap), [ScubaBoard – Bonaire Shore Dives](https://scubaboard.com/community/threads/best-shore-dives-in-bonaire.147718/). Last updated 2026-05-19.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Dark Wood Reef
 
-A productive outer reef on the eastern fringe of the Bocas del Toro archipelago where Atlantic water clarity delivers better visibility than the sheltered inner sites, with diverse coral formations and large groupers.
+An intermediate reef site in the Bocas del Toro archipelago in the general Bastimentos area, placed in the database to represent the outer reef diving available between the inner cay sites and the open-ocean pinnacles.
 
 ## Overview
 
-Dark Wood Reef sits on the more exposed eastern margin of the Bocas del Toro archipelago, where cleaner Atlantic water enters the system and delivers improved visibility compared to the sheltered inner cay sites. The reef descends from a shallow crest at 8 meters to a sandy base at 20 meters, with a diverse hard coral community featuring barrel sponges at depth and brain, star, and pillar corals on the mid-reef. The outer reef position also means slightly more current — enough to increase fish activity and attract larger species that prefer moving water. Water temperature is 27–29°C.
+Dark Wood Reef is positioned in the database near the eastern Bastimentos area of the Bocas del Toro archipelago. No site under this name was identified in any of the major local dive operator websites, dive databases, or community forums consulted during research. The site may represent a local name not in wide circulation, or may correspond to a site known by a different name. The outer reef areas of Bastimentos do host intermediate diving with harder coral coverage and better visibility than the inner sites, as a general characteristic of the region.
+
+*No site-specific sources were found for Dark Wood Reef. The description below reflects general regional characteristics for this area of the archipelago only.*
 
 ## Site Information
 
@@ -27,38 +29,29 @@ Dark Wood Reef sits on the more exposed eastern margin of the Bocas del Toro arc
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
-| Visibility | 15–25 m |
-| Current | Light to moderate |
+| Visibility | Data not available |
+| Current | Unknown |
 | Water Temp | 27–29°C |
 
 ## Marine Life
 
-Dark Wood Reef is known for larger groupers than the inner cay sites — Nassau groupers and tiger groupers are common residents on the deeper reef sections at 15–20 meters. Spotted eagle rays are occasionally seen sweeping the sandy base. Schools of creole wrasse cloud the reef crest. Green sea turtles are consistent visitors. Barracuda patrol in mid-water above the reef. The deeper sections of the reef at 18–20 meters support barrel sponge communities with their associated cleaning stations.
+No site-specific marine life sources found. The Bocas del Toro archipelago generally supports nurse sharks, southern stingrays, green sea turtles, reef fish (parrotfish, snappers, grunts, angelfish), and sponge communities, but these cannot be attributed to Dark Wood Reef specifically without a source confirming sightings at this location.
 
 ## Dive Profile
 
-Descent to the reef crest at 8 meters, with navigation south along the outer reef face at 12–18 meters. The deepest section at 18–20 meters is where the barrel sponges and larger groupers concentrate. Ascent back to the crest for an extended safety stop. The improved outer-reef visibility rewards a leisurely exploration pace. Total dive: 45–55 minutes.
+No site-specific profile information available.
 
 ## Entry and Exit
 
-Boat dive from Bocas Town operators. The eastern margin is 15–20 minutes by dive boat. Entry by giant stride. Current at the outer reef requires DSMB deployment for safe boat pickup.
+Boat dive from Bocas Town operators. No site-specific access information available.
 
 ## Tips and Recommendations
 
-Dark Wood Reef is best for intermediate divers who want the visibility and fish life of the outer reef without the extreme depth or current of Tiger Rock. The site is a good progression from the inner sheltered sites when divers are comfortable with their skills and want more challenging conditions. Morning dives typically have better visibility than afternoon when boat traffic and rainfall can slightly reduce water clarity.
+Consult local dive operators in Bocas del Toro to confirm whether this site is dived under this name or another. The intermediate outer reef character makes it likely to suit divers who have completed the beginner inner-cay sites and are ready for more current and depth.
 
 ## Safety Considerations
 
-Outer reef current can be stronger than inner sites — check tidal timing with the operator. The sandy base at 20 meters is close to intermediate NDL limits for an air dive — monitor the dive computer and begin ascent before limits are reached. DSMB required.
-
-## Photography
-
-The improved visibility at Dark Wood Reef compared to inner sites opens up wider compositions. Wide-angle shots of the full reef slope with divers and barrel sponges are effective. Grouper portraits in their reef-crevice positions benefit from supplemental lighting. The sandy base shots with eagle rays (when present) are the best images from this site.
-
-## Additional Resources
-
-- Bocas del Toro dive operators: outer reef sites including Dark Wood require advance booking to ensure boat availability
-- Best conditions: September–October (less rain, good visibility) and February–March (dry season)
+Standard intermediate dive precautions apply. DSMB required for outer reef diving.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for Dark Wood Reef after searching therealdealtours.com, labugapanama.com, solbungalowsbocas.com, tribloo.com, padi.com, bocasdiversparadise.com. Last updated 2026-05-19.*

@@ -13,52 +13,45 @@ addedBy: osm_import
 
 # Crawl Cay
 
-A productive intermediate reef surrounding one of Bocas del Toro's most biodiverse cays — a site where coral garden transitions to deeper reef structure, with nurse sharks resting in sandy clearings.
+A reef surrounding one of the central Bocas del Toro cays, also known as Coral Cay — a frequently snorkelled and dived site in the protected inner waters with small coral heads and vibrant sponges.
 
 ## Overview
 
-Crawl Cay is one of the more popular intermediate dive sites in the Bocas del Toro archipelago, featuring a well-developed reef system descending from the cay's fringing shallows to approximately 18 meters on the outer reef face. The cay sits in the central archipelago and is surrounded by coral gardens in the shallows transitioning to more complex reef structure at depth. The warm, sheltered waters typical of Bocas del Toro support good hard coral growth with brain corals, star corals, and scattered gorgonian sea fans. Visibility averages 15–20 meters in the protected inner waters. Water temperature remains 28–30°C year-round.
+Crawl Cay — also referred to as Coral Cay in some sources, and not to be confused with the separate Cayo Coral site to the south — is a small, mangrove-fringed islet in the inner archipelago of Bocas del Toro. Arrivalguides.com notes it is "surrounded by mangroves" and is named after a small restaurant located there. The site is used as a frequent snorkel stop on day trips and also supports scuba diving to approximately 18 meters on the outer reef edge. Therealdealtours.com lists it as a beginner-to-intermediate site with a maximum depth of 60 feet (18 m). The site has protected mooring buoys limiting boat traffic. Inner archipelago conditions provide typically calm water and moderate visibility.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–18 m |
+| Depth Range | 4–18 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
-| Visibility | 15–20 m |
-| Current | Light to moderate |
+| Visibility | 10–18 m |
+| Current | Light |
 | Water Temp | 28–30°C |
 
 ## Marine Life
 
-Nurse sharks are one of the draws at Crawl Cay — they rest in the sandy clearings at the reef base at 14–18 meters, typically 2–4 individuals during daylight hours. Green sea turtles graze on the seagrass beds in the shallows around the cay. Spotted eagle rays occasionally sweep through the deeper reef sections. Large schools of French grunt and yellowtail snapper shelter around coral formations. The sandy areas between the reef and the cay feature stingrays and an array of burrowing organisms. Caribbean reef squid are frequently observed hovering in open water near the cay.
+Therealdealtours.com documents reef fish, giant jellyfish, and barracuda at Coral Cay/Crawl Cay. The arrivalguides.com listing notes small vibrant coral formations and various sea sponges. This site is described as a snorkel favourite rather than a dedicated dive site for marine life highlights.
+
+No site-specific sources confirmed nurse sharks, spotted eagle rays, or Caribbean reef squid at Crawl Cay. These species occur throughout the wider Bocas del Toro area but were not specifically cited for this site in the sources consulted.
 
 ## Dive Profile
 
-Boat drop at the outer reef edge, with descent to working depth (12–18 m) on the outer face. Navigate east along the reef before ascending to the coral garden at 6–10 meters for the second half of the dive. Nurse shark inspection at the sandy clearings in the deeper sections is the main objective for many divers at this site. Return to the boat via the shallow coral garden.
+Boat drop at the outer reef edge. Descent to working depth (12–18 m) on the outer face. The protected mooring buoys indicate limited anchoring in the area. The shallow coral gardens in the upper 4–8 meters are accessible for both snorkellers and scuba divers.
 
 ## Entry and Exit
 
-Boat dive from Bocas Town operators. Entry by giant stride. The site is typically calm in the protected inner archipelago. DSMB recommended for boat pickup on the outer reef.
+Boat dive from Bocas Town operators. Entry by giant stride. Calm inner archipelago conditions. DSMB recommended for boat pickup at the outer reef.
 
 ## Tips and Recommendations
 
-Approach the sandy nurse shark resting areas slowly and at the same depth as the animals rather than descending on them from above. The coral garden in the shallows at Crawl Cay is excellent for a relaxed second half of the dive after visiting the deeper reef. This site dives well as a morning dive paired with Hospital Point or Dolphins Bay in the afternoon.
+Crawl Cay serves primarily as a snorkel site on multi-stop day trips. For divers looking for richer marine life encounters, the outer reef sites or Cayo Coral to the south may offer more variety. The mooring buoy system protects the reef from anchor damage.
 
 ## Safety Considerations
 
-Nurse sharks are docile but should not be approached too closely — maintain a respectful distance and do not handle or corner them. Current can develop on the outer reef face at tidal changes. Fire coral is present on reef crest sections. DSMB required.
-
-## Photography
-
-Nurse shark photography is the primary photographic goal at Crawl Cay — approach slowly, position at the same depth as the animal, and use a wide-angle lens to capture the full shark with the sandy-reef context. The coral garden in the shallows is excellent for ambient-light photography in 5–8 meters. Caribbean reef squid in the open water respond well to slow approaches and make striking subjects.
-
-## Additional Resources
-
-- Bocas del Toro dive operators: Crawl Cay is a standard inclusion in multi-dive day trips
-- La Buga, Bocas Water Sports: regular guided dives at this site
+Jellyfish (including large specimens) have been reported at this site — maintain awareness and avoid contact. Boat traffic from day tours is present during peak hours. DSMB required.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Sources: [The Real Deal Tours — Bocas del Toro Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Arrivalguides — Coral Cay (Crawl Cay)](https://www.arrivalguides.com/en/Travelguide/PANAMAISLANDS/bocas-del-toro/coral-cay-crawl-cay-78648), [Snorkeling Report — Cayo Coral, Bocas del Toro](https://www.snorkeling-report.com/spot/snorkeling-cayo-coral-bocas-del-toro/). Last updated 2026-05-19.*

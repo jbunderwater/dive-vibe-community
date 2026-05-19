@@ -13,11 +13,11 @@ addedBy: jbunderwater_ai
 
 # Windjammer
 
-*Iron-hulled sailing ship Mairi Bhan, lost in a 1912 storm off the BOPEC terminal — lies on her starboard side at roughly 55–60 meters. A technical-depth wreck, not a recreational dive.*
+*Three-masted iron barque Mairi Bhan (1874), lost in a December 1912 storm off the BOPEC terminal — lies on her starboard side at depth that sources report variously as 140–200 feet. A technical-depth wreck, not a recreational dive.*
 
 ## Overview
 
-The "Windjammer" is the wreck of the Mairi Bhan (sometimes written Mairi Bahn), a four-masted iron-hulled sailing ship built in 1874 by Barclay, Curle & Co. in Glasgow. Carrying a cargo of asphalt or tar barrels, she was driven onto Bonaire's northwest coast by a severe storm and sank in 1912 in front of what is now the BOPEC oil terminal. She rests on her starboard side at approximately 55–60 meters (180–200 feet), with both masts still standing and reaching upward toward the surface. This is **not a recreational dive** — it sits well beyond no-decompression limits on air or standard nitrox, and access is restricted by the active oil terminal above.
+The "Windjammer" is the wreck of the Mairi Bhan (Gaelic for "Bonnie Mary"), a three-masted iron-hulled sailing barque built in 1874 by Barclay, Curle & Co. in Glasgow. The vessel measured 239 feet (73 m) in length with a beam of 37 feet. Carrying a cargo of asphalt from Trinidad, she was driven onto Bonaire's northwest coast by a severe storm and sank in December 1912 in front of what is now the BOPEC oil terminal. Sources conflict on depth: NUMA reports she rests "in 140–180 feet of water," while DreamWrecks and other dive guides place the main hull at approximately 200 feet (60 m), with the tops of the remaining two masts at 48–51 m. This is **not a recreational dive** — it sits well beyond no-decompression limits on air or standard nitrox, and access is restricted by the active oil terminal above.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The hull and standing masts have accumulated decades of sponge and coral growth.
 
 ## Dive Profile
 
-Both masts remain upright with the wreck on her starboard side. Most descriptions place the top of the masts around 35–40 meters and the main deck and hull in the 50–60 meter range. The seabed continues deeper. The combination of strong current, depth, and the ship's exposed orientation places this firmly in technical-diving territory: a multi-gas profile with substantial decompression obligation is the norm.
+Two of the original three masts remain standing with the wreck on her starboard side. Sources conflict on exact depth: DreamWrecks and PADI-associated guides place the top of the wreck structure at approximately 48–51 m, with the deepest points at 60 m; NUMA describes the hull resting "in 140–180 feet of water" (43–55 m). The seabed continues deeper. The combination of strong current, depth, and the ship's exposed orientation places this firmly in technical-diving territory: a multi-gas profile with substantial decompression obligation is the norm.
 
 ## Entry and Exit
 
@@ -62,4 +62,4 @@ The standing masts photograph dramatically against open water for divers who can
 The Windjammer site sits offshore from the BOPEC area on Bonaire's northwest coast. Karpata, La Dania's Leap, and Carel's Vision are the nearest recreational-depth sites along the same coastline, but none are functional alternatives — they are wholly different dives.
 
 ---
-*Sources: [DreamWrecks – Windjammer / Mairi Bhan](https://dreamwrecks.com/windjammer-bonaire-wreck), [Blue-Oceans – Mairi Bhan Shipwreck](https://blue-oceans.com/index.php/scuba-diving/bonaire/scuba-diving-on-bonaire/shipwrecks-bonaire/mairi-bhan-shipwrecks), [Divers-Guide – Windjammer](https://www.divers-guide.com/en/windjammer), [NUMA – Bonaire Windjammer](https://numa.net/2017/02/bonaire-windjammer-is-ghostly-encounter/). Last updated 2026-05-16.*
+*Sources: [DreamWrecks – Windjammer / Mairi Bhan](https://dreamwrecks.com/windjammer-bonaire-wreck), [NUMA – Bonaire Windjammer](https://numa.net/2017/02/bonaire-windjammer-is-ghostly-encounter/), [Divers-Guide – Windjammer](https://www.divers-guide.com/en/windjammer), [Blue-Oceans – Mairi Bhan Shipwreck](https://blue-oceans.com/index.php/scuba-diving/bonaire/scuba-diving-on-bonaire/shipwrecks-bonaire/mairi-bhan-shipwrecks). Depth range reflects conflicting source reports; last confirmed dive data needed from local technical operator. Last updated 2026-05-19.*

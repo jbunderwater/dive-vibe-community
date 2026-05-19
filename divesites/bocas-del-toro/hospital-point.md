@@ -3,9 +3,9 @@ name: Hospital Point
 lat: 9.3348
 lng: -82.2198
 difficulty: Beginner
-maxDepth: 7
+maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,52 +13,47 @@ addedBy: osm_import
 
 # Hospital Point
 
-An ultra-shallow coral garden at the northern tip of Isla Colón — one of Bocas del Toro's most beloved sites for its dense starfish population and reliable turtle encounters in crystalline water.
+A shallow reef-to-wall dive at the northwest tip of Isla Solarte — one of Bocas del Toro's most accessible and popular sites, with a reef crest giving way to a wall lined with caverns and ledges.
 
 ## Overview
 
-Hospital Point is located at the northern tip of Isla Colón, the main inhabited island of the Bocas del Toro archipelago. The site is renowned among visiting divers and locals for its remarkable density of cushion sea stars on the sandy bottom, combined with a healthy shallow coral reef and virtually guaranteed turtle sightings. The reef sits at just 3–7 meters, making it appropriate for beginners, snorkellers, and open water certification dives. The water here is sheltered by the island from northeasterly swells, producing consistently calm conditions. Visibility averages 15–20 meters. Water temperature is 28–30°C.
+Hospital Point is located at the northwest tip of Isla Solarte, a small island approximately 2 km east of Isla Colón and about 5 minutes by boat from Bocas Town. The site name derives from a United Fruit Company hospital complex that once occupied the point in the early 20th century; the rainforest has since reclaimed the land. The dive itself features a reef that starts at around 3 meters, composed mainly of lettuce coral and brain coral, which gradually descends and transitions to a wall at approximately 14–16 meters. The wall face has numerous cracks, caverns, and overhanging ledges. A shallow sandy bay adjacent to the point is used for beginner certification dives. Visibility is typically 15–20 meters. Water temperature is 28–30°C.
+
+Note: Some sources list this site as being near the northern tip of Isla Colón; however, multiple independent sources including PADI (coordinates 9.33428, -82.21820) and therealdealtours.com consistently place Hospital Point at the northwest tip of Isla Solarte.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 2–7 m |
+| Depth Range | 3–16 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Wall |
 | Visibility | 15–20 m |
-| Current | Very light |
+| Current | Light |
 | Water Temp | 28–30°C |
 
 ## Marine Life
 
-Green sea turtles are the signature sighting at Hospital Point — they graze on the seagrass and rest on the reef in the shallows and are almost always present. Cushion sea stars (Oreaster reticulatus) populate the sandy areas in large numbers and are one of the most photographed subjects in Bocas del Toro — bright orange-red stars on white sand in clear water. Nurse sharks sometimes rest in the deeper sand patches at the reef base. Parrotfish, sergeant majors, and blue tang are abundant throughout. Spotted moray eels occupy coral crevices.
+Sources confirm nurse sharks are present at the sandy base of the reef and are particularly active on night dives. Southern rays and hermit crabs are documented at the sandy base, especially after dark. The wall and reef sections host lobster, moray eels, lionfish, triggerfish, nudibranch, scorpionfish, pufferfish, surgeonfish, angelfish, parrotfish, grouper, and Spanish slipper lobster — per PADI and therealdealtours.com. Barracuda have also been reported at this site. Hospital Point is a recommended night dive site.
+
+No source specifically confirmed turtles as a regular or signature sighting at Hospital Point itself. Hawksbill turtle sightings in the wider region are reported April–June at other Bocas del Toro sites.
 
 ## Dive Profile
 
-Boat drop adjacent to the point, with divers descending immediately to the reef at 3–7 meters. The shallow maximum depth means the entire dive is conducted in the upper few meters where ambient light is optimal. The sandy areas between coral formations are the main focus for starfish observation and turtle encounters. A leisurely 45–60 minute dive covers the main areas of the site.
+Entry at the reef crest at 3 meters, then navigation along the reef face as it deepens and transitions to the wall at 10–16 meters. The caverns and overhanging ledges in the wall are the primary points of interest at depth. The shallow sandy bay adjacent to the point is suitable for beginner skill-building. Night dives start at the reef edge and focus on the sandy bottom where nurse sharks, rays, and invertebrates are active.
 
 ## Entry and Exit
 
-Boat dive from Bocas Town operators. Entry by giant stride or backward roll. Very calm conditions make entry and exit straightforward. The site is also commonly reached by kayak from Bocas Town.
+Boat dive from Bocas Town. Approximately 5 minutes travel time. Entry by giant stride. The shallow sandy bay section is suitable for open water certification dives. The site is well-suited for both day and night diving.
 
 ## Tips and Recommendations
 
-Hospital Point is most enjoyable when visited during the first or last hour of daylight when turtle activity is highest and day-trip boat traffic is lower. Do not stand on or handle the sea stars — photograph them in situ. This is an excellent site for underwater photography lessons due to the calm conditions, abundant subjects, and forgiving shallow depth. Often the first dive of a Bocas multi-day trip.
+Hospital Point is favored as a night dive by local operators — the reef and sandy areas come alive with nurse sharks, rays, hermit crabs, and lobster after dark. The caverns and ledges in the wall section reward careful exploration with a torch. Lionfish are present; observe but do not touch.
 
 ## Safety Considerations
 
-The extremely shallow depth presents minimal diving risk. Fire coral is present on some reef sections. Boat traffic at this popular point can be heavy during midday tourist hours — surface with a DSMB and check for approaching watercraft. Do not remove or reposition sea stars for photography.
-
-## Photography
-
-Hospital Point is one of the most photographically productive sites in Bocas del Toro. The cushion sea stars on white sand with clear blue water create a quintessential tropical image. Wide-angle and close-focus wide-angle both work well. Turtle portraits in the shallow water are excellent in ambient light. The warm colours of the sea stars contrast beautifully against the white sand substrate.
-
-## Additional Resources
-
-- Bocas del Toro dive operators: Hospital Point is included in most beginner and discovery dive packages
-- Kayak access: rentals available in Bocas Town for self-guided snorkelling at this site
+Fire coral is present on reef sections. Boat traffic at this popular site is moderate — use a DSMB or surface flag when surfacing. Lionfish are venomous; maintain distance. Standard beginner precautions apply.
 
 ---
-*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*
+*Sources: [The Real Deal Tours — Bocas del Toro Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [PADI — Hospital Point dive site](https://www.padi.com/dive-site/panama/hospital-point//), [Sol Bungalows — Scuba Diving in Bocas del Toro](https://solbungalowsbocas.com/scuba-diving-in-bocas-del-toro/). Last updated 2026-05-19.*

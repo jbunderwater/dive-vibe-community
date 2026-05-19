@@ -3,7 +3,7 @@ name: La Machaca
 lat: 12.171676
 lng: -68.2893863
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 14
 entryType: shore
 siteType: wreck
 ref: 
@@ -13,50 +13,48 @@ addedBy: jbunderwater_ai
 
 # La Machaca
 
-A beautiful wreck dive site featuring the La Machaca at 10m depth
+*Beginner-friendly wreck dive off Captain Don's Habitat — a 14-meter locally-built fishing boat resting upside-down in about 14 meters of water, surrounded by healthy fringing reef.*
 
 ## Overview
 
-La Machaca is a classic Bonaire shore dive located off the dock of Captain Don's Habitat, marked as BNMP #27 in the Bonaire National Marine Park. The site centres on a 14-metre (45-foot) locally-built fishing boat that was intentionally sunk as a dive target. It rests upside-down on a sandy bottom approximately 30–40 metres from shore at 14 metres depth, surrounded by healthy fringing reef. The site is one of Bonaire's most beginner-friendly wreck dives and is diveable day and night.
+La Machaca (BNMP #27) is located off the dock of Captain Don's Habitat on Bonaire's central west coast. The wreck is a small, locally-built fishing boat approximately 14 meters (45 feet) long that was intentionally sunk as a dive target. It rests upside-down on a sandy bottom approximately 30 meters from shore, at a depth of approximately 14 meters (45 feet). The surrounding reef is healthy and accessible. This is one of Bonaire's most accessible wreck dives for newly certified divers.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
+
+- **Location**: Central west coast, off Captain Don's Habitat (BNMP #27)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 14 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Usually light
+- **Best Time**: All day; good night dive
 
 ## Marine Life
-La Machaca is home to a diverse array of marine life. The wreck attracts larger fish species including barracuda, jacks, and groupers. Large schools of blue tangs, parrotfish, and grunts are commonly seen around the reef. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The wreck is documented as home to a resident group of snappers and a large tiger grouper that occupies the hull structure. A habituated green moray eel is frequently found nearby — approach slowly. The surrounding reef supports the typical Bonaire central-coast fish community. The site is also dived as a night dive; no site-specific night-dive marine life surveys were found, but the protected structure typically attracts nocturnal feeders.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the wreck, which lies at 10 meters depth. The wreck is easily visible from the surface and provides excellent opportunities for exploration. Plan your dive to explore both the wreck and the surrounding reef, with most of the marine life found around the wreck structure. The shallow depth makes this site excellent for beginners and extended bottom times.
+
+Enter from shore at Captain Don's Habitat dock area and swim out approximately 30 meters to the wreck. Descend to the sandy bottom at around 14 meters. The upside-down hull offers swim-throughs and structure to explore. After the wreck, spend remaining air on the surrounding reef slope. The shallow depth and calm conditions allow extended bottom time.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef and wreck. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with beginners due to the shallow depth
-- The easy entry makes it perfect for all experience levels
-- Look for the wreck structure and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- Exercise caution when exploring wreck interiors
-- Maintain proper buoyancy to avoid damaging the wreck
+Shore entry from the sandy beach area adjacent to the Habitat dock. The entry is easy and well-marked. Exit at the same location.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The shallow depth makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect both the coral formations and the wreck structure.
+## Tips
+
+- Look for the tiger grouper — it is a regular resident
+- Approach the moray eel cautiously and without touching
+- A dive light helps illuminate the underside of the hull
+
+## Safety
+
+The inverted hull has some interior access points. Penetration is not advised without proper wreck training and a light — the interior is confined and deteriorating. The shallow depth makes this a benign dive otherwise.
 
 ## Photography
-La Machaca offers excellent photography opportunities. The wreck structure and clear water make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the wreck.
 
-## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
-
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Wreck Type**: Fishing vessel
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+The upside-down hull makes an unusual wide-angle subject. The tiger grouper and moray eel are the main portrait subjects. Natural light is sufficient at 14 meters in the morning.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – La Machaca](https://infobonaire.com/la-machaca/), [DreamWrecks – Hotel Alley Wrecks Bonaire](https://dreamwrecks.com/la-machaca-bonaire-wreck), [Divers-Guide – La Machaca](https://www.divers-guide.com/en/la-machaca), [ScubaBoard – Wrecks off Bonaire](https://scubaboard.com/community/threads/wrecks-off-bonaire.443132/). Last updated 2026-05-19.*
