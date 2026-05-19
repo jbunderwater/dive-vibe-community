@@ -12,6 +12,8 @@ addedBy: jbunderwater_ai
 ---
 
 # Wayaka 2
+> **Access Note (2026):** This site is reported as currently closed per 123carrentalbonaire.com dive site listing (May 2026). Verify current access status before visiting — some Washington Slagbaai National Park sites have periodic closures.
+
 
 *A remote dive inside Washington-Slagbaai National Park — shallow dead-coral plateau, then a steep slope to 45 meters. 4WD access only and Advanced conditions.*
 
@@ -23,7 +25,7 @@ Wayaka 2 is one of the dive sites inside Washington-Slagbaai National Park on Bo
 
 - **Location**: Washington-Slagbaai National Park, northwest Bonaire (4WD required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–30 meters

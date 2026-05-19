@@ -12,6 +12,8 @@ addedBy: jbunderwater_ai
 ---
 
 # Boka Bartol
+> **Access Note (2026):** This site is reported as currently closed per 123carrentalbonaire.com dive site listing (May 2026). Verify current access status before visiting — some Washington Slagbaai National Park sites have periodic closures.
+
 
 *The northernmost dive on Bonaire — remote, surf-pounded entry over a rocky beach inside Washington-Slagbaai National Park. Pristine reef in exchange for difficult access and very strong current.*
 
@@ -23,7 +25,7 @@ Boka Bartol is the northernmost dive site on Bonaire (BNMP #1), at the far end o
 
 - **Location**: Northernmost Bonaire, inside Washington-Slagbaai National Park (4WD + Nature Tag required)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters

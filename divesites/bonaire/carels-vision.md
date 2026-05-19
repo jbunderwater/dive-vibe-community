@@ -23,7 +23,7 @@ Carel's Vision is named after Carel Steensma, a Dutch WWII resistance fighter wh
 
 - **Location**: North Bonaire mainland, near the BOPEC oil terminal
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: ~25 meters

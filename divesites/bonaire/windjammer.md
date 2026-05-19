@@ -3,7 +3,7 @@ name: Windjammer
 lat: 12.2202758
 lng: -68.3753404
 difficulty: Technical
-maxDepth: 55
+maxDepth: 60
 entryType: boat
 siteType: wreck
 ref: 
@@ -25,7 +25,7 @@ The "Windjammer" is the wreck of the Mairi Bhan (Gaelic for "Bonnie Mary"), a th
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Technical
-- **Maximum Depth**: 55 meters
+- **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Often strong, variable
 - **Best Time**: Determined entirely by sea state and permit availability — not a casual dive

@@ -25,7 +25,7 @@ The Hilma Hooker is Bonaire's most iconic dive and one of the Caribbean's premie
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (top of hull at approximately 18 meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Can be moderate to strong
 - **Best Time**: Early morning (before 8:00 AM) for best visibility and fewer divers

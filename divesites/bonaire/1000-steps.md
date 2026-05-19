@@ -22,8 +22,8 @@ addedBy: jbunderwater_ai
 ## Site Information
 
 - **Location**: North Bonaire, marked site BNMP #16
-- **Entry Type**: Shore entry via concrete staircase
-- **Site Type**: Wall dive (sloping fringing reef with steep drop-off)
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters

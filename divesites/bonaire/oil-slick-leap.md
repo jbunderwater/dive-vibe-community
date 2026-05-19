@@ -3,7 +3,7 @@ name: Oil Slick Leap
 lat: 12.2001711
 lng: -68.308717
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 25
 entryType: shore
 siteType: wall
 ref: 
@@ -22,8 +22,8 @@ Oil Slick Leap (BNMP #20) takes its name from a once-proposed industrial facilit
 ## Site Information
 
 - **Location**: North-central Bonaire, marked site BNMP #20
-- **Entry Type**: Shore entry via steel ladder (platform jump optional)
-- **Site Type**: Wall dive (sloping fringing reef)
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters

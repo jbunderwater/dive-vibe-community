@@ -21,7 +21,7 @@ Punt Vierkant is a beautiful dive site located on Bonaire's western coast, known
 ## Site Information
 - **Location**: Western Bonaire (north of Kralendijk)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters
@@ -60,4 +60,4 @@ Nearby sites include other western Bonaire dive sites such as those along the we
 - **Last Updated**: 2025-06-24
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Bonaire Island – Dive Sites](https://bonaireisland.com/experiences/diving/sites/). No site-specific sources found; description based on Bonaire west-coast fringing reef characteristics. Last updated 2026-05-19.*

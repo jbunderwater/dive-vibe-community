@@ -19,7 +19,7 @@ Hidden Beach is a beautiful dive site located in southern Bonaire near Atlantis.
 ## Site Information
 - **Location**: South Bonaire (near Atlantis)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
@@ -27,7 +27,7 @@ Hidden Beach is a beautiful dive site located in southern Bonaire near Atlantis.
 - **Best Time**: Morning to early afternoon
 
 ## Marine Life
-Hidden Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+Hidden Beach has no confirmed site-specific marine life reports — it does not appear in major dive site indexes. The destination's full Caribbean reef fish community is likely present given the location, but no site-specific observations were found.
 
 ## Dive Profile
 Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
@@ -57,4 +57,4 @@ Nearby sites include Atlantis, Red Beryl, and Margate Bay. All are accessible al
 - **Last Updated**: 2025-06-24
 
 ---
-*Description based on regional diving characteristics of the southern Bonaire fringing reef. This is an unmarked "dive like a local" site — it does not appear on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) lists it between Vista Blue and Fisherman's Hut on the south coast. Last updated 2026-05-16.*
+*Description based on regional diving characteristics of the southern Bonaire fringing reef. This is an unmarked "dive like a local" site — it does not appear on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) lists it between Vista Blue and Fisherman's Hut on the south coast. Last updated 2026-05-19.*

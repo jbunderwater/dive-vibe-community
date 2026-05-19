@@ -19,7 +19,7 @@ Soft Coral Garden is a beautiful dive site located in southern Bonaire near Atla
 ## Site Information
 - **Location**: South Bonaire (near Atlantis)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
@@ -27,7 +27,7 @@ Soft Coral Garden is a beautiful dive site located in southern Bonaire near Atla
 - **Best Time**: Morning to early afternoon
 
 ## Marine Life
-Soft Coral Garden is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+Soft Coral Garden has no confirmed site-specific marine life reports — it does not appear in major dive site indexes. The destination's full Caribbean reef fish community is likely present given the location, but no site-specific observations were found.
 
 ## Dive Profile
 Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
@@ -57,4 +57,4 @@ Nearby sites include Atlantis, Hidden Beach, and Red Beryl. All are accessible a
 - **Last Updated**: 2025-06-24
 
 ---
-*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Red Slave; not on the official BNMP yellow-stone marker system. Description based on regional southern-Bonaire reef characteristics and a brief mention in [kasdivi.com](https://www.kasdivi.com/) beach guide. Limited site-specific sources. Last updated 2026-05-16.*
+*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Red Slave; not on the official BNMP yellow-stone marker system. Description based on regional southern-Bonaire reef characteristics and a brief mention in [kasdivi.com](https://www.kasdivi.com/) beach guide. Limited site-specific sources. Last updated 2026-05-19.*

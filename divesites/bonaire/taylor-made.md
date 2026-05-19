@@ -13,21 +13,7 @@ addedBy: jbunderwater_ai
 
 # Taylor Made
 
-## Overview
-Taylor Made is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
-
-## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
-
-## Marine Life
-Taylor Made is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+No site-specific marine life surveys were found. The destination's full Caribbean reef fish community is present; the specific species assemblage matches the broader west-coast fringing reef belt of Bonaire.
 
 ## Dive Profile
 Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
@@ -57,4 +43,4 @@ Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are acces
 - **Last Updated**: 2025-06-24
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Bonaire Island – Dive Sites](https://bonaireisland.com/experiences/diving/sites/). No site-specific sources found; description based on Bonaire west-coast fringing reef characteristics. Last updated 2026-05-19.*

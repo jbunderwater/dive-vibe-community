@@ -3,7 +3,7 @@ name: Alice in Wonderland
 lat: 12.0998035
 lng: -68.2852927
 difficulty: Beginner
-maxDepth: 22
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: 
@@ -23,9 +23,9 @@ Alice in Wonderland (BNMP #45) is located in southern Bonaire near the salt flat
 
 - **Location**: South Bonaire, near salt flats (BNMP #45)
 - **Entry Type**: Shore entry
-- **Site Type**: Double reef (fringing reef with outer drop-off)
-- **Difficulty Level**: Beginner (inner reef); Advanced (outer reef and drop-off)
-- **Maximum Depth**: 30+ meters (outer reef drop-off continues deeper)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters (average 20 meters)
 - **Current**: Usually light
 - **Best Time**: Morning

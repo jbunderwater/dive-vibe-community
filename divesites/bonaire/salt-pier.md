@@ -3,7 +3,7 @@ name: Salt Pier
 lat: 12.0835942
 lng: -68.2819519
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: 
@@ -22,8 +22,8 @@ Salt Pier is one of Bonaire's most distinctive dives: a working industrial pier 
 ## Site Information
 
 - **Location**: South-central Bonaire, at the Cargill salt pier (operated by Cargill Salt Works)
-- **Entry Type**: Shore entry (sandy beach, north or south side of pier)
-- **Site Type**: Pier/artificial reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–30 meters

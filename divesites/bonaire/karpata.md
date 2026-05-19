@@ -22,10 +22,10 @@ Karpata is located on the northwest coast of Bonaire, just above 1000 Steps and 
 ## Site Information
 
 - **Location**: Northwest Bonaire, within Bonaire National Marine Park, just north of 1000 Steps
-- **Entry Type**: Shore entry via concrete staircase
-- **Site Type**: Wall dive (reef buttresses and sand chutes)
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ meters (sand chutes; most recreational diving at 10–25 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Generally manageable; can be strong occasionally
 - **Best Time**: Early morning

@@ -3,7 +3,7 @@ name: Angel City
 lat: 12.1033916
 lng: -68.2872133
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: 
@@ -22,10 +22,10 @@ Angel City lies on the southern coast between Alice in Wonderland and the Hilma 
 ## Site Information
 
 - **Location**: South Bonaire, between Alice in Wonderland and Hilma Hooker
-- **Entry Type**: Shore entry (walk-in, pull up and gear up)
-- **Site Type**: Double reef (fringing reef with accessible outer reef)
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 40 meters (outer drop-off; most diving at 8–20 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (average 20 meters)
 - **Current**: Usually mild and sheltered
 - **Best Time**: Morning or evening; good night dive

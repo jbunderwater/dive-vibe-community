@@ -26,7 +26,7 @@ La Dania's Leap is widely cited as Bonaire's only genuine drift dive. The dive b
 - **Exit**: At Karpata, ~600 m north
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (slope continues deeper)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Northward — relied upon for the drift; check before committing
 - **Best Time**: Morning, when current is typically steady

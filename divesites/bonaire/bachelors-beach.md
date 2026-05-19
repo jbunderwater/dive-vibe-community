@@ -13,21 +13,7 @@ addedBy: jbunderwater_ai
 
 # Bachelor's Beach
 
-## Overview
-Bachelor's Beach is a beautiful dive site located south of Kralendijk near the airport. The site features a small sandy beach with a short swim to a dramatic drop-off that starts at about 20 feet and descends to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its dramatic topography and abundance of marine life. The easy sandy entry makes it accessible to divers of all experience levels.
-
-## Site Information
-- **Location**: South of Kralendijk, near airport
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
-
-## Marine Life
-Bachelor's Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+No site-specific marine life surveys were found. The destination's full Caribbean reef fish community is present; the specific species assemblage matches the broader west-coast fringing reef belt of Bonaire.
 
 ## Dive Profile
 Enter the water from the small sandy beach and swim out to the drop-off, which starts at about 20 feet. The reef wall descends steeply, making it easy to explore at different depths. Plan your dive to explore the wall at various depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
@@ -58,4 +44,4 @@ Nearby sites include Salt Pier, Angel City, and Alice in Wonderland. All are acc
 - **Last Updated**: 2025-06-24
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Bonaire Island – Dive Sites](https://bonaireisland.com/experiences/diving/sites/). No site-specific sources found; description based on Bonaire west-coast fringing reef characteristics. Last updated 2026-05-19.*
