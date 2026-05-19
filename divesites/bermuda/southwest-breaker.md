@@ -23,7 +23,7 @@ The Southwest Breaker is the southernmost protected buoyed dive site on Bermuda'
 
 - **Location**: Southwest outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
@@ -46,10 +46,11 @@ Boat dive. The offshore location means conditions can be rougher than sheltered 
 ## Tips and Recommendations
 
 - This site is best dived in calm morning conditions before afternoon Atlantic swell builds
-- The outer edge location means better chances of pelagic fish encounters than inshore sites
-- Hawksbill turtle sightings are regular here — observe from a distance without pursuing
-- The high visibility at this outer site makes natural light photography particularly effective
-- Combine with another outer reef wreck or reef site nearby for a full dive day
+- The brain coral density here is exceptional by any standard — take time to examine the formations
+- The central tunnel through the breaker shelters moray eels and lobster — bring a torch
+- The site's isolation two miles offshore means outstanding visibility most days
+- Combine with a nearby outer reef wreck for a full dive day
+- For literary context: read the opening of *The Deep* before diving here
 
 ## Safety Considerations
 
@@ -60,4 +61,4 @@ The Southwest Breaker's offshore location exposes it to Atlantic swell more than
 Excellent visibility at this outer reef site makes it ideal for natural light photography throughout the water column. Coral formations, sea fans, and the reef crest in shallow water photograph beautifully with sunlight. Angelfish and turtle encounters reward patient positioning with natural light compositions. A strobe enhances the fire coral and encrusting invertebrate colors in deeper sections.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Attractions - South West Breaker Reef](https://www.bermuda-attractions.com/bermuda_00005e.htm), [Bermuda100 UCSD - South West Breaker](https://bermuda100.ucsd.edu/south-west-breaker/index.php), [PADI - South West Breaker Dive Site](https://www.padi.com/dive-site/bermuda/south-west-breaker/), [Scuba Diver Life - Best Diving in Bermuda](https://scubadiverlife.com/best-diving-bermuda/). Last updated 2026-05-19.*

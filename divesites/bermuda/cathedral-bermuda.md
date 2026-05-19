@@ -3,7 +3,7 @@ name: Cathedral Bermuda
 lat: 32.3405
 lng: -64.6594
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 17
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ The Cathedral is one of Bermuda's most visually distinctive reef dive sites, loc
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)

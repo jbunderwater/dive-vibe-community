@@ -23,9 +23,9 @@ The King George was a 171-foot hopper dredger built in 1910 at the Lobnitz and C
 
 - **Location**: Off North Shore, approximately 9 miles from shore near North Rock Beacon, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (artificial reef)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (60 feet)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
