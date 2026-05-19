@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Southwest Breaker
 
-A shallow outer reef system on Bermuda's windward southwest edge offering healthy coral formations and diverse reef fish communities.
+The southernmost breaker reef on Bermuda's outer platform, two miles off the southwest corner of the island — an algal vermetid cup reef known for extraordinary brain coral density and the opening scene of Peter Benchley's *The Deep*.
 
 ## Overview
 
-The Southwest Breaker sits on Bermuda's outer reef perimeter at the southwest extremity of the island — one of several named reef breaks that define the boundary between the shallow Bermuda platform and the deep Atlantic beyond. The reef here rises from the sandy bottom to near the surface in places, creating a varied shallow environment with high light penetration and active wave energy that maintains a diverse, healthy coral community. This is classic Bermuda shallow reef diving: excellent visibility, warm water, abundant reef fish, and the occasional passing pelagic. The site is visited regularly as part of Bermuda's outer reef circuit and provides an accessible introduction to the island's natural reef environment away from the wreck-focused sites.
+The Southwest Breaker is the southernmost protected buoyed dive site on Bermuda's outer reef platform, sitting two miles off the island's southwest corner. Unlike the island's coral formations, the breaker reef itself is composed of ancient algal vermetid cup reef — a prehistoric formation built by fossil worm organisms — which completely encircles the island in a broken chain. At the Southwest Breaker, this formation rises close to the surface, creating a single isolated breaker in deep water. The reef is noted for an extraordinary density of healthy brain corals, some growing to the size of wheelbarrows. A large tunnel splits through the center of the breaker. Visibility typically exceeds 100 feet (30 meters). Author Peter Benchley used the Southwest Breaker as the setting for the opening scene of his 1974 novel *The Deep* and its 1977 film adaptation.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ The Southwest Breaker sits on Bermuda's outer reef perimeter at the southwest ex
 
 ## Marine Life
 
-The Southwest Breaker reef community reflects the biodiversity of Bermuda's outer platform edge. Brain corals, staghorn corals, sea fans, and encrusting fire coral create a diverse structural habitat. French and gray angelfish are abundant. Schools of blue tang, sergeant major, and various grunt species populate the coral heads. Hawksbill turtles are regularly sighted in this area. The outer edge location means occasional encounters with passing pelagic fish — wahoo and other open-water species sometimes pass through.
+The Southwest Breaker is notably rich in hard coral, with thousands of healthy brain corals — some as large as wheelbarrows — creating a distinctive landscape. Multiple cleaning stations operate on the reef, populated by small yellow cleaner wrasse. Schools of barracuda are regularly reported here. The central tunnel provides shelter for green moray eels and spiny lobster. The overall species list reflects the general south Bermuda outer reef community; no comprehensive site-specific census exists beyond the features noted above.
 
 ## Dive Profile
 
-This site divides naturally into two zones: the upper reef crest in the 3–5 meter range, and the deeper reef face dropping to 9 meters. Begin the dive on the deeper face before finishing with extended time on the shallow reef crest. The very shallow maximum depth allows unlimited bottom time and makes this comfortable for newer divers and snorkelers.
+The site divides into two natural zones: the reef crest in the shallows, and the reef face dropping to approximately 9 meters average depth. Begin on the deeper face before working back to the shallow reef crest and the central tunnel. The excellent visibility (typically over 30 meters) allows a full appreciation of the isolated reef structure rising from deeper water. Unlimited bottom time at this depth range.
 
 ## Entry and Exit
 

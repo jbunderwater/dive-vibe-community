@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pelinaion
 
-A 385-foot Greek tramp steamer that struck St. David's Head reef in 1939 when the lighthouse was blacked out for WWII, with its engine rising to within 3 meters of the surface.
+A 385-foot Greek tramp steamer that struck St. David's Head reef on January 16, 1940 when the wartime lighthouse blackout left Bermuda's coast unmarked, with its giant engine standing nearly upright in shallow water.
 
 ## Overview
 
-The Pelinaion was a 385-foot Greek tramp steamer built in 1907, carrying iron ore from West Africa to Baltimore, Maryland when she struck a reef just off St. David's Head on the east end of Bermuda on December 22, 1939. Her captain was unaware that St. David's Lighthouse had been extinguished as a wartime security measure during the early months of World War II. The ship broke up on the reef she struck and now lies scattered in up to 20 meters of water. Her massive engine block stands nearly upright within 3 meters of the surface, making it visible as a shadow from the surface on clear days and providing a dramatic visual landmark for the dive. The bow lies in only 6 meters of water, accessible to snorkelers. Divers can swim underneath the hull and observe multiple portholes along the wreck structure.
+The Pelinaion was a 385-foot Greek tramp steamer built in 1907 by Russell & Company, Port Glasgow, originally named Hill Glen. She changed names several times — Doonholm, K. Ktistakis — before being renamed Pelinaion in 1939. She displaced 4,291 gross tons. On December 22, 1939, she departed Takoradi, West Africa, bound for Baltimore, Maryland with a cargo of iron ore. On January 16, 1940, under the command of Captain Janis Valikos, she headed to Bermuda to take on fuel, but without the guidance of St. David's Lighthouse — blacked out as a wartime security measure against German observation — the captain could not locate the island until the vessel ran aground approximately one mile offshore from Copper's Island near St. David's Head. The ship split into two sections and now lies scattered in 6 to 20 meters of water. Her massive triple-expansion steam engine stands nearly upright within 10 feet of the surface, visible as a shadow from the boat on clear days, alongside a spare propeller strapped to the deck. The bow rests in about 6 meters, accessible to snorkelers.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Pelinaion was a 385-foot Greek tramp steamer built in 1907, carrying iron or
 
 ## Marine Life
 
-The Pelinaion's scattered remains support diverse reef life across multiple depth zones. The shallow bow section attracts snorkelers and hosts parrotfish and angelfish in the reef immediately surrounding the wreck. Larger structural components in deeper water provide habitat for schools of barracuda, snapper, and resident grouper. The prominent propeller at the stern section is a gathering point for marine life, and spiny lobster are consistently found in the wreck's enclosed spaces. Hawksbill turtles occasionally visit the East End reef system.
+The Pelinaion's scattered remains support reef life across multiple depth zones. The shallow bow section in 6 meters attracts snorkelers and hosts reef fish typical of the East End platform. Larger structural components in deeper water provide habitat for snapper and resident lobster. The spare propeller strapped to the deck is a notable feature. No site-specific marine life census exists; species reflect the general East End reef community around St. David's Head.
 
 ## Dive Profile
 
@@ -45,11 +45,11 @@ Boat dive from East End Bermuda operators or operators who offer island-wide wre
 
 ## Tips and Recommendations
 
-- The engine block nearly breaking the surface is an extraordinary spectacle visible even from the boat
-- Multiple portholes along the hull provide interesting photographic subjects that evoke the ship's functional past
-- The East End wreck area offers a less-crowded alternative to the busier North Shore and northwest sites
-- Research the WWII blackout context before diving — it adds poignancy to this preventable tragedy
-- A knowledgeable East End guide can point out the hull details most easily missed on a solo navigation dive
+- The engine block nearly breaking the surface is visible from the boat on calm, clear days
+- The spare propeller still strapped to the deck is an unusual feature rarely seen on Bermuda wrecks
+- Multiple portholes along the hull are visible from underneath the wreck
+- Research the WWII blackout context before diving — it explains this otherwise preventable 1940 tragedy
+- A knowledgeable East End guide can point out the hull details most easily missed on an independent dive
 
 ## Safety Considerations
 
@@ -60,4 +60,4 @@ The East End of Bermuda is more exposed to Atlantic swell than the North Shore. 
 The near-surface engine block creates a dramatic natural light composition visible from the surface and even more powerful when photographed from below. Wide-angle shots of the scattered hull in Bermuda's clear water capture the scale of this large vessel's remains. Porthole details and the propeller are compelling close-focus subjects.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda DENR - Pelinaion](https://environment.bm/pelinaion), [Bermuda Attractions - The Pelinaion Shipwreck](https://www.bermuda-attractions.com/bermuda_00004a.htm), [Dive Bermuda at Grotto Bay - Pelinaion](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda100 UCSD - The Pelinaion](https://bermuda100.ucsd.edu/pelinaion/index.php). Last updated 2026-05-19.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Constellation
 
-The inspiration for Peter Benchley's novel *The Deep*, this WWII-era wreck lies just 9 meters down amid a scattered cargo of cement bags, slate, and whisky bottles.
+The inspiration for Peter Benchley's novel *The Deep*, this schooner lies just 9 meters down amid a scattered cargo of cement bags, whisky cases, and medical ampoules.
 
 ## Overview
 
-The Constellation was a 192-foot wooden-hulled, four-masted sailing vessel converted to cargo use during World War II. In July 1943, en route from New York to Venezuela, she struck a reef northwest of Bermuda and sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, drug ampoules, glassware, and 700 cases of Scotch whisky. Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its subsequent film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion four miles northwest of the island.
+The Constellation was a 192-foot, four-masted wooden-hulled schooner built in 1918 by the Frye Flinn Co. in Harrington, Maine, originally named the *Sally Persis Noyes*. She was renamed the Constellation in 1932. In July 1943, bound for Venezuela with approximately 2,000 tons of mixed cargo — including cement bags, cosmetics, medical supplies (notably ampoules of iodine, penicillin, insulin, and morphine), and 700 cases of Johnnie Walker whisky — she diverted to Bermuda for repairs after taking on water. On July 31, 1943, while waiting for a local pilot to guide her into port, she was driven by a strong current onto the reef northwest of the island and sank in about 9 meters of water. Her scattered cargo inspired author Peter Benchley's novel *The Deep* (1974) and its 1977 film adaptation, largely shot in Bermuda. The Constellation sits very close to the Civil War-era Montana, offering a two-wreck dive in a single excursion.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Constellation was a 192-foot wooden-hulled, four-masted sailing vessel conve
 
 ## Marine Life
 
-Gray snappers and small barracuda frequent the scattered wreck site. The cement bag pyramids stacked in rows attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage. The shallow sandy bottom and nearby coral heads support blue tangs, moray eels, and resident spiny lobster. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat.
+Gray snappers and small barracuda frequent the scattered wreck site. The cement bag mounds attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage area. Resident spiny lobster occupy the spaces between the scattered cargo. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat. No site-specific source confirms moray eel sightings at this location specifically, though they are common on nearby Bermuda reef wrecks.
 
 ## Dive Profile
 
@@ -45,11 +45,11 @@ The site is buoyed under the Bermuda Dive Sites program, making it easy to locat
 
 ## Tips and Recommendations
 
-- Read or watch *The Deep* before your dive for context — the cargo manifest is even more interesting with that background
+- Read or watch *The Deep* (1977 film) before your dive for context — the cargo manifest is even more interesting with that background
 - The nearby Montana wreck can be visited on the same dive — plan navigation between the two sites
 - Snorkelers can experience the upper cargo in very shallow water
 - Slack tide conditions improve visibility over the sandy wreck floor
-- Drug ampoules from the cargo are protected historical artifacts — do not disturb or remove
+- Medical ampoules and all cargo artifacts are protected historical items — do not disturb or remove
 
 ## Safety Considerations
 
@@ -60,4 +60,4 @@ At 9 meters, this is one of Bermuda's most accessible wrecks. The primary hazard
 The scattered cargo field provides unique photographic subjects not found on typical wreck dives — rows of cement bags, intact glassware half-buried in sand, and historical ampoules. Wide-angle shots of the cargo field in excellent Bermuda visibility capture the surreal quality of this site. Natural light photography is practical in the 9-meter depth range.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda DENR - Constellation](https://environment.bm/constellation), [Bermuda100 UCSD - The Constellation](https://bermuda100.ucsd.edu/constellation/), [The Bermudian Magazine - History of The Constellation Shipwreck](https://www.thebermudian.com/history/history-history/the-history-of-constellation-shipwreck/), [Scuba Diver Life - Bermuda Shipwrecks Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/). Last updated 2026-05-19.*

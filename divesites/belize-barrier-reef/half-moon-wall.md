@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Half Moon Wall
 
-Half Moon Wall is a wall dive site in Belize Barrier Reef, Caribbean.
+Half Moon Wall is a wall dive site at Lighthouse Reef Atoll, Belize Barrier Reef.
 
 ## Overview
 
-Half Moon Wall at Lighthouse Reef Atoll is widely considered one of the best wall dives in Belize — a gentle sandy slope leads to a staghorn coral barrier at 12-15 meters, then narrows tunnels and gaps in the living coral give way to the open seaward face of the wall, draped in brilliant yellow and blue sponges, gorgonian sea fans, and giant barrel sponges dropping to depths well beyond recreational limits. Hawksbill turtles graze on sponges along the wall while Caribbean reef sharks patrol the outer edge, and eagle rays appear with enough regularity that local guides treat a sighting as routine rather than exceptional. Mantas come to feed on the plankton blooms from August through October, and whale sharks pass Lighthouse Reef during April and May, making timing a visit during these windows an opportunity for multiple pelagic encounters at a single site.
+Half Moon Wall at Lighthouse Reef Atoll is widely regarded as one of the premier wall dives in Belize and the wider Caribbean. The dive begins on a sandy slope that leads to a staghorn coral barrier at approximately 9-13 metres (30-45 feet); navigable tunnels and gaps in the living coral give way to the open seaward face of the wall, draped in yellow and blue sponges, gorgonian sea fans, and giant barrel sponges that drop to depths well beyond recreational limits. Visibility typically reaches 30 metres (100 feet) or more. The site is included in the Half Moon Caye National Monument and requires a BZ$10 entry fee. The wall is considered suitable for intermediate divers; conditions are described as gentle, with none to minimal current.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Half Moon Caye, Lighthouse Reef Atoll, Belize
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Half Moon Wall at Lighthouse Reef Atoll is widely considered one of the best wal
 
 ## Marine Life
 
-Hawksbill turtles graze sponges along the wall while Caribbean reef sharks patrol the outer edge, and eagle rays make regular appearances near the sandy bottom below the drop-off. Whale sharks pass through Lighthouse Reef in April and May, and manta rays visit from August through October to feed on plankton blooms — making this wall one of the few sites in Belize where multiple pelagic species can be encountered in a single trip.
+Hawksbill turtles regularly graze sponges along the wall, and Caribbean reef sharks patrol the outer edge. Spotted eagle rays are commonly encountered near the sandy base of the drop-off. Garden eels have been documented on the sand flats leading to the wall. Manta rays are confirmed visitors, feeding on seasonal plankton blooms; sighting frequency increases from August through October based on seasonal data from Lighthouse Reef. Whale sharks pass through Lighthouse Reef during full-moon periods in April and May, though their primary aggregation point is Gladden Spit to the south — sightings at Half Moon Wall during this period are opportunistic rather than guaranteed. Large schools of snappers, groupers, and barracuda are regularly reported along the wall.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [Dive-the-World - Lighthouse Reef](https://www.dive-the-world.com/diving-sites-belize-lighthouse-reef.php), [Belize Adventure - Half Moon Caye Wall](https://www.belizeadventure.ca/half-moon-caye-wall/), [Lighthouse Reef - Wikipedia](https://en.wikipedia.org/wiki/Lighthouse_Reef), [Dive-the-World - Half Moon Caye Seasonal Marine Life](https://www.dive-the-world.com/posts/lighthouse/belize-half-moon-caye-seasonal-marine-life.php). Last updated 2026-05-19.*

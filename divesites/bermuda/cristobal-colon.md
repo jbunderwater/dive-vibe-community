@@ -17,7 +17,7 @@ Bermuda's largest shipwreck — a 499-foot Spanish luxury liner that struck the 
 
 ## Overview
 
-The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499-foot Spanish luxury ocean liner was launched in 1923 as one of the most advanced passenger vessels of her time. In November 1936, the captain mistakenly identified an offshore communications tower as a local lighthouse and drove the ship into a coral reef off Bermuda's North Shore. The wreck sat partially exposed at the surface for nearly a decade, stripped and salvaged, before being used as a bombing target by the Royal Air Force during World War II. Today the shattered wreckage is scattered across 100,000 square feet of seabed between 5 and 18 meters depth, and can be enjoyed by both snorkelers and divers. The scale of the debris field and the unexploded munitions from the RAF practice make this one of Bermuda's most historically layered wreck sites.
+The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499-foot, 10,000-ton Spanish luxury ocean liner was built for the Transatlantica Spanish Line and launched in 1923. On October 25, 1936, she struck a coral reef at speed just east of North Rock, approximately eight miles north of Bermuda, with no loss of life. The wreck sat partially exposed at the surface, was looted, and contents were auctioned, before being used as a practice-bombing target by British and American forces during World War II. Today the shattered wreckage is scattered across 100,000 square feet of seabed between approximately 5 and 18 meters depth. The scale of the debris field — engines, propellers, prop shafts, steam turbines, and winches — and the unexploded ordnance from wartime bombing practice make this one of Bermuda's most historically layered wreck sites.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499
 
 ## Marine Life
 
-The enormous debris field of the Cristóbal Colón hosts a rich and diverse marine community. Massive schools of fish navigate between the scattered structural elements. Large black grouper patrol the deeper sections. The engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. Resident green turtles are frequently reported. The stern section at 18 meters preserves bathtubs and green-tiled bathroom fittings — an extraordinary snapshot of 1930s passenger vessel luxury.
+The enormous debris field of the Cristóbal Colón hosts a rich and diverse marine community. Schools of fish navigate between the scattered structural elements. The engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. Sources confirm a bathtub visible in the sand at the stern section — a notable artifact of the liner's passenger accommodations. No site-specific source confirms specific fish species at this site; fish diversity typical of Bermuda's North Shore reef platform applies.
 
 ## Dive Profile
 
@@ -46,9 +46,9 @@ Boat dive from North Shore operators or Bermuda dive centers. The site is well-k
 ## Tips and Recommendations
 
 - Multiple dives are needed to explore the full 100,000-square-foot debris field
-- The stern section's tile-lined bathrooms are a highlight not to miss on at least one dive
-- Unexploded RAF ordnance is present on site — observe but never touch or disturb any metallic objects
-- Snorkelers can explore the shallower sections independently — organize boat logistics accordingly
+- The visible bathtub at the stern and major machinery (engines, propellers) are the defining highlights
+- Unexploded wartime ordnance is present on site — never approach, touch, or disturb any suspicious metallic objects; notify your operator immediately
+- Snorkelers can explore the shallower sections — organize boat logistics accordingly
 - Bermuda's clear North Shore visibility makes this excellent for wide-angle photography
 
 ## Safety Considerations
@@ -60,4 +60,4 @@ The depth range (5–18 meters) is accessible but the scale and complexity of th
 The Cristóbal Colón is one of Bermuda's premier photography wrecks. The combination of massive structural debris, abundant marine life, and extraordinary visibility creates exceptional wide-angle compositions. The intact stern section with Portuguese-tiled bathrooms is unique photographic material. Natural light at the shallower sections is excellent.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda DENR - Cristobal Colon](https://environment.bm/cristobal-colon), [Bermuda Attractions - The Cristobal Colon Shipwreck](https://www.bermuda-attractions.com/bermuda_000046.htm), [The Bermudian Magazine - History of the Cristobal Colon](https://www.thebermudian.com/history/history-history/shipwreck-stories-history-of-the-cristobal-colon/), [Bermuda100 UCSD - Cristobal Colon](https://bermuda100.ucsd.edu/cristobal-colon/). Last updated 2026-05-19.*

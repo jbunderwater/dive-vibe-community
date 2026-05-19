@@ -2,8 +2,8 @@
 name: Hol Chan Cut
 lat: 17.8627707
 lng: -87.977162
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Hol Chan Cut
 
-Hol Chan Cut is a reef dive site in Belize Barrier Reef, Caribbean.
+Hol Chan Cut is a reef dive site in the Hol Chan Marine Reserve, Belize Barrier Reef.
 
 ## Overview
 
-Hol Chan Cut is the centerpiece of the Hol Chan Marine Reserve, Belize's oldest protected marine area established in 1987 near Ambergris Caye. The name means "little channel" in Mayan, referring to the natural 23-meter-wide break in the barrier reef that funnels marine life between the open ocean and the inner lagoon. Over 160 fish species have been recorded here, and the no-take protection has produced exceptional concentrations of large schools of grunts, snappers, and jacks, along with spotted eagle rays, green moray eels, nurse sharks, and three species of sea turtles. The cut reaches about 9 meters deep with strong outgoing currents possible, so divers should be comfortable with current and follow their guide through the channel.
+Hol Chan Cut is the centerpiece of Belize's oldest protected marine area, the Hol Chan Marine Reserve, established in July 1987 near the southern tip of Ambergris Caye. The name means "little channel" in Mayan, referring to the natural 23-metre-wide break in the barrier reef that funnels marine life between the open ocean and the inner lagoon. The cut reaches a maximum depth of about 9 metres (30 feet), with shallower areas above 1.5 metres near the reef crest. Tidal currents are possible through the cut, though conditions are generally calm on a typical dive day. The site is suitable for all levels of divers, including beginners; all dives require a licensed guide. The marine reserve as a whole has recorded over 160 fish species, 40 coral types, and three species of sea turtles — these are reserve-wide figures, not all of which are observed at the cut on any single dive.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Ambergris Caye, Hol Chan Marine Reserve, Belize Barrier Reef
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 9 meters
 
 ## Marine Life
 
-Decades of no-take protection have produced extraordinary concentrations of marine life, including dense schools of grunts, snappers, and horse-eye jacks that swirl through the cut. Spotted eagle rays, green moray eels, nurse sharks, and three species of sea turtles are reliably encountered here, and the channel's current funnels baitfish that attract larger predators including barracuda and Caribbean reef sharks.
+Sources specifically confirming sightings at Zone A (the Cut): nurse sharks, spotted eagle rays and southern stingrays at the channel bottom, green moray eels in rocky crevices along the cut walls, large schools of blue-striped grunts, yellow-tailed snappers, groupers, and Bermuda chubs, sea turtles, spiny lobster sheltering in grottos, octopus, and barracuda. The reserve has recorded over 160 fish species in total across all zones. Caribbean reef sharks are not confirmed at the Cut itself based on available sources; nurse sharks are the typical shark encounter here.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [Hol Chan Marine Reserve - Wikipedia](https://en.wikipedia.org/wiki/Hol_Chan_Marine_Reserve), [Atlas & Boots - Diving Hol Chan](https://www.atlasandboots.com/travel-blog/diving-hol-chan-marine-reserve-belize/), [Divers-Guide.com - Hol Chan Cut](https://www.divers-guide.com/en/hol-chan-cut), [Dive-the-World - Ambergris Caye Sites](https://www.dive-the-world.com/diving-sites-belize-ambergris-caye.php). Last updated 2026-05-19.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Darlington
 
-A 19th-century iron-hulled steamer resting on its port side in Bermuda's shallow Western Reef, with its rudder almost reaching the surface.
+A 285-foot iron-hulled British steamer built in 1881, wrecked on Bermuda's Western Reef in 1886, lying on its port side with steam boilers, propeller shaft, and deck winches still identifiable.
 
 ## Overview
 
-The Darlington was an iron-hulled British steamer powered by a 250-horsepower compound inverted engine. Carrying cotton and grain from New Orleans to Bremen, Germany, the vessel ran into trouble on the night of February 22, 1886, when Captain Richard Ward failed to assign a lookout while navigating the unfamiliar reefs surrounding Bermuda. The ship crashed into the Western Reef and became a total loss. Today the wreck lies on its port side in 6 to 9 meters of water, relatively intact despite having collapsed partially onto itself. The steam boilers, propeller shaft, deck winches, and a rudder that points toward the surface are all clearly identifiable. In stormy weather, the rudder can break the waterline, making the site visible even from the surface.
+The Darlington was a 285-foot (87-meter) iron-hulled British steamer built in 1881 at the Swan & Hunter Shipyard in Newcastle, England, displacing 1,990 tons and powered by a 250-horsepower compound inverted engine. On February 22, 1886, she was carrying more than 5,000 bales of cotton and 15,000 bushels of grain from New Orleans to Bremen, Germany when Captain Richard Ward failed to assign a lookout while navigating Bermuda's unfamiliar reefs. The ship struck the Western Reef and became a total loss; all five officers and 23 crew survived. A Marine Board of Inquiry later found Captain Ward negligent. Today the wreck lies on its port side in 16–30 feet (5–9 meters) of water, having partially collapsed onto itself. The steam boilers are positioned within inches of the surface at low tide and sometimes expose during very low tide. The propeller shaft, deck winches, and rudder are all clearly identifiable.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Darlington was an iron-hulled British steamer powered by a 250-horsepower co
 
 ## Marine Life
 
-Shallow Bermudian wreck sites like the Darlington are productive fish habitats. Schooling grunts and snapper shelter around the structural elements. Parrotfish and angelfish move through the wreckage. Resident spiny lobster occupy crevices between the collapsed hull plates. The warm, shallow environment supports coral encrustation on the exposed metal surfaces. Moray eels are common in the darker interior spaces.
+The Darlington's shallow, collapsed wreck provides reef habitat for fish species typical of Bermuda's western reef platform. Schooling grunts and snapper shelter around the structural elements. Spiny lobster occupy crevices between the collapsed hull plates. The shallow, well-lit environment supports coral and algal encrustation on exposed metal. No site-specific marine life census exists for this wreck.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ At 6 meters, depth-related hazards are minimal. The primary concerns are boat tr
 The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe. Macro subjects including cleaning shrimp and encrusting invertebrates are abundant.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda DENR - Darlington](https://environment.bm/darlington), [Bermuda100 UCSD - The Darlington](https://bermuda100.ucsd.edu/darlington/), [The Bermudian Magazine - 12 Wrecks You Should Know](https://www.thebermudian.com/heritage/heritage-heritage/shipwrecks-101-12-wrecks-you-should-know-about/), [MaSS Database - Darlington (+1886)](https://mass.cultureelerfgoed.nl/darlington). Last updated 2026-05-19.*

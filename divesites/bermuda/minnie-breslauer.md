@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Minnie Breslauer
 
-A 300-foot steel freighter sunk on her 1873 maiden voyage, with a relatively intact stern section and prominent boiler and propeller remaining on Bermuda's South Shore reef.
+A 300-foot steel freighter lost on her 1873 maiden voyage from Portugal, with the bow collapsed on the reef and the stern section in sand with boiler and propeller identifiable on Bermuda's South Shore.
 
 ## Overview
 
-The Minnie Breslauer was a 300-foot steel-hulled freighter built in 1872, lost on her maiden voyage in 1873. Resting in 15–20 meters of water off Bermuda's South Shore, the wreck presents a striking contrast between the smashed bow section, which lies across the reef in broken pieces, and the relatively intact stern section sitting in sand with the massive boiler and propeller still identifiable. Over the century and a half since sinking, the wreck has become extensively colonized by corals and sponges, creating a structure that functions as a natural reef habitat for diverse fish populations. The stern's large propeller is a dramatic photographic landmark and one of the more impressive features of any Bermuda wreck in this depth range.
+The Minnie Breslauer was a 300-foot steel-hulled English freighter built in 1872, lost on her maiden voyage in 1873. On New Year's Day 1873, she was en route from Portugal to New York carrying wine, dried fruit, cork bales, and 160-pound lead ingots when the captain — unfamiliar with the waters and without the appropriate navigation chart — edged too close to Bermuda's South Shore and struck a submerged reef one mile offshore from Horseshoe Bay. The bow section collapsed on impact; the stern section remains more intact with a massive boiler and propeller identifiable in sand at 35–70 feet (approximately 11–21 meters) of water. Over 150 years of colonization by corals and sponges has transformed the structural remains into a natural reef habitat.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Minnie Breslauer was a 300-foot steel-hulled freighter built in 1872, lost o
 
 ## Marine Life
 
-The Minnie Breslauer's combination of scattered bow debris and intact stern section creates varied habitat zones that support different fish communities. Schools of snapper and grunt shelter around the structural remains. Barracuda regularly patrol the water column above the stern. Large black grouper are reported at the deeper stern section. Spiny lobster and moray eels occupy enclosed spaces in the hull. The surrounding reef adds sea turtles, parrotfish, and angelfish to the species count.
+The Minnie Breslauer's combination of scattered bow debris and more intact stern section creates varied habitat zones. Schools of snapper and grunt shelter around the structural remains. Spiny lobster occupy enclosed hull spaces. The surrounding South Shore reef adds species typical of that area. No site-specific marine life census exists for this wreck; species reflect the general South Shore reef community near Horseshoe Bay.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The 20-meter depth is appropriate for Intermediate divers with good buoyancy con
 The Minnie Breslauer offers contrasting photographic environments: the dramatic intact propeller and boiler at the stern, and the chaotic scattered ironwork of the broken bow. Coral and sponge colonization over 150 years creates rich color and texture. Natural light photography at 15–20 meters is effective in Bermuda's clear water. Strobe use enhances the reds and oranges of encrusting invertebrates.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda DENR - Minnie Breslauer](https://environment.bm/minnie-breslauer), [Bermuda Attractions - The Minnie Breslauer Shipwreck](https://www.bermuda-attractions.com/bermuda_00004f.htm), [PADI - The Minnie Breslauer Dive Site](https://www.padi.com.cn/dive-site/bermuda/the-minnie-breslauer/), [Bermuda.com - Shipwrecks](https://www.bermuda.com/things-to-do/attractions/shipwrecks/). Last updated 2026-05-19.*

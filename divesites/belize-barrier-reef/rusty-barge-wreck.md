@@ -4,7 +4,7 @@ lat: 17.5002648
 lng: -88.0869874
 difficulty: Beginner
 maxDepth: 8
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 9993288898
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Rusty Barge Wreck
 
-Rusty Barge Wreck is a historic wreck dive in Belize Barrier Reef, Caribbean.
+Rusty Barge Wreck is a shallow wreck dive site in the Belize Barrier Reef.
 
 ## Overview
 
-The Rusty Barge Wreck is a shallow, shore-accessible wreck sitting in just 8 meters of water inside the Belize Barrier Reef, where the rusted-out hull is decorated with soft corals and encrusting sponges and serves as a refuge for a small school of snappers that claim the structure as their permanent home. The shallow depth makes this a natural candidate for newly certified divers and for photographers who want extended bottom time to document the reef life that accumulates on all submerged steel in these Caribbean waters — moray eels, small groupers, and cleaner shrimp are typical residents. Despite the modest setting, the site benefits from the excellent water clarity of the Belize Barrier Reef, and wave surge and current are possible through the cuts in the reef when conditions are not calm.
+The Rusty Barge Wreck is a small, shallow wreck sitting in approximately 8 metres of water inside the Belize Barrier Reef. The rusted hull is decorated with soft corals and encrusting sponges and serves as a habitat structure for snappers and other small reef fish. The shallow depth makes this accessible for newly certified divers. Entry is by boat; references to a "barge inside the reef" at this depth describe this as a boat-accessed site, not a shore entry — this correction was made during the 2026 QA pass based on dive descriptions of similar sites in the region.
+
+**Note on specific history:** No source naming this specific "Rusty Barge Wreck" by that exact name was located during research. Descriptions of a small, unnamed barge wreck inside the reef near Ambergris Caye match the coordinate location and depth. The OSM tagging (non-dangerous wreck, visible at tide) is consistent with this type of shallow barge. If a reader can confirm the specific vessel name or sinking date, that would be valuable.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
+- **Location**: Belize Barrier Reef (inner reef)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [Dive-the-World - Ambergris Caye Sites](https://www.dive-the-world.com/diving-sites-belize-ambergris-caye.php), [Ambergris Caye Dive Sites Guide](https://ambergriscaye.com/pages/town/divesites.html), [Caribbean-Diving - Ambergris Caye Sites](https://caribbean-diving.com/caribbean-islands/belize/ambergris-caye-dive-sites). No site-specific source naming "Rusty Barge Wreck" was found. Last updated 2026-05-19.*

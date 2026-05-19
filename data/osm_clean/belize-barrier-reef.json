@@ -5,17 +5,18 @@
     "lon": -87.977162,
     "osm_id": 1574464135,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "wikipedia.org, atlasandboots.com, divers-guide.com",
     "tags": {
       "name": "Hol Chan Cut",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -24,19 +25,20 @@
     "lon": -87.6075978,
     "osm_id": 5484628121,
     "osm_type": "node",
-    "depth": 15,
-    "site_type": "reef",
+    "depth": 18,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "divers-guide.com, belizedivehaven.com, longcayebelize.com",
     "tags": {
       "name": "Long Caye Aquarium",
       "name:es": "Acuario de Cayo Largo",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -50,13 +52,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "dive-the-world.com, belizeadventure.ca, wikipedia.org",
     "tags": {
       "name": "Half Moon Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -69,14 +72,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "ambergriscaye.com, ambergrisdivers.com",
     "tags": {
       "name": "Catalan Rocks",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -85,12 +89,12 @@
     "lon": -87.527902,
     "osm_id": 8433034767,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "ambergriscaye.com, 7newsbelize.com, dive-the-world.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -102,7 +106,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -116,7 +121,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "7newsbelize.com, ambergriscaye.com, amandala.com.bz",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -128,7 +133,8 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -141,14 +147,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Columbus Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -162,13 +168,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "whc.unesco.org, wikipedia.org, travelbelize.org",
     "tags": {
       "name": "Belize Barrier Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -177,18 +184,19 @@
     "lon": -88.0374381,
     "osm_id": 9993288817,
     "osm_type": "node",
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "depth": 33,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "ecomarbelize.org, scubaboard.com, padi.com",
     "tags": {
       "name": "Gallows Point Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -199,10 +207,10 @@
     "osm_type": "node",
     "depth": 8,
     "site_type": "wreck",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "mapcarta.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -211,7 +219,8 @@
       "seamark:wreck:category": "non-dangerous",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-05-19"
     }
   }
 ]

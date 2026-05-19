@@ -17,19 +17,19 @@ Belize Barrier Reef is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-The Belize Barrier Reef is the second-largest coral reef system in the world, stretching 300 kilometers along the entire Belizean coastline and designated a UNESCO World Heritage Site in 1996. This general reef dive accesses the inner barrier reef near the cayes, where shallow coral gardens at 5-15 meters host more than 500 fish species, 60 types of coral, and 350 mollusc species. Divers regularly encounter hawksbill and green sea turtles, nurse sharks, southern stingrays, spotted eagle rays, and dense schools of reef fish including parrotfish, angelfish, and blue tangs. The calm, warm waters averaging 27-30 degrees Celsius make this an accessible dive for all certification levels.
+The Belize Barrier Reef is the second-largest coral reef system in the world, stretching approximately 300 kilometres along the Belizean coastline and inscribed as a UNESCO World Heritage Site in 1996. According to UNESCO, the system supports over 500 fish species, approximately 65 scleractinian (hard) coral species, and 350 mollusc species. This general reef dive accesses the inner barrier reef near the cayes, where shallow coral gardens at 5-15 metres offer accessible conditions for all certification levels. Hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays are among the species documented across the reef system. Water temperatures average 27-30 degrees Celsius year-round.
 
 ## Site Information
 
 - **Location**: Belize Barrier Reef, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Splendid toadfish — endemic to Belize — can be found in reef crevices, and large grouper and tarpon are common in the channels and deeper sections of the reef system.
+UNESCO documents over 500 fish species across the barrier reef system. Hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays are among the species regularly encountered at reef sites throughout the system. Parrotfish, angelfish, grouper, and tarpon are common in coral gardens and channels. Species distribution varies by location, depth, and season — this entry represents the broader reef system rather than any single dive site.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [UNESCO World Heritage - Belize Barrier Reef Reserve System](https://whc.unesco.org/en/list/764/), [Belize Barrier Reef - Wikipedia](https://en.wikipedia.org/wiki/Belize_Barrier_Reef), [Britannica - Belize Barrier Reef](https://www.britannica.com/place/Belize-Barrier-Reef). Last updated 2026-05-19.*

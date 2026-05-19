@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## North Carolina
 
-A 205-foot English iron-hulled sailing bark that sank on New Year's Day 1880 while headed for England, its prominent bowsprit and rows of dead-eyes making it one of Bermuda's most photogenic wrecks.
+A 205-foot iron-hulled sailing bark built in Scotland in 1876 that sank on New Year's Day 1880, its prominent bowsprit and rows of dead-eyes making it one of Bermuda's most structurally distinctive wrecks.
 
 ## Overview
 
-The North Carolina was a 205-foot English iron-hulled bark built in Liverpool, England. On January 1, 1880, she was en route from Bermuda to England with a cargo of cotton when she struck a reef and sank. An attempt to refloat her ended in disaster when an anchor broke free and crashed through the hull, sealing her fate. The wreck now lies in up to 14 meters of water on the reef, and is notable for its remarkable state of preservation despite its age. The prominent bowsprit extending forward from the bow and the distinctive rows of dead-eyes — the wooden pulleys used to tension the rigging — along the deck railings are remarkably intact and provide backdrops that vividly evoke the age of sail. The North Carolina is one of the most structurally distinctive sailing ship wrecks in Bermuda.
+The North Carolina was a 205-foot iron-hulled three-masted bark (square-rigger) built in 1876 by Macmillan & Son in Scotland, owned and operated by Patton, Vickers and Co. of Liverpool, England. She was en route from Baltimore to Liverpool with a general cargo of cotton, bark, and fuel when her rudder was damaged. She diverted to Bermuda for repairs in November 1879 and departed St. George's Harbour on December 30. On January 1, 1880, she promptly ran aground on a reef near the southwest corner of the island. On January 27, 1880, Captain Alexander Buchan's attempt to refloat the vessel ended in disaster when an anchor broke free and crashed through the hull, sending the ship to the seabed. The wreck lies in up to 14 meters of water. Its prominent bowsprit and distinctive rows of dead-eyes — the wooden blocks used to tension sailing rigging — are remarkably intact and evoke the age of commercial sail powerfully. Archaeological work on the site has been published in *American Antiquity*.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The North Carolina was a 205-foot English iron-hulled bark built in Liverpool, E
 
 ## Marine Life
 
-The North Carolina's intact structural features provide excellent reef habitat. The bowsprit and rigging attachment points carry dense coral and sponge encrustation. Schools of snapper, grunt, and barracuda shelter around the hull. The deck area with its preserved dead-eyes hosts resident angelfish and parrotfish. Spiny lobster are common in the sheltered spaces beneath the hull plates. Sea turtles occasionally visit the reef surrounding the wreck.
+The North Carolina's intact structural features provide excellent reef habitat. The bowsprit and rigging attachment points carry coral and sponge encrustation built up over 145 years. Schools of snapper and grunt shelter around the hull. Spiny lobster occupy sheltered spaces beneath the hull plates. The overall species assemblage reflects the southwest Bermuda reef community. No site-specific marine life census exists for this wreck.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The 14-meter depth is appropriate for Intermediate divers. Moderate currents can
 The North Carolina is considered one of Bermuda's most photogenic wrecks precisely because of the intact bowsprit and dead-eye rows. Wide-angle natural light photography at 14 meters captures the sailing ship atmosphere powerfully. The rows of dead-eyes against the sandy bottom are a detail that rewards close-focus treatment. Bermuda's excellent visibility makes this site exceptional for underwater photography.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Bermuda Attractions - The North Carolina Shipwreck](https://www.bermuda-attractions.com/bermuda_00004e.htm), [Bermuda100 UCSD - North Carolina](https://bermuda100.ucsd.edu/north-carolina/), [Cambridge Core - Wreck of the Barque North Carolina, Bermuda, 1880](https://www.cambridge.org/core/journals/american-antiquity/article/abs/wreck-of-the-barque-north-carolina-bermuda-1880-an-underwater-crime-scene/089AB339F43EB42B0E275BC5515F49CC), [The Bermudian Magazine - 12 Wrecks You Should Know](https://www.thebermudian.com/heritage/heritage-heritage/shipwrecks-101-12-wrecks-you-should-know-about/). Last updated 2026-05-19.*

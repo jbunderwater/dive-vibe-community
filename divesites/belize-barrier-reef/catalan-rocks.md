@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Catalan Rocks
 
-Catalan Rocks is a reef dive site in Belize Barrier Reef, Caribbean.
+Catalan Rocks is a reef dive site in the northern Belize Barrier Reef, near Ambergris Caye.
 
 ## Overview
 
-Catalan Rocks, also known as Mata Canyons, is a spur-and-groove reef site along the central section of the Ambergris Caye barrier reef. The site features classic canyon formations with coral fingers jutting perpendicular to the reef line, creating gullies and swim-throughs to explore at depths around 15-20 meters. Nurse sharks rest under ledges, spotted eagle rays cruise the sandy channels hunting queen conch, and the coral spurs are decorated with sea fans, brain coral, and barrel sponges. Visibility typically ranges from 20 to 30 meters with warm water year-round.
+Catalan Rocks is a dive site located along the northern barrier reef, north of Ambergris Caye. It is also listed in dive databases as "Mata Canyons," and the two names appear to refer to the same site or overlapping area — sources use both interchangeably. The site features spur-and-groove reef formations with sandy canyons between coral fingers running perpendicular to the reef line. DiveBuddy.com and the Ambergris Caye dive site map list the location as a spur-and-groove formation suitable as a second tank dive after deeper sites, with queen conch in the sandy channels attracting eagle rays and nurse sharks. Depths are in the 15-20 metre range.
+
+**Validation status:** The association of "Catalan Rocks" with "Mata Canyons" is based on position and recurring paired mentions in Ambergris Caye dive site lists; these may be adjacent or overlapping rather than identical sites. Only two sources were found specifically naming Catalan Rocks; three independent sources are required for full validation.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Northern Belize Barrier Reef, Ambergris Caye area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ## Marine Life
 
-Nurse sharks rest under ledges in the spur-and-groove channels while spotted eagle rays cruise the sandy passages hunting queen conch. The coral spurs support healthy populations of parrotfish, angelfish, grunts, and snappers, and sea fans and barrel sponges provide habitat for moray eels, Caribbean lobsters, and the occasional hawksbill turtle grazing the reef top.
+Nurse sharks and spotted eagle rays are reported at Mata Canyons (the likely equivalent site), with queen conch in the sandy channels and typical Belize barrier reef fish communities including parrotfish, angelfish, grunts, and snappers. No independent source specifically confirming marine life at "Catalan Rocks" as a distinct named site was found.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [Ambergris Caye Dive Sites Map](https://ambergriscaye.com/pages/town/divesites.html), [Ambergris Divers - 32 Best Dive Sites](https://ambergrisdivers.com/ambergris-caye-dive-sites/). No third independent source confirming site details was located — validation pending. Last updated 2026-05-19.*

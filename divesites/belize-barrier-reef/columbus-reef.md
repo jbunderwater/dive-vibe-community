@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Columbus Reef
 
-Columbus Reef is a reef dive site in Belize Barrier Reef, Caribbean.
+Columbus Reef is a reef dive site in the Belize Barrier Reef.
 
 ## Overview
 
-Columbus Reef sits in the central Belize Barrier Reef east of Dangriga, in one of the most pristine and least-visited stretches of the reef system. The site features well-developed spur-and-groove formations and dramatic fore-reef drop-offs where the reef wall plunges into deep blue water. Divers encounter healthy populations of reef sharks, spotted eagle rays, large groupers, and dense schools of snappers among unspoiled hard coral gardens. This section of the barrier reef sees far fewer divers than the northern cayes, making it an excellent choice for those seeking uncrowded conditions with 20-30 meters of visibility.
+Columbus Reef is an OSM-tagged dive node located on the barrier reef south of Dangriga. No site-specific information for Columbus Reef as a named dive site was found in multiple searches of dive databases, ScubaBoard forums, Dangriga dive operator websites, or regional dive guides. The coordinates place it in the southern section of the Belize Barrier Reef, east of the Stann Creek District.
+
+The reef system in this region is part of the broader Belize Barrier Reef, which transitions to wall topography along the fore reef. The area is accessible from Dangriga and Hopkins, with operators offering trips to the barrier reef and offshore atolls. Without a site-specific source confirming this location as a named, regularly visited dive site, all marine life and site-specific details remain unverified.
+
+**Validation status: unverified.** No source confirming the name "Columbus Reef" as a recognised dive site was located. The site retains its OSM coordinates and basic parameters pending operator confirmation.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Belize Barrier Reef, south of Dangriga
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
-## Marine Life
-
-The pristine, lightly dived conditions here have produced healthy populations of Caribbean reef sharks, spotted eagle rays, and large Nassau groupers that are less common at busier northern sites. Dense schools of snappers and jacks work the fore-reef drop-offs while moray eels and spiny lobsters occupy the spur-and-groove channels, and sea turtles are regularly encountered on the unspoiled hard coral gardens.
-
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for the name "Columbus Reef." Last updated 2026-05-19.*

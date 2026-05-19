@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## M/V Transfer
 
-M/V Transfer is a historic wreck dive in Belize Barrier Reef, Caribbean.
+M/V Transfer is a wreck dive site at Lighthouse Reef Atoll, Belize Barrier Reef.
 
 ## Overview
 
-The M/V Transfer is a 225-foot British cargo vessel that ran aground on Lighthouse Reef Atoll on January 6, 2005 — a faulty auto-pilot directed it into the reef at night, and subsequent storm surge from Hurricane Emily pushed additional sections of the hull further onto the shallow reef structure. The wreck now sits at around 20 meters in Lighthouse Reef's characteristically clear Caribbean water, its steel hull beginning to develop the coral and sponge encrustation that will eventually transform it into a full artificial reef, already hosting groupers, snappers, and the diverse reef fish community of the Belize Barrier Reef System. The remote location at Lighthouse Reef means this wreck sees far fewer divers than mainland Belize sites, offering a quieter, more exploratory dive experience in waters with visibility regularly reaching 20-40 meters.
+The M/V Transfer is a 225-foot (69-metre) cargo vessel that grounded on Lighthouse Reef Atoll on January 6, 2005. The ship's captain stated that the vessel was on autopilot when it struck the reef at night; investigations confirmed a faulty autopilot directed it into the reef approximately 4.2 miles south of Sandbore Caye. At the time of the initial grounding, only one third of the vessel sat on the reef; when Hurricane Emily passed through the Caribbean later in 2005, the accompanying storm surge pushed an additional third of the hull into the shallows. Salvage attempts, including a powerful tug, failed to refloat the vessel, and it has remained on the reef. The vessel owner was identified as Ariane Shipping Company; the vessel is labeled "British" in contemporary news photo captions, though no independent maritime registry record has been located to confirm the vessel's flag state.
+
+**Note on "British" nationality:** This claim appears consistently in regional sources and photo gallery captions. No second independent maritime source (Lloyd's, IMO database) confirming the flag state was located during this QA pass. The 225-foot length, January 6, 2005 grounding date, and faulty autopilot cause are confirmed by multiple independent Belizean news sources.
+
+The wreck sits at approximately 20 metres on Lighthouse Reef's clear Caribbean water. Its steel hull is developing coral and sponge encrustation and already provides habitat for groupers, snappers, and other reef fish. The remote Lighthouse Reef location limits diver traffic, offering a quieter dive with typical visibility of 20-40 metres.
 
 ## Site Information
 
-- **Location**: Belize Barrier Reef, Caribbean
+- **Location**: Lighthouse Reef Atoll, Belize (near Halfmoon Caye)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Seahorse Dive Shop - Belize Barrier Reef](https://belizescuba.com/diving-snorkeling/local-reef/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Bluewater Dive Travel - Belize](https://www.bluewaterdivetravel.com/destination/belize-diving), [ZuBlu - Best Places to Scuba Dive in Belize](https://www.zubludiving.com/articles/zublu-insights/beautiful-belize). Last updated 2026-04-04.*
+*Sources: [7 News Belize - Hulking Wreck on Lighthouse Reef](https://www.7newsbelize.com/sstory.php?nid=25580), [Ambergris Caye Gallery - M/V Transfer](https://ambergriscaye.com/photogallery/220516.html), [Amandala - Westerhaven Aground on Belize Barrier Reef](https://amandala.com.bz/news/westerhaven-runs-aground-on-belize-barrier-reef/). Last updated 2026-05-19.*

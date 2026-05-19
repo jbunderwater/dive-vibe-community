@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Montana
 
-A 236-foot Confederate blockade runner that grounded in an 1863 storm, its twin paddle wheels and boilers resting in 9 meters beside the companion wreck of the Constellation.
+A 236-foot Confederate blockade runner lost on her maiden voyage in December 1863, her twin paddle wheels and boilers resting in 9 meters beside the companion wreck of the Constellation.
 
 ## Overview
 
-The Montana was a 236-foot paddlewheel steamer built in Glasgow in 1860, operating as a blockade runner for the Confederacy during the American Civil War, carrying arms, ammunition, and contraband goods to Confederate ports. On December 30, 1863, she circled Bermuda seeking safe harbor during a violent storm and struck a reef on the island's northwest side, sinking in about 9 meters of water. Her two steam boilers and twin paddlewheel frames are the most recognizable features of the wreck today, with the paddlewheel shafts rising almost to the surface at low tide. At spring and autumn, schools of up to 500 barracuda gather near the wreck — one of the most spectacular fish aggregations in Bermuda diving. The Montana sank close to the WWII-era Constellation, and the two wrecks are typically dived together, offering Bermuda's famous "two-for-one" experience.
+The Montana was a 236-foot side paddlewheel steamer built in Glasgow, Scotland, intended for use as a Confederate blockade runner during the American Civil War. She was on her maiden voyage from London, bound ultimately for Wilmington, North Carolina, carrying cargo to support the Confederacy. She operated under the alias "Nola" (and at other times "Gloria" and "Paramount") to avoid Union attention. On December 30, 1863, while attempting to navigate Bermuda's northern reef system in bad weather, the captain sought an eastern entrance and the vessel struck the reef at Western Blue Cut, sustaining a 10-foot gash below the waterline. The crew and much of the cargo were saved; the ship was lost. Her two steam boilers and twin paddlewheel frames are the most recognizable features of the wreck today. At spring and autumn, a school of up to approximately 500 barracuda congregates in the sand basin beside the paddlewheel frames. The Montana lies close to the WWII-era Constellation, and the two wrecks are typically dived together, offering Bermuda's famous "two-for-one" experience. The wreck sustained damage during Hurricane Humberto in September 2019.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Montana was a 236-foot paddlewheel steamer built in Glasgow in 1860, operati
 
 ## Marine Life
 
-The Montana wreck supports a year-round population of large gray snappers that school around the boilers and paddlewheel frames. In spring and autumn, schools of up to 500 barracuda congregate in the sand basin beside the paddlewheel frames — a truly extraordinary sight even by Caribbean standards. Parrotfish, angelfish, and blue tangs occupy the coral heads surrounding the wreck. The shallow sandy bottom supports permit and bonefish on occasion.
+The Montana wreck hosts a resident school of large gray snappers that gather around the boilers and paddlewheel frames. In spring and autumn, a school of approximately 500 barracuda congregates in the sand basin beside the paddlewheel frames — one of the most notable fish aggregations at any Bermuda dive site. The surrounding reef and coral heads support additional reef fish species typical of Bermuda's shallow northwest reef platform. No site-specific source confirms permit or bonefish sightings at this location.
 
 ## Dive Profile
 
@@ -45,11 +45,12 @@ The site is buoyed under the Bermuda Dive Sites program. Boat dive from any Berm
 
 ## Tips and Recommendations
 
-- Time your dive for spring (March–May) or autumn (September–October) for the barracuda school spectacle
+- Time your dive for spring or autumn for the barracuda school spectacle
 - The paddlewheel frames are the most dramatic structural features — circle them for perspective
 - Swim across to the Constellation wreck to complete the two-wreck experience
 - The boilers at this site are easily distinguishable even for first-time wreck divers
 - Morning dives provide the calmest conditions at this northwest offshore site
+- The wreck sustained significant damage in Hurricane Humberto (2019) — some structural features described in older guides may have shifted
 
 ## Safety Considerations
 
@@ -60,4 +61,4 @@ At 9 meters, depth hazards are minimal. The primary concerns are the offshore lo
 The paddlewheel frames and twin boilers are iconic photographic subjects that tell the story of 19th-century steam paddle technology. Wide-angle natural light photography at 9 meters is highly effective. The spring/autumn barracuda schools create spectacular ambient light compositions requiring no strobe. A split-level shot through the surface in calm conditions captures both the reef environment and the boat above.
 
 ---
-*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Montana (ship)](https://en.wikipedia.org/wiki/Montana_(ship)), [Bermuda DENR - Montana](https://environment.bm/montana), [Bermuda Attractions - The Montana Shipwreck Story](https://www.bermuda-attractions.com/bermuda_00004b.htm), [The Bermudian Magazine - 5 Things to Know About the Montana Shipwreck](https://www.thebermudian.com/history/history-history/montana-wreck/). Last updated 2026-05-19.*
