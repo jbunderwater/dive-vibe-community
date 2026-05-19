@@ -23,7 +23,7 @@ Neville Rock is a rocky reef site in the Strait of Georgia north of Powell River
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

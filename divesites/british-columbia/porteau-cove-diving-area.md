@@ -112,4 +112,4 @@ This is an Intermediate site suitable for trained recreational divers:
 - Carry proper signaling devices
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Vancouver Scuba Diving School — Porteau Cove](https://www.vancouverscubadivingschool.ca/porteau-cove/), [Just Gotta Dive — Porteau Cove](https://www.justgottadive.com/dive_resources/travel_articles/diving-porteau-cove-provincial-park-reefs-wrecks-and-more), [Divers Alert Network — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Artificial Reef Society BC — Porteau Wrecks](https://artificialreefsocietybc.ca/uploads/6/9/3/9/69390363/porteau_wrecks_and_reefs_2013.pdf). Last updated 2026-05-19.*

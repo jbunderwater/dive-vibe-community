@@ -23,7 +23,7 @@ Louisa Rock sits in the waters around the Saanich Peninsula, in the channels bet
 
 - **Location**: Saanich Peninsula area, near Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres

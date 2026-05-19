@@ -23,7 +23,7 @@ Canoe Rock is one of the better-known dive sites in the central Gulf Islands, ly
 
 - **Location**: Haro Strait / Gulf Islands, near Portland Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

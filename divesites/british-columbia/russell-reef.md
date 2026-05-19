@@ -23,7 +23,7 @@ Russell Reef lies in the outer Gulf Islands near the Strait of Georgia, exposed 
 
 - **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

@@ -23,7 +23,7 @@ Kirby Rock is located in the outer Barkley Sound area on Vancouver Island's west
 
 - **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres

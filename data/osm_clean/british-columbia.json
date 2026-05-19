@@ -16,8 +16,9 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "unresolved — no specific wreck identity confirmed",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -36,7 +37,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "racerocks.ca, scubabc.ca, dive.bc.ca",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -57,7 +59,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "racerocks.ca, uasbc.com, victoriabcdiving.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -117,7 +120,8 @@
       "wreck:date_sunk": "1944-12-27",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "nauticapedia.ca, uasbc.com, scubaboard.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -156,7 +160,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "thescubanews.com, victoriabcdiving.com, divingsports.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -541,7 +546,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "artificialreefsocietybc.ca, en.wikipedia.org, xray-mag.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -986,11 +992,12 @@
       "wikidata": "Q940184",
       "wikipedia": "en:SS Valencia",
       "wreck:cargo": "human",
-      "wreck:date_sunk": "1906-04-15",
+      "wreck:date_sunk": "1906-01-22",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, canada.ca, atlasobscura.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2456,7 +2463,7 @@
     "lon": -123.330204,
     "osm_id": 8526894453,
     "osm_type": "node",
-    "depth": 46,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -2474,7 +2481,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, artificialreefsocietybc.ca, hakaimagazine.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2496,8 +2504,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "unresolved — vessel identity not independently confirmed",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2682,7 +2691,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "WWI & WWII US Navy Destroyer, sunk as a breakwater in 1947",
+      "description": "Wickes-class destroyer (APD-19), 3 WWII battle stars, scuttled as Royston breakwater 21 Aug 1947",
       "historic": "wreck",
       "name": "USS Tattnall (DD-125)",
       "seamark:type": "wreck",
@@ -2690,12 +2699,13 @@
       "source": "osm_extended",
       "wikidata": "Q4460226",
       "wikipedia": "en:USS Tattnall (DD-125)",
-      "wreck:date_sunk": "1947",
+      "wreck:date_sunk": "1947-08-21",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, navsource.net, bigdoer.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2709,7 +2719,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "WWII destroyer sunk as part of breakwater",
+      "description": "WWII E-class destroyer (ex-HMS Express H61), sunk as part of Royston breakwater 1948",
       "historic": "wreck",
       "name": "HMCS Gatineau",
       "seamark:type": "wreck",
@@ -2720,7 +2730,8 @@
       "wreck:date_sunk": "1948",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, forposterityssake.ca, bigdoer.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2734,18 +2745,19 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Early 1900s schooner sunk as part of a breakwater",
+      "description": "Wood auxiliary schooner built 1917, first vessel scuttled at Royston breakwater 20 Aug 1936",
       "historic": "wreck",
       "name": "Laurel Whalen",
       "seamark:type": "wreck",
       "seamark:wreck:category": "distributed_remains",
       "source": "osm_extended",
-      "wreck:date_sunk": "August 19th 1936",
+      "wreck:date_sunk": "1936-08-20",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "bigdoer.com, atlasobscura.com, vanisle.news",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2767,8 +2779,9 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "unresolved — vessel identity not independently confirmed",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2801,14 +2814,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Popular scuba and freediving site",
+      "description": "CCGS Ready (Coast Guard vessel), sank Jan 2011 at Britannia Beach, Howe Sound",
       "historic": "wreck",
       "name": "The Ready Shipwreck",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "britanniabeach.com, scubadiverlife.com, dan.org",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2841,13 +2855,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Several artificial reefs and wrecks",
+      "description": "BC Provincial Park; wrecks include Granthall (1928 tug, 28m), Nakaya (minesweeper), Centennial III; artificial reef structures",
       "name": "Porteau Cove Diving Area",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "vancouverscubadivingschool.ca, justgottadive.com, dan.org",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -2861,13 +2876,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Popular diving area for beginners and advanced divers.",
+      "description": "Canada's first Marine Protected Area (1993); bull kelp forest with wolf eels and giant Pacific octopus",
       "name": "Whytecliff Park Dive Site",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "westvancouver.ca, vancouverscubadivingschool.ca, padi.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -3082,7 +3098,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, forposterityssake.ca, canada.ca",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -3105,7 +3122,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, canada.ca, bigdoer.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -3128,7 +3146,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, uboat.net, canada.ca",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -3217,11 +3236,11 @@
     "osm_id": 1304387925,
     "osm_type": "way",
     "depth": 12,
-    "site_type": "kelp",
+    "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "description": "Early 1900s barquentine lumber freighter sank as a breakwater",
+      "description": "Barquentine lumber freighter sunk as part of Royston breakwater, 1950s",
       "historic": "wreck",
       "name": "Forest Friend",
       "seamark:type": "wreck",
@@ -3232,7 +3251,8 @@
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "bigdoer.com, atlasobscura.com, uasbc.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {
@@ -3304,10 +3324,10 @@
     "lon": -122.7224932,
     "osm_id": 1470400960,
     "osm_type": "way",
-    "depth": 28,
-    "site_type": "wreck",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504311",
       "name": "Cypress Reef",
@@ -3316,7 +3336,8 @@
       "wikidata": "Q49615500",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dnr.wa.gov, scubadiving.com",
+      "last_qa_date": "2026-05-19"
     }
   },
   {

@@ -107,4 +107,4 @@ This is an Intermediate site suitable for trained recreational divers:
 - The site is safe and accessible but cold water remains a factor year-round
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [The Scuba News — Ogden Point Breakwater](https://www.thescubanews.com/2022/02/07/scuba-diving-ogden-point-breakwater-victoria-british-columbia/), [Victoria BC Diving — Breakwater](http://www.victoriabcdiving.com/breakwater.html), [Diving Sports Canada — Ogden Point](https://www.divingsports.com/products/ogden-point-day-trip), [PADI — Ogden Point](https://www.padi.com/dive-site/canada/whytecliff-park/). Last updated 2026-05-19.*

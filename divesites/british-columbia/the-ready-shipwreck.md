@@ -58,4 +58,4 @@ Shore entry from the gravel parking area near the former Galileo Coffee Company 
 - Britannia Beach Heritage Museum (the old mining facility) is worth combining with a dive day.
 
 ---
-*Sources: [Dive at Britannia Beach — Cold Ocean Diver](https://coldoceandiver.ca/britannia-beach), [Britannia Beach Diving — britanniabeach.com](https://www.britanniabeach.com/diving-in-britannia-beach/), [Britannia Beach — Scuba Diver Life](https://scubadiverlife.com/britannia-beach-bc/), [Howe Sound — Divers Alert Network](https://dan.org/alert-diver/article/howe-sound/). Last updated 2026-05-17.*
+*Sources: [Dive at Britannia Beach — Cold Ocean Diver](https://coldoceandiver.ca/britannia-beach), [Britannia Beach Diving — britanniabeach.com](https://www.britanniabeach.com/diving-in-britannia-beach/), [Britannia Beach — Scuba Diver Life](https://scubadiverlife.com/britannia-beach-bc/), [Howe Sound — Divers Alert Network](https://dan.org/alert-diver/article/howe-sound/). Last updated 2026-05-19.*

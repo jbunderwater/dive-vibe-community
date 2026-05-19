@@ -23,7 +23,7 @@ Sleeper Rock sits in the waters west of Victoria, close to the broader Strait of
 
 - **Location**: Victoria area, Strait of Juan de Fuca approaches, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

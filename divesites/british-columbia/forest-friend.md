@@ -2,10 +2,10 @@
 name: Forest Friend
 lat: 49.6536127
 lng: -124.9488236
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
-siteType: kelp
+siteType: wreck
 ref: null
 osmId: 1304387925
 addedBy: osm_import
@@ -23,8 +23,8 @@ The Forest Friend was a five-masted barquentine built in Washington State in 191
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Kelp
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 
 ## Wreck History
@@ -52,4 +52,4 @@ Dive on calm days — the site is exposed to southerly winds and swells that mak
 Water temperature 8–12°C; drysuit recommended. The site is exposed to southerly swells; avoid in strong south or southeast winds. The Provincial heritage site designation means zero artifacts may be removed or disturbed. Shallow depth (12 m) reduces decompression concerns but surface conditions are the main hazard.
 
 ---
-*Sources: [Atlas Obscura — Royston Shipwrecks](https://www.atlasobscura.com/places/royston-shipwrecks), [Bigdoer.com — Royston Wrecks](https://www.bigdoer.com/63751/exploring-history/royston-wrecks-vancouver-island-bc/), [UASBC — Regional Shipwreck Surveys](https://www.uasbc.com/communications/regional-shipwreck-surveys), [VanIsle.News — Ghost Ships of Royston](https://vanisle.news/how-did-15-ghost-ships-end-up-in-royston/). Last updated 2026-05-17.*
+*Sources: [Atlas Obscura — Royston Shipwrecks](https://www.atlasobscura.com/places/royston-shipwrecks), [Bigdoer.com — Royston Wrecks](https://www.bigdoer.com/63751/exploring-history/royston-wrecks-vancouver-island-bc/), [UASBC — Regional Shipwreck Surveys](https://www.uasbc.com/communications/regional-shipwreck-surveys), [VanIsle.News — Ghost Ships of Royston](https://vanisle.news/how-did-15-ghost-ships-end-up-in-royston/). Last updated 2026-05-19.*

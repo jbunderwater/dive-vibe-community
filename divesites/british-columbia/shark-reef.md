@@ -23,7 +23,7 @@ Shark Reef sits in the active channel systems between the southern Gulf Islands 
 
 - **Location**: Southern Gulf Islands area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres

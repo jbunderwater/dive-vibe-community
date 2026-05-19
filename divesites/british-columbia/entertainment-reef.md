@@ -23,7 +23,7 @@ Entertainment Reef sits in the southern Strait of Georgia southeast of the Gulf 
 
 - **Location**: Southern Strait of Georgia, Gulf Islands area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

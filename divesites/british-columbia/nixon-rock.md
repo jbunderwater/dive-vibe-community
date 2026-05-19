@@ -23,7 +23,7 @@ Nixon Rock is a rocky submerged pinnacle in Discovery Passage near Quadra Island
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ Leo Reef lies in the southern Strait of Georgia near the US-Canada border area, 
 
 - **Location**: Southern Strait of Georgia, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres

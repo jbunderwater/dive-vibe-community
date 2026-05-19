@@ -23,7 +23,7 @@ Horda Shoals is a popular intermediate boat dive in the northern Gulf Islands, w
 
 - **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres

@@ -23,7 +23,7 @@ Shag Reef sits in the channel systems south and east of the Gulf Islands, close 
 
 - **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres

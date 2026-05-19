@@ -23,7 +23,7 @@ Defender Shoal sits in Discovery Passage north of Campbell River, in one of the 
 
 - **Location**: Discovery Passage, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

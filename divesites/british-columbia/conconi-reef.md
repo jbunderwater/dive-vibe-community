@@ -23,7 +23,7 @@ Conconi Reef is located in the southern Gulf Islands between Salt Spring Island 
 
 - **Location**: Southern Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

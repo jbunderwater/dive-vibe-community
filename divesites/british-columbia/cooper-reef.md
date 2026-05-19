@@ -23,7 +23,7 @@ Cooper Reef lies in the southern Gulf Islands in the Haro Strait area east of Vi
 
 - **Location**: Southern Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

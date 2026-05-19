@@ -23,7 +23,7 @@ Located off the outer coast of Vancouver Island near the entrance to Barkley Sou
 
 - **Location**: Outer Barkley Sound, Vancouver Island, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres

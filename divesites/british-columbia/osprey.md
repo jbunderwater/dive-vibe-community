@@ -48,6 +48,6 @@ Contact local dive operators in Sidney or the southern Gulf Islands to confirm c
 Water temperature is 7–12°C — drysuit required. At 28 metres, bottom time is limited by no-decompression limits; plan the dive conservatively. If wreck penetration is considered, it requires proper training, redundant lighting, and a guideline; never penetrate without these. Currents in the southern Gulf Islands can be significant; dive at slack water and deploy an SMB on ascent.
 
 ---
-*No site-specific published sources found for this wreck. The coordinates (48.7681908, -122.5282916) place the site near the southern Gulf Islands in the vicinity of Patos Island and the Canada-US boundary. The OSM import indicates siteType=wreck and maxDepth=28m. Vessel history and sinking details could not be verified from available sources — description based on regional cold-water wreck diving characteristics. Contact local operators for current site information.*
+*No site-specific published sources found for this wreck. The coordinates (48.7681908, -122.5282916) place the site near the southern Gulf Islands in the vicinity of Patos Island and the Canada-US boundary. The OSM import indicates siteType=wreck with sinking date 2018-12-20. Vessel history and identity could not be verified from available sources — description is based on regional cold-water wreck diving characteristics. Contact local operators for current site information.*
 
-*Description based on regional cold-water wreck diving characteristics. No verified site-specific sources found.*
+*Description based on regional cold-water wreck diving characteristics. No verified site-specific sources found. Last updated 2026-05-19.*

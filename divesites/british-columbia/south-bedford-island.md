@@ -50,4 +50,4 @@ Cold water (7–10°C) and depths to 28 m require a dry suit and appropriate gas
 **Note:** The wreck classification in the source data (OSM) could not be confirmed against a specific known wreck at South Bedford Island from available sources. The site is treated here as a rocky reef dive with possible wreck material — divers should consult local operators for current site knowledge.
 
 ---
-*Sources: [DIVE BC Saanich Inlet Guide](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Victoria Charter Dives](https://www.rockfishdivers.com/charters-805995-404646-553944.html), [Diving — Vancouver Island Tourism](https://vancouverisland.com/things-to-do-and-see/recreation/vancouver-island-bc-islands/diving/). Last updated 2026-05-17.*
+*No specific wreck at South Bedford Island could be confirmed from available sources. The site classification as wreck in OSM data is unresolved — see the dive profile note above. Last updated 2026-05-19.*

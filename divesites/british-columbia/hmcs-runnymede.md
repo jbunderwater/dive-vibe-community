@@ -52,4 +52,4 @@ A sign at the Kelsey Bay site reportedly identifies the hulks left to right as L
 Discovery Passage tidal currents; dive within slack-water window only. Drysuit required (7–10°C). Partially collapsed structure; no penetration without proper assessment. Remote location with limited emergency services.
 
 ---
-*Sources: [Wikipedia — HMCS Runnymede (K678)](https://en.wikipedia.org/wiki/HMCS_Runnymede_(K678)), [For Posterity's Sake — HMCS Runnymede K678](http://www.forposterityssake.ca/Navy/HMCS_RUNNYMEDE_K678.htm), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*
+*Sources: [Wikipedia — HMCS Runnymede (K678)](https://en.wikipedia.org/wiki/HMCS_Runnymede_(K678)), [For Posterity's Sake — HMCS Runnymede K678](http://www.forposterityssake.ca/Navy/HMCS_RUNNYMEDE_K678.htm), [Canada.ca — HMCS Runnymede](https://www.canada.ca/en/navy/services/history/ships-histories/runnymede.html). Last updated 2026-05-19.*

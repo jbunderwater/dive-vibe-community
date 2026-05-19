@@ -52,4 +52,4 @@ The proximity of three frigate hulks at Kelsey Bay makes this a multi-wreck dive
 Strong Discovery Passage tidal currents; dive only within a narrow slack-water window. Drysuit required (water 7–10°C). Partially collapsed hull — do not penetrate without proper structural assessment and equipment. Remote location; emergency response is limited.
 
 ---
-*Sources: [Wikipedia — HMCS Longueuil (K672)](https://en.wikipedia.org/wiki/HMCS_Longueuil_(K672)), [uboat.net — HMCS Longueuil](https://uboat.net/allies/warships/ship/182.html), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*
+*Sources: [Wikipedia — HMCS Longueuil (K672)](https://en.wikipedia.org/wiki/HMCS_Longueuil_(K672)), [Canada.ca — HMCS Longueuil](https://www.canada.ca/en/navy/services/history/ships-histories/longueuil.html), [Bigdoer.com — Royston Wrecks](https://www.bigdoer.com/63751/exploring-history/royston-wrecks-vancouver-island-bc/). Last updated 2026-05-19.*

@@ -23,7 +23,7 @@ Grant Reefs lies in the nutrient-rich waters of the upper Sunshine Coast, offeri
 
 - **Location**: Sunshine Coast, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 metres

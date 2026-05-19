@@ -23,7 +23,7 @@ Sky Pilot Rock lies in the waters of Desolation Sound and the Discovery Islands 
 
 - **Location**: Desolation Sound / Discovery Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

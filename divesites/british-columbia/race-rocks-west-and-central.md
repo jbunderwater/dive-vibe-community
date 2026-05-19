@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Race Rocks - West and Central
 
-A Marine Protected Area in the Strait of Juan de Fuca swept by ferocious tidal currents that attract Steller sea lions, six-gill sharks, and one of the richest invertebrate communities on Canada's Pacific coast.
+A Marine Protected Area in the Strait of Juan de Fuca swept by ferocious tidal currents that attract Steller sea lions, large lingcod, and one of the richest invertebrate communities on Canada's Pacific coast.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Race Rocks lies about 10 kilometres southwest of Victoria, where the Strait of J
 
 - **Location**: Strait of Juan de Fuca, 10 km southwest of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 8–20 metres; best late summer and autumn
@@ -32,7 +32,7 @@ Race Rocks lies about 10 kilometres southwest of Victoria, where the Strait of J
 
 ## Marine Life
 
-The combination of exposed rock, cold upwelling, and protected status has produced exceptional density and diversity. Steller sea lions haul out on the islets and routinely swim through during dives, close enough to touch (though touching is prohibited). Harbour seals are ubiquitous. Northern elephant seals have been documented in recent years. Six-gill sharks patrol the deeper reef zones and are occasionally encountered by divers. Giant Pacific octopus and wolf eels occupy rock piles and boulder crevices. Lingcod reach impressive size here — fish over a metre long are documented. Purple sea urchin barrens alternate with dense plumose anemone fields. Nudibranchs are abundant on the rock surfaces.
+The combination of exposed rock, cold upwelling, and protected status has produced exceptional density and diversity. Steller sea lions haul out on the islets and routinely swim through during dives, close enough to touch (though touching is prohibited). Harbour seals are ubiquitous. Northern elephant seals have been documented in recent years. Giant Pacific octopus and wolf eels occupy rock piles and boulder crevices. Lingcod reach impressive size here. Purple sea urchin barrens alternate with dense plumose anemone fields. Nudibranchs are abundant on the rock surfaces. Bluntnose sixgill sharks occur in BC waters (best known from Hornby Island and Saanich Inlet) but no site-specific source confirming regular sightings at Race Rocks was found — they cannot be listed as an expected Race Rocks encounter.
 
 ## Dive Profile
 
@@ -58,9 +58,5 @@ Race Rocks demands genuine current experience. Divers should have demonstrated t
 
 Sea lion interactions are the headline subject — shoot wide (10–17 mm equivalent) and be ready for fast, close passes. The kelp-draped boulders in available light during mid-slack provide atmospheric Pacific Northwest wide-angle compositions. Macro opportunities include colourful nudibranchs and the intricate structure of plumose anemone clusters.
 
-## Additional Resources
-
-- Last Updated: 2026-03-28
-
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Race Rocks Ecological Reserve — Shipwrecks](https://racerocks.ca/shipwrecks-around-race-rocks/), [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Elasmodiver — Shark Diving BC](https://www.elasmodiver.com/Hornby%20Island.htm). Last updated 2026-05-19.*

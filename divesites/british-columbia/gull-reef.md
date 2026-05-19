@@ -23,7 +23,7 @@ Gull Reef is a productive intermediate reef dive in the heart of the Gulf Island
 
 - **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres

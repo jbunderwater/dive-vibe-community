@@ -23,7 +23,7 @@ Yaculta Bank is a reef dive site in the Discovery Passage area near the Yuculta 
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

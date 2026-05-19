@@ -50,4 +50,4 @@ Water temperature 6–10°C at depth in Howe Sound; drysuit required. The fjord 
 *Note: Published documentation about this specific wreck's identity and history was not found during research. The site appears in OpenStreetMap data but is not described in available dive guides or operator pages. The wreck history section is omitted pending verified sourcing.*
 
 ---
-*Description based on Howe Sound regional diving characteristics. No site-specific published sources found for the Fort Langley Wreck specifically. Regional sources: [DAN Alert Diver — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [X-Ray Mag — Diving Coastal BC](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*
+*Description based on Howe Sound regional diving characteristics. No site-specific published sources found for the Fort Langley Wreck specifically. Regional sources: [DAN Alert Diver — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [X-Ray Mag — Diving Coastal BC](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-19.*

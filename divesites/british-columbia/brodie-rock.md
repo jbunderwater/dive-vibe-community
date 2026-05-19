@@ -23,7 +23,7 @@ Brodie Rock is located in the western approaches to Victoria in the Strait of Ju
 
 - **Location**: Strait of Juan de Fuca, west of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres

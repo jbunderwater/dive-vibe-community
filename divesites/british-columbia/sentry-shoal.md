@@ -23,7 +23,7 @@ Sentry Shoal lies in the northern Strait of Georgia, close to the Discovery Pass
 
 - **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–18 metres

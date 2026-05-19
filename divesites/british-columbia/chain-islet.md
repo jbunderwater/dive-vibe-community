@@ -23,7 +23,7 @@ Chain Islet is a small rocky outcrop in the Haro Strait east of Victoria, part o
 
 - **Location**: Haro Strait, east of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
