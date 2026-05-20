@@ -27,7 +27,7 @@ Depths here are shallow — topping out at around 12 meters — making it a good
 
 - **Location**: Western side of Cooper Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Depth Range**: 6–12 meters (20–40 feet)

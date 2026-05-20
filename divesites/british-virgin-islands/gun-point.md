@@ -23,7 +23,7 @@ Gun Point is a hidden gem in the western BVI, reached via a dirt road to a white
 
 - **Location**: Western BVI
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: Excellent; shallow depth keeps colors vivid

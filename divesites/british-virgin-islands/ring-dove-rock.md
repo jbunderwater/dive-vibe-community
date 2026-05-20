@@ -23,7 +23,7 @@ Ring Dove Rock appeals particularly to divers who prefer less-crowded sites. Whi
 
 - **Location**: BVI (Norman Island area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: Good; calm conditions typical
@@ -63,4 +63,4 @@ Ring Dove Rock is outstanding for invertebrate and fish macro photography. The r
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/ring-dove-rock/), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/ring-dove-rock/), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

@@ -23,7 +23,7 @@ Ginger's Backside faces north onto the Sir Francis Drake Channel from Ginger Isl
 
 - **Location**: North side of Ginger Island, Sir Francis Drake Channel, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Good

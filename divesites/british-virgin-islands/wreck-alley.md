@@ -2,7 +2,7 @@
 name: Wreck Alley
 lat: 18.45
 lng: -64.6167
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: wreck

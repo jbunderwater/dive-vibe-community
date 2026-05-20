@@ -37,4 +37,4 @@ British Virgin Islands is a notable diving destination in the Caribbean region w
 - **Safety**: Always dive within certification limits. Be aware of boat traffic, fire coral, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*

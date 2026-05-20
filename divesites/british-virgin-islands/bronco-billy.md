@@ -2,7 +2,7 @@
 name: Bronco Billy
 lat: 18.492992
 lng: -64.460067
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ Bronco Billy sits at the northwestern tip of George Dog island, approximately 12
 
 - **Location**: Northwestern tip of George Dog island, The Dogs group, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Moderate — limited by canyon shadows; torches recommended
 - **Current**: Low

@@ -23,7 +23,7 @@ Diamond Reef lies off Great Camanoe Island, a short boat ride from Scrub Island 
 
 - **Location**: Off Great Camanoe Island, 2 minutes by boat from Scrub Island, northeastern BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: Good; best on the northern side

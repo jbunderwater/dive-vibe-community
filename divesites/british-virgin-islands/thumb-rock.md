@@ -2,7 +2,7 @@
 name: Thumb Rock
 lat: 18.369543
 lng: -64.509268
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ Thumb Rock is located near the wreck dives of Wreck Alley (the Marie L and Pat w
 - **Location**: Near Wreck Alley, south Cooper Island area, BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: Good; typical BVI conditions
 - **Current**: Light to moderate
@@ -62,4 +62,4 @@ Thumb Rock is rated highly for photography across multiple subjects. The creole 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

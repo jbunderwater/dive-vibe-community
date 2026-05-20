@@ -23,7 +23,7 @@ Blackbeard's sits northeast of Dead Chest Island, roughly 12 minutes by boat fro
 
 - **Location**: Northeast of Dead Chest Island, ~12 minutes by boat from Spanish Town, Virgin Gorda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: ~9 meters (30 feet) on the northern side

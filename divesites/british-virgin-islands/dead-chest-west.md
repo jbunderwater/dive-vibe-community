@@ -23,7 +23,7 @@ Dead Chest West follows the western shoreline of Dead Chest Island, where the dr
 
 - **Location**: West face of Dead Chest Island, between Salt Island and Peter Island, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
 - **Typical Visibility**: Good

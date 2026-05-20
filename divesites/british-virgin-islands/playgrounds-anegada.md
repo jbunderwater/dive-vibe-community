@@ -64,4 +64,4 @@ The exceptional clarity of Anegada's water, combined with shallow depth and acti
 - Best combined with Anegada Reef for a two-tank Anegada atoll day
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [DivesCover – Anegada](https://divescover.com/diving/british-virgin-islands/anegada). Last updated 2026-05-20.*

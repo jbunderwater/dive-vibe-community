@@ -27,7 +27,7 @@ When mooring, approach from the north side; the shallow waters between The India
 
 - **Location**: North of Norman Island, near Pelican Island, southwest of Peter Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters

@@ -23,7 +23,7 @@ Cow's Mouth sits on the northwest side of Virgin Gorda, in close proximity to Mo
 
 - **Location**: Northwest Virgin Gorda, near Mountain Point, BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Up to 30 meters (100 feet)

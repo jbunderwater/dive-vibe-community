@@ -63,4 +63,4 @@ The fish density makes Wall to Wall an excellent wide-angle photography site —
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/wall-to-wall/), [BVI Diving – Wall to Wall](https://www.bvidiving.com/diving-wall-to-wall-bvi.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/wall-to-wall/), [BVI Diving – Wall to Wall](https://www.bvidiving.com/diving-wall-to-wall-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

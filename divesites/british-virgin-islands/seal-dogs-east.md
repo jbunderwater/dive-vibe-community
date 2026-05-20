@@ -23,7 +23,7 @@ Seal Dogs East occupies the eastern and northeastern side of the Seal Dog Island
 
 - **Location**: Eastern side of the Seal Dog Islands group, northwest of Virgin Gorda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters (walls drop deeper)
 - **Typical Visibility**: Excellent — open Atlantic influence
@@ -62,4 +62,4 @@ The combination of open-water pelagics and colorful rocky reef formations makes 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/seal-dogs-east/), [BVI Diving – Seal Dogs](https://www.bvidiving.com/diving-seal-dogs-bvi.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/seal-dogs-east/), [BVI Diving – Seal Dogs](https://www.bvidiving.com/diving-seal-dogs-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

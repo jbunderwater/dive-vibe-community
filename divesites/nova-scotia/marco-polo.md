@@ -3,7 +3,7 @@ name: Marco Polo
 lat: 46.5072299
 lng: -63.4217238
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 11
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,43 +13,46 @@ addedBy: osm_import
 
 ## Marco Polo
 
-Marco Polo is one of Nova Scotia's most iconic dive sites, featuring the remains of an 1851 ship that sank in 1883 off Sable Island. The scattered wreck lies in approximately 35 meters of cold Atlantic water and requires advanced training and experience. Divers encounter distributed wreck remains with some structural preservation, dramatic underwater topography, and the rich marine life of the outer continental shelf including Atlantic wolffish and halibut.
+**Location note:** The wreck of the Marco Polo lies off Cavendish, **Prince Edward Island** (46°30'25"N 63°25'19"W), not in Nova Scotia — this record appears in the Nova Scotia dataset due to administrative boundaries but the site is a PEI National Historic Site. The OSM node falls within the Northumberland Strait / Gulf of St. Lawrence waters adjacent to PEI National Park.
+
+The Marco Polo was a 184-foot (56 m) three-masted clipper ship, launched in 1851 in Saint John, New Brunswick, and once the fastest sailing ship in the world. On July 22, 1883, returning from Montreal with a timber cargo, the ship encountered a severe gale in the Gulf of St. Lawrence, took on water faster than the pumps could manage, and Captain Bull deliberately ran her aground on the sandy Cavendish beach to prevent loss at sea. The wreck lies in approximately 10–11 meters of water, roughly 275 meters offshore from Prince Edward Island National Park. Visible remains are scarce and shift seasonally; divers have reported scattered timber, hull fastenings, and anchor chain in shallow water.
 
 ## Overview
 
-Marco Polo is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+The Marco Polo wreck is a shallow, historically significant Canadian National Historic Site in the waters of PEI National Park. This is not a deep wreck dive — maximum depth is approximately 10–11 m over the scattered remains. The shallow water and sandy substrate mean conditions vary significantly with weather, and remains appear and disappear with seasonal sand movement. The site is suitable for intermediate-level divers in calm conditions but the remote Gulf of St. Lawrence exposure means swells can develop quickly.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Location**: Off Cavendish, Prince Edward Island (PEI National Park waters)
+- **Entry Type**: Boat dive (or shore approach in very calm conditions)
+- **Site Type**: Wreck dive (distributed shallow remains)
+- **Difficulty Level**: Advanced (exposed location, variable visibility)
+- **Maximum Depth**: ~10–11 meters
+- **Water Temperature**: 8–18°C (cold in June, warmer July–August)
+
+## Wreck History
+
+The Marco Polo was built by James Smith at Saint John, New Brunswick, and launched April 17, 1851. She measured 184 ft 1 in (56.11 m) in length, with 1,625 GRT. Under Captain James "Bully" Forbes, she set the world record for the Liverpool-to-Melbourne run in 76 days in 1852 — a record that stood for years and earned her the title "Fastest Ship in the World." Sold multiple times over her career, she ended her days on the Cavendish beach on July 22, 1883. Her hull timbers were salvaged following the grounding. The wreck site was designated a National Historic Event by the Historic Sites and Monuments Board of Canada.
 
 ## Marine Life
 
-Nova Scotia's cold Atlantic waters support unique marine species. Expect to encounter harbor seals, Atlantic wolffish, Atlantic halibut, lobsters, sea urchins, and cold-water anemones. Kelp forests are common in shallower areas. Depending on depth and season, pelagic species may be present.
+Regional marine life of the southern Gulf of St. Lawrence includes Atlantic mackerel, winter flounder, rock crab, and sand lance. No site-specific species reports were found for the Marco Polo wreck site itself.
+
+## Dive Profile
+
+The scattered remains lie at 10–11 m on a sandy bottom approximately 275 m offshore from Cavendish beach. Visible features include scattered hull timber, copper fastenings, anchor chain sections, and occasional concretion mounds. The shallow depth and sandy bottom mean swell and surge are the main challenges. Visibility can range from 5–15 m depending on conditions. This is a snorkel- or entry-level scuba depth but the exposed Gulf of St. Lawrence location demands proper dive planning and weather assessment.
 
 ## Entry and Exit
 
-Access by charter boat or private vessel. Descend along the mooring line or natural descent path. Monitor your depth and bottom time carefully. Ascend with a safety stop at 5 meters for at least 3 minutes. Surface slowly near the boat maintaining visual contact with the crew.
+Boat access is preferred due to the offshore location. The site can theoretically be reached by a long surface swim from Cavendish beach in dead-calm conditions. No dedicated charter service for this site is known; contact PEI National Park or local operators in Charlottetown for guidance on access.
 
 ## Tips and Recommendations
 
-- Bring proper thermal protection — Nova Scotia water is cold year-round
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-- Bring an underwater light for deeper dives and exploration
+Dive only in flat-calm Gulf conditions. The sandy bottom can develop surge even in light swell. Early morning in midsummer offers the calmest window. The site is an archaeological resource protected under the National Parks Act — no materials may be removed or disturbed. Coordinate any diving with Parks Canada (PEI National Park).
 
-## Photography
+## Safety Considerations
 
-This site offers opportunities for marine life and geological photography. Atlantic kelp, colorful crustaceans, and sometimes seals provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-- **Water Type**: Cold Atlantic
-- **Region**: Nova Scotia
+The shallow depth minimizes decompression risk. The exposed Gulf of St. Lawrence location can produce rapidly changing conditions. Cold water in June (8–10°C) warms to 15–18°C by August; a wetsuit is sufficient in summer but a drysuit is needed in shoulder seasons. No overhead environments.
 
 ---
-*Sources: [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/shipwrecks/), [Wreckhunter - Nova Scotia](https://wreckhunter.net/novascotia.htm), [ScubaBoard - Nova Scotia Diving](https://scubaboard.com/community/threads/nova-scotia-diving-recommendations-needed.345208/), [PADI Dive Sites - Nova Scotia](https://www.padi.com/dive-sites/nova-scotia/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Marco Polo (1851 ship)](https://en.wikipedia.org/wiki/Marco_Polo_(1851_ship)), [Resort Municipality PEI — Wreck of the Marco Polo](https://resortmunicipalitypei.com/the-wreck-of-the-marco-polo-1883/), [Parks Canada — Career of the Marco Polo](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1543), [CBC News — Historic shipwreck washes up on PEI](https://www.cbc.ca/news/canada/prince-edward-island/historic-shipwreck-washes-up-on-p-e-i-1.661773). Last updated 2026-05-20.*

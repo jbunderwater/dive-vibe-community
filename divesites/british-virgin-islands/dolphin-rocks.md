@@ -23,7 +23,7 @@ Dolphin Rocks sits on the northern side of George Dog, one of the Dog Islands â€
 
 - **Location**: Northern side of George Dog, Dog Islands, BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good in calm conditions

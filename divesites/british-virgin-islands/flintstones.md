@@ -23,7 +23,7 @@ Flintstones lies west of West Dog Island in the Dog Islands group. The site take
 
 - **Location**: West of West Dog Island, The Dogs group, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Good

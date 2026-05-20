@@ -23,7 +23,7 @@ The Playground is located east of Green Cay West, near Little Jost Van Dyke in t
 
 - **Location**: East of Green Cay West, near Little Jost Van Dyke, western BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Depth Range**: 8–27 meters (25–90 feet); most diving at 8–11 meters
@@ -64,4 +64,4 @@ Wide-angle coverage of the boulder field with gorgonian foreground and divers in
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-playground/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Jost_Van_Dyke_The_Playground_dive_site.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-playground/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Jost_Van_Dyke_The_Playground_dive_site.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

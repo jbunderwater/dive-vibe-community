@@ -23,7 +23,7 @@ Brewer's East lies on the eastern side of Brewers Bay on the northern coast of T
 
 - **Location**: Eastern side of Brewers Bay, northern Tortola
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Good; consistently clear in calm conditions

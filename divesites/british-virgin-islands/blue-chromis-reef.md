@@ -23,7 +23,7 @@ Blue Chromis Reef sits in the southern BVI and takes its name from the iridescen
 
 - **Location**: Southern BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Depth Range**: 9–27 meters (30–90 feet)

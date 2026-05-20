@@ -23,7 +23,7 @@ Monkey Point is located on the southern side of Guana Island, a short boat ride 
 
 - **Location**: South side of Guana Island, BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: Good; protected location
