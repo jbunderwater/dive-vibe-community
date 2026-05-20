@@ -18,7 +18,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dive.bc.ca,rockfishdivers.com,vancouverisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -38,7 +38,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "racerocks.ca,rockfishdivers.com,uvicscuba.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -47,7 +47,7 @@
     "lon": -123.541408,
     "osm_id": 663869269,
     "osm_type": "node",
-    "depth": 28,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -60,7 +60,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "racerocks.ca,uasbc.com,coldoceandiver.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20",
+      "depth_note": "QA 2026-05-20: Corrected from 28m to 12m — wreck sits in ~12m at Pilot Bay per UASBC and racerocks.ca. The 28m figure reflects slope past wreck."
     }
   },
   {
@@ -80,7 +81,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "uasbc.com,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -100,7 +101,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,rockfishdivers.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -123,7 +124,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "nauticapedia.ca,uasbc.com,scubaboard.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -144,7 +145,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -164,7 +165,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,zentacle.com,scubabc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -184,7 +185,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -204,7 +205,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -224,7 +225,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "zentacle.com,coldoceandiver.ca,vancouver-island-dive-sites.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -244,7 +245,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -265,7 +266,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -285,7 +286,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -305,7 +306,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -325,7 +326,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -346,7 +347,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -366,7 +367,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -386,7 +387,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -406,7 +407,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -426,7 +427,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -446,7 +447,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -466,7 +467,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -486,7 +487,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -506,7 +507,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -526,7 +527,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -547,7 +548,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -569,7 +570,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "artificialreefsocietybc.ca,wikipedia.org,scubabc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -589,7 +590,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -609,7 +610,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -629,7 +630,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -649,7 +650,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -669,7 +670,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -689,7 +690,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -709,7 +710,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -730,7 +731,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -751,7 +752,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -772,7 +773,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -792,7 +793,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -812,7 +813,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -832,7 +833,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -852,7 +853,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -873,7 +874,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -893,7 +894,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -913,7 +914,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -933,7 +934,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -953,7 +954,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -974,7 +975,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -995,7 +996,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1016,7 +1017,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1041,7 +1042,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,canada.ca,atlasobscura.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1061,7 +1062,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1081,7 +1082,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1101,7 +1102,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1121,7 +1122,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1141,7 +1142,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1161,7 +1162,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1181,7 +1182,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1201,7 +1202,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1221,7 +1222,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1242,7 +1243,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1263,7 +1264,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1283,7 +1284,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1304,7 +1305,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1324,7 +1325,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1344,7 +1345,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1364,7 +1365,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1384,7 +1385,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1404,7 +1405,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1424,7 +1425,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1445,7 +1446,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1466,7 +1467,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1487,7 +1488,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1508,7 +1509,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1529,7 +1530,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1550,7 +1551,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1570,7 +1571,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1590,7 +1591,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1610,7 +1611,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1630,7 +1631,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1650,7 +1651,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1670,7 +1671,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1690,7 +1691,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1710,7 +1711,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1730,7 +1731,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1750,7 +1751,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1770,7 +1771,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1790,7 +1791,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1811,7 +1812,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1831,7 +1832,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1851,7 +1852,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1871,7 +1872,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1891,7 +1892,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1911,7 +1912,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1931,7 +1932,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1951,7 +1952,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1971,7 +1972,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -1991,7 +1992,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2011,7 +2012,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2032,7 +2033,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2052,7 +2053,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2072,7 +2073,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2092,7 +2093,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2112,7 +2113,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2132,7 +2133,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2152,7 +2153,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2172,7 +2173,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2193,7 +2194,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2214,7 +2215,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2234,7 +2235,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2254,7 +2255,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2274,7 +2275,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2294,7 +2295,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2314,7 +2315,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2334,7 +2335,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2354,7 +2355,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2374,7 +2375,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2394,7 +2395,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2414,7 +2415,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2434,7 +2435,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2454,7 +2455,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2474,7 +2475,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2494,7 +2495,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2514,7 +2515,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2534,7 +2535,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2554,7 +2555,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2574,7 +2575,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2583,7 +2584,7 @@
     "lon": -123.330204,
     "osm_id": 8526894453,
     "osm_type": "node",
-    "depth": 32,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -2602,7 +2603,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,artificialreefsocietybc.ca,cbc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20",
+      "depth_note": "QA 2026-05-20: Depth confirmed 32-33m at keel level per ARSBC."
     }
   },
   {
@@ -2626,7 +2628,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,openstreetmap.org",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2646,7 +2648,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2666,7 +2668,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2686,7 +2688,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2706,7 +2708,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2726,7 +2728,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2746,7 +2748,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2766,7 +2768,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2786,7 +2788,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2806,7 +2808,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2834,7 +2836,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "navsource.net,wikipedia.org,bigdoer.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2860,7 +2862,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2886,7 +2888,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,vanisle.news,uasbc.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2910,7 +2912,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2930,7 +2932,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2952,7 +2954,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,britanniabeach.com,dan.org",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2972,7 +2974,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dan.org,zentacle.com,fvscuba.org",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -2993,7 +2995,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dan.org,justgottadive.com,coldoceandiver.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3014,7 +3016,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dan.org,padi.com,makesomebubbles.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3035,7 +3037,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubaboard.com,seadragoncharters.com,dan.org",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3055,7 +3057,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3075,7 +3077,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3095,7 +3097,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3116,7 +3118,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3136,7 +3138,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3156,7 +3158,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3176,7 +3178,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3196,7 +3198,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3216,7 +3218,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3240,7 +3242,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3264,7 +3266,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3288,7 +3290,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3310,7 +3312,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3330,7 +3332,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3351,7 +3353,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3371,7 +3373,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3397,7 +3399,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,bigdoer.com,uasbc.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3419,7 +3421,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3441,7 +3443,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3463,7 +3465,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3485,7 +3487,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "openstreetmap.org,wikidata.org",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3507,7 +3509,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3529,7 +3531,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -3551,7 +3553,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-20"
     }
   }
 ]

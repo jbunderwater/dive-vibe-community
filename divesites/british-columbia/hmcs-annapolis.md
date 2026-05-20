@@ -3,7 +3,7 @@ name: HMCS Annapolis
 lat: 49.4492839
 lng: -123.330204
 difficulty: Advanced
-maxDepth: 32
+maxDepth: 33
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ HMCS Annapolis served the Royal Canadian Navy as an Annapolis-class destroyer-es
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 6–15 metres; best June through September
 - **Current**: Light to moderate in Halkett Bay
 - **Best Time**: June through September

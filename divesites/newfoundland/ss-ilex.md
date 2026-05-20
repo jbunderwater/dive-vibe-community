@@ -48,4 +48,4 @@ The best viewing point for the above-water portion is from across the harbour on
 Surge over rocky substrate is the primary hazard given the intertidal exposure. Cold Atlantic water requires adequate exposure protection. The rusting hull has sharp edges. The site is remote — the nearest services are in Fermeuse or Trepassey — so divers should be self-sufficient with safety equipment including a surface marker buoy.
 
 ---
-*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-05-17.*
+*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-05-20.*

@@ -22,7 +22,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -48,7 +49,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -74,7 +76,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -88,7 +91,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, wrecksandreefs.com/l_strahc.htm",
     "tags": {
       "access": "yes",
       "depth": "30m",
@@ -100,7 +103,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -114,13 +118,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "pm.geoview.info/troot_pool, wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor — confirmed wreck in Saint Pierre and Miquelon waters near Langlade; no specific dive depth data found",
+    "validation_source": "pm.geoview.info/troot_pool, wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org",
     "tags": {
       "historic": "wreck",
       "name": "Troot Pool",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -140,7 +145,8 @@
       "name": "S.S. Ilex",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -151,7 +157,7 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "thescubanews.com/2025/03/13/about-the-msc-baltic-iii, gcaptain.com — grounded Feb 2025 near Wild Cove, Bay of Islands; active 2-nautical-mile exclusion zone, NOT currently diveable",
@@ -167,7 +173,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of March 2026"
+      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of March 2026",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -194,7 +201,8 @@
       "wreck:date_sunk": "1967-02-04",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -208,17 +216,18 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor — confirmed wreck in Saint Pierre and Miquelon waters; specific dive depth data not found in available sources",
+    "validation_source": "wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org, maritimemuseum.novascotia.ca",
     "tags": {
       "historic": "wreck",
       "name": "Le Muscadin",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
-    "name": "\u00c9pave du Transpacific",
+    "name": "Épave du Transpacific",
     "lat": 46.7896773,
     "lon": -56.1432856,
     "osm_id": 20321746,
@@ -232,14 +241,15 @@
     "tags": {
       "access": "yes",
       "historic": "wreck",
-      "name": "\u00c9pave du Transpacific",
+      "name": "Épave du Transpacific",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "type": "multipolygon",
       "wreck:date_sunk": "1971-05-18",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-20"
     }
   }
 ]

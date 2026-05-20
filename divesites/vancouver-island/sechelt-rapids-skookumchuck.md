@@ -2,7 +2,7 @@
 name: Sechelt Rapids (Skookumchuck)
 lat: 49.7333
 lng: -123.9
-difficulty: Expert
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: drift
@@ -24,7 +24,7 @@ Skookumchuck Narrows is a strait forming the entrance of Sechelt Inlet on Britis
 - **Location**: Sechelt Inlet entrance, Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Expert
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters (emerald-green water during slack)
 - **Current**: 16-17.7 knots (North America's fastest tidal rapids)

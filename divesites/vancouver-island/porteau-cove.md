@@ -23,7 +23,7 @@ Porteau Cove is one of the most accessible and beginner-friendly dive sites in t
 
 - **Location**: Howe Sound, 38km north of Vancouver on Highway 99
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-15 meters (seasonal dependent)

@@ -24,10 +24,10 @@ The Marco Polo wreck is a shallow, historically significant Canadian National Hi
 ## Site Information
 
 - **Location**: Off Cavendish, Prince Edward Island (PEI National Park waters)
-- **Entry Type**: Boat dive (or shore approach in very calm conditions)
-- **Site Type**: Wreck dive (distributed shallow remains)
-- **Difficulty Level**: Advanced (exposed location, variable visibility)
-- **Maximum Depth**: ~10–11 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 11 meters
 - **Water Temperature**: 8–18°C (cold in June, warmer July–August)
 
 ## Wreck History
