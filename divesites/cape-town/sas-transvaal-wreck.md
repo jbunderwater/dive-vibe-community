@@ -26,10 +26,10 @@ Invertebrate colonisation is exceptional: the wreck hosts encrusting communities
 ## Site Information
 
 - **Location**: Smitswinkel Bay, False Bay (northernmost of five wrecks), Cape Town
-- **Entry Type**: Boat dive (from Miller's Point, ~4km)
-- **Site Type**: Wreck dive (upright frigate)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34 meters (sand); main deck at ~29m
+- **Maximum Depth**: 34 meters
 - **Water Temperature**: 10–16°C — drysuit or 7mm wetsuit recommended
 - **Visibility**: 6–8m typical; up to 20m+ on good winter days
 - **Best Time**: Winter (April–September)

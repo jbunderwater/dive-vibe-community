@@ -24,10 +24,10 @@ Fish diversity is exceptional for a cold-water temperate site: large shoals of H
 ## Site Information
 
 - **Location**: Miller's Point, False Bay, Cape Town, South Africa
-- **Entry Type**: Boat dive (from Miller's Point)
-- **Site Type**: Boulder reef (previously miscategorised as wall — corrected)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters (east of Seal Rock on sand); ~17m at Big Rock; ~22m at swim-through feature
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 5–10 meters (up to 20m on exceptional days)
 - **Water Temperature**: 8–16°C — 5–7mm wetsuit or drysuit required
 - **Best Time**: April–September (winter, after NW wind)

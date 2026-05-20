@@ -28,10 +28,10 @@ Invertebrate colonisation is the primary attraction: red and brown algae cover s
 ## Site Information
 
 - **Location**: Atlantic seaboard, approximately 4.5 km from Hout Bay Harbour, Cape Peninsula
-- **Entry Type**: Boat dive (live-boat preferred)
-- **Site Type**: Reef (granite corestone pinnacles and outcrops)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (reef tops at ~8m)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10m (up to 20m+ with upwelling)
 - **Water Temperature**: 8–14°C cold Atlantic — drysuit strongly recommended
 - **Permit**: TMNP diving permit required

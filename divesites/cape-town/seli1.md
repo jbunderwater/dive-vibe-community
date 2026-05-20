@@ -27,8 +27,8 @@ The submerged wreckage lies on sand at up to 20 metres. The dispersed debris fie
 
 - **Location**: Bloubergstrand, Table Bay, Cape Town
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (scattered/demolished remains)
-- **Difficulty Level**: Advanced (Table Bay conditions, exposed site, dispersed debris)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Water Temperature**: 12–18°C (Table Bay, warmer than Atlantic side)
 - **Navigation Hazard**: Marker buoy marks shallowest point of wreck; approach with caution

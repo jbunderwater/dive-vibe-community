@@ -26,8 +26,8 @@ Water temperatures range from 8°C in winter to around 14°C in summer, driven b
 ## Site Information
 
 - **Location**: Simon's Town, False Bay, Cape Town, South Africa
-- **Entry Type**: Shore entry (rocky entry — experience with surge required)
-- **Site Type**: Reef (granite boulder reef with kelp forest)
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 3–15 meters

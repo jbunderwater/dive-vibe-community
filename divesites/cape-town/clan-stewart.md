@@ -26,8 +26,8 @@ This shallow shore dive sits at 7–9 metres in the Benguela's cold water, withi
 ## Site Information
 
 - **Location**: Mackerel Bay, Simon's Town, False Bay, Cape Town (~100m offshore from Mackerel Beach)
-- **Entry Type**: Shore entry (Mackerel Beach)
-- **Site Type**: Wreck dive (partially exposed hull)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Depth Range**: 7–9 meters

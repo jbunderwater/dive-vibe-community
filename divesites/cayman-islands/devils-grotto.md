@@ -3,7 +3,7 @@ name: Devil's Grotto
 lat: 19.3083
 lng: -81.3833
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: shore
 siteType: cave
 ref: null

@@ -26,9 +26,9 @@ Entry is over a boulder beach (the most challenging part of the dive), and offsh
 ## Site Information
 
 - **Location**: Oudekraal, Atlantic seaboard (Victoria Road, near Twelve Apostles Hotel), Cape Town
-- **Entry Type**: Shore entry (boulder beach entry)
-- **Site Type**: Wreck dive (scattered sections)
-- **Difficulty Level**: Intermediate (cold water, boulder entry, return swim)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Depth Range**: 5–15 meters
 - **Water Temperature**: 8–14°C (cold Atlantic) — 5–7mm wetsuit or drysuit required

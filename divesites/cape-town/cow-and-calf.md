@@ -13,27 +13,30 @@ addedBy: osm_import
 
 # Cow and Calf
 
-*Shallow granite reef formation in False Bay with resident Cape fur seals and dense kelp habitat*
+*Shallow twin granite reef formations in False Bay with resident Cape fur seals and kelp habitat*
 
 ## Overview
 
 Cow and Calf is a pair of submerged granite reef outcrops rising from the sandy floor of False Bay, named for the two distinct rock formations — one larger ("cow") and one smaller ("calf") — visible in the shallows. The site sits within False Bay near Simon's Town and is most easily accessed by boat from the Simon's Town waterfront. Water temperatures range from 8°C in winter to 14°C in summer under the influence of the Benguela Current. The shallow maximum depth of 12 metres makes this a manageable site for intermediate divers working with cold water for the first time. Dense Cape kelp colonises the rock surfaces, creating the characteristic kelp forest habitat that defines Cape Point dive sites.
 
+*Note: broadnose sevengill sharks were listed in a previous version of this description. Sevengill cow sharks have been reported as elusive since 2016 at nearby sites (Dive Team Cape Town); they have been removed as a reliable sighting at Cow and Calf.*
+
 ## Site Information
 
 - **Location**: False Bay, near Simon's Town, Cape Town, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 4-12 meters (13-40 feet)
-- **Water Temperature**: 8-14°C (46-57°F) — 5-7mm wetsuit or drysuit required
+- **Depth Range**: 2–12 meters
+- **Typical Visibility**: 4–12 meters
+- **Water Temperature**: 8–14°C — 5–7mm wetsuit or drysuit required
 - **Current**: Light to moderate
 - **Best Time**: November to April
 
 ## Marine Life
 
-Cape fur seals are the primary attraction — they use the rocky outcrops as haul-out sites and are frequently encountered underwater around the base of the formations, performing acrobatic manoeuvres through the kelp. Broadnose sevengill sharks patrol the sandy margins, particularly in summer. The reef shelters pyjama catsharks, spotted gully sharks, shy sharks, Cape knifejaw, large Roman sea bream, snoek, and dense invertebrate communities including sea cucumbers, starfish, and nudibranchs. Octopus are common in rock crevices.
+Cape fur seals are the primary attraction — they use the rocky outcrops as haul-out sites and are frequently encountered underwater, performing acrobatic manoeuvres through the kelp. The reef shelters pyjama catsharks, spotted gully sharks, shy sharks, Cape knifejaw, large Roman sea bream, and dense invertebrate communities including sea cucumbers, starfish, and nudibranchs. Octopus are common in rock crevices.
 
 ## Dive Profile
 
@@ -45,18 +48,18 @@ Enter from the dive boat via giant stride. The site is relatively sheltered on c
 
 ## Tips
 
-- Time dives for mornings when visibility is typically best and sea breezes haven't built
+- Time dives for mornings when visibility is typically best
 - A 7mm wetsuit with hood and gloves is appropriate for water temperatures below 12°C
 - Observe seals passively — sit still on the sand and they often approach out of curiosity
 - Bring a torch for illuminating overhangs where catsharks rest
 
 ## Safety
 
-False Bay is a busy waterway — deploy an SMB during your safety stop. Cold water limits bottom time in a wetsuit; plan accordingly. The shallow depth provides a comfortable margin for decompression management. Sevengill sharks are not aggressive unless provoked.
+False Bay is a busy waterway — deploy an SMB during your safety stop. Cold water limits bottom time in a wetsuit; plan accordingly. The shallow depth provides a comfortable margin for decompression management.
 
 ## Photography
 
-The shallow depth allows good natural light throughout the dive. Seal interactions are the premier photographic subject — wide-angle lenses capture them spiralling through kelp fronds. The kelp canopy creates natural framing for reef portraits. A compact camera is well-suited to the site's shallow, kelp-filtered light.
+The shallow depth allows good natural light throughout the dive. Seal interactions are the premier photographic subject — wide-angle lenses capture them spiralling through kelp fronds. The kelp canopy creates natural framing for reef portraits.
 
 ---
-*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*
+*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*

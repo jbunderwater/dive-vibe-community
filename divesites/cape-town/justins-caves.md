@@ -26,10 +26,10 @@ The site is technically a rocky reef with prominent cave and cavern features; th
 ## Site Information
 
 - **Location**: North Oudekraal, Atlantic seaboard, Cape Peninsula, Cape Town
-- **Entry Type**: Shore entry (~150m swim from roadside parking)
-- **Site Type**: Cave/cavern (rocky reef with swim-throughs and noble coral cavern)
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15–17 meters (seaward edge)
+- **Maximum Depth**: 15 meters
 - **Typical Depth**: 5–13 meters across most of site
 - **Water Temperature**: Cold (8–12°C) — 7mm wetsuit or drysuit required
 - **Visibility**: Up to 20m+ on good summer days after SE wind

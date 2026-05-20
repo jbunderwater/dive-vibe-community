@@ -3,7 +3,7 @@ name: Keith Tibbetts Wreck Cayman Brac
 lat: 19.7167
 lng: -79.8
 difficulty: Intermediate
-maxDepth: 50
+maxDepth: 26
 entryType: boat
 siteType: wreck
 ref: null

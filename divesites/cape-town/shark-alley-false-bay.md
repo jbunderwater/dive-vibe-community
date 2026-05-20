@@ -24,10 +24,10 @@ Cage diving operations at Seal Island continue, but the sharks most commonly enc
 ## Site Information
 
 - **Location**: False Bay, near Seal Island, Cape Town, South Africa
-- **Entry Type**: Boat dive (cage diving operation)
-- **Site Type**: Shark encounter / shallow coastal reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 10 meters (cage surface or shallow)
+- **Maximum Depth**: 10 meters
 - **Water Temperature**: 14–18°C — wetsuit essential
 - **Best Season**: June–September historically for great whites; currently uncertain
 

@@ -13,19 +13,26 @@ addedBy: osm_import
 
 ## Outer Castle
 
-Outer Castle is a reef dive site in Cape Town, Africa.
+Outer Castle (also known as Castle Blinder) is a rocky reef structure off the Cape Peninsula in False Bay, featuring large boulders and swim-throughs dropping to around 22 metres, with kelp-draped rocks that break the surface at low tide and visiting Cape fur seals.
 
 ## Overview
 
-Outer Castle is a rocky reef structure off the Cape Peninsula dropping to around 22 meters, its walls and boulders blanketed in dense kelp forest and decorated with bright pink and orange sea anemones fed by the cold Benguela upwelling. Cape fur seals from nearby colonies frequent the site and will often dart around divers playfully in the kelp canopy, while octopus, cuttlefish, and cape rock lobster inhabit the crevices. Water temperatures sit between 10–16°C year-round, so a drysuit or thick wetsuit is essential.
+Outer Castle is a granite boulder reef structure off the Cape Peninsula, also referred to as Castle Blinder. Large rocky outcrops rise to break the surface at low tide and descend to sand at approximately 22 metres, with the characteristic Cape kelp forest colonising the boulders throughout. The site features swim-throughs between the large boulders and significant invertebrate cover — red bait (ascidians), false corals, feather stars, and sea cucumbers coat the rock surfaces. Cape fur seals visit from nearby colonies and are regularly encountered in and around the kelp canopy.
+
+Water temperatures sit between 10–16°C year-round under Benguela influence, so a drysuit or thick wetsuit is essential.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
+- **Location**: False Bay, Cape Peninsula, Cape Town
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
+- **Water Temperature**: 10–16°C — 7mm wetsuit or drysuit required
+
+## Marine Life
+
+Red bait (ascidians), false corals, feather stars, sea cucumbers, shoaling fish, Cape fur seals, and kelp-associated invertebrates are documented at this site.
 
 ---
-*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*
+*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Scuba Shack Cape Town](https://scubashack.co.za/category/dive-sites/). Last updated 2026-05-20.*

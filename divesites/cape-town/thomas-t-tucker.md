@@ -24,10 +24,10 @@ The wreck is now split into three main sections strewn across a rocky reef in 5�
 ## Site Information
 
 - **Location**: Olifantsbos Point, Cape Point, Table Mountain National Park (MPA), Cape Town
-- **Entry Type**: Shore entry (on foot from Olifantsbos parking area)
-- **Site Type**: Wreck dive (scattered sections)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 10 meters (surf zone)
+- **Maximum Depth**: 10 meters
 - **Water Temperature**: 8–14°C — thick wetsuit or drysuit required
 - **Visibility**: Generally poor due to surge and particle load
 - **Access**: TMNP permit required; site diveable only on exceptionally calm days

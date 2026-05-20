@@ -3,7 +3,7 @@ name: Cali Ship Wreck
 lat: 19.2985241
 lng: -81.3828514
 difficulty: Beginner
-maxDepth: 28
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null

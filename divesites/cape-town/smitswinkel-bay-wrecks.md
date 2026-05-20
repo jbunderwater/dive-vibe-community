@@ -24,10 +24,10 @@ All five are densely colonised by soft corals, sea fans, sponges, and anemones, 
 ## Site Information
 
 - **Location**: Smitswinkel Bay, False Bay, near Miller's Point, Cape Town
-- **Entry Type**: Boat dive (from Miller's Point or Kalk Bay, ~4km)
-- **Site Type**: Wreck dive (five vessels)
-- **Difficulty Level**: Advanced (minimum Advanced certification)
-- **Maximum Depth**: 38 meters (SAS Transvaal and SAS Good Hope)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 38 meters
 - **Depth Range**: 22–38 meters across all five wrecks
 - **Water Temperature**: 10–18°C — drysuit or thick wetsuit recommended
 - **Best Time**: Winter (April–September) when SE winds relent

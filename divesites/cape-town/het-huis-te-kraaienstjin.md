@@ -28,10 +28,10 @@ The site lies within the Table Mountain National Park Marine Protected Area (des
 ## Site Information
 
 - **Location**: North Oudekraal, Atlantic seaboard, Cape Peninsula (Table Mountain National Park MPA)
-- **Entry Type**: Shore entry (~150m swim from parking area)
-- **Site Type**: Historic wreck (scattered remains)
-- **Difficulty Level**: Intermediate (cold Atlantic water, 150m swim, possible surge)
-- **Maximum Depth**: 12 meters (sand bottom at approximately 10m)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 12 meters
 - **Water Temperature**: Cold (8–14°C Atlantic) — 5–7mm wetsuit or drysuit required
 - **Permit**: TMNP permit required
 

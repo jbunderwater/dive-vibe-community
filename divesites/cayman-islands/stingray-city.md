@@ -3,7 +3,7 @@ name: Stingray City
 lat: 19.3833
 lng: -81.3167
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 5
 entryType: boat
 siteType: reef
 ref: null

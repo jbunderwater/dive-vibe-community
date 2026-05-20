@@ -28,10 +28,10 @@ Conditions are fairly sheltered from south-westerly swell, making it diveable on
 ## Site Information
 
 - **Location**: Oatlands Point, Simon's Town, False Bay, Cape Town
-- **Entry Type**: Shore entry (three access points: northern slippery rock, southern boulder area, long rock entry)
-- **Site Type**: Reef (granite corestone with kelp forest)
-- **Difficulty Level**: Intermediate (cold water, kelp navigation, surge possible)
-- **Maximum Depth**: 12 meters (sand base); 30m contour ~500m offshore
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 12 meters
 - **Water Temperature**: 12–18°C — 5mm wetsuit minimum; 7mm recommended in winter
 - **Visibility**: 5–10 meters
 - **Best Time**: Winter with offshore (northwesterly) winds

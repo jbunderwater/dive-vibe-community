@@ -28,8 +28,8 @@ Shore access is via Sandy Bay beach. The site is exposed to Atlantic swell and s
 ## Site Information
 
 - **Location**: Duiker Point, Sandy Bay, Cape Peninsula, Cape Town
-- **Entry Type**: Shore entry (Sandy Bay beach)
-- **Site Type**: Wreck dive (partially submerged barge)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Depth Range**: 8–20 meters

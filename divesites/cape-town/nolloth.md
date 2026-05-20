@@ -24,9 +24,9 @@ The wreck sits in the surge zone at 0–5 metres, barely awash at high tide and 
 ## Site Information
 
 - **Location**: Olifantsbos, Cape Point, Table Mountain National Park (second wreck on Olifantsbos Trail)
-- **Entry Type**: Shore entry (accessed via the Olifantsbos Shipwreck Trail)
-- **Site Type**: Wreck (partially above waterline)
-- **Difficulty Level**: Beginner (when calm; surge makes diving dangerous in any swell)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 - **Depth Range**: 0–5 meters
 - **Conditions**: Surge zone; fully exposed to Atlantic swell; diveable only in flat, calm conditions

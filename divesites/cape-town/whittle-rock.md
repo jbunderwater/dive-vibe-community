@@ -26,10 +26,10 @@ The granite corestone topography includes pinnacles, gullies, walls, overhangs, 
 ## Site Information
 
 - **Location**: Central west False Bay, approximately 9km from Miller's Point
-- **Entry Type**: Boat dive (Simon's Town or Miller's Point, long boat ride)
-- **Site Type**: Reef pinnacle (granite corestone)
-- **Difficulty Level**: Intermediate (exposed, offshore, boat dive; deeper zones Advanced)
-- **Maximum Depth**: 40 meters (sand; reef topography to 42m)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
 - **Shallow Area**: Large area shallower than 18m near main pinnacle (suitable for entry-level divers with appropriate supervision)
 - **Typical Visibility**: 3–20+ meters
 - **Navigation Buoy**: Cardinal East marker at ~21m, ~50m south of main pinnacle
