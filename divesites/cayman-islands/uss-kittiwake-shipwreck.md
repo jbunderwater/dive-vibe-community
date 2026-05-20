@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## USS Kittiwake Shipwreck
 
-A 251-foot former U.S. Navy submarine rescue vessel deliberately sunk in 2011 off Seven Mile Beach — Grand Cayman's most impressive artificial reef lying on its port side after a 2017 storm.
+A 251-foot Chanticleer-class submarine rescue vessel (1,780 tons displacement) deliberately scuttled in 2011 off Seven Mile Beach — Grand Cayman's most dived artificial reef, now lying on its port side following Tropical Storm Nate in October 2017.
 
 ## Overview
 
-The USS Kittiwake served the United States Navy as a submarine rescue vessel for over 40 years before being decommissioned. In 2011, after hazardous materials removal and hull modifications including the removal of all doors and cutting of access openings, she was deliberately scuttled off Seven Mile Beach to create an artificial reef and dive attraction. Resting in approximately 20 meters with her shallowest point around 5 meters, she quickly became Grand Cayman's most dived wreck and a landmark artificial reef. In October 2017, Tropical Storm Nate toppled the Kittiwake onto her port side, completely changing the dive experience and orientation of the wreck. Today she lies on her side in the West Side Marine Park, where no fishing, no gloves, and no removal of any material is permitted. Original instruments and many interior fittings were left intact, allowing divers to explore a functioning-era navy vessel in exceptional clarity.
+The USS Kittiwake (ASR-13) is a Chanticleer-class submarine rescue ship, 251 feet long and displacing 1,780 tons, launched in 1945 and commissioned in 1946. She served the U.S. Navy for 48 years before decommissioning in September 1994, with deployments across the Caribbean, Mediterranean, Atlantic, and Indian Oceans. Notable service included submarine rescue training and assisting in the recovery of the Challenger space shuttle's flight data recorder in 1986. In 2011, after hazardous materials removal and hull modifications including the removal of all doors and cutting of access openings, she was deliberately scuttled off Seven Mile Beach on 5 January 2011 to create an artificial reef and dive attraction. She settled upright on the sandy seabed with her shallowest point around 5 meters and maximum depth around 20 meters. In October 2017, Tropical Storm Nate snapped the Kittiwake's anchor chains and the wave action rolled the vessel onto her port side, shifting her roughly 18–20 meters toward the adjacent Sand Chute dive site. Today she lies on her side in the West Side Marine Park, where no fishing, no gloves, and no removal of any material is permitted. Original instruments and many interior fittings were left intact, allowing divers to explore a functioning-era navy vessel.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The USS Kittiwake served the United States Navy as a submarine rescue vessel for
 
 ## Marine Life
 
-The Kittiwake has become a thriving artificial reef community in just over a decade. Large schools of horse-eye jacks and barracuda circle the hull. Caribbean reef sharks patrol the water column around the wreck. Hawksbill turtles have adopted the site and are frequently encountered resting on the hull or near the superstructure. Green moray eels occupy interior spaces. Colorful encrusting sponges and corals are actively colonizing the hull surfaces. Nurse sharks rest on the sandy bottom beneath the wreck.
+The Kittiwake has become a thriving artificial reef community. Hawksbill turtles are frequently encountered resting on the hull or near the superstructure — multiple sources confirm these as regular sightings at this site. Large schools of horse-eye jacks and barracuda are documented circling the hull. Green moray eels are confirmed occupying interior spaces. Colorful encrusting sponges and corals are actively colonizing the hull surfaces. Caribbean reef sharks and nurse sharks are sometimes seen in the broader area; however, no site-specific dive reports confirm them as regular Kittiwake residents — those claims have been qualified accordingly.
 
 ## Dive Profile
 
@@ -45,9 +45,9 @@ Boat dive from Seven Mile Beach operators — this is Grand Cayman's most visite
 
 ## Tips and Recommendations
 
-- Multiple dives on multiple days are recommended — the post-storm orientation change means the wreck has different sections that reward fresh exploration
-- Interior penetration is safe with the removed doors and cut openings, but proper wreck training improves the experience
-- The large jacks and barracuda schools can be dense enough to obstruct visibility temporarily — exciting rather than dangerous
+- Multiple dives on multiple days are recommended — the post-2017 orientation change means the wreck rewards fresh exploration from different angles
+- Interior penetration through the removed doors and cut openings is accessible to non-cave-certified divers, though wreck training improves the experience
+- The large jacks and barracuda schools can be dense enough to temporarily obstruct visibility — exciting rather than dangerous
 - Morning dives before tour boat traffic arrives provide the most comfortable experience
 - The adjacent reef near the mooring buoys adds additional dive time after the wreck
 
@@ -60,4 +60,4 @@ The wreck is inside the Marine Park — gloves are prohibited, no touching or ta
 The USS Kittiwake in its current sideways orientation creates unique wide-angle compositions not available on standard upright wrecks. The hull silhouette against Cayman's blue water is immediately recognizable. Schools of jacks and barracuda provide dynamic subject matter in the water column around the wreck. Interior rooms with ambient light from access openings create dramatic corridor shots. Turtle encounters on the hull are among Grand Cayman's most sought-after marine life photographs.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Wikipedia – USS Kittiwake (ASR-13)](https://en.wikipedia.org/wiki/USS_Kittiwake_(ASR-13)), [Sunset House – History of the Kittiwake Wreck](https://sunsethouse.com/the-history-of-grand-caymans-uss-kittiwake-wreck/), [Scuba Diver Life – Tropical Storm Nate and Kittiwake](https://scubadiverlife.com/tropical-storm-nate-leaves-kittiwake-starboard-side/), [Cayman News Service – Kittiwake Toppled](https://caymannewsservice.com/2017/10/kittiwake-toppled-onto-natural-reef/), [Ambassador Divers – USS Kittiwake](https://www.ambassadordivers.com/2023/09/15/uss-kittiwake/). Last updated 2026-05-20.*

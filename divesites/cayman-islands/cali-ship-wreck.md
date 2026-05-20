@@ -37,7 +37,7 @@ The Cali is celebrated among Grand Cayman sites for its large tarpon — residen
 
 ## Dive Profile
 
-The shallowest wreck sections at 3 meters allow snorkel exploration. Divers typically enter and work systematically over the scattered hull elements, identifying boilers, winches, and hull ribs in the debris field. The large tarpon are usually found near the bottom of the wreck debris at 6–9 meters. A fringe reef nearby adds to the dive with additional coral habitat.
+The shallowest wreck sections at approximately 2.7 meters allow snorkel exploration. Divers typically enter and work systematically over the scattered hull elements, identifying boilers, winches, and hull ribs in the debris field. The large tarpon are usually found near the bottom of the wreck debris at 6–9 meters. A fringing reef nearby adds to the dive with additional coral habitat. Total maximum depth is approximately 9 meters.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ At 6–9 meters for the main wreck, depth hazards are minimal. However, the harb
 The scattered coral-encrusted hull elements and large tarpon make the Cali a highly photogenic site in very manageable conditions. Natural light photography at 3–9 meters is extremely effective. Tarpon in clear shallow water with sunbeams is a classic image. Wide-angle close-up of the boilers encrusted in Caribbean hard coral is visually striking.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Under an Endless Sky – Wreck of the Cali](https://underanendlesssky.com/2018/04/15/the-wreck-of-the-cali/), [Morritts – Best Wrecks to Dive in Grand Cayman](https://morritts.com/blog/wreck-diving-in-grand-cayman/), [Red Sail Sports – Shipwreck Dive Guide](https://redsailcayman.com/a-guide-to-shipwreck-dives-in-the-cayman-islands/). Last updated 2026-05-20.*

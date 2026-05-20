@@ -13,19 +13,36 @@ addedBy: osm_import
 
 ## Antipolis
 
-Antipolis is a historic wreck dive in Cape Town, Africa.
+Antipolis is a shallow shore-entry wreck dive at Oudekraal on Cape Town's Atlantic seaboard — the remains of a 25,000-ton Greek oil tanker that ran aground on 28 July 1977 while under tow to Taiwanese scrap yards, and is now one of the peninsula's most accessible introductory wreck dives.
 
 ## Overview
 
-The MV Antipolis was a 25,000-ton Greek oil tanker that ran aground at Oudekraal on the Atlantic seaboard in July 1977 after its tow cable snagged during a northwesterly gale while being towed to scrapyards in the Far East — the companion tanker Romelia grounded simultaneously at Llandudno. Cut down to waterline level after the stranding, the Antipolis now forms a shallow shore dive at 5–15 metres, its massive steel sections surrounded by dense Cape kelp forest and peppered with large west coast rock lobsters sheltering in the boiler and pump rooms, while sunlight on calm days filters through the turquoise water to illuminate the partially intact engine room. Entry is over a boulder beach — the most challenging part of the dive — and offshore winds can make the return swim strenuous, so conditions must be checked carefully.
+The MV Antipolis was a Greek oil tanker built in 1959. In July 1977, she was being towed from Greece to Taiwan for scrapping by the Japanese tugboat Kiyo Maru 2, which was simultaneously towing a second tanker, the Romelia. As the convoy approached Table Bay in a severe northwesterly gale, the tow cable snagged on the seabed. Unable to free it, the tug crew cut the cable, and both tankers were driven ashore by the 50-knot winds: the Antipolis came to rest at Oudekraal (near the Twelve Apostles Hotel on Victoria Road), while the Romelia grounded simultaneously at Llandudno's Sunset Rocks.
+
+What remains of the Antipolis lies scattered on a shallow reef at 5–15 metres: broken hull plates, large pipes, boiler sections, and valves, all overgrown with algae and kelp. The stern and boiler room are the most intact sections. A large January 2022 storm washed further sections of the wreck onto the rocks, with the bow ribs now very close to the shoreline. Marine life is modest by Cape Town standards — the Scuba Shack notes "not a large variety of colourful marine life" — though cape rock lobster shelter in the wreck's cavities, and the surrounding kelp forest is healthy.
+
+Entry is over a boulder beach (the most challenging part of the dive), and offshore winds can make the return swim strenuous. This is often recommended as a first wreck dive for entry-level divers given its shallow, accessible nature, though the boulder entry and cold water mean Intermediate classification is appropriate.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Location**: Oudekraal, Atlantic seaboard (Victoria Road, near Twelve Apostles Hotel), Cape Town
+- **Entry Type**: Shore entry (boulder beach entry)
+- **Site Type**: Wreck dive (scattered sections)
+- **Difficulty Level**: Intermediate (cold water, boulder entry, return swim)
 - **Maximum Depth**: 15 meters
+- **Depth Range**: 5–15 meters
+- **Water Temperature**: 8–14°C (cold Atlantic) — 5–7mm wetsuit or drysuit required
+- **Visibility**: 5–10 meters typically
+
+## Marine Life
+
+Cape rock lobster are commonly found sheltering in the wreck's cavities. The wreck is surrounded by Cape kelp forest. Marine life diversity here is limited compared to reef sites — no specific additional species are confirmed at this site by reviewed sources. Regional Atlantic seaboard marine life includes cuttlefish, octopus, and reef fish, but site-specific reports are sparse.
+
+## Tips
+
+- Check wind direction carefully: offshore (southeasterly) winds create difficult return swims from this shore-entry site
+- The January 2022 storm changed the wreck structure significantly; current underwater conditions may differ from older dive reports
+- Entry requires navigating a boulder beach — booties and gloves essential
 
 ---
-*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*
+*Sources: [Scuba Shack Cape Town — The Antipolis](https://scubashack.co.za/2017/05/16/the-antipolis-1977/), [Submerged — Antipolis and Romelia](https://www.submerged.co.uk/antipolis-and-romelia/), [SA History Online — Antipolis and Romelia](https://sahistory.org.za/place/antipolis-and-romelia-shipwrecks-cape-town). Last updated 2026-05-20.*

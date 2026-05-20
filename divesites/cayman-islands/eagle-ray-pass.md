@@ -21,11 +21,11 @@ Eagle Ray Pass is one of Grand Cayman's most celebrated North Wall dive sites, f
 
 ## Site Information
 
-- **Location**: North Wall, West Bay area, Grand Cayman
+- **Location**: North Wall, Grand Cayman (45-minute boat ride from West Side via North Sound)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 meters
+- **Maximum Depth**: 30 meters (pass exits onto wall at ~30m/98ft)
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate — can run along the wall
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -33,7 +33,7 @@ Eagle Ray Pass is one of Grand Cayman's most celebrated North Wall dive sites, f
 
 ## Marine Life
 
-Eagle rays are the defining wildlife encounter at this site, with groups of two to six animals routinely seen gliding along the wall face between 15–30 meters. Caribbean reef sharks patrol the deeper sections of the wall beyond the pass. Large Nassau grouper occupy coral ledges within the chasm. Schools of horse-eye jacks move through the blue water above the wall edge. The crevice interiors of the pass are packed with black coral (now heavily protected), sponges in multiple colors, and gorgonian fans that host flamingo tongue cowries.
+Spotted eagle rays are the defining wildlife encounter — multiple sources confirm this as a reliable site for eagle ray sightings along the wall. Grouper at cleaning stations are also confirmed in site-specific dive accounts. Lobster, moray eels, and stingrays resting on sand chutes are specifically documented. Schools of horse-eye jacks and barracuda are reported in the blue water around the wall. Black coral (heavily protected) and gorgonian fans are confirmed in the crevice interiors. Caribbean reef sharks are in the broader North Wall environment but not specifically confirmed as Eagle Ray Pass residents in reviewed sources.
 
 ## Dive Profile
 
@@ -53,11 +53,11 @@ Boat dive with mooring buoys at the site or operator-managed deployment. All Nor
 
 ## Safety Considerations
 
-The 36-meter maximum depth requires careful no-decompression limit management. Current along the North Wall can be strong — dive against the current on the outward leg for an easier return. The dramatic environment can distract divers from depth monitoring. Use a dive computer and establish a firm turnaround depth before descending.
+The 30-meter maximum depth requires careful no-decompression limit management. Visibility after rainstorms can be reduced significantly due to mangrove runoff from the North Sound — confirm conditions before committing to the 45-minute transit. Current along the North Wall can be variable — dive against the current on the outward leg for an easier return. Use a dive computer and establish a firm turnaround depth before descending.
 
 ## Photography
 
 Eagle Ray Pass is one of Grand Cayman's premier photography sites. Eagle ray groups in formation against the infinite blue wall backdrop are iconic Caribbean images. The coral chasm with its towering formations provides dramatic architectural wide-angle compositions. Black coral and gorgonian fans reward close-up macro work with a strobe. An underwater video light improves colors on the chasm walls during the descent.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [IBDivingMon – Eagle Ray Pass](https://ibdivingmon.com/dive-site-reviews-and-listings/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/), [XtremeSpots – Eagle Ray Pass Grand Cayman](https://www.xtremespots.com/water-sports/scuba-diving/eagle-ray-pass-grand-cayman-cayman-islands/), [Steven W. Smeltzer Blog – Eagle Ray Pass](https://blog.stevenwsmeltzer.com/dive-site-reviews/grand-cayman-dive-site-reviews/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/). Last updated 2026-05-20.*

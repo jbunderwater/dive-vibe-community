@@ -17,7 +17,7 @@ Grand Cayman's dramatic West Bay canyon complex — a network of large coral can
 
 ## Overview
 
-Trinity Caves is a popular West Bay dive site famous for a notable cameo in the 1993 film *The Firm*, starring Tom Cruise. Despite the name, Trinity Caves does not contain true caves — the site consists of large, open coral canyons and dramatic swim-throughs that are navigated with natural light throughout. The canyons are sizable enough that multiple divers can explore them comfortably in parallel, and the variety of canyon passages means repeated dives reveal different routes and perspectives. Trinity Caves is located on the West Side of Grand Cayman in no more than 60 feet (18 meters) of water, making it accessible to Intermediate divers and notably comfortable in the consistently warm, clear Cayman conditions.
+Trinity Caves is a popular West Bay dive site on Grand Cayman's West Wall, famous for a notable appearance in the 1993 Tom Cruise film *The Firm*. Despite the name, Trinity Caves does not contain true caves — the site consists of three large, converging coral canyons with dramatic swim-throughs that are navigated with natural light throughout. The canyons converge at the West Wall and can reach approximately 24 meters at the deepest point as they exit over the wall face. The variety of canyon passages means repeated dives reveal different routes and perspectives. The coral canyon structure is well-lit by natural light beams streaming from above.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Trinity Caves is a popular West Bay dive site famous for a notable cameo in the 
 
 ## Marine Life
 
-The coral canyon walls of Trinity Caves support diverse encrusting life — sponges, sea fans, and hard corals create a layered habitat on the vertical faces. Tarpon are frequently encountered inside the larger canyon passages, hovering in the shade. Large barracuda station themselves at canyon exits. French and gray angelfish are ubiquitous throughout. Nurse sharks occasionally rest in the wider canyon bases. The surrounding reef areas accessible outside the canyon system add typical Grand Cayman reef species including Caribbean reef sharks.
+Site-specific sources confirm at Trinity Caves: tarpon hovering in the canyon shade, spotted lobster in the crevices, schools of silversides (seasonal), reef fish including snapper, angelfish, grunts, parrotfish, and grouper. Large barracuda at canyon exits are reported by dive instructors. Light beams illuminate tube sponges and sea fans on the canyon walls. Nurse sharks in the canyon bases and Caribbean reef sharks in the surrounding reef are referenced in several sources. No single source confirms or denies nurse sharks as common — this is qualified as occasional.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Trinity Caves are technically coral canyon swim-throughs, not true caves — the
 The coral canyon environment creates dramatic compositions with natural light streaming from above. Tarpon in the canyon shadows with a bright exit visible behind them are classic images. Wide-angle shots of divers in the canyon passages capture the scale of the formations. Sea fans on the canyon walls photograph beautifully with a single strobe at close range.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Dive Red Sail Cayman – Dive Sites](https://www.diveredsailcayman.com/dive-sites), [Underwater Photography – Trinity Caves](http://www.underwaterphotography.com/Dive-Sites/Dive-Site.aspx?ID=6514), [DiveAdvisor – Trinity Caves](https://diveadvisor.com/cayman-islands/trinity-caves). Last updated 2026-05-20.*

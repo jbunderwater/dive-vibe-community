@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Balboa Wreck
 
-A 375-foot freighter destroyed by the 1932 hurricane and then deliberately demolished, its coral-encrusted skeleton now harboring lobster, tarpon, and tropical fish off George Town harbor.
+A steel cargo freighter sunk by the catastrophic 1932 hurricane and subsequently dynamited in 1957, its coral-encrusted debris field now harboring tarpon and tropical fish off George Town harbor.
 
 ## Overview
 
-The Balboa was a 375-foot freighter carrying lumber from Texas to Jamaica when she pulled into Grand Cayman for repairs before being battered and sunk against the pier during the catastrophic 1932 hurricane. The wreck was subsequently blown up to clear the harbor approach, and her scattered remains now lie approximately 150 feet off the west coast in 8–10 meters of water. The shattered hull plates and structural remnants have become encrusted with coral over the decades, transforming the debris field into a productive artificial reef. Lobster and octopus inhabit the crevices between hull sections, while large tarpon haunt the deeper areas alongside the scattered propellers. Note: access requires coordination with Port Security due to the wreck's location in the cruise ship transfer channel.
+The Balboa was a steel cargo ship carrying lumber from Texas to Jamaica when she stopped in Grand Cayman for repairs and was battered and sunk during the catastrophic November 1932 hurricane. Sources describe the vessel as approximately 375 feet and 1,389 gross tons. The hull was subsequently dynamited in 1957 to reduce the threat to navigation. Her scattered remains now lie off the west coast of George Town in approximately 8–10 meters of water — a true debris-field wreck where most of the ship's structure is no longer intact. The shattered hull plates and remnants have become encrusted with coral over the decades. Access increasingly requires clearance coordination due to the site's location in or near the cruise ship transfer channel. The Balboa is noted as an excellent night dive site.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Balboa was a 375-foot freighter carrying lumber from Texas to Jamaica when s
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 10 meters (debris field in 8–10m; formerly listed as 32m was incorrect)
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -33,7 +33,7 @@ The Balboa was a 375-foot freighter carrying lumber from Texas to Jamaica when s
 
 ## Marine Life
 
-The Balboa's coral-encrusted debris field hosts an excellent variety of tropical marine life. Large tarpon — some exceeding 1.5 meters — are a signature feature of this site, typically found in the deeper sections. Spiny lobster and octopus occupy crevices between hull plates. Schools of reef fish including grunt, snapper, and angelfish circle the structure. The three-bladed propellers at the stern section provide excellent hard substrate for coral growth and attract resident grouper.
+Large tarpon are specifically documented at the Balboa site by multiple sources. Colorful sponges and coral growth on the debris are confirmed. The site's scattered nature and night dive popularity suggest octopus and lobster in crevices, though these are not specifically confirmed in reviewed sources as Balboa-specific sightings. Reef fish including grunt, snapper, and tropical species are generally documented throughout the George Town area reef. The "three-bladed propellers" mentioned in some descriptions are a signature feature — their presence should be verified with local operators as the dispersed debris field makes layout unclear from sources reviewed.
 
 ## Dive Profile
 

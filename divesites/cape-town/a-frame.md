@@ -2,7 +2,7 @@
 name: A-Frame
 lat: -34.195
 lng: 18.465
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 12
 entryType: shore
 siteType: reef
@@ -13,19 +13,32 @@ addedBy: osm_import
 
 ## A-Frame
 
-A-Frame is a reef dive site in Cape Town, Africa.
+A-Frame is a popular shore dive on the False Bay side of the Cape Peninsula near Simon's Town, a rocky granite reef with kelp forest, swim-throughs, and abundant cold-water marine life at 5–12 metres depth.
 
 ## Overview
 
-A-Frame is one of the most popular shore dives on the False Bay side of the Cape Peninsula, a granite corestone reef near Oatlands Point in Simon's Town that descends from a flat rocky entry plateau through kelp forest and large boulders to about 12 metres. The site's hallmark is a series of swim-throughs and overhangs packed with colourful anemones, sponges, crinoids, and feather stars, with resident octopus, cuttlefish, big Red Romans, shy sharks, and Hottentot sea bream working the reef; summer months bring eagle rays and short-tail stingrays gliding over the sandy patches. Cold Benguela water keeps temperatures at 10–14°C year-round, and the sheltered position makes it a reliable winter dive when the Atlantic seaboard sites are closed out.
+A-Frame is one of the most popular shore dives on the False Bay coast — reportedly the third most-dived site in the area after Long Beach and Windmill Beach. The site sits near Oatlands Point in Simon's Town, where a granite corestone reef descends from a flat rocky entry plateau through kelp forest and large boulders to about 10–12 metres of sand, with a deeper 30-metre contour accessible approximately 500 metres offshore.
+
+The defining features are the swim-throughs packed with anemones, sponges, and crinoids. Documented marine life at the site includes cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, juvenile abalone, common and elegant feather stars, nudibranchs, and reef fish species including blacktail, Cape Hottentot, galjoen, and Red Roman. The site is also known for octopus, cape rock lobster (crayfish), and big gully sharks in the kelp margins. Cape fur seals visit from nearby colonies.
+
+Conditions are fairly sheltered from south-westerly swell, making it diveable on more days than Atlantic seaboard sites. The site is also suitable for night dives. Cold Benguela water keeps temperatures at 12–18°C on the False Bay side.
+
+*Note: a previous version of this description mentioned eagle rays and short-tail stingrays as regular sightings. Eagle rays are not confirmed at this specific site by reviewed sources; stingrays are a regional possibility but not documented specifically at A-Frame. Those claims have been removed.*
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Location**: Oatlands Point, Simon's Town, False Bay, Cape Town
+- **Entry Type**: Shore entry (three access points: northern slippery rock, southern boulder area, long rock entry)
+- **Site Type**: Reef (granite corestone with kelp forest)
+- **Difficulty Level**: Intermediate (cold water, kelp navigation, surge possible)
+- **Maximum Depth**: 12 meters (sand base); 30m contour ~500m offshore
+- **Water Temperature**: 12–18°C — 5mm wetsuit minimum; 7mm recommended in winter
+- **Visibility**: 5–10 meters
+- **Best Time**: Winter with offshore (northwesterly) winds
+
+## Marine Life
+
+Cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, juvenile abalone, common feather stars, elegant feather stars, nudibranchs, Cape rock lobster, octopus, blacktail, Cape Hottentot, galjoen, Red Roman, and gully sharks are documented at this site. Cape fur seals visit.
 
 ---
-*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*
+*Sources: [Wikivoyage — A-Frame](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/A-Frame), [Scuba Shack Cape Town — A-Frame](https://scubashack.co.za/2017/05/16/a-frame/), [Apnea Addicts — A-Frame](https://www.aaddicts.co.za/freediving/diving-aframe-simonstown/). Last updated 2026-05-20.*
