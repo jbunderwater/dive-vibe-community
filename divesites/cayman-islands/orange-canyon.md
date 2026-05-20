@@ -3,7 +3,7 @@ name: Orange Canyon
 lat: 19.275
 lng: -81.4417
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -24,8 +24,8 @@ Orange Canyon earns its name from the spectacular orange elephant ear sponges th
 - **Location**: Northwest Point, Grand Cayman
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate (current can make this Advanced)
-- **Maximum Depth**: 30 meters (wall exit depth; canyon entrance ~18 meters average)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)

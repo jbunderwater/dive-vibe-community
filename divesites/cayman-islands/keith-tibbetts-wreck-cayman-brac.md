@@ -25,7 +25,7 @@ The MV Captain Keith Tibbetts is one of the most impressive artificial reefs in 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters (stern section ~85 feet); the wreck is within sport diving limits
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)

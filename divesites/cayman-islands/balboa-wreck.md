@@ -25,7 +25,7 @@ The Balboa was a steel cargo ship carrying lumber from Texas to Jamaica when she
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters (debris field in 8–10m; formerly listed as 32m was incorrect)
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)

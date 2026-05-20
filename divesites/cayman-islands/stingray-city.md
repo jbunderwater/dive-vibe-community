@@ -23,9 +23,9 @@ Stingray City is one of the most famous shallow water dive and snorkel experienc
 
 - **Location**: North Sound sandbar, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)

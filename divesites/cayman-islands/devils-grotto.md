@@ -22,7 +22,7 @@ Devil's Grotto is a large reef formation of interconnected coral caverns, tunnel
 ## Site Information
 
 - **Location**: George Town, Grand Cayman (adjacent to Eden Rock Diving Center)
-- **Entry Type**: Shore entry (adjacent to Eden Rock)
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters

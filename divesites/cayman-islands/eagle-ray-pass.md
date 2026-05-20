@@ -3,7 +3,7 @@ name: Eagle Ray Pass
 lat: 19.3583
 lng: -81.4083
 difficulty: Intermediate
-maxDepth: 36
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Eagle Ray Pass is one of Grand Cayman's most celebrated North Wall dive sites, f
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (pass exits onto wall at ~30m/98ft)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate — can run along the wall
 - **Water Temperature**: 26–29°C (79–84°F)

@@ -1,7 +1,7 @@
 ---
 name: Ghost Mountain
-lat: 19.7083
-lng: -80.075
+lat: 19.402
+lng: -81.386
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
@@ -23,7 +23,7 @@ Ghost Mountain is a prominent pinnacle on Grand Cayman's North Wall in the West 
 
 - **Location**: North Wall, West Bay, Grand Cayman (confirmed; not Little Cayman)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)

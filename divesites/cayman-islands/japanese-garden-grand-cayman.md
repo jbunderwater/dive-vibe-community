@@ -23,7 +23,7 @@ Japanese Garden is one of Grand Cayman's distinctive South Side shallow reef sit
 
 - **Location**: South of George Town, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)

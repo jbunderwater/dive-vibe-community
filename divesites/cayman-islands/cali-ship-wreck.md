@@ -25,7 +25,7 @@ The Cali was a four-masted steel schooner built in 1900 in Dumbartonshire, Engla
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters (the wreck debris ranges from 2.7–9 meters)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
