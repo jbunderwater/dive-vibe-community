@@ -64,4 +64,4 @@ The cave interiors are exceptional for close-focus wide-angle photography: arrow
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/pauls-grotto/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/pauls-grotto/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

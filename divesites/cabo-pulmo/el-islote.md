@@ -34,8 +34,10 @@ Circle the seamount from shallow coral areas down to the sandy base at 18 meters
 
 ## Tips and Recommendations
 - Good first-dive-of-the-trip site to get comfortable before deeper park sites
-- Check the boulder formations at the base for moray eels
-- Sea fans on the upper slopes make excellent wide-angle subjects with blue water backgrounds
+- Check the boulder formations at the base for moray eels and lobsters
+- Sea fans on the upper slopes make excellent wide-angle subjects
+- Circle the entire formation to explore the varied character of each face
+- Look for golden grouper at the deeper northern face
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*

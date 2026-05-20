@@ -63,4 +63,4 @@ Monkey Point rewards photographers at every level. The approachable fish — par
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/monkey-point/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/monkey-point/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

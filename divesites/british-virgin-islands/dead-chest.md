@@ -66,4 +66,4 @@ Painted Walls is one of the BVI's premier wide-angle subjects — a dive light o
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

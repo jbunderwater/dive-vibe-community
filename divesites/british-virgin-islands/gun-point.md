@@ -62,4 +62,4 @@ Shallow depth and excellent natural light make this an ideal site for natural-li
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gun-point/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gun-point/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

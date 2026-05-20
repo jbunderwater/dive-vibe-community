@@ -19,7 +19,7 @@ El Bajo (also known as "El Bajo de los Meros") is a long reef bar running roughl
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters

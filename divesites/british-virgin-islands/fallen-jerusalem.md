@@ -66,4 +66,4 @@ Wide-angle inside the passages to capture the tunnel effect with ambient light s
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fallen-jerusalem/), [BVI National Parks Trust](https://www.bvinpt.org/fallen-jerusalem), [BVI Tourism](https://www.bvitourism.com/fallen-jerusalem-national-park). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fallen-jerusalem/), [BVI National Parks Trust](https://www.bvinpt.org/fallen-jerusalem), [BVI Tourism](https://www.bvitourism.com/fallen-jerusalem-national-park). Last updated 2026-05-20.*

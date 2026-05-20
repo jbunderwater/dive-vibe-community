@@ -19,9 +19,9 @@ La Esperanza ("Hope") is an outer reef site in Cabo Pulmo National Marine Park, 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (outer reef)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 21 meters (70 feet)
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-25 meters
 - **Current**: Moderate to strong; unpredictable
 - **Best Time**: October to May for peak pelagic activity

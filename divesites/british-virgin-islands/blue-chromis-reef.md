@@ -63,4 +63,4 @@ The combination of sandy seafloor, gorgonian fans, and dense chromis schools cre
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blue-chromis-reef/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blue-chromis-reef/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

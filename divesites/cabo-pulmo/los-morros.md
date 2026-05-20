@@ -19,7 +19,7 @@ Los Morros is a series of massive rock formations covered in sea fans and corals
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters

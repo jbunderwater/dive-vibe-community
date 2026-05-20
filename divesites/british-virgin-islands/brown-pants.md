@@ -68,4 +68,4 @@ Wide-angle for the canyon approach shots and the cave mouth. Inside the cave, a 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brown-pants/), [BVI Diving](https://www.bvidiving.com/diving-brown-pants.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brown-pants/), [BVI Diving](https://www.bvidiving.com/diving-brown-pants.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

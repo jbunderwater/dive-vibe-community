@@ -63,4 +63,4 @@ The narrow cave opening creates natural light rays when the sun is at the right 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

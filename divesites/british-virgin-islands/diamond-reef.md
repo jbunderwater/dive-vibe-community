@@ -62,4 +62,4 @@ The sponge-encrusted wall face is colorful and photogenic in wide-angle. The san
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/diamond-reef/), [BVI Diving](https://www.bvidiving.com). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/diamond-reef/), [BVI Diving](https://www.bvidiving.com), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

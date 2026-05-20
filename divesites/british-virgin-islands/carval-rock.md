@@ -62,4 +62,4 @@ The combination of dense fish aggregations, boulder structures, and open-water p
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carval-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [BoatyBall Carvel Rock](https://boatyball.com/dive-sites/carvel_rock/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carval-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [BoatyBall Carvel Rock](https://boatyball.com/dive-sites/carvel_rock/). Last updated 2026-05-20.*

@@ -64,4 +64,4 @@ Ginger's Backside is among the best macro photography sites in the BVI. Octopuse
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gingers-backside/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gingers-backside/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

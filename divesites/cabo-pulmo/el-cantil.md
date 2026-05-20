@@ -19,7 +19,7 @@ El Cantil ("The Cliff") is one of the largest reef systems in Cabo Pulmo Nationa
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with canyon structure
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters

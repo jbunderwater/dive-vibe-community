@@ -63,4 +63,4 @@ The exceptional visibility makes Cow's Mouth ideal for wide-angle work — the d
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/cows-mouth/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/cows-mouth/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
