@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com, adventuresinbaja.com, cabopulmonationalpark.com"
+      "validation_source": "cabopulmodiving.com,adventuresinbaja.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -26,14 +27,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com, diveoclock.com"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
     "name": "La Esperanza",
     "lat": 23.455,
     "lon": -109.415,
-    "depth": 30,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com, costacoralmexico.com"
+      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, scubaboard.com"
+      "validation_source": "cabopulmodiving.com,scubaboard.com,diveoclock.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -64,14 +68,15 @@
     "lat": 23.44,
     "lon": -109.419,
     "depth": 15,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com, diveoclock.com"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -101,7 +107,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -116,14 +123,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmonationalpark.com, costacoralmexico.com"
+      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
     "name": "La Lobera",
     "lat": 23.38,
     "lon": -109.41,
-    "depth": 8,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -131,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "costacoralmexico.com, scubaboard.com"
+      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -146,7 +155,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com, costacoralmexico.com"
+      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -161,7 +171,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "costacoralmexico.com"
+      "validation_source": "cabopulmodiving.com,cabopulmo.com,costacoralmexico.com",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -176,7 +187,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com, cabopulmonationalpark.com"
+      "validation_source": "adventuresinbaja.com,cabopulmodiving.com,cabopulmo.com",
+      "last_qa_date": "2026-05-20"
     }
   }
 ]

@@ -17,7 +17,7 @@ Goldenhorn is a historic wreck dive in California Channel Islands, North America
 
 ## Overview
 
-The Goldenhorn was a German four-masted sailing barque that ran onto the rocks at Point Conception in 1896, and her remains now lie scattered across a shallow rocky reef off Santa Rosa Island at around 9 meters. The wreck site is surrounded by giant kelp forests typical of the northern Channel Islands, and the iron hull sections have become artificial reef — thickly encrusted with purple sea urchins, orange garibaldi, and clusters of invertebrates that attract the kelp bass and lingcod common here. Swell and surge are the primary hazards at this shallow, exposed site; glassy conditions are essential for a comfortable dive.
+The Goldenhorn was a Scottish-built, iron-hulled four-masted bark that ran onto the rocks on the southwest coast of Santa Rosa Island on September 12, 1892, and her remains now lie scattered across a shallow rocky reef at around 9 meters. The wreck site is surrounded by giant kelp forests typical of the northern Channel Islands, and the iron hull sections have become artificial reef — thickly encrusted with purple sea urchins, orange garibaldi, and clusters of invertebrates that attract the kelp bass and lingcod common here. Swell and surge are the primary hazards at this shallow, exposed site; glassy conditions are essential for a comfortable dive.
 
 ## Site Information
 
@@ -52,4 +52,4 @@ This site can only be dived in the calmest of conditions — check forecasts car
 The southwest coast of Santa Rosa Island is one of the most exposed positions in the Channel Islands, prone to surge and swell from multiple directions. Dive only on the flattest days. Water temperature requires a minimum 7 mm wetsuit with hood and gloves. The shallow depth amplifies surge effects significantly.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Goldenhorn](https://www.islapedia.com/index.php?title=Goldenhorn), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [OpenDiveSites - Santa Rosa Island](https://opendivesites.org/Santa_Rosa_Island). Last updated 2026-05-17.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Goldenhorn](https://www.islapedia.com/index.php?title=Goldenhorn), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [California Wreck Divers - Goldenhorn](http://www.cawreckdivers.org/Wrecks/GldnHorn.htm). Last updated 2026-05-20.*

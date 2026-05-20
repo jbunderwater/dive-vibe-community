@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Wreck Alley
 
-A cluster of deliberately sunk vessels in the sheltered waters north of Tortola — the BVI's purpose-built artificial reef complex, offering multiple wrecks within a single dive area at accessible depths.
+A cluster of deliberately sunk vessels off the north shore of Cooper Island — five wrecks at different stages of coral colonisation, diveable from the same mooring line at depths of 15–27 metres.
 
 ## Overview
 
-Wreck Alley is the informal name for an area north of Tortola where several vessels have been sunk over the years as artificial reefs to create additional dive habitat and attract marine life. The cluster of wrecks sits in 15–27 metres of water and includes various sizes of vessel — tugboats, barges, and small commercial vessels — scuttled at different times and now at different stages of coral colonisation. The appeal of Wreck Alley is the variety within a compact area: divers can move between wrecks of different sizes, ages, and characters in a single dive. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
+Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and contains five purpose-sunk wrecks that can all be visited on a single dive. The site has grown over decades: the Marie L, a 90-foot cargo vessel, was scuttled in 1991; the Pat Rex, an inter-island trader of similar size, was sunk in 1995 and collided with the Marie L as it descended, so the two now lie port-to-port creating a dramatic double-wreck profile. The Beata, a well-preserved tugboat, was scuttled in 2000 upright with her bow resting near the reef slope. The Island Seal, a small cargo ship carrying seven containers, grounded on a shoal near Salt Island in August 2006 and eventually capsized; the crew was rescued and the wreck was subsequently relocated to Wreck Alley as an artificial reef. Each vessel lies on sandy seabed at 15–27 metres adjacent to a natural reef slope. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Wreck Alley is the informal name for an area north of Tortola where several vess
 
 ## Marine Life
 
-The multiple wreck structures in Wreck Alley have aggregated a diverse fish community. Schools of French grunts and yellowtail snappers fill the superstructure of the larger vessels. Large green and spotted morays occupy hull crevices across the site. Caribbean reef sharks patrol the open water between wrecks. Hawksbill turtles visit to feed on the sponge and coral growth coating the hull surfaces. The sandy bottom between wrecks supports southern stingrays and the occasional nurse shark resting beneath hull overhangs.
+The five wrecks collectively host a diverse fish community. Dog snappers and blue chromis are consistently reported at Wreck Alley. Schools of smaller fish shelter inside the superstructure of the larger vessels. Garden eels inhabit the sandy bottom between wrecks. Eagle rays and southern stingrays are commonly observed on the sand around the wreck perimeters. The natural reef slope adjacent to the Beata provides additional habitat. Lobsters, barracuda, and various invertebrates have established themselves across all five structures.
 
 ## Dive Profile
 
-Descend to the largest or deepest wreck first to maximise time at depth within NDL limits, then progressively work shallower through the wreck cluster. The variety of vessel types and sizes means different exploration techniques are needed for each structure — exterior circumnavigation, deck-level exploration, and partially accessible interior sections. Safety stop in the water column above the shallowest wreck.
+Descend the mooring line and orient to the Marie L and Pat Rex, which lie port-to-port and are the most visually complex starting point. Work your way through the cluster: the double-wreck of the Marie L and Pat, then the Beata (note the bow pointing toward shore near the reef slope), and the Island Seal for the largest hull profile. Each wreck has distinct character — the double-wreck drama, the intact tugboat, the large cargo hull. Safety stop in the water column above the shallowest point.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat dive from Road Town operators on Tortola. Giant stride or backward roll ent
 
 ## Tips and Recommendations
 
-Ask operators about the current state of each wreck in the cluster — the condition and marine life colonisation changes over time as older vessels deteriorate and new marine growth establishes. Carry a torch for the interior sections of the larger vessels. The multiple-wreck character means each return visit offers different emphases.
+Ask operators about the current condition of each wreck — the older Marie L and Pat are more degraded, while the Beata is described as well-preserved. Carry a torch for the interior sections of the larger vessels. The multiple-wreck character means each return visit offers different emphases. The Island Seal, as the largest vessel, offers the most interior exploration potential for certified wreck divers.
 
 ## Safety Considerations
 
@@ -57,8 +57,9 @@ The variety of wrecks in different stages of marine colonisation creates interes
 
 ## Additional Resources
 
-- Road Town dive operators including Blue Water Divers: include Wreck Alley on intermediate dive itineraries
+- BVI Wreck Week annually features dives on all five Wreck Alley vessels
+- Road Town dive operators including Blue Water Divers: include Wreck Alley on dive itineraries
 - Often combined with the RMS Rhone for a two-tank wreck diving day
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/). Last updated 2026-05-20.*
