@@ -33,7 +33,7 @@ Santa Monica Rock rises steeply from the channel floor to within a few meters of
 
 ## Marine Life
 
-Santa Monica Rock's deep, current-swept character attracts species rarely seen at shallower BVI sites. Hammerhead sharks have been reported here, along with Caribbean reef sharks and large bull sharks on occasion. Schools of Atlantic spade fish congregate around the upper pinnacle. Eagle rays and manta ray sightings have been recorded, particularly during seasonal migrations. The black coral and gorgonian sections at depth host schooling blackbar soldierfish and large spiny lobsters.
+Santa Monica Rock's deep, current-swept character concentrates a wide range of species. Atlantic spadefish, horse-eye jacks, amberjacks, barracuda, mackerel, and kingfish are consistently reported. Spotted eagle rays cruise the current lanes around the pinnacle. Nurse sharks, groupers, queen angelfish, black durgons, fairy basslets, and tarpons are regularly sighted. The black coral and gorgonian sections at depth host large spiny lobsters and invertebrates. Note: claims of hammerhead sharks, bull sharks, and manta rays at this specific site could not be confirmed by current sources (bvi-dive-map.com, bvidiving.com, Sail Caribbean Divers) and should not be assumed.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ Santa Monica Rock offers the BVI's best opportunities for deep-reef photography.
 - Best combined with Blonde Rock for a two-tank advanced channel pinnacle day
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

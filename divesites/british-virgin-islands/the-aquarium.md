@@ -23,7 +23,7 @@ The Aquarium — also known as Fischer's Rocks — sits in the southwest of Virg
 
 - **Location**: Southwest Virgin Gorda, between The Baths and Spanish Town
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: Good
@@ -63,4 +63,4 @@ The Aquarium is an outstanding photography site. The granite boulder formations,
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

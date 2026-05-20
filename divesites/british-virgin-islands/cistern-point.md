@@ -27,7 +27,7 @@ Depths here are shallow — topping out at around 12 meters — making it a good
 
 - **Location**: Western side of Cooper Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Depth Range**: 6–12 meters (20–40 feet)
@@ -69,4 +69,4 @@ The cistern crater formations make interesting wide-angle compositions when comb
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/cistern-point/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Cooper_Island_Cistern_Point_dive_site.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/cistern-point/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Cooper_Island_Cistern_Point_dive_site.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

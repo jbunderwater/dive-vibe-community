@@ -25,7 +25,7 @@ The harbour character differs from the more dramatic wall and canyon sites nearb
 
 - **Location**: East of Little Harbour, Sir Francis Drake Channel
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–25 meters
@@ -66,4 +66,4 @@ Wide-angle for ray encounters in the sandy shallows. The reef sections offer sta
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/randys-reef/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/randys-reef/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

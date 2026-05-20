@@ -27,7 +27,7 @@ When mooring, approach from the north side; the shallow waters between The India
 
 - **Location**: North of Norman Island, near Pelican Island, southwest of Peter Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters
@@ -68,4 +68,4 @@ One of the BVI's top macro and wide-angle reef sites. The color saturation of th
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rainbow-canyons/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rainbow-canyons/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*

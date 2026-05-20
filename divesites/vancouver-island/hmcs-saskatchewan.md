@@ -71,4 +71,4 @@ The wreck provides dramatic wide-angle subjects with natural light through openi
 - **Validation Source**: Web research (2026-03)
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Saskatchewan (DDE 262)](https://en.wikipedia.org/wiki/HMCS_Saskatchewan_(DDE_262)), [ARSBC — Saskatchewan](https://artificialreefsocietybc.ca/saskatchewan.html), [Nanaimo Dive Outfitters — HMCS Saskatchewan](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-saskatchewan/), [ScubaBC — Wreck Diving on Vancouver Island](https://www.scubabc.ca/wreck-diving-on-vancouver-island/). Last updated 2026-05-20.*

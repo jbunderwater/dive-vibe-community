@@ -33,7 +33,7 @@ Mixing Bowl marks the eastern terminus of Bloody Bay Wall where it meets Jackson
 
 ## Marine Life
 
-Mixing Bowl shares the exceptional marine productivity of the broader Bloody Bay Marine Park. Hawksbill and green turtles are common in this section of the reef. Caribbean reef sharks patrol the wall junction area. Eagle rays pass through the zone between the wall and the Jackson Bight tunnels. The tunnel and swim-through environments host resident tarpon, snapper schools, and large grouper in the darker recesses. The coral formations at the junction are dense, supporting typical Caribbean reef fish in high abundance.
+Marine life documented specifically at Mixing Bowl includes Caribbean reef sharks, nurse sharks, horse-eye jacks, sea turtles, yellow-headed jawfish, Bermuda chubs, eagle rays, groupers, snappers, and grunts — all confirmed in site-specific accounts from Little Cayman Divers and other Mixing Bowl dive reports. The tunnel interiors host tarpon and deeper reef species. The site is also cited for small/macro life in its fissures.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The tunnel and swim-through elements require good buoyancy control to avoid silt
 The combination of wall and tunnel environments provides varied photographic opportunities. Tarpon in the tunnel interiors create dramatic ambient light portraits. Wide-angle compositions of the wall junction with sea fan frames are distinctive. The junction between the vertical wall and horizontal canyon topography is an unusual landscape rarely found elsewhere. Strobe lighting for tunnel subjects balances the dark interior with the brighter ambient exterior.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Little Cayman Divers – Dive Sites and Map](https://www.littlecaymandivers.com/little-cayman-dive-sites-and-map), [Cayman Greatest Dive Sites – Mixing Bowl / Three Fathom Wall](https://cayman-islands.greatestdivesites.com/little_cayman/bloody_bay_wall/mixing_bowl_three_fathom_wall), [CITA – Dive 365 Mixing Bowl](https://www.cita.ky/mixingbowl). Last updated 2026-05-20.*

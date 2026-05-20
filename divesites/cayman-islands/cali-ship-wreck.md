@@ -3,7 +3,7 @@ name: Cali Ship Wreck
 lat: 19.2985241
 lng: -81.3828514
 difficulty: Beginner
-maxDepth: 28
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cali Ship Wreck
 
-A 206-foot rice-carrying schooner run ashore in 1948, burned to the waterline, then demolished — its coral-covered ribs and boilers now lying in just 6 meters near Seven Mile Beach.
+A four-masted steel schooner run ashore in 1948, burned to the waterline, then demolished — its coral-covered ribs and boilers now lying in just 6 meters near Seven Mile Beach.
 
 ## Overview
 
-The Cali was a 206-foot four-masted cargo schooner en route from Ecuador to Cuba carrying 30,000 bags of rice in 1948 when she began taking on water. Her crew ran her ashore at George Town harbor to save the cargo of rice, but the rest of the cargo putrefied in the hold and she was set alight and burned to the waterline. The British Army subsequently demolished the hull as a navigational hazard. Today her remains — ship's ribs, hull plates, winches, and boilers — lie scattered in as little as 2.7 meters (9 feet) of water, making this a premiere snorkel site as well as a beginner diver destination. The wreck sits at the southern end of Seven Mile Beach, a short swim from Balboa Beach and the popular Rackam's waterfront bar. Large tarpon and angelfish have adopted the site as a permanent home among the coral-encrusted remains.
+The Cali was a four-masted steel schooner built in 1900 in Dumbartonshire, England, originally christened Hawaii. She was sold multiple times and renamed; by 1946, Colombian owners gave her the name Cali. On 9 January 1948, while carrying 30,000 bags of rice, she developed a leak at sea and her crew deliberately ran her ashore near George Town to prevent sinking in open water. The stricken vessel caught fire, burned to the waterline, and sank. The British Army subsequently demolished the hull as a navigational hazard. Sources differ on the vessel's exact length — the blog "Under an Endless Sky," citing detailed historical records, gives 220 feet, while other sources quote 206 feet. Today her remains — ship's ribs, hull plates, winches, and boilers — lie scattered in as little as 2.7 meters (9 feet) of water, making this a premiere snorkel site as well as a beginner diver destination. The wreck sits close to shore near Central George Town, a short swim from Balboa Beach and the popular Rackam's waterfront bar. Large tarpon and angelfish have adopted the site as a permanent home among the coral-encrusted remains.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Cali was a 206-foot four-masted cargo schooner en route from Ecuador to Cuba
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -33,11 +33,11 @@ The Cali was a 206-foot four-masted cargo schooner en route from Ecuador to Cuba
 
 ## Marine Life
 
-The Cali is celebrated among Grand Cayman sites for its large tarpon, which gather around the deeper sections of the wreck in groups that can exceed a dozen individuals. Angelfish — both French and gray — are abundant and habituated to divers. Basslets, grunts, and small grouper shelter in the coral-covered hull framework. Nurse sharks occasionally rest under the wreck elements. The nearby fringing reef adds additional species including parrotfish and queen triggerfish.
+The Cali is celebrated among Grand Cayman sites for its large tarpon — resident populations are documented by multiple sources at this site. Angelfish — both French and gray — are reported by divers and operators as abundant and habituated to people. Parrotfish are confirmed residents on the adjacent reef. Other specific species listed in site-level accounts include grunts and snapper sheltering in the hull framework. No site-specific sources confirm nurse sharks resting beneath the Cali in particular; that claim has been removed.
 
 ## Dive Profile
 
-The shallowest wreck sections at 3 meters allow snorkel exploration. Divers typically enter and work systematically over the scattered hull elements, identifying boilers, winches, and hull ribs in the debris field. The large tarpon are usually found near the bottom of the wreck debris at 6–9 meters. A fringe reef nearby adds to the dive with additional coral habitat.
+The shallowest wreck sections at approximately 2.7 meters allow snorkel exploration. Divers typically enter and work systematically over the scattered hull elements, identifying boilers, winches, and hull ribs in the debris field. The large tarpon are usually found near the bottom of the wreck debris at 6–9 meters. A fringing reef nearby adds to the dive with additional coral habitat. Total maximum depth is approximately 9 meters.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ At 6–9 meters for the main wreck, depth hazards are minimal. However, the harb
 The scattered coral-encrusted hull elements and large tarpon make the Cali a highly photogenic site in very manageable conditions. Natural light photography at 3–9 meters is extremely effective. Tarpon in clear shallow water with sunbeams is a classic image. Wide-angle close-up of the boilers encrusted in Caribbean hard coral is visually striking.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Under an Endless Sky – Wreck of the Cali](https://underanendlesssky.com/2018/04/15/the-wreck-of-the-cali/), [Morritts – Best Wrecks to Dive in Grand Cayman](https://morritts.com/blog/wreck-diving-in-grand-cayman/), [Red Sail Sports – Shipwreck Dive Guide](https://redsailcayman.com/a-guide-to-shipwreck-dives-in-the-cayman-islands/). Last updated 2026-05-20.*

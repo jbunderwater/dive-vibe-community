@@ -3,7 +3,7 @@ name: Stingray City
 lat: 19.3833
 lng: -81.3167
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -17,15 +17,15 @@ Grand Cayman's most iconic dive — a shallow sandbar in the North Sound where l
 
 ## Overview
 
-Stingray City is one of the most famous shallow water dive and snorkel experiences in the Caribbean, and arguably the world. Located in the protected waters of Grand Cayman's North Sound, the site developed over decades after local fishermen cleaning their catch anchored at this sandbar, teaching southern stingrays to associate the sound of boat engines with food. Today, large numbers of Atlantic southern stingrays — some with wingspans exceeding 1.5 meters — congregate daily at the sandbar in depths of only 4–5 meters. Divers and snorkelers wade and swim among the rays, which are thoroughly accustomed to human interaction and will glide directly over and around visitors. The experience is one of the most unusual and memorable underwater encounters in the Caribbean, though its commercial popularity means the site can be crowded during peak season.
+Stingray City is one of the most famous shallow water dive and snorkel experiences in the Caribbean, and arguably the world. Located in the protected waters of Grand Cayman's North Sound, the site developed after local fishermen began anchoring at this sandbar to clean their catch — starting in the 1950s and 1960s — leaving scraps that attracted southern stingrays, who learned to associate boat engines with food. Today, a broadly stable population of approximately 100 southern stingrays (*Hypanus americanus*) — some with wingspans exceeding 1.5 meters — congregates daily at the sandbar in depths of only 4–5 meters. Divers and snorkelers wade and swim among the rays, which are thoroughly accustomed to human interaction. The experience is one of the most unusual and memorable underwater encounters in the Caribbean, though its commercial popularity means the site can be crowded during peak season.
 
 ## Site Information
 
 - **Location**: North Sound sandbar, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -33,7 +33,7 @@ Stingray City is one of the most famous shallow water dive and snorkel experienc
 
 ## Marine Life
 
-Southern stingrays are the defining encounter — populations at Stingray City can number 20–50 animals on busy days. Atlantic southern stingrays here have developed feeding associations with humans and will actively approach visitors seeking food. Nurse sharks occasionally visit the sandbar. The surrounding reef areas accessible from the main sandbar support typical North Sound species including parrotfish, snapper, and sergeant majors.
+Southern stingrays (*Hypanus americanus*) are the defining encounter — the resident population has been broadly stable at approximately 100 individuals over the past decade. The rays have developed feeding associations with humans and will actively approach visitors. Nurse sharks occasionally visit the sandbar — this is reported but not guaranteed. The surrounding reef areas accessible from the main sandbar support typical North Sound species including parrotfish, snapper, and sergeant majors.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Southern stingrays are docile and accustomed to humans at this site, but should 
 Stingray City is one of the Caribbean's most photographed dive sites. Southern stingrays at very close range in excellent visibility create extraordinary opportunities with any camera. The rays' tolerance for close interaction allows true macro detail shots of their patterning and texture. Ambient natural light photography in 4 meters produces spectacular results. Wide-angle group shots of multiple rays among divers are a classic Grand Cayman image.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Stingray City, Grand Cayman](https://en.wikipedia.org/wiki/Stingray_City,_Grand_Cayman), [Red Sail Sports – Stingray City Guide](https://redsailcayman.com/the-ultimate-guide-to-stingray-city-in-grand-cayman/), [Melissa's Travel Journal – Grand Cayman Stingray City](https://melissastraveljournal.com/grand-cayman-stingray-city/). Last updated 2026-05-20.*

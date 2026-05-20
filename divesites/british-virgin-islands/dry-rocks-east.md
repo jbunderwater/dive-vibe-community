@@ -64,4 +64,4 @@ The layered rocky terrain creates three-dimensional photographic compositions. W
 - Good pairing with Norman Island's The Caves or The Indians for a southern BVI two-tank day
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*

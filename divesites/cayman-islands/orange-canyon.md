@@ -3,7 +3,7 @@ name: Orange Canyon
 lat: 19.275
 lng: -81.4417
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Orange Canyon
 
-A dramatic West Side canyon dive named for its enormous orange elephant ear sponges that line the coral walls dropping to the Cayman Trench.
+A dramatic canyon dive at Grand Cayman's Northwest Point named for its enormous orange elephant ear sponges — a current-prone site that can descend to 30 meters (100 feet) as divers exit over the West Wall.
 
 ## Overview
 
-Orange Canyon earns its name from the spectacular orange elephant ear sponges that adorn the canyon walls and overhangs on Grand Cayman's West Side. These massive sponges — some exceeding a meter across — are the defining visual feature of the site, providing an intensely colorful environment on the canyon walls descending toward the wall edge. The canyon structure itself creates natural swim-throughs and archways that add navigational interest to what is already a visually stunning site. Orange Canyon is located on the West Side in no more than 25 meters of water, making it accessible to Intermediate divers while offering the drama of a wall approach and canyon system that rivals more challenging Caribbean destinations.
+Orange Canyon earns its name from the spectacular orange elephant ear sponges that adorn the canyon walls and overhangs at the northwest tip of Grand Cayman. This corridor-like swim-through cuts through the top of the wall, with divers gliding between two walls festooned with orange sponge before exiting over the wall face at approximately 30 meters (100 feet). The canyon is prone to current — conditions must be appropriate to dive it, which adds to its special quality when conditions align. The canyon structure also features deepwater gorgonians and meaty barrel sponges, as well as swim-throughs and varied marine life drawn to the productive current-swept environment. Some sources rate this as suitable for advanced divers given the current potential.
 
 ## Site Information
 
-- **Location**: West Side, Grand Cayman
+- **Location**: Northwest Point, Grand Cayman
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -33,11 +33,11 @@ Orange Canyon earns its name from the spectacular orange elephant ear sponges th
 
 ## Marine Life
 
-The orange elephant ear sponges are the signature species, growing to impressive sizes on the sheltered canyon walls. The canyon structure provides habitat for French and gray angelfish, which associate closely with the sponge formations. Large barracuda patrol the water column above the canyon in resident groups. Caribbean reef sharks are occasionally seen at the deeper wall sections below the canyon. Turtles pass through the area regularly. The West Side's productively clear water supports dense reef fish communities throughout the site.
+The orange elephant ear sponges are the signature feature — sources confirm they are the defining characteristic of this specific site. Deepwater gorgonians and barrel sponges are also documented. Blacktip and Caribbean reef sharks are specifically mentioned in site descriptions as present at Orange Canyon, drawn to the current-swept environment. French and gray angelfish are typical throughout the canyon. Barracuda are commonly reported at canyon exits. Regional Cayman marine life including turtles may be encountered; however, turtles as regular Orange Canyon-specific residents are not specifically confirmed in the sources reviewed.
 
 ## Dive Profile
 
-Enter at the top of the canyon and descend through the natural passages, examining the elephant ear sponges along the canyon walls. The canyon delivers divers to the wall edge at approximately 20 meters. Spend time along the wall face before ascending back through the canyon, examining the sponges from different angles. The 25-meter maximum depth keeps the site within a comfortable intermediate range.
+Enter the top of the canyon at approximately 18 meters and glide between the two sponge-covered canyon walls. The passage delivers divers out over the wall face at approximately 30 meters (100 feet). Spend time along the wall before ascending back through the canyon. Current assessment is essential before descending — if conditions are strong the dive should be postponed.
 
 ## Entry and Exit
 
@@ -48,16 +48,16 @@ Boat dive from West Side operators — Orange Canyon is one of the classic West 
 - The elephant ear sponges are the reason for the dive — spend significant time at close range
 - A strobe set to about 60 cm distance reveals the vivid orange color most effectively
 - The canyon provides natural shade that makes colors vibrant even without artificial lighting
-- Orange Canyon is typically run as part of a West Side day alongside other canyon and wall sites
+- Orange Canyon is typically run as part of a Northwest Point day — confirm conditions with the operator before committing
 - Arrive early morning when light angles are ideal for natural light illumination of the canyon
 
 ## Safety Considerations
 
-The canyon structure is navigable without special training as the passages are wide and well-lit by natural light. Do not enter any overhead section narrower than the width of your equipment. Current on the West Side is generally light, but can develop along the wall section below the canyon. Standard recreational depth management at 25 meters.
+The canyon structure is a swim-through with natural light throughout — no cave training required. Current is the primary hazard: this site should only be dived when conditions allow, and operators routinely skip it on current days. Standard recreational depth management at 30 meters wall exit depth.
 
 ## Photography
 
 Orange Canyon is one of Grand Cayman's most photogenic sites specifically because of the sponge color. The orange elephant ear sponges against the blue water and coral background create immediately striking compositions. Wide-angle with a strobe at medium range brings out the color while maintaining the depth-of-field for the canyon environment. Angelfish in front of the sponges are a classic combination subject.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Dive Red Sail Cayman – Dive Sites](https://www.diveredsailcayman.com/dive-sites), [Active Caribbean Travel – Grand Cayman West Coast Dive Sites](https://activecaribbeantravel.com/grand-cayman-diving-west-coast-dive-sites/), [Divetech – Northwest Point Diving](https://www.divetech.com/post/northwest-point-diving). Last updated 2026-05-20.*

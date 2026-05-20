@@ -3,7 +3,7 @@ name: Barnard Castle
 lat: 48.31211
 lng: -123.541408
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 12
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Barnard Castle was a 260-foot iron steam collier built in 1878 that struck R
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 12 meters
 
 ## Wreck History
 
@@ -37,7 +37,7 @@ The wreck's iron structure and surrounding kelp forest attract dense schools of 
 
 ## Dive Profile
 
-The Barnard Castle lies in Pilot Bay on the south side of Bentinck Island, in approximately 12 meters of water (the frontmatter lists a site maximum of 28 m, likely reflecting the slope extending from the wreck toward deeper water). Main features are two large Scotch boilers, the propeller shaft tube, sections of deck plating, and crankshafts. The site is often covered in thick bull kelp. Current is generally light in Pilot Bay compared to the exposed Race Passage immediately to the south, though Race Rocks is an area of strong tidal flows and conditions can change quickly. Navigation to the wreck can be difficult — live-boat pickup is standard.
+The Barnard Castle lies in Pilot Bay on the south side of Bentinck Island, in approximately 12 meters of water, with the seabed sloping deeper away from the wreck structure. Main features are two large Scotch boilers, the propeller shaft tube, sections of deck plating, and crankshafts. The site is often covered in thick bull kelp. Current is generally light in Pilot Bay compared to the exposed Race Passage immediately to the south, though Race Rocks is an area of strong tidal flows and conditions can change quickly. Navigation to the wreck can be difficult — live-boat pickup is standard.
 
 ## Entry and Exit
 

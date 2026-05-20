@@ -23,7 +23,7 @@ Rhone Reef sits within the Rhone National Marine Park, a protected marine area o
 
 - **Location**: Adjacent to the RMS Rhone wreck, between Dead Chest Island and Salt Island, BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Better in the northern section; variable with currents
@@ -63,4 +63,4 @@ The high colour saturation of the reef — dense soft corals and hard coral stru
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhone-reef/), [Worldwide Boat – Rhone National Marine Park](https://www.worldwideboat.com/destinations/bvi/details/rhone-national-marine-park), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhone-reef/), [Worldwide Boat – Rhone National Marine Park](https://www.worldwideboat.com/destinations/bvi/details/rhone-national-marine-park), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/). Last updated 2026-05-20.*

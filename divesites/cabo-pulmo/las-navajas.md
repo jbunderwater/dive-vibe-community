@@ -14,12 +14,12 @@ addedBy: osm_import
 # Las Navajas
 
 ## Overview
-Las Navajas features deep canyons and dramatic rock formations within Cabo Pulmo National Marine Park. The site is known for shark and ray encounters — reef sharks patrol the canyon edges and rays rest on the sandy bottom between formations. Parts of the site are shallow enough for snorkeling, making it one of the park's more versatile locations. The canyon topography creates sheltered areas where marine life congregates, and the varied depth profile offers something at every level down to 15 meters.
+Las Navajas features deep canyons and rocky formations within Cabo Pulmo National Marine Park. The site is known for shark and ray encounters — reef sharks patrol the canyon edges and stingrays rest on the sandy bottom between formations. Parts of the site are shallow enough for snorkeling, making it one of the park's more versatile locations. The canyon topography creates sheltered areas where diverse reef fish congregate, and the varied depth profile offers something at every level down to 15 meters. Schools of jacks and snappers move through the canyons, alongside the resident reef shark population.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters
@@ -38,4 +38,4 @@ Canyon topography from shallow sections (suitable for snorkeling) down to 15 met
 - Relatively sheltered — a good option when conditions are rough at outer sites
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [ScubaBoard – Cabo Pulmo Best Practices](https://scubaboard.com/community/threads/cabo-pulmo-best-practices.626751/), [Dive O'Clock](https://www.diveoclock.com/destinations/Latin-America/Mexico/Cabo_Pulmo/). Last updated 2026-05-20.*

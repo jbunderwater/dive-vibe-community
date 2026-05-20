@@ -64,4 +64,4 @@ The aircraft fuselage makes a striking wide-angle subject, particularly when a d
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html), [Uncommon Caribbean](https://www.uncommoncaribbean.com/british-virgin-islands/great-dog-island-airplane-wreck/), [Wikipedia – Atlantic Air BVI](https://en.wikipedia.org/wiki/Atlantic_Air_BVI). Last updated 2026-05-20.*

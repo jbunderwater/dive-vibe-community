@@ -25,7 +25,7 @@ The site's name comes from the pirate legend of Edward Teach (Blackbeard), who a
 
 - **Location**: Between Salt Island and Peter Island, Sir Francis Drake Channel
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters (Painted Walls up to 24m; Coral Gardens 5–11m)
 - **Typical Visibility**: 20–30 meters
@@ -66,4 +66,4 @@ Painted Walls is one of the BVI's premier wide-angle subjects — a dive light o
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

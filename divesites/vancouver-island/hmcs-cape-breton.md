@@ -3,7 +3,7 @@ name: HMCS Cape Breton
 lat: 49.2667
 lng: -123.25
 difficulty: Advanced
-maxDepth: 42
+maxDepth: 44
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## HMCS Cape Breton
 
-The HMCS Cape Breton is the world's second-largest artificial reef, a 442-foot Victory-class warship sunk in 2001 off Snake Island near Nanaimo. Intentionally prepared with "Swiss cheese" cutaways for safe penetration, this is one of the world's premier wreck dive destinations featuring exceptional marine life colonization and dramatic exploration opportunities.
+The HMCS Cape Breton is the largest artificial reef in the Pacific Northwest, a 441-foot (134 m) Beachy Head-class repair ship sunk on October 20, 2001 off Snake Island near Nanaimo. Intentionally prepared with "Swiss cheese" cutaways for safe penetration, this is one of the world's premier wreck dive destinations featuring exceptional marine life colonization and dramatic exploration opportunities.
 
 ## Overview
 
-HMCS Cape Breton was originally built as HMS Flamborough Head at Burrard Drydock in 1945 and later commissioned as HMCS Cape Breton with the Royal Canadian Navy. She was intentionally scuttled in October 2001 to create an artificial reef. The ship sits upright with her keel at 42 meters and deck at approximately 21 meters. The wreck has been extensively colonized with marine life and provides an incredible artificial reef experience.
+HMCS Cape Breton was originally launched in 1944 as HMS Flamborough Head, a Beachy Head-class fleet repair ship built for the Royal Navy, and later served as a maintenance and workshop vessel with the Royal Canadian Navy before being retired in 1964. She was intentionally scuttled on October 20, 2001 to create an artificial reef. The ship sits upright with her keel at approximately 44 meters (145 ft) depth, her main deck at 30 meters (100 ft), and her crow's nest reaching as shallow as 12 meters (40 ft). The wreck has been extensively colonized with marine life and provides an incredible artificial reef experience.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ HMCS Cape Breton was originally built as HMS Flamborough Head at Burrard Drydock
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 42 meters
+- **Maximum Depth**: 44 meters
 - **Typical Visibility**: 5-15 meters
 - **Current**: Variable, generally manageable
 - **Best Time**: Summer and early fall
@@ -36,7 +36,7 @@ The Cape Breton is heavily colonized with marine life. Residents include octopus
 
 ## Dive Profile
 
-Dives typically begin with a controlled descent to the wreck. The deck lies at approximately 21 meters, making exterior exploration accessible to intermediate divers. The engine room is popular for penetration divers with advanced training. Most recreational dives focus on exterior exploration and the numerous "Swiss cheese" cutaway sections designed for safe, non-disorienting access. Bottom time of 25-30 minutes is typical. Plan ascent with adequate reserve for safety stop at 5 meters.
+Dives typically begin with a controlled descent to the wreck. The deck lies at approximately 30 meters (100 ft), with the crow's nest accessible from 12 meters, making upper-wreck exterior exploration achievable for advanced divers. The engine room is popular for penetration divers with advanced training. Most recreational dives focus on exterior exploration and the numerous "Swiss cheese" cutaway sections designed for safe, non-disorienting access. Bottom time of 25-30 minutes is typical. Plan ascent with adequate reserve for safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -74,4 +74,4 @@ The wreck provides dramatic wide-angle subjects with natural light filtering thr
 - **Validation Source**: Web research (2026-03)
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [ARSBC — Cape Breton](https://artificialreefsocietybc.ca/), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-20.*

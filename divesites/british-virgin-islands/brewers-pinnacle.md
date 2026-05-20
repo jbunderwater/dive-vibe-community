@@ -64,4 +64,4 @@ Wide-angle: pinnacle walls draped in gorgonians with divers silhouetted in the a
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-pinnacle/), [BVI Diving](https://www.bvidiving.com/diving-brewers-bay-pinnacles.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-pinnacle/), [BVI Diving](https://www.bvidiving.com/diving-brewers-bay-pinnacles.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

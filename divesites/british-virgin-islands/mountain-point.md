@@ -23,7 +23,7 @@ Mountain Point sits on the northwest side of Virgin Gorda, close to the neighbor
 
 - **Location**: Northwest tip of Virgin Gorda, near Cow's Mouth
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: Good
@@ -63,4 +63,4 @@ The cave and passage formations create opportunities for silhouette and ambient-
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/mountain-point/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/mountain-point/), [BVI Diving](https://www.bvidiving.com/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

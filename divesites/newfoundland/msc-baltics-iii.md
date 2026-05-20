@@ -4,7 +4,7 @@ lat: 49.0887117
 lng: -58.423953
 difficulty: Advanced
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 13591376084
@@ -22,7 +22,7 @@ The MSC Baltics III is a large cargo vessel that grounded on the northern coast 
 ## Site Information
 
 - **Location**: Newfoundland, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
@@ -36,4 +36,4 @@ The MSC Baltic III grounded on February 15, 2025, after losing power in severe w
 This site is off-limits to recreational divers as of 2026. An active exclusion zone enforced by the Canadian Coast Guard prohibits approach. Monitor Transport Canada and Canadian Coast Guard advisories for any updates on exclusion zone status before considering any visit.
 
 ---
-*Sources: [CBC News - MSC Baltic III removal contract](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract-9.7187035), [CBC News - One year later Baltic III](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860), [gCaptain - Baltic III hull further compromised](https://gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised-after-winter-storms/), [Maritime Executive - Salvage Efforts Baltic III](https://maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii-for-winter). Last updated 2026-05-17.*
+*Sources: [CBC News - MSC Baltic III removal contract](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract-9.7187035), [CBC News - One year later Baltic III](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860), [gCaptain - Baltic III hull further compromised](https://gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised-after-winter-storms/), [Maritime Executive - Salvage Efforts Baltic III](https://maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii-for-winter). Last updated 2026-05-20.*

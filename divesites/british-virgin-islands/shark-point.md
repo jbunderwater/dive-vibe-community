@@ -23,7 +23,7 @@ Shark Point earns its name directly — sharks are commonly sighted here, and th
 
 - **Location**: Northeast corner of Scrub Island, BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Good; open-water location
@@ -63,4 +63,4 @@ The ledge system at 18 meters offers strong compositions with overhanging rock a
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

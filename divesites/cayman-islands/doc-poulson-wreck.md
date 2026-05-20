@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Doc Poulson Wreck
 
-A Japanese cable-laying vessel intentionally sunk in 1981 off Grand Cayman's West Bay, sitting upright in 16 meters on brilliant white sand beside a prolific coral reef.
+A former Japanese cable-laying vessel — approximately 70–80 feet long — intentionally sunk around 1981 off Grand Cayman's West Bay, sitting upright in 16–18 meters on white sand beside a coral reef. Named for Grand Cayman's first diving doctor.
 
 ## Overview
 
-The Doc Poulson was a Japanese cable-laying vessel deliberately sunk in 1981 off West Bay, Grand Cayman, as an artificial reef. She rests upright on a flat white sand bottom in 16 meters of water — an ideal depth for beginner wreck divers — with the sand around her hull providing excellent contrast that makes the wreck visually striking in Cayman's clear water. The hull has multiple large access openings cut before sinking, making it safe for basic wreck penetration without specialized cave training. A productive coral reef sits nearby, meaning divers can combine wreck exploration with reef diving in the same visit. Turtles, nurse sharks, and eagle rays are all regularly documented at this site.
+The Doc Poulson was a Japanese cable-laying vessel deliberately sunk off West Bay, Grand Cayman, as an artificial reef — reported by different sources as sunk in 1981 or 1982. She is the first artificial reef created in Grand Cayman. The wreck is approximately 70–80 feet (21–24 meters) long and rests upright on a flat white sand bottom in approximately 15–18 meters of water, making this an ideal depth for beginner wreck divers. The hull had multiple access openings cut before sinking to allow diver entry. The wreck is named after Dr. James "Jimmie" Poulson, the first diving doctor on Grand Cayman who set up the island's first hyperbaric chamber for treating decompression sickness. A coral reef adjacent to the wreck adds additional dive habitat. Note: claims of eagle rays and nurse sharks as regular residents of this specific site have been removed pending site-specific source confirmation.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Doc Poulson was a Japanese cable-laying vessel deliberately sunk in 1981 off
 
 ## Marine Life
 
-The Doc Poulson hosts an impressive species list for a relatively compact wreck. Green turtles and hawksbill turtles regularly rest on the hull or are found near the wreck. Nurse sharks are commonly seen resting on the sandy bottom beneath and around the hull. Eagle rays make periodic passes. Large green moray eels occupy sheltered spaces in the hull. The coral reef adjacent to the wreck adds parrotfish, angelfish, and French grunt to the total species count. Sergeant majors and chromis school in the water column above the wreck.
+Dive-specific sources confirm blue and stoplight parrotfish, schools of jacks, colorful sponges, sea fans, and coral formations colonizing the cable winches and hull surfaces. The adjacent coral reef adds reef fish diversity including angelfish and grunts. Green moray eels are plausible hull residents but not confirmed in site-specific reports reviewed. Claims of regular turtle, nurse shark, and eagle ray sightings at this specific site are not confirmed by site-level sources and have been removed to avoid regional padding. Regional Cayman marine life includes all these species and they may be encountered, but this wreck is specifically noted for its parrotfish and schooling fish.
 
 ## Dive Profile
 
@@ -45,19 +45,19 @@ Boat dive from West Bay operators including several well-established dive operat
 
 ## Tips and Recommendations
 
-- The combination of wreck and adjacent reef makes this one of Grand Cayman's most complete dive experiences
-- Nurse sharks under the hull are a regular sighting — approach calmly and maintain a respectful distance
+- The combination of wreck and adjacent reef makes this a varied dive experience
+- The cable winches on the top deck encrusted with sponges and sea fans are a signature feature
 - Bring a dive torch for illuminating the interior spaces even on the basic penetration
 - The upright orientation and white sand bottom creates ideal conditions for ambient light photography
-- This is one of Grand Cayman's best beginner wreck dives — the safe penetration openings provide wreck atmosphere without risk
+- This is one of Grand Cayman's best beginner wreck dives — the purposely cut openings provide wreck atmosphere without overhead navigation risk
 
 ## Safety Considerations
 
-At 16 meters, this is well within recreational diving limits for beginners. Wreck penetration beyond the light zone requires proper training and equipment even in this purpose-built artificial reef. Always maintain a clear exit path during interior exploration. Nurse sharks are docile but should not be handled or cornered.
+At 15–18 meters, this is well within recreational diving limits for beginners. Wreck penetration beyond the light zone requires proper training and equipment even in this purpose-built artificial reef. Always maintain a clear exit path during interior exploration.
 
 ## Photography
 
 The Doc Poulson in Cayman's extraordinary clear water is a natural photography site. The upright hull on white sand creates clean, uncluttered compositions. Turtle portraits resting on the hull are a classic Grand Cayman image. The large hull openings with ambient light streaming through them create dramatic interior light effects. A strobe is useful for close-up detail work on encrusted hull surfaces.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [DreamWrecks – Doc Poulson](https://dreamwrecks.com/doc-poulson-cayman-shipwreck), [Red Sail Sports – Shipwreck Dive Guide](https://redsailcayman.com/a-guide-to-shipwreck-dives-in-the-cayman-islands/), [Steven W. Smeltzer Blog – Doc Poulson](https://blog.stevenwsmeltzer.com/dive-site-reviews/grand-cayman-dive-site-reviews/dive-sites/scuba-diving-grand-cayman-doc-poulson/). Last updated 2026-05-20.*

@@ -64,4 +64,4 @@ Anegada's clear, shallow water and less-disturbed marine life create excellent n
 - Most BVI liveaboards include Anegada on multi-day itineraries
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [DivesCover – Anegada](https://divescover.com/diving/british-virgin-islands/anegada), [ZuBlu – British Virgin Islands](https://www.zubludiving.com/destination/lesser-antilles/leeward-islands/british-virgin-islands), [TripAdvisor – Horseshoe Reef](https://www.tripadvisor.com/Attraction_Review-g147362-d148086-Reviews-Horseshoe_Reef-Anegada_British_Virgin_Islands.html). Last updated 2026-05-20.*

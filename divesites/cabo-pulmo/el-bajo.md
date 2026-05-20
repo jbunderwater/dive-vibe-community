@@ -14,12 +14,12 @@ addedBy: osm_import
 # El Bajo
 
 ## Overview
-El Bajo is a long reef bar roughly 500 yards long and 30 yards wide, running north-south with sand channels on both sides near the edge of a submarine canyon. Over seven coral species grow along the bar, making it one of the most diverse hard coral sites in the Sea of Cortez. Large grouper schools patrol the reef, garden eels populate the sandy margins, and sea turtles cruise through regularly. Seasonal visitors include manta rays, and the site is one of the best locations in the park for witnessing the famous "jack tornado" — a massive swirling vortex of bigeye trevally. Nudibranchs and frogfish reward patient macro divers along the coral heads.
+El Bajo (also known as "El Bajo de los Meros") is a long reef bar running roughly 800 metres north-south with sand channels on both sides. One of the most biologically rich sites in the Sea of Cortez, it hosts multiple coral species making it the northern anchor of the park's reef system. Large grouper schools patrol the reef top, garden eels populate the sandy margins, and sea turtles cruise through regularly. Seasonal visitors include mobula rays, and the site is one of the two primary locations in the park for witnessing the famous "jack tornado" — a massive swirling vortex of bigeye trevally dense enough to block sunlight. Nudibranchs and frogfish reward patient macro divers along the coral heads. The best jack schools are typically seen from July through October when visibility is at its peak.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters
@@ -27,7 +27,7 @@ El Bajo is a long reef bar roughly 500 yards long and 30 yards wide, running nor
 - **Best Time**: Year-round; seasonal mantas and jack aggregations peak October-May
 
 ## Marine Life
-Large grouper schools, garden eels, green sea turtles, seasonal manta rays, nudibranchs, frogfish, bigeye trevally (jack tornado), diverse hard corals (7+ species). The proximity to the submarine canyon edge brings occasional pelagic visitors.
+Large grouper schools (including leopard groupers), garden eels, sea turtles, seasonal mobula rays, nudibranchs, frogfish, porkfish, grunts, diverse hard corals. Bigeye trevally form the park's iconic jack tornado formations. Reef conditions and diverse structure also attract angelfish, pufferfish, and multiple eel species.
 
 ## Dive Profile
 Depths range from 9 to 18 meters along the reef bar. Most divers follow the bar north-south, exploring coral formations on the top and checking the sand channels on either side. The 45-minute park dive limit applies. Currents are generally mild but can pick up near the canyon edge.
@@ -36,6 +36,7 @@ Depths range from 9 to 18 meters along the reef bar. Most divers follow the bar 
 - Carry a macro lens for nudibranchs and frogfish on the coral heads
 - Check the sand channels on both sides of the bar for garden eels and resting turtles
 - Often combined with nearby Los Morros or Meros on the same boat trip
+- July–October offers the best visibility and most reliable jack tornado formations
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*

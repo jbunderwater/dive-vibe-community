@@ -13,8 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Strong currents, timed to slack tide. Colorful invertebrate life, soft corals, sponges, anemones."
+      "validation_source": "dive.bc.ca,godspocketresort.com,scubabc.ca",
+      "validation_notes": "Strong currents, timed to slack tide. Colorful invertebrate life, soft corals, sponges, anemones.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -31,8 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Destroyer artificial reef. 366ft long. Dive 80-100ft mostly. Wreck penetration setup. Cabezon, anemones, cloud sponges, grunt sculpins."
+      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,nanaimodiveoutfitters.ca",
+      "validation_notes": "Destroyer artificial reef. 366ft long. Dive 80-100ft mostly. Wreck penetration setup. Cabezon, anemones, cloud sponges, grunt sculpins.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -41,7 +43,7 @@
     "lon": -123.25,
     "osm_id": null,
     "osm_type": null,
-    "depth": 42,
+    "depth": 44,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -49,8 +51,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "442ft Victory Class ship. Keel at 140ft, deck at 70ft. World's second largest artificial reef. Swiss cheese design for penetration. Octopus, wolf eels, lingcod, cabezon."
+      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,nanaimodiveoutfitters.ca",
+      "validation_notes": "442ft Victory Class ship. Keel at 140ft, deck at 70ft. World's second largest artificial reef. Swiss cheese design for penetration. Octopus, wolf eels, lingcod, cabezon.",
+      "last_qa_date": "2026-05-20",
+      "depth_note": "QA 2026-05-20: Corrected keel depth from 42m to 44m per Wikipedia/ARSBC (crow's nest at 12m, main deck at 30m, keel at 44m)"
     }
   },
   {
@@ -62,13 +66,15 @@
     "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Destroyer escort DDH, 366ft, sunk 2015 in Halkett Bay. Well-prepared with cutaways and safe penetration. Sits upright 110ft depth. 80 species recorded."
+      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,xray-mag.com",
+      "validation_notes": "Destroyer escort DDH, 366ft, sunk 2015 in Halkett Bay. Well-prepared with cutaways and safe penetration. Sits upright 110ft depth. 80 species recorded.",
+      "last_qa_date": "2026-05-20",
+      "difficulty_note": "QA 2026-05-20: Upgraded to Advanced — 33m depth with cold BC water conditions"
     }
   },
   {
@@ -85,8 +91,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Premier dive spot multiple skill levels. Inner cove for beginners (15-40ft). Wall dive beyond for advanced. MPA. Rockfish, lingcod, wolf eel, octopus."
+      "validation_source": "dan.org,padi.com,scubabc.ca",
+      "validation_notes": "Premier dive spot multiple skill levels. Inner cove for beginners (15-40ft). Wall dive beyond for advanced. MPA. Rockfish, lingcod, wolf eel, octopus.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -103,8 +110,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Provincial Park. Multiple wrecks: Granthall barge, Centennial sailboat, Leaning Tower concrete pillars. Nakaya minesweeper at 70-100ft (advanced). Safe artificial reefs 6-18m."
+      "validation_source": "justgottadive.com,coldoceandiver.ca,scubabc.ca",
+      "validation_notes": "Provincial Park. Multiple wrecks: Granthall barge, Centennial sailboat, Leaning Tower concrete pillars. Nakaya minesweeper at 70-100ft (advanced). Safe artificial reefs 6-18m.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -121,8 +129,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Sunshine Coast. Two islets with rock reef. Granite walls with boot sponges, feather stars, anemones. Max 120ft+. Giant octopus, wolf eels, seals, sea lions, nudibranchs."
+      "validation_source": "scubabc.ca,dive.bc.ca,zentacle.com",
+      "validation_notes": "Sunshine Coast. Two islets with rock reef. Granite walls with boot sponges, feather stars, anemones. Max 120ft+. Giant octopus, wolf eels, seals, sea lions, nudibranchs.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -139,8 +148,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Extreme tidal drift between Cedar and Mudge Islands. Currents 5-9 knots. Live boat drop required. Can ride current through narrows. Requires experienced guide."
+      "validation_source": "scubabc.ca,dive.bc.ca,scubadiving.com",
+      "validation_notes": "Extreme tidal drift between Cedar and Mudge Islands. Currents 5-9 knots. Live boat drop required. Can ride current through narrows. Requires experienced guide.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -157,8 +167,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Extreme tidal currents 5-7 knots. Slack tide only (6.5hr windows). 17km SW of Victoria. Ecological reserve. Sea lions, kelp forests, wreck debris. Spring/Fall best."
+      "validation_source": "racerocks.ca,scubabc.ca,dive.bc.ca",
+      "validation_notes": "Extreme tidal currents 5-7 knots. Slack tide only (6.5hr windows). 17km SW of Victoria. Ecological reserve. Sea lions, kelp forests, wreck debris. Spring/Fall best.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -175,8 +186,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Victoria Breakwater. Beginner-accessible inner sections (few ft to 25ft), advanced sections beyond (to 90ft). Cold water. Currents possible. Excellent photography. Barnacles/kelp on entry."
+      "validation_source": "zentacle.com,coldoceandiver.ca,scubabc.ca",
+      "validation_notes": "Victoria Breakwater. Beginner-accessible inner sections (few ft to 25ft), advanced sections beyond (to 90ft). Cold water. Currents possible. Excellent photography. Barnacles/kelp on entry.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -188,13 +200,15 @@
     "depth": 20,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Expert",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "World's fastest tidal rapids. 16-17.68 knots current. North America's fastest. 2m height difference. Extreme rare slack tide windows. Scuba equivalent of Everest. Emerald-green water."
+      "validation_source": "scubabc.ca,dive.bc.ca,scubadiving.com",
+      "validation_notes": "World's fastest tidal rapids. 16-17.68 knots current. North America's fastest. 2m height difference. Extreme rare slack tide windows. Scuba equivalent of Everest. Emerald-green water.",
+      "last_qa_date": "2026-05-20",
+      "difficulty_note": "QA 2026-05-20: Changed Expert to Advanced (extreme current site — dive only at slack, live-boat required)"
     }
   },
   {
@@ -211,8 +225,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "20km NW Port Hardy, Hurst Island. Strong current walls, timed to slack tide. Browning Wall: one of best in North America. Orange/red anemones, soft corals, sponges, nudibranchs."
+      "validation_source": "godspocketresort.com,dive.bc.ca,scubabc.ca",
+      "validation_notes": "20km NW Port Hardy, Hurst Island. Strong current walls, timed to slack tide. Browning Wall: one of best in North America. Orange/red anemones, soft corals, sponges, nudibranchs.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -229,8 +244,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "26km N of Nanaimo, 15km S of Parksville. Madrona Point: multiple walls (Small, Mid, Maze to 60ft; Main to 90ft advanced). Wall Beach. Sea lions 1000+ lbs. Octopus, rockfish, lingcod."
+      "validation_source": "scubabc.ca,dive.bc.ca,zentacle.com",
+      "validation_notes": "26km N of Nanaimo, 15km S of Parksville. Madrona Point: multiple walls (Small, Mid, Maze to 60ft; Main to 90ft advanced). Wall Beach. Sea lions 1000+ lbs. Octopus, rockfish, lingcod.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -247,8 +263,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "validation_notes": "Lions Bay, 10km N of Horseshoe Bay, Howe Sound. Protected bay + sheer walls. Two walls to 130ft+. Rocky reef near beach (12m). Boot sponges, cloud sponges. Octopus common."
+      "validation_source": "dan.org,zentacle.com,scubabc.ca",
+      "validation_notes": "Lions Bay, 10km N of Horseshoe Bay, Howe Sound. Protected bay + sheer walls. Two walls to 130ft+. Rocky reef near beach (12m). Boot sponges, cloud sponges. Octopus common.",
+      "last_qa_date": "2026-05-20"
     }
   }
 ]

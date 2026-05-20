@@ -23,7 +23,7 @@ Angelfish Reef lies southwest of Norman Island in open water exposed to the Cari
 
 - **Location**: Southwest of Norman Island, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-30 meters
@@ -63,4 +63,4 @@ The sandy-bottomed canyons are ideal for macro subjects: jawfish, blennies, seah
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/angelfish-reef/), [Last Stop Sports BVI](https://www.laststopsports.com/Dive_sites.htm). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/angelfish-reef/), [Last Stop Sports BVI](https://www.laststopsports.com/Dive_sites.htm), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

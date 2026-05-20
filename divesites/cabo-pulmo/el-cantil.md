@@ -5,7 +5,7 @@ lng: -109.419
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -14,12 +14,12 @@ addedBy: osm_import
 # El Cantil
 
 ## Overview
-El Cantil is the largest reef system in Cabo Pulmo National Marine Park, starting near the beach and extending roughly two miles offshore across a width of about 40 yards. The topography resembles rolling hills of hard and soft coral, cut through with miniature canyons, walls, caves, ledges, and swim-throughs. Whitetip and blacktip reef sharks are common residents, and nurse sharks rest under the ledges. The site is divided into North and South sections plus "El Cantilito," a smaller adjacent area. The sheer variety of structure — from shallow coral gardens to deeper wall sections — makes El Cantil one of the park's most frequently dived and most rewarding sites.
+El Cantil ("The Cliff") is one of the largest reef systems in Cabo Pulmo National Marine Park. The reef topography features numerous nooks, canyons, tunnels, and cavern-like structures filled with hard and soft coral, making it one of the most structurally varied sites in the park. The site is divided into North and South sections plus the smaller adjacent "El Cantilito." El Cantil Norte is typically accessed from a rocky entry point and features canyon formations colonised by schools of dogtooth snapper and graybar grunt, along with moray eels and sea turtles. Whitetip and blacktip reef sharks are common residents, and nurse sharks rest under ledges. The shallow-to-moderate depth range (6–15 meters) makes this site accessible to intermediate divers while still delivering consistent shark and fish encounters. Note: while this site features some dramatic canyon edges, it is primarily a coral reef system, not a wall dive.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters
@@ -27,7 +27,7 @@ El Cantil is the largest reef system in Cabo Pulmo National Marine Park, startin
 - **Best Time**: Year-round
 
 ## Marine Life
-Whitetip reef sharks, blacktip reef sharks, nurse sharks, diverse hard and soft corals, tropical reef fish throughout the canyon and cave structures. The extensive reef area supports high fish density and variety.
+Whitetip reef sharks, blacktip reef sharks, nurse sharks (resting under ledges), moray eels, dogtooth snapper schools, graybar grunt, sea turtles, stingrays, nudibranchs, parrotfish, wrasses. The canyon structure and coral coverage support high fish density, and bigeye trevally jack tornado formations are occasionally observed here as well.
 
 ## Dive Profile
 Depths range from 8 to 15 meters. Guides typically choose either the North or South section per dive, navigating through the miniature canyons and swim-throughs. The rolling coral hills make for natural multi-level profiles. The 45-minute park dive limit applies.
@@ -39,4 +39,4 @@ Depths range from 8 to 15 meters. Guides typically choose either the North or So
 - One of the best sites in the park for repeat visits — hard to see it all in one dive
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*

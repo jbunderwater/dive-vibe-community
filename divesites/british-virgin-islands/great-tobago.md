@@ -23,7 +23,7 @@ Great Tobago and neighboring Little Tobago lie approximately six miles west of J
 
 - **Location**: Six miles west of Jost Van Dyke, western BVI
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: Good; conditions vary by site around the island
@@ -63,4 +63,4 @@ Mercurious Rock's cave interior offers rare dramatic cavern photography opportun
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [BVI Sail – Great Tobago Island](https://www.bvisail.com/yacht-charter-destinations/british-virgin-islands-yacht-charters/great-tobago-island/). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [BVI Sail – Great Tobago Island](https://www.bvisail.com/yacht-charter-destinations/british-virgin-islands-yacht-charters/great-tobago-island/). Last updated 2026-05-20.*

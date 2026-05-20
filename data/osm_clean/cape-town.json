@@ -6,13 +6,15 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "marine_life": "kelp forest, sea urchins, reef fish"
+      "validation_source": "en.wikivoyage.org,scubashack.co.za,aaddicts.co.za",
+      "marine_life": "cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, anemones, feather stars, nudibranchs, reef fish",
+      "notes": "Difficulty upgraded to Intermediate: cold water (12-18°C), kelp navigation required, surge possible. Eagle rays NOT confirmed at this specific site.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -27,9 +29,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "marine_life": "sevengill sharks, Cape fur seals, fish",
-      "water_temp_c": "14-18"
+      "validation_source": "frontiersin.org,sharkexplorers.com,saveourseas.com",
+      "marine_life": "Cape fur seals, bronze whaler sharks; great white sharks absent since approximately 2017-2018 (documented decline due to orca predation)",
+      "water_temp_c": "14-18",
+      "great_white_status": "absent_since_2018",
+      "notes": "Great white sharks disappeared from False Bay circa 2017-2018 per peer-reviewed research (Frontiers in Marine Science, 2025). Cage diving operations now primarily encounter bronze whalers. Description must reflect current status.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -44,11 +49,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,scubashack.co.za,justgottadive.com",
       "wreck_count": 5,
-      "wrecks": ["MV Rockeater", "SAS Good Hope", "MFV Princess Elizabeth", "MFV Orotava", "SAS Transvaal"],
-      "depth_range": "22-40m",
-      "notes": "Five scuttled wrecks; requires Advanced certification and Nitrox recommended"
+      "wrecks": ["MV Rockeater (scuttled 15 Dec 1972, ~30m)", "SAS Transvaal (scuttled 3 Aug 1978, 34m)", "SAS Good Hope (scuttled 18 Jun 1978, ~36m)", "MFV Princess Elizabeth (scuttled 27 Jun 1983, 22m)", "MFV Orotava (scuttled Aug 1983, 24m)"],
+      "depth_range": "22-38m",
+      "scuttling_period": "1972-1983",
+      "notes": "Five scuttled vessels; scuttling spanned 1972-1983 (NOT 'early 1970s' alone). Correct spelling: MFV Orotava (not Oratava). SAS Transvaal and SAS Good Hope are Loch-class frigates. Advanced certification required.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -63,10 +70,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,diveteam.co.za,aaddicts.co.za",
       "marine_protected_area": true,
       "pinnacles": "rise from 14m to 5m",
-      "marine_life": "invertebrates, reef fish"
+      "marine_life": "Cape fur seals, pyjama sharks, spotted gully sharks, Cape knifejaw, Roman sea bream, nudibranchs, sea cucumbers, brittle stars, octopus",
+      "notes": "Sevengill sharks listed as 'elusive since 2016' per diveteam.co.za; removed as reliable sighting. Great whites also absent from False Bay since ~2018.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -76,16 +85,19 @@
     "depth": 13,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,capetownfreediving.com,aaddicts.co.za",
       "marine_protected_area": true,
       "permit_required": true,
-      "specialty": "macro photography, nudibranchs",
-      "depth_range": "3-13m"
+      "specialty": "macro photography, nudibranchs, invertebrates",
+      "depth_range": "3-13m",
+      "alternate_name": "JJM Reef",
+      "notes": "Difficulty upgraded to Intermediate: cold Atlantic water, open-water conditions, exposed to swell. Also accessible by shore from North Windmill Beach but most commonly boat dive from Miller's Point (~4km).",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -100,11 +112,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,oceansafrica.com,scubashack.co.za",
       "marine_protected_area": true,
       "permit_required": true,
+      "location": "Hout Bay area, Atlantic seaboard (NOT Table Bay)",
       "depth_range": "8-30m",
-      "marine_life": "sponges, corals, kelp forest, nudibranchs, basket stars"
+      "marine_life": "nudibranchs, basket stars, brittle stars, colonial ascidians, dreadlocks hydroids, sponges, soft corals, cape rock lobster; seals occasional",
+      "notes": "Located ~4.5km from Hout Bay Harbour on Atlantic seaboard. Previous description incorrectly said 'Table Bay'. Pyjama sharks NOT confirmed at this site — removed.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -119,11 +134,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "features": "granite caves, swim-throughs, narrow gaps, walls, overhangs",
-      "marine_life": "sea urchins, sea cucumbers, mussels, corals, nudibranchs, anemones",
+      "validation_source": "en.wikivoyage.org,scubashack.co.za,aaddicts.co.za",
+      "features": "granite caves, swim-throughs, narrow gaps, overhangs, noble coral cavern",
+      "marine_life": "Cape sea urchins, dark sea cucumbers, spiny starfish, cape rock lobster, sponges, soft corals, noble corals (pink and purple in prize cavern), sea fans, ascidians",
       "conditions": "strong swell in southwest winds, currents at passages",
-      "visibility_m": 6
+      "visibility_m": "up to 20m on good summer days after SE wind",
+      "anchor": "large iron anchor from Het Huis te Kraaienstein VOC wreck",
+      "notes": "Depth range 8-17m (centre 5m, seaward edge to 17m). Site is a rocky reef with cave/cavern features; properly classified as cave for its celebrated cavern and swim-throughs.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -138,12 +156,17 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "Loch class frigate",
+      "validation_source": "en.wikivoyage.org,wikipedia.org,southernpeninsulaexplorer.co.za",
+      "ship_type": "Loch-class frigate (ex-HMS Loch Ard)",
+      "ship_displacement": "2000 tonnes",
+      "ship_length": "93.6m",
       "sunk": "1978-08-03",
-      "history": "Scuttled to form artificial reef",
-      "condition": "deteriorating, bow broken off",
-      "permit_required": true
+      "history": "Scuttled to form artificial reef; laid down 20 Jan 1944 Harland & Wolff Belfast, launched 2 Aug 1944",
+      "condition": "deteriorating; bow broken off and fallen to starboard",
+      "depth_main_deck": "~29m",
+      "permit_required": true,
+      "hazards": "unstable structure, fine silt, scorpionfish",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -158,10 +181,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za",
       "features": "large boulders, swim-throughs, breaks surface at low tide",
-      "marine_life": "Red bait ascidian, kelp, false corals, feather stars, sea cucumbers, fish shoals",
-      "alternate_names": "Castle Blinder"
+      "marine_life": "Red bait ascidian, kelp, false corals, feather stars, sea cucumbers, fish shoals, Cape fur seals",
+      "alternate_names": "Castle Blinder",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -176,11 +200,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "features": "kelp forests, swim-throughs, rocky reef",
+      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za",
+      "features": "kelp forests, swim-throughs, rocky reef, Finlay's Pinnacle",
       "pinnacle": "Finlay's Pinnacle rises from 15m to 6m",
-      "marine_life": "bryozoans, sponges, colonial ascidians, anemones, reef fish",
-      "alternate_names": "Jenga Reef"
+      "marine_life": "bryozoans, sponges, colonial ascidians, anemones, pyjama catsharks, reef fish, nudibranchs",
+      "alternate_names": "Jenga Reef",
+      "notes": "Sevengill sharks NOT confirmed as reliable sighting at this specific site — removed from marine life tag.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -195,13 +221,22 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "French crane and pipelaying barge",
-      "sunk": "1994-06-27",
-      "wreck_length": "100m",
-      "wreck_displacement": "12000 tons",
-      "warning": "Unstable, hazardous; keep safe distance",
-      "conditions": "exposed location, strong surge in shallows"
+      "validation_source": "en.wikipedia.org,atlasobscura.com,nsri.org.za",
+      "ship_type": "French derrick/lay barge",
+      "ship_build_year": "1984",
+      "ship_length": "100m",
+      "ship_displacement": "12000 long tons",
+      "ship_crane_capacity": "1200 tons",
+      "sunk": "1994-06-26",
+      "tow_vessel": "Russian tugboat Tigr",
+      "origin_port": "Pointe-Noire, Republic of Congo",
+      "destination": "Cape Town",
+      "wreck_location": "Duiker Point, Sandy Bay, Cape Peninsula",
+      "underlying_wreck": "SS Oakburn (British cargo steamer, 1906, pre-existing wreck at same location)",
+      "warning": "Advanced stage of deterioration; rusted steel threatening collapse; area unsafe",
+      "conditions": "exposed location, strong surge in shallows; shore access via Sandy Bay beach",
+      "notes": "Previous description said 'capable of lifting 1,200 tons' — confirmed accurate per Wikipedia. Previous description said 'boat access from Hout Bay' — incorrect; entry_type is shore (Sandy Bay beach). Also Oakburn described as carrying 'railway lines and antique glassware' — no independent source confirms this specific cargo claim; removed.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -216,11 +251,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,twobrothersdiving.co.za,aaddicts.co.za",
       "specialty": "kelp forest, Great African Seaforest",
-      "marine_life": "pyjama sharks, gully sharks, shysharks, starfish, nudibranchs, seals",
-      "depth_range": "0-8m",
-      "conditions": "calm sheltered site"
+      "marine_life": "octopus, biscuit skates, blue-fin gurnard, pineapple fish, stingrays, Cape fur seals; nearby SAS Pietermaritzburg minesweeper wreck at max 20m",
+      "depth_range": "0-10m",
+      "conditions": "calm sheltered site, most protected site on Cape Peninsula",
+      "notes": "WWII wrecks nearby confirmed: SAS Pietermaritzburg (A-class minesweeper, D-Day veteran, max 20m). 'Pyjama sharks, gully sharks, shysharks' not confirmed at THIS specific site; removed from tag. Southern Right whale sightings in bay not confirmed at dive site specifically.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -235,10 +272,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "features": "twin reefs (cow and calf), drop to 12m sand",
-      "marine_life": "palmate sea fans, soft corals, feather stars, urchins, nudibranchs, rock suckers, Cape fur seals (playful young)",
-      "depth_range": "5-12m"
+      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za",
+      "features": "twin reef outcrops (cow and calf), sand base at 10-12m",
+      "marine_life": "Cape fur seals, pyjama catsharks, spotted gully sharks, Cape knifejaw, Roman sea bream, nudibranchs, sea cucumbers, starfish, octopus",
+      "depth_range": "2-12m",
+      "notes": "Sevengill sharks listed in previous version; elusive since 2016 per diveteam.co.za, removed as reliable sighting. Palmate sea fans and feather stars retained as cold-water invertebrate fauna consistent with site.",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -246,17 +285,20 @@
     "lat": -34.23,
     "lon": 18.45,
     "depth": 26,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikivoyage.org,diveteam.co.za,aaddicts.co.za",
       "depth_range": "5-26m",
-      "features": "drop-offs, Deep Partridge reaches 25m",
-      "versatile": "suitable for varying experience levels"
+      "features": "boulder reef, Seal Rock, Big Rock, Deep Partridge (25m), Peter's Pinnacles, Gorgonian Forest",
+      "marine_life": "Cape fur seals, Hottentot sea bream, Fransmadam, Roman, Two-tone Fingerfin, Galjoen, klipfish, sea fans, nudibranchs, anemones, octopus",
+      "site_type_correction": "Corrected from 'wall' to 'reef': site consists of boulder/granite reef topography, NOT vertical wall. Multiple authoritative sources confirm reef classification.",
+      "marine_protected_area": true,
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -273,17 +315,23 @@
       "historic": "wreck",
       "name": "Antipolis",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "scubashack.co.za,sahistory.org.za,submerged.co.uk",
       "ship_type": "Greek oil tanker",
+      "ship_build_year": "1959",
       "displacement": "25000 tons",
-      "sunk": "1977-07",
-      "depth_range": "7-20m",
-      "location": "Oudekraal, Atlantic seaboard",
-      "marine_life": "algae-covered, shellfish, starfish, crayfish",
+      "sunk": "1977-07-28",
+      "sinking_cause": "Tow cable snapped/snagged on seabed during northwesterly gale; crew of tug Kiyo Maru 2 forced to cut cable; both Antipolis and companion tanker Romelia blown ashore",
+      "companion_vessel": "MV Romelia (grounded simultaneously at Llandudno/Sunset Rocks)",
+      "destination": "Scrap yards in Taiwan (Far East)",
+      "depth_range": "5-15m",
+      "location": "Oudekraal, Atlantic seaboard (Victoria Road, near Twelve Apostles Hotel)",
+      "marine_life": "cape rock lobster, algae, encrusting invertebrates; limited fish diversity per dive operators",
       "visibility_m": "5-10",
-      "conditions": "very cold water",
+      "conditions": "very cold water, boulder entry, offshore wind can make return swim strenuous",
+      "wreck_status": "partially washed further ashore in Jan 2022 storm; bow ribs near shoreline, boiler visible at low tide",
       "wikidata": "Q14213801",
-      "wikimedia_commons": "Category:Dive site Antipolis"
+      "wikimedia_commons": "Category:Dive site Antipolis",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -300,14 +348,22 @@
       "historic": "wreck",
       "name": "SELI1",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "Turkish bulk carrier",
+      "validation_source": "en.wikipedia.org,iol.co.za,infrastructurenews.co.za",
+      "ship_type": "bulk carrier",
+      "ship_flag": "Panama (Turkish ownership)",
+      "ship_build_year": "1980",
+      "ship_length": "176m",
+      "ship_beam": "26m",
+      "ship_dwt": "30500",
       "sunk": "2009-09-08",
-      "location": "Table Bay, Bloubergstrand",
-      "cargo": "30000 tons coal, 660 tons heavy fuel oil",
-      "condition": "hull showing, salvage operations completed",
+      "cargo": "30,000 tons coal, 660 tons heavy fuel oil, 60 tons diesel fuel",
+      "cause": "Engine failure and snapped anchor chain in strong westerly winds",
+      "location": "Bloubergstrand, Table Bay",
+      "salvage": "Wreckage cut and dispersed underwater; R40m removal operation completed March 2013",
+      "condition": "submerged wreckage on sand to ~20m; marker buoy installed 2015",
       "marker_buoy": true,
-      "seamark:wreck:category": "hull_showing"
+      "seamark:wreck:category": "hull_showing",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -319,20 +375,27 @@
     "depth": 12,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Het Huis te Kraaienstjin",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "Dutch pinas (square rigged galleon)",
-      "sunk": "1698-01-01",
-      "history": "South Africa's oldest wreck; maiden voyage; anchor cable parted in fog",
-      "location": "Oudekraal, Atlantic seaboard",
-      "depth_range": "3-12m",
-      "marine_life": "scattered remains: cannons, anchor, wood pieces",
-      "notes": "Broken up, remains scattered",
-      "seamark:type": "wreck"
+      "validation_source": "en.wikivoyage.org,diveteam.co.za,scubashack.co.za",
+      "ship_type": "Dutch East Indiaman (pinas/square-rigged galleon)",
+      "ship_tonnage": "1154 tons",
+      "ship_built": "1697",
+      "ship_yard": "Zeeland Yard, for Zeeland Chamber of the Dutch East India Company",
+      "sunk": "1698-05-27",
+      "cause": "Struck rocks at Oudekraal in thick mist attempting to enter Table Bay; maiden outward voyage",
+      "cargo": "19 chests of pieces-of-eight (approximately 57,000 pieces); three chests unaccounted for after the wreck",
+      "location": "North Oudekraal, Atlantic seaboard, Table Mountain National Park MPA",
+      "depth_range": "3-12m (sand bottom at ~10m)",
+      "cannon": "Two iron cannon approximately 3m long in V-formation at southern end; two more cannon partly buried in sand",
+      "artifacts": "Large iron anchor nearby; scattered wood pieces",
+      "permit_required": true,
+      "notes": "Difficulty upgraded from Beginner to Intermediate: cold Atlantic water, 150m swim from shore, swell possible. Cannon are IRON not bronze — previous description was incorrect. Previous description said 'anchor cable parted in fog' — corrected: actual cause was striking rocks in thick mist.",
+      "seamark:type": "wreck",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -350,16 +413,26 @@
       "historic": "wreck",
       "name": "Thomas T. Tucker",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "U.S. liberty ship",
-      "sunk": "1942-11-27",
+      "validation_source": "en.wikipedia.org,capeofstormsdistillery.com,submerged.co.uk",
+      "ship_type": "Liberty ship (EC2-S-C1 class)",
+      "ship_built": "1942",
+      "ship_build_yard": "Houston Shipbuilding Corporation",
+      "ship_length": "135m",
+      "ship_beam": "17.3m",
       "hull_number": 269,
-      "location": "Olifantsbospunt (Cape Point), Table Mountain NP MPA",
-      "conditions": "exposed, divable only in flat seas",
+      "sunk": "1942-11-27",
+      "cause": "Compass error of 37 degrees caused by iron cargo (tanks/vehicles); captain believed ship near Robben Island; ran aground in heavy fog on maiden voyage",
+      "cargo": "25 Sherman tanks, 16 tank cars, 200 motor vehicles, barbed wire; destined for British forces in North Africa via Suez",
+      "route": "New Orleans to Suez, maiden voyage",
+      "location": "Olifantsbos Point (Cape Point), Table Mountain National Park MPA",
+      "conditions": "extremely exposed, divable only in flat seas; site split into three sections",
       "visibility_m": "poor",
       "permit_required": true,
       "hazard": "dangerous wreck category",
-      "seamark:wreck:category": "dangerous"
+      "entry": "shore access on foot to Olifantsbos; NOT boat-only",
+      "notes": "Previous markdown description incorrectly said 'boat only' — entry is actually SHORE on foot from Olifantsbos parking area. Cargo description corrected: 25 Sherman tanks confirmed, NOT 'ammunition' as previously tagged. Compass error 37 degrees confirmed (not 23 nautical miles as stated in markdown — both may be true: 37 degree error resulting in ~23 NM position error).",
+      "seamark:wreck:category": "dangerous",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -376,15 +449,19 @@
       "historic": "wreck",
       "name": "Nolloth",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "Dutch coaster",
+      "validation_source": "learntodivetoday.co.za,capeofstormsdistillery.com,capepoint.co.za",
+      "ship_type": "Dutch coastal freighter (coaster)",
       "displacement": "347 tons",
       "sunk": "1965-04-30",
-      "location": "Olifantsbos, Cape Point",
+      "cause": "Struck Albatross Rock off Olifantsbos; captain ran her aground to save crew",
+      "cargo": "Mostly liquor and general goods (successfully salvaged)",
+      "rescue": "First helicopter rescue in SA maritime history; crew transported by helicopter to safety",
+      "location": "Olifantsbos, Cape Point (second wreck on Olifantsbos Shipwreck Trail)",
       "depth_range": "0-5m",
-      "conditions": "visible at high tide, walkable at low tide",
+      "conditions": "visible at high tide, walkable at low tide; surge zone; dive only in flat conditions",
       "history": "First helicopter rescue in SA maritime history",
-      "seamark:type": "wreck"
+      "seamark:type": "wreck",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -402,14 +479,20 @@
       "historic": "wreck",
       "name": "Phyllisia Shipwreck",
       "validated": true,
-      "validation_source": "web_research",
-      "ship_type": "fishing trawler",
+      "validation_source": "learntodivetoday.co.za,capepoint.co.za,wikipedia.org",
+      "ship_type": "steam trawler",
+      "ship_tonnage": "452 tons",
       "sunk": "1968-05-03",
-      "location": "Cape Point, Hoek van Bobbejaan",
+      "cause": "Struck submerged rocks offshore near midnight; holed in four places",
+      "cargo": "30 tons of fish",
+      "crew": "11 came ashore in life rafts; 14 airlifted by helicopter",
+      "location": "Hoek van Bobbejaan (Cape Point headland), Cape Point Nature Reserve",
       "depth_range": "0-5m",
-      "conditions": "best viewed at low tide",
-      "access_type": "hikers trail (Phyllisia Circuit)",
-      "seamark:wreck:category": "hull_showing"
+      "conditions": "fully exposed, virtually never diveable; hull visible at low tide; access mainly on foot",
+      "access_type": "Phyllisia Circuit hiking trail (5km from Gifkommetjie parking area)",
+      "wreck_remains": "Part of stern remains on shore",
+      "seamark:wreck:category": "hull_showing",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -425,14 +508,19 @@
     "tags": {
       "name": "Whittle Rock",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "en.wikipedia.org,en.wikivoyage.org,scubashack.co.za",
       "natural": "reef",
-      "depth_range": "3.2-40m",
-      "pinnacle_top": "3.6m at low tide",
-      "features": "large offshore pinnacle, buoy marked",
-      "conditions": "popular recreational dive site",
+      "depth_range": "5-42m",
+      "pinnacle_top": "5m (shallowest pinnacle, approximately 4.4-5m below MSL depending on tide)",
+      "reef_area": "approximately 1 km² (1300m E-W, 950m N-S)",
+      "features": "granite corestone pinnacles, gullies, walls, overhangs, occasional swimthroughs; multiple named pinnacle clusters",
+      "conditions": "8km offshore False Bay; exposed to southwest swell; boat access from Simon's Town jetty (14.5km) or Miller's Point (9km)",
+      "marine_life": "gully sharks in swimthroughs, large short-tailed stingrays, basket stars, feather stars, sea fans, sponges, yellowtail (seasonal)",
+      "navigation_buoy": "Cardinal East marker buoy moored at ~21m",
+      "notes": "Previous description mentioned 'bronze whalers and ragged-tooth sharks' — NOT confirmed at this specific site by reviewed sources; removed. Marine life updated to source-confirmed species only.",
       "wikidata": "Q110064499",
-      "wikipedia": "en:Whittle Rock"
+      "wikipedia": "en:Whittle Rock",
+      "last_qa_date": "2026-05-20"
     }
   },
   {
@@ -449,18 +537,25 @@
       "historic": "wreck",
       "name": "Clan Stewart",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "sahistory.org.za,en.wikivoyage.org,scubashack.co.za",
+      "ship_name_correct": "SS Clan Stuart (commonly misspelled Clan Stewart)",
       "ship_type": "British turret steamer",
-      "displacement": "3500 tons",
+      "ship_displacement": "3594 tons",
+      "ship_built": "1900",
+      "ship_build_yard": "W. Doxford and Son, Sunderland, England",
       "sunk": "1914-11-21",
-      "location": "Glen Cairn Beach, Simons Town",
+      "cause": "Dragged anchor in SE gale; grounded near Glencairn; deliberately run aground at Mackerel Bay after failed refloating attempts to prevent blocking harbour approach",
+      "cargo": "Coal",
+      "location": "Mackerel Bay, Simon's Town (~100m from Mackerel Beach)",
       "depth_range": "7-9m",
       "distance_from_shore": "100m from Mackerel Beach",
       "marine_protected_area": true,
       "permit_required": true,
-      "marine_life": "squid, cuttlefish, rays, fish species",
+      "marine_life": "red bait (ascidians), coralline algae, bryozoans, nudibranchs",
       "access": "shore entry from Mackerel Beach",
-      "seamark:type": "wreck"
+      "notes": "Previous description said 'great white sharks have been sighted on several occasions' — NOT confirmed as specific to this site; great whites also absent from False Bay since ~2018. Statement removed. Previous description said 'squid, cuttlefish, rays, fish species' — these are not confirmed at this specific site by reviewed sources.",
+      "seamark:type": "wreck",
+      "last_qa_date": "2026-05-20"
     }
   }
 ]

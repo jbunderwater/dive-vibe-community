@@ -61,4 +61,4 @@ The step terrace topography creates compelling layered compositions — shooting
 - Best combined with Alice in Wonderland for a full Ginger Island two-tank day
 
 ---
-*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*

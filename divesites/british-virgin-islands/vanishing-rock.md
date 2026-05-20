@@ -25,7 +25,7 @@ The site sits about 20 minutes by boat from Road Town and is considerably less c
 
 - **Location**: Eastern side of Salt Island, passage between Salt and Cooper Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 20–30 meters
@@ -66,4 +66,4 @@ The pillar coral formations are the standout subjects — wide-angle works well 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/vanishing-rock/), [BVI Diving](https://www.bvidiving.com/diving-vanishing-rock-bvi.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/vanishing-rock/), [BVI Diving](https://www.bvidiving.com/diving-vanishing-rock-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

@@ -5,17 +5,21 @@
     "lon": -81.3828514,
     "osm_id": 5801869438,
     "osm_type": "node",
-    "depth": 28,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Cali Ship Wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Depth corrected from 28m to 9m — wreck lies in 2.7–9m. Length discrepancy noted (206ft vs 220ft) across sources; origin of rice cargo route not confirmed. Previous depth of 28m was incorrect."
     },
     "validated": true,
-    "validation_source": "PADI, Red Sail Sports, TheDiveDirectory"
+    "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com"
   },
   {
     "name": "USS Kittiwake Shipwreck",
@@ -37,10 +41,14 @@
       "wikipedia": "en:USS Kittiwake (ASR-13)",
       "wreck:date_sunk": "05-01-2011",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Challenger recovery corrected: ship recovered flight data recorder (not black box). Tropical Storm Nate (October 2017) confirmed as cause of port-side tipping. Length 251ft, displacement 1780 tons confirmed. Caribbean reef sharks and nurse sharks removed as site-specific residents — not confirmed in site-level sources."
     },
     "validated": true,
-    "validation_source": "Red Sail Sports, Cayman Turtle Divers, TripAdvisor"
+    "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com"
   },
   {
     "name": "Stingray City",
@@ -48,16 +56,20 @@
     "lon": -81.3167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Population corrected to ~100 individuals (not 20-50 on busy days). Species corrected to Hypanus americanus (southern stingray). Depth corrected from 12m to 5m — the sandbar is 4-5m depth."
     },
     "validated": true,
-    "validation_source": "Cayman Turtle Divers, Ambassador Divers, Red Sail Sports"
+    "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com"
   },
   {
     "name": "Bloody Bay Wall",
@@ -71,10 +83,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Wall start depth corrected to approximately 5-6m (not 4m). Wall is 1 mile long with 12+ named sites. Marine life claims tightened — Nassau grouper specifically confirmed as habituated to divers."
     },
     "validated": true,
-    "validation_source": "TripAdvisor, Little Cayman Divers, DiveBuddy"
+    "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com"
   },
   {
     "name": "Devil's Grotto",
@@ -82,16 +98,20 @@
     "lon": -81.3833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "padi.com,travel.usnews.com,insidescuba.online",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Depth corrected from 12m to 15m. Location confirmed as adjacent to Eden Rock Diving Center, George Town. Silverside season confirmed as August-September. Marine life description expanded and sourced — turtles and angelfish moved to surrounding reef context, not confirmed as grotto interior residents."
     },
     "validated": true,
-    "validation_source": "PADI, Zentacle, TripAdvisor"
+    "validation_source": "padi.com,travel.usnews.com,insidescuba.online"
   },
   {
     "name": "Babylon Grand Cayman",
@@ -105,15 +125,19 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "oceanfrontiers.com,tortugadivers.com,padi.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Pinnacle top confirmed at ~14m (45ft), base extends to 30m+ with plate coral. Ocean Frontiers confirms as top-10 Caribbean dive. Site description corrected — Eagle rays and reef sharks removed as specific residents (not confirmed at site-level). Chromis, barracuda, stoplight parrotfish, queen angelfish confirmed by Ocean Frontiers."
     },
     "validated": true,
-    "validation_source": "Ocean Frontiers, PADI, Zentacle, TripAdvisor"
+    "validation_source": "oceanfrontiers.com,tortugadivers.com,padi.com"
   },
   {
     "name": "Ghost Mountain",
-    "lat": 19.7083,
-    "lon": -80.075,
+    "lat": 19.402,
+    "lon": -81.386,
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
@@ -122,10 +146,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "redsailcayman.com,divespot.app,scubadivingresource.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "CRITICAL CORRECTION: Previous coordinates (19.7083, -80.075) placed this site near Little Cayman — WRONG. Ghost Mountain is on Grand Cayman's North Wall, West Bay area. Confirmed coordinates approximately N19°24.138'/W81°23.141' (19.402, -81.386). Previous description referencing 'Little Cayman', 'Bloody Bay Wall', and 'Jackson Bight' was entirely wrong. Pinnacle top at ~15m (50ft). Marine life replaced with confirmed sponge/gorgonian description; eagle rays/sharks removed as unconfirmed site-specific claims."
     },
     "validated": true,
-    "validation_source": "DiveSSi, Dive Red Sail Cayman"
+    "validation_source": "redsailcayman.com,divespot.app,scubadivingresource.com"
   },
   {
     "name": "Orange Canyon",
@@ -133,16 +161,20 @@
     "lon": -81.4417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Depth corrected from 25m to 30m (canyon exits wall at ~100ft/30m). Location corrected to Northwest Point (not generic 'West Side'). Difficulty noted as current-prone — can require Advanced conditions. Blacktip and Caribbean reef sharks confirmed as site-specific species by dive sources."
     },
     "validated": true,
-    "validation_source": "Dive Red Sail Cayman, dive operators"
+    "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com"
   },
   {
     "name": "Balboa Wreck",
@@ -150,16 +182,20 @@
     "lon": -81.3667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 32,
+    "depth": 10,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "redsailcayman.com,tortugadivers.com,numa.net",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "CRITICAL CORRECTION: Depth corrected from 32m to 10m — wreck debris lies in 8-10m, NOT 32 meters. Dynamiting date confirmed as 1957 (not vague 'subsequently'). Sinking date confirmed as 1932 hurricane. Good night dive per local operators. Propeller claim retained but qualified as needing local operator confirmation."
     },
     "validated": true,
-    "validation_source": "TripAdvisor, Red Sail Sports, DiveBuddy"
+    "validation_source": "redsailcayman.com,tortugadivers.com,numa.net"
   },
   {
     "name": "Chinese Wall",
@@ -173,10 +209,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "false",
+      "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,ambassadordivers.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Site-specific sources not found for Chinese Wall specifically. Description based on South Side wall characteristics. Validated=false because 3 independent site-specific sources could not be confirmed. Marine life updated to reflect regional South Side characteristics only."
     },
-    "validated": true,
-    "validation_source": "Ambassador Divers, Cayman Turtle Divers"
+    "validated": false,
+    "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,ambassadordivers.com"
   },
   {
     "name": "Eagle Ray Pass",
@@ -184,16 +224,20 @@
     "lon": -81.4083,
     "osm_id": null,
     "osm_type": null,
-    "depth": 36,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Depth corrected from 36m to 30m (pass exits at ~100ft/30m). Location confirmed as North Wall (45 min from West Side via North Sound). Spotted eagle rays, grouper at cleaning stations, lobster, stingrays on sand chutes, moray eels confirmed as site-specific. Caribbean reef sharks not confirmed as regular Eagle Ray Pass residents."
     },
     "validated": true,
-    "validation_source": "TripAdvisor, DiveSSi, Ambassador Divers"
+    "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com"
   },
   {
     "name": "Japanese Garden Grand Cayman",
@@ -207,10 +251,14 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "false",
+      "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,zubludiving.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Site-specific sources not found for Japanese Garden specifically beyond general references to South Side shallow reef. Validated=false — 3 independent site-specific sources not confirmed. Marine life replaced with regional South Side reef description; specific species claims removed."
     },
-    "validated": true,
-    "validation_source": "Captain Marvin's, Red Sail Sports"
+    "validated": false,
+    "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,zubludiving.com"
   },
   {
     "name": "Doc Poulson Wreck",
@@ -224,10 +272,14 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Named after Dr. James 'Jimmie' Poulson — Grand Cayman's first diving doctor who set up the hyperbaric chamber. Vessel is Japanese cable-laying ship, ~70-80ft long. Sunk 1981 or 1982 (sources differ). First artificial reef in Grand Cayman. Eagle rays, nurse sharks, turtles removed as unconfirmed site-specific residents. Parrotfish and schooling fish confirmed."
     },
     "validated": true,
-    "validation_source": "Ambassador Divers, Red Sail Sports, DreamWrecks"
+    "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com"
   },
   {
     "name": "Keith Tibbetts Wreck Cayman Brac",
@@ -235,16 +287,20 @@
     "lon": -79.8,
     "osm_id": null,
     "osm_type": null,
-    "depth": 50,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "dreamwrecks.com,scubadiverlife.com,freedomtourtravel.com,caymancompass.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "CRITICAL CORRECTION: Depth corrected from 50m to 26m (stern at ~85ft). Previous claim of 50m depth was incorrect. Ship is Koni II class (not generic 'Soviet frigate'). Hurricane Ivan (not generic '2004 storm') broke it in two. Named after Captain Keith Parker Tibbetts — Cayman Brac's first National Hero (seafarer, businessman, Legislative Assembly member). Marine life: Nassau grouper and snappers confirmed; former resident Goliath groupers (Boris and Doris) noted as not recently sighted. Eagle rays/turtles qualified as regional."
     },
     "validated": true,
-    "validation_source": "DreamWrecks, Explore Cayman, TripAdvisor, Vedauwoo"
+    "validation_source": "dreamwrecks.com,scubadiverlife.com,freedomtourtravel.com,caymancompass.com"
   },
   {
     "name": "Trinity Caves",
@@ -258,10 +314,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Three converging coral canyons on West Wall confirmed. Site is NOT true caves — coral canyon swim-throughs with natural light throughout. The Firm (1993) film connection confirmed. Marine life: tarpon, barracuda at exits, spotted lobster, silversides (seasonal), reef fish confirmed. Nurse sharks in canyon bases qualified as occasional."
     },
     "validated": true,
-    "validation_source": "DiveSSi, DramWrecks, Dive Red Sail Cayman"
+    "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com"
   },
   {
     "name": "Mixing Bowl Little Cayman",
@@ -275,9 +335,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,cita.ky",
+      "last_qa_date": "2026-05-20",
+      "qa_notes": "Also known as Three Fathom Wall. Starts at approximately 18ft (5.5m). Junction of Bloody Bay Wall and Jackson Bight confirmed. Marine life: Caribbean reef sharks, nurse sharks, horse-eye jacks, sea turtles, yellow-headed jawfish, Bermuda chubs, eagle rays, groupers, snappers all confirmed by Little Cayman Divers site-specific accounts."
     },
     "validated": true,
-    "validation_source": "TripAdvisor, Dive Red Sail Cayman"
+    "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,cita.ky"
   }
 ]

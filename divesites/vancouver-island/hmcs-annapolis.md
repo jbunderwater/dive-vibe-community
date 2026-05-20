@@ -2,7 +2,7 @@
 name: HMCS Annapolis
 lat: 49.6333
 lng: -124.05
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 33
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ HMCS Annapolis was commissioned in 1964 as the most modern of Canada's naval shi
 - **Location**: Halkett Bay Marine Park, off Gambier Island (20 minutes by boat from Vancouver area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 5-15 meters
 - **Current**: Generally manageable
@@ -72,4 +72,4 @@ The wreck provides dramatic wide-angle subjects with excellent photo opportuniti
 - **Validation Source**: Web research (2026-03)
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Annapolis (DDH 265)](https://en.wikipedia.org/wiki/HMCS_Annapolis_(DDH_265)), [ARSBC — HMCS Annapolis](https://artificialreefsocietybc.ca/), [X-Ray Mag — HMCS Annapolis](https://xray-mag.com/content/vancouvers-first-major-artificial-reef-hmcs-annapolis), [CBC News — HMCS Annapolis sunk](https://www.cbc.ca/news/canada/british-columbia/hmcs-annapolis-sunk-to-make-artificial-reef-1.3021329). Last updated 2026-05-20.*

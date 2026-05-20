@@ -63,4 +63,4 @@ The sponge and coral-encrusted rocky formations make excellent wide-angle subjec
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/west-seal-dog/), [BVI Diving](https://www.bvidiving.com/diving-seal-dogs-bvi.html). Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/west-seal-dog/), [BVI Diving](https://www.bvidiving.com/diving-seal-dogs-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*

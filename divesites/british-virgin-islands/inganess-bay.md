@@ -17,7 +17,7 @@ A 136-foot steel inter-island freighter deliberately sunk in 1996 by the BVI Div
 
 ## Overview
 
-The Inganess Bay was a steel-hulled inter-island cargo freighter that plied Caribbean trade routes between Puerto Rico and Trinidad. Built in Holland in 1950, the vessel was later sold to Captain Cosmos Sealey in 1988 and continued working Caribbean routes until 1996, when it ran aground near The Moorings charter yacht base after a storm snapped its anchor cable. Rather than salvage the damaged ship, the BVI Dive Operators Association deliberately sank it in August 1996 to create an artificial reef dive site. The wreck rests upright and flat on the sandy bottom south of Cooper Island. The mastheads are visible from the surface at around 14 meters (45 feet), with the wreck bottom at approximately 29 meters (95 feet). Before sinking, crews removed the main engine, fuel tanks, loose wood, and most doors, making the structure relatively safe for exploration. The hull is now encrusted with corals and colorful sponges, and some windows still retain their glass panes.
+The Inganess Bay was a steel-hulled inter-island cargo freighter that plied Caribbean trade routes between Puerto Rico and Trinidad. Built in Holland in 1950 for a Scottish company (per bvidiving.com), the vessel was sold to Captain Cosmos Sealey in 1988 and continued working Caribbean routes. In 1996 the ship was damaged — some sources cite grounding at The Moorings charter yacht base after a storm snapped its anchor cable, while BVI Wreck Week attributes the damage to Hurricane Bertha in July 1996; the two accounts may describe the same event. Rather than salvage the damaged ship, the BVI Dive Operators Association deliberately sank it in August 1996 to create an artificial reef dive site. The wreck rests upright and flat on the sandy bottom south of Cooper Island. The mastheads are visible from the surface at around 14 meters (45 feet), with the wreck bottom at approximately 29 meters (95 feet). Before sinking, crews removed the main engine, fuel tanks, loose wood, and most doors, making the structure relatively safe for exploration. The hull is now encrusted with corals and colorful sponges, and some windows still retain their glass panes.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ The upright orientation of the wreck allows dramatic exterior wide-angle shots f
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/). Last updated 2026-04-11.*
+*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/), [BVI Wreck Week – Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Scuba](https://bviscuba.org/destinations/wreck-alley/). Last updated 2026-05-20.*

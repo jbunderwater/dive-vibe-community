@@ -17,7 +17,7 @@ One of the Caribbean's most celebrated wall dives — a coral-encrusted drop-off
 
 ## Overview
 
-Bloody Bay Wall is widely regarded as one of the finest wall dives in the Caribbean and one of the great dive experiences worldwide. Located on the North Shore of Little Cayman — the smallest and most remote of the three Cayman Islands — the wall begins in an extraordinary 4 meters of water and falls almost vertically for 6,000 feet into the Cayman Trench. The upper reef above the wall is blanketed with sea fans, sea plumes, hard corals, and encrusting sponges in exceptional health, preserved by the very light dive traffic that Little Cayman's small tourism infrastructure allows. Bloody Bay Wall Marine Park is protected, with mooring buoys installed to prevent anchor damage. The sheer visual drama of hovering at the edge where the reef shelf ends and the infinite blue begins makes this a dive that defines the meaning of "wall diving."
+Bloody Bay Wall is widely regarded as one of the finest wall dives in the Caribbean and one of the great dive experiences worldwide. Located on the North Shore of Little Cayman — the smallest and most remote of the three Cayman Islands — the wall begins at approximately 5–6 meters (18 feet) of water and falls almost vertically for over 6,000 feet into the Cayman Trench. The one-mile long wall hosts over a dozen individually named dive sites along its length. The upper reef above the wall is blanketed with sea fans, sea plumes, hard corals, and encrusting sponges in exceptional health, preserved by the very light dive traffic that Little Cayman's small tourism infrastructure allows. Bloody Bay Marine Park is protected, with mooring buoys installed to prevent anchor damage. The sheer visual drama of hovering at the edge where the reef shelf ends and the infinite blue begins makes this a dive that defines the meaning of "wall diving."
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Bloody Bay Wall is widely regarded as one of the finest wall dives in the Caribb
 
 ## Marine Life
 
-Bloody Bay Wall consistently impresses with its diversity and abundance. Caribbean reef sharks patrol the wall face regularly. Eagle rays and spotted eagle rays cruise along the drop-off. Nassau grouper, large barracuda, and schools of creole wrasse populate the reef edge. Turtles are very common — Little Cayman has one of the Caribbean's best turtle populations. The upper reef shelf supports French and gray angelfish, queen triggerfish, and queen parrotfish. Deep sponges in vivid orange and purple colors decorate the wall face.
+Bloody Bay Wall consistently impresses with its diversity and abundance. Nassau grouper are specifically documented as conspicuous residents well habituated to divers. Caribbean reef sharks, eagle rays, barracuda, and turtles are all confirmed for the Bloody Bay Marine Park area by multiple sources. Schools of chromis, snappers, and grunts populate the upper reef. The wall face carries dense sponge growth — orange, purple, and yellow — and large sea fans on the vertical surfaces. Specific site-level marine life accounts confirm reef sharks and eagle rays are seen along the wall regularly, though exact frequency at any single mooring varies.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The dramatic visual experience of the wall edge can distract divers from depth m
 Bloody Bay Wall is arguably the Caribbean's most photographic wall dive. Wide-angle compositions of the reef edge with divers against the blue abyss capture the scale of the environment. Shark and eagle ray encounters along the wall face are compelling wide-angle subjects. The colorful upper reef sea fans and sponges reward close-focus work with a strobe. Early morning dives when the sun is low create dramatic light angles on the wall face.
 
 ---
-*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*
+*Sources: [Little Cayman Divers – Dive Sites and Map](https://www.littlecaymandivers.com/little-cayman-dive-sites-and-map), [Explore Cayman – Bloody Bay Wall](https://www.explorecayman.com/bloody-bay-wall), [Atlas Obscura – Bloody Bay Coral Wall](https://www.atlasobscura.com/places/bloody-bay-coral-wall). Last updated 2026-05-20.*
