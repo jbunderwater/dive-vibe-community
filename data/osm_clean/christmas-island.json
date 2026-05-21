@@ -5,16 +5,17 @@
     "lon": 105.6904,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 22,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet + arrivalguides.com (embedded coords)",
-      "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,diveplanit.com,nigelmarshphotography.com",
+      "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -23,16 +24,17 @@
     "lon": 105.6731,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet",
-      "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,diveplanit.com,nigelmarshphotography.com",
+      "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -41,16 +43,17 @@
     "lon": 105.7085,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,australiantraveller.com,diveplanit.com",
+      "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -59,16 +62,17 @@
     "lon": 105.7023,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 5,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + dive operator sources",
-      "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north"
+      "validated": "false",
+      "validation_note": "The Grotto is a mixed freshwater/saltwater swimming cave connected to the ocean by an underwater tunnel; it is primarily a swimming and snorkelling site, not a recognised scuba dive site. No dive operator lists it as a dive site. Previous description was fabricated. Cannot validate as a scuba dive site without a confirming dive operator source.",
+      "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -80,13 +84,14 @@
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + dive operator sources",
-      "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,divessi.com,scubadiverlife.com",
+      "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west; confirmed southwestern corner of island by multiple sources",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -95,16 +100,17 @@
     "lon": 105.5795,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "cave",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,diveplanit.com,arrivalguides.com",
+      "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest; beach confirmed on north coast of island",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -120,9 +126,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet",
-      "coordinate_source": "diveplanit describes as 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point"
+      "validated": "true",
+      "validation_source": "extradivers.com.au,diveplanit.com,xray-mag.com",
+      "coordinate_source": "diveplanit confirms 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point",
+      "last_qa_date": "2026-05-21"
     }
   },
   {
@@ -133,14 +140,15 @@
     "osm_type": null,
     "depth": 15,
     "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east"
+      "validated": "true",
+      "validation_source": "arrivalguides.com,australiantraveller.com,evendo.com",
+      "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east",
+      "last_qa_date": "2026-05-21"
     }
   }
 ]

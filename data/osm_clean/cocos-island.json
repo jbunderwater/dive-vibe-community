@@ -11,10 +11,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "zubludiving.com, dive-the-world.com, aqua-firma.com, scubadivingearth.com"
+    "validation_source": "visitcocosisland.com,dan.org,dive-the-world.com,scubadivingearth.com,aqua-firma.com,scubaboard.com"
   },
   {
     "name": "Dirty Rock",
@@ -28,10 +29,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "visitcocosisland.com, zubludiving.com, scubadivingearth.com, dive-the-world.com"
+    "validation_source": "dan.org,dive-the-world.com,scubadivingearth.com,aqua-firma.com,media.costarica.com,scubaboard.com"
   },
   {
     "name": "Manuelita Outside",
@@ -45,10 +47,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "zubludiving.com, dan.org, scubadivingearth.com, aqua-firma.com"
+    "validation_source": "visitcocosisland.com,dan.org,dive-the-world.com,scubadivingearth.com,media.costarica.com,scubadiverlife.com"
   },
   {
     "name": "Manuelita Inside",
@@ -62,10 +65,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "dan.org, scubadivingearth.com, aqua-firma.com, liveaboard.com"
+    "validation_source": "visitcocosisland.com,dan.org,world.dan.org,dive-the-world.com,scubadivingearth.com,scubaboard.com"
   },
   {
     "name": "Punta Maria",
@@ -79,10 +83,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "zubludiving.com, scubadivingearth.com, aqua-firma.com, dan.org"
+    "validation_source": "dan.org,dive-the-world.com,scubadivingearth.com,aqua-firma.com,scubaboard.com"
   },
   {
     "name": "Silverado",
@@ -96,10 +101,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "aqua-firma.com, media.costarica.com, scubadivingearth.com"
+    "validation_source": "dan.org,aqua-firma.com,media.costarica.com,scubadivingearth.com,underseahunter.com,seaturtles.org"
   },
   {
     "name": "Viking Rock",
@@ -113,10 +119,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "media.costarica.com, scubadivingearth.com, aqua-firma.com"
+    "validation_source": "media.costarica.com,scubadivingearth.com,aqua-firma.com,dive-the-world.com"
   },
   {
     "name": "Lobster Rock",
@@ -130,9 +137,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-21"
     },
     "validated": "true",
-    "validation_source": "zubludiving.com, dan.org, aqua-firma.com"
+    "validation_source": "aqua-firma.com,media.costarica.com,scubadivingearth.com,visitcocosisland.com,seaturtles.org"
   }
 ]

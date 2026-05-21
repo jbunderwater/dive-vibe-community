@@ -16,12 +16,12 @@ addedBy: osm_import
 The sheltered side of Manuelita Island, home to Cocos' only true coral reef and the legendary whitetip shark night dive
 
 ## Overview
-Manuelita Inside is the east-facing, sheltered side of Manuelita Island, tucked into Chatham Bay off the northeast corner of Cocos Island. It is one of the few locations at Cocos with actual hard coral reef formations, set along a gentle sand slope from 6 to 22 meters. The relatively calm conditions make this the standard first dive and check-out dive of any Cocos liveaboard trip. But Manuelita Inside is far more than a warm-up site. By day it delivers a mix of reef life and pelagic encounters rare for such a shallow, sheltered dive. By night, it transforms into one of the most extraordinary night dives in the world, as dozens of whitetip reef sharks hunt in the beams of divers' torches.
+Manuelita Inside is the east-facing, sheltered side of Manuelita Island, tucked into Chatham Bay off the northeast corner of Cocos Island. It is one of the few locations at Cocos with actual hard coral reef formations, set along a gentle sand slope from 6 to 22 meters. The relatively calm conditions make this the standard first dive and check-out dive of any Cocos liveaboard trip. But Manuelita Inside is far more than a warm-up site. By day it delivers a mix of reef life and pelagic encounters rare for such a shallow, sheltered dive. By night, it transforms into one of the most extraordinary night dives in the world, as hundreds of whitetip reef sharks hunt in the beams of divers' torches.
 
 ## Site Information
 - **Location**: East side of Manuelita Island, Chatham Bay, Cocos Island, Costa Rica
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-25 meters
@@ -29,7 +29,7 @@ Manuelita Inside is the east-facing, sheltered side of Manuelita Island, tucked 
 - **Best Time**: Year-round; night dives available throughout the season
 
 ## Marine Life
-Despite the sheltered setting, Manuelita Inside delivers genuine pelagic encounters alongside its reef residents. Schools of soldierfish cluster under coral overhangs. Lobsters, parrotfish, snappers, and goatfish populate the hard coral formations. Blacktip and whitetip reef sharks patrol the sand channels between coral heads. Marble rays rest on the sandy slope. Scalloped hammerhead sharks regularly pass through even in this calm environment. Tiger sharks — six or more are thought to patrol Cocos' reef areas — cruise the deeper sand slope. The night dive is the main event: whitetip reef sharks gather in large numbers and use divers' torch beams to hunt sleeping reef fish, creating a frenzied spectacle of sharks darting through the light in all directions.
+Despite the sheltered setting, Manuelita Inside delivers genuine pelagic encounters alongside its reef residents. Schools of bigscale soldierfish cluster under coral overhangs. Spiny lobsters, bluestripe snappers, yellow goatfish, and parrotfish populate the hard coral formations. Blacktip and whitetip reef sharks patrol the sand channels between coral heads. Marble rays rest on the sandy slope. Scalloped hammerhead sharks regularly pass through even in this calm environment. Tiger sharks — believed by local operators to number over a dozen individuals inhabiting the Manuelita islet area — cruise the deeper sand slope and are regularly sighted here. The night dive is the main event: hundreds of whitetip reef sharks gather and use divers' torch beams to hunt sleeping reef fish, creating a frenzied spectacle of sharks darting through the light in all directions.
 
 ## Dive Profile
 The site is a gradual sand and coral slope from approximately 6 meters near the island's base to 22 meters at the deeper sand flats. Daytime dives typically work along the coral formations at 10-18 meters, checking sand channels for resting rays and sharks. The shallow depth and gentle profile allow extended bottom times, especially on nitrox. Night dives follow the same terrain but focus on positioning torches to attract the whitetip hunting frenzy, typically at 12-18 meters on the sand slope.
@@ -39,16 +39,16 @@ Negative entry from the panga, though conditions here are far calmer than the ex
 
 ## Tips and Recommendations
 - Do not skip the night dive here — it is consistently rated as the highlight of Cocos trips by experienced divers
-- For the night dive, use a focused beam torch rather than a wide flood to concentrate the whitetip hunting activity
+- For the night dive, use a focused beam torch rather than a wide flood to concentrate the whitetip hunting activity; divemasters note that torchlight directly triggers hunting behavior
 - Keep your torch pointed at the reef substrate, not into open water, to draw sharks closer
-- Daytime visits are excellent for macro photography and a relaxed pace after demanding deep sites
-- This is the best site at Cocos to observe tiger sharks in relatively calm, shallow conditions
+- Daytime visits are excellent for a relaxed pace after demanding deep sites and for observing the coral garden reef life
+- Tiger sharks are regularly sighted on the deeper sand slope; this sheltered, shallower setting offers some of the best conditions at Cocos for calm observation of this species
 
 ## Safety Considerations
-This is the calmest and most sheltered dive site at Cocos Island, but it is still a remote liveaboard destination with no nearby recompression chamber. During night dives, the whitetip shark frenzy brings sharks into very close proximity with divers — maintain awareness of sharks approaching from behind and avoid sudden movements. Tiger sharks may appear on deeper portions of the slope; remain calm, maintain eye contact, and give them space. Even at this protected site, carry an SMB and signaling devices.
+This is the calmest and most sheltered dive site at Cocos Island, but it is still a remote liveaboard destination with no nearby recompression chamber. During night dives, the whitetip shark feeding frenzy brings sharks into very close proximity with divers — maintain awareness of sharks approaching from behind and avoid sudden movements. Tiger sharks are regularly sighted on the deeper portions of the slope; remain calm, maintain eye contact, and give them space. Even at this protected site, carry an SMB and signaling devices.
 
 ## Photography
 The night dive is the star attraction for photographers. Wide-angle with powerful strobes captures the chaos of whitetip sharks hunting through torch beams — fast shutter speeds (1/200+) are essential to freeze the action. Daytime offers both wide-angle reef scenes and macro opportunities among the coral formations. The shallow depth and good ambient light make this the best site at Cocos for natural light photography. Tiger shark portraits are possible for patient photographers on the deeper slope.
 
 ---
-*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*
+*Sources: [Visit Cocos Island - Manuelita](http://www.visitcocosisland.com/manuelita/), [DAN Alert Diver - Cocos Island Pelagic Crossroads](https://dan.org/alert-diver/article/cocos-island-the-pelagic-crossroads/), [DAN World - Cocos Island](https://world.dan.org/alert-diver/article/cocos-island/), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ScubaDivingEarth - Cocos Island](https://www.scubadivingearth.com/scuba-diving-in-cocos-island-the-best-cocos-islands-dive-sites/), [ScubaBoard Dec 2020 Trip Report](https://scubaboard.com/community/threads/diving-in-cocos-dec-2020-trip-report.603402/). Last updated 2026-05-21.*
