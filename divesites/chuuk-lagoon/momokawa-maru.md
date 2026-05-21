@@ -17,9 +17,9 @@ A 3,829-ton ice-strengthened timber transport with a dramatic 70-75 degree list 
 
 ## Overview
 
-The Momokawa Maru was a 3,829-ton vessel originally designed as an ice-strengthened timber transport, powered by a coal-fired steam turbine. On February 18, 1944, the second day of Operation Hailstone, she was struck by a 1,000-pound bomb that sent her to the lagoon floor at 41 meters. She now rests with a dramatic 70 to 75 degree list to port, making her one of the most severely tilted wrecks in Chuuk Lagoon.
+The Momokawa Maru was a 3,829-ton vessel built in 1940 by Kawasaki Dockyard, originally designed as a timber transport powered by a coal-fired steam turbine -- an unusual propulsion system among Chuuk's wrecks. She was approximately 107 meters long. On February 18, 1944, the second day of Operation Hailstone, aircraft from USS Bunker Hill struck her amidships with a 1,000-pound bomb, triggering a huge fire and explosion. She now rests with a dramatic 70 to 75 degree list to port, making her one of the most severely tilted wrecks in Chuuk Lagoon.
 
-The Momokawa Maru's holds contain an exceptional variety of military cargo. Aircraft tail sections, propeller blades, drop tanks, radial engines, trucks, and sheets of corrugated iron fill the cargo spaces. Hold 1, in particular, has been rated as comparable to the best holds on the celebrated Fujikawa Maru and San Francisco Maru -- high praise given the status of those two wrecks. The extreme list creates a challenging but rewarding diving environment, with interior spaces dramatically reoriented.
+The Momokawa Maru's holds contain an exceptional variety of military cargo. Aircraft tail sections, propeller blades, drop tanks, radial engines, trucks, and sheets of corrugated iron fill the cargo spaces. Hold 1, in particular, has been rated as comparable to the best holds on the celebrated Fujikawa Maru and San Francisco Maru -- high praise given the status of those two wrecks. The extreme list creates a challenging but rewarding diving environment, with interior spaces dramatically reoriented. The wreck was discovered in 1982 by Klaus Lindemann. Notable among the Momokawa Maru's features is what is reported to be the most intact bridge house of any wreck in Truk Lagoon, constructed of steel (unusual for the era) to minimize compass interference.
 
 ## Site Information
 
@@ -62,4 +62,4 @@ The Momokawa Maru is a war grave -- removing any artifacts is strictly illegal u
 The Momokawa Maru's extreme list creates dramatic photographic compositions unlike most other wrecks. The near-vertical decks and reoriented hold interiors produce disorienting, powerful images. The cargo in Hold 1 -- aircraft tail sections, propeller blades, drop tanks, radial engines -- provides rich subject matter that ranks with the best in Chuuk. Strobes are essential at 41 meters. The extreme angle means careful strobe positioning is needed to avoid backscatter from silt that collects on the now-horizontal port-side surfaces.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236). Last updated 2026-04-08.*
+*Sources: [SS Thorfinn - Momokawa Maru](https://thorfinn.net/momokawa-maru/), [Dirty Dozen Expeditions - Underrated Truk Wrecks](https://thedirtydozenexpeditions.com/blog/five-underrated-wrecks-truk-lagoon), [truk-lagoon.com - Momokawa History](https://www.truk-lagoon.com/Momokawa_History.html), [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236). Last updated 2026-05-21.*

@@ -62,4 +62,4 @@ The Hanakawa Maru's primary safety consideration is its remoteness -- approximat
 The Hanakawa Maru's outstanding marine life growth makes it one of Chuuk's best wrecks for combining wreck and reef photography. The coral-encrusted hull and superstructure provide vibrant foreground subjects against blue water backgrounds. The 12cm Navy Short Gun at the stern, framed by coral growth, is an iconic subject. The drums of aviation fuel in the holds create evocative cargo compositions. At 34 meters, ambient light is moderate -- strobes significantly enhance color and detail.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=230). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=230), [trukwreckdiving.com - Hanakawa Maru](http://trukwreckdiving.com/index.php/wreck-site-map/1-10/10-hanakawa-maru), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/what-happened-at-truk-lagoon-truk-lagoon-wrecks-and-diving). Last updated 2026-05-21.*

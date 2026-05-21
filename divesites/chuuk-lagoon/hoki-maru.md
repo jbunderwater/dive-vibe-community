@@ -17,9 +17,9 @@ The "Bulldozer Wreck" -- a 137.5-meter Scottish-built cargo ship whose holds are
 
 ## Overview
 
-The Hoki Maru began life as MV Hauraki, built in Scotland in 1921. At 7,113 tons and 137.5 meters long, she was a substantial cargo vessel requisitioned by the Japanese military for supply operations across the Pacific. During Operation Hailstone on February 17, 1944, she was struck and sank upright onto a sandy bottom, where she remains today at a maximum depth of 49 meters.
+The Hoki Maru began life as MV Hauraki, built in Dumbarton, Scotland by William Denny and Brothers Limited in 1921 for the Union Steamship Corporation of New Zealand. At 7,112 tons and approximately 136-137 meters long, she was a substantial cargo vessel -- the first motor ship in the USSCo fleet. She was captured by Japanese armed raiders in July 1942 and commissioned as Hoki Maru for Japanese military transport. During Operation Hailstone on February 17, 1944, bombers from USS Essex and USS Yorktown and torpedo planes from USS Bunker Hill hit the vessel, causing fires and explosions that sank her. She rests upright on a sandy bottom at a maximum depth of 49 meters.
 
-Known universally as the "Bulldozer Wreck," the Hoki Maru is famous for the extraordinary variety of military cargo preserved in her holds. Bulldozers, trucks, aircraft engines, depth charges, and artillery shells are all clearly identifiable after more than eight decades underwater. The wreck sits upright with the bridge at 25 meters, the bow at 36 meters, and the stern at 30 meters. Visibility is typically excellent, often exceeding 30 meters, providing clear views of the cargo that makes this one of the most photographed wrecks in Chuuk Lagoon.
+Known universally as the "Bulldozer Wreck" (or "Bulldozer Ship"), the Hoki Maru is famous for the extraordinary variety of military cargo preserved in her holds: two bulldozers, a diesel roller (steamroller), four Isuzu Type 94 trucks, two tractors, and a prime mover, along with bombs, ammunition, and other military supplies. The wreck sits upright with the bridge at approximately 25 meters, the bow at 36 meters, and the stern at 30 meters. Visibility is typically excellent, often exceeding 30 meters, providing clear views of the cargo that makes this one of the most photographed wrecks in Chuuk Lagoon.
 
 ## Site Information
 
@@ -38,7 +38,7 @@ The Hoki Maru's upright position and large deck area support extensive coral col
 
 ## Dive Profile
 
-The bridge at 25 meters is the shallowest significant structure and a good starting point for orientation. The holds are the main attraction -- bulldozers, trucks, and aircraft engines can be viewed from the hold openings or with careful entry. The cargo sits at various levels within the holds, with the deepest items approaching the 49-meter bottom. The stern at 30 meters and the bow at 36 meters bookend the wreck and offer additional exploration. An efficient dive plan focuses on the cargo-packed holds at their upper levels first, then works along the deck, saving the shallower bridge superstructure for the end of the dive to extend bottom time.
+The bridge at 25 meters is the shallowest significant structure and a good starting point for orientation. The holds are the main attraction -- the two bulldozers, diesel roller, trucks, and tractors can be viewed from the hold openings or with careful entry. The cargo sits at various levels within the holds, with the deepest items approaching the 49-meter bottom. The stern at 30 meters and the bow at 36 meters bookend the wreck and offer additional exploration. An efficient dive plan focuses on the cargo-packed holds at their upper levels first, then works along the deck, saving the shallower bridge superstructure for the end of the dive to extend bottom time.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Access is by dive boat from Weno-based operators, with a 20-40 minute ride. A pe
 
 ## Tips and Recommendations
 
-- The bulldozers in the holds are the signature feature -- ensure your dive plan allocates adequate time to see them
+- The two bulldozers and the diesel roller in the holds are the signature features -- ensure your dive plan allocates adequate time to see them
 - The holds are large and reasonably well-lit from above, but carry a torch to illuminate the deeper cargo details
 - At 25 meters, the bridge provides a useful shallower area for extending the dive after deeper hold excursions
 - Visibility is typically outstanding (30+ meters) -- wide-angle photography is highly rewarding here
@@ -59,7 +59,7 @@ The Hoki Maru is a war grave -- removing any artifacts is strictly illegal under
 
 ## Photography
 
-The Hoki Maru is one of Chuuk's most photogenic wrecks. The bulldozers, trucks, and aircraft engines in the holds are immediately recognizable subjects that tell a powerful historical story. The typically superb visibility (30+ meters) supports wide-angle compositions that capture the scale of both the wreck and its cargo. The bridge at 25 meters receives good ambient light for natural-light shots. Strobes bring out the colors of coral encrustation on the superstructure and the details of the military hardware in the holds. The variety of cargo means multiple dives can yield distinctly different photographic portfolios.
+The Hoki Maru is one of Chuuk's most photogenic wrecks. The bulldozers, diesel roller, trucks, and tractors in the holds are immediately recognizable subjects that tell a powerful historical story. The typically superb visibility (30+ meters) supports wide-angle compositions that capture the scale of both the wreck and its cargo. The bridge at 25 meters receives good ambient light for natural-light shots. Strobes bring out the colors of coral encrustation on the superstructure and the details of the military hardware in the holds. The variety of cargo means multiple dives can yield distinctly different photographic portfolios.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=232). Last updated 2026-04-08.*
+*Sources: [Argunners - Hoki Maru Truk Lagoon](https://www.argunners.com/hoki-maru-wreck-in-truk-lagoon/), [Master Liveaboards - Hoki Maru](https://masterliveaboards.com/the-wreck-of-the-hoki-maru-dive-in/), [Evolution Underwater - Hoki Maru](https://www.evolutionunderwater.com/hoki-maru--a-prize-of-war), [Submerged - Hoki Maru](https://www.submerged.co.uk/hoki/), [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=232). Last updated 2026-05-21.*

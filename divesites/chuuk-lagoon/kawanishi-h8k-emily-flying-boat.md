@@ -61,4 +61,4 @@ This is one of Chuuk's most straightforward dives. The shallow depth of 16 meter
 The Emily offers unique aircraft photography at a shallow, well-lit depth. The four separated sections and detached engines provide multiple distinct subjects. Wide-angle shots capturing a full wing section or engine against the blue water background work well with natural light at this depth. The inverted fuselage sections create interesting compositions with coral growth on what were originally the upper surfaces. Macro subjects include coral polyps, nudibranchs, and the small reef fish that shelter around the engine mounts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=225). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=225), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/what-happened-at-truk-lagoon-truk-lagoon-wrecks-and-diving), [Dirty Dozen Expeditions - Truk Lagoon](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-05-21.*

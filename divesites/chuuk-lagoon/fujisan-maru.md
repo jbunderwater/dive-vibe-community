@@ -62,4 +62,4 @@ The Fujisan Maru is a war grave -- removing any artifacts is strictly illegal un
 The Fujisan Maru's greatest photographic asset is its exceptional visibility. With 30+ meters of water clarity, wide-angle shots can capture substantial portions of the wreck in a single frame -- a rarity at this depth in many dive destinations. The bridge structure at 38 meters provides the most accessible and compositionally interesting subject. Powerful strobes are essential to restore color at depth, where ambient light is significantly reduced. The lack of other dive groups means clean compositions without stray bubbles or divers in the background.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=823). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=823), [Dirty Dozen Expeditions - Truk Wrecks above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/what-happened-at-truk-lagoon-truk-lagoon-wrecks-and-diving). Last updated 2026-05-21.*
