@@ -13,57 +13,57 @@ addedBy: osm_import
 
 ## Faro Reef
 
-Faro Reef (also called Punta Faro) is a scenic rocky reef dive site in Coiba National Park, featuring swim-through canyons, strong currents, and consistent shark activity.
+El Faro (the lighthouse) is one of Coiba's most consistently productive dive sites, located at the exposed western tip of Isla Canales de Afuera and known for reliable bull shark and oceanic blacktip encounters alongside strong variable currents.
 
 ## Overview
 
-Faro Reef is one of Coiba's premier reef dives, featuring rocky structures with hard coral gardens, gorgonians, and dramatic swim-through canyons. This is a current-rich site attracting plentiful pelagic activity, especially during the dry season upwelling (January-April). Located 1-1.5 hours by boat from Santa Catalina, this remote Pacific site demands Advanced-level diving skills and shark comfort. Water temperatures range from 24-29°C, with cooler thermoclines below 20 meters during peak upwelling season.
+The site takes its name from the lighthouse at the island's western point. Topography combines shallow sandy areas at either end — where the boat anchors in 4–5 meters — with a rocky reef that descends to around 30 meters along the exposed ocean-facing face. The deeper sections feature steep rocky walls and hard coral structures; the shallower zones offer a mix of encrusting sponges, small orange cup corals, green and yellow finger-sponges, and hard corals in the 5–10 meter range.
+
+Currents here can be strong. Trip reports note divers grabbing rocks to hold position; drift diving is common when flow is running. The current funnels plankton and baitfish past the site, which draws both the resident reef sharks and seasonal visitors such as manta rays and whale sharks.
+
+El Faro is roughly 1.5 hours by boat from Santa Catalina and is accessible on day trips as well as liveaboards.
 
 ## Site Information
 
-- **Location**: Western Coiba National Park, Panama
+- **Location**: Western tip of Isla Canales de Afuera, Coiba National Park, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Variable to strong
-- **Water Temperature**: 24-29°C (75-84°F)
-- **Best Time**: December-April (dry season, peak upwelling)
+- **Typical Visibility**: 15–25 meters (reduced during plankton-rich upwelling)
+- **Current**: Variable to strong; drift diving typical
+- **Water Temperature**: 24–29°C (thermoclines below 20m during upwelling season)
+- **Best Time**: December–April (peak bull shark and manta activity)
 
 ## Marine Life
 
-Faro Reef consistently hosts white-tip reef sharks and bull sharks. Plankton-rich waters draw occasional oceanic blacktip sharks and rays. Additional marine life includes garden eels, sea turtles, rainbow wrasse, razor surgeonfish, black-nosed butterflyfish, and diverse reef fish species. Gorgonians, hard corals, and sponge gardens provide excellent habitat.
+Panama Dive Center lists confirmed species at this site: bull sharks, oceanic blacktip sharks, large schools of bigeye jacks, Pacific dog snappers, barracuda, scorpionfish, octopus, seahorse, frogfish, and manta rays. Whale sharks visit seasonally when plankton is dense (December–April). Garden eels are common on the sandy entry sections. Whitetip reef sharks are also regularly seen patrolling the reef structure.
 
 ## Dive Profile
 
-Begin in shallow entry areas (6-8 meters) at the reef ends before descending into the rocky canyon systems and deeper reef structures. Dives typically explore depths from 15-30 meters along the sloping reef. Most abundant marine life concentrates between 10-25 meters. Plan for a steady descent and possible drift diving with the current. Maintain excellent buoyancy control to avoid damaging the delicate coral and gorgonian gardens.
+Anchor drops in shallow sand (4–5 meters). Descend along the reef edge and work deeper to the rocky wall sections at 15–25 meters. Explore crevices and overhangs where scorpionfish, octopus, and seahorses concentrate. Sharks typically patrol the mid-water column and over the reef top. If current is running, allow a natural drift along the reef face. Ascend via the reef structure back toward the shallow anchor zone; deploy SMB for final safety stop if drift has moved the group.
 
 ## Entry and Exit
 
-Access via liveaboard or day-boat operations from Santa Catalina. Boat entry with anchor in shallow sandy zone before descending. Drift diving is common; coordinate with boat crew for pickup location. Exit by ascending to safety stop depth and signaling boat for pickup with SMB.
+Giant stride or back roll from the boat into shallow water. Descent is along the reef edge or down a sand slope depending on current direction. Exit by ascending to the anchor line or surfacing upwind and signaling the boat with an SMB.
 
 ## Tips and Recommendations
 
-- Book only with experienced Coiba liveaboard or dive operators
-- Ensure Advanced certification minimum; experience with strong currents required
-- Bring enriched air (Nitrox) for deeper explorations and extended bottom time
-- Shark comfort is essential — expect regular encounters
-- Plan this dive early in a multi-day trip to acclimate to local conditions
-- Bring dive gloves for holding rocks in strong current if needed
+- Reef hooks are useful for holding position against strong current while observing shark activity
+- Plan for strong current from the first moment — descend quickly and get to the shelter of the reef
+- Wide-angle lens for sharks and manta rays; also worth carrying a macro lens for the abundant critters in shallow sections
+- Nitrox recommended to extend bottom time at 20–25 meters
+- This is often the primary bull shark site in Coiba's rotation — schedule it for an acclimated dive day
 
 ## Safety Considerations
 
-Variable currents can be moderate to strong; plan drift diving technique with crew. Cold thermoclines exist below 20 meters—bring adequate thermal protection. Strong plankton upwelling (January-April) reduces visibility but attracts pelagics. Always dive with a buddy and use SMB. Abide by crew briefing; conditions can deteriorate quickly. Advanced certification and solid buoyancy control are non-negotiable.
+Current can be unpredictable: the site is exposed to open Pacific swells and tidal flow simultaneously. Follow the crew briefing on current direction before entry. Cold thermoclines exist below 20 meters during the dry season upwelling. Shark presence is consistent — stay calm, move slowly, and do not corner animals against the reef.
 
 ## Seasonal Notes
 
-December-April brings dramatic plankton-rich upwelling creating colder deeper water (24°C) and attracting sharks, rays, and other pelagics. May-November offers warmer surface water but generally weaker pelagic activity. Site diveable year-round with proper experience and conditions assessment by local operators.
+December–April (dry season): Strongest currents and peak plankton upwelling. Best chances for manta rays, whale sharks, and peak bull shark activity. Surface seas can be rough in the mornings.
 
-- **Validation Source**: Perplexity research (March 2026)
-
----
-*Dive site information researched March 2026. Updated with field-verified pelagic and current data specific to Coiba's advanced diving environment.*
+May–November (rainy season): Warmer water (27–29°C), calmer surface conditions, reduced but still active shark presence.
 
 ---
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Island Trip Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-05-22.*

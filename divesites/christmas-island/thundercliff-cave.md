@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Thundercliff Cave
 
-Thundercliff Cave is a cave dive site in Christmas Island, Oceania.
+Thundercliff Cave is a two-chamber sea cave on Christmas Island's north coast, entered through a submerged opening at around 5–6 metres, with an air pocket inside that allows divers to surface within the cave.
 
 ## Overview
 
-Thundercliff Cave is a sea cave on Christmas Island's eastern coast formed by wave action cutting into the island's volcanic basalt cliffs, creating an imposing cavern entrance that can be entered at moderate swell conditions. Inside, shafts of natural light illuminate walls draped in sponges and encrusting organisms, with cave-dwelling shrimp, moray eels, and sleeping whitetip sharks occupying the darker recesses. The exposed eastern coast means the site requires a weather window with calm southeast trade conditions, but when the seas cooperate it offers a striking combination of geological drama and concentrated marine life rarely found together.
+Thundercliff Cave sits on the north coast of Christmas Island and comprises two interconnected caverns. The first chamber is a large, open space with a spectacular natural light show at the entrance as blue light filters through the submerged opening. A second cave beyond the first contains notable limestone formations, including stalactites and stalagmites and a distinctive hanging shroud formation. The outer reef beyond the cave entrance runs flat at around 12 metres before dropping away. Dive operators Extra Divers Christmas Island and Wet n Dry Adventures both run trips to this site.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Thundercliff Cave is a sea cave on Christmas Island's eastern coast formed by wa
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Extra Divers Christmas Island](https://www.extradivers.com.au/), [Extra Divers Christmas Island Dive Sites](https://www.extradivers.com.au/dive-sites), [Dive Christmas Island](https://divingchristmas.com/), [Parks Australia Christmas Island Scuba Diving](https://parksaustralia.gov.au/christmas/do/scuba/), [SSI Diving Christmas Island](https://www.divessi.com/en/blog/diving-christmas-island-galapagos-indian-ocean-10239.html). Last updated 2026-04-04.*
+*Sources: [DivePlanit – Thundercliff Cave](https://www.diveplanit.com/dive-site/thundercliff-cave/), [Scuba Diver Life – Christmas Island](https://scubadiverlife.com/scuba-diving-christmas-island/), [X-Ray Mag – Christmas Island](https://xray-mag.com/content/christmas-island-australias-own-galapagos). Last updated 2026-05-22.*

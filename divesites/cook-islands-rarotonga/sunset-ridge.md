@@ -3,7 +3,7 @@ name: Sunset Ridge
 lat: -21.22
 lng: -159.84
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,47 +13,49 @@ addedBy: osm_import
 
 # Sunset Ridge
 
-A ridge running parallel to shore near Sunset Resort and Black Rock on Rarotonga's west side. Anchor at 7 meters, gully at 12 meters, ridges dropping to 25 meters. Similar marine life to other west-side sites. Ten minutes from harbour.
+A volcanic rock ridge running parallel to shore near the Sunset Resort and Black Rock on Rarotonga's west side. Anchor at 7 meters, gully at 12 meters, ridges extending to 25 meters. One of the few rocky outcrops on this stretch of coastline. Ten minutes from harbour.
 
 ## Overview
 
-Sunset Ridge is located on Rarotonga's west side near the Sunset Resort and the Black Rock landmark, approximately ten minutes from Avatui Harbour. A volcanic rock ridge runs parallel to the shore, with the boat anchor at approximately 7 meters, a gully at 12 meters, and the ridges extending to a maximum depth of 25 meters.
+Sunset Ridge is located on the west side of Rarotonga, near the Sunset Resort and the Black Rock landmark, approximately ten minutes from Avatiu Harbour. It is one of the few rocky outcrops along this section of Rarotonga's 34-kilometre coastline, which is otherwise predominantly flat reef. A volcanic rock ridge runs parallel to the shore, with the anchor set approximately 30 to 50 meters off the fringing reef.
 
-The site shares the same general character as the other west-side sites (Black Rock Chimneys, Black Rock Passage) -- volcanic rock ridges and gullies with moderate coral cover, Christmas tree worms, giant clams, and the typical west-side fish community in crystal-clear water. The shallow maximum depth and generally calm west-side conditions make this suitable for beginner divers.
+The underwater topography consists of a ridge and gully system from the anchor at 7 meters down through a gully at 12 meters to the outer ridge at 25 meters. Coral cover is approximately 15% with no sponges or gorgonians — consistent with the other west-coast sites in this area. The exceptional visibility (40+ meters) and calm west-side conditions are the site's primary assets.
+
+Note: the existing JSON listed depth as 30m; McFadyen's survey records the maximum depth at 25 meters.
 
 ## Site Information
 
-- **Location**: Near Sunset Resort/Black Rock, west side, Rarotonga, Cook Islands
+- **Location**: Near Sunset Resort, west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 40+ meters
-- **Water Temperature**: 24-27 degrees C
+- **Water Temperature**: 24-27°C
 - **Current**: Generally mild
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Similar to other west-side sites: Christmas tree worms, giant clams, barracuda, guineafowl pufferfish, butterflyfish, wrasses, and other reef fish. The ridge and gully system provides habitat throughout the depth range.
+Barracuda, bluefin trevally, guineafowl pufferfish, surgeonfish, threadfin and longnose butterflyfish, and Moorish idols are the typical species. Christmas tree worms (blue, yellow, and pink) and modest-sized giant clams are found along the ridges. Black sea cucumbers are abundant on the sandy patches. Fish populations are moderate, consistent with other west-coast sites.
 
 ## Dive Profile
 
-From the anchor at 7 meters, drop into the main gully at 12 meters and follow the ridge parallel to shore. The ridge extends to 25 meters at its deepest point. Explore the gully walls for invertebrates and the ridge surfaces for Christmas tree worms and giant clams. The shallow depth allows extended bottom time.
+From the anchor at 7 meters, descend into the main gully at 12 meters and follow the ridge parallel to shore out to 25 meters. The ridge orientation parallel to the coast provides straightforward navigation. The gully walls and ridge surfaces host the Christmas tree worms and clams. Shallow depths allow extended bottom times.
 
 ## Entry and Exit
 
-Access by dive boat from Avatui Harbour, approximately ten minutes to the site. Entry by giant stride into sheltered water.
+Access by dive boat from Avatiu Harbour, approximately ten minutes. Entry by giant stride into calm, sheltered water.
 
 ## Tips and Recommendations
 
-- Afternoon dives on the west side can have dramatic lighting as the sun lowers -- fitting for a site named "Sunset Ridge"
-- Similar marine life to Black Rock Chimneys but a different ridge orientation offers a fresh perspective
-- Good site for training dives due to the calm, shallow conditions
+- Afternoon dives on the west side can have excellent low-angle light, appropriate for a site named Sunset Ridge
+- Often combined with a second dive at nearby Black Rock Chimneys or Black Rock Passage
+- The calm, shallow conditions make this a reliable backup site when other conditions are unfavourable
 
 ## Safety Considerations
 
 A gentle site with minimal hazards. Currents are rarely significant. The 25-meter maximum depth is well within recreational limits.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=519), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*

@@ -62,4 +62,4 @@ This is one of Chuuk's most accessible wreck dives. The shallow depth of 15 mete
 The Betty Bomber is an outstanding photography subject at a forgiving depth. The nearly intact fuselage can be captured in a single wide-angle frame, and the abundant ambient light at 15 meters allows natural-light shooting that brings out the coral encrustation in full color. Interior shots through the fuselage with a diver silhouetted at the far opening are classic compositions. The separated engines make interesting standalone subjects. Macro opportunities include nudibranchs on the wing surfaces and coral polyps along the fuselage.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=224). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Betty Bomber](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=224), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-05-22.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Stairway to Heaven
 
-Stairway to Heaven is a wall dive site in Providencia Island, Caribbean.
+Stairway to Heaven is one of Providencia's most demanding and spectacular wall dives, featuring a sandy sloping channel, twin wall faces with three stair-step formations, enormous tube sponges, and an open cave at 52 metres.
 
 ## Overview
 
-Stairway to Heaven is one of Providencia's most dramatic wall dives, plunging to over 50 metres along the barrier reef that skirts the island's volcanic submarine flanks within the UNESCO Seaflower Biosphere Reserve. The wall is colonised by healthy black coral, sea fans, and encrusting sponges, with Caribbean reef sharks commonly patrolling the blue water at depth while turtles, eagle rays, and large grouper inhabit the shallower terraces. The site lives up to its name on clear days when the sunlight angles down through the water column and illuminates the wall in striking relief, rewarding experienced divers with one of the most visually spectacular dives in the Colombian Caribbean.
+Stairway to Heaven begins at around 24 metres where a sandy channel slopes toward a steep drop-off at 36 metres. Two wall faces descend from here, covered in colourful hard and soft corals and enormous tube sponges; the walls incorporate three distinct "step" formations in the stony coral that give the site its name. The drop-off continues to 52 metres, where a large open cave sits at the base. Strong currents can develop, limiting bottom time at the deepest sections; multiple sources describe this as one of the most challenging dives on Providencia, suitable for experienced divers only. The site lies within the UNESCO Seaflower Biosphere Reserve.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Stairway to Heaven is one of Providencia's most dramatic wall dives, plunging to
 
 ## Marine Life
 
-Caribbean reef sharks are a near-constant presence at depth along the wall, cruising alongside eagle rays and large grouper that inhabit the shallower terraces. The wall face is colonized by black coral, sea fans, and encrusting sponges that shelter moray eels and spiny lobster, while sea turtles pass regularly through the water column in the excellent visibility characteristic of Providencia.
+Macro critters and reef tropicals populate the shallower sections, while rays, sharks, and large sea turtles have been reported in the open water along the drop-off. The tube sponges and wall structure support a range of Caribbean reef species. Strong currents can bring pelagic visitors to the site.
 
 ---
-*Sources: Just Gotta Dive, ScubaDiving.com. Last updated 2026-03-16.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [ScubaBoard](https://scubaboard.com/community/threads/providencia-questions-our-first-real-diving-experience.316728/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-05-22.*

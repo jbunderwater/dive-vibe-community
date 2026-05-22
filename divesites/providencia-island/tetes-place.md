@@ -3,7 +3,7 @@ name: Tete's Place
 lat: 13.3281
 lng: -81.4116
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Tete's Place
 
-Tete's Place is a reef dive site in Providencia Island, Caribbean.
+Tete's Place is a very shallow coral shoal known as Providencia's "fishiest" dive site, with dense pillar coral formations and large schools of reef fish at just 7–9 metres depth.
 
 ## Overview
 
-Tete's Place is a coral shoal close to Providencia's shoreline at 7 to 18 metres, known for its patches of endangered pillar coral — a species rarely seen at this density elsewhere in the Caribbean — and for dense populations of schooling grunts, snappers, squirrelfish, and moray eels over a sandy and rocky bottom with seagrass sections. The site sits within the UNESCO Seaflower Biosphere Reserve and is one of the most popular dives on the island for divers of all levels, with the shallow depth and calm conditions making it equally appealing to snorkelers. Caribbean reef sharks are commonly seen on the outer edges, alongside sea turtles that graze the seagrass beds nearby.
+Tete's Place is a coralline shoal close to Providencia's shoreline at 7 to 9 metres, featuring a step-like descent over a sandy and rocky bottom with sections of seagrass and algae. The site is notable for its living stands of pillar coral — a species now considered functionally extinct in Florida but thriving here — along with octocorals and a high density of schooling fish. The shallow, calm conditions make it equally suitable for snorkelers and entry-level divers. It sits within the UNESCO Seaflower Biosphere Reserve.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 9 meters
 
 ## Marine Life
 
-Dense stands of endangered pillar coral shelter large schools of grunts, snappers, squirrelfish, and moray eels over the sandy and rocky bottom, while sea turtles graze the seagrass beds nearby. Caribbean reef sharks patrol the outer reef edges, and the shallow, calm conditions mean encounters with parrotfish and angelfish are constant throughout the dive.
+Dense stands of pillar coral and octocorals support large schools of Caesar grunts, snappers, and squirrelfish, with spotted moray eels occupying the reef crevices. Peacock flounder and yellow-spotted stingrays are reported on the sandy sections. The site is described by local operators as the "fishiest" dive on Providencia for sheer fish density.
 
 ---
-*Sources: ScubaDiving.com, DiveScover. Last updated 2026-03-16.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia). Last updated 2026-05-22.*

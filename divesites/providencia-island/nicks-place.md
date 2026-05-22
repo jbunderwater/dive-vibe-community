@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nick's Place
 
-Nick's Place is a wall dive site in Providencia Island, Caribbean.
+Nick's Place is a wall dive featuring a mellow edge at around 18 metres that drops sharply to 40+ metres, renowned for giant barrel sponges and large schools of Creole wrasse.
 
 ## Overview
 
-Nick's Place is a deep wall dive along Providencia's barrier reef dropping to 40 metres, where the volcanic island's underwater flanks descend into the open Caribbean within the UNESCO Seaflower Biosphere Reserve. The wall supports healthy Creole wrasse populations and large black grouper at depth, with parrotfish, eels, and moray eels in the shallower reef sections, and Caribbean reef sharks patrolling the blue beyond the wall face. Visibility in the warm 27 to 29 degree water can exceed 30 metres, and the site rewards advanced divers with the dramatic sense of scale characteristic of Providencia's finest barrier reef wall diving.
+Nick's Place involves drifting along the edge of the wall, which begins at roughly 18 metres before dropping to 40 metres with multiple ledges. The site is characterised by giant barrel sponges — some large enough to dwarf a diver — that grow along the wall face within the UNESCO Seaflower Biosphere Reserve. The wall also features Spiral/Sponge Valley characteristics in this area of the barrier reef. Diveadvisor records this site alongside "Spiral" and "Sponge Valley" as a cluster of related dive spots on the same section of barrier reef.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Nick's Place is a deep wall dive along Providencia's barrier reef dropping to 40
 
 ## Marine Life
 
-Caribbean reef sharks patrol the open blue along the wall edge while large black grouper hold at depth amid healthy Creole wrasse populations in the deeper sections. The shallower reef sections host parrotfish, moray eels, and angelfish, and sea turtles are regular visitors to the wall face in the exceptional warm, clear water of the Seaflower Biosphere Reserve.
+Large schools of Creole wrasse with large parrotfish and black grouper in the mix are the signature sighting along the drop. Moray eels occupy the ledges in the shallower sections. The enormous barrel sponges are a distinctive feature of this site.
 
 ---
-*Sources: Sport Diver, DiveScover. Last updated 2026-03-16.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-05-22.*

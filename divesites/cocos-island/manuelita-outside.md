@@ -16,7 +16,7 @@ addedBy: osm_import
 The exposed ocean-facing wall of Manuelita Island with three hammerhead cleaning stations and regular tiger shark sightings
 
 ## Overview
-Manuelita Outside is the western, ocean-facing side of Manuelita Island, a small islet off the northeast corner of Cocos Island. The site features steep boulder-strewn volcanic slopes dropping into deep water, with the northern section presenting a true vertical wall plunging to 50 meters and beyond. Three distinct hammerhead cleaning stations sit at 20-25 meters depth along the wall, making this one of the most reliable sites at Cocos for close hammerhead encounters. Since approximately 2008, tiger sharks have become regular visitors to this site, adding another layer of excitement to an already impressive dive.
+Manuelita Outside is the western, ocean-facing side of Manuelita Island, a small islet off the northeast corner of Cocos Island. The site features steep boulder-strewn volcanic slopes dropping into deep water, with the northern section presenting a true vertical wall plunging to 50 meters and beyond. Three distinct hammerhead cleaning stations sit at 20-25 meters depth along the wall, making this one of the most reliable sites at Cocos for close hammerhead encounters. Tiger sharks, which returned to Cocos Island in late 2008 after a decades-long absence, are regular visitors to this site, adding another layer of excitement to an already impressive dive.
 
 ## Site Information
 - **Location**: Western side of Manuelita Island, northeast Cocos Island, Costa Rica
@@ -26,7 +26,7 @@ Manuelita Outside is the western, ocean-facing side of Manuelita Island, a small
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters
 - **Current**: Moderate to strong, "washing machine" conditions at extreme north
-- **Best Time**: June to December for hammerheads; year-round for tiger sharks
+- **Best Time**: June to December for hammerheads; year-round for tiger sharks (present since late 2008)
 
 ## Marine Life
 Three hammerhead cleaning stations at 20-25 meters draw large schools of scalloped hammerheads that circle in predictable patterns. Tiger sharks have been sighted regularly since around 2008, often cruising the mid-water along the wall. Eagle rays pass in formation along the wall face. Galapagos sharks, manta rays, and whale sharks make appearances. Massive schools of bigeye jacks swirl in the current. The wall crevices hold whitetip reef sharks, moray eels, and lobsters. This is usually a drift dive, covering the length of the wall as current allows.
@@ -51,4 +51,4 @@ The exposed ocean-facing position creates strong and sometimes unpredictable cur
 Wide-angle is essential for the hammerhead schools at the cleaning stations. The vertical wall in the north provides dramatic depth perspective for ambient light shots. Tiger sharks offer exceptional photo opportunities if they approach closely. The drift dive format means securing camera gear for the entry and exit is important. Strobes help at the 20-25 meter cleaning station depth where ambient light diminishes.
 
 ---
-*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*
+*Sources: [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [DAN Alert Diver - Cocos Island: The Pelagic Crossroads](https://dan.org/alert-diver/article/cocos-island-the-pelagic-crossroads/), [Dive The World - Cocos Island Dive Sites](https://www.dive-the-world.com/diving-sites-cocos.php), [Aqua-Firma - Cocos Island Dive Sites](https://www.aqua-firma.com/cocos-dive-sites-island-alcyone-dirty-rock-amigos), [Costa Rica Star News - Tiger Sharks Return to Cocos Island](https://news.co.cr/cocos-island-costa-rica-welcomes-the-return-of-the-tiger-shark/17598/). Last updated 2026-05-22.*

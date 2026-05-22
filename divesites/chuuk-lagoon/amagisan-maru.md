@@ -61,4 +61,4 @@ The Amagisan Maru is a war grave -- removing any artifacts is strictly illegal u
 The exceptional visibility on the Amagisan Maru (30-40 meters) combined with the dramatic 45-50 degree list creates striking compositional opportunities. Wide-angle shots capturing the full angle of the wreck against blue water are particularly effective. The aircraft parts in the holds -- wings, propeller blades -- make compelling subjects with proper lighting. The depth limits ambient light considerably, so powerful strobes are essential to restore color and detail.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=223). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Amagisan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=223), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Additional independent sources to verify tonnage, builder, and sinking date were not located during this QA pass. Last updated 2026-05-22.*

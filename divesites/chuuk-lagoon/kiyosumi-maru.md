@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Kiyosumi Maru
 
-A 135-meter armed merchant cruiser with gun mounts still in place, torpedo damage visible along the hull, and an eclectic cargo including bicycles and airplane propellers.
+A large armed merchant cruiser lying on her port side, with gun mounts still in place, torpedo holes in the hull, and a cargo including bicycles and spare propeller blades.
 
 ## Overview
 
-The Kiyosumi Maru was a 135-meter, 8,613-ton cargo vessel built in 1934 by Kawasaki Dockyard in Kobe for Kawasaki Kisen (K-Line). Unlike most of the merchant vessels in Chuuk, the Kiyosumi Maru was converted into an armed merchant cruiser -- fitted with gun mounts, fire control equipment, and defensive armament. She served in combat operations across the Pacific before being assigned to supply duties at Truk. During Operation Hailstone on February 17, 1944, she was attacked by U.S. carrier aircraft. Torpedo hits along the hull caused fatal flooding, and she sank upright to the lagoon floor at 30 meters.
+The Kiyosumi Maru was a large passenger-cargo vessel built in 1934 by Kawasaki Dockyard in Kobe, originally operated by Kokusai Kisen Kabushiki Kaisha. Note: sources give conflicting dimensions -- tonnage figures range from approximately 8,613 to 8,614 tons, and length figures range from approximately 137 to 140 meters across different sources. She was requisitioned by the Imperial Japanese Navy in November 1941 and converted into an armed merchant cruiser -- fitted with gun mounts, fire control equipment, and defensive armament. She was already undergoing repairs at Truk when Operation Hailstone struck on February 17--18, 1944. Hit by U.S. dive bombers, she sank and now lies on her port side with the starboard hull at approximately 14--15 meters and the deepest point at 30 meters.
 
-The Kiyosumi Maru stands out among Chuuk's wrecks for her military conversion features. Gun mounts remain in position on deck, distinguishing her from the unarmed transports. The torpedo damage on the hull is clearly visible on the exterior, telling the story of her final moments. The holds contain an eclectic mix of cargo including bicycles, airplane propellers, spare parts, and general military supplies -- a fascinating time capsule of the logistics needed to sustain a massive naval base.
+The Kiyosumi Maru stands out among Chuuk's wrecks for her military conversion features. Gun turrets and anti-aircraft mounts remain in position, distinguishing her from the unarmed transports. Large torpedo holes are clearly visible in the hull at approximately 30 meters, telling the story of her final moments. The holds contain bicycles (parts of two bikes in Hold 5) and two massive spare propeller blades in Hold 6, along with shells and other military supplies -- a fascinating time capsule of Pacific War logistics.
 
 ## Site Information
 
@@ -40,11 +40,9 @@ Schools of batfish are a reliable presence around the bridge area. Jacks and tre
 
 ## Dive Profile
 
-Descend the mooring line to the deck at approximately 12-16 meters. The gun mounts are the defining exterior feature -- find them forward and aft on the deck, still mounted in position with their barrels intact. These are excellent for photography and immediately convey the ship's military role.
+The wreck lies on its port side, so the starboard hull faces upward at approximately 14--15 meters -- this is the entry point and shallowest accessible structure. The gun turrets and anti-aircraft mounts are visible on what was the deck, now facing to the side. Explore the port-side exterior at depth (approximately 25--30 meters) to see the large torpedo holes, which are among the most visible examples of battle damage on any Chuuk wreck.
 
-The bridge superstructure amidships is accessible and contains ship's fittings and navigation equipment. Move forward to explore the holds, where the airplane propellers are the most visually striking cargo item. Bicycles and various spare parts are scattered among the general supplies. The torpedo damage is visible on the port hull -- swim along the exterior at depth to see the blast holes, which provide a dramatic illustration of the force that sank the vessel.
-
-The 30-meter maximum depth and 12-16 meter deck give a comfortable profile. The wreck's 135-meter length allows coverage of the major features in a single dive, though a second dive permits more thorough exploration of the holds and stern section.
+The bridge superstructure amidships is accessible with ship's fittings and navigation equipment. The holds contain the most interesting cargo: Hold 5 has bicycle parts and Hold 6 contains two massive spare propeller blades. Anti-aircraft guns, gun turrets, and shells are distributed throughout. The side-lying orientation means interior navigation is more disorienting than on upright wrecks. The maximum depth of 30 meters at the lagoon floor makes this wreck accessible for experienced recreational divers.
 
 ## Entry and Exit
 
@@ -52,19 +50,20 @@ Boat dive from Weno-based operators, approximately 20-30 minutes to the site. A 
 
 ## Tips and Recommendations
 
-- Start at the gun mounts -- they are unique among Chuuk's commonly dived wrecks and set this vessel apart from the merchant fleet
-- Swim the exterior hull to view the torpedo damage; it is one of the most visible examples of battle damage on any Chuuk wreck
-- The airplane propellers in the holds are a highlight -- ask your guide for their exact location to save bottom time searching
-- Nitrox extends bottom time comfortably at the 12-16 meter deck level
+- Start at the gun turrets -- they are distinctive military hardware that sets this vessel apart from the unarmed merchant fleet
+- Swim the exterior port hull at depth to view the torpedo holes; among the most dramatic battle damage visible on any Chuuk wreck
+- The large propeller blades in Hold 6 are a highlight -- ask your guide for their exact location to save bottom time
+- The side-lying orientation requires mental spatial adjustment -- dive with a guide on first visits
+- Nitrox extends bottom time comfortably at the 14-15 meter starboard hull level
 - This wreck is less crowded than the Fujikawa Maru or Shinkoku Maru, making it a good choice when multiple boats are on the popular sites
 
 ## Safety Considerations
 
-The Kiyosumi Maru is a war grave and artifact removal is illegal under Chuuk State law. The gun mounts and military hardware should be observed but not climbed on or manipulated. The holds contain miscellaneous military cargo that must not be disturbed. Silt in the holds can reduce visibility rapidly -- maintain good buoyancy and trim. The torpedo damage areas may have weakened hull structure; approach for viewing but avoid entering the blast holes. Interior penetration beyond the open holds and bridge requires wreck certification and redundant lights. The 30-meter maximum depth is manageable for experienced recreational divers but demands standard gas management discipline.
+The Kiyosumi Maru is a war grave and artifact removal is illegal under Chuuk State law. The gun mounts and military hardware should be observed but not climbed on or manipulated. The holds contain miscellaneous military cargo that must not be disturbed. The side-lying orientation is the primary navigation hazard -- spaces are rotated 90 degrees from their original configuration, increasing disorientation risk in enclosed spaces. Silt in the holds can reduce visibility rapidly -- maintain good buoyancy and trim. The torpedo damage areas may have weakened hull structure; approach for viewing but avoid entering the blast holes. Interior penetration beyond the open holds and bridge requires wreck certification and redundant lights. The 30-meter maximum depth is manageable for experienced recreational divers but demands standard gas management discipline.
 
 ## Photography
 
-The gun mounts are the signature photographic subject -- wide-angle shots of the coral-encrusted guns with a diver for scale tell a powerful story. The torpedo damage on the hull provides dramatic wide-angle compositions showing the raw force of the attack. Inside the holds, the airplane propellers and bicycles make unusual still-life subjects -- use strobes to bring out detail in the darker lower holds. The bridge area offers good artifact close-ups. The coral growth on the masts at shallow depth allows natural-light wide-angle work. The wreck's manageable depth and good ambient light at deck level make exposure management straightforward.
+The gun turrets and anti-aircraft mounts are the signature photographic subjects -- wide-angle shots with a diver for scale tell a powerful story. The torpedo holes in the port hull provide dramatic wide-angle compositions showing raw battle damage. Inside the holds, the large propeller blades and bicycle remnants make unusual still-life subjects -- use strobes to bring out detail in the darker lower holds. The bridge area offers good artifact close-ups. The starboard hull at 14--15 meters receives good ambient light for natural-light wide-angle work. The side-lying orientation creates unusual compositional angles compared to upright wrecks.
 
 ---
-*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*
+*Sources: [Dive3D - Kiyosumi Maru](https://dive3d.eu/models/chuuk-lagoon-truk/kiyosumi-maru/), [Argunners - Kiyosumi Maru](https://www.argunners.com/kiyosumi-maru-shipwreck-in-truk-lagoon/), [TracesOfWar - Kiyosumi Maru](https://www.tracesofwar.com/sights/9132/Shipwreck-Kiyosumi-Maru.htm), [Pete LePage - Kiyosumi Maru](https://petelepage.com/scuba/sites/kiyosumi-maru/). Last updated 2026-05-22.*

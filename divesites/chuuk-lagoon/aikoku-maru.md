@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Aikoku Maru
 
-A 10,438-ton armed merchant cruiser whose catastrophic ammunition explosion on February 17, 1944 cleanly split the vessel in two -- one of the most dramatic and sobering wrecks in Chuuk Lagoon.
+A 10,438-ton armed merchant cruiser whose catastrophic ammunition explosion on February 17, 1944 obliterated the forward section and sent the ship to the bottom in two minutes -- one of the most dramatic and sobering wrecks in Chuuk Lagoon.
 
 ## Overview
 
-The Aikoku Maru was a 10,438-ton armed merchant cruiser operating within the Japanese Combined Fleet at Truk Lagoon. On February 17, 1944, during Operation Hailstone, a direct hit on the forward ammunition magazine triggered a catastrophic explosion that destroyed the entire forward section of the ship, cleanly splitting the vessel. The blast killed most of the crew instantly and was so violent that it was observed from miles away. The remaining stern section sank to the lagoon floor at 63 meters, where it rests today.
+The Aikoku Maru was a 10,438-ton (160.8 m / 527 ft) armed merchant cruiser completed August 31, 1941 by Mitsui Engineering & Shipbuilding at Tamano, Okayama. She was loading ammunition and preparing for departure to Rabaul when Operation Hailstone commenced on February 17, 1944. Aircraft from USS Intrepid struck first with bombs, one exploding in the officer's wardroom. A second attack delivered the fatal blow: a torpedo hit the No. 1 hold, detonating the ammunition aboard. The massive explosion killed approximately 945 of the crew and passengers -- mostly soldiers of the 1st Amphibious Brigade -- and the TBM Avenger crew that delivered the torpedo was also destroyed in the blast. The ship sank in two minutes. The bow was sheared completely off by the explosion; forward of a certain point there is nothing but sand.
 
-The wreck is dominated by the sheer scale of the destruction forward and the remarkably intact stern section aft. The stern gun remains in place at 48 meters, and twin anti-aircraft guns are still mounted in their positions. The funnel, largely intact, sits at approximately 27 meters. The bridge area is found at roughly 27 meters as well. The contrast between the obliterated bow and the preserved stern makes the Aikoku Maru a powerful and haunting dive.
+The stern section rests upright on the lagoon floor at approximately 62--64 meters. The stern gun remains on a large gun platform at 48 meters, and twin anti-aircraft guns are mounted on the upper deck corners. The funnel and bridge area are found at approximately 27 meters. The contrast between the obliterated forward section and the preserved stern makes the Aikoku Maru a powerful and haunting dive.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ The Aikoku Maru is a war grave containing the remains of hundreds of crew member
 The stern gun at 48 meters and the twin anti-aircraft mounts offer dramatic military hardware subjects for wide-angle photography, though the depth limits available light and bottom time for composition. The funnel area at 27 meters provides more accessible wide-angle opportunities with better ambient light. The contrast between the intact stern and the destroyed forward section tells a powerful visual story. Strobes are essential at depth to restore color.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=222). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Aikoku Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=222), [Wikipedia - Aikoku Maru (1940)](https://en.wikipedia.org/wiki/Aikoku_Maru_(1940)), [Dive3D - Aikoku Maru](https://dive3d.eu/models/chuuk-lagoon-truk/aikoku-maru/), [DivePlanIt - Aikoku Maru](https://www.diveplanit.com/truk/aikoku-maru-chuuk-wreck/). Last updated 2026-05-22.*

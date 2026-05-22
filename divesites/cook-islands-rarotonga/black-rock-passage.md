@@ -13,47 +13,47 @@ addedBy: osm_import
 
 # Black Rock Passage
 
-Adjacent to Black Rock Chimneys on Rarotonga's west side, featuring similar ridge-and-gully volcanic reef topography in shallow, beginner-friendly conditions. Same marine life community as the neighbouring Chimneys site.
+Adjacent to Black Rock Chimneys on Rarotonga's west side, between Dianas Ridge to the north and Black Rock Chimneys to the south. The same ridge-and-gully volcanic reef system, shallow depths to 25 meters, and similar marine life community.
 
 ## Overview
 
-Black Rock Passage sits adjacent to the Black Rock Chimneys site, just offshore from the prominent Black Rock (Tuoro) landmark on Rarotonga's west coast. The topography mirrors its neighbour -- a series of ridges and gullies running through the volcanic reef substrate from the shallows out to approximately 25 meters.
+Black Rock Passage sits on the west side of Rarotonga, positioned between Dianas Ridge to the north and Black Rock Chimneys to the south, just offshore from the airport runway area. The topography mirrors its neighbours — a series of volcanic rock ridges and gullies running through the fringing reef substrate from the shallows at 7 meters out to approximately 25 meters. The anchor drops 30 to 50 meters off the fringing reef at around 7 meters.
 
-The site shares the same marine life community and conditions as Black Rock Chimneys, making it an easy alternative or second dive in the same area. The west-side location is typically sheltered, with calm surface conditions and mild currents. The exceptional visibility (40+ meters) and shallow maximum depth make this another excellent choice for less experienced divers.
+Coral cover is approximately 15% — consistent with the west-coast sites — with no sponges or gorgonians. This is not an elaborate site, but the exceptional visibility (40+ meters) and reliable shallow conditions make it a functional dive for newer divers and a useful second dive when combined with nearby Black Rock Chimneys or Dianas Ridge.
 
 ## Site Information
 
-- **Location**: Off Black Rock (Tuoro), west side, Rarotonga, Cook Islands
+- **Location**: Off Black Rock area (between Dianas Ridge and Black Rock Chimneys), west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 40+ meters
-- **Water Temperature**: 24-27 degrees C
+- **Water Temperature**: 24-27°C
 - **Current**: Generally mild
 - **Best Time**: Year-round
 
 ## Marine Life
 
-The same community as adjacent Black Rock Chimneys: Christmas tree worms, giant clams, barracuda, guineafowl pufferfish, butterflyfish, and wrasses. The ridges and gullies provide habitats for small reef fish throughout the depth range.
+The same community as adjacent Black Rock Chimneys and Dianas Ridge: guineafowl pufferfish, barracuda, bluefin trevally, Christmas tree worms, giant clams, surgeonfish, threadfin and longnose butterflyfish, Moorish idols, and abundant black sea cucumbers. The ridge and gully system provides habitat throughout the depth range.
 
 ## Dive Profile
 
-Navigate through the ridge-and-gully system from shallower areas to the outer edge at 25 meters. The volcanic rock ridges provide natural orientation. The shallow depths allow extended bottom times and relaxed exploration.
+From the anchor at 7 meters, navigate down the ridges to 25 meters. The gully walls and ridge surfaces hold the same species mix as adjacent sites. The volcanic rock ridges provide natural orientation. Shallow depths allow extended bottom times and a relaxed exploration pace.
 
 ## Entry and Exit
 
-Access by dive boat from Avatui Harbour. Entry by giant stride.
+Access by dive boat from Avatiu Harbour, approximately eight minutes. Entry by giant stride. West-side conditions are generally calm.
 
 ## Tips and Recommendations
 
-- Often dived as a second dive after Black Rock Chimneys, covering different sections of the same reef system
-- The calm, shallow conditions make this an excellent site for underwater photography practice
-- The west side of the island typically has the calmest conditions
+- Often dived as a second dive paired with Dianas Ridge or Black Rock Chimneys
+- The calm, shallow conditions make this an appropriate site for certification dives and training
+- The exceptional visibility makes navigation easy even for divers new to the island
 
 ## Safety Considerations
 
-Minimal hazards at this gentle site. Currents are rarely significant. The 25-meter maximum depth keeps the dive well within recreational limits.
+Minimal hazards at this gentle site. Currents are rarely significant. The 25-meter maximum depth is well within recreational limits.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=515), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*

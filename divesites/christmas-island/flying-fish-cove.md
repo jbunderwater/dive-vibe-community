@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Flying Fish Cove
 
-Flying Fish Cove is a reef dive site in Christmas Island, Oceania.
+Flying Fish Cove is Christmas Island's main settlement bay and the island's most accessible dive, entered by shore from the boat ramp into coral gardens that descend to around 18 metres.
 
 ## Overview
 
-Flying Fish Cove is Christmas Island's main settlement and the island's most accessible dive site, with direct shore entry from the jetty area into a bay that descends over coral rubble and reef slopes to around 25 meters. Despite the port activity above, marine life here is surprisingly rich, with sea turtles, reef sharks, and large schools of trevally regularly seen at the edge of the bay's coral formations. The cave system known as The Grotto is also entered from this area, making Flying Fish Cove the base for much of the island's dive tourism.
+Flying Fish Cove is consistently rated among the best shore dives in Australia. Entry is directly from the boat ramp at the western edge of the cove; divers follow the ramp line out roughly 50 metres to reach the reef drop-off. Coral gardens begin almost immediately in the shallows, transitioning to a sloping reef wall that drops to 18 metres. An estimated 90 percent of Christmas Island's fish species can be found in this bay, including ornate hawkfish, blackspotted pufferfish, surgeonfish, and butterflyfish. Hawksbill turtles are regularly seen. Despite the port activity above, the marine life density is exceptional. Whale sharks are reported in the bay during their November–April season when they gather to feed on red crab larvae.
 
 ## Site Information
 
 - **Location**: Christmas Island, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Extra Divers Christmas Island](https://www.extradivers.com.au/), [Extra Divers Christmas Island Dive Sites](https://www.extradivers.com.au/dive-sites), [Dive Christmas Island](https://divingchristmas.com/), [Parks Australia Christmas Island Scuba Diving](https://parksaustralia.gov.au/christmas/do/scuba/), [SSI Diving Christmas Island](https://www.divessi.com/en/blog/diving-christmas-island-galapagos-indian-ocean-10239.html). Last updated 2026-04-04.*
+*Sources: [DivePlanit – Christmas Island Top 10](https://www.diveplanit.com/dive-destination/christmas-island-australias-own-galapagos/), [Arrival Guides – Flying Fish Cove](https://www.arrivalguides.com/en/Travelguide/AUSTRALIASINDIANOCEANISLANDS/doandsee/flying-fish-cove-113300), [Scuba Diver Life – Christmas Island](https://scubadiverlife.com/scuba-diving-christmas-island/). Last updated 2026-05-22.*

@@ -17,9 +17,9 @@ One of the best wreck dives in Chuuk Lagoon -- a 107-meter transport carrying Am
 
 ## Overview
 
-The Nippo Maru was a 3,764-ton transport vessel, 107 meters long, sunk on February 17, 1944, by three 500-pound bombs during Operation Hailstone. She is widely regarded as one of the best wreck dives in Chuuk Lagoon, combining accessible depth, intact structure, and a stunning array of military cargo that spans multiple holds and the open deck.
+The Nippo Maru was a 3,764-ton transport vessel, 107 meters (354 ft) long, launched by Kawasaki Dockyard in September 1936. She was sunk on February 17, 1944, the first day of Operation Hailstone, by three 500-pound bombs dropped by TBF Avenger aircraft from U.S. carriers. She is widely regarded as one of the best wreck dives in Chuuk Lagoon, combining accessible depth, intact structure, and a stunning array of military cargo that spans multiple holds and the open deck.
 
-What sets the Nippo Maru apart is the variety and visibility of her cargo. Three American-made field artillery pieces sit on the open deck -- clearly visible without any penetration. The holds contain gun barrels, turrets, breeches, batteries, aluminum water containers, collapsible bicycles, bottles, and cement bags. A tank occupies the starboard 'tween deck of Hold 1. The bridge sits at 27 to 28 meters, making the superstructure relatively accessible, while the maximum depth reaches 48 meters on the lagoon floor.
+What sets the Nippo Maru apart is the variety and visibility of her cargo. Three American-made field howitzers on wheeled carriages sit on the open deck near Hold 4 -- clearly visible without any penetration. The holds contain gun barrels, turrets, breeches, batteries, aluminum water containers, collapsible bicycles, gas masks, bottles, and cement bags. A Type-95 Ha-Go light tank (the same type as on the San Francisco Maru) occupies the starboard 'tween deck of Hold 1. The bridge sits at 27--28 meters, making the superstructure relatively accessible, while the maximum depth reaches 48--50 meters on the lagoon floor.
 
 ## Site Information
 
@@ -38,7 +38,7 @@ The Nippo Maru's superstructure and cargo support extensive coral colonization. 
 
 ## Dive Profile
 
-The bridge at 27-28 meters provides an excellent starting point for orientation. From the bridge, move forward to the deck where the three field artillery pieces are positioned in the open -- these are the Nippo Maru's most iconic features and require no penetration to view. Hold 1 is particularly noteworthy, with a tank on the starboard 'tween deck. The deeper holds contain gun barrels, turrets, breeches, batteries, aluminum water containers, collapsible bicycles, bottles, and cement bags. The variety of cargo means that every hold offers something different. Plan the deepest excursions first, then work back to the bridge and deck level as bottom time runs down.
+The bridge at 27--28 meters provides an excellent starting point for orientation. From the bridge, move forward to the deck where the three field howitzers are positioned in the open near Hold 4 -- these are the Nippo Maru's most iconic features and require no penetration to view. Hold 1 is particularly noteworthy, with a Type-95 Ha-Go tank on the starboard 'tween deck. Hold 5 at approximately 48 meters contains at least eight gun barrels, gun breeches, sighting mechanisms, and large gun turrets. The variety of cargo means that every hold offers something different. Plan the deepest excursions first, then work back to the bridge and deck level as bottom time runs down.
 
 ## Entry and Exit
 
@@ -46,12 +46,12 @@ Access is by dive boat from Weno-based operators, with a 20-40 minute ride. A pe
 
 ## Tips and Recommendations
 
-- The three field artillery pieces on the open deck are the signature feature -- allocate time to examine and photograph each one
+- The three field howitzers on the open deck are the signature feature -- allocate time to examine and photograph each one
 - The tank in Hold 1's starboard 'tween deck is a major highlight that requires some hold penetration to reach
 - Multiple dives are strongly recommended -- the variety of cargo across all holds is too extensive for a single dive
-- The bridge at 27-28 meters provides good bottom time and is architecturally interesting in its own right
+- The bridge at 27--28 meters provides good bottom time and is architecturally interesting in its own right
 - Carry primary and backup torches for hold exploration; the deeper holds receive limited ambient light
-- Nitrox extends useful bottom time at the 27-28 meter deck level significantly
+- Nitrox extends useful bottom time at the 27--28 meter deck level significantly
 
 ## Safety Considerations
 
@@ -62,4 +62,4 @@ The Nippo Maru is a war grave -- removing any artifacts is strictly illegal unde
 The Nippo Maru is one of the most photogenic wrecks in Chuuk. The three field artillery pieces sitting on the open deck are dramatic, instantly recognizable subjects that can be captured with wide-angle lenses and natural light supplemented by strobes. The tank in Hold 1 requires careful lighting but produces powerful images. The variety of cargo across the holds -- from collapsible bicycles to gun turrets -- provides an unusually diverse portfolio of subjects from a single wreck. The bridge at 27-28 meters receives reasonable ambient light for atmospheric compositions. Multiple dives allow a focused photographic approach to different features each time.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=237). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Nippo Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=237), [Dive3D - Nippo Maru](https://dive3d.eu/models/chuuk-lagoon-truk/nippo-maru/), [Master Liveaboards - Nippo Maru](https://masterliveaboards.com/nippo-maru-wreck-truk/), [Scuba Diving Earth - Nippo Maru](https://www.scubadivingearth.com/blogs/blog/nippo-maru-wreck-of-truk-lagoon-details-of-truk-lagoon-wrecks-2). Last updated 2026-05-22.*

@@ -62,4 +62,4 @@ The Momokawa Maru is a war grave -- removing any artifacts is strictly illegal u
 The Momokawa Maru's extreme list creates dramatic photographic compositions unlike most other wrecks. The near-vertical decks and reoriented hold interiors produce disorienting, powerful images. The cargo in Hold 1 -- aircraft tail sections, propeller blades, drop tanks, radial engines -- provides rich subject matter that ranks with the best in Chuuk. Strobes are essential at 41 meters. The extreme angle means careful strobe positioning is needed to avoid backscatter from silt that collects on the now-horizontal port-side surfaces.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Momokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Last updated 2026-05-22.*

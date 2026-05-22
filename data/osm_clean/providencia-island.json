@@ -3,16 +3,17 @@
     "name": "Felipe's Place",
     "lat": 13.3989,
     "lon": -81.3992,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "Felipe Diving Center, ScubaDiving.com"
+    "validation_source": "myscubadivinggearguide.com,scubadiving.com,padi.com"
   },
   {
     "name": "Manta's City",
@@ -21,13 +22,14 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "Colombia Travel, ScubaDiving.com"
+    "validation_source": "myscubadivinggearguide.com,andadiwata.com,colombia.travel"
   },
   {
     "name": "Nick's Place",
@@ -39,25 +41,27 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "Sport Diver, DiveScover"
+    "validation_source": "myscubadivinggearguide.com,scubadiving.com,pelecanus.com.co"
   },
   {
     "name": "The Pinnacle",
     "lat": 13.348,
     "lon": -81.392,
     "depth": 35,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
-    "validated": true,
-    "validation_source": "Local dive operators, regional sources"
+    "validated": false,
+    "validation_source": "seacrush.com"
   },
   {
     "name": "Stairway to Heaven",
@@ -69,10 +73,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "Just Gotta Dive, ScubaDiving.com"
+    "validation_source": "myscubadivinggearguide.com,scubaboard.com,pelecanus.com.co"
   },
   {
     "name": "Crab Cay Reef",
@@ -84,40 +89,45 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "Old Providence McBean Lagoon National Park, TripAdvisor"
+    "validation_source": "roads-and-rivers.com,tripadvisor.com,myscubadivinggearguide.com"
   },
   {
     "name": "Blue Diamond",
     "lat": 13.335,
     "lon": -81.39,
-    "depth": 24,
+    "depth": 14,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "note": "Depth corrected from 24m to 14m per PADI; difficulty corrected from Advanced to Beginner per multiple sources confirming accessible wreck for Open Water divers. Vessel identity and exact sinking history unverified across independent sources.",
+      "last_qa_date": "2026-05-22"
     },
-    "validated": true,
-    "validation_source": "PADI, DiveAdvisor"
+    "validated": false,
+    "validation_source": "padi.com,myscubadivinggearguide.com"
   },
   {
     "name": "Tete's Place",
     "lat": 13.3281,
     "lon": -81.4116,
-    "depth": 18,
+    "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "note": "Depth corrected from 18m to 9m per multiple sources (7-9m). Pillar coral presence confirmed by multiple sources.",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "ScubaDiving.com, DiveScover"
+    "validation_source": "myscubadivinggearguide.com,scubadiving.com,hoteldeepblue.com"
   },
   {
     "name": "Convento Reef",
@@ -129,24 +139,27 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "last_qa_date": "2026-05-22"
     },
-    "validated": true,
-    "validation_source": "Colombia Travel, local operators"
+    "validated": false,
+    "validation_source": ""
   },
   {
     "name": "Table Rock",
     "lat": 13.4,
     "lon": -81.33,
-    "depth": 25,
+    "depth": 8,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "note": "Depth corrected from 25m to 8m per multiple sources (2-8m). Difficulty corrected from Intermediate to Beginner: suitable for snorkelers and all diver levels per Joe's Scuba Shack and Deep Blue. Located 16.8km from northern Santa Catalina.",
+      "last_qa_date": "2026-05-22"
     },
     "validated": true,
-    "validation_source": "DiveAdvisor, Joe's Scuba Shack"
+    "validation_source": "myscubadivinggearguide.com,hoteldeepblue.com,scubaboard.com"
   }
 ]

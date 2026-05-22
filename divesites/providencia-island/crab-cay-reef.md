@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Crab Cay Reef
 
-Crab Cay Reef is a reef dive site in Providencia Island, Caribbean.
+Crab Cay Reef surrounds a 500-square-metre cay in the Old Providence McBean Lagoon National Natural Park, offering shallow crystal-clear diving accessible to all levels.
 
 ## Overview
 
-Crab Cay Reef surrounds the small crab-shaped islet within the Old Providence McBean Lagoon National Natural Park, sitting alongside the world's third-longest barrier reef within the UNESCO Seaflower Biosphere Reserve. The shallow reef to 12 metres offers crystal-clear water with 25-metre visibility and is one of the most accessible snorkel and dive sites on the island, delivering encounters with enormous stingrays, barracuda, sea turtles, red snapper, surgeonfish, and clownfish on virtually every dive. The reef's protected status within the national park has allowed coral coverage to remain healthy and fish populations to stay dense by Caribbean standards.
+Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitting within the Old Providence McBean Lagoon National Natural Park and the wider UNESCO Seaflower Biosphere Reserve. The reef tops at around 12 metres and is noted for crystal-clear water and strong fish density resulting from the park's protection. The site is accessible as a snorkel or introductory dive and is commonly visited on boat tours around the island. Turtles, triggerfish, needlefish, juvenile fish, and small sharks are reported near the pier and reef.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ## Marine Life
 
-Sea turtles, enormous southern stingrays, red snapper, surgeonfish, barracuda, and clownfish are encountered on virtually every dive in the crystal-clear 25-metre visibility water of this national park site. Dense fish populations — the result of consistent protection within Old Providence McBean Lagoon — mean blue tangs, parrotfish, and angelfish crowd the coral heads throughout the shallow reef.
+Sea turtles, triggerfish, needlefish, red snapper, and juvenile fish are commonly reported at Crab Cay. A small shark has been sighted near the wooden pier. The dense fish populations reflect the site's protection within the national park.
 
 ---
-*Sources: Old Providence McBean Lagoon National Park, TripAdvisor. Last updated 2026-03-16.*
+*Sources: [Roads and Rivers](https://roads-and-rivers.com/en/kajak-crab-cay-providencia/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297480-d2526513-Reviews-Crab_Cay_Cayo_Cangrejo-Providencia_Island_San_Andres_and_Providencia_Department.html), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Last updated 2026-05-22.*

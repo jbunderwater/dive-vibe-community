@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Convento Reef
 
-Convento Reef is a reef dive site in Providencia Island, Caribbean.
+Convento Reef is a shallow reef dive along Providencia's inner barrier reef system within the UNESCO Seaflower Biosphere Reserve.
 
 ## Overview
 
-Convento Reef is a shallow patch reef dive along the inner barrier reef system of Providencia, part of the world's third-longest barrier reef that runs along the island's eastern coast and is protected within the UNESCO Seaflower Biosphere Reserve. The reef tops at accessible depths within 15 metres and features hard coral formations sheltering schooling grunts, snappers, parrotfish, and angelfish, with nurse sharks resting on the sandy patches below coral heads. The site is accessible to all skill levels, with the calm lagoon conditions and consistently warm, clear water making it a reliable choice for a relaxed reef dive in one of the Caribbean's most biodiverse marine environments.
+Convento Reef is a shallow patch reef within the UNESCO Seaflower Biosphere Reserve along the inner barrier reef system of Providencia. The reef tops at around 15 metres in calm lagoon conditions typical of the island's protected inner reef areas. No site-specific published descriptions for Convento Reef were found in independent dive sources; the description below reflects the regional diving character of Providencia's inner barrier reef.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Schools of grunts, snappers, parrotfish, and angelfish populate the hard coral formations, while nurse sharks rest on the sandy patches beneath coral heads. The calm lagoon conditions and healthy reef coverage of the Seaflower reserve mean fish density is high, with blue tangs, trumpetfish, and occasional sea turtles completing a typical dive at this accessible patch reef.
+*Description based on regional diving characteristics of Providencia's inner barrier reef. No site-specific marine life sources found for Convento Reef.*
 
 ---
-*Sources: Colombia Travel, local operators. Last updated 2026-03-16.*
+*Description based on regional diving characteristics of Providencia's inner barrier reef. No site-specific sources found. Last updated 2026-05-22.*

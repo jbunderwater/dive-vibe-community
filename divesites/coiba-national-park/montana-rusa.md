@@ -13,68 +13,64 @@ addedBy: osm_import
 
 ## Montana Rusa
 
-Montana Rusa (Roller Coaster) is a deep, technical pinnacle dive featuring dramatic underwater canyons and valleys with severe currents and intense pelagic action—considered the deepest and most challenging site in Coiba's rotation.
+Montana Rusa (Roller Coaster) is a deep oceanic pinnacle in the Contreras archipelago and one of Coiba's most demanding dive sites — named for the experience of riding its strong, shifting currents through dramatic underwater canyons and valleys between 14 and 42 meters.
 
 ## Overview
 
-Montana Rusa features dramatic pinnacles and underwater canyons in open Pacific waters, with depths reaching 35-40 meters. This exposed, technical site experiences strong, sometimes severe currents that sweep through channels, bringing abundant schooling fish and pelagic action. Oceanic blacktip sharks (larger than reef sharks), white-tip reef sharks, bull sharks, hammerheads, and black-tip reef sharks patrol the site alongside massive fish schools (barracuda, bigeye jacks, bluefin trevallies, dog snappers) and baitballs. Only for Expert+ divers or Advanced divers on acclimated multi-day liveaboards. Water temperatures 24-28°C; visibility 15-25 meters typically.
+Montana Rusa faces both south and north, with the west side fully exposed to open Pacific swells and swell-driven surge. PADI's database confirms coordinates at 7.90661, -81.81673 (Gulf of Chiriquí) and depth from 14 meters (shallowest) to 42 meters (maximum). Panama Dive Center describes currents here as potentially very difficult; the site's Spanish name reflects the roller-coaster sensation divers experience as currents change direction and speed with depth.
+
+The site features pinnacle and canyon topography: divers descend to the reef top and navigate rock formations, crevices, and ridges where large schooling fish and multiple shark species concentrate. It is one of the few Coiba sites where hammerhead sharks are regularly encountered — typically in schools, particularly during the April–July hammerhead migration season through the Eastern Tropical Pacific. ScubaBoard trip reports confirm hammerhead sightings at Contreras-area sites including in September 2024.
+
+Montana Rusa is accessible primarily via multi-day liveaboard or dedicated multi-day charter from Santa Catalina. It is in the Contreras archipelago — a longer journey than the Canales sites.
 
 ## Site Information
 
-- **Location**: Contreras area, northern Coiba National Park, Panama
+- **Location**: Contreras Archipelago, northern Coiba National Park, Panama (coordinates confirmed PADI: 7.90661, -81.81673)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Strong to severe (frequent, sometimes severe)
-- **Water Temperature**: 24-28°C (75-82°F)
-- **Best Time**: December-April (dry season, peak sharks)
+- **Shallowest Point**: 14 meters
+- **Typical Visibility**: 15–25 meters
+- **Current**: Strong to severe; direction and speed can change at depth
+- **Water Temperature**: 24–28°C
+- **Best Time**: December–April (dry season); hammerheads April–July
 
 ## Marine Life
 
-Oceanic blacktip sharks (much larger than reef sharks), white-tip reef sharks, bull sharks, hammerhead sharks, black-tip reef sharks, longtail stingrays, massive schooling barracuda, bigeye jacks, bluefin trevallies, and enormous dog snappers. Baitballs of schooling fish create feeding frenzies. Pelagic action intense; shark density highest of all Coiba sites.
+Panama Dive Center and PADI confirm the following species at this site: hammerhead sharks, bull sharks, whitetip reef sharks, giant manta rays, large schools of bigeye trevally (big-eyed jacks), Mexican barracuda, Pacific dog snappers, bluefin trevallies, longtail stingrays. Groupers and snappers are found in the deeper crevice sections. Baitball feeding activity has been reported. One ScubaBoard trip report (January 2026) noted white-tip reef sharks in schools at Contreras sites in the same diving area.
+
+Hammerhead sharks are seasonal (April–July peak migration, with documented sightings outside that window). They are not guaranteed on every dive; operators run specialized trips during peak season.
 
 ## Dive Profile
 
-This is a deep technical dive requiring conservative bottom timing and excellent air management. Descend via anchor line to reef top (16m), then navigate pinnacle structures deeper to 35-40 meters. Dives typically profile to 35-40m for 15-20 minute bottom times on recreational air (less with Nitrox). Current allows natural drift alignment; divers may need to hold rocks to maintain group position. Ascend conservatively with extended safety stop (10+ minutes at 5m) accounting for nitrogen loading at depth.
+Descend via anchor line to the reef top at 14 meters. Navigate pinnacle structures along the ridge to 25–35 meters. Currents drive the dive direction and speed; divers may need to hold rocks to maintain position and observe schooling species. Deep section (35–42m) should be treated conservatively regarding bottom time and nitrogen loading. Plan exit well before air turns for a complete ascent including extended safety stop.
+
+PADI recommends Enriched Air Diver certification for this site in addition to Advanced Open Water.
 
 ## Entry and Exit
 
-Boat anchors on pinnacle top. Entry via giant stride or controlled descent before anchoring to descent line. Descend hand-over-hand following rope to reef top, maintaining buoyancy for bottom depth. Drift with current as briefed. Ascend via natural bouyancy or line; extended 5m safety stop essential. SMB signal to boat for pickup confirmation.
+Boat anchors on the pinnacle top. Negative-entry or descent via anchor line. Ascent via line or natural buoyancy with SMB deployed; extended safety stop at 5 meters (10+ minutes recommended at depths below 30m).
 
 ## Tips and Recommendations
 
-- **Schedule last** in multi-day trip when fully acclimated to Coiba's conditions
-- Enriched air (Nitrox) strongly recommended for extended bottom times and decompression safety
-- Bring robust wide-angle lens for fish baitballs and shark action
-- Reef hooks useful for maintaining position in severe current
-- Dive gloves essential for rock-holding in strong current
-- Negative water entry sometimes necessary—confirm with crew pre-dive
-- Expect overwhelming shark density; confidence and calm essential
+- Reef hooks essential for holding position in severe current
+- Schedule last in a multi-day trip when fully acclimated to Coiba's conditions
+- Nitrox strongly recommended (PADI recommendation confirmed)
+- Wide-angle lens for schools and hammerheads
+- Arrange this dive with operators specifically offering Contreras multi-day trips (not all day-trip operators go this far)
 
 ## Safety Considerations
 
-**This is the most technically demanding site in Coiba's rotation.** Severe currents can sweep divers from group if unprepared. Deep depths (35-40m) exceed recreational no-decompression limits; decompression obligations likely. Cold thermoclines below 25m; nitrogen narcosis probable at depths. Shark encounters absolutely guaranteed; remain calm. Recommended for Expert or Advanced-with-lots-of-deep-experience divers only. Never dive alone. Monitor SPG obsessively. Abort if overwhelmed by current, depth, narcosis, or shark density. Safety always trumps adventure.
+Currents can be severe and change direction unexpectedly at depth. Deep profiles (35–42m) create decompression obligations at extended bottom times — dive conservatively. Cold thermoclines below 25m. Shark encounters are the point of the dive; maintain calm and controlled behavior. Never dive this site alone. Monitor SPG constantly and agree on turn-pressure with your buddy before entry.
 
 ## Seasonal Notes
 
-**January-April (Peak)**: Dry season winds create consistent strong currents. Upwelling brings cooler (24°C) plankton-rich water and maximum shark/pelagic diversity. Mornings can be rough; afternoons often calmer.
+December–April: Dry season creates consistent currents and plankton upwelling. Coolest deep water (24°C). Best for mantas and bull sharks.
 
-**May-November**: Gentler currents, warmer water (27-28°C), calmer seas. Reduced shark frequency but still excellent pelagic action.
+April–July: Hammerhead migration peak. Primary hammerhead season across the Eastern Tropical Pacific including Coiba.
 
-## Decompression & Technical Notes
-
-- Recreational air profiles to 35m may incur decompression obligations
-- Nitrox (32-36%) strongly recommended for bottom times >15 minutes
-- TEC certification (or equivalent deep dive training) advisable
-- Buddy team should have synchronized SPGs and agreement on turnaround times
-- Carry backup regulators and additional gas supplies
-
-- **Validation Source**: Perplexity research (March 2026)
+May–November: Generally easier conditions, warmer water, but hammerheads less predictable outside peak season.
 
 ---
-*Dive site information researched March 2026. Updated with deep-technical and pelagic encounter data for Coiba's most advanced site.*
-
----
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive), [PADI - Montana Rusa](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/). Last updated 2026-04-05.*
+*Sources: [PADI - Montaña Rusa Dive Site](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [ScubaBoard - January 2026 Coiba Trip](https://scubaboard.com/community/threads/diving-in-panama-at-coiba-island-in-january-with-panama-dive-center.654201/). Last updated 2026-05-22.*

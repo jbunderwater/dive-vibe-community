@@ -13,59 +13,51 @@ addedBy: osm_import
 
 ## Canales de Afuera
 
-Canales de Afuera is a wall dive site in Coiba National Park, South America.
+Canales de Afuera (Isla Canal de Afuera) is the island within Coiba National Park closest to Santa Catalina and the most-visited dive area in the park, offering a range of sites from calm shallow coral gardens to the exposed, current-swept Punta Faro (El Faro) at its western tip.
 
 ## Overview
 
-Canales de Afuera (also known as Isla Canales de Afuera or Punta Faro) sits at the exposed western tip of Coiba featuring a rocky Pacific reef with hard corals and dramatic blue-water pelagic encounters. This Advanced site experiences strong, variable currents funneling food and pelagic life through its channels. Water temperatures range 24-28°C with visibility 15-25 meters. The site is known for consistent bull shark, oceanic blacktip, and white-tip reef shark activity, plus occasional hammerheads during peak season. Strong currents and pelagic exposure make this a technical deep-water reef requiring solid buoyancy, air management, and shark comfort.
+Isla Canal de Afuera and its smaller neighbor Isla Afuerita sit approximately 1.5 hours by boat from Santa Catalina. The island's diving varies significantly by exposure: the calmer, leeward side offers shallow coral gardens with a wide variety of reef fish in 6–20 meters, while the western tip (Punta Faro / El Faro — listed separately as Faro Reef) is one of Coiba's premier pelagic sites with strong currents and regular shark activity.
+
+The sheltered coral reef zones around the island are part of one of the largest coral reef systems in the Eastern Pacific. ScubaBoard trip reports describe sites on this island's calm faces as featuring encrusting sponges, orange cup corals, green and yellow finger-sponges, gorgonians, and hard corals in the shallows, with an intricate topography of cracks and crevices.
 
 ## Site Information
 
-- **Location**: Western tip of Coiba Island, Panama (1.5-hour boat from Santa Catalina)
+- **Location**: Isla Canal de Afuera, Coiba National Park, Panama (1.5 hours by boat from Santa Catalina)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Strong and variable (drift diving typical)
-- **Water Temperature**: 24-28°C (75-82°F)
-- **Best Time**: December-April (calmer, peak pelagics)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild on leeward side; strong to very strong at western tip
+- **Water Temperature**: 24–29°C
+- **Best Time**: December–April for pelagics; year-round for reef diving
 
 ## Marine Life
 
-Bull sharks, oceanic blacktip sharks, white-tip reef sharks, and occasional hammerheads patrol the site regularly. Large fish schools (jacks, barracuda, snappers) concentrate in current zones. Turtles, garden eels, rays, and moray eels add to site diversity. Plankton-rich upwelling (January-April) attracts peak pelagic activity.
+Calm-side reef areas: abundant reef fish including snapper, jacks, surgeonfish, angelfish, parrotfish, moray eels, and turtles. Exposed western areas add bull sharks, oceanic blacktip sharks, bigeye jacks, Pacific dog snappers, barracuda, scorpionfish, octopus, seahorses, and frogfish. Manta rays and whale sharks (seasonal, December–April) frequent the plankton-rich western point.
 
 ## Dive Profile
 
-Descend in shallow sandy entry (4-5 meters) before sloping gradually to reef structure at 15-30 meters. Navigate along rocky formations and hard coral sections. Expect strong currents guiding natural drift pattern. Hold position on rocks if needed using reef hooks or careful hand placement. Explore deeper sections only on second+ dives in trip and with excellent air management. Plan conservative bottom timing; currents increase air consumption.
+For the calmer reef sections, enter in shallow water (6–10 meters) and explore the coral gardens at leisurely pace. For the Punta Faro area, anchor in 4–5 meters and descend along the reef face to 15–25 meters, anticipating current and drifting with it. See the Faro Reef entry for the full profile of the western-tip site.
 
 ## Entry and Exit
 
-Boat anchors in shallow water (4-5 meters). Giant stride or back roll entry before descent into current. Descend along reef structure or sandy slope. Current direction varies—brief will clarify intended drift pattern. Ascend along same structure with natural current assistance toward surface. Final safety stop in water column with SMB signal to boat crew.
+Boat only. Entry point and dive plan vary by which section of the island is being dived. Crew brief covers current direction and expected conditions before entry.
 
 ## Tips and Recommendations
 
-- Reef hooks recommended for holding position in strong current
-- Plan first dives early in trip for acclimatization; schedule deeper explorations for acclimated days
-- Bring wide-angle lens for pelagic action and blue-water photography
-- Carry enriched air (Nitrox) for extended bottom times and deeper profiles
-- Watch air consumption carefully; current resistance increases breathing rate
-- Expect regular shark encounters; remain calm and follow crew briefing
+- Plan multiple dives here: a calm-side reef dive for macro and coral photography, and the Faro point for sharks
+- The island's proximity (1.5 hours vs. 3+ hours for Contreras) makes it the most reliably doable site on day trips
+- Combine with Wahoo Rock (also in the Canales area) for a full-day pelagic agenda
 
 ## Safety Considerations
 
-Strong currents are core feature requiring solid buoyancy and streamlined technique. Cold thermoclines below 20m warrant thermal protection. Rapid depth changes possible—monitor SPG and depth constantly. Shark presence guaranteed; maintain calm behavior. Plan conservative bottom times and abort if overwhelmed by current, depth, or shark activity. Never dive alone; buddy check essential.
+The exposed western face (Faro) requires reef-hook capability and strong current experience. The calm leeward side is forgiving but maintain SMB deployment habit regardless.
 
 ## Seasonal Notes
 
-**December-April**: Dry season winds create strong, consistent currents. Peak pelagic activity including occasional hammerheads. Calmer conditions generally in afternoons; mornings can be rough.
-
-**May-November**: Reduced current, warmer surface water, calmer seas. Fewer pelagic encounters but reef sharks still active. Easier dive profile.
-
-- **Validation Source**: Perplexity research (March 2026)
+Year-round diveable. Peak pelagic activity (whale sharks, mantas, bull sharks) December–April during dry season upwelling. Rainy season brings warmer calmer conditions with strong reef fish activity.
 
 ---
-*Dive site information researched March 2026. Updated with current and pelagic data for this exposed Coiba reef.*
-
----
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Diving Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-05-22.*
