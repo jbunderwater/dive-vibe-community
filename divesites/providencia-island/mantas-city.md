@@ -2,7 +2,7 @@
 name: Manta's City
 lat: 13.315
 lng: -81.3744
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Manta's City
 
-Manta's City is a reef dive site in Providencia Island, Caribbean.
+Manta's City is a shallow patch reef site at Providencia, adorned with large stony coral formations and abundant reef fish.
 
 ## Overview
 
-Manta's City is a shallow patch reef site within Providencia's UNESCO-protected Seaflower Biosphere Reserve, which encompasses part of the world's third-longest barrier reef. The site features large stony coral formations that shelter schools of white snapper, sea turtles, sergeant majors, butterflyfish, and parrotfish, with eagle rays and nurse sharks cruising the reef edges. Visibility typically ranges from 15 to 30 meters in warm 27 to 29 degree water, and the sheltered conditions make this an accessible dive along one of Colombia's most biodiverse reef systems.
+Manta's City (also referenced as "Manta's Place" by some operators) is a shallow site within the UNESCO Seaflower Biosphere Reserve, characterised by patch reefs with large stony coral formations and a plethora of reef life. The site reaches around 20 metres at maximum depth and is described as accessible and beginner-friendly. Whether it reliably offers manta ray sightings — as its name suggests — is not confirmed by available sources; sources describe it as a reef dive with abundant fish but do not specifically confirm regular manta ray encounters at this site.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
 ## Marine Life
 
-Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, and parrotfish, with sea turtles and nurse sharks cruising the reef edges alongside spotted eagle rays. The site's accessible depths and protected status within the Seaflower Biosphere Reserve mean the fish communities remain dense by Caribbean standards, typical of Colombia's finest reef system.
+Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, goatfish, and parrotfish, with sea turtles reported at the site. The Anda Di Wata dive school has documented peacock flounder at Manta's City in particular.
 
 ---
-*Sources: Colombia Travel, ScubaDiving.com. Last updated 2026-03-16.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/). Last updated 2026-05-22.*

@@ -5,7 +5,7 @@ lng: -81.392
 difficulty: Advanced
 maxDepth: 35
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## The Pinnacle
 
-The Pinnacle is a wall dive site in Providencia Island, Caribbean.
+The Pinnacle is an advanced dive site known for dramatic underwater pinnacle formations and pelagic species including manta rays, within the UNESCO Seaflower Biosphere Reserve.
 
 ## Overview
 
-The Pinnacle is a deep wall dive along the edge of Providencia's UNESCO Seaflower Biosphere Reserve, where the volcanic island's underwater basement drops with near-vertical slopes from the barrier reef shelf into the open Caribbean. The wall is adorned with colourful sponges, gorgonians, and black coral at depth, and Caribbean reef sharks are a near-constant presence, cruising the drop-off alongside eagle rays, horse-eye jacks, and large barracuda. Visibility regularly exceeds 30 metres in the warm 27 to 29 degree water, making this one of the premier drift wall experiences on what is widely considered Colombia's finest dive destination.
+The Pinnacle is described by regional dive sources as one of Providencia's more advanced sites, characterised by dramatic underwater pinnacles, colourful corals, and encounters with large pelagic species. The site reaches approximately 35 metres at maximum depth, within the UNESCO Seaflower Biosphere Reserve's protected waters. Only limited independent site-specific descriptions are available; regional diving sources confirm it as an advanced pinnacle dive with pelagic encounters.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 
 ## Marine Life
 
-Caribbean reef sharks are a near-constant presence along the drop-off, cruising alongside spotted eagle rays, horse-eye jacks, and large barracuda in the exceptional 30-metre visibility. Sponges, gorgonians, and black coral on the wall face shelter moray eels and crustaceans, while sea turtles complete the full range of Providencia's celebrated barrier reef fauna.
+Regional dive sources note large pelagic species including manta rays and colorful corals at this site. The regional fauna of the Seaflower Biosphere Reserve — Caribbean reef sharks, eagle rays, large grouper, and sea turtles — applies, but no site-specific marine life reports beyond pelagic encounters were found in independent sources.
 
 ---
-*Sources: Local dive operators, regional sources. Last updated 2026-03-16.*
+*Sources: [SeaCrush](https://www.seacrush.com/en/diving/colombia). No additional site-specific sources found. Last updated 2026-05-22.*

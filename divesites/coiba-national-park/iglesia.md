@@ -13,57 +13,54 @@ addedBy: osm_import
 
 ## Iglesia
 
-Iglesia (near Rancheria Island) is a biodiversity hotspot reef featuring dramatic rock formations, antler coral structures, and consistent shark encounters.
+Iglesia (Spanish for "church") is a cathedral-like dive site near Ranchería Island in central Coiba, named for the feeling of swimming through its tall rock walls, overhangs, and natural channels — formations that filter light and shadow like stained glass windows in a stone nave.
 
 ## Overview
 
-Iglesia features numerous separate rock formations connected by sandy areas, creating an intricate underwater maze rich with biodiversity. Located near Rancheria Island in central Coiba, this Advanced dive site is known for high shark density and spectacular macro opportunities. Mild currents enhance food delivery and attract reef sharks in impressive numbers. Water temperatures average 24-28°C with visibility typically 15-25 meters. This is an excellent mid-trip dive when divers are acclimated to Coiba's conditions and shark activity.
+The site is built around numerous separate rock formations connected by sandy areas, creating a three-dimensional underwater maze. Instead of a simple sloping reef, divers navigate ridges, buttresses, small canyons, and natural corridors covered in sponges, soft corals, and patches of hard coral. Rocks in crevices shelter moray eels, lobsters, and scorpionfish; the open sandy sections between formations host garden eels and stingrays. Panama Dive Center describes Iglesia as one of Coiba's greatest biodiversity sites, particularly rewarding when mild currents are running.
+
+The site ranges from a shallow entry at around 12 meters up to 30 meters in the deeper sections, allowing divers to choose their depth profile. Conditions are generally milder than the exposed Canales sites but can strengthen with tidal flow.
 
 ## Site Information
 
-- **Location**: Near Rancheria Island, central Coiba, Panama
+- **Location**: Near Isla Ranchería, central Coiba, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Mild to moderate (beneficial for wildlife)
-- **Water Temperature**: 24-28°C (75-82°F)
-- **Best Time**: Year-round with seasonal variations
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; beneficial for marine life activity
+- **Water Temperature**: 24–28°C
+- **Best Time**: Year-round; January–April for peak shark and ray activity
 
 ## Marine Life
 
-Iglesia showcases extremely high shark density—reef sharks in large numbers are virtually guaranteed. Additional species include sea turtles, lobsters, spotted eagle rays, and oceanic whitetip sharks. Coral structures include distinctive antler coral formations providing excellent macro habitat. Butterflyfish, surgeonfish, snappers, and diverse reef fish create vibrant scenes among the rock formations.
+Confirmed species at Iglesia based on operator listings and trip reports: whitetip reef sharks, moray eels, lobsters, snappers, jacks, angelfish, parrotfish, wrasse, scorpionfish, frogfish, seahorses, turtles, octopus, and barracuda. One firsthand diver report (divemasteraustin.com) recorded a large manta ray on a visit to this site.
+
+Reef sharks are commonly seen here — multiple sources describe Iglesia as a site with high shark activity relative to other Coiba reefs. There are no confirmed reports of oceanic whitetip sharks specifically at this site; that species is associated with the park's more open-water pelagic zones.
 
 ## Dive Profile
 
-Begin descent into shallow reef exploration (12 meters) among the rocky formations before ascending or descending to deeper sections (20-30 meters). Navigate the interconnected rock structures and sandy channels between formations. Mild currents aid visibility and bring pelagic action. Enjoy extended time exploring macro habitat in antler coral sections. Plan conservative bottom time managing air consumption on multi-dive days.
+Descend to the reef top or shallow rock formations at around 12 meters, then navigate the rock corridors deeper to 20–30 meters depending on current and air supply. The site rewards slow, exploratory diving: carry a dive light to investigate dark crevices where lobsters, seahorses, and moray eels concentrate. Use mild current as a guide for drift navigation through the canyon structures. Ascend along the rock formations back toward the shallower section for the safety stop.
 
 ## Entry and Exit
 
-Boat entry via anchor in clear water near formations. Giant stride or back roll entry before descending alongside reef structure. Current flows predictably; coordinate descent line with crew briefing. Ascent along same structural area with final safety stop at 5 meters. SMB deployment critical for crew visibility in current-swept waters.
+Boat entry in open water adjacent to the formations. Descend along the rock face or through a sandy channel to the formation maze below. Current will be briefed before entry. Exit by ascending to 5 meters in a sand clearing or open water, SMB deployed, with boat pickup.
 
 ## Tips and Recommendations
 
-- Peak shark sighting site; essential to be comfortable with sharks at distance
-- Bring both wide-angle and macro lenses for diverse photography
-- Use reef hooks on deeper explorations to hold position against current
-- Plan this dive mid-trip after acclimatizing to local shark activity
-- Scout current direction with crew before descent
-- Avoid sudden movements; sharks are curious but wary of erratic behavior
+- Bring a dive light — the cathedral formations create deep shadows where interesting life hides
+- Wide-angle lens for the dramatic rock architecture; macro for crevice inhabitants
+- This is a strong mid-trip dive when divers are comfortable with Coiba's conditions and shark activity
+- The shallow 12-meter option makes it accessible for divers not yet comfortable at 25+ meters
 
 ## Safety Considerations
 
-Shark presence is feature, not hazard—maintain calm, controlled diving. Mild currents can strengthen unexpectedly; stay alert and follow crew guidance. Deeper sections (25-30m) warrant conservative bottom timing. Respect the reef; excellent buoyancy control essential. Always use buddy system and communicate frequently. Abort dive if shark behavior seems defensive (rammed, circling aggressively) and ascend smoothly.
+Rock formations can be disorienting in strong current — maintain clear visual reference to the exit channel. Shark encounters are common at this site; standard approach applies (calm, controlled, no sudden movements). Depth can creep deeper than expected following the canyon structure.
 
 ## Seasonal Notes
 
-Year-round diving available. Hammerhead season (January-April) brings occasional hammerhead passes during upwelling period. Dry season (December-April) offers calmest conditions. Rainy season (May-November) maintains excellent visibility with variable currents.
-
-- **Validation Source**: Perplexity research (March 2026)
+Year-round diving available. Hammerhead season (January–April) may bring occasional hammerhead passes through the area. Dry season (December–April) delivers calmest surface conditions. Rainy season (May–November) maintains excellent visibility with variable, often gentle currents.
 
 ---
-*Dive site information researched March 2026. Updated with field-verified shark encounter and biodiversity data.*
-
----
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama). Last updated 2026-05-22.*

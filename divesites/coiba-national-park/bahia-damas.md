@@ -13,63 +13,59 @@ addedBy: osm_import
 
 ## Bahia Damas
 
-Bahia Damas is Central America's largest coral reef and the second-largest in the eastern Pacific, featuring vast hard and soft coral gardens hosting extraordinary biodiversity.
+Bahia Damas is a large, partially protected bay on the eastern shore of Isla Coiba, home to what CoibaNationalPark.com identifies as the second-largest coral reef in the Eastern Pacific — a 135-hectare (335-acre) hard coral system that serves as refuge for enormous schools of fish.
 
 ## Overview
 
-Located along Coiba Island's eastern shore, Bahia Damas Reef is a UNESCO World Heritage site supporting immense fish schools and 33 shark species. This reef system is over 5,000 years old with some coral colonies spanning centuries. Massive hard and soft coral structures create pinnacle formations across variable depths. Water temperatures range from 24-29°C with visibility typically 15-25 meters, though plankton-rich upwelling (January-April) occasionally reduces viz while attracting pelagic megafauna (whale sharks, giant mantas, humpback whales). Strong variable currents demand solid Advanced technique and awareness.
+Bahia Damas reef is a rocky hard coral system — characteristic of Eastern Pacific reefs, which lack the soft pastel colours of Caribbean reefs but compensate with structural complexity and fish biomass. The reef is estimated to be over 5,000 years old and is recognized within Coiba's UNESCO World Heritage Site designation for its ecological significance.
+
+The bay's semi-protected position on Coiba's eastern side means conditions are generally calmer than the island's exposed western reefs, though variable currents remain part of diving here. Coral reefs in this region of the Eastern Pacific are typically found at shallower depths; the reef structure in this bay extends from the shallows down to around 30 meters on its outer edges.
+
+Note on marine life diversity: Coiba National Park as a whole hosts more than 800 fish species and is documented to have over 30 shark species in its waters. These figures reflect the entire park, not Bahia Damas specifically. At Bahia Damas, confirmed species include large schools of snapper, jacks, barracuda, and tuna, along with manta rays, sharks (reef sharks confirmed; other species seasonal), and dolphin and whale sightings in adjacent waters.
 
 ## Site Information
 
-- **Location**: Eastern Coiba Island, Panama (90 minutes by lancha from Santa Catalina)
+- **Location**: Eastern shore of Isla Coiba, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Variable to strong (plan drift diving)
-- **Water Temperature**: 24-29°C (75-84°F)
-- **Best Time**: January-April for pelagics; December-April for calmer conditions
+- **Typical Visibility**: 15–25 meters (reduced January–April during plankton upwelling)
+- **Current**: Variable to strong
+- **Water Temperature**: 24–29°C
+- **Best Time**: May–November for calmest conditions; December–April for pelagic encounters
 
 ## Marine Life
 
-Bahia Damas supports 33 shark species including bull sharks, whale sharks (seasonal), oceanic blacktips, and reef sharks in enormous schools. Pelagic megafauna include giant manta rays, eagle rays, and seasonal humpback whales. Healthy hard and soft coral gardens host massive fish schools (snappers, jacks, barracuda, fusiliers). This is one of the world's richest reef ecosystems.
+Confirmed species and sightings at or adjacent to Bahia Damas: large schools of snapper, jacks, barracuda, tuna; manta rays; various reef sharks; dolphins and toothed whales passing through adjacent channels. Humpback whales are seasonal visitors to Coiba's broader waters (typically July–October). Seasonal whale shark sightings are documented in the park during December–April plankton upwellings, though specific sightings at this bay versus the more exposed western sites are not individually confirmed in available sources.
 
 ## Dive Profile
 
-Descend into the coral pinnacle formations and explore at depths from 15-30 meters depending on current strength and profile depth. Navigate among massive coral structures, allowing natural currents to guide drift diving approach. Time in upper coral zones (15-20m) provides optimal balance of light, air consumption, and marine life encounters. Multiple dives over multi-day liveaboard trips allow exploration of different reef sections and depth profiles.
+Access the reef top in 10–15 meters and explore along the hard coral structures. The outer reef edges drop to around 30 meters where rocky structure and current create more dynamic conditions. Most productive coral diving occurs in the 10–20 meter range where light penetrates and fish concentrations are highest. Plan for drift assistance from tidal currents along the reef line.
 
 ## Entry and Exit
 
-Boat entry from lancha positioned upwind of reef. Giant stride or back roll entry before descent to reef top (15m). Anticipate current direction from crew briefing; descent may be steep depending on flow. Follow natural drift along reef structure. Ascent via SMB signal coordinated with boat; final 5-meter safety stop in water column with crew visual confirmation.
+Boat only. 90-minute lancha from Santa Catalina. Entry and exit via boat in open water adjacent to the reef; SMB deployment on ascent is essential given open-water conditions.
 
 ## Tips and Recommendations
 
-- Book only with UNESCO-aware operators respecting Coiba's Protected Area status
-- Bring excellent wide-angle lens for coral structure and baitball photography
-- Schedule Bahia Damas dives for acclimated days (not first day post-travel)
-- Monitor air consumption carefully; currents can push some divers to higher consumption
-- Expect 33+ shark species; remain calm and follow crew shark-safety protocols
-- Respect ancient coral—avoid touching, holding, or kneeling on reef
+- This site rewards multiple dives across different tidal states — currents and fish activity change markedly
+- Hard coral photography is excellent; this reef lacks Caribbean-style soft coral colour but offers impressive structural complexity
+- Conservation focus: any damage to this reef should be reported immediately to your operator — the reef is central to the park's UNESCO designation
 
 ## Safety Considerations
 
-Variable currents demand solid buoyancy and streamlined profile. Strong current days may warrant experienced-divers-only dives. Cold thermoclines below 20m warrant thermal protection. Shark presence is overwhelming—fear is normal; education helps. Maintain buddy contact and communicate regularly. Abort dive if overwhelmed by current, shark density, or personal limits; no shame in surface safely.
-
-## Seasonal Notes
-
-**January-April (Peak Season)**: Upwelling brings cold (24°C) plankton-rich water attracting whale sharks, giant mantas, humpbacks, and maximum shark diversity. Visibility reduced by plankton but fish feeding activity intense. North winds create rougher seas; rougher morning conditions, calmer afternoons common.
-
-**May-November**: Warmer surface water (27-29°C), clearer visibility, calmer seas. Fewer pelagic megafauna but reef sharks and fish still abundant. Optimal conditions for photography and easier diving.
+Variable currents demand solid buoyancy and streamlined technique. Open-water ascents with SMB are standard here. Cold thermoclines below 20 meters warrant a 3mm wetsuit at minimum.
 
 ## Conservation Note
 
-Bahia Damas is a UNESCO World Heritage Site. All divers are ambassadors; report reef damage or illegal fishing to operators immediately.
+Bahia Damas Reef is one of the ecological anchors of Coiba's UNESCO World Heritage Site. Diving must be arranged through authorized operators with valid park permits. Reef contact of any kind should be avoided.
 
-- **Validation Source**: Perplexity research (March 2026)
+## Seasonal Notes
+
+December–April (dry season): Plankton upwelling reduces visibility in some areas but drives pelagic megafauna activity park-wide. North winds can create rough surface conditions.
+
+May–November (rainy season): Warmer surface water (27–29°C), clearer water, calmer seas. Excellent for reef photography and leisurely coral exploration.
 
 ---
-*Dive site information researched March 2026. Updated with biodiversity and conservation-focused data for this UNESCO reef.*
-
----
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [CoibaNationalPark.com - Bahia Damas Reef](http://www.coibanationalpark.com/bahia_damas_reef.html), [Tourism Panama - Coiba National Park](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/), [The Ark Divers - Scuba Diving Coiba](https://www.thearkdivers.com/dive). Last updated 2026-05-22.*

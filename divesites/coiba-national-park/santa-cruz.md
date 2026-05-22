@@ -1,8 +1,8 @@
 ---
 name: Santa Cruz
-lat: 7.615
-lng: -81.735
-difficulty: Advanced
+lat: 7.6329
+lng: -81.7813
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -13,57 +13,55 @@ addedBy: osm_import
 
 ## Santa Cruz
 
-Santa Cruz is a scenic shallow reef dive known for its vibrant hard coral gardens and peaceful aquarium-like atmosphere, making it an excellent "rest" dive in Coiba's Advanced schedule.
+Santa Cruz is a hard coral reef site in Coiba National Park, rated Intermediate, and widely used as a rest dive between more demanding current and pelagic sites — its "aquarium-like fields of hard coral" (divemasteraustin.com) making it one of Coiba's most visually rewarding reef dives despite its modest depth.
 
 ## Overview
 
-Santa Cruz features beautiful hard coral formations creating an aquarium-like environment with marine life arranged among colorful corals. This shallow, scenic reef offers relaxed shallow diving with mild currents and excellent visibility, making it popular as a recovery dive or early-trip acclimatization site. Despite its beginner-friendly terrain and shallow depths (6-20 meters), this remote liveaboard destination requires Advanced certification due to Coiba's remote location and overall diving demands. Water temperatures average 26-30°C year-round with excellent 15-30 meter visibility.
+Santa Cruz features dense, healthy hard coral formations across a site that averages around 10 meters (32 feet) depth, with a maximum of 20 meters. The coral cover is dense enough that divers typically spend most of the dive seeking shelter within and around coral heads, both for photographic opportunities and to manage water movement from currents that affect the shallower sections at the start of the dive.
+
+Unlike the shark-heavy, current-driven sites at Faro and Montana Rusa, Santa Cruz emphasizes reef biodiversity. Firsthand accounts describe it as delivering an "untouched aquatic" environment with coral quality that stands out even within a park known for pristine reefs. Scorpionfish are specifically mentioned — one trip report (divemasteraustin.com) recorded a mated pair — along with abundant reef fish in the coral structures.
+
+Coordinates corrected to divemasteraustin.com-confirmed field location (7.632914, -81.781273).
 
 ## Site Information
 
-- **Location**: Eastern Coiba Island, Panama
+- **Location**: Northwestern Coiba Island area, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Mild to none
-- **Water Temperature**: 26-30°C (79-86°F) year-round
-- **Best Time**: Year-round diveable
+- **Typical Depth Average**: ~10 meters
+- **Typical Visibility**: 12–15 meters (reported as "fortunate" at 12–15m by one visitor; can be lower)
+- **Current**: Moderate at the start; manageable within coral formations
+- **Water Temperature**: 24–27°C
+- **Best Time**: Year-round; May–November for calmest conditions
 
 ## Marine Life
 
-Abundant colorful reef fish species, scorpionfish (rare sightings), diverse fish fauna, and vibrant hard coral gardens. Occasional reef sharks and stingrays pass through, though this site emphasizes coral ecology and smaller species over pelagic megafauna. Excellent macro habitat with diverse invertebrates.
+Confirmed species at Santa Cruz from firsthand reports: scorpionfish (including paired individuals in coral), diverse reef fish schools inhabiting the coral formations. The site is characterised by coral density and associated reef fish rather than large pelagic encounters. No site-specific confirmed reports of sharks or rays at Santa Cruz were found in available sources — those encounters are associated with the more exposed sites in Coiba's rotation.
 
 ## Dive Profile
 
-Begin in shallow water (6-9 meters) exploring vibrant hard coral gardens. Spend most dive time in upper 15 meters where light is optimal and coral color saturates brilliantly. Optional deeper exploration to 20 meters if conditions permit. Leisurely pace allows extended coral observation and macro photography. Ascend slowly while enjoying final coral zone views before surfacing.
+Enter in shallow water and descend into the coral formations. Most productive diving at 6–12 meters within and around the coral heads. Seek shelter from any current by positioning within coral structures. Average a leisurely pace to allow observation of camouflaged species such as scorpionfish. Ascend slowly through the upper coral zone for the safety stop.
 
 ## Entry and Exit
 
-Shallow water boat entry (5-8 meters) with giant stride or controlled entry. Descend along coral formations at leisurely pace. Light buoyancy work near corals essential. Ascend through same coral zone with final safety stop 3-5 meters in shallow water. SMB optional due to calm conditions but recommended for crew awareness.
+Boat only. Entry into relatively shallow water; descent into coral zone straightforward. Exit by ascending through coral to surface; SMB deployment recommended.
 
 ## Tips and Recommendations
 
-- Excellent "reset" dive after deeper or more challenging sites
-- Perfect for multi-dive days due to minimal air consumption at shallow depths
-- Bring macro lens for fish and coral photography
-- Ideal third-day dive for trip accumulation
-- Watch for camouflaged scorpionfish—excellent photography subject
-- Neutral buoyancy critical to protect delicate corals
+- This is an excellent "recovery" dive between demanding sites — low air consumption allows extended bottom time
+- Macro photography is rewarding: scorpionfish, small reef fish, and invertebrates are the main subjects
+- Neutral buoyancy is essential — dense coral means any loss of control will damage the reef
+- Ideal for divers not yet ready for strong-current sites
 
 ## Safety Considerations
 
-Mild conditions allow very relaxed diving, but maintain buddy contact throughout. Sun exposure high on shallow dives—liberal sunscreen essential. Maintain excellent buoyancy control to avoid coral damage. Current can shift unexpectedly; monitor briefing carefully. Always use SMB for boat communication. Enjoy the peaceful dive while remaining vigilant.
+Mild to moderate conditions, but standard boat-dive safety applies. Scorpionfish are venomous — look before placing hands near coral. Maintain neutral buoyancy throughout.
 
 ## Seasonal Notes
 
-Year-round diving excellent. Dry season (December-April) offers warmest surface temps (29-30°C) and brightest morning light. Rainy season (May-November) maintains excellent visibility with slightly cooler water (26-28°C).
-
-- **Validation Source**: Perplexity research (March 2026)
+Year-round diveable. Dry season (December–April) provides warmest water (29–30°C). Rainy season (May–November) is calmer overall with slightly cooler surface temperatures (24–27°C).
 
 ---
-*Dive site information researched March 2026. Updated with site-specific characteristics of this scenic Coiba reef.*
-
----
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [DiveMasterAustin - Santa Cruz Coiba](https://divemasteraustin.com/dive-sites/santa-cruz-coiba), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/). Last updated 2026-05-22.*
