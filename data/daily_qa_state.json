@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "christmas-island",
-    "chuuk-lagoon",
-    "cocos-island",
-    "coiba-national-park",
-    "colombia",
-    "cook-islands-rarotonga",
     "costa-rica",
     "cozumel",
     "croatia",
@@ -174,7 +168,13 @@
     "california-channel-islands",
     "canada",
     "cape-town",
-    "cayman-islands"
+    "cayman-islands",
+    "christmas-island",
+    "chuuk-lagoon",
+    "cocos-island",
+    "coiba-national-park",
+    "colombia",
+    "cook-islands-rarotonga"
   ],
   "history": [
     {
@@ -436,7 +436,7 @@
             "marine_life_stripped": 1,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "RMS Rhone passenger count corrected, Santa Monica Rock sharks/mantas removed, Chikuzen build year flagged single-source, Wreck Alley Marie L corrected, The Indians reclassified reef→pinnacle"
+            "notes": "RMS Rhone passenger count corrected, Santa Monica Rock sharks/mantas removed, Chikuzen build year flagged single-source, Wreck Alley Marie L corrected, The Indians reclassified reef\u2192pinnacle"
           },
           "cabo-pulmo": {
             "sites_total": 12,
@@ -446,7 +446,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "El Cantil reclassified wall→reef; La Esperanza depth 30→21m; La Lobera depth 8→18m; El Vencedor sinking date/length conflict documented; Las Casitas cup corals fabrication removed"
+            "notes": "El Cantil reclassified wall\u2192reef; La Esperanza depth 30\u219221m; La Lobera depth 8\u219218m; El Vencedor sinking date/length conflict documented; Las Casitas cup corals fabrication removed"
           },
           "california-channel-islands": {
             "sites_total": 10,
@@ -456,7 +456,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 3,
             "sites_unresolved": 1,
-            "notes": "Ex-Tortuga fully rewritten (was completely fabricated — wrong vessel, wrong location, wrong sinking cause); Goldenhorn nationality/location corrected; Equator explosive charges claim removed, depth 12→9m; Cuba passenger count conflict documented; Winfield Scott gold value conflict noted; Ex-Tortuga downgraded validated=false"
+            "notes": "Ex-Tortuga fully rewritten (was completely fabricated \u2014 wrong vessel, wrong location, wrong sinking cause); Goldenhorn nationality/location corrected; Equator explosive charges claim removed, depth 12\u21929m; Cuba passenger count conflict documented; Winfield Scott gold value conflict noted; Ex-Tortuga downgraded validated=false"
           },
           "canada": {
             "sites_total": 250,
@@ -466,7 +466,7 @@
             "marine_life_stripped": 50,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 3,
-            "notes": "Marco Polo wrong province/depth corrected (PEI not NS, 11m not 35m); MV Fosdyke Trader fabricated disappearance rewritten; USS LSM-56 wrong location+length corrected; HMCS Cape Breton wrong class+depth corrected; Barnard Castle depth 28→12m; 50 Nova Scotia sites had identical fabricated species lists stripped; Cypress Reef unvalidated (only 2 sources); LSM identity unconfirmed"
+            "notes": "Marco Polo wrong province/depth corrected (PEI not NS, 11m not 35m); MV Fosdyke Trader fabricated disappearance rewritten; USS LSM-56 wrong location+length corrected; HMCS Cape Breton wrong class+depth corrected; Barnard Castle depth 28\u219212m; 50 Nova Scotia sites had identical fabricated species lists stripped; Cypress Reef unvalidated (only 2 sources); LSM identity unconfirmed"
           },
           "cape-town": {
             "sites_total": 22,
@@ -476,7 +476,7 @@
             "marine_life_stripped": 12,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "Great white sharks absent False Bay since 2018 corrected across Shark Alley/Castle Rock/Clan Stewart; Thomas T. Tucker entry type corrected boat→shore; Het Huis te Kraaienstjin iron/bronze cannon error fixed; BOS 400 unverified cargo removed; Smitswinkel Bay scuttling dates 1972-1983 corrected; Tafelberg Reef wrong bay corrected; Partridge Point reclassified wall→reef; 3 difficulty corrections Beginner→Intermediate"
+            "notes": "Great white sharks absent False Bay since 2018 corrected across Shark Alley/Castle Rock/Clan Stewart; Thomas T. Tucker entry type corrected boat\u2192shore; Het Huis te Kraaienstjin iron/bronze cannon error fixed; BOS 400 unverified cargo removed; Smitswinkel Bay scuttling dates 1972-1983 corrected; Tafelberg Reef wrong bay corrected; Partridge Point reclassified wall\u2192reef; 3 difficulty corrections Beginner\u2192Intermediate"
           },
           "cayman-islands": {
             "sites_total": 16,
@@ -486,11 +486,90 @@
             "marine_life_stripped": 7,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 2,
-            "notes": "Ghost Mountain CRITICAL: coordinates were for Little Cayman not Grand Cayman — entire description rewritten; Cali depth 28→9m; Balboa depth 32→10m; Keith Tibbetts depth 50→26m; Stingray City depth 12→5m; Orange Canyon depth 25→30m; Kittiwake black box→flight data recorder; Chinese Wall and Japanese Garden unresolved (< 3 site-specific sources)"
+            "notes": "Ghost Mountain CRITICAL: coordinates were for Little Cayman not Grand Cayman \u2014 entire description rewritten; Cali depth 28\u21929m; Balboa depth 32\u219210m; Keith Tibbetts depth 50\u219226m; Stingray City depth 12\u21925m; Orange Canyon depth 25\u219230m; Kittiwake black box\u2192flight data recorder; Chinese Wall and Japanese Garden unresolved (< 3 site-specific sources)"
           }
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/71",
+      "errors": []
+    },
+    {
+      "date": "2026-05-22",
+      "slugs": [
+        "christmas-island",
+        "chuuk-lagoon",
+        "cocos-island",
+        "coiba-national-park",
+        "colombia",
+        "cook-islands-rarotonga"
+      ],
+      "summary": {
+        "sites_total": 71,
+        "sites_validated_today": 42,
+        "sites_re_audited": 71,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 18,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 17,
+        "by_destination": {
+          "christmas-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1
+          },
+          "chuuk-lagoon": {
+            "sites_total": 25,
+            "sites_validated_today": 0,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 9,
+            "sites_unresolved": 6
+          },
+          "cocos-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0
+          },
+          "coiba-national-park": {
+            "sites_total": 10,
+            "sites_validated_today": 8,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2
+          },
+          "colombia": {
+            "sites_total": 10,
+            "sites_validated_today": 7,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "colombia is isGroup:true; only child is providencia-island"
+          },
+          "cook-islands-rarotonga": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]
