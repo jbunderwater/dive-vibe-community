@@ -13,48 +13,50 @@ addedBy: osm_import
 
 # Dianas Ridge
 
-Rarotonga's best coral site, with approximately 30% live cover -- double or triple the island average. Multiple ridges and gullies near the airport runway and fringing reef, with a resident school of 10-12 spotted eagle rays, Christmas tree worms, giant clams, and anemones. Nine minutes from harbour.
+Widely regarded as the best coral dive on Rarotonga. Off the airport runway on the west side, with approximately 30% live coral cover — the highest on the island — and a resident school of 10 to 12 spotted eagle rays that cruise the ridge lines. A notable crack feature runs east back into the shallower reef. Nine minutes from harbour.
 
 ## Overview
 
-Dianas Ridge is widely regarded as the best coral dive on Rarotonga. Located off the airport runway near the fringing reef on the west side, the site features multiple ridges and gullies running NW through the volcanic reef. Live coral cover here is approximately 30% -- significantly higher than the 5-15% typical of most Rarotonga dive sites -- making it the standout reef for coral quality on the island.
+Dianas Ridge is located off the centre of Rarotonga's airport runway on the west side, approximately nine minutes from Avatiu Harbour. GPS coordinates from survey data: 21° 12.164' S, 159° 49.353' W.
 
-The site's other claim to fame is a resident school of 10-12 spotted eagle rays that are regularly encountered cruising along the ridge lines. Combined with Christmas tree worms, giant clams, and anemone colonies, Dianas Ridge offers the most diverse and colourful diving experience around Rarotonga. The site is nine minutes from Avatui Harbour.
+The site features multiple ridges extending northwest from the anchor point, running approximately 100 meters to the ridge end. A prominent feature is a large crack running east back into the shallower reef, measuring roughly 3 meters wide and 5 meters deep — worth swimming into. The ridges descend from the anchor at around 5 meters down to 25 meters on the main ridge, with the deepest sections reaching 35 to 40 meters.
+
+At approximately 30% live coral cover, Dianas Ridge has significantly more coral than the other west-coast sites (which typically run 5 to 15%). The dominant coral type is brain coral, and the higher cover brings a more varied fish community. The site's other outstanding feature is a resident school of 10 to 12 spotted eagle rays regularly encountered cruising the ridge lines.
 
 ## Site Information
 
-- **Location**: Off airport runway, west side, Rarotonga, Cook Islands
+- **Location**: Off airport runway centre, west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 40+ meters
-- **Water Temperature**: 24-27 degrees C
+- **Water Temperature**: 24-27°C
 - **Current**: Generally mild
 - **Best Time**: Year-round
 
 ## Marine Life
 
-The headline attraction is a resident school of 10-12 spotted eagle rays that cruise the ridge lines. Christmas tree worms (Spirobranchus) in vivid colours dot the reef surfaces. Giant clams (Tridacna) sit in the gullies. Anemone colonies with resident clownfish are found in the mid-depth range. The 30% live coral cover supports a richer fish community than other Rarotonga sites.
+The signature attraction is a resident school of 10 to 12 spotted eagle rays that cruise the ridge lines — on one documented visit, two individuals approached closely. Christmas tree worms in vivid colours (Spirobranchus) dot the reef surfaces. Giant clams (Tridacna) sit in the gullies. Guineafowl moray eels shelter in the rock crevices. Surgeonfish, trevally, butterflyfish varieties, and Moorish idols are present throughout. The 30% live coral cover, dominated by brain coral formations, supports a richer fish community than the other west-coast sites.
 
 ## Dive Profile
 
-Navigate through the multiple ridges and gullies running NW. The ridges extend to 40 meters at the outer edge, so monitor depth carefully. The eagle rays tend to cruise at mid-depth (15-25 meters) along the ridge lines -- hovering at this depth and watching the open water is the best strategy for encounters. The best coral growth is on the ridge surfaces between 10-25 meters.
+Navigate through the ridges running northwest from the anchor. The large crack running east into the shallower reef is an early landmark worth exploring. The main ridges extend to about 25 meters, with deeper sections descending to 35 to 40 meters at the outer edge — monitor depth carefully here. Eagle rays tend to cruise at mid-depth (15 to 25 meters) alongside the ridges; hovering at this range while watching the open water is the most productive strategy for encounters. The best brain coral growth concentrates between 10 and 25 meters.
 
 ## Entry and Exit
 
-Access by dive boat from Avatui Harbour, approximately nine minutes to the site. Entry by giant stride.
+Access by dive boat from Avatiu Harbour, approximately nine minutes. Entry by giant stride. West-side conditions are generally calm; morning dives tend to have the calmest surface conditions.
 
 ## Tips and Recommendations
 
-- This is the must-do dive on Rarotonga for coral quality and eagle ray encounters
-- The eagle rays are accustomed to divers but maintain a respectful distance -- do not chase them
-- Bring a wide-angle lens for the eagle rays and a macro for the Christmas tree worms -- this site rewards both approaches
-- Morning dives tend to have calmer conditions and better light on this west-facing site
+- The eagle ray school is the highlight; they cruise slowly and are accustomed to divers — do not chase them
+- Bring both a wide-angle and macro lens: the eagle rays reward wide-angle, the Christmas tree worms reward macro
+- The large crack feature early in the dive is worth investigating before heading to the deeper ridges
+- This is the must-do reef dive on Rarotonga for coral quality
 
 ## Safety Considerations
 
-The maximum depth of 40 meters at the outer edge requires intermediate-level experience and careful depth management. The exceptional visibility can make depth deceptive. Currents are generally mild.
+The outer edge descends to 35 to 40 meters — careful depth monitoring is required. The excellent visibility can make depth deceptive. Currents are generally mild but can increase near the outer reef edge.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=516), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
