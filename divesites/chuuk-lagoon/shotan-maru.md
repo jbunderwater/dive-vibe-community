@@ -17,7 +17,7 @@ A 1,999-ton Standard Type 1D wartime freighter sitting upright with a slight lis
 
 ## Overview
 
-The Shotan Maru was a 1,999-ton vessel of the Standard Type 1D class, a standardized wartime freighter design built in 1942 to meet Japan's urgent need for cargo tonnage as the Pacific War consumed merchant shipping. She sank during the American attacks on Truk Lagoon and now rests upright on the lagoon floor with a slight list to port, at a maximum depth of 50 meters.
+The Shotan Maru was a 1,999-ton vessel of the Standard Type 1D class, a standardized wartime freighter design (approximately 87 meters long) built in 1942 to meet Japan's urgent need for cargo tonnage as the Pacific War consumed merchant shipping. She sank when a bomb hit the aft hold during the American attacks on Truk Lagoon and now rests upright on the lagoon floor with a slight list to port. The hold depths range from approximately 36 meters at the shallowest structure to 45--53 meters at the hold bottoms, with the maximum depth around 53 meters.
 
 The Shotan Maru is one of Chuuk's under-dived wrecks. She lacks the famous cargo of the San Francisco Maru or the aircraft parts of the Fujikawa Maru, but she offers a worthwhile dive for those wanting to move beyond the marquee sites. The bow sits at approximately 40 meters, the bridge at about 37 meters, and the hold bottoms at 47 to 49 meters. Her compact size -- typical of the Type 1D standard design -- means the entire wreck can be explored on a single dive.
 
@@ -62,4 +62,4 @@ The Shotan Maru is a war grave -- removing any artifacts is strictly illegal und
 The Shotan Maru offers the opportunity for wreck photography without other dive groups in the frame -- a genuine advantage for clean compositions. The near-upright position provides conventional wreck perspectives that are easy to compose. The bridge at 37 meters and the bow at 40 meters provide accessible exterior subjects. Interior shots of the holds and engine room require powerful strobes at these depths. The wreck's compact size means a single wide-angle lens can serve for the entire dive. The absence of spectacularly famous cargo means photographic interest lies more in the wreck's structure, coral growth, and overall atmosphere.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=243). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Shotan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=243), [Dive3D - Shotan Maru](https://dive3d.eu/models/chuuk-lagoon-truk/shotan-maru/), [trukwreckdiving.com - Shotan Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/30-shotan-maru). Last updated 2026-05-22.*

@@ -17,7 +17,7 @@ A 5,386-ton freighter sitting upright on a sandy bottom with torpedoes standing 
 
 ## Overview
 
-The Seiko Maru was a 5,386-ton freighter, 114 meters long, launched in May 1940. She sank during the American attacks on Truk Lagoon in February 1944 and now rests upright on a sandy bottom with the bridge at approximately 30 meters and the keel just under 50 meters.
+The Seiko Maru was a 5,386-ton freighter, 114 meters long, launched in May 1940. On February 17, 1944, during Operation Hailstone, she was bombed by SBD Dauntless dive bombers from USS Enterprise, scoring direct hits that ignited a large explosion causing her to sink immediately. She rests upright on a sandy bottom with the bridge at approximately 23 meters, hold areas at 30--40 meters, and the keel at 49 meters.
 
 The Seiko Maru's holds contain a varied military cargo, highlighted by torpedoes -- some of which are still standing upright in the positions they were stowed for transport. Collapsible bicycles and various other supplies fill the remaining hold space. The engine room is accessible and worth exploring. The upright position on a flat sandy bottom makes the wreck's layout intuitive and navigation straightforward, creating a satisfying dive for those with the depth experience to reach her.
 
@@ -62,4 +62,4 @@ The Seiko Maru is a war grave -- removing any artifacts is strictly illegal unde
 The Seiko Maru's upright torpedoes are her most compelling photographic subjects -- their vertical stance in the holds creates powerful, unusual compositions. A diver positioned beside a torpedo provides essential scale. The bridge at 30 meters receives moderate ambient light and supports atmospheric superstructure compositions. The engine room interior rewards careful lighting with strobes. Powerful strobes are essential at depth to restore color across the wreck. The upright position and clear layout make pre-planning compositions feasible, allowing efficient use of limited bottom time.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Seiko Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822), [trukwreckdiving.com - Seiko Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/29-seiko-maru), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-05-22.*

@@ -63,4 +63,4 @@ The Gosei Maru's shallow stern section and moderate maximum depth of 35 meters m
 The Gosei Maru offers a range of photographic opportunities across its depth range. The shallow stern in 2.5 meters of water allows natural-light wide-angle shots with vibrant color. The dramatic roll angle creates unusual compositions with the wreck structure at unexpected orientations. The transition from near-surface to 35 meters along a single wreck provides varied lighting conditions in one dive. The good visibility (15-30 meters) supports clean wide-angle compositions of the overall wreck profile.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=228). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving - Gosei Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=228), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Additional independent sources to confirm vessel dimensions and sinking date were not located during this QA pass. Last updated 2026-05-22.*
