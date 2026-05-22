@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Ethel Beach
 
-Ethel Beach is a reef dive site in Christmas Island, Oceania.
+Ethel Beach is a sheltered shore dive on Christmas Island's northern coast with a fringing reef noted for its unspoiled coral formations and accessible conditions.
 
 ## Overview
 
-Ethel Beach is a sheltered shore dive on Christmas Island's northern coast with a protected fringing reef that makes it one of the calmer and more accessible sites on the island. The reef flat transitions to a coral slope descending to around 20 meters, populated with hawksbill and green turtles, resident whitetip reef sharks, and schools of surgeonfish and snapper working over the hard coral. Christmas Island's annual red crab migration is visible from shore here during October and November, adding a surreal above-water spectacle to a day's diving.
+Ethel Beach sits on the northern coast of Christmas Island, reached by a short path from the road. The beach has a boat ramp used by operators during the northwest monsoon season (approximately November–March) when west coast sites become exposed. The fringing reef just offshore is described by local sources as among the most pristine on the island, with colourful corals and abundant fish life visible in shallow water. The site is suitable for beginners and snorkellers. Turtle nesting occurs at this beach, and turtles are occasionally seen in the water. No site-specific species counts have been verified beyond general reef fish and turtle observations; the broader reef fauna that applies to Christmas Island's north coast generally includes surgeonfish, wrasse, and butterflyfishes. Strong currents can develop beyond the reef, so divers should stay within the protected shallows.
 
 ## Site Information
 
 - **Location**: Christmas Island, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Extra Divers Christmas Island](https://www.extradivers.com.au/), [Extra Divers Christmas Island Dive Sites](https://www.extradivers.com.au/dive-sites), [Dive Christmas Island](https://divingchristmas.com/), [Parks Australia Christmas Island Scuba Diving](https://parksaustralia.gov.au/christmas/do/scuba/), [SSI Diving Christmas Island](https://www.divessi.com/en/blog/diving-christmas-island-galapagos-indian-ocean-10239.html). Last updated 2026-04-04.*
+*Sources: [Christmas Island Tourism – Beaches](https://www.christmas.net.au/beaches), [Australian Traveller – Christmas Island Diving Sites](https://www.australiantraveller.com/territories/christmas-island/snorkelling-and-diving-sites-around-christmas-island/), [Christmas Island National Park – Scuba](https://christmasislandnationalpark.gov.au/do/scuba/). Last updated 2026-05-22.*

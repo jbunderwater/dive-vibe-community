@@ -12,9 +12,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet + arrivalguides.com (embedded coords)",
-      "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description"
+      "validated": "true",
+      "validation_source": "diveplanit.com,scubadiverlife.com,xray-mag.com",
+      "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -30,9 +31,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet",
-      "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water"
+      "validated": "true",
+      "validation_source": "diveplanit.com,arrivalguides.com,scubadiverlife.com",
+      "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -48,9 +50,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north"
+      "validated": "true",
+      "validation_source": "christmas.net.au,australiantraveller.com,christmas-island.gov.au",
+      "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -66,9 +69,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + dive operator sources",
-      "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north"
+      "validated": "true",
+      "validation_source": "christmasislandnationalpark.gov.au,australiangeographic.com.au,christmas.net.au",
+      "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -84,9 +88,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + dive operator sources",
-      "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west"
+      "validated": "true",
+      "validation_source": "divessi.com,christmas.net.au,extradivers-worldwide.com",
+      "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -95,16 +100,17 @@
     "lon": 105.5795,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest"
+      "validated": "true",
+      "validation_source": "diveplanit.com,arrivalguides.com,australiantraveller.com",
+      "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -120,9 +126,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet",
-      "coordinate_source": "diveplanit describes as 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point"
+      "validated": "true",
+      "validation_source": "diveplanit.com,xray-mag.com,nigelmarshphotography.com",
+      "coordinate_source": "diveplanit describes as 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point",
+      "last_qa_date": "2026-05-22"
     }
   },
   {
@@ -138,9 +145,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "perplexity + tourism sources",
-      "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east"
+      "validated": "true",
+      "validation_source": "christmas.net.au,australiantraveller.com,christmasisland.com",
+      "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east",
+      "last_qa_date": "2026-05-22"
     }
   }
 ]
