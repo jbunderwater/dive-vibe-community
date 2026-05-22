@@ -12,10 +12,10 @@ Providencia Island is a volcanic island in Colombia's San Andres archipelago, wi
 
 ### Diving Opportunities
 
-- **Wall Diving**: Wall sites including the deep Stairway to Heaven (52m), Nick's Place (40m), Felipe's Place (25m), and The Pinnacle (35m) -- Providencia's walls are its signature attraction
-- **Reef Diving**: Reef sites including Manta's City (20m), Crab Cay Reef (12m, beginner-friendly), and Convento Reef (15m) with patch reefs, pillar coral, and large fish schools
-- **Wreck Diving**: Blue Diamond wreck at 24 meters, rated Advanced
-- **Cave Diving**: Table Rock features cave formations at 25 meters with swim-throughs
+- **Wall Diving**: Wall sites including the deep Stairway to Heaven (52m), Nick's Place (40m), The Pinnacle (35m), and Felipe's Place (24m) — Providencia's walls are its signature attraction
+- **Reef Diving**: Reef sites including Manta's City (20m), Convento Reef (15m), Crab Cay Reef (12m, beginner-friendly), and Tete's Place (9m, Providencia's "fishiest" site) with patch reefs, pillar coral, and large fish schools
+- **Wreck Diving**: Blue Diamond wreck at approximately 14 metres, accessible to Open Water divers
+- **Cave Diving**: Table Rock features interconnected caves at 2–8 metres with nurse sharks and silversides; suitable for snorkelers and all diver levels
 - **Boat Diving**: All sites are boat-access, with short rides from the island's dive centers
 
 ### Accessibility
@@ -40,4 +40,4 @@ Providencia Island is a volcanic island in Colombia's San Andres archipelago, wi
 - **Safety**: Most sites are suitable for intermediate divers and above. The deep walls at Nick's Place and Stairway to Heaven require Advanced certification. The island is remote with limited medical facilities; the nearest hyperbaric chamber is in San Andres
 
 ---
-*Sources: [Scuba Diving Magazine - San Andres and Providencia](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Colombia Travel - Providencia Diving](https://colombia.travel/en/san-andres-island/scuba-diving-in-providencia-and-santa-catalina-unforgettable), [Joe's Scuba Shack - Providencia](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [DiveScover - San Andres and Providence](https://divescover.com/diving/colombia/san-andres-and-providence-islands). Last updated 2026-04-05.*
+*Sources: [Scuba Diving Magazine - San Andres and Providencia](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Colombia Travel - Providencia Diving](https://colombia.travel/en/san-andres-island/scuba-diving-in-providencia-and-santa-catalina-unforgettable), [Joe's Scuba Shack - Providencia](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/). Last updated 2026-05-22.*

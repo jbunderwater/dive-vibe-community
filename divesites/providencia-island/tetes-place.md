@@ -23,7 +23,7 @@ Tete's Place is a coralline shoal close to Providencia's shoreline at 7 to 9 met
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 

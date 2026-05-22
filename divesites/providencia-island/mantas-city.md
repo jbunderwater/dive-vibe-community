@@ -23,7 +23,7 @@ Manta's City (also referenced as "Manta's Place" by some operators) is a shallow
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

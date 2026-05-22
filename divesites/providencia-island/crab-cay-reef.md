@@ -23,7 +23,7 @@ Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitt
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
