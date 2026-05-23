@@ -23,7 +23,7 @@ Cardona is exceptional among Cozumel dive sites for being accessible from shore 
 
 - **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico (shore access)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10–25 meters (30–80 feet; can be reduced after storms)
@@ -59,4 +59,4 @@ Shore diving requires heightened personal responsibility without a boat crew or 
 The calm, current-free water at Cardona is outstanding for macro photography where camera stability is critical. Peacock flounder camouflage is a compelling subject against the sandy substrate. Trunkfish and cowfish portraits in clear, calm water can be made with a 60mm or 100mm macro lens. Natural light is very good in the morning shallows. Night diving adds octopus, sleeping parrotfish, and hunting lionfish to the photographic menu.
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Description based on limited source data. Sources consulted: [Scuba Diving Cozumel — Cardona](https://scuba-diving-cozumel.com/cardona/), [DiveBuddy — Cardona Reef](http://www.divebuddy.com/divesite/2057/cardona-reef-mexico/). Named after Mexican film director René Cardona who filmed underwater scenes here in 1957. Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*

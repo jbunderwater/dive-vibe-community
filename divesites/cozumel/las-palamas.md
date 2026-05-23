@@ -2,7 +2,7 @@
 name: Las Palamas
 lat: 20.384538
 lng: -87.0405578
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -13,18 +13,20 @@ addedBy: osm_import
 
 # Las Palamas
 
-A mid-coast Cozumel reef in the central dive zone, offering dependable drift conditions and an active fish population in a well-developed coral garden.
+A mid-coast Cozumel reef (known as Las Palmas Reef in local usage) with a gentle slope dotted with sponges, small coral heads, and soft corals — an ideal site for beginners and snorkellers.
 
 ## Overview
 
-Las Palamas sits in the central portion of Cozumel's leeward dive corridor, between the popular Tormentos site to the south and the San Miguel hotel zone to the north. The site is a classic spur-and-groove reef with well-defined parallel coral ridges and sandy channels, reaching a maximum depth of 20 meters at the base of the outer slope. The central location makes Las Palamas convenient for operators based across the island, and the consistent drift conditions make it a reliable choice when other sites experience variable current. The reef structure is healthy and well-colonised, with robust brain coral and star coral formations that have recovered well from previous bleaching events.
+Las Palamas (known as Las Palmas Reef in local dive guides) sits in the central portion of Cozumel's leeward dive corridor. The site is a sloping drop-off decorated with rough tube sponges, brain coral, rope sponge, gorgonians, and soft corals. It was damaged by Hurricane Rita but has been recovering well. Depths are commonly dived in the 50–70 foot (15–21 meter) range among scattered coral heads, with a sloping drop-off from 70 to about 100 feet (21–30 meters). Sources describe the maximum diveable range at around 45 feet (14 meters) for the primary reef section, making it good for beginners and snorkellers. The central location makes it a convenient choice for operators across the island.
+
+**Note on OSM name**: The name appears in OSM as "Las Palamas" — a likely typo. The established site name in all local dive references is Las Palmas Reef.
 
 ## Site Information
 
 - **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate northward drift
@@ -64,4 +66,4 @@ Las Palamas offers well-balanced photography across wide-angle reef and macro su
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Las Palmas Reef](https://www.reefsofcozumel.com/laspalmas.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Scuba Diving Cozumel — Las Palmas](https://scuba-diving-cozumel.com/las-palmas/). Last updated 2026-05-23.*

@@ -2,10 +2,10 @@
 name: Cantarell Sand Reef
 lat: 20.534112
 lng: -86.949577
-difficulty: Beginner
-maxDepth: 10
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869367
 addedBy: osm_import
@@ -13,50 +13,52 @@ addedBy: osm_import
 
 # Cantarell Sand Reef
 
-A uniquely shallow, sandy reef system in Cozumel's northern zone — exceptional for snorkelling, beginners, and macro photography in pristine shallow water.
+Cozumel's northern Eagle Ray Wall — a dramatic drop-off north of San Miguel drawing mass aggregations of spotted eagle rays from December through February.
 
 ## Overview
 
-Cantarell Sand Reef is one of Cozumel's shallowest dive sites, with a maximum depth of just 10 meters over a sandy-bottomed reef of scattered coral heads and patch reef formations. The site name references the shallow sand-and-coral mix that characterises the terrain. At these depths, natural light is intense and visibility is exceptional, often reaching 30 meters horizontally. The combination of maximum bottom time at minimal depth, calm northern leeward conditions, and the rich shallow marine life makes this an outstanding choice for beginners, snorkellers, and photographers focused on macro subjects. The coral heads — rising from white sand at 3–10 meters — support a surprising density of life for a shallow site.
+Cantarell (also spelled Cantarel) is known locally as the Spotted Eagle Ray Wall. The OSM name "Cantarell Sand Reef" is misleading — the site is a genuine wall dive, not a sand reef. The wall drops from around 12 meters at the reef crest to over 30 meters on the face, with strong to extremely strong currents that make this site suitable for experienced divers only. Located just north of downtown San Miguel, it extends southward along the same wall system as Villa Blanca.
+
+The site's signature attraction is the seasonal aggregation of spotted eagle rays. From December through February, up to 20 or more rays congregate along the wall face at approximately 25 meters, making this one of the most reliable eagle ray encounters in Cozumel's dive calendar. Outside this season, the site still offers a dramatic wall dive but without the ray aggregations.
 
 ## Site Information
 
-- **Location**: Northern leeward coast, Cozumel, Quintana Roo, Mexico
+- **Location**: North of San Miguel, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Very light to none in the northern sheltered zone
-- **Best Time**: Year-round; the shallowness makes this diveable in almost any weather
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20–35 meters
+- **Current**: Strong to extremely strong — treat as a serious drift dive
+- **Best Season**: December–March for eagle ray aggregations; November–March for optimal conditions
 
 ## Marine Life
 
-The sandy flats around the coral heads host an excellent variety of cryptic and camouflaged species that thrive in undisturbed shallow environments. Spotted and chain moray eels occupy every suitable coral crevice. Caribbean spiny lobsters retreat into base cavities during the day. Sand tile fish maintain vertical burrows in the sandy areas and pop up comically when approached slowly. Yellowhead jawfish brood eggs orally and can be observed in open sand patches near coral bases. Caribbean reef squid frequently hover above the site in small groups. Garden eels sway from the sandflat in the distance, retracting as divers approach. Southern stingrays forage through the sand.
+The eagle ray aggregations are the primary draw: spotted eagle rays, sometimes numbering 20 or more individuals, parade along the wall face between December and February. Year-round, the site hosts nurse sharks, sea turtles, groupers, barracuda, damselfish, and moray eels. The shallow areas at the reef crest have juvenile fish, razorfish, and occasional seahorse sightings. Lionfish have been documented on the wall face.
 
 ## Dive Profile
 
-An ultra-relaxed drift over the sandy reef at depths rarely exceeding 8 meters. Extended bottom times of 70–90 minutes are achievable. The dive consists largely of slow cruising from coral head to coral head, pausing at each to examine the surrounding sand and crevices. The safety stop at 5 meters is simply more of the same — the dive barely changes character with depth. This is a meditative, slow-paced site that rewards divers who can maintain near-zero movement.
+Divers must enter as a group and ascend together due to the strong current, which can carry divers rapidly along the wall or create downcurrents. Drop to the wall face at approximately 20–25 meters to intercept the eagle rays during season; 30 minutes of bottom time is typical with regular air, longer with nitrox. The current dictates the direction; do not fight it. The captain follows from the surface.
 
 ## Entry and Exit
 
-Short boat ride from the northern zone — 10–15 minutes. No mooring issues at this depth; the boat may anchor nearby. Entry by giant stride or even from a swim-off platform given the calm conditions.
+Boat dive from San Miguel or northern zone piers. Strong current entry requires a coordinated group descent. Water-column ascent with SMB mandatory. Nitrox 32 recommended by local operators to extend bottom time at depth.
 
 ## Tips
 
-- Move very slowly and maintain neutral hover over the sand — many species here flee at the approach of a disturbance
-- Sand tilefish burrows and jawfish holes are best approached from a distance; stop 2–3 meters away and wait
-- This site is excellent for a certification check dive or introductory dive given the calm, shallow conditions
-- Pairing with a deeper morning dive makes Cantarell Sand Reef a perfect relaxed afternoon addition
-- Snorkellers from the boat can access most of the best life from the surface given the extreme shallowness
+- Nitrox 32 is recommended to extend eagle ray observation time at depth
+- Visit December through February specifically for the ray aggregations — this is when the site is at its best
+- The current can shift or push downward without warning; stay alert and follow the divemaster
+- This is not a site for newly-certified divers regardless of depth — current management is the primary skill required
+- The shallow reef crest (5–12 meters) is worth exploring before dropping to the wall
 
 ## Safety
 
-The shallowest and most beginner-friendly site in Cozumel's standard circuit. The main hazard is sunburn and dehydration given the extended surface intervals at a popular site. Fire coral does occur on some shallow coral heads — be aware. The recompression chamber in San Miguel is approximately 15–20 minutes away by boat — the closest of all Cozumel sites.
+Strong and unpredictable currents are the primary hazard. Downcurrents are not uncommon. Sources note that divers can be separated from the boat in extreme conditions. The Port Captain monitors diving in this northern zone. Always dive with an experienced local operator familiar with the site's variable conditions. Carry and deploy an SMB — surface pickup in current can be difficult.
 
 ## Photography
 
-Cantarell is a macro photographer's paradise. The intense natural light at 3–10 meters eliminates the need for strobe compensation. Yellowhead jawfish with eggs can be photographed with a 60mm or 100mm macro lens from close range if approached carefully. Sand tilefish emerging from their burrows are excellent behavioural subjects. Caribbean reef squid over the open sand reward patient wide-angle photographers. The clear, shallow water means exceptional image quality even from compact or GoPro systems.
+The eagle ray aggregations in winter months are among the most photographically dramatic spectacles in Caribbean diving. Position yourself on the wall face at 20–25 meters upcurrent of the ray group, allow them to pass, and shoot as they swim past. Wide-angle or fisheye lenses at f/8–f/11 capture the rays against the blue water column. Current makes static positions challenging — practice neutral buoyancy positioning before shooting here.
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Cantarel (Spotted Eagle Ray Wall)](https://www.reefsofcozumel.com/cantarel.html), [Scuba Diving Cozumel — Cantarell](https://scuba-diving-cozumel.com/cantarell/), [Mexico Greatest Dive Sites — Cantarell Reef](https://mexico.greatestdivesites.com/cozumel/cantarell_reef). Last updated 2026-05-23.*

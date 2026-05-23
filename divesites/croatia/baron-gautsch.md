@@ -13,16 +13,16 @@ addedBy: osm_import
 
 ## Baron Gautsch
 
-Baron Gautsch is one of Croatia's most historically significant wreck dives — the remains of an Austro-Hungarian passenger steamer sunk on 13 August 1914 by a mine off Rovinj in the northern Adriatic. The vessel, which was carrying civilian refugees, sits upright on a sandy bottom and is regarded as a war grave.
+The Baron Gautsch is the most famous wreck in the Adriatic — the remains of an Austro-Hungarian passenger steamer that struck a mine on 13 August 1914 and sank within five to seven minutes, killing 127 passengers and crew. It is sometimes called the "Titanic of the Adriatic" and is registered as a Croatian cultural monument and war grave.
 
 ## Overview
 
-The Baron Gautsch rests at 28–40 metres on a gently sloping seabed west of Rovinj, lying on her starboard side with substantial structural integrity. At 85 metres long, the wreck offers extensive exploration over multiple dives. Adriatic visibility is typically excellent in summer, reaching 20–30 metres, and the wreck is heavily encrusted with sponges, gorgonian fans, and soft corals that give it a striking appearance when illuminated by a torch.
+The Baron Gautsch rests at 28–40 metres on a sandy and stony bottom approximately seven nautical miles from the Brijuni islands, west of Rovinj. The wreck is lying on its side and is broken in many places — the chimneys and masts have fallen over, and the three propellers were removed. Despite this deterioration, the hulk remains a substantial and heavily encrusted structure spanning 84.55 metres in length. The Adriatic's clear northern waters typically provide 15–30 metres of visibility at the site. Diving is only permitted through local dive centres holding a permit from the Croatian Ministry of Culture.
 
 ## Site Information
 
-- **Location**: Off Rovinj, Istria, Croatia
-- **Entry Type**: Boat dive
+- **Location**: Seven nautical miles from Brijuni islands, off Rovinj, Istria, Croatia
+- **Entry Type**: Boat dive (operator-organised only; permit required)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
@@ -32,31 +32,31 @@ The Baron Gautsch rests at 28–40 metres on a gently sloping seabed west of Rov
 
 ## Marine Life
 
-The wreck's encrusted hull and scattered debris field support dense populations of conger eels tucked into dark recesses, plus large grouper that patrol the superstructure. Nudibranchs and sea slugs are found on the sponge-covered plating, while sea bream and wrasse circle the upper sections in the ambient light. Scorpionfish sit motionless on rusted surfaces, well camouflaged against the encrustation.
+No site-specific marine life reports verified against this exact location. Regional Adriatic/Mediterranean fauna applies: grouper, conger eels, scorpionfish, sea bream, and various sponge and soft coral encrustation are typical at this depth range in the northern Adriatic.
 
 ## Dive Profile
 
-Descend to the bow at around 28 metres and work your way aft along the port side. The deepest point — the stern with the propeller — reaches 40 metres, so plan carefully for bottom time and gas management. A natural penetration of the cargo holds is possible for trained wreck divers. Allow gas for a multi-level ascent and a 3–5 minute safety stop at 5 metres.
+The wreck's upper deck is accessible at around 28 metres; the deeper sections of the hull reach 40 metres. Gas management is critical given the depth. Explore the exterior structure and accessible openings with a torch. Allow sufficient gas for a multi-level ascent and a 3–5 minute safety stop at 5 metres. Penetration of enclosed sections requires proper wreck training and redundant lighting.
 
 ## Entry and Exit
 
-Dive boats from Rovinj operators moor directly to the wreck buoy. Entry is by giant stride or back roll. Ascent is along the mooring line. Deploy an SMB if free ascending. Sea conditions can deteriorate quickly in the northern Adriatic — confirm weather before departure.
+Dive boats from Rovinj operators moor directly to the wreck buoy. Entry is by giant stride or back roll. Ascent is along the mooring line. Deploy an SMB if free ascending. All dives must be conducted through a licensed local operator.
 
 ## Tips and Recommendations
 
-- This is a designated war grave — treat the site with respect and do not remove any artefacts
-- Bring a primary and backup torch for interior sections and deep overhangs
-- Gas planning is critical: depth reaches 40 m and bottom time is limited on air
-- A drysuit or 7 mm wetsuit is recommended in spring and autumn when water temperature drops to 12–15°C
-- Wide-angle photography rewards patience — the full bow section framed in blue water is iconic
+- This is a designated war grave — treat the site with complete respect; artefact removal is prohibited
+- The permit requirement means you cannot dive here independently — book through a Rovinj dive centre
+- Bring a primary and backup torch for interior sections and overhangs
+- Gas planning is critical at 40m depth
+- A drysuit or 7 mm wetsuit is recommended in spring and autumn
 
 ## Safety Considerations
 
-Depth, silting in enclosed sections, and occasional stronger currents make this an Advanced-only site. Nitrox is strongly recommended for extended bottom time. Avoid penetration without proper wreck training, a reel, and redundant lighting. Always ascend with adequate gas reserve for a safety stop.
+Depth, the broken and silted interior, and occasional currents make this an Advanced-only site. Nitrox is recommended for extended bottom time. Avoid penetration without proper wreck training, a reel, and redundant lighting. Always ascend with adequate gas reserve for a safety stop.
 
 ## Photography
 
-The bow with its anchor chains and encrusted hawse pipe makes a dramatic wide-angle composition. Natural light penetrates well to the upper sections in midday summer conditions. A torch reveals vivid orange and yellow sponge colours on the hull plating.
+The encrusted bow section and scattered hull framed in blue water are the iconic images. Natural light penetrates well to the upper sections in midday summer conditions. A torch reveals the colours of orange and red sponge encrustation on the hull plating.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [Wikipedia – SS Baron Gautsch](https://en.wikipedia.org/wiki/SS_Baron_Gautsch), [Rovinj Sub – Wreck Baron Gautsch](https://rovinj-sub.hr/site/wreck-baron-gautsch/17), [Total Croatia News – SS Baron Gautsch](https://total-croatia-news.com/news/travel/ss-baron-gautsch/). Last updated 2026-05-23.*

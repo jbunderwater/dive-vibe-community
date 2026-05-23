@@ -2,8 +2,8 @@
 name: Holzsegelschiff mit Geschützen
 lat: 44.9830333
 lng: 14.5339
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,49 +13,51 @@ addedBy: osm_import
 
 ## Holzsegelschiff mit Geschützen
 
-"Holzsegelschiff mit Geschützen" translates from German as "wooden sailing ship with cannons" — an evocative name for what appears to be the remains of a historical armed sailing vessel resting on the seabed off Cres/Lošinj in the northern Adriatic. The site is notable for the visible cannon-like artefacts associated with the wreck debris.
+"Holzsegelschiff mit Geschützen" translates from German as "wooden sailing ship with cannons." This site is known to local dive operators as the "Guns of Plavnik" — the remains of a wooden sailing vessel (described as a brig schooner) believed to date from the late 18th or early 19th century, located north of Mali Plavnik island in the Kvarner. The site is notable for approximately 14 steel cannons, now fused into blocks by concretion, along with remnants of the bow and board work visible on the seabed.
+
+Local legend holds that in 1524, pirates robbed a rich trading galley near Plavnik and the prince's guard from Krk intercepted and sank the pirate vessel — though no documentary source has been verified to confirm this specific narrative.
 
 ## Overview
 
-The scattered remains of this historic vessel lie at around 20–25 metres on a mixed sand and rock bottom. The wooden hull has largely deteriorated, but iron fittings, ballast stones, and what appear to be cannon barrels are visible among the debris. The site has become a colourful artificial reef over many decades, encrusted with Mediterranean invertebrates and surrounded by local fish life. Visibility in these northern Adriatic waters is typically excellent, often 15–25 metres in summer.
+The scattered remains lie at 21–40 metres on a mixed seabed. The wooden hull has long deteriorated, but the cannon block formations are the defining feature of this site. The historical and archaeological nature of the site means it is protected, and no artefacts may be touched or removed. The Kvarner's clear water typically provides 15–25 metres visibility.
 
 ## Site Information
 
-- **Location**: Cres/Lošinj area, Kvarner, Croatia
+- **Location**: North of Mali Plavnik island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wreck (historical)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Generally light
 - **Best Time**: May to October
 
 ## Marine Life
 
-The wreck debris field supports octopus using the sheltered spaces beneath hull remnants, conger eels in any larger cavities, and moray eels on the rocky sections surrounding the site. Grouper, sea bream, and ornate wrasse are abundant in the water column, and in summer barracuda may be spotted patrolling above the site.
+No site-specific marine life reports verified against independent sources. Regional Adriatic/Kvarner fauna applies at this depth range.
 
 ## Dive Profile
 
-Descend to the main debris area at 20–25 metres. Spend time examining individual artefacts — the cannon-like objects are the highlight. Explore the perimeter of the debris field, which extends over a moderate area. Ascend in the water column above with a safety stop at 5 metres.
+Descend to the debris field area at 21–40 metres. The cannon blocks are the main feature. Explore the scattered remains, observing the concretion-fused cannons and any surviving structural elements. Ascend carefully with deliberate stops; allow adequate gas for the ascent from this depth.
 
 ## Entry and Exit
 
-Dive boats from Cres or Mali Lošinj operators access this site. Descent via anchor line or shot line. Deploy an SMB for ascent from depth.
+Dive boats from Cres or Mali Lošinj / Krk operators access this site. Descent via anchor line or shot line. Deploy an SMB for ascent from depth.
 
 ## Tips and Recommendations
 
-- This is a historically sensitive site — do not touch, move, or remove any artefacts
-- A torch helps illuminate the more encrusted objects and any sheltered cavities
-- Sketch or photograph the layout from above before descending into the debris field
-- Macro subjects abound on the sponge-covered iron and stone surfaces
+- This is a historically sensitive archaeological site — do not touch, move, or remove any artefacts
+- A torch helps illuminate the encrusted cannon blocks and any sheltered cavities in the wreck material
+- The depth (21–40m) makes this an Advanced dive — gas management is important
+- Combine with a dive at the nearby Mali Plavnik towers for a varied Plavnik-area programme
 
 ## Safety Considerations
 
-Depth is within recreational limits and conditions are typically gentle. The main hazards are silt disturbance near the debris field and the historical sensitivity of the site. Do not dig in the seabed. Carry an SMB and dive with a buddy.
+Depth reaches 40 metres at the lower end of the debris field. Maintain disciplined gas management. The site's historical sensitivity requires careful buoyancy to avoid silt disturbance near the cannons. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-The cannon-like artefacts draped in encrusting organisms make striking wide-angle and macro subjects. A diver hovering over the scattered debris provides excellent scale. Strobe lighting brings out the vivid colours of the sponge communities growing on the ancient ironwork.
+The concretion-fused cannon blocks draped in encrusting organisms are distinctive wide-angle and macro subjects. A diver hovering over the scattered remains provides scale. Strobe lighting brings out the colours of the biological community growing on the ancient ironwork.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [Dive Center KRK – Guns of Plavnik](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Guns of Plavnik](https://www.dive-loft-krk.com/dive-sites/), [Mare Vrbnik – Plavnik Island](https://www.mare-vrbnik.com/en/blog/plavnik-island). Last updated 2026-05-23.*

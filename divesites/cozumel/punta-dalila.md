@@ -23,7 +23,7 @@ Punta Dalila is a shallow point reef in the southern section of Cozumel's leewar
 
 - **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -64,4 +64,4 @@ The bright, shallow, clear water at Punta Dalila is excellent for natural-light 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and limited source data. Sources consulted: [Divescover — Punta Dalila](https://divescover.com/dive-site/punta-dalila/25401), [Wannadive — Punta Dalila](https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Punta_Dalila/index.html). Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*

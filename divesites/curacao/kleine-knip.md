@@ -3,76 +3,56 @@ name: Kleine Knip
 lat: 12.341558
 lng: -69.1538671
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 25
 entryType: Shore
 siteType: wall
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 447928252
+addedBy: extended_overpass
 ---
 
 ## Kleine Knip
 
-Kleine Knip (Playa Kenepa Chiki) is a beautiful shore dive featuring a dramatic wall with Star Coral formations, perfect for beginner divers exploring Curaçao's stunning northwest coast.
+Kleine Knip (Playa Kenepa Chiki) is a shore dive at an undeveloped beach on Curaçao's northwest coast — a 10-minute surface swim across sand leads to a wall with vibrant gorgonians and a productive sandy plateau known for eagle ray sightings.
 
 ## Overview
 
-Kleine Knip is a beloved shore dive site located below Landhuis Knip on Curaçao's northwest coast. The site features an accessible public beach with shallow entry leading to dramatic wall formations and impressive Star Coral structures. After a brief swim across sandy bottom, divers encounter the reef and wall starting around 8-10 meters, with Star Coral formations visible at moderate depths. The wall gradually descends to depths suitable for intermediate divers, creating a site that welcomes all experience levels. The combination of easy beach access, calm conditions, and abundant marine life typical of Curaçao's cold-water wall diving makes Kleine Knip a must-visit destination.
+Kleine Knip sits below limestone cliffs on the northwest coast, a small, quieter neighbour to Grote Knip nearby. The beach has limited facilities (toilets and shade huts are available) and sees fewer divers than the more developed west-coast sites, making it a good choice for a calmer experience.
+
+The dive requires a surface swim of approximately 10–15 minutes across sandy bottom before reaching the drop-off. The approach is unspectacular — mostly sand — but eagle rays are regularly spotted on the sandy plateau before the reef begins. Once at the wall, visibility typically reaches 25 metres and coral coverage increases with depth between 10 and 25 metres.
 
 ## Site Information
 
-- **Location**: Northwest coast, near Landhuis Knip village
-- **Entry Type**: Shore
-- **Site Type**: Wall dive
+- **Location**: Northwest coast, near Landhuis Knip
+- **Entry Type**: Shore (sandy beach entry)
+- **Site Type**: Wall (with sandy plateau approach)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal, occasional mild current
-- **Best Time**: Year-round, excellent conditions
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 25 metres
+- **Current**: Usually limited
 
 ## Marine Life
 
-The protected bay at Kleine Knip supports diverse marine life typical of healthy Caribbean reefs. Divers regularly encounter green sea turtles, including juveniles, which are commonly seen grazing on the seagrass beds. The reef hosts numerous species of tropical fish including parrotfish, angelfish, butterflyfish, and damselfish. Macro life includes octopus, seahorses, and various crabs hiding among the coral formations. Schools of sweepers and grunts are frequently observed, particularly in the early morning hours. The site is also known for occasional sightings of eagle rays and nurse sharks in deeper waters.
+Confirmed at this site: eagle rays on the sandy approach (a specific feature noted by multiple dive guides), moray eels, groupers, sea turtles, lionfish, vibrant gorgonians, orange cup corals, and schools of fingerlings around the reef structure. The sandy bottom before the reef is specifically noted as good eagle ray habitat.
 
 ## Dive Profile
 
-Entry is from the sandy public beach directly below the car park, in shallow water (1-2 meters). Divers wade out and swim across a sandy bottom (approximately 50-100 meters) before encountering the reef and wall formations. The wall begins around 8-10 meters depth and features prominent Star Coral formations rising from the wall structure. The gradually descending topography allows beginners to explore the shallower sections while intermediate divers can venture to the full wall depth of 20 meters. The site accommodates varying experience levels, with excellent coral and fish life at all depths. Extended bottom times are possible given the moderate depth, making it ideal for photography and unhurried exploration.
+Enter from the sandy public beach. Fin across a sandy bottom for 10–15 minutes (slow pace) until the wall appears. The wall is beautiful from 10–20 metres with healthy coral coverage and sponge growth. Below 20 metres the coral density decreases and the bottom becomes mainly sandy. Divers typically work along the wall before returning across the sand to exit.
 
 ## Entry and Exit
 
-Entry is straightforward from the sandy beach, though coral rubble near the water's edge requires careful foot placement. The initial entry area has some rock shelves in shallow water, so reef shoes or booties are recommended. Wade out until you can float comfortably before putting on fins. The sandy bottom transitions to coral reef within 50 meters of shore. Exit is via the same entry point, taking care of the coral rubble and rock shelves when returning to beach level.
+Straightforward sandy beach entry. The beach has some coral rubble near the water's edge — reef shoes recommended. Wade out until you can float, then surface swim to the reef. Exit by the same route.
 
 ## Tips and Recommendations
 
-- Visit early morning (before 8 AM) for best fish activity and fewer crowds
-- Bring reef-safe sunscreen as the bay offers limited natural shade
-- Pack snacks and water as facilities are limited
-- Respect the free palapas and picnic tables available on the beach
-- Consider combining with nearby Grote Knip for a full day of diving
-- Don't touch or damage the healthy coral formations
+- Scan the sandy bottom carefully on the approach — this is where eagle rays are most commonly seen
+- Go early (before 8 AM) for calmer conditions and less boat traffic
+- Combine with Grote Knip (adjacent bay) for a full day of diving
+- Bring everything you need — facilities are basic
 
 ## Safety Considerations
 
-The protected bay provides generally safe diving conditions, though some caution is needed regarding the coral rubble entry and rock shelves. Be aware of occasional fishing lines from shore-based fishermen, particularly on the left side of the bay. The shallow reef requires good buoyancy control to avoid coral damage. Check weather conditions before diving, as even this protected site can experience rough conditions during strong weather. Always dive with a buddy and carry a surface marker buoy for safety.
-
-## Photography
-
-Kleine Knip offers excellent opportunities for both wide-angle and macro photography. The healthy elkhorn corals provide dramatic foreground subjects, while the clear water allows for excellent ambient light photography. Early morning light filtering through the water creates beautiful scenes with the coral formations. The diverse marine life, including sea turtles and colorful reef fish, provides numerous subjects for underwater photography. The dramatic limestone cliffs above water can be incorporated into over-under shots.
-
-## Nearby Sites
-
-- **Grote Knip (Playa Kenepa Grandi)**: Adjacent larger bay with similar diving conditions
-- **Playa Lagun**: 15 minutes drive south, excellent for turtle encounters
-- **Playa Jeremi**: 10 minutes drive south, another protected bay dive
-- **Playa Kalki**: 20 minutes drive north, known for Alice in Wonderland dive site
-- **Mushroom Forest**: Accessible by boat from nearby areas
-
-## Additional Resources
-
-- Curaçao Marine Park regulations and guidelines
-- Local dive shop recommendations at Dive Curaçao website
-- Weather and sea conditions at Curaçao Meteorological Service
-- Emergency contact: Curaçao Hyperbaric Center (+599 9 465-2647)
+The long sand swim means you are at some distance from shore when you reach the wall. Carry a surface marker buoy. Fishing from shore occasionally occurs — be aware of lines in the water. A surface marker buoy is mandatory.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Playa Kenepa Chikitu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-chikitu/), [Divers-Guide.com — Kleine Knip](https://www.divers-guide.com/en/kenepa-kleine-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-23.*

@@ -7,73 +7,52 @@ maxDepth: 18
 entryType: Shore
 siteType: reef
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 448022080
+addedBy: extended_overpass
 ---
 
 ## The Valley
 
-The Valley (Porto Marie) is a unique double reef system offering exceptional diving and snorkeling experiences with its distinctive underwater topography and diverse marine life.
+The Valley at Porto Marie is a shore dive on Curaçao's west coast featuring a distinctive double reef system — two parallel coral walls separated by a sandy channel — with among the most diverse confirmed marine life of any Curaçao shore dive.
 
 ## Overview
 
-The Valley, also known as Porto Marie or Playa Porto Mari, is famous for its unique double reef formation that creates a natural underwater valley between two parallel coral walls. This distinctive topography makes it one of Curaçao's most interesting dive sites, suitable for both beginners and experienced divers. The site features a shallow sandy plateau that gradually descends into the "valley" between the two reefs before dropping off to deeper water. The protected bay location provides excellent conditions year-round, while the diverse underwater landscape supports a rich variety of Caribbean marine life. The combination of shallow areas perfect for snorkeling and deeper sections for advanced diving makes this a versatile destination.
+Porto Marie Beach (also called Playa Porto Mari) operates as a private beach with an entrance fee. The "Valley" refers to the sandy channel that runs between the two parallel reef systems accessible from the beach.
+
+The first reef begins at approximately 15 metres; the sandy valley floor connects to the second reef at approximately 18 metres. Forum divers describe the site as a "triple reef" with distinct left, middle, and right reef sections accessible from the same beach entry, with the middle reef reaching approximately 27 metres (90 feet). The two or three reefs look notably different from each other — one reason this site rewards multiple dives.
 
 ## Site Information
 
-- **Location**: West coast, Sint Willibrordus area
-- **Entry Type**: Shore
-- **Site Type**: Coral reef
+- **Location**: West coast, Porto Marie Bay, Sint Willibrordus area
+- **Entry Type**: Shore (sandy beach entry, entrance fee required)
+- **Site Type**: Coral reef (double reef with sandy valley)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal, occasional mild current
-- **Best Time**: Year-round, excellent conditions
+- **Maximum Depth**: 18 metres (first/second reef); middle reef to ~27 metres
+- **Typical Visibility**: 30+ metres
+- **Current**: Usually minimal to none
 
 ## Marine Life
 
-The Valley's unique double reef structure creates diverse habitats supporting abundant marine life. The sandy valley floor is home to yellow stingrays, garden eels, and various flatfish species. The coral walls host typical Caribbean reef fish including parrotfish, angelfish, wrasses, and butterflyfish. Regular sightings include green sea turtles, hawksbill turtles, and nurse sharks. The site is particularly known for eagle ray encounters, especially near the deeper drop-off areas. Schools of sergeant majors, blue tangs, and yellowtail snappers are common throughout the reef system. Macro life includes Christmas tree worms, flamingo tongues, and various crustaceans hiding in the coral formations.
+Confirmed species at this site: angelfish, parrotfish, groupers, brown chromis, yellowtail snappers, triggerfish, trumpetfish, cornetfish, sea turtles, lobsters, stingrays, spotted eagle rays, nurse sharks, blue tangs, trunkfish, and creole wrasses. The double reef structure creates distinct habitats on each wall.
 
 ## Dive Profile
 
-The dive begins from a sandy beach in shallow water (2-3 meters), making it ideal for beginners and certification dives. The initial area features a sandy plateau extending 50-100 meters offshore before reaching the first reef wall. The "valley" between the two reefs offers easy navigation and interesting topography at depths of 8-15 meters. The outer reef wall provides access to deeper water, reaching 25-35 meters for more experienced divers. The site allows for multiple dive profiles, from shallow reef exploration to deeper wall dives, with plenty of marine life at all depths.
+Sandy beach entry leads directly to the first reef. The sandy valley between reef one and reef two provides easy navigation — divers can fin along one reef face, cross the valley, and return along the other. The reef systems run parallel to the shore, making the dive profile intuitive. The site can be disorienting if currents shift — a compass or guide is recommended for first-time visitors.
 
 ## Entry and Exit
 
-Entry is straightforward from the sandy beach at Porto Marie, with minimal coral rubble and good footing. The initial entry area is sandy with gentle slopes, making it suitable for all skill levels. Wade out approximately 30-50 meters before reaching the reef system. The beach offers excellent facilities including restrooms, showers, and equipment rental. Exit is via the same entry point, with the sandy beach providing easy access to shore facilities. The protected bay location ensures calm entry and exit conditions most of the year.
+The sandy beach provides easy entry for all experience levels. The Porto Marie Beach facility charges an entrance fee (approximately 10 NAf per person). Facilities include restrooms, showers, a restaurant, and parking. A surface marker buoy is required for safety.
 
 ## Tips and Recommendations
 
-- Arrive early to avoid crowds and secure parking
-- Bring reef-safe sunscreen and plenty of water
-- Take advantage of the beach facilities and restaurant on-site
-- Consider combining shallow snorkeling with deeper diving
-- Respect the marine park entrance fee (approximately $3 USD)
-- Bring an underwater camera for the unique double reef formations
+- Consider guided dive or compass navigation to orient between the reef systems
+- Two separate dives recommended — one on each reef face — they look quite different
+- The left reef and right reef from the beach have distinct coral communities
+- Eagle rays and nurse sharks are reported in the sandy valley between reefs
 
 ## Safety Considerations
 
-The Valley is generally considered a safe dive site with minimal hazards. The shallow sandy areas require good buoyancy control to avoid stirring up sediment. Be aware of occasional boat traffic in the outer bay areas. Weather conditions can affect visibility and surge, so check forecasts before diving. The site can experience mild currents near the drop-off areas. Always dive with a buddy and consider carrying a surface marker buoy for safety. Emergency services are accessible through the beach facilities and local dive operators.
-
-## Photography
-
-The Valley offers excellent opportunities for underwater photography with its unique double reef topography. The sandy valley floor provides interesting geological formations and contrast with the coral walls. Wide-angle photography captures the unique underwater landscape, while macro photography reveals the diverse small marine life. The site is excellent for capturing rays on the sandy bottom and reef fish along the coral walls. Good natural lighting in the shallow areas makes it ideal for photographers of all skill levels.
-
-## Nearby Sites
-
-- **Daaibooi Beach**: 15 minutes south, another excellent shore dive
-- **Playa Cas Abao**: 20 minutes south, beautiful beach with good diving
-- **Rif Sint Marie**: 10 minutes north, house reef with calm conditions
-- **Playa Lagun**: 30 minutes north, famous for turtle encounters
-- **Mushroom Forest**: Accessible by boat from nearby areas
-
-## Additional Resources
-
-- Porto Marie Beach facilities and entrance fees
-- Curaçao Marine Park information and regulations
-- Local dive operators: B-Diving & Watersports, Dive Bus
-- Weather conditions: Curaçao Meteorological Department
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+The sandy valley between reefs is a disorientation risk for divers unfamiliar with the site — know your compass bearing back to the beach. The site is busy on weekends. A surface marker buoy is required.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Porto Marie](https://www.divecuracao.info/dive/curacao-diving-guide/porto-mari/), [ScubaBoard — Curaçao Best Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Porto Mari](https://www.padi.com/dive-site/curacao/porto-mari/). Last updated 2026-05-23.*

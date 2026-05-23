@@ -5,75 +5,56 @@ lng: -68.99653
 difficulty: Intermediate
 maxDepth: 22
 entryType: Shore
-siteType: wall
+siteType: reef
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 663869379
+addedBy: extended_overpass
 ---
 
 ## Snake Bay
 
-Snake Bay is a dramatic wall dive featuring a gentle slope to deep water and abundant marine life on Curaçao's central west coast.
+Snake Bay (Slaagenbaai) is a shore dive at Playa Wachi in the Sint Michiel area, named for the abundant moray eels and garden eels rather than actual snakes — a 45-degree sloping reef reaching 22 metres with strong reputation for fish life and coral spawning events.
 
 ## Overview
 
-Snake Bay is a shore diving destination located on Curaçao's central west coast. The site features distinctive wall diving topography characteristic of Curaçao, with a gentle slope from shallow water descending to depths suitable for intermediate divers. The wall begins around 6 meters depth and extends to 22+ meters with vibrant coral formations and excellent marine life encounters. The protected bay conditions and accessible wall make Snake Bay a favorite among divers seeking Curaçao's signature Caribbean wall diving experience. Regular encounters with sea turtles, eagle rays, and schools of tropical fish are typical at this site.
+Snake Bay is located at Playa Wachi in the village of Boca Sami on Curaçao's central west coast. The site's name comes from the Dutch word for eels (slangen/slang), reflecting the many moray eels found here — not literal snakes. The site is also sometimes called Slaagenbaai (Eel Bay).
+
+The reef features a 45-degree slope with hard corals and sponges, starting from a shallow entry and descending to around 22 metres. The site is noted as a local favourite for fish life and also for coral spawning events — the reef is considered a prime viewing spot for annual coral spawning in September and October. The SAMI Scuba Center and Wederfoort Apartments are adjacent to the site.
+
+A drift dive from Snake Bay to Boca Sint Michiel is sometimes offered as a longer shallow drift option by local guides.
 
 ## Site Information
 
-- **Location**: Central west coast, Sint Michiel area
-- **Entry Type**: Shore
-- **Site Type**: Wall dive
+- **Location**: Playa Wachi, Boca Sami village, Sint Michiel area, central west coast
+- **Entry Type**: Shore (beach entry)
+- **Site Type**: Coral reef (45-degree sloping reef)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal, occasional mild current
-- **Best Time**: Year-round, excellent conditions
+- **Maximum Depth**: 22 metres (to ~36 metres)
+- **Typical Visibility**: 20–30 metres
+- **Current**: Usually minimal; drift dive possible
 
 ## Marine Life
 
-Snake Bay supports diverse Caribbean marine life with the added excitement of occasional pelagic encounters. The site is famous for wild dolphin sightings, with bottlenose dolphins occasionally interacting with divers. Regular marine life includes green sea turtles, hawksbill turtles, and southern stingrays. The healthy coral reef hosts numerous species of tropical fish including large schools of blue tangs, sergeant majors, and chromis. The site is particularly known for its abundant fish life, with frequent "traffic jams" of schooling fish creating spectacular underwater scenes. Macro enthusiasts will find Christmas tree worms, flamingo tongues, and various crustaceans.
+The site name reflects abundant moray eels. Local dive guides rate it highly for overall fish life. Coral spawning events (September–October) are a noted feature. The sandy plateaus at 13 metres host macro life. Dolphins are occasionally reported in the area; turtles are also seen.
 
 ## Dive Profile
 
-Entry is from a rocky shoreline in shallow water (2-3 meters). The wall begins around 6 meters depth with a gentle slope descending to 22+ meters. The wall features healthy coral formations including brain corals and soft corals, with abundant tropical fish life at all depths. The accessible wall topography and protective bay conditions make Snake Bay ideal for intermediate divers seeking wall diving experience. The site accommodates varied dive profiles from shallow reef exploration to deeper wall diving depending on diver certification and experience.
+Shore entry from the beach. A surface swim leads to the reef drop-off. The reef slopes at approximately 45 degrees, with sandy plateaus at 13 metres. Coral and sponge growth increases between 10 and 15 metres. A drift option exists southeast toward Boca Sint Michiel for experienced divers. Night dives are popular here due to the active reef community. A large mooring buoy serves as a navigational reference.
 
 ## Entry and Exit
 
-Entry is from a rocky coastline area requiring careful footing and sturdy reef shoes. The entry point has some coral rubble and rock formations, so careful movement is essential. Wade out slowly until you can float comfortably before putting on fins. The rocky substrate continues underwater initially, transitioning to coral reef formations. Exit requires the same careful attention to the rocky shoreline. The remote location means limited facilities, so divers should be self-sufficient.
+Beach entry from Playa Wachi. The SAMI Scuba Center adjacent to the site offers support and equipment. A surface marker buoy is required due to recreational and commercial boat traffic.
 
 ## Tips and Recommendations
 
-- Wear sturdy reef shoes for the rocky entry and exit
-- Bring all necessary supplies as facilities are very limited
-- Visit during calm weather for best entry/exit conditions
-- Keep an eye out for dolphin encounters and behave respectfully if they appear
-- Combine with nearby Boka Sami for a full day of diving
-- Practice Leave No Trace principles in this pristine environment
+- Visit in September–October to coincide with coral spawning events
+- Look for moray eels in crevices — this is the defining marine life of the site
+- The drift toward Boca Sint Michiel makes a longer, shallower dive option
+- Night dives are well-regarded at this site
 
 ## Safety Considerations
 
-Snake Bay is generally safe but requires careful entry and exit due to the rocky shoreline. The remote location means limited immediate access to emergency services, requiring conservative diving practices. Weather conditions can affect entry/exit safety, so check forecasts carefully. The lack of facilities means divers should bring all safety equipment and emergency supplies. Always dive with a buddy and inform others of diving plans. Surface intervals should be planned considering the rocky exit requirements.
-
-## Photography
-
-Snake Bay offers excellent underwater photography opportunities with its diverse marine life and healthy coral formations. The abundant schooling fish provide spectacular wide-angle subjects, while the healthy reef offers numerous macro opportunities. The site is particularly good for capturing natural fish behavior and coral formations. The occasional dolphin encounters, when they occur, provide once-in-a-lifetime photographic opportunities. The clear water and good natural lighting create ideal conditions for underwater photography.
-
-## Nearby Sites
-
-- **Boka Sami**: Adjacent bay with similar diving conditions
-- **Vaersenbaai**: North, featuring car wrecks and artificial reefs
-- **Kokomo Beach**: North, easy shore dive with good facilities
-- **Pestbaai**: South, peaceful dive site near Bullenbaai
-- **Blue Bay**: Southeast, resort-based diving with facilities
-
-## Additional Resources
-
-- Limited facilities - bring all necessary equipment and supplies
-- Nearest dive operators in Willemstad or resort areas
-- Curaçao Marine Park information and regulations
-- Weather conditions: Curaçao Meteorological Department
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+A surface marker buoy is mandatory due to boat traffic. For drift dives, arrange pick-up logistics in advance. The remote area has limited facilities.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Snake Bay](https://www.divecuracao.info/curacao-dive-travel-guide/curacao-diving-guide/dive-and-snorkel-guide/snake-bay-slaagbaai/), [Curacao.com — Boka Sami, Snake Bay and Kaap Mal Meeuw](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Zentacle — Snake Bay](https://www.zentacle.com/Beach/1368/snake-bay). Last updated 2026-05-23.*

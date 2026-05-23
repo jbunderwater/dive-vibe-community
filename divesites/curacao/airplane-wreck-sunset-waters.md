@@ -3,77 +3,58 @@ name: Airplane Wreck (Sunset Waters)
 lat: 12.266944
 lng: -69.1276576
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 29
 entryType: Shore
 siteType: wreck
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 663869381
+addedBy: extended_overpass
 ---
 
 ## Airplane Wreck (Sunset Waters)
 
-The Airplane Wreck at Sunset Waters is a unique shallow water wreck dive featuring the remains of a small aircraft in an easily accessible location perfect for beginners.
+The Sunset Waters airplane wreck is the deteriorated remains of a small Cessna aircraft lying in front of the former Sunset Waters Resort — a shore dive where the wreck itself is largely unrecognizable but the surrounding reef and sandy bottom host seahorses, moray eels, and eagle rays.
 
 ## Overview
 
-The Airplane Wreck at Sunset Waters offers a fascinating and accessible wreck diving experience in shallow water, making it perfect for beginner divers and snorkelers. Located in the calm waters near Sunset Waters Beach Club, this site features the partially intact remains of a small aircraft that provides an artificial reef habitat for marine life. The shallow depth and calm conditions make it an ideal introduction to wreck diving, while the unique subject matter creates excellent opportunities for underwater photography. The wreck has become encrusted with marine growth over time and serves as a home for various species of fish and invertebrates, demonstrating how artificial structures can enhance marine ecosystems.
+This site is named after the former Sunset Waters Beach Club (now also known as Coral Cliff Resort). The wreck is what remains of a small Cessna aircraft that lies between the two breakwaters fronting the beach, on a sandy bottom in 15–29 metres of water.
+
+Multiple dive reports note that the aircraft is "almost unrecognizable" — the structure has deteriorated significantly and cannot be identified as a plane without prior knowledge of its location. The site is considered marginal as a wreck destination on its own merits; divers visit primarily for the surrounding reef and sandy bottom marine life rather than the aircraft itself.
+
+Visibility at this site averages 20 metres. The adjacent reef slope provides additional diving beyond the wreck location.
 
 ## Site Information
 
-- **Location**: West coast, near Santa Martha Bay (Soto area)
-- **Entry Type**: Shore
-- **Site Type**: Wreck dive
+- **Location**: West coast, in front of the former Sunset Waters Resort (Coral Cliff Resort area), between the two breakwaters
+- **Entry Type**: Shore (beach access; guests of the resort or through the beach club)
+- **Site Type**: Wreck (largely deteriorated aircraft)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for training and beginners
+- **Maximum Depth**: 29 metres (reef slope behind the wreck continues deeper)
+- **Typical Visibility**: 20 metres
+- **Current**: Usually none
 
 ## Marine Life
 
-The airplane wreck has become an artificial reef attracting diverse marine life typical of shallow Caribbean reefs. The aircraft structure provides shelter and habitat for numerous species of tropical fish including parrotfish, angelfish, butterflyfish, and wrasses. Schools of sergeant majors and chromis are commonly observed around the wreck. The marine growth on the aircraft attracts various invertebrates including Christmas tree worms, sponges, and small crustaceans. The sandy areas surrounding the wreck host flatfish and rays, while the nearby natural reef provides additional marine life diversity.
+Confirmed species in this area: seahorses on the sandy bottom, moray eels, parrotfish, lionfish, green sea turtles, eagle rays, pufferfish, frogfish, Caribbean stingrays. The sandy bottom around the wreck is specifically noted as good seahorse habitat by divers-guide.com.
 
 ## Dive Profile
 
-Entry is from the beach near Santa Martha Bay in shallow water (1-2 meters). Divers swim across sandy bottom before encountering the airplane wreck at approximately 18 meters depth. The wreck provides excellent exploration opportunities with multiple access points and viewing angles. The shallow surrounding bottom allows for extended bottom times. The calm conditions and moderate depth make it ideal for beginner divers, training exercises, and underwater photography practice. The aircraft structure can be fully explored during a single dive.
+Shore entry from the beach between the two breakwaters. The wreck lies in 15–29 metres of water in a sandy area. Scan the sandy bottom for seahorses and other critters before or after locating the wreck. A relatively steep reef slope lies behind the wreck site, offering additional reef diving. Current is typically absent.
 
 ## Entry and Exit
 
-Entry is convenient from the beach area near Sunset Waters Beach Club, with relatively easy access to the water. The entry area is typically sandy with minimal coral rubble, making it suitable for all experience levels. Wade out gradually until you can float comfortably before putting on fins. The wreck is located a short swim from shore, making navigation straightforward. Exit is via the same entry point, with the shallow depth and calm conditions ensuring easy and safe returns to shore.
+Beach entry via the former Sunset Waters/Coral Cliff Resort beach. Access is through the resort property — non-guests should confirm access arrangements in advance. Sandy entry between the breakwaters.
 
 ## Tips and Recommendations
 
-- Perfect site for Open Water certification dives and skill development
-- Bring an underwater camera for unique aircraft wreck photography
-- Take advantage of the extended bottom times allowed by shallow depth
-- Practice buoyancy control around the delicate marine growth
-- Consider combining with other nearby shore dives for variety
-- Respect the wreck structure and avoid disturbing marine life
+- Temper expectations for the aircraft wreck itself — it is heavily deteriorated and barely recognizable
+- Focus on the sandy bottom for seahorses and the reef slope for fish life
+- This site works better as a second site combined with another nearby location
+- A guide familiar with the aircraft location helps, as it is difficult to find
 
 ## Safety Considerations
 
-The shallow depth and calm conditions make this one of Curaçao's safest dive sites. The proximity to shore and facilities provides additional security for emergency situations. Weather conditions rarely affect this protected site. The wreck structure requires careful navigation to avoid entanglement or damage to marine growth. Always dive with a buddy and maintain awareness of your surroundings. The shallow depth means minimal decompression concerns, but always follow safe diving practices.
-
-## Photography
-
-The Airplane Wreck offers unique and compelling underwater photography opportunities. The unusual subject matter of an aircraft underwater creates interesting compositional possibilities. The shallow depth provides excellent natural lighting for photography without the need for extensive artificial lighting. Macro photography reveals the marine life that has colonized the aircraft structure. The clear water and calm conditions create ideal circumstances for both still photography and video documentation of this unique site.
-
-## Nearby Sites
-
-- **Sunset Waters Beach Club**: On-site facilities and additional shore diving
-- **Playa Manzalina**: Nearby shore dive with different characteristics
-- **San Juan Bay**: Additional diving opportunities in the area
-- **Playa Santa Cruz**: Shore dive access to Santa Cruz area sites
-- **Mushroom Forest**: Accessible by boat from nearby locations
-
-## Additional Resources
-
-- Sunset Waters Beach Club: Nearby facilities and services
-- Local dive operators for equipment rental and guided dives
-- Curaçao Marine Park information and regulations
-- Weather conditions: Generally calm and protected
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+Watch for boat traffic when surfacing between the breakwaters — use a surface marker buoy. The site is generally calm and protected.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide.com — Sunset Waters](https://www.divers-guide.com/en/sunset-waters), [DiveCuracao.info — Wreck Diving Guide](https://www.divecuracao.info/dive/curacao-diving-guide/wreck-diving-in-curacao/), [Atlas Obscura — Air Aruba P4-YSA Willemstad](https://www.atlasobscura.com/places/the-wreck-of-air-aruba-p4-ysa-willemstad-curacao). Last updated 2026-05-23.*

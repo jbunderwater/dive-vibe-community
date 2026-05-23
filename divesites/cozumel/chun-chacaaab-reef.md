@@ -23,7 +23,7 @@ Chun Chacaaab is a Mayan place name and one of the more southerly sites in Cozum
 
 - **Location**: Deep southern leeward coast, Cozumel, near Punta Sur, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
@@ -64,4 +64,4 @@ The pristine, less-trafficked reefs of the far south offer some of Cozumel's cle
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Barefoot Cozumel — Dive Sites](https://barefootcozumel.com/dive-sites/). Last updated 2026-05-23.*

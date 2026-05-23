@@ -10,10 +10,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI, Barefoot Cozumel, DivePoint Mexico",
+    "validation_source": "reefsofcozumel.com,barefootcozumel.com,bluenotescuba.com,divepointmexico.com,cozumelscuba.com",
     "tags": {
       "name": "Palancar Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -23,14 +24,15 @@
     "osm_id": 663869325,
     "osm_type": "node",
     "depth": 35,
-    "site_type": "wall",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "BlueProject Cozumel, dive operator sites",
+    "validation_source": "wikipedia.org,reefsofcozumel.com,prodiveinternational.com,padi.com,cozumeldivers.com",
     "tags": {
       "name": "Punta Sur Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -40,14 +42,15 @@
     "osm_id": 663869330,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, BlueProject, Tripadvisor",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com",
     "tags": {
       "name": "Paso El Cedral Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -59,12 +62,13 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Blue Note Scuba, dive.site",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,scubadiving.place",
     "tags": {
       "name": "La Francesa",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -77,12 +81,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "divescover.com,wannadive.net",
     "tags": {
       "name": "Punta Dalila",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Fewer than 3 independent sources confirmed site-specific details. Depth and type are plausible but unvalidated."
     }
   },
   {
@@ -96,10 +101,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Divepoint Mexico, dive.site",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com",
     "tags": {
       "name": "Yucab Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -113,10 +119,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Pro Dive International, Tripadvisor",
+    "validation_source": "prodiveinternational.com,divesites.scubatony.com,scubadiving.place",
     "tags": {
       "name": "Punta Tunich Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -129,12 +136,13 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "scuba-diving-cozumel.com,divebuddy.com",
     "tags": {
       "name": "Cardona",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Shore dive confirmed. Named after Mexican film director Rene Cardona. Fewer than 3 independent sources with site-specific depth data."
     }
   },
   {
@@ -148,10 +156,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "DivePoint Mexico, dive.site",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,dive.site,padi.com,cozumelscuba.com",
     "tags": {
       "name": "San Frandsco Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "qa_note": "OSM name has typo (San Frandsco). Known as San Francisco Reef or San Francisco Wall in all sources. Wall confirmed by 5 sources.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -163,13 +173,14 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,scuba-diving-cozumel.com",
     "tags": {
       "name": "Las Palamas",
       "sport": "scuba_diving",
-      "validated": "true"
+      "qa_note": "OSM name has typo (Las Palamas). Known as Las Palmas Reef in all sources. Sources indicate beginner-friendly site with max 45ft (14m). Difficulty corrected from Intermediate to Beginner.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -183,10 +194,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "The Reefs of Cozumel, Pro Dive International, Tripadvisor",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com,prodiveinternational.com",
     "tags": {
       "name": "Tormentos Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -200,10 +212,11 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, The Reefs of Cozumel, Tripadvisor",
+    "validation_source": "shoreexcursioneer.com,bluenotescuba.com,lancasterscuba.com,sanddollarsports.com",
     "tags": {
       "name": "Chankanaab Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -217,11 +230,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,scuba-diving-cozumel.com,padi.com",
     "tags": {
       "name": "Maracaibo Reef",
       "sport": "scuba_diving",
-      "validated": "true"
+      "qa_note": "Southernmost Cozumel dive site near Punta Celerain Lighthouse. Features famous arch at approx 35m (115ft). Wall drops 70-150ft (21-46m). 40m max depth in our data is conservative but within recreational range.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -234,12 +248,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "El Islote",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "No site-specific sources found confirming El Islote as distinct dive site. Coordinates place it on Cozumel's east coast. Site exists per OSM but no independent dive source confirmed. Validated status removed."
     }
   },
   {
@@ -253,11 +268,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,barefootcozumel.com",
     "tags": {
       "name": "Chun Chacaaab Reef",
       "sport": "scuba_diving",
-      "validated": "true"
+      "qa_note": "Known as Chun Chacaab in most sources. Southern reef near Punta Sur. Nitrox 32 recommended per Barefoot Cozumel.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -270,12 +286,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "reefsofcozumel.com",
     "tags": {
       "name": "Chen Rio",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "East coast site. Fewer than 3 independent sources with site-specific details. Reef type and intermediate difficulty consistent with east coast character."
     }
   },
   {
@@ -288,12 +305,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "El Mirador",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "No site-specific sources found. Coordinates place this on Cozumel's east coast. Validated status removed — cannot confirm with 3 independent sources."
     }
   },
   {
@@ -306,12 +324,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "San Juan Reef",
       "sport": "scuba_diving",
-      "validated": "true"
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Coordinates on north-northeast coast. No site-specific dive sources found confirming this as a distinct named dive site. Validated status removed."
     }
   },
   {
@@ -321,14 +340,16 @@
     "osm_id": 663869363,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "The Reefs of Cozumel, dive operator sites",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,scuba-diving-cozumel.com",
     "tags": {
       "name": "Barracuda Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "qa_note": "Site is a WALL (rocky ledge drop-off), not a flat reef. Real depth range 90-120ft (27-37m). Sources say 'Expert' level due to current 2-10 knots, downcurrents, and risk of being lost at sea. Difficulty is conservatively listed as Advanced; operators should treat as Expert. Port Captain monitors and restricts diving here.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -342,10 +363,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, The Reefs of Cozumel, Tripadvisor",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,padi.com,bluenotescuba.com",
     "tags": {
       "name": "Paraiso Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "qa_note": "Site is south of the Puerto Maya cruise ship pier (not north). Named after Rancho Paraiso. Three sections at 5m, 13m, and 18m depth. Strong current warning: proximity to cruise ship pier creates hazard.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -357,12 +380,14 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "The Reefs of Cozumel, Pro Dive International",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,sanddollarsports.com,scubaspotadvisor.com",
     "tags": {
       "name": "Villa Blanca Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "qa_note": "Wall starts at 45ft (15m) just south of San Miguel (NOT the northern hotel zone as previously described). Extends north to Cantarel. Currents can be strong and unpredictable. Sources rate as Expert/Advanced due to current risks. Difficulty upgraded from Intermediate to Advanced.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -371,16 +396,17 @@
     "lon": -86.949577,
     "osm_id": 663869367,
     "osm_type": "node",
-    "depth": 10,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "reefsofcozumel.com,scuba-diving-cozumel.com,mexico.greatestdivesites.com",
     "tags": {
       "name": "Cantarell Sand Reef",
       "sport": "scuba_diving",
-      "validated": "true"
+      "qa_note": "CRITICAL CORRECTION: This site is actually a WALL (known as 'Cantarel' or 'Spotted Eagle Ray Wall'), not a sand reef. Real depth 40-100ft (12-30m). Strong to extremely strong currents. Known for eagle ray aggregations Dec-Feb. Difficulty corrected from Beginner to Advanced. Depth corrected from 10m to 30m.",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -394,10 +420,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Blue Note Scuba, DivePoint Mexico, California Diver Magazine",
+    "validation_source": "californiadiver.com,tritondiving.mx,reefsofcozumel.com,reefsmartguides.com",
     "tags": {
       "name": "Wreck C-53",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "qa_note": "Verified: USS Scuffle (AM-298), Admirable-class minesweeper, built 1943 Tampa. 184ft (56m) long, 33ft wide, 40ft high keel-to-superstructure. Scuttled June 2000. Rests upright at 24m near Chankanaab Park (west/southwest coast, NOT northwest). Interior accessible to certified wreck divers.",
+      "last_qa_date": "2026-05-23"
     }
   }
 ]
