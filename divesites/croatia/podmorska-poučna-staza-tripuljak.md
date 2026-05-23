@@ -22,8 +22,8 @@ The Tripuljak underwater trail is a marked shallow-water route through a product
 ## Site Information
 
 - **Location**: Tripuljak, Šibenik area, Central Dalmatia, Croatia
-- **Entry Type**: Shore access
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 10–20 meters

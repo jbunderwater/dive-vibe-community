@@ -23,7 +23,7 @@ The reef at Zabodaski descends over rocky limestone terrain to approximately 25 
 
 - **Location**: Pag Island area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -55,7 +55,7 @@ Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry a
 
 ## Photography
 
-The excellent visibility in the Dalmatian open water makes this a productive wide-angle site. Resident grouper, schooling sea bream, and the Posidonia meadow with its seahorses provide diverse photographic subjects.
+The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
 
 ---
 *Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

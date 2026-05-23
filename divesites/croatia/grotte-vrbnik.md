@@ -22,7 +22,7 @@ The cave extends approximately 35 metres into the cliff face and is lit througho
 ## Site Information
 
 - **Location**: 100 metres from dive centre, Vrbnik, Krk Island, Kvarner, Croatia
-- **Entry Type**: Shore dive (directly from dive centre)
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters

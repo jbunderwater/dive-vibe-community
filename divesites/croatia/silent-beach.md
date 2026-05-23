@@ -22,7 +22,7 @@ Silent Beach South features a flat entry platform and a steep face with giant sp
 ## Site Information
 
 - **Location**: Silent Beach, Vrbnik, Krk Island, Kvarner, Croatia
-- **Entry Type**: Shore dive (shuttle bus from dive centre)
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters

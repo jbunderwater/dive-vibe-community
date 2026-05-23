@@ -23,7 +23,7 @@ The reef at Zeca descends over rocky limestone slopes and boulders to approximat
 
 - **Location**: West of Pag Island, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -55,7 +55,7 @@ The open coast position can expose the site to wind swell and variable current. 
 
 ## Photography
 
-The excellent open Adriatic visibility creates ideal wide-angle conditions. Barracuda in the water column, resident grouper portraits, and Posidonia meadow subjects provide diverse photographic opportunities throughout the dive.
+The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
 
 ---
 *Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

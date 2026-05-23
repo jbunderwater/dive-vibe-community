@@ -23,7 +23,7 @@ The reef at Macinj features rocky outcrops, boulders, and sloping faces descendi
 
 - **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters

@@ -23,7 +23,7 @@ The cape drops into the clear Velebit Channel water, with the rocky reef featuri
 
 - **Location**: Jablanac, Velebit Channel, Mainland Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 meters

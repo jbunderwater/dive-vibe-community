@@ -23,7 +23,7 @@ The tunnel runs from north to south through the tip of Prvić island. With the e
 
 - **Location**: Northern tip of Prvić island, Kvarner (near Šilo, Krk), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/tunnel
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 meters

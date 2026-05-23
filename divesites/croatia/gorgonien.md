@@ -5,7 +5,7 @@ lng: 14.2457
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663870772
 addedBy: osm_import
@@ -23,7 +23,7 @@ The reef descends over rocky limestone terrain to approximately 25 metres, where
 
 - **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters

@@ -24,8 +24,8 @@ Diving is permitted only through licensed dive centres holding a concession from
 ## Site Information
 
 - **Location**: Near Žirje island, approximately 13nm from Murter, Central Dalmatia, Croatia
-- **Entry Type**: Boat dive (licensed dive centre escort required)
-- **Site Type**: Wreck (aircraft)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10–20 meters

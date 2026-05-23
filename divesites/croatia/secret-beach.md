@@ -22,7 +22,7 @@ The hidden beach is reached through a short cave passage, giving the site its na
 ## Site Information
 
 - **Location**: Few metres from dive centre, Vrbnik, Krk Island, Kvarner, Croatia
-- **Entry Type**: Shore dive (via small cave to hidden beach)
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters

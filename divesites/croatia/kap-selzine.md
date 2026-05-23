@@ -25,7 +25,7 @@ The upper plateau is covered with corals of all colours and teems with schools o
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (recreational); wall continues much deeper
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20+ meters
 - **Current**: Variable at the cape; can be significant
 - **Best Time**: May to October

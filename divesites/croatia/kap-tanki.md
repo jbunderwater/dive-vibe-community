@@ -23,7 +23,7 @@ The reef at Kap Tanki follows the cape topography — a narrow limestone promont
 
 - **Location**: Cape Tanki, Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters

@@ -23,7 +23,7 @@ The underwater terrain at Säulenbucht features distinctive columnar limestone f
 
 - **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters

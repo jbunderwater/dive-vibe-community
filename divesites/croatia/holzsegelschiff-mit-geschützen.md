@@ -25,7 +25,7 @@ The scattered remains lie at 21–40 metres on a mixed seabed. The wooden hull h
 
 - **Location**: North of Mali Plavnik island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (historical)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–25 meters

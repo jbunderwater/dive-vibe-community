@@ -22,7 +22,7 @@ The Baron Gautsch rests at 28–40 metres on a sandy and stony bottom approximat
 ## Site Information
 
 - **Location**: Seven nautical miles from Brijuni islands, off Rovinj, Istria, Croatia
-- **Entry Type**: Boat dive (operator-organised only; permit required)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters

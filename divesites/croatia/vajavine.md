@@ -22,10 +22,10 @@ The dive ladder at the base of the 100 steps provides a direct entry to a colour
 ## Site Information
 
 - **Location**: Vajavine Bay (100 Steps), Vrbnik, Krk Island, Kvarner, Croatia
-- **Entry Type**: Shore dive (via dive ladder at base of 100 stairs)
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30+ meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–20 meters
 - **Current**: Variable; check locally
 - **Best Time**: May to October

@@ -23,7 +23,7 @@ The site features a mix of rocky reef terrain transitioning to sandy areas ("san
 
 - **Location**: Pag Island area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -44,7 +44,7 @@ Dive boats from operators in the Pag area access this site. Entry by giant strid
 
 ## Tips and Recommendations
 
-- The sandy sections are worth scanning carefully for rays, garden eels, and flatfish
+- The sandy sections are worth scanning carefully for any burrowing or sand-dwelling species typical of the area
 - Move slowly over the sand to avoid spooking burrowing species
 - The reef-sand boundary concentrates predator-prey activity — observe quietly from a distance
 - A torch enhances the rocky reef sections and reveals crevice inhabitants
@@ -56,7 +56,7 @@ Standard intermediate reef and sand diving. Monitor depth in the sand areas wher
 
 ## Photography
 
-The reef-sand interface creates interesting compositional contrasts. Sandy bottom subjects like rays, garden eels, and flatfish require a careful approach and macro or mid-range lens. The rocky reef sections provide colourful wide-angle subjects.
+The reef-sand interface creates interesting compositional contrasts. Sandy bottom and rocky reef sections both offer photographic opportunities; specific subjects depend on what is present at the time of diving.
 
 ---
 *Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

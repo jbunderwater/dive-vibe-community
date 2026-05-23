@@ -25,7 +25,7 @@ Multiple submerged rock towers extend downward from the islet's base, dropping s
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (deeper possible)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–20 meters
 - **Current**: Variable around the islet; can be stronger on exposed sides
 - **Best Time**: May to October

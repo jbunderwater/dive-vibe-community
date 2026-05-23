@@ -23,7 +23,7 @@ The shoal at Sajda rises from the surrounding deeper seabed to within a few metr
 
 - **Location**: Northern Dalmatian Coast (Zadar Archipelago area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters

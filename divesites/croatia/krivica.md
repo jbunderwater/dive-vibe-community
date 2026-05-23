@@ -23,7 +23,7 @@ The reef at Krivica descends over limestone rock to approximately 25 metres, wit
 
 - **Location**: Northern Dalmatian Coast (Pag area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
