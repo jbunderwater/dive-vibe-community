@@ -23,7 +23,7 @@ The reef at Krivica descends over limestone rock to approximately 25 metres, wit
 
 - **Location**: Northern Dalmatian Coast (Pag area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Krivica descends over limestone rock to approximately 25 metres, wit
 
 ## Marine Life
 
-Grouper are the dominant large predators at this reef. Moray eels and octopus inhabit the rocky crevices. Sea bream, wrasse, and sardinella are abundant in the mid-water. The Posidonia meadows in the shallows are worth checking for seahorses and pipefish. Nudibranchs and sea slugs are found on the sponge-covered surfaces throughout.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate parameters. Carry an SMB for surfacing in the open water. 
 Excellent visibility makes this a productive wide-angle site. The Posidonia meadows offer intimate macro opportunities with seahorses and pipefish in the shallows. Resident grouper and the open reef landscape with clear blue water are reliable wide-angle subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

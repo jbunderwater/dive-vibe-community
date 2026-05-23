@@ -23,7 +23,7 @@ The reef at Kricin features rocky terrain descending from the shallows to approx
 
 - **Location**: Cres Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Kricin features rocky terrain descending from the shallows to approx
 
 ## Marine Life
 
-Grouper are resident throughout the reef. Moray eels inhabit the rocky crevices, and octopus hunt the open surfaces. Sea bream and ornate wrasse school around the reef structures. Barracuda and amberjack appear in the open water above the reef in summer months. Nudibranchs and sea slugs are found across the sponge-covered surfaces.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Dive boats from Cres or Kvarner-area operators serve this site. Entry by giant s
 ## Tips and Recommendations
 
 - Current awareness is important in the Kvarner channel — time the dive with the operator's guidance
-- A torch helps explore deeper crevices where moray eels and lobster shelter
+- A torch helps explore deeper crevices for any sheltering invertebrates
 - The channel location can produce excellent baitfish concentrations when current is running
 - Combine with a cave or wall dive from the Cres programme for a varied day
 
@@ -58,4 +58,4 @@ Current is the primary variable at this channel-adjacent site. Coordinate the di
 The clear Kvarner water provides exceptional wide-angle conditions. Schooling fish life when current is active creates spectacular images. Resident grouper and reef structure with sponge communities provide reliable photographic subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

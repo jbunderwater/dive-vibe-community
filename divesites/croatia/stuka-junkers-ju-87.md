@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Stuka / Junkers Ju 87
 
-The Stuka wreck is the remains of a WWII-era German Junkers Ju 87 dive-bomber that was shot down over the central Dalmatian coast near Šibenik. It lies inverted on a sandy seabed, largely intact with wings spread and recognisable fuselage, making it one of the more unusual aviation wreck dives in the Adriatic.
+The Stuka is the wreck of a Junkers Ju 87 R-2 dive-bomber belonging to the Italian Air Force's 239th Squadriglia, 97th Gruppo Bombardamento a Tuffo, which came down in the sea near Žirje island on 12 April 1941 during an attack on Yugoslav warships in the bay of Jadrovac near Šibenik. Discovered in September 2014, it is described as the world's best-preserved Stuka bomber and was declared a Croatian cultural heritage site in the year of its discovery.
 
 ## Overview
 
-The aircraft rests at approximately 25–28 metres on a flat sandy bottom, tilted slightly to one side. The airframe retains its overall shape — the gull wings, fixed undercarriage, and tail section are identifiable, though heavily colonised by encrusting organisms. Visibility in this part of the Dalmatian coast is typically 10–20 metres. The site is relatively small and can be circumnavigated in a single dive.
+The aircraft rests on its wheels at approximately 28 metres depth on a sandy seabed with seagrass, near the southern coast of Žirje island — approximately 13 nautical miles from Murter. The airframe is substantially intact: the fuselage, gull wings, and tail section are all in place and clearly identifiable as a Ju 87 R-2 (identified by the supplementary fuel distribution points under the wings). The engine was separated, probably upon water impact or by fishing nets, and was found at approximately 40 metres depth. No human remains were found in the cockpit; investigators believe the crew escaped.
+
+Diving is permitted only through licensed dive centres holding a concession from Croatian authorities. Direct contact with the aircraft is prohibited to prevent further damage; looting has already been reported (the control stick was removed from the cockpit).
 
 ## Site Information
 
-- **Location**: Near Šibenik, Central Dalmatia, Croatia
+- **Location**: Near Žirje island, approximately 13nm from Murter, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -32,31 +34,30 @@ The aircraft rests at approximately 25–28 metres on a flat sandy bottom, tilte
 
 ## Marine Life
 
-The aircraft wreck provides an artificial reef structure supporting scorpionfish hidden in the wheel wells, octopus sheltering under the fuselage, and nudibranchs scattered across the sponge-encrusted wing surfaces. Grouper and sea bream orbit the wreck. In summer, juvenile fish use the sheltered gaps in the airframe for protection.
+No site-specific marine life reports verified for this location. Regional central Dalmatian fauna applies. The seagrass bed surrounding the aircraft provides habitat for small fish and invertebrates typical of this environment.
 
 ## Dive Profile
 
-Descend to the aircraft resting at 25–28 metres. The dive is relatively short in terms of distance — circumnavigate the wreck, observe the major features, and ascend with a 3-minute safety stop at 5 metres. Plan for 30–40 minutes total bottom time. This is well suited to a multi-dive day with deeper first dives at other sites.
+Descend to the aircraft at 28 metres. The dive is compact — the aircraft can be fully circumnavigated in a single dive. Observe the major features (fuselage, wings, tail, cockpit opening) without touching the structure. Note the engine is not present on the airframe (found separately at 40m). Ascend with a 3-minute safety stop at 5 metres. Total bottom time at 25–28m allows a relaxed exploration.
 
 ## Entry and Exit
 
-Boats moor nearby and divers descend a shot line to the aircraft. Entry by back roll or giant stride. SMB deployment recommended for surfacing. Check sea conditions — the open central Dalmatian coast can be exposed to the Jugo (south wind) swell.
+Boats from licensed operators access the site. All dives must be conducted with an escort from the licensed dive centre holding the concession. Entry by back roll or giant stride. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- A torch is essential for illuminating the undercarriage wells and any sheltered sections of the fuselage
-- The wreck is fragile — maintain good buoyancy and avoid kicking up silt
-- This is a war grave; do not disturb or remove any artefacts
-- Combining this with a reef dive on the same day makes an excellent programme from Šibenik-area operators
-- Macro photographers will find nudibranchs and small crustaceans in abundance on the encrusted surfaces
+- Do not touch the aircraft — this is a legal requirement, not just etiquette. The structure is fragile and protected
+- Book through a licensed operator in the Šibenik/Murter area — independent access is not permitted
+- A torch is useful for examining detail in the cockpit area and under the wings
+- This is a war grave site — approach it accordingly
 
 ## Safety Considerations
 
-Depth is within recreational limits but requires proper gas management. The aircraft is not suitable for penetration diving. Divers should be comfortable in open water at 25–28 metres and able to navigate back to the shot line. Carry an SMB.
+Depth is within standard recreational limits. The aircraft is not suitable for penetration diving. Buoyancy control is important to avoid disturbing the sandy seabed around the aircraft. Carry an SMB. Dive within your certification limits.
 
 ## Photography
 
-The distinctive gull-wing silhouette of the Ju 87 makes for an instantly recognisable wide-angle image. Shooting upward from below the wing tips with a diver for scale is a popular composition. Macro shots of encrusted surfaces and resident nudibranch species also reward close inspection.
+The intact gull-wing silhouette of the Ju 87 on a seagrass bed is a remarkable and unique image. Shooting from below the wing tips with a diver for scale is effective. The aircraft's near-perfect preservation makes it one of the most photogenic aircraft wrecks in the world.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [Wreck Hunters Adriatic – Ju 87 R-2 Stuka](https://wreckhunters.eu/en/ju-87-r-2-stuka/), [X-Ray Mag – Croatia: Stuka Bomber Wreck](https://xray-mag.com/content/croatia-stuka-bomber-wreck), [Vintage Aviation News – Regia Aeronautica's Junkers Ju 87 found off Croatia](https://vintageaviationnews.com/warbirds-news/junkers-ju-87-stuka-discovered-croatian-coast.html). Last updated 2026-05-23.*

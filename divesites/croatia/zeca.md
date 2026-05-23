@@ -23,7 +23,7 @@ The reef at Zeca descends over rocky limestone slopes and boulders to approximat
 
 - **Location**: West of Pag Island, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Zeca descends over rocky limestone slopes and boulders to approximat
 
 ## Marine Life
 
-Resident grouper occupy the deeper boulder sections. Moray eels and octopus inhabit the rocky crevices. Sea bream and ornate wrasse are plentiful in the mid-water. Barracuda patrol the open water above the reef in summer. The Posidonia areas in the shallows support seahorses and pipefish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ The open coast position can expose the site to wind swell and variable current. 
 
 ## Photography
 
-The excellent open Adriatic visibility creates ideal wide-angle conditions. Barracuda in the water column, resident grouper portraits, and Posidonia meadow subjects provide diverse photographic opportunities throughout the dive.
+The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

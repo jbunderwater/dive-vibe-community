@@ -23,7 +23,7 @@ El Mirador takes its name from a pronounced coral rise or promontory that elevat
 
 - **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -64,4 +64,4 @@ The distinctive elevated promontory creates natural framing for wide-angle image
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for El Mirador as a named dive site. Validated status removed. Last updated 2026-05-23.*

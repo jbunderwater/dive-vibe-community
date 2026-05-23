@@ -13,15 +13,17 @@ addedBy: osm_import
 
 # Plane Wreck
 
-A WWII Wellington Bomber discovered near Kyrenia — heavily broken up but spanning 300 metres of seabed.
+A WWII-era aircraft wreck east of Kyrenia — heavily fragmented but spanning 300 metres of seabed with a recognisable cockpit section.
 
 ## Overview
 
-The Plane Wreck is a WWII Wellington Bomber discovered on the seabed east of Kyrenia in North Cyprus near the power station, at 24 metres depth. The aircraft is heavily broken up, with debris spanning approximately 300 metres of seabed. Despite the fragmentation, there is significant wreckage to explore, including the cockpit which is now colonised by marine life.
+The Plane Wreck is located east of Kyrenia in North Cyprus, near the power station, at 24 metres depth. Multiple North Cyprus diving sources describe it as a WWII-era aircraft — the aircraft type is consistently described as a Wellington Bomber by Paphos and North Cyprus tourism sources, though independent verification from aviation or military records has not been found. The wreck is heavily broken up, with debris and recognisable components scattered over approximately 300 metres of seabed. The cockpit section, at just over 20 metres, is the most intact and recognisable feature and is now colonised by marine life.
+
+This site is located in North Cyprus, which operates under different political and administrative arrangements. Divers should check current entry and access requirements before visiting.
 
 ## Site Information
 
-- **Location**: East of Kyrenia, North Cyprus
+- **Location**: East of Kyrenia, North Cyprus (near power station)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -32,14 +34,14 @@ The Plane Wreck is a WWII Wellington Bomber discovered on the seabed east of Kyr
 
 ## Marine Life
 
-Octopus, turtles, and shoaling fish inhabit the wreckage. The cockpit section has been colonised by marine life.
+Octopus, turtles, and shoaling fish have been reported inhabiting the wreckage. The cockpit section has been colonised by marine life.
 
 ## Tips and Recommendations
 
-- Debris spans 300m — a large search area
-- The cockpit section is the most recognisable feature
-- WWII Wellington Bomber — significant historical artefact
-- Located in North Cyprus — check current access requirements
+- Debris spans approximately 300m — plan for a systematic search dive
+- The cockpit section at around 20m is the most recognisable feature
+- Located in North Cyprus — check current access requirements before visiting
+- Aircraft type described as a Wellington Bomber in tourism sources, but this has not been independently verified from aviation records
 
 ---
-*Sources: [Cyprus Premier](https://www.cypruspremier.com/articles/scuba-diving/), [Cyprus Paradise](https://www.cyprusparadise.com/articles/scuba-diving/). Last updated 2026-04-10.*
+*Sources: [cypruspremier.com](https://www.cypruspremier.com/articles/scuba-diving/), [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [cyprusparadise.com](https://www.cyprusparadise.com/articles/scuba-diving/). Last updated 2026-05-23.*

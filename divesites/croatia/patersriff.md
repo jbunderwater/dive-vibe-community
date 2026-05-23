@@ -23,7 +23,7 @@ The reef at Patersriff descends over rocky outcrops and sloping faces to approxi
 
 - **Location**: Cres Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Patersriff descends over rocky outcrops and sloping faces to approxi
 
 ## Marine Life
 
-Resident grouper hold territories throughout the reef. Moray eels inhabit rocky crevices, and octopus hunt the open rocky surfaces. Sea bream, ornate wrasse, and saddled bream are abundant. Nudibranchs and sea slugs are found on the sponge-covered rock faces. Barracuda appear above the reef in summer months.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry a
 
 ## Photography
 
-The clear Kvarner visibility makes this a productive wide-angle site. The rocky reef landscape, resident grouper, and encrusting community all provide good photographic subjects. Morning dives typically offer the best light penetration across the reef.
+The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

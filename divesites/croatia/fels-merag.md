@@ -23,7 +23,7 @@ The reef at Merag descends over rocky limestone formations from the shallows to 
 
 - **Location**: Merag, Eastern Cres Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Merag descends over rocky limestone formations from the shallows to 
 
 ## Marine Life
 
-Grouper are characteristic of this site, with resident individuals holding territories in the larger boulder areas. Moray eels occupy the rocky crevices throughout the depth range. Sea bream and ornate wrasse are abundant. Octopus are regularly seen hunting across the reef during the day. In summer, barracuda patrol the water column above the reef.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Ferry traffic is the primary safety consideration at this site — surface clear
 The clear Kvarner water provides excellent ambient light for reef photography throughout the dive. Wide-angle shots capture the open reef landscape. Resident grouper and moray eels in their rocky settings are rewarding portrait subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Francesca da Rimini
 
-The Francesca da Rimini is the wreck of an Italian cargo steamer sunk on 24 January 1944 during WWII operations in the central Dalmatian channel near Šibenik. Lying at up to 50 metres, it is one of the deeper accessible wrecks on the Croatian coast and requires advanced gas management.
+The Francesca da Rimini is an Italian cargo warship built in 1942 in Rijeka, measuring 42 metres in length and 12 metres in beam, with a displacement of 281 tons. Originally Italian-owned, she was seized by the German Navy in 1943 and used to transport weapons for German forces. She sank in 1944 near Kaprije island in the Šibenik archipelago after being torpedoed by British Spitfires. The exact date is disputed: dive operator Tramonto Diving records the sinking as 22 March 1944; the OSM record states 24 January 1944. Both sources agree on the general circumstances.
 
 ## Overview
 
-The vessel rests at 40–50 metres on a sloping bottom, lying on its port side. The hull is largely intact with the superstructure, masts, and cargo holds recognisable. Dense encrustation of orange and yellow sponges, sea fans, and soft corals gives the wreck a colourful appearance. Visibility in the Šibenik channel typically reaches 10–20 metres. This is a serious Advanced dive due to the depth and potential for silting in enclosed sections.
+The wreck rests at 38–50 metres on a sloping bottom, lying on its port side. Of three masts, two lie broken in the sand; the third stands upright, rising to around 28 metres depth. The stern retains an anti-aircraft machine gun. Throughout the wreck, divers encounter numerous mines and scattered ammunition boxes — this is an active munitions site requiring respect and no interference. The hull and structure are heavily encrusted with sponges and soft corals. Visibility in the Šibenik channel area typically reaches 10–20 metres.
 
 ## Site Information
 
-- **Location**: Šibenik Channel, Central Dalmatia, Croatia
+- **Location**: Near Kaprije island, Šibenik Archipelago, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -32,31 +32,31 @@ The vessel rests at 40–50 metres on a sloping bottom, lying on its port side. 
 
 ## Marine Life
 
-Conger eels inhabit the deeper holds and recesses. Large grouper patrol the superstructure. Scorpionfish and moray eels are resident throughout the wreck, and lobster can be found in crevices along the hull at depth. The sponge-encrusted hull attracts sea bream and ornate wrasse. Barracuda sometimes form schools above the wreck during summer.
+Sources from Tramonto Diving (primary local operator) report: numerous lobsters, grouper, occasional eels, amberjack, and toothed bream (dentex) that regularly patrol the site. These species are confirmed by the dive operator as present at this specific wreck.
 
 ## Dive Profile
 
-Begin the dive shallower, descending the shot line to around 38–42 metres near the midship section and working toward the stern at maximum depth. Limit bottom time at 50 metres to approximately 10–15 minutes on air before beginning a staged ascent. Nitrox is strongly recommended. Allow adequate gas for a 5-minute safety stop at 5 metres plus margin.
+Descend the shot line to the wreck around 38–42 metres. The upright third mast provides a natural reference point at 28m. Explore the exterior, noting the anti-aircraft gun at the stern and the munitions scattered throughout. Limit bottom time at 50 metres strictly and begin staged ascent. Nitrox is strongly recommended. Allow adequate gas for a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Dive boats from Šibenik or nearby Vodice operate to this site. Shot line descent directly to the wreck is standard. Ascend via the shot line or deploy an SMB for free ascent. Current can run through the channel — check conditions with the dive operator before the dive.
+Dive boats from Šibenik or Vodice operators (including Tramonto Diving) run this site. Shot line descent to the wreck is standard. Ascend via the shot line or deploy an SMB for free ascent. Current can run through the channel — check conditions with the dive operator before the dive.
 
 ## Tips and Recommendations
 
-- Nitrox (32%) strongly recommended for maximising bottom time at depth
+- Do not touch, disturb, or remove any of the munitions or mines — the wreck contains live ordnance
+- This is a war grave — treat the site with respect
+- Nitrox (32%) strongly recommended for manageable bottom time at depth
 - Carry a primary and backup torch for interior inspection
-- This is a war grave — treat the site respectfully; no artefact removal
-- Drysuit or 7 mm wetsuit recommended outside of peak summer
 - Plan as the first and deepest dive of any multi-dive day
 
 ## Safety Considerations
 
-The 50-metre maximum depth puts this firmly in Advanced territory. Divers must be comfortable with extended range dives and staged ascents. In-water decompression capability is advisable. The shot line must be maintained as the primary reference throughout. Do not penetrate holds without wreck diving training and a reel.
+The 50-metre maximum depth puts this firmly in Advanced territory. The presence of live ordnance makes this a site requiring extra discipline — no digging, no artefact removal. Divers must be comfortable with staged ascents. Do not penetrate holds without wreck diving training, a reel, and redundant lighting.
 
 ## Photography
 
-The canted hull rising from the sandy bottom makes a dramatic wide-angle subject. Sponge-encrusted anchor chains and portholes photographed with a strobe bring out vivid colours. A model diver silhouetted against natural light filtering down from above creates memorable images.
+The canted hull and the upright mast rising toward the surface provide dramatic wide-angle subjects. The anti-aircraft gun at the stern is a compelling close-focus subject. The scattered munitions provide historically significant but sobering photographic context.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [Tramonto Diving – Francesca da Rimini](https://divetramonto.com/francesca-da-rimini-ww2/), [ScubaBoard – Franceska di Rimini in Croatia](https://scubaboard.com/community/threads/franceska-di-rimini-in-croatia.222463/), [DiVeSSI – Francesca di Rimini](https://www.divessi.com/en/mydiveguide/divesite/francesca-di-rimini-wreck-murter-chorvatsko-croatia-92023). Last updated 2026-05-23.*

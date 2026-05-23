@@ -17,7 +17,7 @@ A former brown coal mining pit transformed into one of the Czech Republic's prem
 
 ## Overview
 
-Jezero Barbora (Lake Barbora) sits in the Mostecká basin near Oldřichov, approximately 6 km west of Teplice in the Ústecký region. Surface mining of brown coal began here in 1957, and the residual pit was flooded with mine water in the 1970s. Today the lake spans 55-65 hectares and serves as an official dive training center for the Czech Diving Association (Svaz potápěčů).
+Jezero Barbora (Lake Barbora) sits in the Mostecká basin near Oldřichov, approximately 6 km west of Teplice in the Ústecký region. Surface mining of brown coal began here and the residual pit filled with water in the 1970s. The lake spans approximately 55 hectares with a total depth of around 60 meters. Thanks to the depth and the lake's strong self-purification capacity, cyanobacteria is not a significant issue and the water quality is frequently compared to sea water. The site serves as a popular dive training center used by Czech diving clubs.
 
 ## Site Information
 
@@ -26,7 +26,7 @@ Jezero Barbora (Lake Barbora) sits in the Mostecká basin near Oldřichov, appro
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: Good, spring-fed water with good transparency
+- **Typical Visibility**: Variable — 1-2 m on shallows to 8 m, improving to 7-9 m below the thermocline at depth
 - **Current**: None
 - **Best Time**: May to October
 
@@ -57,4 +57,4 @@ Shore entry from designated access points. The lake is well-organized as a train
 Cold water temperatures require appropriate thermal protection. As a managed dive training center, the site has established safety protocols. Dive within your certification limits and be aware of depth-related hazards at the deeper areas.
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=200), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=200), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/), [ApneaSite - Barbora](https://www.apneasite.cz/category/dive-sites/czech-republic/barbora/). Last updated 2026-05-23.*

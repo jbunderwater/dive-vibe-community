@@ -17,7 +17,7 @@ A deep, current-swept wall at Cozumel's southern extreme — one of the island's
 
 ## Overview
 
-Maracaibo sits even further south than Punta Sur, accessed only during calm sea conditions due to its exposed position. The wall here is sheer and dramatic, dropping from a shallow reef crest at around 10 meters into a vertical face that extends far beyond recreational limits. What distinguishes Maracaibo is the sheer scale of the coral formations on the wall itself — enormous plate corals, black coral trees, and sponge accumulations that reflect decades of minimal disturbance. The site sees relatively few dive boats, which has allowed the marine ecosystem to develop in outstanding health. Current is almost always present; this is a pure drift wall dive at the advanced end of sport diving.
+Maracaibo is the southernmost dive site in Cozumel, near the Punta Celerain Lighthouse. It is accessed only during calm sea conditions due to its exposed position and large swells on approach. The wall here is sheer and dramatic, with the edge at approximately 90 feet (27 meters) dropping into a sheer cliff that extends well beyond recreational limits. The site's signature geological feature is a large, nearly perfectly formed arch at approximately 115 feet (35 meters) depth — divers descend through a deep fissure and enter the arch from below, swimming upward through it. The scale of this formation and the surrounding coral accumulation — enormous plate corals, black coral trees, and massive sponge formations — reflect decades of minimal disturbance. The site sees relatively few dive boats, which has allowed the marine ecosystem to develop in outstanding health. Current is almost always present and entry involves negotiating open ocean swells.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Maracaibo's relative isolation creates exceptional large-animal sightings. Carib
 
 ## Dive Profile
 
-The dive follows the wall top at around 10 meters briefly before descending to the primary exploration zone of 20–35 meters. Given the advanced maximum depth, strict NDL monitoring is essential. Most operators will plan a bottom time of no more than 20 minutes at depth before a controlled ascent along the wall to the crest, then a safety stop in the water column. The current carries divers north along the wall throughout. Ascend with an SMB deployed well before surfacing.
+The dive follows the wall crest at around 27 meters (90 feet) before the divemaster leads you down through a fissure to the arch at approximately 35 meters (115 feet). Divers enter the arch from below and swim upward through it — a unique and memorable experience. Time at the arch must be brief given the depth and NDL constraints. Most operators plan no more than 20 minutes at the deepest section before a controlled ascent along the wall. The current carries divers throughout. Ascend with an SMB well before surfacing.
 
 ## Entry and Exit
 
@@ -64,4 +64,4 @@ The wide open visibility and healthy wall create ideal conditions for wide-angle
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Maracaibo](https://www.reefsofcozumel.com/maracaibo.html), [Pro Dive International — Maracaibo Reef](https://www.prodiveinternational.com/dive-site/maracaibo-reef/), [Scuba Diving Cozumel — Maracaibo (Punta)](https://scuba-diving-cozumel.com/maracaibo-punta/), [PADI Dive Site — Maracaibo](https://www.padi.com/dive-site/mexico/maracaibo/). Last updated 2026-05-23.*

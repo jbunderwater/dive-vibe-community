@@ -23,7 +23,7 @@ Chen Rio sits on Cozumel's windward eastern coast, which faces directly into the
 
 - **Location**: East coast (windward), Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet; can vary with sea conditions)
@@ -59,4 +59,4 @@ This is the most weather-dependent of Cozumel's standard sites. Surge creates ri
 The eastern reefs' pristine state rewards photographers with wide-angle images of undisturbed coral formations. The more intense light penetration on the east-facing coast creates dramatic morning photography opportunities. Surge makes macro shooting challenging — stick to wide-angle here and use fast shutter speeds to freeze the movement caused by swell. Pelagic fish action in the open water above the reef is worth having your camera ready throughout the dive.
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and east coast character. Source consulted: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html). Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*

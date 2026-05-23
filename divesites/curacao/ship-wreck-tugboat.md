@@ -7,73 +7,52 @@ maxDepth: 5
 entryType: Shore
 siteType: wreck
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 3190150020
+addedBy: extended_overpass
 ---
 
 ## Ship Wreck Tugboat
 
-The Ship Wreck Tugboat is Curaçao's most famous and accessible wreck dive, featuring a small tugboat in shallow water perfect for beginners and snorkelers of all ages.
+The Tugboat at Caracas Bay is Curaçao's most accessible wreck — a small tug resting upright in just 5 metres of water, fully encrusted with coral and sponges, reachable by snorkellers and beginner divers alike.
 
 ## Overview
 
-The Ship Wreck Tugboat, located in Caracasbaai (Caracas Bay), is arguably Curaçao's most iconic and photographed dive site. This small tugboat wreck rests upright in just 5 meters (15 feet) of water, making it accessible to snorkelers, beginner divers, and experienced divers alike. The wreck has been underwater for approximately 30 years and has become completely covered in colorful marine growth, transforming it into a thriving artificial reef. The site's shallow depth, calm conditions, and abundant marine life make it perfect for underwater photography, training dives, and introducing newcomers to wreck diving. The combination of easy accessibility, fascinating artificial reef environment, and spectacular marine life encounters makes this a must-visit destination for anyone diving in Curaçao.
+This unnamed tugboat sank sometime in the 1980s in the sheltered waters of Caracasbaai (Caracas Bay) on Curaçao's southeast coast. The exact circumstances of the sinking are unknown; local accounts offer conflicting stories — one version describes the tug catching fire while towing an oil tanker, another attributes the sinking to an accidental strike from a crane at a nearby facility. No authoritative record has been identified for either account, and the vessel's original name remains undocumented.
+
+The wreck sits upright on a sandy bottom in 5 metres of water, close to shore at Tugboat Beach. It is fully intact and completely encrusted with tube sponges, star coral, sea fans, and soft corals after decades underwater.
 
 ## Site Information
 
-- **Location**: Caracasbaai (Caracas Bay), southeast coast
+- **Location**: Tugboat Beach, Caracasbaai, southeast coast of Curaçao
 - **Entry Type**: Shore
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 10-15 meters (30-50 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for all diving activities
+- **Typical Visibility**: 10–20 metres
+- **Current**: Usually minimal in this protected bay
 
 ## Marine Life
 
-The Tugboat wreck has become a thriving artificial reef supporting abundant Caribbean marine life. The wreck is famous for its large schools of glassey sweepers that live inside the tugboat's hull, creating spectacular underwater scenes. The coral and sponge-covered structure attracts numerous species of tropical fish including parrotfish, angelfish, butterflyfish, and wrasses. The site is known for regular seahorse sightings, often found clinging to the wreck's structure. Other common encounters include octopus, moray eels, and various species of crabs and shrimp hiding in the wreck's crevices. The shallow depth and artificial reef environment create ideal conditions for observing marine life behavior.
+The wreck functions as an artificial reef. Confirmed species at this site include parrotfish, trumpetfish, angelfish, moray eels, schools of chromis, barracuda, sea turtles, seahorses, frogfish, octopus, eagle rays, lobsters, nudibranchs, shrimp, blennies, horse-eye jacks, and green turtles. The tube sponges and soft corals on the hull host numerous small invertebrates.
 
 ## Dive Profile
 
-The dive begins from a rocky shoreline area near a small pier, with the wreck located just offshore in 5 meters of water. The shallow depth allows for extended bottom times and thorough exploration of the wreck and surrounding area. The tugboat can be completely circumnavigated and explored both inside and out during a single dive. The wreck sits upright on a sandy bottom, with the pilot house partially collapsed but still recognizable. The shallow depth makes it ideal for training dives, underwater photography practice, and snorkeling adventures.
+Enter from the sandy beach and make a short surface swim to the wreck. The tugboat is easily located in clear, shallow water. A single breath-hold from the surface gives snorkellers a clear view of the entire structure. Scuba divers can spend extended time exploring the exterior hull, interior spaces (which are accessible but require care), and the surrounding sandy bottom. A drift dive from Director's Bay to the Tugboat is sometimes offered by local operators as a one-way boat dive option.
 
 ## Entry and Exit
 
-Entry is from a rocky area near a small pier, requiring careful footing due to the uneven terrain. Reef shoes or sturdy booties are recommended for protection and traction. The entry involves navigating over some coral rubble and rocks before reaching the sandy bottom near the wreck. Local dive operators often provide entry guidance and assistance. The wreck is easily located due to its shallow depth and proximity to shore. Exit requires the same careful attention to the rocky entry area.
+Shore entry from Tugboat Beach is across sand — an easy walk into the water. The wreck is a short swim directly offshore. Exit is via the same sandy beach. Boat diving access is also available through local operators.
 
 ## Tips and Recommendations
 
-- Wear reef shoes for safe entry and exit over rocky terrain
-- Bring an underwater camera for spectacular wreck photography
-- Look for seahorses on the wreck's structure and nearby coral
-- Explore both inside and outside the tugboat's hull
-- Perfect site for practicing underwater photography skills
-- Consider multiple visits to appreciate different aspects of the site
+- An ideal site for Open Water certification dives due to the shallow depth
+- Perfect for underwater photography — the shallow depth allows excellent natural light
+- Look for seahorses and frogfish on and around the wreck structure
+- Snorkellers can see the wreck from the surface
 
 ## Safety Considerations
 
-The Tugboat is considered one of Curaçao's safest dive sites due to its shallow depth and calm conditions. The rocky entry requires careful movement to avoid slips or cuts. The wreck structure should be explored carefully to avoid entanglement or damage to marine growth. Weather conditions rarely affect this protected site. The shallow depth means minimal decompression concerns, making it ideal for training and nervous divers. Emergency services are accessible through nearby facilities and the developed Caracasbaai area.
-
-## Photography
-
-The Tugboat offers exceptional underwater photography opportunities with its photogenic wreck structure and abundant marine life. The shallow depth provides excellent natural lighting for photography without the need for extensive artificial lighting. The schools of glassey sweepers inside the hull create spectacular wide-angle compositions. The colorful marine growth covering the wreck provides excellent macro photography subjects. The site is perfect for practicing underwater photography techniques and experimenting with different compositions and lighting approaches.
-
-## Nearby Sites
-
-- **Directors Bay**: Adjacent site with additional reef diving
-- **Caracasbaai Beach**: Nearby shore dive with different characteristics
-- **Lost Anchor**: Western side of Caracasbaai with coral formations
-- **Small Wall**: Nearby reef dive with wall topography
-- **Superior Producer**: Famous deep wreck accessible by boat
-
-## Additional Resources
-
-- Caracasbaai area facilities including parking and basic amenities
-- Local dive operators offering equipment rental and guided tours
-- Popular site for underwater photography workshops and training
-- Curaçao Marine Park information and regulations
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+The shallow depth and calm, protected bay make this one of Curaçao's safest dive sites. The wreck structure should be navigated carefully to avoid disturbing marine growth. The surrounding Caracasbaai area is within the Curaçao National Marine Park.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Tugboat](https://www.divecuracao.info/dive/curacao-diving-guide/tugboat/), [Divers-Guide.com — Tugboat Curaçao](https://www.divers-guide.com/en/tugboat-curacao), [TravelInMyPocket — Tugboat Curaçao](https://www.travelinmypocket.com/tugboat-curacao-caracas-bay-peninsula/). Last updated 2026-05-23.*

@@ -4,7 +4,7 @@ lat: 43.8990934
 lng: 15.1496579
 difficulty: Beginner
 maxDepth: 2
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 7787294771
@@ -22,8 +22,8 @@ The Tripuljak underwater trail is a marked shallow-water route through a product
 ## Site Information
 
 - **Location**: Tripuljak, Šibenik area, Central Dalmatia, Croatia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 10–20 meters
@@ -32,7 +32,7 @@ The Tripuljak underwater trail is a marked shallow-water route through a product
 
 ## Marine Life
 
-The shallow trail habitat supports diverse Mediterranean life typical of the nearshore zone. Posidonia seagrass meadows are home to seahorses, pipefish, and juvenile fish of many species. Rocky sections host sea urchins, starfish, hermit crabs, and small gobies and blennies. Octopus are often spotted at the base of rocky outcrops even in this very shallow zone.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies. The site features Posidonia seagrass meadows and rocky substrate typical of shallow nearshore Dalmatian habitats; specific species records require on-site surveys.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The 2-metre maximum depth makes this one of Croatia's safest dive sites. No deco
 The bright, naturally lit shallow water makes this an outstanding photography site. Macro shots of the Posidonia meadow's inhabitants — seahorses, pipefish, gobies — are the highlight. The educational trail markers also make interesting contextual subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

@@ -2,9 +2,9 @@
 name: Grotte Vrbnik
 lat: 45.08265
 lng: 14.6733667
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 13
-entryType: boat
+entryType: shore
 siteType: cave
 ref: null
 osmId: 663870768
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Grotte Vrbnik
 
-Grotte Vrbnik is an underwater cavern system near the historic town of Vrbnik on the eastern coast of Krk Island in the Kvarner. The site features accessible shallow cavern formations that can be explored by intermediate divers in the clear northern Adriatic waters.
+Grotte Vrbnik (Vrbnik Cave) is located approximately 100 metres from the Dive Center KRK / Dive Loft KRK facilities in Vrbnik on the eastern coast of Krk island — making it the closest and most frequently dived house reef cave in the Kvarner. The cave is renowned for a natural chimney that reaches from the cave interior to the water's surface, providing spectacular natural illumination. The entrance is at 13 metres depth.
 
 ## Overview
 
-The caverns at Vrbnik are located in the rocky limestone coastline that characterises Krk Island. The accessible section reaches a maximum of 13 metres — entirely within the zone of natural light penetration — making this a comfortable cavern experience suitable for intermediate divers. The rocky walls inside and around the cave are encrusted with red, orange, and yellow sponges, and the shallow depth allows extended dive times. Visibility is typically excellent here, often 15+ metres.
+The cave extends approximately 35 metres into the cliff face and is lit throughout by the chimney that rises to the surface. The entrance and interior walls are covered in colourful sponges, and the cave is accessible to beginner divers under guidance — the natural light from the chimney ensures orientation is never in doubt. Local dive centres use this cave as an introduction to cavern environments. Conger eels and lobsters are specifically reported as resident by local operators.
 
 ## Site Information
 
-- **Location**: Vrbnik, Krk Island, Kvarner, Croatia
-- **Entry Type**: Boat dive
+- **Location**: 100 metres from dive centre, Vrbnik, Krk Island, Kvarner, Croatia
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 15–20 meters
 - **Current**: Generally calm, particularly inside the cavern
@@ -32,30 +32,31 @@ The caverns at Vrbnik are located in the rocky limestone coastline that characte
 
 ## Marine Life
 
-The cavern shelters lobster and crabs in its darker recesses. Small fish including gobies and blennies are abundant on the cave walls. Outside the entrance, moray eels, grouper, and sea bream are common. Nudibranchs are found on the sponge-covered cave walls. Posidonia seagrass meadows may be present in the shallower surrounding areas.
+Local dive operators confirm: conger eels and lobsters are present in the cave. The entrance and interior walls are covered in colourful sponges. No additional site-specific species claims made.
 
 ## Dive Profile
 
-From the boat, descend to the cavern entrance at 5–8 metres and explore the interior, always maintaining sight of natural light. The maximum depth of 13 metres means the entire dive is well within a single standard cylinder's range. Finish the dive by exploring the rocky reef surrounding the cave entrance before a brief ascent. A safety stop at 5 metres is straightforward given the shallow depth.
+Shore entry near the dive centre. Descend to the cave entrance at 13 metres and enter, keeping the chimney light above as a reference. The 35-metre tunnel can be explored while natural light remains clearly visible. Finish by exploring the entrance area and ascending to a 3-minute safety stop at 5 metres. Given the very shallow maximum depth, this is an excellent second or third dive of the day.
 
 ## Entry and Exit
 
-Dive boats from Vrbnik-based operators or those running Krk Island multi-site day trips access this location. Entry by giant stride or back roll. The site is sheltered from the prevailing NE Bura wind.
+Direct shore entry from the dive centre area. The 100-metre proximity means no boat is needed. Entry is straightforward in typically calm conditions. The site is sheltered from the NE Bura wind.
 
 ## Tips and Recommendations
 
-- A torch significantly enhances the experience by illuminating the vivid encrusting organisms
-- An excellent second or third dive of the day given the very shallow maximum depth
-- Suitable for divers building experience with cavern environments under supervised conditions
-- The shallow depth supports very long, relaxed dive times — ideal for macro photography
+- The chimney provides exceptional natural illumination — plan a dive around midday for best light effects
+- A torch still significantly enhances the experience by illuminating the sponge community on the walls
+- The shallow maximum depth makes this an ideal site for building cavern experience under supervision
+- Excellent for macro photography — the sponge-covered walls can be approached very closely
+- Suitable for divers making their first guided cavern experience
 
 ## Safety Considerations
 
-Cavern diving principles apply even at this shallow depth: always maintain visual contact with the entrance, ensure all divers have functioning torches, and avoid pushing into any sections where orientation to the exit is unclear. Dive with a buddy.
+The natural chimney to the surface keeps orientation clear throughout the cave. Standard cavern diving principles apply: maintain awareness of orientation to exits, ensure all divers have functioning torches. The 13-metre maximum depth is very shallow. Dive with a buddy at all times.
 
 ## Photography
 
-The shallow depth and natural light make this an exceptionally photographer-friendly cavern. Shooting toward the entrance from inside with sunbeams filtering in creates beautiful images. The brightly coloured sponge community on the walls photographs beautifully with a strobe from close range.
+The chimney creates beautiful overhead light effects inside the cave. Shooting upward toward the chimney opening with a diver below, or toward the entrance from inside, are the classic compositions. The brightly coloured sponge community on the walls photographs exceptionally well with a strobe at close range.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [Dive Center KRK – Vrbnik Cave](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Vrbnik Cave](https://www.dive-loft-krk.com/dive-sites/), [DiVeSSI – Vrbnik Cave](https://www.divessi.com/en/mydiveguide/divesite/vrbnik-cave-croatia-20479). Last updated 2026-05-23.*

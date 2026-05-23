@@ -17,7 +17,11 @@ An intentionally sunk Mexican Navy minesweeper that has become one of Cozumel's 
 
 ## Overview
 
-The Felipe Xicoténcatl (hull number C-53) is a former United States Navy Admirable-class minesweeper transferred to the Mexican Navy and scuttled in 2000 to create an artificial reef off Cozumel's northwest coast. The vessel sits upright in 24 meters on a sandy plain, making it a classic recreational wreck dive. At 56 meters in length, the ship is large enough to require several dives to explore fully, yet shallow enough to allow excellent bottom time without decompression concerns. The hull has been heavily colonised over more than two decades of immersion, with coral encrustation, sponge growth, and algae creating a vivid artificial reef environment. The interior compartments are accessible to qualified wreck divers.
+The Felipe Xicoténcatl (hull number C-53) is a former United States Navy Admirable-class minesweeper originally designated USS Scuffle (AM-298). She was built in 1943 by Wilson Marine Shipworks in Tampa, Florida, and saw active service in WWII Pacific theatre operations including mine sweeps at Lingayen Gulf and Subic Bay. She was decommissioned from US Navy service in 1946.
+
+In 1962 she was transferred to the Mexican Navy, converted, and renamed Felipe Xicoténcatl C-53 — named after a Mexican Army General who served under President Santa Anna. She served the Mexican Navy for 37 years, patrolling the Gulf of Mexico and Caribbean, before being decommissioned in 1999.
+
+The vessel was deliberately scuttled in June 2000 off Cozumel's west coast near Chankanaab Park to create an artificial reef. Before sinking, she was stripped of all hazardous materials, doors, wiring, piping, and toxins, and large holes were cut to allow diver access. She measures 184 feet (56 meters) long and 33 feet (10 meters) wide. The vessel sits upright on a sandy bottom at approximately 24 meters, making it a classic recreational wreck dive. The hull has been heavily colonised over more than two decades of immersion, with coral encrustation, sponge growth, and algae creating a vivid artificial reef environment. The interior compartments are accessible to qualified wreck divers.
 
 ## Site Information
 
@@ -59,4 +63,4 @@ Wreck penetration without proper training carries serious risk; the interior of 
 The C-53 rewards both wide-angle and macro approaches. The full-hull exterior shot from the sand looking up at the silhouette is a classic Cozumel wreck image requiring a fisheye or ultra-wide lens. The glassy sweeper schools in the hold create extraordinary backlit images when light enters from exterior openings. For macro, the encrusted hull surfaces are rich with flamingo tongues, nudibranchs, and encrusting sponge patterns.
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [California Diver Magazine — C-53 WWII History](https://californiadiver.com/diving-the-felipe-xicotencatl-c-53-wreck-wwii-history-in-cozumel/), [Triton Diving — C-53 2025 Guide](https://www.tritondiving.mx/en/c-53-wreck-in-cozumel-2025-guide/), [The Reefs of Cozumel — Shipwreck C-53](https://www.reefsofcozumel.com/shipwreckc53.html), [Reef Smart Guides — C53](https://reefsmartguides.com/c53-felipe-xicotencatl/). Last updated 2026-05-23.*

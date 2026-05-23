@@ -11,9 +11,9 @@ osmId: 663869344
 addedBy: osm_import
 ---
 
-## Chankanaab Reef
+# Chankanaab Reef
 
-Chankanaab Reef is a reef dive site in Cozumel, Caribbean.
+A beginner-friendly shore dive within Chankanaab National Park, combining easy coral reef access with a certified-diver cave entrance — the only shore-accessible cave dive in Cozumel.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Chankanaab Reef fronts the protected national park of the same name at kilometre
 
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
@@ -32,4 +32,4 @@ Chankanaab Reef fronts the protected national park of the same name at kilometre
 Long-snout seahorses, spotted drum, and parrotfish are common throughout the shallow reef, and green and hawksbill turtles rest on the coral heads with regularity. The splendid toadfish — endemic to Cozumel — can sometimes be found in reef crevices near the national park, and the submerged cave La Quebrada shelters glassy sweepers, lobsters, and moray eels in its halocline-rich interior.
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [Shore Excursioneer — Chankanaab Marine Park Dive](https://www.shoreexcursioneer.com/cozumel/chankanaab-marine-park-dive-statues-reef-cave.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Lancaster Scuba — Chankanaab Reef](https://lancasterscuba.com/blogs/resources/top-dive-spots-in-cozumel-unveiling-the-beauty-of-chankanaab-reef), [Sand Dollar Sports — Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/). Last updated 2026-05-23.*

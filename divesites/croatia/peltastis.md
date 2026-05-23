@@ -2,7 +2,7 @@
 name: Peltastis
 lat: 45.1603856
 lng: 14.6457184
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 32
 entryType: boat
 siteType: wreck
@@ -13,50 +13,52 @@ addedBy: osm_import
 
 ## Peltastis
 
-The Peltastis is a Croatian cargo vessel that sank on 8 January 1968 near Krk Island in the Kvarner region. It is one of the most popular and regularly visited wrecks in the northern Adriatic, offering an accessible dive at 30–32 metres for intermediate divers looking for their first taste of serious wreck diving in Croatia.
+The Peltastis is a Greek cargo vessel originally built at the Kremer Sohn shipyard in northern Germany in late 1952 and initially named *Alsterpark*. Renamed *Peltastis* in 1967 under Greek ownership, the vessel sank on the night of 7–8 January 1968 during a severe Bora storm with winds exceeding 150 km/h, striking the cliffs between Šilo and Klimno bay on Krk island. Seven crew members and Captain Theodoros Belesis lost their lives. She is locally known as "the Greek" (*Grk*).
+
+The vessel's length is recorded in wreck documentation as 60.2 metres; sources from local dive operators list a slightly different figure. The wreck rests at approximately coordinates 45°06'N, 14°32'E, about 0.5 nautical miles from Šilo.
 
 ## Overview
 
-The Peltastis rests upright on a sandy bottom, largely intact, with its superstructure and cargo holds in good condition. The hull is extensively colonised by orange and yellow sponges, sea anemones, and soft corals, giving the wreck a vivid appearance when illuminated by dive torches. The site benefits from the typically clear Kvarner waters, with visibility often 15–20 metres during summer. The wreck is long enough to reward multiple dive visits exploring different sections.
+The Peltastis rests upright with the top of the foremast at approximately 8 metres depth, deck around 15–28 metres, and the seabed at roughly 30–32 metres. The hull is substantially intact and the cargo hold, gangway, and captain's cabin are all accessible to explore. The wreck is extensively colonised by sponges and soft corals. Kvarner visibility is typically 10–20 metres in summer. Advanced Open Water certification or equivalent is required.
 
 ## Site Information
 
-- **Location**: Off Krk Island, Kvarner, Croatia
+- **Location**: Between Šilo and Klimno bay, off Krk Island, Kvarner, Croatia (approx. 0.5nm from Šilo)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Generally light
+- **Typical Visibility**: 10–20 meters (5–10m in winter)
+- **Current**: Mild to moderate with occasional unpredictable surges
 - **Best Time**: May to October
 
 ## Marine Life
 
-Large grouper are permanent residents of the superstructure. Conger eels occupy the darker sections of the holds. Scorpionfish are camouflaged against the encrusted hull, and moray eels peer from porthole frames and crevices. Clouds of sea bream and ornate wrasse surround the structure, and barracuda are occasionally sighted in summer.
+Sources from local dive operators and dive guides confirm the presence of: large schools of fish, scorpionfish throughout the hull, a resident conger eel reported at approximately 2 metres length, grouper, moray eels, octopus, damselfish, and sponges/soft corals on the structure. Pelagic species visit during summer months.
 
 ## Dive Profile
 
-Descend the shot line to the deck at around 25 metres, then work aft to the stern and the deeper hull bottom at 32 metres. The bow, mast, and bridge area are all worth exploring. Penetration of the holds is possible for trained wreck divers. Ascend via the shot line and complete a 3-minute safety stop at 5 metres — gas management is straightforward at this depth.
+Descend to the foremast at 8m, then work down to the deck at 15–28m. The cargo hold, gangway, and captain's cabin can be explored. Descend to the seabed at 30–32m for the deepest sections. Ascend via shot line and complete a 3-minute safety stop at 5 metres. The relatively manageable depth allows solid bottom time, but gas management remains important.
 
 ## Entry and Exit
 
-Dive boats from Krk or Punat operators moor directly to the wreck buoy. Entry by giant stride or back roll. Deploy an SMB when free ascending from the safety stop depth.
+Dive boats from Šilo, Krk, or Punat operators moor directly to the wreck buoy. Entry by giant stride or back roll. The Kvarner can be rough in Bura conditions — confirm sea state before departure.
 
 ## Tips and Recommendations
 
-- A torch is essential to reveal the full colour range of encrusting organisms and illuminate interior spaces
-- The bridge area provides the most protected entry point for new wreck divers
-- Nitrox is a comfortable upgrade that extends enjoyable bottom time at 30 m
-- The wreck can be silty inside — avoid fin kicks that disturb sediment in enclosed sections
-- An excellent site for underwater photography at all experience levels
+- A torch is essential for illuminating the hold, cabin, and encrusted surfaces
+- The captain's cabin is an atmospheric penetration for trained wreck divers
+- Nitrox extends comfortable bottom time at 25–30m
+- The shallow foremast (8m) is excellent for a decompression stop and a final look at the upper structure
+- This is regarded as one of the best intermediate-to-advanced wreck dives in Croatia
 
 ## Safety Considerations
 
-Depth is within upper recreational limits. Buoyancy control is important to avoid silt disturbance in the holds. Never penetrate enclosed spaces without proper wreck training, a reel, and redundant lighting. Carry an SMB and dive with a buddy.
+The 32-metre maximum depth and the loss of seven lives in the original sinking make this a site to treat with respect. Advanced Open Water certification or equivalent required. Never penetrate enclosed spaces without wreck training, a reel, and redundant lighting. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-The Peltastis is a superb wide-angle photography subject — the intact hull rising from the sandy bottom, draped in colourful sponges, photographs beautifully with a rectilinear wide-angle lens. Macro photographers will find nudibranchs and crustaceans on every square metre of encrusted surface. The bridge is a classic composition point.
+The intact hull rising from the seabed to the shallow foremast provides outstanding wide-angle compositions. The encrusted superstructure, resident scorpionfish, and large conger eel are compelling macro and portrait subjects. The shallow foremast allows photography in excellent natural light.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [EL-PI Tours – Peltastis Wreck Guide](https://elpi-tours.com/blog/peltastis-wreck-guide-for-scuba-divers/), [Scuba Diving Croatia – Peltastis Wreck](http://scuba-diving-croatia.com/hr/listing/peltastis-wreck-the-greek-scuba-diving-in-krk-croatia/), [Krk Croatia – Peltastis](http://www.krkcroatia.net/peltastis/). Last updated 2026-05-23.*

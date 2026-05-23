@@ -23,7 +23,7 @@ The reef at Macinj features rocky outcrops, boulders, and sloping faces descendi
 
 - **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Macinj features rocky outcrops, boulders, and sloping faces descendi
 
 ## Marine Life
 
-Dusky grouper patrol the reef, particularly around larger boulders and overhangs. Moray eels and octopus are regularly found in crevices across the depth range. Nudibranchs explore the sponge-covered rocky surfaces. Sea bream and ornate wrasse are abundant in the mid-water. Posidonia seagrass beds in the shallower sections are worth exploring for seahorses and pipefish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry a
 The clear Kvarner water provides excellent conditions for wide-angle reef photography. Resident grouper are approachable for close-range portraits. The sponge-encrusted surfaces reward macro investigation. Morning dives offer the best natural light penetration across the reef.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

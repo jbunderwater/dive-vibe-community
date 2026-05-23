@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Cynthiana
 
-Pinnacles, overhangs, and a swim-through accessible from a natural seawater lagoon — great for photographers.
+Pinnacles, overhangs, and a swim-through in a natural seawater lagoon — a photographer-friendly site on the Paphos coast.
 
 ## Overview
 
-Cynthiana features two large pinnacles, overhangs, a swim-through, gullies, and walls, all accessible from a natural seawater lagoon 150 metres from the dive centre. The varied topography between 3–12 metres makes it particularly good for photographers. Natural seawater lagoon provides a sheltered entrance with leisurely routes suitable for all levels. Maximum depth 20 metres.
+Cynthiana is located in front of the Cynthiana Beach Hotel within a natural seawater lagoon, approximately 150 metres from the dive centre. Two dive routes of varying depth offer options for different experience levels. The site features two large pinnacles, overhangs, gullies, walls, and a swim-through at depths from 5 to 18–20 metres. The varied topography at relatively shallow depths makes it particularly suited to underwater photography and as a training site. Multiple Paphos dive operators list this as a standard site.
 
 ## Site Information
 
 - **Location**: Near Cynthiana Beach Hotel, Paphos, Cyprus
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters
@@ -32,13 +32,14 @@ Cynthiana features two large pinnacles, overhangs, a swim-through, gullies, and 
 
 ## Marine Life
 
-Sea snails, starfish, slipper lobster, rainbow wrasse, and peacock wrasse.
+Sea snails, starfish, slipper lobster, rainbow wrasse, and peacock wrasse have been reported at this site. Squid, moray eels, and turtles have been noted occasionally. Sea bream, grey mullet, and amberjacks are also reported.
 
 ## Tips and Recommendations
 
-- Check conditions with local operators before diving
-- Carry a torch for cave and overhang exploration
-- Dive within your certification limits
+- Natural lagoon entrance provides a sheltered start
+- Two dive routes covering different topography
+- Particularly good for underwater photography at shallow depths
+- Green and loggerhead turtles reported as occasional visitors — this is described as a territorial area for them
 
 ---
-*Sources: Local dive operator descriptions. Last updated 2026-04-10.*
+*Sources: [tddiving.com](https://tddiving.com/paphos/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [aquatic-centre.com](https://aquatic-centre.com/paphos-2/). Last updated 2026-05-23.*

@@ -36,7 +36,7 @@ The quarry is packed with deliberately placed attractions: a van, a yacht, a wat
 
 ## Marine Life
 
-Rich freshwater life including carp, perch, pike, grass carp, silver carp, catfish, and notably crayfish. The clear water and relatively shallow depth create good conditions for observing fish behavior.
+Freshwater species in the clear quarry water. Species reported by the site's managing diving club (Manta Znojmo) include carp, perch, pike, catfish, and crayfish. No site-specific species list has been independently confirmed from a second source.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Access requires borrowing a key from the BENALE gas station in Miroslav upon sho
 - Pick up the gate key at the BENALE gas station in Miroslav before heading to the quarry
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=579). Last updated 2026-04-07.*
+*Description based on single primary source. No additional independent sources found. Source: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=579). Last updated 2026-05-23.*

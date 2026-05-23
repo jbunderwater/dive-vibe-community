@@ -32,7 +32,7 @@ The cave and cavern formations at this site descend to around 20–25 metres, wi
 
 ## Marine Life
 
-Lobster and shrimp inhabit the cave interior. Moray eels and conger eels are found in the darker recesses. Outside the cave, grouper, sea bream, and wrasse are common. Nudibranchs and sea slugs explore the sponge-covered cave walls, and octopus are regularly seen on the surrounding rocky reef.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Cavern diving principles apply: always maintain sight of natural light, ensure a
 The cavern entrance with sunbeams penetrating from outside is the signature composition at this site. A diver silhouetted against the light-filled entrance makes a compelling image. Torch-lit macro shots of the encrusted interior walls and resident crustaceans round out a productive photography day.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

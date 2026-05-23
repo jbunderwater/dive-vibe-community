@@ -7,73 +7,54 @@ maxDepth: 20
 entryType: Shore
 siteType: reef
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 663869383
+addedBy: extended_overpass
 ---
 
 ## Playa Manzalina
 
-Playa Manzalina is a secluded shore diving site within the San Juan Plantation, offering pristine coral reefs and tranquil underwater exploration in a picturesque natural setting.
+Playa Manzaliña is a secluded shore dive within San Juan Plantation — a coral-rubble beach with a reef starting at 8 metres, rich in hard corals with mushroom-like forms, diverse sponge growth, and confirmed lobster, lionfish, moray eels, and angelfish.
 
 ## Overview
 
-Playa Manzalina is a hidden gem located within Curaçao's San Juan Plantation on the west coast, offering excellent shore diving in a secluded and pristine environment. This beautiful beach is accessible via a scenic dirt road through the plantation and features crystal-clear waters with excellent visibility. The site is known for its healthy coral formations, diverse marine life, and peaceful atmosphere away from crowds. The beach is named after the manzanilla trees that provide natural shade, and features a unique coastal cave formation that adds to its charm. The combination of easy access, beautiful scenery, and excellent diving conditions makes Playa Manzalina a favorite among divers seeking a more intimate and natural diving experience.
+Playa Manzaliña is accessed through the Landhuis San Juan estate on Curaçao's west coast. An entrance fee (approximately 5 NAf) is charged at the plantation gate. The beach is coral rubble rather than sand, and there are no facilities.
+
+The reef begins close to shore — a short 50-metre kick out — and slopes gently from 8 metres down to 20 metres and beyond. The upper reef between 10 and 20 metres is the most productive section, with the best hard coral coverage. Some of the coral heads at this site have a characteristic mushroom-like shape due to bio-erosion at their bases. Coral coverage drops off past 30 metres, transitioning to mostly sand.
+
+The site is quiet even on weekends, making it a good choice for photographers and divers who prefer undisturbed conditions.
 
 ## Site Information
 
-- **Location**: West coast, within San Juan Plantation
+- **Location**: West coast, within Landhuis San Juan estate (entrance fee required at gate)
 - **Entry Type**: Shore
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for peaceful diving
+- **Typical Visibility**: 20–30 metres
+- **Current**: Usually weak to none
 
 ## Marine Life
 
-Playa Manzalina supports diverse Caribbean marine life typical of Curaçao's healthy west coast reefs. The pristine environment and minimal human impact create ideal conditions for marine life to thrive. Regular sightings include green sea turtles, hawksbill turtles, and southern stingrays. The healthy coral formations provide habitat for numerous species of tropical fish including parrotfish, angelfish, butterflyfish, and wrasses. Schools of blue tangs, sergeant majors, and chromis are commonly observed. The site is particularly good for observing natural fish behavior due to the low levels of diving activity. Macro enthusiasts will find abundant subjects hiding in the coral formations and rocky areas.
+Confirmed species: lobsters, lionfish, moray eels, and angelfish. The site also hosts a range of sponge species including barrel sponges, vase sponges, and encrusting sponges. Hard coral coverage is high in the 10–20 metre zone.
 
 ## Dive Profile
 
-The dive begins from a sandy beach in shallow water (1-2 meters), making it accessible for all skill levels. The reef extends directly from shore with interesting coral formations starting at depths of 5-8 meters. The site features a gentle slope that gradually deepens, reaching maximum depths of 20-25 meters for more experienced divers. The varied underwater topography includes coral gardens, rocky areas, and sandy patches providing diverse habitats. The calm conditions and excellent visibility make it ideal for leisurely exploration and underwater photography.
+Coral rubble beach entry — reef shoes or booties are essential. After a 50-metre kick out, the reef begins at 8 metres and slopes gently. Best diving at 10–20 metres. Beyond 30 metres the reef transitions to sand. The compact site suits a single-tank exploration dive.
 
 ## Entry and Exit
 
-Entry is from a sandy beach area with some rocky sections requiring careful footing. Reef shoes are recommended for protection and traction. The entry area has minimal coral rubble, making it relatively easy for most divers. Wade out carefully until you can float comfortably before putting on fins. The beach location within the plantation provides a peaceful and natural setting. Exit is via the same entry point, with the scenic beach providing an excellent location for surface intervals and equipment management.
+Coral rubble entry: reef shoes required. The entry is described as fairly clean with few sharp obstacles but still more challenging than sandy entries. Wade carefully until you can float before putting on fins. The plantation gate is approximately a short drive down a dirt road — access may be rough after heavy rain.
 
 ## Tips and Recommendations
 
-- Access requires driving through San Juan Plantation on dirt roads
-- Bring all necessary supplies as facilities are very limited
-- Respect the pristine environment and practice Leave No Trace principles
-- Take advantage of the manzanilla trees for natural shade
-- Explore the interesting coastal cave formation above water
-- Consider combining with other plantation area sites for a full day
+- Wear booties or reef shoes — coral rubble makes sandals insufficient
+- Bring everything you need — no facilities on the beach
+- Visit on a weekday for the quietest conditions
+- The site pairs well with nearby Playa Largu for a full day in the San Juan plantation area
 
 ## Safety Considerations
 
-Playa Manzalina is generally safe but requires self-sufficiency due to its remote location. The limited access means emergency services would take longer to reach the site. Weather conditions can affect the dirt road access during heavy rains. The rocky entry areas require careful movement to avoid slips or cuts. Always dive with a buddy and bring all necessary safety equipment. The remote location means cell phone coverage may be limited, so inform others of your diving plans.
-
-## Photography
-
-Playa Manzalina offers excellent opportunities for underwater photography in pristine conditions. The healthy coral formations provide colorful subjects for wide-angle photography, while the diverse marine life offers numerous macro opportunities. The excellent visibility and natural lighting create ideal conditions for underwater imaging. The peaceful environment allows for patient photography of natural marine life behavior. The scenic topside environment also provides opportunities for landscape photography and over-under shots.
-
-## Nearby Sites
-
-- **Playa Largu**: Adjacent site within San Juan Plantation
-- **Playa Shon Mosa**: Nearby site with mushroom coral formations
-- **Playa Chiki**: Hidden site within the plantation
-- **Santa Cruz area**: Access to boat dive sites including Mushroom Forest
-- **Playa Cas Abao**: 20 minutes south, developed beach with facilities
-
-## Additional Resources
-
-- San Juan Plantation access requires permission and respect for property
-- No facilities - bring all necessary equipment and supplies
-- Dirt road access may be challenging during wet weather
-- Curaçao Marine Park information and regulations
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+Remote location with no immediate emergency services — dive conservatively and inform someone of your plans. The plantation road access can be difficult after rain. A surface marker buoy is required.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Playa Manzaliña](https://www.divecuracao.info/dive/curacao-diving-guide/playa-manzalina/), [Divers-Guide.com — Playa Manzalina](https://www.divers-guide.com/en/playa-manzalina-392), [ShoreDivingCuracao — Playa Manzaliña](https://shoredivingcuracao.com/dive-sites/west/36-san-juan-playa-manzalina). Last updated 2026-05-23.*

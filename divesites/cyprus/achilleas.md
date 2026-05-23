@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Achilleas
 
-A Greek cargo ship that exploded and sank in 1975 — now in three sections at just 11 metres, with a large bronze propeller still intact.
+A Greek cargo vessel that exploded and sank in 1975 — now lying in three sections at 11 metres with a large bronze propeller still intact.
 
 ## Overview
 
-The Achilleas was a Greek cargo ship, 53 metres long, that exploded and sank off Paphos in 1975. The cause of the explosion remains unverified. The wreck broke into three main sections and now lies upside down on a sandy bottom at 11–12 metres depth, just 10 minutes by boat from Paphos harbour.
+The Achilleas was a Greek cargo vessel, approximately 53 metres (173 feet) long, that exploded and sank off Paphos in 1975. The Cyprus Diving Association describes the explosion as occurring under unexplained circumstances — no verified cause has been published. The wreck broke into three main sections and now lies upside down on a sandy bottom at 11–12 metres depth, approximately 10 minutes by boat from Paphos harbour.
 
-Key features include the large bronze propeller on the upturned stern section, complete portholes, and the fully intact engine which now shelters marine life. Easy swim-throughs between the three sections make this an excellent introduction to wreck diving and a popular site for Open Water students completing their course dives.
+Key features include the large bronze propeller on the upturned stern, intact portholes (which have not been removed), and the engine, which remains largely intact and shelters resident marine life. The three sections — bow, winch area, and stern — offer distinct areas to explore. Easy swim-throughs between and around the sections make this a suitable introduction to wreck diving and a site commonly used for Open Water course dives.
 
 ## Site Information
 
-- **Location**: Off Paphos harbour, Cyprus
+- **Location**: Off Paphos harbour, southwest Cyprus
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -34,15 +34,14 @@ Key features include the large bronze propeller on the upturned stern section, c
 
 ## Marine Life
 
-Sea bream, damselfish, wrasse, cardinal fish, crown squirrelfish (inside dark sections), flounders, cuttlefish, and octopus. The engine block shelters a resident community of fish.
+Sea bream, damselfish, wrasse, cardinal fish, octopus, and cuttlefish have been reported at the wreck. The intact engine block shelters resident fish. No site-specific species surveys are available.
 
 ## Tips and Recommendations
 
-- The large bronze propeller is the signature photo subject
-- Easy swim-throughs between three sections — good for beginners
-- Only 10 minutes by boat from Paphos harbour
-- The intact engine block shelters interesting marine life
-- Suitable for Open Water course dives
+- The large bronze propeller on the upturned stern is the signature photo subject
+- Three distinct sections to explore: bow, winch area, and stern
+- Shallow depth (11m) and easy access make this a popular training site
+- Approximately 10 minutes by boat from Paphos harbour
 
 ---
-*Sources: [Cydive - Achilleas](https://www.cydive.com/portfolio/achilleas/), [Cyprus Diving Association](https://cyprusdiving.org.cy/index.php/paphos-diving-sites/item/61-wreck-of-achilleas). Last updated 2026-04-10.*
+*Sources: [Cyprus Diving Association - Achilleas](https://cyprusdiving.org.cy/index.php/paphos-diving-sites/item/61-wreck-of-achilleas), [xtremespots.com](https://www.xtremespots.com/water-sports/scuba-diving/achilleas-wreck-paphos-cyprus/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/). Last updated 2026-05-23.*

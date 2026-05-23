@@ -32,7 +32,7 @@ The site consists of rocky wall faces, narrow canyon-like channels, and broken t
 
 ## Marine Life
 
-The canyon walls provide sheltered habitat for moray eels, lobster, and conger eels in the deeper crevices. Grouper claim territorial positions near the top of the wall. Nudibranchs and sea slugs crawl across sponge-covered surfaces. Sea bream and ornate wrasse populate the mid-water, and octopus are commonly found exploring the rocky bottom. Red coral (Corallium rubrum) is present in shaded overhangs.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The canyon topography can be disorienting for less experienced divers — mainta
 The canyon walls draped with red and orange sponges make exceptional wide-angle subjects with a diver for scale. Deep crevice openings framed by colourful encrustation are classic compositions. Macro subjects on the sponge-covered walls reward close inspection.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

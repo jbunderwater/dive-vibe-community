@@ -7,73 +7,52 @@ maxDepth: 25
 entryType: Shore
 siteType: reef
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 663869390
+addedBy: extended_overpass
 ---
 
 ## Playa Lagun
 
-Playa Lagun is a picturesque cove offering exceptional shore diving with frequent sea turtle encounters and excellent snorkeling conditions for all experience levels.
+Playa Lagun is a narrow, cliff-flanked cove on Curaçao's northwest coast — a protected lagoon leading to a healthy reef with confirmed sightings of chain moray, sharp-tail eels, flying gurnard, purple-mouth moray, and octopus in water under 6 metres.
 
 ## Overview
 
-Playa Lagun is one of Curaçao's most beloved shore diving destinations, renowned for its stunning natural beauty and exceptional marine life encounters. Located in a protected cove on the northwest coast, this site offers crystal-clear waters, calm conditions, and some of the most reliable sea turtle sightings on the island. The small, intimate bay is surrounded by dramatic limestone cliffs and features easy beach access, making it perfect for divers and snorkelers of all experience levels. The healthy coral reef system starts close to shore and provides habitat for diverse Caribbean marine life. The combination of scenic beauty, excellent diving conditions, and frequent wildlife encounters makes Playa Lagun a must-visit destination for underwater enthusiasts.
+Playa Lagun sits in a narrow, elongated cove enclosed by steep limestone cliffs near Lagun village. The distinctive topography — cliffs on both sides creating a long, narrow channel — concentrates the reef life in a sheltered corridor that snorkellers and divers can explore comfortably.
+
+The lagoon is shallow and protected, leading to a reef that runs out to deeper water at the bay mouth. A ScubaBoard diver described it as one of their favourite sites, specifically calling out exceptional critter life in less than 6 metres of water: chain moray, sharp-tail eels, flying gurnard, and purple-mouth moray. Lionfish are also present and increasingly common. A small restaurant and basic facilities are available at the beach.
 
 ## Site Information
 
-- **Location**: Northwest coast, village of Lagun
+- **Location**: Northwest coast, village of Lagun (narrow cove flanked by limestone cliffs)
 - **Entry Type**: Shore
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for turtle encounters
+- **Typical Visibility**: 20–30 metres
+- **Current**: Usually minimal to none; mild tidal flow at bay mouth
 
 ## Marine Life
 
-Playa Lagun is famous throughout the Caribbean for its exceptional sea turtle encounters, with both green sea turtles and hawksbill turtles regularly observed grazing in the seagrass beds and resting on the sandy bottom. The site's reputation for turtle sightings draws divers from around the world, and encounters are almost guaranteed on most dives. Beyond turtles, the healthy reef system supports diverse marine life including moray eels, octopus, southern stingrays, and schools of tropical fish. The calm protected waters and abundant food sources create an ideal environment for juvenile marine life, making it excellent for observing fish behavior and feeding patterns.
+Confirmed species at this specific site: chain moray, sharp-tail eels, flying gurnard, purple-mouth moray, octopus (all reported in less than 6 metres depth by forum diver). Lionfish are present and increasingly common. Sea turtles are reported at this site. The protected cove creates ideal shallow conditions for critter-hunting and macro photography.
 
 ## Dive Profile
 
-The dive begins from a small sandy beach in very shallow water (1-2 meters), making it ideal for beginners and underwater photographers. The reef starts immediately offshore with interesting coral formations beginning at depths of 3-5 meters. The bay gradually deepens toward the mouth, reaching maximum depths of 25-30 meters for more experienced divers. The compact size of the bay allows for thorough exploration during a single dive, with excellent marine life encounters at all depths. The protected nature of the cove ensures calm conditions suitable for extended underwater time and relaxed exploration.
+Sandy beach entry at the head of the cove. The lagoon channel runs out between cliff faces — divers can explore along the cliff bases on both sides at shallow depths. The reef deepens toward the bay mouth, reaching 25 metres and beyond. The compact cove allows thorough exploration in a single dive without navigational complexity. The narrow bay mouth can experience mild tidal currents.
 
 ## Entry and Exit
 
-Entry is extremely convenient from the small sandy beach, with easy access and minimal obstacles. The entry area is sandy with good footing, making it suitable for all experience levels including those carrying camera equipment. Wade out gradually until you can float comfortably before putting on fins. The compact bay means the entry and exit point is easily located throughout the dive. The protected location ensures calm entry and exit conditions year-round, making it ideal for training dives and nervous divers.
+Sandy beach entry at the cove head — suitable for all experience levels. Good footing throughout. A small restaurant is on-site. The bay mouth may have mild current — check conditions before venturing outside the cove.
 
 ## Tips and Recommendations
 
-- Arrive early for the best turtle encounters and fewer crowds
-- Bring an underwater camera for turtle photography opportunities
-- Move slowly and calmly to avoid disturbing marine life
-- Respect turtle resting areas and maintain appropriate distances
-- Consider multiple dives to fully appreciate the site's offerings
-- Pack snacks and water as facilities are basic but charming
+- Stay shallow (under 6 metres) along the cliff bases for the best critter encounters
+- Move slowly and look carefully for camouflaged species like flying gurnard
+- The site is excellent for snorkelling as well as scuba diving
+- Arrive early to avoid tourist crowds — Playa Lagun is listed in popular travel guides
 
 ## Safety Considerations
 
-Playa Lagun is considered one of Curaçao's safest dive sites due to its protected location and calm conditions. The shallow entry and close proximity to shore provide additional safety margins. Weather conditions rarely affect this sheltered cove. Be mindful of other divers and snorkelers, as the site can become crowded during peak times. The narrow bay mouth can experience mild currents during tidal changes. Always dive with a buddy and practice respectful wildlife interaction, especially around sea turtles.
-
-## Photography
-
-Playa Lagun offers world-class opportunities for underwater photography, particularly for capturing sea turtle encounters. The excellent visibility and calm conditions create ideal circumstances for both wide-angle and macro photography. The frequent turtle sightings provide opportunities for natural behavior photography and close-up encounters. The healthy coral formations and diverse marine life offer subjects for all types of underwater imaging. The clear water and good natural lighting minimize the need for extensive artificial lighting equipment.
-
-## Nearby Sites
-
-- **Playa Jeremi**: 5 minutes north, pristine protected bay diving
-- **Paradise**: Boat dive site nearby with excellent coral formations
-- **Kleine Knip**: 10 minutes south, beautiful beach with good diving
-- **Grote Knip**: 15 minutes south, larger bay with extensive reef
-- **Mushroom Forest**: Accessible by boat from Lagun area
-
-## Additional Resources
-
-- Basic facilities: Small restaurant and limited parking
-- Local dive operators available for equipment and guidance
-- Curaçao Marine Park information and turtle protection guidelines
-- Sea turtle interaction guidelines and best practices
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+The bay mouth narrows and may experience mild current during tidal changes. For dives deeper than the lagoon, plan accordingly. A surface marker buoy is recommended for dives outside the protected cove.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Playa Lagun](https://www.divecuracao.info/dive/curacao-diving-guide/playa-lagun/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Sites Curaçao](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-23.*

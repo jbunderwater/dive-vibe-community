@@ -51,4 +51,4 @@ Multiple depth levels allow progression from beginner to advanced dives. Start a
 - Excellent access by car with parking at the water's edge
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [Lom Leštinka official site](https://www.lestinkalom.cz/), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [Lom Leštinka official site](https://www.lestinkalom.cz/), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/). Last updated 2026-05-23.*

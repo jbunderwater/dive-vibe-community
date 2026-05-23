@@ -53,4 +53,4 @@ This site is explicitly not suitable for beginners. Required equipment includes 
 - A line reel is essential for maintaining orientation
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=204). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=204), [Střední Morava Tourism - Quarry Opatovice](https://stredni-morava.cz/en/what-to-do/quarry-opatovice.html), [Hranice Information Centre](https://infocentrum-hranice.cz/lom-opatovice/). Last updated 2026-05-23.*

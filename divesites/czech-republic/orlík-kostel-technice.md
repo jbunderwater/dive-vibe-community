@@ -17,7 +17,7 @@ The submerged ruins of a 14th-century Gothic church lying 45-60 meters below the
 
 ## Overview
 
-When the Orlík Dam was constructed on the Vltava River in 1960, the village of Technice and its 14th-century Gothic church of St. Stephen were submerged beneath what became the Czech Republic's largest-volume reservoir (716 million m³). The church was cleared and burned before flooding, but the structural remains are remarkably well preserved. Divers can explore the Gothic gable, ribbed vaulted ceiling, Gothic window openings, and cast-iron bannisters at depths of 45-60 meters below the reservoir surface.
+When the Orlík Dam on the Vltava River was completed and the reservoir began filling in 1961, the village of Těchnice and its Gothic church were submerged. The reservoir became the Czech Republic's largest-volume reservoir (716 million m³). The church was cleared and burned before flooding, but the structural remains are remarkably well preserved. Divers can explore the Gothic gable, ribbed vaulted ceiling, Gothic window openings, and cast-iron bannisters at depths of 45-60 meters below the reservoir surface. Note: the village name is "Těchnice" (the site is sometimes anglicised as "Technice").
 
 ## Site Information
 
@@ -54,4 +54,4 @@ This is an advanced to expert dive due to depth, cold water, and limited visibil
 - The Orlík area also offers shallower dive sites along the reservoir banks
 
 ---
-*Sources: [ScubaBoard - Diving in Czech Republic](https://scubaboard.com/community/threads/diving-in-the-czech-republic-am-i-crazy.281324/), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/). Last updated 2026-04-07.*
+*Sources: [ScubaBoard - Diving in Czech Republic](https://scubaboard.com/community/threads/diving-in-the-czech-republic-am-i-crazy.281324/), [DIVE Magazine - Five of Czechia's unique dive spots](https://divemagazine.com/scuba-diving-travel/five-of-czechias-unique-dive-spots), [VisitCzechia - Orlík Water Reservoir](https://www.visitczechia.com/en-us/things-to-do/places/landmarks/technical-monuments/s-orlik-water-reservoir). Last updated 2026-05-23.*

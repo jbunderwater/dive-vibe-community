@@ -17,7 +17,7 @@ A dramatic flooded granite quarry in the Žulovská pahorkatina, famous for its 
 
 ## Overview
 
-Lom Rampa is one of the most famous flooded quarries of the Žulovská pahorkatina (Žulová Hills) near the village of Černá Voda in the Jeseníky area, Olomoucký region. Before World War I, the quarry was operated by the H. Kulka company, and a 2,832-meter railway spur was built in 1918-1919 to transport stone. It is one of the "Rychlebské zatopené lomy" (Rychleby flooded quarries). The quarry's defining feature is a high perpendicular rock wall rising 16.5 meters above the waterline, also popular with cliff jumpers.
+Lom Rampa is one of the most famous flooded quarries of the Žulovská pahorkatina (Žulová Hills) near the village of Černá Voda in the Jeseníky area, Olomoucký region. It is one of the "Rychlebské zatopené lomy" (Rychleby flooded quarries). The quarry's defining feature is a high perpendicular granite rock wall rising approximately 16.5 meters above the waterline, also popular with cliff jumpers. Historical details about pre-WWI operators and a railway spur are reported by local diving sources but have not been independently verified.
 
 ## Site Information
 
@@ -52,4 +52,4 @@ From Žulová, head toward Černá Voda. At the beginning of the village past a 
 - A dry suit is recommended due to cold water temperatures
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=157). Last updated 2026-04-07.*
+*Description based on single primary source. Historical claims (operator name, railway) found in one source only and not independently verified. Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=157), [Tourismato - Quarry Rampa](https://www.tourismato.cz/en/lom-rampa-cerna-voda-p113858). Last updated 2026-05-23.*

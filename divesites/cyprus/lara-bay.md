@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Lara Bay
 
-Diving in the waters of a major turtle nesting beach on the Akamas Peninsula — green and loggerhead turtles nest May to August.
+Diving in the waters adjacent to a major turtle nesting beach on the Akamas Peninsula — loggerhead and green turtles nest here from May to August.
 
 ## Overview
 
-Lara Bay is located off the Akamas Peninsula near the Lara Bay Turtle Conservation Station, one of Cyprus's most important turtle nesting sites. Green and loggerhead turtles nest here from May to August. The diving features turquoise crystal-clear waters in the natural habitat of Cyprus sea turtles. The remote location on the Akamas Peninsula means the underwater environment is relatively undisturbed.
+Lara Bay is located on the remote northwest coast of Cyprus within the Akamas Peninsula, near the Lara Bay Turtle Conservation Station — one of the most significant loggerhead (Caretta caretta) and green turtle (Chelonia mydas) nesting sites in the Mediterranean. Nesting occurs from May to August. The remote location means the underwater environment is relatively undisturbed by boat traffic and tourism.
+
+The diving is primarily shallow reef with crystal-clear water. The site is accessible by boat or via a long drive on unpaved tracks through the Akamas Peninsula. No detailed dive site surveys specific to the underwater topography here have been found in available sources.
 
 ## Site Information
 
-- **Location**: Akamas Peninsula, Paphos, Cyprus
+- **Location**: Akamas Peninsula, northwest Paphos, Cyprus
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,13 +34,13 @@ Lara Bay is located off the Akamas Peninsula near the Lara Bay Turtle Conservati
 
 ## Marine Life
 
-Green turtles and loggerhead turtles (nesting May–August). Mediterranean reef species in relatively undisturbed waters.
+Loggerhead and green sea turtles are the principal wildlife draw, particularly May–August during nesting season. General Mediterranean reef species inhabit the bay. No site-specific marine life reports found beyond turtle presence.
 
 ## Tips and Recommendations
 
-- Major turtle nesting site — May to August for nesting season
-- Remote Akamas Peninsula location — less disturbed environment
-- Crystal-clear turquoise water
+- Major loggerhead and green turtle nesting site — May to August
+- Remote Akamas Peninsula location — check road conditions before visiting
+- Part of a protected conservation area — respect nesting zones and approach turtles calmly
 
 ---
-*Sources: [TripAdvisor - Lara Bay](https://www.tripadvisor.com/Attraction_Review-g190384-d3398669). *Limited dive-specific sources.* Last updated 2026-04-10.*
+*Description based on regional characteristics and turtle conservation sources. No detailed dive-specific sources found. Last updated 2026-05-23.*

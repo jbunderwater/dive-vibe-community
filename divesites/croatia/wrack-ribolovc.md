@@ -32,7 +32,7 @@ The "Ribolovc" name likely refers to a fishing vessel or small working boat, and
 
 ## Marine Life
 
-Small wreck sites like this are often excellent for macro life. Octopus are regularly found sheltering in cavities formed by the hull. Moray eels peer from crevices in the encrusted structure. Nudibranchs and small crustaceans inhabit the sponge-covered surfaces. Sea bream and wrasse circle the site, and in summer months, mullet may be seen feeding around the wreck perimeter.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Depth and conditions are well within recreational limits. The main hazard is sil
 The compact wreck offers intimate macro photography opportunities — nudibranchs, octopus, and encrusting invertebrates all reward close inspection. Wide-angle shots of the full hull structure can be captured in good visibility conditions. The sandy bottom provides a clean, bright background.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

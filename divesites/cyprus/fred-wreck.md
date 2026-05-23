@@ -3,7 +3,7 @@ name: Fred Wreck
 lat: 35.348333
 lng: 33.336667
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 29
 entryType: boat
 siteType: reef
 ref: null
@@ -13,35 +13,37 @@ addedBy: osm_import
 
 # Fred Wreck
 
-Not actually a wreck — a rocky underwater ridge where a British diver named Fred trained groupers to follow him on every dive.
+Not a wreck at all — a rocky underwater ridge outside Kyrenia Harbour named after a British diver who befriended the resident groupers.
 
 ## Overview
 
-Despite the name "Fred Wreck," this is actually a series of three large rocks forming an underwater ridge, 25 metres wide and 150 metres long, just outside Kyrenia Harbour in North Cyprus. The site was named after a British diver called Fred who discovered the reef and began feeding the resident groupers, which then followed him on every dive. The fish-feeding tradition made the site famous.
+Despite the name, Fred Wreck is not a shipwreck. The site consists of three large rocks forming an underwater ridge approximately 25 metres wide and 150 metres long, just outside Kyrenia Harbour in North Cyprus. Depth ranges from 13 to 29 metres. The site was named after a British diver called Fred who discovered the reef and began feeding the resident groupers, which would then follow him on every dive. Fish feeding is no longer practised here, but groupers remain present and are accustomed to divers.
 
-The site ranges from 13 to 29 metres depth and is near the location where the ancient Kyrenia shipwreck (2,300 years old, now in Kyrenia Castle museum) was found.
+The Fred Wreck is located close to the site where an ancient Greek trading vessel — the Kyrenia Ship, approximately 2,300 years old — was discovered on the seabed. The original ship is now displayed in Kyrenia Castle museum.
+
+This site is in North Cyprus — divers should check current entry and access requirements before visiting.
 
 ## Site Information
 
 - **Location**: Outside Kyrenia Harbour, North Cyprus
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light
-- **Best Time**: March to November
+- **Best Time**: March to November (high season May–October)
 
 ## Marine Life
 
-Groupers (including gold-blotched grouper), bream, triggerfish, and octopus. The fish here are very accustomed to divers due to the feeding tradition started by Fred.
+Groupers (including gold-blotched grouper), sea bream, triggerfish, and octopus have been reported. The groupers are notably accustomed to divers due to historical feeding. No site-specific species surveys available.
 
 ## Tips and Recommendations
 
-- NOT a wreck — it's a rocky ridge named after a diver called Fred
-- Groupers here are very accustomed to divers
-- Near the find-site of the 2,300-year-old Kyrenia shipwreck
-- Located in North Cyprus — check current access requirements
+- NOT a wreck — it is a rocky ridge; the name honours a diver called Fred
+- Groupers here approach divers readily due to the feeding tradition
+- Near the find-site of the ancient Kyrenia Ship (2,300-year-old Greek trading vessel, now in Kyrenia Castle museum)
+- Located in North Cyprus — check current entry requirements before visiting
 
 ---
-*Sources: [Scuba Cyprus](https://www.scubacyprus.com/diving-sites), [Divernet](https://divernet.com/world-dives/scuba-diving-in-cyprus-zenobia-wreck-reefs-top-dive-sites-north-and-south/). Last updated 2026-04-10.*
+*Sources: [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [divernet.com - Cyprus dive sites](https://divernet.com/world-dives/scuba-diving-in-cyprus-zenobia-wreck-reefs-top-dive-sites-north-and-south/), [divebooker.com](https://divebooker.com/fred-wreck-baz13192). Last updated 2026-05-23.*

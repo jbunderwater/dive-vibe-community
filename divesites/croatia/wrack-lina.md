@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Wrack Lina
 
-Wrack Lina (also recorded separately as "Lina wreck") is the wreck of a cargo vessel near Krk Island in the Kvarner region of northern Croatia, lying at depths reaching 55 metres. The site is one of the most demanding recreational dives in the northern Adriatic and is reserved for Advanced divers with solid gas management discipline.
+Wrack Lina is the same vessel as "Lina wreck" (OSM node 495589635) — two separate OSM entries exist for the same site. The Lina was a 70-metre steel cargo steamer built in 1879 at the Andrew Leslie shipyard in Scotland (originally named *Ville de Namour*), carrying 1,049 GRT. On 14 January 1914, in thick fog, the vessel struck the coast of Cres island near Cape Pecenj and sank while transporting over 700 tons of wooden cargo to Trieste.
 
 ## Overview
 
-The vessel rests largely upright, with the shallowest deck structures accessible at approximately 38–40 metres and the hull bottom at 55 metres. The wreck is in good condition for its age, with the hull and superstructure retaining their general shape, heavily colonised by Adriatic sponges, soft corals, and gorgonian sea fans. The deep clear waters of the Kvarner regularly offer 15–20 metres of visibility even at depth.
+The wreck rests upright close to the NW shoreline of Cres island, with the bow at approximately 25–27 metres and the stern reaching 52–55 metres. The standing bow mast — draped in fishing nets — is the most distinctive landmark. The wooden deck has deteriorated over time, exposing cargo remnants. Kvarner visibility is typically around 16 metres. The site is regarded as the top wreck destination in the Kvarner bay and remains accessible in most weather due to its shore proximity.
 
 ## Site Information
 
-- **Location**: Off Krk Island, Kvarner, Croatia
+- **Location**: NW coast of Cres island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 55 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate
+- **Typical Visibility**: ~16 meters
+- **Current**: Generally light
 - **Best Time**: June to September
 
 ## Marine Life
 
-Grouper and sea bream orbit the upper superstructure. Conger eels and moray eels inhabit the interior holds and dark crevices. The encrusted hull supports scorpionfish, nudibranchs, and a dense array of sponge communities. In summer, barracuda and amberjack can be found patrolling the water column above the wreck.
+Sources confirm: conger eels, lobsters, and schools of fish are resident, particularly around the standing bow mast. No further site-specific species claims made.
 
 ## Dive Profile
 
-Descend the shot line to the upper deck at 38–40 metres. Limit time at maximum depth (55 m) to 8–10 minutes on air. Execute a staged ascent using the shot line as a reference, pausing at 20 m, 15 m, and 5 m. Nitrox considerably extends safe working time. Technical diving configurations (twin sets, rebreathers) are ideal for this site.
+Descend to the bow at 25–27m, follow the starboard side aft to the engine room and bridge, descend to the stern at 52–55m. Limit time at maximum depth to 8–10 minutes on air. Stage ascent with stops at 20m, 15m, and 5m. Nitrox or technical gas mixes are strongly recommended.
 
 ## Entry and Exit
 
-Dive boats from Krk or Rijeka operators serve this site. Descent and ascent on the shot line is standard. Deploy an SMB if free ascending. Confirm sea state before departure — the Bura wind can produce steep Kvarner swells rapidly.
+Dive boats from Krk or Cres operators serve this site. Shot line descent. The proximity to the Cres shoreline provides shelter from most weather. Deploy an SMB for ascent. Watch for Bura wind conditions before departure.
 
 ## Tips and Recommendations
 
-- Nitrox or technical gas mixes are strongly recommended
-- Carry primary and backup torches for interior and deep exploration
-- Pre-plan gas turn pressures carefully — no margin for error at this depth
-- A drysuit is advisable in spring, autumn, and for dives below 30 m in summer
-- Brief thoroughly with the local dive guide before descent
+- The deep stern section (50–55m) is beyond standard recreational limits — proper planning and gas management are mandatory
+- The bow mast with fishing nets is the key photographic subject
+- Primary and backup torches are essential
+- A drysuit is advisable even in summer at this depth
 
 ## Safety Considerations
 
-This site pushes the boundary of recreational diving. Narcosis, gas depletion, and rapid thermal change with depth are all concerns. Only Advanced divers with experience at 40+ metres should attempt the deeper sections. Always dive with a buddy and an experienced local guide on first visits.
+This site pushes recreational limits. Narcosis, gas management, and thermal change are all concerns at 50+ metres. Only Advanced divers with demonstrated experience at depth should attempt the deeper sections. Always dive with a buddy.
 
 ## Photography
 
-The colourful sponge-encrusted superstructure photographed from slightly above creates magnificent wide-angle images with deep blue water in the background. Torch-lit close-ups of the resident invertebrates and fish reward macro photographers willing to manage carefully at depth.
+The standing bow mast, the cargo remnants, and the encrusted hull all provide strong photographic subjects. Torch-lit interior shots reward technical photographers willing to manage carefully at depth.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Sources: [SS Lina – Krnica.com](https://krnica.com/web_pages.php?r=73&kat=Wrecks), [Dive Center KRK – Lina](https://www.dive-center-krk.com/dive-sites/), [Frontier Adriatic – Wreck Lina](https://www.frontieradriatic.com/liveabord-croatia-wreck-lina/). Last updated 2026-05-23.*

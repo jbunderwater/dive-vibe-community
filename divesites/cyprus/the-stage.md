@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # The Stage
 
-A 'letterbox' swim-through and seasonal green turtles — adjacent to the Amphitheatre with shared shore entry.
+A 'letterbox' swim-through and seasonal green turtles — adjacent to the Amphitheatre with the same shore entry.
 
 ## Overview
 
-The Stage features a 'letterbox swim-through' with distinctive rock formations and Mediterranean seagrass. Named for its stage-like rock formation. Green turtles are frequently spotted here during June to November. Located adjacent to the Amphitheatre site with the same shore entry point.
+The Stage is located adjacent to the Amphitheatre site and shares the same shore entry point. The site is named for a stage-like rock formation and is best known for a narrow 'letterbox' swim-through. The seagrass meadow beyond the rocks is a feeding area for green sea turtles, with sightings reported from June to November. Maximum depth is approximately 12 metres.
+
+Marine Divers, a Paphos operator, lists The Stage alongside the Amphitheatre as part of the same Coral Bay dive area.
 
 ## Site Information
 
-- **Location**: Coral Bay, Paphos, Cyprus
+- **Location**: Coral Bay, Paphos, Cyprus (shared entry with Amphitheatre)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters
@@ -32,13 +34,13 @@ The Stage features a 'letterbox swim-through' with distinctive rock formations a
 
 ## Marine Life
 
-Green sea turtles (seasonal, June–November), reef fish, and species typical of the Paphos coast.
+Green sea turtles are seasonally present (reported June–November) feeding on the Mediterranean sea grass meadows. No additional site-specific marine life reports found.
 
 ## Tips and Recommendations
 
-- Check conditions with local operators before diving
-- Carry a torch for cave and overhang exploration
-- Dive within your certification limits
+- Shared shore entry with the Amphitheatre — the two sites are often combined
+- Green turtles feeding in the sea grass June–November
+- The 'letterbox' swim-through is the distinctive feature
 
 ---
-*Sources: Local dive operator descriptions. Last updated 2026-04-10.*
+*Sources: [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [cyprusdiving.org.cy](https://cyprusdiving.org.cy/index.php/paphos-diving-sites). Last updated 2026-05-23.*

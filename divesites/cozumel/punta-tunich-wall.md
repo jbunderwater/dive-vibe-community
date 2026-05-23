@@ -64,4 +64,4 @@ Punta Tunich's clear water and large-animal encounters create outstanding wide-a
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [Pro Dive International — Punta Tunich](https://www.prodiveinternational.com/dive-site/punta-tunich/), [ScubaTony's Cozumel Guide — Punta Tunich](https://divesites.scubatony.com/divesite.aspx?id=9), [Scuba Diving Place — Punta Tunich](https://scubadiving.place/divesite/punta-tunich). Last updated 2026-05-23.*

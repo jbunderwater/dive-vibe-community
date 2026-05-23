@@ -2,78 +2,60 @@
 name: Playa Kalki
 lat: 12.3739947
 lng: -69.1585735
-difficulty: Intermediate
-maxDepth: 35
+difficulty: Beginner
+maxDepth: 30
 entryType: Shore
-siteType: wall
+siteType: reef
 ref: null
-osmId: null
-addedBy: assistant
+osmId: 449247479
+addedBy: extended_overpass
 ---
 
 ## Playa Kalki
 
-Playa Kalki is home to the famous "Alice in Wonderland" dive site, offering spectacular coral formations and diverse marine life on Curaçao's northwest coast.
+Playa Kalki — home to the "Alice in Wonderland" reef — is consistently rated the number one shore dive in Curaçao, offering a sand-entry beach dive directly onto an active coral nursery with year-round turtle sightings.
 
 ## Overview
 
-Playa Kalki is one of Curaçao's most celebrated dive sites, famous for the "Alice in Wonderland" dive that features some of the island's most beautiful coral formations and abundant marine life. Located at the northern tip of Curaçao near Westpunt, this site offers excellent shore diving conditions with the convenience of on-site dive facilities operated by GO WEST Diving. The reef system extends directly from shore, featuring healthy coral gardens, dramatic wall sections, and diverse underwater topography. The site is known for its excellent visibility, calm conditions, and the presence of large marine life including sea turtles and rays. The combination of easy access, professional support, and world-class diving makes Playa Kalki a must-visit destination for divers of all levels.
+Playa Kalki sits at Curaçao's northwest tip near Westpunt. The name comes from the white limestone (kalk in Dutch) surrounding the beach; the alternative name "Alice in Wonderland" was coined by divers enchanted by the reef's layered coral formations resembling the whimsical gardens of Lewis Carroll's story.
+
+Go West Diving operates on-site at Playa Kalki beach and runs regular boat excursions from the same location. The site hosts an active coral nursery maintained by Reef Renewal Curaçao, where staghorn and elkhorn coral fragments are grown on underwater frames before outplanting onto the reef.
+
+The reef structure runs from just metres off the sandy beach down to 30 metres and beyond. The best diving is between 5 and 20 metres, where the coral density and marine life are highest.
 
 ## Site Information
 
-- **Location**: Northwest tip of Curaçao, Westpunt area
+- **Location**: Northwest tip of Curaçao, Westpunt area; Go West Diving on-site
 - **Entry Type**: Shore
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Usually minimal, occasional mild current
-- **Best Time**: Year-round, excellent for all diving activities
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Best Diving Depth**: 5–20 metres
+- **Typical Visibility**: 20+ metres
+- **Current**: Usually minimal; occasional mild current
 
 ## Marine Life
 
-Playa Kalki supports exceptional marine biodiversity typical of Curaçao's pristine northwest coast. The site is famous for frequent sea turtle encounters, including green sea turtles and hawksbill turtles. The healthy coral reef system hosts numerous species of tropical fish including large schools of blue tangs, parrotfish, angelfish, and butterflyfish. Regular sightings include southern stingrays, nurse sharks, and eagle rays. The site is particularly known for its healthy populations of large groupers and snappers. Macro enthusiasts will find abundant subjects including flamingo tongues, Christmas tree worms, and diverse crustaceans hiding in the coral formations.
+Confirmed species at this specific site include sea turtles (frequent), green moray eels, spotted eagle rays, creole wrasse, blue tangs, sergeant majors, schooling parrotfish, damselfish, trumpetfish, flamingo tongue cowries, cleaner shrimp, nudibranchs, finger corals, elkhorn corals, brain corals, star corals, soft corals, barrel sponges, and sea fans. Night dives at this site produce octopus and lobster.
 
 ## Dive Profile
 
-The dive begins from a sandy beach in shallow water (1-2 meters), making it accessible for all skill levels. The famous "Alice in Wonderland" reef extends directly from shore, with interesting coral formations starting at depths of 5-8 meters. The reef features a gentle slope that transitions to steeper wall sections, providing varied topography for different experience levels. Advanced divers can explore deeper wall sections reaching 30+ meters, while beginners can enjoy abundant marine life in shallower areas. The large reef area allows for extended dive times and multiple dive profiles from a single entry point.
+Enter from the sandy beach at Go West Diving's facility. The reef starts within metres of the shoreline. Shallow coral gardens begin at 3–5 metres; lush hard coral structure is concentrated between 9–20 metres. Deeper sections past 20 metres transition to wall-like drop-offs. The site is large enough for multiple dive profiles from the same entry point: beginners stay in the upper reef, advanced divers can push deeper.
 
 ## Entry and Exit
 
-Entry is convenient from the sandy beach at GO WEST Diving's facility, providing excellent support and amenities. The entry area is sandy with minimal coral rubble, making it suitable for all experience levels. Wade out approximately 20-30 meters before reaching the reef system. The presence of professional dive staff provides additional safety and support for entries and exits. The protected bay location ensures calm entry and exit conditions year-round. Equipment can be rinsed and stored at the on-site facilities.
+Sandy beach entry makes this one of the easiest shore entries on the island. Go West Diving provides full facilities: equipment rental, guided dives, tank fills, and shore support. Wade out from the beach until you can float, then fin to the reef. A surface marker buoy is required due to boat traffic from the dive operator's own boats.
 
 ## Tips and Recommendations
 
-- Take advantage of GO WEST Diving's professional services and equipment
-- Bring an underwater camera for the spectacular coral formations
-- Consider guided dives to discover the best areas of the reef
-- Plan for multiple dives to fully explore the extensive reef system
-- Respect the marine park regulations and coral protection guidelines
-- Combine with other Westpunt area sites for a full day of diving
+- Arrive early on weekends — the site is popular and the beach gets busy
+- Take advantage of Go West Diving's local knowledge for guided dive options
+- Look for the coral nursery frames in the shallow zone
+- Night dives here are highly rated for octopus and lobster
 
 ## Safety Considerations
 
-Playa Kalki is considered a very safe dive site with professional dive operator support on-site. The presence of GO WEST Diving provides additional safety resources and emergency response capabilities. Weather conditions rarely affect this protected site, but always check conditions before diving. The wall sections require proper depth monitoring and buoyancy control. Emergency services are readily available through the dive operator and local authorities. The site's popularity can lead to crowding during peak times.
-
-## Photography
-
-Playa Kalki offers world-class underwater photography opportunities with its spectacular coral formations and diverse marine life. The "Alice in Wonderland" reef provides endless subjects for wide-angle photography, capturing the vibrant coral gardens and schooling fish. The excellent visibility and natural lighting create ideal conditions for underwater photography. The site is particularly famous for turtle photography and capturing the interplay of marine life with healthy coral formations. Macro photography reveals abundant small subjects hiding in the reef crevices.
-
-## Nearby Sites
-
-- **Playa Piskado**: Adjacent site famous for sea turtle encounters
-- **Sweet Alice (Playa Forti)**: Nearby dive site with good snorkeling
-- **Watamula**: Advanced boat dive with dramatic topography
-- **Kleine Knip**: 20 minutes south, beautiful beach diving
-- **Mushroom Forest**: Accessible by boat from Westpunt area
-
-## Additional Resources
-
-- GO WEST Diving: On-site dive operator (+599 9 864-0187)
-- Full service facilities: equipment rental, training, guided dives
-- Curaçao Marine Park information and regulations
-- Weather conditions: Curaçao Meteorological Department
-- Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
+Go West Diving staff are on-site and provide additional safety oversight. Boat traffic from the dive operator's excursion boats is present — deploy a surface marker buoy before ascending. The site is within Curaçao National Marine Park; do not collect or damage anything.
 
 ---
-*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*
+*Sources: [DiveCuracao.info — Alice in Wonderland](https://www.divecuracao.info/dive/curacao-diving-guide/alice-in-wonderland/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [ScubaDiverLife — Alice in Wonderland Curaçao](https://scubadiverlife.com/dive-site-alice-in-wonderland-curacao/). Last updated 2026-05-23.*

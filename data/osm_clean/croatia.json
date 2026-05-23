@@ -20,7 +20,8 @@
       "tourism": "attraction",
       "type": "wreck",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "krnica.com,dive-center-krk.com,frontieradriatic.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -47,7 +48,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,rovinj-sub.hr,total-croatia-news.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -79,8 +81,9 @@
       "seamark:type": "beacon_isolated_danger",
       "source": "US NGA Pub. 113. 2010-10-22.",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this obscure site. Reverted to unvalidated pending proper research."
     }
   },
   {
@@ -96,8 +99,9 @@
     "tags": {
       "name": "Brbišćica",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -113,8 +117,9 @@
     "tags": {
       "name": "Golac",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -123,17 +128,19 @@
     "lon": 14.2303333,
     "osm_id": 663869720,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 35,
+    "minDepth": 10,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Wreck Tihany",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Depth corrected to 35m (sources: underwaterphotography.com). Location is near Unije/Skoljic island (Lošinj area), NOT Pag island as previous markdown stated. Difficulty upgraded to Advanced (35m, recommended for advanced divers per source). Previous source=perplexity insufficient for validation. Cannot confirm 3 independent sources for this specific wreck."
     }
   },
   {
@@ -149,8 +156,9 @@
     "tags": {
       "name": "Margarina (Sanddüne)",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -166,8 +174,9 @@
     "tags": {
       "name": "Krivica",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -183,8 +192,9 @@
     "tags": {
       "name": "Katedrala",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -200,8 +210,9 @@
     "tags": {
       "name": "Zabodaski",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -219,8 +230,9 @@
       "natural": "cave_entrance",
       "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources for this site. Reverted to unvalidated."
     }
   },
   {
@@ -236,8 +248,9 @@
     "tags": {
       "name": "Misnjak (Sanddüne)",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -253,8 +266,9 @@
     "tags": {
       "name": "Cutin",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -263,7 +277,7 @@
     "lon": 14.4702833,
     "osm_id": 663869731,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -271,7 +285,8 @@
       "name": "Kap Selzine",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,padi.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -287,8 +302,9 @@
     "tags": {
       "name": "Miracine",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -304,8 +320,9 @@
     "tags": {
       "name": "Zeca",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -321,8 +338,9 @@
     "tags": {
       "name": "Galijola",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -338,8 +356,9 @@
     "tags": {
       "name": "Fels Merag",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -355,8 +374,9 @@
     "tags": {
       "name": "Kap Kosaca",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -365,15 +385,17 @@
     "lon": 14.545,
     "osm_id": 663869738,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Mali Plavnik",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,luxurylivingcroatia.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Site type corrected from reef to wall — dive center sources confirm this is an underwater mountain/tower formation with 40m+ drops. Difficulty upgraded to Advanced."
     }
   },
   {
@@ -382,15 +404,17 @@
     "lon": 14.5339,
     "osm_id": 663869739,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Holzsegelschiff mit Geschützen",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,mare-vrbnik.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Confirmed as wooden sailing ship with cannons ('Guns of Plavnik') near Plavnik island. Depth corrected to 40m (sources list 21-40m range). Difficulty upgraded to Advanced."
     }
   },
   {
@@ -408,8 +432,9 @@
       "name": "Bucht Mrzlanovica (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. No specific site sources found during QA. Reverted to unvalidated."
     }
   },
   {
@@ -425,8 +450,9 @@
     "tags": {
       "name": "Kap Tanki",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -442,8 +468,9 @@
     "tags": {
       "name": "Kap Zašorga",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -459,8 +486,9 @@
     "tags": {
       "name": "Fels Macinj",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -476,8 +504,9 @@
     "tags": {
       "name": "Patersriff",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -493,8 +522,9 @@
     "tags": {
       "name": "Kap Silo",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -511,7 +541,9 @@
       "name": "Tunel Prvić",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,croatia.greatestdivesites.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Location corrected: this is on Prvić island near Šilo (Krk/Kvarner area), NOT in the Šibenik region as previous markdown stated. Three independent sources confirm ~35m tunnel with 12m entrance depth."
     }
   },
   {
@@ -527,8 +559,9 @@
     "tags": {
       "name": "Kricin",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -544,8 +577,9 @@
     "tags": {
       "name": "Riff Pal",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -565,7 +599,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "krnica.com,dive-center-krk.com,frontieradriatic.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Near-duplicate of Lina wreck (osm_id 495589635). Both entries refer to the same vessel. Kept both as OSM has two distinct nodes. Built 1879 Andrew Leslie shipyard, 70m long, 1049 GRT, sank 14 Jan 1914 on fog near Cres island."
     }
   },
   {
@@ -581,8 +617,9 @@
     "tags": {
       "name": "Grotta",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -598,8 +635,9 @@
     "tags": {
       "name": "Kap Jablanac",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -610,13 +648,15 @@
     "osm_type": "node",
     "depth": 13,
     "site_type": "cave",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Grotte Vrbnik",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Entry type corrected from boat to shore — dive centers confirm cave is 100m from dive center, accessed directly. Difficulty corrected to Beginner per dive center descriptions. Cave extends ~35m interior, chimney to surface, entrance at 13m."
     }
   },
   {
@@ -629,7 +669,7 @@
     "minDepth": 10,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -639,10 +679,12 @@
       "tourism": "attraction",
       "wreck:date_sunk": "1968-01-08",
       "wreck:length": "60.2",
-      "wreck:type": "ship",
       "wreck:width": "8.3",
+      "wreck:type": "ship",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "elpi-tours.com,scuba-diving-croatia.com,krkcroatia.net",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Difficulty upgraded to Advanced — requires AOW or equivalent, 7 lives lost in sinking. Depth range 15-32m. Greek cargo vessel (original name Alsterpark, built Kremer Sohn shipyard Germany 1952). Sank Jan 7-8 1968 in Bora storm, hit cliffs between Šilo and Klimno. Sources conflict on exact length: OSM tags say 60.2m, elpi-tours says 60m, dive center says 70m — likely 60m is correct (OSM sourced from wreck records). Sources conflict on casualties: 7-8 reported."
     }
   },
   {
@@ -652,14 +694,15 @@
     "osm_id": 663870772,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorgonien",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Site type likely wall/reef based on 'Gorgonien' name (gorgonian sea fans) and location near Cres/Krk. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -677,8 +720,9 @@
       "name": "Bucht Bobina (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. No specific site sources found during QA. Reverted to unvalidated."
     }
   },
   {
@@ -694,8 +738,9 @@
     "tags": {
       "name": "Säulenbucht",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -712,8 +757,9 @@
       "name": "Banjol",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources for this specific site. Reverted to unvalidated."
     }
   },
   {
@@ -722,9 +768,9 @@
     "lon": 14.6804754,
     "osm_id": 3084519395,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Vajavine",
@@ -732,7 +778,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Entry type corrected from boat to shore — dive centers confirm this is their house reef accessed by shuttle bus/ladder. Depth corrected to 30m+ (sources list 30m+ max). Known locally as '100 Steps' (100 stairs to the sea, dive ladder entry)."
     }
   },
   {
@@ -741,16 +789,18 @@
     "lon": 14.6835869,
     "osm_id": 3084534473,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Silent Beach",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Entry type corrected from boat to shore — confirmed as house reef accessible by shuttle bus from Vrbnik dive centers. Difficulty corrected to Beginner — described as flat entry, beginner-friendly by both dive centers."
     }
   },
   {
@@ -759,16 +809,18 @@
     "lon": 14.6758884,
     "osm_id": 3776941828,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Secret beach",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Entry type corrected from boat to shore — confirmed as house reef accessed via small cave to hidden beach, 'few meters' from dive center. Difficulty corrected to Beginner — described as shallow training area. Drop to 30m wall is one aspect, but entry area is beginner-friendly."
     }
   },
   {
@@ -781,7 +833,7 @@
     "minDepth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "allowed_depth": "40",
       "difficulty": "expert",
@@ -794,7 +846,9 @@
       "tourism": "attraction",
       "type": "wreck",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,3pulse.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Difficulty upgraded to Advanced (42m, expert-tagged in OSM). Confirmed: built 1957 Hamburg as M/B Valeria, renamed El Hawi Star 1981, sank Dec 12 1982 after improper cargo loading of stone slabs and lumber, ~500m from Excelsior breakwater near Rijeka. Lies on starboard side 26-42m."
     }
   },
   {
@@ -811,8 +865,9 @@
       "name": "Canyon",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this specific site. Reverted to unvalidated."
     }
   },
   {
@@ -823,7 +878,7 @@
     "osm_type": "node",
     "depth": 2,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "description": "swimming and underwater sightseeing in shallow water",
@@ -833,8 +888,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Entry type corrected from boat to shore — OSM tag describes this as a shallow underwater trail at 2m depth, clearly shore-accessible. Cannot confirm 3 independent sources. Reverted to unvalidated."
     }
   },
   {
@@ -853,11 +909,13 @@
       "name": "Francesca da Rimini",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "24.01.1944",
+      "wreck:date_sunk": "1944",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divetramonto.com,scubaboard.com,divessi.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Date conflict: OSM says 24.01.1944; Tramonto Diving (primary dive operator) says 22.03.1944 (March 22, 1944). Updated wreck:date_sunk to 1944 only (year confirmed, exact date conflicted). Vessel: Italian cargo warship built 1942 Rijeka, 42m long, 281 tons, seized by Germans 1943. Sank near Kaprije island, torpedoed by British Spitfires. Depth 38-50m."
     }
   },
   {
@@ -878,8 +936,9 @@
       "scuba_diving:entry": "boat  or shore",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this specific site. OSM entry says 'boat or shore'. Reverted to unvalidated."
     }
   },
   {
@@ -889,6 +948,7 @@
     "osm_id": 12498962266,
     "osm_type": "node",
     "depth": 22,
+    "minDepth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -901,7 +961,9 @@
       "wreck:date_sunk": "2018-01-31",
       "wreck:type": "ship",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divetramonto.com,padi.com,wrecked-ships.fandom.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Confirmed: 30m cargo ship Plavi Jadran sank 31 Jan 2018 after collision with Jadrolinija ferry Tijat near Prvić island. Depth 20-22m. Both crew survived. Deliberately accessible beginner wreck. Location near Prvić island (not just 'near Šibenik' as previous markdown stated)."
     }
   },
   {
@@ -920,7 +982,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wreckhunters.eu,xray-mag.com,vintageaviationnews.com",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Aircraft is Italian Air Force Ju 87 R-2 (NOT German aircraft as implied in previous markdown). Crashed/forced down April 12 1941 near Žirje island during attack on Yugoslav warships at Jadrovac near Šibenik. Discovered Sept 2014. Declared Croatian cultural heritage. Depth 28m. Diving requires licensed dive center escort. Previous text incorrectly stated aircraft was 'shot down by anti-aircraft defense' — sources indicate it was forced to ditch, crew believed to have escaped (no remains found). Engine found separately at ~40m."
     }
   }
 ]

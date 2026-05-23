@@ -23,7 +23,7 @@ The reef at Cutin drops over rocky terrain from the shallows to approximately 25
 
 - **Location**: Pag Island South, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The reef at Cutin drops over rocky terrain from the shallows to approximately 25
 
 ## Marine Life
 
-Large dusky grouper are characteristic of this site, holding territories among the larger boulders. Moray eels and conger eels inhabit the deeper rocky recesses. Scorpionfish sit motionless on rocky surfaces, camouflaged against the encrustation. Barracuda are regularly seen in the water column, and sea bream school around the reef structures. Octopus are common in the mid-reef zone.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current awareness is important at this channel-adjacent site. Dive within your c
 The rocky reef terrain with its boulders and crevices provides wide-angle subjects, and resident grouper make excellent portrait subjects. Scorpionfish sitting on rocky surfaces reward patient photographers. The clear Dalmatian water provides good ambient light throughout the reef.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

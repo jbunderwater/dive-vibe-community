@@ -17,13 +17,15 @@ Cozumel's closest accessible reef to the main cruise ship pier — a gentle, sha
 
 ## Overview
 
-Paraiso (Spanish for "paradise") lives up to its name as a welcoming, photogenic reef just offshore from the cruise ship terminals north of San Miguel. Its proximity to the dock makes it the most frequently visited reef in Cozumel, and consequently local operators have developed excellent familiarity with its conditions. The site divides into two sections: Paraiso Norte and Paraiso Sur, connected by a sandy corridor. The terrain is predominantly large brain and star coral heads rising from a sandy plain at 10–15 meters, with extensive sea fan gardens on the reef slope. The mild northward drift is consistent, making it genuinely beginner-appropriate. Cruise divers and Open Water students make their first ocean dives here regularly.
+Paraiso (Spanish for "paradise") is named after the adjacent Rancho Paraiso and is located directly south of the Puerto Maya international cruise ship terminal dock. It is the northernmost reef within the Arrecifes de Cozumel National Park. Its proximity to the dock makes it one of the most frequently visited reefs in Cozumel, and local operators have excellent familiarity with its conditions. The site is a large reef system in three sections at approximately 5 meters, 13 meters, and 18 meters depth — with abundant coral and sponges on the 18-meter level before the reef slopes into the abyss. The mild northward drift is consistent, making it genuinely beginner-appropriate.
+
+**Important current warning**: Because Paraiso is situated immediately south of the Puerto Maya cruise ship pier, strong current can carry ascending divers toward the active pier — a genuine hazard unique to this site's position. Deploy your SMB before ascending and follow your divemaster's ascent location precisely.
 
 ## Site Information
 
 - **Location**: Northwest Cozumel, offshore from the cruise ship piers, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 18–30 meters (60–100 feet)
@@ -52,7 +54,7 @@ Proximity to the cruise piers means boat rides are only 5–10 minutes. Mooring 
 
 ## Safety
 
-The main safety consideration at Paraiso is boat traffic. The proximity to the cruise piers means multiple dive boats operate simultaneously — always ascend with an SMB deployed. Follow your group's descent and ascent procedures precisely. Fire coral is present on many coral structures. The recompression chamber is a short ride away in San Miguel.
+The main safety considerations are boat traffic and the proximity to the cruise ship pier. If current is strong when ascending, divers risk being carried toward the active Puerto Maya pier — always ascend with an SMB deployed and follow the divemaster's exact ascent location. Do not surface upwind or upcurrent of the pier on strong current days. Fire coral is present on many coral structures. The recompression chamber is a short ride away in San Miguel.
 
 ## Photography
 
@@ -64,4 +66,4 @@ Paraiso is a photographer-friendly site with clear shallow water and approachabl
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Paradise Reef](https://www.reefsofcozumel.com/paradise.html), [Pro Dive International — Paradise Reef](https://www.prodiveinternational.com/dive-site/paradise-reef/), [PADI Dive Site — Paradise Reef](https://www.padi.com/dive-site/mexico/paradise-reef-4/), [Blue Note Scuba — Paradise Reef Cozumel](https://www.bluenotescuba.com/paradise-reef-cozumel). Last updated 2026-05-23.*

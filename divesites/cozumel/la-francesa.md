@@ -2,7 +2,7 @@
 name: La Francesa
 lat: 20.317584
 lng: -87.031631
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ La Francesa (The Frenchwoman) occupies the southern dive corridor of Cozumel's l
 
 - **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate northward drift
@@ -64,4 +64,4 @@ Eagle rays crossing the white sandy channels are a classic Cozumel image — use
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*
+*Sources: [The Reefs of Cozumel — Dive Sites](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Scuba Diving Place — San Francisco & La Francesa](https://scubadiving.place/divesite/san-francisco-la-francesa). Last updated 2026-05-23.*
