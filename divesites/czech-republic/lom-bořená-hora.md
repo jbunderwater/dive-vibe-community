@@ -13,11 +13,11 @@ addedBy: curated
 
 ## Lom Bořená Hora
 
-A flooded granite quarry near Prague featuring the wreck of a military Mil Mi-8 helicopter — the quarry's star attraction at 11 meters depth.
+A flooded granite quarry near Prague featuring the wreck of a military Mil Mi-8S helicopter at 6-8 meters depth — the star attraction and one of the Czech Republic's most photogenic wrecks.
 
 ## Overview
 
-Lom Bořená Hora is a flooded granite quarry in the village of Štětkovice, Příbram District, Central Bohemia, approximately 35 km from Prague near the Slapy Dam. The quarry operated from 1922 to 1970, extracting bluish Sedlčany granite used for monuments and paving stones. Today its main attraction is the submerged wreck of a Mil Mi-8PS military helicopter (serial number 0829), which crashed near Milevsko in October 2001 with cosmonauts Vladimír Remek and Eugene Cernan aboard. After recovery, it was stripped of hazardous materials and sunk in the quarry as a dive attraction.
+Lom Bořená Hora is a flooded granite quarry in the village of Štětkovice, Příbram District, Central Bohemia, approximately 35 km from Prague near the Slapy Dam. The quarry operated from 1922 to 1970, extracting bluish Sedlčany granite used for monuments and paving stones. Today its main attraction is the submerged wreck of a Mil Mi-8S military helicopter (serial number 0829). The aircraft crashed on 28 October 2001 near Okrouhlá Radouň village (not near Milevsko as sometimes reported) while transporting cosmonaut Vladimír Remek and astronaut Eugene Cernan, along with astronaut John Blaha and military personnel — 12 people in total. The crash was caused by a faulty float switch that failed to warn of low fuel, leading to both engines failing during approach. All aboard survived, though four suffered injuries. Following three years of legal proceedings, a local diving center purchased the wreck in 2007 and sank it at Bořená Hora in May 2009.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Lom Bořená Hora is a flooded granite quarry in the village of Štětkovice, P�
 
 ## Underwater Features
 
-The Mil Mi-8 helicopter sits at approximately 11 meters depth — accessible to recreational divers. Other sunken attractions include a Tatra truck, a Ford car, and a rocket model. The bluish granite walls provide an atmospheric backdrop.
+The Mil Mi-8S helicopter sits at approximately 6-8 meters depth — fully accessible to recreational divers. It can be entered with a torch and explored internally. Other sunken attractions include a Tatra truck, a Ford car, and a rocket model, all connected by guide ropes. The bluish granite walls provide an atmospheric backdrop.
 
 ## Marine Life
 
@@ -40,7 +40,7 @@ Freshwater species typical of Central Bohemian quarries. Fish congregate around 
 
 ## Dive Profile
 
-Enter from shore and navigate to the helicopter wreck at 11 meters — the quarry's centerpiece. The Tatra truck and Ford car provide additional waypoints at various depths. The maximum depth of 22 meters keeps the site within recreational diving limits. Multiple objects spread across the quarry floor allow for extended exploration.
+Enter from shore and navigate to the helicopter wreck at 6-8 meters — the quarry's centerpiece. Guide ropes connect the helicopter to the Tatra truck and Ford car at various depths. The maximum depth of 22 meters keeps the site well within recreational diving limits. Multiple objects spread across the quarry floor allow for extended exploration at comfortable depths.
 
 ## Tips and Recommendations
 
@@ -49,4 +49,4 @@ Enter from shore and navigate to the helicopter wreck at 11 meters — the quarr
 - Located near Slapy Dam, making it easy to combine with a reservoir dive for a full day
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=279), [ScubaGo - Lom Bořená Hora](https://www.scubago.com/en/explore/divesite/lom-boen-hora-ssi-potya-75512). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=279), [Helidat.cz - Mi-8 0829](https://helidat.cz/vrtulnik.php?ID=722), [collectSPACE - Cernan Remek Helicopter Crash](https://www.collectspace.com/news/news-102801a.html). Last updated 2026-05-23.*

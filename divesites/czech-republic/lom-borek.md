@@ -38,7 +38,7 @@ Notable sunken attractions include an Ikarus articulated bus (placed in 2003, in
 
 ## Marine Life
 
-Rich freshwater life: perch, bream, carp, pike (up to 1.2 meters), catfish, zander, and crayfish. Seasonally, tadpoles and freshwater jellyfish can be observed.
+Rich freshwater life: perch, bream, carp, pike, catfish, zander, and crayfish. Fish congregate around the bus, car, and other submerged structures. Freshwater jellyfish (Craspedacusta sowerbii) have been documented in Czech quarry sites generally but sightings at this specific quarry have not been independently confirmed — visit in late summer if this is a goal.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ From Golčův Jeníkov toward Chotěboř, take a right turn before the village o
 - On-site facilities make this a convenient base for a full day of diving
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132), [DiveSSI - Lom Borek](https://www.divessi.com/en/mydiveguide/divesite/lom-borek-czech-republic-235735). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132), [DiveSSI - Lom Borek](https://www.divessi.com/en/mydiveguide/divesite/lom-borek-czech-republic-235735), [DiveChamp - Lom Borek](https://divechamp.com/divesite/lom-borek). Last updated 2026-05-23.*

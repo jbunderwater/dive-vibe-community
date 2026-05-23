@@ -15,7 +15,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, soprassub.com"
+      "validation_source": "stranypotapecske.cz,soprassub.com,apneasite.cz",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -33,8 +34,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validated": "false",
+      "validation_source": "stranypotapecske.cz",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Only 1 independent source found. Needs 2 additional sources to confirm validated."
     }
   },
   {
@@ -53,7 +56,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validation_source": "stranypotapecske.cz,stredni-morava.cz,infocentrum-hranice.cz",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -71,8 +75,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validated": "false",
+      "validation_source": "stranypotapecske.cz,tourismato.cz",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Historical claims about H. Kulka company and 1918-1919 railway found in only 1 source (stranypotapecske.cz). Needs 2 more independent sources for full validation."
     }
   },
   {
@@ -91,7 +97,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validation_source": "stranypotapecske.cz,divessi.com,wikipedia.org",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -109,8 +116,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validated": "false",
+      "validation_source": "stranypotapecske.cz",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Only 1 source found. Needs 2 additional independent sources to confirm validated."
     }
   },
   {
@@ -129,7 +138,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validation_source": "stranypotapecske.cz,wikipedia.org,mubruntal.cz",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -147,8 +157,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "true",
-      "validation_source": "stranypotapecske.cz"
+      "validated": "false",
+      "validation_source": "stranypotapecske.cz",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "Only 1 source found. Specific fish species (grass carp, silver carp, catfish, crayfish) confirmed only by stranypotapecske.cz. Needs 2 more independent sources."
     }
   },
   {
@@ -167,7 +179,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, divessi.com"
+      "validation_source": "stranypotapecske.cz,divessi.com,divechamp.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -186,7 +199,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, divechamp.com"
+      "validation_source": "stranypotapecske.cz,divechamp.com,divebuddy.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -205,7 +219,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "wikipedia.org, naui.org"
+      "validation_source": "wikipedia.org,indepthmag.com,unexup.eu",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -224,7 +239,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "scubaboard.com, soprassub.com"
+      "validation_source": "scubaboard.com,divemagazine.com,visitczechia.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -243,7 +259,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, scubago.com"
+      "validation_source": "stranypotapecske.cz,helidat.cz,collectspace.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -262,7 +279,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, divessi.com"
+      "validation_source": "stranypotapecske.cz,divessi.com,seahorsediving.cz",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -281,7 +299,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz, lestinkalom.cz"
+      "validation_source": "stranypotapecske.cz,lestinkalom.cz,soprassub.com",
+      "last_qa_date": "2026-05-23"
     }
   },
   {
@@ -299,8 +318,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "curated",
-      "validated": "true",
-      "validation_source": "stranypotapecske.cz, buddymag.cz"
+      "validated": "false",
+      "validation_source": "stranypotapecske.cz,buddymag.cz",
+      "last_qa_date": "2026-05-23",
+      "qa_note": "buddymag.cz URL returned 503. Cannot confirm second source. Needs re-verification."
     }
   }
 ]

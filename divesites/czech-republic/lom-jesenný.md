@@ -54,4 +54,4 @@ This is a private site. Contact the diving base in advance to arrange access. En
 - The Bohemian Paradise area offers excellent above-water sightseeing between dives
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=175), [BuddyMag - Lom Jesenný](http://buddymag.cz/aktuality/lom-jesenny-potapeni-na-severu-cech-223). Last updated 2026-04-07.*
+*Description based on two sources. BuddyMag.cz returned 503 error during re-audit (2026-05-23) — content could not be re-verified. Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=175), [BuddyMag - Lom Jesenný](http://buddymag.cz/aktuality/lom-jesenny-potapeni-na-severu-cech-223). Last updated 2026-05-23.*

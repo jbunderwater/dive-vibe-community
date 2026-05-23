@@ -17,7 +17,7 @@ A long, narrow slate quarry near Svobodné Heřmanice with depths to 36 meters, 
 
 ## Overview
 
-Lom Šífr is a flooded slate quarry located near the small village of Svobodné Heřmanice, approximately 140 km from Žilina near Opava in the Moravskoslezský region. The quarry is approximately 500 meters long and 30-70 meters wide, reaching depths of up to 36 meters. It sits at an altitude of 450 meters above sea level. The narrow, elongated shape of the quarry creates dramatic wall diving along the slate cliffs.
+Lom Šífr is a flooded slate quarry located near the small village of Svobodné Heřmanice, near Opava in the Moravskoslezský region. The quarry is approximately 500 meters long and 30-70 meters wide, reaching depths of up to 36 meters. It sits at an altitude of 450 meters above sea level. The narrow, elongated shape of the quarry creates dramatic wall diving along the slate cliffs.
 
 ## Site Information
 
@@ -52,4 +52,4 @@ The 36-meter depth combined with the 450-meter altitude requires careful dive pl
 - Bring lights for exploring the wall features and submerged structures
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveChamp - Lom Šífr](https://divechamp.com/divesite/lom-sifr---svobodne-hermanice). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveChamp - Lom Šífr](https://divechamp.com/divesite/lom-sifr---svobodne-hermanice), [DiveBuddy - Svobodné Heřmanice Lom Šífr](https://www.divebuddy.com/divesite/3027/svobodn-hemanice-lom-fr-czech-republic/). Last updated 2026-05-23.*

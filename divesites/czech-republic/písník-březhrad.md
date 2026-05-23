@@ -49,4 +49,4 @@ A simple, shallow dive with a maximum depth of 7 meters. Enter from shore and na
 - Good site for new divers to build confidence and log easy dives
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=12). Last updated 2026-04-07.*
+*Description based on single-source data. No additional independent sources found for this site. Source: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=12). Last updated 2026-05-23.*

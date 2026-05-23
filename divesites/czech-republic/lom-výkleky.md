@@ -50,4 +50,4 @@ A straightforward shallow dive. Enter from shore and explore the scattered attra
 - A dry suit is recommended outside of summer months
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveSSI - Lom Výkleky](https://www.divessi.com/en/mydiveguide/divesite/lom-vykleky-czech-republic-170498), [Sea Horse Diving](https://seahorsediving.cz/lom-vykleky/). Last updated 2026-04-07.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveSSI - Lom Výkleky](https://www.divessi.com/en/mydiveguide/divesite/lom-vykleky-czech-republic-170498), [Sea Horse Diving](https://seahorsediving.cz/lom-vykleky/). Last updated 2026-05-23.*

@@ -31,7 +31,7 @@ Leštinka - Kaňon is a small flooded granite quarry accessed from the village o
 
 ## Underwater Features
 
-The quarry bottom holds remnants of granite mining equipment and pipes, an old training rig, a caisson, and a sunken museum exhibit. The canyon walls continue underwater, creating an enclosed, atmospheric diving environment.
+The quarry bottom holds remnants of granite mining equipment and pipes. The canyon walls continue underwater, creating an enclosed, atmospheric diving environment. Claims of a caisson and sunken museum exhibit at this specific quarry (as distinct from the main Lom Leštinka) are based on a single source and have not been independently confirmed.
 
 ## Marine Life
 
@@ -48,4 +48,4 @@ A straightforward shallow dive. Enter from shore and explore the quarry floor, f
 - A dry suit is recommended due to cold water temperatures
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=509). Last updated 2026-04-07.*
+*Description based on single-source data (Strany potápěčské). No additional independent sources found for this specific quarry. Source: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=509). Last updated 2026-05-23.*
