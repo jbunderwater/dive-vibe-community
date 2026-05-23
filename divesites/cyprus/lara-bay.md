@@ -24,7 +24,7 @@ The diving is primarily shallow reef with crystal-clear water. The site is acces
 ## Site Information
 
 - **Location**: Akamas Peninsula, northwest Paphos, Cyprus
-- **Entry Type**: Shore entry (remote — unpaved road access)
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters

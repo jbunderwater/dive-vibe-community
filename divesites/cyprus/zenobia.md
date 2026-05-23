@@ -30,7 +30,7 @@ The wreck rests on her port side. The starboard side reaches to approximately 17
 - **Location**: Larnaca Bay, Cyprus (approximately 1.5 km offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (most operators require Advanced Open Water with minimum 20 logged dives)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 42 meters
 - **Typical Visibility**: 20–40 meters
 - **Current**: Light to moderate

@@ -25,7 +25,7 @@ This site is located in North Cyprus, which operates under different political a
 
 - **Location**: East of Kyrenia, North Cyprus (near power station)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15–25 meters

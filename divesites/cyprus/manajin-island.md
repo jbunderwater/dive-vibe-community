@@ -23,7 +23,7 @@ Manajin Island (also spelled Manijin Island) is a small island near Paphos compa
 
 - **Location**: Near Paphos, Cyprus
 - **Entry Type**: Shore entry
-- **Site Type**: Reef/rock formation
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 meters

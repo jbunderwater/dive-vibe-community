@@ -28,7 +28,7 @@ The wreck rests upside down on the seabed at 33 metres depth. The inverted posit
 - **Location**: Larnaka Bay, approximately 1.5 km offshore, east Cyprus
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Advanced Open Water or Boat Diver certification required)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 15–25 meters (silt-sensitive)
 - **Current**: Light

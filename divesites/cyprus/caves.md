@@ -24,7 +24,7 @@ Shore entry requires a rocky giant stride from the cliff platforms. The site is 
 ## Site Information
 
 - **Location**: Cape Greco National Park, east Cyprus
-- **Entry Type**: Shore entry (rocky platform/giant stride)
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters

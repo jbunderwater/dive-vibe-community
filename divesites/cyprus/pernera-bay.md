@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Pernera Bay
 
-A shallow Protaras bay near the Liberty and Nemesis wrecks — with a purpose-built artificial reef system nearby.
+A shallow Protaras bay with easy shore entry — close to the Liberty Wreck and the 2015 artificial reef structures.
 
 ## Overview
 
-Pernera Bay is a shallow bay in the Protaras area, close to the Liberty and Nemesis wreck sites and a purpose-built artificial reef system (concrete structures, net formations, and rockpiles at 18–22 metres depth, completed 2015). The bay itself is suitable for beginners with shallow, calm conditions. Multiple PADI dive centres operate from Pernera.
+Pernera Bay is a shallow, sheltered bay in the Protaras area on east Cyprus, suitable for beginner shore dives and training. The bay itself is calm with a maximum depth of approximately 10 metres. Multiple PADI dive centres operate from Pernera.
+
+The wider Pernera area includes the Liberty Wreck (scuttled 2009, 27m), and a purpose-built artificial reef system completed in 2015 comprising concrete structures, suspended net formations, rockpiles, and pipe-like concrete formations deployed at 18–22 metres depth. The artificial reef is accessible by boat from Paralimni harbour and is part of a protected marine reserve where fishing is prohibited.
 
 ## Site Information
 
 - **Location**: Protaras, east Cyprus
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–30 meters
@@ -32,13 +34,13 @@ Pernera Bay is a shallow bay in the Protaras area, close to the Liberty and Neme
 
 ## Marine Life
 
-Mediterranean reef species. The nearby artificial reef system hosts nudibranchs, octopus, moray eels, groupers, jacks, stingrays, and turtles.
+At the nearby artificial reef structures: sea-squirts, starburst anemones, damselfish, bream, blue-spotted cornetfish, groupers, lionfish, nudibranchs, shrimps, moray eels, jacks, and occasional turtles and stingrays. No site-specific marine life reports for the bay itself.
 
 ## Tips and Recommendations
 
-- Check conditions with local operators before diving
-- Carry a torch for cave and overhang exploration
-- Dive within your certification limits
+- The shallow bay is ideal for beginners and check dives
+- The artificial reef system (2015) at 18–22m is accessible by boat from Paralimni harbour
+- The Liberty Wreck is nearby — often combined with a reef dive
 
 ---
-*Sources: Local dive operator descriptions. Last updated 2026-04-10.*
+*Sources: [Easy Divers - local dive sites](https://www.ezdivers.com/local-dive-sites/), [blog.scubatechdivers.com - artificial reefs](http://www.blog.scubatechdivers.com/2017/07/artificial-reefs-in-protaras-cyprus.html), [sirensdivecentre.com](https://sirensdivecentre.com/dive-sites). Last updated 2026-05-23.*

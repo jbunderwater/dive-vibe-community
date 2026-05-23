@@ -25,7 +25,7 @@ Maximum depth is 12 metres. The geological character — eroded river-bed topogr
 
 - **Location**: Northwest Paphos coast, Cyprus (near Akamas Peninsula)
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern (swim-through)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

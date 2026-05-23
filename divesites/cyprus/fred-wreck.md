@@ -27,7 +27,7 @@ This site is in North Cyprus — divers should check current entry and access re
 
 - **Location**: Outside Kyrenia Harbour, North Cyprus
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (rocky ridge)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15–25 meters

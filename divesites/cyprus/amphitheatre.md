@@ -25,7 +25,7 @@ A notable marine feature is the Atlantic Triton's Trumpet (Charonia tritonis) â€
 
 - **Location**: Coral Bay area, Paphos, Cyprus
 - **Entry Type**: Shore entry
-- **Site Type**: Reef/rock formation
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15â€“30 meters

@@ -29,7 +29,7 @@ Shore entry is from rocky platforms near the Love Bridge car park, requiring som
 ## Site Information
 
 - **Location**: Cape Greco National Park, east Cyprus (near Love Bridge car park)
-- **Entry Type**: Shore or boat
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters

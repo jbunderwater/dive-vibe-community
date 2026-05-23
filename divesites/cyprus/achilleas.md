@@ -24,7 +24,7 @@ Key features include the large bronze propeller on the upturned stern, intact po
 ## Site Information
 
 - **Location**: Off Paphos harbour, southwest Cyprus
-- **Entry Type**: Boat dive (approximately 10 minutes from Paphos harbour)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 11 meters

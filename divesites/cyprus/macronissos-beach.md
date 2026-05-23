@@ -23,7 +23,7 @@ Macronissos Beach is located approximately 5 km west of central Ayia Napa, on th
 
 - **Location**: Ayia Napa, east Cyprus (5 km west of town centre)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef/sandy bottom
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 12–15 meters

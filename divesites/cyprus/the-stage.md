@@ -25,7 +25,7 @@ Marine Divers, a Paphos operator, lists The Stage alongside the Amphitheatre as 
 
 - **Location**: Coral Bay, Paphos, Cyprus (shared entry with Amphitheatre)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef/rock formation
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

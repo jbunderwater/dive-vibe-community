@@ -24,7 +24,7 @@ Shore entry is from the Peyia seafront. Boats also access the site from Paphos.
 ## Site Information
 
 - **Location**: Peyia seafront, near Paphos, Cyprus
-- **Entry Type**: Shore or boat
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters

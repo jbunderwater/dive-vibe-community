@@ -22,8 +22,8 @@ Cynthiana is located in front of the Cynthiana Beach Hotel within a natural seaw
 ## Site Information
 
 - **Location**: Near Cynthiana Beach Hotel, Paphos, Cyprus
-- **Entry Type**: Shore entry (via natural seawater lagoon)
-- **Site Type**: Reef/rock formation
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

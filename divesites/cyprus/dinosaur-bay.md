@@ -24,8 +24,8 @@ Dive operators note that navigation on the return can be tricky once the distinc
 ## Site Information
 
 - **Location**: Peyia, near Paphos, Cyprus
-- **Entry Type**: Shore entry (semi-circular bay)
-- **Site Type**: Reef/rock formation
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

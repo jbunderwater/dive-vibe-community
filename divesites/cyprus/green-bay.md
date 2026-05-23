@@ -26,8 +26,8 @@ Green sea turtles are a regular presence and can often be spotted feeding in the
 ## Site Information
 
 - **Location**: Protaras, east Cyprus
-- **Entry Type**: Shore entry (easy walk-in)
-- **Site Type**: Reef/sandy bottom
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–30 meters
