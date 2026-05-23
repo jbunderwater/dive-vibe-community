@@ -13,16 +13,18 @@ addedBy: osm_import
 
 # Sea Caves
 
-An extensive network of natural caves at Peyia — more caves than you could explore in one dive, with dramatic light through the roofs.
+An extensive network of natural caves carved into the Peyia coastline — more caves than you could explore in one dive, from 3 to 12 metres depth.
 
 ## Overview
 
-Sea Caves at Peyia village seafront near Paphos is an extensive network of natural caves carved into the rock along the shore. The site features more caves than you could explore in a single dive, with multiple swim-throughs, gullies, and hidden cave entrances at 3–12 metres depth. Sunlight breaks through the cave roofs creating dramatic lighting effects. One of the shallowest dive sites in the Paphos area, making it accessible for newer divers while remaining interesting for experienced ones.
+Sea Caves at Peyia village seafront near Paphos is an extensive network of natural caves, swim-throughs, and gullies carved into the coastal rock. The site features multiple cave entrances and passages at 3–12 metres depth. Sunlight enters through cracks in the cave roofs, creating dramatic lighting effects that make this a popular photography site. The shallow maximum depth and multiple swim-throughs make it accessible for newer divers while offering sufficient variety to hold the interest of more experienced ones.
+
+Shore entry is from the Peyia seafront. Boats also access the site from Paphos.
 
 ## Site Information
 
 - **Location**: Peyia seafront, near Paphos, Cyprus
-- **Entry Type**: Shore entry
+- **Entry Type**: Shore or boat
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
@@ -32,14 +34,13 @@ Sea Caves at Peyia village seafront near Paphos is an extensive network of natur
 
 ## Marine Life
 
-Typical Paphos coast reef species inhabit the cave system and surrounding reef.
+No site-specific marine life reports found. Mediterranean reef species typical of rocky cave habitat apply.
 
 ## Tips and Recommendations
 
-- More caves than you can cover in one dive — plan to return
-- Sunlight through cave roofs creates dramatic lighting
-- One of the shallowest sites in Paphos — lots of bottom time
-- Shore or boat accessible
+- More cave passages than you can explore in one dive
+- Sunlight through cave roofs creates dramatic lighting effects — a photography highlight
+- One of the shallowest sites in the Paphos area — maximum bottom time on any certification level
 
 ---
-*Sources: [Paphos Guide](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [Cyprus Island](https://www.cyprusisland.net/attractions/sea-caves-peyia-paphos). Last updated 2026-04-10.*
+*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [Cyprus Island - Sea Caves Peyia](https://www.cyprusisland.net/attractions/sea-caves-peyia-paphos), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html). Last updated 2026-05-23.*

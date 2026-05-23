@@ -3,7 +3,7 @@ name: Green Bay
 lat: 34.999703
 lng: 34.066737
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 10
 entryType: shore
 siteType: reef
 ref: null
@@ -13,32 +13,37 @@ addedBy: osm_import
 
 # Green Bay
 
-An underwater sculpture museum, old pottery, and resident sea turtles — Cyprus's most popular beginner site.
+One of Cyprus's most popular beginner and training dive sites — calm sheltered conditions with underwater statues and resident sea turtles.
 
 ## Overview
 
-Green Bay (also known as Turtle Bay) is one of the most popular beginner and training dive sites in Cyprus. Calm, sheltered, pool-like conditions with gentle rock ledges and small caverns. Features the MUSAN underwater sculpture park/museum with statues inspired by ancient Greek art placed at 8–9 metres depth. Scattered old pottery shells from archaeological research are integrated into the rocks. Frequently used for PADI Open Water training and Discover Scuba.
+Green Bay (also known as Turtle Bay) is located in Protaras, approximately 5 minutes from the town centre. Shallow, calm, and sheltered, it is among the most popular beginner and training dive sites in Cyprus, widely used for PADI Open Water and Discover Scuba experiences. The seabed slopes gently to a maximum of around 10 metres through interesting rock formations, sea grass beds, and sandy flats.
+
+A notable feature is a set of underwater statues placed at 8–9 metres depth, inspired by ancient Greek art. These are distinct from the MUSAN (Museum of Underwater Sculptures Ayia Napa) installation, which is a separate site located further along the coast near Ayia Napa. Green Bay also has scattered fragments of old pottery, remnants from past archaeological research in the area.
+
+Green sea turtles are a regular presence and can often be spotted feeding in the sea grass or gliding over the rock formations — sightings are reported year-round.
 
 ## Site Information
 
 - **Location**: Protaras, east Cyprus
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry (easy walk-in)
+- **Site Type**: Reef/sandy bottom
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–30 meters
-- **Current**: Light to moderate
-- **Best Time**: March to November
+- **Current**: Light
+- **Best Time**: Year-round (best March to November)
 
 ## Marine Life
 
-Mediterranean pufferfish, parrotfish, wrasse, trumpet fish, cardinal fish, sea bream, starfish, octopus, squid, seahorses, barracuda, and green sea turtles (regular visitors). Lionfish are also present.
+Green sea turtles are regularly sighted. Other reported species include parrotfish, wrasse, trumpet fish, cardinal fish, sea bream, octopus, and squid. Seahorses have been occasionally reported. No site-specific records of species abundance are available.
 
 ## Tips and Recommendations
 
-- Check conditions with local operators before diving
-- Carry a torch for cave and overhang exploration
-- Dive within your certification limits
+- Easy walk-in shore entry — one of the most accessible sites in Cyprus
+- Green turtles present year-round — check with operators for current sighting frequency
+- Underwater statues at 8–9m are a photogenic feature
+- Note: MUSAN (Museum of Underwater Sculptures Ayia Napa) is a separate site near Ayia Napa — not the same as Green Bay
 
 ---
-*Sources: Local dive operator descriptions. Last updated 2026-04-10.*
+*Sources: [Easy Divers - Green Bay](https://www.ezdivers.com/green-bay/), [Cyprus Island - Green Bay](https://www.cyprusisland.net/cyprus-diving/green-bay-diving-site), [AquaNaut Diving / scubadivecyprus.com](https://www.scubadivecyprus.com). Last updated 2026-05-23.*

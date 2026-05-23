@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # The Channel
 
-An advanced dive site in the Paphos west coast corridor.
+A shore dive site on the Paphos west coast diving corridor — listed among the sites in the Coral Bay area.
 
 ## Overview
 
-The Channel is listed among the advanced dives on the Paphos west coast alongside the Amphitheatre, The Stage, and Dinosaur Bay. The site features reef topography typical of the Paphos diving corridor.
+The Channel is located on the Paphos west coast, within the Coral Bay dive site cluster between Sea Caves and the Amphitheatre area. Despite being listed by coordinates in this corridor, no detailed descriptions of the site's specific features, topography, or notable characteristics have been found in the available published sources for the Paphos area. Local dive operators in Paphos can provide current conditions and directions.
+
+Maximum depth is 20 metres based on OSM data.
 
 ## Site Information
 
-- **Location**: Paphos west coast, Cyprus
+- **Location**: Paphos west coast, Cyprus (Coral Bay area)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters
@@ -32,13 +34,12 @@ The Channel is listed among the advanced dives on the Paphos west coast alongsid
 
 ## Marine Life
 
-Mediterranean reef species.
+No site-specific marine life reports found. Regional Mediterranean fauna applies.
 
 ## Tips and Recommendations
 
-- Check conditions with local operators before diving
-- Carry a torch for cave and overhang exploration
+- Check with local Paphos dive operators for current site conditions and entry directions
 - Dive within your certification limits
 
 ---
-*Sources: Local dive operator descriptions. Last updated 2026-04-10.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

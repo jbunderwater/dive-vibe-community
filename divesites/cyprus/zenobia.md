@@ -17,16 +17,20 @@ Consistently ranked among the world's top 10 wreck dives — a 172-metre ferry l
 
 ## Overview
 
-The MS Zenobia was a Swedish-built Challenger-class RO-RO ferry, 172.2 metres long with a 28-metre beam (10,000 GRT), built at Kockums Varv AB shipyard and launched 11 August 1979. On her maiden voyage from Malmö to Syria, a software error in the computerised ballast pumping system caused excess water to be pumped into the side ballast tanks. She capsized and sank at approximately 2:30 AM on 7 June 1980 in Larnaca Bay. There were no casualties. She went down with 104 tractor-trailers and an estimated £200 million worth of cargo.
+The MS Zenobia was a Swedish-built Challenger-class RO-RO (roll-on/roll-off) ferry constructed at Kockums Varv AB shipyard in Malmö and launched on 11 August 1979. Her gross tonnage is recorded as 10,000 GRT by Wikipedia and scubaverse.com; some diving sources cite 12,000 GRT — the discrepancy likely reflects differing measurement standards. She was 172.2 metres long with a 28-metre beam.
 
-The wreck now rests on her port side at 42 metres depth, with the starboard side accessible at approximately 18 metres. Divers can view the suspended trucks at ~28 metres, swim through the bridge, and explore the cafeteria at 24 metres. Penetration of the interior is possible but requires proper wreck diving training and equipment. The sheer scale of the wreck means multiple dives are needed for comprehensive exploration.
+On her maiden voyage from Malmö to Tartous, Syria in May–June 1980, a software error in the computerised ballast pumping system caused excess water to be pumped into the side ballast tanks. The progressive list worsened during a port call at Larnaca. After engineers failed to correct it, the vessel was towed out of harbour on 4 June 1980 and anchored approximately 1–1.5 miles offshore. At approximately 2:30 AM on 7 June 1980, Zenobia capsized and sank in Larnaca Bay to a depth of 42 metres. There were no casualties.
+
+Wikipedia records 104 tractor-trailers aboard; at least one diving source states 108 lorries. The discrepancy is unresolved across sources — 104 is the Wikipedia-cited figure. The cargo value has been estimated at approximately £200 million. No salvage operation has ever been undertaken.
+
+The wreck rests on her port side. The starboard side reaches to approximately 17–18 metres depth, with the suspended trucks accessible at around 28 metres, and the seabed at 42 metres. Divers can explore the bridge, cafeteria (at approximately 24 metres), and cargo decks. Penetration of the interior requires proper wreck diving training and equipment — it is not a routine activity. Multiple dives are needed to explore the full 172-metre length.
 
 ## Site Information
 
-- **Location**: Larnaca Bay, Cyprus
+- **Location**: Larnaca Bay, Cyprus (approximately 1.5 km offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Advanced (most operators require Advanced Open Water with minimum 20 logged dives)
 - **Maximum Depth**: 42 meters
 - **Typical Visibility**: 20–40 meters
 - **Current**: Light to moderate
@@ -34,16 +38,16 @@ The wreck now rests on her port side at 42 metres depth, with the starboard side
 
 ## Marine Life
 
-Dusky and striped groupers, sea bass, amberjacks, barracuda, parrotfish, bream, wrasse, moray eels, stingrays, loggerhead turtles, and occasional dolphins. The massive hull has become one of the Mediterranean's most productive artificial reefs over 45+ years.
+Groupers, sea bass, amberjacks, barracuda, moray eels, stingrays, and loggerhead turtles are reported at the site. A territorial grouper is frequently reported guarding the lifeboat area, and schools of lionfish have been documented near the propeller. The hull has functioned as an artificial reef for over 45 years.
 
 ## Tips and Recommendations
 
-- Consistently ranked in the world's top 10 wreck dives
 - Multiple dives needed — the wreck is 172 metres long
-- Suspended trucks at 28m are a surreal and iconic sight
-- The bridge swim-through is a highlight for qualified divers
-- Advanced Open Water with minimum 20 logged dives required by local operators
-- Nitrox recommended for extended bottom time
+- Suspended trucks at approximately 28m are an iconic feature
+- The bridge and cafeteria are navigable highlights for qualified divers
+- Nitrox recommended for extended bottom time at depth
+- Advanced Open Water certification with logged dives required by most local operators; check with your dive centre for current requirements
+- Wreck penetration requires proper training and equipment
 
 ---
-*Sources: [Wikipedia - MS Zenobia](https://en.wikipedia.org/wiki/MS_Zenobia), [Easy Divers](https://www.ezdivers.com/zenobia-wreck/), [PADI Cyprus](https://www.padi.com/dive-site/cyprus/the-zenobia-wreck/). Last updated 2026-04-10.*
+*Sources: [Wikipedia - MS Zenobia](https://en.wikipedia.org/wiki/MS_Zenobia), [Scubaverse](https://scubaverse.com/cyprus-a-closer-look-part-2-the-legendary-zenobia/), [proscubadiver.net](https://www.proscubadiver.net/dive-sites-cyprus/zenobia-wreck-cyprus/), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sports-training/sports-diving/ms-zenobia-shipwreck/). Last updated 2026-05-23.*
