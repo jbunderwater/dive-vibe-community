@@ -32,7 +32,7 @@ The reef extends from the cape in the typical Kvarner limestone format — rocky
 
 ## Marine Life
 
-Grouper hold their territories in the larger boulder sections. Moray eels and conger eels inhabit the deeper crevices. Octopus are commonly encountered hunting across the rocky terrain. Sea bream, ornate wrasse, and saddled bream populate the water column. The Posidonia meadows in the shallower zone support seahorses and various pipefish species.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate reef diving in generally benign conditions. Monitor depth 
 The clear Kvarner water provides excellent wide-angle opportunities across the reef. Resident grouper portraits and the Posidonia meadow's seahorses and pipefish are highlights. The rocky reef structure and its associated encrusting communities reward close macro work.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

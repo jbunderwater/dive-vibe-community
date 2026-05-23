@@ -32,7 +32,7 @@ The reef at Zabodaski descends over rocky limestone terrain to approximately 25 
 
 ## Marine Life
 
-Grouper are resident in the boulder sections. Moray eels and octopus inhabit the rocky crevices throughout the reef. Sea bream, ornate wrasse, and sardinella are abundant in the water column. The Posidonia shallows provide habitat for seahorses and pipefish. Nudibranchs and starfish are scattered across the reef surfaces.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry a
 The excellent visibility in the Dalmatian open water makes this a productive wide-angle site. Resident grouper, schooling sea bream, and the Posidonia meadow with its seahorses provide diverse photographic subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

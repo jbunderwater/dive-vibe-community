@@ -26,10 +26,10 @@ The reef structure runs from just metres off the sandy beach down to 30 metres a
 ## Site Information
 
 - **Location**: Northwest tip of Curaçao, Westpunt area; Go West Diving on-site
-- **Entry Type**: Shore (sandy beach entry)
-- **Site Type**: Coral reef (reef with wall sections deeper)
-- **Difficulty Level**: Beginner (all certification levels welcome)
-- **Maximum Depth**: 30 metres (100 feet)
+- **Entry Type**: Shore
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Best Diving Depth**: 5–20 metres
 - **Typical Visibility**: 20+ metres
 - **Current**: Usually minimal; occasional mild current

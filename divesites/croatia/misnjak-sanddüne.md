@@ -32,7 +32,7 @@ Cape Misnjak's underwater extension features rocky reef terrain transitioning to
 
 ## Marine Life
 
-The rocky reef sections host grouper, moray eels, and octopus. The sandy areas attract flatfish, starfish, and burrowing worms. Rays are sometimes encountered resting on the sandy bottom in summer. Sea bream and wrasse patrol between the reef and sand zones. In summer, pelagic species including barracuda approach the exposed cape position.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Cape position can mean variable current. Check conditions before descending. Mon
 The reef-to-sand transition provides contrasting photographic subjects in a single dive. Sandy bottom species — rays, flatfish, garden eels — require a careful approach and good buoyancy. Rocky reef subjects include resident grouper and the sponge-encrusted surfaces.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

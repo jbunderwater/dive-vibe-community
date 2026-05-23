@@ -24,10 +24,10 @@ The dive requires a surface swim of approximately 10–15 minutes across sandy b
 ## Site Information
 
 - **Location**: Northwest coast, near Landhuis Knip
-- **Entry Type**: Shore (sandy beach entry)
-- **Site Type**: Wall (with sandy plateau approach)
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25 metres
 - **Current**: Usually limited
 

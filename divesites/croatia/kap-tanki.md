@@ -32,7 +32,7 @@ The reef at Kap Tanki follows the cape topography — a narrow limestone promont
 
 ## Marine Life
 
-Grouper, moray eels, and octopus are characteristic species at this site. The cape tip and adjacent reef faces attract a variety of Adriatic fish species: sea bream, ornate wrasse, saddled bream, and barracuda. Nudibranchs and sea slugs inhabit the sponge-covered surfaces. The thin cape topography concentrates marine life that shelters on both sides depending on the prevailing current.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Cape tips concentrate current — be aware of conditions changing around the cor
 The cape tip with its diverse fish life and clear water provides excellent wide-angle photography. Both sides of the reef offer different lighting angles throughout the day. Macro subjects on the encrusted rock surfaces reward close investigation.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

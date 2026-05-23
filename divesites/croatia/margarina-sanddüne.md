@@ -32,7 +32,7 @@ The site features a mix of rocky reef terrain transitioning to sandy areas ("san
 
 ## Marine Life
 
-The reef-to-sand interface is productive for diverse species. On the rocky sections: grouper, moray eels, and octopus. On the sandy areas: flatfish, garden eels (in sheltered sandy patches), starfish, and sea cucumbers. The open sand also attracts rays in summer months. Barracuda and sea bream occupy the water column above the reef.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Standard intermediate reef and sand diving. Monitor depth in the sand areas wher
 The reef-sand interface creates interesting compositional contrasts. Sandy bottom subjects like rays, garden eels, and flatfish require a careful approach and macro or mid-range lens. The rocky reef sections provide colourful wide-angle subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

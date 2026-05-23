@@ -32,7 +32,7 @@ The rocky reef at Galijola features broken limestone terrain with boulders, crev
 
 ## Marine Life
 
-Large grouper hold territories in the deeper boulder areas. Moray eels and octopus are plentiful throughout the reef. Barracuda patrol above the structure in summer, and amberjack occasionally visit the exposed open water around the islet. Sea bream and wrasse are abundant. The Posidonia areas in the shallows are good for seahorses.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The exposed islet position can generate significant current — confirm sea stat
 The clear open water around the islet provides excellent wide-angle opportunities. The rocky reef silhouetted against blue water, barracuda in the water column, and resident grouper portraits are all productive subjects. The Posidonia shallows offer intimate macro photography.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

@@ -32,7 +32,7 @@ The cave formations at Banjol occur in the shallow-to-moderate depth range, with
 
 ## Marine Life
 
-The cave ceiling and walls host spiny lobster, hermit crabs, and small crustaceans in the darker recesses. Conger eels inhabit the deeper crevices. Outside the cave entrance, grouper and sea bream are common. Moray eels peek from crevices in the surrounding rocky terrain, and nudibranchs are found on the sponge-covered surfaces throughout.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Cavern diving requires awareness of overhead environments. Always remain oriente
 The cave entrance shot — looking out from inside the cavern toward the diver-lit blue water — is the classic Adriatic cavern image. The backlit silhouette of a diver in the mouth of the cave is equally dramatic. A torch reveals vivid red and orange sponge communities on the interior walls.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

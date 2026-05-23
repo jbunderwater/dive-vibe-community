@@ -32,7 +32,7 @@ The reef at Pal descends over rocky Istrian limestone to approximately 25 metres
 
 ## Marine Life
 
-The warmer northern Adriatic waters around Istria support a slightly different species mix to the Kvarner and Dalmatia. Sea bream, ornate wrasse, and scorpionfish are common. Grouper are present but typically smaller than in the southern Adriatic. Octopus are frequently encountered on the rocky reef. The Posidonia meadows may yield seahorses. Red mullet are characteristic of this shallow northern Adriatic habitat.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate reef diving in generally benign northern Adriatic conditio
 The northern Adriatic's flat rocky terrain and diverse small species provide interesting macro photography. The Posidonia meadows offer seahorse and pipefish opportunities. Natural light penetration is excellent in the shallow northern Adriatic for wide-angle reef photography.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

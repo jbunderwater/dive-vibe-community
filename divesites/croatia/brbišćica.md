@@ -32,7 +32,7 @@ The reef at Brbišćica descends over rocky slopes and terraces to around 25 met
 
 ## Marine Life
 
-Grouper are the dominant large fish, holding territories among the boulders and ledges. Moray eels peer from crevices throughout the reef. Octopus are frequently encountered on the open rocky areas. Sea bream, wrasse, and sardinella populate the mid-water. Nudibranchs and sea slugs are found on the sponge-encrusted surfaces. Posidonia seagrass areas in the shallows attract seahorses and pipefish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Conditions are well within intermediate recreational parameters. Monitor current
 Wide-angle shots of the boulder-strewn reef landscape and resident grouper are highly achievable. Macro photography on the sponge-covered surfaces reveals nudibranchs and other small invertebrates. The Posidonia meadows in the shallows provide photogenic habitat for seahorses and pipefish.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

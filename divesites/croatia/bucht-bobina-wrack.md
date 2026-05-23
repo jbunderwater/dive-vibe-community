@@ -32,7 +32,7 @@ The wreck sits at around 20–25 metres on a sandy seabed. While the original st
 
 ## Marine Life
 
-The wreck debris field attracts octopus that hide beneath hull plates, conger eels in the deeper recesses, and scorpionfish sitting camouflaged on encrusted metal. Grouper and sea bream are common visitors, and the sandy bottom around the wreck often hosts hermit crabs, sea urchins, and small flatfish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Depth is within standard recreational limits. The site is straightforward, but d
 Encrusted metal framework, octopus in the debris, and colourful sponge growth make this a productive macro site. Wide-angle shots can capture the scattered hull structure against the sandy bottom. Morning dives often offer the best natural light penetration.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

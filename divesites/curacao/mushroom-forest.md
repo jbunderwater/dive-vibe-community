@@ -25,9 +25,9 @@ The site consistently appears on Caribbean and global top-10 dive lists. Dive op
 
 - **Location**: Northwest coast off Santa Cruz Bay; boat only
 - **Entry Type**: Boat
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (100 feet)
+- **Maximum Depth**: 30 meters
 - **Best Diving Depth**: 10–18 metres (33–60 feet)
 - **Typical Visibility**: 25–30 metres (80–100 feet)
 - **Current**: Usually calm; occasionally moderate

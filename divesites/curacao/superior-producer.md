@@ -26,10 +26,10 @@ Today the wreck rests upright on a sandy bottom at approximately 30 metres, bow 
 ## Site Information
 
 - **Location**: Approximately 150 metres off the Willemstad waterfront, west of the Mega Pier
-- **Entry Type**: Boat (shore access is a very long swim and not recommended)
-- **Site Type**: Wreck
+- **Entry Type**: Boat
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Usually minimal to moderate
 

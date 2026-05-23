@@ -24,10 +24,10 @@ The reef begins just off the resort beach and drops to 40 metres. A second reef 
 ## Site Information
 
 - **Location**: West coast, Coral Estates Luxury Resort, Sint Willibrordus
-- **Entry Type**: Shore (resort pier access; check in with Coral Divers)
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres (recreational); deeper sections to 40 m+ available
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 30+ metres
 - **Current**: Usually minimal to none
 

@@ -24,10 +24,10 @@ Coral density is variable: directly in front of the bay it is lower, but after s
 ## Site Information
 
 - **Location**: Playa Boca Sami, central west coast (adjacent to Snake Bay)
-- **Entry Type**: Shore (beach entry with extended surface swim)
-- **Site Type**: Coral reef (45-degree sloping drop-off)
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 metres
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually minimal
 

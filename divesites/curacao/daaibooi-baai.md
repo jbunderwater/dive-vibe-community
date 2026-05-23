@@ -26,10 +26,10 @@ A marine park entrance fee of approximately 10 NAf may be charged at the beach.
 ## Site Information
 
 - **Location**: West coast, Sint Willibrordus, approximately 30 minutes from Willemstad
-- **Entry Type**: Shore (sandy beach entry, extended surface swim)
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 25 metres
 - **Current**: Usually minimal to none
 

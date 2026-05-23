@@ -32,7 +32,7 @@ Medova Buža is a very shallow cave and cavern site off the central Dalmatian co
 
 ## Marine Life
 
-Even at this very shallow depth, the caves host crabs, shrimp, and small fish that shelter in the rocky recesses. Blennies and gobies are plentiful on the cave walls. Sea urchins are common on the surrounding rocky substrate. In the water just outside the cave entrances, small grouper and sea bream are regularly seen.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The very shallow depth makes this one of the safest dive sites in Croatia. Maint
 The shallow depth and strong ambient light make this an excellent photography site. Close-up shots of the cave wall organisms photograph well without strobes. The cave entrance with sunlight streaming in creates a beautiful natural frame.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

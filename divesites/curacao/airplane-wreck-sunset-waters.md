@@ -26,10 +26,10 @@ Visibility at this site averages 20 metres. The adjacent reef slope provides add
 ## Site Information
 
 - **Location**: West coast, in front of the former Sunset Waters Resort (Coral Cliff Resort area), between the two breakwaters
-- **Entry Type**: Shore (beach access; guests of the resort or through the beach club)
-- **Site Type**: Wreck (largely deteriorated aircraft)
+- **Entry Type**: Shore
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 29 metres (reef slope behind the wreck continues deeper)
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20 metres
 - **Current**: Usually none
 

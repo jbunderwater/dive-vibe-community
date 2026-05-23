@@ -24,10 +24,10 @@ The wreck sits upright on a sandy bottom in 5 metres of water, close to shore at
 ## Site Information
 
 - **Location**: Tugboat Beach, Caracasbaai, southeast coast of Curaçao
-- **Entry Type**: Shore (short surface swim from the beach)
-- **Site Type**: Wreck
+- **Entry Type**: Shore
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 metres (15 feet)
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 10–20 metres
 - **Current**: Usually minimal in this protected bay
 

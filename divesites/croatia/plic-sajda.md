@@ -32,7 +32,7 @@ The shoal at Sajda rises from the surrounding deeper seabed to within a few metr
 
 ## Marine Life
 
-Isolated shoals in the open sea are magnets for pelagic visitors. Barracuda and amberjack patrol the open water around the shoal, particularly in summer. Grouper claim territories on the reef faces. Moray eels and octopus inhabit the crevices. Sea bream school on the shallow reef top. Large schools of baitfish sometimes gather around the shoal structure.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The open water position of isolated shoals requires careful SMB discipline — d
 Isolated shoals offer exceptional wide-angle photography with fish-filled blue water as the background. Schools of barracuda or amberjack circling the shoal create iconic images. The reef face covered in encrusting organisms provides colourful macro subjects.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

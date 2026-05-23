@@ -32,7 +32,7 @@ The reef at Golac features the characteristic limestone rock formations of the D
 
 ## Marine Life
 
-Dusky grouper are resident among the larger boulders. Moray eels inhabit crevices throughout the reef depth range. Octopus are frequently seen in open water around the rocks. Sea bream and ornate wrasse are abundant, and barracuda patrol the water column above the reef in summer. The Posidonia meadows in the shallows provide habitat for seahorses and pipefish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard intermediate rocky reef diving. Monitor depth on the sloping terrain. C
 The excellent visibility in the Zadar Archipelago makes this a rewarding wide-angle site. The rocky reef landscape with resident grouper and schooling sea bream photographs beautifully. The Posidonia meadow provides softer, more intimate photographic subjects in the shallows.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

@@ -32,7 +32,7 @@ The wreck rests at 20–25 metres on a sandy and mixed-rubble seabed in the prot
 
 ## Marine Life
 
-The wreck debris supports resident octopus, moray eels, and conger eels in its sheltered spaces. Sea bream and wrasse are plentiful in the water column above the hull, while the sandy surrounding seabed hosts sea cucumbers, starfish, and small flatfish. In summer months, juvenile amberjack sometimes school above the highest wreck sections.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Depth and conditions are within recreational parameters. Maintain good buoyancy 
 The contrast between bright, well-lit sandy areas and the encrusted dark hull sections creates interesting compositional opportunities. Macro subjects abound on the sponge-covered metal. Look for octopus and moray eels in the darker crevices for dramatic portrait shots.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

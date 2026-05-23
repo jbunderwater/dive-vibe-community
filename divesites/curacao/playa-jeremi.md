@@ -24,10 +24,10 @@ The reef starts close to shore with a shallow area of fire cup corals along the 
 ## Site Information
 
 - **Location**: Northwest coast, near Lagun village
-- **Entry Type**: Shore (uneven rock steps into water)
-- **Site Type**: Coral reef with wall
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually minimal to none
 

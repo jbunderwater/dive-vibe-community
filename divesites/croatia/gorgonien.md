@@ -32,7 +32,7 @@ The reef descends over rocky limestone terrain to approximately 25 metres, where
 
 ## Marine Life
 
-The gorgonian sea fans are the feature attraction, hosting arrow crabs, brittle stars, and small fish that use the fan structure for shelter and feeding. Large grouper patrol the deeper sections of the reef. Moray eels and conger eels inhabit rocky crevices. Nudibranchs — many with colours matching the gorgonian fans — are found on and around the sea fan colonies. Sea bream and wrasse are ubiquitous throughout.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Standard intermediate reef diving. Maintain good buoyancy to avoid contact with 
 The gorgonian fans are the star subjects for macro photography — look for arrow crabs, brittle stars, and nudibranchs on the fan surfaces. Wide-angle shots of a diver surrounded by sea fans with a wide lens and strobe lighting create impressive images. The clear Kvarner water provides excellent natural light in the upper sections.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

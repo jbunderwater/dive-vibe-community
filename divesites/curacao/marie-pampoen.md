@@ -24,10 +24,10 @@ The Dive Bus operates from this location and offers equipment rental, guided div
 ## Site Information
 
 - **Location**: Southeast coast near Sunscape Curaçao Resort (Pierbaai/Willemstad area)
-- **Entry Type**: Shore (from small harbour)
-- **Site Type**: Reef (with artificial reef Car Pile element)
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (Car Pile area)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually limited
 

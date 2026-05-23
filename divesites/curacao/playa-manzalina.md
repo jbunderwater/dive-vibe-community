@@ -26,10 +26,10 @@ The site is quiet even on weekends, making it a good choice for photographers an
 ## Site Information
 
 - **Location**: West coast, within Landhuis San Juan estate (entrance fee required at gate)
-- **Entry Type**: Shore (coral rubble beach entry)
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres (reef best at 10–20 m)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually weak to none
 

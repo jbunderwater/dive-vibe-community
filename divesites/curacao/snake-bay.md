@@ -26,10 +26,10 @@ A drift dive from Snake Bay to Boca Sint Michiel is sometimes offered as a longe
 ## Site Information
 
 - **Location**: Playa Wachi, Boca Sami village, Sint Michiel area, central west coast
-- **Entry Type**: Shore (beach entry)
-- **Site Type**: Coral reef (45-degree sloping reef)
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres (to ~36 metres)
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually minimal; drift dive possible
 

@@ -32,7 +32,7 @@ The reef at Zeca descends over rocky limestone slopes and boulders to approximat
 
 ## Marine Life
 
-Resident grouper occupy the deeper boulder sections. Moray eels and octopus inhabit the rocky crevices. Sea bream and ornate wrasse are plentiful in the mid-water. Barracuda patrol the open water above the reef in summer. The Posidonia areas in the shallows support seahorses and pipefish.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The open coast position can expose the site to wind swell and variable current. 
 The excellent open Adriatic visibility creates ideal wide-angle conditions. Barracuda in the water column, resident grouper portraits, and Posidonia meadow subjects provide diverse photographic opportunities throughout the dive.
 
 ---
-*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*

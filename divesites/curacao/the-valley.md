@@ -24,10 +24,10 @@ The first reef begins at approximately 15 metres; the sandy valley floor connect
 ## Site Information
 
 - **Location**: West coast, Porto Marie Bay, Sint Willibrordus area
-- **Entry Type**: Shore (sandy beach entry, entrance fee required)
-- **Site Type**: Coral reef (double reef with sandy valley)
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 metres (first/second reef); middle reef to ~27 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 30+ metres
 - **Current**: Usually minimal to none
 

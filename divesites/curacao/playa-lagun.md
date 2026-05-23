@@ -24,10 +24,10 @@ The lagoon is shallow and protected, leading to a reef that runs out to deeper w
 ## Site Information
 
 - **Location**: Northwest coast, village of Lagun (narrow cove flanked by limestone cliffs)
-- **Entry Type**: Shore (sandy beach entry)
-- **Site Type**: Coral reef (protected lagoon reef)
+- **Entry Type**: Shore
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Usually minimal to none; mild tidal flow at bay mouth
 

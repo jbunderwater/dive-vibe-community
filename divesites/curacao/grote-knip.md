@@ -24,10 +24,10 @@ The site is popular with instructors for certification dives due to the calm con
 ## Site Information
 
 - **Location**: Northwest coast, between Westpunt and Lagun, within Kenepa Plantation
-- **Entry Type**: Shore (sandy beach entry)
-- **Site Type**: Wall (sandy plateau approach to steep drop-off)
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 metres (sandy plain extends deeper)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25 metres
 - **Current**: Usually minimal; occasional mild current
 
