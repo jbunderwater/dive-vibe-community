@@ -32,7 +32,7 @@ The "drain" is a natural channel formed between reef structures in the Speyside 
 
 ## Marine Life
 
-Kelleston Drain is famous for manta ray encounters. The current concentrates the plankton that mantas feed on, and groups of manta rays — sometimes 10 or more individuals — have been observed at the site during peak upwelling. Caribbean reef sharks and nurse sharks are present in numbers. Schools of horse-eye jacks and Atlantic spade fish navigate the current in spiralling formations. Large barracuda station themselves in the channel. The coral walls host spectacular invertebrate communities.
+Kelleston Drain is celebrated for manta ray encounters — the current concentrates plankton and the mantas follow. Multiple sources confirm manta ray sightings at the site, with peak encounters typically from October to February during the upwelling season, though manta encounters can occur year-round. Nurse sharks and Caribbean reef sharks are confirmed at the site. Large barracuda and large green moray eels are present. The most distinctive biological feature is the giant brain coral measuring approximately 10 feet (3 metres) high by 16 feet (5.3 metres) wide, which multiple sources (ERIC Tobago, destinationtnt.com) describe as the largest brain coral in the western hemisphere or Caribbean. The brain coral colony is noted as extremely fragile despite its size.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong current is the defining characteristic and primary safety consideration. 
 Kelleston Drain offers unparalleled Caribbean wide-angle photography. Manta rays in strong current, reef sharks in the channel passage, and coral walls swept by current create images of power and scale rarely achievable elsewhere in the Caribbean. Camera setup must be pre-completed before entry — there is no opportunity to adjust settings in the drift.
 
 ---
-*Sources: destinationtnt.com, visittobago.gov.tt, ERIC Tobago - world's largest brain coral. Last updated 2026-03-28.*
+*Sources: [Destination TnT - Kelleston Drain](https://www.destinationtnt.com/kelleston-drain/), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites). Last updated 2026-05-24.*
