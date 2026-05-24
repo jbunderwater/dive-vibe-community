@@ -23,7 +23,7 @@ Mayreau Gardens is widely considered the most biodiverse reef system in Tobago C
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 
@@ -32,4 +32,4 @@ Mayreau Gardens is widely considered the most biodiverse reef system in Tobago C
 Hawksbill turtles, spotted eagle rays, and the occasional Caribbean reef shark are the headline sightings, drifting through the water column above a reef carpeted in flamingo tongues and crinoids. Clouds of creole wrasse and horse-eye jacks fill the mid-water, while parrotfish, queen angelfish, and moray eels are regular residents among the hard coral formations below.
 
 ---
-*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [PADI - Diving in Saint Vincent and the Grenadines](https://www.padi.com/diving-in/saint-vincent-the-grenadines/), [Caribbean Dive Guide - St. Vincent](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and Grenadines](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-04.*
+*Sources: [diveboard.com - Mayreau Gardens](https://www.diveboard.com/), [tobagocaysmarine.com - Marine Park Sites](https://tobagocaysmarine.com/), [bluewater.com - Grenadines Diving](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*

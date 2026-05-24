@@ -23,7 +23,7 @@ New Guinea Reef on St. Vincent's leeward coast is celebrated for an extraordinar
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 
@@ -32,4 +32,4 @@ New Guinea Reef on St. Vincent's leeward coast is celebrated for an extraordinar
 New Guinea Reef is exceptional for black coral diversity — three species in six different colors drape the overhangs — alongside bright pink and scarlet encrusting sponges and large branching vase sponges on the sandy bottom. Small reef fish including parrotfish, chromis, and damselfish crowd the formations, while hawksbill turtles and moray eels make regular appearances among the sponge-encrusted coral columns.
 
 ---
-*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [PADI - Diving in Saint Vincent and the Grenadines](https://www.padi.com/diving-in/saint-vincent-the-grenadines/), [Caribbean Dive Guide - St. Vincent](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and Grenadines](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-04.*
+*Sources: [zentacle.com - New Guinea / Questelles Reef](https://zentacle.com/), [divestvincent.com - New Guinea Reef](https://www.divestvincent.com/), [bluewater.com - St. Vincent Critter Diving](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*

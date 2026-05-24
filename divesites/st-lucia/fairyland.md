@@ -23,7 +23,7 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
@@ -32,4 +32,4 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here, and the nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [divesaintlucia.com - Fairyland](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [scubadiving.com - St Lucia Dive Sites](https://www.scubadiving.com/). Last updated 2026-05-24.*

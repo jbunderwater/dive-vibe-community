@@ -23,7 +23,7 @@ Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volca
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
@@ -32,4 +32,4 @@ Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volca
 Juvenile angelfish, moray eels, and Caribbean lobsters are regulars among the volcanic coral heads, while hawksbill turtles graze the sea fans and sponges in the calmer Caribbean-facing sections. The healthy hard and soft coral cover supports a broad mix of reef fish including blue tangs, parrotfish, and French grunts, with octopus occasionally found sheltering in reef crevices.
 
 ---
-*Sources: My St Kitts Dive Buddy, dive operator sites. Last updated 2026-03-16.*
+*Sources: [dive-the-world.com - Nevis Dive Sites](https://www.dive-the-world.com/), [padi.com - Coral Garden Nevis](https://www.padi.com/), [prodiversstkitts.com - Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*

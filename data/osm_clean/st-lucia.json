@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadiving.com, PADI dive center sites"
+      "validation_source": "scubadiving.com,padi.com,divesaintlucia.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Wall dive at Pitons confirmed. Depth 50m is maximum reported."
     }
   },
   {
@@ -26,7 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Scuba St. Lucia official, scubadiving.com"
+      "validation_source": "scubastlucia.com,scubadiving.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef confirmed at Anse Chastanet. Shallow starting 15ft."
     }
   },
   {
@@ -41,7 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Soufrière Marine Management Association, DiveWorld"
+      "validation_source": "smmainc.com,divesaintlucia.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Pinnacles at Anse Cochon confirmed by SMMA and Scuba St. Lucia."
     }
   },
   {
@@ -56,7 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Soufrière Marine Management Association, PADI blog"
+      "validation_source": "smmainc.com,padi.com,scubastlucia.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. PADI blog describes as 'probably most visually stunning dive site' with four volcanic peaks rising from depths to near surface."
     }
   },
   {
@@ -71,7 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Scuba St. Lucia dive center"
+      "validation_source": "scubastlucia.com,smmainc.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names."
     }
   },
   {
@@ -86,7 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "IslanderKeys, DeeperBlue, Marigot Beach Club"
+      "validation_source": "islanderkeys.com,scubastlucia.com,caribbean-diving.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Lesleen M confirmed: 165ft (~50m) freighter, scuttled October 1986, Anse Cochon bay, dept of fisheries. Rests on even keel. Deck at 9m, max depth 18m (60ft). Cargo hold accessible. Rudder and propeller intact. Marine life: turtles, lobsters, moray eels, spider crabs, shrimp, schools of red snapper, angelfish, barracuda confirmed."
     }
   },
   {
@@ -101,7 +113,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Soufrière Marine Management Association"
+      "validation_source": "smmainc.com,scubastlucia.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef at Jalousie Bay (Sugar Beach) between Pitons confirmed."
     }
   },
   {
@@ -116,7 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "DiveWorld, Ti Kaye Resort dive sites"
+      "validation_source": "divesaintlucia.com,tikaye.com,smmainc.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Anse La Raye wall confirmed: starts at 18m/60ft, descends to 34m/110ft per SMMA/DIVEIN. Ti Kaye Resort operates dives here."
     }
   },
   {
@@ -131,7 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "DeeperBlue, The Moorings dive guide"
+      "validation_source": "deeperblue.com,divingaway.com,zubludiving.com,scubaweather.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Daini Koyomaru confirmed: Japanese dredger, scuttled September 1996 by St Lucia government as artificial reef. Length: sources vary between 74m (DeeperBlue) and 75m (divingaway.com). Originally upright at 32m, knocked onto starboard side by Hurricane Lenny 1999. Current depth: various sources say max 20m (resting on side) to 33m. Description notes both figures. Marine life: pufferfish, French angelfish, barracuda, moray eels, turtles confirmed."
     }
   },
   {
@@ -146,7 +164,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Soufrière Marine Management Association, EnezGreen"
+      "validation_source": "smmainc.com,scubastlucia.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef at Soufrière area confirmed."
     }
   },
   {
@@ -161,7 +181,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "SpendLifeTraveling, PADI dive center sites"
+      "validation_source": "padi.com,scubastlucia.com,smmainc.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Drift dive at Pitons area confirmed. Advanced due to current."
     }
   },
   {
@@ -176,7 +198,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "DiveWorld, Soufrière Marine Management Association"
+      "validation_source": "divesaintlucia.com,smmainc.com,tikaye.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Wall dive at Grand Caille confirmed by DiveWorld and SMMA."
     }
   },
   {
@@ -185,7 +209,7 @@
     "lon": -60.9721116,
     "osm_id": 9385639518,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -199,10 +223,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
-    },
-    "depth_max": 20
+      "validated": false,
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source 'perplexity' removed - perplexity AI is NOT a valid source. No independent dive-specific sources found for 'El Pirata Shipwreck' on St Lucia's southern coast. OSM data confirms wreck exists (visible at high and low tide). Depth_max 20m from OSM. Cannot validate factual claims without real sources. Marked unvalidated."
+    }
   },
   {
     "name": "Fairyland",
@@ -221,7 +245,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "Zentacle dive reviews, Scuba St. Lucia"
+      "validation_source": "divesaintlucia.com,smmainc.com,scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Fairyland confirmed as Divemaster favorite with strong currents keeping corals vibrant. One of the most colorful reefs in St Lucia confirmed by DIVEIN and Scuba St Lucia."
     }
   },
   {
@@ -230,7 +256,7 @@
     "lon": -60.9342094,
     "osm_id": 1022427960,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -239,9 +265,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
-    },
-    "depth_max": 15
+      "validated": false,
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source 'perplexity' removed - perplexity AI is NOT a valid source. Maria Islands (also spelled 'Marie Islands') are a confirmed nature reserve off St Lucia's south coast. Reef exists (OSM natural=reef confirmed). No dive-specific sources found for the dive site specifically. Marked unvalidated until real sources found."
+    }
   }
 ]

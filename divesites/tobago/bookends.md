@@ -2,7 +2,7 @@
 name: Bookends
 lat: 11.305
 lng: -60.515
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -17,14 +17,14 @@ Bookends is a reef site in the Speyside area of northeast Tobago, part of the ri
 
 ## Overview
 
-Located off the northeast coast near Speyside village, Bookends features two distinct reef formations separated by a sandy channel, creating a structured dive that allows exploration of both reef sections in a single dive. The site sits in the nutrient-rich waters of Tobago's northeast coast, where the Atlantic and Caribbean current systems interact to produce exceptional marine biodiversity. Coral coverage is good, with brain and star corals dominant and sea fans present at depth. The sandy channel between the reef sections is productive territory for stingray and eagle ray encounters. Visibility averages 15–25 meters. Water temperature is 26–28°C.
+Located just south of the main Speyside dive area, Bookends takes its name from two large vertical slabs of rock that poke just above the water surface, forming an impressive natural amphitheatre. This site is more advanced than its Beginner classification suggests — the current can be very turbulent, making descent only possible at favourable conditions, and strong current limits when the site can be dived. For appropriately experienced divers at the right conditions, Bookends delivers blacktip sharks, nurse sharks, tarpon, turtles, rays, and shoals of numerous fish against a backdrop of healthy coral. Visibility averages 15–25 meters. Water temperature is 26–28°C.
 
 ## Site Information
 
 - **Location**: Speyside area, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate; can strengthen with tidal flow
@@ -32,7 +32,7 @@ Located off the northeast coast near Speyside village, Bookends features two dis
 
 ## Marine Life
 
-The twin-reef structure creates two distinct habitat zones. The reef faces host typical Caribbean reef fish in abundance — parrotfish, surgeonfish, angelfish, and trumpetfish are all common. The sandy channel between the bookend formations attracts southern stingrays and spotted eagle rays. Sea turtles move freely between both reef sections. The deeper reef base at 15–18 meters is where nurse sharks and large groupers are most often found.
+When conditions allow diving, Bookends is confirmed by Tropical Sky and Visit Tobago as hosting blacktip sharks, nurse sharks, tarpon, turtles, rays, and large shoals of reef fish against healthy coral. The rock slab structure creates sheltered habitats behind and between the formations. Note: the site's condition-dependent nature means marine life encounters are variable — visits during unfavourable current are unproductive or unsafe.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current can strengthen in the channel between the formations — be aware of dir
 The sandy channel between formations provides clean backgrounds for eagle ray and stingray portraits. Wide-angle shots spanning both reef formations in a single frame are possible from the channel mid-point. The nutrient-rich water benefits from a strobe or video light for true colour reproduction.
 
 ---
-*Sources: Speyside area dive site. Last updated 2026-03-28.*
+*Sources: [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species). Last updated 2026-05-24.*

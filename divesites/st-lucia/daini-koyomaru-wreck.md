@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Daini Koyomaru Wreck
 
-Daini Koyomaru Wreck is a historic wreck dive in St. Lucia, Caribbean.
+The Daini Koyomaru is an advanced wreck dive off St. Lucia's north coast — a Japanese dredger scuttled in September 1996 as an artificial reef, then knocked onto its starboard side by Hurricane Lenny in 1999.
 
 ## Overview
 
-The Daini Koyomaru is a 75-metre Japanese dredger scuttled by St. Lucia's Department of Fisheries in 1996 as an artificial reef, which was knocked onto its starboard side by Hurricane Lenny in 1999 — a stroke of luck for divers, as the hull now acts as a vertical wall to explore down to 33 metres. The sheer scale of the wreck rewards repeat visits, and its isolated position near Anse Cochon means strong currents can run; pufferfish, French angelfish, barracuda, moray eels, and turtles are among the regular inhabitants. The wreck lies offshore without surface markers, so diving here with a local operator who knows its GPS coordinates is essential.
+The Daini Koyomaru was scuttled by the St. Lucia government in September 1996 as an artificial reef to attract marine life and stimulate dive tourism. The vessel's length is reported as either 74 metres (DeeperBlue) or 75 metres (divingaway.com) — both figures refer to the same vessel and the discrepancy likely reflects rounding differences. Originally the wreck sat upright in around 32 metres of water; Hurricane Lenny in 1999 toppled it onto its starboard side. Sources report varying maximum depths — some cite 20 metres (to the highest point of the now-sideways hull), others 33 metres (to the deepest point). This makes it a complex Advanced dive requiring solid navigation skills. The wreck's isolated position in St. Lucia's north coast waters means currents can be significant, and it should be dived with a local operator familiar with its GPS coordinates. The hull supports pufferfish, French angelfish, barracuda, moray eels, and turtles as regular inhabitants.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: North coast, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [DeeperBlue - Daini Koyomaru](https://www.deeperblue.com/), [divingaway.com - St Lucia Wrecks](https://www.divingaway.com/), [zubludiving.com - St Lucia](https://www.zubludiving.com/), [scubaweather.com - Daini Koyomaru](https://www.scubaweather.com/). Last updated 2026-05-24.*

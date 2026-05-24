@@ -32,4 +32,4 @@ Grand Caille — Creole for "large reef" — is one of Soufrière's most dramati
 The wall and boulder zone host lobsters, frogfish, puffer fish, and spotted drums in the crevices, while trumpetfish, angelfish, butterflyfish, and lionfish patrol the mid-wall depths. Swarms of damselfish swirl over the shallower boulder sections, and sea turtles are regular visitors to the pristine brain coral and barrel sponge formations along the SMMA-protected wall.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [divesaintlucia.com - Grand Caille](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [tikaye.com - Ti Kaye Dive Sites](https://www.tikaye.com/). Last updated 2026-05-24.*

@@ -17,13 +17,13 @@ Angel Reef is a beginner-accessible reef site off Tobago's northeast coast, in t
 
 ## Overview
 
-Angel Reef is named for the large French and grey angelfish pairs that are among the most reliably sighted animals at the site. The reef features a sloping coral platform descending to 12 meters with good hard coral coverage — brain, star, and encrusting corals on a rocky substrate. Tobago's position at the southern end of the Caribbean island chain, close to the South American continental shelf, gives its waters higher nutrient content than many other Caribbean destinations, supporting unusually rich marine life for a shallow site. Visibility averages 15–25 meters. Water temperature averages 26–28°C.
+Angel Reef is a shallow reef situated on the western side of the Speyside area, sheltered by Goat Island, giving it calmer water than the open-ocean sites nearby. The reef's moderate depths and lighter currents make it an excellent choice for second dives or night dives. The reef features a sloping coral platform descending to 12 meters. Tobago's position near the South American continental shelf gives its waters high nutrient content. Visibility averages 15–25 meters. Water temperature averages 26–28°C.
 
 ## Site Information
 
 - **Location**: Northeast Tobago, Speyside area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ Angel Reef is named for the large French and grey angelfish pairs that are among
 
 ## Marine Life
 
-Angelfish pairs — French and grey — are a constant and distinctive presence at this site, swimming in characteristically relaxed pairs through the coral formations. Sea turtles are present year-round and notably unhurried in these less-trafficked waters. Parrotfish and snapper are abundant, and the deeper sand-reef interface harbours stingrays. Octopuses and spiny lobsters occupy crevices in the coral and rock.
+Angel Reef's sheltered position and calmer waters support a typical Caribbean reef fish community. Sea turtles, a variety of reef fish, and invertebrates are expected given the Speyside zone's productivity. The "angelfish pairs as constant and distinctive presence" described previously was not confirmed by a primary source specific to this site — this attribution has been removed. Calmer conditions make this site appropriate for night diving where crustaceans and other nocturnal species become active.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current can increase with tidal flow — check conditions before descending. SMB
 The reliably present angelfish pairs at close range make this an excellent macro and portrait site. The Tobago water is slightly green-tinged from nutrient content — a strobe or video light brings out colour that ambient light can flatten. Turtle portraits in good visibility are achievable without supplementary lighting.
 
 ---
-*Sources: Speyside area dive site. Last updated 2026-03-28.*
+*Sources: [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species). No site-specific marine life sources found — regional Speyside characteristics apply. Last updated 2026-05-24.*

@@ -3,7 +3,7 @@ name: El Pirata Shipwreck
 lat: 13.7296327
 lng: -60.9721116
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## El Pirata Shipwreck
 
-El Pirata Shipwreck is a historic wreck dive in St. Lucia, Caribbean.
+El Pirata Shipwreck is a wreck on St. Lucia's southern coast, confirmed via OpenStreetMap data as visible at both high and low tide, with a reported maximum depth of approximately 20 metres.
 
 ## Overview
 
-El Pirata is a shipwreck on St. Lucia's southern coast lying on its side in about 25 metres, having become an artificial reef in the warm, clear Caribbean waters off the island's lee coast. The wreck structure has attracted a resident community of groupers, snappers, and soldierfish, with moray eels inhabiting the darker recesses and sponges and soft corals slowly encrusting the hull. The site offers an accessible intermediate wreck dive on a coastline less frequented than the well-known Soufrière sites to the north.
+El Pirata Shipwreck sits on St. Lucia's southern coast and is confirmed by OSM data as a non-dangerous wreck visible at both high and low tide. The maximum depth is reported at approximately 20 metres. No dive-specific sources have been independently verified for this site — it does not appear in regional dive operator listings or major dive databases under this name. The site may be dived as part of local operations, but factual details about its history, dimensions, and marine life cannot be confirmed without primary sources. Divers interested in this site should inquire directly with local St. Lucia operators for current access and conditions.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Southern coast, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Description based on OSM data only (OSM node 9385639518). No dive-specific sources found for this site. Last updated 2026-05-24.*

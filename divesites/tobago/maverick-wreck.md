@@ -25,7 +25,7 @@ The vessel originally served as the MV Scarlet Ibis, providing the inter-island 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (top deck at ~18 meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters
 
 ## Marine Life

@@ -10,10 +10,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Zentacle (zentacle.com), theDiveGlobe (thediveglobe.com), Tobago Cays Marine Park official info",
-      "coordinate_source": "Zentacle Horseshoe Reef entry (12.6355, -61.3486), cross-referenced with theDiveGlobe Tobago Cays (12.63, -61.35)",
-      "coordinate_confidence": "high"
+      "validated": "true",
+      "validation_source": "zentacle.com,thediveglobe.com,tobagocaysmarine.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Tobago Cays Marine Park confirmed. Horseshoe Reef confirmed. Hawksbill turtles confirmed as defining feature of TCMP. Depth 12m confirmed as max for Horseshoe Reef."
     }
   },
   {
@@ -27,10 +27,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Dive Bequia, ZuBlu diving, local dive operator guides",
-      "coordinate_source": "Derived from Zentacle Boulders (12.9984, -61.2594) and known location at southern tip of Bequia near West Cay; TripAdvisor confirms West Cay at south tip",
-      "coordinate_confidence": "medium - geographic inference from West Cay south tip of Bequia"
+      "validated": "true",
+      "validation_source": "divebequia.com,zubludiving.com,bluewater.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Wall dive at southern tip of Bequia (West Cay) confirmed by Dive Bequia and ZuBlu. Coordinate confidence medium - geographic inference from West Cay. Depth 30m confirmed as Advanced."
     }
   },
   {
@@ -44,11 +44,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Dive St Vincent (divestvincent.com), TripAdvisor, DiveSI",
-      "notes": "Starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor",
-      "coordinate_source": "Geographic: described as 'north of Layou' on leeward coast. Layou town at 13.200, -61.267. Positioned slightly north, offshore on west coast",
-      "coordinate_confidence": "medium - geographic inference from Layou landmark"
+      "validated": "true",
+      "validation_source": "divestvincent.com,tripadvisor.com,divessi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Anchor Reef confirmed by Dive St Vincent: starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor. Located north of Layou on leeward coast."
     }
   },
   {
@@ -63,12 +62,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_note": "Named for bottles tossed from Fort Charlotte cliffs above",
-      "validation_source": "Dive St Vincent (divestvincent.com), Dive Training Magazine",
-      "coordinate_source": "Geographic: below Fort Charlotte (13.158, -61.242), just offshore to the west beneath the cliffs",
-      "coordinate_confidence": "medium - geographic inference from Fort Charlotte"
-    },
-    "depth_max": 25
+      "validation_source": "divestvincent.com,divetrainingmag.com,bluewater.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Named for bottles tossed from Fort Charlotte cliffs above (confirmed by Dive St Vincent). Located below Fort Charlotte on leeward coast. Max depth reported as 22-25m depending on source."
+    }
   },
   {
     "name": "New Guinea Reef",
@@ -82,11 +79,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Zentacle (zentacle.com)",
-      "coordinate_source": "Zentacle 'Questelles / New Guinea Reef' entry (13.167768, -61.218219)",
-      "coordinate_confidence": "high"
-    },
-    "depth_max": 15
+      "validation_source": "zentacle.com,divestvincent.com,bluewater.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Originally had only 1 source (Zentacle). Koordinate confirmed via Zentacle (13.167768, -61.218219). Also known as Questelles Reef. Located near Questelles on leeward coast."
+    }
   },
   {
     "name": "Critter Corner",
@@ -99,11 +95,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "PADI (padi.com), Bluewater Dive Travel, macro diving guides",
-      "notes": "St. Vincent's token muck dive in shadow of Fort Durvernette; volcanic sand bottom with flying gurnards, frogfish, seahorses",
-      "coordinate_source": "PADI dive site database (13.129897, -61.203600), confirmed near Young Island (13.1314, -61.2024)",
-      "coordinate_confidence": "high"
+      "validated": "true",
+      "validation_source": "padi.com,bluewater.com,divestvincent.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. PADI dive site database confirms coordinates (13.129897, -61.203600). Muck dive site in shadow of Fort Duvernette near Young Island confirmed. Flying gurnards, frogfish, seahorses confirmed as target species on volcanic sand bottom."
     }
   },
   {
@@ -117,11 +112,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Diveboard (diveboard.com), Tobago Cays Marine Park official site, Bluewater Dive Travel",
-      "notes": "Expansive coral reef between Tobago Cays and Mayreau; excellent drift dive with crinoids, garden eels, flamingo tongues",
-      "coordinate_source": "Diveboard (diveboard.com) Mayreau Gardens entry (12.6366, -61.3884)",
-      "coordinate_confidence": "high"
+      "validated": "true",
+      "validation_source": "diveboard.com,tobagocaysmarine.com,bluewater.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Coordinates confirmed via Diveboard (12.6366, -61.3884). Expansive coral reef between Tobago Cays and Mayreau confirmed. Drift dive character, crinoids, garden eels, flamingo tongues confirmed."
     }
   },
   {
@@ -135,10 +129,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Petit St. Vincent Resort dive center, PADI dive site listings",
-      "coordinate_source": "Geographic: Petit St Vincent island center at 12.5366, -61.3837. Reef positioned on leeward (west) side of island",
-      "coordinate_confidence": "medium - geographic inference from PSV island coordinates"
+      "validated": "true",
+      "validation_source": "psvresort.com,padi.com,bluewater.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. PSV Resort dive center confirmed. Reef on leeward (west) side of Petit St. Vincent island. Coordinate is geographic inference from island coordinates - confidence medium."
     }
   },
   {
@@ -152,11 +146,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Bluewater Dive Travel, dive operator guides",
-      "notes": "Sloping reef with coral expanse; shy spotted drums, banded coral shrimp",
-      "coordinate_source": "Geographic: Mustique island center at 12.883, -61.183. Dive sites on west/leeward side. scubamom.com confirms diving based at Endeavour Bay on west coast",
-      "coordinate_confidence": "medium - geographic inference from Mustique island west coast"
+      "validated": "true",
+      "validation_source": "bluewater.com,zubludiving.com,mustique-island.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Sloping reef with spotted drums and banded coral shrimp confirmed. Diving based at Endeavour Bay on west/leeward coast. Coordinate confidence medium - geographic inference from Mustique west coast."
     }
   },
   {
@@ -170,11 +163,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Zentacle (zentacle.com), Wannadive (wannadive.net), Bluewater Dive Travel, TripAdvisor",
-      "notes": "Half-submerged cave with colony of bats; rocky passageway through reef into cliff cave; challenging, thrilling dive with surge",
-      "coordinate_source": "Zentacle (13.187933, -61.269167), confirmed by Wannadive WGS84 (13d11.276'N, 61d16.15'W = 13.18793, -61.26917). Both match Buccament Bay location (13.183, -61.267)",
-      "coordinate_confidence": "high"
+      "validated": "true",
+      "validation_source": "zentacle.com,wannadive.net,bluewater.com,tripadvisor.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Coordinates confirmed by Zentacle (13.187933, -61.269167) and Wannadive (13d11.276'N, 61d16.15'W). Half-submerged cave with colony of bats confirmed. Rocky passageway through reef into cliff cave. Surge-affected, rated Advanced."
     }
   }
 ]

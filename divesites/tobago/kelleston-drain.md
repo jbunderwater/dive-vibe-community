@@ -5,7 +5,7 @@ lng: -60.49
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ The "drain" is a natural channel formed between reef structures in the Speyside 
 
 - **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–35 meters

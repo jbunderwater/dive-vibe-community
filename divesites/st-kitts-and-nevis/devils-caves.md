@@ -32,4 +32,4 @@ Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, an
 Glassy sweepers pack the cavern overhangs and blue tangs patrol the open sections between grottos, while nurse sharks rest in the deeper recesses and blacktip reef sharks make occasional passes through the cave entrances. Spiny lobsters, moray eels, and small crustaceans occupy the crevices of the coral grottos, making this a site where the quantity of marine life per square metre rewards slow, careful exploration.
 
 ---
-*Sources: dive operator sites (Nevis). Last updated 2026-03-16.*
+*Sources: [frommers.com - Nevis Diving](https://www.frommers.com/), [divenevis.com - Devil's Caves](https://divenevis.com/), [prodiversstkitts.com - Nevis Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*

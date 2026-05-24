@@ -3,7 +3,7 @@ name: Valley of Whales
 lat: 12.02
 lng: -61.735
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null

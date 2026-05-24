@@ -23,7 +23,7 @@ Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting 
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 34 meters
 
@@ -32,4 +32,4 @@ Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting 
 The large barrel coral structures and sand grottos shelter dense populations of grunts, snappers, and small groupers, with nurse sharks resting in the shallower crevices and spotted morays weaving through the deeper reef sections. Southern stingrays and eagle rays cruise the lower slope, lobsters are found under ledges throughout, and the pristine coral coverage supports hawksbill turtles and an abundance of smaller reef fish on the upper sections.
 
 ---
-*Sources: Pro Divers St Kitts, dive operator sites. Last updated 2026-03-16.*
+*Sources: [prodiversstkitts.com - Coconut Tree Reef](https://prodiversstkitts.com/), [mystkittsdivebuddy.com - West Side Dives](https://mystkittsdivebuddy.com/), [activecaribbeantravel.com - St Kitts Diving](https://www.activecaribbeantravel.com/). Last updated 2026-05-24.*

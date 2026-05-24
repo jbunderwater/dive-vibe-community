@@ -3,7 +3,7 @@ name: Bianca C
 lat: 12.04
 lng: -61.75
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 50
 entryType: boat
 siteType: wreck
 ref: null

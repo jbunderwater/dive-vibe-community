@@ -23,7 +23,7 @@ Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel be
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
 
@@ -32,4 +32,4 @@ Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel be
 Horse-eye jacks, schooling barracuda, eagle rays, and southern stingrays are regularly encountered across the atoll's multiple sub-sites, while nurse sharks, green moray eels, and large spiny lobsters take shelter under overhangs in the deeper sections. The unusual flying gurnard is a sought-after sighting here, and hawksbill turtles are present throughout — making Monkey Shoals one of the most species-rich dives in the St. Kitts area.
 
 ---
-*Sources: Living Oceans Foundation, DiveBuddy, PADI. Last updated 2026-03-16.*
+*Sources: [Living Oceans Foundation - Caribbean Reefs](https://www.livingoceansfoundation.org/), [divebuddy.com - Monkey Shoals](https://www.divebuddy.com/), [padi.com - St Kitts Dive Sites](https://www.padi.com/). Last updated 2026-05-24.*

@@ -3,7 +3,7 @@ name: Dragon Bay
 lat: 12.01
 lng: -61.74
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null

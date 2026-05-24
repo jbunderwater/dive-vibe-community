@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Lesleen M Wreck
 
-Lesleen M Wreck is a historic wreck dive in St. Lucia, Caribbean.
+The Lesleen M is one of St. Lucia's most-dived wrecks — a 165-foot (approximately 50-metre) freighter deliberately scuttled by St. Lucia's Department of Fisheries in October 1986 in Anse Cochon Bay.
 
 ## Overview
 
-The Lesleen M is a 50-metre freighter deliberately sunk by St. Lucia's Department of Fisheries in 1986, and it has become one of the island's most-dived wrecks — resting on an even keel on the sandy floor of Anse Cochon at 18 metres with the deck at just 9 metres. The hull is blanketed in deep sea fans, sponges, and hydroids, providing nursery habitat for queen and French angelfish, and a famously large green moray eel has lived at the bow for years, greeting nearly every group that passes. Hawksbill turtles visit regularly, lobsters shelter in the darker corners, and the open, upright layout makes safe exploration of the cargo hold accessible even for newly certified divers.
+The Lesleen M was scuttled by St. Lucia's Department of Fisheries in October 1986 to serve as an artificial reef. The 165-foot freighter rests on an even keel on the sandy bottom of Anse Cochon at a maximum depth of 18 metres (60 feet), with the deck accessible at just 9 metres. The wreck's upright posture, accessible hold, and intact rudder and propeller make it one of the most beginner-friendly wreck dives in the Caribbean. The hull is colonised by deep sea fans, sponges, and hydroids, and the cargo hold can be safely explored by entry-level divers. Hawksbill turtles visit regularly, lobsters shelter in darker corners, and moray eels, spider crabs, shrimp, schools of red snapper, and schools of angelfish and barracuda have all been documented at the site.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Anse Cochon Bay, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [islanderkeys.com - St Lucia Diving](https://www.islanderkeys.com/), [scubastlucia.com - Lesleen M](https://scubastlucia.com/diving/), [caribbean-diving.com - St Lucia Wrecks](https://www.caribbean-diving.com/), [padi.com - Lesleen M St Lucia](https://www.padi.com/). Last updated 2026-05-24.*

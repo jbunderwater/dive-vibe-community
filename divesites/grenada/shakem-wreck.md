@@ -3,7 +3,7 @@ name: Shakem Wreck
 lat: 12.055
 lng: -61.745
 difficulty: Advanced
-maxDepth: 33
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null

@@ -35,7 +35,7 @@ Shore entry from a beach close to the dive site, within the protected SMMA zone.
 
 - **Location**: Soufrière, St. Lucia, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 
@@ -44,4 +44,4 @@ Shore entry from a beach close to the dive site, within the protected SMMA zone.
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [Sandals – Scuba Diving St. Lucia](https://www.sandals.com/blog/scuba-diving-st-lucia/). Last updated 2026-05-17.*
+*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [padi.com - St Lucia Coral Gardens](https://www.padi.com/). Last updated 2026-05-24.*

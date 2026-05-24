@@ -23,7 +23,7 @@ Anse Chastanet Reef begins just metres from the beach in the heart of the Soufri
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
@@ -32,4 +32,4 @@ Anse Chastanet Reef begins just metres from the beach in the heart of the Soufri
 Seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower reef sections, while octopus, cuttlefish, and golden spotted eels are resident alongside over 150 fish species. Hawksbill turtles are common throughout the site, and the SMMA's protection since 1995 has produced genuinely dense populations of parrotfish, grunts, and angelfish around the giant barrel sponges and black coral trees.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [scubastlucia.com - Anse Chastanet](https://scubastlucia.com/diving/), [scubadiving.com - St Lucia Shore Dives](https://www.scubadiving.com/), [padi.com - Anse Chastanet Reef](https://www.padi.com/). Last updated 2026-05-24.*

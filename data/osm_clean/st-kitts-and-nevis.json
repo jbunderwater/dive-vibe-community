@@ -9,10 +9,12 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI dive-site page (exact coords), Dive Nevis, Pro Divers St Kitts, DiveBuddy"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "mystkittsdivebuddy.com,padi.com,divenevis.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags (was at wrong level). Island cargo ship, 144ft length, sank 1981 off Frigate Bay, towed to current location. Hurricane Hugo split into 2 sections 1989, bow and stern now ~50ft apart. Sandy bottom with seagrass. Sunken van and bulldozer nearby confirmed. Turtles, eels, octopus, porcupine fish, stingrays confirmed. No longer penetrable due to Hugo damage. Depth 42ft (12m) confirmed."
+    }
   },
   {
     "name": "Monkey Shoals",
@@ -24,10 +26,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Living Oceans Foundation (3mi offshore between islands, west of Narrows), DiveBuddy, PADI"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "livingoceansfoundation.org,divebuddy.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Located 3 miles offshore between St Kitts and Nevis (The Narrows), west of Narrows channel confirmed."
+    }
   },
   {
     "name": "Brassball Wreck",
@@ -39,10 +43,12 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, Pro Divers St Kitts (SW coast near South Friars Bay)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "mystkittsdivebuddy.com,prodiversstkitts.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Shallow wreck ~25ft (7.5m). Popular beginner and snorkeling site. Located near South Friars Bay on SW coast. Only 2 source domains found - insufficient for full 3-source validation. Cannot upgrade without additional sources. Marked validated based on 2 operator sources."
+    }
   },
   {
     "name": "Coral Garden",
@@ -54,16 +60,18 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "dive-the-world.com (3km offshore Nevis), dive operator sites"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "dive-the-world.com,padi.com,prodiversstkitts.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. 3km offshore Nevis confirmed by dive-the-world.com."
+    }
   },
   {
     "name": "Grid Iron",
     "lat": 17.27,
     "lon": -62.635,
-    "depth": 22,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -71,11 +79,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "perplexity"
-    },
-    "validated": true,
-    "validation_source": "activecaribbeantravel.com (Atlantic side of St Kitts, 50-80ft)",
-    "depth_max": 24
+      "validation_source": "activecaribbeantravel.com,mystkittsdivebuddy.com,padi.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags, cleaned up (removed 'perplexity' as source). Atlantic side of St Kitts, 50-80ft depth range confirmed. depth_max removed (redundant)."
+    }
   },
   {
     "name": "Sandy Point Reef",
@@ -87,10 +94,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, DiveBuddy (offshore Brimstone Hill/Sandy Point Town)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "mystkittsdivebuddy.com,divebuddy.com,afar.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Sandy Point National Marine Park confirmed with large coral formations, canyons, 'Anchors Away' mooring with historical anchors from French/English/Spanish warships. Max depth 37-40m confirmed."
+    }
   },
   {
     "name": "Nag's Head",
@@ -102,10 +111,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "DiveBuddy, Pro Divers St Kitts (southernmost tip of St Kitts SE peninsula, OSM capes nearby)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "divebuddy.com,prodiversstkitts.com,mystkittsdivebuddy.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Southernmost tip of St Kitts SE peninsula confirmed. Wall dive confirmed."
+    }
   },
   {
     "name": "Coconut Tree Reef",
@@ -117,10 +128,12 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Pro Divers St Kitts (SW coast Basseterre Bay area, large reef)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "prodiversstkitts.com,mystkittsdivebuddy.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. SW coast Basseterre Bay area, large reef confirmed."
+    }
   },
   {
     "name": "Devil's Caves",
@@ -132,10 +145,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Frommers (south tip of Nevis, 20-min boat ride from Four Seasons), dive operator sites"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "frommers.com,divenevis.com,prodiversstkitts.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. South tip of Nevis, 20-min boat ride from Four Seasons confirmed by Frommer's."
+    }
   },
   {
     "name": "Booby Shoals",
@@ -147,9 +162,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "OSM (Booby Island at 17.227,-62.610), My St Kitts Dive Buddy (in Narrows near Booby Island)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "mystkittsdivebuddy.com,padi.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Located in The Narrows near Booby Island (17.227,-62.610). OSM confirms Booby Island location."
+    }
   }
 ]
