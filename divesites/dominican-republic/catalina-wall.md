@@ -13,50 +13,51 @@ addedBy: osm_import
 
 # Catalina Wall
 
-*A dramatic vertical drop on the southern tip of Catalina Island, one of the Dominican Republic's most celebrated wall dives.*
+*A dramatic vertical drop-off on the eastern tip of Isla Catalina, one of the Dominican Republic's most celebrated wall dives — and one of its most visited.*
 
 ## Overview
 
-Catalina Wall runs along the southern and southeastern edge of Isla Catalina, a small island off the La Romana coast in the southeastern Dominican Republic. The reef crest sits at 5–10 meters before dropping sharply into open water beyond 40 meters. The wall is colonized with sea fans, black coral bushes, rope sponges, and large barrel sponges, while the shallow plateau above the wall hosts an abundance of Caribbean reef fish. Visibility regularly reaches 25–35 meters in the dry season. Water temperatures sit between 27–29°C from May to November and 25–27°C in winter months.
+Catalina Wall (also known as La Pared) runs along the eastern edge of Isla Catalina, a small island approximately five miles from the La Romana cruise port in the southeastern Dominican Republic. The reef crest sits at around 5 metres before dropping sharply to depths well beyond 40 metres. ScubaBoard reports note the wall has become heavily trafficked — particularly by cruise ship day visitors — which has led to some reef damage. Dive operators typically time trips to avoid peak snorkel traffic. Visibility ranges from 10–20 metres at the wall, somewhat variable due to boat and visitor traffic. Water temperatures average 27–29°C.
+
+The wall is colonised with sea fans, black coral, encrusting sponges, and large barrel sponges, while the shallow plateau above hosts Caribbean reef fish. The eastern tip of the island, where the wall begins, offers the most dramatic drop-off experience.
 
 ## Site Information
 
-- **Location**: Isla Catalina, southeast Dominican Republic, near La Romana and Casa de Campo
+- **Location**: Eastern edge of Isla Catalina, off La Romana, southeastern Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 25–35 meters (80–115 feet)
+- **Maximum Depth**: 40+ metres (working depth 15–30 metres)
+- **Typical Visibility**: 10–20 metres (variable; 15–20 metres typical in quieter conditions)
 - **Current**: Light to moderate; occasional moderate current along the wall face
-- **Best Time**: Year-round; December to April offers calmer seas and best visibility
+- **Best Time**: Year-round; morning departures before cruise traffic best
 
 ## Marine Life
 
-The wall face is adorned with large star corals, brain corals, and plating corals. Black coral trees and sea fans fill the deeper sections. Hawksbill turtles are regularly encountered feeding on sponges along the wall, and southern stingrays rest on the sandy plateau above the drop-off. Eagle rays cruise in the blue water alongside the wall. Nurse sharks shelter in crevices at mid-depth. Schools of creole wrasse and blue chromis swarm the upper reef, while sergeant majors and four-eyed butterflyfish populate the shallows. Spotted moray eels and spiny lobsters hide in overhangs along the wall face.
+Sources confirm the following specific to the Catalina Wall area: octopus, porcupine fish, moray eels, scorpion fish, southern stingrays on the sandy plateau, blue parrotfish, lionfish, sea horses, and sea turtles (both hawksbill and green). Eagle rays and nurse sharks are reported by regional sources though not confirmed as frequent at this specific wall face. Flamingo tongues and vase sponges are present on the wall. The reef fish community on the shallow plateau includes parrotfish, angelfish, snappers, and grunts.
 
 ## Dive Profile
 
-Descend from the boat onto the shallow reef plateau at 5–8 meters, then navigate to the wall edge and begin a gradual descent along the face. The most active marine life — turtles, eagle rays, and reef fish — concentrates between 12 and 25 meters. Deeper sections below 25 meters feature larger black coral formations. Allow sufficient bottom time for a thorough exploration between 15–30 meters, then ascend along the wall to the plateau for a safety stop in 5 meters. Keep the wall to one side and monitor depth closely to avoid drifting deep.
+Descend from the boat onto the shallow reef plateau at 5–8 metres, then navigate to the wall edge and begin a descent along the face. The wall's most accessible sections for intermediate divers sit between 12 and 25 metres. Deeper sections below 25 metres feature black coral formations but require careful air management. Ascend along the wall back to the plateau for a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Dive operators from La Romana and Bayahibe run regular boat trips to Catalina Island, typically a 30–45 minute crossing. Giant stride or back roll entry from the dive boat. Ascend along the wall to the plateau and complete a 3-minute safety stop before surfacing. Deploy an SMB before ascending in areas with boat traffic.
+Dive operators from La Romana and Bayahibe run regular boat trips to Catalina Island — typically a 30–45 minute crossing. Giant stride or back roll entry from the dive boat. Deploy an SMB before ascending — boat traffic around Catalina is significant. Multiple operators run this site daily, so coordinate with your guide.
 
 ## Tips
 
-- Plan your dive on the shallower reef plateau first when air supply allows, as the wall bottom is easy to extend deeper unintentionally
-- Morning departures from La Romana typically offer the best sea conditions before afternoon trade winds build
-- Combine Catalina Wall with the shallow coral garden on the island's north side for a two-tank day
-- The sandy bottom between the boat mooring and the wall edge is a good area to spot stingrays and garden eels
-- Bring a reef hook for resting in any current without touching the reef
+- Morning departures arrive before the heaviest snorkel and cruise day-trip traffic
+- Combine with the Catalina Aquarium (shallow reef on the western side of the island) for a two-tank day
+- The sandy bottom between the boat mooring and the wall edge can reveal stingrays and garden eels
+- Keep depth controlled between 15–25 metres to maximise bottom time and observe the active marine life zone
 
 ## Safety
 
-Current can run along the wall face, particularly on the eastern tip. Establish neutral buoyancy before reaching the wall edge to prevent accidental deep descent. Stay within recreational limits and begin your ascent with at least 70 bar remaining. Always carry a surface marker buoy for open-water ascents. Boat traffic around Catalina Island can be heavy on weekends.
+Current can run along the wall face at the eastern tip. Establish neutral buoyancy before reaching the wall edge to prevent accidental deep descent. Boat traffic around Catalina Island is heavy on weekends and cruise ship days — always ascend with a deployed SMB in open water. Begin your ascent with at least 70 bar remaining.
 
 ## Photography
 
-Catalina Wall is a wide-angle photographer's site. Frame the wall face with divers descending through shafts of light for dramatic perspective shots. Hawksbill turtles are approachable and patient subjects. Eagle rays in the blue water require a fast shutter and wide lens. Macro opportunities on the wall face include flamingo tongues on sea fans, Christmas tree worms in coral heads, and nudibranch species in crevices.
+The wall face offers wide-angle photography with the wall on one side and blue water on the other. Hawksbill turtles are approachable subjects on the plateau. Macro opportunities on the wall include flamingo tongues on sea fans and Christmas tree worms in coral heads. The heavy traffic on this site means fish are often accustomed to divers and can be photographed at close range.
 
 ---
-*Sources: PADI, Dressel Divers, ScubaCaribe. Last updated 2026-03-28.*
+*Sources: [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/), [ScubaCaribe — Catalina Dive Excursion](https://www.scubacaribe.com/diving/dominican-republic/bayahibe/catalina-dive-excursion/), [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [ScubaBoard](https://scubaboard.com/community/threads/anyone-been-to-catalina-island-in-the-dominican-republic.358700/). Last updated 2026-05-24.*

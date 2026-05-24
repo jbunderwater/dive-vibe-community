@@ -2,7 +2,7 @@
 name: Astron
 lat: 18.7303783
 lng: -68.4538206
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 16
 entryType: boat
 siteType: wreck
@@ -13,50 +13,52 @@ addedBy: osm_import
 
 # Astron
 
-*A shallow, encrusted cargo vessel wreck near Samaná Bay, accessible to divers of all levels and teeming with reef fish.*
+*A large Russian tanker that ran aground off Punta Cana in 1978, now split in two and partially above water, forming one of the most visually striking wrecks in the Dominican Republic.*
 
 ## Overview
 
-The Astron is a cargo vessel wreck located in the waters near Samaná Bay on the northeastern Dominican Republic coast. The wreck lies at a maximum depth of 16 meters, making it one of the most accessible wreck dives in the country for beginner and entry-level divers. After decades on the seabed, the hull is heavily colonized with corals and sponges, transforming the vessel into a thriving artificial reef. The shallow depth allows long bottom times and makes it suitable for open-water certification dives. Visibility around Samaná typically runs 15–20 meters. Water temperature averages 26–28°C, with a slight winter dip to 24°C.
+The Astron was built in 1957 at the Chantiers de l'Atlantique shipyard in Saint-Nazaire, France. The vessel measured 127 metres in length and was an oil tanker operating under Panama registry when disaster struck. On April 7, 1978, while transporting corn to Cuba, the Astron ran aground on the reef off the coast of what is now the Punta Cana/Bávaro resort area, in the northeastern Dominican Republic. Wikipedia and other sources report that 7,330 barrels of bunker fuel were lost in the incident. The ship broke into two sections upon impact; the bow remains above the waterline to this day, making it visible from the surface, while the stern section lies submerged at a maximum depth of 16 metres.
+
+The coordinate position (18.73°N, 68.45°W) places this wreck off the coast near Punta Cana, not Samaná Bay as previously described in this file. The site is reached by boat from operators in the Punta Cana/Bávaro area. Sources note that strong currents can affect the site, and the area is best dived in calm conditions.
+
+**Note on difficulty:** The shallow depth (16 metres maximum) would normally suggest Beginner, but sources indicate the site can have strong currents and exposed conditions, warranting Intermediate designation.
 
 ## Site Information
 
-- **Location**: Near Samaná Bay, northeastern Dominican Republic
-- **Entry Type**: Boat dive
+- **Location**: Off the coast of Punta Cana/Bávaro, northeastern Dominican Republic
+- **Entry Type**: Boat dive (some sources mention access by kayak from nearby beach)
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Light to minimal
-- **Best Time**: Year-round; January to March coincides with humpback whale season in Samaná Bay
+- **Difficulty Level**: Intermediate (currents can be significant)
+- **Maximum Depth**: 16 metres (stern section)
+- **Typical Visibility**: Sources report 15–20 metres in calm conditions
+- **Current**: Can be strong; dive in calm conditions only
+- **Best Time**: Calmer periods (typically winter months with settled Atlantic trade winds)
 
 ## Marine Life
 
-The Astron's encrusted hull is a haven for Caribbean reef life. Large groupers — yellowfin, Nassau, and tiger — use the wreck as a permanent residence. Yellowtail snappers school in mid-water above the structure. Glassy sweepers and soldierfish pack the interior spaces. Spotted morays and green morays occupy every suitable crevice. Spiny lobsters shelter beneath overhanging hull plates. Hawksbill turtles visit the wreck regularly. The sandy bottom around the wreck holds garden eels and occasionally spotted eagle rays. Fire worms and Christmas tree worms populate the encrusted hull surfaces.
+The wreck structure has been colonised by reef life over four-plus decades, with corals and sponges covering exposed surfaces. The submerged stern section with its large propeller provides habitat for reef fish. No site-specific marine life reports were found in sources consulted; the broader Punta Cana reef fish community (parrotfish, angelfish, snappers, groupers, eels) can be expected, and the wreck structure typically concentrates fish. The ship's enormous propeller — estimated by one source at significant size — is a notable attraction.
 
 ## Dive Profile
 
-Descend to the wreck top at 8–10 meters. Spend the opening portion of the dive circling the exterior of the hull, exploring the bow and stern sections. Drop to the deepest part of the wreck at 14–16 meters if comfortable. The interior spaces are accessible but shallow penetration only — look into open holds and doorways with a torch without fully entering. Ascend to the top of the superstructure at 6–8 meters for the final portion of the dive. No safety stop required, but 3 minutes at 5 meters is good practice.
+Access the submerged stern section by boat. The stern sits at 16 metres maximum, with most of the diveable area between 6 and 16 metres. The bow section visible above the waterline provides easy orientation. Circle the exterior of the submerged portion and explore the propeller area. The shallow depth allows extended bottom times, but monitor current carefully throughout the dive.
 
 ## Entry and Exit
 
-Dive boats from Las Terrenas or Las Galeras serve this site, with Samaná town operators also offering trips. Entry via back roll or giant stride. The site is calm enough for easy ladder exit.
+Dive operators from the Punta Cana/Bávaro area (Dominican Divers and others) serve this site. Confirm conditions with the operator before departure — the site is exposed and conditions vary with weather. Some visitors also reach the bow section by kayak from the nearest beach for snorkelling.
 
 ## Tips
 
-- Visiting during January to March adds the bonus of hearing (and occasionally seeing) humpback whales that come to Samaná Bay to breed and calve
-- Bring a small dive torch to peer into the wreck's interior spaces for maximum fish-finding
-- The sandy areas to one side of the wreck often reveal stingrays and garden eels on the approach swim
-- Night dives on the Astron reveal lobsters, octopus, and sleeping parrotfish wedged into coral crevices
-- Multiple passes around the wreck are worthwhile as you'll miss species on the first circuit
+- The partially above-water bow makes this wreck photogenic from the surface as well as underwater
+- Check current forecasts carefully — the site can be unsuitable in strong trade wind conditions
+- Combine with a nearby Punta Cana reef dive for a two-tank day if conditions allow
 
 ## Safety
 
-Beginner-friendly but observe wreck safety basics: do not enter enclosed spaces without proper training and a torch. Silting inside the hull can quickly eliminate visibility. The wreck has some metal edges and jagged sections. Maintain buoyancy to avoid contact. Always dive with a buddy.
+Strong currents are reported at this site; always confirm conditions with local operators before diving. The wreck has metal edges and structural hazards typical of a casualty wreck (not a deliberately scuttled dive ship). Maintain buoyancy and do not enter enclosed spaces. The site is exposed to the Atlantic on the northern coast of the eastern cape.
 
 ## Photography
 
-The Astron's encrusted surfaces are excellent for both wide-angle and macro photography. Wide-angle: shoot along the hull with ambient light and a diver for perspective. Macro: the hull encrustation hosts fire worms, Christmas tree worms, and nudibranchs that reward a close look. Grouper portraits near the bow section are a signature shot.
+The partially above-water bow, visible against the sky, is a classic surface photograph from the boat. Underwater, wide-angle shots of the stern and propeller against the water column are the main subjects. The scale of this 127-metre vessel is impressive even in its fragmented state.
 
 ---
-*Sources: Wikipedia, DiveSSI, Divebooker, Dominican Divers. Last updated 2026-03-28.*
+*Sources: [Wikipedia — Astron (ship)](https://en.wikipedia.org/wiki/Astron_(ship)), [Dominican Divers](https://www.dominicandivers.com/wreck-diving/astron-wreck/), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/astron-wreck-aston-ship-punta-cana-dominican-republic-8497), [Wanderlog](https://wanderlog.com/place/details/6288686/astron-ship-wreck). Last updated 2026-05-24.*

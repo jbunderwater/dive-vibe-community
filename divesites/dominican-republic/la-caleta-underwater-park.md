@@ -13,50 +13,50 @@ addedBy: osm_import
 
 # La Caleta Underwater Park
 
-*The Dominican Republic's first marine park, home to multiple deliberately scuttled wrecks and a historic galleon anchor field.*
+*The Dominican Republic's first marine protected area, home to a deliberately scuttled salvage ship and a field of colonial-era anchors 20 kilometres east of Santo Domingo.*
 
 ## Overview
 
-La Caleta Underwater Park (Parque Nacional Submarino La Caleta) was established in 1986, making it the country's first protected marine area dedicated to diving. Located 22 kilometers east of Santo Domingo on the southern coast, the park encompasses a sheltered bay with clear Caribbean water and several wrecks sunk as artificial reefs. The most famous is the Hickory, a 46-meter survey ship sunk in 1984, which sits at 15–30 meters and is substantially encrusted after decades on the bottom. The park also contains a field of old anchors believed to date to the colonial era of Spanish galleon traffic through the Caribbean. Visibility averages 20–30 meters. Water temperature stays around 27–29°C.
+Parque Nacional Submarino La Caleta was established by Decree No. 249 on September 25, 1986, making it the country's first underwater national park. The park covers 12 km² adjacent to Las Americas International Airport, approximately 20 kilometres east of Santo Domingo. Its primary dive attraction is the Hickory, a salvage vessel approximately 43–44 metres in length that was deliberately scuttled in 1984 to create an artificial reef and diving destination. The Hickory rests at around 18 metres depth. A separate area of the park holds a field of old anchors believed to date to the colonial era of Spanish galleon traffic through these waters. Visibility averages 20–30 metres in the sheltered bay. Water temperatures stay around 27–29°C year-round.
+
+Sources consistently describe the Hickory's dimensions as approximately 43–44 metres in length, though detailed tonnage figures are not documented in publicly available sources. The ship was scuttled specifically to promote reef growth and dive tourism; it had previously been used in expeditions to recover artifacts from sunken Spanish galleons in Caribbean waters.
 
 ## Site Information
 
-- **Location**: La Caleta, southeast of Santo Domingo, southern Dominican Republic
+- **Location**: La Caleta, 20 km east of Santo Domingo, adjacent to Las Americas International Airport, southern Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (primary); also features anchor field reef area
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Maximum Depth**: 30 metres (Hickory wreck top at approximately 15 metres)
+- **Typical Visibility**: 20–30 metres (65–100 feet)
 - **Current**: Light to minimal in the sheltered bay
-- **Best Time**: Year-round; this southern sheltered location is accessible in most conditions
+- **Best Time**: Year-round; this sheltered southern location is accessible in most conditions
 
 ## Marine Life
 
-The Hickory wreck is heavily encrusted with orange and red sponges, black coral bushes, and brain corals. Large groupers hold station near the wreck — some individuals are remarkably large after decades of partial protection. Schools of horse-eye jacks and creole wrasse swarm the structure. Spotted drum and high-hat fish shelter under the hull overhang. Moray eels, including green and spotted varieties, inhabit every crevice. Hawksbill turtles visit the wreck. The anchor field is a fascinating area where encrusting life has completely colonized the colonial ironwork.
+The Hickory wreck is encrusted with tube sponges (yellow and purple varieties reported by divers), brain corals, and encrusting corals after four decades on the seabed. Large groupers hold permanent station near the wreck. Schools of horse-eye jacks and creole wrasse swarm the structure. Moray eels inhabit the hull's crevices. The anchor field at 12–15 metres is colonised by encrusting life that has covered the colonial ironwork. No specific species reports were found in sources for this site beyond what is described above; the broader regional Caribbean fish community applies.
 
 ## Dive Profile
 
-A two-site dive is typical: divers first visit the Hickory wreck, starting at the shallowest part of the superstructure (around 15 meters) and working toward the deeper sections. Exterior exploration of the hull and deck structures provides ample activity. The bow section and propeller area are particularly photogenic. After ascending the wreck, a second drift over the anchor field at 12–18 meters is often included. Return to 5 meters for a safety stop before surfacing.
+A typical visit to La Caleta covers two areas: first the Hickory wreck (starting at the shallowest section of the superstructure at around 15 metres and working toward deeper sections), then a pass over the anchor field at 12–15 metres. The bow section and propeller area of the Hickory are noted as photogenic landmarks. Ascend to 5 metres for a safety stop before surfacing.
 
 ## Entry and Exit
 
-La Caleta is accessible by road from Santo Domingo (approximately 25–30 minutes). Small dive operators at the park dock provide boat access to the wrecks. Entry is via giant stride. The site is calm and sheltered, with easy exits via boat ladder.
+La Caleta is accessible by road from Santo Domingo (approximately 20–25 minutes). Small dive operators at the park dock provide boat access to the wrecks. Conditions inside the bay are calm with easy exits.
 
 ## Tips
 
-- The Hickory is considered one of the best accessible wreck dives in the Caribbean for intermediate divers
-- Penetration into the Hickory's engine room and main hold is possible but requires a dive torch and good buoyancy control
-- The colonial anchor field deserves a full separate dive — many anchors lie half-buried in the sand at 12–15 meters
-- Early morning arrivals avoid the few tour groups that visit in the afternoon
-- La Caleta is a good day trip from Santo Domingo's colonial district
+- The Hickory is a well-regarded accessible wreck dive for intermediate divers; penetration into the engine room and main hold is reported as possible but requires a dive torch and good buoyancy control — silt inside the hull reduces visibility quickly
+- The colonial anchor field warrants a dedicated dive — many anchors lie partially buried in the sand at 12–15 metres
+- The park is a good day trip from Santo Domingo's colonial district
 
 ## Safety
 
-The Hickory has some confined spaces if you choose to penetrate — proceed only if you have proper wreck training and a torch. Silting inside the hull can reduce visibility rapidly. Maximum depth of 30 meters requires careful air planning. The anchors in the anchor field are old and can have sharp edges — maintain distance.
+If choosing to penetrate the Hickory, proceed only with proper wreck training, a torch, and a clear exit plan. Silting inside old wrecks can reduce visibility to near zero in seconds. Maximum depth of 30 metres requires careful air planning. The anchors in the anchor field have sharp edges — maintain distance.
 
 ## Photography
 
-The Hickory is one of the best wreck photography subjects in the Dominican Republic. The dense encrustation of orange and red sponges provides color contrast against the blue water, ideal for wide-angle shots. Groupers and jack schools respond well to patient photographers. The anchor field at shallow depth is unique — shoot anchors against the sandy bottom with ambient light filtering from above.
+The Hickory offers compelling wide-angle photography: tube sponge coverage on the hull creates colour contrast against the blue water. The anchor field at shallow depth is a distinctive subject — shoot anchors against the sandy bottom with ambient light filtering from above.
 
 ---
-*Sources: TripAdvisor, Lonely Planet, Global National Parks. Last updated 2026-03-28.*
+*Sources: [Wikipedia — Parque Nacional Submarino La Caleta](https://en.wikipedia.org/wiki/Parque_Nacional_Submarino_La_Caleta), [Global National Parks](https://www.globalnationalparks.com/dominican-republic/la-caleta/), [Visita Dominicana](https://visitadominicana.com/en/santo-domingo/la-caleta-national-underwater-park/), [SCUBA Travel](https://www.scubatravel.co.uk/americas/dominicanrepublic.html). Last updated 2026-05-24.*
