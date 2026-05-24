@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Point Guignard
 
-Point Guignard is a wall dive site in Dominica, Caribbean.
+Point Guignard is a gently sloping wall in the Soufriere Scotts Head Marine Reserve that is well regarded for macro diving — particularly seahorses, nudibranchs, and sea slugs — and features a notable narrow cave at around 50 feet that requires good buoyancy to navigate.
 
 ## Overview
 
-Point Guignard is a gently sloping wall in the Soufriere Scotts Head Marine Reserve, starting at around 10 metres and descending to 25 metres, with very little current and good shelter making it accessible to divers of all levels. The slope is rich with seahorses on gorgonian fans, nudibranchs, sea slugs, turtles, stingrays, and moray eels — and the standout feature is a cave at around 15 metres with a tight swim-through and an archway exit that rewards divers with perfect buoyancy. Squid and giant lobsters make regular appearances on night dives at this frequently visited site.
+Starting from about 30 feet (10 metres), Point Guignard descends slowly to around 80 feet (25 metres) on a sheltered slope with very little current, making it accessible and enjoyable for divers of most experience levels. The site is particularly favoured by photographers and macro enthusiasts: seahorses are regularly found on gorgonian fans, and nudibranchs and sea slugs are abundant throughout. A cave at approximately 50 feet is a highlight of the dive — the passage is narrow and can silt quickly, so it is not recommended for large groups or divers without good buoyancy control. Beyond the cave there is a cool archway exit. Squid and giant lobsters are frequent on night dives at this site.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Point Guignard is a gently sloping wall in the Soufriere Scotts Head Marine Rese
 
 ## Marine Life
 
-Point Guignard is a standout critter site, with seahorses on gorgonian fans, nudibranchs, and sea slugs making for exceptional macro diving along the gentle slope. Sea turtles and southern stingrays are routine sightings, moray eels occupy the numerous crevices, and the cave swim-through at 15 metres sometimes shelters resting nurse sharks and giant lobsters — which emerge in force on night dives.
+Seahorses on gorgonian fans, nudibranchs, sea slugs, pipefish, and sharptail eels are documented critter finds along the slope. Sea turtles and southern stingrays are routine sightings. Moray eels occupy the numerous crevices throughout, and frogfish are regularly spotted. At night, giant lobsters and squid emerge prominently. Note: nurse sharks are documented at nearby Rina's Hole dive site; no independent source confirms nurse sharks specifically at Point Guignard.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [World of Diving](https://worldofdiving.com/dominica/). Last updated 2026-05-24.*

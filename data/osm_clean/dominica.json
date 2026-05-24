@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, divedominica.com, diveoclock.com, tripadvisor"
+      "validation_source": "divedominica.com,ssmrdominica.com,diveoclock.com,cocoacottagedominica.com,dan.org",
+      "last_qa_date": "2026-05-24",
+      "notes": "Geothermal vent site in SSMR; bubbles rise from sandy seabed creating champagne effect; fringing reef slopes to ~30m near-perpendicular wall section; shore entry with boardwalk"
     }
   },
   {
@@ -21,13 +23,14 @@
     "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, divedominica.com, diveoclock.com, divessi.com",
-      "notes": "Swim-through at 35ft, wall drops to 120ft+ on inside of volcanic crater"
+      "validation_source": "divedominica.com,ssmrdominica.com,dom767.com,discoverdominica.com,dan.org",
+      "last_qa_date": "2026-05-24",
+      "notes": "Swiss Cheese formation + Soldierfish Cave swim-through; pinnacle swim-through at 35ft leads to crater wall dropping 120ft+; SSMR rates this Moderate (2 flags), not Advanced"
     }
   },
   {
@@ -35,14 +38,16 @@
     "lat": 15.2310,
     "lon": -61.3621,
     "depth": 25,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, divedominica.com, diveoclock.com"
+      "validation_source": "ssmrdominica.com,divedominica.com,avirtualdominica.com,dan.org,etbtravelphotography.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Three pinnacles rising from 25ft shelf near Soufriere village; easy second-dive option; site_type corrected from wall to pinnacle based on all sources"
     }
   },
   {
@@ -57,8 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, divedominica.com, scubadiving.com",
-      "notes": "5 pinnacles with sandy bottoms, 30-40m, barrel sponges and reef sharks"
+      "validation_source": "divedominica.com,ssmrdominica.com,scubadiverlife.com,avirtualdominica.com,dan.org",
+      "last_qa_date": "2026-05-24",
+      "notes": "5 pinnacles on north edge of Soufriere crater; depth 40-80ft (12-24m); reef sharks confirmed (girlsthatscuba); winter schooling jacks activity; barrel sponges"
     }
   },
   {
@@ -73,7 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, ssmrdominica.com"
+      "validation_source": "ssmrdominica.com,avirtualdominica.com,divedominica.com,dan.org,originaldiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Shallow colourful reef in Batali Bay; finger and pencil coral; frogfish various colors; garden eels; upside-down jellyfish on sand; occasional nurse sharks under ledges; entry can be shore or boat"
     }
   },
   {
@@ -83,13 +91,14 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, divedominica.com, discoverdominica.com, noxoma.com",
-      "notes": "1500ft vertical wall, seahorses sighted, macro-rich location"
+      "validation_source": "divedominica.com,ssmrdominica.com,avirtualdominica.com,dan.org,scubatravel.co.uk",
+      "last_qa_date": "2026-05-24",
+      "notes": "1500ft wall; suitable for all levels per SSMR, Dive Dominica, and DAN — difficulty downgraded from Advanced to Intermediate; sandy shelf start at 25ft with very little current; black coral, whip corals, gorgonians confirmed"
     }
   },
   {
@@ -104,8 +113,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "padi.com, cabritsdive.com, scubadiving.com",
-      "notes": "Tunnel system (25-45ft), drops to 110ft with mahogany snapper, frogfish, octopus"
+      "validation_source": "cabritsdive.com,dominicadiveoperations.com,avirtualdominica.com,dtmag.com,divedominica.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Tunnels at 25 and 45ft; drops to 110ft; mahogany snapper schools confirmed; fumarole on ocean floor; cave section max ~38ft, overall reef to 33m; electric rays not verified — removed"
     }
   },
   {
@@ -120,7 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "cabritsdive.com, scubadiving.com, latitude.to"
+      "validation_source": "cabritsdive.com,avirtualdominica.com,scubatravel.co.uk,scubadiving.com,madurodive.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Cabrits South wall drops to 155ft; third site to south drops to 185ft+; healthy sponge-covered reef; multiple Cabrits sites grouped under this name; spotted eagle rays at Cabrits area not specifically confirmed for this wall"
     }
   },
   {
@@ -135,8 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, scubadiving.com",
-      "notes": "Slowly sloping wall, easy dive for all levels, macro life (seahorses, nudibranches)"
+      "validation_source": "divedominica.com,ssmrdominica.com,avirtualdominica.com,scubatravel.co.uk,worldofdiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Slowly sloping wall 30-80ft; cave at ~50ft narrow — not suitable for large groups; seahorses, nudibranchs, sea slugs confirmed; nurse sharks NOT confirmed at this site (attributed to Rina's Hole) — removed from description"
     }
   },
   {
@@ -151,8 +164,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "discoverdominica.com, scubadiving.com, ewdr.com",
-      "notes": "Three nose-shaped ledges extending into the blue, off Grand Savanne central coast, 24m depth"
+      "validation_source": "avirtualdominica.com,scubatravel.co.uk,ewdr.com,dtmag.com,scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Three nose-shaped ledges on Grand Savanne central coast; depth 40-130ft, best at ~80ft (24m); whale shark claim removed — 'Whale Shark Reef' nearby named for historical one-time sighting, not regular encounters; yellowfin tuna and jacks confirmed"
     }
   },
   {
@@ -167,7 +181,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "padi.com, cabritsdive.com, scubadiving.com"
+      "validation_source": "cabritsdive.com,avirtualdominica.com,scubatravel.co.uk,padi.com,scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Large boulder in Douglas Bay visible at surface; depth 15-90ft (5-27m); spotted eagle rays confirmed; squirrelfish, flounders, tobacco fish, angelfish confirmed; Caribbean reef squid also confirmed (scubadiving.com)"
     }
   },
   {
@@ -182,8 +198,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "zentacle.com, scubadiving.com, tripadvisor",
-      "notes": "Shallow max 50ft, critter dive (spiny/slipper lobster, morays, seahorses - record 11 in one dive), near Jimmit/Tarou Point"
+      "validation_source": "avirtualdominica.com,discoverdominica.com,ewdr.com,scubatravel.co.uk,scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Max 50ft (15m); seahorse record of 11 in one dive confirmed by multiple sources; batfish, frogfish, bumblebee shrimp, leaf fish, ribbon eels, spotted snake eel confirmed; night diving for squid/lobster/crabs confirmed"
     }
   }
 ]

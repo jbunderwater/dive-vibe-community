@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Five Finger Rock
 
-Five Finger Rock is a reef dive site in Dominica, Caribbean.
+Five Finger Rock is a dramatic underwater formation in Douglas Bay near the Cabrits Peninsula, formed by a massive boulder visible at the surface that creates a hand-like cluster of peaks extending from the surface down to a sandy bottom at around 27 metres.
 
 ## Overview
 
-Five Finger Rock is formed by a massive boulder that tumbled down the mountainside thousands of years ago into Douglas Bay near Cabrits National Park, creating a hand-like underwater formation reaching from the surface down to 27 meters. The site is known for spotted eagle ray sightings along with squirrelfish, flounders, tobacco fish, and angelfish among large elephant ear, azure vase, and yellow tube sponges. Mild currents and warm clear waters make this a popular first dive on Dominica's north coast, with sea turtles and stingrays frequently spotted on the surrounding sand.
+Located in the Cabrits Marine Park, Five Finger Rock is one of the area's most popular and distinctive dives. The huge volcanic boulder at the surface is a visible navigation landmark, and underwater the site reveals five prominent rock peaks — the "fingers" — covered in large sponges including elephant ear, azure vase, and yellow tube varieties. The slopes between the fingers reach about 15–27 metres (50–90 feet) to a sandy base where rays and other bottom-dwellers are commonly found. Conditions are generally manageable with mild currents, though the open bay location offers less shelter than some nearby sites.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Spotted eagle rays are a signature sighting at Five Finger Rock, gliding past the massive elephant ear, azure vase, and yellow tube sponges that cover the boulder formation. Squirrelfish, tobacco fish, angelfish, and flounders inhabit the sponge gardens, while sea turtles and southern stingrays are regularly found on the surrounding sand at the base of the structure.
+Spotted eagle rays are a signature sighting at Five Finger Rock, confirmed by multiple operator sources. Squirrelfish, tobacco fish, flounders, and angelfish are documented among the sponge gardens. Caribbean reef squid travel the site in synchronised formations. Sea turtles and southern stingrays are regularly found on the surrounding sand at the base of the formation. Banded coral shrimp and yellowline arrow crabs inhabit the coral heads.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [Cabrits Dive Center](https://cabritsdive.com/diving-in-dominica/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [PADI](https://www.padi.com/dive-site/dominica/five-fingers-2/), [Scuba Diving Magazine](https://www.scubadiving.com/travel/caribbean-atlantic/dominica-north-south). Last updated 2026-05-24.*

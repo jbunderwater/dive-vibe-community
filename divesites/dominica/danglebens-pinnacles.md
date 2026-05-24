@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Danglebens Pinnacles
 
-Danglebens Pinnacles is a pinnacle dive site in Dominica, Caribbean.
+Danglebens Pinnacles is a signature dive of the Soufriere-Scotts Head Marine Reserve, where five volcanic spires rise from depth along the northern rim of the submerged Soufriere crater and are carpeted in every imaginable form of sponge and coral.
 
 ## Overview
 
-Dangleben's Pinnacles is a signature dive of the Soufriere-Scotts Head Marine Reserve, where five volcanic spires rise from depth to within 35 feet of the surface on the northern edge of the submerged Soufriere crater. The pinnacles are encrusted with some of Dominica's largest barrel sponges and explode in color with reds, yellows, purples, and pinks. Mild currents attract schooling jacks during winter months, while southern stingrays, reef fish, and an abundance of coral and anemone growth make this a favorite among local dive guides.
+Located close to shore north of Scotts Head and accessed by boat, the five pinnacles range from 40 feet (12 metres) at their shallowest to 80 feet (24 metres) at depth, with table corals, brain corals, and barrel sponges covering the structures from base to tip. The site sits on the ancient crater rim of the Soufriere volcano, and the dramatic underwater topography reflects this geological origin. Mild currents typically run through the site, which can channel schooling fish and attract predators — particularly during winter months when large aggregations of hunting fish are common. The site is generally manageable for intermediate divers but the current and depth put it above beginner level.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Dangleben's Pinnacles is a signature dive of the Soufriere-Scotts Head Marine Re
 
 ## Marine Life
 
-The five volcanic spires are draped in Dominica's largest barrel sponges and brilliant encrusting corals that support dense reef fish populations including parrotfish, angelfish, and creole wrasse. Schooling horse-eye jacks aggregate around the pinnacles during winter months when mild currents run through, and southern stingrays rest on the sandy bottom between the spires while anemones and cleaning stations dot the shallower sections.
+Multiple independent sources document reef sharks — including Caribbean reef sharks — in the crevices of the pinnacles alongside large moray eels. Schooling bar jacks, horse-eye jacks, crevalle jacks, and barracuda hunt baitfish around the structures, particularly in winter. Southern stingrays rest on the sandy bottom between the spires, and giant basket starfish, porcupinefish, and angelfish are regularly observed. Frogfish in multiple color variants (pink, yellow, brown) inhabit the deeper sections. The shallower reaches have cleaning stations with Pederson shrimp.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [Scuba Diver Life](https://scubadiverlife.com/best-scuba-diving-dominica/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Divers Alert Network](https://dan.org/alert-diver/article/dominica-above-and-below-the-nature-isle/). Last updated 2026-05-24.*
