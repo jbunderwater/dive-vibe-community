@@ -32,8 +32,9 @@
       "type": "multipolygon",
       "wikidata": "Q1143655",
       "wikipedia": "en:Dry Tortugas National Park",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -42,18 +43,19 @@
     "lon": -82.9018649,
     "osm_id": 1033472465,
     "osm_type": "way",
-    "depth": 24,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "White Shoal",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Shallow reef shoal typical of Dry Tortugas area"
+      "validated": "true",
+      "validation_source": "nps.gov,myfwc.com,scubaboard.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Shallow shoal 0-20ft (0-6m); CREMP coral monitoring station; snorkel and scuba site suitable together. Previous depth of 24m was incorrect."
     }
   },
   {
@@ -71,107 +73,113 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Shallow coral shoal in eastern Dry Tortugas park area"
+      "validated": "false",
+      "last_qa_date": "2026-05-24",
+      "notes": "No site-specific published source found. Not listed in CREMP monitoring stations. Depth and difficulty are estimates based on Dry Tortugas regional shoal characteristics. Cannot validate without 3+ independent sources."
     }
   },
   {
     "name": "Windjammer Wreck",
     "lat": 24.62,
     "lon": -82.87,
-    "depth": 6.4,
+    "depth": 6.7,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
+      "validated": "true",
+      "validation_source": "nps.gov,blueturtlecruising.com,scubaboard.com",
+      "last_qa_date": "2026-05-24",
       "wreck_name": "Avanti",
       "wreck_year": 1907,
-      "notes": "Historic 3-masted iron-hulled ship wreck, excellent snorkeling site"
+      "notes": "Iron-hulled three-masted sailing ship built 1875 (NPS). Sank January 22, 1907 per NPS official history (other sources cite January 9, 1907 — conflict noted). Cargo: lumber Pensacola to Montevideo. All 19 crew survived. Hull material: NPS says iron; one non-authoritative source says steel — NPS is definitive. Depth 0-22ft. Discovered 1971, identified 1990. National Register of Historic Places."
     }
   },
   {
     "name": "Little Africa Reef",
     "lat": 24.63,
     "lon": -82.88,
-    "depth": 16,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Large shallow reef with Africa-shaped coral mound, excellent for snorkeling and photography"
+      "validated": "true",
+      "validation_source": "nps.gov,dan.org,tripadvisor.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Located off north side of Loggerhead Key per NPS (previous markdown incorrectly stated west shore). Shallow reef approximately 20ft (6m) at deepest. NPS-confirmed marine life: juvenile barracuda, lobsters, coral heads, soft corals, tropical fish. Prior JSON depth of 16m (52ft) was incorrect."
     }
   },
   {
     "name": "Texas Rock",
     "lat": 24.64,
     "lon": -82.86,
-    "depth": 18.3,
+    "depth": 18,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Dramatic pinnacle peaks rising from 60+ feet, deep water sea fans and black coral"
+      "validated": "true",
+      "validation_source": "nps.gov,myfwc.com,florida-scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "Coral mound in 55-60ft (17-18m) rising to ~35ft at crown. Almost due north of Garden Key. CREMP monitoring station. North side: deep-water sea fans and black coral in crevices. Advanced due to depth and current exposure."
     }
   },
   {
     "name": "Bird Key Reef",
     "lat": 24.625,
     "lon": -82.875,
-    "depth": 10,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Shallow reef near nesting seabird island, excellent for snorkeling with abundant marine life"
+      "validated": "true",
+      "validation_source": "nps.gov,myfwc.com,dan.org",
+      "last_qa_date": "2026-05-24",
+      "notes": "CREMP coral monitoring station confirmed (Bird Key Reef listed in FWC CREMP Dry Tortugas stations). Bird Key anchorage features seagrass flats, patch reefs, unmarked wrecks, old anchors. Brick Wreck (Bird Key Wreck) nearby in 4-6ft. No specific site-exclusive marine life list confirmed by sources — regional fish assemblage applies."
     }
   },
   {
     "name": "Long Key Reef",
     "lat": 24.615,
     "lon": -82.89,
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Distinctive star, plate and brain coral formations, nurse sharks present, island closed to public (100ft minimum distance)"
+      "validated": "true",
+      "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "DAN Alert Diver source: reef starts ~35ft (10.7m) and extends to ~65ft (19.8m), heavily developed with surge channels. Nurse sharks confirmed in shallows off back of Long Key (DAN photo caption). Long Key island closed year-round for nesting wildlife. Previous depth of 15m understated the deeper structure."
     }
   },
   {
     "name": "Fort Jefferson Wall",
     "lat": 24.628,
     "lon": -82.873,
-    "depth": 4.5,
+    "depth": 2.5,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Historic moat wall around Fort Jefferson, accessible from white sand beach, excellent beginner shore dive with reef squid and nurse sharks"
+      "validated": "true",
+      "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
+      "last_qa_date": "2026-05-24",
+      "notes": "NPS confirms moat wall depth 6-8ft (1.8-2.5m). Marine life from NPS: reef squid, nurse sharks, hogfish, cement barrels, anchor chains. Night diving reveals octopus, basket starfish, decorator crabs. Swimming inside moat prohibited. American crocodile sightings unverified at this specific site — attributed to park generally. Previous depth of 4.5m overstated."
     }
   }
 ]
