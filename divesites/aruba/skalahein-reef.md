@@ -63,4 +63,4 @@ Standard intermediate reef dive precautions. Monitor depth on the slope. South c
 Good visibility and schooling fish make this a strong wide-angle photography site. The hard coral coverage provides reef scenery context for fish portraits.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-17.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-24.*

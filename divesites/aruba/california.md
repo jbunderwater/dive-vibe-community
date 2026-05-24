@@ -60,4 +60,4 @@ No regularly scheduled dive trips operate to this site. Ask dive operators in Ar
 Strong currents and rough seas are the primary hazard. Only experienced divers with current management skills should attempt this site. Always evaluate conditions on the day — abort if sea state has changed from the forecast. Carry a surface marker buoy and alert your boat crew to current direction before descending.
 
 ---
-*Sources: [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck), [In-Aruba.com - California Wreck](https://www.in-aruba.com/activities/watersports/scubadivingonaruba/californiawreck). Last updated 2026-05-17.*
+*Sources: [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck), [In-Aruba.com - California Wreck](https://www.in-aruba.com/activities/watersports/scubadivingonaruba/californiawreck). Last updated 2026-05-24.*

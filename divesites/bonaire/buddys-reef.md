@@ -61,4 +61,4 @@ The reef slope provides standard Caribbean reef photography. Macro subjects are 
 La Machaca is immediately south. Cliff and Andrea II are nearby to the north. Bari Reef (Sand Dollar Resort) is also in the same area.
 
 ---
-*Sources: [Buddy Dive Resort](https://buddydive.com/about-bonaire/diving/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [Buddy Dive Resort](https://buddydive.com/about-bonaire/diving/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

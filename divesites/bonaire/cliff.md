@@ -61,4 +61,4 @@ The wall face offers wide-angle opportunities with coral formations and schoolin
 Buddy's Reef and La Machaca are immediately to the south. Andrea II is to the north. Bari Reef (Sand Dollar Resort) is nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Cliff](https://www.divers-guide.com/en/cliff). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Cliff](https://www.divers-guide.com/en/cliff). Last updated 2026-05-24.*

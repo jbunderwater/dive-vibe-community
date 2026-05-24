@@ -56,4 +56,4 @@ Boat dive only. Entry via giant stride or back roll. The remote location and ope
 Boat diving protocols apply. Deploy a surface marker buoy before ascending. The site is within Curaçao National Marine Park — do not touch or collect anything.
 
 ---
-*Sources: [DiveCuracao.info — Mushroom Forest](https://www.divecuracao.info/dive/curacao-diving-guide/mushroom-forest/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI Dive Site — Mushroom Forest](https://www.padi.com/dive-site/curacao/mushroom-forest-2/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Mushroom Forest](https://www.divecuracao.info/dive/curacao-diving-guide/mushroom-forest/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI Dive Site — Mushroom Forest](https://www.padi.com/dive-site/curacao/mushroom-forest-2/). Last updated 2026-05-24.*

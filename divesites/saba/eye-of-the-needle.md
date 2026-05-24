@@ -33,7 +33,7 @@ Eye of the Needle is widely regarded as Saba's signature dive and one of the mos
 
 ## Marine Life
 
-Large pelagic species are a defining feature of this site. Caribbean reef sharks and nurse sharks rest along the base. Spotted eagle rays and southern stingrays cruise the sand patches around the base at 25–28 meters. The pinnacle's rich invertebrate base — sea fans, black coral, large barrel sponges — supports a dense reef fish community. Schools of horse-eye jacks and bar jacks orbit the pinnacle in mid-water. Hawksbill turtles frequent the shallower sections of the structure. Winter months occasionally bring hammerhead shark sightings in this area of Saba's offshore waters.
+Large pelagic species are a defining feature of this site. Caribbean reef sharks and nurse sharks rest along the base. Spotted eagle rays and southern stingrays cruise the sand patches around the base at 25–28 meters. The pinnacle's rich invertebrate base — sea fans, black coral, large barrel sponges — supports a dense reef fish community. Schools of horse-eye jacks and bar jacks orbit the pinnacle in mid-water. Hawksbill turtles frequent the shallower sections of the structure. *Hammerhead shark sightings have been reported in Saba's offshore waters generally; no source specifically confirms regular hammerhead encounters at Eye of the Needle itself.*
 
 ## Dive Profile
 

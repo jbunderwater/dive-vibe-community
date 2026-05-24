@@ -60,4 +60,4 @@ Quiet southern coast reef with low traffic.
 Sweet Dreams is nearby. Hidden Beach and Soft Coral Garden are adjacent unmarked sites. Atlantis and Vista Blue are the nearest official sites to the north.
 
 ---
-*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Chogogo (off EEG Boulevard); not on the official BNMP yellow-stone marker system. Named for a yellow structure at the entry point. Site details from [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut). Last updated 2026-05-18.*
+*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Chogogo (off EEG Boulevard); not on the official BNMP yellow-stone marker system. Named for a yellow structure at the entry point. Site details from [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut). Last updated 2026-05-24.*

@@ -57,4 +57,4 @@ Coral rubble entry: reef shoes required. The entry is described as fairly clean 
 Remote location with no immediate emergency services — dive conservatively and inform someone of your plans. The plantation road access can be difficult after rain. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Playa Manzaliña](https://www.divecuracao.info/dive/curacao-diving-guide/playa-manzalina/), [Divers-Guide.com — Playa Manzalina](https://www.divers-guide.com/en/playa-manzalina-392), [ShoreDivingCuracao — Playa Manzaliña](https://shoredivingcuracao.com/dive-sites/west/36-san-juan-playa-manzalina). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Manzaliña](https://www.divecuracao.info/dive/curacao-diving-guide/playa-manzalina/), [Divers-Guide.com — Playa Manzalina](https://www.divers-guide.com/en/playa-manzalina-392), [ShoreDivingCuracao — Playa Manzaliña](https://shoredivingcuracao.com/dive-sites/west/36-san-juan-playa-manzalina). Last updated 2026-05-24.*

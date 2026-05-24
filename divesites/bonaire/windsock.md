@@ -61,4 +61,4 @@ Typical reef photography opportunity. The unusual airport backdrop makes above-w
 Bachelor's Beach and Corporal Meiss are nearby to the south. Calabas Reef and 18th Palm are in the same corridor.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Windsock](https://www.divers-guide.com/en/dive-spots/windsock), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Windsock](https://www.divers-guide.com/en/dive-spots/windsock), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

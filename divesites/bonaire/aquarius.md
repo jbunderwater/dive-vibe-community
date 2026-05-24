@@ -59,4 +59,4 @@ Standard southern reef photography.
 Larry's Lair and Jeannie's Glory are nearby. Hilma Hooker is to the south. Salt Pier is to the north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Aquarius](https://www.divers-guide.com/en/dive-spots/aquarius), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Aquarius](https://www.divers-guide.com/en/dive-spots/aquarius), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

@@ -55,4 +55,4 @@ The sandy beach provides easy entry for all experience levels. The Porto Marie B
 The sandy valley between reefs is a disorientation risk for divers unfamiliar with the site — know your compass bearing back to the beach. The site is busy on weekends. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Porto Marie](https://www.divecuracao.info/dive/curacao-diving-guide/porto-mari/), [ScubaBoard — Curaçao Best Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Porto Mari](https://www.padi.com/dive-site/curacao/porto-mari/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Porto Marie](https://www.divecuracao.info/dive/curacao-diving-guide/porto-mari/), [ScubaBoard — Curaçao Best Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Porto Mari](https://www.padi.com/dive-site/curacao/porto-mari/). Last updated 2026-05-24.*

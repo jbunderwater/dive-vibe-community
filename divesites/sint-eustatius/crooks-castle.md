@@ -23,7 +23,7 @@ Crooks Castle sits along the southwestern coast of Sint Eustatius, directly belo
 
 - **Location**: Southwest coast, Sint Eustatius, Caribbean Netherlands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-30 meters

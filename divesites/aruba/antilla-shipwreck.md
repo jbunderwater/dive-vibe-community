@@ -63,4 +63,4 @@ The wreck has deteriorated over 85+ years. Some overhangs are unstable and some 
 One of the most photogenic wide-angle wreck subjects in the Caribbean. The density of encrusting corals and scale of the hull allow for compelling compositions in multiple sections. Torch photography inside the holds reveals brilliant oranges and reds.
 
 ---
-*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-05-24.*

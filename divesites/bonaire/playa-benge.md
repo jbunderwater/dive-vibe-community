@@ -62,4 +62,4 @@ The pristine reef and clear northern water are excellent for photography. The wi
 Boka Bartol, Playa Funchi, and Bisé Morto are other park sites in the same area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Benge](https://www.divers-guide.com/en/dive-spots/playa-benge), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Benge](https://www.divers-guide.com/en/dive-spots/playa-benge), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

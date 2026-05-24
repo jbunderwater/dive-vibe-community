@@ -55,4 +55,4 @@ Sandy beach entry at the cove head — suitable for all experience levels. Good 
 The bay mouth narrows and may experience mild current during tidal changes. For dives deeper than the lagoon, plan accordingly. A surface marker buoy is recommended for dives outside the protected cove.
 
 ---
-*Sources: [DiveCuracao.info — Playa Lagun](https://www.divecuracao.info/dive/curacao-diving-guide/playa-lagun/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Sites Curaçao](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Lagun](https://www.divecuracao.info/dive/curacao-diving-guide/playa-lagun/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Sites Curaçao](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-24.*

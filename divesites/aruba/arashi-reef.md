@@ -60,4 +60,4 @@ Standard precautions for boat diving apply. No significant hazards — good cond
 The turtle cleaning station is the primary photographic draw — divers regularly get close approaches from habituated individuals. Wide-angle shots of turtles against the aircraft wreck components are a classic Aruba composition. Natural light is good given the shallow depth.
 
 ---
-*Sources: [Happy Divers Aruba - Arashi Reef](https://happydiversaruba.com/diving-spots/arashi-reef/), [Divers Guide - Arashi Reef](https://www.divers-guide.com/en/arashi-reef), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/). Last updated 2026-05-17.*
+*Sources: [Happy Divers Aruba - Arashi Reef](https://happydiversaruba.com/diving-spots/arashi-reef/), [Divers Guide - Arashi Reef](https://www.divers-guide.com/en/arashi-reef), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/). Last updated 2026-05-24.*

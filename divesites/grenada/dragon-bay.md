@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Dragon Bay
 
-A boulder-and-coral reef dive on Grenada's southern tip near Point Salines — a complex underwater landscape of volcanic boulders and ridges that rewards slow, patient exploration with morays, nurse sharks, and excellent octopus encounters.
+A reef dive on Grenada's southern tip featuring a small tug boat wreck in the shallows, a steep slope descending to 28 metres, and the volcanic rock and coral mix that characterises Grenada's southern coast.
 
 ## Overview
 
-Dragon Bay's rocky coastline continues underwater in the form of large boulders and rocky ridges covered with coral growth. The terrain descends from the shallows to approximately 18 metres, and the mix of volcanic rock, hard corals, and sandy clearings creates diverse micro-habitats within a relatively compact area. The rocky relief provides structure for large numbers of reef fish and invertebrates, and the bay's orientation offers protection from prevailing swells. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
+Dragon Bay lies near Point Salines at the southern end of Grenada. A highlight of the site is a small tug boat wreck in the shallows, which sits before the main slope descends southward toward Molinere Point. Sand channels and deep fissures punctuate the angular volcanic rock in the shallows, while the deeper sections feature hard corals, gorgonians, and black coral on the steeper slope. The dive profile runs from the shallows to approximately 28 metres (90 feet). The bay's orientation provides reasonable protection from swell. ECO Dive Grenada notes this as a site suitable for all levels due to the range of depths available. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–18 m |
+| Depth Range | 5–28 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,11 +33,11 @@ Dragon Bay's rocky coastline continues underwater in the form of large boulders 
 
 ## Marine Life
 
-The boulder terrain at Dragon Bay provides abundant shelter for large morays — spotted and green morays are commonly found in rock crevices. Nurse sharks rest between boulders at depth. Hawksbill turtles are present throughout the site, frequently encountered on the coral sections between rocks. The open sandy patches attract southern stingrays, and schools of French grunts congregate around the larger boulder formations. Octopuses are particularly well-represented at this site.
+The rocky structure and tug boat wreck provide habitat for groupers, angelfish, and moray eels. The slope below supports hard corals and gorgonians with associated reef fish communities including French grunts, parrotfish, and damselfish. Hawksbill turtles are present in the site area. Note: previous descriptions attributed specific species (nurse sharks, octopus) as "particularly well-represented" without source confirmation — marine life at Dragon Bay follows the general Grenada southwest reef community.
 
 ## Dive Profile
 
-Navigate from the boat to the rocky reef, descending through the boulder field to the sandy bottom at 18 metres. The complex terrain invites slow exploration — look into each crevice and under each boulder overhang. The dive rewards patience more than speed. Ascend through the shallower reef zone for a colourful safety stop.
+Begin at the tug boat wreck in the shallows, then follow the slope southward toward Molinere Point. The volcanic rock and sand channels in the shallows give way to harder coral growth at mid-depth and gorgonians on the deeper face at 20–28 metres. The site can be dived at any depth within its range, making it suitable for a range of skill levels and tank sizes. Ascend through the shallower zone for the safety stop.
 
 ## Entry and Exit
 
@@ -61,4 +61,4 @@ Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nur
 - Best combined with Valley of Whales for a two-tank southern Grenada day
 
 ---
-*Sources: [Carib Dive Guide - Grenada](https://www.caribdiveguide.com/grenada.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Dive Grenada](https://divegrenada.com/), [Scuba Diving Magazine - Grenada](http://www.scubadiving.com/travel/caribbean-atlantic/grenada-and-grenadines), [PADI - Diving in Grenada](https://www.padi.com/diving-in/grenada/). Last updated 2026-04-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-05-24.*

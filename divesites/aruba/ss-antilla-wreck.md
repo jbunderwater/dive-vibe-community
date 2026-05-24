@@ -64,4 +64,4 @@ Some interior sections are considered unsafe to enter due to structural deterior
 The hull's scale and the density of coral encrustation make this one of Aruba's best wide-angle subjects. A torch reveals brilliant colours in the cup corals and tube sponges on interior surfaces. Glassy sweeper schools filling doorways and portholes are classic composition subjects.
 
 ---
-*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-05-24.*

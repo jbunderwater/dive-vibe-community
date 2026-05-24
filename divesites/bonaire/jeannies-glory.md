@@ -59,4 +59,4 @@ Standard southern Bonaire reef photography.
 Salt City is to the north. Larry's Lair is also nearby. Alice in Wonderland is to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [PADI – Bonaire Sites](https://www.padi.com/dive-site/bonaire/), [Divers-Guide – Jeannie's Glory](https://www.divers-guide.com/en/dive-spots/jeannies-glory). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [PADI – Bonaire Sites](https://www.padi.com/dive-site/bonaire/), [Divers-Guide – Jeannie's Glory](https://www.divers-guide.com/en/dive-spots/jeannies-glory). Last updated 2026-05-24.*

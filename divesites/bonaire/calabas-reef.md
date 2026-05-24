@@ -61,4 +61,4 @@ Standard Bonaire reef photography. The inner reef in good morning light is parti
 18th Palm is just north. Windsock and Bachelor's Beach are in the same central corridor. Chachacha Beach is nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Calabas Reef](https://www.divers-guide.com/en/dive-spots/calabas-reef), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Calabas Reef](https://www.divers-guide.com/en/dive-spots/calabas-reef), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Shakem Wreck
 
-A deliberately scuttled Grenadian fishing and cargo vessel resting at 33 metres in the waters southwest of St. George's — a mid-sized artificial reef wreck that has developed a productive marine community and offers a deeper complement to Grenada's shallow wreck dives.
+A 55-metre (180-foot) freighter that sank in a storm in May 2001 when her cement cargo shifted and overwhelmed her pumps — now upright at 32 metres off Quarantine Point, with intact cargo holds, a spiral staircase, and extraordinary preserved details that only an accidental sinking can leave.
 
 ## Overview
 
-The Shakem was a working vessel operating in Grenadian waters that was sunk as an artificial reef to create dive habitat off the southwest coast. The vessel rests upright on the sandy bottom at 33 metres, making this an advanced dive with limited bottom time within recreational NDL limits. The wreck has been in place long enough to develop meaningful sponge and coral encrustation on the superstructure and hull surfaces, and the structure now serves as a habitat aggregator for the surrounding reef fish community. This is one of a cluster of southwest Grenada wreck sites and is typically dived by operators based at True Blue Bay. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+The MV Shakem was a working cargo vessel that transported cement between Grenada and Trinidad. In May 2001 she was caught in heavy seas; the bags of cement in the hold shifted, and as seawater mixed with the loose cement in the bilge the mixture blocked the pumps. She sank within sight of St. George's harbour, settling upright on a sandy bottom at approximately 32 metres. Because the sinking was rapid and unplanned, the vessel's instruments, furniture, engine room equipment, and cargo were left largely intact. The bags of cement in the holds have since solidified — the bags have long disintegrated, leaving stacked "cement pillows" in organised rows as if ready for offloading. The wreck has developed good gorgonian sea fan growth and soft coral encrustation across the superstructure. Visibility averages 12–15 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ The Shakem was a working vessel operating in Grenadian waters that was sunk as a
 
 ## Marine Life
 
-The Shakem's hull and superstructure have developed a typical Grenada deep-reef community. Large groupers — primarily tiger groupers and nassau groupers — occupy the interior compartments and engine room sections. Schools of glassy sweepers and soldierfish fill the more sheltered interior spaces. Spotted moray eels are found throughout the hull structure. Caribbean reef sharks patrol the open water around the wreck. The hull exterior carries a good coat of encrusting sponges and orange cup corals, with some black coral growth on the deeper sections.
+The Shakem's hull supports a developing reef community. The superstructure and exterior surfaces carry black gorgonians, white hydroids, and a variety of sponges. Green moray eels occupy crevices in the hull structure. The wreck's many intact interior spaces — including the spiral staircase and cargo holds with their cement pillows — shelter fish communities typical of enclosed wreck habitat. Note: specific species claims (tiger groupers, Nassau groupers, Caribbean reef sharks) were not confirmed by primary sources at this specific site and have not been attributed here.
 
 ## Dive Profile
 
-Descent directly to the wreck at 33 metres, limiting bottom time to the NDL constraint at this depth — typically 20–25 minutes on a single tank. Prioritise the superstructure and interior compartments, which are accessible from deck openings, before ascending to the shallower deck and superstructure sections at 25–28 metres. Safety stop at 5 metres on the ascent line.
+Descent directly to the wreck at approximately 32 metres, limiting bottom time to the NDL constraint at this depth — typically 20–25 minutes on a single tank. Priority targets include the bridge, captain's quarters, engine room, spiral staircase, and the cargo holds with their distinctive cement pillows. Ascend to the shallower deck and superstructure sections before the safety stop. Safety stop at 5 metres on the ascent line.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat dive from True Blue Bay operators, typically a 15–20 minute run from the 
 
 ## Tips and Recommendations
 
-The 33-metre maximum depth limits bottom time significantly — plan the dive with a conservative turnaround time and ensure a full 3-minute safety stop. The wreck is best dived early in a trip sequence, before accumulated nitrogen from shallower dives reduces available NDL time at depth. Carry a torch — the interior spaces are dark and the most interesting marine life is sheltered inside the hull.
+The ~32-metre maximum depth limits bottom time significantly — plan the dive with a conservative turnaround time and ensure a full 3-minute safety stop. The wreck is best dived early in a trip sequence, before accumulated nitrogen from shallower dives reduces available NDL time at depth. Carry a torch — the interior spaces are dark, and the cement cargo in the holds is most dramatic with good illumination. The spiral staircase and preserved bridge instruments are specific highlights worth planning time for.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ The Shakem offers a more intimate wreck photography experience than the Bianca C
 - Typically combined with the Bianca C or Veronica L for multi-wreck dive trips
 
 ---
-*Sources: [Carib Dive Guide - Grenada](https://www.caribdiveguide.com/grenada.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Dive Grenada](https://divegrenada.com/), [Scuba Diving Magazine - Grenada](http://www.scubadiving.com/travel/caribbean-atlantic/grenada-and-grenadines), [PADI - Diving in Grenada](https://www.padi.com/diving-in/grenada/). Last updated 2026-04-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Shake'm Dive Site](https://www.padi.com/dive-site/grenada/shakem/), [Freedom Tour Travel - Wrecks of Grenada's South Coast](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-05-24.*

@@ -55,4 +55,4 @@ Shore entry from the resort beach via the Coral Divers pier. Non-resort guests s
 A surface marker buoy is required when ascending. Boat traffic from Coral Divers operations is present. The resort setting provides readily available emergency support if needed.
 
 ---
-*Sources: [DiveCuracao.info — Rif Sint Marie](https://www.divecuracao.info/dive/curacao-diving-guide/rif-sint-marie/), [Curacao.com — Rif Sint Marie](https://www.curacao.com/en/activity/rif-sint-marie), [PADI — Rif St Marie Dive Site](https://www.padi.com/dive-site/curacao/rif-st-marie/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Rif Sint Marie](https://www.divecuracao.info/dive/curacao-diving-guide/rif-sint-marie/), [Curacao.com — Rif Sint Marie](https://www.curacao.com/en/activity/rif-sint-marie), [PADI — Rif St Marie Dive Site](https://www.padi.com/dive-site/curacao/rif-st-marie/). Last updated 2026-05-24.*

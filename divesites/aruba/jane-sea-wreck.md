@@ -62,4 +62,4 @@ Medium to strong current is documented at this site; it is not a beginner site d
 Wide-angle shots of the gorgonian-covered hull are a highlight, especially on night dives when the orange cup corals are in bloom. Silversides clouds around the stern make for compelling schooling-fish compositions.
 
 ---
-*Sources: [Pure Diving Aruba - Jane C](https://www.puredivingaruba.com/diving-aruba/wrecks/jane-c/), [Willemsubmerged - A Closer Look at the Jane Sea](https://willemsubmerged.wordpress.com/2008/05/18/a-closer-look-at-the-jane-sea/), [DreamWrecks](https://dreamwrecks.com/jane-sea-aruba-wreck). Last updated 2026-05-17.*
+*Sources: [Pure Diving Aruba - Jane C](https://www.puredivingaruba.com/diving-aruba/wrecks/jane-c/), [Willemsubmerged - A Closer Look at the Jane Sea](https://willemsubmerged.wordpress.com/2008/05/18/a-closer-look-at-the-jane-sea/), [DreamWrecks](https://dreamwrecks.com/jane-sea-aruba-wreck). Last updated 2026-05-24.*

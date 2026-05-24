@@ -62,4 +62,4 @@ Very low-hazard site. Watch for sea urchins on the bank wall section. Be aware o
 Excellent natural-light macro site — the shallow depth and clear water means no strobe is needed for many subjects. The barrel sponges and coral heads photograph well in wide-angle. A dedicated macro lens rewards patient divers.
 
 ---
-*Sources: [Divers Guide - Malmok Reef](https://www.divers-guide.com/en/malmok-reef), [Zentacle - Malmok Beach](https://www.zentacle.com/Beach/543/malmok-beach), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-17.*
+*Sources: [Divers Guide - Malmok Reef](https://www.divers-guide.com/en/malmok-reef), [Zentacle - Malmok Beach](https://www.zentacle.com/Beach/543/malmok-beach), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-24.*

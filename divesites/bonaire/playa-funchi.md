@@ -61,4 +61,4 @@ The halocline effect can create unusual refraction photographs. The reef below i
 Playa Benge, Bisé Morto, and Boka Slagbaai are other park sites nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Funchi](https://www.divers-guide.com/en/dive-spots/playa-funchi), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Funchi](https://www.divers-guide.com/en/dive-spots/playa-funchi), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

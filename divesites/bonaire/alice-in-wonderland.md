@@ -62,4 +62,4 @@ Wide-angle works well for the large sponge formations and fan corals on the oute
 Pink Beach lies a short distance south along the same coast. English Garden and Tori's Reef are nearby. Hilma Hooker and Angel City are accessible by driving a short distance north.
 
 ---
-*Sources: [InfoBonaire – Alice in Wonderland](https://infobonaire.com/alice-in-wonderland/), [Divers-Guide – Alice in Wonderland](https://www.divers-guide.com/en/alice-in-wonderland), [Beyond the Corals Bonaire](https://beyondthecorals.com/bonaire/dive-sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire – Alice in Wonderland](https://infobonaire.com/alice-in-wonderland/), [Divers-Guide – Alice in Wonderland](https://www.divers-guide.com/en/alice-in-wonderland), [Beyond the Corals Bonaire](https://beyondthecorals.com/bonaire/dive-sites/). Last updated 2026-05-24.*

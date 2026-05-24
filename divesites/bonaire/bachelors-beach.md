@@ -61,4 +61,4 @@ The coral nursery frames are an unusual photographic subject. Standard reef phot
 Windsock and Corporal Meiss are nearby to the north. Calabas Reef and 18th Palm are to the south.
 
 ---
-*Sources: [Beyond the Corals Bonaire – Bachelor's Beach](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Bachelor's Beach](https://www.divers-guide.com/en/dive-spots/bachelors-beach). Last updated 2026-05-18.*
+*Sources: [Beyond the Corals Bonaire – Bachelor's Beach](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Bachelor's Beach](https://www.divers-guide.com/en/dive-spots/bachelors-beach). Last updated 2026-05-24.*

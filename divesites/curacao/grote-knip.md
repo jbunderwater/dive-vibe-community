@@ -55,4 +55,4 @@ Sandy beach entry with good footing. Some coral rubble may be present near the w
 Carry a surface marker buoy for the return across the sandy plateau. Occasional fishing from the shore and boat traffic in the outer bay require awareness. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Playa Kenepa Grandi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-grandi/), [Divers-Guide.com — Playa Abou/Grote Knip](https://www.divers-guide.com/en/playa-abou-grote-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Kenepa Grandi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-grandi/), [Divers-Guide.com — Playa Abou/Grote Knip](https://www.divers-guide.com/en/playa-abou-grote-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-24.*

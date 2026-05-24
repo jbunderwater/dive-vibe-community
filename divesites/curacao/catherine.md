@@ -58,4 +58,4 @@ The wreck interior is limited and should be entered carefully. Surge can affect 
 *No historical information found regarding vessel name origin, sinking date, or circumstances. The name "Catherine" is the OSM-assigned designation; the vessel's own history is undocumented in available sources.*
 
 ---
-*Sources: [DiveCuracao.info — Black Sand Beach](https://www.divecuracao.info/dive/curacao-diving-guide/black-sand-beach/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI — Black Sand Wreck](https://www.padi.com/dive-site/curacao/black-sand-wreck-2/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Black Sand Beach](https://www.divecuracao.info/dive/curacao-diving-guide/black-sand-beach/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI — Black Sand Wreck](https://www.padi.com/dive-site/curacao/black-sand-wreck-2/). Last updated 2026-05-24.*

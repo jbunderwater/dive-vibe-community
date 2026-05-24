@@ -59,4 +59,4 @@ Coral rubble entry — booties or reef shoes essential; sandals insufficient. En
 Remote site with no immediate emergency access. Dive conservatively and inform someone of your plans. The plantation gate closes at specific times — confirm closing hours before visiting.
 
 ---
-*Sources: [DiveCuracao.info — Playa Largu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-largu/), [Divers-Guide.com — Playa Largu](https://www.divers-guide.com/en/playa-largu), [PADI — Playa Largu Dive Site](https://www.padi.com/dive-site/curacao/playa-largu/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Largu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-largu/), [Divers-Guide.com — Playa Largu](https://www.divers-guide.com/en/playa-largu), [PADI — Playa Largu Dive Site](https://www.padi.com/dive-site/curacao/playa-largu/). Last updated 2026-05-24.*

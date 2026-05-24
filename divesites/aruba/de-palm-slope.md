@@ -21,7 +21,7 @@ De Palm Island is a small barrier island accessible by short boat transfer from 
 
 The sunken Cessna 414 twin-engine aircraft adds an artificial structure that has become colonised by reef organisms. The slope's exposure to current means it qualifies as a drift dive on many days — one of the few genuine drift opportunities in Aruba's generally calm west and south coast waters.
 
-Multiple sources document nurse sharks resting in sandy patches beside the aircraft and reef base, and great barracuda are noted as a consistent feature of the site. Moray eels occupy crevices in the coral slope.
+Local operator sources document nurse sharks resting in sandy patches beside the aircraft and reef base, and great barracuda are noted as a consistent feature of the site. Moray eels occupy crevices in the coral slope.
 
 ## Site Information
 
@@ -64,4 +64,4 @@ Drift diving conditions require proper SMB deployment skills. Divers unfamiliar 
 The artificial Cessna wreck surrounded by coral growth is a compact, well-lit subject. Drift conditions mean fish behaviour is natural — barracuda and other species are less disturbed. Nurse sharks resting on the sand beside the structure make approachable photographic subjects.
 
 ---
-*Sources: [Duikersgids - De Palm Slope](https://www.duikersgids.nl/en/de-palm-slope), [Aruba Dive4Life - Dive Sites](https://arubadive4life.com/divesites/), [In-Aruba.com - Aruba Dive Sites](https://www.in-aruba.com/arubadivesites). Last updated 2026-05-17.*
+*Sources: [Duikersgids - De Palm Slope](https://www.duikersgids.nl/en/de-palm-slope), [Aruba Dive4Life - Dive Sites](https://arubadive4life.com/divesites/), [In-Aruba.com - Aruba Dive Sites](https://www.in-aruba.com/arubadivesites). Last updated 2026-05-24.*

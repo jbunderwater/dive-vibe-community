@@ -57,4 +57,4 @@ Beach entry from Playa Wachi. The SAMI Scuba Center adjacent to the site offers 
 A surface marker buoy is mandatory due to boat traffic. For drift dives, arrange pick-up logistics in advance. The remote area has limited facilities.
 
 ---
-*Sources: [DiveCuracao.info — Snake Bay](https://www.divecuracao.info/curacao-dive-travel-guide/curacao-diving-guide/dive-and-snorkel-guide/snake-bay-slaagbaai/), [Curacao.com — Boka Sami, Snake Bay and Kaap Mal Meeuw](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Zentacle — Snake Bay](https://www.zentacle.com/Beach/1368/snake-bay). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Snake Bay](https://www.divecuracao.info/curacao-dive-travel-guide/curacao-diving-guide/dive-and-snorkel-guide/snake-bay-slaagbaai/), [Curacao.com — Boka Sami, Snake Bay and Kaap Mal Meeuw](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Zentacle — Snake Bay](https://www.zentacle.com/Beach/1368/snake-bay). Last updated 2026-05-24.*

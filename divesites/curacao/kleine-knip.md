@@ -55,4 +55,4 @@ Straightforward sandy beach entry. The beach has some coral rubble near the wate
 The long sand swim means you are at some distance from shore when you reach the wall. Carry a surface marker buoy. Fishing from shore occasionally occurs — be aware of lines in the water. A surface marker buoy is mandatory.
 
 ---
-*Sources: [DiveCuracao.info — Playa Kenepa Chikitu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-chikitu/), [Divers-Guide.com — Kleine Knip](https://www.divers-guide.com/en/kenepa-kleine-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Kenepa Chikitu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-chikitu/), [Divers-Guide.com — Kleine Knip](https://www.divers-guide.com/en/kenepa-kleine-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-24.*

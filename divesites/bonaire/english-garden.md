@@ -57,4 +57,4 @@ Nearby sites include Pink Beach, Alice in Wonderland, and Margate Bay. All are a
 - **Last Updated**: 2025-06-24
 
 ---
-*Description based on regional diving characteristics of the southern Bonaire fringing reef. No site-specific sources found — "English Garden" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; the OSM coordinates place it on the southern coast near Pink Beach and Tori's Reef. Possibly an informal or local name. Last updated 2026-05-18.*
+*Description based on regional diving characteristics of the southern Bonaire fringing reef. No site-specific sources found — "English Garden" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; the OSM coordinates place it on the southern coast near Pink Beach and Tori's Reef. Possibly an informal or local name. Last updated 2026-05-24.*

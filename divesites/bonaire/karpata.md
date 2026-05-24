@@ -63,4 +63,4 @@ One of Bonaire's most photogenic reef-wall sites. The buttresses and sand channe
 La Denia's Leap is immediately south and begins a northward drift toward Karpata — making Karpata the natural exit for that dive. 1000 Steps and Weber's Joy / Witches Hut lie further south along the same northwest coast road.
 
 ---
-*Sources: [Divers-Guide – Karpata](https://www.divers-guide.com/en/karpata), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html), [Johnny Africa – Bonaire Dive Guide](https://johnnyafrica.com/bonaire-travel-diving-guide/). Last updated 2026-05-18.*
+*Sources: [Divers-Guide – Karpata](https://www.divers-guide.com/en/karpata), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html), [Johnny Africa – Bonaire Dive Guide](https://johnnyafrica.com/bonaire-travel-diving-guide/). Last updated 2026-05-24.*

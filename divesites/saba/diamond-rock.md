@@ -3,7 +3,7 @@ name: Diamond Rock
 lat: 17.63
 lng: -63.2567
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 32
 entryType: boat
 siteType: pinnacle
 ref: null

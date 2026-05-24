@@ -59,4 +59,4 @@ Standard Bonaire reef photography.
 Jeannie's Glory is nearby to the south. Aquarius is to the north. Hilma Hooker and Salt Pier bracket this corridor.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [PADI – Bonaire Sites](https://www.padi.com/dive-site/bonaire/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [PADI – Bonaire Sites](https://www.padi.com/dive-site/bonaire/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-24.*

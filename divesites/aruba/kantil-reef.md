@@ -64,4 +64,4 @@ The primary hazard is unintentional depth excursion. Dive with a depth gauge or 
 The wall face and drop-off offer strong wide-angle subjects with depth perspective. Look for macro opportunities in the coral crevices and sponge formations on the wall.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/). Last updated 2026-05-17.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/). Last updated 2026-05-24.*

@@ -57,4 +57,4 @@ Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible alon
 - **Last Updated**: 2025-06-24
 
 ---
-*Description based on regional diving characteristics of the central west-coast fringing reef belt near Palu Lechi. No site-specific sources found — "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; it may be a local or informal name for a section of the adjacent house reefs. Last updated 2026-05-18.*
+*Description based on regional diving characteristics of the central west-coast fringing reef belt near Palu Lechi. No site-specific sources found — "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; it may be a local or informal name for a section of the adjacent house reefs. Last updated 2026-05-24.*

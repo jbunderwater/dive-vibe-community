@@ -61,4 +61,4 @@ Good reef photography in clear northern Bonaire water. Tarpon in the shallows ar
 Karpata is to the north. La Denia's Leap is also nearby. Jeff Davis Memorial and Weber's Joy are to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Scuba Diving Smiles – Bonaire Northern Sites (Ol' Blue)](https://www.scuba-diving-smiles.com/bonaire-diving.html), [Divers-Guide – Tolo](https://www.divers-guide.com/en/dive-spots/tolo). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Scuba Diving Smiles – Bonaire Northern Sites (Ol' Blue)](https://www.scuba-diving-smiles.com/bonaire-diving.html), [Divers-Guide – Tolo](https://www.divers-guide.com/en/dive-spots/tolo). Last updated 2026-05-24.*
