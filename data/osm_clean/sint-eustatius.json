@@ -9,10 +9,12 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, Golden Rock Resort, Scubaqua"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Vessel is approximately 100m (327ft) long per DAN Alert Diver and Divertrek sources. Sunk July 25, 2003 (not January 2003 as previously stated). Built 1954 in Naples, Italy. Former AT&T cable-laying ship CS Salernum. Purchased by Statia for $1 USD."
+    }
   },
   {
     "name": "Anchor Point South",
@@ -24,10 +26,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Dive operators, historical anchor from 1750"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Anchor Point confirmed on leeward coast with 18th-century French anchor c.1750-1775 per Divertrek. Max depth approximately 60ft/18m."
+    }
   },
   {
     "name": "Blue Bead Hole",
@@ -39,25 +43,29 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, Scuba Diving Magazine, Golden Rock Resort"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Confirmed shallow shore dive 55ft/17m max per Divertrek. Venetian cobalt glass trade beads. Protected by STENAPA. About 100 beads found yearly per Divertrek."
+    }
   },
   {
     "name": "Stenapa Reef",
     "lat": 17.489,
     "lon": -63.0031,
-    "depth": 6,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "STENAPA Marine Park, Golden Rock Resort"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,myscubadivinggearguide.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "CORRECTED: Golden Rock Dive Center describes this as a modern wreck/artificial reef at 20m/66ft featuring a tugboat, barge, and hull. Not a natural shallow reef as previously listed (6m incorrect). Large schools of reef fish, angel fish, garden eels, Caribbean stingrays confirmed."
+    }
   },
   {
     "name": "Hangover",
@@ -69,10 +77,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Golden Rock Resort, Dive operator reports"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Golden Rock confirms: coral-encrusted lava flow, 10-15m/30-45ft range, maze of lava flows with overhangs. Type is wall/overhang on volcanic lava."
+    }
   },
   {
     "name": "Crooks Castle",
@@ -84,25 +94,29 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, Golden Rock Resort, blue bead site"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Shallow reef below historic fort with 17th-18th century artifacts (anchors, ballast stones, cannon). Protected by STENAPA."
+    }
   },
   {
     "name": "Double Wreck",
     "lat": 17.4793,
     "lon": -62.9945,
-    "depth": 17,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, Golden Rock Resort, historical 1700s wrecks"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,divertrek.com,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Golden Rock confirms: archaeological site, 18m/60ft depth, beginner level, 2 min from shore. Remains of two 18th-century wooden merchant ships (hulls gone, anchors/ballast/cannon remain). Flying gurnards, stingrays confirmed by Divertrek."
+    }
   },
   {
     "name": "Nursing Station",
@@ -114,10 +128,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, Golden Rock Resort, wall reef with 18th-19th century anchors"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Golden Rock confirms: coral-encrusted lava flow, 19m/63ft, beginner-intermediate. Nurse sharks under overhangs confirmed. Lettuce sea slugs in sandy areas noted by Golden Rock."
+    }
   },
   {
     "name": "Five Fingers South",
@@ -129,10 +145,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "PADI, lava bombs with macro diving opportunities"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Five volcanic lava fingers extending from southern coast. Max 20m. Spur-and-groove formations with sandy channels. Intermediate due to southern exposure and potential current."
+    }
   },
   {
     "name": "The Ledges",
@@ -144,9 +162,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Golden Rock Resort, STENAPA Marine Park"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Terraced volcanic wall on northern leeward coast. Series of ledges 8-15m with overhangs colonized by cup corals and sponges."
+    }
   }
 ]

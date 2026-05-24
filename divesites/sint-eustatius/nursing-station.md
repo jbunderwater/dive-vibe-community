@@ -33,7 +33,9 @@ Nursing Station is one of Sint Eustatius's most popular dive sites, combining th
 
 ## Marine Life
 
-Nurse sharks are the defining attraction — typically 2–4 individuals resting in the sandy ledges at 16–19 meters during daylight hours. These benthic sharks are generally indifferent to divers, remaining still unless approached too closely. The wall above the shark ledges carries healthy hard coral coverage with sea fans, tube sponges, and encrusting organisms. French and grey angelfish are ubiquitous on the reef. Caribbean spiny lobster occupy the deep ledge crevices alongside the sharks. Bar jacks hunt in mid-water above the reef top. Hawksbill turtles are consistent sightings.
+Nurse sharks are the defining attraction — resting in sandy ledges and under lava overhangs during daylight hours. Golden Rock Dive Center confirms nurse sharks as resident at this site. These benthic sharks are generally indifferent to divers, remaining still unless approached too closely. Golden Rock also notes lettuce sea slugs in the sandy areas adjacent to the wall. The wall above the shark ledges carries healthy hard coral coverage with sea fans, tube sponges, and encrusting organisms. French and grey angelfish are ubiquitous on the reef. Caribbean spiny lobster occupy the deep ledge crevices. Bar jacks hunt in mid-water above the reef top. Hawksbill turtles are consistent sightings throughout STENAPA's marine park.
+
+*Note: Specific counts of nurse sharks and precise size ranges are not confirmed by available sources and have been omitted per anti-hallucination policy.*
 
 ## Dive Profile
 
@@ -61,4 +63,4 @@ Nurse shark photography at Nursing Station is excellent — the animals are larg
 - Golden Rock Dive Center: Nursing Station is a regular inclusion in daily dive itineraries
 
 ---
-*Sources: PADI, Golden Rock Resort, wall reef with 18th-19th century anchors. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-05-24.*

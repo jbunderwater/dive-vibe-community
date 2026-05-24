@@ -61,4 +61,4 @@ The cobalt-blue beads on white sand make striking macro subjects. A close-up len
 - SECAR: St. Eustatius Center for Archaeological Research — academic context for the bead deposits
 
 ---
-*Sources: PADI, Scuba Diving Magazine, Golden Rock Resort. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [We Are Statia — Diving](https://wearestatia.com/discover-the-depths-diving-in-st-eustatius/). Last updated 2026-05-24.*

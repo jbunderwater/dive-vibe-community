@@ -61,4 +61,4 @@ Cannon lying in the sand with coral and sponge growth are the defining images of
 - SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
 ---
-*Sources: PADI, Golden Rock Resort, historical 1700s wrecks. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-05-24.*

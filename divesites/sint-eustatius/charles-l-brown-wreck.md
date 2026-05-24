@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Charles L. Brown Wreck
 
-A 130-metre cable-laying vessel deliberately sunk in 2003 as an artificial reef, now heavily colonised by corals and sponges and home to large resident groupers and moray eels.
+A 100-metre (327-foot) cable-laying vessel deliberately sunk on July 25, 2003 as an artificial reef, now heavily colonised by corals and sponges and home to large resident groupers and moray eels.
 
 ## Overview
 
-The Charles L. Brown is a large cable ship deliberately sunk by STENAPA in January 2003 to create an artificial reef. The vessel measures approximately 130 meters in length and sits upright on the sandy bottom at 29 meters, with the highest deck structures reaching to around 15 meters below the surface. In the two decades since sinking, the ship has been extensively colonised by hard and soft corals, tube sponges, and encrusting organisms, transforming it into a fully functioning artificial reef that rivals Statia's natural sites in biodiversity. The wreck is one of Sint Eustatius's headline dive attractions and the largest diveable structure in the island's marine park. Visibility is typically 20–30 meters. Multiple dives are required to fully explore the structure.
+The Charles L. Brown is a former AT&T cable-laying ship (built 1954 in Naples, Italy as CS Salernum) deliberately sunk on July 25, 2003 to create an artificial reef. The vessel measures approximately 100 meters (327 feet) in length — sources consistently report 320–327 feet; the "130 meters" figure is incorrect and has been removed. The ship was purchased by Sint Eustatius for a symbolic $1 USD, cleaned of contaminants, and scuttled by STENAPA. It sits upright on the sandy bottom at 29 meters (100 feet), with the highest deck structures reaching to around 15–20 meters below the surface. In the more than two decades since sinking, the ship has been extensively colonised by hard and soft corals, tube sponges, and encrusting organisms, transforming it into a fully functioning artificial reef that rivals Statia's natural sites in biodiversity. The wreck is one of Sint Eustatius's headline dive attractions and the largest diveable structure in the island's marine park. Visibility is typically 20–30 meters. Multiple dives are required to fully explore the structure.
 
 ## Site Information
 
@@ -45,7 +45,7 @@ Boat dive with permanent mooring maintained by STENAPA. Access via Golden Rock D
 
 ## Tips and Recommendations
 
-The Charles L. Brown rewards multiple visits — the 130-meter vessel is impossible to fully explore in a single dive. Plan the first dive as a deck overview from stern to bow before targeting specific areas. A torch is essential for the engine room and interior sections. The wreck photographs best in morning light when the eastern side is illuminated. Carry a DSMB for the open-water ascent at the bow end of the wreck.
+The Charles L. Brown rewards multiple visits — the 100-meter vessel is impossible to fully explore in a single dive. Plan the first dive as a deck overview from stern to bow before targeting specific areas. A torch is essential for the engine room and interior sections. The wreck photographs best in morning light when the eastern side is illuminated. Carry a DSMB for the open-water ascent at the bow end of the wreck.
 
 ## Safety Considerations
 
@@ -57,8 +57,8 @@ The scale of the vessel makes wide-angle the primary lens choice — fisheye or 
 
 ## Additional Resources
 
+- Golden Rock Dive Center: goldenrockdive.com — wreck-specific guided dives with local expert knowledge
 - STENAPA: stenapafoundation.com — dive site information and the wreck's sinking history
-- Golden Rock Dive Center: wreck-specific guided dives with local expert knowledge
 
 ---
-*Sources: PADI, Golden Rock Resort, Scubaqua. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-05-24.*

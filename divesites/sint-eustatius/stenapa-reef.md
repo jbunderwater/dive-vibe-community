@@ -3,9 +3,9 @@ name: Stenapa Reef
 lat: 17.489
 lng: -63.0031
 difficulty: Beginner
-maxDepth: 6
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,52 +13,54 @@ addedBy: osm_import
 
 # Stenapa Reef
 
-An ultra-shallow beginner reef named for the conservation foundation that manages Sint Eustatius's marine park — a snorkel-depth site with good coral coverage in the heart of the protected leeward zone.
+An artificial reef complex created by STENAPA — consisting of a tugboat, barge, and ship hull deliberately sunk at 20 meters — now heavily colonised and home to large schools of reef fish, angelfish, garden eels, and Caribbean stingrays.
 
 ## Overview
 
-Stenapa Reef is named in honour of the Sint Eustatius National Parks Foundation (STENAPA), which has managed Statia's marine protected area since the late 1990s. The site is one of the shallowest in the marine park — a maximum of 6 meters means it is accessible to beginner divers, snorkellers, and open water students alike. The reef is in a central position on the leeward coast and has benefited from decades of marine park protection and monitoring. Hard coral coverage is good, with well-developed brain and star coral formations and scattered sea fan colonies. The site is frequently used as an introduction dive or snorkel excursion. Visibility is typically 15–25 meters. Water temperature is 26–28°C year-round.
+STENAPA Reef is an artificial reef complex on Sint Eustatius's leeward coast, created by the Sint Eustatius National Parks Foundation (STENAPA) to provide additional habitat for marine life and a productive dive site. The complex consists of multiple submerged structures — a tugboat, a barge, and a ship hull — sunk in close proximity at approximately 20 meters (66 feet). Over the years since sinking, these structures have become heavily encrusted with corals, sponges, and encrusting organisms, and now function as a fully productive reef system supporting diverse marine communities. The site is managed within STENAPA's marine protected area. Visibility is typically 15–25 meters.
+
+**Important correction:** Previous descriptions of this site as a natural shallow reef at 6 meters are incorrect. Golden Rock Dive Center, the primary local operator, confirms STENAPA Reef as a modern wreck/artificial reef at 20m/66ft.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 1–6 m |
+| Depth Range | 5–20 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Wreck (artificial reef complex) |
 | Visibility | 15–25 m |
 | Current | Light |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-The shallow reef hosts a representative Caribbean reef fish community. Blue tang, parrotfish, and sergeant majors are abundant. French angelfish and four-eye butterflyfish are common. The sea fan colonies host flamingo tongue snails. Sandy patches between coral formations have garden eels and the occasional southern stingray. Hawksbill turtles visit to feed on the sponges on the reef crest. Green sea turtles are also present in the shallow grass beds.
+Golden Rock Dive Center reports large schools of reef fish, angelfish, garden eels, and Caribbean stingrays as characteristic marine life at this site. The artificial structures provide complex hard substrate that supports encrusting corals and sponges, with resident populations of groupers and moray eels in the hull structures. The site is particularly productive for juvenile fish due to the shelter provided by the multiple structures.
 
 ## Dive Profile
 
-Descent from the boat to the reef crest at 2–3 meters. Exploration is lateral rather than vertical — the entire site is within 6 meters. Divers cover the reef crest and slopes, investigating coral formations and sandy clearings. The shallow depth allows very long dives (60+ minutes) before air or safety-stop considerations. Ideal for practicing buoyancy in a forgiving environment.
+Descent from the mooring to the structures at approximately 20 meters. Divers explore the tugboat, barge, and ship hull in sequence — each structure has its own character. The highest surfaces are accessible to shallow divers while the hulls at full depth require monitoring of NDL. The 5-minute boat ride from the Golden Rock pier means this site is frequently included in two-tank day programs as a first dive.
 
 ## Entry and Exit
 
-Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. Exit is standard boat pickup. The site is also accessible by snorkel from the same boat.
+Boat dive with STENAPA mooring. Access primarily via Golden Rock Dive Center. Entry by giant stride. The site is approximately 5 minutes by boat from Oranjestad pier.
 
 ## Tips and Recommendations
 
-Stenapa Reef is the ideal first dive on a Statia trip — the shallow depth and calm conditions allow divers to get comfortable before moving to deeper or more current-exposed sites. Excellent for new divers working on buoyancy. The flat, sunlit reef top is also ideal for checking camera exposure settings before a day of deeper, more complex diving.
+The multiple structures at STENAPA Reef reward a systematic approach — explore each hull separately and look for macro life in the encrusting growth on all surfaces. A torch is useful for examining interior areas of the hull structures. The garden eels in the sandy areas adjacent to the structures are best observed by approaching slowly and remaining still at the sand-structure interface.
 
 ## Safety Considerations
 
-The very shallow depth means surge can be felt at the surface when any swell is present — check conditions before diving. Fire coral is present on the reef crest. Avoid touching any reef structure. All STENAPA marine park rules apply at this named site. No collecting of any kind.
+The submerged structures present overhead environments — bring adequate lighting for any interior exploration and do not penetrate beyond light range without proper wreck training. All STENAPA marine park rules apply: no touching, no collecting. DSMB required for ascent.
 
 ## Photography
 
-Stenapa Reef's shallow depth delivers outstanding ambient natural light throughout the day. Fish portraits are excellent — the light is consistent and the fish are approachable. Flamingo tongue snails on sea fans are a classic Caribbean macro subject, easily found here. Wide-angle reef panoramas in 3–5 meters of water have a bright, blue-water quality difficult to achieve at deeper sites.
+The multiple structures offer diverse wide-angle subjects — hull profiles, schooling fish, and diver-scale compositions. The garden eels in adjacent sand require patience and a macro lens. Ambient light is good at 15–20 meters for natural-light photography of encrusting organisms.
 
 ## Additional Resources
 
-- STENAPA: stenapafoundation.com — the foundation that manages and monitors this reef
-- Golden Rock Dive Center: uses Stenapa Reef as an introduction and training site
+- Golden Rock Dive Center: goldenrockdive.com — primary operator; includes STENAPA Reef in regular dive programs
+- STENAPA: stenapafoundation.com — manages the marine park and artificial reef program
 
 ---
-*Sources: STENAPA Marine Park, Golden Rock Resort. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-05-24.*

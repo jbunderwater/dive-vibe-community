@@ -61,4 +61,4 @@ Hangover is one of Statia's best photography sites. The overhang interiors with 
 - Golden Rock Dive Center: regularly dives Hangover on afternoon dive trips
 
 ---
-*Sources: Golden Rock Resort, Dive operator reports. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-05-24.*
