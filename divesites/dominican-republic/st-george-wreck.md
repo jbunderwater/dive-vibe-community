@@ -26,8 +26,8 @@ The wreck lies on a sandy bottom with its deepest sections at 44 metres and the 
 - **Location**: Offshore Bayahibe, La Romana province, southeastern Dominican Republic (approximately 800 m from Coral Point Diving)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Advanced Open Water or equivalent required)
-- **Maximum Depth**: 44 metres (top of chimney at 15 metres; most of the wreck 25–40 metres)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 44 meters
 - **Typical Visibility**: 15–25 metres (50–80 feet)
 - **Current**: Variable; can be moderate
 - **Best Time**: May to November for generally calmer southern coast conditions

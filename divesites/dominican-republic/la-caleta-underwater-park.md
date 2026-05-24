@@ -25,9 +25,9 @@ Sources consistently describe the Hickory's dimensions as approximately 43–44 
 
 - **Location**: La Caleta, 20 km east of Santo Domingo, adjacent to Las Americas International Airport, southern Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (primary); also features anchor field reef area
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (Hickory wreck top at approximately 15 metres)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 metres (65–100 feet)
 - **Current**: Light to minimal in the sheltered bay
 - **Best Time**: Year-round; this sheltered southern location is accessible in most conditions

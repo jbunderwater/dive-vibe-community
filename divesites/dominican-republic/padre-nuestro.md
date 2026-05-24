@@ -28,10 +28,10 @@ The cave contains Taíno petroglyphs in the surrounding dry cave sections, which
 ## Site Information
 
 - **Location**: Parque Nacional del Este, near Bayahibe, southeastern Dominican Republic
-- **Entry Type**: Shore entry (45–60 minute trail approach required)
-- **Site Type**: Cave/cavern (freshwater)
-- **Difficulty Level**: Intermediate (cavern zone); cave certification required for deeper sections
-- **Maximum Depth**: 10 metres (main passage)
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: Excellent in undisturbed conditions; silt reduces visibility rapidly if the bottom is disturbed
 - **Current**: Mild flow possible, dependent on rainfall
 - **Best Time**: Year-round; access limited by trail conditions in heavy rain

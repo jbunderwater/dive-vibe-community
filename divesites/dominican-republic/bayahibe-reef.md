@@ -25,9 +25,9 @@ The site serves both first-time divers completing Discover Scuba experiences and
 
 - **Location**: Bayahibe village, southeast Dominican Republic (La Romana province)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 metres
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20–25 metres (65–80 feet)
 - **Current**: Minimal
 - **Best Time**: Year-round; consistently calm on this leeward coast

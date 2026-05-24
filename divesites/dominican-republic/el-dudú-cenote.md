@@ -26,10 +26,10 @@ El Dudú is a tourist attraction in addition to a dive site: ziplines and cliff 
 ## Site Information
 
 - **Location**: Near Cabrera (approximately 15 minutes east), north coast Dominican Republic
-- **Entry Type**: Shore entry (concrete stairs)
-- **Site Type**: Cave/cavern (freshwater)
-- **Difficulty Level**: Intermediate (cavern zone); cave certification required for tunnel sections beyond the cavern zone
-- **Maximum Depth**: 20 metres
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Exceeds 50 metres in undisturbed conditions
 - **Current**: Minimal; halocline creates an optical mixing effect
 - **Best Time**: Year-round

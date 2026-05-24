@@ -23,9 +23,9 @@ Punta Cana Reef lies off the eastern cape of the Dominican Republic, in the wate
 
 - **Location**: Punta Cana / Bávaro area, eastern Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 metres (50–80 feet)
 - **Current**: Light; occasional surge in trade wind conditions
 - **Best Time**: Mornings year-round; calmer Atlantic conditions from May to November

@@ -27,7 +27,7 @@ The wall is colonised with sea fans, black coral, encrusting sponges, and large 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ metres (working depth 15–30 metres)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10–20 metres (variable; 15–20 metres typical in quieter conditions)
 - **Current**: Light to moderate; occasional moderate current along the wall face
 - **Best Time**: Year-round; morning departures before cruise traffic best

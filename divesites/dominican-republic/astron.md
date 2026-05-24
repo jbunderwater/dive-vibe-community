@@ -26,10 +26,10 @@ The coordinate position (18.73°N, 68.45°W) places this wreck off the coast nea
 ## Site Information
 
 - **Location**: Off the coast of Punta Cana/Bávaro, northeastern Dominican Republic
-- **Entry Type**: Boat dive (some sources mention access by kayak from nearby beach)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (currents can be significant)
-- **Maximum Depth**: 16 metres (stern section)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: Sources report 15–20 metres in calm conditions
 - **Current**: Can be strong; dive in calm conditions only
 - **Best Time**: Calmer periods (typically winter months with settled Atlantic trade winds)

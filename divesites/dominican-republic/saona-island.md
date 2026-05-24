@@ -25,9 +25,9 @@ Day trips to Saona Island by speedboat from Bayahibe take approximately 45 minut
 
 - **Location**: Isla Saona, Cotubanamá National Park, southeastern Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 metres (65–100 feet)
 - **Current**: Minimal on the western leeward side; stronger on the eastern side
 - **Best Time**: Year-round; morning departures avoid peak tourist traffic

@@ -27,7 +27,7 @@ The vessel rests off the Bayahibe/Dominicus coast at a maximum depth of 12 metre
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–20 metres (50–65 feet)
 - **Current**: Minimal
 - **Best Time**: Year-round

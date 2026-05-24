@@ -29,7 +29,7 @@ The wreck sits with its deepest sections at 35–36 metres, placing it at the li
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35–36 metres
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 15+ metres; conditions vary by season
 - **Current**: Medium current expected; variable by season
 - **Best Time**: May to October when the Atlantic is calmer on the north coast
