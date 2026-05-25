@@ -23,7 +23,7 @@ North Seymour is a channel dive site between North Seymour Island and Baltra, wh
 
 - **Location**: Channel between North Seymour Island and Baltra, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)
@@ -59,4 +59,4 @@ Tidal channel currents are the primary hazard and can be significantly stronger 
 Eagle rays passing overhead against blue water make excellent wide-angle subjects. Resting whitetip reef sharks on sandy bottom are best shot with a wide-angle lens from a low angle, approaching slowly. Garden eels require a macro lens and extreme patience -- they are skittish and retract at the slightest disturbance. The shallow depth means excellent natural light, reducing dependence on strobes. The current can make steady shooting challenging -- brace against rocks (without damaging reef) or use higher shutter speeds to compensate. This is primarily a wide-angle site.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana – North Seymour Channel](https://scubaiguana.com/our-dive-center/daily-diving-tours/north-seymour-channel/), [The Portuguese Traveler – North Seymour & Mosquera](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera), [Galapagos Diving Day Trips – North Seymour Canal](https://www.galapagosdivingdaytrips.com/north-seymour-canal). Last updated 2026-05-25.*

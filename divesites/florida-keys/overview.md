@@ -39,4 +39,4 @@ The Florida Keys National Marine Sanctuary regulates anchoring, spearfishing, an
 - **Safety**: Standard tropical reef-diving precautions apply: sun and dehydration management, awareness of fire coral and sea urchins on the reef, and boat traffic at the surface. Verify the location of the nearest hyperbaric chamber before diving (Mariners Hospital, Tavernier).
 
 ---
-*Sources: [Florida Keys National Marine Sanctuary](https://floridakeys.noaa.gov/), [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-05-17.*
+*Sources: [Florida Keys National Marine Sanctuary](https://floridakeys.noaa.gov/), [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-05-25.*

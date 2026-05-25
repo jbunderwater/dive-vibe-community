@@ -3,7 +3,7 @@ name: Cabo Marshall
 lat: -0.0219
 lng: -91.1949
 difficulty: Advanced
-maxDepth: 22
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Cabo Marshall sits on the remote northeast coast of Isabela Island, accessible o
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Current**: Strong, often unpredictable
 - **Best Time**: June to November for manta encounters; hammerheads year-round
@@ -59,4 +59,4 @@ Strong and variable currents are the primary hazard. The exposed northeast coast
 Mantas at cleaning stations offer world-class wide-angle photography. Position yourself below and to the side of the station with a fisheye or ultra-wide lens, shooting upward to silhouette the mantas against the surface light. Strobes are useful for filling the manta's white belly pattern. Hammerhead schools off the wall require fast shutter speeds (1/200+) and good blue-water shooting technique. Marine iguanas grazing on algae in the shallows provide a unique macro or close-focus wide-angle subject found nowhere else on Earth.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Starfish.ch – Western Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-west.html), [Galapatours – Cape Marshall](https://www.galapatours.com/highlights/cape-marshall-diving), [Aqua Mundo Galapagos – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/). Last updated 2026-05-25.*

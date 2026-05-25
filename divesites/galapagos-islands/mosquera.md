@@ -23,7 +23,7 @@ Mosquera is a sand and rock islet in the channel between North Seymour and Baltr
 
 - **Location**: Channel between North Seymour and Baltra Islands, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
@@ -59,4 +59,4 @@ While this is one of the gentler Galapagos dive sites, currents in the channel c
 Sea lion portraits and interaction shots are the main photographic draw. Use a wide-angle or fisheye lens and get close -- the sea lions will oblige by approaching to within centimeters. Eye-level shots produce the most engaging portraits. Garden eel colonies make excellent macro or mid-range subjects, but require patience and a slow, low approach. The sandy bottom provides a clean, uncluttered background for ray and shark shots. Ambient light is usually sufficient in the shallows, but strobes help with sea lion portraits to bring out the texture of their fur and the sparkle in their eyes.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana – Mosquera North](https://scubaiguana.com/our-dive-center/daily-diving-tours/mosquera-north/), [The Portuguese Traveler – North Seymour & Mosquera](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-25.*

@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "padi.com,taveunioceansports.com,saltdiverfiji.com,fiji.travel,diveotion.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fiji.travel,taveunioceansports.com,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 177.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijisharkdive.com,diveplanit.com,fiji.travel",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -57,14 +60,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "naia.com.fj,dive-the-world.com,diversiondivetravel.com.au",
+      "last_qa_date": "2026-05-25"
     },
     "depth_max": 40
   },
@@ -74,7 +78,7 @@
     "lon": 178.5833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 25,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -82,7 +86,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,liveaboard.com,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -99,7 +104,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "papagenoresort.com,dive-the-world.com,fiji.travel",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -116,7 +122,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijisharkdive.com,fijitravel.org,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -126,14 +133,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijitravel.org,diveplanit.com,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -149,8 +157,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-25",
+      "qa_note": "Site name Zoo Namena not confirmed in 3+ independent sources specific to Namena Reserve; major databases associate 'Zoo' with Yasawa/Somosomo Strait. Coordinates place this in Koro Sea near Namenalala. Cannot reach 3-source threshold."
     },
     "depth_max": 30
   },
@@ -168,7 +178,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "waterlustfiji.com,fijieco.com,namenaisland.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -184,8 +195,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-25",
+      "qa_note": "Site name Supermarket Namena not confirmed in 3+ independent sources at Namena Reserve specifically; primary 'Supermarket' references in Fiji databases are Mamanuca Islands sites. Cannot reach 3-source threshold."
     }
   },
   {
@@ -202,7 +215,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fiji.travel,saltdiverfiji.com,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -219,7 +233,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-the-world.com,saltdiverfiji.com,fijitravel.org",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -236,7 +251,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fiji.travel,saltdiverfiji.com,dive-the-world.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -252,8 +268,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-25",
+      "qa_note": "Samu Reef not found in any major dive database (dive-the-world.com, papagenoresort.com, padi.com, techdivetravels.com). Cannot confirm site name, depth, or marine life claims with 3 independent sources."
     }
   }
 ]

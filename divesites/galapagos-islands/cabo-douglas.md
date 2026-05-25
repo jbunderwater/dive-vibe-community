@@ -23,7 +23,7 @@ Cabo Douglas sits on the northwest coast of Fernandina, the youngest and most vo
 
 - **Location**: Fernandina Island (Isla Fernandina), northwest coast, Galápagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: Variable; poor near shore due to surge, improving at depth
@@ -56,4 +56,4 @@ Access by panga from the liveaboard only. Divers are dropped in buddy pairs near
 The primary hazard is cold — water temperatures of 13–18°C can cause rapid heat loss and shortened dive times. Hypothermia risk is real without adequate exposure protection. Surge near shore is significant and visibility in the shallows can be poor. While currents at the site itself are minimal, the remote liveaboard-only location means medical facilities are far away. Monitor your core temperature and end the dive if you begin shivering.
 
 ---
-*Sources: [LiveAboard.com](https://www.liveaboard.com/diving/galapagos/cabo-douglas), [Galapatours](https://www.galapatours.com/highlights/cape-douglas), [Starfish.ch](https://www.starfish.ch/scubadiving/Galapagos-west.html), [X-Ray Mag](https://xray-mag.com/content/diving-dinosaurs-galapagos-marine-iguana), [ScubaBoard](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*
+*Sources: [LiveAboard.com – Cabo Douglas](https://www.liveaboard.com/diving/galapagos/cabo-douglas), [Galapatours – Cape Douglas](https://www.galapatours.com/highlights/cape-douglas), [X-Ray Mag – Diving with Galapagos Marine Iguanas](https://xray-mag.com/content/diving-dinosaurs-galapagos-marine-iguana). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*

@@ -23,7 +23,7 @@ Triumph Reef is a mapped reef feature at roughly 25.47°N, 80.11°W, at the nort
 
 - **Location**: Upper Keys / Biscayne National Park area, Florida
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
 
@@ -36,4 +36,4 @@ No public source reviewed describes: this site's marine life, typical depth prof
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions and any park regulations with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources were located. Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-17.*
+*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-05-25.*

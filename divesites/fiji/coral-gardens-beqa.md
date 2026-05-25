@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Coral Gardens Beqa
 
-A gentle, spectacularly diverse coral garden that showcases why Beqa Lagoon is one of the Pacific's finest dive destinations.
+A gentle, accessible coral garden in sheltered Beqa Lagoon — an ideal complement to the deeper, more demanding dives on the lagoon's outer reef.
 
 ## Overview
 
-Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocean swells by the surrounding barrier reef. At a maximum depth of 15 meters and with typical current ranging from nil to light, it is one of the most accessible sites in the lagoon and an ideal complement to the deeper, more demanding dives like Shark Reef and E6. The site lives up to its name: expansive flat and sloping reef sections are blanketed in a quilt of hard and soft corals, with Acropora table corals, massive Porites heads, and colonies of organ pipe and bubble coral creating a varied three-dimensional structure. The calm conditions and shallow depth profile make this site equally suited to entry-level divers on their first open water dives in Fiji and to experienced photographers wanting unlimited time at depth to find macro subjects.
+Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocean swells by the surrounding barrier reef. At a maximum depth of 15 meters and with typically nil to light current, it is one of the most accessible sites in the lagoon and a natural complement to deeper sites like Shark Reef Marine Reserve. Beqa Lagoon has been described as "The Soft Coral Capital of the World" by multiple sources for the density and variety of its soft coral coverage, and Coral Gardens represents the lagoon's gentler face: a varied reef structure of hard and soft corals accessible to all certification levels. Beqa Adventure Divers lists this type of site as a standard option on their coral dive schedule alongside the shark dives, and Beqa Lagoon Resort operators offer similar shallow reef packages for beginners and certification courses.
 
 ## Site Information
 
@@ -32,31 +32,30 @@ Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocea
 
 ## Marine Life
 
-The calm, diverse coral structure at Coral Gardens supports an abundance of resident reef fish and invertebrates. Clownfish (both Clark's and common clownfish) inhabit numerous anemones distributed across the reef flat. Hawksbill sea turtles are regular visitors, often seen grazing on sponges on the larger coral heads. Blue-spotted stingrays rest on sandy patches between coral formations. Chromis and damselfish create a constant shimmer over the tabletops. Moorish idols, numerous butterflyfish species, and pairs of bannerfish patrol the open water above the reef. For macro enthusiasts, the site yields nudibranchs, flatworms, Coleman shrimp on fire urchins, ornate ghost pipefish in seagrass patches, and occasional frogfish mimicking sponge growth.
+The calm, shallow coral structure supports a dense resident reef fish community. Chromis and damselfish create a constant shimmer over the coral heads. Moorish idols, butterflyfish, and bannerfish patrol the open water above the reef. Anemonefish inhabit large anemones distributed across the reef flat. Hawksbill sea turtles are reported as regular visitors by Beqa Lagoon Resort accounts. For macro enthusiasts, the lagoon's protected waters support nudibranchs, flatworms, and ribbon eels within reef rock burrows. The lagoon's general visibility of 15–30 meters and water temperatures of 25–29°C apply year-round. No site-specific marine life documentation distinguishes Coral Gardens from the broader Beqa Lagoon reef ecosystem — species lists reflect the lagoon system generally.
 
 ## Dive Profile
 
-A simple, relaxed profile suits this site best. Descend to the deepest section (10–15 meters) and work slowly up the slope toward the shallower reef flat, finishing the dive in 3–8 meters of water where hard coral coverage is densest and light is most intense. Total dive times of 60–70 minutes are easily achieved on standard cylinder fills given the shallow profile. Multiple laps of the reef are feasible on a single fill, making this a good site for unhurried exploration. Night dives on Coral Gardens are excellent — the site transforms after dark, with sleeping parrotfish, hunting octopus, and crinoids fully extended.
+Descend to the deepest section (10–15 meters) and work slowly up the slope toward the shallower reef flat, finishing the dive in 3–8 meters where hard coral coverage and light are most intense. Total dive times of 60–70 minutes are easily achieved given the shallow profile. Night dives on the lagoon's coral gardens are productive — sleeping parrotfish, hunting octopus, and fully extended crinoids are characteristic night-dive subjects across Beqa Lagoon.
 
 ## Entry and Exit
 
-Accessed by boat from Pacific Harbour-based operators as part of multi-dive packages. The lagoon is calm enough that entry and exit are straightforward. Some operators offer the site as a beginner or discover scuba experience for non-certified divers given the shallow, benign conditions. The site pairs naturally with deeper Beqa Lagoon dives — operators commonly run Coral Gardens as a third, shallower dive after the shark dive and a second deeper site.
+Accessed by boat from Pacific Harbour-based operators as part of multi-dive packages. The lagoon is calm enough that entry and exit are straightforward. The site is used by operators for beginner and Discover Scuba experiences given the shallow, benign conditions. Operators commonly pair it with deeper Beqa Lagoon dives as a third, shallower closing dive.
 
 ## Tips and Recommendations
 
-- **Slow down and look small**: Coral Gardens rewards divers who move slowly and inspect individual coral heads rather than swimming quickly across the site. The macro life — nudibranchs, shrimp, frogfish — requires careful searching at close range.
-- **Visit at night**: A night dive on Coral Gardens reveals the reef's nocturnal community. Octopus hunt openly, sleeping parrotfish are visible in their mucus cocoons, and moray eels cruise the reef actively. Book a night dive through your operator.
-- **Ideal for mixed-experience groups**: The shallow, calm conditions make this site workable for groups that include both beginners and advanced divers. Everyone can dive the same site comfortably.
-- **Check for frogfish on sponges**: Frogfish at Coral Gardens habitually settle on large barrel sponges and orange encrusting sponges, mimicking the color and texture of their host. Scan sponges carefully — once you know what to look for, they appear with surprising frequency.
-- **Combine with Cathedral Beqa**: The two sites are close together and make a natural pairing — Coral Gardens for relaxed reef exploration, Cathedral for the dramatic swim-through.
+- **Slow down and look small**: Coral Gardens rewards methodical inspection of individual coral heads. Macro life requires close-range searching.
+- **Visit at night**: A night dive on the lagoon's coral gardens reveals the reef's nocturnal community. Octopus hunt openly and moray eels cruise actively. Book through your operator.
+- **Ideal for mixed-experience groups**: The shallow, calm conditions accommodate groups where experience levels vary.
+- **Combine with Cathedral Beqa**: The two sites are geographically close — Coral Gardens for relaxed reef exploration, Cathedral for the swim-through drama.
 
 ## Safety Considerations
 
-Coral Gardens presents minimal hazards beyond standard reef diving precautions. Buoyancy control is important on any coral dive — fin tips easily damage fragile coral branches at shallow depths where divers may be less attentive. Avoid kneeling on coral rubble and maintain proper trim throughout. Small blue-spotted stingrays on sandy patches will flee if approached but can sting if accidentally stepped on — shuffle your feet if walking in shallow water near the reef.
+Coral Gardens presents minimal hazards beyond standard reef diving precautions. Buoyancy control is important — fin tips easily damage fragile shallow coral. Maintain proper trim throughout and avoid kneeling on coral rubble. Blue-spotted stingrays on sandy patches will flee if approached but can sting if accidentally stepped on.
 
 ## Photography
 
-Coral Gardens is a macro and close-focus wide-angle paradise with unlimited bottom time available. Close-focus wide-angle (10–17mm, strobes wide) captures the vivid coral garden with natural light flooding in from above. Macro shooters can spend entire dives working a small patch of reef: nudibranchs, Coleman shrimp pairs on fire urchins, and ornate ghost pipefish are regular finds. For coral portraiture, the Acropora tabletop colonies photographed from below with a diver or reef fish in the background produce striking results. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro conditions.
+The site's shallow profile and good light make it well-suited to close-focus wide-angle shots of coral heads with ambient light flooding from above. Macro shooters have essentially unlimited bottom time to work the reef. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro lighting conditions.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Beqa Adventure Divers - Coral Dives](https://www.fijisharkdive.com/coral-dives/), [Fiji Travel - Best Dive Sites Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Dive The World - Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php). Last updated 2026-05-25.*

@@ -5,7 +5,7 @@ lng: 177.9667
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Cathedral Beqa
 
-A natural swim-through where cathedral-like light beams penetrate from above — soft corals within, sharks patrolling outside.
+A natural swim-through cavern where shafts of sunlight filter through gorgonian-fringed roof openings — the architectural heart of the Beqa Lagoon reef system.
 
 ## Overview
 
-Cathedral Beqa takes its name from the dramatic swim-through cavern that forms its centerpiece. The structure is a large coral archway and tunnel system on the Beqa Lagoon reef, where shafts of sunlight filter through cracks and openings in the roof, creating beams of light that illuminate the soft coral-encrusted interior walls in exactly the way light enters the nave of a cathedral. The effect is most pronounced on morning dives when the sun is at a low angle and the beams are clearly defined. Outside the cathedral structure, the reef slopes into open water where grey reef sharks are resident and regularly visible from 10 to 20 meters. The combination of the architectural feature inside and the shark activity outside makes Cathedral one of Beqa Lagoon's most memorable dives.
+Cathedral Beqa takes its name from the dramatic swim-through cavern at its center: a large coral archway and tunnel on the Beqa Lagoon reef where sunlight penetrates through irregular roof openings lined with gorgonians and soft corals, creating filtered light beams that illuminate the interior walls. The effect is most pronounced on morning dives when the sun angle produces defined beams rather than flat ambient light. Sources including a Fiji travel site and the Diveplanit database describe the site as a swim-through cavern at 15–20 meters with batfish and lush soft coral inside. The site type has been updated to "cave" to reflect the primary structural feature; divers pass through a genuine cavern structure rather than simply diving the outer reef. Grey reef sharks patrol the reef face outside the cavern.
 
 ## Site Information
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Swim-through cavern (cave type)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -32,31 +32,30 @@ Cathedral Beqa takes its name from the dramatic swim-through cavern that forms i
 
 ## Marine Life
 
-Inside the cathedral swim-through, the low-light environment hosts soft corals and sea fans that benefit from reduced UV exposure, creating a particularly vivid display in the orange and red spectrum. Large groupers inhabit the swim-through interior and have become bold enough to approach divers closely. Glassfish and cardinalfish congregate in the filtered light zones just inside the entrance. Outside on the reef face, grey reef sharks — often 5–10 individuals — patrol the drop-off at 15–20 meters in a steady, unhurried circuit. Whitetip reef sharks rest on sand patches at the base of the reef. Turtles are common on the outer reef, and large schools of surgeonfish and fusiliers flow past the reef face. The connection to the deeper Beqa Lagoon ecosystem means silvertip sharks occasionally appear on the outer edge.
+Inside the Cathedral swim-through, soft corals and sea fans benefit from reduced UV exposure, supporting a vivid display on the interior walls. Batfish are documented inside the cavern by operator accounts. Lionfish and moray eels inhabit cavern crevices. Outside on the reef face, grey reef sharks patrol the drop-off at 15–20 meters. Whitetip reef sharks rest on sand patches. Turtles are noted on the outer reef. Schools of surgeonfish and fusiliers flow past the reef face. Specific species counts and densities are not documented in detail by available sources for this site beyond the genera noted.
 
 ## Dive Profile
 
-Begin the dive on the outer reef to catch the shark activity early in the dive while gas and attention are high. Descend to 18–20 meters and observe the patrol at depth, then ascend to the reef structure. Enter the cathedral swim-through from the deeper opening at approximately 15 meters and navigate through toward the shallower exit at 8–10 meters, pausing inside to observe the light beams and the soft coral walls. Complete the dive on the upper reef in 5–8 meters, where coral coverage is dense and light is abundant. Morning light beams are optimal — ask your operator to schedule Cathedral as the first dive of the morning.
+Begin outside on the reef face to observe the shark patrol early in the dive while gas and attention are highest. Descend to 18–20 meters, observe the outer reef, then ascend to the cavern entry point. Enter the swim-through from the deeper opening at approximately 15 meters and navigate through to the shallower exit at 8–10 meters, pausing inside to observe the light beams and soft coral walls. Complete the dive on the upper reef in 5–8 meters. Morning light beams are optimal — schedule Cathedral as a morning dive.
 
 ## Entry and Exit
 
-Accessed by boat from Pacific Harbour operators, typically as part of a Beqa Lagoon package that includes Shark Reef Marine Reserve. Cathedral is commonly the second dive on a two-dive Beqa package, following the deeper shark feed. Entry by giant stride; lagoon conditions are usually calm. Some operators include Cathedral as the "explore" portion of the standard shark dive day.
+Accessed by boat from Pacific Harbour operators, typically as the second dive in a Beqa Lagoon package following Shark Reef Marine Reserve. Entry by giant stride; lagoon conditions are usually calm.
 
 ## Tips and Recommendations
 
-- **Dive it in the morning**: The defining visual feature — sunbeams through the roof openings — only appears when the sun is at the right angle. Midday and afternoon dives produce flat, uniform light inside the cavern. Book Cathedral as a morning dive.
-- **Observe sharks from the reef top first**: Starting outside on the reef edge gives you the chance to watch the shark patrol while you're at your deepest and most alert. Don't enter the swim-through immediately on descent.
-- **Maintain horizontal trim in the swim-through**: The cavern is large enough for comfortable passage by divers with proper trim, but poor buoyancy and a vertical position will kick up sediment from the floor and reduce visibility for everyone behind you.
-- **Carry a small torch**: The deepest part of the swim-through interior is dark enough to benefit from a light, revealing the soft coral colors and the crevice life (moray eels, lobsters) that the ambient light does not fully illuminate.
-- **Combine this with Coral Gardens**: These two sites are geographically close and offer contrasting character — Cathedral for drama, Coral Gardens for relaxed exploration. They make an excellent two-dive pairing.
+- **Dive it in the morning**: The light beam effect is angle-dependent. Midday and afternoon dives produce flatter light inside the cavern.
+- **Maintain horizontal trim in the swim-through**: The cavern is navigable with good trim, but a vertical position will disturb sediment from the floor and reduce visibility for divers behind you.
+- **Carry a small torch**: The interior is dark enough to benefit from a dive light, revealing soft coral colors and crevice life.
+- **Combine with Coral Gardens**: These two sites offer contrasting character on the same lagoon system — Cathedral for drama, Coral Gardens for relaxed exploration.
 
 ## Safety Considerations
 
-The swim-through is wide and well-ventilated — this is not a penetration dive and does not require cave or cavern training. However, divers with claustrophobia may find the interior uncomfortable during the brief section where the roof is low. Confirm the route with your guide before entering. Monitor your depth through the cavern as the floor slopes; the deepest point of the swim-through is at the entry end. Grey reef sharks outside are habituated to divers and are not aggressive in the absence of feeding stimuli — observe calmly and avoid cornering individuals.
+The swim-through is well-ventilated — this is not a penetration dive and does not require cave or cavern training. Divers with claustrophobia should confirm the route with the guide before entering. Monitor depth through the cavern as the floor slopes. Grey reef sharks outside are habituated to divers and are not aggressive in the absence of feeding stimuli.
 
 ## Photography
 
-Cathedral Beqa presents two entirely different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle and fisheye shooting timed to the morning angle — position yourself in the dark interior and shoot toward the light shafts with a diver silhouetted against the opening. Outside, the shark patrol offers clean wide-angle shark portraits against the blue water backdrop. Shooting both in a single dive requires a versatile setup — a wide-angle zoom (16–35mm) handles both scenarios better than a prime fisheye if you can only carry one lens.
+The Cathedral presents two different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle or fisheye timing to the morning angle — position yourself in the dark interior and shoot toward the gorgonian-framed openings with a diver silhouetted against the light. Outside, the grey reef shark patrol offers clean wide-angle shark portraits against the open water.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Fiji Travel - Best Dive Sites Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Diveplanit - The Cathedral](https://www.diveplanit.com/dive-site/the-cathedral-beqa-lagoon-resort-tiger-shark-dive/), [Dive The World - Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php). Last updated 2026-05-25.*

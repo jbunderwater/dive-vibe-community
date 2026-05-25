@@ -3,7 +3,7 @@ name: Isla Bartolome
 lat: -0.28
 lng: -90.54
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,53 @@ addedBy: osm_import
 
 # Isla Bartolome
 
-Dive beneath the iconic Pinnacle Rock for one of the world's few opportunities to share the water with Galapagos penguins darting through volcanic rock formations.
+Dive beneath Pinnacle Rock for a volcanic reef platform stacked with whitetip sharks, rays, sea turtles, and sea lions — with Galapagos penguins to spot on the surface post-dive.
 
 ## Overview
 
-Isla Bartolome sits near Santiago Island, famous above water for its iconic Pinnacle Rock -- a jagged volcanic spire that is one of the most photographed landmarks in the Galapagos. Below the surface, the site offers shallow reef and rocky bottom diving over dramatic volcanic formations. The signature experience here is encountering Galapagos penguins underwater, as they rocket through the shallows hunting fish -- one of the very few places in the world where divers can share the water with penguins. Sea lions, reef sharks, and rays add to an accessible and memorable dive.
+Isla Bartolome sits off the east coast of Santiago Island, defined above water by the iconic Pinnacle Rock — one of the most photographed volcanic formations in the Galapagos. Below the surface, the dive occupies a broad sandy and rocky platform at approximately 10 meters, with underwater cliffs beginning around 15 meters that attract pelagic species. The site is accessible by Galapagos standards, with moderate currents and a relatively sheltered position. It is often combined with Cousins Rock on day trips and liveaboard itineraries.
+
+Galapagos penguins — the world's only equatorial penguin and the only penguin found north of the equator — inhabit Bartolome Island. They are reliably seen on the rocks and surface from the boat after diving. Occasional in-water sightings have been reported in the shallows near the surface, but the dive is not structured around penguin encounters, and multiple operator descriptions confirm that the penguin viewing experience at this site is primarily topside.
 
 ## Site Information
 
 - **Location**: Bartolome Island, near Santiago Island, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-18 meters (30-60 feet)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 10-18 meters (30-60 feet); warm season (Dec-May) averages ~12m
 - **Current**: Mild to moderate
-- **Best Time**: Year-round for penguins; June to November for best visibility
+- **Best Time**: Year-round; warm season for better visibility
 
 ## Marine Life
 
-Galapagos penguins are the star attraction, swimming underwater with astonishing speed and agility as they hunt small fish near the surface. These are the only penguins found north of the equator, and watching them torpedo through the water is a genuinely unique diving experience. Galapagos sea lions are ever-present and playful. Whitetip reef sharks rest on sandy patches between rocks. Spotted eagle rays and golden rays cruise over the volcanic bottom. Green sea turtles graze on algae-covered rocks. Schools of reef fish, including king angelfish and damselfish, fill the rocky formations. Marine iguanas may be seen in the shallows. Octopus hide among the volcanic rocks.
+Whitetip reef sharks are a reliable presence, resting on the sandy platform between rock formations or cruising the reef edges. Galapagos sharks patrol the outer sections along the cliffs. Stingrays, marbled rays, and golden cownose rays cruise the sandy bottom; eagle rays and mobulas are seen seasonally. Green sea turtles graze on algae-covered rocks. Sea lions are ever-present and engage divers in the shallows. Stone scorpionfish, flounders, grunts, snappers, groupers, and parrotfish populate the rocky platform. One ScubaBoard trip report recorded hammerhead sharks approaching to close range at the site. Manta rays have been documented here in season.
+
+No site-specific sources confirm regular underwater penguin encounters during dives at Bartolome. Post-dive surface views of penguins at Pinnacle Rock are consistently reported.
 
 ## Dive Profile
 
-The dive explores the rocky volcanic bottom near Pinnacle Rock, descending from the shallows over a landscape of lava formations, boulders, and sandy patches. Maximum depth is 27 meters, but much of the interesting marine life is in the shallower zone of 5-15 meters. Penguins are encountered near the surface, typically in the top 5-10 meters, so allow plenty of time in the shallows rather than focusing on depth. The volcanic rock formations create interesting swim-throughs and channels. The dive gradually works back to the shallows for an extended safety stop where penguin and sea lion encounters are most likely.
+The dive begins over a large sandy and rocky platform at approximately 10 meters depth — this is where most of the interesting life concentrates. Underwater cliffs beginning at around 15 meters descend to the maximum depth of 25 meters and offer additional encounters with pelagic species. Divers typically explore the platform, with an excursion along the cliffs for depth. Boulders, lava formations, and sandy channels create varied terrain. Sea lion interactions occur throughout, particularly in the shallows. Safety stop is easy to execute in the sheltered, shallow platform area.
 
 ## Entry and Exit
 
-Panga from liveaboard or day boat to entry point near Pinnacle Rock. Giant stride entry into relatively sheltered water. The dive is typically a gentle swim over the volcanic bottom rather than a drift dive. Current is usually mild, making this one of the more relaxed Galapagos entries. Exit via panga pickup or return swim to the boat. Surface conditions are generally calm in the lee of the island.
+Panga from liveaboard or day boat to entry point near Pinnacle Rock. Giant stride entry into relatively sheltered water. The dive is typically a gentle swim over the volcanic bottom. Current is usually mild. Exit via panga pickup. Surface conditions are generally calm in the lee of the island.
 
 ## Tips and Recommendations
 
-- Spend the majority of your bottom time in the shallows (3-10 meters) where penguin encounters happen -- do not waste time at depth searching for them
-- Penguins are fast and unpredictable; keep your camera ready and track them visually rather than trying to chase
-- Morning dives offer the best chance of penguin activity, as they tend to hunt early
-- Combine the dive with a surface visit to Pinnacle Rock and the island's volcanic landscape for the full Bartolome experience
-- Look in holes and under ledges in the volcanic rock for octopus and resting whitetip sharks
+- Look carefully at the sandy patches between rocks for camouflaged scorpionfish and resting stingrays
+- The post-dive boat approach to Pinnacle Rock for penguin viewing is reliably productive — bring a camera with zoom for topside shots
+- Morning dives have better visibility in the warm season; cold season (June-November) brings stronger currents and more pelagic activity
+- This site pairs well with Cousins Rock on the same day — the two sites are approximately 15 minutes apart by boat
 
 ## Safety Considerations
 
-This is one of the calmer Galapagos dive sites, but the Advanced rating reflects the remote location, cold water (18-23°C), and distance from medical facilities common to all Galapagos diving. Currents can pick up during tidal changes. The volcanic rock formations include sharp edges -- maintain buoyancy control to avoid contact. Penguins are wild animals and should not be chased or cornered; they will approach on their own terms. Standard Galapagos equipment and thermal protection (5-7mm wetsuit) apply. Carry an SMB and signaling devices.
+This is one of the calmer Galapagos dive sites, but the Advanced rating reflects the remote location, cold water (18-23°C seasonally), and distance from medical facilities. Currents can pick up during tidal changes. Volcanic rock formations include sharp edges — maintain buoyancy control. Standard Galapagos equipment and thermal protection (5-7mm wetsuit) apply. Carry an SMB and signaling devices.
 
 ## Photography
 
-Penguins underwater are the bucket-list shot. Use a wide-angle lens and shoot on high shutter speed (1/320 or faster) -- penguins move with explosive speed and blur easily. Pre-focus and shoot in bursts. The shallow depth means excellent natural light, which helps with fast shutter speeds. Pinnacle Rock above water makes a dramatic background for split-level (over-under) shots if surface conditions are calm enough. Sea lions are reliable and cooperative wide-angle subjects. The volcanic rock formations create interesting textures and backgrounds. This is exclusively a wide-angle site.
+Wide-angle is the primary lens here — sea lions, sharks, and rays against the volcanic platform background. One first-person trip report described swimming through a fish school so dense that visibility dropped to near-zero — a dramatic wide-angle subject when encountered. For surface photography, a telephoto zoom captures the penguins perched on Pinnacle Rock post-dive. Split-level shots of the rock formation are possible when surface conditions are calm.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana – Bartolome](https://scubaiguana.com/our-dive-center/daily-diving-tours/bartolome-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). Last updated 2026-05-25.*

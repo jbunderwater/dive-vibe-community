@@ -3,9 +3,9 @@ name: Plazas
 lat: -0.5796433
 lng: -90.1597537
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 13123276912
 addedBy: osm_import
@@ -13,50 +13,45 @@ addedBy: osm_import
 
 # Plazas
 
-A wall dive off South Plaza Island where a resident sea lion colony dives in to play and eagle rays cruise along a coral-covered drop-off just minutes from Santa Cruz.
+A shallow reef dive off South Plaza Island where a large sea lion colony turns every dive into an interactive experience on fine sandy bottom with garden eels and pelagic visitors.
 
 ## Overview
 
-Plazas is a wall dive site off the southern shore of South Plaza Island, one of the small islets east of Santa Cruz. A dramatic wall drops from a shallow reef top into the depths, with good coral coverage and consistent marine life. The nearby South Plaza sea lion colony sends its members into the water constantly, creating reliable and often extended interactions with divers along the wall. Its relative proximity to Puerto Ayora on Santa Cruz makes it one of the more accessible dive sites in the Galapagos, though conditions still demand advanced-level skills.
+Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and South Plaza are divided by a narrow channel. The dive takes place in this channel, over a sandy and silt bottom with strong currents possible. Multiple sources describe this as a relatively accessible site — not dominated by dramatic topography, but by an active sea lion colony whose members descend to play with divers at close quarters. The sandy bottom supports Pacific garden eels, and the channel edges attract rays, sharks, and sea turtles. Gordon Rocks briefings are sometimes conducted here at Plazas, which is just five minutes away — Plazas doubles as a staging and equipment-check location for the demanding crater dive.
 
 ## Site Information
 
-- **Location**: Off South Plaza Island, east of Santa Cruz, Galapagos Islands
+- **Location**: Plaza Islets, east of Santa Cruz, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Mild to moderate
-- **Best Time**: Year-round; best visibility June to November
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10-18 meters (can be lower when currents are running)
+- **Current**: Can be strong; currents sweep through the narrow channel
+- **Best Time**: Year-round; sea lions always present
 
 ## Marine Life
 
-Galapagos sea lions from the South Plaza colony are the highlight, launching off the rocky shore and descending to interact with divers along the wall -- juveniles are particularly bold and curious. Spotted eagle rays are regularly seen cruising along the wall edge, sometimes in groups. Green sea turtles rest on wall ledges and graze on algae. Schools of reef fish -- king angelfish, surgeonfish, parrotfish, and damselfish -- populate the wall face. The coral coverage is among the better in the Galapagos, with colonies of Pocillopora and Pavona creating structure. Whitetip reef sharks rest in crevices. Moray eels peer from holes. Octopus can be found on the reef top.
+Galapagos sea lions are the defining attraction — the colony uses the islets as a base and individuals approach divers directly, making sharp turns, blowing bubbles, and spiraling at close range. Pacific garden eels emerge from the sandy channel floor in large numbers, swaying in the current and retreating into their burrows as divers approach. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
 
 ## Dive Profile
 
-The dive begins with a descent along the wall face from the shallow reef top at 3-5 meters down to the maximum depth of approximately 20 meters. The wall face is covered in coral growth and features ledges, small overhangs, and crevices worth inspecting. Divers drift along the wall with the mild current, covering a section of the island's southern shore. The best sea lion encounters usually happen during the ascent as divers return to the shallower reef top. Safety stop is easily performed on the reef top in generally calm conditions.
+The dive follows the sandy channel floor between the two islets, descending from the surface to a maximum of approximately 15-18 meters. The terrain is relatively flat — fine sand and silt with rocky margins along the island flanks. The strong currents that periodically sweep the channel concentrate marine life and can produce drift diving conditions. The most active sea lion encounters happen in the upper water column (5-10 meters). Garden eels are found on the sandy flat at mid-depth. The site is frequently used as a check dive or briefing location before more demanding sites.
 
 ## Entry and Exit
 
-Day boat from Puerto Ayora, Santa Cruz, with a ride of approximately 30-45 minutes to the site. Giant stride entry near the wall edge. Mild current means surface conditions are usually manageable. The dive follows the wall, with the boat repositioning to meet divers at the exit point. Exit via ladder onto the day boat, or panga pickup if current has carried divers further than expected. SMB deployment is recommended regardless.
+Day boat from Puerto Ayora with a short transit. Giant stride entry into the channel. Currents can be strong — assess conditions and plan the drift carefully. The boat repositions to meet divers. Exit via panga pickup or return to the boat if conditions permit. SMB deployment is recommended. Conditions are generally calmer here than at Gordon Rocks or other exposed central Galapagos sites.
 
 ## Tips and Recommendations
 
-- Spend time on the reef top during your safety stop -- sea lions are most playful in the shallows and the coral growth is worth exploring
-- Look along the wall edge at mid-depth for eagle rays, which tend to cruise at 10-15 meters
-- Morning departures from Santa Cruz offer the best conditions and light on the south-facing wall
-- Check wall crevices carefully for resting whitetip sharks and octopus
-- This is a good site for divers who want Galapagos marine life encounters without the extreme currents of Gordon Rocks or Wolf
+- Gordon Rocks trips sometimes include a Plazas check dive first — use this time to dial in your weighting for Galapagos conditions
+- Approach garden eel colonies very slowly and low to the bottom; they disappear rapidly if disturbed
+- Current can pick up quickly; carry a reef hook if you want to hold position
+- This site works well for wide-angle photography of sea lions against the sandy bottom backdrop
 
 ## Safety Considerations
 
-Conditions are generally more forgiving than at the Galapagos' more exposed sites, but currents can still be present and may strengthen without warning. The wall drops beyond recreational limits, so depth awareness is important. Sea lions can be playful to the point of bumping equipment or pulling on hoses -- secure loose gear. Standard Galapagos thermal protection (5-7mm wetsuit) is required. Carry an SMB and signaling devices. As with all Galapagos diving, the remote location means extended time to medical facilities in an emergency.
-
-## Photography
-
-Sea lions playing along the wall provide outstanding wide-angle subjects -- shoot upward to silhouette them against the surface light. Eagle rays along the wall edge are best captured with a wide-angle lens from below. The coral-covered wall itself makes a more photogenic background than the bare volcanic rock at many Galapagos sites, improving composition options. Sea turtles resting on ledges are patient portrait subjects. The relatively mild current makes this a more comfortable site for photography than many alternatives. Morning light on the south-facing wall provides good illumination.
+The channel between the islets can funnel strong tidal currents without warning. Despite the shallower depths, be prepared for genuine drift conditions and stay oriented relative to your exit point. Sea lions are playful but protect loose gear from curious pups. Standard Galapagos thermal protection applies (water temperature 17-25°C seasonally). Carry an SMB and signaling devices.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-25.*
