@@ -7,3 +7,6 @@ __pycache__/
 data/osm/
 data/external/
 data/validation_report.json
+
+# Claude Code sub-agent worktrees (runtime state, not repo content)
+.claude/worktrees/
