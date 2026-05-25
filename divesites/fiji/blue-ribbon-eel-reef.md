@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Blue Ribbon Eel Reef
 
-A dedicated critter and macro site famous for blue ribbon eels, ornate ghost pipefish, and a catalog of Indo-Pacific rarities.
+A dedicated critter and macro site on Taveuni's reef system, reliably holding blue ribbon eels, snake eels, ghost pipefish, and frogfish.
 
 ## Overview
 
-Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, notable for the consistent presence of blue ribbon eels (Rhinomuraena quaesita) — among the most visually striking eels in the ocean, with their electric blue coloring, elongated body, and ornate flared nostrils. The site is a contrast to the dramatic wall and current diving that defines most Taveuni diving, offering a shallow, calm reef environment purpose-suited to slow, methodical macro exploration. At 16 meters maximum depth and typically in protected water, it accommodates beginner divers and provides experienced macro photographers with essentially unlimited bottom time to work specific subjects. The reef harbors a remarkable concentration of critter species beyond the namesake eels — nudibranchs, leaf fish, ornate ghost pipefish, and frogfish have all been documented here with regularity.
+Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, north of the Rainbow Reef dive area. The site is purpose-suited to slow, methodical macro exploration — a contrast to the dramatic wall and current diving that defines most Taveuni diving. At 16 meters maximum depth and in typically protected water with nil to light current, it accommodates beginner divers and provides experienced macro photographers with essentially unlimited bottom time. Dive The World's Taveuni guide confirms the site features small coral bommies interspersed with rubble patches at 8–25 meters depth, with macro-focused marine life. Blue ribbon eels (Rhinomuraena quaesita) are reliably found in the rubble at approximately 45 feet (14 meters), according to diver reports. The Fiji travel site Fiji Travel.org describes the eels as "almost guaranteed sightings" alongside snake eels and yellow-headed ribbon eels.
 
 ## Site Information
 
-- **Location**: Taveuni reef system, Fiji
+- **Location**: Taveuni reef system, north of Rainbow Reef, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (macro/critter)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -32,31 +32,32 @@ Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, notable
 
 ## Marine Life
 
-Blue ribbon eels are the star attraction: vivid electric-blue males with yellow dorsal fins occupy burrows in rubble patches, extending their upper bodies into the water column with characteristic undulating movements. Females are yellow (ribbon eels undergo sex change from male to female). Juveniles are jet black. A single site often has multiple burrows within a few meters of each other. Ornate ghost pipefish hover in pairs near sea whips and crinoids, their elaborate fin filaments making them nearly invisible against the background. Leaf scorpionfish (Taenianotus triacanthus) perch on rubble, rocking slowly to mimic a drifting leaf — white, yellow, brown, and pink color morphs all occur here. Nudibranchs of the genus Chromodoris, Flabellina, and Hypselodoris are found throughout the dive. Coleman shrimp pairs occupy fire urchins in the rubble. Frogfish (various species) inhabit sponges on the deeper sections of the reef.
+Species confirmed at this site by multiple sources: blue ribbon eels (Rhinomuraena quaesita) in rubble burrows; black juvenile ribbon eels; yellow-headed ribbon eels (females); snake eels. Ghost pipefish hovering near crinoids and sea whips are reported by Dive The World's Taveuni guide. Frogfish on sponges and leaf scorpionfish on rubble are documented. Pygmy seahorses are listed by Dive The World for Eel Reef, associated with gorgonian fans. Octopus and cuttlefish are noted. Nudibranchs of various genera throughout.
+
+Note: The previous description included specific nudibranch genus attributions (Chromodoris, Flabellina, Hypselodoris) and Coleman shrimp on fire urchins as confirmed at this specific site. Coleman shrimp are widely present in Fiji's rubble zones but were not confirmed in site-specific sources for this site; they remain plausible given the habitat but are not attributed here.
 
 ## Dive Profile
 
-A slow, low-and-close approach suits this site best. Descend to 12–16 meters and begin a methodical search of the rubble patches and coral heads. Blue ribbon eels are easiest to spot in the first 20 minutes of the dive before divers disturb sediment; ask the guide to locate them at the start. Spend as much time as needed at each critter station, then ascend progressively through the 8–12 meter zone looking for ghost pipefish and leaf scorpionfish. The shallowest reef (3–8 meters) has abundant small reef fish and makes an active and rewarding safety stop zone.
+Descend to 12–16 meters and begin a methodical search of rubble patches and coral heads. Blue ribbon eels are easiest to spot in the first 20 minutes before sediment is disturbed. Ask the guide to locate the eel burrows at the start. Spend time at each critter station, then ascend through the 8–12 meter zone looking for ghost pipefish and leaf scorpionfish. The shallowest reef (3–8 meters) provides an active safety stop zone.
 
 ## Entry and Exit
 
-Accessed by boat from Taveuni operators as part of a multi-dive day package. The calm conditions mean any standard dive boat handles the site easily. Entry is by giant stride or back roll. The shallow profile means exit to the boat is typically straightforward with good gas remaining.
+Accessed by boat from Taveuni operators as part of a multi-dive day package. The calm conditions mean any standard dive boat handles the site easily. Entry is by giant stride or back roll. The shallow profile means exit is typically straightforward with good gas remaining.
 
 ## Tips and Recommendations
 
-- **Ask the guide to find the eel burrows first**: Experienced Taveuni guides know the specific locations of blue ribbon eel burrows and can take you directly to them. Starting with the eels while the guide's knowledge is fresh saves considerable search time.
-- **Approach blue ribbon eels very slowly**: These eels retreat into their burrows at the slightest disturbance. Approach from directly in front, moving at one centimeter per second, and stop at about 50cm. From this position you can observe and photograph without triggering withdrawal.
-- **Search near crinoids for ghost pipefish**: Ornate ghost pipefish almost always associate with feather stars (crinoids) and sea whips, matching their coloring precisely. Inspect every crinoid on the reef — a drifting, oddly-shaped frond may be a pipefish.
-- **Leaf scorpionfish are easier to find at night**: Although present during the day, leaf scorpionfish are more visible on night dives when they move more actively. If the operator offers a night dive on this reef, it is worthwhile.
-- **This site suits beginners and experts simultaneously**: The shallow, calm conditions give beginners the chance to develop buoyancy skills in a non-threatening environment, while experienced macro photographers can spend an entire dive working a single square meter of reef.
+- **Ask the guide to find the eel burrows first**: Experienced Taveuni guides know specific burrow locations and can take you directly to them.
+- **Approach blue ribbon eels very slowly**: These eels retreat into their burrows at the slightest disturbance. Approach from in front, move at near-zero speed, stop at about 50cm, and hold position.
+- **Search near crinoids for ghost pipefish**: Ornate ghost pipefish associate closely with feather stars and sea whips, matching their coloring precisely. Inspect every crinoid on the reef carefully.
+- **Leaf scorpionfish are easier to find at night**: If the operator offers a night dive on this reef, leaf scorpionfish are more visible as they move more actively.
 
 ## Safety Considerations
 
-Blue Ribbon Eel Reef is one of Fiji's most low-risk dive sites. The primary concern is fin-tip damage to coral from divers with poor buoyancy — the site's abundant macro life requires close-approach, low-altitude diving that punishes poor trim. Maintain proper horizontal trim throughout. Do not handle or disturb any marine life, including eels and ghost pipefish — stress changes their behavior and can cause them to abandon their territories. Blue ribbon eels can bite if provoked; observe from a respectful distance.
+Blue Ribbon Eel Reef is one of Fiji's most low-risk dive sites. The primary concern is fin-tip damage to coral from divers with poor buoyancy — the site's macro life requires close-approach, low-altitude diving that punishes poor trim. Maintain horizontal trim throughout. Do not handle or disturb marine life. Blue ribbon eels can bite if provoked.
 
 ## Photography
 
-This site is pure macro territory. A 100mm or 105mm macro lens handles ribbon eels at working distance (50–80cm), ghost pipefish at close range (30–40cm), and nudibranchs at 10–20cm. A wet diopter (SubSee or similar) extends macro capability for the smallest subjects (shrimp, juvenile fish). Lighting blue ribbon eels requires careful strobe positioning — a single strobe at 45° from one side reveals the electric blue coloring without harsh shadows. For ghost pipefish, front-on two-strobe lighting at equal intensity minimizes the deception of their camouflage and reveals their actual shape clearly. RAW shooting is recommended — the electric blue of the ribbon eel and the orange and black of the ghost pipefish require careful post-processing to balance.
+This site is primarily a macro site. A 100mm or 105mm macro lens handles ribbon eels at working distance (50–80cm). A wet diopter extends capability for the smallest subjects. For blue ribbon eels, a single strobe at 45° from one side reveals the electric blue coloring without harsh shadows. For ghost pipefish, front-on two-strobe lighting at equal intensity reveals their actual shape against the camouflage background.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Dive The World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Salt Diver Fiji - Guided Dives](https://saltdiverfiji.com/guided-dives), [Fiji Travel - Diving Rainbow Reef Taveuni](https://www.fijitravel.org/posts/diving-rainbow-reef-taveuni). Last updated 2026-05-25.*
