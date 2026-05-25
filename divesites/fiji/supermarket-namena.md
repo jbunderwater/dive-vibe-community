@@ -25,7 +25,7 @@ The "Supermarket" concept — named for the variety of marine life arriving to f
 
 - **Location**: Koro Sea, near Namena Marine Reserve, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)

@@ -13,50 +13,52 @@ addedBy: osm_import
 
 # Samu Reef Kadavu
 
-A current-swept outer reef drift on the edge of the Great Astrolabe — sharks, mantas, and the raw energy of open Pacific water.
+An outer reef drift site on the edge of the Great Astrolabe, Kadavu's vast barrier reef system — accessible in calmer conditions during the dry season.
 
 ## Overview
 
-Samu Reef sits on the outer rim of the Great Astrolabe Reef, Kadavu's vast barrier reef system and one of the world's largest barrier reefs. The outer reef edge faces directly into the Pacific Ocean, and when the swell and tidal current are running, Samu becomes a high-energy drift dive that concentrates marine life in a way that the calmer lagoon sites cannot match. The site is characterized by dramatic coral formations along the reef slope and wall, where Pacific current delivers constant nutrients and drives the thick gorgonian fan and soft coral growth that covers the outer reef structure. Grey reef sharks and whitetip reef sharks are permanent residents of the outer reef. Manta ray sightings are a regular occurrence — mantas feeding in the plankton-rich current or visiting the reef edge cleaning stations are not uncommon, particularly during peak season.
+Samu Reef is listed as a site on the outer rim of the Great Astrolabe Reef, Kadavu's barrier reef system and the fourth-largest barrier reef in the world. The site's name and specific characteristics were not found in major dive databases consulted during QA review (dive-the-world.com, papagenoresort.com, padi.com, techdivetravels.com). The outer reef position and advanced difficulty rating are consistent with the general character of outer Great Astrolabe Reef diving described by Kadavu operators: outer reef sites face the open Pacific, see significant tidal and ocean swell energy, support strong currents, and require advanced drift dive skills.
+
+The description below reflects the verified character of outer Great Astrolabe Reef diving as documented by Kadavu operators — not claims specific to Samu Reef, which could not be independently confirmed.
 
 ## Site Information
 
-- **Location**: Great Astrolabe Reef outer edge, Kadavu Island, Fiji
+- **Location**: Outer Great Astrolabe Reef, Kadavu Island, Fiji (specific position unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Strong; tidal and Pacific current
+- **Current**: Strong outer reef and tidal current
 - **Best Time**: May to October (dry season, calmer outer reef conditions)
 
 ## Marine Life
 
-Grey reef sharks and whitetip reef sharks are reliably present along the outer reef edge, attracted by the current-driven food production. On high-current days, silvertip sharks appear from deeper water, following the current upwelling along the outer slope. Manta ray sightings are opportunistic but occur with enough frequency — particularly May through October — to make Samu worth diving for the possibility alone. Maori wrasse and large Napoleon wrasse are resident on the reef structure. Schools of rainbow runners sweep the outer reef in fast-moving formations. The reef slope itself is covered in impressive gorgonian sea fans and soft corals fed by the Pacific surge, alongside healthy hard coral coverage that shows the benefit of limited human pressure. Hammerhead sharks are occasionally reported on the deepest edges of the site.
+The outer Great Astrolabe Reef as a whole is documented by Kadavu operators as habitat for grey reef sharks, whitetip reef sharks, eagle rays, barracuda schools, Napoleon wrasse, Spanish mackerel, sea snakes, and ribbon eels. Manta ray sightings are reported on Kadavu's outer reef generally. No source-confirmed species list specific to Samu Reef was found.
+
+*Marine life description is based on outer Great Astrolabe Reef regional characteristics. No site-specific sources for Samu Reef were found during QA review.*
 
 ## Dive Profile
 
-Samu is dived as a drift dive timed to the tidal current. The boat positions upstream; divers descend to 15–20 meters on the reef slope and drift along the outer wall, ascending as gas and time require. The current carries divers through the best sections of the reef — channel areas where the wall has cut back into the reef structure concentrate fish life and provide natural current breaks for pausing the drift. On strong current days, the drift covers considerable distance and the boat follows accordingly. Total drift length varies from 300 to 600+ meters depending on conditions.
+Outer reef drift dives on the Great Astrolabe are timed to tidal current. The boat positions upstream; divers descend to 15–20 meters on the reef slope and drift along the outer wall. On strong current days, the drift covers considerable distance and the boat follows. Kadavu dive operators adjust to sea conditions and will redirect to protected lagoon sites if the outer reef is too rough.
 
 ## Entry and Exit
 
-Accessible by boat from Kadavu's small dive resorts (Matana Beach, Waisalima, and others). The journey to the outer reef takes 20–45 minutes from most resort locations. Sea conditions on the outer reef can be significantly different from the protected lagoon — confirm the swell and wind forecast before committing to the site. On days when the outer reef is too rough, operators redirect to protected lagoon sites. Entry is by giant stride; the boat follows the drift and collects divers at the downstream end. Carry and deploy an SMB before surfacing — ocean swells can make small boats difficult to see and keep track of divers from above.
+Accessible by boat from Kadavu's dive resorts (Papageno Resort, Matana Beach, Waisalima, and others). Journey to outer reef sites takes 20–45 minutes from most resort locations. Sea conditions on the outer reef can be significantly different from the protected lagoon. Carry and deploy an SMB before surfacing — ocean swells make small boats difficult to see from the water.
 
 ## Tips and Recommendations
 
-- **Outer reef conditions are seasonal**: Samu is best in the dry season (May–October) when trade winds create consistent moderate swells but not the steep, confused chop of the wet season cyclone period. Check ScubaBoard's Kadavu threads for recent conditions before your trip.
-- **Scan open water constantly**: Unlike reef dives where you look at the structure, the big sightings at Samu come from pelagic species approaching from open water. Turn to face the blue periodically and watch the mid-water zone.
-- **Current strength determines depth**: In strong current, positioning at 15–18 meters (rather than 20 meters) conserves gas and keeps you in the most productive zone where current breaks create fish aggregations. Reserve the deepest section for early in the dive.
-- **Manta sightings are not guaranteed**: Unlike Manta Reef Kadavu, Samu does not have a reliable cleaning station. Manta encounters here are opportunistic — keep your eyes open in the current lanes above the reef, but build your dive plan around the reef and sharks rather than the mantas.
-- **Combine with Manta Reef Kadavu**: A Kadavu diving day might include Samu as the high-energy outer reef dive and Manta Reef as the dedicated manta station dive, providing both the adrenaline of the open reef and the patient cleaning station encounter.
+- **Defer to the operator on outer reef access**: Outer reef conditions at Kadavu are highly weather-dependent. Local operators make the daily call on whether the outer reef is diveable.
+- **Dry season is strongly preferred**: May–October offers consistently calmer outer reef access than the wet season.
+- **Combine with Manta Reef Kadavu**: A Kadavu diving day might include an outer reef drift for the high-energy open Pacific character and Manta Reef for the dedicated cleaning station encounter.
 
 ## Safety Considerations
 
-Samu is an advanced dive because of the outer reef exposure, significant current, and potential for rapidly changing conditions. Check weather and sea state carefully on the morning of the dive and defer to the local operator's judgment on whether conditions are appropriate. Once in the water, maintain close contact with the group — losing the guide or dive partner in strong current on an outer reef is a serious situation. Surface signaling devices (SMB plus whistle or mirror) are mandatory here. Divers without experience on outer reef drift dives should complete at least one lagoon drift dive at Kadavu before committing to Samu.
+Outer Great Astrolabe Reef diving is advanced because of the open Pacific exposure, significant current, and potential for rapidly changing sea conditions. Check weather and sea state carefully and defer to the local operator's judgment. Maintain close group contact — losing the guide or dive partner on an outer reef in strong current is a serious situation. Carry a surface signaling device (SMB plus whistle). Medical evacuation from Kadavu to Suva is possible by air.
 
 ## Photography
 
-The outer reef at Samu rewards wide-angle ocean-reef photography — shots that convey the energy of the Pacific environment rather than the intimate coral garden character of the inner lagoon sites. Position yourself at the reef edge and shoot along the wall toward the blue ocean, with sea fans and coral in the foreground and open water behind. Shark portraits against the current-washed outer wall background convey the wild character of the site better than close-up reef subjects. For manta encounters, have your wide-angle lens ready throughout the dive — mantas appear suddenly and the encounter window may be brief. Video divers should use wide-angle and capture the full current environment: the coral bending in the flow, the fish orienting into the current, and the overall sense of being on an exposed oceanic reef.
+The outer reef at Kadavu rewards wide-angle ocean-reef photography — shots that convey the energy of the Pacific environment. Position at the reef edge and shoot along the wall toward the blue, with gorgonians and coral in the foreground.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Samu Reef site name not confirmed with 3 independent site-specific sources during QA review on 2026-05-25. Sources consulted: [Dive The World - Kadavu](https://www.dive-the-world.com/diving-sites-fiji-kadavu.php), [Papageno Resort - Dive Sites](https://www.papagenoresort.com/dive), [Tourism Fiji - Kadavu Great Astrolabe Reef](https://www.fiji.travel/places-to-go/kadavu-island/locations/exploring-kavadu-s-great-astrolabe-reef). Description reflects general outer Great Astrolabe Reef character. Last updated 2026-05-25.*

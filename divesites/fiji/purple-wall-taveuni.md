@@ -25,7 +25,7 @@ Purple Wall sits in the Somosomo Strait on Taveuni's reef system, within the sam
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters (recreational working depth; wall continues deeper)
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate to strong tidal current
 - **Best Time**: May to October

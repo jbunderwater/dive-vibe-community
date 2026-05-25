@@ -23,7 +23,7 @@ Kansas is a dive site within Namena Marine Reserve, the largest no-take reserve 
 
 - **Location**: Namena Marine Reserve, Koro Sea, Fiji (south of Vanua Levu)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)

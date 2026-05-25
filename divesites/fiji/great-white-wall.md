@@ -24,8 +24,8 @@ Great White Wall is frequently cited among the world's top-ten dive sites, and t
 - **Location**: Somosomo Strait, Taveuni, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced (Advanced Open Water certification required; ~50 logged dives recommended)
-- **Maximum Depth**: 35 meters (recreational limit; wall continues beyond)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Extremely strong for most of the month; dives only possible during mid-lunar tidal windows (~4 days/month)
 - **Best Time**: May to October (dry season, clearest water); tidal calendar governs specific dive dates year-round

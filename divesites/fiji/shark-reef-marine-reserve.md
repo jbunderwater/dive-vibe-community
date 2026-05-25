@@ -23,9 +23,9 @@ Shark Reef Marine Reserve, managed by Beqa Adventure Divers in partnership with 
 
 - **Location**: Beqa Passage outer reef, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (The Arena feeding level)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; bull sharks present on every dive; tiger sharks most frequent November–March

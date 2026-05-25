@@ -22,10 +22,10 @@ Nigali Passage is a tidal channel on the northwestern coast of Gau Island, cutti
 ## Site Information
 
 - **Location**: Nigali Passage, Gau Island (northwest coast), Lomaiviti Group, Fiji
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Drift dive (tidal channel)
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (channel ranges 15–40m; best shark views at 20–25m)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet; drops outside tidal window)
 - **Current**: Strong tidal current (dive timed to incoming tide; 3–4 hour optimal window per day)
 - **Best Time**: May to October; accessible year-round by liveaboard
