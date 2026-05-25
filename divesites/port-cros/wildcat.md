@@ -13,15 +13,19 @@ addedBy: osm_import
 
 # Wildcat
 
-A rare aircraft wreck at the north-eastern tip of Port-Cros island — a Royal Navy Grumman Wildcat (Martlet) resting upside down at 53 metres.
+A rare aircraft wreck in the Rade de Bormes — a Royal Navy Grumman F4F Wildcat (Martlet V) resting upside down at 53 metres with disputed origins.
 
 ## Overview
 
-The Wildcat is one of the most unusual dive sites in the Port-Cros area: a single-seat Royal Navy Grumman F4F Wildcat (known in British service as the "Martlet") aircraft that was discarded from an aircraft carrier in the late 1950s following irreparable damage, coming to rest on the sandy bottom at the north-eastern tip of Port-Cros island. The aircraft lies upside down with the cockpit buried, at depths of 53 metres maximum, visible from around 30–35 metres in good visibility. It is a technically challenging dive due to both its depth and the strong current that often runs at the site. The Wildcat is a reminder of the long history of Royal Navy carrier operations in Mediterranean waters.
+The Wildcat is one of the most unusual dive sites in the Hyères archipelago: a single-seat carrier-based fighter identified by English cockades still visible on the fuselage as a Royal Navy Grumman F4F Wildcat — designated the "Martlet V" in British service. The aircraft rests inverted on a sandy bottom at 51–53 metres, with its broken nose, open cockpit, intact propeller, and two machine guns in each wing still recognisable. It is a technically demanding dive due to depth and the frequently strong current at the site.
+
+The circumstances that placed the aircraft on the seabed are disputed. American aviation archives — cited by en.bormesplongee.fr — indicate the aircraft was on a reconnaissance mission when it came down on 15 August 1944 (the date of Operation Dragoon, the Allied invasion of southern France) and that the pilot was recovered. Other sources, including tribloo.com, suggest the aircraft was deliberately jettisoned in the 1950s from a carrier — tentatively identified as HMS Hermès — after sustaining irreparable damage. The retracted landing gear visible in the wreck is consistent with either an emergency water landing while airborne or a jettison. Dive operator sources are divided and no documentary source definitively resolves the question. The connection to 15 August 1944 and Operation Dragoon is the claim supported by U.S. archives; the 1950s discard theory remains unverified.
+
+The aircraft measures approximately 12 metres wingspan and 9 metres in length, with a 1,200 hp Pratt & Whitney engine. The Royal Navy used more than 1,200 F4F Wildcats under the Martlet designation during World War II.
 
 ## Site Information
 
-- **Location**: North-eastern tip of Île de Port-Cros, Var, France
+- **Location**: Rade de Bormes, near Île de la Fourmigue, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -33,30 +37,30 @@ The Wildcat is one of the most unusual dive sites in the Port-Cros area: a singl
 
 ## Marine Life
 
-The aircraft frame, though inverted and partially buried, has become an artificial reef structure in the years since its deposit. Conger eels and scorpionfish shelter around the fuselage. Gorgonian fans colonise sections of the wings and tail assembly. Schools of swallowtail sea perch hover above the wreck, and groupers have been sighted nearby. The sandy bottom around the aircraft supports flatfish and sea urchins. The isolated position in open water means pelagic species — including barracuda and occasional amberjack — pass through.
+Sources confirm galatheas and small lobsters shelter in the fuselage openings; large conger eels are present around the airframe; red scorpionfish blend into the sandy substrate. Occasional large lobsters are recorded at the site. The isolated open-water position means pelagic species pass through above. No site-specific reports of groupers, swallowtail sea perch, or gorgonian colonisation were found in sources consulted during the 2026-05-25 QA review — regional Mediterranean species apply but are not attributed to this specific site.
 
 ## Dive Profile
 
-This is a pure deep dive. Descend rapidly to the wreck on a line from the boat. The aircraft is identifiable by its distinctive inverted fuselage shape. Explore the accessible exterior — the wings, tail assembly, and engine area — within no-decompression limits. The cockpit is buried and inaccessible. Bottom time on air at 53 metres is extremely limited (approximately 10–12 minutes to a no-decompression limit). Nitrox 32 provides approximately 15 minutes. Begin ascent with substantial reserve. A planned decompression profile may be appropriate for advanced technical divers wishing to fully document the wreck.
+Descent directly on a line from the boat to the inverted aircraft at 51–53 metres. The fuselage shape is identifiable from above. Explore the accessible exterior: wings, tail assembly with propeller, fuselage. The cockpit is open but the interior is not accessible. Bottom time on air at 53 metres is severely limited — approximately 10–12 minutes to a no-decompression limit; Nitrox 32 extends this to approximately 15 minutes. Plan the deepest point first. Begin ascent with substantial reserve.
 
 ## Entry and Exit
 
-Boat access from operators based in La Londe or Le Lavandou who specialise in the Hyères deep wreck circuit. A descent line is mandatory. Giant stride entry, descend directly and efficiently. Ascend on the line; complete a safety stop at 5 metres. Deploy SMB from the safety stop before surfacing.
+Boat access from operators in La Londe or Le Lavandou who cover the Hyères deep wreck sites. Descent line is mandatory — do not free-descend in open water at this depth. Giant stride entry; descend directly and efficiently. Ascend on the line; deploy SMB from the 5-metre safety stop before surfacing.
 
 ## Tips
 
-- Confirm current conditions with the boat captain before entry — the north-eastern position of the island makes this site current-sensitive
-- Brief the dive plan thoroughly: which direction the fuselage runs, depth of the major recognisable features, and the ascent plan
-- Nitrox 32 or 36% is strongly recommended to extend the limited no-decompression time at this depth
-- The experience of finding a single aircraft on the sandy bottom in open water is completely different from a ship wreck — uniquely worth the depth commitment
+- Confirm current conditions before every entry — the site is known for strong and variable current
+- Brief the dive plan in detail: fuselage orientation, depth of key features, ascent timing
+- Nitrox 32 or 36% is strongly recommended to make safe use of limited no-decompression time
+- Finding a single inverted aircraft on open sand at depth is a completely different experience from a ship wreck — the isolation is striking
 
 ## Safety
 
-Technical-level depths require advanced certifications as a minimum. Strong current can develop and make ascent from depth without a line extremely difficult. Carry two SMBs. Gas planning should be conservative: the depth, current, and dive complexity mean margin reduction is dangerous. Experienced guides who know the site's current patterns are advisable.
+Advanced or technical certification required. Strong current can make ascent without a line extremely dangerous at 53 metres. Carry two SMBs. Gas planning must be conservative given depth, current, and complexity. Always dive with an operator who knows the current patterns at this site. Wreck penetration is not appropriate here.
 
 ## Photography
 
-The inverted aircraft is a unique and unusual wide-angle subject. Shooting along the wing line from a distance, with a diver above for scale, captures the shape clearly. The encrusted sections of the tail and wings show the passage of time effectively. Powerful artificial lighting is essential at 53 metres — ambient light is minimal and colour is absent.
+The inverted aircraft is a distinctive and unusual wide-angle subject. Shooting along the wing line with a diver for scale conveys the fuselage shape clearly. The open cockpit and machine gun detail reward closer macro work. Full artificial lighting is essential at 53 metres — no ambient colour remains.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [en.bormesplongee.fr — Wildcat](https://en.bormesplongee.fr/wildcat), [Tribloo — Wildcat F4F](https://www.tribloo.com/fr/spot-plongee/124/le-wildcat-f4f.html), [Mio Palmo Plongée — Le Wildcat](https://www.miopalmoplongee.com/nos-sites/le-wildcat.php). Last updated 2026-05-25.*

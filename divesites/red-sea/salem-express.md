@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Salem Express
 
-The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The ro-ro passenger ferry sank on December 14, 1991, after striking Hyndman Reef near Safaga following a severe storm while en route from Jeddah, Saudi Arabia, to Safaga, Egypt. More than 470 people died in the disaster — one of the worst maritime tragedies in Red Sea history. The wreck lies at a maximum depth of approximately 27 meters, with upper deck structures accessible from around 15 meters.
+The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The ro-ro passenger ferry struck Hyndman Reef near Safaga on the night of December 14–15, 1991, sinking in approximately 20 minutes while en route from Jeddah, Saudi Arabia, to Safaga, Egypt. The official death toll stands at 464–470, though the Egyptian Navy recovered approximately 850 bodies, and some accounts suggest the ferry was overcrowded beyond its 1,256-passenger capacity. The majority of those aboard were Moroccan-French pilgrims returning from Mecca. The wreck lies at a maximum depth of approximately 27 metres, with upper deck structures accessible from around 15 metres. The ship measured 115 metres in length and 4,771 gross tons.
 
 ## Overview
 
@@ -59,4 +59,4 @@ The interior of the wreck contains significant silt and disorientation risks —
 The scale of the wreck makes wide-angle and fisheye lenses ideal. The encrusted railings and davits photographed against blue water are iconic images. The schools of glassfish hovering over open deck areas are a compelling mid-water subject. Inside the vehicle deck, a wide-angle torch-lit shot can capture the otherworldly atmosphere. Macro subjects are found on every colonized surface of the hull.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [MV Salem Express Wikipedia](https://en.wikipedia.org/wiki/MV_Salem_Express), [InDEPTH Magazine](https://indepthmag.com/wreck-salem-express/), [Divernet](https://divernet.com/world-dives/salem-express-dive-into-maritime-tragedy/), [Dive the World](https://www.dive-the-world.com/diving-sites-egypt-salem-express.php). Last updated 2026-05-25.*

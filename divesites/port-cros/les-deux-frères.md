@@ -39,7 +39,7 @@ Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typic
 
 - **Location**: Hyères Archipelago / Port-Cros area, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Protected Status**: Within or adjacent to Port-Cros National Park zone
@@ -49,4 +49,4 @@ Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typic
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Provence Méditerranée diving destinations](https://www.provencemed.com/en/living-provence/holidays-by-the-sea/a-diving-destination/). No site-specific sources for Les Deux Frères were located; description reflects regional park characteristics. Last updated 2026-05-17.*
+*Description based on regional diving characteristics of Port-Cros National Park. No site-specific sources for Les Deux Frères were located during the 2026-05-25 QA review. Marine life listed reflects the broader park ecosystem, not confirmed sightings at this specific site. Last updated 2026-05-25.*

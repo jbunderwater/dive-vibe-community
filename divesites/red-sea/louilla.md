@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Louilla
 
-The Louilla is a wreck in the Strait of Tiran at the northern end of the Red Sea, resting near the reef system at approximately 27.99°N, 34.45°E. The vessel ran aground on the Tiran reefs and sank in the same treacherous reef system that has claimed several ships over the decades. The wreck is often combined with nearby Tiran reef dives as part of Sharm el-Sheikh liveaboard and day-trip itineraries.
+The Louilla is a wreck stranded on the northern edge of Gordon Reef in the Straits of Tiran — an immediately recognisable sight that sticks more than 10 metres above the water surface and is visible from passing boats. She is a Panamanian-registered freighter of 2,271 GRT, originally built in Sweden in 1952 as the Antonia, later renamed Zschoau and then Loullia. She measured 107.55 metres in length. On 29 September 1981, while sailing in ballast from Aqaba to Suez, she ran aground on the northern edge of Gordon Reef. Salvage attempts failed and she was abandoned on 2 October 1981, declared a total constructive loss.
 
 ## Overview
 
-The Louilla sits at a relatively accessible depth with the shallowest sections near the surface and the maximum penetrable depth around 20 meters. The wreck is moderately encrusted after years on the seabed, with soft coral and sponge growth decorating the hull. Its position in the Tiran area means it benefits from the same productive, current-influenced water that characterises the famous Tiran reefs, but the wreck structure itself provides a more sheltered microhabitat compared to the open reef walls. The combination of wreck exploration and the surrounding Tiran reef environment makes for a varied dive.
+The Louilla's hulk remains partly above the surface, gradually deteriorating over the decades — another vessel has ploughed into her at some point, breaking the wreck in half, and each year she shifts further toward the depths. The accessible diving portions lie at 10–20 metres on the reef slope alongside the grounded hull. The site is typically combined with Gordon Reef wall diving on the same day trip from Sharm el-Sheikh; the wreck provides a distinctive landmark and an interesting complement to the dramatic reef wall.
 
 ## Site Information
 
@@ -58,4 +58,4 @@ Tidal currents in the Strait of Tiran can be significant and change in direction
 Wreck photography at this site benefits from both the structural subjects of the hull and the open-water pelagic encounters possible in the surrounding Tiran waters. Wide-angle shots of the coral-encrusted hull work best in mid-morning light. Schools of glassy sweepers in the interior create atmospheric scenes with a torch fill light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [The Scuba News - The Loullia](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-loullia/), [Peter & Karen Pecksen - Louilla on Gordon Reef](https://pecksen.com/20221201-egypt-00055/), [Emperor Divers - Wrecks of the Red Sea](https://www.emperordivers.com/wrecks-of-the-red-sea/). Last updated 2026-05-25.*

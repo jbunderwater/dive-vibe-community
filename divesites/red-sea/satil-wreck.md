@@ -17,7 +17,7 @@ Satil-class missile boat wreck at Village Beach, Eilat — a 40-meter vessel sun
 
 ## Overview
 
-The Satil Wreck is a former Israeli Navy Satil-class missile boat sunk in the spring of 1994 as an underwater museum off Village Beach in Eilat. The 40-meter vessel sits in a horizontal position at 22-24 meters depth, approximately 70 meters from shore. The wreck is one of the Cherbourg boats — missile vessels famously smuggled out of a French shipping yard on Christmas Eve 1969 during a French arms embargo.
+The Satil Wreck is a former Israeli Navy Sa'ar 4.5-class missile boat (Cherbourg boat) sunk in 1994 as an underwater museum off Village Beach in Eilat. The 46-metre vessel sits upright and parallel to the beach at approximately 22–25 metres depth, approximately 50 metres from shore. The wreck is one of the famous Cherbourg boats — missile vessels that Israeli personnel disguised as dock workers sailed out of Cherbourg, France on Christmas Eve 1969, defying a French arms embargo. After 25 years of service in the Israeli Navy, the Satil was scuttled to become an artificial reef and diving attraction.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Satil Wreck is a former Israeli Navy Satil-class missile boat sunk in the sp
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Generally mild
 - **Best Time**: Year-round, best visibility September to November
@@ -49,4 +49,4 @@ Shore entry from Village Beach with a short surface swim. The keel sits at 22-24
 Shore entry with a short swim. Mild currents typical. Watch for lionfish around the wreck structure. Do not attempt penetration beyond the bow section without proper wreck diving training.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+*Sources: [Adrex - Sufa/Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/), [Ahla Dive - Satil Wreck](https://ahla-dive.com/for-certified-divers/dive-sites-of-Eilat/satil-wreck/), [Tribloo - Satil Wreck](https://www.tribloo.com/en/dive-sites/596/the-satil-wreck.html). Last updated 2026-05-25.*

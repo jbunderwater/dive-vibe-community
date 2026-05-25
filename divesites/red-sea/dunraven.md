@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Dunraven
 
-The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled steamship — a British cargo and passenger vessel — struck the reef in January 1876 and sank in 18 meters of water. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
+The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled British steamship ran aground on the reef in early 1876 while returning from Bombay, caught fire while stranded, and finally sank on 22 April 1876. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
 
 ## Overview
 
-The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade between India and England when she ran aground on Sha'ab Mahmoud. The wreck has been underwater for nearly 150 years and is heavily colonised by corals and encrusting marine life. The hull sits inverted on the sandy bottom at 18 meters, with the keel visible at around 6 meters below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 meters. Water temperatures average 22°C in winter and 28°C in summer.
+The Dunraven was an 85-metre British steamship of approximately 1,800 tonnes, built by C. Mitchell and Co. in Newcastle upon Tyne and launched on 14 December 1872. She was engaged in trade between Britain and India when she ran aground on Sha'ab Mahmoud on a return voyage from Bombay, carrying spices, cotton, and muslin. The crew remained on board for weeks attempting to refloat her before the ship caught fire and sank on 22 April 1876. No lives were lost in the sinking. The wreck was rediscovered in 1977. The hull sits inverted on the sandy bottom at 18 metres, with the keel visible at around 6 metres below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 metres. Water temperatures average 22°C in winter and 28°C in summer.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ The stern swim-through is a confined space; divers with poor buoyancy should pra
 The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [SS Dunraven Wikipedia](https://en.wikipedia.org/wiki/SS_Dunraven), [Divers Alert Network - Discovery of the Dunraven](https://dan.org/alert-diver/article/discovery-of-the-dunraven/), [Egypt Liveaboard - Dunraven](https://www.egypt-liveaboard.com/dive-sites/dunraven-wreck/). Last updated 2026-05-25.*

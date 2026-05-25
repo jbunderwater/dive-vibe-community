@@ -17,7 +17,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -26,7 +27,7 @@
     "lon": -93.8240273,
     "osm_id": 6013570427,
     "osm_type": "node",
-    "depth": 16.8,
+    "depth": 17.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -38,7 +39,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -47,8 +49,8 @@
     "lon": -94.2990745,
     "osm_id": 6014024399,
     "osm_type": "node",
-    "depth": 21.3,
-    "site_type": "wall",
+    "depth": 17.0,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -59,7 +61,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -74,7 +77,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
@@ -89,14 +93,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
     "name": "Geyer Bank",
     "lat": 27.7167,
     "lon": -93.4667,
-    "depth": 39.6,
+    "depth": 32.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -104,14 +109,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
     "name": "Rankin Bank",
     "lat": 27.6833,
     "lon": -93.5833,
-    "depth": 39.6,
+    "depth": 50.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -119,22 +125,23 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org",
+      "last_qa_date": "2026-05-25"
     }
   },
   {
     "name": "East Flower Garden Stairway",
     "lat": 27.91,
     "lon": -93.595,
-    "depth": 7.6,
-    "site_type": "wall",
+    "depth": 18.0,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "last_qa_date": "2026-05-25"
     }
   }
 ]

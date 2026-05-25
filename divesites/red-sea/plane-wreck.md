@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Plane Wreck
 
-Plane Wreck is a small aircraft wreck dive site located at Ras Muhammad, the southern tip of the Sinai Peninsula where the Red Sea divides into the Gulf of Suez and Gulf of Aqaba. The wreck is a prop aircraft of uncertain origin that rests on a sandy shelf, and is one of the more unusual dive experiences on the northern Red Sea circuit.
+Plane Wreck is a small aircraft wreck dive site located in the Gulf of Aqaba near Aqaba/Eilat (at approximately 29.42°N, 34.97°E), not at Ras Muhammad as sometimes incorrectly stated. The wreck is a propeller aircraft of unverified type that rests on a sandy shelf at approximately 28–30 metres depth.
 
 ## Overview
 
-The wreck sits at a maximum depth of around 30 meters on a sand slope descending from the reef base. The aircraft is partially intact — the fuselage and wings are recognizable, though heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the structure into an artificial reef, and it supports a thriving community of reef fish. The site is typically dived in conjunction with the nearby Ras Muhammad reef system and benefits from the same exceptional clarity and conditions.
+The aircraft is partially intact — the fuselage and recognisable structural elements are heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the metal structure into an artificial reef supporting resident reef fish. The specific aircraft type and provenance have not been independently confirmed in available sources.
 
 ## Site Information
 
-- **Location**: Red Sea, Egypt (Ras Muhammad National Park, Sinai)
+- **Location**: Gulf of Aqaba, near Aqaba/Eilat (approximately 29.42°N, 34.97°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate

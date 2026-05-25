@@ -43,7 +43,7 @@ The site is suitable for those building experience in the national park system, 
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Protected Status**: Port-Cros National Park
@@ -53,4 +53,4 @@ The site is suitable for those building experience in the national park system, 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park overview](https://worldadventuredivers.com/port-cros-national-park/), [Aquabormes — Port-Cros dive sites](https://aquabormes.fr/page-port-cros.html). Last updated 2026-05-17.*
+*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros National Park](https://worldadventuredivers.com/port-cros-national-park/), [Aquabormes — Port-Cros dive sites](https://aquabormes.fr/page-port-cros.html). Last updated 2026-05-25.*

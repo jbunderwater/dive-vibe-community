@@ -23,7 +23,7 @@ Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagau
 
 - **Location**: Off Islet of Bagaud, Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 metres
@@ -59,4 +59,4 @@ A sheltered intermediate site with straightforward conditions in typical weather
 The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (seahorses, pipefish, cuttlefish) and encrusted rock surfaces is productive.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Port-Cros National Park and the Bagaud islet nature reserve context. No site-specific sources confirming the exact name "Pierre de Bagaud" or its depth of 25m were located during the 2026-05-25 QA review. The nearby "Dalles de Bagaud" is confirmed at 6–15m by miopalmoplongee.com and is likely a distinct feature. Marine life listed reflects the broader park ecosystem, not confirmed sightings at this specific site. Last updated 2026-05-25.*
