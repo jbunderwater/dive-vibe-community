@@ -17,7 +17,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,scubadiving.com,reef.org,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -39,7 +39,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,sunwisebonaire.com,scuba-diving-smiles.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -59,7 +59,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of central west coast reef."
     }
   },
@@ -80,7 +80,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "buddydive.com,infobonaire.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -103,7 +103,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "123carrentalbonaire.com,infobonaire.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "14m depth confirmed by multiple sources (45ft / 14m). OSM had 10m which was low. Locally-built 14m fishing boat intentionally sunk at Captain Don's Habitat dock."
     },
     "depth_max": 14
@@ -125,7 +125,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of southern Bonaire fringing reef."
     }
   },
@@ -147,7 +147,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,beyondthecorals.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Difficulty corrected to Intermediate: double-reef system, second reef requires advanced depth management. BNMP #45."
     }
   },
@@ -183,7 +183,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,scubadiving.com,buddydive.com,dreamwrecks.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Corrected length fields: 71.78m (235ft 6in) per Wikipedia. Previous OSM value of 236 was in feet. Beam corrected to 11.01m (36ft). All key wreck details cross-checked across Wikipedia + scubadiving.com + buddydive.com."
     },
     "depth_max": 30
@@ -208,7 +208,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -229,7 +229,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,sunwisebonaire.com,thediveglobe.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 18m; macro/critter focus is 6-18m range. Alt name Pali Grandi confirmed."
     }
   },
@@ -250,7 +250,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "bonaire.com,sunwisebonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -270,7 +270,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -291,7 +291,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Difficulty updated to Intermediate: 40m max depth puts this beyond Beginner. Also known as Witches Hut."
     }
   },
@@ -312,7 +312,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Site type corrected to wall: southern tip drop-off, steep wall profile, current-exposed."
     }
   },
@@ -333,7 +333,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -353,7 +353,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -373,7 +373,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaire.digital,padi.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -395,7 +395,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "entry_type corrected to shore: OSM has scuba_diving:entry=shore despite entry_type=boat in previous JSON. Shore entry confirmed."
     }
   },
@@ -418,7 +418,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -438,7 +438,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -460,7 +460,7 @@
       "validated": "true",
       "validation_source": "sunwisebonaire.com,beyondthecorals.com,infobonaire.com",
       "site_note": "pier dive",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 15m: site ranges 5-15m per multiple sources. Previous null replaced."
     }
   },
@@ -481,7 +481,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,beyondthecorals.com,padi.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 35m: second reef extends to 18-35m per beyondthecorals.com."
     }
   },
@@ -502,7 +502,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -523,7 +523,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -543,7 +543,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -563,7 +563,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Difficulty updated to Intermediate: southern tip location with potential current exposure."
     }
   },
@@ -584,7 +584,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Difficulty updated to Intermediate: southern exposure location."
     }
   },
@@ -607,7 +607,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -627,7 +627,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -647,7 +647,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -668,7 +668,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "East coast site, exposed to current and swell. Advanced despite shallow depth due to conditions."
     }
   },
@@ -689,7 +689,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -710,7 +710,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "beyondthecorals.com,infobonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Coral nursery at 5-9m confirmed by beyondthecorals.com."
     }
   },
@@ -732,7 +732,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "sunwisebonaire.com,beyondthecorals.com,infobonaire.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Double reef system confirmed. Named for angelfish. BNMP #44."
     }
   },
@@ -754,7 +754,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,bonaire.com,scubaboard.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -774,7 +774,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -794,8 +794,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
-      "qa_note": "Washington Slagbaai National Park area — noted as currently closed for diving on infobonaire.com as of 2026."
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
   {
@@ -816,8 +816,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
-      "qa_note": "Washington Slagbaai National Park area — noted as currently closed for diving on infobonaire.com as of 2026."
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
   {
@@ -837,8 +837,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
-      "qa_note": "Washington Slagbaai National Park area — noted as currently closed for diving on infobonaire.com as of 2026."
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
   {
@@ -861,7 +861,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -884,7 +884,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "House reef of Divi Flamingo resort."
     }
   },
@@ -908,7 +908,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "sunwisebonaire.com,scuba-diving-smiles.com,divers-guide.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 40m (reef slopes to 40m+ per sources). BNMP #20."
     }
   },
@@ -931,7 +931,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -951,7 +951,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Located adjacent to airport runway. Named for airport windsock visible from shore."
     }
   },
@@ -972,7 +972,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,123carrentalbonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 40m: steep drop-off wall site. Site type confirmed wall per 123carrentalbonaire.com."
     }
   },
@@ -994,7 +994,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,scuba-diving-smiles.com,johnnyafrica.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 40m (sandy bottom at 35-45m per sources). BNMP #9. Wall profile confirmed. Difficult entry/exit over rocks."
     }
   },
@@ -1016,7 +1016,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,bonaire.com,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1036,7 +1036,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1057,7 +1057,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1077,7 +1077,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1097,7 +1097,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1117,7 +1117,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1137,7 +1137,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1157,7 +1157,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dreamwrecks.com,divers-guide.com,numa.net",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1178,11 +1178,11 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
-    "name": "Bisé Morto",
+    "name": "Bis\u00e9 Morto",
     "lat": 12.2935303,
     "lon": -68.4132212,
     "osm_id": 4200486589,
@@ -1192,13 +1192,13 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Bisé Morto",
+      "name": "Bis\u00e9 Morto",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Depth corrected to 18m per depth_max field. Previous depth of 30m conflicted with depth_max=18. Washington Slagbaai National Park area."
     },
     "depth_max": 18
@@ -1220,7 +1220,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Washington Slagbaai National Park area."
     }
   },
@@ -1241,7 +1241,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -1261,7 +1261,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
     }
   },
@@ -1282,7 +1282,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
     }
   },
@@ -1303,7 +1303,7 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-18",
+      "last_qa_date": "2026-05-24",
       "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
     }
   }

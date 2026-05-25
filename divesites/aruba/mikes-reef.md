@@ -61,4 +61,4 @@ Standard boat dive precautions. No significant hazards at this site for competen
 One of Aruba's best reef photography sites due to coral density and visibility. The gorgonian sea fans photograph well both wide-angle (scale of structures) and macro (detail of fan polyps and associated invertebrates). Natural light is generally sufficient given the depth and clarity.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [VisitAruba.com - Dive Site Map](https://www.visitaruba.com/scuba-diving/dive-site-map/). Last updated 2026-05-17.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [VisitAruba.com - Dive Site Map](https://www.visitaruba.com/scuba-diving/dive-site-map/). Last updated 2026-05-24.*

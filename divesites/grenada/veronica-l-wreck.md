@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Veronica L Wreck
 
-A shallow, accessible freighter wreck lying in 15 metres off southwest Grenada — Grenada's ideal beginner wreck dive, with manageable depth, good coral encrustation, and a relaxed pace that introduces new divers to wreck exploration.
+A 130-foot Trinidad cargo vessel now resting upright at 15 metres on Boss Reef — it sank accidentally in St. George's harbour in 1993 and was relocated here before cruise-ship terminal construction, where it has become one of Grenada's most popular beginner wreck dives.
 
 ## Overview
 
-The Veronica L is a small cargo vessel that was sunk as an artificial reef in the waters southwest of St. George's. The wreck sits upright on a sandy bottom at 15 metres, making it one of Grenada's most accessible wreck dives — the deck structure is within easy reach and the maximum depth requires no special training beyond an Open Water certification. The vessel has been encrusted over time with sponges, encrusting corals, and algae, and the structure now provides habitat for a productive reef fish community. The shallow depth means excellent natural light throughout the dive. Visibility averages 20–25 metres. Water temperature is 26–28°C year-round.
+The Veronica L was a cargo vessel built in 1963 that operated between Trinidad and Grenada. In 1993 she began taking on water and sank in St. George's harbour at the site of a planned cruise-ship terminal. Before construction could begin, the wreck was refloated, loaded onto a barge, and sunk on the outer edge of Boss Reef near Grand Anse. She settled upright on her keel at approximately 15 metres (50 feet), making this one of Grenada's most accessible wreck dives. The vessel's open hold, bow anchor windlass, and freight crane arm extending sideways are distinctive features. Orange cup coral and encrusting sponges in yellow, orange, pink, and purple have colonised the hull surfaces. The shallow depth means excellent natural light throughout the dive. Visibility averages 20–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Veronica L is a small cargo vessel that was sunk as an artificial reef in th
 
 ## Marine Life
 
-The Veronica L supports a classic shallow-water Caribbean wreck community. Schools of French grunts and yellowtail snappers fill the spaces around the superstructure. Large parrotfish graze the encrusted hull surface. Spotted moray eels occupy crevices in the hull structure. Caribbean reef octopus are regularly found sheltering in and around the wreck openings. Southern stingrays rest on the sandy bottom adjacent to the hull. Hawksbill turtles occasionally visit the wreck to feed on sponges growing on the deck.
+The Veronica L's open hold and encrusted superstructure host clouds of small fish and shy squirrelfish. Creole wrasse, frogfish, seahorses, French angelfish, and damselfish are reported at this site. Schools of horse-eye jacks pass above the wreck. The sandy bottom adjacent to the hull attracts eels and bottom-dwelling species. The bright orange cup coral and multicoloured encrusting sponges on the hull surfaces are striking in good visibility.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The Veronica L's excellent natural light at 15 metres makes this a strong photog
 - Commonly paired with the Underwater Sculpture Park or a reef site for a varied morning two-tank trip
 
 ---
-*Sources: [Carib Dive Guide - Grenada](https://www.caribdiveguide.com/grenada.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Dive Grenada](https://divegrenada.com/), [Scuba Diving Magazine - Grenada](http://www.scubadiving.com/travel/caribbean-atlantic/grenada-and-grenadines), [PADI - Diving in Grenada](https://www.padi.com/diving-in/grenada/). Last updated 2026-04-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Veronica L](https://dreamwrecks.com/veronica-l-grenada-shipwreck), [SSI Dive Guide - Veronica L](https://www.divessi.com/en/mydiveguide/divesite/veronica-l-wreck-grenada-17229), [One Million Places - Veronica L](https://one-million-places.com/en/island-grenada/diving-on-the-wreck-of-the-cargo-ship-veronica-l). Last updated 2026-05-24.*

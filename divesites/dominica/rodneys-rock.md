@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Rodney's Rock
 
-Rodney's Rock is a reef dive site in Dominica, Caribbean.
+Rodney's Rock is Dominica's most celebrated critter dive — a shallow rocky outcrop off the central west coast near Jimmit where the walls and overhangs shelter an extraordinary density of macro species, including the island's documented record of 11 seahorses sighted in a single dive.
 
 ## Overview
 
-Rodney's Rock is Dominica's most celebrated critter dive, an outcrop north of Jimmit where the vertical faces are carpeted with enormous barrel sponges, gorgonians, and hydroids and the rocky overhangs shelter an extraordinary density of small species. The site holds the record of 11 seahorses sighted in a single dive, along with batfish, bumblebee shrimp, leaf fish, frogfish, shortnose batfish, and ribbon eels in the sandy patches — while spotted eagle rays and squadrons of barracuda make the occasional pass in the blue water beyond the reef. Excellent for night diving when squid, lobsters, and crabs come out in full force.
+Located north of Jimmit on the central west coast, Rodney's Rock is a rocky formation with a maximum depth of 50 feet (15 metres), making it a relaxed and accessible dive suitable for all levels. The vertical faces and overhangs are carpeted with barrel sponges, gorgonians, and hydroids that shelter an exceptional variety of small creatures. Mini-caves and overhangs provide habitat for spiny and slipper lobsters, crabs, and moray eels. Sand and seagrass patches surrounding the main formation shelter additional critters including spotted snake eels. The site is also an excellent night dive when squid, lobsters, and crabs are out in full force.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Rodney's Rock holds Dominica's record for seahorse sightings — up to 11 in a single dive — with batfish, frogfish, bumblebee shrimp, leaf fish, and ribbon eels in the sandy patches making it the island's premier critter dive. Spotted eagle rays and barracuda make occasional passes in the open water beyond the reef, and night dives reveal squid, lobsters, and crabs emerging from the barrel sponge and gorgonian-covered overhangs.
+The seahorse record of 11 sighted in a single dive is documented by Discover Dominica and A Virtual Dominica. Other confirmed critters include longlure frogfish, shortnose batfish, bumblebee shrimp, leaf fish, ribbon eels, and spotted snake eels in sandy patches. Spiny and slipper lobsters inhabit the mini-caves. Spotted eagle rays and barracuda are occasionally reported passing in open water beyond the reef. Night dives reliably produce squid, lobsters, and crabs. The site is considered Dominica's premier macro and photography dive.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Discover Dominica](https://discoverdominica.com/en/places/115/rodneys-rock), [EWDR](https://ewdr.com/en/dive-inspiration/diving-in-dominica-a-complete-guide/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [Scuba Diving Magazine](https://www.scubadiving.com/top-10-dive-sites-dominica). Last updated 2026-05-24.*

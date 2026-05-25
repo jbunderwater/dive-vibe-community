@@ -59,4 +59,4 @@ Standard central Bonaire reef photography.
 Angel City is to the north. Punt Vierkant is nearby. Hilma Hooker is to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – The Lake](https://www.divers-guide.com/en/the-lake), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – The Lake](https://www.divers-guide.com/en/the-lake), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

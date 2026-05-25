@@ -61,4 +61,4 @@ The bay setting with clear water is good for reef photography. The sheltered bay
 Nukove is to the south on the main road (no 4WD needed). Wayaka 2 and Playa Funchi are other park sites in the area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Boka Slagbaai](https://www.divers-guide.com/en/dive-spots/boka-slagbaai), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Boka Slagbaai](https://www.divers-guide.com/en/dive-spots/boka-slagbaai), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

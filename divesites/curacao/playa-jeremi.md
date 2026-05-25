@@ -55,4 +55,4 @@ Rock steps carved into the cliff provide entry access — reef shoes or sturdy b
 The rocky entry is the main hazard — take time with the steps and have a buddy assist with equipment. The remote location means emergency services are not immediately available; dive conservatively. A surface marker buoy is recommended.
 
 ---
-*Sources: [DiveCuracao.info — Playa Jeremi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-jeremi/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Playa Jeremi](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Playa Jeremi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-jeremi/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Playa Jeremi](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-24.*

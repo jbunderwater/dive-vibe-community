@@ -62,4 +62,4 @@ The coral garden offers good macro opportunities: frogfish, cleaning stations, a
 Andrea I and II lie to the south with similar wall/reef profiles. 1000 Steps is a short drive north. Jeff Davis Memorial and Boka di Tolo are also nearby along the northern coast road.
 
 ---
-*Sources: [Sunwise Bonaire – Oil Slick Leap](https://sunwisebonaire.com/blog/bonaire-dive-sites-oil-slick-leap/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/). Last updated 2026-05-18.*
+*Sources: [Sunwise Bonaire – Oil Slick Leap](https://sunwisebonaire.com/blog/bonaire-dive-sites-oil-slick-leap/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/). Last updated 2026-05-24.*

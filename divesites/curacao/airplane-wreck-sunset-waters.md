@@ -57,4 +57,4 @@ Beach entry via the former Sunset Waters/Coral Cliff Resort beach. Access is thr
 Watch for boat traffic when surfacing between the breakwaters — use a surface marker buoy. The site is generally calm and protected.
 
 ---
-*Sources: [Divers-Guide.com — Sunset Waters](https://www.divers-guide.com/en/sunset-waters), [DiveCuracao.info — Wreck Diving Guide](https://www.divecuracao.info/dive/curacao-diving-guide/wreck-diving-in-curacao/), [Atlas Obscura — Air Aruba P4-YSA Willemstad](https://www.atlasobscura.com/places/the-wreck-of-air-aruba-p4-ysa-willemstad-curacao). Last updated 2026-05-23.*
+*Sources: [Divers-Guide.com — Sunset Waters](https://www.divers-guide.com/en/sunset-waters), [DiveCuracao.info — Wreck Diving Guide](https://www.divecuracao.info/dive/curacao-diving-guide/wreck-diving-in-curacao/), [Atlas Obscura — Air Aruba P4-YSA Willemstad](https://www.atlasobscura.com/places/the-wreck-of-air-aruba-p4-ysa-willemstad-curacao). Last updated 2026-05-24.*

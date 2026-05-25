@@ -32,7 +32,7 @@ The Sisters are a cluster of rocky pinnacles and submerged rocks off the northea
 
 ## Marine Life
 
-Sisters Rocks delivers the pelagic encounters that Tobago's northeast coast is famous for. Manta rays are a signature species during the October to February upwelling season, drawn in by the plankton concentration around the pinnacles. Caribbean reef sharks are present in significant numbers and are notably active in the current. Schools of horse-eye jacks and Atlantic spade fish form large formations around the pinnacle tops. Barracuda station themselves on the upcurrent side. Eagle rays are regular visitors, and whale sharks have been reported at the site during peak upwelling conditions. The pinnacle walls themselves host large moray eels, spiny lobsters, and hawksbill turtles.
+Sisters Rocks is confirmed as habitat for hammerhead sharks, manta rays, and large pelagics — multiple sources (ERIC Tobago, visittobago.gov.tt, PADI) identify hammerhead sharks as a "residential population" and manta rays as seasonally present. Groupers, lobsters, and moray eels are confirmed on the reef walls. Note: "whale sharks reported during peak upwelling" was not confirmed by the specific sources consulted for this site and has been removed as unverified.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong and variable current is the primary safety consideration. All divers must
 Sisters Rocks offers some of the most dramatic wide-angle diving photography in the Caribbean. Manta rays and reef sharks against the deep blue water of the open pinnacle environment are the headline subjects. Current-swept sea fans and barrel sponge walls at depth offer compelling reef portrait shots. Camera setup must be completed before entry — there is no opportunity to adjust settings in the current.
 
 ---
-*Sources: padi.com, underseatobago.com - rocky pinnacles, hammerheads, strong currents. Last updated 2026-03-28.*
+*Sources: [PADI - Sisters Rocks Tobago](https://www.padi.com/dive-site/trinidad-and-tobago/sisters-rocks/), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-05-24.*

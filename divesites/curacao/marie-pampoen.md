@@ -54,4 +54,4 @@ Harbour entry with minimal coral rubble. Reef shoes recommended. The protected h
 The Car Pile has entanglement hazards — navigate carefully around metal protrusions. A surface marker buoy is recommended for ascent. Be aware of boat traffic in the harbour area.
 
 ---
-*Sources: [Divers-Guide.com — Marie Pampoen](https://www.divers-guide.com/en/marie-pampoen), [DiveCuracao.info — Dive Sites](https://www.divecuracao.info/dive/curacao-diving-guide/), [Scubacao.com — Marie Pampoen](https://scubacao.com/places/marie-pampoen/). Last updated 2026-05-23.*
+*Sources: [Divers-Guide.com — Marie Pampoen](https://www.divers-guide.com/en/marie-pampoen), [DiveCuracao.info — Dive Sites](https://www.divecuracao.info/dive/curacao-diving-guide/), [Scubacao.com — Marie Pampoen](https://scubacao.com/places/marie-pampoen/). Last updated 2026-05-24.*

@@ -63,4 +63,4 @@ The wall is excellent for wide-angle reef-and-diver compositions with strong amb
 Karpata lies a short drive north and shares a similar wall profile. La Denia's Leap and Weber's Joy / Witches Hut are in the same northern corridor. The Washington Slagbaai National Park boundary is just north of the site.
 
 ---
-*Sources: [Divers-Guide – Thousand Steps](https://www.divers-guide.com/en/thousand-steps), [Sunwise Bonaire – 1000 Steps](https://sunwisebonaire.com/blog/1000-steps-bonaire-diving/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html). Last updated 2026-05-18.*
+*Sources: [Divers-Guide – Thousand Steps](https://www.divers-guide.com/en/thousand-steps), [Sunwise Bonaire – 1000 Steps](https://sunwisebonaire.com/blog/1000-steps-bonaire-diving/), [Scuba Diving Smiles – Bonaire Northern Sites](https://www.scuba-diving-smiles.com/bonaire-diving.html). Last updated 2026-05-24.*

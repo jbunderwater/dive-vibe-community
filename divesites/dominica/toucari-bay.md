@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Toucari Bay
 
-Toucari Bay is a reef dive site in Dominica, Caribbean.
+Toucari Bay (also known as Toucari Caves) features one of Dominica's most celebrated reef systems in the north of the island — a honeycomb of coral archways, underwater grottos, and swim-through tunnels rated among the best diving in the country.
 
 ## Overview
 
-Toucari Bay features one of Dominica's healthiest reef systems, with a honeycomb of coral archways, swim-throughs, and cavern tunnels whose ceilings are encrusted with hard corals. Volcanic fumaroles release streams of bubbles from the sandy ocean floor, creating a champagne-like effect unique to Dominica's volcanic geology. The shallow caves at 10 meters harbor blackbar soldierfish and glasseye sweepers, while the reef drops to 33 meters where schools of mahogany snapper, frogfish, and electric rays can be found among spectacular sponge and coral formations.
+Located on Dominica's northern coast, Toucari Bay is described by multiple operators as "perhaps the most beautiful dive in Dominica." The reef features a system of caverns, coral archways, and tunnels — two tunnels of roughly 25 and 45 feet in length provide swim-throughs for the main dive. These passages are not true overhead caves but rather open cavern structures with good ambient light. A fumarole on the ocean floor below the reef vents bubbles into the water column, a reminder of Dominica's volcanic geology. Coral-covered rocks extend from the beach out to the main reef at approximately 40 feet, where the reef drops to 110 feet. Toucari Bay is excellent for both day and night dives. Maximum depth for the cave and cavern section is approximately 38 feet; the full reef drops considerably deeper.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 33 meters
 
 ## Marine Life
 
-The shallow caves at 10 meters shelter blackbar soldierfish and glasseye sweepers, while frogfish and electric rays are found among the sponge and coral formations on the deeper reef. Schooling mahogany snapper patrol the coral archways, and volcanic fumaroles provide warm micro-habitats that attract unusual invertebrates and crustaceans not typically found on standard Caribbean reefs.
+Blackbar soldierfish and glasseye sweepers are documented in the cavern swim-throughs. Schools of mahogany snapper patrol the deeper reef sections around 110 feet. Frogfish, octopus, moray eels, rays, squid, lobster, trumpetfish, and parrotfish are all noted on the reef proper. The fumarole area attracts invertebrates associated with the thermal microhabitat.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [Cabrits Dive Center](https://cabritsdive.com/diving-in-dominica/), [Dominica Dive Operations](https://dominicadiveoperations.com/dive-locations/toucari-bay-cave-dominica/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Dive Training Magazine](https://dtmag.com/thelibrary/clear-blue-exploring-dominica/), [Dive Dominica](https://divedominica.com/dominica-dive-sites/). Last updated 2026-05-24.*

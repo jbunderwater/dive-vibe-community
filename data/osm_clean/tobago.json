@@ -9,55 +9,63 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "scubaboard forums, underseatobago.com, visittobago.gov.tt"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "eric-tobago.org,visittobago.gov.tt,tropicalsky.co.uk,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. ERIC Tobago confirms tube sponges, vase sponges, sea whips, Kamikaze Cut passage, nurse sharks in sheltered area. Colourful organ pipe corals and barrel sponges confirmed. Manta ray attribution removed from this specific site (mantas documented at Kelleston Drain and Sisters Rocks with more specificity). Eagle rays and reef sharks removed as unconfirmed specifically at this site."
+    }
   },
   {
     "name": "Kelleston Drain",
     "lat": 11.28,
     "lon": -60.49,
     "depth": 40,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "destinationtnt.com, visittobago.gov.tt, ERIC Tobago - world's largest brain coral"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "destinationtnt.com,eric-tobago.org,visittobago.gov.tt,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. site_type confirmed drift. Giant brain coral ~10ft high x 16ft wide confirmed as western hemisphere's largest (ERIC Tobago, destinationtnt.com). Manta rays confirmed as seasonal at this site. Nurse sharks, Caribbean reef sharks, large barracuda, green morays confirmed. Depth 40m confirmed. Located off Little Tobago, 1.8 miles east of Speyside."
+    }
   },
   {
     "name": "Cathedral",
     "lat": 11.295,
     "lon": -60.505,
     "depth": 37,
-    "site_type": "cave",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Speyside area dive site - research"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "visittobago.gov.tt,tobagodiveexperience.com,tripadvisor.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. site_type corrected cave->reef (rocky overhangs and ledges, not a true cave). Also known as 'Flying Manta'. Manta rays associated with this location in northeast corridor. Depth 37m confirmed. Manta season: March-July (April/May peak). Specific manta encounter claims for this site vs adjacent sites not definitively separated in sources."
+    }
   },
   {
     "name": "London Bridge",
     "lat": 11.3,
     "lon": -60.51,
     "depth": 30,
-    "site_type": "rock_formation",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "visittobago.gov.tt, justgottadive.com - natural arch, strong current/surge"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "eric-tobago.org,visittobago.gov.tt,tropicalsky.co.uk,scubaverse.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. site_type was 'rock_formation' (invalid) - corrected to reef. ERIC Tobago confirms natural arch/deep passageway. Lobsters, moray eels, jack schools confirmed. Arch 'rises out of the water' per ERIC. Advanced conditions possible in strong current."
+    }
   },
   {
     "name": "Maverick Wreck",
@@ -69,10 +77,12 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "visittobago.gov.tt, wildturtlescuba.com - M.V. Maverick ferry (1997)"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "visittobago.gov.tt,divingintobago.com,padi.com,underseatobago.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Original name 'Scarlet Ibis' confirmed. Sunk April 1997 (NOT 1996). Length conflict: visittobago says 198ft 9in, dive operators say 185ft - both refer to same vessel, conflict noted in description. Depth: 100ft (30m) to top deck ~60ft (18m). Green moray eel (resident), Creole wrasse, striped grunts, mangrove snappers, cobia confirmed. Most visited wreck in Tobago confirmed."
+    }
   },
   {
     "name": "Diver's Dream",
@@ -84,10 +94,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Speyside area dive site"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "tropicalsky.co.uk,visittobago.gov.tt,eric-tobago.org",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Confirmed as rocky reef plateau at 50-70ft with open ocean exposure. Gorgonian corals and barrel sponges to 6ft confirmed. Current can be strong. 'Caribbean reef sharks making regular passes' and 'eagle rays as frequent visitors' removed - unconfirmed specific to this site."
+    }
   },
   {
     "name": "Bookends",
@@ -96,13 +108,15 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Speyside area dive site"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "tropicalsky.co.uk,visittobago.gov.tt,eric-tobago.org",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Difficulty corrected Beginner->Intermediate: Tropical Sky describes as condition-dependent and can be Advanced in strong current. Two rock slabs protruding above surface confirmed. Blacktip sharks, nurse sharks, tarpon, turtles, rays confirmed when conditions permit diving. Previous description of 'sandy channel between bookend formations' was fabricated - actual site is two rock slabs forming amphitheatre."
+    }
   },
   {
     "name": "Angel Reef",
@@ -114,25 +128,29 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "Speyside area dive site"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "tropicalsky.co.uk,visittobago.gov.tt,eric-tobago.org",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Angel Reef confirmed as sheltered by Goat Island, calmer waters. Good for second dives and night dives. 'Angelfish pairs as constant distinctive presence' removed - unconfirmed by primary sources. General Speyside reef community applies."
+    }
   },
   {
     "name": "Flying Reef",
     "lat": 11.31,
     "lon": -60.52,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "padi.com, underseatobago.com, visittobago.gov.tt - gentle drift 0-2 knots"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "padi.com,visittobago.gov.tt,tropicalsky.co.uk",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. site_type corrected to drift: Columbus Passage with strong westerly current flowing along reef wall to north side of Little Tobago Island. Parrotfish, blue chromis, Creole wrasse confirmed. 'Eagle rays as defining feature' removed - unconfirmed. Strong current noted - may be more Intermediate than Beginner in strong conditions."
+    }
   },
   {
     "name": "Arnos Vale",
@@ -144,25 +162,29 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "visittobago.gov.tt, maritimeoceancollection.com - bay nursery, rocky shelf"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "visittobago.gov.tt,maritimeoceancollection.com,tropicalsky.co.uk",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Nursery bay confirmed, rocky shelf. Night diving for squid, moray eels, crustaceans confirmed. Shore entry confirmed. 'Eagle rays regularly' and 'manta ray occasional' claims removed - unconfirmed at this specific site. Site is sheltered Caribbean coast nursery, not open pelagic zone."
+    }
   },
   {
     "name": "Mt Irvine Wall",
     "lat": 11.2,
     "lon": -60.8,
-    "depth": 15,
+    "depth": 18,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "visittobago.gov.tt, wildturtlescuba.com - rocky wall with crevices"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "visittobago.gov.tt,tropicalsky.co.uk,maritimeoceancollection.com,divingintobago.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Depth corrected 15m->18m (60ft per Tropical Sky). Two historical cannons from Dutch East India Company confirmed. Moray eels, spiny lobsters, crabs, scorpionfish, flying gurnards, seahorses confirmed in crevices. Most popular Caribbean coast site confirmed."
+    }
   },
   {
     "name": "Sisters Rocks",
@@ -174,10 +196,12 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
-    },
-    "validated": true,
-    "validation_source": "padi.com, underseatobago.com - rocky pinnacles, hammerheads, strong currents"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "padi.com,eric-tobago.org,visittobago.gov.tt,tropicalsky.co.uk",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. Hammerhead sharks as residential population confirmed (ERIC Tobago, PADI, Tropical Sky). Manta rays seasonal confirmed. Rocky pinnacles 1.5 miles north of Tobago confirmed. Depth 40m+ confirmed. 'Whale sharks reported' removed - unconfirmed at this specific site. Blacktip sharks, nurse sharks, tarpon, turtles confirmed from Bookends description overlap - but these are adjacent sites."
+    }
   },
   {
     "name": "Buccoo Reef",
@@ -197,9 +221,11 @@
       "ramsar": "yes",
       "ref:ramsar": "1496",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    },
-    "validated": true,
-    "validation_source": "Wikipedia, britannica.com, visittobago.gov.tt - RAMSAR marine park, 7 km² complex"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "wikipedia.org,britannica.com,visittobago.gov.tt,xtremespots.com",
+      "last_qa_date": "2026-05-24",
+      "qa_notes": "Re-audited 2026-05-24. RAMSAR site confirmed. National park since 1973 confirmed. Avg depth 10m, max 15m (outer edge stated as 25m in some sources). Elkhorn coral (outer flats), star coral (reef crests), brain coral (coral gardens) confirmed. Degraded condition from pollution and reef walking documented. Jacques Cousteau ranking as 3rd most breathtaking reef - unverified claim, not included in site description."
+    }
   }
 ]

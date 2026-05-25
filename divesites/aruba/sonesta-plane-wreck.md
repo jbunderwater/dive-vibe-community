@@ -62,4 +62,4 @@ Interior penetration of the YS-11 should not be attempted without proper buoyanc
 The intact YS-11 is one of the most dramatic aircraft wreck subjects in the Caribbean — the cockpit window frames and instrument panel interior make compelling subjects. The scattered Convair propellers and fuselage sections partially covered in coral offer excellent macro and wide-angle subjects.
 
 ---
-*Sources: [Pure Diving Aruba - Airplanes](https://www.puredivingaruba.com/diving-aruba/wrecks/airplanes/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/), [Scuba.com - Dive Two Unique Airplane Wrecks in Aruba](https://www.scuba.com/blog/dive-two-unique-airplane-wrecks-in-aruba/). Last updated 2026-05-17.*
+*Sources: [Pure Diving Aruba - Airplanes](https://www.puredivingaruba.com/diving-aruba/wrecks/airplanes/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/), [Scuba.com - Dive Two Unique Airplane Wrecks in Aruba](https://www.scuba.com/blog/dive-two-unique-airplane-wrecks-in-aruba/). Last updated 2026-05-24.*

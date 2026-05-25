@@ -8,10 +8,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI, Dressel Divers, ScubaCaribe",
+    "validation_source": "dresseldivers.com,scubacaribe.com,coralpointdiving.com,scubaboard.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -23,10 +24,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Dressel Divers, ScubaCaribe, Ultramarinedivers, DiveSSI",
+    "validation_source": "coralpointdiving.com,ultramarinedivers.com,prodiveinternational.com,scubaboard.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -38,10 +40,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "TripAdvisor, Lonely Planet, Global National Parks",
+    "validation_source": "wikipedia.org,globalnationalparks.com,visitadominicana.com,scubatravel.co.uk",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -51,12 +54,13 @@
     "depth": 10,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Dominican Divers, TripAdvisor, Scuba Diving Mag",
+    "validation_source": "dr-ss.com,cave-diving.do,scubadiving.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -68,10 +72,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Scuba Diving Mag, Bayahibe operators",
+    "validation_source": "coralpointdiving.com,dresseldivers.com,scubaboard.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -83,10 +88,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Dressel Divers, Pro Dive International",
+    "validation_source": "prodiveinternational.com,dresseldivers.com,diveoclock.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -98,10 +104,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Grand Bay, Scuba Diving Mag",
+    "validation_source": "grandbay-puntacana.com,padi.com,scubatravel.co.uk",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -113,10 +120,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI Las Terrenas, TDA Las Terrenas",
+    "validation_source": "tdalasterrenas.com,padi.com,gooddive.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -128,10 +136,11 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Sosua Beach DR, Superior Dive Sosua",
+    "validation_source": "superiordivesosua.com,sosuabeachdr.com,scubadivesosua.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -143,10 +152,11 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "CaveAtlas, Cave-diving.do, Scuba Dominicana",
+    "validation_source": "dr-ss.com,cave-diving.do,caveatlas.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -158,10 +168,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Wanderlog, Dominican Divers, Coral Point Diving",
+    "validation_source": "coralpointdiving.com,ultramarinedivers.com,divingdr.com,divessi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -175,7 +186,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Zentacle, Wannadive, Diwa Dominicana, Adrex",
+    "validation_source": "adrex.com,sosuabeachdr.com,scubadivesosua.com,superiordivesosua.com",
     "tags": {
       "historic": "wreck",
       "name": "Zingara",
@@ -185,7 +196,8 @@
       "sport:scuba_diving": "yes",
       "wreck:depth": "35m",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -199,7 +211,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Scuba Diving Mag, Bayahibe operators",
+    "validation_source": "coralpointdiving.com,scubaboard.com,scubadiving.com",
     "tags": {
       "name": "Aquarium",
       "scuba": "yes",
@@ -209,7 +221,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -223,7 +236,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Scuba Diving Mag, Bayahibe operators",
+    "validation_source": "coralpointdiving.com,reefoasisdiveclub.com,scubaboard.com",
     "tags": {
       "name": "The Wall",
       "scuba": "yes",
@@ -233,7 +246,8 @@
       "scuba_diving:type": "wall",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -247,12 +261,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Las Galeras Divers, Playita Scuba Diving center",
+    "validation_source": "las-galeras-divers.com,tdalasterrenas.com,gooddive.com",
     "tags": {
       "name": "Playita",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -265,13 +280,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Las Galeras Divers center, local operators",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Las Galeras Divers",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "qa_note": "OSM entry likely refers to Las Galeras Divers dive shop (commercial operator), not a named dive site. Coordinates are very close to Playita (19.2944N, 69.2077W). Cannot confirm this is a distinct dive site versus the dive center itself. Flagged for removal or rename. Last checked 2026-05-24.",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -283,16 +300,17 @@
     "depth": 16,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Wikipedia, DiveSSI, Divebooker, Dominican Divers",
+    "validation_source": "wikipedia.org,dominicandivers.com,divessi.com,wanderlog.com",
     "tags": {
       "historic": "wreck",
       "name": "Astron",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-05-24"
     }
   }
 ]

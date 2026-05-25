@@ -32,4 +32,4 @@ Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea col
 Eagle rays feed in the nearby grass beds and regularly glide past the exposed volcanic boulders, while the strong tidal flow that characterizes this headland draws Caribbean reef sharks and larger pelagics to the site. Southern stingrays and hawksbill turtles are present in calmer sections, and the fire coral and sponge-encrusted boulders support moray eels and spiny lobsters in the crevices at depth.
 
 ---
-*Sources: DiveBuddy, scubaspace.club, dive operator sites. Last updated 2026-03-16.*
+*Sources: [divebuddy.com - Nag's Head](https://www.divebuddy.com/), [prodiversstkitts.com - Nag's Head](https://prodiversstkitts.com/), [mystkittsdivebuddy.com - SE Peninsula Dives](https://mystkittsdivebuddy.com/). Last updated 2026-05-24.*

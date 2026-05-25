@@ -55,4 +55,4 @@ Shore entry from Tugboat Beach is across sand — an easy walk into the water. T
 The shallow depth and calm, protected bay make this one of Curaçao's safest dive sites. The wreck structure should be navigated carefully to avoid disturbing marine growth. The surrounding Caracasbaai area is within the Curaçao National Marine Park.
 
 ---
-*Sources: [DiveCuracao.info — Tugboat](https://www.divecuracao.info/dive/curacao-diving-guide/tugboat/), [Divers-Guide.com — Tugboat Curaçao](https://www.divers-guide.com/en/tugboat-curacao), [TravelInMyPocket — Tugboat Curaçao](https://www.travelinmypocket.com/tugboat-curacao-caracas-bay-peninsula/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Tugboat](https://www.divecuracao.info/dive/curacao-diving-guide/tugboat/), [Divers-Guide.com — Tugboat Curaçao](https://www.divers-guide.com/en/tugboat-curacao), [TravelInMyPocket — Tugboat Curaçao](https://www.travelinmypocket.com/tugboat-curacao-caracas-bay-peninsula/). Last updated 2026-05-24.*

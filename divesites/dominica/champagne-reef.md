@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Champagne Reef
 
-Champagne Reef is a reef dive site in Dominica, Caribbean.
+Champagne Reef is Dominica's most famous dive site — an active geothermal vent that releases streams of volcanic gas bubbles from the sandy seafloor, creating the unmistakable sensation of diving inside a glass of sparkling water.
 
 ## Overview
 
-Champagne Reef is one of the most distinctive dive sites in the Caribbean — an active volcanic hydrothermal vent releases continuous streams of bubbles from the seabed, warming the water noticeably near the bottom and creating the unmistakable sensation of diving inside a glass of sparkling water. The fringing reef slopes gradually from the shore, with coral-encrusted rock formations and a near-perpendicular 30-metre wall studded with brilliant sponges in pink azure, red rope, yellow tube, and purple vase alongside octopuses, seahorses, parrotfish, and eels. Part of the Soufriere Scotts Head Marine Reserve, the reef is easily accessible for all levels and is a key site in what many consider the best diving in the Eastern Caribbean.
+Located at the northern end of the Soufriere Scotts Head Marine Reserve, Champagne Reef is accessible from a black lava beach via a boardwalk, with easy shore entry and typically calm conditions and very little current. The geothermal vents are concentrated in the shallow sandy area near the beach, where the sand itself is noticeably warm to the touch. Beyond the vent field, the fringing reef slopes gradually to about 12 metres before reaching a near-perpendicular wall section that drops to around 30 metres — this wall section is studded with large barrel sponges and encrusting corals. The dive is typically done as a circuit: explore the wall and reef first, then finish with a leisurely safety stop through the bubble fields.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ## Marine Life
 
-Champagne Reef is renowned for its macro life, with seahorses clinging to coral rubble near the vent fields, octopuses hunting in the shallows, and moray eels weaving through the sponge-encrusted rock faces. Parrotfish, angelfish, and creole wrasse are abundant throughout, and the warm hydrothermal vent areas attract smaller crustaceans and unusual invertebrates not typical of standard Caribbean reefs.
+The vent fields and adjacent reef are documented habitat for seahorses, frogfish (several color variants), flying gurnards on the sandy areas, squid, crabs, lobsters, and moray eels. Spotted drums, scorpionfish, yellowline arrow crabs, and pufferfish are also regularly observed. Parrotfish, including stoplight parrotfish, are common on the reef section. No site-specific source confirms large pelagics at Champagne Reef itself.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [Dive O'Clock](https://www.diveoclock.com/destinations/Caribbean/Dominica/Champagne/), [Cocoa Cottage Dominica](https://cocoacottagedominica.com/champagne-reef/), [Divers Alert Network](https://dan.org/alert-diver/article/dominica-above-and-below-the-nature-isle/). Last updated 2026-05-24.*

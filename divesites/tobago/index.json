@@ -19,7 +19,7 @@
     "difficulty": "Advanced",
     "maxDepth": 40,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },
@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 37,
     "entryType": "boat",
-    "siteType": "cave",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -43,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "rock_formation",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -76,7 +76,7 @@
     "filename": "bookends.md",
     "lat": 11.305,
     "lng": -60.515,
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "boat",
     "siteType": "reef",
@@ -103,7 +103,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },
@@ -125,7 +125,7 @@
     "lat": 11.2,
     "lng": -60.8,
     "difficulty": "Beginner",
-    "maxDepth": 15,
+    "maxDepth": 18,
     "entryType": "shore",
     "siteType": "wall",
     "ref": "",

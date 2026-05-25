@@ -5,7 +5,7 @@ lng: -61.3621
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Soufrière Pinnacle
 
-Soufrière Pinnacle is a wall dive site in Dominica, Caribbean.
+Soufrière Pinnacle is a cluster of three volcanic pinnacles rising from a 25-foot shelf in the sheltered bay directly in front of Soufrière village, known locally as "the Fish Bowl" for its dense aggregations of reef fish.
 
 ## Overview
 
-Soufrière Pinnacle is a series of pinnacles rising from a 25-foot shelf directly in front of Soufrière Village, with the swim to the site passing over bubbling submerged hot springs — a reminder that Soufrière Bay itself is the flooded crater of an ancient volcano. The gently sloping approach and minimal current in the sheltered bay make this an easy dive suitable for all levels, with the reef running from 25 to 80 feet adorned with brilliant sponges, abundant reef fish, and the occasional seahorse in the crevices. The site connects naturally into the dramatic L'Abym wall to its south, making it a popular first or second dive in a multi-dive day at Soufrière.
+Approached from the bay by boat, the swim to the site passes over submerged hot springs that bubble through the volcanic sand — a reminder that Soufrière Bay occupies the flooded caldera of an ancient volcano. The three main pinnacles are sponge- and crinoid-encrusted, rising to within 10 metres of the surface from a shelf at approximately 8 metres (25 feet), with the surrounding seabed dropping to 25 metres. The gentle current in the sheltered bay and the minimal swell make this one of the easiest dives in the southern marine reserve, and it is frequently used as a second or warm-up dive alongside L'Abym or Danglebens Pinnacles. The site connects naturally southward toward the L'Abym wall.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Marine Life
 
-The sheltered bay and brilliant sponge-encrusted pinnacles attract a dense mix of reef fish including sergeant majors, creole wrasse, and angelfish, with seahorses tucked into gorgonian crevices being a regular highlight. Hawksbill turtles graze the sponge-rich walls and moray eels are common throughout, while nudibranchs and cleaning stations reward patient macro divers.
+The sponge- and crinoid-covered pinnacles attract dense populations of reef fish including butterflyfish, moray eels, goatfish, and sergeant majors. Seahorses and frogfish are regularly found in the crevices. Hawksbill turtles are frequently sighted grazing the sponge-covered structures, and lobsters inhabit the deeper recesses. Squid are common in the water column above the site.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Divers Alert Network](https://dan.org/alert-diver/article/dominica-above-and-below-the-nature-isle/), [ETB Travel Photography](https://etbtravelphotography.com/diving-dominica/). Last updated 2026-05-24.*

@@ -61,4 +61,4 @@ Unique east-coast reef environment. If conditions are good, the clear water and 
 Cai is the other main east-coast dive site, to the north at the mouth of Lac Bay. Western sites are across the island.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – White Hole](https://www.divers-guide.com/en/white-hole), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – White Hole](https://www.divers-guide.com/en/white-hole), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

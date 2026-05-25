@@ -3,7 +3,7 @@ name: Grid Iron
 lat: 17.27
 lng: -62.635
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -23,13 +23,13 @@ Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, ext
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 24 meters
 
 ## Marine Life
 
 The massive mountainous star coral colonies — some reaching 3–5 metres in diameter — provide reef structure that supports Caribbean reef sharks, large spiny lobsters, and hawksbill turtles at this well-documented Atlantic-side site. Parrotfish and blue tangs graze the recovering elkhorn coral stands, and long-spined sea urchins throughout the reef serve as key grazers keeping the coral healthy and algae-free.
 
 ---
-*Sources: Limited public information available. Last updated 2026-03-16.*
+*Sources: [activecaribbeantravel.com - St Kitts Diving](https://www.activecaribbeantravel.com/), [mystkittsdivebuddy.com - Grid Iron](https://mystkittsdivebuddy.com/), [padi.com - Grid Iron St Kitts](https://www.padi.com/). Last updated 2026-05-24.*

@@ -23,7 +23,7 @@ Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 
@@ -32,4 +32,4 @@ Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone
 The volcanic canyons and swim-throughs are inhabited by French angelfish, barracuda, nurse sharks, and moray eels, while hawksbill turtles graze the tube sponges and sea fans along the deeper reef sections. The five historic anchors embedded in coral fingers are a unique draw, and spiny lobsters and large groupers occupy the deeper clefts and overhangs well past 30 metres.
 
 ---
-*Sources: My St Kitts Dive Buddy, dive operator sites, DiveBuddy. Last updated 2026-03-16.*
+*Sources: [mystkittsdivebuddy.com - Sandy Point](https://mystkittsdivebuddy.com/), [divebuddy.com - Sandy Point Reef](https://www.divebuddy.com/), [afar.com - Diving St Kitts](https://www.afar.com/). Last updated 2026-05-24.*

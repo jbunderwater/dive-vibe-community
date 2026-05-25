@@ -19,7 +19,7 @@
       "wreck_type": "German cargo freighter (HAPAG Hamburg America Line)",
       "sinking_method": "scuttled by crew (seacocks opened, fires set)",
       "note": "Lies on port side, depth 5-18m. Broken in two amidships by 1953 storm. Largest wreck accessible to divers in Caribbean.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -36,7 +36,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Inner bowl 55ft/17m, outer reef slope to 90ft/27m. Kappel tugboat wreck (51ft/15m) sunk November 2009 on sandy bottom adjacent to reef. Shore entry.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -53,7 +53,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Shallow 15-35ft, seagrass/sand areas transitioning to coral patches. Calm bay, minimal current. Green sea turtles common.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -70,7 +70,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Scattered Lockheed Lodestar aircraft wreck at ~12m depth. Turtle feeding and cleaning station for green and hawksbill turtles. Max 50ft/16m per JADS.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -96,7 +96,7 @@
       "operation": "Operation Neuland",
       "casualties": 8,
       "note": "Only the midsection remains at 25ft/8m. Fore and aft sections were salvaged, joined, and rebuilt in Baltimore. Midsection used post-war as Dutch Navy target practice before becoming dive site.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -120,7 +120,7 @@
       "year_sunk": 1988,
       "sinking_date": "September 4, 1988",
       "note": "Intentionally scuttled as artificial reef. Bow at 18m, propeller at 27m. Upright on sandy bottom. Previously named Blackthorn (1959), Rudyard (1976), Jane Sea (1980), then renamed Jane C. Cocaine story is contested - Aruba Ports Authority records indicate engine failure and abandonment.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -137,12 +137,12 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Hard coral reef, max 75ft/25m per JADS. Schools of jacks, snapper, occasional barracuda. Southern coast with good visibility.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
     "name": "Malmok Reef",
-    "lat": 12.5980,
+    "lat": 12.598,
     "lon": -70.0624,
     "depth": 5,
     "site_type": "reef",
@@ -154,7 +154,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Shallow 2-5m, crystal clear calm water. Brain and leaf coral, stingrays, turtles on sandy bottom. Good macro site. Training and certification dives. Visibility 25m.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -171,13 +171,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Two aircraft: (1) Convair 240 - scattered by storms, wing tip 14m/46ft to cockpit 22m/72ft; (2) Air Aruba NAMC YS-11 - intact, upright, cockpit 16m/52ft to tail 27m/90ft. No Beech 18. YS-11 sunk 2004 by Aruba Water Sports Association. Location: in front of Renaissance Island.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
     "name": "Kantil Reef",
-    "lat": 12.4750,
-    "lon": -70.0010,
+    "lat": 12.475,
+    "lon": -70.001,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -188,7 +188,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Reef slope transitioning to wall drop-off reaching ~100ft/33m per JADS. Hard and soft coral. Advanced due to depth potential.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -205,7 +205,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Depths 20-60ft. Enormous gorgonian sea fans, brain and star corals, brilliant purple/orange sponges. Barracuda common above reef top.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -222,7 +222,7 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "note": "Coral slope off De Palm Island, 15-120ft depth range. Cessna 414 wreck intentionally sunk as artificial reef. Moray eels, parrotfish, nurse sharks, great barracuda. Drift diving possible. 10 min by boat.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -247,7 +247,7 @@
       "wreck_type": "British wooden steamship (West India and Pacific Steamship Company)",
       "year_sunk": 1891,
       "note": "North/windward coast. Depth 10-14m (30-45ft). Rarely dived - no regular dive operator schedule due to rough seas and strong currents. Little remains of original wooden structure. September-October offer best chance of calm conditions.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -272,7 +272,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "note": "OSM polygon of the same SS Antilla wreck as the SS Antilla Wreck entry (curated). Coordinates differ slightly (OSM polygon centroid vs curated point). Both reference the same 398ft/121m German freighter scuttled May 10, 1940. Hull visible at low tide.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-05-24"
     }
   }
 ]

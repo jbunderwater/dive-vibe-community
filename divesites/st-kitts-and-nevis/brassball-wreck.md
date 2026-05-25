@@ -28,4 +28,4 @@ The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: My St Kitts Dive Buddy, Pro Divers St Kitts. Last updated 2026-03-16.*
+*Sources: [mystkittsdivebuddy.com - Brassball Wreck](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [prodiversstkitts.com - Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*

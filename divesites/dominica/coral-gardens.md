@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Coral Gardens
 
-Coral Gardens is a reef dive site in Dominica, Caribbean.
+Coral Gardens is a shallow, sheltered reef in Batali Bay within the Soufriere-Scotts Head Marine Reserve, notable for its dense finger and pencil coral formations and an exceptional variety of macro critters.
 
 ## Overview
 
-Coral Gardens is a shallow, sheltered reef in Batali Bay near the Cabrits National Park Marine Section, with large areas of finger coral and pencil coral providing habitat for turtles, schooling horse-eyed jacks, sennet, and diverse reef fish when currents concentrate them at the site. The site is part of a large reef system that includes Dangleben's Pinnacles, Coral Gardens South, and L'Abym North, giving it a calm and colourful character distinct from Dominica's more dramatic wall dives. Turtles are frequently sighted here, and big sponges add brilliant colour to a dive that is well-suited to beginners exploring Dominica's rich volcanic reef ecology.
+Nestled in Batali Bay inshore from Danglebens Pinnacles, Coral Gardens and the adjacent Batali Pinnacle form two of the most sheltered dive sites in the southern marine reserve. The reef starts at 20–30 feet with large areas of finger coral and pencil coral over a sandy bottom, the sand harboring red heart sea urchins and small clusters of garden eels along with occasional upside-down jellyfish. Rocky overhangs and ledges provide shelter for an extraordinary variety of small creatures, and this site is consistently listed among Dominica's best critter dives. The site is well-suited to beginners and snorkelers, and conditions are generally calm.
 
 ## Site Information
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 
 ## Marine Life
 
-Hawksbill turtles are the headline attraction at Coral Gardens, frequenting the finger coral formations alongside schooling horse-eye jacks and sennet that concentrate where currents sweep the reef. Parrotfish, angelfish, blue tangs, and sergeant majors populate the shallower sections in good numbers, and the large barrel sponges provide shelter for lobsters and moray eels.
+Frogfish in multiple color variants — pink, yellow, brown, and black — are documented here, along with ornate lettuce leaf sea slugs, lizard fish, and Pederson cleaner shrimp at cleaning stations. Hawksbill turtles and horse-eye jacks are regular sightings, and sennet school where currents sweep the reef. Yellow-headed jawfish are noted in the sandy areas. Nurse sharks have been reported resting under ledges at this site on occasion, though sightings are not routine. Moray eels are common throughout the rocky sections.
 
 ---
-*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*
+*Sources: [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [Divers Alert Network](https://dan.org/alert-diver/article/dominica-above-and-below-the-nature-isle/), [Original Diving](https://www.originaldiving.com/blog/diving-in-dominica). Last updated 2026-05-24.*

@@ -61,4 +61,4 @@ The finger-like spur topography provides strong compositional leading lines for 
 - Golden Rock Dive Center: guided dives at Five Fingers South
 
 ---
-*Sources: PADI, lava bombs with macro diving opportunities. Last updated 2026-03-28.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-05-24.*

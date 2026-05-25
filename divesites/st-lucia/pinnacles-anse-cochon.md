@@ -32,4 +32,4 @@ Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like cora
 Hawksbill turtles frequent the coral columns, and patient divers may find seahorses and flounder tucked into the crevices between the pinnacle walls. The finger formations are an active breeding ground for juvenile queen and French angelfish, with feather duster worms, sea whips, and gorgonian fans providing habitat for a diverse cast of reef species in the shallow, sheltered bay.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [smmainc.com - Anse Cochon](https://www.smmainc.com/), [divesaintlucia.com - Pinnacles](https://www.divesaintlucia.com/), [padi.com - Anse Cochon Pinnacles](https://www.padi.com/). Last updated 2026-05-24.*

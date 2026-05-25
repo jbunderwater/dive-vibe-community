@@ -3,7 +3,7 @@ name: Bird Key Reef
 lat: 24.625
 lng: -82.875
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -13,53 +13,47 @@ addedBy: osm_import
 
 ## Bird Key Reef
 
-A shallow reef near an island famous for nesting seabirds, Bird Key Reef is an excellent beginner-friendly dive in Dry Tortugas with abundant marine life and colorful coral.
+Bird Key Reef is a shallow patch reef and seagrass complex southeast of Garden Key, serving as one of the park's Coral Reef Evaluation and Monitoring Project (CREMP) stations, with the added interest of unmarked wrecks and old anchors scattered among the seagrass flats.
 
 ## Overview
 
-Located near the small Bird Key island, this shallow reef is perfect for beginner divers and snorkelers. The site features healthy coral growth in crystal-clear water and offers excellent opportunities to observe tropical reef fish, coral structures, and occasionally sea turtles. The nearby Bird Key is protected habitat for nesting seabirds, adding ecological interest to the dive site. The shallow depth and exceptional visibility make this one of the most accessible dives in Dry Tortugas.
+The Bird Key anchorage, southeast of Garden Key, features spectacular seagrass flats and patch reefs that are among the park's more diverse shallow-water habitats. Bird Key itself is protected nesting habitat for sooty terns and brown noddies — one of the largest nesting colonies in North America. The nearby patch reefs and seagrass meadows contain random corals, sea fans, large clusters of finger corals, healthy queen conch populations, and the occasional unmarked wreck or old anchor discovered by drifting divers. The DAN Alert Diver notes that an incoming tide allows divers to drift back toward Fort Jefferson while exploring the seagrass and patch reef complex. Bird Key Reef is also an established CREMP coral monitoring station. The nearby Bird Key Wreck (also called the Brick Wreck) lies in just 4–6 feet of water, a 100-foot-long vessel carrying a cargo of yellow and refractory bricks.
 
 ## Site Information
 
-- **Location**: Near Bird Key, Dry Tortugas National Park, 70 miles west of Key West
+- **Location**: Southeast of Garden Key, Dry Tortugas National Park
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 18-37 meters (60-120 feet)
-- **Current**: Variable, generally light to moderate
+- **Maximum Depth**: 5 meters
+- **Typical Visibility**: Variable; seagrass areas can be lower than open reef
+- **Current**: Incoming tide useful for drift back toward Garden Key
 - **Best Time**: May to September
-- **Water Temperature**: 26-29°C (79-84°F) summer
+- **Water Temperature**: 26–29°C (79–84°F) summer
 
 ## Marine Life
 
-Abundant tropical reef fish including parrotfish, angelfish, damselfish, triggerfish, and grouper. Healthy coral formations (stony and gorgonian) cover the reef. Nurse sharks, reef sharks, sea turtles, and occasionally barracuda. The healthy reef ecosystem attracts both herbivores and predators, creating excellent marine life viewing.
+No site-specific species list distinct from the broader Dry Tortugas reef community was confirmed in reviewed sources for the reef portion of Bird Key. The seagrass and patch reef complex supports queen conch (documented by DAN) and coral reef fish typical of the national park. The nearby Bird Key Wreck hosts fish populations described as "usually loaded with fish" in the DAN source.
 
 ## Dive Profile
 
-Descend to the reef at shallow depth and explore the coral formations and fish schools. The entire reef is at accessible depth (under 10 meters) perfect for extended bottom time and relaxed exploration. Cruise around the reef, observing fish behavior and coral detail. The shallow depth means extended air consumption time and excellent light for photography. No safety stop required due to shallow depth.
+Shallow patch reef and seagrass exploration. Drift on an incoming tide toward Garden Key while exploring the seagrass meadow — divers may encounter unmarked wrecks or old anchors. The Bird Key Wreck lies in 4–6 feet of water and is accessible to snorkelers as well; a six-foot, four-blade wrought iron propeller on the sandy bottom marks the site. The seagrass flats and patch reefs are shallow and suitable for extended exploration.
 
 ## Entry and Exit
 
-Access is by boat from Key West operators. Entry via giant stride or back roll. The shallow depth and good visibility make navigation straightforward. Exit via boat pickup.
+Access is by boat only — the park is 70 miles from Key West. Anchor southeast of Garden Key on sandy bottom away from coral and seagrass. Use an incoming tide for drift-snorkeling back toward the fort. No air facilities exist in the park; arrive with full tanks.
 
 ## Tips and Recommendations
 
-- Perfect for beginner divers and snorkelers — shallow, clear, and fish-rich
-- The shallow depth allows 60+ minutes of bottom time at recreational levels
-- Bring a macro lens for detailed coral and fish photography
-- Bring a wide-angle lens for school photography and reef compositions
-- The site is accessible year-round but clearest May-September
-- Snorkelers can enjoy this site directly from the boat
-- Time your dive for slack tide for minimal current
+- Use an incoming tide to drift back toward Garden Key while exploring the seagrass
+- Look for unmarked wrecks and old anchors in the sandy seagrass areas
+- The Bird Key Wreck propeller on the sandy bottom is a distinctive landmark
+- Bird Key itself is a protected nesting area; observe seabirds from a distance and do not approach the island
+- Queen conch in the seagrass are protected — observe but do not remove
 
 ## Safety Considerations
 
-This is one of the safest dives in Dry Tortugas with minimal hazards. The shallow depth requires minimal navigation and decompression considerations. Light currents and exceptional visibility make this beginner-friendly. Always dive with a buddy and respect the protected coral and seabird habitat.
-
-## Photography
-
-The shallow, clear water and abundant fish schools create excellent wide-angle opportunities. The vibrant, intact coral formations provide strong subjects. Macro work on coral detail and small reef fish is exceptional. The shallow depth means excellent color saturation and natural lighting. One of the best beginner photography dive sites in Dry Tortugas.
+The shallow depths make this a low-risk dive for decompression. The park's remote location (70 miles from Key West) means no onsite emergency support; the nearest hyperbaric chamber is in Key West. Carry a marine VHF radio. Display a dive flag and always dive with a buddy.
 
 ---
-*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*
+*Sources: [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [FWC CREMP Dry Tortugas](https://myfwc.com/research/habitat/coral/cremp/overview/drytortugas/), [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm). Last updated 2026-05-24.*

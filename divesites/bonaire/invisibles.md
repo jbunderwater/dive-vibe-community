@@ -61,4 +61,4 @@ Wide-angle compositions across the sand channel from one reef to the other are u
 Salt City is immediately north. The Rock is nearby. Alice in Wonderland is south along the same coast with a very similar double-reef structure.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Beyond the Corals Bonaire – Invisibles](https://beyondthecorals.com/bonaire/dive-sites/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Beyond the Corals Bonaire – Invisibles](https://beyondthecorals.com/bonaire/dive-sites/), [Divers-Guide](https://www.divers-guide.com/en/bonaire). Last updated 2026-05-24.*

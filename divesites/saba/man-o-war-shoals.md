@@ -3,7 +3,7 @@ name: Man O War Shoals
 lat: 17.6083
 lng: -63.27
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Man O War Shoals
 
-A cluster of shallow volcanic shoals on Saba's southwest side, featuring coral-encrusted ridges, sand channels, and consistent turtle and eagle ray sightings.
+A steep twin-peaked volcanic structure on Saba's eastern side, featuring mooring at 20 feet and a sandy base at 70 feet — the only place in the Saba Marine Park to find Atlantic Spadefish, with exceptional biodiversity and rare Banded Jawfish.
 
 ## Overview
 
-Man O War Shoals is a scattered series of volcanic rocky shoals and submerged ridges on the southwestern end of Saba's coastline. The site features multiple distinct rocky structures rising from a sandy base at around 18–20 meters to within 6–8 meters of the surface. The complex topography created by the multiple shoals means divers can cover significant ground while staying within a well-defined, navigable area. As with all Saba Marine Park sites, the corals and invertebrates here have developed under full protection since 1987. Sea fans, brain corals, and star corals dominate the shallower sections; deeper sections carry sponge communities and scattered black coral bushes. Visibility averages 20–30 meters.
+Man O War Shoals is a steep volcanic rock formation on the eastern side of Saba, located east of Diamond Rock. According to Sea Saba Dive Center, the structure features twin peaks rising to 15 and 20 feet from the surface, with a sandy bottom at 70 feet (21 meters). The mooring sits at 20 feet to facilitate a figure-eight dive pattern around the base while spiraling upward between the two peaks. As with all Saba Marine Park sites, the corals and invertebrates here have developed under full protection since 1987. Black coral and sea fans are prominent on the deeper sections. Sea Saba describes this site as one of the Saba Marine Park's most "diverse and luxuriant" underwater environments. Visibility averages 20–30 meters.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–20 m |
+| Depth Range | 5–21 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Pinnacle |
@@ -33,7 +33,9 @@ Man O War Shoals is a scattered series of volcanic rocky shoals and submerged ri
 
 ## Marine Life
 
-Spotted eagle rays are a particularly reliable sighting at Man O War Shoals, often observed gliding across the sand channels between the shoal structures at 15–20 meters. Hawksbill turtles graze on sponges on the shallower shoal tops. Schools of horse-eye jacks patrol the open water between shoals, and a resident population of large barracuda holds station in mid-water. The sandy channels between the shoals host southern stingrays and garden eels. Caribbean reef sharks occasionally cruise the outer edge of the shoal complex.
+Sea Saba Dive Center notes Man O War Shoals as the only place in Saba to spot Atlantic Spadefish — a rare and distinctive species. Black coral is prominent on the deeper sections. Schools of Sergeant Majors are abundant. Rare Banded Jawfish sightings have been recorded here. Ocean pelagics that are typically uncommon on reef dives are reported. The rocky structure and its sandy base at 21 meters provide habitat for both resident reef fish and passing pelagics.
+
+*Note: Eagle ray and Caribbean reef shark claims from previous descriptions were not confirmed by primary sources for this specific site and have been replaced with Sea Saba's confirmed species list.*
 
 ## Dive Profile
 
@@ -61,4 +63,4 @@ The sand channels with eagle rays are the photographic highlight — wide-angle 
 - Sea Saba: experienced guides who know the eagle ray sighting patterns at this site
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-04-04.*
+*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*

@@ -3,7 +3,7 @@ name: Whale Shark Point
 lat: 11.7
 lng: 43.2
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Whale Shark Point
 
-Whale Shark Point is a reef dive site in Djibouti, Africa.
+Whale Shark Point is a generic descriptor used in Djibouti for locations where seasonal whale shark aggregations occur in the Gulf of Tadjoura, rather than a formally named dive site.
 
 ## Overview
 
-Whale Shark Point sits in the Gulf of Tadjoura, where the convergence of the Red Sea and the Gulf of Aden drives massive plankton blooms that attract whale sharks in numbers from October through February — Djibouti offers one of the most consistent and accessible whale shark aggregations anywhere in the world. The sharks typically feed near the surface in the first five metres of water, making them accessible to snorkellers as well as divers, with individuals regularly measured up to 8 metres. The Gulf of Tadjoura also hosts exceptional reef diving at nearby Tombant Point, with coral gardens, walls, and a WWII-era wreck rounding out the area's diving credentials.
+No independent diving source confirms a named dive site called "Whale Shark Point" in Djibouti. Whale shark encounters in the Gulf of Tadjoura are a region-wide seasonal phenomenon rather than site-specific: juvenile whale sharks concentrate throughout the gulf from October through February, feeding on plankton blooms that form across the southern shore of the gulf, particularly around Ras Eiro and Arta Beach.
+
+Encounters typically occur in the first five metres of the water column as the sharks feed at the surface. Scuba Diver Life and Dive The World describe them as accessible to both divers and snorkellers. Djibouti is described by multiple sources as one of the most consistent and accessible whale shark destinations in the world during peak season.
+
+If you are looking for whale shark encounters, the established sites are Arta Beach / Ras Eiro (southern gulf shore, shore-accessible) and the broader Moucha Island area (boat dive). This entry is retained as a placeholder but is unvalidated as a named dive site.
 
 ## Site Information
 
-- **Location**: Djibouti, Africa
+- **Location**: Gulf of Tadjoura, Djibouti (general area; not a confirmed named site)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 5 meters
 
 ---
-*Sources: [Dive The World - Djibouti Dive Sites](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel - Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [ZuBlu - Scuba Diving in Djibouti](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/djibouti), [Divezone - Djibouti Dive Sites](https://divezone.net/diving/djibouti), [PADI - Diving in Djibouti](https://www.padi.com/diving-in/djibouti/). Last updated 2026-04-04.*
+*Description based on regional whale shark encounter documentation. No source confirms a named dive site called "Whale Shark Point" in Djibouti. Last updated 2026-05-24.*
+
+*Regional sources consulted: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Scuba Diver Life – Best Scuba Diving in Djibouti](https://scubadiverlife.com/best-scuba-diving-dijibouti/), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html).*

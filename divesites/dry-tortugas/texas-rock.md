@@ -3,7 +3,7 @@ name: Texas Rock
 lat: 24.64
 lng: -82.86
 difficulty: Advanced
-maxDepth: 18.3
+maxDepth: 18
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,39 +13,47 @@ addedBy: osm_import
 
 ## Texas Rock
 
-Texas Rock is a pinnacle dive site in Dry Tortugas, North America.
+Texas Rock is a massive isolated coral mound almost due north of Garden Key, sitting in approximately 55–60 feet of water and rising to about 35 feet at its crown — one of the Dry Tortugas' most impressive dives and an active NPS coral monitoring station.
 
 ## Overview
 
-Texas Rock is a massive coral mound rising from sandy bottom at 18 meters to form one of the Dry Tortugas' most impressive dive sites, with a circumference so large it requires a full dive to navigate. The north side features a forest of deepwater sea fans rivaling anything in the Caribbean, with rare black coral hidden in crevices and nooks throughout the formation. Schools of grunts, yellowtail snapper, colorful tangs, and parrotfish swirl above the coral heads, drawn to this isolated pinnacle that acts as a magnet for marine life in the otherwise featureless sand flats.
+Texas Rock is an isolated coral mound rising from sandy bottom almost due north of Garden Key. The NPS describes it as "a huge mound of coral that emerges from the sand in about 55 feet of water and rises toward the surface to a depth of about 35 feet." Unlike the gradual groove-and-spur formations typical of the Florida Keys, Texas Rock features irregular peaks, random spires, overhangs, valleys, and small grottos — its dramatic topography sets it apart from every other site in the park. The north side of the mound is particularly notable for deep-water sea fans and rare black coral in the crevices. The site is large enough to require a full dive to circumnavigate, and the NPS uses it as an ongoing coral growth research site.
 
 ## Site Information
 
-- **Location**: Dry Tortugas, North America
+- **Location**: Almost due north of Garden Key, Dry Tortugas National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18.3 meters
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 18–37 meters (60–120 feet), best during flood tide
+- **Current**: Can be strong; site lies near park boundary where currents increase
+- **Best Time**: May to September
+- **Water Temperature**: 26–29°C (79–84°F) summer
 
 ## Marine Life
 
-Orange dominates Texas Rock — elephant ear sponges, orange crinoids, and orange ball sponges colour the peaks and valleys. On the north side, a forest of deep-water sea fans rivals anything in the Caribbean, with black coral hidden in crevices throughout the formation. Schools of grunts, yellowtail snapper, and parrotfish swirl above the coral heads, and the site hosts more than 30 coral species according to NPS monitoring records. Large crevices and swim-throughs shelter eels and other reef fish.
+Orange dominates Texas Rock: orange elephant ear sponges, orange crinoids, and orange ball sponges color the peaks and valleys throughout the mound. The NPS confirms deep-water sea fans on the north side and rare black coral hidden in crevices. The NPS notes "dense clouds of fish" and specifically identifies stony coral species that are monitored here. Almost every species of stony coral found in the Florida Keys — with the exception of elkhorn and staghorn — can be found at this site per regional dive guides. Schools of grunts, yellowtail snapper, and parrotfish swirl above the coral heads.
 
 ## Dive Profile
 
-Texas Rock sits in approximately 55–60 feet (17–18 m) of water, rising as a massive coral mound surrounded by sand flats. Rather than the gradual descending slopes typical of other Keys sites, Texas Rock features irregular peaks, mini-seamounts, valleys, and random spires — the NPS uses the site for ongoing coral growth research monitoring. The structure is large enough to require a full dive to circumnavigate. Visibility typically runs 60–120 feet and is best during flood tide.
+Descend to the base of the mound at approximately 55–60 feet (17–18 meters) and work your way up the structure. The irregular topography — peaks, valleys, overhangs, and swim-throughs — rewards methodical exploration. Budget a full dive to circumnavigate; the north side sea fans alone deserve a dedicated pass. Look into crevices on the north side for black coral. Ascend from the crown at approximately 35 feet and complete a safety stop before surfacing. Visibility typically runs 60–120 feet and is best during flood tide.
 
 ## Entry and Exit
 
-Access is by private or charter boat only. The Dry Tortugas are 70 miles west of Key West; no compressed-air facilities exist in the park. Dive charter vessels from Key West or the Florida Keys provide the primary access route, with the NPS mooring infrastructure around Garden Key. Consult the NPS on VHF channel 16 for current mooring availability at outlying sites.
+Access is by private or charter boat only. The Dry Tortugas are 70 miles west of Key West; no compressed-air facilities exist in the park. Dive charter vessels from Key West provide the primary access route. Consult the NPS on VHF channel 16 for current mooring availability at outlying sites. Anchor on sandy bottom only.
 
 ## Tips and Recommendations
 
-Budget a full dive to explore the full circumference of the mound — the north side sea fans alone justify a dedicated pass. The varied peaks and valleys reward slow, methodical exploration; look into crevices for black coral and reef fish. Dive during flood tide for peak visibility. Note that the site lies beyond the park boundary markers, where strong currents can develop.
+- Budget a full tank to explore the full circumference — the north side sea fans alone justify a dedicated pass
+- Slow, methodical exploration reveals the most of Texas Rock's varied topography
+- Look carefully into crevices on the north side for black coral
+- Dive during flood tide for peak visibility
+- Site lies near park boundary markers where current can increase significantly
 
 ## Safety Considerations
 
-Texas Rock is rated Advanced due to depth (~60 ft), exposure, and the potential for current beyond the park boundary buoys. The Dry Tortugas offer no onsite support infrastructure; the nearest hyperbaric chamber is in Key West. Display a dive flag, carry a surface marker buoy, and dive with a charter or support vessel. Watch for fire coral, jellyfish, and sea urchins. No cell service exists in the park — carry a marine VHF radio.
+Texas Rock is rated Advanced due to depth (up to 60 feet), exposure to current, and the potential for strong flow near the park boundary buoys. A safety stop is required at the depths involved. The Dry Tortugas offer no onsite dive support; the nearest hyperbaric chamber is in Key West. Display a dive flag, carry a surface marker buoy, and dive with a charter or support vessel. No cell service exists in the park — carry a marine VHF radio.
 
 ---
-*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Greatest Dive Sites - Texas Rock](https://florida.greatestdivesites.com/tortugas/dry_tortugas/texas_rock), [Florida Scuba Diving Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/). Last updated 2026-05-17.*
+*Sources: [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [FWC CREMP Dry Tortugas](https://myfwc.com/research/habitat/coral/cremp/overview/drytortugas/), [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Last updated 2026-05-24.*

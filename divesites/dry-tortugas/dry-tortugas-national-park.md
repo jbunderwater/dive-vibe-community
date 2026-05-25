@@ -23,7 +23,7 @@ Dry Tortugas National Park encompasses some of the most pristine coral reefs in 
 
 - **Location**: Dry Tortugas, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
@@ -48,4 +48,4 @@ The park offers multiple distinct environments: the moat wall for easy reef divi
 No emergency dive support infrastructure exists in the park — the nearest hyperbaric chamber is in Key West. There is no cell service; carry a marine VHF radio. Currents beyond the park boundary buoys can be strong and are not recommended for novice divers. Standard hazards include fire coral, jellyfish, sea urchins, and lionfish. Do not touch, move, or remove any natural or cultural artefacts — the park includes both ecological and archaeological protected zones with significant federal penalties. Always use the buddy system and display a dive flag.
 
 ---
-*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [NPS Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [Florida Scuba Diving Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Last updated 2026-05-17.*
+*Sources: [NPS Dry Tortugas Swimming/Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [NPS Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [DAN Alert Diver - Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [Florida Scuba Diving Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Last updated 2026-05-24.*

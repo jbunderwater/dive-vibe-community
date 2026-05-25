@@ -5,7 +5,7 @@ lng: -60.52
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,13 +17,13 @@ Flying Reef is a beginner-accessible reef site in the Speyside dive area of nort
 
 ## Overview
 
-Flying Reef extends to 15 meters with a sloping coral profile and a mix of hard corals, sea fans, and sponges characteristic of Tobago's northeast reef systems. The site sits in waters influenced by Tobago's position near the confluence of the Caribbean Sea and Atlantic Ocean, giving the reef access to the nutrient-rich upwellings that support exceptional fish life. Conditions are typically manageable with light to moderate current. Visibility averages 15–25 meters. Water temperature holds at 26–28°C.
+Flying Reef is located in Columbus Passage on Tobago's northeast coast, a strong drift-dive site where current flows in a westerly direction. The reef wall extends to the north side of Little Tobago Island. Divers drift past sea fans and sea plumes while parrotfish, blue chromis, and Creole wrasse go with the flow. The site profile reaches 15 metres. Visibility averages 15–25 meters. Water temperature holds at 26–28°C.
 
 ## Site Information
 
 - **Location**: Speyside area, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ Flying Reef extends to 15 meters with a sloping coral profile and a mix of hard 
 
 ## Marine Life
 
-Spotted and southern eagle rays are regularly seen hovering over the sandy margins adjacent to the reef — the site's defining feature. Sea turtles are common throughout. The reef itself hosts dense populations of parrotfish, angelfish, and snapper. Schools of small fish sweep through the coral formations in current conditions, attracting larger predators including barracuda and Caribbean reef sharks to the site.
+Parrotfish, blue chromis, and Creole wrasse are confirmed as characteristic species at Flying Reef, documented by visittobago.gov.tt and underseatobago.com. The current-driven drift character means fish communities are the defining encounter. Note: "eagle rays as defining feature" and "Caribbean reef sharks attracted by fish schools" were previous attributions not confirmed by primary sources specific to this site — these have been removed.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current can increase with tidal flow. Deploy SMB before ascending. Fire coral is
 Eagle ray encounters in the clear Speyside water are the standout photography subjects. Wide-angle shots of rays "flying" over the sandy floor or open water are achievable with a patient approach and good buoyancy. The reef face at 8–12 meters provides classic reef photography in good ambient light.
 
 ---
-*Sources: padi.com, underseatobago.com, visittobago.gov.tt - gentle drift 0-2 knots. Last updated 2026-03-28.*
+*Sources: [PADI - Flying Reef Tobago](https://www.padi.com/dive-site/trinidad-and-tobago/flying-reef/), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-05-24.*

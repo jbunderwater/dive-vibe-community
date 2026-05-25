@@ -23,7 +23,7 @@ Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
@@ -32,4 +32,4 @@ Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines
 Hawksbill turtles and southern stingrays are regular sightings over the sandy patches between coral heads, while spotted drums and banded coral shrimp inhabit the reef's shaded recesses. Parrotfish, queen angelfish, barracuda, and moray eels are year-round residents, benefiting from the active coral restoration work that is helping revive brain coral and elkhorn formations across the site.
 
 ---
-*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [PADI - Diving in Saint Vincent and the Grenadines](https://www.padi.com/diving-in/saint-vincent-the-grenadines/), [Caribbean Dive Guide - St. Vincent](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and Grenadines](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-04.*
+*Sources: [bluewater.com - Mustique Diving](https://www.bluewaterdivetravel.com/), [zubludiving.com - Mustique Reef](https://www.zubludiving.com/), [mustique-island.com - Diving](https://www.mustique-island.com/). Last updated 2026-05-24.*

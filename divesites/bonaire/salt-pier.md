@@ -63,4 +63,4 @@ Salt Pier is exceptional for macro photography on the colourful sponge-encrusted
 Hilma Hooker is approximately 1.5 km south — a frequent day-trip pairing with Salt Pier. Angel City and Alice in Wonderland are along the same southern coast.
 
 ---
-*Sources: [Sunwise Bonaire – Salt Pier](https://sunwisebonaire.com/blog/bonaire-dive-sites-salt-pier/), [Beyond the Corals Bonaire – Salt Pier](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-18.*
+*Sources: [Sunwise Bonaire – Salt Pier](https://sunwisebonaire.com/blog/bonaire-dive-sites-salt-pier/), [Beyond the Corals Bonaire – Salt Pier](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-24.*

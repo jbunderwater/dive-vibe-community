@@ -36,4 +36,4 @@ This entry may not represent a distinct named dive site separate from the broade
 This entry should be reviewed for potential consolidation with the Caracasbaai reef area. Local operators at Caracasbaai (CURious2Dive, Scuba Do Curaçao) can confirm whether this represents a distinct dive site or is part of the general reef edge of the Tugboat area.
 
 ---
-*Description based on OSM data and Caracasbaai area characteristics. No independent source confirms "Reef edge" as a distinct named dive site. Last updated 2026-05-23.*
+*Description based on OSM data and Caracasbaai area characteristics. No independent source confirms "Reef edge" as a distinct named dive site. Last updated 2026-05-24.*

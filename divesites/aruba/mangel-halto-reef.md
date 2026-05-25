@@ -60,4 +60,4 @@ The bowl's protected nature makes this one of Aruba's safest shore dives. On the
 The Kappel wreck provides a compact, well-lit subject at modest depth — ideal for natural-light photography. Turtle portraits at the cleaning station are a highlight. Macro subjects (arrow crabs, feather-duster worms, juvenile fish) are plentiful in and around the wreck.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Divein.com - Diving Aruba](https://www.divein.com/diving/destination/diving-aruba/), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-17.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Divein.com - Diving Aruba](https://www.divein.com/diving/destination/diving-aruba/), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-24.*

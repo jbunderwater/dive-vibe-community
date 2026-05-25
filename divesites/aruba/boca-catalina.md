@@ -60,4 +60,4 @@ Very low-hazard site. Be mindful of sea urchins on the rocky sections near entry
 Strong natural light in the shallow water makes this a good site for natural-light photography without strobes. Turtle encounters in very clear, calm water provide excellent subject opportunities.
 
 ---
-*Sources: [Divers Guide - Boca Catalina](https://www.divers-guide.com/en/boca-catalina), [Zentacle - Boca Catalina](https://www.zentacle.com/Beach/193/boca-catalina), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/). Last updated 2026-05-17.*
+*Sources: [Divers Guide - Boca Catalina](https://www.divers-guide.com/en/boca-catalina), [Zentacle - Boca Catalina](https://www.zentacle.com/Beach/193/boca-catalina), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/). Last updated 2026-05-24.*

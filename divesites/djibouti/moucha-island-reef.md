@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Moucha Island Reef
 
-Moucha Island Reef is a reef dive site in Djibouti, Africa.
+Moucha Island Reef represents the shallow fringing reef system around Moucha Island, approximately 11 km north-west of Djibouti City in the Gulf of Tadjoura — Djibouti's most accessible day-trip dive destination.
 
 ## Overview
 
-Moucha Island is a coral island in the Gulf of Tadjoura about 45 minutes by boat from Djibouti City, surrounded by a fringing reef and the adjacent Maskali Island that together form the most popular day-trip diving destination in the country. The reef features coral-covered slopes, sandy patches, and several walls at various depths, with calm conditions and visibility of 15–30 metres making it accessible to divers of all levels; notable sites include The Aquarium, Dolphin Reef, and Coral Gardens. Nearby, the 135-metre cargo ship Le Faon (also known as MV Priamos), sunk in 1975 after an engine room explosion, lies on its port side at 10–28 metres and is now fully colonised with corals and sponges.
+Moucha Island and its smaller neighbour Maskali Island together form Djibouti's first designated marine protected area. The reef around Moucha Island includes several named sites: The Aquarium (calm, sheltered bay with colourful reef fish), Dolphin Reef (where spinner dolphins frequently visit), and Coral Gardens (shallow hard coral formations suitable for beginner divers). Visibility across these sites typically ranges from 15 to 30 metres.
+
+Atlas & Boots, who dived the area with local operator Dolphin Excursions, report batfish, glassfish, snappers, lionfish, and rays on the Maskali reef section. Dive The World lists sea turtles and dolphins as regular visitors. The islands are primarily a reef destination; no site-specific marine life records were found for The Aquarium or Coral Gardens beyond these general descriptions.
+
+The famous wreck Le Faon (MV Priamos / Orchard Reefer) lies nearby at 10–28 metres and is a separate dive site. Most dive operators combine reef diving at Moucha with a wreck dive on the same day trip.
 
 ## Site Information
 
-- **Location**: Djibouti, Africa
+- **Location**: Around Moucha Island, Gulf of Tadjoura, approximately 11 km from Djibouti City
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Dive The World - Djibouti Dive Sites](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel - Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [ZuBlu - Scuba Diving in Djibouti](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/djibouti), [Divezone - Djibouti Dive Sites](https://divezone.net/diving/djibouti), [PADI - Diving in Djibouti](https://www.padi.com/diving-in/djibouti/). Last updated 2026-04-04.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html). Last updated 2026-05-24.*

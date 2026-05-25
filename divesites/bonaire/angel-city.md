@@ -62,4 +62,4 @@ The high angelfish density makes portrait-quality fish photography consistently 
 Hilma Hooker lies approximately 200 metres south along the same reef. Salt Pier is north. Aquarius, Larry's Lair, and Punt Vierkant are in the same southern corridor.
 
 ---
-*Sources: [Sunwise Bonaire – Angel City](https://sunwisebonaire.com/blog/bonaire-dive-sites-angel-city/), [Beyond the Corals Bonaire – Angel City](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-18.*
+*Sources: [Sunwise Bonaire – Angel City](https://sunwisebonaire.com/blog/bonaire-dive-sites-angel-city/), [Beyond the Corals Bonaire – Angel City](https://beyondthecorals.com/bonaire/dive-sites/), [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/). Last updated 2026-05-24.*

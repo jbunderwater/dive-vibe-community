@@ -57,4 +57,4 @@ Access is exclusively by boat dive through local operators. Shore diving is theo
 Wreck penetration carries inherent risk and requires appropriate training and equipment. The depth demands careful monitoring of no-decompression limits. Boat traffic near the Mega Pier is a hazard during surface intervals; use a surface marker buoy on ascent.
 
 ---
-*Sources: [DiveCuracao.info — Superior Producer History](https://www.divecuracao.info/curacao-diving-news/mv-superior-producer-shipwreck-history/), [DiveNewswire — Superior Producer History](https://www.divenewswire.com/diving-history-the-story-behind-curacaos-iconic-superior-producer-wreck/), [DreamWrecks — Superior Producer](https://dreamwrecks.com/superior-producer-curacao-wreck). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Superior Producer History](https://www.divecuracao.info/curacao-diving-news/mv-superior-producer-shipwreck-history/), [DiveNewswire — Superior Producer History](https://www.divenewswire.com/diving-history-the-story-behind-curacaos-iconic-superior-producer-wreck/), [DreamWrecks — Superior Producer](https://dreamwrecks.com/superior-producer-curacao-wreck). Last updated 2026-05-24.*

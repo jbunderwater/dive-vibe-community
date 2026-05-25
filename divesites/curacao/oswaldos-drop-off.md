@@ -56,4 +56,4 @@ Resort guests use the Ocean Encounters pier adjacent to the dive shop. Non-resor
 Unexpected strong currents have been reported at this site — assess conditions before entering. Inexperienced divers should not dive here during current. A surface marker buoy is required; Ocean Encounters staff are present at this site.
 
 ---
-*Sources: [DiveCuracao.info — Oswaldo's Drop Off](https://www.divecuracao.info/dive/curacao-diving-guide/oswaldos-drop-off/), [ShoreDiving.com — Oswaldo's Drop-off](http://www.shorediving.com/Earth/ABC/Curacao/Oswaldos_Drop-off/index.htm), [Ocean Encounters — Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Oswaldo's Drop Off](https://www.divecuracao.info/dive/curacao-diving-guide/oswaldos-drop-off/), [ShoreDiving.com — Oswaldo's Drop-off](http://www.shorediving.com/Earth/ABC/Curacao/Oswaldos_Drop-off/index.htm), [Ocean Encounters — Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/). Last updated 2026-05-24.*

@@ -18,7 +18,8 @@
       "place": "archipelago",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,scubatravel.co.uk,atlasandboots.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -44,7 +45,8 @@
       "sport": "scuba_diving",
       "wikidata": "Q23723098",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,thescubanews.com,atlasandboots.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -72,7 +74,8 @@
       "wikidata": "Q258363",
       "wikipedia": "es:Isla Moucha",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,atlasandboots.com,egyptiancruising.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -87,7 +90,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,atlasandboots.com,scubatravel.co.uk",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Near-duplicate of Ile Moucha OSM entry. Retained as curated entry representing the shallow fringing reef around Moucha Island distinct from the island polygon."
     }
   },
   {
@@ -102,14 +107,16 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,thescubanews.com,atlasandboots.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Near-duplicate of Ile Maskali OSM entry. Retained as curated entry representing the dive sites around Maskali Island distinct from the administrative boundary polygon."
     }
   },
   {
     "name": "Iles des Sept Frères",
     "lat": 12.45,
     "lon": 43.38,
-    "depth": 35,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -117,7 +124,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,scubadiverlife.com,divezone.net",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -132,7 +140,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,scubatravel.co.uk,liveaboard.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
@@ -147,52 +156,59 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,thescubanews.com,scubadiverlife.com",
+      "last_qa_date": "2026-05-24"
     }
   },
   {
-    "name": "Le Grumier Wreck",
+    "name": "Le Faon Wreck",
     "lat": 11.59,
     "lon": 43.15,
     "depth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lukasspieker.com,dive-the-world.com,atlasandboots.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "Formerly named 'Le Grumier Wreck'. No source confirms a wreck named Le Grumier in Djibouti. The established wreck near Moucha Island is Le Faon (also known as MV Priamos / Orchard Reefer). Renamed accordingly. Length conflicts across sources (120m/126m/135m) - see markdown."
     }
   },
   {
     "name": "Ghoubbet Al-Kharab",
     "lat": 11.53,
     "lon": 42.53,
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 8,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,liveaboard.com,scubadiverlife.com",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "site_type changed from 'wall' to 'reef'. The site is primarily known for the Djibouti Crack (8m tectonic fissure) and shallow reef features, not wall diving. Waters plunge to 200m but the dive sites are on shallow reef and geological features. Depth changed from 25m to 8m reflecting the Crack; the site has extreme depth variation (8m to 200m+)."
     }
   },
   {
     "name": "Whale Shark Point",
     "lat": 11.7,
     "lon": 43.2,
-    "depth": 15,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-24",
+      "qa_note": "No source confirms a named dive site called 'Whale Shark Point' in Djibouti. Whale shark encounters occur throughout the Gulf of Tadjoura, especially near Ras Eiro and Arta Beach. Marked unvalidated. Depth changed from 15m to 5m as whale sharks feed at the surface. If no specific site can be confirmed, consider merging with Tadjoura Gulf entry."
     }
   }
 ]

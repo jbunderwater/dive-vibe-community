@@ -60,4 +60,4 @@ Good southern coast reef photography. The proximity to the Hilma Hooker area mea
 Angel City and Hilma Hooker are to the north. Aquarius and Larry's Lair are nearby. Salt Pier is to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Punt Vierkant](https://www.divers-guide.com/en/dive-spots/punt-vierkant), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Punt Vierkant](https://www.divers-guide.com/en/dive-spots/punt-vierkant), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

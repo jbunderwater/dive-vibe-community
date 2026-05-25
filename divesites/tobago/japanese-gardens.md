@@ -23,7 +23,7 @@ Located in the Speyside dive area, Japanese Gardens features an exceptional cora
 
 - **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ Located in the Speyside dive area, Japanese Gardens features an exceptional cora
 
 ## Marine Life
 
-The nutrient-rich Guiana Current makes Japanese Gardens one of the Caribbean's best sites for fish biodiversity and density. Manta rays are a signature encounter — they arrive in numbers during the upwelling season (October to February) to feed on the plankton concentrated by the current. Caribbean reef sharks and nurse sharks are regular visitors. Large groupers and barracuda are resident. Sea turtles feed on the coral growth throughout the site. Eagle rays traverse the deeper sandy sections.
+The nutrient-rich Guiana Current supports rich fish life at Japanese Gardens. The ERIC Tobago site notes tube sponges, vase sponges, and sea whips as characteristic features, with a passage called Kamikaze Cut that opens to a sheltered area where nurse sharks are sometimes found resting. Colourful organ pipe corals and barrel sponges are confirmed features of the site. Manta rays are associated with the broader northeast Tobago zone, particularly during upwelling season; however, specific documentation of manta encounters at this specific site (as opposed to Kelleston Drain or Sisters Rocks) is less definitive. "Eagle rays," "Caribbean reef sharks," and "large groupers" attributed in previous descriptions are plausible Speyside species but were not confirmed from primary sources specific to this site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current at Japanese Gardens can be strong and variable. Only attempt the site wi
 Japanese Gardens is one of the Caribbean's finest underwater photography destinations. The coral density and colour at 10–20 meters in good visibility is extraordinary for wide-angle reef shots. Manta ray encounters in blue water during upwelling season are the headline images. A strobe is recommended to bring out the full colour of the coral and sponge community.
 
 ---
-*Sources: scubaboard forums, underseatobago.com, visittobago.gov.tt. Last updated 2026-03-28.*
+*Sources: [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/). Last updated 2026-05-24.*

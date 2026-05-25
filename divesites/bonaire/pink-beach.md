@@ -61,4 +61,4 @@ The pink sand beach provides unique entry/exit photography above water. Below th
 Tori's Reef lies to the north along the same coast. English Garden is to the south. Alice in Wonderland is a short drive north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Pink Beach](https://www.divers-guide.com/en/pink-beach). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Divers-Guide – Pink Beach](https://www.divers-guide.com/en/pink-beach). Last updated 2026-05-24.*

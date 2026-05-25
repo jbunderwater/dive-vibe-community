@@ -55,4 +55,4 @@ Beach entry with adequate parking nearby. A surface marker buoy is mandatory due
 The long distance from the entry to the reef means you are far from shore when diving. Carry a surface marker buoy for return. Check current conditions before committing to the swim — a surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Boca Sami](https://www.divecuracao.info/dive/curacao-diving-guide/boca-sami/), [Divers-Guide.com — Daaibooi](https://www.divers-guide.com/en/daaibooi), [Curacao.com — Boka Sami](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Boca Sami](https://www.divecuracao.info/dive/curacao-diving-guide/boca-sami/), [Divers-Guide.com — Daaibooi](https://www.divers-guide.com/en/daaibooi), [Curacao.com — Boka Sami](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw). Last updated 2026-05-24.*

@@ -59,4 +59,4 @@ Standard fringing reef photography opportunity in good visibility.
 Windsock is to the north. Bachelor's Beach is to the south. Salt Pier and Angel City are further south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Corporal Meiss](https://www.divers-guide.com/en/dive-spots/corporal-meiss), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Corporal Meiss](https://www.divers-guide.com/en/dive-spots/corporal-meiss), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

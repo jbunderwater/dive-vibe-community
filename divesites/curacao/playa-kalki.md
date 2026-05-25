@@ -58,4 +58,4 @@ Sandy beach entry makes this one of the easiest shore entries on the island. Go 
 Go West Diving staff are on-site and provide additional safety oversight. Boat traffic from the dive operator's excursion boats is present — deploy a surface marker buoy before ascending. The site is within Curaçao National Marine Park; do not collect or damage anything.
 
 ---
-*Sources: [DiveCuracao.info — Alice in Wonderland](https://www.divecuracao.info/dive/curacao-diving-guide/alice-in-wonderland/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [ScubaDiverLife — Alice in Wonderland Curaçao](https://scubadiverlife.com/dive-site-alice-in-wonderland-curacao/). Last updated 2026-05-23.*
+*Sources: [DiveCuracao.info — Alice in Wonderland](https://www.divecuracao.info/dive/curacao-diving-guide/alice-in-wonderland/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [ScubaDiverLife — Alice in Wonderland Curaçao](https://scubadiverlife.com/dive-site-alice-in-wonderland-curacao/). Last updated 2026-05-24.*

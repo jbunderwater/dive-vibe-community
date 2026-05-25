@@ -23,7 +23,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
@@ -32,4 +32,4 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean. Southern stingrays glide across the sandy patches, nurse sharks rest beneath coral heads, and the outer reef wall draws eagle rays and Caribbean reef fish including parrotfish, angelfish, and blue tangs in large numbers.
 
 ---
-*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [PADI - Diving in Saint Vincent and the Grenadines](https://www.padi.com/diving-in/saint-vincent-the-grenadines/), [Caribbean Dive Guide - St. Vincent](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and Grenadines](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-04.*
+*Sources: [zentacle.com - Tobago Cays Horseshoe Reef](https://zentacle.com/), [thediveglobe.com - Tobago Cays](https://www.thediveglobe.com/), [tobagocaysmarine.com - Marine Park](https://tobagocaysmarine.com/). Last updated 2026-05-24.*

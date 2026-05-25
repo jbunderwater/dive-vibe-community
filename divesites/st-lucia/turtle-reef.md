@@ -23,7 +23,7 @@ Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Ch
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
@@ -32,4 +32,4 @@ Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Ch
 Hawksbill and green turtles are a near-guarantee here, grazing on sponge growth along the pillar corals and barrel sponge structures — they are well accustomed to divers and allow very close approaches. Parrotfish, blue chromis, and damselfish populate the reef, and the deeper coral heads shelter moray eels and spiny lobsters in the calm, protected Soufrière Marine Management Area waters.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [scubastlucia.com - Turtle Reef](https://scubastlucia.com/diving/), [smmainc.com - SMMA Protected Sites](https://www.smmainc.com/), [padi.com - Turtle Reef St Lucia](https://www.padi.com/). Last updated 2026-05-24.*

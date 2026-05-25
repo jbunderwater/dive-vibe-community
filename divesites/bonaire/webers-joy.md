@@ -61,4 +61,4 @@ The healthy coral cover and good visibility in the north make this productive fo
 Jeff Davis Memorial is immediately to the south along the same coastal road. Boka di Tolo is nearby. Karpata is a short drive further north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Weber's Joy](https://www.divers-guide.com/en/dive-spots/webers-joy), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-18.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Weber's Joy](https://www.divers-guide.com/en/dive-spots/webers-joy), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*

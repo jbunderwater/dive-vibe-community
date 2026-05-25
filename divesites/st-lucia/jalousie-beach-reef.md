@@ -23,7 +23,7 @@ Jalousie Beach Reef is the house reef for the Sugar Beach resort, situated in th
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
@@ -32,4 +32,4 @@ Jalousie Beach Reef is the house reef for the Sugar Beach resort, situated in th
 Seahorses are occasionally found clinging to sea fans along the shallow reef slope, and trumpetfish, parrotfish, and sergeant majors are constant companions throughout the dive. Hawksbill turtles visit the reef regularly, and squid patrol the water column above the coral in the calm, sheltered conditions typical of the Piton bay setting.
 
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*Sources: [smmainc.com - Jalousie Bay](https://www.smmainc.com/), [scubastlucia.com - Jalousie Reef](https://scubastlucia.com/diving/), [padi.com - Jalousie Beach St Lucia](https://www.padi.com/). Last updated 2026-05-24.*

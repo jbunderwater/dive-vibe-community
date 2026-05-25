@@ -36,7 +36,9 @@ The site is beginner-friendly: shallow, calm, with no penetration required and e
 
 ## Marine Life
 
-Documented species at this site include stingrays, sea turtles, pufferfish, scorpionfish, lobster, moray eels, nurse sharks, eagle rays, and schools of grunts and goatfish. The flattened, coral-encrusted wreck sections create varied habitat that supports both reef fish and benthic species. Hawksbill turtles have been widely reported resting on the wreck.
+Documented species at this site include stingrays, sea turtles, pufferfish, scorpionfish, lobster, moray eels, and schools of grunts and goatfish. The flattened, coral-encrusted wreck sections create varied habitat that supports both reef fish and benthic species. Hawksbill turtles have been widely reported resting on the wreck.
+
+*Note: Nurse sharks and eagle rays appear in some general Aruba wreck listings but are not confirmed by available sources as regular sightings at the Pedernales specifically. Removed per anti-hallucination policy.*
 
 ## Dive Profile
 
@@ -62,4 +64,4 @@ Standard precautions for boat diving. No overhead environments — wreck section
 The coral-encrusted wreck sections at very shallow depth allow for excellent natural-light photography without a torch. Wide-angle shots of the flat hull plates with turtle subjects above are a popular frame.
 
 ---
-*Sources: [Wikipedia - SS Pedernales](https://en.wikipedia.org/wiki/SS_Pedernales), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/pedernales/), [Willemsubmerged - Pedernales the Phoenix](https://willemsubmerged.wordpress.com/2009/01/13/pedernales-the-phoenix-of-aruba/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - SS Pedernales](https://en.wikipedia.org/wiki/SS_Pedernales), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/pedernales/), [Willemsubmerged - Pedernales the Phoenix](https://willemsubmerged.wordpress.com/2009/01/13/pedernales-the-phoenix-of-aruba/). Last updated 2026-05-24.*

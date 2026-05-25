@@ -23,7 +23,7 @@ Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, w
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
@@ -32,4 +32,4 @@ Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, w
 The tidal flow through the Narrows channel pumps nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, and Caribbean lobsters. Large nurse sharks shelter under deep coral ledges and Caribbean reef sharks move through when currents run strong, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
 
 ---
-*Sources: My St Kitts Dive Buddy, Caradonna Adventures. Last updated 2026-03-16.*
+*Sources: [mystkittsdivebuddy.com - Booby Shoals](https://mystkittsdivebuddy.com/), [padi.com - Booby Shoals St Kitts](https://www.padi.com/), [activecaribbeantravel.com - The Narrows Diving](https://www.activecaribbeantravel.com/). Last updated 2026-05-24.*

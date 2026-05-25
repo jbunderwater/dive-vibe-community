@@ -3,7 +3,7 @@ name: Third Encounter
 lat: 17.6167
 lng: -63.2667
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Third Encounter
 
-One of Saba's signature advanced pinnacle dives — a remote volcanic seamount swept by open-ocean currents with exceptional shark and ray activity and dense black coral coverage.
+One of Saba's signature advanced pinnacle dives — a horseshoe-shaped volcanic seamount at 29–35 metres, swept by open-ocean currents with exceptional shark and ray activity and dense black coral coverage.
 
 ## Overview
 
-Third Encounter is an offshore pinnacle site on the southwestern side of Saba, set in the open current zone away from the island's sheltering influence. The name reflects the tradition of Saba's dive operators naming the offshore pinnacles by encounter order — this is the third major seamount encountered when heading southwest from Fort Bay. The pinnacle rises from significant depth and is swept by consistent current that delivers both nutrients and pelagic species to the site. Depths are accessible to advanced divers with a maximum of 30 meters on the main structure. The pinnacle is covered in sea fans, black coral trees, and encrusting sponges. Visibility frequently exceeds 30 meters. This is one of Saba's most reliably excellent sites for large pelagic encounters.
+Third Encounter is an offshore pinnacle site on the southwestern side of Saba, set in the open current zone away from the island's sheltering influence. The name reflects the tradition of Saba's dive operators naming the offshore pinnacles by encounter order — this is the third major seamount encountered when heading southwest from Fort Bay. The pinnacle rises from significant depth and is swept by consistent current that delivers both nutrients and pelagic species to the site. Depths are accessible to advanced divers with a mooring at approximately 29 meters (95 feet) and a maximum of 35 meters (110 feet) on the main structure per Sea Saba Dive Center. The pinnacle is covered in sea fans, black coral trees, and encrusting sponges. Visibility frequently exceeds 30 meters. This is one of Saba's most reliably excellent sites for large pelagic encounters.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–30 m |
+| Depth Range | 6–35 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Pinnacle |
@@ -33,7 +33,7 @@ Third Encounter is an offshore pinnacle site on the southwestern side of Saba, s
 
 ## Marine Life
 
-Third Encounter is widely considered Saba's best site for shark encounters. Caribbean reef sharks are regular visitors, and nurse sharks rest on the sand at the base of the pinnacle. Spotted eagle rays sweep past in pairs or small groups. The open-ocean position brings schooling fish in large numbers — horse-eye jacks and creole wrasse create large moving formations around the pinnacle top. Sea turtles regularly feed on the sponge and coral growth. During winter months, humpback whale encounters or at minimum, clear underwater whale song, are reported by divers at this site.
+Third Encounter is widely considered Saba's best site for shark encounters. Caribbean reef sharks are regular visitors, and nurse sharks rest on the sand at the base of the pinnacle. Spotted eagle rays sweep past in pairs or small groups. The open-ocean position brings schooling fish in large numbers — horse-eye jacks and creole wrasse create large moving formations around the pinnacle top. Sea turtles regularly feed on the sponge and coral growth. During winter months (January–May), humpback whales pass through Saba's waters and underwater whale song is sometimes audible from exposed offshore pinnacle sites, including Third Encounter.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Third Encounter is a wide-angle site. The open-ocean setting delivers school-of-
 - Sea Saba: specialises in guided offshore pinnacle dives including Third Encounter
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-04-04.*
+*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
