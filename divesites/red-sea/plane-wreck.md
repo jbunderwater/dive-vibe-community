@@ -58,4 +58,4 @@ The maximum depth of 30 meters reduces no-decompression bottom time significantl
 The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Description based on GPS coordinates and regional diving characteristics. Aircraft type and history not confirmed by independent sources. Last updated 2026-05-25.*
