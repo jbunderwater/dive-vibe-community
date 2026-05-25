@@ -40,7 +40,7 @@ Boat dive; accessible from Hamata or Lahami Bay (approximately 45 minutes) or by
 
 - **Location**: Fury Shoals / Hamata area, southern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 40 meters
 - **Difficulty**: Intermediate
 

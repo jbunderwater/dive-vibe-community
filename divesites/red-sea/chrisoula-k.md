@@ -3,7 +3,7 @@ name: Chrisoula K
 lat: 27.5805307
 lng: 33.9287744
 difficulty: Intermediate
-maxDepth: 26
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Chrisoula K (built in 1954 in Lübeck, Germany as the *Dora Oldendorff*; ren
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Moderate; can be strong on the reef top
 - **Best Time**: October to May

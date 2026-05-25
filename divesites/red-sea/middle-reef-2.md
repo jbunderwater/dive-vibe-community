@@ -25,7 +25,7 @@ See the primary **Middle Reef** entry for the full documented dive site.
 
 - **Location**: Offshore, Safaga/Hurghada area, Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 
 *Sources: [Divers Guide — Middle Reef](https://www.divers-guide.com/en/middle-reef), [Tufidive — Middle Reef](https://tufidive.com/two-major-diving-sites-in-the-red-sea-panorama-reef-middle-reef/). Duplicate status flagged 2026-05-17.*

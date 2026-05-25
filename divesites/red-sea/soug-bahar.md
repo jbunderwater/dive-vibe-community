@@ -23,7 +23,7 @@ Soug Bahar is an open-ocean reef rising from deeper water, offering a classic Eg
 
 - **Location**: Southern Red Sea, Egypt (Marsa Alam area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

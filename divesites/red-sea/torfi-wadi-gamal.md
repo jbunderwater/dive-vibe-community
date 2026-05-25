@@ -23,7 +23,7 @@ Torfi lies at approximately 24.67°N, 35.15°E within or adjacent to the Wadi el
 
 - **Location**: Wadi el Gemal National Park, north of Marsa Alam (~24.67°N, 35.15°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 meters

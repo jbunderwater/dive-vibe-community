@@ -49,7 +49,7 @@ The four crane structures with resident glass fish are the signature photographi
 
 - **Location**: Nabq Bay, 11 km north of Sharm El Sheikh, Sinai Peninsula
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 metres
 

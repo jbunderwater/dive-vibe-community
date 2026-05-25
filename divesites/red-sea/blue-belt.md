@@ -3,7 +3,7 @@ name: Blue Belt
 lat: 20.22675
 lng: 37.3152166
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 90
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Blue Belt lies upside down on a sloping seabed, stretching from approximatel
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 90 meters (recreational diving 21–40 m)
+- **Maximum Depth**: 90 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Light to moderate
 - **Best Time**: November to April

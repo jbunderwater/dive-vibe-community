@@ -4,7 +4,7 @@ lat: 28.5723028
 lng: 34.5373553
 difficulty: Advanced
 maxDepth: 100
-entryType: boat
+entryType: shore
 siteType: cave
 ref: null
 osmId: 663869869
@@ -22,7 +22,7 @@ The Blue Hole is a roughly circular sinkhole approximately 60 meters across, ope
 ## Site Information
 
 - **Location**: Red Sea, Egypt
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters

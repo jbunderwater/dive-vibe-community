@@ -23,7 +23,7 @@ Safaga is renowned among experienced Red Sea divers for its strong currents, whi
 
 - **Location**: Safaga, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

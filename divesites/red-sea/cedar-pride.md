@@ -3,7 +3,7 @@ name: Cedar Pride
 lat: 29.5216667
 lng: 34.9883333
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Cedar Pride was a Lebanese cargo vessel built in 1964 at S.A. Juliana Constr
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Generally mild
 - **Best Time**: Year-round; October to May optimal

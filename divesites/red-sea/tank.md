@@ -23,7 +23,7 @@ The Tank is a compact but visually distinctive site where a rusting military veh
 
 - **Location**: Gulf of Aqaba, northern Red Sea (Israeli/Egyptian border area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

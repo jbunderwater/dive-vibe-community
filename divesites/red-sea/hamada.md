@@ -3,7 +3,7 @@ name: Hamada
 lat: 24.4383333
 lng: 35.2131166
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 14
 entryType: boat
 siteType: wreck
 ref: null

@@ -23,7 +23,7 @@ Humphead wrasse are unmistakable — large adults can reach over 2 meters in len
 
 - **Location**: North of Sharm el-Sheikh, Sinai coast, Egypt, Gulf of Aqaba
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

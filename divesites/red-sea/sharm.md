@@ -25,7 +25,7 @@ No specific source has been found documenting "Sharm" as a distinct named dive s
 
 - **Location**: Southern Sinai / Ras Mohammed area, Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on coordinate location analysis. Last updated 2026-05-17.*

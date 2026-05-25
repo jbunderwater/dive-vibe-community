@@ -31,7 +31,7 @@ Depth ranges from 25 m to 40 m. The site is accessible only in favourable weathe
 
 - **Location**: Outer reef, Wadi Gimal area, Marsa Alam, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 

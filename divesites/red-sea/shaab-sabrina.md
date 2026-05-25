@@ -23,7 +23,7 @@ Located in the northern Egyptian Red Sea near Hurghada, Shaab Sabrina is a compa
 
 - **Location**: Northern Red Sea, Egypt (near Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-25 meters (65-80 feet)

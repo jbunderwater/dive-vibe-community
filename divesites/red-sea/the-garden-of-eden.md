@@ -25,7 +25,7 @@ No specific source document has been located confirming the detailed characteris
 
 - **Location**: Southern Red Sea, Egypt (El Quseir–Marsa Alam coastal zone)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on regional diving characteristics. Last updated 2026-05-17.*

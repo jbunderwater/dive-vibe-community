@@ -27,7 +27,7 @@ No specific source has been found documenting "Torfa Tany" by name in widely ava
 
 - **Location**: Central Egyptian Red Sea coast (Hurghada–El Quseir zone)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on regional reef characteristics. [Divers Guide — Torfa](https://www.divers-guide.com/en/torfa). Last updated 2026-05-17.*

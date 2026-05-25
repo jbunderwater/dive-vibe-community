@@ -23,7 +23,7 @@ Shaab Nenad sits at approximately 27.23°N, 33.94°E in the offshore zone betwee
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.23°N, 33.94°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

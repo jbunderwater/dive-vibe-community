@@ -3,7 +3,7 @@ name: Satil Wreck
 lat: 29.5145068
 lng: 34.9270007
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null

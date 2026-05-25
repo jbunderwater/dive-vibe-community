@@ -23,7 +23,7 @@ Abu Nugar sits in the coastal reef zone north of Hurghada, close to the upmarket
 
 - **Location**: El Gouna / northern Hurghada area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

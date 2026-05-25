@@ -23,7 +23,7 @@ Ras Shona sits at approximately 25.47°N, 34.68°E — on the Egyptian Red Sea c
 
 - **Location**: Central Egyptian Red Sea coast between Quseir and Port Ghalib (~25.47°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

@@ -25,7 +25,7 @@ No specific source has been located confirming the site's topography, depth prof
 
 - **Location**: Offshore reef zone, Safaga–El Quseir, Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates or under this name. Description based on regional diving characteristics and coordinate location. Last updated 2026-05-17.*

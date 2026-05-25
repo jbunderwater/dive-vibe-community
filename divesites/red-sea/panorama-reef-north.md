@@ -23,7 +23,7 @@ The northern tip of Panorama Reef is characterized by a pronounced reef point wh
 
 - **Location**: Red Sea, Egypt (south of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

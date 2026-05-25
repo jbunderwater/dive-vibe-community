@@ -37,7 +37,7 @@ Direct shore entry from the Menaville Hotel beach. The Menadive dive centre on s
 
 - **Location**: Safaga, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 8 metres
 - **Difficulty**: Beginner
 - **Access**: Menaville Hotel guests; Menadive centre on site

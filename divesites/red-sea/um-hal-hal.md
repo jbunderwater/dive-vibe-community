@@ -40,7 +40,7 @@ The combination of calm conditions, good visibility, and diverse reef life makes
 
 - **Location**: Safaga / El Quseir area, central Red Sea (approx. 26.7°N)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 metres
 

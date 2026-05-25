@@ -45,7 +45,7 @@ Multiple beach entry points allow divers to select their depth and direction. Th
 
 - **Location**: Utopia Beach Club, 20 km south of El Quseir, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

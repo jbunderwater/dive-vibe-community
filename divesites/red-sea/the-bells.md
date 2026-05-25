@@ -22,7 +22,7 @@ The Bells is a dive site immediately north of the famous Blue Hole at Dahab on t
 ## Site Information
 
 - **Location**: Dahab, Sinai Peninsula, Gulf of Aqaba, Egypt
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters

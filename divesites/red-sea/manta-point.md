@@ -23,7 +23,7 @@ Manta rays in the Egyptian Red Sea are associated with specific reef features â€
 
 - **Location**: El Quseir area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

@@ -2,13 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "ecuador",
-    "ecuador",
-    "egypt",
-    "fiji",
-    "florida-keys",
-    "flower-garden-banks",
-    "france",
     "french-antilles",
     "french-polynesia",
     "galapagos-islands",
@@ -175,7 +168,13 @@
     "dominican-republic",
     "dry-tortugas",
     "dutch-caribbean",
-    "eastern-caribbean"
+    "eastern-caribbean",
+    "ecuador",
+    "egypt",
+    "fiji",
+    "florida-keys",
+    "flower-garden-banks",
+    "france"
   ],
   "history": [
     {
@@ -732,6 +731,96 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/74",
+      "errors": []
+    },
+    {
+      "date": "2026-05-25",
+      "slugs": [
+        "ecuador",
+        "egypt",
+        "fiji",
+        "florida-keys",
+        "flower-garden-banks",
+        "france"
+      ],
+      "notes": "ecuador (group)→galapagos-islands; egypt (group)→red-sea (29/482 sites processed, wrecks+famous sites); france (group)→port-cros. galapagos-islands, red-sea, port-cros remain in queue for dedicated passes.",
+      "summary": {
+        "sites_total": 552,
+        "sites_processed_today": 99,
+        "sites_validated_today": 83,
+        "sites_re_audited": 96,
+        "hallucinations_removed": 25,
+        "marine_life_stripped": 18,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 15,
+        "by_destination": {
+          "ecuador": {
+            "notes": "group slug; child galapagos-islands processed",
+            "sites_total": 16,
+            "sites_validated_today": 16,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes_detail": "Bartolome underwater penguins removed; Daphne Minor marine iguana feeding removed; Baltra exotic species list removed; Plazas wall→reef; Kicker Rock 25→30m; Cabo Marshall 22→30m; Daphne Minor 20→23m; Bartolome 27→25m; all 16 sites re-audited with 3+ sources"
+          },
+          "egypt": {
+            "notes": "group slug; child red-sea processed (29/482 sites)",
+            "sites_total": 482,
+            "sites_processed_today": 29,
+            "sites_validated_today": 25,
+            "sites_re_audited": 29,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes_detail": "Carnatic paddlewheel→screw steamship; SS Umbria 360k bombs→6000t; Thistlegorm length 128→126.5m + 4→9 killed; Dunraven struck Jan not Apr 1876; Blue Belt Saudi not Sudanese + depth 20→21-90m; Yolanda Reef hull fell off 1987; Cedar Pride length 95→74m; Hamada depth 20→14m; The Bells entry_type boat→shore; plane wreck location corrected away from Ras Muhammad; Salem Express death toll range documented; Chrisoula K tonnage conflict noted"
+          },
+          "fiji": {
+            "sites_total": 15,
+            "sites_validated_today": 11,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 3,
+            "notes_detail": "E6 location Beqa→Bligh Water + reef→pinnacle (critical); Shark Reef depth 25→30m + transit 30-40→15-20min; Great White Wall tunnel 10→15m + monthly tidal access window; Nigali Passage west→northwest coast; Manta Reef cleaning→feeding station; Cathedral Beqa reef→cave; Zoo/Supermarket Namena and Samu Reef Kadavu unresolved"
+          },
+          "florida-keys": {
+            "sites_total": 13,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3,
+            "notes_detail": "Lugano route Liverpool→Havana not Galveston→Hamburg; Vandenberg Mercury/Gemini/Apollo corrected + 1000 compartments removed; Vandenberg Intermediate→Advanced; Molasses Reef Slobodna spelling corrected; USCGC Duane NOAA U-77 error documented (correct: U-175); Triumph Reef/Rachel Bank/Wisteria unresolved"
+          },
+          "flower-garden-banks": {
+            "sites_total": 8,
+            "sites_validated_today": 7,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes_detail": "Winter temp 4-9°C→20-21°C (Gulf of Mexico, was completely wrong); manta count standardized to 100+; Stetson Bank wall→pinnacle; Geyer Bank depth 39.6→32m; Rankin Bank rewritten as technical-only >50m; M/V Spree operator reference removed; East FGB Stairway unresolved (not in any NOAA source)"
+          },
+          "france": {
+            "notes": "group slug; child port-cros processed",
+            "sites_total": 18,
+            "sites_validated_today": 14,
+            "sites_re_audited": 18,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes_detail": "Wildcat aircraft origin two-theory conflict documented; La Gabinière + Gabinière Est reef→wall; La Tantine/Wildcat generic species lists stripped; Le Grec sinking date conflict 21Nov vs 3Dec 1945; Les Deux Frères/Pierre de Bagaud/Pointe du Cognet/l'Esquadillon unresolved"
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]

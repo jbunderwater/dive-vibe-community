@@ -23,7 +23,7 @@ Tobia Soraya lies approximately 30 minutes east of Safaga in the central Egyptia
 
 - **Location**: East of Safaga, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

@@ -36,7 +36,7 @@ Sea turtles (resident, feeding on soft corals), eagle rays (occasional), parrotf
 
 - **Location**: Northern Gulf of Suez, Sinai coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

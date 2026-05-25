@@ -23,7 +23,7 @@ The horseshoe shape of this reef gives it a distinctive enclosed lagoon on the o
 
 - **Location**: Far southern Egyptian Red Sea, south of Wadi Lahami near Saudi border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

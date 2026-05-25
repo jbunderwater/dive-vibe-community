@@ -23,7 +23,7 @@ Sha'ab Bruce consists of a broad, shallow coral platform rising to within 2–3 
 
 - **Location**: Hurghada reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

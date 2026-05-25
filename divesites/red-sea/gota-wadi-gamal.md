@@ -23,7 +23,7 @@ Wadi El Gemal National Park encompasses a vast stretch of coastline and offshore
 
 - **Location**: Wadi El Gemal National Park, southern Egyptian Red Sea coast (south of Marsa Alam)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

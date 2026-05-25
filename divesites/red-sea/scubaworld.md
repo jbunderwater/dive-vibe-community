@@ -23,7 +23,7 @@ The reef at this location is characteristic of the El Quseir coastal zone: a fri
 
 - **Location**: El Quseir, central Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

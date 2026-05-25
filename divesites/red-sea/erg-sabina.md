@@ -23,7 +23,7 @@ Erg Sabina is a coral pinnacle at approximately 27.22°N, 33.95°E in the offsho
 
 - **Location**: Hurghada offshore zone, central Egyptian Red Sea (~27.22°N, 33.95°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

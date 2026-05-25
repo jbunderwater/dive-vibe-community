@@ -23,7 +23,7 @@ The Skawarit reef sits in the Wadi El Gemal National Park marine protected area,
 
 - **Location**: Wadi El Gemal National Park, Hamata / Qulaan Archipelago area, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

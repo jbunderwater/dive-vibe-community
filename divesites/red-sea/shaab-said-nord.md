@@ -23,7 +23,7 @@ Shaab Said is a submerged reef system positioned on the outer edge of the Egypti
 
 - **Location**: Outer Red Sea, Egypt (east of Marsa Alam, lat 24.27°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

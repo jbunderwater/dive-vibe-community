@@ -23,7 +23,7 @@ The Canyon is a complex system of fissures, passages, and chambers cutting throu
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)

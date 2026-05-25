@@ -23,7 +23,7 @@ Sand Island is a relatively low-relief reef system characterized by sand and rub
 
 - **Location**: Central Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

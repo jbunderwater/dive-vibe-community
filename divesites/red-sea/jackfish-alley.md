@@ -23,7 +23,7 @@ Jackfish Alley forms part of the Ras Mohammed reef system at the southern tip of
 
 - **Location**: Ras Mohammed National Park, southern tip of Sinai, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

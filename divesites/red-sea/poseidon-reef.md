@@ -23,7 +23,7 @@ Poseidon Reef is a relatively compact coral structure rising from deeper water t
 
 - **Location**: Red Sea, Egypt (Safaga area, central Egyptian Red Sea)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

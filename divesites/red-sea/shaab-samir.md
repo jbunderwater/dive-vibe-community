@@ -23,7 +23,7 @@ Located north of Hurghada at approximately 27.32°N, Shaab Samir is part of the 
 
 - **Location**: Northern Red Sea, Egypt (near Hurghada, lat 27.32°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-25 meters (65-80 feet)

@@ -3,7 +3,7 @@ name: SS Umbria
 lat: 19.6367128
 lng: 37.2906381
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 38
 entryType: boat
 siteType: wreck
 ref: null

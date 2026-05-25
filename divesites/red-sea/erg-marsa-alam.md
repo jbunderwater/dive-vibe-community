@@ -27,7 +27,7 @@ The Sha'ab Marsa Alam reef complex features a horseshoe-shaped offshore reef wit
 
 - **Location**: Offshore reef area, ~10 km east of Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

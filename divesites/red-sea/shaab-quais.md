@@ -23,7 +23,7 @@ Sha`ab Quais is a lagoon-style reef situated in the central Red Sea north of Hur
 
 - **Location**: Northern Red Sea, Egypt (near Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

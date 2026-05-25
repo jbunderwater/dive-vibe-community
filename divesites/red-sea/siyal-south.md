@@ -23,7 +23,7 @@ Siyal South sits at approximately 24.38°N, 35.38°E — in the Marsa Alam offsh
 
 - **Location**: Southern Siyal reef complex, offshore Marsa Alam (~24.38°N, 35.38°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

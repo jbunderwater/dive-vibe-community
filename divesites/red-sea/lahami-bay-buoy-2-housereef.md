@@ -36,7 +36,7 @@ Small boat (felluca/zodiac) access from the beach station. Depth and specific to
 
 - **Location**: Hamata / Lahami Bay, southern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

@@ -23,7 +23,7 @@ Ham Ham is a compact reef structure typical of the northern Red Sea's offshore r
 
 - **Location**: Offshore northern Egyptian Red Sea, north of Hurghada near El Gouna
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

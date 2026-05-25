@@ -23,7 +23,7 @@ The eastern wall of Panorama Reef drops steeply from a shallow reef top at 3-5 m
 
 - **Location**: Red Sea, Egypt (south of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

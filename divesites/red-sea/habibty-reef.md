@@ -31,7 +31,7 @@ El Quseir reefs generally support:
 
 - **Location**: El Quseir offshore reef zone, northern–central Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

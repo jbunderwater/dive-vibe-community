@@ -1193,7 +1193,7 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "redseawreckproject.com,marsaalam.com",
+      "validation_source": "redseawreckproject.com,marsaalam.com,dive-the-world.com",
       "last_qa_date": "2026-05-25"
     },
     "max_depth": 80
@@ -3662,7 +3662,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "redseawreckproject.com,dive-the-world.com",
+      "validation_source": "redseawreckproject.com,dive-the-world.com,egypt-liveaboard.com",
       "last_qa_date": "2026-05-25"
     }
   },

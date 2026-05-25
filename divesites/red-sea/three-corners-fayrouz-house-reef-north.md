@@ -43,7 +43,7 @@ The dugong sightings — when they occur — represent one of the Red Sea's most
 
 - **Location**: Three Corners Fayrouz Plaza Beach Resort, near Port Ghalib, Marsa Alam area
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 metres
 

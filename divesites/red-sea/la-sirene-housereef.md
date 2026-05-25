@@ -34,7 +34,7 @@ Shore entry from the private beach. The main reef platform is at 5–12 m depth.
 
 - **Location**: Nuweiba, Gulf of Aqaba, northern Red Sea (Sinai)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 12 meters
 - **Difficulty**: Beginner — suitable for all levels
 

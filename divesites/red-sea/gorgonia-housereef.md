@@ -31,7 +31,7 @@ Maximum depth at the jetty entry is 12 m; the reef wall drops to greater depths 
 
 - **Location**: Gorgonia Beach Resort, ~45 km south of Marsa Alam, at the border of Wadi El Gemal National Park, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

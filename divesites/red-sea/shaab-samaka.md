@@ -27,7 +27,7 @@ The Abu Dabbab reef zone is documented to support green sea turtles, dugongs (in
 
 - **Location**: Abu Dabbab / offshore reef zone, northern Marsa Alam area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

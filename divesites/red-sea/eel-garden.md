@@ -23,7 +23,7 @@ The dive site begins at a sandy entry point accessible directly from the beach a
 
 - **Location**: Red Sea, Egypt (Dahab, Gulf of Aqaba, Sinai)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

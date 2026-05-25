@@ -23,7 +23,7 @@ South Oasis lives up to its name as a verdant refuge of coral life on what is ot
 
 - **Location**: Ras Mohammed National Park, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

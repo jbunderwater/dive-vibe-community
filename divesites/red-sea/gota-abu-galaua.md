@@ -23,7 +23,7 @@ Gota Abu Galaua is an offshore pinnacle reef in the central Egyptian Red Sea, si
 
 - **Location**: Offshore central Egyptian Red Sea, between Hurghada and the Brothers Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

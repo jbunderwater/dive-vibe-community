@@ -23,7 +23,7 @@ The coordinates place Arba Reef in the southern Red Sea, south of Marsa Alam, in
 
 - **Location**: Southern Red Sea, Hamata / Wadi El Gemal area, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

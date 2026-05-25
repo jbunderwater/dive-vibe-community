@@ -37,7 +37,7 @@ Maximum depth is approximately 11–12 m. Visibility is typically excellent — 
 
 - **Location**: Bluff Point, Gubal Island, Strait of Gubal, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 

@@ -31,7 +31,7 @@ Boat drop at the pinnacle; divers descend the mooring or the structure itself, c
 
 - **Location**: Hamata area, southern Red Sea, approximately 120 km south of Marsa Alam
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 40 metres
 - **Difficulty**: Intermediate
 

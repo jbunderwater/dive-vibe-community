@@ -27,7 +27,7 @@ The bay name suggests a moray eel presence, consistent with the broader region's
 
 - **Location**: El Quseir coast, ~43 km north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

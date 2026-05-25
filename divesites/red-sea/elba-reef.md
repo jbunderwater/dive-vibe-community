@@ -23,7 +23,7 @@ Elba Reef sits within the Halaib Triangle near the Egyptian-Sudanese border at a
 
 - **Location**: Elba Region, near the Egyptian-Sudanese border (approximately 22°N, 37°E) — liveaboard only
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 30–40 meters

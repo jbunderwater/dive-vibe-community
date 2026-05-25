@@ -23,7 +23,7 @@ Gota Kebir presents as a broad, flattish reef top at 5-8 meters that slopes and 
 
 - **Location**: St John's Reef, Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

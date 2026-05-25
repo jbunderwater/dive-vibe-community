@@ -49,7 +49,7 @@ Night photography is the signature experience here — the wreck's sand floor is
 
 - **Location**: Bluff Point, eastern Gubal Island, Strait of Gubal
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 metres
 

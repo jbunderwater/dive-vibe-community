@@ -23,7 +23,7 @@ Shaab Pinky sits at approximately 27.26°N, 33.92°E in the Hurghada offshore zo
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.26°N, 33.92°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters

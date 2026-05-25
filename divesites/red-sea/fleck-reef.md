@@ -27,7 +27,7 @@ The Wadi Gimal coast features pristine fringing reef systems within a national p
 
 - **Location**: Wadi Gimal / Wadi el Gemal National Park area, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

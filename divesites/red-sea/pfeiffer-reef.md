@@ -23,7 +23,7 @@ Pfeiffer Reef is an elongated oval reef rising from deep water, with a shallow r
 
 - **Location**: Red Sea, Egypt/Sudan border region (southern Red Sea)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

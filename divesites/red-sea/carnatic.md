@@ -3,7 +3,7 @@ name: Carnatic
 lat: 27.5792666
 lng: 33.92695
 difficulty: Intermediate
-maxDepth: 28
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The SS Carnatic was an iron-hulled screw steamship (not a paddlewheel vessel —
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate
 - **Best Time**: October to May
