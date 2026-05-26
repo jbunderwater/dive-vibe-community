@@ -23,7 +23,7 @@ Molasses Reef is the most frequently visited reef dive in the Upper Keys and arg
 
 - **Location**: Florida Keys, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 

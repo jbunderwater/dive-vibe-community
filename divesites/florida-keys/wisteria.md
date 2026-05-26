@@ -36,4 +36,4 @@ No public source reviewed describes: the Wisteria's history (vessel type, build,
 Standard Florida Keys wreck-diving precautions apply: dive within your certification limits, do not attempt wreck penetration without proper training and equipment, monitor air and depth, and confirm conditions and access with a local operator before diving.
 
 ---
-*No site-specific dive sources or historical records were located. Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-17.*
+*No site-specific dive sources or historical records were located in deep QA pass (2026-05-26). Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-26.*

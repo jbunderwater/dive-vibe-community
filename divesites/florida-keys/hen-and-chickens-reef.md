@@ -23,7 +23,7 @@ Hen and Chickens is a cluster of patch reefs off Islamorada whose coral formatio
 
 - **Location**: Florida Keys, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5.3 meters
 
@@ -53,4 +53,4 @@ Hen and Chickens is reached by boat from Islamorada and Plantation Key dive oper
 - Touching ESA-listed corals is a federal offense within the SPA — maintain neutral buoyancy and good fin awareness.
 
 ---
-*Sources: [NOAA FKNMS — Hen and Chickens Brick Wreck](https://floridakeys.noaa.gov/shipwrecks/hen-and-chickens-wreck.html), [NOAA FKNMS — Hen and Chickens SPA](https://floridakeys.noaa.gov/zones/spas/henchickens.html), [Florida-Scubadiving.com — Hens & Chickens Guide](https://www.florida-scubadiving.com/hens-chickens-reef-snorkeling-diving-guide-tips/), [Just Gotta Dive — Islamorada Reefs](https://www.justgottadive.com/dive_resources/travel_articles/coral-reefs-islamorada-amazing-dive-sites-floridas-middle-keys), [Florida Keys Vacation — Hen and Chickens](https://www.florida-keys-vacation.com/Hen-and-Chickens-Reef.html). Last updated 2026-05-17.*
+*Sources: [NOAA FKNMS — Hen and Chickens Brick Wreck](https://floridakeys.noaa.gov/shipwrecks/hen-and-chickens-wreck.html), [NOAA FKNMS — Hen and Chickens SPA](https://floridakeys.noaa.gov/zones/spas/henchickens.html), [Florida-Scubadiving.com — Hens & Chickens Guide](https://www.florida-scubadiving.com/hens-chickens-reef-snorkeling-diving-guide-tips/), [Scuba Diving Magazine — Hen and Chickens](https://www.scubadiving.com/hen-and-chickens), [Florida Keys Vacation — Hen and Chickens](https://www.florida-keys-vacation.com/Hen-and-Chickens-Reef.html). Last updated 2026-05-26.*

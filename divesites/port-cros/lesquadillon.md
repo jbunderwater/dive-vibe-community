@@ -33,7 +33,7 @@ L'Esquadillon is a submerged rocky structure in the outer waters northeast of Po
 
 ## Marine Life
 
-Brown groupers move between the reef structure and the Posidonia meadow edges. Moray eels, octopus, and spiny lobsters inhabit the rock crevices. Sea bream (two-banded, Saddled, and Sargus varieties), salema, oblades, and sea bass are active in the water column above the reef. The Posidonia meadow shelters cuttlefish, seahorses, and pipefish. Scorpionfish blend into the rocky substrate. Nudibranchs (particularly aeolids and dorids) are found on encrusted rock surfaces. Red and yellow gorgonian fans appear on the deeper rock faces below 18 metres.
+Brown groupers move between the reef structure and the Posidonia meadow edges. Moray eels, octopus, and spiny lobsters inhabit the rock crevices. Sea bream (two-banded, Saddled, and Sargus varieties), salema, oblades, and sea bass are active in the water column above the reef. The Posidonia meadow shelters cuttlefish and other cryptic seagrass-associated species typical of Mediterranean protected areas (no site-specific reports of seahorses or pipefish at this site were found). Scorpionfish blend into the rocky substrate. The deeper rock faces carry gorgonian fans below 18 metres.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Standard Mediterranean intermediate dive conditions. Exposed outer bay location 
 
 ## Photography
 
-The Posidonia meadow provides excellent macro subjects (seahorses, cuttlefish, pipefish), while the rocky reef offers grouper portraits and gorgonian wide-angle shots. The clear outer-bay water produces excellent natural-light photography in the 5–15 metre range. A strobe adds accuracy to colour in the deeper sections.
+The Posidonia meadow provides excellent macro subjects (cuttlefish and other Posidonia species), while the rocky reef offers grouper portraits and gorgonian wide-angle shots. The clear outer-bay water produces excellent natural-light photography in the 5–15 metre range. A strobe adds accuracy to colour in the deeper sections.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*No site-specific source for l'Esquadillon was located. Description based on regional Mediterranean reef and Posidonia habitat characteristics. Species claims (seahorses, pipefish) removed pending site-specific confirmation — these are typical of Posidonia habitat in this protected area but not confirmed at this specific site. Re-audited 2026-05-26. Last updated 2026-05-26.*

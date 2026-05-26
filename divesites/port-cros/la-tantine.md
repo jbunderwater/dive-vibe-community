@@ -35,7 +35,7 @@ The wreck itself is of modest structural interest (largely collapsed at 48 metre
 
 ## Marine Life
 
-Wreck structures in the Hyères Bay area attract dense fish communities. Brown groupers and large dentex are commonly encountered on and around the superstructure. Schools of swallowtail sea perch (anthias) cloud the most encrusted surfaces. Conger eels and large moray eels inhabit the wreck's interior passages. Gorgonian fans and encrusting sponges colonise the metalwork, and spiny lobsters are present in sheltered areas. Octopus occupy accessible openings.
+The wreck's namesake is the conger eel — in its 1990s heyday the site hosted a remarkable density of large congers that would swim directly toward divers, making it one of the most distinctive wreck encounters in the region. Local dive operators report that this population has substantially declined due to broader area fishing pressure and now numbers only a few individuals. Moray eels, red mullet, and occasional spiny lobsters are also recorded at the site. Forkbeard (Phycis phycis) are noted by one operator. The sandy bottom and collapsed wooden structure do not support the gorgonian and anthias communities typical of the deeper steel wrecks in the same area.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ This is an advanced dive with depth-related risks. Never dive La Tantine without
 The encrusted metalwork and resident fish life create compelling subjects at La Tantine. Wide-angle shots of groupers and dentex against the wreck structure, and macro work on the sponge and gorgonian encrustation, both work well. Artificial lighting is essential — at 48 metres, no usable ambient colour remains. A torch for focus assists and a powerful strobe are needed.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Mio Palmo Plongée — La Barge aux Congres](https://www.miopalmoplongee.com/nos-sites/la-barge-aux-congres.php), [Lavandou Plongée — Legendary Wrecks (La Barge aux Congres)](https://lavandou-plongee.com/en/scubadiving-spots/legendary-wrecks/), [Provence Méditerranée — La Barge aux Congres (La Tantine)](https://www.provencemed.com/en/activities/la-barge-aux-congres-la-tantine/). Sinking date and cause are unverified; "around 1960" is the approximate period reported by local operators. Last updated 2026-05-26.*

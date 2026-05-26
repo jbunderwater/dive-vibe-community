@@ -49,4 +49,4 @@ Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typic
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Provence Méditerranée diving destinations](https://www.provencemed.com/en/living-provence/holidays-by-the-sea/a-diving-destination/). No site-specific sources for Les Deux Frères were located; description reflects regional park characteristics. Last updated 2026-05-17.*
+*No site-specific source for Les Deux Frères (within the Port-Cros/Hyères area at this coordinate) was located. The name "Les Deux Frères" more commonly refers to dive sites near Cap Sicié (La Seyne-sur-Mer) in other databases — identity of this specific curated entry could not be confirmed from available sources. Description reflects regional park characteristics only. Re-audited 2026-05-26. Last updated 2026-05-26.*

@@ -21,7 +21,7 @@ La Gabinière is a small rocky islet located south of the island of Port-Cros, a
 
 The site is structured around three distinct dives: the eastern drop-off (Tombant Est), the western slope (Tombant Ouest), and the dark canyon (La Calanque Sombre). The southern end is richest in marine life due to constant currents delivering nutrients and oxygenated water. Magnificent ridges drop to 40–45 metres, and the entire structure alternates between large rocky screes and vertical drop-offs draped with red gorgonian fans, yellow anemones, sea sponges, and nudibranchs.
 
-The groupers at La Gabinière are massive and genuinely curious — they approach divers at close range, a behaviour shaped by decades of fishing prohibition within the park. Beyond groupers, pelagic visitors include schools of Mediterranean barracuda, greater amberjack, and occasionally eagle rays and ocean sunfish (Mola mola). Moray eels, conger eels, and crayfish occupy crevices in the rocky walls. On lucky days, tuna pass through the southern current channels.
+The groupers at La Gabinière are massive and genuinely curious — they approach divers at close range, a behaviour shaped by decades of fishing prohibition within the park. One operator cites the population around the islet at approximately 200 individuals; another has reported "over 300 groupers" — exact counts vary by survey. Beyond groupers, pelagic visitors include schools of Mediterranean barracuda, greater amberjack, and occasionally ocean sunfish (Mola mola). Moray eels, conger eels, and crayfish occupy crevices in the rocky walls. On lucky days, tuna pass through the southern current channels.
 
 Access is by boat only, with dive centres in Hyères, La Londe-les-Maures, and Le Lavandou offering guided trips (45–50 minutes navigation). Mooring buoys are available on site. Strong currents on the southwest pinnacles make the deeper sections technical in character; the eastern drop-off is more sheltered and suitable for advanced open water divers.
 
@@ -37,7 +37,7 @@ Access is by boat only, with dive centres in Hyères, La Londe-les-Maures, and L
 ## Marine Life
 
 - **Groupers**: Brown grouper population estimated at ~200 individuals; most are large, curious, and approach closely
-- **Pelagics**: Mediterranean barracuda schools, greater amberjack, occasional eagle ray, Mola mola
+- **Pelagics**: Mediterranean barracuda schools, greater amberjack, occasional Mola mola (ocean sunfish)
 - **Reef fish**: Seabream, bogue, wrasse, mullet, castagnoles, pomfrets
 - **Invertebrates**: Moray eels, conger eels, crayfish (spiny lobster), octopus, nudibranchs, crabs
 - **Flora**: Red gorgonian fans, yellow cluster anemones, sea sponges
@@ -64,4 +64,4 @@ Strong currents at the southern pinnacles require Advanced certification and cur
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Skippair — La Gabinière snorkeling](https://skippair.com/en/diving/offers/snorkeling-trip-with-the-groupers-of-port-cros/). Last updated 2026-05-17.*
+*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School — Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Eagle ray removed: no site-specific source confirmed sightings at La Gabinière. Grouper count range noted (200–300+) across operator sources. Last updated 2026-05-26.*

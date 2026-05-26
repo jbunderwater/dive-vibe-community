@@ -56,4 +56,4 @@ The site is accessible within 30 minutes by boat from La Londe-les-Maures, and i
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/). Last updated 2026-05-17.*
+*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Aquabormes — Pointe de la Galère](https://aquabormes.fr/sites-de-plongee/la-reserve-naturelle-de-port-cros/pointe-de-la-galere/). Anglerfish at ~28m on east face and giant doris at ~33m confirmed by multiple dive operators. Last updated 2026-05-26.*
