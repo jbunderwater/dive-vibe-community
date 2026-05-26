@@ -23,7 +23,7 @@ La Palud is the most celebrated site in Port-Cros National Park — Europe's old
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

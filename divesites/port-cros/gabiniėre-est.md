@@ -2,10 +2,10 @@
 name: Gabiniėre Est
 lat: 42.989263
 lng: 6.3957633
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 12988211769
 addedBy: osm_import
@@ -44,8 +44,8 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Protected Status**: Port-Cros National Park
 

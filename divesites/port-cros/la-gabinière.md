@@ -5,7 +5,7 @@ lng: 6.4
 difficulty: Advanced
 maxDepth: 45
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -54,7 +54,7 @@ Strong currents at the southern pinnacles require Advanced certification and cur
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Protected Status**: Port-Cros National Park integral reserve

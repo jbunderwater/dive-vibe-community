@@ -23,7 +23,7 @@ Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagau
 
 - **Location**: Off Islet of Bagaud, Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 metres
@@ -56,7 +56,7 @@ A sheltered intermediate site with straightforward conditions in typical weather
 
 ## Photography
 
-The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (seahorses, pipefish, cuttlefish) and encrusted rock surfaces is productive.
+The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (cuttlefish and seagrass-associated invertebrates) and encrusted rock surfaces is productive.
 
 ---
 *Sources: [Mio Palmo Plongée — Les Dalles de Bagaud](https://www.miopalmoplongee.com/nos-sites/sites-plongee-port-cros.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Provence-Alpes-Côte d'Azur Tourism — Bagaud in Port-Cros](https://provence-alpes-cotedazur.com/en/get-inspired/natural-areas/natural-wealth/bagaud-in-port-cros-diving-site-hyeres-en-3260804/). Note: dive operator sources list "Dalles de Bagaud" at 12–15m depth (beginner), not the "Pierre de Bagaud" curated entry at 25m; these may be different features of the same islet. No source confirmed seahorses or pipefish specifically at this site — those claims reflect regional Posidonia habitat characteristics. Re-audited 2026-05-26. Last updated 2026-05-26.*

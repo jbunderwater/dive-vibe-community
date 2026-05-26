@@ -43,7 +43,7 @@ The site is suitable for those building experience in the national park system, 
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Protected Status**: Port-Cros National Park

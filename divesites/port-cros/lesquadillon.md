@@ -23,7 +23,7 @@ L'Esquadillon is a submerged rocky structure in the outer waters northeast of Po
 
 - **Location**: Outer Hyères Bay area, northeast of Port-Cros, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–30 metres

@@ -23,7 +23,7 @@ La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, in
 
 - **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–25 metres
