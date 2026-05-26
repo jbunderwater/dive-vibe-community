@@ -32,7 +32,7 @@ The Bells is a dive site immediately north of the famous Blue Hole at Dahab on t
 
 ## Marine Life
 
-The wall south of The Bells entry is richly colonised. Large gorgonian fans host longnose hawkfish and pygmy seahorses. Black coral trees grow at depth on the outer face. Anthias shoals throng the shallower sections of the wall. Turtles are common, often seen grazing on soft coral at 10–15 metres. Whitetip reef sharks occasionally patrol the wall edge, and spotted eagle rays drift past in the blue. Schools of trevally and barracuda pass along the outside of the reef. The chimney itself hosts glassfish and sometimes lionfish in the crevices.
+The chimney itself hosts glassfish and lionfish in the crevices. The wall south of The Bells entry carries overhanging sections with black coral at depth. The coral saddle area near the Blue Hole is reported as the most productive section for reef life. Turtles are reported in the area. Dive operators list trevallies, turtles, and batfish as sightings; H2O Divers Dahab also notes occasional hammerhead and oceanic whitetip shark sightings in the blue water, though these are pelagic and not guaranteed. ScubaBoard diver reports describe the wall itself as relatively quiet compared with other Dahab sites — the site's value is primarily the dramatic chimney entry and the natural traverse route to the Blue Hole, not the density of fish life. No source specifically confirms gorgonian fans hosting hawkfish or pygmy seahorses at this site.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The Bells chimney itself is a mild overhead environment — the entry requires s
 The chimney entry is a signature photographic opportunity — shooting upward through the slot from 20 metres captures dramatic light rays descending through the water. The wall south of the chimney rewards wide-angle shooting with large gorgonians and fans in the foreground and deep blue behind. Turtles on the wall at 10–15 metres are highly accessible for medium-range wide-angle shots. The transition from the open wall into the Blue Hole's circular interior makes an outstanding environmental composition.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Big Blue Dahab — The Bells](https://bigbluedahab.com/bells.html), [H2O Divers Dahab — Bells/Blue Hole](https://www.h2odiversdahab.com/dive-sites/bells-blue-hole/), [ScubaBoard — El Bells & Blue Hole dive report](https://scubaboard.com/community/threads/diving-the-el-bells-blue-hole-red-sea.459229/), [Shams Dahab — Bells to Blue Hole](https://shamsdahab.com/bells-to-blue-hole/). Last updated 2026-05-26.*

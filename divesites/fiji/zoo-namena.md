@@ -2,8 +2,8 @@
 name: Zoo Namena
 lat: -17.1167
 lng: 179.1
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ The name says everything — an overwhelming density and variety of marine life 
 
 ## Overview
 
-Zoo Namena is one of the signature sites within Namena Marine Reserve, a protected area surrounding the small island of South Sea Island (Namena) in the Koro Sea. The reserve is one of Fiji's oldest and most successful marine protected areas, and the fish life here is visibly different from unprotected reefs — larger individuals, denser schools, and species that have disappeared from more heavily fished areas. The site earns its "Zoo" name from the extraordinary diversity of fish species that can be observed in a single dive: reef sharks, schooling pelagics, surgeonfish, parrotfish, batfish, sweetlips, groupers, lionfish, nudibranchs, and a dozen species of anemonefish all share the same reef system simultaneously. Namena is a two-hour boat ride from Savusavu or approximately one hour from Taveuni, making it a liveaboard destination or a long day trip.
+Zoo Namena is one of the signature sites within Namena Marine Reserve, a protected area surrounding the uninhabited island of Namena in the Koro Sea. The reserve is one of Fiji's most successful marine protected areas, and the fish life here is visibly different from unprotected reefs — larger individuals, denser schools, and less-wary behavior from animals that have not been subject to fishing pressure. The site earns its "Zoo" name from the extraordinary diversity of fish species that can be observed in a single dive: reef sharks, schooling pelagics, surgeonfish, parrotfish, batfish, sweetlips, groupers, and nudibranchs all share the same reef system simultaneously. Namena is approximately two hours by boat from Savusavu on Vanua Levu, making it a liveaboard destination or a dedicated day trip.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Zoo Namena is one of the signature sites within Namena Marine Reserve, a protect
 
 ## Marine Life
 
-The Namena reserve supports exceptional densities of reef fish throughout its protected area, and Zoo represents one of the richest concentrations within it. Grey reef sharks are present throughout the dive, typically 10–20 individuals at any given time. Large schools of rainbow runners and bigeye trevally spiral above the reef in continuous formation. Bumphead parrotfish appear in groups, their loud chomping audible underwater. Massive groupers sit stationary on coral heads, unconcerned by divers. Multiple species of surgeonfish — sohal, achilles, powder blue — aggregate in mixed feeding schools. The soft coral coverage is consistent with the best Fiji sites, providing habitat for anthias clouds and butterflyfish of at least 15 species. The reserve's protection is visibly effective — fish here do not show the wariness typical of sites with regular fishing pressure.
+The Namena reserve supports exceptional densities of reef fish, and Zoo Namena represents one of the richest concentrations within it. Grey reef sharks are present throughout the dive, typically 10–20 individuals at any given time. Large schools of bigeye trevally and barracuda spiral above the reef in continuous formation. Bumphead parrotfish appear in groups, their loud chomping audible underwater. Massive groupers sit stationary on coral heads, unconcerned by divers. Surgeonfish aggregate in feeding schools across the reef surface. Soft coral coverage provides habitat for anthias clouds and diverse butterflyfish communities. Eagle rays and marble rays are documented at the site. The reserve's protection is visibly effective — fish here do not show the wariness typical of sites with regular fishing pressure. No site-specific species list has been independently verified for this exact site; the Namena reserve's general fauna extends across all three named sites (Zoo, Kansas, Supermarket).
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Namena Marine Reserve lies in open water and boat travel can be rough in trade w
 Zoo Namena is a wide-angle reef photographer's delight. The combination of shark schools, dense fish aggregations, and healthy coral provides layered subjects at every depth. Shoot wide from mid-water to capture the shark patrol with the reef below and the fish schools above, building a three-dimensional composition. For close-focus wide angle, approach the large groupers — they are remarkably tame and will hold position for a lens placed 30cm from their face. Macro photographers find nudibranchs, small cephalopods, and shrimp species in the rubble zones between coral heads.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Namena Island - Diving](https://www.namenaisland.com/Diving), [Fijieco - Namena Marine Reserve](https://www.fijieco.com/places/diving-snorkeling/namena-marine-reserve), [Liveaboard.com - Namena Marine Reserve](https://www.liveaboard.com/diving/fiji/namena-marine-reserve). Last updated 2026-05-26.*

@@ -23,7 +23,7 @@ The Safaga area is known for its offshore ergs and reef systems, including well-
 
 - **Location**: Safaga offshore reef zone, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

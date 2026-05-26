@@ -23,7 +23,7 @@ Paradise Reef rises from sandy bottom at around 15 meters to a broad, flat reef 
 
 - **Location**: Red Sea, Egypt (Marsa Alam area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

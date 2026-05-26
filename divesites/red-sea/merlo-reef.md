@@ -23,7 +23,7 @@ At this latitude in the Red Sea, reefs are influenced by the broader Indian Ocea
 
 - **Location**: Southern Red Sea (approximately 20.84°N, 37.42°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

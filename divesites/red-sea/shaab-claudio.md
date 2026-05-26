@@ -23,7 +23,7 @@ Shaab Claudio follows the typical Fury Shoals reef profile: a coral platform ris
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt (Marsa Alam region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

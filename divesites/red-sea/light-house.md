@@ -23,7 +23,7 @@ The reef at Light House descends from a rocky shore entry over a sloping coral g
 
 - **Location**: Dahab, Sinai Peninsula, Egypt, Gulf of Aqaba
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

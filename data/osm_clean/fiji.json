@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunidiveresort.com,fijidiveresort.net,dive-the-world.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,dive-the-world.com,fiji.travel",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 177.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijisharkdive.com,tomvierus.com,fiji.travel",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -56,15 +59,16 @@
     "lon": 177.1575,
     "osm_id": null,
     "osm_type": null,
-    "depth": 28,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "naia.com.fj,dive-the-world.com,divernet.com",
+      "last_qa_date": "2026-05-26"
     },
     "depth_max": 40
   },
@@ -82,7 +86,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,liveaboard.com,fijitravel.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -99,7 +104,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "matava.com,dive-the-world.com,fijitravel.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -116,7 +122,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "aquatrek.com,dive-the-world.com,fijitravel.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -126,14 +133,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "diveplanit.com,fijitravel.org,dive-the-world.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -142,17 +150,18 @@
     "lon": 179.1,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "namenaisland.com,fijieco.com,liveaboard.com",
+      "last_qa_date": "2026-05-26"
     },
-    "depth_max": 30
+    "depth_max": 35
   },
   {
     "name": "Kansas Namena",
@@ -160,15 +169,16 @@
     "lon": 179.0967,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,waterlustfiji.com,fijiresort.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -185,7 +195,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "liveaboard.com,fijieco.com,dive-the-world.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -202,7 +213,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunidiveresort.com,taveunioceansports.com,diveotion.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -219,7 +231,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunidiveresort.com,naia.com.fj,dive-the-world.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -228,7 +241,7 @@
     "lon": 179.88,
     "osm_id": null,
     "osm_type": null,
-    "depth": 17,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -236,7 +249,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunidiveresort.com,taveunioceansports.com,fiji.travel",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -252,8 +266,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-26",
+      "qa_note": "No independent sources found for this specific site name. General Kadavu outer reef diving confirmed advanced/drift character. 3-source requirement not met."
     }
   }
 ]

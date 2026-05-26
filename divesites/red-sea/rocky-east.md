@@ -23,7 +23,7 @@ Rocky East is the eastern-facing dive site on Rocky Island, part of the Fury Sho
 
 - **Location**: Eastern face, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.56°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

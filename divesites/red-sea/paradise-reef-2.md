@@ -25,6 +25,6 @@ The documented Paradise Reef (also called Orabi) at Fury Shoal is a coral garden
 
 - **Location**: Southern Red Sea coast, Egypt (precise site unconfirmed)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 *Description based on coordinate analysis and the documented primary Paradise Reef entry. No site-specific source found for this secondary entry. Last updated 2026-05-17.*

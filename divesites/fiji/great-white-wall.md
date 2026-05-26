@@ -17,7 +17,7 @@ One of the world's most iconic wall dives — a vertical cathedral of snow-white
 
 ## Overview
 
-Great White Wall earns its reputation as one of diving's true bucket-list sites. The wall is blanketed from top to bottom in white Dendronephthya soft corals, creating a ghostly, otherworldly landscape that looks nothing like a typical tropical reef. Entry is through a swim-through coral tunnel at 10 meters, which deposits divers directly onto the wall at 25 meters. From there, the white coral-encrusted cliff drops to 35 meters and beyond. The key to the spectacle is current: when tidal flow through the Somosomo Strait is running, the Dendronephthya fully extend their polyps, transforming the wall into a living snowfield. At slack tide, the corals retract and the effect diminishes — timing the dive to the current is essential.
+Great White Wall earns its reputation as one of diving's true bucket-list sites. The wall is blanketed from top to bottom in white Dendronephthya soft corals, creating a ghostly, otherworldly landscape that looks nothing like a typical tropical reef. Entry is through a swim-through coral tunnel beginning at approximately 15 meters, which deposits divers onto the wall at around 25–27 meters depth. The Taveuni Dive Resort notes that the tunnel descends from 15 meters and exits at roughly 25 meters along the wall. From there, the white coral-encrusted cliff drops to 35 meters and beyond. The key to the spectacle is current: when tidal flow through the Somosomo Strait is running, the Dendronephthya fully extend their polyps, transforming the wall into a living snowfield. At slack tide, the corals retract and the effect diminishes — timing the dive to the current is essential. Due to the solar-lunar tidal cycle, the site has specific optimal diving windows and is not diveable on every day of the month.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The white Dendronephthya soft corals are the headline attraction, but the wall s
 
 ## Dive Profile
 
-Enter the water and follow the reef top to the coral tunnel entrance at 10 meters. Pass through the tunnel — typically 5–8 meters in length — and emerge on the wall at 25 meters. The white coral is most intense between 25 and 35 meters. Spend the bulk of your bottom time in this zone before beginning a slow ascent along the wall face. The upper section of the wall (12–20 meters) features colorful sea fans and additional soft coral growth. Ascend to the reef top for a safety stop at 5 meters. Total dive time is typically 45–60 minutes. Bottom time at depth is limited — this is not a site for lingering at 35 meters.
+Enter the water and follow the reef top to the coral tunnel entrance at approximately 15 meters. Pass through the tunnel and emerge on the wall at approximately 25–27 meters. The white coral is most intense between 25 and 35 meters. Spend the bulk of your bottom time in this zone before beginning a slow ascent along the wall face. The upper section of the wall (12–20 meters) features colorful sea fans and additional soft coral growth. Ascend to the reef top for a safety stop at 5 meters. Total dive time is typically 45–60 minutes. Bottom time at depth is limited — this is not a site for lingering at 35 meters.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Current in the Somosomo Strait can reach 3–4 knots and can reverse direction q
 Great White Wall is one of Fiji's most-photographed sites and one of the most challenging to do justice to. The white coral against the deep blue water demands wide-angle shooting; a rectilinear 10–17mm or fisheye lens works best. Shoot toward the blue to silhouette coral formations against the open ocean, or position a dive buddy against the wall for scale. Strobes should be positioned wide to avoid backscatter from the coral polyps. Shooting upward along the wall face with light filtering from above can produce striking abstract compositions. Macro photographers will find lionfish, nudibranchs, and pygmy seahorses in the coral matrix.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Dive Resort - Dive Guide](http://www.taveunidiveresort.com/dive-guide), [Fiji Dive Resort - Great White Wall](https://www.fijidiveresort.net/greatwhitewall), [Dive the World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php). Last updated 2026-05-26.*

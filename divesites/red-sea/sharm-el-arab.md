@@ -23,7 +23,7 @@ Shore dive sites in the El Gouna / northern Hurghada area typically feature sand
 
 - **Location**: Northern Hurghada / El Gouna area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

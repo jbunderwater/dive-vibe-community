@@ -23,7 +23,7 @@ Sodfa sits immediately northeast of the famous Tower dive site on the Sharm el-S
 
 - **Location**: Adjacent to Tower dive site, Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

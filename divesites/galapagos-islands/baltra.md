@@ -23,7 +23,7 @@ Baltra (also called South Seymour) is the main airport island for the Galápagos
 
 - **Location**: Northeast coast of Baltra Island, near Itabaca Channel, Galápagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–15 meters (can be poor in the channel)
@@ -54,4 +54,4 @@ Giant stride or back roll from the panga at the liveaboard anchorage. Conditions
 A low-risk dive in sheltered conditions. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
 
 ---
-*Sources: [ScubaBoard](https://scubaboard.com/community/threads/diving-in-galapagos-in-october-2022.626791/), [ScubaBoard](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Galápagos Shark Diving](https://www.galapagossharkdiving.com/en/galapagos-dive-liveaboard/8-day-itinerary/), [Starfish.ch](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*
+*Sources: [ScubaBoard – Galapagos October 2022 dive report](https://scubaboard.com/community/threads/diving-in-galapagos-in-october-2022.626791/), [ScubaBoard – Galapagos Sep 2021 dive report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Galápagos Shark Diving](https://www.galapagossharkdiving.com/en/galapagos-dive-liveaboard/8-day-itinerary/), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-26.*

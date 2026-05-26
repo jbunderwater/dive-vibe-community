@@ -17,7 +17,7 @@ The Blue Hole at Dahab is arguably the most famous — and most notorious — di
 
 ## Overview
 
-The Blue Hole is a roughly circular sinkhole approximately 60 meters across, opening at the surface and dropping through a near-vertical shaft past 100 meters. A shallow underwater arch — known as "The Arch" or "The Saddle" — connects the inside of the hole to the open sea at around 52–56 meters depth, and this feature has drawn technical and deep divers from around the world, sometimes fatally. The rim of the hole sits just below the surface, and the inside walls are coated with soft and hard corals supported by the light filtering down from above. Around the outside of the hole on the reef, the wall drops away into deep blue water. The site is shore accessible and is one of the most visited dive sites in Egypt. Visibility inside the hole is typically 30–50 meters.
+The Blue Hole is a roughly circular sinkhole approximately 60 meters across, opening at the surface and dropping through a near-vertical shaft past 100 meters. A submerged tunnel — known as "The Arch" — connects the inside of the hole to the open sea. Its ceiling begins at approximately 55 metres depth and the tunnel is approximately 26 metres long. This feature has drawn technical and deep divers from around the world, sometimes fatally. The shallower 6-metre opening to the sea is known as "the Saddle." The rim of the hole sits just below the surface, and the inside walls are coated with soft and hard corals supported by the light filtering down from above. Around the outside of the hole on the reef, the wall drops away into deep blue water. The site is shore accessible and is one of the most visited dive sites in Egypt. Visibility inside the hole is typically 30–50 meters.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Despite the depth and exposure, the Blue Hole supports rich reef life. Inside th
 
 ## Dive Profile
 
-For recreational divers, the dive plan should remain above 40 meters. Descend inside the hole and explore the interior walls and coral, staying well above The Arch. The outer reef plateau at 5–20 meters offers an entirely satisfying dive without approaching technical depths. Advanced divers may penetrate deeper, but The Arch is a technical dive requiring appropriate training, trimix gas, and specialist guides. Safety stops at 5 meters are conducted inside or at the reef edge.
+For recreational divers, the dive plan should remain above 40 meters. Descend inside the hole and explore the interior walls and coral, staying well above The Arch. The outer reef plateau at 5–20 meters offers an entirely satisfying dive without approaching technical depths. Advanced divers may penetrate deeper, but The Arch — ceiling at 55 metres, tunnel approximately 26 metres long — is a technical dive requiring appropriate training, trimix gas, and specialist guides. It has claimed an estimated 130–200 diver fatalities. Safety stops at 5 meters are conducted inside or at the reef edge.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Shore entry from the reef flat adjacent to the Blue Hole is possible, as is boat
 ## Tips and Recommendations
 
 - Recreational diving inside the Blue Hole above 40 meters is stunning in its own right — do not feel pressure to approach The Arch
-- The Arch at 52–56 meters is a technical dive — not for recreational divers regardless of experience
+- The Arch (ceiling at 55 metres) is a technical dive — not for recreational divers regardless of experience
 - Hire a reputable local guide who dives the site regularly
 - Early morning offers the best light penetration into the hole from above
 - The site is extremely popular — arrive early or on a weekday for fewer crowds
@@ -60,4 +60,4 @@ The Blue Hole has claimed a disproportionate number of diver fatalities due to n
 Inside the hole, shooting upward toward the circular opening above creates extraordinary ambient light silhouette photographs. Coral-covered walls with fish life make compelling wide-angle subjects. The outer reef wall and plateau around the hole also offer excellent standard reef photography.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Blue Hole (Red Sea)](https://en.wikipedia.org/wiki/Blue_Hole_(Red_Sea)), [XR Explorers — Dahab Blue Hole Fatalities](https://xrexplorers.com/blogs/explorers-blog/the-tragic-truth-behind-dahab-s-blue-hole-diving-accidents), [H2O Divers Dahab — Blue Hole](https://www.h2odiversdahab.com/dive-sites/bells-blue-hole/), [IFLScience — Diver's Cemetery](https://www.iflscience.com/-diver-s-cemetery-why-this-is-the-deadliest-place-in-the-world-to-dive-65467). Last updated 2026-05-26.*

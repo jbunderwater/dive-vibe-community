@@ -27,7 +27,7 @@ The southern Egyptian Red Sea at these latitudes features pristine reef systems 
 
 - **Location**: Southern Red Sea, Egypt (Fury Shoals transition zone)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on regional southern Red Sea diving characteristics. [Dive the World — Southern Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php). Last updated 2026-05-17.*

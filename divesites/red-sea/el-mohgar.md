@@ -27,7 +27,7 @@ The reef corridor between Marsa Alam and El Quseir consists of fringing coral re
 
 - **Location**: Southern Red Sea coast, ~25 km north of Marsa Alam
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

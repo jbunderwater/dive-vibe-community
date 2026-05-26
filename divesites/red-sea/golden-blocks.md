@@ -23,7 +23,7 @@ Located in the Dahab area on the Gulf of Aqaba side of the Sinai Peninsula, Gold
 
 - **Location**: Gulf of Aqaba, Dahab area, northern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

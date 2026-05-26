@@ -31,7 +31,7 @@ The main lagoon averages 10–12 m in depth. The southern plateau drops to 15–
 
 - **Location**: South Laguna, western Tiran Island, Strait of Tiran, near Sharm el-Sheikh, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

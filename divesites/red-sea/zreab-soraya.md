@@ -41,7 +41,7 @@ The anemone garden in the shallows provides excellent close-focus wide-angle pho
 
 - **Location**: South of El Quseir, southern Red Sea (Utopia Beach Club / Pensee resort)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 metres
 

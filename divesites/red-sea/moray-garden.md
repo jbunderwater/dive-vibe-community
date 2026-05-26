@@ -23,7 +23,7 @@ The "garden" in the name reflects both the reef formation type and the character
 
 - **Location**: North of Sharm el-Sheikh, Nabq area, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

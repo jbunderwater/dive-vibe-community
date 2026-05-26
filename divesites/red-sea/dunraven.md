@@ -3,7 +3,7 @@ name: Dunraven
 lat: 27.7033333
 lng: 34.1216666
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 29
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Dunraven
 
-The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled steamship — a British cargo and passenger vessel — struck the reef in January 1876 and sank in 18 meters of water. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
+The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled steamship — a British cargo vessel — ran aground on 22 April 1876 and capsized as she slid off the reef. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
 
 ## Overview
 
-The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade between India and England when she ran aground on Sha'ab Mahmoud. The wreck has been underwater for nearly 150 years and is heavily colonised by corals and encrusting marine life. The hull sits inverted on the sandy bottom at 18 meters, with the keel visible at around 6 meters below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 meters. Water temperatures average 22°C in winter and 28°C in summer.
+The Dunraven was an 81.6-metre British steamship (1,600 GRT) built in Newcastle upon Tyne by C. Mitchell and Co. Iron Ship Builders, launched 14 December 1872, and engaged in trade between Britain and Bombay when she ran aground on Sha'ab Mahmoud. Captain Care's crew, believing they were further north than their actual position, sailed into the reef. After 14 hours aground she slid off, capsized, and sank. A Board of Trade investigation found Captain Care negligent and revoked his certificate for one year. The entire crew of 25 survived. The wreck was rediscovered in 1977. 
+
+The hull sits inverted on the sandy bottom with the bow at approximately 15 metres and the stern at approximately 29 metres — a depth range of around 14 metres across the wreck. The keel is visible at around 6 metres below the surface. The overturned hull creates an overhang swim-through on the stern section at around 28 metres where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 metres.
 
 ## Site Information
 
@@ -25,18 +27,18 @@ The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-The Dunraven's encrusted hull hosts an extraordinary diversity of marine life. Glasseye and glassy sweepers school in the thousands beneath the overturned hull's overhang. Large groupers and squirrelfish occupy the deeper stern sections. Lionfish are ubiquitous throughout the wreck. Soft corals, sea fans, and fire corals have colonised the entire exterior. Sea turtles are regularly seen resting on the sandy bottom alongside the hull. Moray eels peer from portholes and gaps in the plating. Barracuda often cruise the surrounding reef, and reef sharks occasionally circle the wreck site.
+Schools of glassfish (glassy sweepers) inhabit the interior and the overhang beneath the inverted hull. A resident large moray eel is frequently encountered inside the wreck. Groupers occupy the deeper stern sections. Lionfish are present throughout. The wreck exterior is encrusted with porites corals in varied colours. Boilers, ladders, and emergency valves remain recognisable inside the hull. Sources do not specifically confirm sea turtles or reef sharks at this site — regional fauna may apply but no site-specific sighting reports from at least 2 independent sources exist for these species.
 
 ## Dive Profile
 
-Most operators approach the wreck from the stern, descending to the keel at around 6 meters before dropping down the side to the bow section at 18 meters. The classic route follows the port (left) side to the bow, then turns back along the starboard side past the engine room — still recognisable — to the stern overhang. The stern swim-through at 15 meters is the highlight: a natural cavern formed by the inverted hull that can be safely entered without penetration training, though a torch greatly enhances the experience. Reserve 50 bar for the return journey and safety stop.
+Most operators approach the wreck from the stern, descending to the keel at around 6 metres before dropping down the side toward the bow at approximately 15 metres. The classic route follows the port (left) side toward the deeper stern at 28–29 metres, then turns back along the starboard side past the engine room — still recognisable — to the stern overhang at around 28 metres. The stern swim-through where sunlight streams through broken hull sections is the highlight. Access the interior through openings in the hull. Reserve 50 bar for the return journey and safety stop.
 
 ## Entry and Exit
 
@@ -59,4 +61,4 @@ The stern swim-through is a confined space; divers with poor buoyancy should pra
 The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Dunraven](https://en.wikipedia.org/wiki/SS_Dunraven), [Wrecks at Risk — SS Dunraven](https://wrecksatrisk.com/locations/ss-dunraven/), [Blue Horizon Red Sea — Dunraven Wreck](https://bluehorizonredsea.com/tour/dunraven-wreck/), [Red Sea Wreck Project — Dunraven](https://www.redseawreckproject.com/wrecks/d/dunraven/). Last updated 2026-05-26.*

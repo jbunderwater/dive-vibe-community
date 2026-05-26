@@ -23,7 +23,7 @@ The dive site begins at a sandy entry point accessible directly from the beach a
 
 - **Location**: Red Sea, Egypt (Dahab, Gulf of Aqaba, Sinai)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ The Eel Garden is one of Dahab's safest dive sites. Currents are minimal and dep
 The eel garden is a macro and behavioural photography dream: use a 60mm or 100mm macro lens and approach in complete slow motion. The images of hundreds of eels extending from the sand with backlighting from the surface are iconic Red Sea shots. A wide-angle lens is ideal for the reef section, where coral heads and anthias clouds provide colourful subjects. Natural light is sufficient throughout the dive given Dahab's excellent visibility.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: Description based on well-documented site characteristics confirmed by multiple Dahab operators and the OSM tag description:en ("Sand bottom with hundreds of eels"). The spotted garden eel (*Heteroconger hassi*) species identification is standard for Red Sea sandy lagoons. No site-specific independent research sources found beyond operator listings. [Dahab Divers Lodge — Dive Sites](https://www.dahabdiverslodge.com/diving/diving-locations/). Last updated 2026-05-26.*

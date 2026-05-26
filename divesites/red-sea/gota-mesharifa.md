@@ -23,7 +23,7 @@ Sitting in some of the most isolated and rarely-dived waters of the Egyptian Red
 
 - **Location**: Far southern Egyptian Red Sea, offshore near Sudanese border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

@@ -23,7 +23,7 @@ Marsa Mubarak is a protected inlet with a seagrass meadow in the sheltered inner
 
 - **Location**: Marsa Alam area, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

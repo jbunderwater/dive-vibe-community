@@ -3,7 +3,7 @@ name: Daphne Minor
 lat: -0.4
 lng: -90.37
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,51 @@ addedBy: osm_import
 
 # Daphne Minor
 
-A volcanic island wall dive renowned for one of the Galapagos' most extraordinary sights -- marine iguanas diving to graze on algae, a behavior found nowhere else on Earth.
+A tuff-cone wall dive between Santa Cruz and Santiago featuring black coral gardens, a sheltered cave with resting whitetip sharks, and frequent manta ray visits.
 
 ## Overview
 
-Daphne Minor is a small volcanic island between Santa Cruz and Santiago, its steep flanks dropping underwater into a wall that encircles the island. While the diving here features the typical Galapagos cast of sea lions, reef sharks, and eagle rays, the site's distinction is as one of the best locations to observe marine iguanas feeding underwater. These unique reptiles dive from the rocky shore and cling to the submerged volcanic rock, grazing on algae at depths of 5-12 meters before surfacing to rewarm -- a behavior that exists only in the Galapagos and that few divers ever witness firsthand.
+Daphne Minor is a small volcanic tuff cone approximately 40 minutes northwest of the Itabaca Channel. Its steep underwater flanks form a wall that can be circumnavigated in a single dive, with two distinct topographic sides: one featuring even platforms and small caves, the other a deep wall covered in black coral. Scuba Iguana describes it as "unjustly little-known" and notes an abundance of gorgonians, sponges, and corals. Academy Bay Diving and NatureGalapagos both confirm frequent manta ray visits as the headline encounter, alongside juvenile Galapagos sharks, whitetip reef sharks, and eagle rays. Currents range from moderate to strong, and the site suits divers with some current-diving experience.
+
+Note: Marine iguanas are not confirmed at this site by any source consulted. The iguana diving behavior is documented at Cabo Douglas (Fernandina) and Daphne Minor is not in their range. No site-specific marine iguana sightings were found for this location.
 
 ## Site Information
 
-- **Location**: Between Santa Cruz and Santiago Islands, Galapagos Islands
+- **Location**: Approximately 40 minutes northwest of Itabaca Channel, between Santa Cruz and Santiago, Galapagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-18 meters (30-60 feet)
-- **Current**: Moderate
-- **Best Time**: Year-round; marine iguanas feed throughout the year but are most active in the morning
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 10–18 meters (30–60 feet)
+- **Current**: Moderate to strong
+- **Best Time**: Year-round; mantas more frequent during warm season
 
 ## Marine Life
 
-Marine iguanas are the signature species, entering the water from the rocky shoreline and diving to graze on green and red algae growing on the submerged volcanic rock. They flatten their bodies against the rock, clinging with sharp claws while tearing off algae with specialized blunt snouts. Individual feeding dives typically last 5-10 minutes before the iguana returns to the surface to bask and rewarm. Galapagos sea lions patrol and play around the island. Whitetip reef sharks rest on ledges and in crevices along the wall. Spotted eagle rays pass along the wall edge. Green sea turtles share the algae-rich shallows with the iguanas. Schools of reef fish populate the wall. Moray eels and octopus occupy the rocky substrate.
+Manta rays visit the site frequently -- Academy Bay Diving and NatureGalapagos both confirm this as the site's most notable large-animal encounter. Juvenile Galapagos sharks patrol the wall, along with whitetip reef sharks that rest in a small cave at the beginning of the dive. Eagle rays cruise along the wall edge. Galapagos sea lions are playful and interactive in the shallows. Green sea turtles, barracuda, trumpetfish, parrotfish, snappers, groupers, and surgeonfish populate the wall. Pacific seahorses have been confirmed clinging to gorgonians. The deep wall side is draped in black coral. Moray eels occupy rocky crevices. A pinnacle at one end of the island hosts a diversity of rays, corals, and reef fishes.
 
 ## Dive Profile
 
-The dive follows the wall around the volcanic island, descending from the shallow reef zone to a maximum of 20 meters. The wall features ledges, crevices, and volcanic rock formations encrusted with algae and marine growth. Marine iguanas are typically encountered in the 3-12 meter range on the sheltered side of the island where algae growth is thickest. The dive works along the wall with the current, gradually circling the island. Allow extended time in the shallows to observe iguana feeding behavior -- rushing past at depth means missing the site's highlight. Safety stop is easily performed along the wall in the shallows.
+The dive descends from the shallow zone down the wall, typically reaching 20–25 meters on the deep black coral side. The site has two distinct profiles: even platforms with small caves (including the whitetip shark cave) on one side, and the deep wall on the other. Moderate to strong currents mean the guide selects entry and exit points based on conditions. The island can be circumnavigated in a single dive. Ascending along the shallower platform side for the safety stop allows time to explore the cave and inspect the rocky outcrops for seahorses.
 
 ## Entry and Exit
 
-Panga from liveaboard or day boat to entry point on the lee side of the island. Giant stride entry near the wall. The dive follows the wall with the current, drifting around the island. Exit via SMB deployment for panga pickup on the downstream side. Moderate currents mean the panga should follow divers' bubbles during the dive. Surface conditions vary depending on wind and swell exposure.
+Panga from liveaboard or day boat to the lee side of the island based on current direction. Giant stride entry near the wall. The panga tracks divers during the circumnavigation. Exit via SMB deployment for panga pickup. Surface conditions vary with wind and swell exposure.
 
 ## Tips and Recommendations
 
-- Ask your guide where marine iguanas have been entering the water recently -- they tend to use consistent access points along the shoreline
-- When you spot a feeding iguana, settle quietly on the wall below and to the side; they tolerate close approach if you are still and calm
-- Do not block an iguana's path back to the surface -- they need to return to shore to rewarm and blocking them causes dangerous heat loss
-- Morning dives offer the best iguana activity, as they feed early before water temperatures drop their body temperature too much
-- Look along the wall crevices for resting whitetip sharks, which are easy to overlook while focused on iguana watching
+- Look for seahorses clinging to the gorgonians in the 10–20 meter range
+- Find the small cave on the platform side early in the dive -- it typically holds resting whitetip reef sharks
+- The black coral wall on the deeper side is the better photographic backdrop; start there and ascend to the platform for the safety stop
+- Currents can vary significantly between the two sides of the island -- follow your guide's lead on route direction
 
 ## Safety Considerations
 
-Moderate currents around the island can strengthen at points where the island's profile changes, creating acceleration zones. The volcanic rock is sharp and can damage equipment or cause cuts -- maintain buoyancy control near the wall. Marine iguanas are protected wildlife; do not touch, chase, or obstruct them. The cold water (18-22°C) accelerates air consumption and requires proper thermal protection (5-7mm wetsuit). Standard Galapagos remoteness considerations apply -- distance from recompression and medical facilities means conservative dive planning is essential. Carry an SMB, whistle, and mirror.
+Moderate to strong currents are the primary hazard; acceleration zones occur where the island's profile changes. The volcanic rock is sharp -- maintain buoyancy control near the wall. The cold water (18–22°C) requires adequate thermal protection (5–7mm wetsuit). Carry an SMB, whistle, and mirror. Standard Galapagos remoteness considerations apply.
 
 ## Photography
 
-Marine iguanas feeding underwater are one of the most unique photographic subjects in diving. Use a wide-angle lens and approach slowly from the side, getting low and level with the iguana for eye-contact compositions. They are relatively tolerant of close approach if you move deliberately. Strobes help bring out the red and green coloration of both the iguanas and the algae against the dark volcanic rock. Sea lions circling the island provide dynamic wide-angle subjects. The volcanic wall itself, with its textured lava formations and algae growth, creates a distinctive backdrop different from typical tropical reef scenes. Shoot in the shallows for best natural light.
+Black coral walls on the deep side provide the most dramatic reef backdrop in the Galapagos, enhanced by strobes to restore color in the blue-green water. Seahorse portraits on gorgonians require a macro lens and a patient approach. Manta rays, when present, are outstanding wide-angle subjects -- position yourself below and to the side for silhouette shots against surface light. Sea lion interactions in the shallows reward a fisheye lens.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana – Daphne Minor](https://scubaiguana.com/our-dive-center/daily-diving-tours/daphne-galapagos-dive-site/), [NatureGalapagos – Daphne Minor](https://naturegalapagos.com/galapagos-diving/scuba-diving-galapagos/galapagos-islands-scuba-diving-daphne-minor/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-26.*

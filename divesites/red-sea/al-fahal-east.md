@@ -23,7 +23,7 @@ Al Fahal East is the eastern-facing dive site on the Al Fahal reef system at app
 
 - **Location**: Al Fahal reef, eastern face, southern Saudi Red Sea (~22.29°N, 38.97°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

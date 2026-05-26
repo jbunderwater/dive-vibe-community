@@ -23,7 +23,7 @@ The coordinates place this site north of Hurghada, in the El Gouna / northern Hu
 
 - **Location**: Northern Hurghada / El Gouna area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

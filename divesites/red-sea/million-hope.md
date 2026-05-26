@@ -3,7 +3,7 @@ name: Million Hope
 lat: 28.0563889
 lng: 34.4491711
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,28 @@ addedBy: osm_import
 
 ## Million Hope
 
-The Million Hope is a large cargo vessel wreck in the Strait of Tiran, northern Red Sea, Egypt, positioned at approximately 28.06°N, 34.45°E — in the same reef-strewn strait as the famous Tiran island reefs. The vessel ran aground on the reef and sank, adding to the collection of wrecks that have foundered in these notoriously treacherous waters over the decades.
+The Million Hope is a massive bulk carrier wreck near Ras Mohammed (Sharm el-Sheikh area), northern Red Sea, Egypt. At 174.6 metres in length and 16,339 GRT, it is the largest shipwreck in the Egyptian Red Sea. The vessel ran aground near Naqb on 19–20 June 1996 while en route from Aqaba to Taiwan with 26,000 tonnes of potash and phosphates. All 25 crew members were safely rescued.
 
 ## Overview
 
-The Million Hope was a substantial cargo ship — reports suggest it was a large bulk carrier — which gives the wreck impressive scale. Lying in waters reaching approximately 20 meters, the upper structure of the vessel may be close to the surface, visible from the dive boat above. The combination of dramatic size, the Tiran Strait setting, and years of coral and sponge encrustation makes the Million Hope one of the more visually arresting wrecks in the northern Red Sea. The site sits within the broader Tiran area ecosystem, so divers may expect encounters typical of the strait — including pelagic species along the open reef edge sections adjacent to the wreck.
+The MV Million Hope was built in 1972 by Imabari Shipbuilding Company in Japan, originally launched as *Ryusei Maru*, before taking its final name in 1996. The cause of the grounding is disputed — accounts suggest a fire in the superstructure, high speed in poor visibility, or a combination of both. Before the ship sank, salvagers removed the entire potash cargo to reduce environmental risk.
+
+The wreck sits upright next to the reef, partially submerged and tilted to its port side, with dive depths ranging from the surface down to approximately 22–24 metres. Its sheer scale dwarfs all other Red Sea wrecks accessible to recreational divers — the hull can only be fully appreciated over multiple dives. Holds and lower decks are accessible for exploration. Years of encrustation have added colour to what would otherwise be a purely industrial structure.
 
 ## Site Information
 
-- **Location**: Strait of Tiran, northern Red Sea, Egypt
+- **Location**: Near Naqb/Ras Mohammed, northern Red Sea, Egypt (Sharm el-Sheikh area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Moderate to strong; tidal flow through the strait
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 20-30 meters
+- **Current**: Moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-The hull structure of the Million Hope provides habitat for one of the Red Sea's characteristic wreck marine communities. Massive schools of glassy sweepers fill any interior spaces accessible to divers. Groupers of impressive size occupy the hold areas, and moray eels take up residence in every gap in the corroding hull. Lionfish pose on ledges and overhangs throughout the structure. The soft coral growth on the hull exterior — sea fans, tree corals, and encrusting sponges — creates a colourful artificial reef. Given the Tiran Strait location, grey reef sharks, barracuda, and humphead wrasse may be encountered in the open water alongside the wreck.
+The hull structure of the Million Hope provides habitat for a growing wreck reef community. The wreck's accessible holds and lower decks allow divers to swim through large spaces. The size of the wreck is its primary attraction; coral encrustation is still developing given its 1996 sinking date. The regional Red Sea fauna — groupers, moray eels, lionfish — will be present. No site-specific published marine life reports from independent sources were found for this wreck; claims about species should be treated as regional estimates rather than confirmed site observations.
 
 ## Dive Profile
 
@@ -40,23 +42,23 @@ The large scale of the wreck allows an exploratory exterior circuit that itself 
 
 ## Entry and Exit
 
-Day boats and liveaboards from Sharm el-Sheikh serve the Tiran area. Entry via giant stride. Given tidal currents in the strait, the boat typically operates a drift pickup rather than fixed anchoring. Follow the guide's pre-dive briefing on current direction and exit procedures.
+Day boats and liveaboards from Sharm el-Sheikh serve this area. Entry via giant stride. Follow the guide's pre-dive briefing on current direction and exit procedures.
 
 ## Tips and Recommendations
 
 - Carry a primary torch — the interior spaces and shaded hull sections require artificial light
 - The sheer size of the wreck is its defining feature — step back to see the full hull scale before working in close
 - Nitrox is worthwhile for extending bottom time at the 15-20 meter range on the deeper hull sections
-- Combine with a Tiran reef dive on the same day to balance pelagic and wreck experiences
+- Combine with a nearby reef dive on the same day if dive logistics permit
 - Ask the operator whether any specific sections of the wreck are particularly productive for current marine life residents
 
 ## Safety Considerations
 
-Tidal currents in the Strait of Tiran can be strong and unpredictable. Wreck penetration requires appropriate training and equipment — the scale of the Million Hope means the interior is genuinely extensive and disorienting without proper line-laying skills. Carry a torch, reel, and cutting tool for any interior work. Always surface with a deployed SMB.
+Currents in the reef area near Naqb can develop. Wreck penetration requires appropriate training and equipment — the scale of the Million Hope means the interior is genuinely extensive and disorienting without proper line-laying skills. Carry a torch, reel, and cutting tool for any interior work. Always surface with a deployed SMB.
 
 ## Photography
 
 The scale of the Million Hope provides wide-angle opportunities to photograph the full hull in profile — a fisheye or very wide zoom is needed to capture the vessel's scale from a reasonable distance. Glassy sweeper schools in torch-lit interior spaces create iconic wreck photography. The hull exterior with coral growth against the blue Tiran water provides dramatic color contrast.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wrecks at Risk — MV Million Hope](https://wrecksatrisk.com/locations/mv-million-hope/), [Red Sea Wreck Project — Million Hope](https://www.redseawreckproject.com/dive-sites/m-red-sea-wreck-diving-database/million-hope/), [Egypt Liveaboard — Million Hope](https://www.egypt-liveaboard.com/dive-sites/million-hope-wreck/). Last updated 2026-05-26.*

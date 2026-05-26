@@ -23,7 +23,7 @@ Shaab Jimna sits at approximately 19.44°N, 37.73°E — an exceptionally remote
 
 - **Location**: Far southern Red Sea, near Eritrean maritime boundary (~19.44°N, 37.73°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

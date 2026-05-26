@@ -31,7 +31,7 @@ Wall dive accessible by boat only. Average visibility 10–20 m. Depth approxima
 
 - **Location**: Deep south Red Sea, approximately St. John's / Fury Shoals area, Egypt — liveaboard access only
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

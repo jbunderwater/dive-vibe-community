@@ -23,7 +23,7 @@ Habili Radir sits within or adjacent to the boundaries of the Wadi El Gemal Huss
 
 - **Location**: Southern Egyptian Red Sea, Wadi El Gemal area south of Marsa Alam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

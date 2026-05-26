@@ -23,7 +23,7 @@ El Fanadir West shares the same reef structure as its sister sites El Fanadir an
 
 - **Location**: Red Sea, Egypt (El Fanadir reef, west face, north of Hurghada)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

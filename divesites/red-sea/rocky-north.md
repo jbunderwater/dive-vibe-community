@@ -23,7 +23,7 @@ Rocky North describes the northern tip of Rocky Island at approximately 23.57°N
 
 - **Location**: Northern tip, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.57°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

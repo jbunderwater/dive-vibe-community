@@ -3,7 +3,7 @@ name: Punta Vicente Roca
 lat: -0.0531
 lng: -91.5597
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Punta Vicente Roca occupies the dramatic northwest tip of Isabela Island, where 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet), reduced by nutrient-rich water
 - **Current**: Mild to moderate (calmer than most Galapagos sites)
 - **Best Time**: July to October for mola mola; seahorses and batfish year-round
@@ -59,4 +59,4 @@ Cold water is the primary challenge at this site. Hypothermia risk is real, espe
 This is the Galapagos' best macro and critter site. Red-lipped batfish on sandy bottom make extraordinary subjects -- use a macro lens and get low for eye-level portraits. Seahorses on gorgonians require patience and a steady hand. Frogfish reward those who search carefully. For wide-angle, mola mola silhouetted in the green-tinted water column are bucket-list shots. Sea turtles stacked on ledges create compelling compositions. Marine iguanas grazing underwater and penguins swimming through the shallows offer unique close-focus wide-angle opportunities. Strobes are essential in the low-visibility, nutrient-rich water to restore color.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [LiveAboard.com – Punta Vicente Roca](https://www.liveaboard.com/diving/galapagos/punta-vicente-roca), [The Portuguese Traveler – Best Dive Sites Isabela](https://theportuguesetraveler.com/galapagos/isabela/best-dive-sites-isabela-galapagos/), [ScubaBoard – Calipso Liveaboard Report June 2024](https://scubaboard.com/community/threads/liveaboard-report-calipso-galapagos-june-20-27-2024.650398/). Last updated 2026-05-26.*

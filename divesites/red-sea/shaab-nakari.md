@@ -23,7 +23,7 @@ Shaab Nakari is located approximately 5 kilometres offshore from Marsa Nakari, a
 
 - **Location**: Offshore Marsa Nakari, 18 km south of Marsa Alam, southern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

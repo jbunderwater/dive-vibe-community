@@ -5,7 +5,7 @@ lng: 177.9667
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Cathedral Beqa
 
-A natural swim-through where cathedral-like light beams penetrate from above — soft corals within, sharks patrolling outside.
+A natural swim-through cavern where shafts of sunlight filter through a broken roof — soft corals lining the walls, batfish circling inside.
 
 ## Overview
 
-Cathedral Beqa takes its name from the dramatic swim-through cavern that forms its centerpiece. The structure is a large coral archway and tunnel system on the Beqa Lagoon reef, where shafts of sunlight filter through cracks and openings in the roof, creating beams of light that illuminate the soft coral-encrusted interior walls in exactly the way light enters the nave of a cathedral. The effect is most pronounced on morning dives when the sun is at a low angle and the beams are clearly defined. Outside the cathedral structure, the reef slopes into open water where grey reef sharks are resident and regularly visible from 10 to 20 meters. The combination of the architectural feature inside and the shark activity outside makes Cathedral one of Beqa Lagoon's most memorable dives.
+Cathedral Beqa takes its name from the dramatic swim-through cavern that forms its centerpiece. The structure is a large coral-lined archway and cavern on the Beqa Lagoon reef, where shafts of sunlight filter through irregular openings in the roof, creating light beams that illuminate the soft coral-encrusted interior walls. The photogenic quality of the site is described as genuinely striking even for divers without cameras. Batfish circle slowly inside the cavern in reliable numbers. Outside the cathedral structure, the reef slopes into open water where grey reef sharks are resident and regularly visible. The site is distinct from the Beqa Lagoon Resort's separately named "Cathedral" shark dive operated on a different part of the lagoon. This Cathedral is a non-feeding site valued for its cavern architecture and ambient light effects.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ The swim-through is wide and well-ventilated — this is not a penetration dive 
 Cathedral Beqa presents two entirely different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle and fisheye shooting timed to the morning angle — position yourself in the dark interior and shoot toward the light shafts with a diver silhouetted against the opening. Outside, the shark patrol offers clean wide-angle shark portraits against the blue water backdrop. Shooting both in a single dive requires a versatile setup — a wide-angle zoom (16–35mm) handles both scenarios better than a prime fisheye if you can only carry one lens.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [DivePlanIt - The Cathedral Beqa Lagoon](https://www.diveplanit.com/dive-site/the-cathedral-beqa-lagoon-resort-tiger-shark-dive/), [Fiji Travel - Best Dive Sites Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Dive the World - Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php). Last updated 2026-05-26.*

@@ -48,4 +48,4 @@ Strong and variable currents, particularly through the channel, require good buo
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/diving-at-kicker-rock-tips-marine-life-and-best-time-to-visit/), [Visit Galapagos – Kicker Rock](https://www.visitgalapagos.travel/visitor-sites/kicker-rock-leon-dormido-galapagos-islands.html). Last updated 2026-05-17.*
+*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/diving-at-kicker-rock-tips-marine-life-and-best-time-to-visit/), [Visit Galapagos – Kicker Rock](https://www.visitgalapagos.travel/visitor-sites/kicker-rock-leon-dormido-galapagos-islands.html). Last updated 2026-05-26.*

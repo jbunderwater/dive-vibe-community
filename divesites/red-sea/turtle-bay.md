@@ -41,7 +41,7 @@ The combination of shallow depth, good ambient light, and approachable marine li
 
 - **Location**: South of Naama Bay, Sharm El Sheikh area, Gulf of Aqaba
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 metres
 

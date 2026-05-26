@@ -17,7 +17,7 @@ A current-swept outer reef drift on the edge of the Great Astrolabe — sharks, 
 
 ## Overview
 
-Samu Reef sits on the outer rim of the Great Astrolabe Reef, Kadavu's vast barrier reef system and one of the world's largest barrier reefs. The outer reef edge faces directly into the Pacific Ocean, and when the swell and tidal current are running, Samu becomes a high-energy drift dive that concentrates marine life in a way that the calmer lagoon sites cannot match. The site is characterized by dramatic coral formations along the reef slope and wall, where Pacific current delivers constant nutrients and drives the thick gorgonian fan and soft coral growth that covers the outer reef structure. Grey reef sharks and whitetip reef sharks are permanent residents of the outer reef. Manta ray sightings are a regular occurrence — mantas feeding in the plankton-rich current or visiting the reef edge cleaning stations are not uncommon, particularly during peak season.
+Samu Reef is listed as an outer reef drift site in Kadavu's Great Astrolabe Reef system. No site-specific information for the name "Samu Reef" was found in any of the major Fiji dive operator or reference sources consulted during this QA pass, including Dive the World's Kadavu page, Matava Resort's dive listings, PADI's Kadavu guide, or Fiji Pocket Guide's Great Astrolabe Reef article. The general characteristics described below are based on the known character of outer reef diving in Kadavu, which sources confirm features strong currents, outer Pacific swells, grey reef and whitetip sharks, and occasional manta rays at the outer reef edge. The site classification as drift/advanced is consistent with published descriptions of Kadavu outer reef diving generally.
 
 ## Site Information
 

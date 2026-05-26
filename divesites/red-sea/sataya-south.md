@@ -23,7 +23,7 @@ Sataya South is the go-to dive when conditions are calm and dolphin activity is 
 
 - **Location**: Sataya Reef (Dolphin Reef), Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

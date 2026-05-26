@@ -56,7 +56,7 @@ Internal penetration of the wreck requires appropriate training and equipment. T
 
 - **Location**: Western bay, Zabargad Island, deep southern Red Sea (~70 km offshore, near Sudan border)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24–30 m (reef slope beyond wreck)
 

@@ -23,7 +23,7 @@ Shaab Maksour South occupies the sheltered, south-facing portion of the Shaab Ma
 
 - **Location**: Southern Shaab Maksour, Fury Shoals, southern Egyptian Red Sea (~24.24°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

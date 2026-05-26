@@ -23,7 +23,7 @@ Gota Sataia 2 sits marginally deeper than its companion, with the reef crown at 
 
 - **Location**: Southern Egyptian Red Sea, offshore Wadi Lahami area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

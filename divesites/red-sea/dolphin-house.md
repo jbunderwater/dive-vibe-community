@@ -23,7 +23,7 @@ The site consists of a horseshoe-shaped reef enclosing a broad shallow lagoon, w
 
 - **Location**: Red Sea, Egypt (north of Hurghada, Sha'ab El Erg)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

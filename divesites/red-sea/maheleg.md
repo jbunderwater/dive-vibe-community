@@ -23,7 +23,7 @@ Maheleg is a classic offshore Red Sea reef — a submerged platform or atoll str
 
 - **Location**: Central Red Sea, Egypt (offshore reef, approximately 25.90°N, 34.41°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

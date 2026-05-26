@@ -43,7 +43,7 @@ Fire coral is present on the reef structure. Watch for blue-spotted stingrays re
 
 - **Location**: ~15 km north of Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m (outer edge)
 

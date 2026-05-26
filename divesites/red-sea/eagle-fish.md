@@ -27,7 +27,7 @@ The Fury Shoals reefs at this latitude feature coral gardens, pinnacles, and out
 
 - **Location**: Fury Shoals area, ~24.2°N, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

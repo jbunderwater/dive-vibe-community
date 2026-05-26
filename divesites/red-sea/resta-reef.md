@@ -35,7 +35,7 @@ Shore entry from the Resta Grand Resort / Resta Reef Resort beach. The Coraya Re
 
 - **Location**: Coraya Bay / Marsa Alam area, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 - **Dive Centre**: Coraya Reef Divers (SSI/PADI)

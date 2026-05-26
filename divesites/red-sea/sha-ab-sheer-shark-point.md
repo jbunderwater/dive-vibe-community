@@ -31,7 +31,7 @@ Average depth 20 m, maximum 25 m. Medium currents of 1–2 knots on the eastern 
 
 - **Location**: South of Safaga, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

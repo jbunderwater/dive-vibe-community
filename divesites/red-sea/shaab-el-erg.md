@@ -23,7 +23,7 @@ Shaab El Erg consists of a horseshoe-shaped reef with a protected inner lagoon. 
 
 - **Location**: Offshore Hurghada, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -32,7 +32,7 @@ Shaab El Erg consists of a horseshoe-shaped reef with a protected inner lagoon. 
 
 ## Marine Life
 
-The resident spinner dolphin pod is the headline attraction. Pod size varies but typically numbers 20–50 individuals, and encounters of divers and dolphins in the lagoon are documented in almost every trip report from this site. Dolphins are the primary reason most divers visit Shaab El Erg, but the reef itself supports a full northern Red Sea reef community. humphead wrasse are resident on the outer reef edge. Sea turtles are regularly seen on the reef platform. The lagoon and outer reef host the standard anthias, parrotfish, surgeonfish, and butterflyfish assemblage. Moray eels and lionfish occupy the crevices throughout.
+The resident pod of spinner dolphins (*Stenella longirostris*) is the headline attraction. The pod uses the protected inner lagoon as a daytime resting area. Blue-spotted rays, moray eels, and Napoleon wrasse are documented on the reef by multiple operators. Sea slugs (nudibranchs) are also reported. The outer reef hosts the standard northern Red Sea assemblage of anthias, parrotfish, surgeonfish, and butterflyfish. Early morning visits (before 9 AM) offer up to 70–80% dolphin encounter probability during peak season.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Multiple boats at this site create a busy surface environment. Always deploy an 
 Spinner dolphins in clear shallow water are the photographic highlight. A wide or fisheye lens captures multiple dolphins in frame against the sunlit water surface. For the best results, enter the water calmly and wait — patience produces far better images than pursuit. The outer reef wall offers coral and fish photography as a secondary opportunity.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [RedSea Life — Sha'ab El Erg](https://redsealife.com/diving-hurghada/dive-sites/shaab-el-erg/), [Blue Corner Red Sea — Shaab El Erg Dolphin House Guide](https://bluecornerredsea.com/blog/shaab-el-erg), [PADI — Shaab El Erg](https://www.padi.com/dive-site/egypt/shaab-el-erg/), [Diving Around — Dolphins at Shaab El Erg](https://divingaround.com/diving-with-dolphins-in-hurghada/). Last updated 2026-05-26.*

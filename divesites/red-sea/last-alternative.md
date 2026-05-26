@@ -23,7 +23,7 @@ The Sharm El Sheikh area (including Tiran Island, Ras Mohammed, and the southern
 
 - **Location**: Sharm El Sheikh / Tiran area, northern Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

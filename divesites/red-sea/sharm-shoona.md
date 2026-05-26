@@ -23,7 +23,7 @@ Bay sites in the Port Ghalib to El Quseir coastal corridor typically feature san
 
 - **Location**: El Quseir / Port Ghalib area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

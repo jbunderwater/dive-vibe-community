@@ -23,7 +23,7 @@ Ras Bob Reef is a classic Sinai fringing reef, beginning just offshore from the 
 
 - **Location**: Red Sea, Egypt (Naama Bay, Sharm el-Sheikh, Gulf of Aqaba)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

@@ -41,7 +41,7 @@ Boat access. Shore entry through the mangroves is not appropriate; the mangrove 
 
 - **Location**: Nabq Protected Area, 35 km north of Sharm El Sheikh, Gulf of Aqaba, Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 - **Protected Status**: Nabq Protected Area (since 1992)

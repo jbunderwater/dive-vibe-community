@@ -23,7 +23,7 @@ Abu Diab is part of the spectacular Fury Shoal complex — a vast system of subm
 
 - **Location**: Fury Shoal, south of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

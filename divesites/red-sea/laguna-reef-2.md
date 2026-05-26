@@ -34,7 +34,7 @@ Boat dive from Sharm El Sheikh (approximately 30–45 minutes). Current-dependen
 
 - **Location**: Tiran Island, Strait of Tiran, northern Red Sea (Sharm El Sheikh area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

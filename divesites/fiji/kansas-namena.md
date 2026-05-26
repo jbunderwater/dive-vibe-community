@@ -3,9 +3,9 @@ name: Kansas Namena
 lat: -17.12
 lng: 179.0967
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,7 +17,7 @@ You're definitely not in Kansas anymore — a surreal soft coral landscape unlik
 
 ## Overview
 
-Kansas takes its playful name from the Wizard of Oz line, coined by early divers who emerged from the descent to find an alien landscape of soft coral pinnacles so vivid and otherworldly that it bore no resemblance to any diving they'd done before. Located within Namena Marine Reserve in the Koro Sea, Kansas is defined by a series of coral pinnacles and bommies rising from 20 meters, each draped in dense Dendronephthya soft corals in saturated pinks, oranges, yellows, and purples. The Namena reserve's no-take enforcement keeps the reef in exceptional health — the soft coral coverage here is among the densest in Fiji outside the Somosomo Strait. Between the pinnacles, sandy channels provide habitat contrast and rest areas for sharks and rays.
+Kansas takes its playful name from the Wizard of Oz line, coined by early divers who emerged from the descent to find an alien landscape of soft coral pinnacles so vivid and otherworldly that it bore no resemblance to any diving they'd done before. Located within Namena Marine Reserve in the Koro Sea, Kansas is defined by a series of coral bommies and pinnacles forming a vast reefscape blanketed in Sinularia soft corals on the tops, which "bloom" when current flows. The Namena reserve's no-take enforcement keeps the reef in exceptional health. The famous "Kansas window" — a specific section at approximately 10 meters depth — is reportedly rich with nudibranchs and leaf scorpionfish. Between the pinnacles, sandy channels provide habitat contrast and resting areas for sharks and rays.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Kansas takes its playful name from the Wizard of Oz line, coined by early divers
 
 ## Marine Life
 
-The soft coral pinnacles create a structure that concentrates marine life in predictable zones. Anthias swarm over every coral formation in clouds that can number in the thousands. Large sea fans on the deeper pinnacle faces host pygmy seahorses — Hippocampus bargibanti has been recorded here, requiring careful inspection of Muricella gorgonians. Whitetip reef sharks and grey reef sharks are resident, resting in the sandy channels and patrolling the pinnacle perimeters. Eagle rays pass through regularly. Large aggregations of sweetlips gather under overhanging coral ledges. The pinnacle summits at 5–8 meters are blanketed in hard coral and host butterflyfish, surgeonfish, and the ubiquitous anthias clouds.
+The soft coral pinnacles create a structure that concentrates marine life in predictable zones. Anthias swarm over every coral formation. Anemones with clownfish cover the tops of the bommies. Grey reef sharks and whitetip reef sharks are resident, resting in the sandy channels and patrolling the pinnacle perimeters. Tuna and Spanish mackerel are reported at the site. NAI'A naturalists have documented Pontoh's pygmy seahorse (Hippocampus pontohi) at Namena dives, though sightings require effort — the animals are small and settle in current-exposed areas on the pinnacles. Nudibranchs and leaf scorpionfish are confirmed at the Kansas window section. Sweetlips gather under overhanging ledges. No site-specific verified count of pygmy seahorse sightings by species is available in sources consulted; the claim of Hippocampus bargibanti specifically at Kansas requires confirmation from an on-site naturalist.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Kansas presents the same general considerations as other Namena sites: open-wate
 Kansas is arguably Fiji's best wide-angle reef photography site. The soft coral pinnacles are dense enough to fill an entire frame, and the blue water between bommies creates natural framing for images of the reef structure. Shoot from below pinnacle tops at 10–15 meters with a diver positioned above the coral, lit by the surface light — this is the quintessential Fiji soft coral portrait. For macro work, the pinnacle faces host nudibranchs, flatworms, and (with luck) pygmy seahorses in the gorgonian fans. Shoot in RAW to capture the full dynamic range of the blue ambient light against the orange coral — JPEG processing often clips the blues.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [NAI'A Liveaboard - Underwater Color Extravaganza (Namena)](https://www.naia.com.fj/blog/underwater-color-extravaganza/), [Waterlust Fiji - Namena Reserve](https://www.waterlustfiji.com/post/scuba-diving-namena-reserve), [Fijiresort.com - Diving Namena Marine Reserve](https://www.fijiresort.com/diving-the-gorgeous-unspoiled-namena-marine-reserve-in-fiji/). Last updated 2026-05-26.*

@@ -35,7 +35,7 @@ Direct shore entry from the Royal Azur hotel beach. The house reef is accessible
 
 - **Location**: Hurghada, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

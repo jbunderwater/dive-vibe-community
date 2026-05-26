@@ -3,7 +3,7 @@ name: Fish Factory
 lat: -16.825
 lng: 179.88
 difficulty: Intermediate
-maxDepth: 17
+maxDepth: 27
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ A current-swept wall site where pelagic schools mass in such density that the wa
 
 ## Overview
 
-Fish Factory earns its industrial name from the sheer volume of fish produced by the current upwelling against this section of Taveuni reef. The site is a wall dropping to 17 meters with a complex structure of channels and outcroppings that accelerate water flow and create upwelling zones that concentrate planktonic food. The result is dense schooling behavior that makes Fish Factory one of the most productive sites in the Somosomo Strait for pelagic encounters in relatively shallow water. Schools of barracuda, bigeye trevally, fusiliers, and snapper move across the site in intersecting formations, driven by the current. For divers who want schooling fish action without the depth commitment of sites like Nigali Passage, Fish Factory delivers consistently.
+Fish Factory earns its industrial name from the sheer volume of fish produced by the current flowing past this section of Taveuni reef. Per Taveuni Dive Resort, the site is a wall running from 6 to 27 meters featuring rocky outcrops and hard corals, with soft corals in pinks, purples, yellows and oranges on full display as the nutrient-rich current passes. The combination of hard and soft coral architecture creates complex current shadows that concentrate planktonic food and in turn attract dense schooling fish. Taveuni Ocean Sports lists this as a great site for snorkelers as well as divers, suggesting the shallower sections (6–10 meters) carry significant life. Schools of barracuda, bigeye trevally, fusiliers, and snapper move across the site in intersecting formations driven by the current.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Fish Factory earns its industrial name from the sheer volume of fish produced by
 
 ## Marine Life
 
-Schooling fish are the defining feature. Chevron and blackfin barracuda appear in schools of 100–400 individuals, forming the characteristic tight spiraling columns for which Fiji barracuda schools are famous. Bigeye trevally mass in large formations that hover at the reef edge, periodically bursting into feeding runs. Fusiliers of two or three species stream continuously along the wall face in ribbons of silver and yellow. Behind the schooling action, grey reef sharks patrol the mid-water zone, occasionally breaking into the school in predatory rushes. On the wall itself, the fish diversity is equally high: large Napoleon wrasse, surgeonfish in mixed aggregations, and schools of bannerfish crowd the upper wall. Below 12 meters, the structure has sea fans and soft coral growth that provides habitat for lionfish and groupers.
+Schooling fish are the defining feature. Barracuda and trevally are consistently documented. Taveuni Dive Resort specifically lists parrotfish schools, humphead parrotfish, Spanish mackerel, angelfish, moray eels, occasional manta rays and sharks, stonefish, and leaf scorpionfish at this site. The wall structure between 12 and 27 meters has sea fans and soft coral growth providing habitat for lionfish and groupers. Grey reef sharks patrol mid-water behind the schooling action. The Taveuni Ocean Sports listing confirms the site features large pelagics including grey reef sharks, schooling barracuda, jacks, dogtooth tuna, Spanish mackerel, and manta rays as occasional visitors.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current management is the primary challenge at Fish Factory. The shallow depth (
 Fish Factory is made for wide-angle schooling fish photography. The combination of dense barracuda or trevally schools with the wall structure and current allows for tightly composed images of thousands of fish in formation. Position yourself below a barracuda school and shoot upward with a fisheye for the tornado shot — schools at Fish Factory often form this configuration naturally. For shark-and-school images, use a fast shutter speed (1/200 or faster) to freeze motion and shoot toward the light to silhouette the subjects. Video divers will find the site compelling — 60fps shooting captures the fluid school movements in satisfying slow motion.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Dive Resort - Dive Guide](http://www.taveunidiveresort.com/dive-guide), [Taveuni Ocean Sports - Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Tourism Fiji - Somosomo Strait Diving](https://www.fiji.travel/places-to-go/taveuni-island/locations/diving-in-the-taveuni-somosomo-strait). Last updated 2026-05-26.*

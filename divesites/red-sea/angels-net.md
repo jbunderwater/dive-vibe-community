@@ -27,7 +27,7 @@ The Gulf of Aqaba at this latitude features steep-sided coral reef systems with 
 
 - **Location**: Gulf of Aqaba, Sinai coast (Nuweiba–Dahab stretch)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

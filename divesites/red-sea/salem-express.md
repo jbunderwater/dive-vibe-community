@@ -3,7 +3,7 @@ name: Salem Express
 lat: 26.6397175
 lng: 34.0615772
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Salem Express
 
-The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The ro-ro passenger ferry sank on December 14, 1991, after striking Hyndman Reef near Safaga following a severe storm while en route from Jeddah, Saudi Arabia, to Safaga, Egypt. More than 470 people died in the disaster — one of the worst maritime tragedies in Red Sea history. The wreck lies at a maximum depth of approximately 27 meters, with upper deck structures accessible from around 15 meters.
+The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The ro-ro passenger ferry struck a reef near Safaga on the night of 14–15 December 1991 while en route from Jeddah, Saudi Arabia, to Safaga, Egypt, and sank in under 20 minutes. The vessel was 115 metres long (4,771 GT), built in 1964 at La Seyne-sur-Mer, France, and had originally served as the *Fred Scamaroni* before being sold in 1988. The official Egyptian death toll is 470, though independent estimates based on salvage operations and recovered bodies suggest the actual toll was considerably higher — possibly more than 1,000. The vessel sank in approximately 32 metres at Hyndman Reef.
 
 ## Overview
 
@@ -25,14 +25,14 @@ The Salem Express rests on her starboard side on a sandy slope adjacent to Hyndm
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate
 - **Best Time**: October to May
 
 ## Marine Life
 
-The wreck superstructure supports a rich reef community. Dense schools of glassfish hover around railings and over open deck areas, pursued by hunting trevally. Giant moray eels occupy larger crevices in the hull, while lionfish patrol ledges and companionways. Groupers have taken up residence in sheltered sections. The hull is encrusted with soft corals, tunicates, and sponge growth that increases with each passing year. Turtles and occasionally dolphins are sighted in the water column above the wreck.
+The wreck superstructure supports a developing reef community. Dense schools of glassfish hover around railings and over open deck areas. Giant moray eels occupy larger crevices in the hull, while lionfish patrol ledges and companionways. Groupers have taken up residence in sheltered sections. The hull is encrusted with soft corals, tunicates, and sponge growth that increases with each passing year. No site-specific reports of turtles or dolphins were confirmed in independent sources; such encounters are plausible given the regional fauna but should not be treated as guaranteed sightings.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The interior of the wreck contains significant silt and disorientation risks —
 The scale of the wreck makes wide-angle and fisheye lenses ideal. The encrusted railings and davits photographed against blue water are iconic images. The schools of glassfish hovering over open deck areas are a compelling mid-water subject. Inside the vehicle deck, a wide-angle torch-lit shot can capture the otherworldly atmosphere. Macro subjects are found on every colonized surface of the hull.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — MV Salem Express](https://en.wikipedia.org/wiki/MV_Salem_Express), [InDEPTH Magazine — Salem Express Trip Report](https://indepthmag.com/wreck-salem-express/), [Dive the World — Salem Express](https://www.dive-the-world.com/diving-sites-egypt-salem-express.php), [Divernet — Salem Express Dive into Maritime Tragedy](https://divernet.com/world-dives/salem-express-dive-into-maritime-tragedy/). Last updated 2026-05-26.*

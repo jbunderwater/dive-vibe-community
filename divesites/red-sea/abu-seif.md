@@ -23,7 +23,7 @@ At this latitude, Abu Seif lies in one of the most rarely visited stretches of t
 
 - **Location**: Southern Red Sea, approximately 21.79°N, 37.00°E
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters

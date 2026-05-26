@@ -17,7 +17,7 @@ The SS Thistlegorm is widely regarded as the world's greatest wreck dive and one
 
 ## Overview
 
-The Thistlegorm was a 128-meter steam-powered cargo ship carrying war supplies to Allied forces in North Africa when two Heinkel He-111 bombers struck her munitions hold. The resulting explosion broke the ship in two and sank her rapidly. Today the wreck lies on her starboard side in 30-31 meters of water, remarkably intact and laden with her original cargo — including motorcycles, trucks, armored vehicles, locomotive parts, Wellington boots, and ammunition. Two of the ship's holds remain accessible and are legendary for the extraordinary preservation of WWII-era materiel. The wreck is encrusted with soft corals and teeming with marine life, creating a fusion of maritime history and living reef that few dive sites can match.
+The Thistlegorm was a 126.5-metre (415 ft) steam-powered cargo ship (4,898 GRT) carrying war supplies to Allied forces when two German Heinkel He-111 aircraft of Kampfgeschwader 26 dropped bombs on her munitions hold. The resulting explosion devastated Hold 4 at the stern and sank her rapidly. Nine men died: four sailors and five Royal Navy gun crew. Today the wreck lies mostly upright at 32 metres at its deepest, with the main deck at approximately 17–18 metres. The wreck is remarkably intact and laden with her original cargo — holds 1–2 contain BSA and Norton motorcycles (some still crated), Morris automobiles, Bedford trucks, aeroplane wings, and train water carriers; the blown Hold 4 section and adjacent areas contain ammunition boxes, Bren-carriers, gas masks, and a Bofors anti-aircraft gun carriage. Two LMS Stanier Class 8F steam locomotives were carried as deck cargo. The wreck is encrusted with soft corals and teeming with marine life, creating a fusion of maritime history and living reef that few dive sites can match.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The Thistlegorm has become an artificial reef of extraordinary richness. Large s
 
 ## Dive Profile
 
-The dive begins with a descent down the shot/anchor line to the main deck at around 15-18 meters on the port side, or to the sand at 28-31 meters. Most divers start by exploring the exterior — the deck guns, the bridge, the mast — before entering the numbered holds where the cargo is preserved. Hold No. 2 contains motorcycles and trucks; Hold No. 4 (deeper, in the blown section) contains locomotives and armored vehicles. Allow significant bottom time for thorough exploration, and plan for a 5-meter safety stop for 3-5 minutes.
+The dive begins with a descent down the shot/anchor line to the main deck at around 17–18 metres. Most divers start by exploring the exterior — the stern-mounted 4.7-inch gun, the bridge, the mast — before entering the numbered holds. Hold 1–2 contains motorcycles, trucks, and crated materiel; the midship area has been disrupted by the bomb blast; Hold 4 (the blown stern section, deepest at 30–32 metres) retains gas masks, ammunition boxes, and machinery components. The two deck locomotives are aft of the bridge. Allow significant bottom time for thorough exploration, and plan for a 5-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ The Thistlegorm is an advanced dive. The current at the mooring can be strong, p
 The Thistlegorm is a photographer's dream, but challenging. Wide-angle is essential for hold interiors — a rectilinear 10-17mm lens renders the trucks and motorcycles in their full drama. Natural light penetrates from the open holds above, creating beams through particulate that reward patience. The anti-aircraft gun silhouetted against open blue water is one of the most reproduced images in Red Sea diving.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Thistlegorm](https://en.wikipedia.org/wiki/SS_Thistlegorm), [The Thistlegorm Project](https://thethistlegormproject.com/history/), [Master Liveaboards — Thistlegorm](https://masterliveaboards.com/dive-the-thistlegorm-a-wreck-dive-into-history/), [Scuba Diving Magazine — Thistlegorm History](https://www.scubadiving.com/history-red-sea-thistlegorm-shipwreck). Last updated 2026-05-26.*

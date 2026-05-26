@@ -35,7 +35,7 @@ Boat access typical of the Marsa Alam region. Night dives are available and reco
 
 - **Location**: Marsa Alam region, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 45 metres
 - **Difficulty**: Intermediate
 - **Best Season**: November–May for clearest visibility

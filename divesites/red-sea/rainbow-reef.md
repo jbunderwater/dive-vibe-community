@@ -23,7 +23,7 @@ Rainbow Reef presents a gently sloping reef profile from a shallow top at around
 
 - **Location**: Red Sea, Egypt (Ras Muhammad area, southern Sinai)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

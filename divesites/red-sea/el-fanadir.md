@@ -23,7 +23,7 @@ El Fanadir ("rock on top of the reef" in Arabic) is one of the longest reefs on 
 
 - **Location**: Northern Hurghada coast, central Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

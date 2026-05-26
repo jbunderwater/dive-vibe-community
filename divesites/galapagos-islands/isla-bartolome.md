@@ -23,7 +23,7 @@ Isla Bartolome sits near Santiago Island, famous above water for its iconic Pinn
 
 - **Location**: Bartolome Island, near Santiago Island, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)
@@ -59,4 +59,4 @@ This is one of the calmer Galapagos dive sites, but the Advanced rating reflects
 Penguins underwater are the bucket-list shot. Use a wide-angle lens and shoot on high shutter speed (1/320 or faster) -- penguins move with explosive speed and blur easily. Pre-focus and shoot in bursts. The shallow depth means excellent natural light, which helps with fast shutter speeds. Pinnacle Rock above water makes a dramatic background for split-level (over-under) shots if surface conditions are calm enough. Sea lions are reliable and cooperative wide-angle subjects. The volcanic rock formations create interesting textures and backgrounds. This is exclusively a wide-angle site.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Eagle Ray Tours – Bartolome](https://www.eagleraygalapagos.com/bartolome), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-26.*

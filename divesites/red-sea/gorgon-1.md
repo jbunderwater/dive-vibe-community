@@ -23,7 +23,7 @@ The far northern Gulf of Aqaba is characterised by crystal-clear, exceptionally 
 
 - **Location**: Northern Gulf of Aqaba, Taba area, northeastern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

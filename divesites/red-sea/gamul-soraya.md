@@ -23,7 +23,7 @@ Where Gamul Kebir is the bigger, more dramatic reef, Gamul Soraya tends to be qu
 
 - **Location**: Offshore northern Egyptian Red Sea, Hurghada–El Gouna area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

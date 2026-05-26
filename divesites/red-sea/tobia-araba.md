@@ -23,7 +23,7 @@ Tobia Araba (also spelled Tobia Arba'a — meaning "Four Tobia" in Arabic, thoug
 
 - **Location**: Safaga area, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

@@ -41,7 +41,7 @@ Turtles, which are often unafraid of divers in remote areas, are the primary pho
 
 - **Location**: Southern shore (Turtle Bay), Zabargad Island, deep southern Red Sea (~70 km offshore)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 metres (beyond this: vertical drop-off)
 

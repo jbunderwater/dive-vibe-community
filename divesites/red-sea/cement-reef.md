@@ -23,7 +23,7 @@ Cement Reef sits at approximately 22.39°N, 38.85°E in the southern Saudi Red S
 
 - **Location**: Southern Saudi Red Sea (~22.39°N, 38.85°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

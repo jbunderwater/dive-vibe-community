@@ -23,7 +23,7 @@ Shaab Sakara sits in the outer Red Sea between Quseir and Marsa Alam at approxim
 
 - **Location**: Outer Red Sea, Egypt (between Quseir and Marsa Alam, lat 24.37°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-30 meters (80-100 feet)

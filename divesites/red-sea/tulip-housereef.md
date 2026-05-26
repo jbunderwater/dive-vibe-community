@@ -43,7 +43,7 @@ The pontoon provides easy topside photography opportunities at dusk. Underwater,
 
 - **Location**: Royal Tulip Beach Resort, ~20 km south of Marsa Alam Airport, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

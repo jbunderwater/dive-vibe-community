@@ -23,7 +23,7 @@ The plateau on the northern side of Abu Ramada Island is one of the most accessi
 
 - **Location**: Abu Ramada Island (North), Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15-25 meters

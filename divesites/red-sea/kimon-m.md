@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kimon M
 
-The Kimon M is a Greek-owned cargo freighter that ran aground and sank in the northern Red Sea off the Sinai coast of Egypt. The wreck rests in the Abu Nuhas reef area — the same notorious ship graveyard that claims the Giannis D, Carnatic, Chrisoula K, and Tile Wreck — making it part of one of the most celebrated multi-wreck dive destinations in the world. The Kimon M struck Abu Nuhas Reef in 1978 and sank to a maximum depth of around 32 meters.
+The Kimon M is a German-built general cargo vessel (106.4 m long, 3,714 GRT) that struck the northeastern corner of Sha'b Abu Nuhas reef at full speed on 12 December 1978 while carrying approximately 4,500 tonnes of bagged lentils from Turkey to Bombay. It is nicknamed "The Lentil Wreck." The entire crew was rescued by the passing vessel *Interasja*. The wreck lies on its starboard side with the stern at 32 metres and the bow mast in only 4 metres.
 
 ## Overview
 
@@ -59,4 +59,4 @@ The 32-meter maximum depth requires intermediate-level air management skills and
 Wide-angle shots of the hull in profile against the blue water background are highly effective at 20-25 meters where the overall wreck scale becomes apparent. Schools of glassy sweepers filling the interior create dramatic backlit compositions. The coral encrustation on the hull exterior offers excellent macro work. Bring a 15mm or wide rectilinear lens for the full hull exterior shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wrecks at Risk — Kimon M](https://wrecksatrisk.com/locations/kimon-m/), [Red Sea Diving — The Kimon M](https://www.redsea-diving.com/kimon-m/), [Scubadore Hurghada — Abu Nuhas](https://scubadore-hurghada.com/exploring-abu-nuhas-the-red-seas-legendary-shipwreck-graveyard/), [Nemo Diving Center — Abu Nuhas Wrecks](https://nemodivingcenter.com/blog/exploring-the-abu-nuhas-wrecks/). Last updated 2026-05-26.*

@@ -23,7 +23,7 @@ Al Fahal North occupies the northern tip of the Al Fahal reef at approximately 2
 
 - **Location**: Al Fahal reef, northern tip, southern Saudi Red Sea (~22.31°N, 38.97°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

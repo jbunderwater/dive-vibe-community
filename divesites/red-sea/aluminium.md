@@ -23,7 +23,7 @@ Situated amid the scatter of reef systems north of Hurghada, Aluminium offers a 
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)

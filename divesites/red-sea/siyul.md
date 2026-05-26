@@ -31,7 +31,7 @@ Maximum depth approximately 10 m at reef structures; sandy bottoms at 15–25 m.
 
 - **Location**: Qulaan Archipelago, Wadi El Gemal National Park, Hamata area, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

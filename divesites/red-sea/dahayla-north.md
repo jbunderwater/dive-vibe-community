@@ -23,7 +23,7 @@ Dahayla North sits at approximately 28.61°N, 34.56°E on the northern Sinai Pen
 
 - **Location**: Northern Sinai, near Gulf of Aqaba (~28.61°N, 34.56°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

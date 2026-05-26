@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Nigali Passage
 
-A narrow channel on remote Gau Island where grey reef sharks school by the dozen — one of Fiji's most dramatic shark encounters.
+A tidal channel on remote Gau Island where grey reef sharks aggregate without feeding — one of Fiji's most remarkable natural shark encounters.
 
 ## Overview
 
-Nigali Passage is a tidal channel on the west coast of Gau Island, cutting through the barrier reef into a protected lagoon. Gau is a remote, sparsely populated island in the Lomaiviti Group, accessible only by liveaboard or infrequent charter. The passage is about 100 meters wide at its narrowest point, and when the tide runs in or out, it concentrates marine life in a way that few sites in the Pacific can match. The signature encounter is with schooling grey reef sharks — 20 to 40 individuals regularly patrol the channel in a counter-rotating formation, a behavior rarely seen at other sites. Divers drift through the passage with the current and into the lagoon, passing through the shark school on the way. The site is remote enough that it sees limited traffic, keeping the sharks habituated but not over-fed or conditioned.
+Nigali Passage is a tidal channel on Gau Island's north-western barrier reef, cutting through into a protected lagoon. Gau is a remote, sparsely populated island in the Lomaiviti Group, accessible only by liveaboard. The passage has a three-hour optimal diving window tied to the tidal cycle; outside this window, currents exceed 4 knots and visibility deteriorates. When the tide is right, the channel concentrates marine life in a way that few sites in the Pacific can match. The signature encounter is with aggregating grey reef sharks — NAI'A reports consistently seeing 10 to 25 females and their offspring, patrolling the channel without feeding inducement. These are wild animals driven by tidal current that concentrates prey, not conditioned performers. Divers drift through the passage with the incoming tide and into the lagoon, passing through the shark aggregation on the way.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Nigali Passage is a tidal channel on the west coast of Gau Island, cutting throu
 
 ## Marine Life
 
-Grey reef sharks are the principal attraction and can be present in staggering numbers. Unlike feeding dives where sharks are cued by bait, the Nigali sharks are at the site because the tidal current naturally concentrates fish life in the passage — the sharks are hunting and patrolling, not performing. Whitetip reef sharks share the passage, resting on sandy patches in the channel floor. Barracuda form dense columns in the channel above the sharks. Large Napoleon wrasse are resident and remarkably relaxed with divers. Bumphead parrotfish move through the lagoon interior. On the channel walls, soft corals and sea fans are fed by the strong current, and in the lagoon itself, coral gardens shelter butterflyfish and anemonefish.
+Grey reef sharks are the principal attraction. Unlike feeding dives where sharks are cued by bait, the Nigali sharks are at the site because the tidal current naturally concentrates prey — the animals are hunting and patrolling without human conditioning. NAI'A documents 10–25 females and offspring in a typical session, with the aggregation driven by tidal current rather than seasonality. Whitetip reef sharks share the channel, resting on sandy patches on the floor. Barracuda (reported in three size-segregated schools by NAI'A naturalists) form dense columns in the channel above the sharks. Malabar grouper are documented as resident species. Sea snakes pass through. Napoleon wrasse are present and approachable. The channel walls support soft coral and sea fan growth fed by the strong current.
 
 ## Dive Profile
 
-The liveaboard boat positions upstream of the passage entrance at the incoming tide. Divers enter the water above the reef and descend to 15–20 meters at the channel mouth. The current carries divers through the narrowest section of the passage, which is where the shark school congregates. The drift continues into the lagoon interior as depth shallows to 8–12 meters and current eases. Total drift is typically 400–600 meters. Guides know where to position divers in the water column for the best shark views — mid-water at 12–15 meters usually places divers above the sharks, who patrol at 15–20 meters. After the drift, the boat or a tender collects divers in the lagoon.
+The liveaboard boat positions upstream of the passage entrance at the incoming tide. The diving window is approximately three hours centered on the optimal tidal phase; timing is critical and operators plan around it. Divers enter the water above the reef and descend to the channel, where grey reef sharks typically patrol at around 18 meters depth. The current carries divers through the passage channel and into the lagoon interior as depth shallows and current eases. After the drift, the boat or a tender collects divers in the lagoon. Guides position the group to maximize shark viewing time while maintaining a passive, non-threatening formation above the sharks' patrol depth.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Strong current in the channel is manageable if divers are positioned correctly b
 Nigali Passage offers one of the most sought-after grey reef shark photography opportunities in the world. Wide-angle shooting at 10–17mm captures the schooling sharks with the passage walls and blue-lit lagoon as backdrop. The key shot is looking back toward the ocean through the passage mouth with sharks silhouetted against the blue. Shoot with natural light and fast shutter speeds (1/125 or faster) to freeze shark movement in the current. Avoid strobes on wide-angle shark shots — the animals are large enough to expose well without flash, and strobes can alter shark behavior. A second dive after the main drift is often available — use it for detail shots of the coral walls and resident Napoleon wrasse.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Liveaboard.com - Nigali Passage](https://www.liveaboard.com/diving/fiji/nigali-passage), [Fiji Travel - Best Dive Sites Bligh Water](https://www.fijitravel.org/posts/best-dive-sites-bligh-water). Last updated 2026-05-26.*

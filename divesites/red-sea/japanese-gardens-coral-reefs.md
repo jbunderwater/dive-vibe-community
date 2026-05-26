@@ -23,7 +23,7 @@ The reef at Japanese Gardens extends from a sandy beach entry into a series of i
 
 - **Location**: Aqaba, Jordan, northern Gulf of Aqaba, Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

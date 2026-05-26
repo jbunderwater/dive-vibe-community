@@ -23,7 +23,7 @@ Heaven sits in the reef zone between Hurghada and Marsa Alam, in the El Quseir c
 
 - **Location**: El Quseir area, central Egyptian Red Sea coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters

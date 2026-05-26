@@ -23,7 +23,7 @@ Shilineat sits at approximately 24.67°N, 35.13°E in the coastal zone adjacent 
 
 - **Location**: Wadi el Gemal National Park zone, north of Marsa Alam (~24.67°N, 35.13°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters

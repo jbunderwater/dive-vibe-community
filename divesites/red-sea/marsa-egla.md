@@ -41,7 +41,7 @@ Shore entry into the sandy bay. Gentle slope descends to the reef wall, with a m
 
 - **Location**: ~11 km north of Marsa Alam, southern Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 - **Difficulty**: Beginner — ideal for all levels
 

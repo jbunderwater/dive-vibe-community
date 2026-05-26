@@ -23,7 +23,7 @@ Carless Reef features a classic northern Red Sea reef profile: a shallow crest a
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)

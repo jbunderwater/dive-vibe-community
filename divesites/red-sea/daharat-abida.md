@@ -23,7 +23,7 @@ Daharat Abida sits at approximately 18.50°N, 38.60°E — in the extreme southe
 
 - **Location**: Extreme southern Red Sea, near Eritrean border (~18.50°N, 38.60°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

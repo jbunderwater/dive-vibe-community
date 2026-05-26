@@ -23,7 +23,7 @@ True to its name, Garden Reef presents one of the most pristine coral gardens in
 
 - **Location**: Far southern Egyptian Red Sea, offshore south of Wadi Lahami
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

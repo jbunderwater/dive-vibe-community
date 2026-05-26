@@ -23,7 +23,7 @@ Elba Reef East (Southplateau) sits at the southeastern corner of the Elba Reef a
 
 - **Location**: Southeastern face, Elba Reef atoll, near Egyptian-Sudanese border (~21.98°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

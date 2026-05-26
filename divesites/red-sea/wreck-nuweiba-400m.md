@@ -40,7 +40,7 @@ The 40-metre depth limit requires advanced certification or dive guide accompani
 
 - **Location**: Near Nuweiba, Gulf of Aqaba, northern Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 metres
 

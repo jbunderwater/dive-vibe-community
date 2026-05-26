@@ -23,7 +23,7 @@ Fanous East is located at approximately 27.27°N, 33.89°E in the offshore zone 
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.27°N, 33.89°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 15–20 meters

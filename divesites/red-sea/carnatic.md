@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Carnatic
 
-The Carnatic is one of the Red Sea's most famous and historic wrecks — a British P&O steamer that sank in 1869 after striking the reef at Abu Nuhas in the northern Red Sea. Now lying in 26–28 meters of water, it is among the most photographed wrecks in the world.
+The Carnatic is one of the Red Sea's most historic and iconic wrecks — a Victorian-era British P&O steamship that grounded on Sha'b Abu Nuhas reef on 12 September 1869 and sank 34 hours later after breaking apart. Now lying in 22–26 meters of water on her port side, she is among the most photographed wrecks in the Red Sea.
 
 ## Overview
 
-The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and passengers when she struck the reef at Abu Nuhas and sank. The wreck lies on its side on the sandy floor, split into two main sections, with the bow and stern offering the most dramatic photographic opportunities. Over 150 years of submersion have transformed the Carnatic into an artificial reef of the highest order — encrusted with vivid soft corals, sea fans, and massive coral formations that make the wreck appear to be a natural reef structure. Thousands of glassfish fill the interior spaces, creating shimmering silver clouds that part as divers enter. Visibility is typically 20–30 meters; water temperatures range 22–28°C.
+The SS Carnatic was built in 1862–63 by Samuda Brothers at Cubitt Town, London, for the P&O Line. She was 89.4 metres long with a composite construction hull (iron-framed, wooden-planked) and powered by a 4-cylinder compound steam engine driving a single three-bladed propeller — not a paddlewheel. She was carrying passengers, mail, cotton bales, copper sheeting, wine, and £40,000 worth of gold destined for the Indian Mint when she struck the Abu Nuhas reef. Captain Jones initially assured passengers the ship was safe after grounding, but 34 hours later the Carnatic suddenly broke in two while being evacuated — 31 people drowned. The wreck was rediscovered in May 1984.
+
+The wreck lies on her port side on the sandy bottom at 22–26 metres. Over 150 years of submersion have transformed the Carnatic into an exceptional artificial reef, encrusted with vivid soft corals, sea fans, and massive coral formations. Distinctive features include the large three-bladed propeller, a giant rudder, unusual square portholes, and lifeboat davits still in place. Wine bottles scattered on the seabed have earned the site the informal nickname "wine wreck." Visibility is typically 20–30 meters.
 
 ## Site Information
 
@@ -32,7 +34,7 @@ The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and
 
 ## Marine Life
 
-Glassfish in dense clouds inhabit the wreck's holds and corridors, creating one of the Red Sea's most iconic underwater scenes. Lionfish hunt at the edges of the glassfish schools. Moray eels occupy the structural crevices and old rigging. Batfish hover in mid-water above the wreck. humphead wrasse and large grouper are resident. The coral-encrusted exterior hosts anthias, butterflyfish, and a variety of wrasse species.
+Glassfish in dense clouds — species confirmed as glassy sweepers — permanently inhabit the wreck's holds and corridors, creating one of the Red Sea's most iconic underwater scenes. Groupers are permanent residents inside the wreck. Lionfish hunt at the edges of the glassfish schools. Moray eels occupy structural crevices and old rigging. Crocodilefish and nudibranchs are frequently reported on the exterior. The coral-encrusted hull hosts anthias, butterflyfish, and various wrasse species. No site-specific pelagic or large-animal sightings are consistently confirmed in sources for this particular wreck.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Interior penetration is possible but requires wreck diving experience. Glassfish
 The Carnatic is among the Red Sea's top five photography wrecks. The glassfish interior is the signature shot — wide angle, positioned inside looking out toward light. Exterior shots of the bow section rising from the sand, decorated with soft corals, are equally iconic. A dive torch for interior colour rendition is essential.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Carnatic](https://en.wikipedia.org/wiki/SS_Carnatic), [Master Liveaboards — Carnatic Wreck](https://masterliveaboards.com/the-ss-carnatic-wreck-an-iconic-red-sea-dive/), [Seasoft Scuba — Abu Nuhas Wrecks](https://seasoftscuba.com/the-ship-graveyard-diving-the-4-iconic-wrecks-of-abu-nuhas-red-sea/), [Scuba Diver Life — SS Carnatic](https://scubadiverlife.com/red-sea-wrecks-ss-carnatic/). Last updated 2026-05-26.*

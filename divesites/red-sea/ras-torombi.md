@@ -35,7 +35,7 @@ Boat access; a RIB typically drops divers at the northern end of the bay, from w
 
 - **Location**: Marsa Alam region, approximately 8.5 km north of Ras Ghalib, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Intermediate
 - **Best Season**: May–September for optimal visibility (25 m+)

@@ -27,7 +27,7 @@ The south reef arm at Marsa Nakari features a sloping outer wall with coral form
 
 - **Location**: Marsa Nakari, southern Red Sea coast, Egypt (near Wadi el Gemal National Park)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

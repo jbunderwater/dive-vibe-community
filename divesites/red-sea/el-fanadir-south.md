@@ -43,7 +43,7 @@ Stonefish are present and well camouflaged on the reef — watch where you put y
 
 - **Location**: Just north of Hurghada, northern Red Sea (45–60 min by boat)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 m (recreational)
 
