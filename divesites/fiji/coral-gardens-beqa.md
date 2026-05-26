@@ -23,7 +23,7 @@ Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocea
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

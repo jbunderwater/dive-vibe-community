@@ -23,7 +23,7 @@ Manta Reef sits outside the Great Astrolabe Reef, Kadavu's vast barrier reef sys
 
 - **Location**: Great Astrolabe Reef, Kadavu Island, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)

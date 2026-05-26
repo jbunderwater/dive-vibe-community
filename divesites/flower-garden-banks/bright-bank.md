@@ -13,67 +13,45 @@ addedBy: osm_import
 
 ## Bright Bank
 
-Bright Bank, named after marine biologist Tom Bright (known as "the father of the Flower Garden Banks"), is a structurally connected reef system part of the larger sanctuary complex added in 2021. The bank's distinctive lion's-paw shape, with a crest around 112 feet (34 meters), provides varied diving terrain. Unfortunately, historical treasure salvage operations in the 1980s caused significant damage to portions of the reef, making conservation efforts here particularly important.
+Bright Bank is a deep coral reef within Flower Garden Banks National Marine Sanctuary, shaped roughly like a lion's paw, with its reef crest at approximately 112 feet (34 m) below the surface.
 
 ## Overview
 
-Bright Bank is one of seven sanctuary banks with reef habitat within recreational diving limits (130 feet/40 meters). The bank features deep-water coral communities along with typical tropical fish fauna and scattered coral formations. The reef crest is at 34 meters, putting it within reach of experienced recreational divers. The site is structurally connected to Rankin and 28 Fathom Banks via patch reefs, forming a larger ecosystem. Part of a Habitat Area of Particular Concern (HAPC), this location is important for marine conservation and research.
+Bright Bank sits approximately 124 miles (200 km) from land, east of East Flower Garden Bank, and covers 7.7 square miles. Named after Tom Bright, a Texas A&M University marine biologist who studied the Flower Garden Banks in the 1970s–1980s and is credited as "the father of the Flower Garden Banks" for his role in securing sanctuary designation, the bank is one of seven FGBNMS sites with reef habitat within the 130-foot recreational dive limit. Two mooring buoys provide access, at depths of 143–159 feet (44–48 m) — the buoys are attached at the sand bottom just beyond the reef crest, so divers reach the reef cap by ascending from the buoy. Bright Bank is structurally connected westward to Rankin and 28 Fathom Banks through a series of patch reefs, forming a larger Habitat Area of Particular Concern (HAPC).
+
+In the 1980s, treasure salvage operators laid claim to a supposed Spanish galleon on Bright Bank. The salvage operations caused significant damage to the coral boulders on the reef crest, leaving excavation pits 10–13 feet (3–4 m) deep. Discarded salvage equipment remains on the sea floor. Sanctuary regulations now prohibit such activities.
 
 ## Site Information
 
-- **Location**: Gulf of Mexico, 110 miles offshore, east of East Flower Garden Bank (27.88°N, 93.30°W)
+- **Location**: Flower Garden Banks, Gulf of Mexico (approximately 124 miles from land)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34.1 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Water Temperature**: 21-29°C (70-84°F) summer; 4-9°C (40-48°F) winter
-- **Current**: Moderate to strong; manageable for experienced divers
-- **Best Time**: May-October (summer season); February-April (winter season)
 
 ## Marine Life
 
-Bright Bank supports tropical fish fauna including butterflyfish, wrasses, groupers, and snappers. Black corals, octocorals, sponges, and stony corals form the deep-water community. Pelagic encounters include nurse sharks, eagle rays, and occasional larger fish species attracted to the offshore pinnacle structure. The living reef represents recovery from historical treasure salvage damage; only a small amount of coral remains on the crest due to past excavations.
+NOAA and DAN document the following species confirmed at Bright Bank: schools of brown chromis and creolefish hovering over the coral-studded boulders. The reef supports typical sanctuary tropical fish fauna including groupers, snappers, butterflyfish, and wrasses. Deeper areas feature black corals, octocorals, green bottle brush corals, crinoids, and extensive Codium algae fields. The shallow reef areas contain boulder-like structures up to 64 feet (20 m) in diameter. No site-specific marine life reports beyond NOAA's documentation were found; regional species from East and West Banks (eagle rays, nurse sharks, occasional whale sharks) may visit but are not independently confirmed at Bright Bank specifically.
 
 ## Dive Profile
 
-Descend via moored buoy to the reef crest at 34 meters. The reef structure allows exploration at various depths between 20-40 meters, with the deepest recreational limits around 40 meters. Navigate the reef top and slopes, observing coral formations and fish fauna. The relatively deep starting depth means this is best suited for divers comfortable with advanced recreational profiles (Advanced certification minimum). Budget adequate air for safety stops during ascent.
+The reef crest at Bright Bank begins at approximately 112 feet (34 m). Two mooring buoys are set at 143–159 feet (44–48 m) in the sand adjacent to the reef. Divers descend the mooring line to the sandy bottom, then navigate up to the reef crest. The depth profile — beginning at the recreational limit — demands excellent air management and careful decompression planning. The bank's lion's-paw shape creates varied terrain with multiple reef structures to explore. Visibility and conditions are similar to other FGB sanctuary banks, though Bright Bank is farther from shore and less frequently dived than East/West Banks. Water temperature ranges from approximately 68–73°F (20–23°C) in winter to 80–84°F (27–29°C) in summer.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat with moored buoys. Giant stride entry with full gear is standard. Descend along the moored line to the reef crest. Execute a 10-15 minute safety stop at 5 meters (essential given the 34-meter starting depth) with SMB deployment. Coordinate with boat crew for ascent timing and exit.
+Access is exclusively by liveaboard charter, the same operators serving East and West Banks (e.g., M/V *Fling* and M/V *Spree* from Freeport, Texas). Bright Bank is approximately 124 miles from land — farther offshore than East/West Banks — making day-boat access impractical. Descent is via mooring line. An extended safety stop is essential given the starting depth at the recreational limit.
 
 ## Tips and Recommendations
 
-- Book with Flower Garden Banks-experienced operators
-- Bring adequate thermal protection; Gulf water is cold year-round
-- Bring an underwater camera to document the recovering coral community
-- Plan dives conservatively with generous air reserves for safety stops
-- Stay close to the moored buoy line for safe ascent in current
-- Monitor bottom time carefully given the 34-meter starting depth
+Bright Bank rewards divers with access to a rarely visited reef that carries the scars of its treasure salvage history as a visible reminder of why sanctuary protections matter. Plan gas conservatively for a deep starting depth. The excavation pits left by salvage equipment are a unique and sobering underwater feature. Not suitable for divers without prior deep-reef experience.
 
 ## Safety Considerations
 
-Bright Bank presents significant challenges for recreational diving:
-- Substantial starting depth (34 meters) requiring excellent air management
-- Extended decompression obligations from deep starting depth
-- Offshore location with limited emergency response
-- Strong currents possible; current awareness essential
-- Cold water; proper thermal protection required
-
-Essential skills:
-- Advanced Open Water or higher certification
-- Recent deep-water diving experience
-- Expert buoyancy control
-- Strong air management and safety stop discipline
-- Buddy teamwork at depth
-- SMB deployment skills
-
-Not suitable for recreational divers without deep-water training.
+At 34 m reef crest depth, with mooring buoys at 44–48 m, Bright Bank is a demanding site. Currents are variable. The site is more than 120 miles from shore; emergency evacuation is a multi-hour operation. Advanced or Deep Diver certification is minimum. Carry a surface marker buoy. Follow NOAA sanctuary gear-disinfection protocols for stony coral tissue loss disease.
 
 ## Photography
 
-The recovering coral formations provide good wide-angle composition opportunities. Tropical fish fauna and coral heads offer both wide-angle and macro subjects. Photography is challenging given the depth and resulting darker light environment; bring lights for macro work.
+Wide-angle opportunities on the coral boulders, with good natural light in summer visibility. The excavation pits left by salvage activity are visually distinctive. The schooling chromis and creolefish above the reef provide action subjects.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Sources: [NOAA FGBNMS - Bright Bank](https://flowergarden.noaa.gov/about/brightbank.html), [NOAA FGBNMS - Mooring Buoys](https://flowergarden.noaa.gov/protection/mooringbuoys.html), [NOAA FGBNMS - FAQ](https://flowergarden.noaa.gov/about/faq.html), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/). Last updated 2026-05-26.*

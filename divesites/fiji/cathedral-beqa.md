@@ -23,7 +23,7 @@ Cathedral Beqa takes its name from the dramatic swim-through cavern that forms i
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

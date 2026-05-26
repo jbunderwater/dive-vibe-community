@@ -17,7 +17,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scripps.ucsd.edu",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -26,7 +27,7 @@
     "lon": -93.8240273,
     "osm_id": 6013570427,
     "osm_type": "node",
-    "depth": 16.8,
+    "depth": 17.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -38,7 +39,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scripps.ucsd.edu",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -48,7 +50,7 @@
     "osm_id": 6014024399,
     "osm_type": "node",
     "depth": 21.3,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -59,7 +61,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubadiving.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -74,7 +77,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,sanctuaries.noaa.gov",
+      "last_qa_date": "2026-05-26",
+      "note": "Reef cap starts at 44 m (144 ft); beyond recreational no-decompression limits for most divers. Technical diving destination."
     }
   },
   {
@@ -89,14 +94,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubadiving.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
     "name": "Geyer Bank",
     "lat": 27.7167,
     "lon": -93.4667,
-    "depth": 39.6,
+    "depth": 32.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -104,14 +110,16 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubadiving.com",
+      "last_qa_date": "2026-05-26",
+      "note": "Shallowest peak at 105 ft (32 m) per NOAA mooring buoy data. Previous depth of 39.6 m was incorrect."
     }
   },
   {
     "name": "Rankin Bank",
     "lat": 27.6833,
     "lon": -93.5833,
-    "depth": 39.6,
+    "depth": 50.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -119,22 +127,26 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org",
+      "last_qa_date": "2026-05-26",
+      "note": "Minimum depth 164 ft (50 m) per NOAA — beyond the 130 ft recreational dive limit. Not listed among the seven FGB banks with recreational reef access. Previous depth of 39.6 m was incorrect. Technical diving only."
     }
   },
   {
     "name": "East Flower Garden Stairway",
     "lat": 27.91,
     "lon": -93.595,
-    "depth": 7.6,
-    "site_type": "wall",
+    "depth": 20.0,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "validation_source": "flowergarden.noaa.gov",
+      "last_qa_date": "2026-05-26",
+      "note": "Site name not confirmed in NOAA mooring buoy documentation or dive operator sources. Shallowest mooring at East Bank is buoy 4 at 61 ft (18.6 m). Previous maxDepth of 7.6 m is incorrect — the reef top at East Bank begins at ~19-21 m at mooring buoys. Site type corrected from wall to reef; no source confirms a distinct wall/stairway feature at this location. Requires further sourcing before validation."
     }
   }
 ]

@@ -25,7 +25,7 @@ Fish Factory earns its industrial name from the sheer volume of fish produced by
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 17 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Moderate to strong tidal current
 - **Best Time**: May to October
@@ -36,7 +36,7 @@ Schooling fish are the defining feature. Barracuda and trevally are consistently
 
 ## Dive Profile
 
-Descend to the wall and position at the current-exposed edge where fish activity is highest. The wall ranges from the shallower sections (3–8 meters) down to 17 meters, with the densest schooling action at mid-depth (8–15 meters). Drift with the current along the wall, pausing in channel features where upwelling creates natural fish aggregation points. The shallowest sections at 3–5 meters are spectacular on days with good current — fusilier schools stack in the shallow water and the density is almost claustrophobic. Total dive times of 50–65 minutes are typical on this wall given the manageable depths.
+Descend to the wall and position at the current-exposed edge where fish activity is highest. The wall runs from approximately 6 to 27 meters, with the densest schooling action typically at mid-depth (8–15 meters). Drift with the current along the wall, pausing in channel features where upwelling creates natural fish aggregation points. The shallowest sections at 3–5 meters are spectacular on days with good current — fusilier schools stack in the shallow water and the density is almost claustrophobic. Total dive times of 50–65 minutes are typical given the manageable depth range.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Accessed by boat from Taveuni operators, often as part of a Somosomo Strait mult
 
 ## Safety Considerations
 
-Current management is the primary challenge at Fish Factory. The shallow depth (maximum 17 meters) means decompression is not a concern, but surface current can push divers away from the boat rapidly. Always carry an SMB and deploy it before ascending. If you lose the group in reduced visibility from schooling fish — which can genuinely reduce ambient light when schools are dense — ascend slowly, deploy your SMB, and wait at the surface. The current direction in the strait reverses twice daily; confirm that you are not diving the incoming current back toward a boat mooring or anchored vessel.
+Current management is the primary challenge at Fish Factory. The maximum depth of 27 meters is within recreational limits and decompression is manageable with normal dive planning, but surface current can push divers away from the boat rapidly. Always carry an SMB and deploy it before ascending. If you lose the group in reduced visibility from schooling fish — which can genuinely reduce ambient light when schools are dense — ascend slowly, deploy your SMB, and wait at the surface. The current direction in the strait reverses twice daily; confirm that you are not diving the incoming current back toward a boat mooring or anchored vessel.
 
 ## Photography
 

@@ -8,7 +8,7 @@
     "depth": 42.7,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "USNS General Hoyt S. Vandenberg",
@@ -18,8 +18,9 @@
       "wikidata": "Q2468048",
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
       "wreck:date_sunk": "2009-05-27",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,florida-scubadiving.com,keywest.com,naui.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -37,8 +38,9 @@
       "name": "Spiegel Grove",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,florida-scubadiving.com,rainbowreef.com,spiegelgrove.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -54,9 +56,10 @@
     "tags": {
       "name": "Triumph Reef",
       "sport": "scuba_diving",
-      "note": "Lesser-known Key Largo reef site, specific research limited",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "Lesser-known Key Largo reef site near Biscayne National Park boundary. No site-specific dive operator documentation found in deep QA pass 2026-05-26.",
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-26"
     },
     "depth_max": 8
   },
@@ -75,8 +78,9 @@
       "name": "Molasses Reef",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "floridakeys.noaa.gov,rainbowreef.com,en.wikipedia.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -102,8 +106,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "floridakeys.noaa.gov,en.wikipedia.org,dan.org,marinesanctuary.org",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -123,8 +128,9 @@
       "wikipedia": "en:Hen and Chickens (reef)",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "floridakeys.noaa.gov,florida-scubadiving.com,scubadiving.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -145,8 +151,9 @@
       "wikipedia": "en:USS_Alligator_(1820)",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "history.navy.mil,en.wikipedia.org,oceanexplorer.noaa.gov,nps.gov",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -165,8 +172,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "nps.gov,archaeologychannel.org,amli.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -185,8 +193,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "nps.gov,amli.com,onlyinyourstate.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -210,8 +219,9 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
+      "last_qa_date": "2026-05-26"
     }
   },
   {
@@ -229,9 +239,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Lesser-known Middle Keys reef site, limited public research available",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "No public dive operator listings, trip reports, or documentation found for this site in deep QA pass 2026-05-26.",
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-26"
     },
     "depth_max": 12
   },
@@ -251,9 +262,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Lesser-known Key West area wreck site, limited public research available",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "No vessel history, dive operator listings, or trip reports found for this wreck site in deep QA pass 2026-05-26.",
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-26"
     },
     "depth_max": 6
   },
@@ -280,8 +292,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
+      "last_qa_date": "2026-05-26"
     }
   }
 ]

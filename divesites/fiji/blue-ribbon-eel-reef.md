@@ -23,7 +23,7 @@ Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, notable
 
 - **Location**: Taveuni reef system, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

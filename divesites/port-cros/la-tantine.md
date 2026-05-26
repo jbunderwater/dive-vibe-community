@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # La Tantine
 
-A deep wreck in the Hyères Bay area, resting at 48 metres in the waters of the Port-Cros maritime zone.
+A small wooden ponton-crane that sank around 1960 during a towing operation, lying flat on sand at 48 metres north of Port-Cros — notable more for its conger eel history than its structure.
 
 ## Overview
 
-La Tantine is a wreck site in the Hyères Bay area, within the broader maritime zone covered by Port-Cros National Park's associated protected waters. At 48 metres maximum depth, this is a dedicated advanced and technical dive. The wreck rests on a sandy bottom and has become an artificial reef over the decades since sinking, hosting dense fish communities and encrusting invertebrate growth. The depth and occasional current at this site mean it is reserved for experienced divers with appropriate advanced or technical qualifications. Visibility in the Hyères Bay area typically runs 10–25 metres.
+La Tantine (also called *La Barge aux Congres* — "the conger barge") is a non-motorised wooden vessel, approximately 15–20 metres long and 6 metres wide, resting flat on a sandy bottom at 45–49 metres depth approximately 500 metres from the island of Bagaud (Port-Cros). The precise circumstances of its sinking are unknown. Local sources indicate it sank during a towing operation around 1960, possibly while transporting building materials (brick remnants and a motor pump with metal wheels remain visible on the port side) to the Manoir hotel at Port-Cros. The vessel was not self-propelled — it had no engine — and whether it sank in heavy weather due to shifting cargo, or for another reason, is undocumented.
+
+The wreck itself is of modest structural interest (largely collapsed at 48 metres), but was famous in the 1990s for an extraordinarily dense population of conger eels that would actively approach divers. Overfishing in the surrounding area has since reduced this population significantly; current reports suggest only a handful of individuals remain.
 
 ## Site Information
 

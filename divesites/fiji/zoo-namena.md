@@ -23,9 +23,9 @@ Zoo Namena is one of the signature sites within Namena Marine Reserve, a protect
 
 - **Location**: Namena Marine Reserve, Koro Sea, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate; varies with tide
 - **Best Time**: May to October

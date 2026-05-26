@@ -17,7 +17,9 @@ A rare aircraft wreck at the north-eastern tip of Port-Cros island — a Royal N
 
 ## Overview
 
-The Wildcat is one of the most unusual dive sites in the Port-Cros area: a single-seat Royal Navy Grumman F4F Wildcat (known in British service as the "Martlet") aircraft that was discarded from an aircraft carrier in the late 1950s following irreparable damage, coming to rest on the sandy bottom at the north-eastern tip of Port-Cros island. The aircraft lies upside down with the cockpit buried, at depths of 53 metres maximum, visible from around 30–35 metres in good visibility. It is a technically challenging dive due to both its depth and the strong current that often runs at the site. The Wildcat is a reminder of the long history of Royal Navy carrier operations in Mediterranean waters.
+The Wildcat is one of the most unusual dive sites in the Port-Cros area: a Royal Navy Grumman F4F Wildcat (known in British service as the "Martlet" Mark V — identifiable by its English roundels still visible on the fuselage) lying upside down on a sandy bottom approximately 200 metres northwest of the Île de la Fourmigue, at 53 metres maximum depth. The cockpit is open and resting on the sand; wings, fuselage, and tail assembly remain recognisable. Only the nose is damaged and the engine is missing; the propeller remains attached to its hub on the tail section.
+
+How the aircraft came to rest here is disputed. One theory holds that it was deliberately jettisoned from an aircraft carrier — most likely HMS Hermès — around 1956 or 1957, deemed beyond repair. A second theory, considered more plausible by some researchers because the landing gear is retracted (consistent with the aircraft being airborne), suggests it came down in an emergency water landing. No definitive documentation of the aircraft's provenance has been located; both theories remain current among local dive operators. The wreck can be spotted from approximately 30–35 metres in good visibility before descending to the sandy bottom.
 
 ## Site Information
 
@@ -33,11 +35,13 @@ The Wildcat is one of the most unusual dive sites in the Port-Cros area: a singl
 
 ## Marine Life
 
-The aircraft frame, though inverted and partially buried, has become an artificial reef structure in the years since its deposit. Conger eels and scorpionfish shelter around the fuselage. Gorgonian fans colonise sections of the wings and tail assembly. Schools of swallowtail sea perch hover above the wreck, and groupers have been sighted nearby. The sandy bottom around the aircraft supports flatfish and sea urchins. The isolated position in open water means pelagic species — including barracuda and occasional amberjack — pass through.
+The aircraft frame has become a focal point for open-water species on an otherwise featureless sandy bottom. Local dive operators report galathées (squat lobsters), langoustines (Norway lobster), conger eels, red scorpionfish, and occasionally large spiny lobsters sheltering around and beneath the fuselage. The isolated sandy location means species composition is modest compared to reef sites — the wreck's value is primarily historical and photographic rather than marine-life-driven.
+
+*No site-specific reports of gorgonians colonising the wings have been confirmed in current sources; descriptions noting gorgonian growth likely conflate this site with nearby reef dives.*
 
 ## Dive Profile
 
-This is a pure deep dive. Descend rapidly to the wreck on a line from the boat. The aircraft is identifiable by its distinctive inverted fuselage shape. Explore the accessible exterior — the wings, tail assembly, and engine area — within no-decompression limits. The cockpit is buried and inaccessible. Bottom time on air at 53 metres is extremely limited (approximately 10–12 minutes to a no-decompression limit). Nitrox 32 provides approximately 15 minutes. Begin ascent with substantial reserve. A planned decompression profile may be appropriate for advanced technical divers wishing to fully document the wreck.
+This is a pure deep dive to 53 metres on a sandy bottom. Descend on a line from the boat — the aircraft is identifiable from approximately 30–35 metres in good conditions by its distinctive inverted silhouette. Explore the accessible exterior (wings, tail assembly, open cockpit) within no-decompression limits. The nose is damaged; the engine is missing. Bottom time on air at 53 metres is extremely limited. Nitrox is strongly recommended. Begin ascent with substantial reserve. A planned decompression profile may be appropriate for advanced technical divers wishing to document the wreck fully.
 
 ## Entry and Exit
 
@@ -59,4 +63,4 @@ Technical-level depths require advanced certifications as a minimum. Strong curr
 The inverted aircraft is a unique and unusual wide-angle subject. Shooting along the wing line from a distance, with a diver above for scale, captures the shape clearly. The encrusted sections of the tail and wings show the passage of time effectively. Powerful artificial lighting is essential at 53 metres — ambient light is minimal and colour is absent.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Bormesplongée — Le Wildcat](https://en.bormesplongee.fr/wildcat), [Mio Palmo Plongée — Le Wildcat](https://www.miopalmoplongee.com/nos-sites/le-wildcat.php), [Lavandou Plongée — Legendary Wrecks](https://lavandou-plongee.com/en/scubadiving-spots/legendary-wrecks/), [Aqualonde — Le Wildcat](https://aqualonde-plongee.com/en/le-wildcat/). Note: the aircraft's provenance is disputed between two competing theories documented by local operators; no definitive source has been identified. Last updated 2026-05-26.*

@@ -23,9 +23,9 @@ Kansas takes its playful name from the Wizard of Oz line, coined by early divers
 
 - **Location**: Namena Marine Reserve, Koro Sea, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate; varies with tide
 - **Best Time**: May to October
