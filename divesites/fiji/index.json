@@ -29,7 +29,7 @@
     "lat": -18.2167,
     "lng": 177.9833,
     "difficulty": "Advanced",
-    "maxDepth": 25,
+    "maxDepth": 30,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
@@ -43,7 +43,7 @@
     "difficulty": "Advanced",
     "maxDepth": 28,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },
@@ -91,7 +91,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": null
   },

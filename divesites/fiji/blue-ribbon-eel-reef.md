@@ -17,13 +17,13 @@ A dedicated critter and macro site famous for blue ribbon eels, ornate ghost pip
 
 ## Overview
 
-Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, notable for the consistent presence of blue ribbon eels (Rhinomuraena quaesita) — among the most visually striking eels in the ocean, with their electric blue coloring, elongated body, and ornate flared nostrils. The site is a contrast to the dramatic wall and current diving that defines most Taveuni diving, offering a shallow, calm reef environment purpose-suited to slow, methodical macro exploration. At 16 meters maximum depth and typically in protected water, it accommodates beginner divers and provides experienced macro photographers with essentially unlimited bottom time to work specific subjects. The reef harbors a remarkable concentration of critter species beyond the namesake eels — nudibranchs, leaf fish, ornate ghost pipefish, and frogfish have all been documented here with regularity.
+Blue Ribbon Eel Reef (also referred to as "Eel Reef" by some operators) is a critter-focused site north of Rainbow Reef on Taveuni's reef system. It is noted for consistent blue ribbon eel (Rhinomuraena quaesita) sightings — the males are electric blue with yellow dorsal fins, females are yellow, and juveniles are jet black. Sources confirm the eels in rubble at 25–45 feet (8–14 meters). Ghost pipefish, leaf scorpionfish, and frogfish have been documented at this site by dive operators. The site offers a contrast to the dramatic wall and current diving that defines most Taveuni diving — shallow, calm, purpose-suited to slow macro exploration.
 
 ## Site Information
 
 - **Location**: Taveuni reef system, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -59,4 +59,4 @@ Blue Ribbon Eel Reef is one of Fiji's most low-risk dive sites. The primary conc
 This site is pure macro territory. A 100mm or 105mm macro lens handles ribbon eels at working distance (50–80cm), ghost pipefish at close range (30–40cm), and nudibranchs at 10–20cm. A wet diopter (SubSee or similar) extends macro capability for the smallest subjects (shrimp, juvenile fish). Lighting blue ribbon eels requires careful strobe positioning — a single strobe at 45° from one side reveals the electric blue coloring without harsh shadows. For ghost pipefish, front-on two-strobe lighting at equal intensity minimizes the deception of their camouflage and reveals their actual shape clearly. RAW shooting is recommended — the electric blue of the ribbon eel and the orange and black of the ghost pipefish require careful post-processing to balance.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Dive the World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Scuba Diving Magazine - Taveuni Island](https://www.scubadiving.com/bula-to-rainbow-scuba-diving-fijis-taveuni-island), [Taveuni Ocean Sports - Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html). Last updated 2026-05-27.*

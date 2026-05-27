@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Samu Reef Kadavu
 
-A current-swept outer reef drift on the edge of the Great Astrolabe — sharks, mantas, and the raw energy of open Pacific water.
+An outer reef drift site on the edge of the Great Astrolabe Reef, Kadavu — but the specific site name "Samu Reef" could not be confirmed in independent sources.
 
 ## Overview
 
-Samu Reef sits on the outer rim of the Great Astrolabe Reef, Kadavu's vast barrier reef system and one of the world's largest barrier reefs. The outer reef edge faces directly into the Pacific Ocean, and when the swell and tidal current are running, Samu becomes a high-energy drift dive that concentrates marine life in a way that the calmer lagoon sites cannot match. The site is characterized by dramatic coral formations along the reef slope and wall, where Pacific current delivers constant nutrients and drives the thick gorgonian fan and soft coral growth that covers the outer reef structure. Grey reef sharks and whitetip reef sharks are permanent residents of the outer reef. Manta ray sightings are a regular occurrence — mantas feeding in the plankton-rich current or visiting the reef edge cleaning stations are not uncommon, particularly during peak season.
+**Research note:** The name "Samu Reef" could not be confirmed as a documented dive site in any Kadavu diving resource reviewed, including Dive the World, PADI, Fiji Pocket Guide, Papageno Resort, or Matava Resort. Kadavu's documented outer reef drift sites include Naiqoro Passage, Eagle Rock, Seafan Alley, Big Point, and unnamed outer reef sections, but "Samu Reef" does not appear in any source.
+
+The dive description in this record (outer Pacific reef drift, grey reef sharks, manta ray sightings, gorgonian fans) is broadly consistent with what Kadavu's outer reef sites offer in general. If this is a locally-used name for one of the outer reef sections, it may only be known to specific Kadavu dive resorts. Confirm the site name and exact location with your Kadavu dive operator before departure.
 
 ## Site Information
 
@@ -32,7 +34,7 @@ Samu Reef sits on the outer rim of the Great Astrolabe Reef, Kadavu's vast barri
 
 ## Marine Life
 
-Grey reef sharks and whitetip reef sharks are reliably present along the outer reef edge, attracted by the current-driven food production. On high-current days, silvertip sharks appear from deeper water, following the current upwelling along the outer slope. Manta ray sightings are opportunistic but occur with enough frequency — particularly May through October — to make Samu worth diving for the possibility alone. Maori wrasse and large Napoleon wrasse are resident on the reef structure. Schools of rainbow runners sweep the outer reef in fast-moving formations. The reef slope itself is covered in impressive gorgonian sea fans and soft corals fed by the Pacific surge, alongside healthy hard coral coverage that shows the benefit of limited human pressure. Hammerhead sharks are occasionally reported on the deepest edges of the site.
+Kadavu's outer reef sites in general support grey reef sharks, whitetip reef sharks, schooling barracuda, and manta ray sightings. Gorgonian sea fans and dramatic drop-offs characterize the outer reef edge. However, specific marine life claims for "Samu Reef" as a named site cannot be made given that the site name itself could not be verified. See Overview note above.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Samu is an advanced dive because of the outer reef exposure, significant current
 The outer reef at Samu rewards wide-angle ocean-reef photography — shots that convey the energy of the Pacific environment rather than the intimate coral garden character of the inner lagoon sites. Position yourself at the reef edge and shoot along the wall toward the blue ocean, with sea fans and coral in the foreground and open water behind. Shark portraits against the current-washed outer wall background convey the wild character of the site better than close-up reef subjects. For manta encounters, have your wide-angle lens ready throughout the dive — mantas appear suddenly and the encounter window may be brief. Video divers should use wide-angle and capture the full current environment: the coral bending in the flow, the fish orienting into the current, and the overall sense of being on an exposed oceanic reef.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Dive the World - Kadavu](https://www.dive-the-world.com/diving-sites-fiji-kadavu.php). Site name "Samu Reef Kadavu" could not be confirmed as a documented site in any independent source. No site-specific sources found. Last updated 2026-05-27.*

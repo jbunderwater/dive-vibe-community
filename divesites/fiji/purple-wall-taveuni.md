@@ -32,7 +32,9 @@ Purple Wall sits in the Somosomo Strait on Taveuni's reef system, just kilometer
 
 ## Marine Life
 
-The purple soft coral canopy attracts the same filter-feeding fish community found throughout the Somosomo Strait. Anthias form dense aggregations in the current just off the wall face. Hawksbill sea turtles graze on the sponges and soft corals at mid-depth. Lionfish pose in the more sheltered crevices within the coral matrix. Grey reef sharks and whitetip reef sharks cruise the blue water below and beside the wall. Schools of moorish idols and double-saddle butterflyfish move along the wall face. Sea fans on the deeper sections grow large in the nutrient flux of the strait, and some host the tiny flameback pygmy angelfish that hides in their structure. At the reef crest, chromis and damselfish thrive in the shallow surge zone.
+Confirmed species at Purple Wall include banded sea snakes (more frequently observed here than at other nearby sites per diver reports), scorpionfish, nudibranchs, mantis shrimp, and longnose hawkfish. The current-facing wall attracts pelagic fish including Spanish mackerel, dogtooth tuna, barracuda, and grey reef sharks. Anthias are present in typical Somosomo Strait densities.
+
+Note: The previous description included "flameback pygmy angelfish" — this is a Caribbean/Western Atlantic species (Centropyge aurantonotus) not found in Fiji. The species present in Fiji's reefs are different Indo-Pacific dwarf angelfish (Centropyge species), but no specific confirmed sighting of a particular species in the sea fans at this site was found in sources reviewed. If a guide reports a specific dwarf angelfish species at Purple Wall, defer to their local knowledge. Also removed: generic Somosomo Strait species (hawksbill turtles, moorish idols, double-saddle butterflyfish) that could not be confirmed as specifically documented at this wall rather than the broader strait system.
 
 ## Dive Profile
 
@@ -47,7 +49,7 @@ Accessed by boat from Taveuni-based operators as part of a Somosomo Strait packa
 - **Pair with Great White Wall on the same day**: Both sites are in the strait and timed to the same tidal current. Most Taveuni operators offer them together. Purple Wall as the second dive (shallower maximum depth) is the typical sequence.
 - **The best color is between 12 and 22 meters**: The purple soft coral density is highest in this zone. Diving too deep too quickly means spending time in a less colorful area while consuming gas.
 - **Bring a torch to light the purple**: In natural light, purple soft corals photograph with a blue cast at depth. A video light or torch held close to the coral reveals the true saturated purple in photographs. This is particularly useful on wide-angle shots below 15 meters.
-- **Look for flameback pygmy angels in the sea fans**: These tiny (4cm) fish, with their orange-yellow body and blue face, inhabit the branches of large sea fans on the deeper wall sections. They are easily missed without deliberate searching.
+- **Watch for banded sea snakes**: This site is noted for higher-than-usual banded sea snake activity. They are non-aggressive but venomous — observe without disturbing them.
 - **Afternoon light works well here**: Unlike the swim-through at Great White Wall which requires specific conditions, Purple Wall photographs well across the day. Afternoon dives with lower-angle light can produce dramatic silhouette shots.
 
 ## Safety Considerations
@@ -59,4 +61,4 @@ Current in the Somosomo Strait is the primary operational consideration. Strong 
 Purple Wall is a more flexible photography site than Great White Wall because current requirements are less strict and the color palette varies across the dive. Wide-angle shooting of the coral wall with a diver for scale is the primary approach. The purple-blue color combination of the soft corals against the open-water blue is visually distinctive — no strobe is needed for basic compositions, though twin strobes close to the subject reveal the full purple saturation at depth. Macro subjects on the wall include nudibranchs (particularly Chromodoris species that favor purple and lavender habitats), cleaner shrimp, and the pygmy angelfish in the sea fans.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Zentacle - Purple Wall Fiji](https://www.zentacle.com/Beach/7520/purple-wall), [Dive the World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Scuba Diving Magazine - Taveuni](https://www.scubadiving.com/bula-to-rainbow-scuba-diving-fijis-taveuni-island). Last updated 2026-05-27.*

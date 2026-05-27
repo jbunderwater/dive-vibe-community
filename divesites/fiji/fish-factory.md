@@ -32,7 +32,7 @@ Fish Factory earns its industrial name from the sheer volume of fish produced by
 
 ## Marine Life
 
-Schooling fish are the defining feature. Chevron and blackfin barracuda appear in schools of 100–400 individuals, forming the characteristic tight spiraling columns for which Fiji barracuda schools are famous. Bigeye trevally mass in large formations that hover at the reef edge, periodically bursting into feeding runs. Fusiliers of two or three species stream continuously along the wall face in ribbons of silver and yellow. Behind the schooling action, grey reef sharks patrol the mid-water zone, occasionally breaking into the school in predatory rushes. On the wall itself, the fish diversity is equally high: large Napoleon wrasse, surgeonfish in mixed aggregations, and schools of bannerfish crowd the upper wall. Below 12 meters, the structure has sea fans and soft coral growth that provides habitat for lionfish and groupers.
+Confirmed species at Fish Factory include barracuda (in schools), damsels, anthias, moray eels, trevally (Spanish mackerel), and whitetip reef sharks. Turtles are also regularly reported. The site is described by Dive the World as coral bommies on a sandy floor rather than a strict wall dive — the "wall" character comes from the current-swept orientation rather than a vertical cliff face. Fusiliers and schooling fish are the defining feature when current is running.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current management is the primary challenge at Fish Factory. The shallow depth (
 Fish Factory is made for wide-angle schooling fish photography. The combination of dense barracuda or trevally schools with the wall structure and current allows for tightly composed images of thousands of fish in formation. Position yourself below a barracuda school and shoot upward with a fisheye for the tornado shot — schools at Fish Factory often form this configuration naturally. For shark-and-school images, use a fast shutter speed (1/200 or faster) to freeze motion and shoot toward the light to silhouette the subjects. Video divers will find the site compelling — 60fps shooting captures the fluid school movements in satisfying slow motion.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Ocean Sports - Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Dive the World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Scuba Diving Magazine - Taveuni Island](https://www.scubadiving.com/bula-to-rainbow-scuba-diving-fijis-taveuni-island). Last updated 2026-05-27.*

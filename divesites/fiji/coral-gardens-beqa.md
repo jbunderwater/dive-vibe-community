@@ -23,7 +23,7 @@ Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocea
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -46,10 +46,9 @@ Accessed by boat from Pacific Harbour-based operators as part of multi-dive pack
 
 ## Tips and Recommendations
 
-- **Slow down and look small**: Coral Gardens rewards divers who move slowly and inspect individual coral heads rather than swimming quickly across the site. The macro life — nudibranchs, shrimp, frogfish — requires careful searching at close range.
-- **Visit at night**: A night dive on Coral Gardens reveals the reef's nocturnal community. Octopus hunt openly, sleeping parrotfish are visible in their mucus cocoons, and moray eels cruise the reef actively. Book a night dive through your operator.
+- **Slow down and look small**: Coral Gardens rewards divers who move slowly and inspect individual coral heads. Shallow, sheltered reefs like this one often yield nudibranchs, small reef fish, and crustaceans on close inspection.
+- **Visit at night**: Night diving on sheltered Beqa Lagoon reefs can be rewarding. Book through your operator and confirm which site they use for night dives.
 - **Ideal for mixed-experience groups**: The shallow, calm conditions make this site workable for groups that include both beginners and advanced divers. Everyone can dive the same site comfortably.
-- **Check for frogfish on sponges**: Frogfish at Coral Gardens habitually settle on large barrel sponges and orange encrusting sponges, mimicking the color and texture of their host. Scan sponges carefully — once you know what to look for, they appear with surprising frequency.
 - **Combine with Cathedral Beqa**: The two sites are close together and make a natural pairing — Coral Gardens for relaxed reef exploration, Cathedral for the dramatic swim-through.
 
 ## Safety Considerations
@@ -58,7 +57,7 @@ Coral Gardens presents minimal hazards beyond standard reef diving precautions. 
 
 ## Photography
 
-Coral Gardens is a macro and close-focus wide-angle paradise with unlimited bottom time available. Close-focus wide-angle (10–17mm, strobes wide) captures the vivid coral garden with natural light flooding in from above. Macro shooters can spend entire dives working a small patch of reef: nudibranchs, Coleman shrimp pairs on fire urchins, and ornate ghost pipefish are regular finds. For coral portraiture, the Acropora tabletop colonies photographed from below with a diver or reef fish in the background produce striking results. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro conditions.
+Coral Gardens' shallow depth and calm conditions provide unlimited bottom time for reef photography. Close-focus wide-angle (10–17mm, strobes wide) captures the coral garden with natural light flooding from above. For coral portraiture, tabletop Acropora colonies photographed from below with a diver or reef fish in the background are a classic composition. The shallow depth makes it ideal for multiple dive passes — use first dive for wide angle, second dive for macro subjects on the reef surface.
 
 ---
 *Sources: [Aqua Trek Beqa - Dive Sites](https://www.aquatrek.com/dive-sites), [Fiji Travel - Best Dive Sites Around Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Beqa Lagoon Resort - Scuba Diving](https://beqalagoonresort.com/fiji-scuba-diving/). No site-specific species documentation found for this location; marine life section reflects regional Beqa Lagoon characteristics. Last updated 2026-05-27.*

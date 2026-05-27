@@ -23,7 +23,7 @@ Manta Reef is a submerged reef outside of the Great Astrolabe Barrier Reef on Ka
 
 - **Location**: Great Astrolabe Reef, Kadavu Island, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)

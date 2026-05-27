@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Supermarket Namena
 
-Every species seems to be in stock — Namena's most pelagic-oriented site delivers sharks, barracuda, and trevally on every visit.
+A dive site attributed to Namena Marine Reserve — but the specific name "Supermarket Namena" could not be confirmed in independent sources.
 
 ## Overview
 
-Supermarket is the third of Namena Marine Reserve's famous trio of dive sites, alongside Zoo and Kansas. The name reflects the variety of "products" on offer — marine species arrive here like shoppers filling a cart. Where Zoo emphasizes the sheer number of reef fish species and Kansas showcases soft coral pinnacle scenery, Supermarket skews toward schooling pelagics and shark activity, giving it a distinct character despite being within the same protected reserve. The site sits on a broad reef plateau at 12–18 meters, with a shallower hard coral flat above and a deeper rubble zone below. Current channels the fish life across the plateau, creating reliable encounters with grey reef sharks, large barracuda schools, and massed trevally formations.
+**Research note:** The name "Supermarket Namena" could not be confirmed as a documented site within Namena Marine Reserve in sources reviewed. The well-documented "Supermarket" dive site in Fiji is located at Mana Island in the Mamanuca Islands (a controlled shark feeding site, average depth 12-25m). One source (liveaboard.com) lists "Supermarket" as a Namena Marine Reserve site but provides no description distinguishing it from the Mamanuca version.
+
+The Namena Marine Reserve does have sites with a pelagic/shark focus — North Save-a-Tack Passage and Grand Central Station are the documented equivalents — but whether "Supermarket" is a local name for one of these or a genuinely distinct site could not be established. If you are planning a trip specifically to dive "Supermarket Namena," confirm the site name with your liveaboard or day-trip operator from Savusavu before departure.
 
 ## Site Information
 
 - **Location**: Namena Marine Reserve, Koro Sea, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -32,7 +34,7 @@ Supermarket is the third of Namena Marine Reserve's famous trio of dive sites, a
 
 ## Marine Life
 
-Grey reef sharks are the most consistently present large predators — Namena's reserve status means these animals are unafraid of divers and will approach within close range when divers remain still. Barracuda appear in schools of 50–200 individuals, often in the distinctive tornado formation where they spiral slowly in a column. Bigeye trevally mass in the current lanes above the plateau. Large groupers occupy the deep ledges at 15–18 meters. Schools of rainbow runners orbit the site continuously. In the rubble zone, whitetip reef sharks rest in groups of 3–5. The hard coral flat above supports the usual dense reef fish community: surgeonfish, parrotfish, moorish idols, and butterflyfish. Unlike Zoo and Kansas, Supermarket is where the reserve's pelagic character is most apparent.
+The Namena Marine Reserve broadly is confirmed as outstanding for grey reef sharks, barracuda schools, bigeye trevally, and dense reef fish due to its no-take protection. However, specific marine life claims for "Supermarket Namena" as a distinct named site cannot be attributed with confidence given the unresolved naming question. See Overview note above.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Supermarket's open-water location makes it more exposed to weather than the Beqa
 Supermarket is the best of the three Namena sites for pelagic action photography. Wide-angle shooting toward the blue water at the plateau edge, with sharks or barracuda schools as the subject and the reef visible below, produces powerful images. The barracuda tornado is the signature shot — position yourself below the school and shoot upward with a fisheye to capture the spiral formation against the surface light. Grey reef shark portraits are achievable here given how closely the animals approach stationary divers. Bring a fast memory card and shoot in burst mode when the pelagic action peaks.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [LiveAboard.com - Namena Marine Reserve](https://www.liveaboard.com/diving/fiji/namena-marine-reserve), [PADI - The Supermarket Dive Site](https://www.padi.com/dive-site/fiji/the-supermarket-2/). Site name "Supermarket Namena" could not be confirmed as a documented Namena site in independent sources. No site-specific sources found. Last updated 2026-05-27.*
