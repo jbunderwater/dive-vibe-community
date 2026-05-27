@@ -32,7 +32,7 @@ The aircraft lies upside down on the seabed in the Rade de Bormes (Bay of Bormes
 
 - **Location**: Rade de Bormes-les-Mimosas, adjacent to Port-Cros marine zone, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 53 meters
 - **Wreck visibility**: from approximately 35 metres depth

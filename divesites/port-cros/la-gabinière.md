@@ -58,7 +58,7 @@ Strong currents at the western slope and southern aspects require Advanced certi
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters (40 m on eastern drop-off)
+- **Maximum Depth**: 45 meters
 - **Protected Status**: Port-Cros National Park integral reserve
 
 ## Additional Resources

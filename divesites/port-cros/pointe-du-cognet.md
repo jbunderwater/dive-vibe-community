@@ -13,50 +13,34 @@ addedBy: osm_import
 
 # Pointe du Cognet
 
-A headland dive on the southern coast of Port-Cros with a rocky drop-off, resident groupers, and typically calm conditions.
+A headland on the southern coast of Port-Cros island, within the protected marine zone of the national park.
 
 ## Overview
 
-La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, in the protected marine zone of the national park. The underwater terrain extends from the headland as a sloping rock and boulder structure, dropping to 30 metres, with adjacent Posidonia seagrass meadows in the shallower sections. The headland position creates a site that is moderately exposed on the open-sea face but sheltered on the landward side, providing good alternatives when conditions are mixed. Groupers are present and accustomed to diving activity in the park.
+La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, confirmed as a geographic feature on hiking maps and visible from sea. It lies within the protected marine zone of Port-Cros National Park. The headland position — with cliff views toward La Gabinière islet on one side and Bagaud island toward Porquerolles on the other — places it in the park's well-protected core dive zone.
+
+The underwater terrain is expected to extend from the headland as a sloping rock and boulder structure, dropping to approximately 30 metres, with adjacent Posidonia seagrass meadows in the shallower sections, consistent with the southern coast topography of Port-Cros island.
+
+**No dive-specific source was found for Pointe du Cognet during QA review (May 2026).** This headland is confirmed as a geographic feature but does not appear in the dive site listings of the major Port-Cros operators (Mio Palmo, Lavandou Plongée, Aqualonde, European Diving School, or the official park destination site). Marine life details are not site-specifically confirmed and the site has not been validated to the 3-source threshold.
 
 ## Site Information
 
 - **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10–25 metres
-- **Water Temperature**: 13–25°C
-- **Current**: Light; increases on exposed headland face
 - **Best Time**: May to October
 
 ## Marine Life
 
-Brown groupers are the headline species — resident fish that know the park and approach divers with bold curiosity. Moray eels inhabit the rock crevices along the entire depth range, and octopus are found at the transitions between rock and sandy or seagrass substrate. Sea bream, salema, and oblades move through the water column. Scorpionfish are common (and often invisible until very close inspection). Below 18 metres, gorgonian sea fans and encrusting sponges appear on the rocky surfaces. The Posidonia meadow sections in the upper 12 metres shelter cuttlefish and seahorses.
+*Description based on regional diving characteristics. No site-specific sources for Pointe du Cognet were located during QA review.*
 
-## Dive Profile
-
-The most protected entry is on the sheltered side of the headland. Descend to the rock face and work toward the open-sea face and deeper sections, monitoring conditions as the exposed face is approached. The deeper gorgonian zone at 20–30 metres is the most developed invertebrate section. Ascend via the shallower rock structure and transit the Posidonia zone before surfacing. Complete a safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat access; mooring buoys preferred over anchoring in the park. Coordinate the dive plan with conditions — the sheltered face is appropriate in any weather; the exposed face only in calm sea states. Back roll or giant stride entry. Deploy SMB before surfacing.
-
-## Tips
-
-- Use the sheltered face of the headland in any wind or swell from the south — it provides clean conditions when other southern sites are compromised
-- The exposed face of the headland rewards calm days with its more developed gorgonian communities
-- This site is frequently included in multi-dive day trips from La Londe or Le Lavandou operators
-- Inspect the transition zones between rock and Posidonia carefully — these ecotones have the highest species diversity in shallow Mediterranean diving
+The headland's southern coast position is consistent with grouper habitat and posidonia seagrass typical of Port-Cros, but no site-specific marine life reports were found.
 
 ## Safety
 
-Standard park intermediate conditions. The exposed face of the headland requires surface condition evaluation. Never anchor in the Posidonia seagrass. Maintain excellent buoyancy throughout. Deploy an SMB before surfacing; the headland position can put divers in moderate boat traffic.
-
-## Photography
-
-Grouper portraits near the rocky headland structure are the photographic highlight. The Posidonia meadow provides excellent macro subjects (cuttlefish, seahorses). Gorgonian fans on the deeper rock faces photograph well wide-angle with a strobe. Natural light is productive in the upper 15 metres.
+Standard park conditions. The national park protected zone requires compliance with all diving regulations.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Description based on geographic location and regional diving characteristics. No dive-specific sources for Pointe du Cognet were found during QA review (May 2026). Last updated 2026-05-27.*

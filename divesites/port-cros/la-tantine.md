@@ -27,7 +27,7 @@ The site is described by dive operators as a difficult dive, both because of its
 
 - **Location**: Approximately 500 m from Bagaud island, Port-Cros maritime zone, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (small barge)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 48 meters
 - **Wreck dimensions**: approximately 20 m long × 6 m wide × 3 m high

@@ -3,7 +3,7 @@ name: La Pointe du Vaisseau
 lat: 42.99
 lng: 6.41
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 38
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,61 @@ addedBy: osm_import
 
 # La Pointe du Vaisseau
 
-A south-eastern headland at Port-Cros with a rich coralligenous drop-off, excellent grouper encounters, and calmer conditions than the exposed Gabinière sites.
+A coralligenous drop-off on the south-eastern tip of Port-Cros — sheltered from the Mistral, with a distinctive rocky spur that descends to approximately 38 metres and resident groupers, catsharks, and white gorgonians.
 
 ## Overview
 
-La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The coralligenous drop-off descends to 35 metres, and groupers here have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
+La Pointe du Vaisseau is located on the south face of Île de Port-Cros, east of the Gabinière islet. The site extends over approximately 9,000 m² and takes its name from the distinctive rocky spur ("vaisseau" — vessel) that projects into depth, resembling the bow of a ship. The drop-off descends to approximately 38 metres (the official park site cites 38 m; Tribloo cites sandy bottom at ~40 m — a minor conflict in sources).
+
+The site is sheltered from the Mistral by the island's orientation, making it a reliable choice when exposed western or southern sites are uncomfortable. However, frequent current runs at both surface and depth, and the site is exposed to easterly winds with mooring possible on either side of the point depending on conditions.
+
+The coralligenous drop-off supports white gorgonian fans (*Eunicella* sp.) and red gorgonians, along with encrusting corallinous species hosting more than 650 invertebrate species across the park's coralligène habitat. Brown groupers (*Epinephelus marginatus*) are a hallmark species at this site — protected for decades and accustomed to diver presence, they approach closely. Small-spotted catsharks (*roussettes*) are a confirmed and distinctive species here, resting on rock ledges. Moray eels, conger eels, scorpionfish, nudibranchs, crayfish, and Spanish lobsters are also confirmed.
+
+The coralligène formation with its white gorgonian fans gives the site a characteristically pale-branched appearance in the shallower sections that distinguishes it from the red gorgonian-dominated deeper walls found at La Gabinière. Posidonia seagrass beds are also present at the site.
+
+CaPeL registration required (maximum 40 simultaneous divers).
 
 ## Site Information
 
-- **Location**: South-eastern tip of Île de Port-Cros, Port-Cros National Park, France
+- **Location**: South face of Île de Port-Cros, east of Gabinière islet, Port-Cros National Park, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C
-- **Current**: Light; generally less than La Gabinière
+- **Current**: Frequent at surface and at depth; exposed to easterly winds
 - **Best Time**: May to October
 
 ## Marine Life
 
-Brown groupers are numerous and highly approachable — dive guides describe them as "accustomed to human presence" and willing to swim alongside divers at close range. Moray eels emerge from crevices throughout the drop-off, and small-spotted catsharks are occasionally seen resting on the rock ledges. Conger eels occupy the deeper overhangs. The coralligenous drop-off supports gorgonian sea fans, encrusting red coral, and vivid sponge communities. Scorpionfish blend almost invisibly into the rocky substrate. Steinitz' gobies, sea spiders (unusual Pycnogonida), and spiny lobsters are also recorded at this site.
+- **Groupers**: Brown groupers (*Epinephelus marginatus*) — habituated and approach closely
+- **Catsharks**: Small-spotted catsharks (*roussettes*) confirmed resting on rock ledges
+- **Other fish**: Moray eels, conger eels, scorpionfish, nudibranchs, various seabream
+- **Invertebrates**: Crayfish, Spanish lobsters, gobies
+- **Flora**: White gorgonian fans, red gorgonians, corallinous encrusting species, posidonia seagrass
 
 ## Dive Profile
 
-Descend along the drop-off face, beginning at the shallower sections (5–10 metres) where grouper and sea bream activity is often concentrated. Move progressively deeper along the wall to 30–35 metres where gorgonians are most developed. The point itself offers views in multiple directions along the wall faces. Ascend via the drop-off to the reef top at 5 metres for a safety stop.
+Descend along the drop-off face, beginning at the shallower sections where grouper and seabream activity is often concentrated. Move progressively deeper along the wall to 30–38 metres where gorgonians are most developed. The point itself offers views in multiple directions along the wall faces. Ascend via the drop-off to the reef top for a safety stop.
 
 ## Entry and Exit
 
-Boat access; mooring buoys are reserved for dive clubs and operators. No anchoring. Coordinate mooring with the national park office or dive operator in advance. Back roll or giant stride entry. Deploy an SMB from 5 metres before ascending.
+Boat access; mooring buoys are reserved for dive clubs and operators. No anchoring. Mooring is possible on either side of the point depending on wind direction. Back roll or giant stride entry. Deploy an SMB from 5 metres before ascending.
 
 ## Tips
 
-- The calmer conditions at this point make it an excellent first dive in the park for less confident intermediates
-- The combination of groupers, catsharks, and sea spiders makes Vaisseau one of the most species-diverse encounters in the park
-- Visit the deeper gorgonian sections in the morning when natural light penetrates at the best angle
-- This site appeared in early park management surveys as one of the original high-quality dive zones; its protection over decades has maintained exceptional marine life
+- The calmer Mistral-sheltered conditions make this a good first dive in the park when wind affects exposed sites
+- The combination of groupers, catsharks, and white gorgonians makes this one of the more distinctive species combinations in the park
+- Visit the deeper gorgonian sections — the white gorgonians in the 10–20 m range are unusual compared to the red gorgonian-dominant sites
 
 ## Safety
 
-Although calmer than the Gabinière sites, the 35-metre maximum depth warrants careful air and depth management for intermediate divers. Maintain good buoyancy to avoid disturbing the coralligenous bottom. Never anchor in the park's protected zones. Deploy an SMB before surfacing.
+Although sheltered from Mistral, frequent current at this site warrants attention. The 38-metre maximum depth requires careful gas management for intermediate divers. Never anchor in the park's protected zones. Deploy an SMB before surfacing.
 
 ## Photography
 
-Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals sea spiders, nudibranchs, and coral polyp detail.
+Grouper portraits are the photographic highlight — the fish are calm and approachable. Catshark portraits on the rock ledges. Wide-angle shots along the coralligenous wall with the pale white gorgonians are distinctive. Macro on encrusted surfaces and nudibranchs.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Destination Port-Cros Porquerolles — Site de la Pointe du Vaisseau](https://destination.portcros-parcnational.fr/outdoor-site/22-Site-de-la-Pointe-du-Vaisseau), [Tribloo — La Pointe du Vaisseau](https://www.tribloo.com/en/dive-sites/45/la-pointe-du-vaisseau---the-vessels-spit.html), [Mio Palmo Plongée — Pointe Vaisseau](https://www.miopalmoplongee.com/nos-sites/pointe-vaisseau.php). Last updated 2026-05-27.*

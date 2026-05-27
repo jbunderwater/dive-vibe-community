@@ -2,8 +2,8 @@
 name: Pierre de Bagaud
 lat: 42.995
 lng: 6.405
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,58 @@ addedBy: osm_import
 
 # Pierre de Bagaud
 
-A submerged rocky plateau off the islet of Bagaud within Port-Cros National Park, offering sheltered Mediterranean diving with groupers and Posidonia seagrass.
+A shallow rocky slab formation off the uninhabited islet of Bagaud in Port-Cros National Park — a beginner-friendly dive known for giant fan mussels (*Pinna nobilis*), scorpionfish, and a unique natural rock window called "l'Oeil de Bagaud."
 
 ## Overview
 
-Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagaud — a strictly protected islet within Port-Cros National Park that functions as a nature reserve with no visitor access above water. The surrounding underwater terrain of sloping rock and boulder fields descends to 25 metres, bordered by Posidonia oceanica seagrass meadows. The site is relatively sheltered compared to the exposed Gabinière sites, making it a suitable intermediate dive in moderate weather. Brown groupers, moray eels, and a variety of sea bream species are the characteristic wildlife.
+Pierre de Bagaud corresponds to the site officially documented by Port-Cros National Park and local dive operators as *Les Dalles de Bagaud* (the Bagaud Slabs) — located at Pointe du Beau on the west face of Bagaud island, extending over more than 10,000 m² (approximately 140 m × 80 m). The site sits in shallow water (6–15 metres) on an area of flat slabbed rocks interspersed with posidonia seagrass.
+
+A distinctive feature is **l'Oeil de Bagaud** — a natural window cut through the rock that allows divers to look upward and see the surface. The shallow maximum depth (approximately 12–15 metres) and west-facing position, sheltered from the Mistral, make this site appropriate for beginner divers and even first dives.
+
+Bagaud island itself is a strictly protected nature reserve with no visitor access above water. The marine zone is correspondingly pristine. Giant noble fan mussels (*Pinna nobilis*) — a legally protected species noted for their size — are scattered throughout the slab area. Scorpionfish (*rascasses*) and rockfish are confirmed present, along with moray eels and octopus in rock crevices. Posidonia seagrass covers adjacent areas and shelters cryptic species.
+
+No significant current affects this site due to its sheltered position. CaPeL registration is required.
 
 ## Site Information
 
-- **Location**: Off Islet of Bagaud, Port-Cros National Park, Var, France
+- **Location**: West face of Bagaud island (Pointe du Beau), Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–25 metres
-- **Water Temperature**: 13–25°C
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Protected Status**: Port-Cros National Park (Bagaud is an integral reserve — no landing)
 
-## Marine Life
+## Marine Life (confirmed at this site)
 
-Brown groupers inhabit the rock structure at 15–25 metres, moving with characteristic curiosity between the reef and the Posidonia meadow borders. Moray eels of multiple species (Mediterranean and long-tailed) occupy crevices throughout. The Posidonia meadows adjacent to the reef harbour sea needles, cuttlefish, and cryptic flatfish. Sea bream (two-banded and Sargus varieties), oblades, and salema school above the reef. Scorpionfish blend into the rocky substrate. Octopus and spiny lobsters are present in the deeper boulder gaps. Nudibranchs are found on the encrusted rock faces.
+- Giant noble fan mussels (*Pinna nobilis*) — legally protected, scattered across the slab area
+- Scorpionfish (*rascasses*)
+- Rockfish
+- Moray eels
+- Octopus
+- Posidonia seagrass with cryptic species
 
 ## Dive Profile
 
-Descend to the upper reef area and work down the sloping rock face to the 25-metre maximum. The transition zone between rock and Posidonia meadow is often the most productive for species diversity. Plan time both on the rocky structure and a circuit across the adjacent seagrass. Return to the shallower reef sections for a safety stop before surfacing.
+Descend to the slab area and explore the flat rocky formations. Look for l'Oeil de Bagaud — the natural rock window visible from below. Scan the posidonia borders for fan mussels and cryptic species. The shallow maximum depth allows extended bottom time. Surface well clear of the boat access lane.
 
 ## Entry and Exit
 
-Boat access; no landing on Bagaud islet is permitted (nature reserve). Back roll or giant stride from the vessel. Mooring buoys should be used where available — no anchoring in the seagrass. Deploy an SMB before ascending. Coordinate with the boat operator for pickup.
+Boat access; no landing on Bagaud islet permitted (integral reserve). Back roll or giant stride from the vessel. Mooring buoys should be used where available — no anchoring in the seagrass. Deploy an SMB before ascending.
 
 ## Tips
 
-- The protected islet context means marine life pressure is low — groupers and other species may be less habituated to divers but are not fearful
-- Posidonia meadow diving requires excellent buoyancy — hover, never kneel, and fin gently
-- The seagrass transition zone around 12–18 metres is worth extended time for cryptic species
-- Bagaud's above-water ecology includes nesting seabirds — visible and audible from the boat on the surface interval
+- The site is sheltered and calm — ideal for beginner divers and snorkellers in the park
+- Excellent buoyancy near the posidonia is essential — hover, never kneel
+- The fan mussels (*Pinna nobilis*) are legally protected and must not be touched
+- Bagaud's above-water ecology includes nesting seabirds — visible and audible from the boat
 
 ## Safety
 
-A sheltered intermediate site with straightforward conditions in typical weather. The national park protected zone requires compliance with all diving regulations. Advanced buoyancy is essential near the Posidonia meadow. Deploy an SMB before surfacing. Check weather conditions before the dive.
+Shallow, sheltered, and calm in typical weather. The protected zone requires full compliance with diving regulations. Advanced buoyancy near posidonia is essential.
 
 ## Photography
 
-The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (seahorses, pipefish, cuttlefish) and encrusted rock surfaces is productive.
+Giant fan mussels against the slab formations are distinctive macro subjects. Scorpionfish portrait opportunities at close range. The l'Oeil de Bagaud rock window is a unique structural subject.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Destination Port-Cros Porquerolles — Site des Dalles de Bagaud](https://destination.portcros-parcnational.fr/outdoor-site/4-Site-des-dalles-de-Bagaud), [Mio Palmo Plongée — Les Dalles de Bagaud](https://www.miopalmoplongee.com/nos-sites/les-dalles-de-bagaud.php), [Hyères Plongée — Les Dalles de Bagaud](https://www.hyeres-plongee.com/les-plongées-d-exploration/le-parc-national-de-port-cros/les-dalles-de-bagaud/). Last updated 2026-05-27.*

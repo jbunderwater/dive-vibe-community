@@ -13,44 +13,47 @@ addedBy: osm_import
 
 ## Îlot de la Croix
 
-Îlot de la Croix is a reef dive site at Port-Cros National Park, French Mediterranean coast.
+Îlot de la Croix (Pointe de la Croix) is a headland dive on the south coast of Port-Cros, defined by a striking "forest" of white gorgonians (*Eunicella singularis*) on the rocky screes between 8 and 18 metres.
 
 ## Overview
 
-Îlot de la Croix (Cape La Croix) is a headland dive site within Port-Cros National Park, accessible to both beginner and intermediate divers. The site has a topography similar to Pointe de Montrémian, with depths ranging from 5 to 30 metres. The site is notably exposed to wind from certain directions, so diving conditions depend on the day's weather. Dive centres assess conditions before committing to this site.
+Pointe de la Croix (Cape La Croix) is a headland dive site on the south face of Port-Cros island, within Port-Cros National Park. The site extends over approximately 12,000 m² and reaches a maximum depth of 30 metres. The topography is characterised by a long rocky ridge of several metres in height, surrounded by Posidonia seagrass on the approaches.
 
-The defining feature of Îlot de la Croix is its outstanding growth of white gorgonians (Eunicella singularis), which dominate the shallower rock faces and give the site a distinctive, pale-branched character unlike the red gorgonian-dominated deeper walls found at La Gabinière. Adjacent posidonia seagrass beds serve as a fish nursery, supporting dense populations of juvenile fish that in turn attract predators. Groupers, moray eels, and sarpa salpa (salema porgy, a distinctive striped reef fish) are regularly encountered. The seagrass meadows are habitat for protected fan mussels (Pinna nobilis) and seagrass pipefish.
+The defining feature of Pointe de la Croix is its outstanding growth of white gorgonians (*Eunicella singularis*), which dominate the shallower rock faces (8–18 m) and give the site a distinctive pale-branched appearance that the official park site describes as "une véritable forêt blanche" (a genuine white forest) — ghostly and striking compared to the red gorgonian-dominated deeper walls found at La Gabinière. Red gorgonians are also present at the site. The numerous rocky screes at 8–18 m form a heterogeneous architectural complexity that provides habitat for large sedentary fish including brown groupers.
 
-The site is suitable for those building experience in the national park system, combining shallower reef terrain with some wall sections. It can be dived as an exploratory drift around the cape or as an anchored dive on the northern face.
+Adjacent posidonia seagrass beds serve as a fish nursery, supporting juvenile fish including seagrass pipefish. Confirmed species at the site include brown groupers, moray eels, conger eels, octopus, various crustaceans, and sarpa salpa (salema porgy). Fan mussels (*Pinna nobilis*, a legally protected species) are present in the seagrass beds.
+
+The site is exposed to easterly winds, though mooring is possible on either side of the point depending on conditions. A frequent east-to-west current should be anticipated. CaPeL registration required (maximum 40 simultaneous divers).
 
 ## Dive Profile
 
 - **Entry**: Boat only
 - **Depth range**: 5–30 m
-- **Conditions**: Exposed to wind; operator assessment required before diving
+- **Conditions**: Exposed to east wind; operator assessment required; frequent east-west current
 - **Visibility**: Typically 15–20 m in summer
 - **Best season**: May–September (weather dependent)
 
 ## Marine Life
 
-- **Signature**: White gorgonians (Eunicella singularis) coating shallow rock faces
-- **Fish**: Brown groupers, moray eels, sarpa salpa (salema porgy), seabream, wrasse
-- **Invertebrates**: Sea urchins, starfish
+- **Signature**: White gorgonians (*Eunicella singularis*) — extensive formations on rock faces 8–18 m; officially described as a "genuine white forest"
+- **Fish**: Brown groupers, moray eels, conger eels, sarpa salpa (salema porgy), various seabream
+- **Invertebrates**: Octopus, crustaceans, sea urchins
 - **Nursery habitat**: Adjacent posidonia seagrass beds with juvenile fish and pipefish
-- **Protected species**: Fan mussels (Pinna nobilis) in seagrass
+- **Protected species**: Fan mussels (*Pinna nobilis*) in seagrass
+- **Also present**: Red gorgonians (in addition to dominant white gorgonians)
 
 ## Site Information
 
-- **Location**: Port-Cros National Park, Var, France
+- **Location**: Port-Cros National Park, south coast of Île de Port-Cros, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Protected Status**: Port-Cros National Park
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-05-27
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park overview](https://worldadventuredivers.com/port-cros-national-park/), [Aquabormes — Port-Cros dive sites](https://aquabormes.fr/page-port-cros.html). Last updated 2026-05-17.*
+*Sources: [Destination Port-Cros Porquerolles — Site de la Pointe de la Croix](https://destination.portcros-parcnational.fr/outdoor-site/23-Site-de-la-Pointe-de-la-Croix), [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Aquabormes — La Pointe de la Croix](https://aquabormes.fr/page-plongee-pointe-croix.html). Last updated 2026-05-27.*
