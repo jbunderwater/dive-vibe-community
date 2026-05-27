@@ -23,7 +23,7 @@ Rachel Bank is a named reef feature in the Lower Keys, located at roughly 24.74Â
 
 - **Location**: Lower Keys, Florida
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
@@ -36,4 +36,4 @@ No public source reviewed describes: the site's marine life, depth profile, curr
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources were located. Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-17.*
+*No site-specific dive sources were located. Description reflects only OpenStreetMap-recorded data. Last updated 2026-05-27.*

@@ -18,8 +18,10 @@
       "wikidata": "Q2468048",
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
       "wreck:date_sunk": "2009-05-27",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,florida-scubadiving.com,lostreefadventures.com,keywestdivecenter.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Distance from Key West: sources conflict between 6 miles (Wikipedia) and 7 miles (multiple dive operators). Both figures appear in legitimate sources; 7 miles is the more common operator-cited figure. Mercury mission tracking added (was listed as Apollo/Gemini only). Marine life: removed 'bull shark' as regularly resident species — trip reports confirm goliath grouper, tarpon, barracuda as primary species. Hurricane Irma 2017 shift documented. Scuba Diving Magazine #1 reader-poll ranking confirmed."
     }
   },
   {
@@ -37,8 +39,10 @@
       "name": "Spiegel Grove",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,scubafunflorida.com,florida-scubadiving.com,rainbowreef.com,scubadiving.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Displacement conflict: Wikipedia states 11,525 long tons (full load); secondary dive sources round to ~9,000 tons. Likely reflects different load configurations. Premature sinking: confirmed ~6 hours ahead of schedule. Hurricane Dennis 2005 confirmed upright orientation. 144 fish species figure confirmed from florida-scubadiving.com. Spiegel Grove named for Rutherford B. Hayes estate in Fremont, Ohio confirmed."
     }
   },
   {
@@ -54,9 +58,11 @@
     "tags": {
       "name": "Triumph Reef",
       "sport": "scuba_diving",
-      "note": "Lesser-known Key Largo reef site, specific research limited",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "Lesser-known Key Largo/Biscayne area reef site. No site-specific dive operator listings or trip reports found in three independent searches. Not listed on any dive operator site pages reviewed.",
+      "validated": "false",
+      "validation_source": "osm_data_only",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "QA re-searched 2026-05-27. No public dive source found for this specific reef. Cannot validate. validated reset to false."
     },
     "depth_max": 8
   },
@@ -71,12 +77,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Molasses Reef is a world-renowned, easily accessible coral reef located southeast of Key Largo in the Florida Keys National Marine Sanctuary, famous for its stunning clear water, diverse coral formations",
+      "description": "Molasses Reef is a world-renowned, easily accessible coral reef located southeast of Key Largo in the Florida Keys National Marine Sanctuary, famous for its clear water, spur-and-groove topography, and diverse marine life across 30+ named mooring buoy sub-sites.",
       "name": "Molasses Reef",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "floridakeys.noaa.gov,rainbowreef.com,islandventure.com,florida-scubadiving.com,scubaboard.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Eagle Ray Alley: removed 'reliable ray sightings' claim. ScubaBoard confirms eagle rays are not guaranteed and no more likely here than elsewhere on Molasses reef. Yellowhead jawfish and stingrays are the reliable sand-channel species. Depth range re-confirmed as 6ft shallow to 90ft+ outer ledges. 2023 bleaching event documented by NOAA."
     }
   },
   {
@@ -102,8 +110,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,uboat.net,coastguard.dodlive.mil,floridakeys.noaa.gov,dan.org",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "U-boat identity confirmed as U-175 via Wikipedia, uboat.net, USNI, US Coast Guard sources. NOAA Shipwreck Trail page erroneously states 'U-77' — this is documented as a page error; all authoritative sources confirm U-175. Duane recovered 22 survivors confirmed. Keel/launch/commission dates confirmed. NRHP listing date confirmed."
     }
   },
   {
@@ -123,8 +133,10 @@
       "wikipedia": "en:Hen and Chickens (reef)",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "floridakeys.noaa.gov,florida-scubadiving.com,justgottadive.com,florida-keys-vacation.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Site confirmed as Sanctuary Preservation Area with brick barge wreck. ESA-listed star and brain corals confirmed. Brick barge date (1949) verified via NOAA FKNMS wreck page. Site-specific marine life (tarpon, barracuda at barge; eagle rays and yellowtail across patch reef) confirmed from multiple sources."
     }
   },
   {
@@ -145,8 +157,10 @@
       "wikipedia": "en:USS_Alligator_(1820)",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,history.navy.mil,oceanexplorer.noaa.gov,islamoradadivecenter.com,nps.gov",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Wreck identity uncertainty confirmed by Wikipedia and NOAA: 1996 expedition proved the ballast pile at the marked location is not definitively the USS Alligator. Our markdown correctly notes this uncertainty. Marine life: 'over 500 species' removed from markdown — this was a generic SPA figure, not site-specific. Replaced with note that no site-specific marine life sources were located."
     }
   },
   {
@@ -165,8 +179,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "nps.gov,archaeologychannel.org,ace-diving.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Vessel history confirmed via NPS Biscayne: British iron-hulled cargo steamer, 350ft, 3,770 tons, built 1882, grounded March 9 1913 on Long Reef. NPS coordinates confirmed. Part of Maritime Heritage Trail confirmed. Cargo details (silks, wines, rice, 116 passengers, $1 million value) confirmed from NPS source."
     }
   },
   {
@@ -185,8 +201,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "nps.gov,ace-diving.com,nationalparkstraveler.org",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Vessel history confirmed via NPS Biscayne: 110ft 6in steel auxiliary schooner, built 1928 by George Lawley & Son, grounded January 1 1966 on Long Reef. Captain identified as Asmund (Jim) Gjevick, 26-year-old Norwegian. Original name 'Hardi Biou' then 'Valor' before Windjammer renamed her Mandalay in 1965. 23 passengers + 12 crew rescued by Coast Guard helicopters. Markdown updated to add NPS-confirmed captain details."
     }
   },
   {
@@ -210,8 +228,10 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,floridakeys.noaa.gov,history.navy.mil,florida-keys-vacation.com,diveinkeywest.net",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "CORRECTED: LST-496 rescue date was wrong in previous markdown (said June 6 / D-Day; correct date is June 11, 1944, confirmed by Naval History and Heritage Command and Wikipedia). CORRECTED: launch date was June 6 in prior description; correct launch date is June 5, 1943 (Wikipedia). Displacement: standard 1,400 tons / full load 1,740 tons (Buckley class standard). Sold to Chet Alexander Marine Salvage confirmed."
     }
   },
   {
@@ -229,9 +249,11 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Lesser-known Middle Keys reef site, limited public research available",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "Lesser-known Middle Keys reef site. No public dive operator listings or trip reports found in multiple independent searches 2026-05-27.",
+      "validated": "false",
+      "validation_source": "osm_data_only",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "QA re-searched 2026-05-27. No public dive source found. Cannot validate. validated reset to false."
     },
     "depth_max": 12
   },
@@ -251,9 +273,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Lesser-known Key West area wreck site, limited public research available",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "note": "Wreck tagged in OSM west of Key West. No vessel name, history, dimensions, or dive-specific records found in multiple independent searches 2026-05-27. Identity and condition unknown.",
+      "validated": "false",
+      "validation_source": "osm_data_only",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "QA re-searched 2026-05-27. No public records found for a dive site or wreck called 'Wisteria' near this location. Cannot validate identity or history. validated reset to false."
     },
     "depth_max": 6
   },
@@ -280,8 +304,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,floridakeys.noaa.gov,history.navy.mil,florida-keys-vacation.com,diveinkeywest.net",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "CORRECTED: LST-496 rescue date corrected from June 6 to June 11, 1944. CORRECTED: launch date corrected from June 6 to June 5, 1943. Vessel history cross-checked across Wikipedia, NOAA, and NHCC. All other historical facts confirmed."
     }
   }
 ]
