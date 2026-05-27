@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "ecuador",
-    "ecuador",
-    "egypt",
-    "fiji",
-    "florida-keys",
-    "flower-garden-banks",
     "france",
     "french-antilles",
     "french-polynesia",
@@ -175,7 +169,13 @@
     "dominican-republic",
     "dry-tortugas",
     "dutch-caribbean",
-    "eastern-caribbean"
+    "eastern-caribbean",
+    "ecuador",
+    "egypt",
+    "fiji",
+    "florida-keys",
+    "flower-garden-banks",
+    "france"
   ],
   "history": [
     {
@@ -732,6 +732,20 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/74",
+      "errors": []
+    },
+    {
+      "date": "2026-05-27",
+      "slugs": [
+        "ecuador",
+        "egypt",
+        "fiji",
+        "florida-keys",
+        "flower-garden-banks",
+        "france"
+      ],
+      "summary": null,
+      "pr_url": null,
       "errors": []
     }
   ]
