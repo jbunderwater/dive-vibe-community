@@ -2,7 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "france",
     "french-antilles",
     "french-polynesia",
     "galapagos-islands",
@@ -744,7 +743,78 @@
         "flower-garden-banks",
         "france"
       ],
-      "summary": null,
+      "notes": "ecuador→galapagos-islands (group slug); egypt→red-sea (group slug); france→port-cros (group slug)",
+      "summary": {
+        "sites_total": 552,
+        "sites_validated_today": 64,
+        "sites_re_audited": 94,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 18,
+        "wreck_conflicts_flagged": 22,
+        "sites_unresolved": 43,
+        "by_destination": {
+          "galapagos-islands": {
+            "sites_total": 16,
+            "sites_validated_today": 16,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Daphne Minor iguana claim removed; Cabo Marshall iguana+depth 22→40m; Kicker Rock 25→30m; Punta Vicente Roca 27→30m; Plazas 20→18m; all validation_source upgraded to 3+ domains"
+          },
+          "red-sea": {
+            "sites_total": 482,
+            "sites_validated_today": 17,
+            "sites_re_audited": 42,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 15,
+            "sites_unresolved": 25,
+            "notes": "Carnatic paddlewheel claim corrected; Umbria 360k→6000 bombs corrected; Numidia cause established (Second Mate Tulloch); Umbria 35→38m; Giannis D 24→28m; Canyon type reef→cave entry boat→shore; Blue Hole entry corrected shore; 25 wrecks demoted validated→needs_review (perplexity-only source); 13 wreck sites given site_type=wreck"
+          },
+          "fiji": {
+            "sites_total": 15,
+            "sites_validated_today": 11,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 4,
+            "notes": "Purple Wall flameback pygmy angelfish removed (Caribbean species); E6 location Beqa→Vatu-i-ra channel, type reef→pinnacle; Shark Reef 25→30m + 6→8.8km corrected; Cathedral type reef→cave; Great White Wall tunnel 10→15m; 4 sites validated=false (E6, Zoo Namena, Supermarket Namena, Samu Reef)"
+          },
+          "florida-keys": {
+            "sites_total": 13,
+            "sites_validated_today": 10,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 3,
+            "notes": "USCGC Duane U-77→U-175 (NOAA page error); USS Amesbury rescue date 6→11 June 1944; Vandenberg distance conflict 6 vs 7 miles flagged; Spiegel Grove displacement conflict flagged; Molasses Reef eagle ray reliability claim removed; 3 sites validated=false (Triumph Reef, Rachel Bank, Wisteria)"
+          },
+          "flower-garden-banks": {
+            "sites_total": 8,
+            "sites_validated_today": 6,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "Stetson Bank type wall→pinnacle; Geyer Bank depth 39.6→32m; West FGB depth 16.8→18.3m; Rankin Bank depth corrected + validated=false (below recreational limit); East FGB Stairway validated=false (no sources confirm as named dive site); Arctic-temp error (4-9°C) removed from Bright+Geyer Bank; McGrail oceanographer corrected"
+          },
+          "port-cros": {
+            "sites_total": 18,
+            "sites_validated_today": 9,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 3,
+            "notes": "La Gabinière type reef→wall + grouper count corrected (~200→300+) + eagle rays/mola mola removed; Donator mast claim removed (fell Jan 2000); Wildcat fabricated sinking narrative replaced with two-hypothesis account; Gabinière Est type reef→wall difficulty Intermediate→Advanced; Pierre de Bagaud depth 25→15m difficulty Intermediate→Beginner; Le Donator sinking date conflict flagged; 3 sites validated=false"
+          }
+        }
+      },
       "pr_url": null,
       "errors": []
     }
