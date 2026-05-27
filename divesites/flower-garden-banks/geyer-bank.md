@@ -3,7 +3,7 @@ name: Geyer Bank
 lat: 27.7167
 lng: -93.4667
 difficulty: Advanced
-maxDepth: 39.6
+maxDepth: 32.0
 entryType: boat
 siteType: reef
 ref: null
@@ -13,69 +13,49 @@ addedBy: osm_import
 
 ## Geyer Bank
 
-Geyer Bank, named after Texas A&M University geophysicist Richard A. Geyer, is a scientifically significant research site with unique ecological characteristics. The reef crest features at least four species of reef-building coral plus the invasive orange cup coral (Tubastraea coccinea). Notably, Geyer Bank hosts enormous aggregations of reef butterflyfish and is thought to be the first known spawning site for the rare marbled grouper (Dermatolepis inermis).
+Geyer Bank is a pear-shaped coral reef within Flower Garden Banks National Marine Sanctuary, approximately 125 miles from land, notable as the first known spawning site for the rare marbled grouper.
 
 ## Overview
 
-Geyer Bank is one of seven sanctuary banks with recreational dive habitat within the 130-foot (40-meter) limit, added to the sanctuary in 2021. The site supports a diverse coral community along with deep-water coral communities. The reef crest provides varied diving terrain with coral heads, sand patches, and fish fauna. Geyer holds particular scientific significance for marine research, as it is the only known spawning aggregation site for the rare marbled grouper, a finding that has major conservation implications.
+Geyer Bank is one of the seven sanctuary banks confirmed to have reef habitat within the 130-foot (39.6 m) recreational dive limit. The bank covers 11.5 square miles and has two distinct domes situated on an active salt diaper. The shallowest peak reaches approximately 105 feet (32 m). The bank is located approximately 125 miles from land, east of East Flower Garden Bank.
+
+The bank is named after Richard A. Geyer, a Texas A&M University geophysicist. Its primary conservation significance is that Geyer Bank is believed to be the first known spawning aggregation site for the marbled grouper (*Dermatolepis inermis*), a rare species. NOAA notes this aggregation may be under threat from fishing pressure; a shipping lane crosses the bank's top, making it a convenient anchoring location that impacts the reef.
+
+The coral community on the reef crest comprises at least four species of reef-building coral. The invasive orange cup coral (*Tubastraea coccinea*) has also been documented here; sanctuary staff removed 46 colonies in 2006.
 
 ## Site Information
 
-- **Location**: Gulf of Mexico, southern Flower Garden Banks complex (27.72°N, 93.47°W)
-- **Entry Type**: Boat dive
+- **Location**: Gulf of Mexico, ~125 miles from land
+- **Entry Type**: Boat dive (mooring buoys confirmed; shallowest at 106 ft/32 m)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 39.6 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Water Temperature**: 21-29°C (70-84°F) summer; 4-9°C (40-48°F) winter
-- **Current**: Moderate to strong; variable conditions
-- **Best Time**: May-October (summer season); February-April (winter season)
+- **Maximum Depth**: 32.0 meters (shallowest reef crest at ~105 ft/32 m)
 
 ## Marine Life
 
-Geyer Bank is distinctive for its butterflyfish aggregations—enormous schools of reef butterflyfish concentrate here at specific times of year. The reef also hosts rare marbled grouper spawning aggregations, making it a critical conservation site. Typical tropical fauna includes wrasses, groupers, snappers, and jacks. The coral community includes brain, star, and fire corals along with black corals and octocorals at depth. Invertebrate life is abundant, including spiny lobsters, crabs, and feather dusters.
+NOAA's Geyer Bank page confirms: at least four species of reef-building coral on the reef crest, reef butterflyfish aggregations (documented in large numbers seasonally), and marbled grouper (*Dermatolepis inermis*) spawning aggregations — the first such aggregation site known for this species. The invasive orange cup coral (*Tubastraea coccinea*) has been documented and is subject to active removal.
+
+In deeper mesophotic zones: black corals, octocorals, fish, sponges, algae, and invertebrates are present. No site-specific source was found for other fish species beyond those confirmed by NOAA's Geyer Bank page; attributing species lists from nearby banks to this site specifically is not supported.
 
 ## Dive Profile
 
-Descend via moored buoy to the reef crest at approximately 40 meters. The reef structure features coral heads interspersed with sand patches, allowing varied navigation patterns. Explore the reef at various depths between 25-40 meters, observing coral formations and watching for the large butterflyfish schools. Budget significant air and time for extended safety stops given the 40-meter starting depth. This is one of the deeper recreational reef sites in Flower Garden Banks.
+Two mooring buoys serve Geyer Bank; depth at the buoys ranges from 106 feet (32 m) to 256 feet (78 m). The reef crest at the shallowest dome tops out at approximately 105 feet (32 m). The bank descends to a depth range of 105–722 feet (32–220 m) across its full extent. The pear-shaped bank with two domes creates varied topography. The shallowest accessible diving begins right at the buoy depth — approximately 32 m — leaving minimal margin for no-decompression time before depth limits are reached.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat with moored buoys. Giant stride entry with full gear is standard. Descend carefully along the moored line to the reef structure. Plan for 15-20 minute extended safety stops at 5 meters, especially given the 40-meter starting depth. Deploy SMB and coordinate with boat crew for ascent timing and pickup.
+Geyer Bank is approximately 125 miles from land. Standard liveaboard trips by Texas Caribbean Charters do not include Geyer Bank on published itineraries; access requires specialist charter. Two mooring buoys are in place, confirming organized dive access exists. The shipping lane crossing the bank top is a navigation concern — surface vessels may be present.
 
 ## Tips and Recommendations
 
-- Book with Flower Garden Banks operators experienced in deep reef diving
-- Watch for marbled grouper during spawning season (specific times) if research permits access
-- Bring adequate thermal protection; Gulf water is cold
-- Bring a camera for butterflyfish aggregation photography
-- Plan dives conservatively with substantial air reserves
-- Stay close to the moored line for safe ascent
-- Monitor bottom time and depth carefully
+Geyer Bank is a research and specialist destination. The marbled grouper spawning aggregation, if present, is a scientifically significant sighting — report observations to the NOAA sanctuary. Anchor damage from shipping traffic is an ongoing concern; stay oriented to the mooring. The butterflyfish aggregations are the primary recreational wildlife draw. Plan dives conservatively given the 32 m starting depth.
 
 ## Safety Considerations
 
-Geyer Bank presents substantial technical challenges:
-- Deep starting depth (40 meters) at recreational maximum
-- Extended decompression obligations
-- Offshore location with limited emergency response
-- Strong currents possible; condition awareness critical
-- Cold water year-round
-
-Essential requirements:
-- Advanced Open Water or Deep Diver certification minimum
-- Recent deep-water diving experience
-- Expert buoyancy control and air management
-- Extended safety stop discipline (15-20 minutes)
-- Strong buddy communication and teamwork
-- SMB deployment and signaling skills
-- Physical fitness for deep diving in current
-
-Not suitable for recreational divers without substantial deep-water training.
+The reef crest at 32 m puts divers at advanced recreational depths from the first moment of the dive, leaving minimal no-decompression margin. Gas management is critical. The 125-mile offshore distance means multi-hour emergency evacuation. Shipping traffic in the lane across the bank top is a surface hazard on ascent — carry a surface marker buoy and deploy it early.
 
 ## Photography
 
-Excellent opportunities for wide-angle composition of coral formations and butterflyfish schools. Bring macro lighting for invertebrate subjects. Summer provides better visibility; early morning dives offer optimal lighting. The large butterflyfish aggregations are exceptional for action photography.
+Wide-angle subjects include the coral formations and butterflyfish schools. Macro photography of the invasive orange cup coral and cryptic invertebrates is possible with supplemental lighting. Summer provides better visibility for natural-light wide-angle work.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Sources: [NOAA Geyer Bank](https://flowergarden.noaa.gov/about/geyerbank.html), [NOAA Mooring Buoys](https://flowergarden.noaa.gov/protection/mooringbuoys.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [Wikipedia - FGBNMS](https://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary). Last updated 2026-05-27.*

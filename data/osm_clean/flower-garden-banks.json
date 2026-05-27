@@ -17,7 +17,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org,scubaboard.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -26,7 +27,7 @@
     "lon": -93.8240273,
     "osm_id": 6013570427,
     "osm_type": "node",
-    "depth": 16.8,
+    "depth": 18.3,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -38,7 +39,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org,scubaboard.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -47,8 +49,8 @@
     "lon": -94.2990745,
     "osm_id": 6014024399,
     "osm_type": "node",
-    "depth": 21.3,
-    "site_type": "wall",
+    "depth": 22.0,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -59,14 +61,15 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org,scubaboard.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
     "name": "McGrail Bank",
     "lat": 27.9567,
     "lon": -93.3167,
-    "depth": 43.9,
+    "depth": 44.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -74,7 +77,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -89,14 +93,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
     "name": "Geyer Bank",
     "lat": 27.7167,
     "lon": -93.4667,
-    "depth": 39.6,
+    "depth": 32.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -104,22 +109,25 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,wikipedia.org",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
     "name": "Rankin Bank",
     "lat": 27.6833,
     "lon": -93.5833,
-    "depth": 39.6,
+    "depth": 50.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "validation_note": "NOAA confirms bottom depth range 164-571 ft (50-174 m). Not among the seven sanctuary banks with reef within the 130-ft recreational dive limit. No mooring buoys. Cannot be validated as a recreational dive site. Previous depth of 39.6m was incorrect.",
+      "validation_source": "flowergarden.noaa.gov",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -133,8 +141,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "validation_note": "No independent source confirms this as a named dive site within Flower Garden Banks NMS. Not listed on NOAA mooring buoy registry, not referenced on NOAA site pages, not found on ScubaBoard or dive operator websites. The 7.6m maxDepth is inconsistent with all known FGB dive profiles (all sites minimum 19m at mooring buoys). Origin of this entry cannot be verified.",
+      "validation_source": "flowergarden.noaa.gov",
+      "last_qa_date": "2026-05-27"
     }
   }
 ]

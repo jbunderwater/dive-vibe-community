@@ -4,29 +4,31 @@
     "lat": 43.0,
     "lon": 6.4,
     "depth": 45,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "miopalmoplongee.com,lavandou-plongee.com,portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
     "name": "La Pointe de la Galère",
     "lat": 42.985,
     "lon": 6.39,
-    "depth": 34,
+    "depth": 36,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "destination.portcros-parcnational.fr,aqualonde-plongee.com,miopalmoplongee.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -40,15 +42,16 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.bormesplongee.fr,neptuneproject.eu,wikidata.org",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
     "name": "La Pointe du Vaisseau",
     "lat": 42.99,
     "lon": 6.41,
-    "depth": 35,
+    "depth": 38,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -56,8 +59,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Classic Mediterranean wall dive with vertical drop, 10-35m. Posidonia seagrass meadows on shallow plateau. Groupers, morays, and amberjacks in wall crevices. Excellent macro photography and light penetration. 15m+ visibility typical."
+      "validation_source": "destination.portcros-parcnational.fr,tribloo.com,miopalmoplongee.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -71,8 +74,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.bormesplongee.fr,tribloo.com,provencemed.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -86,8 +90,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "destination.portcros-parcnational.fr,lavandou-plongee.com,aquabormes.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -102,8 +107,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore-accessible reef in protected marine reserve with snorkeling trail, 2-12m. Beginner-friendly posidonia seagrass exploration. Groupers, bream, and nudibranchs common. Excellent for learning Mediterranean reef ecology."
+      "validation_source": "snorkeling-report.com,provencemed.com,portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -117,24 +122,26 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": false,
+      "last_qa_date": "2026-05-27",
+      "qa_note": "No site-specific sources found for this exact Port-Cros Les Deux Frères location; cannot reach 3-source threshold"
     }
   },
   {
     "name": "Pierre de Bagaud",
     "lat": 42.995,
     "lon": 6.405,
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Bagaud island reef (pierre = rock) with rocky formations and posidonia, 5-25m. Intermediate exploration of marine reserve with groupers, octopus, and sea fans. Good visibility (20m+) and moderate currents."
+      "validation_source": "destination.portcros-parcnational.fr,miopalmoplongee.com,hyeres-plongee.com",
+      "last_qa_date": "2026-05-27",
+      "qa_note": "Pierre de Bagaud identified as Les Dalles de Bagaud in official park sources; depth corrected to 15m (max 12-15m), difficulty to Beginner"
     }
   },
   {
@@ -148,8 +155,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "miopalmoplongee.com,lavandou-plongee.com,destination.portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -164,8 +172,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Beach dive site (plage = beach) with easy shore access, depths 2-8m. Beginner-friendly Mediterranean reef with posidonia seagrass beds. Perfect for learning in calm, shallow protected area."
+      "validation_source": "snorkeling-report.com,provencemed.com,portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -179,9 +187,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Point (pointe) reef with deeper exploration, 8-30m. Intermediate Mediterranean dive with rocky formations, groupers, and amberjacks. Posidonia and macroalgae. Visibility typically 15-25m with light currents."
+      "validated": false,
+      "last_qa_date": "2026-05-27",
+      "qa_note": "Site confirmed as a geographic point on Port-Cros southern coast but no 3-source dive site documentation found"
     }
   },
   {
@@ -200,8 +208,9 @@
       "sport": "scuba_diving",
       "wreck:depth": "47m",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.bormesplongee.fr,tribloo.com,provencemed.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -220,8 +229,9 @@
       "sport": "scuba_diving",
       "wreck:depth": "52m",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.bormesplongee.fr,neptuneproject.eu,wikidata.org",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -243,8 +253,9 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,provence-alpes-cotedazur.com",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -265,8 +276,9 @@
       "sport": "scuba_diving",
       "wreck:type": "aircraft",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "en.bormesplongee.fr,miopalmoplongee.com,destination.portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
@@ -276,21 +288,22 @@
     "osm_id": 12988211769,
     "osm_type": "node",
     "depth": 40,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "De 10 a 40m... Appelé aussi MerouLand",
       "name": "Gabiniėre Est",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "lavandou-plongee.com,miopalmoplongee.com,destination.portcros-parcnational.fr",
+      "last_qa_date": "2026-05-27"
     }
   },
   {
-    "name": "l’Esquadillon",
+    "name": "l'Esquadillon",
     "lat": 43.0475448,
     "lon": 6.5138411,
     "osm_id": 602115153,
@@ -300,14 +313,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "l’Esquadillon",
+      "name": "l'Esquadillon",
       "natural": "reef",
       "place": "islet",
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": false,
+      "last_qa_date": "2026-05-27",
+      "qa_note": "OSM-tagged reef/islet but no dive-specific source found; cannot reach 3-source threshold"
     }
   }
 ]

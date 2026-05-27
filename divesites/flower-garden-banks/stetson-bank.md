@@ -3,9 +3,9 @@ name: Stetson Bank
 lat: 28.163431
 lng: -94.2990745
 difficulty: Advanced
-maxDepth: 21.3
+maxDepth: 22.0
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: 6014024399
 addedBy: osm_import
@@ -13,43 +13,43 @@ addedBy: osm_import
 
 ## Stetson Bank
 
-Stetson Bank is a wall dive site in Flower Garden Banks, North America.
+Stetson Bank is a pinnacle dive site in Flower Garden Banks National Marine Sanctuary, approximately 80 miles south of the Texas coast, added to the sanctuary in October 1996.
 
 ## Overview
 
-Stetson Bank is the third unit of the Flower Garden Banks National Marine Sanctuary, located 75–115 miles off the Texas coast, and it stands apart from its two coral-reef siblings — instead of limestone, its crest of eroded siltstone and claystone creates a strange moonscape of sponge- and fire-coral-cloaked pinnacles jutting up from 70 feet. Unique creatures like sailfin blennies, golden-phase smooth trunkfish, and longlure frogfish make Stetson a standout fish-watching destination, with summer months bringing manta rays and the occasional whale shark.
+Stetson Bank is the smallest and most distinctive of the three original sanctuary dive units — 1.4 square miles of eroded siltstone and claystone ridges forming a 1,500-foot-long series of pinnacles separated by sand flats at around 70 feet depth. Unlike East and West Banks, which are true coral reefs on limestone foundations, Stetson is classified as a coral community rather than a coral reef: the cooler water (it sits further north) limits reef-building coral growth, and the substrate is dominated by sponges, fire coral, and algae rather than massive brain and star corals. NOAA describes the topography as resembling "a moonscape," with open gravelly sand flats and parallel rocky ridges. The Sierra Madracis pinnacle — named for the ten-ray star coral (*Madracis decactis*) encrusting it — is the site's most dramatic feature.
 
 ## Site Information
 
-- **Location**: Flower Garden Banks, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Gulf of Mexico, ~80 miles south of the Texas coast
+- **Entry Type**: Boat dive (liveaboard overnight trips only)
+- **Site Type**: Pinnacle (eroded siltstone ridges and pinnacles)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 21.3 meters
+- **Maximum Depth**: 22.0 meters (depth range 17–61 m; mooring buoys at 22–26 m)
 
 ## Marine Life
 
-NOAA's Stetson Bank page and DAN Alert Diver document a fish community distinct from the coral-dominated East and West Banks. Signature species include sailfin blennies, golden-phase smooth trunkfish, longlure frogfish, redspotted hawkfish, marbled grouper, spotted scorpionfish, rock hind, scrawled cowfish, and redlip blennies. Large schools of crimson creolefish hover over the Sierra Madracis formation — the park's most dramatic pinnacle. Bermuda chub school in the open water above the ridge. Spotted eagle rays are regular visitors; silky sharks patrol the north wall ("blue cruiseway") frequented by multiple shark species. Hawksbill sea turtles are documented at Stetson. Invertebrate life is exceptionally rich: spiny lobsters, arrow crabs, feather duster worms, spiny oysters, moray eels, octopuses, and various encrusting sponge and fire coral species. Nine coral species have been documented — fewer than the East/West Banks but sufficient to classify Stetson as a coral community.
+NOAA's Stetson Bank site pages and DAN Alert Diver document a fish community distinct from East and West Banks. Confirmed species: sailfin blennies (particularly visible on sand flats near mooring buoy 1), golden-phase smooth trunkfish (a color morph found in only two locations worldwide — here and the Bay Islands of Honduras), longlure frogfish, spotted scorpionfish, marbled grouper, rock hind, barracuda, squirrelfish, and Bermuda chub. Large schools of crimson creolefish hover over the Sierra Madracis pinnacle. Silky sharks patrol the open water around the bank. Hawksbill sea turtles are documented at Stetson. Spotted eagle rays visit regularly. Invertebrates include spiny lobsters, arrow crabs, feather duster worms, octopuses, and sea urchins. Sponges in multiple colors and tube forms encrust the siltstone ridges extensively. Note: the species-rich macro life here (sailfin blennies, frogfish, scorpionfish) is not shared with East and West Banks, making Stetson worth a dedicated dive for fish-watchers.
 
 ## Dive Profile
 
-Stetson Bank is the smallest and westernmost of the three sanctuary dive units — 36 acres with a crest of eroded siltstone and claystone forming a 1,500-foot-long ridge of pinnacles separated by deep troughs, approximately 70 feet below the surface. Five mooring buoys service the site. Unlike the limestone of East and West Banks, Stetson's softer substrate hosts mostly algae and sponge encrustation with scattered coral. Gullies, ridges, and the moonscape interior create complex topography excellent for fish-watching. Summer visibility exceeds 100 feet; winter visibility drops to 40–60 feet as cooler, slightly greener water moves through. The NOAA notes that dives typically begin through a murky green thermocline layer 15–20 feet deep that gives way to clear water below.
+Stetson Bank covers 1.4 square miles with five mooring buoys set at 73–85 feet (22–26 m). The siltstone ridges and pinnacles begin around 70 feet and feature complex topography — gullies, ridges, and sand flats creating an irregular moonscape. Divers descending in winter may pass through a green thermocline layer 15–20 feet below the surface before reaching clearer water below. Summer visibility exceeds 100 feet; winter visibility drops to 40–60 feet. The Stetson Ring — the deeper zone surrounding the main bank — supports mesophotic black corals and octocorals beyond recreational range. Texas Caribbean Charters describes the Stetson Night Dive as a signature experience on their extended trips.
 
 ## Entry and Exit
 
-Stetson Bank lies approximately 30 miles northwest of West Flower Garden Bank, within the same NOAA Marine Sanctuary. Access is by liveaboard from Freeport, Texas (M/V *Fling* and M/V *Spree*), or occasionally by day charter — Stetson's shallower position and closer-to-shore location (approximately 70 miles from the Texas coast) makes day-boat visits more feasible than for East/West Banks. Five mooring buoys accommodate vessels up to 100 feet.
+Stetson Bank is approximately 30 miles northwest of West Flower Garden Bank, within the same sanctuary. Access is via Texas Caribbean Charters on the M/V *Fling* from Freeport, Texas; Stetson is included on 3-day extended trips. Its shallower position and closer-to-shore distance (approximately 80 miles) make it more feasible for some day-charter operators than East/West Banks, though most divers visit via liveaboard. Five mooring buoys accommodate vessels up to 100 feet.
 
 ## Tips and Recommendations
 
-Stetson rewards patient, macro-focused diving. Move slowly over the pinnacles to spot camouflaged frogfish and scorpionfish, and check every crevice for sailfin blennies and arrow crabs. The Sierra Madracis pinnacle is a highlight — position yourself in the water column above it to be surrounded by the creolefish school. The north wall "blue cruiseway" is worth a pass for shark encounters. Stetson is excellent for photographers seeking unusual and photogenic small species rarely seen on conventional coral reefs.
+Stetson rewards patient, macro-focused diving. Move slowly over the siltstone ridges to spot camouflaged frogfish and scorpionfish. Check sand patches near mooring buoy 1 for sailfin blennies. Position in the water column above Sierra Madracis pinnacle to be surrounded by the creolefish school. The Stetson Night Dive is rated by many divers as the trip highlight. Do not overlook the golden-phase smooth trunkfish — this color form is extremely rare globally.
 
 ## Safety Considerations
 
-Open Gulf conditions — 70+ miles offshore — require the same self-sufficiency as East and West Banks. Currents are variable; the green thermocline layer on descent can disorient divers unused to it. Carry a surface marker buoy. Stony coral tissue loss disease disinfection protocols are mandatory; follow charter guidelines. Winter visibility can drop significantly, which should be factored into dive planning.
+Open Gulf conditions — approximately 80 miles offshore — require the same self-sufficiency as East and West Banks. Currents are variable. The green thermocline layer on winter descents can briefly disorient divers; maintain the mooring line until you reach clear water. Carry a surface marker buoy. Winter visibility reduction (40–60 feet) should be factored into dive planning. Stony coral tissue loss disease disinfection protocols apply — follow charter guidelines.
 
 ## Photography
 
-Stetson Bank is a macro photographer's paradise in the Gulf of Mexico. Longlure frogfish, sailfin blennies displaying on the siltstone, and golden-phase trunkfish are portfolio subjects rarely available elsewhere in U.S. waters. The sponge-encrusted pinnacles also provide wide-angle opportunities, particularly when the creolefish school is dense above the Sierra Madracis formation. A 60mm or 100mm macro lens rewards close work on the ridge surfaces; wide-angle captures the pinnacle architecture in good summer visibility.
+Stetson is exceptional for macro: longlure frogfish perched on siltstone, sailfin blennies displaying in sand flats, and golden-phase smooth trunkfish are portfolio subjects rarely available elsewhere in U.S. waters. The sponge-encrusted pinnacle architecture also rewards wide-angle work, particularly when creolefish school densely above Sierra Madracis. A 60mm or 100mm macro lens suits the close work on the ridge surfaces; a 10–17mm fisheye captures the pinnacle landscape in summer visibility.
 
 ---
-*Sources: [NOAA Stetson Bank - What Will I See](https://flowergarden.noaa.gov/visiting/stetsonwwis.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Flower Garden Banks 2](https://dan.org/alert-diver/article/flower-garden-banks-2/), [Scuba Diving Magazine - Best Sites FGB](https://www.scubadiving.com/best-diving-sites-in-flower-garden-banks-national-marine-sanctuary). Last updated 2026-05-17.*
+*Sources: [NOAA Stetson Bank](https://flowergarden.noaa.gov/about/stetsonbank.html), [NOAA Stetson Bank - What Will I See](https://flowergarden.noaa.gov/visiting/stetsonwwis.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/), [Wikipedia - FGBNMS](https://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary), [Texas Caribbean Charters - Three Flower Garden Tour](https://texascaribbean.com/all-trips/three-flower-garden-tour/). Last updated 2026-05-27.*
