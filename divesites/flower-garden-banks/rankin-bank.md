@@ -26,10 +26,10 @@ The bank is named after John Rankin (1919–2011), who served as the first Direc
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~124 miles offshore, 9.3 miles east of East Flower Garden Bank
-- **Entry Type**: Boat dive (research access only; no recreational mooring buoys)
-- **Site Type**: Coral reef (deep mesophotic — beyond recreational limits)
-- **Difficulty Level**: Advanced (technical diving depths; minimum 164 ft/50 m)
-- **Maximum Depth**: 50.0 meters (shallowest confirmed point; extends to 174 m)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 50.0 meters
 
 ## Marine Life
 

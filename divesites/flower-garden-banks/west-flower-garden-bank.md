@@ -3,7 +3,7 @@ name: West Flower Garden Bank
 lat: 27.8681933
 lng: -93.8240273
 difficulty: Advanced
-maxDepth: 16.8
+maxDepth: 18.3
 entryType: boat
 siteType: reef
 ref: null
@@ -22,10 +22,10 @@ West Flower Garden Bank rises from the Gulf floor on a salt dome, with a coral-d
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~113 miles south of the Texas/Louisiana border
-- **Entry Type**: Boat dive (liveaboard overnight trips only)
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18.3 meters (typical dive depth 21–27 m at moorings)
+- **Maximum Depth**: 18.3 meters
 
 ## Marine Life
 

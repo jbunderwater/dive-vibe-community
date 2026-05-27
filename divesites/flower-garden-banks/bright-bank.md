@@ -26,10 +26,10 @@ The bank is named after Tom Bright, a Texas A&M University marine biologist who 
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~124 miles off the Louisiana coast
-- **Entry Type**: Boat dive (liveaboard specialist trips; mooring buoys confirmed at 143–159 ft depth)
-- **Site Type**: Coral reef (heavily damaged crest; recovering community)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34.1 meters (reef crest; mooring buoys set at 44–48 m)
+- **Maximum Depth**: 34.1 meters
 
 ## Marine Life
 

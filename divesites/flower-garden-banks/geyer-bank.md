@@ -26,10 +26,10 @@ The coral community on the reef crest comprises at least four species of reef-bu
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~125 miles from land
-- **Entry Type**: Boat dive (mooring buoys confirmed; shallowest at 106 ft/32 m)
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32.0 meters (shallowest reef crest at ~105 ft/32 m)
+- **Maximum Depth**: 32.0 meters
 
 ## Marine Life
 

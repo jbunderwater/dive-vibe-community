@@ -22,10 +22,10 @@ East Flower Garden Bank sits atop a salt dome rising from the Gulf floor, suppor
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~100 nautical miles south of the Texas/Louisiana border
-- **Entry Type**: Boat dive (liveaboard overnight trips only)
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 21.3 meters (typical dive depth 20–29 m)
+- **Maximum Depth**: 21.3 meters
 
 ## Marine Life
 

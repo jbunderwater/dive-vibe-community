@@ -22,10 +22,10 @@ Stetson Bank is the smallest and most distinctive of the three original sanctuar
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~80 miles south of the Texas coast
-- **Entry Type**: Boat dive (liveaboard overnight trips only)
-- **Site Type**: Pinnacle (eroded siltstone ridges and pinnacles)
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22.0 meters (depth range 17–61 m; mooring buoys at 22–26 m)
+- **Maximum Depth**: 22.0 meters
 
 ## Marine Life
 

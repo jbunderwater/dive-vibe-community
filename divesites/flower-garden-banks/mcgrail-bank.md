@@ -3,7 +3,7 @@ name: McGrail Bank
 lat: 27.9567
 lng: -93.3167
 difficulty: Advanced
-maxDepth: 43.9
+maxDepth: 44.0
 entryType: boat
 siteType: reef
 ref: null
@@ -22,10 +22,10 @@ McGrail Bank (formerly known as 18 Fathom Bank) is one of the seven sanctuary ba
 ## Site Information
 
 - **Location**: Gulf of Mexico, ~109 miles from shore, east of Geyer Bank
-- **Entry Type**: Boat dive (specialist charter only; no confirmed recreational mooring buoys)
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced (technical diving depth — 44 m)
-- **Maximum Depth**: 44.0 meters (reef cap; bank continues to 512 feet/156 m)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 44.0 meters
 
 ## Marine Life
 
