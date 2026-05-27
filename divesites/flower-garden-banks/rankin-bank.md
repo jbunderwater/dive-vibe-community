@@ -3,7 +3,7 @@ name: Rankin Bank
 lat: 27.6833
 lng: -93.5833
 difficulty: Advanced
-maxDepth: 39.6
+maxDepth: 50.0
 entryType: boat
 siteType: reef
 ref: null
@@ -13,70 +13,41 @@ addedBy: osm_import
 
 ## Rankin Bank
 
-Rankin Bank, named after John Rankin (1919-2011) who served as the first Director of the Gulf Region for the Minerals Management Service, is a structurally connected reef system part of the southern Flower Garden Banks complex. Located approximately 9.3 miles east of East Flower Garden Bank and added to the sanctuary in 2021, Rankin is physically connected to 28 Fathom Bank to the south via a ridge feature.
+Rankin Bank is a deep-water bank within Flower Garden Banks National Marine Sanctuary, located approximately 9.3 miles east of East Flower Garden Bank. It is NOT within the sanctuary's 130-foot (39.6 m) recreational dive limit.
 
 ## Overview
 
-Rankin Bank is part of a critical Habitat Area of Particular Concern (HAPC) that encompasses Rankin, 28 Fathom, Bright Banks, and the extensive patch reefs connecting them. This network supports diverse deep-water coral communities including black corals, octocorals, stony corals, algae, sponges, and rich invertebrate assemblages. The reef crest sits at approximately 40 meters, making it accessible to experienced recreational divers within depth limits. The interconnected reef system provides habitat for tropical fish fauna and pelagic species.
+Rankin Bank is situated just north of 28 Fathom Bank, separated from it by a trough approximately 3,280 feet (1,000 m) wide and up to 571 feet (174 m) deep. The combined Rankin/28 Fathom Banks area covers 5.6 square miles. NOAA's confirmed bottom depth range for Rankin Bank is 164–571 feet (50–174 m).
+
+NOAA explicitly identifies only seven sanctuary banks with reef habitat within the recreational dive limit of 130 feet (39.6 m): Stetson, West Flower Garden, East Flower Garden, Bright, Geyer, McGrail, and Sonnier. Rankin Bank is not on this list. There are no recreational mooring buoys at Rankin Bank.
+
+The bank is named after John Rankin (1919–2011), who served as the first Director of the Gulf Region for the Minerals Management Service. It was added to the sanctuary in March 2021 as part of the expansion that more than tripled the sanctuary's size.
 
 ## Site Information
 
-- **Location**: Gulf of Mexico, 110 miles offshore, east of East Flower Garden Bank (27.68°N, 93.58°W)
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 39.6 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Water Temperature**: 21-29°C (70-84°F) summer; 4-9°C (40-48°F) winter
-- **Current**: Moderate to strong; variable offshore conditions
-- **Best Time**: May-October (summer season); February-April (winter season)
+- **Location**: Gulf of Mexico, ~124 miles offshore, 9.3 miles east of East Flower Garden Bank
+- **Entry Type**: Boat dive (research access only; no recreational mooring buoys)
+- **Site Type**: Coral reef (deep mesophotic — beyond recreational limits)
+- **Difficulty Level**: Advanced (technical diving depths; minimum 164 ft/50 m)
+- **Maximum Depth**: 50.0 meters (shallowest confirmed point; extends to 174 m)
 
 ## Marine Life
 
-Rankin's ecosystem is built around the deep-water coral community: black corals, octocorals, stony corals, and sponges form the foundation. Fish fauna includes butterflyfish, wrasses, groupers, snappers, and jacks. Pelagic species include nurse sharks, eagle rays, and occasional larger fish. Invertebrate life is rich, including crustaceans, feather dusters, arrow crabs, and other cryptic fauna. The interconnected reef system with adjacent banks creates a larger ecosystem supporting diverse species.
+Rankin and 28 Fathom Banks support a mesophotic habitat community: black corals, octocorals, stony corals, algae, sponges, and invertebrates are documented by NOAA. The ecosystem is connected via patch reefs to Bright Bank and the surrounding HAPC. Fish fauna includes schooling species and groupers documented in deeper surveys.
+
+No site-specific recreational dive reports were found for Rankin Bank. Marine life information is sourced exclusively from NOAA research data for this mesophotic habitat.
 
 ## Dive Profile
 
-Descend via moored buoy to the reef crest at approximately 40 meters. Navigate the coral-encrusted reef structure, exploring coral formations, sand channels, and the ridge feature connecting to adjacent banks. Stay aware of the reef boundaries and surrounding depths. Plan dives conservatively at this significant depth, budgeting substantial air and time for extended safety stops. Most exploration occurs between 25-40 meters.
+The shallowest confirmed depth at Rankin Bank is 164 feet (50 m), well beyond the 130-foot recreational dive limit. This is a mesophotic reef accessible only to technical divers with appropriate mixed-gas equipment and training, or via research submersible. No mooring buoys are in place. The trough between Rankin and 28 Fathom Banks reaches 571 feet (174 m).
 
 ## Entry and Exit
 
-Access is exclusively by dive boat with moored buoys. Giant stride entry with full gear is standard. Descend carefully along the moored line. Execute 15-20 minute extended safety stops at 5 meters, essential given the 40-meter starting depth. Deploy SMB and coordinate with boat crew for ascent timing and final exit.
+No standard liveaboard operator lists Rankin Bank as a dive destination. Research expeditions access the site via NOAA research vessels. For any diving at these depths, technical diving certification (CCR or OC with decompression capability) and appropriate gas planning are required. The 124-mile offshore distance means multi-hour emergency evacuation in any scenario.
 
-## Tips and Recommendations
+## Important Note
 
-- Book with Flower Garden Banks operators experienced in deep reef diving
-- Bring adequate thermal protection; Gulf water is cold year-round
-- Bring a camera to document the coral community
-- Plan dives conservatively with substantial air reserves
-- Stay close to moored buoy for safe ascent in current
-- Monitor bottom time and depth carefully
-- Be aware of the interconnected reef structure; mark position mentally
-
-## Safety Considerations
-
-Rankin Bank presents significant deep-diving challenges:
-- Deep starting depth (40 meters) at recreational limits
-- Extended decompression obligations (15-20+ minute safety stops)
-- Offshore location with limited emergency response
-- Strong currents; condition changes possible
-- Cold water; insulation essential
-
-Essential requirements:
-- Advanced Open Water or Deep Diver certification minimum
-- Recent deep-water diving experience
-- Expert buoyancy control and air management
-- Extended safety stop discipline
-- Strong buddy communication at depth
-- SMB deployment and signaling skills
-- Physical fitness for deep offshore diving
-- Current-awareness training
-
-Not suitable for recreational divers without substantial deep-water training.
-
-## Photography
-
-Excellent opportunities for wide-angle reef composition and coral formations. Macro photography of invertebrates and cryptic fauna is possible with supplemental lighting. Summer provides clearer visibility; early morning offers optimal lighting for wide-angle shots. The deep-water coral garden is visually striking.
+This site was previously listed in our database with a 39.6 m depth, which does not correspond to any confirmed depth at Rankin Bank. NOAA confirms the shallowest depth is approximately 164 feet (50 m). This entry is retained in the database for geographic completeness but should not be represented as a recreational dive site.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Sources: [NOAA Rankin and 28 Fathom Banks](https://flowergarden.noaa.gov/about/rankin28fathombanks.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [NOAA Mooring Buoys](https://flowergarden.noaa.gov/protection/mooringbuoys.html), [Wikipedia - FGBNMS](https://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary). Last updated 2026-05-27.*
