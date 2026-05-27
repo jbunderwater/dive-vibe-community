@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Cousins Rock
 
-A small submerged rock near Santiago delivering the rare Galapagos combination of macro treasures -- seahorses and frogfish -- alongside playful sea lions and black coral gardens.
+A small submerged tuff cone near Santiago delivering the rare Galapagos combination of macro treasures -- seahorses and frogfish -- alongside playful sea lions and black coral gardens.
 
 ## Overview
 
-Cousins Rock is a small submerged rock formation between Santiago and Bartolome Islands, offering one of the more sheltered dives in the Galapagos. The site is distinctive for combining genuine macro diving -- seahorses, frogfish, nudibranchs -- with the big-animal encounters the Galapagos is famous for. The wall features dramatic overhangs and crevices draped in black coral and sea fans, creating a rich and visually complex reef ecosystem. A resident sea lion colony uses the rock as a playground, frequently joining divers for extended, interactive encounters.
+Cousins Rock is a small tuff cone formation between Santiago and Bartolome Islands, separated from Santiago. It has a collapsed crater shape, with only part visible above the surface. The site is distinctive for combining genuine macro diving -- Pacific seahorses, frogfish, barnacle blennies, gobies -- with the big-animal encounters the Galapagos is famous for. The site descends in terraced steps before reaching a wall with niches and overhangs draped in black coral, where turtles and whitetip sharks rest. A shallow platform near the top of the rock provides the best sea lion encounters. Light to moderate currents make this one of the more accessible Galapagos dive sites.
 
 ## Site Information
 
@@ -27,36 +27,36 @@ Cousins Rock is a small submerged rock formation between Santiago and Bartolome 
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Mild to moderate (one of the more sheltered Galapagos sites)
-- **Best Time**: Year-round; June to November for best visibility
+- **Current**: Light to moderate (one of the more sheltered Galapagos sites)
+- **Best Time**: Year-round; June to November for best visibility; cold season for manta rays
 
 ## Marine Life
 
-Pacific seahorses are found clinging to gorgonians and rocky outcrops along the wall. Frogfish hide among the sponges and coral. Sea lions from the nearby colony are constant companions, spiraling around divers, blowing bubbles, and making eye contact at close range. The wall is decorated with extensive black coral trees and large sea fans. Whitetip reef sharks rest in crevices and under overhangs. Spotted eagle rays cruise past the wall edge. Schools of barracuda and creole fish swirl in the blue. Moray eels peer from holes in the rock. King angelfish, hawkfish, and diverse reef fish populate the wall. Green sea turtles rest on ledges throughout the site.
+Pacific seahorses are confirmed, found in the niches of the wall and among the rocky outcrops. Frogfish (specifically described as "bloody frogfish" by the local operator) hide among sponges. Barnacle blennies, gobies, hawkfish, lizardfish, and Galapagos shrimp provide additional macro subjects. Sea lions from the nearby colony are constant companions, spiraling around divers and approaching face-to-face. The wall and niches hold whitetip reef sharks and green turtles. Spotted eagle rays, golden rays, and stingrays cruise past the wall. Manta rays visit during the cold season. Galapagos sharks are present. Moray eels inhabit the rocks. Schools of barracuda and creole fish swirl in the blue. King angelfish and reef fish populate the wall.
 
 ## Dive Profile
 
-The dive descends along the wall of the submerged rock formation, typically reaching maximum depth of 25-30 meters on the deeper side. The wall features a series of overhangs, ledges, and crevices that reward careful exploration. The richest macro life is found in the 12-20 meter range along the wall face. Divers work their way around the rock, gradually ascending. The shallower sections near the top of the rock (5-10 meters) are where sea lion encounters are most frequent and prolonged. Safety stop is performed on the reef top or in open water near the rock.
+The dive descends along terraced steps to the deeper wall, typically reaching 25-30 metres on the deeper side. The terraces feature overhangs and ledges with black coral and sponges -- the richest macro life is found in this zone. Divers work their way around the rock, gradually ascending. The shallow platform near the top of the rock (5-10 metres) is where sea lion encounters are most frequent and prolonged. Safety stop is performed on the reef top or in open water near the rock.
 
 ## Entry and Exit
 
-Panga drop from liveaboard or day boat, positioned upstream of the rock based on current direction. Giant stride entry with descent along a reference point on the wall. Current is generally manageable compared to other Galapagos sites, but conditions vary. Exit via SMB deployment for panga pickup. The sheltered nature of the site means surface conditions are usually calmer than at exposed headlands.
+Panga drop from liveaboard or day boat, positioned upstream of the rock based on current direction. Giant stride entry with descent along the terraced steps. Current is generally manageable. Exit via SMB deployment for panga pickup. The relatively sheltered location means surface conditions are usually calmer than at exposed headlands.
 
 ## Tips and Recommendations
 
-- Split your dive time between the deep wall for macro subjects and the shallow top for sea lion play -- both are worth extended exploration
-- Look carefully in the black coral and gorgonians for seahorses; ask your guide where the current residents are hiding
+- Split your dive time between the deep terraces for macro subjects and the shallow platform for sea lion play -- both are worth extended exploration
+- Look carefully in the black coral niches for seahorses; ask your guide where the current residents are hiding
 - Sea lions are most interactive when divers are relaxed and still -- stop moving and let them come to you
-- This is one of the few Galapagos sites where a macro lens is genuinely worthwhile
-- Carry a light or torch to illuminate the overhangs and crevices where frogfish and resting sharks hide
+- This is one of the few Galapagos sites where a macro lens setup is genuinely worthwhile
+- Carry a light or torch to illuminate the overhangs and crevices
 
 ## Safety Considerations
 
-Currents are generally milder than at other Galapagos sites, but can still be present and may shift during the dive. The wall drops to depth, requiring standard depth awareness. Overhangs and crevices can trap bubbles and create disorientation in low visibility. Sea lions are playful but can be boisterous -- protect your equipment and do not attempt to touch them. Standard Galapagos thermal protection is needed; water temperatures range from 18-24°C. Carry an SMB and signaling devices.
+Currents are generally milder than at other Galapagos sites, but can still shift during the dive. The wall drops to depth, requiring standard depth awareness. Standard Galapagos thermal protection is needed; water temperatures range from 18-24 degrees C. Carry an SMB and signaling devices.
 
 ## Photography
 
-One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects -- they approach closely, make eye contact, and spiral around divers, rewarding wide-angle shooters with engaging portraits and interaction shots. Seahorses and frogfish provide genuine macro opportunities rare in the Galapagos. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects makes this a site where both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
+One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects at close range on the shallow platform. Seahorses and frogfish provide genuine macro opportunities. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects means both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana -- Cousins Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/cousins-rocks-galapagos-dive-course/), [PADI -- Bartolome/Cousin Rocks](https://www.padi.com/dive-site/ecuador/bartolomecousin-rocks/), [Galapatours -- Cousin Rock](https://www.galapatours.com/highlights/cousin-rock-dive-galapagos), [Nature Galapagos -- Cousins](https://naturegalapagos.com/galapagos-diving/scuba-diving-galapagos/galapagos-scuba-cousins/). Last updated 2026-05-27.*

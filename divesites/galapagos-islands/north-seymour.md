@@ -17,13 +17,13 @@ A current-swept channel dive delivering whitetip reef sharks, eagle rays, and oc
 
 ## Overview
 
-North Seymour is a channel dive site between North Seymour Island and Baltra, where tidal currents funnel nutrients and attract concentrations of pelagic and reef species. The relatively shallow maximum depth of 18 meters belies the site's intensity -- strong currents can create genuine drift dive conditions, and the mix of rocky reef, sandy patches, and open blue water brings together whitetip reef sharks, eagle rays, sea lions, and occasional hammerhead schools. Its proximity to Baltra airport makes it one of the first or last dives on many Galapagos itineraries.
+North Seymour is a channel dive site between North Seymour Island and Baltra, where tidal currents funnel nutrients and attract concentrations of pelagic and reef species. The rocky reef descends in gradual steps from the island shoreline to 8 metres, then continues to a sandy bottom at 16-18 metres. Despite the shallow maximum depth, strong tidal currents can create genuine drift conditions, and the mix of rocky reef, sandy patches, and open blue water brings together whitetip reef sharks, eagle rays, sea lions, and occasional hammerhead schools. Its proximity to Baltra makes it one of the first or last dives on many Galapagos itineraries. A Galapagos garden eel colony inhabits the sandy patches.
 
 ## Site Information
 
 - **Location**: Channel between North Seymour Island and Baltra, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)
@@ -32,31 +32,31 @@ North Seymour is a channel dive site between North Seymour Island and Baltra, wh
 
 ## Marine Life
 
-Whitetip reef sharks are the most reliable encounter, often seen resting on the sandy bottom in groups or actively hunting along the reef edge. Spotted eagle rays glide through the channel, sometimes in groups of four or five. Scalloped hammerhead sharks make appearances in the blue water beyond the reef, especially during the cool season. Galapagos sea lions hunt and play throughout the site. Garden eels occupy the sandy patches between rock formations, swaying in the current. Schools of black-striped salema, barracuda, and creole fish fill the water column. Green sea turtles, moray eels, and reef fish round out a diverse cast.
+Whitetip reef sharks are the most reliable encounter, often seen resting on the sandy bottom in groups or actively hunting along the reef edge. Blacktip reef sharks are also present. Spotted eagle rays glide through the channel, sometimes in groups. Scalloped hammerhead sharks make appearances in the blue water beyond the reef. Galapagos sea lions hunt and play throughout the site. Galapagos garden eels sway from the sandy patches between rock formations, retracting as divers approach. Schools of barracuda, snapper, creole fish, and black-striped salema fill the water column. Green sea turtles, moray eels, and diverse reef fish round out the site. Manta rays have been reported by operators at this site.
 
 ## Dive Profile
 
-The dive is typically conducted as a drift, entering upstream and letting the channel current carry divers along the rocky reef. The bottom is a mix of rocky reef outcrops and sandy channels at 12-18 meters. Whitetip sharks are often found on the sandy bottom between rocks. Eagle rays tend to pass through mid-water. The dive plan depends heavily on current direction and strength -- guides read the conditions and select entry and exit points accordingly. In strong current, divers may need to tuck behind rock formations to observe marine life before drifting to the next shelter.
+The dive is typically conducted as a drift, entering upstream and letting the channel current carry divers along the rocky reef. The rocky reef outcrops begin at 8 metres and descend to the sandy channel at 16-18 metres. Whitetip sharks are often found on the sandy bottom between rocks. Eagle rays tend to pass through mid-water. The dive plan depends heavily on current direction and strength -- guides read the conditions and select entry and exit points accordingly.
 
 ## Entry and Exit
 
-Short panga ride from day boat or liveaboard in the channel. Giant stride entry upstream of the planned drift path. Negative entry may be required in stronger currents. The panga follows divers' bubbles throughout the drift dive. Exit via SMB deployment for panga pickup at the downstream end of the dive. In calm conditions, a return swim to the boat may be possible, but drift diving is the standard approach.
+Short panga ride from day boat or liveaboard in the channel. Giant stride entry upstream of the planned drift path. Negative entry may be required in stronger currents. The panga follows divers' bubbles throughout the drift. Exit via SMB deployment for panga pickup at the downstream end of the dive.
 
 ## Tips and Recommendations
 
-- Check the sandy patches carefully for resting whitetip sharks -- they blend in surprisingly well against the sand
+- Check the sandy patches carefully for resting whitetip sharks -- they blend in well against the sand
 - Time your dive with the tidal current for maximum pelagic activity; slack tide produces calmer but often less exciting conditions
 - Look into the blue water beyond the reef edge for hammerheads, especially during June to November
-- The shallow depth means excellent bottom time -- use it to observe behavior rather than rushing between subjects
-- Carry a reef hook in case current is stronger than expected and you want to hold position at a productive spot
+- The shallow depth means excellent bottom time -- use it to observe behaviour rather than rushing between subjects
+- Carry a reef hook in case current is stronger than expected
 
 ## Safety Considerations
 
-Tidal channel currents are the primary hazard and can be significantly stronger than expected, especially during spring tides. Despite the shallow maximum depth, the current can make this a demanding dive. Divers can be swept out of the channel into open water if they stray from the reef. Maintain proximity to your guide and group. The shallow depth reduces decompression risk but does not eliminate the need for a safety stop. Standard Galapagos equipment and thermal protection apply. Carry an SMB, whistle, and mirror.
+Tidal channel currents are the primary hazard and can be significantly stronger than expected, especially during spring tides. Despite the shallow maximum depth, the current can make this a demanding dive. Divers can be swept out of the channel into open water if they stray from the reef. Maintain proximity to your guide and group. Standard Galapagos equipment and thermal protection apply.
 
 ## Photography
 
-Eagle rays passing overhead against blue water make excellent wide-angle subjects. Resting whitetip reef sharks on sandy bottom are best shot with a wide-angle lens from a low angle, approaching slowly. Garden eels require a macro lens and extreme patience -- they are skittish and retract at the slightest disturbance. The shallow depth means excellent natural light, reducing dependence on strobes. The current can make steady shooting challenging -- brace against rocks (without damaging reef) or use higher shutter speeds to compensate. This is primarily a wide-angle site.
+Eagle rays passing overhead against blue water make excellent wide-angle subjects. Resting whitetip reef sharks on sandy bottom are best shot with a wide-angle lens from a low angle, approaching slowly. Garden eels require a macro lens and extreme patience. The shallow depth means excellent natural light. The current can make steady shooting challenging -- brace against rocks (without damaging reef) or use higher shutter speeds.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana -- North Seymour Channel](https://scubaiguana.com/our-dive-center/daily-diving-tours/north-seymour-channel-galapagos-dive-site/), [The Portuguese Traveler -- North Seymour Diving](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera/), [Academy Bay Diving -- Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [PADI -- North Seymour Island](https://www.padi.com/dive-site/ecuador/north-seymour-island/). Last updated 2026-05-27.*
