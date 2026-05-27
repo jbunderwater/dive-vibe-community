@@ -23,7 +23,7 @@ The northern plateau of Sanganeb sits in the 5–20 meter depth range and is cha
 
 - **Location**: Sanganeb Atoll, Red Sea (Sudan/Egyptian liveaboard route)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

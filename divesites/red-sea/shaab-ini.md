@@ -23,7 +23,7 @@ Shaab Ini sits at approximately 24.22°N, 35.60°E in the Fury Shoals complex of
 
 - **Location**: Fury Shoals complex, south of Marsa Alam, southern Egyptian Red Sea (~24.22°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

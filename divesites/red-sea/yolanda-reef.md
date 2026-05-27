@@ -3,7 +3,7 @@ name: Yolanda Reef
 lat: 27.7247011
 lng: 34.2583484
 difficulty: Intermediate
-maxDepth: 14
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Yolanda Reef is one of the most famous dive sites in the Red Sea and one of the 
 
 ## Overview
 
-The Yolanda lies in shallow to intermediate water within the Ras Mohammed National Park boundary, often combined with the adjacent Shark and Jolanda Reef system. The ship broke apart after running aground on the reef, and sections of the hull have shifted progressively deeper over the decades following the sinking. The most famous elements of the dive are the scattered cargo: porcelain bathtubs, toilets, sinks, and pipes lying incongruously among the coral. The reef itself is exceptionally healthy, featuring vibrant hard and soft coral coverage that rivals the best in the Sinai. Current at Ras Mohammed can be strong, and the site is often done as a drift dive along the reef edge.
+The Yolanda (also spelled Jolanda) was a 75-metre Cypriot cargo ship that ran aground on Ras Mohammed reef on 1 April 1980 (April Fools' Day) while carrying sanitary ware from Piraeus to Aqaba. The ship's hull sat on the reef until a storm in 1987 snapped the tethering cables and sent the hull sliding down to 145–160 metres, where it was rediscovered by divers in 2005. The most famous elements of the dive are the remaining shallow cargo: porcelain bathtubs, toilets, sinks, and pipes scattered at approximately 20 metres among the coral, lying incongruously in one of Ras Mohammed's most vibrant reef systems. The reef itself is exceptionally healthy, featuring vibrant hard and soft coral coverage that rivals the best in the Sinai. Current at Ras Mohammed can be strong, and the site is often done as a drift dive along the reef edge.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Yolanda lies in shallow to intermediate water within the Ras Mohammed Nation
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong (can be very strong at Ras Mohammed)
 - **Best Time**: September to May
@@ -59,4 +59,4 @@ Current at Ras Mohammed is the primary hazard and can shift from moderate to ver
 Yolanda Reef is among the most photographed sites in the Red Sea. The juxtaposition of porcelain bathroom fixtures with encrusted tropical coral is inherently compelling and produces images that are instantly recognizable to any dive photographer. Wide-angle shots with toilets and soft corals in the same frame are the signature shot. Fish life — particularly humphead wrasse portraits and reef shark silhouettes — rounds out the photography potential. The site rewards both wide-angle and macro work.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Yolanda (ship)](https://en.wikipedia.org/wiki/Yolanda_(ship)), [Wrecks at Risk — Jolanda](https://wrecksatrisk.com/locations/jolanda/), [X-Ray Mag — The Quest for Yolanda](https://xray-mag.com/content/quest-yolanda). Last updated 2026-05-27.*

@@ -31,7 +31,7 @@ Minimum depth approximately 12 m, maximum approximately 45 m. Reef structure. Gu
 
 - **Location**: Gulf of Aqaba, near Taba, northern Sinai, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters (site extends to ~45 m)
 

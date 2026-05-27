@@ -23,7 +23,7 @@ At this latitude in the southern Red Sea, reefs benefit from warm, nutrient-rich
 
 - **Location**: Southern Red Sea (approx. 22°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

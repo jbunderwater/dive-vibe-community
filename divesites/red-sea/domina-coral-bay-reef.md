@@ -43,7 +43,7 @@ Fire coral is present on upper reef sections. Boat traffic near the pier require
 
 - **Location**: Na'ama Bay / Ras Umm Sid area, Sharm el-Sheikh, Sinai Peninsula
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25+ m (outer slope)
 

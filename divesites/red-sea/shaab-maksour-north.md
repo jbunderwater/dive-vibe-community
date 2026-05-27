@@ -23,7 +23,7 @@ Shaab Maksour North is the northern section of the Shaab Maksour reef at approxi
 
 - **Location**: Northern Shaab Maksour, Fury Shoals, southern Egyptian Red Sea (~24.24°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

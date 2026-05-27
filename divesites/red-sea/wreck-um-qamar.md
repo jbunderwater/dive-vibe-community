@@ -5,7 +5,7 @@ lng: 33.915825
 difficulty: Intermediate
 maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -40,7 +40,7 @@ The 35-metre maximum depth is at the limit of recreational diving — nitrox rec
 
 - **Location**: Sha'ab Um Qamar (Sha'ab Umm Gamar) reef, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 metres
 

@@ -23,7 +23,7 @@ At this latitude — barely north of the Sudanese border — Isar Island sits in
 
 - **Location**: Extreme southern Egyptian Red Sea, near Sudanese/Eritrean border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

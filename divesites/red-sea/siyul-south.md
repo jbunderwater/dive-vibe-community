@@ -27,7 +27,7 @@ The Siyul island reefs support diverse coral communities including tabular and f
 
 - **Location**: Qulaan Archipelago, Wadi El Gemal National Park, Hamata area, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

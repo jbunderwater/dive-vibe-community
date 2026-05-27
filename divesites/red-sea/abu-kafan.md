@@ -23,7 +23,7 @@ Abu Kafan lies in the Safaga area, a dive hub situated between Hurghada to the n
 
 - **Location**: Safaga area, central Red Sea coast, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

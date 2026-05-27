@@ -23,7 +23,7 @@ The main section of Panorama Reef presents a classic Red Sea reef profile — a 
 
 - **Location**: Red Sea, Egypt (offshore Hurghada, north central Red Sea)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

@@ -23,7 +23,7 @@ Shaab Sharm occupies a position on the middle Egyptian Red Sea outer shelf, away
 
 - **Location**: Central Red Sea, Egypt (outer shelf, lat 24.79°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-30 meters (80-100 feet)

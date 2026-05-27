@@ -23,7 +23,7 @@ The eastern point of an offshore reef offers one of the most exposed and current
 
 - **Location**: Red Sea, Egypt (central offshore reef, Brothers Islands area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

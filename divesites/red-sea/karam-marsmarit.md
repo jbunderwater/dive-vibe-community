@@ -23,7 +23,7 @@ This is an offshore reef site accessed exclusively by liveaboard, with the isola
 
 - **Location**: Southern Red Sea, Egypt (offshore reef)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

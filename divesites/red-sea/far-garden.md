@@ -23,7 +23,7 @@ Far Garden is the farthest of the four Garden dive sites from Naama Bay, positio
 
 - **Location**: Garden Bay, north of Naama Bay, Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

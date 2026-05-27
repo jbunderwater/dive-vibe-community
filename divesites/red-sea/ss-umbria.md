@@ -3,7 +3,7 @@ name: SS Umbria
 lat: 19.6367128
 lng: 37.2906381
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 38
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## SS Umbria
 
-The SS Umbria is one of the finest wreck dives in the world and a crown jewel of Red Sea diving — arguably the most historically compelling wreck on the African continent. An Italian passenger-cargo vessel deliberately scuttled by her own captain on June 9, 1940, just as Italy entered World War II, the Umbria rests in Wingate Reef off Port Sudan, Sudan. Her cargo of 360,000 bombs, aerial torpedoes, fuses, and war materiel intended for the Italian East Africa campaign went to the bottom with her and remains there today.
+The SS Umbria is one of the finest wreck dives in the world and a crown jewel of Red Sea diving — arguably the most historically compelling wreck on the African continent. An Italian cargo vessel deliberately scuttled by her own captain on 9 June 1940, the moment Italy entered World War II, the Umbria rests in Wingate Reef off Port Sudan, Sudan. Her cargo of approximately 6,000 tons of bombs, 600 cases of detonators, 100 tons of various weapons, over 2,000 tons of cement, and three Fiat 1100 cars — intended for the Italian East Africa campaign — went to the bottom with her and remains there today.
 
 ## Overview
 
-The Umbria measures 155 meters in length and lies on her port side in 35 meters at the deepest point, with the hull rising to just 10 meters below the surface. The wreck is remarkably intact and accessible, offering everything from shallow snorkeling along the hull to deep penetration of the holds. The cargo is extraordinary — stacked artillery shells, Fiat cars (still on deck), crated aircraft engines, and ammunition cases are preserved in eerie detail. Equally stunning is the marine life: the wreck has had 85 years to accumulate corals and attract a thriving ecosystem. Access is from Port Sudan, Sudan, typically by liveaboard — making it a destination that requires commitment but delivers an unmatched experience.
+The Umbria (originally named *Bahia Blanca*, built in Hamburg in 1911) measures 154.9 meters in length with a gross tonnage of 10,076 GRT. She lies on her port side in 38 meters at the deepest point, with the hull rising to just 10 meters below the surface. The wreck is remarkably intact and accessible, offering everything from shallow snorkeling along the hull to deep penetration of the holds. The cargo is extraordinary — stacked artillery shells, three Fiat 1100 cars (still on deck, now coral-draped), crated aircraft engines, and ammunition cases are preserved in eerie detail. Equally stunning is the marine life: the wreck has had over 85 years to accumulate corals and attract a thriving ecosystem. Access is from Port Sudan, Sudan, typically by liveaboard — making it a destination that requires commitment but delivers an unmatched experience.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Umbria measures 155 meters in length and lies on her port side in 35 meters 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Light to moderate
 - **Best Time**: November to April
@@ -60,4 +60,4 @@ Sudan requires a special dive permit and entry visa — verify current political
 The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The Fiat cars draped in coral are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Umbria](https://en.wikipedia.org/wiki/SS_Umbria), [Divers Alert Network — The Last Voyage](https://dan.org/alert-diver/article/the-last-voyage/), [DivePhotoGuide — The Sinking of the Umbria](https://www.divephotoguide.com/underwater-photography-special-features/article/sinking-umbria-wreck-sudan/). Last updated 2026-05-27.*

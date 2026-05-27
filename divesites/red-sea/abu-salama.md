@@ -23,7 +23,7 @@ Abu Salama is one of the scattered offshore and nearshore reef structures along 
 
 - **Location**: Hurghada-El Quseir coast, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters

@@ -23,7 +23,7 @@ Makadi Garden offers a coral garden dive in the productive nearshore reef enviro
 
 - **Location**: Makadi Bay, Hurghada area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

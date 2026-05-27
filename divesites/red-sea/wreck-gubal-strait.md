@@ -5,7 +5,7 @@ lng: 33.865356
 difficulty: Intermediate
 maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -36,7 +36,7 @@ The Gubal Strait's passing currents bring nutrients that support healthy reef fi
 
 - **Location**: Northern Strait of Gubal, Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25–32 metres
 

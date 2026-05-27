@@ -3,7 +3,7 @@ name: Giannis D
 lat: 27.5774
 lng: 33.9231833
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Giannis D is one of the most accessible and photogenic wreck dives in the Egypti
 
 ## Overview
 
-The Giannis D was a Greek cargo vessel that grounded on the shallow reef of Sha'ab Abu Nuhas on 19 April 1983 while carrying a cargo of timber. Today the wreck lies on its port side at a slight angle, with the bow in around 6 meters and the stern descending to 24 meters. The hull is completely intact and heavily encrusted with orange and yellow soft corals, hard corals, and sea fans that have transformed the former timber carrier into one of the most colourful wrecks in the Red Sea. Abu Nuhas is also home to three other significant wrecks — the Carnatic, Chrisoula K, and Kimon M — making it a world-class wreck diving destination that virtually all Red Sea liveaboards include on their northern itineraries.
+The Giannis D (originally the Japanese-built *Shoyo Maru*, 1969) was a 99.5-metre Greek cargo vessel of 2,932 GRT that grounded on the shallow reef of Sha'ab Abu Nuhas on 19 April 1983 while carrying a cargo of teak and mahogany timber, bound from Rijeka to Hodeida in Yemen. The ship struck the reef at full speed in broad daylight for reasons never conclusively established. The entire crew reached nearby Shadwan Island. Today the wreck lies on its port side at a slight angle, with the bow in around 6 meters and the stern descending to 28 meters. The hull is completely intact and heavily encrusted with orange and yellow soft corals, hard corals, and sea fans that have transformed the former timber carrier into one of the most colourful wrecks in the Red Sea. Abu Nuhas is also home to three other significant wrecks — the Carnatic, Chrisoula K, and Kimon M — making it a world-class wreck diving destination that virtually all Red Sea liveaboards include on their northern itineraries.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Giannis D was a Greek cargo vessel that grounded on the shallow reef of Sha'
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Moderate; can be strong over the reef top in swell
 - **Best Time**: October to May
@@ -36,7 +36,7 @@ The wreck is so thoroughly colonised by soft and hard corals that it reads more 
 
 ## Dive Profile
 
-Most divers enter from the liveaboard moored above the stern or midships. Descend to the stern at 22–24 meters and work forward along the port side of the hull, examining the engine room and cargo holds. The foremast lies at around 8 meters near the bow and is a spectacular photo subject. The hold interiors are penetrable with a torch and form the centrepiece of the dive. Begin the ascent along the starboard side of the hull and finish with a safety stop floating above the bow section in clear water.
+Most divers enter from the liveaboard moored above the stern or midships. Descend to the stern at 26–28 meters and work forward along the port side of the hull, examining the engine room and cargo holds. The foremast lies at around 8 meters near the bow and is a spectacular photo subject. The hold interiors are penetrable with a torch and form the centrepiece of the dive. Begin the ascent along the starboard side of the hull and finish with a safety stop floating above the bow section in clear water.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Do not attempt full penetration of the engine room or deep hull spaces without w
 The Giannis D is arguably the most photogenic wreck in the northern Red Sea. The colourful soft coral encrustation on the hull lends itself to close-focus wide-angle shots. The foremast and bow section make superb diver-portrait backdrops. A torch with strong output is required to bring out the vivid orange corals in the holds.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [OceanSoul — Giannis D](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/giannis-d/), [Red Sea Diving — The Giannis D](https://www.redsea-diving.com/the-giannis-d/), [Egypt Liveaboard — Giannis D Wreck](https://www.egypt-liveaboard.com/dive-sites/giannis-d-wreck-a-tilted-legend-beneath-the-waves/). Last updated 2026-05-27.*

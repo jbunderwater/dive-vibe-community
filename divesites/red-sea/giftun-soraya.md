@@ -23,7 +23,7 @@ Giftun Soraya (the smaller Giftun island, as opposed to the larger Giftun Kebir)
 
 - **Location**: Small Giftun Island, Giftun Island National Park, south of Hurghada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters

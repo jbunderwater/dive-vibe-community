@@ -23,7 +23,7 @@ The reef at Sachua Abu Galawa rises to within a few meters of the surface on a b
 
 - **Location**: Hurghada reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

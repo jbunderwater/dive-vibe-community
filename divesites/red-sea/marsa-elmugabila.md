@@ -35,7 +35,7 @@ Boat only from the Taba/Hilton jetty area, approximately one hour by RIB or day 
 
 - **Location**: Taba area, Gulf of Aqaba, northern Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

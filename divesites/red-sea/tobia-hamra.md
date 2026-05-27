@@ -23,7 +23,7 @@ Tobia Hamra ("Red Tobia" in Arabic) is a two-kilometre-long reef located off Tob
 
 - **Location**: Soma Bay / Tobia Island area, Safaga, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

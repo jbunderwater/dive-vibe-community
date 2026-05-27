@@ -23,7 +23,7 @@ Sweet Potato is a compact reef structure — likely a coral head or small platfo
 
 - **Location**: Central/Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

@@ -23,7 +23,7 @@ Abu Soma Paradise House Reef is the designated house reef of the Paradise Hotel 
 
 - **Location**: Abu Soma Bay, central Egyptian Red Sea (~26.79°N, 33.94°E)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–20 meters

@@ -5,7 +5,7 @@ lng: 33.875656
 difficulty: Intermediate
 maxDepth: 17
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -52,7 +52,7 @@ Regarded as one of the best underwater photography sites in South Sinai due to t
 
 - **Location**: Shag Rock, Strait of Gubal (near Sharm El Sheikh)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 metres
 

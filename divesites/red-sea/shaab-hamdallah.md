@@ -23,7 +23,7 @@ Shaab Hamdallah ("reef of praise" in Arabic) sits at approximately 26.63°N, 34.
 
 - **Location**: Offshore south of Safaga, central Egyptian Red Sea (~26.63°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

@@ -23,7 +23,7 @@ Abu Galawa Soraya is the smaller counterpart to Abu Galawa Kebir, sitting slight
 
 - **Location**: Fury Shoal (Abu Galawa Soraya lagoon), south of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

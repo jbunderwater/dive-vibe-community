@@ -5,7 +5,7 @@ lng: 34.473553
 difficulty: Intermediate
 maxDepth: 48
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -54,7 +54,7 @@ Strong and unpredictable currents prevail at the northern reef tip. The wreck de
 
 - **Location**: Jackson Reef, northern Straits of Tiran, Sinai Peninsula
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 48 m (wreck mast); recreational to 30 m on reef wall
 

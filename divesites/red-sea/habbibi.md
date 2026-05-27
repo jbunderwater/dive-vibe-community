@@ -30,7 +30,7 @@ The site is listed in regional dive databases as an advanced site in the Hamata 
 
 - **Location**: Hamata area, southern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate
 

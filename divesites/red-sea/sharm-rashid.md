@@ -23,7 +23,7 @@ Sharm Rashid sits at approximately 26.95°N, 33.93°E on the coast between Hurgh
 
 - **Location**: Bay between Hurghada and Safaga, central Egyptian Red Sea (~26.95°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters

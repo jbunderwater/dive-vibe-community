@@ -23,7 +23,7 @@ Shab Sataya N-W occupies the northwestern section of the Shaab Sataya (Dolphin R
 
 - **Location**: Northwestern Shaab Sataya, offshore south of Marsa Alam (~24.17°N, 35.68°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

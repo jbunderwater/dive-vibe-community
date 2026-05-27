@@ -23,7 +23,7 @@ Shi'b Nazar sits at approximately 22.32°N, 38.85°E in the southern Saudi Red S
 
 - **Location**: Southern Saudi Red Sea (~22.32°N, 38.85°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

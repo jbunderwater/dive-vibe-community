@@ -31,7 +31,7 @@ Boat access typical of the Marsa Alam region; day boats and liveaboards from res
 
 - **Location**: Approximately 70 km south of Marsa Alam, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 40 metres
 - **Difficulty**: Intermediate
 

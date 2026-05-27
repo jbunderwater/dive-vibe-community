@@ -17,7 +17,7 @@ The SS Numidia is one of the most celebrated wreck dives in the Red Sea, resting
 
 ## Overview
 
-Built at D. & W. Henderson & Co.'s Meadowside Shipyard in Glasgow for the Anchor Line, the Numidia was a steam cargo ship of 6,399 gross tons. On 6 July 1901 the vessel departed Liverpool bound for Calcutta carrying a general cargo of approximately 7,000 tons with a crew of 97. On 20 July 1901 she ran aground on the northern tip of Big Brother Island — directly below the island's lighthouse. All attempts to refloat her failed, and the captain oversaw cargo salvage for approximately seven weeks before the ship finally sank. The cause of the grounding was never definitively established.
+Built at D. & W. Henderson & Co.'s Meadowside Shipyard in Glasgow for the Anchor Line, the Numidia was a steam cargo ship of 6,399 gross tons. On 6 July 1901 the vessel departed Liverpool bound for Calcutta carrying a general cargo of approximately 7,000 tons with a crew of 97. On 20 July 1901 she ran aground on the northern tip of Big Brother Island — directly below the island's lighthouse. All attempts to refloat her failed, and the captain oversaw cargo salvage for approximately seven weeks before the ship finally sank. The British Board of Trade inquiry found that Second Mate James Tulloch was responsible: he altered the ship's course at 1:30 AM without informing the captain and likely fell asleep. Captain John Craig was censured for failing to make a sufficient course adjustment before retiring.
 
 The wreck lies perpendicular to the reef, bow at approximately 8 metres and stern at roughly 80 metres — one of the deepest recreational and technical wreck profiles in Egyptian waters. The wooden superstructure has largely deteriorated over more than a century, leaving an iron skeleton heavily encrusted with soft and hard corals, sea fans, and sponges.
 
@@ -28,7 +28,7 @@ The wreck lies perpendicular to the reef, bow at approximately 8 metres and ster
 - **Gross tonnage:** 6,399 GRT
 - **Departed:** Liverpool, 6 July 1901, bound for Calcutta
 - **Grounded:** 20 July 1901, northern plateau of Big Brother Island
-- **Cause:** Navigational error (specific cause not determined)
+- **Cause:** Navigational error (Second Mate altered course at 1:30 AM, likely fell asleep — BOT inquiry censured both Second Mate and Captain)
 - **Crew:** 97 — all survived
 
 ## Dive Profile

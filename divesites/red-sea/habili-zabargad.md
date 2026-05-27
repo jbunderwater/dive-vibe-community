@@ -23,7 +23,7 @@ Zabargad Island is famed in the liveaboard world as a jewel of the far southern 
 
 - **Location**: Near Zabargad Island (St. John's Island), far southern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

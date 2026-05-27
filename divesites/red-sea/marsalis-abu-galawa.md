@@ -23,7 +23,7 @@ Marsalis Abu Galawa sits at a moderate intermediate depth of approximately 20 me
 
 - **Location**: Abu Galawa area, El Quseir region, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

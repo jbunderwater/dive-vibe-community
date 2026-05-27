@@ -3,7 +3,7 @@ name: Shark Reef Marine Reserve
 lat: -18.2167
 lng: 177.9833
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Pacific Harbour's legendary shark dive — up to eight species in a single sessi
 
 ## Overview
 
-Shark Reef Marine Reserve, managed by the operators of Beqa Adventure Divers in partnership with local villages, is one of the world's most celebrated shark dives. The site sits on the outer edge of Beqa Lagoon, approximately 6 kilometers offshore from Pacific Harbour on Viti Levu's south coast. The dive is highly organized: divers descend to a coral rubble arena at 25 meters and kneel behind a low coral wall while trained feeders present fish heads to sharks from a central position. The structure keeps divers stationary and sharks in the foreground, producing consistently dramatic encounters. Up to eight shark species have been recorded on a single dive — bull sharks, tawny nurse sharks, silvertip sharks, grey reef sharks, whitetip reef sharks, blacktip reef sharks, sicklefin lemon sharks, and tiger sharks (seasonal, typically January–March). The reserve generates substantial village income and has transformed local attitudes toward shark protection.
+Shark Reef Marine Reserve, established in April 2004 by Beqa Adventure Divers in cooperation with the Fiji Department of Fisheries and Galoa village (the traditional reef owners), is one of the world's most celebrated shark dives. The site sits in Beqa Passage, approximately 8.8 kilometers (5.5 miles) offshore from Pacific Harbour on Viti Levu's south coast — a 30-minute boat journey through mangroves and open water. The dive is highly structured across two levels: divers first descend to the main arena at 30 meters where bull sharks dominate the feeding protocol, then ascend to a secondary observation level at approximately 16 meters for smaller reef shark species. Up to eight shark species have been recorded on a single dive — bull sharks, tawny nurse sharks, silvertip sharks, grey reef sharks, whitetip reef sharks, blacktip reef sharks, sicklefin lemon sharks, and tiger sharks (seasonal). The reserve was designated Fiji's first National Marine Park in November 2014 and generates conservation income distributed to Galoa village.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Shark Reef Marine Reserve, managed by the operators of Beqa Adventure Divers in 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters (arena level); secondary level at 16 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
-- **Best Time**: Year-round; bull sharks present every dive; tiger sharks most likely November–March
+- **Best Time**: Year-round; bull sharks present every dive; tiger sharks seasonal (most likely November–March per operator reports)
 
 ## Marine Life
 
-Bull sharks dominate the dive — the resident population numbers 20–30 individuals that reliably appear within minutes of the feeders descending. These are large animals, typically 2–3 meters, and they move with calm authority around the arena. During tiger shark season, individuals up to 4 meters cruise through, creating genuinely intense moments. Nurse sharks and tawny nurse sharks pile up near the feeders and must sometimes be physically moved. Away from the feeding arena, the reef supports excellent general marine life: Napoleon wrasse of enormous size, schools of surgeonfish, batfish, bumphead parrotfish, and turtles are regular companions. The Cathedral, a dramatic swim-through on the same reef system, can be visited on a second dive.
+Bull sharks dominate the dive — the resident population has been observed at approximately a dozen individuals per dive, with some animals reaching around 3.5 meters. These animals reliably appear within minutes of the feeders descending. Research confirms that the bull sharks are not solely dependent on the feedings — they also visit the reserve on non-feeding days and range beyond the reserve, returning regularly. During tiger shark season, individuals cruise through the arena. Tawny nurse sharks pile up near the feeders. At the secondary "Den" level (16m), whitetip and blacktip reef sharks circle comfortably. The broader reef supports Napoleon wrasse and surgeonfish. The Cathedral swim-through on the same reef system is included in the second dive of the standard package.
 
 ## Dive Profile
 
-Boat trip from Pacific Harbour takes approximately 30–40 minutes. First dive descends to the upper feeding level at approximately 20 meters, then to the main arena at 25 meters. Divers kneel or crouch in an arc behind the coral wall for the feeding portion — typically 15–20 minutes — before ascending to the upper reef at 15 meters for additional observation. A safety stop is completed at 5 meters. The second dive is shallower, visiting "The Cathedral" and upper reef zones. Total water time for the two-dive package is 60–80 minutes.
+Boat trip from Pacific Harbour takes approximately 30 minutes through the mangroves and into the open Beqa Passage. First dive descends to the main arena at 30 meters — "The Arena" — where bull sharks and tawny nurse sharks dominate during the feeding portion (approximately 17 minutes). Divers then ascend to the secondary level at approximately 16 meters, "The Den," for observation of whitetip and blacktip reef sharks. A safety stop is completed at around 5 meters. The second dive is shallower, typically 14–16 meters. Total water time for the two-dive package is approximately 60–80 minutes, conducted on nitrox at 40 minutes per dive.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ The feeding dive is inherently more hazardous than open-water shark encounters a
 Shark Reef Marine Reserve is one of the world's best shark photography venues because the animals are predictably positioned in good light at close range. Wide-angle shooting at 10–17mm allows full-frame shark portraits with the reef in the background. Shoot during the feeding phase when sharks are most active and in the open. The upper reef on the second dive offers Napoleon wrasse portraits and Cathedral light-beam shots with a 16–35mm lens. Video divers should use red filters at 20–25 meters to restore color lost to depth.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Beqa Adventure Divers - Shark Reef Marine Reserve](https://www.fijisharkdive.com/shark-reef-marine-reserve/), [DiveOtion - Beqa Shark Dive Review](https://diveotion.com/beqa-shark-dive-in-fiji/), [Tom Vierus - Bull Sharks in Fiji](https://www.tomvierus.com/blog/oceans/sharks/bull-sharks-in-fiji-diving-the-shark-reef-marine-reserve-with-beqa-adventure-divers), [Fiji Travel - Best Dive Sites Around Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon). Last updated 2026-05-27.*

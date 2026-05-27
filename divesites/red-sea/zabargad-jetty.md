@@ -23,7 +23,7 @@ Zabargad Island lies approximately 100 kilometers east-northeast of Berenice and
 
 - **Location**: Zabargad Island, Southern Red Sea, Egypt (liveaboard access only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

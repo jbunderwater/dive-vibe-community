@@ -23,7 +23,7 @@ Tower is a Sharm el-Sheikh local dive site with distinctive topography that sets
 
 - **Location**: Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters

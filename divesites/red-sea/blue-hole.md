@@ -4,7 +4,7 @@ lat: 28.5723028
 lng: 34.5373553
 difficulty: Advanced
 maxDepth: 100
-entryType: boat
+entryType: shore
 siteType: cave
 ref: null
 osmId: 663869869
@@ -17,12 +17,12 @@ The Blue Hole at Dahab is arguably the most famous — and most notorious — di
 
 ## Overview
 
-The Blue Hole is a roughly circular sinkhole approximately 60 meters across, opening at the surface and dropping through a near-vertical shaft past 100 meters. A shallow underwater arch — known as "The Arch" or "The Saddle" — connects the inside of the hole to the open sea at around 52–56 meters depth, and this feature has drawn technical and deep divers from around the world, sometimes fatally. The rim of the hole sits just below the surface, and the inside walls are coated with soft and hard corals supported by the light filtering down from above. Around the outside of the hole on the reef, the wall drops away into deep blue water. The site is shore accessible and is one of the most visited dive sites in Egypt. Visibility inside the hole is typically 30–50 meters.
+The Blue Hole is a roughly circular sinkhole approximately 60 meters across, opening at the surface and dropping through a near-vertical shaft to beyond 100 meters. A 26-metre-long underwater tunnel known as "The Arch" connects the inside of the hole to the open sea — its ceiling is at 55 metres depth and it exits at around 120 metres on the seaward side, as the floor drops away steeply. This feature has drawn technical and deep divers from around the world, sometimes fatally. Estimates suggest over 130 divers died at this site in the period 1997–2012 alone. The rim of the hole sits just below the surface, and the inside walls are coated with soft and hard corals supported by the light filtering down from above. Around the outside of the hole on the reef, the wall drops away into deep blue water. The site is shore accessible and is one of the most visited dive sites in Egypt. Visibility inside the hole is typically 30–50 meters.
 
 ## Site Information
 
 - **Location**: Red Sea, Egypt
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters
@@ -40,7 +40,7 @@ For recreational divers, the dive plan should remain above 40 meters. Descend in
 
 ## Entry and Exit
 
-Shore entry from the reef flat adjacent to the Blue Hole is possible, as is boat access. Many divers enter via the sandy beach area and wade to the sinkhole rim. Exit via the reef flat or boat.
+Shore entry from the reef flat adjacent to the Blue Hole is the standard method — most divers walk from the beach area to the sinkhole rim and enter directly. Boat trips from Dahab also include this site. The "easy entry" point is at the main beach; The Bells entry point (100m north) is the advanced alternative leading to a wall dive before entering through the saddle. Exit via the reef flat.
 
 ## Tips and Recommendations
 
@@ -60,4 +60,4 @@ The Blue Hole has claimed a disproportionate number of diver fatalities due to n
 Inside the hole, shooting upward toward the circular opening above creates extraordinary ambient light silhouette photographs. Coral-covered walls with fish life make compelling wide-angle subjects. The outer reef wall and plateau around the hole also offer excellent standard reef photography.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Blue Hole (Red Sea)](https://en.wikipedia.org/wiki/Blue_Hole_(Red_Sea)), [Scuba Seekers Dahab](https://scubaseekers.com/diving-blue-hole-dahab-egypt/), [H2O Divers Dahab](https://www.h2odiversdahab.com/dive-sites/bells-blue-hole/). Last updated 2026-05-27.*

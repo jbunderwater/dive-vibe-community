@@ -5,7 +5,7 @@ lng: 35.1804
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -31,7 +31,7 @@ Average depth around the habili is 18 m, rising to near the surface at the top o
 
 - **Location**: Wadi Gimal area, Marsa Alam, southern Red Sea, Egypt — 5.5 km from Dahara Island
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

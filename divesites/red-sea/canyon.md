@@ -4,8 +4,8 @@ lat: 28.554359
 lng: 34.5212059
 difficulty: Advanced
 maxDepth: 45
-entryType: boat
-siteType: reef
+entryType: shore
+siteType: cave
 ref: null
 osmId: 663869872
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Canyon
 
-The Canyon is one of Dahab's most celebrated and technically demanding dive sites on the Sinai Peninsula. Located a short distance south of Dahab's famous Blue Hole, the Canyon is a narrow underwater gorge that descends through a labyrinthine passage system down to depths of 45 meters and beyond.
+The Canyon is Dahab's second most famous dive site after the Blue Hole — a complex system of fissures and chambers in the reef that descends through a labyrinthine passage to depths of 52–54 metres. Often called the best dive site in Dahab by those who prefer an underwater labyrinth to an open sinkhole, it is a shore dive just south of town.
 
 ## Overview
 
-The Canyon is a complex system of fissures, passages, and chambers cutting through the Sinai reef. Entry is through a narrow entrance on the reef flat, descending rapidly through a chimney to the main canyon floor at around 30–45 meters. The passages twist and open into larger chambers, with dramatic light effects where sunlight penetrates the cracks above. The Canyon is considered a guided dive and should never be attempted without an experienced local guide who knows the specific route. Visibility in the open sections is 20–35 meters; the confined sections require a torch. Water temperatures are 22–28°C.
+Entry is from the beach via a short swim across the lagoon, reaching the canyon opening at around 15 metres. The first notable chamber — called the "Fish Bowl" — is at 14 metres. From there the canyon narrows and deepens: a large opening at around 22 metres leads to the main passage, which exits at 52–54 metres into open blue water. Technical divers can continue to "Neptune's Chair" at 73 metres. The passages twist and open into larger chambers, with dramatic light effects where sunlight penetrates the cracks above. No current inside the canyon makes it a controlled environment, but disorientation and gas management are serious concerns. A torch is essential throughout. Visibility in the open sections is 20–35 metres.
 
 ## Site Information
 
 - **Location**: Red Sea, Egypt
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -59,4 +59,4 @@ The Canyon carries significant hazard risks. Disorientation inside passages, sil
 The canyon interior offers unique photography opportunities — light shafts penetrating cracks, silhouettes in passages, and glassfish clouds in chambers. A wide-angle lens suits the spatial drama. Good torch technique is essential to illuminate subjects without creating backscatter in confined spaces.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [H2O Divers Dahab — Canyon](https://www.h2odiversdahab.com/dive-sites/canyon-coral-garden/), [Red Sea Tribe — Canyon](https://redseatribe.com/dahab-dive-sites/canyon-dive-site-dahab/), [Scuba Seekers Dahab](https://scubaseekers.com/diving-blue-hole-dahab-egypt/). Last updated 2026-05-27.*

@@ -32,7 +32,9 @@ Rainbow Reef stretches along the Somosomo Strait between Taveuni and Vanua Levu 
 
 ## Marine Life
 
-The soft coral forest attracts a corresponding abundance of fish life. Clouds of orange and purple anthias hover over every coral head, darting back into cover when approached. Butterflyfish pick at coral polyps throughout the reef — 20+ species have been recorded here. Anemonefish (clownfish) occupy numerous large anemones along the shallower sections. Schools of moorish idols, pennant bannerfish, and batfish move through the current lanes. Hawksbill and green sea turtles feed on the corals and sponges. Reef whitetip sharks rest on sandy patches between pinnacles. Bumphead parrotfish periodically stampede through the site in groups of 30–50, grinding chunks from coral heads.
+Rainbow Reef supports over 390 coral species and approximately 1,500 fish species across its full system — among the highest documented densities in the Pacific. At the dive site level, the soft coral forest attracts dense aggregations of anthias that hover over every coral head in clouds. Anemonefish occupy numerous large anemones along the shallower sections. Barracuda and whitetip reef sharks are regularly reported by divers and operators diving the system. The site hosts diverse reef fish life including moorish idols, batfish, leopard sharks, and numerous butterflyfish species.
+
+Note: Some species attributed to Rainbow Reef in popular diving literature (bumphead parrotfish, hawksbill and green turtles) are confirmed residents of the broader Somosomo Strait ecosystem but are not consistently documented at specific bommie groupings within the site. Species counts above are for the full Rainbow Reef system, not any single dive.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Current can accelerate rapidly as tides turn in the strait, particularly around 
 Rainbow Reef rewards wide-angle photography for the sweeping soft coral vistas, but carries exceptional macro subjects for those willing to slow down. The challenge is the current: shooting wide-angle requires positioning yourself with the current at your back to avoid swimming against it while composing. A fisheye lens on a compact system works well for close-focus wide-angle shots of coral heads teeming with anthias. Macro shooters should focus on nudibranchs, hairy squat lobsters, and the Coleman shrimp pairs that inhabit fire urchins in the rubble zones.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Ocean Sports - Rainbow Reef](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Dive the World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Fiji Travel - Rainbow Reef](https://www.fijitravel.org/posts/diving-rainbow-reef-taveuni), [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/). Last updated 2026-05-27.*

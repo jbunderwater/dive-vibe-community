@@ -5,7 +5,7 @@ lng: 34.006805
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -35,7 +35,7 @@ The Red Sea waters around Shadwan Island support typical northern Red Sea reef s
 
 - **Location**: Near Shadwan Island, northern Red Sea / Gulf of Suez entrance
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres (recorded)
 

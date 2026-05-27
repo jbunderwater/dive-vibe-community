@@ -23,7 +23,7 @@ El Fanadir Foc is a shore-accessible dive site where entry is made directly from
 
 - **Location**: Red Sea, Egypt (El Fanadir reef, north of Hurghada)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

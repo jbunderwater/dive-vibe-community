@@ -17,7 +17,7 @@ A dedicated manta ray cleaning station where patient divers are rewarded with cl
 
 ## Overview
 
-Manta Reef sits within the Great Astrolabe Reef system surrounding Kadavu, Fiji's fourth-largest island and one of the Pacific's most pristine diving destinations. The site is a well-established cleaning station for reef manta rays (Mobula alfredi), where resident cleaner wrasse set up stations on specific coral heads and mantas queue to have parasites and dead skin removed. The behavior draws mantas reliably — sometimes a single individual, often two or three, occasionally groups of five or more circling in stacking formations. Kadavu is accessed by small prop plane or ferry from Suva, and only a handful of small dive resorts operate in the area, keeping dive pressure low and the mantas relaxed. The Great Astrolabe Reef itself is one of the world's largest barrier reefs, providing the broad reef ecosystem that supports the manta population.
+Manta Reef is a submerged reef outside of the Great Astrolabe Barrier Reef on Kadavu's southern coast, approximately 40 minutes by boat from the main dive resorts. Sources describe it as both a feeding station and occasional cleaning station — mantas primarily come to feed in plankton-rich upwellings, and some stop to be cleaned at specific coral heads. The top of the reef is at approximately 15 meters, with deeper sections to 40–45 meters. Kadavu, Fiji's fourth-largest island, is accessed by a 45-minute prop plane flight to Vunisea from Nadi, or by ferry from Suva. Only a handful of eco-resorts (including Matava, Papageno, and Tiliva) operate dives here, keeping pressure low. The Great Astrolabe Reef at approximately 100 km long is recognized as one of the world's larger barrier reefs.
 
 ## Site Information
 
@@ -32,7 +32,9 @@ Manta Reef sits within the Great Astrolabe Reef system surrounding Kadavu, Fiji'
 
 ## Marine Life
 
-Reef manta rays (Mobula alfredi) are the signature species, with wingspans typically ranging from 2.5 to 4 meters. The cleaning station protocol — settle quietly on rubble at 18–22 meters and wait — reliably produces encounters within 10–20 minutes of arrival. Mantas circle in slow, graceful loops over the station, occasionally descending within arm's reach of divers. Whitetip reef sharks cruise the adjacent reef constantly. Eagle rays pass through the blue water beyond the station. The reef itself supports typical Indo-Pacific diversity: lionfish, trevally, surgeonfish, moorish idols, and a variety of butterflyfish. Nurse sharks rest in reef crevices during the day. The surrounding Great Astrolabe Reef is also one of Fiji's best sites for healthy hard coral coverage.
+Manta rays are the headline attraction, with giant mantas reported with wingspans up to 20 feet (6 meters). The site functions as both a feeding and cleaning station. Schooling fusiliers, surgeonfish, Indian mackerel, narrow-barred mackerel, and dogtooth tuna are confirmed at the site. Occasional pelagic visitors including Pacific sailfish and great hammerhead sharks have been reported. The reef itself features healthy hard and soft corals, clownfish in anemones, and a swim-through.
+
+Note: Manta encounters here are real but not mechanistically guaranteed in the same way as a dedicated cleaning station — this is primarily a feeding aggregation site where mantas also stop to clean. If the plankton concentration shifts, manta presence may be lower. Resorts confirm mantas present year-round but peak activity May–October.
 
 ## Dive Profile
 
@@ -40,7 +42,7 @@ Descend from the boat to the cleaning station coral heads at 18–22 meters. The
 
 ## Entry and Exit
 
-Kadavu is reached from Nadi by a 45-minute flight to Vunisea, or from Suva by ferry (8–12 hours). Small eco-resorts — Matana Beach Resort, Waisalima Beach, and others — operate the local dive operations. Day visit by dive boat from resort is the standard format. The boat journey to Manta Reef from most resorts is 20–40 minutes across the lagoon. Entry by giant stride; the site is protected enough that conditions are usually calm.
+Kadavu is reached from Nadi by a 45-minute flight to Vunisea, or from Suva by ferry. Dive resorts operating in the area include Matava Eco Resort, Papageno Resort, and Tiliva Resort. Manta Reef is approximately 40 minutes by boat from most resorts. Entry by giant stride; conditions are generally manageable though the site is outside the barrier reef so some swell exposure is possible.
 
 ## Tips and Recommendations
 
@@ -59,4 +61,4 @@ The dive profile — hovering at 18–22 meters for extended periods while watch
 Manta rays are among the most photogenic subjects in diving and Kadavu's relaxed station mantas are exceptionally approachable. Wide-angle shooting at 10–17mm captures full manta silhouettes against the blue water above. Shoot upward from the rubble at the station level to frame mantas against the light surface — this is the classic manta portrait. For detail shots, focus on the cephalic fins unfurling as the manta banks, and on the spotted patterning on the ventral surface (which individual researchers use for ID). Avoid strobe light on approaching mantas — the sudden flash can redirect their circuit. Use ambient light or minimal fill flash.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Papageno Resort Kadavu - Dive Sites](https://www.papagenoresort.com/dive), [Dive the World - Kadavu](https://www.dive-the-world.com/diving-sites-fiji-kadavu.php), [Fiji Pocket Guide - Great Astrolabe Reef Dive Sites](https://fijipocketguide.com/best-dive-snorkel-sites-on-the-great-astrolabe-reef/), [Fiji Travel - Diving Great Astrolabe Reef](https://www.fijitravel.org/posts/diving-great-astrolabe-reef/). Last updated 2026-05-27.*

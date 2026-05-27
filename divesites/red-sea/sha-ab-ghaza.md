@@ -25,7 +25,7 @@ No specific source has been located documenting "Sha'ab Ghaza" as a named dive s
 
 - **Location**: Safaga offshore reef field, Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on Safaga regional diving characteristics. [redsea-diving.com — Safaga](https://www.redsea-diving.com/safaga/). Last updated 2026-05-17.*

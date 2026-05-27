@@ -23,7 +23,7 @@ The North Plateau of Elba Reef is the northern section of the Elba Region reef c
 
 - **Location**: Northern section of Elba Reef, Egyptian-Sudanese border area (liveaboard only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 30–40 meters

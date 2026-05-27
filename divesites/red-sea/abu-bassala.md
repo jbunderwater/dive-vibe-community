@@ -23,7 +23,7 @@ Abu Bassala ("Father of the Onion" in Arabic, possibly referring to the rounded 
 
 - **Location**: Southern Red Sea, near Port Ghalib / Berenice, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters

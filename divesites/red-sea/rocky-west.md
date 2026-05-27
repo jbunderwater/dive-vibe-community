@@ -23,7 +23,7 @@ The western face of Rocky Reef slopes at a moderate angle from the shallow crest
 
 - **Location**: Red Sea, Egypt (central region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

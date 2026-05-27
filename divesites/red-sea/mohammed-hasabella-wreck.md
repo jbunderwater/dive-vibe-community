@@ -5,7 +5,7 @@ lng: 33.8474125
 difficulty: Intermediate
 maxDepth: 34
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import

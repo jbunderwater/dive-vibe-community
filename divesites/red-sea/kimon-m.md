@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kimon M
 
-The Kimon M is a Greek-owned cargo freighter that ran aground and sank in the northern Red Sea off the Sinai coast of Egypt. The wreck rests in the Abu Nuhas reef area — the same notorious ship graveyard that claims the Giannis D, Carnatic, Chrisoula K, and Tile Wreck — making it part of one of the most celebrated multi-wreck dive destinations in the world. The Kimon M struck Abu Nuhas Reef in 1978 and sank to a maximum depth of around 32 meters.
+The Kimon M (originally the *Brunsbüttel*, built in Hamburg in 1952) is a 106.4-metre refrigerated motor freighter of 3,694 GRT that struck Abu Nuhas Reef on 12 December 1978 while carrying a cargo of lentils from Iskandarun in Turkey to Bombay. It is affectionately known as the "Lentil Wreck." The wreck rests in the Abu Nuhas reef area — the same notorious ship graveyard as the Giannis D, Carnatic, and Chrisoula K — making it part of one of the most celebrated multi-wreck dive destinations in the world, and sank to a maximum depth of around 32 meters.
 
 ## Overview
 
@@ -59,4 +59,4 @@ The 32-meter maximum depth requires intermediate-level air management skills and
 Wide-angle shots of the hull in profile against the blue water background are highly effective at 20-25 meters where the overall wreck scale becomes apparent. Schools of glassy sweepers filling the interior create dramatic backlit compositions. The coral encrustation on the hull exterior offers excellent macro work. Bring a 15mm or wide rectilinear lens for the full hull exterior shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Red Sea Wreck Project — Kimon M](https://www.redseawreckproject.com/2013/08/19/kimon-m/), [Wrecks at Risk — Kimon M](https://wrecksatrisk.com/locations/kimon-m/), [OceanSoul — Kimon M](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/kimon-m/). Last updated 2026-05-27.*

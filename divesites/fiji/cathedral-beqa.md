@@ -5,7 +5,7 @@ lng: 177.9667
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cathedral Beqa takes its name from the dramatic swim-through cavern that forms i
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Swim-through cavern / cave
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -32,7 +32,7 @@ Cathedral Beqa takes its name from the dramatic swim-through cavern that forms i
 
 ## Marine Life
 
-Inside the cathedral swim-through, the low-light environment hosts soft corals and sea fans that benefit from reduced UV exposure, creating a particularly vivid display in the orange and red spectrum. Large groupers inhabit the swim-through interior and have become bold enough to approach divers closely. Glassfish and cardinalfish congregate in the filtered light zones just inside the entrance. Outside on the reef face, grey reef sharks — often 5–10 individuals — patrol the drop-off at 15–20 meters in a steady, unhurried circuit. Whitetip reef sharks rest on sand patches at the base of the reef. Turtles are common on the outer reef, and large schools of surgeonfish and fusiliers flow past the reef face. The connection to the deeper Beqa Lagoon ecosystem means silvertip sharks occasionally appear on the outer edge.
+Inside the cathedral swim-through, the cavern roof opens in irregular gaps that admit shafts of natural light, creating the defining visual effect. Batfish have been specifically confirmed inside the cavern, circling slowly in the filtered light. Soft coral grows on the interior walls. Outside on the reef, grey reef sharks, bull sharks, lemon sharks, nurse sharks, grey reef, blacktip, and whitetip reef sharks have been observed patrolling and circling — the Cathedral is the site used by Beqa Lagoon Resort for their tiger shark dive operation. Multiple shark species are confirmed at this site, including tiger sharks (seasonal), which makes it one of the most shark-rich dive sites outside the dedicated Shark Reef Marine Reserve.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The swim-through is wide and well-ventilated — this is not a penetration dive 
 Cathedral Beqa presents two entirely different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle and fisheye shooting timed to the morning angle — position yourself in the dark interior and shoot toward the light shafts with a diver silhouetted against the opening. Outside, the shark patrol offers clean wide-angle shark portraits against the blue water backdrop. Shooting both in a single dive requires a versatile setup — a wide-angle zoom (16–35mm) handles both scenarios better than a prime fisheye if you can only carry one lens.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [DivePlanit - The Cathedral Beqa Lagoon Resort](https://www.diveplanit.com/dive-site/the-cathedral-beqa-lagoon-resort-tiger-shark-dive/), [Fiji Travel - Best Dive Sites Around Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Beqa Lagoon Resort - Shark Dive](https://beqalagoonresort.com/fiji-shark-dive/), [Oceanic Society - Cathedral Dive](https://www.oceanicsociety.org/travel-ideas/eye-to-eye-with-apex-guardians-a-naturalists-dive-with-fijis-sharks/). Last updated 2026-05-27.*

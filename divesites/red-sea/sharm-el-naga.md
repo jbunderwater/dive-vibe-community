@@ -38,7 +38,7 @@ Shore entry from the beach leads directly to the reef. Depth is gradual from the
 
 - **Location**: Approximately 40 km south of Hurghada, Red Sea coast, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 

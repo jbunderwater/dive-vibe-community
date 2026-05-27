@@ -23,7 +23,7 @@ Angarosh is part of the Brothers-Daedalus-Elphinstone liveaboard circuit and is 
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)

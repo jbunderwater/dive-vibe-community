@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Carnatic
 
-The Carnatic is one of the Red Sea's most famous and historic wrecks — a British P&O steamer that sank in 1869 after striking the reef at Abu Nuhas in the northern Red Sea. Now lying in 26–28 meters of water, it is among the most photographed wrecks in the world.
+The Carnatic is one of the Red Sea's most famous and historic wrecks — a British P&O compound-engine steamship built in 1862–63 that sank in 1869 after striking Sha'ab Abu Nuhas reef in the northern Red Sea. Now lying on her port side in 26–28 meters of water, it is among the most photographed wrecks in the world.
 
 ## Overview
 
-The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and passengers when she struck the reef at Abu Nuhas and sank. The wreck lies on its side on the sandy floor, split into two main sections, with the bow and stern offering the most dramatic photographic opportunities. Over 150 years of submersion have transformed the Carnatic into an artificial reef of the highest order — encrusted with vivid soft corals, sea fans, and massive coral formations that make the wreck appear to be a natural reef structure. Thousands of glassfish fill the interior spaces, creating shimmering silver clouds that part as divers enter. Visibility is typically 20–30 meters; water temperatures range 22–28°C.
+The SS Carnatic was a composite-construction (iron-framed, wooden-planked) single-propeller steamship of 1,776 GRT, built by Samuda Brothers at Cubitt Town, London. She was carrying mail, cargo, passengers, and reportedly £40,000 in gold (all subsequently salvaged) when she struck Sha'ab Abu Nuhas reef on 12 September 1869. Captain P. B. Jones refused passengers' requests to abandon ship, insisting the vessel was safe and rescue was coming. The ship broke in two the following morning, claiming 31 lives. The wreck lies on its port side on the sandy floor, split into two main sections, with the bow and stern offering the most dramatic photographic opportunities. Over 150 years of submersion have transformed the Carnatic into an artificial reef of the highest order — encrusted with vivid soft corals, sea fans, and massive coral formations. Thousands of glassfish fill the interior spaces, creating shimmering silver clouds that part as divers enter. Visibility is typically 20–30 meters; water temperatures range 22–28°C.
+
+*Note: The Carnatic is propeller-driven, not a paddlewheel steamer. Earlier versions of this description contained that error.*
 
 ## Site Information
 
-- **Location**: Red Sea, Egypt (Abu Nuhas Reef, Gulf of Suez)
+- **Location**: Sha'ab Abu Nuhas Reef, mouth of Gulf of Suez, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -59,4 +61,4 @@ Interior penetration is possible but requires wreck diving experience. Glassfish
 The Carnatic is among the Red Sea's top five photography wrecks. The glassfish interior is the signature shot — wide angle, positioned inside looking out toward light. Exterior shots of the bow section rising from the sand, decorated with soft corals, are equally iconic. A dive torch for interior colour rendition is essential.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Carnatic](https://en.wikipedia.org/wiki/SS_Carnatic), [Wrecks at Risk — The Carnatic](https://wrecksatrisk.com/locations/the-carnatic/), [OceanSoul — SS Carnatic](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/ss-carnatic/). Last updated 2026-05-27.*

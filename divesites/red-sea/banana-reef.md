@@ -23,7 +23,7 @@ Banana Reef features a gently curving reef formation with a mix of hard coral ga
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)

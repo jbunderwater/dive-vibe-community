@@ -23,7 +23,7 @@ Stone Beach takes its name from the characteristic rocky, rubble-strewn shorelin
 
 - **Location**: Hurghada / El Gouna area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

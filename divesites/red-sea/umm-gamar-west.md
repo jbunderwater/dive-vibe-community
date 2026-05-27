@@ -23,7 +23,7 @@ Umm Gamar West refers to the western side of Umm Gamar Island, an elongated reef
 
 - **Location**: Western face of Umm Gamar Island, offshore Hurghada, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters

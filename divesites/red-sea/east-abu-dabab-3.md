@@ -23,7 +23,7 @@ The Abu Dabab bay complex features a broad sandy floor covered in dense seagrass
 
 - **Location**: Red Sea, Egypt (Abu Dabab Bay, south of Marsa Alam)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters (33-65 feet)

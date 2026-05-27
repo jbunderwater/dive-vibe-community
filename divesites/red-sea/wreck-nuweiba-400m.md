@@ -5,7 +5,7 @@ lng: 34.652252
 difficulty: Intermediate
 maxDepth: 40
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -40,7 +40,7 @@ The 40-metre depth limit requires advanced certification or dive guide accompani
 
 - **Location**: Near Nuweiba, Gulf of Aqaba, northern Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 metres
 

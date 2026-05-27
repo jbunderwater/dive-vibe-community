@@ -4,7 +4,7 @@ lat: 28.5734535
 lng: 34.5392697
 difficulty: Advanced
 maxDepth: 28
-entryType: boat
+entryType: shore
 siteType: wall
 ref: null
 osmId: 271181711
@@ -22,7 +22,7 @@ The Bells is a dive site immediately north of the famous Blue Hole at Dahab on t
 ## Site Information
 
 - **Location**: Dahab, Sinai Peninsula, Gulf of Aqaba, Egypt
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
@@ -40,7 +40,7 @@ Entry is through the chimney — one diver at a time in a controlled descent, ty
 
 ## Entry and Exit
 
-Accessed by day boat from Dahab — a short transfer north along the coast. Entry through the chimney requires single-file descent, so stay close to your group. Exit via the Blue Hole saddle and ascend inside or adjacent to the Blue Hole's protected interior. Boats anchor or drift and pick divers up near the Blue Hole entry beach. Do not deviate from the wall dive; the Blue Hole's interior below 40 metres is strictly for technical divers only.
+Accessed by shore entry or short taxi ride from Dahab — the site is a few kilometres north of town. Many divers walk or take a minibus to the site and enter directly from the reef table. Entry through the chimney requires single-file descent, so stay close to your group. Exit via the Blue Hole saddle and ascend inside or adjacent to the Blue Hole's protected interior. Boats anchor or drift and pick divers up near the Blue Hole entry beach. Do not deviate from the wall dive; the Blue Hole's interior below 40 metres is strictly for technical divers only.
 
 ## Tips and Recommendations
 
@@ -60,4 +60,4 @@ The Bells chimney itself is a mild overhead environment — the entry requires s
 The chimney entry is a signature photographic opportunity — shooting upward through the slot from 20 metres captures dramatic light rays descending through the water. The wall south of the chimney rewards wide-angle shooting with large gorgonians and fans in the foreground and deep blue behind. Turtles on the wall at 10–15 metres are highly accessible for medium-range wide-angle shots. The transition from the open wall into the Blue Hole's circular interior makes an outstanding environmental composition.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [H2O Divers Dahab — Bells/Blue Hole](https://www.h2odiversdahab.com/dive-sites/bells-blue-hole/), [Wikipedia — Blue Hole (Red Sea)](https://en.wikipedia.org/wiki/Blue_Hole_(Red_Sea)), [Shams Dahab — Bells to Blue Hole](https://shamsdahab.com/bells-to-blue-hole/). Last updated 2026-05-27.*

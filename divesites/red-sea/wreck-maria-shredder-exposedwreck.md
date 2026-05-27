@@ -5,7 +5,7 @@ lng: 34.447632
 difficulty: Intermediate
 maxDepth: 24
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -48,7 +48,7 @@ The exposed superstructure makes for dramatic above-water photography; the under
 
 - **Location**: Nabq Nature Reserve, Gulf of Aqaba, ~40 km north of Sharm El Sheikh
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 metres (debris trail)
 

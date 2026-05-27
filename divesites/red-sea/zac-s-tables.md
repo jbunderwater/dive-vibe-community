@@ -36,7 +36,7 @@ Parrotfish, surgeonfish, butterflyfish, chromis, anthias, groupers, moray eels, 
 
 - **Location**: Gulf of Aqaba, Sinai Peninsula (between Nuweiba and Dahab, approx. 29.38°N)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

@@ -23,7 +23,7 @@ Shaab Bohar Kebir Ost is a substantial reef structure with a long east-facing wa
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt (near Ras Banas)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

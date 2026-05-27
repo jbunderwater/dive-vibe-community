@@ -35,7 +35,7 @@ Shore entry. Calm Gulf of Aqaba conditions; minimal swell. Excellent visibility 
 
 - **Location**: Taba, northern Gulf of Aqaba, Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Difficulty**: Intermediate — suitable for all levels
 

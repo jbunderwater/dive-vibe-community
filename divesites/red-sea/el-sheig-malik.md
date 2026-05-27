@@ -23,7 +23,7 @@ El Sheig Malik sits at approximately 25.72°N, 34.55°E near Quseir (El Quseir) 
 
 - **Location**: Near Quseir, central Egyptian Red Sea coast (~25.72°N, 34.55°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 meters

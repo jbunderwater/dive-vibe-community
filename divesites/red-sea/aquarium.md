@@ -23,7 +23,7 @@ Located south of Hurghada near El Quseir or within the Marsa Alam area, Aquarium
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)

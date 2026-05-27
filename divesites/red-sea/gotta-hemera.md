@@ -23,7 +23,7 @@ Gotta Hemera is a submerged reef pinnacle in the southern Egyptian Red Sea, loca
 
 - **Location**: Far southern Egyptian Red Sea, between Berenice and Zabargad Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

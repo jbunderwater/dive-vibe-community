@@ -5,7 +5,7 @@ lng: 34.364891
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -35,7 +35,7 @@ The Strait of Gubal area supports healthy reef fish populations on coral-encrust
 
 - **Location**: Strait of Gubal, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

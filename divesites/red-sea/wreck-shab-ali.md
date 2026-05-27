@@ -5,7 +5,7 @@ lng: 33.8554
 difficulty: Intermediate
 maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -60,7 +60,7 @@ Penetration of the holds requires a torch and basic wreck navigation training. T
 
 - **Location**: Sha'b Ali (Shag Rock), northern Strait of Gubal
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 metres
 

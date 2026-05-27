@@ -23,7 +23,7 @@ The "garden" sites at Ras Mohammed represent the inner, coral garden habitat tha
 
 - **Location**: Ras Mohammed National Park, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

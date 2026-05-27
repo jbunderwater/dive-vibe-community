@@ -23,7 +23,7 @@ Shaab Sataya is a large horseshoe-shaped reef approximately 60 kilometres southe
 
 - **Location**: Southern Red Sea, Egypt (southeast of Marsa Alam, lat 24.15°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

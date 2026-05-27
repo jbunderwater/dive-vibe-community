@@ -5,7 +5,7 @@ lng: 34.5856905
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -43,7 +43,7 @@ The pinnacle structure with ambient light makes this site excellent for wide-ang
 
 - **Location**: Ras Torombi, near Port Ghalib / Marsa Ghalib, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 metres
 

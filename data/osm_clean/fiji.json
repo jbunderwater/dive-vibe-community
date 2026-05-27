@@ -13,7 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,diveotion.com,diveplanit.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Tunnel entry depth corrected from 10m to ~15m (50ft) based on diveotion.com. Wall drops to 35m+. White Dendronephthya confirmed. Advanced required per multiple sources."
     }
   },
   {
@@ -30,7 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,dive-the-world.com,fijitravel.org",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: 390+ coral species, ~1500 fish species, depth 9-28m. Multiple bommie and wall sections. Drift-dependent on tidal current."
     }
   },
   {
@@ -39,7 +43,7 @@
     "lon": 177.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -47,7 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijisharkdive.com,tomvierus.com,diveotion.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Depth corrected from 25m to 30m (The Arena is at 30m per multiple sources). Distance corrected to 8.8km from Pacific Harbour (not 6km). Established April 2004; designated National Marine Park November 2014. Galoa village are traditional reef owners."
     }
   },
   {
@@ -57,14 +63,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "naia.com.fj,dive-the-world.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "LOCATION CONFLICT: Known E6 is a seamount in Vatu-i-ra channel (Bligh Waters), approximately lat -17.4 lon 178.5. Coordinates in data (-17.7747, 177.1575) do not match this location and fall west of Viti Levu. Site type corrected to pinnacle (seamount). Could not find 3 independent sources for coordinates - validation set to false pending coordinate verification. Depth range 15-40m confirmed for actual E6 pinnacle."
     },
     "depth_max": 40
   },
@@ -82,7 +90,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,liveaboard.com,dive-the-world.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: Gau Island, west side. Grey reef sharks at ~18m. 3-4hr optimal dive window (current exceeds 4 knots outside window). 10-25 female grey reef sharks. Trevally, barracuda (three schools), Malabar grouper confirmed. Accessible by liveaboard only."
     }
   },
   {
@@ -99,7 +109,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "papagenoresort.com,fijipocketguide.com,dive-the-world.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: cleaning station + feeding area. Reef top ~15m, deeper sections to 40-45m. Submerged reef outside Great Astrolabe Barrier Reef. Operators: Matava, Papageno, Tiliva. Manta species: reef manta rays present year-round. 40min boat from most resorts."
     }
   },
   {
@@ -116,7 +128,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "aquatrek.com,fijitravel.org,beqalagoonresort.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed as a sheltered Beqa Lagoon site. Shallow coral garden up to 15m. Species-specific claims could not be independently verified to this specific site; marine life section updated to reflect regional Beqa Lagoon fauna."
     }
   },
   {
@@ -126,14 +140,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijitravel.org,diveplanit.com,beqalagoonresort.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Site type corrected from reef to cave (swim-through cavern confirmed by multiple sources). Depth 15-20m confirmed. Light-beam effect in morning confirmed. Associated with Beqa Lagoon Resort tiger shark dive operation."
     }
   },
   {
@@ -149,8 +165,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "naia.com.fj",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "UNRESOLVED: The name 'Zoo Namena' could not be confirmed in any independent source as a Namena Marine Reserve site. 'The Zoo' dive site in Fiji is documented at Yasawa/Mamanuca Islands area, not Namena. Only 1 source (NAI'A) references Namena dive sites and does not list 'Zoo'. Validation set to false. Coordinates are plausible for Namena area."
     },
     "depth_max": 30
   },
@@ -168,7 +186,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "waterlustfiji.com,naia.com.fj,fijieco.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: Kansas is a well-documented site at Namena Marine Reserve. Two bommies with 'Kansas window' swim-through at ~10m. Sinularia soft corals confirmed. Kansas window named for Sinularia resembling waving wheat. Anthias spawn, fusiliers, sea turtles, reef sharks confirmed. Pygmy seahorse claim (Hippocampus bargibanti) removed - not confirmed at this specific site in sources."
     }
   },
   {
@@ -184,8 +204,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "liveaboard.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "UNRESOLVED: 'Supermarket Namena' could not be confirmed as a distinct Namena Marine Reserve site. The well-documented 'Supermarket' dive site is in the Mamanuca Islands (near Mana Island), not Namena. One source (liveaboard.com) lists 'Supermarket' as a Namena site but provides no description. Fewer than 3 independent sources. Validation set to false."
     }
   },
   {
@@ -202,7 +224,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "zentacle.com,dive-the-world.com,diveotion.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: Purple Wall is a documented Taveuni/Somosomo Strait wall dive. Depth to ~28-32m (sources say up to 92ft/28m). Purple soft corals confirmed. Species updated: removed 'flameback pygmy angelfish' (Caribbean species, not found in Fiji). Banded sea snakes confirmed at this site per zentacle/scubadiving.com."
     }
   },
   {
@@ -219,7 +243,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-the-world.com,scubadiving.com,taveunioceansports.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed as macro/critter site north of Rainbow Reef on Taveuni. Blue ribbon eels (Rhinomuraena quaesita) confirmed at 25-45ft (8-14m) depth. Ghost pipefish, leaf scorpionfish confirmed. Depth 16m consistent with sources."
     }
   },
   {
@@ -236,7 +262,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,dive-the-world.com,scubadiving.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "Confirmed: Fish Factory is a current-driven site in the Somosomo Strait. Coral bommies on sandy floor per dive-the-world.com (not strictly a wall - mixed wall/bommie). Barracuda, trevally, moray eels, whitetip reef sharks confirmed. Accessible to varied experience levels per sources."
     }
   },
   {
@@ -252,8 +280,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "dive-the-world.com",
+      "last_qa_date": "2026-05-27",
+      "qa_notes": "UNRESOLVED: 'Samu Reef' as a named Kadavu dive site could not be confirmed in any independent source. Kadavu dive site lists do not include this name. Only 1 source found. Validation set to false. The dive description (outer reef drift, sharks, mantas) is consistent with Kadavu outer reef sites in general but cannot be attributed to a specific named site."
     }
   }
 ]
