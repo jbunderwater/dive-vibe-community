@@ -17,7 +17,7 @@ You're definitely not in Kansas anymore — a surreal soft coral landscape unlik
 
 ## Overview
 
-Kansas takes its playful name from the Wizard of Oz line, coined by early divers who emerged from the descent to find an alien landscape of soft coral pinnacles so vivid and otherworldly that it bore no resemblance to any diving they'd done before. Located within Namena Marine Reserve in the Koro Sea, Kansas is defined by a series of coral pinnacles and bommies rising from 20 meters, each draped in dense Dendronephthya soft corals in saturated pinks, oranges, yellows, and purples. The Namena reserve's no-take enforcement keeps the reef in exceptional health — the soft coral coverage here is among the densest in Fiji outside the Somosomo Strait. Between the pinnacles, sandy channels provide habitat contrast and rest areas for sharks and rays.
+Kansas takes its name from the Sinularia leather corals that blanket the reef top — swaying in the current, they resemble a vast field of wheat, and the Wizard of Oz joke follows naturally. The site is two coral bommies (pinnacles) within Namena Marine Reserve rising from approximately 27 meters to 5 meters. A notable feature is the "Kansas window" — a small swim-through at roughly 10 meters (40 feet) framed with colorful gorgonians, sponges, and soft corals. The Namena reserve's strict no-take enforcement keeps the reef in exceptional health — fish here do not display the wariness typical of unprotected reefs.
 
 ## Site Information
 
