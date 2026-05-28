@@ -33,7 +33,7 @@ The ex-USS Spiegel Grove (LSD-32) was a Thomaston-class dock landing ship laid d
 
 ## Marine Life
 
-Florida-Scubadiving.com reports over 144 fish species documented on the wreck, including large groupers, cubera snapper, barracuda, jacks, reef and nurse sharks, and sea turtles. Operators consistently observe schools of pelagic fish swirling around the superstructure, with the encrusted crane arms and railings draped in colorful sponges and soft corals.
+REEF's five-year scientific monitoring program documented 191 fish species on the Spiegel Grove, with 46 species recorded within the first month of deployment. Common sightings include large groupers, cubera snapper, barracuda, jacks, reef and nurse sharks, and sea turtles. Operators consistently observe schools of pelagic fish swirling around the superstructure, with the encrusted crane arms and railings draped in colorful sponges and soft corals.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The site is accessible only by boat (about a 25-30 minute run from Key Largo) an
 Florida-Scubadiving.com notes the ship's crane arms, encrusted with sponges and corals, are a signature wide-angle subject; the upright orientation since 2005 makes the superstructure photogenic and navigable, though the depth and ambient light loss favor strobes and fast wide lenses.
 
 ---
-*Sources: [Wikipedia — USS Spiegel Grove](https://en.wikipedia.org/wiki/USS_Spiegel_Grove), [WreckWiki — Spiegel Grove](https://www.wreckwiki.com/wreck/spiegel-grove), [Spiegelgrove.com (Ocean Divers)](https://www.spiegelgrove.com/), [Scuba-Fun Florida — The Spiegel Grove Wreck](https://scubafunflorida.com/the-spiegel-grove-wreck/), [Florida-Scubadiving.com — USS Spiegel Grove](https://www.florida-scubadiving.com/uss-spiegel-grove-key-largo/), [Visit Florida Keys — Spiegel Grove](https://visitfloridakeys.com/experiences/what-were-famous-for/diving-snorkeling/shipwrecks/spiegel-grove). Last updated 2026-05-17.*
+*Sources: [Wikipedia — USS Spiegel Grove](https://en.wikipedia.org/wiki/USS_Spiegel_Grove), [REEF — Spiegel Grove Monitoring](https://www.reef.org/spiegel-grove-monitoring), [Spiegelgrove.com (Ocean Divers)](https://www.spiegelgrove.com/), [Scuba-Fun Florida — The Spiegel Grove Wreck](https://scubafunflorida.com/the-spiegel-grove-wreck/), [Florida-Scubadiving.com — USS Spiegel Grove](https://www.florida-scubadiving.com/uss-spiegel-grove-key-largo/), [Visit Florida Keys — Spiegel Grove](https://visitfloridakeys.com/experiences/what-were-famous-for/diving-snorkeling/shipwrecks/spiegel-grove). Last updated 2026-05-28.*

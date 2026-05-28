@@ -53,4 +53,4 @@ The Mandalay is reachable only by boat through Biscayne National Park, which mai
 - Fire coral and stinging hydroids commonly encrust shallow Keys wrecks; maintain neutral buoyancy.
 
 ---
-*Sources: [NPS — Mandalay (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/mandalay.htm), [NPS Places — Mandalay](https://www.nps.gov/places/mandalay.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park). Last updated 2026-05-17.*
+*Sources: [NPS — Mandalay (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/mandalay.htm), [NPS Places — Mandalay](https://www.nps.gov/places/mandalay.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park). Last updated 2026-05-28.*
