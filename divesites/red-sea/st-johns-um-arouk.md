@@ -23,7 +23,7 @@ Um Arouk is part of the sprawling St John's Reef complex approximately 100 km so
 
 - **Location**: St John's Reef, Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -59,4 +59,4 @@ St John's is a remote location with no nearby emergency facilities — dive with
 Wide-angle compositions are the highlight — the fish schools against the coral surface and clear blue water create some of the most vivid reef images achievable in the Red Sea. For macro, the rubble zones at the reef base offer nudibranchs, shrimp, and small gobies.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

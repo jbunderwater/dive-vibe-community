@@ -23,7 +23,7 @@ Sodfa sits immediately northeast of the famous Tower dive site on the Sharm el-S
 
 - **Location**: Adjacent to Tower dive site, Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Drift-only access means the boat must maintain constant surface watch throughout
 The gorgonian fans at the drop-off edge are exceptional close-focus wide-angle subjects — less disturbed than at busier sites nearby. Manta rays in the March–June window are the most spectacular photographic subjects; use a wide or fisheye lens for full wingspan capture in the clear, well-lit mid-water zone. Anthias clouds above the pinnacles reward ambient-light wide-angle shots in morning conditions. Red Sea bannerfish schooling over the coral landscape are a characteristic compositional subject.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

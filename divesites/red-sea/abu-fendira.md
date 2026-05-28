@@ -23,7 +23,7 @@ Abu Fendira is situated in the Hamata archipelago region, a collection of island
 
 - **Location**: Hamata archipelago, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Variable currents around the island structures can catch divers out. Check condi
 The Hamata reefs offer photogenic coral structures and diverse subjects. Wide-angle shots of the reef landscape and schooling fish work well in the clear water. The chance of dugong encounters makes wide-angle with a large field of view worth having ready. Macro life in the coral rubble zones is also rewarding.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

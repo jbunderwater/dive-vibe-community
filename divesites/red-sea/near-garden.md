@@ -23,7 +23,7 @@ Near Garden features a classic coral garden formation: a spread of individual an
 
 - **Location**: Ras Mohammed National Park, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -58,4 +58,4 @@ The sheltered bay conditions at Near Garden make this one of the most forgiving 
 Near Garden is excellent for reef fish portraiture and coral garden wide-angle work. The anthias clouds above table corals are one of the Red Sea's most photographed subjects — a wide-angle lens looking upward through a table coral with the fish cloud above and blue water behind creates a classic image. Garden eel colonies in the sand channels require a patient approach and macro lens for detailed shots. Turtle encounters in the early morning offer wide-angle natural-light opportunities.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

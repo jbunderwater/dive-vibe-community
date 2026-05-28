@@ -23,7 +23,7 @@ Like the other habili sites scattered across the southern Egyptian Red Sea, Habi
 
 - **Location**: Southern Egyptian Red Sea, offshore between Marsa Alam and Berenice
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ Standard offshore pinnacle precautions apply. Deploy an SMB on every ascent. Mon
 The approachable humphead wrasse provide exceptional fish portrait opportunities. Close-focus wide-angle of the soft-coral-draped flanks is highly productive. The open blue water surrounding the pinnacle allows backlit silhouette shots of schooling fish above the reef crown.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

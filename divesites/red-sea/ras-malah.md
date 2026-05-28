@@ -58,4 +58,4 @@ Cave diving requires specific training and equipment beyond standard open-water 
 Cave passage photography with torch-assisted lighting and the cave entry silhouetted against natural light is the primary photographic technique at Ras Malah. The contrast between the dark interior and the light entry point creates natural framing for wide-angle shots. Glass bigeye schools in the cave interior reward a torch-on-school wide-angle approach.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -43,7 +43,7 @@ Shore entry from the jetty — just a few steps from the dive centre. Descend to
 
 - **Location**: Makadi Bay, ~30 km south of Hurghada, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 - **Difficulty**: Beginner — suitable for all levels
 

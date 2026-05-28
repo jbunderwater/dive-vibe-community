@@ -23,7 +23,7 @@ Abu Dabbab Bay is one of the most celebrated dive and snorkel destinations on th
 
 - **Location**: Abu Dabbab Bay, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–30 meters
@@ -59,4 +59,4 @@ The bay is calm but boat traffic from day-trip vessels and snorkel boats can be 
 One of the top underwater photography destinations in the Red Sea. Wide-angle shots of dugong grazing among sunlit seagrass are iconic images from this bay. Turtles are often very approachable. Macro subjects include seahorses and nudibranchs in the seagrass. Use a wide-angle lens for the best dugong and turtle frames.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

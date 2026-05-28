@@ -23,7 +23,7 @@ Marsa Mubarak is a protected inlet with a seagrass meadow in the sheltered inner
 
 - **Location**: Marsa Alam area, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Encounters with large marine animals require calm, non-threatening diver behavio
 Marsa Mubarak is one of the best sites in the world for natural-history wildlife photography of sea turtles and dugongs in their natural seagrass habitat. Use natural light in the shallow seagrass area — strobes can startle animals. A wide-angle or full-frame fisheye captures the animal in context with its habitat. Patience and stillness will yield frame-filling portraits as animals move closer of their own accord.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

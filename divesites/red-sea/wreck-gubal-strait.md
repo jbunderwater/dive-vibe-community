@@ -36,7 +36,7 @@ The Gubal Strait's passing currents bring nutrients that support healthy reef fi
 
 - **Location**: Northern Strait of Gubal, Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25–32 metres
 

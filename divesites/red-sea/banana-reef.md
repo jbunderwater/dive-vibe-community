@@ -23,7 +23,7 @@ Banana Reef features a gently curving reef formation with a mix of hard coral ga
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
@@ -59,4 +59,4 @@ Currents can run along the reef, particularly at the northern and southern tips.
 The reef's curve creates natural compositional frames for wide-angle photography. Schools of bannerfish and anthias against hard coral backgrounds are classic subjects. The deeper sand at 25+ meters offers crocodilefish and ray encounters for wide-angle close focus.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

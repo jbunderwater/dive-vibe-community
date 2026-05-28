@@ -59,4 +59,4 @@ Sudan diving requires full liveaboard logistics and experienced guides. The wrec
 Blue Belt offers some of the Red Sea's most dramatic wildlife photography. The barracuda tornado against the blue water background is an iconic subject. Wide-angle shots from beneath the school looking up toward the surface create stunning compositions. Wreck interior photography with torch-illuminated soft coral details provides atmospheric close-up work.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

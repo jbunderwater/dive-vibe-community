@@ -3,7 +3,7 @@ name: Million Hope
 lat: 28.0563889
 lng: 34.4491711
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Million Hope
 
-The Million Hope is a large cargo vessel wreck in the Strait of Tiran, northern Red Sea, Egypt, positioned at approximately 28.06°N, 34.45°E — in the same reef-strewn strait as the famous Tiran island reefs. The vessel ran aground on the reef and sank, adding to the collection of wrecks that have foundered in these notoriously treacherous waters over the decades.
+The Million Hope is a large bulk carrier wreck in Nabq Bay, approximately 3 nautical miles north of Sharm el-Sheikh. The vessel struck a reef on 20 June 1996 while en route from Jordan to Taiwan, and sank after unsuccessful salvage attempts. All 25 crew members were rescued.
 
 ## Overview
 
-The Million Hope was a substantial cargo ship — reports suggest it was a large bulk carrier — which gives the wreck impressive scale. Lying in waters reaching approximately 20 meters, the upper structure of the vessel may be close to the surface, visible from the dive boat above. The combination of dramatic size, the Tiran Strait setting, and years of coral and sponge encrustation makes the Million Hope one of the more visually arresting wrecks in the northern Red Sea. The site sits within the broader Tiran area ecosystem, so divers may expect encounters typical of the strait — including pelagic species along the open reef edge sections adjacent to the wreck.
+The Million Hope (originally launched as the Ryusei Maru on 10 June 1972, built at Koyo Dockyard in Mihara, Japan) was a 174.6-metre bulk carrier of 16,339 GRT. The wreck rests at approximately 24 metres depth, with upper structures close to the surface visible from dive boats above. The scale of the vessel is remarkable — at 174 metres, it is one of the largest accessible wrecks in the northern Red Sea. Years of coral and sponge encrustation have transformed the hull sections into an artificial reef. The site sits within the broader reef system near the Strait of Tiran, so divers encounter both wreck-associated and open-reef species.
 
 ## Site Information
 
-- **Location**: Strait of Tiran, northern Red Sea, Egypt
+- **Location**: Nabq Bay, approximately 3 nautical miles north of Sharm el-Sheikh, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong; tidal flow through the strait
 - **Best Time**: September to May
@@ -59,4 +59,4 @@ Tidal currents in the Strait of Tiran can be strong and unpredictable. Wreck pen
 The scale of the Million Hope provides wide-angle opportunities to photograph the full hull in profile — a fisheye or very wide zoom is needed to capture the vessel's scale from a reasonable distance. Glassy sweeper schools in torch-lit interior spaces create iconic wreck photography. The hull exterior with coral growth against the blue Tiran water provides dramatic color contrast.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Red Sea Wreck Project — Million Hope](https://www.redseawreckproject.com/dive-sites/m-red-sea-wreck-diving-database/million-hope/), [Wrecks at Risk — MV Million Hope](https://wrecksatrisk.com/locations/mv-million-hope/), [Camel Dive Club — Million Hope](https://www.cameldive.com/dive-sites/million-hope/), [Scuba Shooters](https://www.scubashooters.net/underwater-life/wreck-diving-million-hope-sharm-el-sheikh/). Last updated 2026-05-28.*

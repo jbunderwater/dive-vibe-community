@@ -23,7 +23,7 @@ White Knight lies within the broader Sharm el-Sheikh diving area and is known fo
 
 - **Location**: Sharm el-Sheikh area, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Stonefish and scorpionfish are well-camouflaged on the reef substrate; never sta
 White Knight provides solid wide-angle shooting opportunities on the coral formations and resident fish life. Anthias swarms around the coral heads are ideal for ambient-light reef scenes. Macro subjects include nudibranchs, cleaner shrimp, and small gobies. Stonefish, when safely spotted, make compelling cryptic subjects. Morning light filtering down through the clear water produces the best natural reef images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

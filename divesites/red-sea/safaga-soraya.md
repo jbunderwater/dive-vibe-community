@@ -23,7 +23,7 @@ Safaga is renowned among experienced Red Sea divers for its strong currents, whi
 
 - **Location**: Safaga, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ Currents can be strong and unpredictable at this site. Always carry and be prepa
 Wide-angle shots of the coral-encrusted walls with ambient blue water backgrounds are rewarding here, especially when schools of fish or dolphins are in frame. The gorgonian fans on current-facing slopes are excellent subjects in the 12–18 meter range. Macro opportunities exist on the coral rubble at the base of the reef wall.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ Rose Reef sits on the shallow platform of the Farasan Banks, an extensive reef s
 
 - **Location**: Farasan Banks / southern Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -58,4 +58,4 @@ Remote location is the primary consideration — emergency evacuation from this 
 The pristine reef condition and high visibility make Rose Reef an outstanding photography location. Natural-behavior shots of unhabituated fish are possible here that would be difficult at busier sites. Wide-angle reef landscapes with exceptional clarity, humphead wrasse portraits, and turtle encounters are the headline subjects.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

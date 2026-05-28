@@ -23,7 +23,7 @@ Daharat Abida sits at approximately 18.50°N, 38.60°E — in the extreme southe
 
 - **Location**: Extreme southern Red Sea, near Eritrean border (~18.50°N, 38.60°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -57,4 +57,4 @@ Maximum remoteness: emergency evacuation is a multi-day logistics exercise. Dive
 The near-pristine state of the reef creates conditions not available anywhere else in accessible Red Sea diving. Fish portraits with subjects unhabituated to divers, undisturbed coral formations, and extraordinary clarity. The documentation value of photography here extends beyond recreational interest.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

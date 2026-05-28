@@ -23,7 +23,7 @@ Ras Nasrani ("Christian Cape" in Arabic) is approximately 11 km north of Naama B
 
 - **Location**: North of Sharm el-Sheikh, Sinai coast, Gulf of Aqaba, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ Current is the main variable hazard at Ras Nasrani. The sheltered bays are calm 
 The large sea fans on the outer wall at 20–25 metres are outstanding wide-angle subjects — their scale (up to 6 metres across) is difficult to convey without a diver for reference. The garden eel colony rewards a very slow, patient approach and produces striking images of eels extending from the sand in unison. On night dives, Spanish dancers are vivid macro subjects. Hawksbill turtles on the shallow coral heads are reliable subjects in clear, well-lit conditions.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

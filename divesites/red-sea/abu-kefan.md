@@ -27,7 +27,7 @@ The Safaga-El Quseir coastal reef corridor offers healthy hard and soft coral co
 
 - **Location**: Safaga / El Quseir area, central Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

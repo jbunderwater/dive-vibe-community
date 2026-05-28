@@ -59,4 +59,4 @@ Penetrating the wreck interior is not recommended without wreck diving certifica
 One of the most photogenic wreck locations in the Red Sea — coral-encrusted wreck in a turquoise lagoon provides extraordinary wide-angle compositions. Glassfish swarming the wreck in sunbeams are an iconic shot. The surrounding coral garden complements the wreck perfectly for a full portfolio. Macro opportunities on the wreck's coral encrustation are also excellent.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

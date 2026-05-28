@@ -23,7 +23,7 @@ El Fanadir ("rock on top of the reef" in Arabic) is one of the longest reefs on 
 
 - **Location**: Northern Hurghada coast, central Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ Conditions are generally mild at El Fanadir, making it suitable for all levels. 
 El Fanadir is one of the Hurghada area's best macro photography sites. The wall crack-and-cave system provides numerous well-framed macro compositions. Moray eels at cleaning stations — with cleaner wrasse visible in the same frame — are outstanding subjects. Frogfish portraits (when present) are high-value images rarely achieved at other local sites. Night dives produce Spanish dancer images, hunting octopus, and cuttlefish with excellent colour response to strobe.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

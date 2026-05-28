@@ -23,7 +23,7 @@ The North Plateau of Elba Reef is the northern section of the Elba Region reef c
 
 - **Location**: Northern section of Elba Reef, Egyptian-Sudanese border area (liveaboard only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 30–40 meters
@@ -59,4 +59,4 @@ Remote location requires full self-sufficiency. The northern plateau tip can con
 The northern plateau provides the widest open-water vista in the Elba system for hammerhead shark photography. Dawn positioning at the plateau edge with a wide-angle lens (10–17mm) facing north offers the best chance of silhouettes against first light. The gorgonian fans at 20–25 m reward close-focus wide-angle with strobe fill. The pristine coral coverage on the plateau top produces exceptional reef panoramas in the exceptional Elba visibility.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

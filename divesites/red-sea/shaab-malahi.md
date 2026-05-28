@@ -23,7 +23,7 @@ Shaab Malahi sits at approximately 24.20°N, 35.66°E in the Fury Shoals cluster
 
 - **Location**: Fury Shoals, southern Egyptian Red Sea (~24.20°N, 35.66°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,4 +57,4 @@ Current on the outer wall can be moderate to strong. Assess before extending the
 Outer wall gorgonian fan portraits at 15–18 metres in good natural light are the signature wide-angle subjects. Nudibranch macro photography in the lagoon section rewards close work with a macro lens. Oceanic whitetip portraits in open water require a wide-angle approach from a stationary position.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

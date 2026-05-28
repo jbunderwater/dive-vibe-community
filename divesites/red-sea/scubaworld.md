@@ -23,7 +23,7 @@ The reef at this location is characteristic of the El Quseir coastal zone: a fri
 
 - **Location**: El Quseir, central Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Currents are generally moderate in this area but can strengthen with tidal chang
 This site offers good all-round photographic opportunities. The reef's healthy coral provides wide-angle backdrop subjects, and the relatively calm conditions make close-focus wide-angle work manageable. Macro photographers will find invertebrates, small fish, and nudibranchs on careful examination of the coral base. Natural light conditions are good throughout the day given the site's orientation.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

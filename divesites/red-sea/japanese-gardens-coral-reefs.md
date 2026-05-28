@@ -23,7 +23,7 @@ The reef at Japanese Gardens extends from a sandy beach entry into a series of i
 
 - **Location**: Aqaba, Jordan, northern Gulf of Aqaba, Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -60,4 +60,4 @@ Currents are generally mild at Japanese Gardens, making it one of the safer shor
 Japanese Gardens is exceptional for both macro and reef portrait photography. The coral density and fish life are photogenic at every turn, and the shallow depth allows long bottom times for careful composition. Wide-angle shots of coral gardens with dappled sunlight from the surface create striking images. Look for clownfish and anemone subjects, resting turtles, and the resident moray eels for classic Red Sea reef portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

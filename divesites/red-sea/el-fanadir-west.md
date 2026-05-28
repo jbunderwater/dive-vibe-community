@@ -23,7 +23,7 @@ El Fanadir West shares the same reef structure as its sister sites El Fanadir an
 
 - **Location**: Red Sea, Egypt (El Fanadir reef, west face, north of Hurghada)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Fire coral is present throughout the shallow reef sections. The western entry ca
 El Fanadir West is an excellent afternoon photography option with light coming from behind the photographer on a westward-facing reef. Wide-angle shots work well on the upper reef where anthias are abundant and coral formations are photogenic. Macro photographers should focus on the sandy terrace zone between 12 and 18 meters for nudibranchs, flatworms, commensal shrimp, and the cleaning station behaviours that make compelling documentary shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

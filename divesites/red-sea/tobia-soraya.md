@@ -23,7 +23,7 @@ Tobia Soraya lies approximately 30 minutes east of Safaga in the central Egyptia
 
 - **Location**: East of Safaga, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Conditions are generally mild at Tobia Soraya, but the eastern chain can develop
 The gorgonian-and-glassfish northern pinnacle is an outstanding close-focus wide-angle subject — strobes at steep angles produce the glassfish cloud in cascading silver against the gorgonian background. Crocodilefish portraits on the sand require a macro lens and an extremely patient, low-angle approach. Clownfish-in-anemone shots are consistently accessible throughout the site. The shallow eastern cave swim-through is a natural-light image from outside looking at the reef structure.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

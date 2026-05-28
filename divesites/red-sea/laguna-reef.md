@@ -23,7 +23,7 @@ Unlike the exposed outer walls of Jackson and Thomas Reef, Laguna Reef offers a 
 
 - **Location**: Tiran Island reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ Even in the more sheltered Tiran lagoon area, conditions can change with tidal s
 The calm conditions and excellent reef fish populations make Laguna Reef one of the better sites for relaxed fish portraiture in the Tiran area. humphead wrasse and large grouper close-ups are the signature shots. Coral garden wide-angles work beautifully in the morning light when the sun angle illuminates the shallow reef top.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

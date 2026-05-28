@@ -23,7 +23,7 @@ Soug Bahar is an open-ocean reef rising from deeper water, offering a classic Eg
 
 - **Location**: Southern Red Sea, Egypt (Marsa Alam area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Moderate currents are common and can shift direction. Stay aware of your positio
 Wide-angle shots of the coral landscape, with soft light filtering through from the surface, work well during morning dives. The fish schooling above the reef crest makes for dramatic wide compositions. Macro subjects including nudibranchs, shrimp, and small wrasse are found in the rubble zones.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

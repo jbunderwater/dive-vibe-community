@@ -23,7 +23,7 @@ Fanous East is located at approximately 27.27°N, 33.89°E in the offshore zone 
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.27°N, 33.89°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Conditions are generally benign — this is one of Hurghada's calmer sites. Prim
 Clownfish-in-anemone portraits are the signature subject at Fanous East — the multiple anemone colonies provide many opportunities for different compositions. The sandy bowl macro work suits a beginner photographer learning reef photography fundamentals. The shallow reef crest in good ambient light is excellent for natural-light fish portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

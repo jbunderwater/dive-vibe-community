@@ -23,7 +23,7 @@ Abu Bassala ("Father of the Onion" in Arabic, possibly referring to the rounded 
 
 - **Location**: Southern Red Sea, near Port Ghalib / Berenice, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ Remote location means limited emergency support. Dive conservatively within your
 The undisturbed reef structure and clear water make for excellent wide-angle coral photography. Sea fans on the outer slope offer dramatic framing opportunities. Schooling reef fish and the open blue water beyond the reef edge provide rich photographic subjects.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

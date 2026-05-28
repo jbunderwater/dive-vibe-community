@@ -23,7 +23,7 @@ Rainbow Reef presents a gently sloping reef profile from a shallow top at around
 
 - **Location**: Red Sea, Egypt (Ras Muhammad area, southern Sinai)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ Fire coral patches are interspersed with the soft corals — distinguish between
 Rainbow Reef is primarily a macro and close-focus wide-angle photography site. The soft coral density and color variety create outstanding close-up compositions. Anthias shoals above the coral make excellent behavioral subjects. Wide-angle reef-scape photography benefits enormously from a strobe or video light to restore the warm colors that are absorbed at depth. Morning dives with high sun angle offer occasional excellent natural light shafts into the reef.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

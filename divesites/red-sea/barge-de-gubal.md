@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Barge de Gubal
 
-Barge de Gubal is a wreck dive site in the Gubal Island area of the northern Gulf of Suez, Red Sea. The wreck of a large cargo barge lies in 20–25 meters of water amid the scattered reef systems of the Gubal Straits — a historically treacherous shipping lane that has claimed numerous vessels over the centuries.
+Barge de Gubal is a small wreck at Bluff Point on the eastern side of Gubal Island, in the Strait of Gubal. The steel barge — approximately 35 metres long — lies at 12–20 metres depth, opposite the Bluff Point Lighthouse. Local sources attribute the sinking to the 1973 Arab-Israeli War, though it may also have been a barge lost in tow; the exact history is unverified. The site is particularly notable for night diving.
 
 ## Overview
 
-The Barge de Gubal is a substantial wreck that has become heavily encrusted with coral over the years, effectively transforming into an artificial reef. The flat barge deck provides a stable, easy-to-navigate surface for divers, while the sides drop away into sand. The area around Gubal Island is renowned for its concentration of wrecks, and the Barge de Gubal is one of several accessible wrecks in the vicinity, often dived as part of a multi-wreck day. Visibility is typically 15–25 meters, with water temperatures of 22–28°C.
+The Barge de Gubal is a relatively modest wreck — primarily a steel hull of around 35 metres — with little superstructure remaining. The flat barge deck provides a stable, easy-to-navigate surface, while the sides drop away into sand at 12–20 metres. The area around Gubal Island is renowned for its concentration of wrecks, and the Barge de Gubal is often dived as part of a multi-wreck day. It is especially popular as a night dive. Visibility is typically 15–25 meters, with water temperatures of 22–28°C.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Currents in the Gubal Straits can be significant — site conditions should be e
 The soft coral encrustation on the barge structure provides vivid colour for wide-angle photography. Glassfish clouds inside structural openings against ambient light are a classic wreck photography composition. Macro work yields nudibranchs and crustaceans on the hull.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Red Sea Wreck Project — Barge at Bluff Point](https://www.redseawreckproject.com/2013/08/18/barge-at-bluff-point/), [Egypt Liveaboard — Bluff Point Wreck](https://www.egypt-liveaboard.com/dive-sites/bluff-point-wreck/), [Red Sea Diving — Gubal Barge](https://www.redsea-diving.com/). Note: vessel history is uncertain; local sources conflict on the cause of sinking. Last updated 2026-05-28.*

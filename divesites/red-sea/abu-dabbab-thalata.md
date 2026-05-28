@@ -23,7 +23,7 @@ Abu Dabbab Thalata forms part of a cluster of closely related reef structures in
 
 - **Location**: Abu Dabbab area, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Maintain awareness of current direction during the dive. Always conduct a safety
 Good conditions for both wide-angle reef shots and macro work. Lionfish portraits and moray eel compositions are popular subjects. Schools of glassfish lit by sunbeams make striking wide-angle images. Water clarity in the Abu Dabbab area is generally excellent.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

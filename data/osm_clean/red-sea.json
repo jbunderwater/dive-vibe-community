@@ -11,7 +11,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "House reef for many diveclubs. Elephant statue under the water",
-      "description:ru": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0440\u0438\u0444 \u0434\u043b\u044f \u0434\u0430\u0439\u0432 \u0446\u0435\u043d\u0442\u0440\u043e\u0432. \u0415\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u044f \u0441\u043b\u043e\u043d\u0430 \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439.",
+      "description:ru": "Домашний риф для дайв центров. Есть статуя слона под водой.",
       "name": "Light House",
       "scuba_diving:depth": "18",
       "scuba_diving:difficulty": "1",
@@ -19,7 +19,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -34,7 +35,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Sand bottom with hundreds of eels",
-      "description:ru": "\u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0435 \u0434\u043d\u043e \u0441 \u0441\u043e\u0442\u043d\u044f\u043c\u0438 \u0443\u0433\u0440\u0435\u0439.",
+      "description:ru": "Песчаное дно с сотнями угрей.",
       "name": "Eel Garden",
       "scuba_diving:depth": "20",
       "scuba_diving:difficulty": "1",
@@ -44,7 +45,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -58,12 +60,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0627\u0644\u062c\u0632\u0631",
+      "alt_name": "الجزر",
       "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
-      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442 \u0438\u0437 \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043a\u043e\u0432. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439. \u041d\u0430 \u0440\u0438\u0444\u0435 \u0436\u0438\u0432\u0435\u0442 \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430.",
+      "description:ru": "Потрясающий подводный ландшафт из коралловых островков. Подходит для ночных погружений. На рифе живет черепаха.",
       "name": "Al Juzur Reef",
-      "name:ar": "\u0627\u0644\u062c\u0632\u0631",
-      "name:ar1": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar": "الجزر",
+      "name:ar1": "الجزر",
       "name:en": "The Islands",
       "scuba_diving:depth": "16",
       "scuba_diving:entry": "shore",
@@ -72,7 +74,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -86,7 +89,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description:ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0445\u043e\u0433\u0440\u0443\u0437, \u0437\u0430\u0442\u043e\u043d\u0443\u043b 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1941 \u0433\u043e\u0434\u0430",
+      "description:ru": "Британский вооруженный сухогруз, затонул 6 октября 1941 года",
       "historic": "wreck",
       "name": "SS Thistlegorm",
       "seamark:type": "wreck",
@@ -95,10 +98,11 @@
       "sport:scuba_diving": "yes",
       "wikidata": "Q32276",
       "wikimedia_commons": "Category:Thistlegorm (ship, 1940)",
-      "wikipedia": "ar:\u0633\u0641\u064a\u0646\u0629 \u0632\u064a\u0633\u062a\u0644 \u062c\u0648\u0631\u0645",
+      "wikipedia": "ar:سفينة زيستل جورم",
       "wreck:max_depth": "31",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,redseawreckproject.com,scubadiving.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -116,7 +120,8 @@
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -136,7 +141,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -155,7 +161,8 @@
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -175,7 +182,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -195,7 +203,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -214,7 +223,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -233,7 +243,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -248,7 +259,7 @@
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Beautiful place with coral arches, narrow entrance. Named for knocking of tank to narrow coral tunnel.",
-      "description:ru": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0434\u0430\u0439\u0432\u0441\u0430\u0439\u0442, \u0441 \u0443\u0437\u043a\u0438\u043c \u0442\u0443\u043d\u0435\u043b\u0435\u043c \u0432 \u043a\u043e\u0440\u0430\u043b\u043b\u0435, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0438 \u0430\u0440\u043a\u043e\u0439 \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u043e\u043a\u043e\u043b\u043e 25\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0437\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u0437\u0432\u0443\u043a \u0441\u0442\u0443\u043a\u0430 \u0431\u0430\u043b\u043e\u043d\u043e\u0432 \u043e \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0435 \u0441\u0442\u0435\u043d\u043a\u0438.",
+      "description:ru": "Красивый дайвсайт, с узким тунелем в коралле, постепенно уходящем на глубину и аркой на глубине около 25м. Название получил за характерный звук стука балонов о коралловые стенки.",
       "name": "The Bells",
       "scuba_diving:depth": "31",
       "scuba_diving:entry": "shore",
@@ -256,7 +267,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "bigbluedahab.com,scubaseekers.com,desert-divers.com",
+      "last_qa_date": "2026-05-28",
+      "entry_type": "shore"
     }
   },
   {
@@ -271,12 +284,13 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Shark Reef",
-      "name:ru": "\u0440\u0438\u0444 \u0410\u043a\u0443\u043b\u0430",
+      "name:ru": "риф Акула",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "circledivers.com,dive-the-world.com,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -295,7 +309,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -314,7 +329,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -334,7 +350,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -353,7 +370,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -378,7 +396,8 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -387,8 +406,8 @@
     "lon": 34.2583484,
     "osm_id": 278086478,
     "osm_type": "node",
-    "depth": 14,
-    "site_type": "wreck",
+    "depth": 25,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -397,7 +416,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,cameldive.com,divernet.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -415,7 +435,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -433,7 +454,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -452,7 +474,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -471,7 +494,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -490,7 +514,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -512,7 +537,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -533,7 +559,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -553,7 +580,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -573,7 +601,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -593,7 +622,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -613,7 +643,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -633,7 +664,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -652,7 +684,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -673,7 +706,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -693,7 +727,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -713,7 +748,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -733,7 +769,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -751,7 +788,8 @@
       "note": "Only appox position",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -768,7 +806,8 @@
       "name": "Dahayla South",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -785,7 +824,8 @@
       "name": "Dahayla North",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -804,7 +844,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -823,7 +864,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -840,7 +882,8 @@
       "name": "South Point",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -857,7 +900,8 @@
       "name": "Big Stone",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -874,7 +918,8 @@
       "name": "East Point",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -891,7 +936,8 @@
       "name": "Rocky North",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -908,7 +954,8 @@
       "name": "Rocky South",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -925,7 +972,8 @@
       "name": "Rocky East",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -942,7 +990,8 @@
       "name": "Rocky West",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -959,7 +1008,8 @@
       "name": "Zabargad Jetty",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -976,7 +1026,8 @@
       "name": "Siyal Island",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -995,7 +1046,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1012,7 +1064,8 @@
       "name": "Shaab Sataya Amphoren",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1031,7 +1084,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1040,7 +1094,7 @@
     "lon": 35.2131166,
     "osm_id": 663869769,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1050,7 +1104,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "deepsouthdiverseg.com,seahorse-marsaalam.com,marsaalam.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1067,7 +1122,8 @@
       "name": "Shaab Ini",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1084,7 +1140,8 @@
       "name": "Shaab Malahi",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1101,7 +1158,8 @@
       "name": "Shaab Bohar Soraya",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1118,7 +1176,8 @@
       "name": "Shaab Bohar Kebir Ost",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1135,7 +1194,8 @@
       "name": "Shaab Said Nord",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1144,7 +1204,7 @@
     "lon": 34.0615772,
     "osm_id": 663869778,
     "osm_type": "node",
-    "depth": 27,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1157,7 +1217,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "11:13pm on December 14th, 1991",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,scuba.com,scubadiverlife.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1173,7 +1234,7 @@
     "tags": {
       "historic": "wreck",
       "name": "SS Numidia Wreck",
-      "name:ar": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+      "name:ar": "نوميديا",
       "name:de": "Numidia",
       "name:en": "Numidia",
       "name:fr": "Numidia",
@@ -1182,7 +1243,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "redseawreckproject.com,marsaalam.com,thescubanews.com",
+      "last_qa_date": "2026-05-28"
     },
     "max_depth": 80
   },
@@ -1197,11 +1259,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "brand:ar": "\u0639\u0627\u064a\u062f\u0629",
-      "brand:wikipedia": "ar:\u0639\u0627\u064a\u062f\u0629 (\u0633\u0641\u0646 \u0633\u064a\u0627\u062d\u064a\u0629)",
+      "brand:ar": "عايدة",
+      "brand:wikipedia": "ar:عايدة (سفن سياحية)",
       "historic": "wreck",
       "name": "Aida II Wreck",
-      "name:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "name:ar": "عايدة",
       "name:de": "Aida",
       "name:en": "Aida",
       "name:fr": "Aida",
@@ -1210,7 +1272,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1231,7 +1294,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1252,7 +1316,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1273,7 +1338,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1291,7 +1357,8 @@
       "name": "Shaab Sabrina",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1310,7 +1377,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1329,7 +1397,8 @@
       "sport": "scuba_diving",
       "survey:date": "2018-06-08",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1346,7 +1415,8 @@
       "name": "Abu Ramada South",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1367,7 +1437,8 @@
       "sport": "scuba_diving",
       "survey:date": "2018-06-08",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1396,7 +1467,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1414,7 +1486,8 @@
       "name": "Ham Ham",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1432,7 +1505,8 @@
       "name": "Stone Beach",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1449,7 +1523,8 @@
       "name": "Abu Ramada - Ost",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1466,7 +1541,8 @@
       "name": "Sha`ab Quais",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1492,7 +1568,8 @@
       "sport": "scuba_diving",
       "survey:date": "2015-09-13",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1517,7 +1594,8 @@
       "sport": "scuba_diving",
       "survey:date": "2018-06-16",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1544,7 +1622,8 @@
       "sport": "scuba_diving",
       "survey:date": "2018-06-15",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1561,7 +1640,8 @@
       "name": "Shaab El Erg",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1580,7 +1660,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,masterliveaboards.com,scubadiverlife.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1600,7 +1681,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,deepbluediver.uk,seasoftscuba.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1619,7 +1701,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wrecksatrisk.com,redsea-diving.com,deepbluediver.uk",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1638,7 +1721,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,redseawreckproject.com,scubadiverlife.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1655,7 +1739,8 @@
       "name": "Manta Point.",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1675,7 +1760,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "redseawreckproject.com,redsea-diving.com,egypt-liveaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1694,7 +1780,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "redsea-diving.com,thescubanews.com,wrecksatrisk.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1712,7 +1799,8 @@
       "name": "Small Crack",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1721,7 +1809,7 @@
     "lon": 34.1216666,
     "osm_id": 663869819,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1736,7 +1824,8 @@
       "wikimedia_commons": "Category:Dunraven (ship, 1873)",
       "wikipedia": "en:SS Dunraven",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,wrecksatrisk.com,redsea-diving.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1754,7 +1843,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1769,15 +1859,16 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Umm Sid",
-      "name:ar": "\u0631\u0623\u0633 \u0623\u0645 \u0633\u062f",
+      "name:ar": "رأس أم سد",
       "name:en": "Ras Umm Sid",
-      "name:ru": "\u0420\u0430\u0441 \u0423\u043c\u043c \u0421\u0438\u0434",
+      "name:ru": "Рас Умм Сид",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wikidata": "Q14218645",
       "wikimedia_commons": "Category:Hadaba",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1794,7 +1885,8 @@
       "name": "Pinky Wall",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1811,7 +1903,8 @@
       "name": "Sodfa",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1829,7 +1922,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1846,7 +1940,8 @@
       "name": "White Knight",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1864,7 +1959,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1883,7 +1979,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "cdws.travel,egypt-liveaboard.com,redsea-diving.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1892,7 +1989,7 @@
     "lon": 34.4491711,
     "osm_id": 663869847,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1902,7 +1999,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "redseawreckproject.com,wrecksatrisk.com,cameldive.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1917,10 +2015,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kormoran",
-      "name:ru": "\u041a\u043e\u0440\u043c\u043e\u0440\u0430\u043d",
+      "name:ru": "Корморан",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1937,7 +2036,8 @@
       "name": "Gabu El Bint",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1954,7 +2054,8 @@
       "name": "Moray Garden",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1971,7 +2072,8 @@
       "name": "7 Pinnacles",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -1988,7 +2090,8 @@
       "name": "Umm Sid",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2005,7 +2108,8 @@
       "name": "3 Pools",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2022,7 +2126,8 @@
       "name": "South Oasis",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2039,7 +2144,8 @@
       "name": "The Caves",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2056,7 +2162,8 @@
       "name": "Napoleon Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2073,7 +2180,8 @@
       "name": "Ras Abu Galum",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2090,7 +2198,8 @@
       "name": "Reeks Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2104,14 +2213,15 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "alt_name": "سنسبلاش هاوس ريف",
       "name": "Sunsplash House Reef",
-      "name:ar": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
-      "name:ar1": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar": "سنسبلاش هاوس ريف",
+      "name:ar1": "سنسبلاش هاوس ريف",
       "name:en": "Sunsplash Housereef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     },
     "max_depth": 30
   },
@@ -2128,7 +2238,7 @@
     "tags": {
       "depth": "100",
       "description:en": "One of the most popular deep dive site in the world. Blue hole arch under 50m depth",
-      "description:ru": "\u041e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043c\u0438\u0440\u0435 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439 - \u0430\u0440\u043a\u0430 \u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0434\u044b\u0440\u044b \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0431\u043e\u043bee 50\u043c",
+      "description:ru": "Одно из самых популярных мест в мире для глубоководных погружений - арка Голубой дыры на глубине болee 50м",
       "name": "Blue Hole",
       "name:de": "Blaues Loch",
       "scuba_diving:entry": "shore",
@@ -2139,7 +2249,8 @@
       "wikimedia_commons": "Category:Blue Hole (Red Sea)",
       "wikipedia": "en:Blue Hole (Red Sea)",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2156,7 +2267,8 @@
       "name": "Abu Helal",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2171,14 +2283,15 @@
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Amazing landscape, deep dive polular place.",
-      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439.",
+      "description:ru": "Потрясающий ландшафт, популярное место для глубоководных погружений.",
       "name": "Canyon",
       "scuba_diving:depth": "39",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2198,7 +2311,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2207,7 +2321,7 @@
     "lon": 34.9883333,
     "osm_id": 663869877,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2217,7 +2331,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-inaqaba.com,arabdivers.jo,wrecksatrisk.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2234,11 +2349,12 @@
       "historic": "wreck",
       "name": "Sufa Wreck",
       "name:en": "Soufa",
-      "name:he": "\u05e1\u05d5\u05e4\u05d4",
+      "name:he": "סופה",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2255,7 +2371,8 @@
       "name": "Ras Disha",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2275,7 +2392,8 @@
       "name": "Ben El Gebel",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2301,7 +2419,8 @@
       "sport": "scuba_diving",
       "survey:date": "2015-09-18",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2318,7 +2437,8 @@
       "name": "Abu Hashish Lagoon",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2335,7 +2455,8 @@
       "name": "Abu Hashish Drift",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2352,7 +2473,8 @@
       "name": "Erg Abu Hashish",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2369,7 +2491,8 @@
       "name": "El Aruk Gigi",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2394,7 +2517,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2411,7 +2535,8 @@
       "name": "Erg Somaya Drift",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2429,7 +2554,8 @@
       "name": "Erg Sabina",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2448,7 +2574,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2465,7 +2592,8 @@
       "name": "Dolphin House",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2482,7 +2610,8 @@
       "name": "Makadi Garden",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2499,7 +2628,8 @@
       "name": "Tofa Abu Hashish",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2516,7 +2646,8 @@
       "name": "Sharm Rashid",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2533,7 +2664,8 @@
       "name": "Dangerous Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2550,7 +2682,8 @@
       "name": "Habili Zabargad",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2567,7 +2700,8 @@
       "name": "Habili Radir",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2584,7 +2718,8 @@
       "name": "Abu Diab",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2601,7 +2736,8 @@
       "name": "Sataya East",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2619,7 +2755,8 @@
       "name": "Shaab Hamam",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2639,7 +2776,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2663,7 +2801,8 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2683,7 +2822,8 @@
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2703,7 +2843,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2717,18 +2858,19 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
-      "int_name": "Sharm el-N\u00e2qa, Sharm al Naqa",
+      "alt_name": "شرم الناقة",
+      "int_name": "Sharm el-Nâqa, Sharm al Naqa",
       "name": "Sharm el-Naga",
-      "name:ar": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
-      "name:ar1": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar": "شرم الناقة",
+      "name:ar1": "شرم الناقة",
       "name:de": "Sharm al Naqa",
       "name:en": "Sharm al Naqa",
       "name:fr": "Sharm al Naqa",
       "natural": "bay",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2748,7 +2890,8 @@
       "seamark:type": "harbour",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2768,7 +2911,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2787,7 +2931,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2805,7 +2950,8 @@
       "source": "GPS",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2824,7 +2970,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2844,7 +2991,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2864,7 +3012,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2884,7 +3033,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2904,7 +3054,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2923,7 +3074,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2942,7 +3094,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2961,7 +3114,8 @@
       "scuba_diving:type:cave": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2980,7 +3134,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -2997,7 +3152,8 @@
       "name": "Japanese Gardens Coral Reefs",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3012,13 +3168,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Laguna Reef",
-      "name:ru": "\u0440\u0438\u0444 \u041b\u0430\u0433\u0443\u043d\u0430",
+      "name:ru": "риф Лагуна",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
       "wikidata": "Q14213694",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3033,13 +3190,14 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Salama",
-      "name:de": "Gummib\u00e4rchenriff",
+      "name:de": "Gummibärchenriff",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:reef": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3056,7 +3214,8 @@
       "name": "Shaab Samir",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3079,7 +3238,8 @@
       "sport": "scuba_diving",
       "survey:date": "2015-09-15",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3104,7 +3264,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3124,7 +3285,8 @@
       "sport": "scuba_diving",
       "survey:date": "2015-09-18",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3142,7 +3304,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3159,7 +3322,8 @@
       "name": "Al Fahal East",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3176,7 +3340,8 @@
       "name": "Al Fahal North",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3193,7 +3358,8 @@
       "name": "Al Fahal South",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3210,7 +3376,8 @@
       "name": "Al Fahal vis Wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3227,7 +3394,8 @@
       "name": "Aquarium Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3244,7 +3412,8 @@
       "name": "Cave Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3261,7 +3430,8 @@
       "name": "Cement Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3278,7 +3448,8 @@
       "name": "Garden Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3295,7 +3466,8 @@
       "name": "Horse Shoe Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3312,7 +3484,8 @@
       "name": "Middle Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3329,7 +3502,8 @@
       "name": "North Long Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3346,7 +3520,8 @@
       "name": "Rose Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3363,7 +3538,8 @@
       "name": "Sand Island",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3380,7 +3556,8 @@
       "name": "Shi'b Nazar",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3397,7 +3574,8 @@
       "name": "Marsalis Abu Galawa",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3414,7 +3592,8 @@
       "name": "Blue Water House Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3431,7 +3610,8 @@
       "name": "Gota Abu Galaua",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3446,14 +3626,15 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Saddle is the part of Blue hole wall destroyed by scientists",
-      "description:ru": "\u0421\u0435\u0434\u043b\u043e - \u0447\u0430\u0441\u0442\u044c \u0441\u0442\u0435\u043d\u043e\u043a \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043b\u043e\u0434\u0446\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0435 \u0443\u0447\u0435\u043d\u044b\u043c\u0438.",
+      "description:ru": "Седло - часть стенок кораллового колодца разрушенное учеными.",
       "name": "Saddle",
       "scuba_diving:depth": "6",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3476,7 +3657,8 @@
       "tourism": "attraction",
       "wikidata": "Q23946315",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3499,7 +3681,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3516,7 +3699,8 @@
       "name": "Gorgon 1",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3534,7 +3718,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3552,7 +3737,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3570,7 +3756,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3588,7 +3775,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3604,15 +3792,16 @@
     "tags": {
       "attraction": "sport",
       "name": "Small Brother Island",
-      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+      "name:ar": "موقع الغوص - جزيرة الأخ الصغير",
       "name:en": "Little Brother Dive Site",
       "name:fr": "Little Brother",
-      "name:uk": "\u041c\u0430\u043b\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "name:uk": "Малий Брат місце для занурення",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     },
     "max_depth": 40
   },
@@ -3628,14 +3817,15 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Big Brother Island",
-      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+      "name:ar": "موقع الغوص - جزيرة الأخ الأكبر",
       "name:en": "Big Brother Dive Site",
       "name:fr": "Big Brother",
-      "name:uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "name:uk": "Великий Брат місце для занурення",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3657,7 +3847,8 @@
       "scuba_diving:maxdepth": "8.5",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3681,7 +3872,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3704,7 +3896,8 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3721,7 +3914,8 @@
       "name": "Shaab Nenad",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3740,7 +3934,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3757,7 +3952,8 @@
       "name": "panorama Reef North",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3774,7 +3970,8 @@
       "name": "Panorama Reef East",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3791,7 +3988,8 @@
       "name": "Shaab Tiffany",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3809,7 +4007,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3826,7 +4025,8 @@
       "name": "Shaab Sakara",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3843,7 +4043,8 @@
       "name": "Siyal South",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3860,7 +4061,8 @@
       "name": "Um El Sheikh",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3878,7 +4080,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3897,7 +4100,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3916,7 +4120,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3932,12 +4137,13 @@
     "tags": {
       "historic": "wreck",
       "name": "Satil Wreck",
-      "name:he": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+      "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3954,7 +4160,8 @@
       "name": "Ras Za'atar",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3973,7 +4180,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -3990,7 +4198,8 @@
       "name": "Ras Nasrani",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4007,7 +4216,8 @@
       "name": "Habili Ali",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4025,7 +4235,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4042,7 +4253,8 @@
       "name": "Pfeiffer Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4059,7 +4271,8 @@
       "name": "Sweet Potato",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4081,7 +4294,8 @@
       "wikidata": "Q3408831",
       "wikipedia": "en:Continental Shelf Station Two",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4098,7 +4312,8 @@
       "name": "Daharat Abida",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4115,7 +4330,8 @@
       "name": "Merlo Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4133,7 +4349,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4150,7 +4367,8 @@
       "name": "Dibsel Island",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4168,7 +4386,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4186,7 +4405,8 @@
       "name": "Shab Rumi, Plateau S",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4204,7 +4424,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4221,7 +4442,8 @@
       "name": "Karam Marsmarit",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4238,7 +4460,8 @@
       "name": "Abu Seif",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4255,7 +4478,8 @@
       "name": "Sanganeb Plauteua N",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4273,7 +4497,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4291,7 +4516,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4309,7 +4535,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4318,7 +4545,7 @@
     "lon": 37.2906381,
     "osm_id": 9721478944,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -4329,7 +4556,8 @@
       "wikipedia": "en:SS Umbria",
       "wreck:date_sunk": "9 June 1940",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,blueforcefleet.com,dan.org",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4347,7 +4575,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4365,7 +4594,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4387,7 +4617,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4409,7 +4640,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4431,7 +4663,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4449,7 +4682,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4469,7 +4703,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4488,7 +4723,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4511,7 +4747,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2002-10-17",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4530,7 +4767,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2003",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4552,7 +4790,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4570,7 +4809,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4588,7 +4828,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4605,7 +4846,8 @@
       "name": "Daedalus Reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4622,7 +4864,8 @@
       "name": "Wreck of Grumman HU-16 Albatros Aircraft",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4639,7 +4882,8 @@
       "name": "Elba Reef West (Fingers)",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4656,7 +4900,8 @@
       "name": "Elba Reef, West-Plateau",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4673,7 +4918,8 @@
       "name": "Levanzo Wreck",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4690,7 +4936,8 @@
       "name": "Elba Reef East (Southplateau)",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4707,7 +4954,8 @@
       "name": "Elba Reef East (North-Plateau)",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4724,7 +4972,8 @@
       "name": "Habili Dibia",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4741,7 +4990,8 @@
       "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4758,7 +5008,8 @@
       "name": "Shaab El Shaga",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4775,7 +5026,8 @@
       "name": "Scubaworld",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4796,7 +5048,8 @@
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4811,7 +5064,7 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Woodhouse Reef",
-      "name:ar": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+      "name:ar": "شعب وودهاوس",
       "name:de": "Woodhouse-Riff",
       "name:en": "Woodhouse Reef",
       "natural": "reef",
@@ -4820,7 +5073,8 @@
       "sport": "scuba_diving",
       "wikidata": "Q14223403",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4842,7 +5096,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4864,7 +5119,8 @@
       "sport": "scuba_diving",
       "subsea": "reef",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4880,13 +5136,14 @@
     "tags": {
       "int_name": "Panorama Reef",
       "name": "Panorama Reef",
-      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar": "الإسم العربي ؟",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "sub_sea": "reef",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4907,7 +5164,8 @@
       "subsea": "reef",
       "wikidata": "Q108884574",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4929,7 +5187,8 @@
       "wikidata": "Q108884583",
       "wikimedia_commons": "Category:Abu Dabbab 3 Reef",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4948,14 +5207,15 @@
       "name": "Elphinstone Reef",
       "name:de": "Elphinstone-Riff",
       "name:en": "Elphinstone Reef",
-      "name:fr": "R\u00e9cif d'Elphinstone",
+      "name:fr": "Récif d'Elphinstone",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "wikidata": "Q1333272",
       "wikipedia": "de:Elphinstone-Riff",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4974,7 +5234,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -4996,7 +5257,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5017,7 +5279,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5036,7 +5299,8 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5056,7 +5320,8 @@
       "sport": "scuba_diving",
       "wikidata": "Q108884558",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5077,7 +5342,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5098,7 +5364,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5119,7 +5386,8 @@
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5142,7 +5410,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5162,7 +5431,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5181,7 +5451,8 @@
       "sport": "scuba_diving",
       "type": "site",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5201,7 +5472,8 @@
       "sport": "scuba_diving",
       "type": "site",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5223,7 +5495,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5245,7 +5518,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5267,7 +5541,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5289,7 +5564,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5311,7 +5587,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5333,7 +5610,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5357,7 +5635,8 @@
       "type": "multipolygon",
       "wikidata": "Q108898080",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5380,7 +5659,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -5395,7 +5675,8 @@
       "source": "osm",
       "addedBy": "osm_import",
       "validated": "true",
-      "validation_source": "openstreetmap.org"
+      "validation_source": "dive-the-world.com,divezone.net,padi.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {

@@ -23,7 +23,7 @@ Ras Mohammed National Park is Egypt's oldest and most strictly protected marine 
 
 - **Location**: Ras Mohammed National Park, southern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Ras Mohammed National Park requires strict adherence to marine conservation rule
 The calm, well-lit conditions of Marsa Bareika make it an excellent photography site. Sea turtle portraits, humphead wrasse close-ups, and garden eel colonies are signature subjects. The healthy coral coverage creates beautiful wide-angle reef scenes. If dolphins enter the bay, wide-angle surface-to-underwater shots through the thermocline produce striking images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -59,4 +59,4 @@ Currents can accelerate unexpectedly around the island's southern tip. Divers sh
 The cave entrance provides a natural frame for wide-angle shots with sunlight streaming in from the opening. The drift section offers opportunities to photograph humphead wrasse and turtles in open water. Inside the cave, a strobe is essential to bring out the crimson and orange sponges coating the walls.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

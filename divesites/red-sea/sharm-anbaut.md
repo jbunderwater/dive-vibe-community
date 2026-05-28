@@ -23,7 +23,7 @@ The coordinates place Sharm Anbaut in the northern Marsa Alam area, between Port
 
 - **Location**: Northern Marsa Alam area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

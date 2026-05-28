@@ -23,7 +23,7 @@ Soma Gatden sits within the protected waters of Soma Bay, offering relatively sh
 
 - **Location**: Soma Bay, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Fire coral is common throughout the reef — wetsuit coverage and careful buoyan
 The sun-drenched shallow reef crest between 5-10 meters offers superb wide-angle opportunities with hard coral in the foreground and blue water above. Macro photographers will find nudibranchs, shrimp, and small gobies in the coral rubble. Crocodilefish and scorpionfish reward careful observation at depth.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

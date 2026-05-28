@@ -43,7 +43,7 @@ Cannot be dived in anything other than calm weather — this is an absolute cons
 
 - **Location**: El Quseir area, southern Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 m
 

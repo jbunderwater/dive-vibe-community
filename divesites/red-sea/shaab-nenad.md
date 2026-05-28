@@ -23,7 +23,7 @@ Shaab Nenad sits at approximately 27.23°N, 33.94°E in the offshore zone betwee
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.23°N, 33.94°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -57,4 +57,4 @@ Current on the outer slope requires monitoring. Scorpionfish on the reef edges. 
 Gorgonian fan portraits on the outer slope in natural light are the signature wide-angle subjects. Grey reef shark portraits at the reef edge suit a wide-angle approach from the reef surface. Cleaning station macro portraits at 8–12 metres reward patience.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

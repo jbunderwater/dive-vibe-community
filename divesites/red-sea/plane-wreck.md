@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Plane Wreck
 
-Plane Wreck is a small aircraft wreck dive site located at Ras Muhammad, the southern tip of the Sinai Peninsula where the Red Sea divides into the Gulf of Suez and Gulf of Aqaba. The wreck is a prop aircraft of uncertain origin that rests on a sandy shelf, and is one of the more unusual dive experiences on the northern Red Sea circuit.
+Plane Wreck is an aircraft wreck dive site near Aqaba, Jordan (Gulf of Aqaba, northern Red Sea). Based on its coordinates (29.42°N, 34.97°E), this is one of the deliberately scuttled aircraft wrecks in Aqaba's marine park — Jordan has scuttled several aircraft in this area including a C-130 Hercules (2017) and a Lockheed L-1011 TriStar (2019). The specific aircraft at these coordinates was not confirmed by site-specific research; the site description below reflects the general character of Aqaba plane wrecks.
 
 ## Overview
 
-The wreck sits at a maximum depth of around 30 meters on a sand slope descending from the reef base. The aircraft is partially intact — the fuselage and wings are recognizable, though heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the structure into an artificial reef, and it supports a thriving community of reef fish. The site is typically dived in conjunction with the nearby Ras Muhammad reef system and benefits from the same exceptional clarity and conditions.
+The wreck is an aircraft structure resting on a sandy bottom in the Gulf of Aqaba near Aqaba, Jordan. Aircraft wrecks in this area were deliberately scuttled by the Aqaba Special Economic Zone Authority as artificial reefs and have developed significant coral and sponge colonisation. The fuselage and wing structures are recognizable and provide shelter for resident reef fish. The surrounding sandy seabed hosts typical Gulf of Aqaba species.
 
 ## Site Information
 
-- **Location**: Red Sea, Egypt (Ras Muhammad National Park, Sinai)
+- **Location**: Gulf of Aqaba, near Aqaba, Jordan (not Ras Muhammad as originally described — coordinates place this site in Jordanian waters)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Moderate; stronger at the Ras Muhammad tip
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters
+- **Current**: Generally mild in the Gulf of Aqaba
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
@@ -58,4 +58,4 @@ The maximum depth of 30 meters reduces no-decompression bottom time significantl
 The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Arab Divers — C-130 Hercules](https://www.arabdivers.jo/en/activities/dive-sites/c-130-hercules-aircraftwreck), [Arab Divers — Lockheed TriStar](https://www.arabdivers.jo/en/activities/dive-sites/lockheed-l-1011-tristar-wreck-or-aqaba-jordan), [PADI — C-130 Hercules](https://www.padi.com/dive-site/jordan/c-130-hercules-plane-wreck/). Note: specific aircraft at this OSM location not confirmed; location is near Aqaba, Jordan. Last updated 2026-05-28.*

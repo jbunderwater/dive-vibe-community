@@ -23,7 +23,7 @@ The "Garden" designation is well-earned: the reef here consists of a broad, gent
 
 - **Location**: Red Sea, Egypt (Ras Abu Soma, south of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ The gentle, shallow topography makes this a lower-risk site, but fire coral is p
 Ras Abu Soma Garden is arguably the best macro photography reef in the Hurghada region. The coral diversity provides numerous subjects including coral detail portraits, anemonefish in resident anemones, and nudibranchs on coral rubble. Wide-angle photography of the broad coral garden from a few meters above creates compelling reef landscape images. Natural lighting is excellent throughout due to the shallow depths and calm, clear water.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

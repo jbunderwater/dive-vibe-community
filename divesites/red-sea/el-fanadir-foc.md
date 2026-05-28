@@ -23,7 +23,7 @@ El Fanadir Foc is a shore-accessible dive site where entry is made directly from
 
 - **Location**: Red Sea, Egypt (El Fanadir reef, north of Hurghada)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Fire coral on the reef flat is a hazard for inattentive divers — maintain buoy
 El Fanadir Foc offers excellent photography across all categories. The dense anthias clouds above the coral heads in the upper reef (5–10 meters) are classic Red Sea wide-angle subjects. The sandy base transition zone at 12–16 meters holds macro subjects: commensal shrimp, nudibranchs, and goby-shrimp pairs are regularly found with careful searching. Natural light is good throughout the dive in the clear Egyptian water.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

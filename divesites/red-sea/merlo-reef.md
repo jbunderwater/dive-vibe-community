@@ -23,7 +23,7 @@ At this latitude in the Red Sea, reefs are influenced by the broader Indian Ocea
 
 - **Location**: Southern Red Sea (approximately 20.84°N, 37.42°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Remote southern Red Sea sites present maximum self-sufficiency requirements. Eme
 A pristine, rarely-dived reef in clear southern Red Sea water is a superb photography environment. Shoot wide-angle reef panoramas with fish populations that are noticeably larger and calmer than at northern resort sites. Shark encounters at less-visited sites tend to be closer and more investigative — use wide-angle or moderate zoom for reef shark portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

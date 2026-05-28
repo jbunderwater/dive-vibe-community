@@ -50,7 +50,7 @@ An excellent macro photography site. The sheltered, shallow, upright wreck provi
 
 - **Location**: Hurghada area, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 metres
 

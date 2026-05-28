@@ -17,7 +17,7 @@ The SS Thistlegorm is widely regarded as the world's greatest wreck dive and one
 
 ## Overview
 
-The Thistlegorm was a 128-meter steam-powered cargo ship carrying war supplies to Allied forces in North Africa when two Heinkel He-111 bombers struck her munitions hold. The resulting explosion broke the ship in two and sank her rapidly. Today the wreck lies on her starboard side in 30-31 meters of water, remarkably intact and laden with her original cargo — including motorcycles, trucks, armored vehicles, locomotive parts, Wellington boots, and ammunition. Two of the ship's holds remain accessible and are legendary for the extraordinary preservation of WWII-era materiel. The wreck is encrusted with soft corals and teeming with marine life, creating a fusion of maritime history and living reef that few dive sites can match.
+The Thistlegorm was a 126.5-meter steam-powered cargo ship (4,898 GRT) carrying war supplies to Allied forces in North Africa when two Heinkel He-111 bombers struck her munitions hold. The resulting explosion broke the ship in two and sank her rapidly. Today the wreck lies on her starboard side in 30-31 meters of water, remarkably intact and laden with her original cargo — including motorcycles, trucks, armored vehicles, locomotive parts, Wellington boots, and ammunition. Two of the ship's holds remain accessible and are legendary for the extraordinary preservation of WWII-era materiel. The wreck is encrusted with soft corals and teeming with marine life, creating a fusion of maritime history and living reef that few dive sites can match.
 
 ## Site Information
 
@@ -60,4 +60,4 @@ The Thistlegorm is an advanced dive. The current at the mooring can be strong, p
 The Thistlegorm is a photographer's dream, but challenging. Wide-angle is essential for hold interiors — a rectilinear 10-17mm lens renders the trucks and motorcycles in their full drama. Natural light penetrates from the open holds above, creating beams through particulate that reward patience. The anti-aircraft gun silhouetted against open blue water is one of the most reproduced images in Red Sea diving.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Thistlegorm](https://en.wikipedia.org/wiki/SS_Thistlegorm), [Red Sea Wreck Project](https://www.redseawreckproject.com/), [Scuba Diving Magazine — Thistlegorm History](https://www.scubadiving.com/history-red-sea-thistlegorm-shipwreck), [PADI Dive Site](https://www.padi.com/dive-site/egypt/thistlegorm-wreck/). Last updated 2026-05-28.*

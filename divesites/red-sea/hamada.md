@@ -3,7 +3,7 @@ name: Hamada
 lat: 24.4383333
 lng: 35.2131166
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hamada
 
-Hamada is a wreck dive in the southern Egyptian Red Sea near Marsa Alam, the remains of a cargo or supply vessel that came to rest on the reef and now serves as a unique artificial reef structure in this section of the coast.
+Hamada is a coastal freighter wreck located approximately 70 km south of Marsa Alam near Abu Ghusun, in Wadi El Gemal National Park. The 65-metre vessel (built 1965 at John Lewis & Sons, Aberdeen) caught fire and sank on 29 June 1993 while carrying a cargo of polyethylene balls from Jeddah to Suez. It rests on a sandy slope tilted on its starboard side at 5–18 metres depth — one of the most accessible wrecks in the southern Red Sea.
 
 ## Overview
 
-The Hamada wreck lies at an accessible depth in the southern Red Sea dive corridor, making it a frequently visited site for Marsa Alam day-boat operators and liveaboards traversing the area. The vessel has been on the reef long enough to be thoroughly colonised by hard and soft corals, with the hull structure now serving as a stable substratum for an artificial reef community. The identity and full history of the Hamada wreck is less well-documented than the famous northern Red Sea wrecks, but liveaboard guides who regularly visit confirm it provides an interesting wreck dive in a region otherwise dominated by coral reef diving. Maximum depth reaches approximately 20 meters at the deepest parts of the structure.
+The Hamada was first explored by divers in 1995, after which it became a regular dive site for Marsa Alam operators. The wreck lies largely intact, with open cargo holds, a recognisable engine room, and access points along the hull. The shallow maximum depth of 18 metres makes it accessible to intermediate divers and creates excellent conditions for extended exploration. Coral and sponge growth colonises the hull, and the holds host the glassfish clouds characteristic of Red Sea wreck dives.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Hamada wreck lies at an accessible depth in the southern Red Sea dive corrid
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Moderate; can be stronger when wind is from the north
 - **Best Time**: October to May
@@ -59,4 +59,4 @@ Wreck diving requires awareness of entanglement hazards (loose nets, cables, fis
 The coral encrustation on the hull provides colourful wide-angle subjects with good detail. Interior shots require a powerful torch to balance the ambient light at depth. The schooling fish inside the wreck spaces are excellent subjects for atmospheric wreck photography.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Deep South Divers — Abu Ghusun/Hamada](https://deepsouthdiverseg.com/tours/abu-ghusun-hamada-wreck/), [SeaHorse Marsa Alam — Abu Ghusun](https://seahorse-marsaalam.com/dive-sites/abu-ghusun/), [MarsaAlam.com — Shipwrecks](https://marsaalam.com/marsa-alam-shipwrecks/). Last updated 2026-05-28.*

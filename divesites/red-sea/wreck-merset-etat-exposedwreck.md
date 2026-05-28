@@ -35,7 +35,7 @@ The Strait of Gubal area supports healthy reef fish populations on coral-encrust
 
 - **Location**: Strait of Gubal, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres
 

@@ -23,7 +23,7 @@ At this latitude, Abu Seif lies in one of the most rarely visited stretches of t
 
 - **Location**: Southern Red Sea, approximately 21.79°N, 37.00°E
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters
@@ -58,4 +58,4 @@ The extreme remoteness of southern Red Sea sites means complete self-management 
 The combination of exceptional clarity, very high fish density, undisturbed coral growth, and natural fish behaviour at this remote site creates some of the finest conditions for underwater photography in the Red Sea. Wide-angle reef panoramas and intimate fish portraits alike benefit from the extraordinary visibility and light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

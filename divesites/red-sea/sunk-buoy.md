@@ -25,7 +25,7 @@ The northern Red Sea at these latitudes (near Taba/Aqaba) is characterised by ge
 
 - **Location**: Northern Red Sea (Gulf of Aqaba approach zone)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry at these coordinates. Description based on regional diving characteristics and coordinate location. Last updated 2026-05-17.*

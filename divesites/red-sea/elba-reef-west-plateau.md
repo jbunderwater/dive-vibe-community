@@ -23,7 +23,7 @@ Elba Reef West-Plateau occupies the western side of Elba Reef atoll at approxima
 
 - **Location**: Western face, Elba Reef atoll, near Egyptian-Sudanese border (~21.97°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ The western plateau is the most benign section of Elba Reef — conditions are t
 The western plateau in good ambient light is one of the most versatile photography environments at Elba. Wide-angle reef-and-fish images in visibility exceeding 25 metres are the baseline. Humphead wrasse portraits at the outer slope are accessible with patient positioning. Night dive photography — Spanish dancers, octopuses, macro invertebrates — is a significant part of the western plateau experience and rewards dedicated housing and strobe setups.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

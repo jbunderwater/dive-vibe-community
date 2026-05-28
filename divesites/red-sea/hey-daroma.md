@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hey Daroma
 
-Hey Daroma is a wreck dive in the northern Egyptian Red Sea near Sharm el-Sheikh, the remains of a vessel that foundered in the waters of the Tiran/Sharm corridor and now lies on the reef slope at accessible depths.
+Hey Daroma is an Israeli naval vessel wreck in the Strait of Tiran, near the Laguna Reef lighthouse. The wreck lies at shallow to intermediate depths and is notable as a distinctive military wreck in the Tiran area.
 
 ## Overview
 
-The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane, and the reefs and shallows have claimed several vessels over the centuries. Hey Daroma is one of these casualties — a wreck that settled on the reef slope at depths of 5–20 meters, accessible to intermediate divers on day trips from Sharm el-Sheikh. The vessel has been encrusted with coral growth over the years, and the structure now functions as an artificial reef that supports a distinct community of wreck-dwelling species. The wreck is positioned so that both the shallow upper sections and the deeper hull base can be explored in a single dive, offering a varied profile.
+The Hey Daroma is an Israeli warship that sank in the Strait of Tiran. It lies at depths of approximately 5–20 metres and is accessible as a day dive from Sharm el-Sheikh operators. Note: the Million Hope (a large bulk carrier that ran aground in 1996) grounded on the reef almost directly above the Hey Daroma, so the two wrecks occupy nearby positions. The vessel has been encrusted with coral growth and now functions as an artificial reef. The structure provides a varied dive profile from shallow upper sections to the deeper hull base.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Entanglement risks on a degraded wreck include loose metal, netting, and cables.
 The glassy sweeper clouds inside the wreck are excellent wide-angle subjects, especially when backlit by natural light entering from the wreck openings. The exterior hull with coral encrustation provides colourful close-focus wide-angle opportunities. A powerful torch is needed for interior detail shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [CDWS — Hey Daroma](https://www.cdws.travel/wreck-diving/hey-daroma), [Egypt Liveaboard — Hey Daroma](https://www.egypt-liveaboard.com/). Note: limited site-specific sources available for this wreck. Last updated 2026-05-28.*

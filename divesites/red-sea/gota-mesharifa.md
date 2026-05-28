@@ -23,7 +23,7 @@ Sitting in some of the most isolated and rarely-dived waters of the Egyptian Red
 
 - **Location**: Far southern Egyptian Red Sea, offshore near Sudanese border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ The remote location is the primary safety concern. No shore-based assistance is 
 The pristine reef and abundant fish life create excellent wide-angle opportunities. The density of fish schools in the clear southern Red Sea water is exceptional. Turtle portraits, humphead wrasse close-ups, and schooling snapper shots are all highly productive here.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

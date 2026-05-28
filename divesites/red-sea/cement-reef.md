@@ -23,7 +23,7 @@ Cement Reef sits at approximately 22.39°N, 38.85°E in the southern Saudi Red S
 
 - **Location**: Southern Saudi Red Sea (~22.39°N, 38.85°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,4 +57,4 @@ Remote location with limited emergency response infrastructure. Dive conservativ
 The undisturbed fish populations and clean water of Cement Reef create ideal conditions for ambient reef photography. Dense grouper aggregations and schooling barracuda are the primary subjects. The hard coral structure suits close-focus wide-angle work in good natural light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

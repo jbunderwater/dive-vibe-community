@@ -23,7 +23,7 @@ The eastern face of Abu Ramada Island presents a classic Red Sea fringing reef, 
 
 - **Location**: Abu Ramada Island (East), Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters
@@ -59,4 +59,4 @@ Light to moderate current is typical; strong currents can occasionally sweep div
 Excellent wide-angle opportunities on the table coral garden at 5–10 meters where natural light is abundant. Seek macro subjects — nudibranchs, blennies, and cleaner shrimp — in crevices between coral heads. The resident humphead wrasse make for memorable portrait shots.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

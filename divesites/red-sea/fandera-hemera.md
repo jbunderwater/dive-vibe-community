@@ -23,7 +23,7 @@ Fandera Hemera sits at approximately 23.39°N, 35.76°E in the southern Egyptian
 
 - **Location**: Southern Egyptian Red Sea, St. John's/Fury Shoals area (~23.39°N, 35.76°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,4 +57,4 @@ Offshore position requires SMB on all ascents. Current on the outer face should 
 Undisturbed fish populations in clear water provide the best ambient reef photography conditions of any regularly-accessible Egyptian site. The coral tables and brain corals in excellent condition suit close-focus wide-angle in natural morning light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ Wadi Lahmy is located roughly 200 kilometers south of Marsa Alam and sits within
 
 - **Location**: Wadi Lahmy, Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ The remote location of Wadi Lahmy means medical facilities are a significant dis
 Wadi Lahmy offers photography opportunities rarely found at more crowded northern Red Sea sites. The undisturbed coral formations and large reef fish are primary subjects for wide-angle shooting. Macro opportunities are abundant on the coral rubble zones. Dugong encounters, while never guaranteed, represent some of the most memorable underwater photography possible in the Red Sea.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

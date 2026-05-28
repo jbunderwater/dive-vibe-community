@@ -59,4 +59,4 @@ Lionfish are resident in the wreck overhangs — watch hands and fins carefully 
 The compact size of the wreck relative to the clear visibility in the Gulf of Aqaba allows full-wreck shots with the right wide-angle setup. Lionfish and grouper portraits are reliable subjects. The encrusted hull provides colorful macro subjects including tunicates, feather stars, and small crustaceans. Interior shots with available light streaming through openings create atmospheric compositions.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

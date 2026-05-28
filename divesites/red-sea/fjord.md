@@ -45,7 +45,7 @@ The red-anemone-lined well is a striking wide-angle subject. The sheltered, clea
 
 - **Location**: Fjord Bay, approximately 15 km south of Taba, Gulf of Aqaba, North Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 27 metres
 - **Difficulty**: Beginner (shallow sections) to Intermediate (well)
 

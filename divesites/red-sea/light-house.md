@@ -23,7 +23,7 @@ The reef at Light House descends from a rocky shore entry over a sloping coral g
 
 - **Location**: Dahab, Sinai Peninsula, Egypt, Gulf of Aqaba
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -59,4 +59,4 @@ Light House is one of the safest entry-level dives in Dahab, but standard precau
 The combination of clear water, abundant marine life, and manageable depth makes Light House one of Dahab's best photography sites. Clownfish and anemone subjects are plentiful. Macro work on the encrusted slope rewards patience. humphead wrasse portraits require a wide-angle lens and slow approach. Night photography at this site yields cuttlefish, octopus, and sleeping parrotfish subjects.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

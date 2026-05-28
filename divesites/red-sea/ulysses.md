@@ -17,11 +17,11 @@ A wreck dive in the southern Hurghada offshore zone — a vessel lying at 30 met
 
 ## Overview
 
-Ulysses is a wreck site at approximately 27.69°N, 33.80°E in the Hurghada offshore zone. The classical name — Ulysses (Odysseus) — follows the tradition of assigning named wrecks in this section of the Red Sea. The vessel lies at up to 30 metres in moderately clear Hurghada-area water. Compared with the shallow, reef-focused day dives of the Hurghada standard circuit, Ulysses offers a deeper wreck profile with a different character: the exploration-oriented dive along a steel hull structure, the coral and fish communities that have established on the wreck, and the opportunity to see the site's resident whitetip reef shark population. It is operated as a day-boat site from Hurghada.
+Ulysses is a 95.1-metre British iron screw steamer built in the 1880s that struck the Island of Gobal Seghir in the Straits of Gubal on 16 August 1887 after departing Suez. All 32 crew members survived and were rescued by passing ships. The wreck lay undiscovered on the sea floor until 1993, when it was located by divers from the Sharm el-Sheikh diving community. The Ulysses lies on her port side with the bow at around 4 metres and the stern at approximately 28 metres.
 
 ## Site Information
 
-- **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.69°N, 33.80°E)
+- **Location**: Straits of Gubal, northern Egyptian Red Sea (near Island of Gobal Seghir)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -58,4 +58,4 @@ The 30-metre maximum depth requires air management awareness — begin ascent at
 Whitetip reef shark portraits on the sandy floor adjacent to the wreck are the site's signature image — approach slowly from a distance and photograph from the horizontal plane at the shark's eye level. The colonised upper hull structure in natural light at 15–20 metres suits wide-angle wreck shots. Interior accessible sections with glassfish schools reward torch-assisted wide-angle technique.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Red Sea Diving — The Ulysses](https://www.redsea-diving.com/the-ulysses/), [The Scuba News — Featured Wreck Ulysses](https://www.thescubanews.com/2013/10/03/featured-red-sea-wreck-the-ulysses/), [Egypt Liveaboard — Ulysses Wreck](https://www.egypt-liveaboard.com/dive-sites/ulysses-wreck/), [Good Dive — Ulysses](https://www.gooddive.com/egypt/ulysses-wreck.html). Last updated 2026-05-28.*

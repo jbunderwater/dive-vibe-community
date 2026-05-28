@@ -23,7 +23,7 @@ The "garden" in the name reflects both the reef formation type and the character
 
 - **Location**: North of Sharm el-Sheikh, Nabq area, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Giant moray eels are not aggressive toward divers who maintain respectful distan
 Moray Garden is one of the best sites in the northern Red Sea for moray eel photography. Close-up portraits of large giant morays with their mouths open (natural breathing behaviour, not aggression) are classic subjects. A 60mm or 100mm macro lens captures detail on the skin patterning, or use a wide angle to show the eel in context with its reef environment. Torch fill-light brings out the colour and texture in what would otherwise be very dark crevice environments.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

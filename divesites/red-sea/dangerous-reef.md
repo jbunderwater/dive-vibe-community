@@ -23,7 +23,7 @@ Dangerous Reef sits in the central Red Sea south of the Brothers (El Akhawein), 
 
 - **Location**: Red Sea, Egypt (offshore, Brothers Islands region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -59,4 +59,4 @@ Strong currents can arrive suddenly and without warning. Divers should be comfor
 The clean water and diverse coral make for excellent wide-angle shooting. Schools of snapper and fusiliers backlit against the blue provide classic Red Sea shots. Grey reef sharks and the occasional oceanic whitetip reward patient divers hovering in bluewater at the reef edge. Macro subjects — nudibranchs, flatworms, and commensal shrimp — are found in crevices throughout.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

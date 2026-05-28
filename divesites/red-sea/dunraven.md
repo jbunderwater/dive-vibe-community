@@ -3,7 +3,7 @@ name: Dunraven
 lat: 27.7033333
 lng: 34.1216666
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Dunraven
 
-The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled steamship — a British cargo and passenger vessel — struck the reef in January 1876 and sank in 18 meters of water. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
+The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Ras Muhammad National Park in the Straits of Gubal. The iron-hulled steamship struck the reef on 22 April 1876 and sank. Today the wreck lies upside down, with the bow at approximately 15 metres and the stern at around 25–29 metres, creating an atmospheric underwater cavern with good natural light filtering through.
 
 ## Overview
 
-The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade between India and England when she ran aground on Sha'ab Mahmoud. The wreck has been underwater for nearly 150 years and is heavily colonised by corals and encrusting marine life. The hull sits inverted on the sandy bottom at 18 meters, with the keel visible at around 6 meters below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 meters. Water temperatures average 22°C in winter and 28°C in summer.
+The Dunraven was an 81.6-metre British steamship (1,600 GRT) built in December 1872 by C. Mitchell and Co. in Newcastle upon Tyne, engaged in trade between Britain and India when she ran aground on Sha'ab Mahmoud through a navigational error. The crew of 25 were all rescued — after 14 hours of attempts to refloat the vessel, the ship slid off the rocks and capsized. The wreck was rediscovered in 1977 and has been underwater for nearly 150 years. The hull sits inverted on the reef, with the keel visible near the surface and the stern section reaching 25–29 metres. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 meters. Water temperatures average 22°C in winter and 28°C in summer.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -59,4 +59,4 @@ The stern swim-through is a confined space; divers with poor buoyancy should pra
 The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS Dunraven](https://en.wikipedia.org/wiki/SS_Dunraven), [Wrecks at Risk — Dunraven](https://wrecksatrisk.com/locations/ss-dunraven/), [Red Sea Diving — Dunraven](https://www.redsea-diving.com/dunraven/), [PADI Dive Site](https://www.padi.com/dive-site/egypt/ss-dunraven-wreck/). Last updated 2026-05-28.*

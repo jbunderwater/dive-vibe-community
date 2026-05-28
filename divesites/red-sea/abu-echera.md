@@ -23,7 +23,7 @@ Abu Echera lies in a stretch of the Egyptian Red Sea coast between Port Ghalib a
 
 - **Location**: Hamata / Wadi El Gemal area, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ The remoteness of the southern Red Sea requires self-reliance. Carry fully charg
 The protected reef status means excellent coral quality and relatively undisturbed marine life. Wide-angle coral garden shots with natural light are highly rewarding. Turtles and rays provide charismatic wide-angle subjects. The macro life on protected reefs here rivals more famous sites in the northern Red Sea.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

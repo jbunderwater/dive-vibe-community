@@ -23,7 +23,7 @@ Shaab Claudio follows the typical Fury Shoals reef profile: a coral platform ris
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt (Marsa Alam region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ The Fury Shoals are offshore reefs; emergencies require liveaboard support. Dive
 Turtles at close range on the coral platform are among the best photography opportunities in the southern Red Sea. The clear water and healthy coral provide excellent wide-angle reef scape compositions. Dolphin encounters in the mid-water zone reward quick action with a wide or fisheye lens. Soft coral growth on the outer reef walls produces close-focus wide-angle opportunities.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

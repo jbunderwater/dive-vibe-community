@@ -23,7 +23,7 @@ The eastern point of an offshore reef offers one of the most exposed and current
 
 - **Location**: Red Sea, Egypt (central offshore reef, Brothers Islands area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -59,4 +59,4 @@ Strong and directional currents are the primary hazard. Divers without current-d
 The east-facing point's dynamic environment offers dramatic wide-angle opportunities — shark silhouettes in the blue, schooling fish at the tip, and sweeping soft coral walls. Work with the current rather than fighting it. Position yourself at the point to capture fish schools banking against the current. A wide-angle lens at 10–17mm captures both the reef structure and pelagic action in a single frame.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

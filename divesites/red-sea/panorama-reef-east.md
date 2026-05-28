@@ -23,7 +23,7 @@ The eastern wall of Panorama Reef drops steeply from a shallow reef top at 3-5 m
 
 - **Location**: Red Sea, Egypt (south of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)
@@ -58,4 +58,4 @@ Current is the primary hazard on the eastern face — be prepared for drift cond
 The eastern wall is excellent for wide-angle photography of schooling fish and pelagic encounters. The soft corals in the 18-25 meter range photograph beautifully with a strobe. Shooting upward toward the reef top in the afternoon sun creates dramatic silhouette opportunities. Keep camera settings ready for fast-moving open-water species.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

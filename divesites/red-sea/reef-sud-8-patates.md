@@ -35,7 +35,7 @@ Liveaboard only; departure from Marsa Alam, Port Ghalib, or Hamata on southern R
 
 - **Location**: St. John's Reef area, deep southern Red Sea, approximately 160 km south of Marsa Alam
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Intermediate
 

@@ -23,7 +23,7 @@ Abu Dabab 6 is one of the southernmost numbered entry points along Abu Dabbab Ba
 
 - **Location**: Abu Dabbab Bay (south), north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ Bay boat traffic is the primary hazard during busy months. Always surface with a
 Outstanding wide-angle opportunities with dugong and turtle as the headline subjects. The shallow seagrass lit from above in morning light creates beautiful ambient exposures. Macro subjects including seahorses, pipefish, and flatworms inhabit the seagrass blades. Bring a dome port for split-level shots in the shallows.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

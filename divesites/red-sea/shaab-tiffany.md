@@ -23,7 +23,7 @@ Shaab Tiffany sits north of Hurghada at approximately 27.15°N, placing it firml
 
 - **Location**: Northern Red Sea, Egypt (near Hurghada, lat 27.15°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-25 meters (65-80 feet)
@@ -58,4 +58,4 @@ The inner reef is generally very calm and poses minimal hazard. The outer reef e
 Shaab Tiffany's calm inner section provides stable conditions for close-focus photography. The platform top in 5–8 metres receives good natural light during midday, making it productive for reef fish portraits and coral macro work. Night diving here offers cuttlefish and octopus photography opportunities.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

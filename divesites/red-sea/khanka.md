@@ -58,4 +58,4 @@ Wreck penetration should only be attempted by divers with wreck diving training 
 Wide-angle images of the coral-encrusted hull with natural light filtering down from the surface are the signature shot at wreck sites like the Khanka. Schools of glassy sweepers create dramatic interior scenes with a torch for fill light. Close-up shots of the soft coral growth on the hull reveal intricate textures and color.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

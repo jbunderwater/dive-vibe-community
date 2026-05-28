@@ -23,7 +23,7 @@ Reeks Reef sits at approximately 28.56°N, 34.53°E on the northern Sinai Penins
 
 - **Location**: Northern Sinai, Gulf of Aqaba zone (~28.56°N, 34.53°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -56,4 +56,4 @@ Mild conditions typical. Fire coral on the reef crest. SMB before ascending.
 Wide-angle reef panoramas in Gulf of Aqaba clarity are the primary photographic opportunity. The clear water allows full reef structure shots from a single position.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

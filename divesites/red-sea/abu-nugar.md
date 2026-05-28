@@ -23,7 +23,7 @@ Abu Nugar sits in the coastal reef zone north of Hurghada, close to the upmarket
 
 - **Location**: El Gouna / northern Hurghada area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ The Hurghada-El Gouna boat corridor is busy with day-trip traffic. Surface caref
 Consistent conditions and reliable subjects make this a good photography site. humphead wrasse and grouper provide large, approachable subjects. Night diving here is particularly rewarding for macro photographers — octopus and crustaceans are active after dark. Wide-angle coral landscapes work well in the clear northern Red Sea water.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

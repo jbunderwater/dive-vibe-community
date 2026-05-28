@@ -23,7 +23,7 @@ Um El Sheikh sits at approximately 24.31°N, 35.40°E in the Fury Shoals complex
 
 - **Location**: Fury Shoals, southern Egyptian Red Sea (~24.31°N, 35.40°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,4 +57,4 @@ Offshore position requires SMB on all ascents. Current on the outer slope should
 Sandy channel macro photography and outer slope wide-angle reef shots in clear water are the primary photographic opportunities. Undisturbed fish create closer-approach opportunities than mainstream sites.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

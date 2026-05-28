@@ -23,7 +23,7 @@ Abu Soma Paradise House Reef is the designated house reef of the Paradise Hotel 
 
 - **Location**: Abu Soma Bay, central Egyptian Red Sea (~26.79°N, 33.94°E)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–20 meters
@@ -58,4 +58,4 @@ Conditions are very mild and the site is among the most beginner-friendly in the
 Clownfish-in-anemone portraits at 4–6 metres in morning light are the classic house reef subject — multiple opportunities within metres of the entry point. Night dive photography — octopus, scorpionfish, and feeding moray eel portraits with strobe flash — is accessible and productive. Sandy floor stingray portraits in ambient light at 8–10 metres.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

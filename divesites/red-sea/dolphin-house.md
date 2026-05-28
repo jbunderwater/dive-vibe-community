@@ -23,7 +23,7 @@ The site consists of a horseshoe-shaped reef enclosing a broad shallow lagoon, w
 
 - **Location**: Red Sea, Egypt (north of Hurghada, Sha'ab El Erg)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ The site is generally well-protected and conditions are mild, but the outer reef
 Dolphin House is one of the best sites in the Red Sea for underwater dolphin photography. Use a wide-angle lens and shoot in burst mode — dolphins move fast and the best frames come from allowing them to swim toward you. The lagoon's sandy substrate reflects light well in the shallows. For reef shots, the outer coral wall at 10–15 meters offers attractive hard coral formations with good natural light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

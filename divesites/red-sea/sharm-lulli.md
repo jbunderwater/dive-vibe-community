@@ -31,7 +31,7 @@ Shore entry from the beach with calm, shallow water entry. Reef begins within me
 
 - **Location**: Wadi El Gemal National Park, ~60 km south of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

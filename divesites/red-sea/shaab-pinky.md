@@ -23,7 +23,7 @@ Shaab Pinky sits at approximately 27.26°N, 33.92°E in the Hurghada offshore zo
 
 - **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.26°N, 33.92°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters
@@ -57,4 +57,4 @@ The 30-metre maximum depth requires careful air management — begin ascent at n
 The large gorgonian fans at 20–28 metres in natural light are the signature subjects — wide-angle portraits of the full fan structure with the blue water background. Grey reef shark portraits at the wall edge require a patient wait at depth with pre-positioned camera settings. The visual impact of the deep wall in good visibility justifies a wide-angle setup throughout the dive.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

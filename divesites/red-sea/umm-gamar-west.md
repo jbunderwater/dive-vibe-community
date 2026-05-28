@@ -23,7 +23,7 @@ Umm Gamar West refers to the western side of Umm Gamar Island, an elongated reef
 
 - **Location**: Western face of Umm Gamar Island, offshore Hurghada, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ The northern tip and the halg (channel between Umm Gamar and Shabrur Umm Gamar) 
 The western wall offers good coral composition opportunities in calmer water than the eastern face, with less particulate and more stable shooting conditions. Cave recess shots with glassfish inside reward a wide-angle lens and patient positioning at the entrance. Blue-spotted stingrays on the sandy base and moray eels in crevices are accessible macro-to-wide subjects. Manta ray encounters at the northern tip in February–March are the western face's headline photographic opportunity.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

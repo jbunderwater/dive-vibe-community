@@ -23,7 +23,7 @@ Ras Shona sits at approximately 25.47°N, 34.68°E — on the Egyptian Red Sea c
 
 - **Location**: Central Egyptian Red Sea coast between Quseir and Port Ghalib (~25.47°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -57,4 +57,4 @@ Moderate current at the headland tip requires monitoring. Fire coral on the uppe
 Sandy bay macro photography — garden eels, blue-spotted rays, flatfish — rewards a prone, slow approach. The headland reef face in ambient light suits wide-angle reef portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

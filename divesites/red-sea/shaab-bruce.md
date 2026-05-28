@@ -23,7 +23,7 @@ Sha'ab Bruce consists of a broad, shallow coral platform rising to within 2–3 
 
 - **Location**: Hurghada reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -58,4 +58,4 @@ The shallow depth and typically calm conditions make this a low-risk site. Fire 
 Excellent natural light throughout the day at this depth. Clownfish-anemone associations are superb close-focus wide-angle subjects with overhead light and good color saturation. Butterflyfish and parrotfish portraits benefit from the well-lit, clear shallow water. Macro work on the coral surface is productive here.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

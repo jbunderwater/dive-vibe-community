@@ -23,7 +23,7 @@ Rocky South sits on the southern face of its reef structure, receiving the predo
 
 - **Location**: Red Sea, Egypt (central region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Current can be moderate to strong on the southern exposure. Be prepared for drif
 The current-exposed slope produces dynamic wide-angle shots with schooling fish framed against the coral. Morning light striking the south face creates good ambient conditions through the first part of the day. humphead wrasse portraits and reef fish schooling shots over the coral crest are the primary subjects. Macro shooting in the crevices produces moray and lionfish portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

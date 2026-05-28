@@ -23,7 +23,7 @@ El Casra is a submerged reef platform with a characteristic Red Sea profile: the
 
 - **Location**: Red Sea, Egypt (northern Marsa Alam coast, offshore)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Current can be significant on exposed reef faces, particularly on the eastern an
 El Casra's clean water and variety of coral formations make it a versatile photography site. A wide-angle lens captures the sweep of the reef structure and schooling fish. Macro opportunities abound on the soft coral sections: look for nudibranch species, commensal shrimp on sea fans, and tiny wrasse cleaning stations. The sandy base is productive for goby-and-shrimp pairs — approach extremely slowly on the bottom.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

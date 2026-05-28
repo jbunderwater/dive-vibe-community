@@ -23,7 +23,7 @@ Shark's Bay is a sheltered bay located north of Naama Bay and south of Ras Nasra
 
 - **Location**: Shark's Bay, north of Naama Bay, Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ The house reef is calm and suited to all levels. The primary hazard is the techn
 The glassfish pinnacles at the drop-off edge are the site's best photographic feature — a wide-angle lens with strobe captures the cascading silver schools against the coral pinnacle structure. The shallow coral platform in 5–10 metres of water is exceptionally well-lit for natural-light macro and wide-angle photography. Octopuses on night dives are consistently available portrait subjects. The calm water and minimal current make this a good site for underwater photography courses and practice.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

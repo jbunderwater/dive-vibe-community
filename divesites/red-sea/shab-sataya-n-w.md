@@ -23,7 +23,7 @@ Shab Sataya N-W occupies the northwestern section of the Shaab Sataya (Dolphin R
 
 - **Location**: Northwestern Shaab Sataya, offshore south of Marsa Alam (~24.17°N, 35.68°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ The northwest face is the calmest section of Shaab Sataya and conditions are gen
 Dolphin encounter photography from the lagoon surface — underwater housing with wide-angle lens in snorkel-depth natural light — is the primary photographic target at the entire Sataya complex. The northwest wall scuba dive suits reef-and-fish portraits in the calm, well-lit conditions. Eagle ray portraits over the sandy zone on the northwest outer face suit wide-angle approach.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

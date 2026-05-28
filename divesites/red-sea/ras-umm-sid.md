@@ -23,7 +23,7 @@ Ras Umm Sid is located on the southern Sharm el-Sheikh coastline, adjacent to th
 
 - **Location**: Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Current at the corners can be significant and builds quickly. Monitor your posit
 The gorgonian fan garden is a world-class wide-angle photography subject. Shooting upward from below 20 metres toward the fans with natural light filtering from above creates dramatic silhouettes. Individual fans at 14–18 metres are accessible for close-focus wide-angle shots with strobe fill. The fan garden combined with the reef wall and blue water background is the signature composition. Scorpionfish portraits and moray eel encounters on night dives provide excellent macro subjects.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

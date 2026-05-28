@@ -23,7 +23,7 @@ The Marsa Nakari reef system benefits from its location within a protected natio
 
 - **Location**: Marsa Nakari, southern Red Sea coast, Egypt (near Wadi el Gemal National Park)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ The remote location of Marsa Nakari requires greater self-sufficiency than resor
 The minimal diver pressure at Marsa Nakari translates to more natural fish behaviour and closer approach distances for photography. Sea turtle portraits, humphead wrasse close-ups, and wide-angle reef scenes with dense fish populations are all achievable here. The excellent water clarity and healthy coral provide compelling backgrounds for any subject.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

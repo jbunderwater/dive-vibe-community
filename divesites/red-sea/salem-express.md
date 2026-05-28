@@ -3,7 +3,7 @@ name: Salem Express
 lat: 26.6397175
 lng: 34.0615772
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Salem Express
 
-The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The ro-ro passenger ferry sank on December 14, 1991, after striking Hyndman Reef near Safaga following a severe storm while en route from Jeddah, Saudi Arabia, to Safaga, Egypt. More than 470 people died in the disaster — one of the worst maritime tragedies in Red Sea history. The wreck lies at a maximum depth of approximately 27 meters, with upper deck structures accessible from around 15 meters.
+The Salem Express is one of the most emotionally significant and historically important wreck dives in the Red Sea. The 115-metre Egyptian ro-ro passenger ferry (4,771 GRT, originally built in 1964–1965 as the French MS Fred Scamaroni) sank in the early hours of 15 December 1991, after the master took an unauthorised shortcut at night in rough weather and struck Hyndman Reef near Safaga while en route from Jeddah, Saudi Arabia to Safaga. The official death toll is 470, though evidence of overcrowding suggests the actual number may have been higher. The wreck lies at a maximum depth of approximately 32 metres, with the port side accessible from around 12 metres.
 
 ## Overview
 
@@ -25,7 +25,7 @@ The Salem Express rests on her starboard side on a sandy slope adjacent to Hyndm
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate
 - **Best Time**: October to May
@@ -36,7 +36,7 @@ The wreck superstructure supports a rich reef community. Dense schools of glassf
 
 ## Dive Profile
 
-Descend the mooring line to the upper hull at approximately 15 meters. From here, work along the exterior — the bow, bridge section, stern ramp, and lifeboat davits are all distinctive features. The deepest accessible point is around 27 meters at the sandy bottom beside the starboard side. Penetration divers with wreck certification can enter the vehicle deck through the stern ramp. Bottom time is limited at depth; plan a conservative dive with plenty of time for a safety stop and the ascent.
+Descend the mooring line to the upper hull at approximately 15 meters. From here, work along the exterior — the bow, bridge section, stern ramp, and lifeboat davits are all distinctive features. The deepest accessible point is around 32 metres at the seabed beside the starboard side. Penetration divers with wreck certification can enter the vehicle deck through the stern ramp. Bottom time is limited at depth; plan a conservative dive with plenty of time for a safety stop and the ascent.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ The interior of the wreck contains significant silt and disorientation risks —
 The scale of the wreck makes wide-angle and fisheye lenses ideal. The encrusted railings and davits photographed against blue water are iconic images. The schools of glassfish hovering over open deck areas are a compelling mid-water subject. Inside the vehicle deck, a wide-angle torch-lit shot can capture the otherworldly atmosphere. Macro subjects are found on every colonized surface of the hull.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — MV Salem Express](https://en.wikipedia.org/wiki/MV_Salem_Express), [Scuba.com — Egypt's Controversial Wreck](https://www.scuba.com/blog/egypts-controversial-wreck-dive-salem-express/), [Scuba Diver Life — Salem Express](https://scubadiverlife.com/red-sea-wrecks-mv-salem-express/), [InDEPTH — Salem Express Trip Report](https://indepthmag.com/wreck-salem-express/). Last updated 2026-05-28.*

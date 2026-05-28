@@ -23,7 +23,7 @@ addedBy: osm_import
 
 - **Location**: Strait of Tiran area, Sharm el Sheikh, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters
@@ -59,4 +59,4 @@ Currents in the Strait of Tiran can be strong and unpredictable. Always carry a 
 The sandy pools offer excellent macro opportunities — flatworms, nudibranchs, and small crustaceans are found in the sediment. The reef walls provide good wide-angle subjects with schooling fish and coral formations. Natural light is strongest and clearest in the mid-morning hours.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

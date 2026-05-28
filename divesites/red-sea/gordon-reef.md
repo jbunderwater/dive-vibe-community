@@ -60,4 +60,4 @@ Gordon Reef carries genuine advanced-level risk due to current intensity. Inexpe
 The strong current makes photography challenging, but the subjects are extraordinary. Wide-angle shots of schooling hammerheads or barracuda against the intense blue of the strait are iconic Red Sea images. The wall itself is highly photogenic — the gorgonian fans and soft coral gardens are best captured with close-focus wide-angle technique.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

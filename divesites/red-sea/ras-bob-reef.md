@@ -23,7 +23,7 @@ Ras Bob Reef is a classic Sinai fringing reef, beginning just offshore from the 
 
 - **Location**: Red Sea, Egypt (Naama Bay, Sharm el-Sheikh, Gulf of Aqaba)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ The shallow reef flat has fire coral patches that must not be contacted. Moray e
 Night diving at Ras Bob offers some of the best accessible macro photography in Sharm el-Sheikh. Octopus, cuttlefish, and sleeping reef fish are cooperative subjects. Day dives provide good clownfish and anemone photography on the shallow reef flat. The clear Gulf of Aqaba water allows natural light photography at greater depth than typical Red Sea sites — the 15-meter zone can still receive usable natural light on sunny mornings.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

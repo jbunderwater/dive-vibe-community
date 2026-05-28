@@ -23,7 +23,7 @@ Farewell Reef sits at approximately 24.21°N, 35.56°E in the Fury Shoals comple
 
 - **Location**: Fury Shoals, southern Egyptian Red Sea (~24.21°N, 35.56°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,4 +57,4 @@ Standard offshore reef precautions apply. SMB before ascending. Current on the o
 The hard coral garden in morning light offers excellent wide-angle ambient photography — coral table compositions with school fish in the background are the signature images. Sandy corridor macro work with stingrays and flatfish suits a macro lens approach. Turtle portraits on the reef platform are accessible at this site.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

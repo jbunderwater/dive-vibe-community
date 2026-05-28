@@ -23,7 +23,7 @@ Erg Somaya is an isolated coral pinnacle at approximately 27.20°N, 33.98°E in 
 
 - **Location**: Hurghada offshore zone, central Egyptian Red Sea (~27.20°N, 33.98°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Current wrapping around the isolated pinnacle can be unexpectedly strong on the 
 The anemone field portrait subjects — clownfish in anemone with the blue water background — are the signature image at Erg Somaya. Moray eel portraits at the base crevices reward macro technique with external torch. The southeast face shark patrol shots require positioning at depth with the open-ocean background.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

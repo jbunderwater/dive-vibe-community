@@ -23,7 +23,7 @@ Farsha Ergein Farayed is a shallow-to-mid-depth reef rising from deeper water in
 
 - **Location**: Southern Egyptian Red Sea, offshore from Marsa Alam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Currents can accelerate unexpectedly around the reef edges, particularly on the 
 The healthy hard-coral plateau provides wide-angle compositions framed against the intense blue water on the drop-off. The shallower sections photograph well in natural light throughout the morning. Look for macro subjects — nudibranchs, flatworms and blennies — tucked into the coral rubble zone at the base of the slope.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ The reef slopes gradually from the surface down to around 20 meters, where the b
 
 - **Location**: Red Sea, Egypt (El Fanus reef, west of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -59,4 +59,4 @@ Fire coral is present throughout the shallower reef sections — maintain buoyan
 The western slope's afternoon light makes this an attractive option for wide-angle reef photography after midday. The dense anthias clouds above the coral heads create colourful wide-angle compositions. Macro subjects — including nudibranchs, cowrie shells, and commensal shrimp — are found in recessed sections of the reef between 8 and 15 meters.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

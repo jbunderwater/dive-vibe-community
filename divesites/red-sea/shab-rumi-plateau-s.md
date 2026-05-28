@@ -23,7 +23,7 @@ Shab Rumi (also spelled Shaab Rumi — "Roman Reef" in Arabic) is a large circul
 
 - **Location**: Shab Rumi, Sudan (approximately 60 km north of Port Sudan, liveaboard only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -59,4 +59,4 @@ The plateau section is appropriate for intermediate divers. The outer wall beyon
 The rusting Cousteau shark cage against a soft coral-covered backdrop is one of the Red Sea's most iconic dive photographs — wide-angle is essential to include the scale of the structure. Dawn barracuda school photography with first light filtering from the surface rewards patience and precise positioning. Hammerhead silhouettes in the open water at the plateau edge against the blue water background are outstanding subjects. The exceptional visibility makes panoramic reef compositions viable that would not be achievable at most other sites.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ Saddle is an ideal site for beginners and snorkelers, offering a calm, sheltered
 
 - **Location**: Gulf of Aqaba, northern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ The site is generally safe and calm, but sea urchins are present in the entry zo
 The shallow depth and excellent natural light make Saddle an outstanding photography site throughout the day. Wide-angle shots of coral formations are productive in the morning when the sun angles directly through the water. Macro photographers will find nudibranchs, small gobies, and ornate reef invertebrates on the coral rubble and between coral heads.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

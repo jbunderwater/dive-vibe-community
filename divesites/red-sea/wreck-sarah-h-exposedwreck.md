@@ -52,7 +52,7 @@ Regarded as one of the best underwater photography sites in South Sinai due to t
 
 - **Location**: Shag Rock, Strait of Gubal (near Sharm El Sheikh)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 metres
 

@@ -23,7 +23,7 @@ Ham Ham is a compact reef structure typical of the northern Red Sea's offshore r
 
 - **Location**: Offshore northern Egyptian Red Sea, north of Hurghada near El Gouna
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ Fire coral is abundant on the shallower reef sections — do not touch the reef 
 A competent but not exceptional photography site. The fish community is approachable and varied. Natural-light conditions are good throughout the morning at 5–15 meters. The sandy margin provides a clean, bright background for ray and sand-dwelling species portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ The reef at Sachua Abu Galawa rises to within a few meters of the surface on a b
 
 - **Location**: Hurghada reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -58,4 +58,4 @@ Beginner-level site but standard Red Sea precautions apply. Fire coral is presen
 The shallow platform with its table corals and resident clownfish produces excellent close-focus wide-angle images with natural overhead light. Blue-spotted ray portraits on the sandy base are a reliable subject. humphead wrasse encounters on the reef edge reward wider-angle work.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

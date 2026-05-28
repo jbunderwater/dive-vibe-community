@@ -23,7 +23,7 @@ Hamra sits within the broader El Quseir to Marsa Alam coastal diving zone, an ar
 
 - **Location**: Port Ghalib / El Quseir area, Red Sea, Egypt — ~10 minutes south of Port Ghalib by speedboat
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

@@ -45,7 +45,7 @@ Dendronephthya-clad pinnacles offer excellent wide-angle and mid-range reef shot
 
 - **Location**: Na'ama Bay coastline, Sharm el-Sheikh, Sinai Peninsula
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 m
 

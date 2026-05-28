@@ -23,7 +23,7 @@ At this latitude in the southern Red Sea, reefs benefit from warm, nutrient-rich
 
 - **Location**: Southern Red Sea (approx. 22°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -58,4 +58,4 @@ Remote location means emergency support is many hours away. Dive conservatively 
 The exceptional visibility and undisturbed marine life make Shaab El Shaga a productive photography site. Natural-behavior fish photography is more achievable here than at busier northern Red Sea sites. Wide-angle reef landscapes in 30+ meter visibility are compelling. Reef shark silhouettes against the deep blue reward patience at the outer reef edge.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

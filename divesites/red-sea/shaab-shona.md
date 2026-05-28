@@ -23,7 +23,7 @@ Shaab Shona lies on the outer Egyptian Red Sea shelf in the zone between Hurghad
 
 - **Location**: Central-northern Red Sea, Egypt (Quseir area, lat 25.47°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-28 meters (65-90 feet)
@@ -58,4 +58,4 @@ Currents at Shaab Shona are generally light to moderate, though exposed outer-re
 Shaab Shona offers reliable reef photography conditions. The mid-slope at 12–15 metres provides good ambient light for wide-angle reef landscape shots, and the coral heads on the platform support macro subjects including gobies and small crustaceans.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

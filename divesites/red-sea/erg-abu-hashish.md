@@ -23,7 +23,7 @@ Erg Abu Hashish is a coral pinnacle ("erg" in the local Red Sea diving vocabular
 
 - **Location**: Makadi Bay offshore zone, ~35 km south of Hurghada, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Current can wrap around the isolated pinnacle unpredictably — maintain awarene
 The glassfish schools in the shaded pinnacle sections are excellent torch-assisted wide-angle subjects — position the torch to backlight the school against the blue water background. Lionfish and scorpionfish portraits in their natural overhanging positions are accessible with a macro lens. The summit of the erg at 5 metres in morning light provides ambient wide-angle reef shots with good natural illumination.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

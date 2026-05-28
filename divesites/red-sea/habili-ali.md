@@ -23,7 +23,7 @@ Habili Ali is an offshore reef pinnacle in the far southern Egyptian Red Sea, si
 
 - **Location**: Far southern Egyptian Red Sea, offshore east of Berenice
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ Standard remote offshore pinnacle safety applies. Deploy an SMB before every asc
 The humphead wrasse's curiosity makes for compelling fish portrait photography. Wide-angle shots of the pinnacle's flanks draped in soft coral with schools of fish above and divers for scale are consistently outstanding. The clear offshore water provides a deep-blue background that requires no artificial light for effective wide-angle compositions.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

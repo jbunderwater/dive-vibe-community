@@ -23,7 +23,7 @@ Abu Helal sits in one of the most current-swept and biologically productive zone
 
 - **Location**: Strait of Tiran, Ras Mohammed National Park, Sharm el Sheikh, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -59,4 +59,4 @@ The Tiran Strait is known for strong and variable currents. Always carry an SMB 
 Outstanding wide-angle conditions with schooling fish and diverse reef architecture. Reef sharks and humphead wrasse provide dramatic subjects. The coral walls with sea fans and soft corals frame well with natural light. The exceptional visibility makes ambient-light wide-angle possible throughout the dive.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

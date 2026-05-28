@@ -23,7 +23,7 @@ Sataya South is the go-to dive when conditions are calm and dolphin activity is 
 
 - **Location**: Sataya Reef (Dolphin Reef), Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ This is a relatively straightforward dive site with calmer conditions than the e
 Sataya South is one of the best places in the world to photograph spinner dolphins underwater. A fisheye or wide-angle rectilinear lens in a dome port captures dolphins in clear blue water. Shoot toward the surface light for silhouette effects, or aim horizontally for eye-level portraits when dolphins come in close. Turtle portraits on coral bommies are a secondary highlight. The light in the lagoon is excellent from mid-morning onward.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

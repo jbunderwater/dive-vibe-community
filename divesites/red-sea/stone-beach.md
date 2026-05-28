@@ -23,7 +23,7 @@ Stone Beach takes its name from the characteristic rocky, rubble-strewn shorelin
 
 - **Location**: Hurghada / El Gouna area, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Stonefish are present in the rubble zones — avoid contact with the substrate a
 The rubble-rich base of the reef offers excellent macro subjects including well-camouflaged critters, nudibranchs, and small crustaceans. The shallow reef crest in morning light provides pleasing wide-angle reef shots. Lionfish posed against coral backgrounds are a reliable subject throughout the dive.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

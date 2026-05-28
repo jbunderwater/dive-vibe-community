@@ -27,7 +27,7 @@ El Quseir reefs are described by local operators as "uncrowded and pristine" —
 
 - **Location**: El Quseir area, central Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

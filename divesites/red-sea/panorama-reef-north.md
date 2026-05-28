@@ -23,7 +23,7 @@ The northern tip of Panorama Reef is characterized by a pronounced reef point wh
 
 - **Location**: Red Sea, Egypt (south of Hurghada)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Current strength at the point can be variable and increases with tidal cycles. I
 The reef point is ideal for wide-angle fish portraits — humphead wrasse will often pose for photographs. The dense school aggregations at the tip create impressive wide-angle opportunities. Coral heads in the shallows have good color and detail for reef macro and close-focus wide-angle work. Shoot toward the blue water off the point for silhouette schooling fish images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

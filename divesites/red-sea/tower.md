@@ -23,7 +23,7 @@ Tower is a Sharm el-Sheikh local dive site with distinctive topography that sets
 
 - **Location**: Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The canyon at Tower is a genuine technical diving area below 25 metres and must 
 Tower is one of Sharm el-Sheikh's finest photography dives. The U-shaped canyon interior at 14 metres creates dramatic architectural compositions — wide-angle from inside the canyon looking toward the open blue entrance. The glassfish overhangs at 18 m produce cascading silver schools against deep canyon walls. Individual coral pillars reward close-focus wide-angle shots. The fire sponges on the base of the end pinnacle are vivid red macro subjects contrasted against blue stag coral above.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ Ras Disha ("fringing reef" in Arabic) lies in the Makadi Bay area approximately 
 
 - **Location**: Makadi Bay area, 35 km south of Hurghada, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ The primary hazards at Ras Disha are contact animals: stonefish and scorpionfish
 Goby-and-shrimp pairs in the sandy zone are highly prized macro subjects — a macro lens and very slow, patient approach from a prone position produces the best results. Glassfish clouds in the pinnacle crevices reward torch-assisted wide-angle shots. Scorpionfish portraits in their camouflaged setting are available throughout the site. Eagle rays at the outer wall section are fast-action wide-angle subjects requiring pre-positioned anticipation.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

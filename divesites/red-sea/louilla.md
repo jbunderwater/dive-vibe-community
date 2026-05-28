@@ -58,4 +58,4 @@ Tidal currents in the Strait of Tiran can be significant and change in direction
 Wreck photography at this site benefits from both the structural subjects of the hull and the open-water pelagic encounters possible in the surrounding Tiran waters. Wide-angle shots of the coral-encrusted hull work best in mid-morning light. Schools of glassy sweepers in the interior create atmospheric scenes with a torch fill light.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

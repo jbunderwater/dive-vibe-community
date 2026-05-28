@@ -23,7 +23,7 @@ Satellite Reef is a circular or elongated reef outcrop rising from the sandy sea
 
 - **Location**: Sharm el-Sheikh region, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ Currents can develop around isolated reef structures, particularly on the upcurr
 The isolation of the reef creates excellent photographic opportunities: wide-angle shots of the entire reef structure in clear water, reef fish schools hovering against blue water backgrounds, and close-focus wide-angle shots of coral formations. The Sharm region's exceptional clarity is a major asset. Macro subjects on the coral base reward careful searching.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

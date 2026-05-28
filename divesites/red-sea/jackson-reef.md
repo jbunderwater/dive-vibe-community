@@ -60,4 +60,4 @@ Currents at Jackson Reef can be strong and unpredictable due to tidal flows thro
 The combination of wide-angle wall scenery and pelagic encounters makes Jackson Reef an outstanding photography site. Shoot the open-water schooling hammerheads with a wide angle and good ambient light in the morning hours. The Lara wreck above the waterline makes a dramatic surface break shot. On the wall, soft corals in orange and red tones photograph well against the deep blue background with strobe fill.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

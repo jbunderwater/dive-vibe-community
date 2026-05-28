@@ -23,7 +23,7 @@ Shaab Bohar Soraya is a mid-sized reef structure with its own distinct character
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ Strong channeled currents between reef structures can carry divers away from the
 The Fury Shoals' exceptional clarity makes this a productive wide-angle destination. Hard coral formations photographed with ambient light create compelling reef landscape images. Schooling fish over the reef crest are a classic subject. Macro opportunities include nudibranchs, cleaning shrimps, and small reef fish in crevices on the coral face.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

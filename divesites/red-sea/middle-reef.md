@@ -23,7 +23,7 @@ Middle Reef and its neighbouring North Long Reef form a reef complex in open Red
 
 - **Location**: Open Red Sea (approximately 22.37°N, 38.85°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -58,4 +58,4 @@ Open Red Sea at 22°N is genuinely remote — emergency services are measured in
 Pristine, rarely-dived reefs in clear oceanic water produce exceptional wide-angle imagery. The combination of untouched coral, large resident fish, and potential shark encounters creates opportunities for portfolio-quality images. A wide rectilinear lens or fisheye and a reliable strobe system are the essential tools for capturing the depth and colour of an unspoiled Red Sea reef.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

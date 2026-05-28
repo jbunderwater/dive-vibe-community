@@ -23,7 +23,7 @@ Sham Fugami sits at approximately 25.87°N, 34.42°E on the central Egyptian Red
 
 - **Location**: Near Quseir, central Egyptian Red Sea coast (~25.87°N, 34.42°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters
@@ -57,4 +57,4 @@ Generally mild conditions. Fire coral on the reef sections. Scorpionfish and lio
 Nudibranch and flatworm macro work on the coral substrate rewards careful searching and a macro lens approach. Sandy floor portraits — stingrays and garden eels in natural light — suit ambient technique in the well-lit shallow bay.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

@@ -23,7 +23,7 @@ The southern section of Shaab Said presents a slightly more sheltered face compa
 
 - **Location**: Outer Red Sea, Egypt (east of Marsa Alam, lat 24.26°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)
@@ -58,4 +58,4 @@ The offshore location of Shaab Said South requires attentive boat-dive protocol.
 The south face's typically lighter currents provide stable conditions for photography. Wide-angle reef landscape shots benefit from the consistent clarity. Turtle encounters near the platform make for ideal natural-light portrait photography in the 5–10 metre range.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

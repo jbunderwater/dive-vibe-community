@@ -23,7 +23,7 @@ Abu Salama is one of the scattered offshore and nearshore reef structures along 
 
 - **Location**: Hurghada-El Quseir coast, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters
@@ -58,4 +58,4 @@ Light to moderate current is typical at this site. Fire coral is present on prot
 The coral formations at 8–12 meters provide strong wide-angle subject matter in good natural light. The sandy base offers ray and garden eel subjects for photographers willing to explore the lowest section. humphead wrasse and sea turtle portraits are achievable with patient positioning.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

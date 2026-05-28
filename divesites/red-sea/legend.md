@@ -58,4 +58,4 @@ Penetration of intentionally sunk wrecks should only be undertaken by trained wr
 The combination of colorful coral growth and the stark geometry of the steel hull makes the Legend an excellent photography site. Natural light filtering through open deck structures creates dramatic light shafts in the interior. The soft coral growth in orange and purple tones on the exterior shoots beautifully with a strobe against the blue water background.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

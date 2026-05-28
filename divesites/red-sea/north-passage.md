@@ -31,7 +31,7 @@ Expected depth range: surface to 25 m consistent with typical Gubal Strait reef 
 
 - **Location**: Gubal Strait, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific dive source was found for this entry. Description based on Gubal Strait regional diving characteristics. [redsea-diving.com — Strait of Gubal](https://www.redsea-diving.com/strait-of-gubal/). Last updated 2026-05-17.*

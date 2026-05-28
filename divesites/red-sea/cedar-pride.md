@@ -3,7 +3,7 @@ name: Cedar Pride
 lat: 29.5216667
 lng: 34.9883333
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Jordan's most iconic dive — a deliberately scuttled Lebanese freighter lying i
 
 ## Overview
 
-The Cedar Pride was a Lebanese cargo vessel that caught fire at Aqaba harbour on August 2, 1982, killing two crew members. For three years the burned-out hulk sat at anchor, unclaimed and accruing harbour fees. In 1985, King Hussein of Jordan — himself a keen diver — personally sanctioned the scuttling of the vessel as an artificial reef, making it one of the earliest intentional wreck placement projects in the Middle East. On November 16, 1985, the Cedar Pride was sunk approximately 200 metres offshore, positioned carefully on her port side at a maximum depth of 27 metres. Today she is one of Aqaba's most accessible and celebrated wreck dives: a 95-metre ship lying intact and stable, with the uppermost (starboard) side reaching to just 10 metres depth. Decades of colonisation have transformed the hull into an artificial reef covered in soft corals, and every accessible section is populated with resident marine life.
+The Cedar Pride was a Lebanese cargo vessel that caught fire at Aqaba harbour on August 2, 1982, killing two crew members. For three years the burned-out hulk sat at anchor, unclaimed and accruing harbour fees. In 1985, King Hussein of Jordan — himself a keen diver — personally sanctioned the scuttling of the vessel as an artificial reef, making it one of the earliest intentional wreck placement projects in the Middle East. On November 16, 1985, the Cedar Pride was sunk approximately 200 metres offshore, positioned carefully on her port side at a maximum depth of 27 metres. Today she is one of Aqaba's most accessible and celebrated wreck dives: the 74-metre hull lies on its port side intact and stable, spanning between two natural reef sections, with the uppermost (starboard) side reaching to just 10 metres depth. Decades of colonisation have transformed the hull into an artificial reef covered in soft corals, and every accessible section is populated with resident marine life.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Cedar Pride was a Lebanese cargo vessel that caught fire at Aqaba harbour on
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Generally mild
 - **Best Time**: Year-round; October to May optimal
@@ -59,4 +59,4 @@ The Cedar Pride is an accessible recreational wreck with manageable depth and ge
 The Cedar Pride is one of Aqaba's most photographed dive subjects. The main mast covered in soft corals with the wreck hull as background creates a classic wide-angle composition. Shooting upward from alongside the hull toward the surface light — with the encrusted hull as the foreground — captures the wreck's scale. Lionfish among soft corals are outstanding macro subjects. The interior of the holds rewards torch-assisted close-focus wide-angle shots of the glassy sweeper schools.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/cedar-pride-wreck/), [Arab Divers — Cedar Pride](https://www.arabdivers.jo/en/activities/dive-sites/cedar-pride), [Sea Wonders Diving Center](https://seawondersdivingcenter.com/cedar-pride-shipwreck/), [PADI Dive Site](https://www.padi.com/dive-site/jordan/wreck-of-the-cedar-pride/). Last updated 2026-05-28.*

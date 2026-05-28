@@ -23,7 +23,7 @@ The main section of Panorama Reef presents a classic Red Sea reef profile — a 
 
 - **Location**: Red Sea, Egypt (offshore Hurghada, north central Red Sea)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)
@@ -58,4 +58,4 @@ Current direction and intensity varies around the reef perimeter. The northern a
 Panorama Reef is a premier photography destination. Wide-angle shots of the wall with gorgonian sea fans in the foreground and clear blue water behind are iconic Red Sea images. The humphead wrasse offer outstanding fish portrait opportunities. Schools of anthias and glassfish in the shallows create spectacular mid-water compositions. Macro subjects including nudibranchs, pipefish, and crinoid shrimp reward careful searching in coral crevices.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*

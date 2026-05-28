@@ -23,7 +23,7 @@ Humphead wrasse are unmistakable — large adults can reach over 2 meters in len
 
 - **Location**: North of Sharm el-Sheikh, Sinai coast, Egypt, Gulf of Aqaba
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -59,4 +59,4 @@ Conditions are generally mild at this coastal Sinai site. Standard reef hazards 
 Napoleon Reef is one of the best Red Sea sites for humphead wrasse photography. Use a wide-angle lens — 15-16mm equivalent or wider — to capture the animal's full size while maintaining close proximity. Shoot from below and slightly to the front for the most dramatic perspective and to catch the characteristic humped forehead profile. Natural light in the 5-12 meter range typically provides sufficient exposure without strobe for ambient reef shots with the wrasse.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Dive the World — Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Divezone — Red Sea](https://divezone.net/diving/red-sea), [PADI — Egypt Diving](https://www.padi.com/diving-in/egypt/). Regional validation pass — no site-specific sources confirmed for this entry. Last updated 2026-05-28.*
