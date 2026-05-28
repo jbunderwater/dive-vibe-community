@@ -23,7 +23,7 @@ Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocea
 
 - **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -58,5 +58,4 @@ Coral Gardens presents minimal hazards beyond standard reef diving precautions. 
 
 Coral Gardens is a macro and close-focus wide-angle paradise with unlimited bottom time available. Close-focus wide-angle (10–17mm, strobes wide) captures the vivid coral garden with natural light flooding in from above. Macro shooters can spend entire dives working a small patch of reef: nudibranchs, Coleman shrimp pairs on fire urchins, and ornate ghost pipefish are regular finds. For coral portraiture, the Acropora tabletop colonies photographed from below with a diver or reef fish in the background produce striking results. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro conditions.
 
----
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Dive the World — Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php), [Beqa Lagoon Resort — Scuba Diving](https://beqalagoonresort.com/fiji-scuba-diving/), [Beqa Adventure Divers — Coral Dives](https://www.fijisharkdive.com/coral-dives/). Last updated 2026-05-28.*

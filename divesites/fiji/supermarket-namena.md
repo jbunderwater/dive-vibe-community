@@ -13,50 +13,36 @@ addedBy: osm_import
 
 # Supermarket Namena
 
-Every species seems to be in stock — Namena's most pelagic-oriented site delivers sharks, barracuda, and trevally on every visit.
+*Note: The site name "Supermarket Namena" as a distinct Namena Marine Reserve location could not be confirmed from independent sources during the 2026-05-28 QA audit. The dive character described below reflects the Namena Reserve area's general character. A dive site called "Supermarket" is primarily documented in the Mamanuca Islands region of Fiji, not at Namena. This entry requires on-the-ground verification from a Namena-area operator before its site name can be confirmed.*
+
+A current-exposed reef plateau in the Koro Sea noted for consistent shark encounters and schooling pelagics.
 
 ## Overview
 
-Supermarket is the third of Namena Marine Reserve's famous trio of dive sites, alongside Zoo and Kansas. The name reflects the variety of "products" on offer — marine species arrive here like shoppers filling a cart. Where Zoo emphasizes the sheer number of reef fish species and Kansas showcases soft coral pinnacle scenery, Supermarket skews toward schooling pelagics and shark activity, giving it a distinct character despite being within the same protected reserve. The site sits on a broad reef plateau at 12–18 meters, with a shallower hard coral flat above and a deeper rubble zone below. Current channels the fish life across the plateau, creating reliable encounters with grey reef sharks, large barracuda schools, and massed trevally formations.
+The broader Namena Marine Reserve area — located in the Koro Sea between Vanua Levu and the central islands — is one of Fiji's most protected and species-rich diving destinations. Sites within the reserve are characterized by strong pelagic action and abundant reef shark activity driven by the no-take management the local Namena village has maintained since the early 2000s. The reserve has documented more than 400 coral species, 1,100 fish species, and more than 1,000 invertebrate species within its boundaries. All sites within the reserve require payment of entry fees that support the village-managed protection zone.
+
+The specific site coordinates (lat -17.1083, lon 179.1083) fall within the Namena Marine Reserve boundary. However, the site name "Supermarket Namena" has not been independently confirmed from dive operator listings, liveaboard logs, or dive databases reviewed during this audit.
 
 ## Site Information
 
-- **Location**: Namena Marine Reserve, Koro Sea, Fiji
+- **Location**: Namena Marine Reserve, Koro Sea, Fiji (site name unconfirmed)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Typical Visibility**: 20–30 meters (estimated from area conditions)
 - **Current**: Moderate to strong
 - **Best Time**: May to October
 
 ## Marine Life
 
-Grey reef sharks are the most consistently present large predators — Namena's reserve status means these animals are unafraid of divers and will approach within close range when divers remain still. Barracuda appear in schools of 50–200 individuals, often in the distinctive tornado formation where they spiral slowly in a column. Bigeye trevally mass in the current lanes above the plateau. Large groupers occupy the deep ledges at 15–18 meters. Schools of rainbow runners orbit the site continuously. In the rubble zone, whitetip reef sharks rest in groups of 3–5. The hard coral flat above supports the usual dense reef fish community: surgeonfish, parrotfish, moorish idols, and butterflyfish. Unlike Zoo and Kansas, Supermarket is where the reserve's pelagic character is most apparent.
+No site-specific marine life documentation was found for a "Supermarket Namena" site. The Namena Marine Reserve area as a whole supports grey reef sharks, whitetip reef sharks, schooling barracuda, bigeye trevally, dogtooth tuna, bumphead parrotfish, and dense populations of reef fish across all documented sites.
 
-## Dive Profile
-
-Begin at depth on the plateau (15–18 meters) where shark and pelagic activity is concentrated. Drift with the current across the plateau, spending 20–25 minutes observing the large predator activity. Ascend to the hard coral flat at 8–12 meters as gas consumption warrants and continue exploring the upper reef. Safety stop at 5 meters in the hard coral zone, which is productive enough to make the stop feel short. On high-current dives, the site can be dived as a drift, with the boat collecting divers downstream.
+*Description based on Namena Marine Reserve regional characteristics. No site-specific sources confirming the name "Supermarket Namena" were found.*
 
 ## Entry and Exit
 
-Access follows the same logistics as Zoo and Kansas — boat from Savusavu (2 hours) or liveaboard. All three Namena sites are typically combined in a single day's diving: three dives across Zoo, Kansas, and Supermarket, with surface intervals between. Entry and exit are manageable; the reserve's open-water position means seas can be moderate on windy days. Namena reserve entry fees apply.
-
-## Tips and Recommendations
-
-- **Visit all three Namena sites**: Zoo, Kansas, and Supermarket each have a distinct character. Operators who include Namena in their schedule usually run all three sites on the same day. Allocate the time for the full set.
-- **Watch from the plateau edge**: The most dramatic pelagic action often happens when divers position themselves at the plateau edge at 15–18 meters and look outward into the blue. Barracuda schools and sharks approach from open water and pass over the plateau.
-- **Remain neutral and still for sharks**: As at Zoo, the grey reef sharks at Supermarket approach unmoving divers much more closely than active ones. Find a position at depth, control your breathing, and let the sharks come to you.
-- **Check for dogtooth tuna**: On strong-current days, dogtooth tuna appear at the plateau edge, attracted by the baitfish that aggregate in the current. These large, powerful fish are a significant sighting when present.
-- **Reserve energy for the surface swim**: On current dives in open water at Namena, the exit can require a short surface swim back to the tender. Ascend with enough air to make a comfortable surface swim if you've drifted from the descent point.
-
-## Safety Considerations
-
-Supermarket's open-water location makes it more exposed to weather than the Beqa Lagoon sites. Check conditions carefully before the long boat journey from Savusavu — a rough sea state on departure can become significantly worse on return in the afternoon trades. The current at Supermarket can be stronger than at the other Namena sites; if the current is beyond your drift dive experience, signal the guide early and ascend to shallower water where it is more manageable.
-
-## Photography
-
-Supermarket is the best of the three Namena sites for pelagic action photography. Wide-angle shooting toward the blue water at the plateau edge, with sharks or barracuda schools as the subject and the reef visible below, produces powerful images. The barracuda tornado is the signature shot — position yourself below the school and shoot upward with a fisheye to capture the spiral formation against the surface light. Grey reef shark portraits are achievable here given how closely the animals approach stationary divers. Bring a fast memory card and shoot in burst mode when the pelagic action peaks.
+Access to Namena Marine Reserve is by boat from Savusavu on Vanua Levu (approximately 2 hours) or from liveaboards in the Koro Sea. Namena reserve entry fees apply and support local village conservation enforcement.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Description based on Namena Marine Reserve regional diving characteristics. No sources independently confirming "Supermarket Namena" as a distinct named dive site were found during the 2026-05-28 QA audit. Sources consulted: [NAI'A Liveaboard — Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Namena Island Diving](https://www.namenaisland.com/Diving), [LiveAboard.com — Namena Marine Reserve](https://www.liveaboard.com/diving/fiji/namena-marine-reserve). Last updated 2026-05-28.*

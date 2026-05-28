@@ -23,7 +23,7 @@ Rainbow Reef stretches along the Somosomo Strait between Taveuni and Vanua Levu 
 
 - **Location**: Somosomo Strait, Taveuni, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -58,5 +58,4 @@ Current can accelerate rapidly as tides turn in the strait, particularly around 
 
 Rainbow Reef rewards wide-angle photography for the sweeping soft coral vistas, but carries exceptional macro subjects for those willing to slow down. The challenge is the current: shooting wide-angle requires positioning yourself with the current at your back to avoid swimming against it while composing. A fisheye lens on a compact system works well for close-focus wide-angle shots of coral heads teeming with anthias. Macro shooters should focus on nudibranchs, hairy squat lobsters, and the Coleman shrimp pairs that inhabit fire urchins in the rubble zones.
 
----
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Ocean Sports — Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Waterlust Fiji — Rainbow Reef and Great White Wall](https://www.waterlustfiji.com/rainbow-reef-and-the-great-white-wall), [Dive the World — Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Tourism Fiji — Somosomo Strait](https://www.fiji.travel/places-to-go/taveuni-island/locations/diving-in-the-taveuni-somosomo-strait). Last updated 2026-05-28.*

@@ -17,7 +17,7 @@ A Somosomo Strait wall draped in vivid purple soft corals — the chromatic comp
 
 ## Overview
 
-Purple Wall sits in the Somosomo Strait on Taveuni's reef system, just kilometers from Great White Wall, sharing the same current-rich channel that makes all strait diving in this area exceptional. Where Great White Wall is defined by the monochromatic spectacle of all-white Dendronephthya, Purple Wall showcases a concentrated growth of purple and violet soft corals that create an entirely different visual mood. The wall drops from a shallow reef crest to 32 meters and beyond, and the purple coral coverage is densest in the 12–25 meter range where current exposure and light intensity combine optimally. Taveuni-based operators include Purple Wall on multi-day dive packages as a complementary site to Great White Wall, often as an afternoon dive on the same tidal window.
+Purple Wall (also called Purple Corner) sits in the Somosomo Strait on Taveuni's reef system, just kilometers from Great White Wall. Where Great White Wall is defined by all-white Dendronephthya, Purple Wall showcases concentrated purple and violet Dendronephthya soft corals alongside sea whips in reds and purples, and large red gorgonian fans that have colonized the wall. The reef crest begins at approximately 6 meters and drops away to approximately 60 meters. The purple coral coverage is densest in the 12–25 meter range. Like Great White Wall, the site is dived best on a slowing falling (ebbing) tide when the soft corals are most fully extended and the current has eased enough to allow careful observation. Sea whips in reds and purples are distributed throughout the wall at multiple depths.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The purple soft coral canopy attracts the same filter-feeding fish community fou
 
 ## Dive Profile
 
-Descend from the reef crest at 5–8 meters and follow the wall face down to 20–25 meters, where the purple coral coverage is most intense. Traverse horizontally along the wall, observing the coral architecture and crevice life before ascending. The upper wall between 10–18 meters provides excellent color and fish activity for the latter portion of the dive. Many divers prefer a yo-yo profile on this wall — descending for a look at the deeper structure, ascending to the main soft coral zone, and spending the bulk of the dive at 12–20 meters before completing the safety stop on the shallow reef crest. Total dive time of 50–60 minutes is achievable.
+Descend from the reef crest at approximately 6 meters and follow the wall face down to 20–25 meters, where the purple coral coverage is most intense. Traverse horizontally along the wall, observing the coral architecture and crevice life before ascending. The upper wall between 10–18 meters provides excellent color and fish activity for the latter portion of the dive. Many divers prefer a yo-yo profile on this wall — descending for a look at the deeper structure, ascending to the main soft coral zone, and spending the bulk of the dive at 12–20 meters before completing the safety stop on the shallow reef crest. Total dive time of 50–60 minutes is achievable.
 
 ## Entry and Exit
 
@@ -44,7 +44,8 @@ Accessed by boat from Taveuni-based operators as part of a Somosomo Strait packa
 
 ## Tips and Recommendations
 
-- **Pair with Great White Wall on the same day**: Both sites are in the strait and timed to the same tidal current. Most Taveuni operators offer them together. Purple Wall as the second dive (shallower maximum depth) is the typical sequence.
+- **Best on a slowing falling tide**: Like Great White Wall, Purple Wall produces its best display when the current is easing on a falling tide rather than at peak strength. Confirm tidal timing with your operator.
+- **Pair with Great White Wall on the same day**: Both sites are in the strait. Most Taveuni operators offer them together. Purple Wall as the second dive (shallower maximum depth) is the typical sequence.
 - **The best color is between 12 and 22 meters**: The purple soft coral density is highest in this zone. Diving too deep too quickly means spending time in a less colorful area while consuming gas.
 - **Bring a torch to light the purple**: In natural light, purple soft corals photograph with a blue cast at depth. A video light or torch held close to the coral reveals the true saturated purple in photographs. This is particularly useful on wide-angle shots below 15 meters.
 - **Look for flameback pygmy angels in the sea fans**: These tiny (4cm) fish, with their orange-yellow body and blue face, inhabit the branches of large sea fans on the deeper wall sections. They are easily missed without deliberate searching.
@@ -58,5 +59,4 @@ Current in the Somosomo Strait is the primary operational consideration. Strong 
 
 Purple Wall is a more flexible photography site than Great White Wall because current requirements are less strict and the color palette varies across the dive. Wide-angle shooting of the coral wall with a diver for scale is the primary approach. The purple-blue color combination of the soft corals against the open-water blue is visually distinctive — no strobe is needed for basic compositions, though twin strobes close to the subject reveal the full purple saturation at depth. Macro subjects on the wall include nudibranchs (particularly Chromodoris species that favor purple and lavender habitats), cleaner shrimp, and the pygmy angelfish in the sea fans.
 
----
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Dive the World — Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Taveuni Ocean Sports — Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Tourism Fiji — Somosomo Strait](https://www.fiji.travel/places-to-go/taveuni-island/locations/diving-in-the-taveuni-somosomo-strait). Last updated 2026-05-28.*

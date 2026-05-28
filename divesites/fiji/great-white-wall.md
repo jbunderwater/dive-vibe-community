@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Great White Wall
 
-One of the world's most iconic wall dives — a vertical cathedral of snow-white soft coral plunging into the Somosomo Strait.
+One of the world's iconic wall dives — a vertical cliff of snow-white Dendronephthya soft corals entered through a lava tube in the Somosomo Strait.
 
 ## Overview
 
-Great White Wall earns its reputation as one of diving's true bucket-list sites. The wall is blanketed from top to bottom in white Dendronephthya soft corals, creating a ghostly, otherworldly landscape that looks nothing like a typical tropical reef. Entry is through a swim-through coral tunnel at 10 meters, which deposits divers directly onto the wall at 25 meters. From there, the white coral-encrusted cliff drops to 35 meters and beyond. The key to the spectacle is current: when tidal flow through the Somosomo Strait is running, the Dendronephthya fully extend their polyps, transforming the wall into a living snowfield. At slack tide, the corals retract and the effect diminishes — timing the dive to the current is essential.
+Great White Wall is a bucket-list dive on Taveuni's Rainbow Reef, listed among the world's top dive sites by multiple publications. The wall is blanketed in white Dendronephthya soft corals that create an otherworldly landscape unlike a typical tropical reef. Entry is through a lava tube — a larval tube filled with fish and red sea whips — at approximately 15 meters, which deposits divers directly onto the wall face. The white coral-encrusted cliff drops to over 100 meters, though recreational diving is typically limited to 25–35 meters where the white coral coverage is densest. At greater depths, the wall takes on a lavender hue. Taveuni Ocean Sports lists the site in a "Top 10 Dive Locations in the World" category credited to U.S. Divers magazine.
+
+Importantly, dive operators schedule Great White Wall dives on specific dates and times aligned with tidal conditions — many operators offer only around four optimal dive windows per month. Some sources note the wall is best viewed during a falling (ebbing) tide rather than at peak current, when the soft corals extend their polyps most fully. Conditions during full moon periods can produce extremely strong, challenging currents.
 
 ## Site Information
 
@@ -27,36 +29,32 @@ Great White Wall earns its reputation as one of diving's true bucket-list sites.
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
-- **Current**: Strong tidal current (dive timed to current)
-- **Best Time**: May to October (dry season, clearest water)
+- **Current**: Strong tidal current; dive timing critical
+- **Best Time**: May to October (dry season); tidal window takes precedence over season
 
 ## Marine Life
 
-The white Dendronephthya soft corals are the headline attraction, but the wall supports a rich ecosystem beyond the visual spectacle. Anthias swarm in clouds just off the wall, hovering in the current. Lionfish shelter in crevices among the coral branches. Hawksbill sea turtles cruise the wall face. Grey reef sharks and whitetip reef sharks patrol the blue water beyond the wall edge. Moray eels occupy holes at various depths. In the pelagic zone, schools of barracuda and big-eye trevally are regularly encountered. The swim-through tunnel at the start of the dive hosts its own small community of glassfish, cardinalfish, and roosting soldierfish.
+The white Dendronephthya soft corals are the primary attraction. The wall supports anthias schools that hover in the current, and at greater depth the wall exhibits a lavender coloration. Square-spot anthias have been specifically noted at this site. Hawksbill sea turtles, grey reef sharks, and whitetip reef sharks have been reported on the wall. The lava tube entry passage harbors its own fish community. Specific species composition varies by depth zone and current state — individual dive reports from ScubaBoard note whitetip shark sightings as routine, with manta rays as an infrequent bonus.
 
 ## Dive Profile
 
-Enter the water and follow the reef top to the coral tunnel entrance at 10 meters. Pass through the tunnel — typically 5–8 meters in length — and emerge on the wall at 25 meters. The white coral is most intense between 25 and 35 meters. Spend the bulk of your bottom time in this zone before beginning a slow ascent along the wall face. The upper section of the wall (12–20 meters) features colorful sea fans and additional soft coral growth. Ascend to the reef top for a safety stop at 5 meters. Total dive time is typically 45–60 minutes. Bottom time at depth is limited — this is not a site for lingering at 35 meters.
+The lava tube entry is at approximately 15 meters. After passing through the tube — a short but dramatic passage lined with fish and red sea whips — divers emerge directly onto the wall. The most intense white coral coverage is between 15 and 35 meters. Spend the bulk of bottom time in this range before beginning a slow ascent. Many divers report that the wall's visual drama can encourage creeping deeper than planned — set a firm turn-around depth and monitor it. Complete a safety stop at 5 meters on the reef crest. Dive operators typically allot around 40–60 minutes for the dive, scheduling it tightly around the tidal window.
 
 ## Entry and Exit
 
-All dives are by boat, operated from Taveuni-based dive operators or liveaboards transiting the Somosomo Strait. Entry is by giant stride or back roll. The dive is briefed precisely to the tidal schedule — operators will not put divers in the water if the current is not running in the correct direction. After ascending from the wall, drift along the reef top to the pickup point. Deploy an SMB before surfacing. Strong current can sweep divers away from the boat quickly.
+All dives are by boat from Taveuni-based dive operators (Taveuni Ocean Sports, Taveuni Dive Resort, Garden Island Resort, and others) or liveaboards transiting the Somosomo Strait. Operators control scheduling: Taveuni Dive Resort reportedly offers approximately four scheduled Great White Wall dates per month, aligning with optimal tidal windows. Confirm the specific tidal timing with your operator well before booking a specific dive date. Garden Island Resort is noted on ScubaBoard as being the closest operation to Rainbow Reef (approximately 15 minutes by boat versus 40 minutes from more distant resorts). Carry and deploy an SMB before surfacing.
 
 ## Tips and Recommendations
 
-- **Time the tide**: Dive on an incoming or outgoing tidal current — the white coral only fully extends when water is moving. Confirm the tidal window with your operator before booking the specific dive time.
-- **Manage your depth**: The wall drops well past recreational limits. Set a hard turn-around at 35 meters and monitor your depth continuously — the visual drama can distract divers from creeping deeper.
-- **Carry a reef hook**: If the current is strong and you want to hover and watch the wall rather than drift past, a reef hook allows you to hold position without touching coral.
-- **Wide-angle lens is essential**: The wall's scale demands a wide-angle or fisheye setup. The white-on-blue contrast photographs beautifully in natural light between 25–30 meters.
-- **Plan for a second dive**: Many operators run Great White Wall as the morning dive followed by a shallower Rainbow Reef site in the afternoon — an ideal pairing for the Somosomo Strait.
+- **Confirm your tidal window in advance**: Operators are scheduled around specific tide conditions. Ask the operator when they are running the Great White Wall and why — the explanation will tell you about the optimal conditions and whether the window aligns with your schedule.
+- **Do not over-descend**: The wall drops to over 100 meters. The white coral spectacle is fully present above 35 meters; going deeper only consumes gas and increases narcosis risk without a visual payoff.
+- **Carry a reef hook**: On dives when current is running but manageable, a reef hook on bare rock (not coral) allows you to hold position against the wall without damaging coral or fighting the flow.
+- **Pair with Rainbow Reef**: Great White Wall and Rainbow Reef are part of the same reef system and most Taveuni operators run them on the same day's diving.
+- **Check ScubaBoard before booking**: Recent trip reports on ScubaBoard's Fiji forum (particularly the Taveuni threads) give up-to-date information on conditions, scheduling flexibility, and current operator logistics.
 
 ## Safety Considerations
 
-Current in the Somosomo Strait can reach 3–4 knots and can reverse direction quickly during tidal transitions. Always carry an SMB and deploy it before ascending. The deep entry point (25 meters through the tunnel) means bottom gas is consumed quickly — plan conservatively and turn the dive on gas, not time. Narcosis becomes a real factor at 30–35 meters, particularly on a dive where the visual environment is intensely stimulating. Divers without recent wall dive experience should complete a shallower warm-up dive first. Liveaboard divers should note that night boats sometimes anchor in the strait — surface traffic awareness is important.
-
-## Photography
-
-Great White Wall is one of Fiji's most-photographed sites and one of the most challenging to do justice to. The white coral against the deep blue water demands wide-angle shooting; a rectilinear 10–17mm or fisheye lens works best. Shoot toward the blue to silhouette coral formations against the open ocean, or position a dive buddy against the wall for scale. Strobes should be positioned wide to avoid backscatter from the coral polyps. Shooting upward along the wall face with light filtering from above can produce striking abstract compositions. Macro photographers will find lionfish, nudibranchs, and pygmy seahorses in the coral matrix.
+Current in the Somosomo Strait can reach extreme speeds and can reverse direction as tides change. Operators who specialize in this site understand these patterns intimately — defer to their scheduling judgment. The lava tube entry means that once through the tube, divers are committed to the wall at 15 meters with no easy shallow exit — plan your entry with remaining gas in mind. Narcosis at 30–35 meters combined with the visually arresting environment has been noted by ScubaBoard divers as a factor to manage actively.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Taveuni Ocean Sports — Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Waterlust Fiji — Rainbow Reef and Great White Wall](https://www.waterlustfiji.com/rainbow-reef-and-the-great-white-wall), [Dive the World — Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [ScubaBoard — Great White Wall thread](https://scubaboard.com/community/threads/diving-the-great-white-wall-in-fiji.638780/). Last updated 2026-05-28.*

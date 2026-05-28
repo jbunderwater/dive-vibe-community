@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,waterlustfiji.com,dive-the-world.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "taveunioceansports.com,dive-the-world.com,fiji.travel",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 177.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "tomvierus.com,fijisharkdive.com,fiji.travel",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -57,14 +60,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "naia.com.fj,seacrush.com,dive-the-world.com",
+      "last_qa_date": "2026-05-28"
     },
     "depth_max": 40
   },
@@ -82,7 +86,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,scubadiving.com,liveaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -99,7 +104,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "fijipocketguide.com,dive-the-world.com,fijitravel.org",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -116,7 +122,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-the-world.com,beqalagoonresort.com,fijisharkdive.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -133,7 +140,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "beqalagoonresort.com,diveplanit.com,dive-the-world.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -149,8 +157,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "naia.com.fj,liveaboard.com",
+      "last_qa_date": "2026-05-28",
+      "qa_note": "Zoo site name associated with Namena area pelagic diving per NAI'A; only 2 distinct source domains found — below the 3-source threshold for validation. Site character is plausible but site-specific documentation is insufficient."
     },
     "depth_max": 30
   },
@@ -160,15 +170,16 @@
     "lon": 179.0967,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 27,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "naia.com.fj,waterlustfiji.com,diveadvice.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -184,8 +195,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-28",
+      "qa_note": "Could not confirm 'Supermarket' as a Namena Marine Reserve site name. Primary sources place 'Supermarket' in the Mamanuca Islands. Site name and location require further verification before marking validated."
     }
   },
   {
@@ -202,7 +215,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "dive-the-world.com,taveunioceansports.com,fiji.travel",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -218,8 +232,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "dive-the-world.com,taveunioceansports.com",
+      "last_qa_date": "2026-05-28",
+      "qa_note": "Only 2 distinct source domains found for Blue Ribbon Eel Reef specifically — below the 3-source threshold. Site character (shallow critter dive, blue ribbon eels, ghost pipefish, frogfish) is corroborated by Taveuni dive resources but a third independent source was not found."
     }
   },
   {
@@ -228,15 +244,17 @@
     "lon": 179.88,
     "osm_id": null,
     "osm_type": null,
-    "depth": 17,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "dive-the-world.com,taveunioceansports.com",
+      "last_qa_date": "2026-05-28",
+      "qa_note": "Only 2 distinct source domains found for Fish Factory specifically — below the 3-source threshold. Site character (schooling pelagics, current-driven bommies, 10-20m) is consistent across both sources but a third independent source was not found."
     }
   },
   {
@@ -252,8 +270,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-28",
+      "qa_note": "Could not confirm 'Samu Reef' as a named dive site from any independently verifiable source. The outer reef drift character is accurate for Kadavu's Great Astrolabe Reef, but the specific site name was not found in dive operator listings, ScubaBoard, or dive databases. Requires on-the-ground source confirmation."
     }
   }
 ]
