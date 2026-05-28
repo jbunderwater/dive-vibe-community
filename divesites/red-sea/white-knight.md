@@ -23,7 +23,7 @@ White Knight lies within the broader Sharm el-Sheikh diving area and is known fo
 
 - **Location**: Sharm el-Sheikh area, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

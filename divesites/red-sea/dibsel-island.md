@@ -23,7 +23,7 @@ The island itself is a low-lying coral cay surrounded by fringing reef on multip
 
 - **Location**: Southern Red Sea, Egypt (near Sudanese border)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

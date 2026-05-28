@@ -23,7 +23,7 @@ The Safaga reef area is documented to contain numerous reef systems at varying d
 
 - **Location**: Safaga area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

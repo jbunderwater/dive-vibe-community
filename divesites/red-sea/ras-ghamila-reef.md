@@ -23,7 +23,7 @@ Ras Ghamila Reef sits at approximately 27.98°N, 34.44°E — in the southern Si
 
 - **Location**: Southern Sinai coast, near Strait of Tiran (~27.98°N, 34.44°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

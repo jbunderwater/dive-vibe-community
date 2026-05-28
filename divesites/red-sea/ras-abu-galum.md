@@ -23,7 +23,7 @@ Ras Abu Galum sits at the base of dramatic sandstone cliffs that plunge into the
 
 - **Location**: Red Sea, Egypt (Gulf of Aqaba, Ras Abu Galum Protectorate, north of Dahab)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

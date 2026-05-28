@@ -35,7 +35,7 @@ Boat access from Sharm El Sheikh (approximately 45–60 minutes). Dives are curr
 
 - **Location**: Northern boundary of Ras Mohammed National Park, South Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Advanced (due to currents)
 

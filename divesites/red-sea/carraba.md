@@ -27,7 +27,7 @@ The northern Hurghada coastline features fringing coral reefs with typical struc
 
 - **Location**: Northern Hurghada / Sahl Hasheesh area, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

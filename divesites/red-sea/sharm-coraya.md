@@ -31,7 +31,7 @@ Shore / jetty entry to the house reef. Bay diving is calm and protected. Wall re
 
 - **Location**: Coraya Bay / Madinat Coraya, Red Sea, Egypt — between Port Ghalib and Marsa Alam
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

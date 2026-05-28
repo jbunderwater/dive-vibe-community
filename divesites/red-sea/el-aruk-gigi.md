@@ -23,7 +23,7 @@ El Aruk Gigi is a submerged coral pinnacle rising from the sandy bottom to withi
 
 - **Location**: Red Sea, Egypt (Marsa Alam region, offshore reef)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (80-100 feet)

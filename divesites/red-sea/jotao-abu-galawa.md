@@ -23,7 +23,7 @@ The site features a protected, shallow reef environment with maximum depths arou
 
 - **Location**: Abu Galawa area, Marsa Alam, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 11 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)

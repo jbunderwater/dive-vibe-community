@@ -37,7 +37,7 @@ Depth ranges from 10 m (shallow lagoon areas) to 30 m (wall base). Best drift di
 
 - **Location**: North Hurghada / El Gouna area, Red Sea, Egypt — ~1.5 hours north of El Gouna by boat
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 

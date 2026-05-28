@@ -23,7 +23,7 @@ North Long Reef and Middle Reef form a connected reef complex in some of the mos
 
 - **Location**: Open Red Sea (approximately 22.34°N, 38.85°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

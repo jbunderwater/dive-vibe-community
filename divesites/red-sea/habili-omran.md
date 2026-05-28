@@ -23,7 +23,7 @@ Like the other habili sites scattered across the southern Egyptian Red Sea, Habi
 
 - **Location**: Southern Egyptian Red Sea, offshore between Marsa Alam and Berenice
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

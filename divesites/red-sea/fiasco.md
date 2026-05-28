@@ -43,7 +43,7 @@ Fire coral is present throughout the reef. Boat traffic along this stretch of co
 
 - **Location**: Na'ama Bay / Sharm el-Sheikh coastline, Sinai Peninsula
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

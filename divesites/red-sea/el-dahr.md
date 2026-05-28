@@ -27,7 +27,7 @@ The Ras Mohammed National Park ecosystem supports over 200 coral species and app
 
 - **Location**: Ras Mohammed National Park area, South Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

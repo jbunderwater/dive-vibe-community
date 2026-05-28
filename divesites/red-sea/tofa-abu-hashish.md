@@ -23,7 +23,7 @@ Tofa Abu Hashish is located at approximately 27.03°N, 33.91°E in the Makadi Ba
 
 - **Location**: Abu Hashish area, Makadi Bay offshore zone, ~35 km south of Hurghada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

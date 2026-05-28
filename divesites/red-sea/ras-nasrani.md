@@ -23,7 +23,7 @@ Ras Nasrani ("Christian Cape" in Arabic) is approximately 11 km north of Naama B
 
 - **Location**: North of Sharm el-Sheikh, Sinai coast, Gulf of Aqaba, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–35 meters

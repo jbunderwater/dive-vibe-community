@@ -35,7 +35,7 @@ Boat only; typically accessed as part of a Tiran Island liveaboard or day trip f
 
 - **Location**: Western side of Tiran Island, Straits of Tiran
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 metres (lagoon interior 10–12 m)
 - **Difficulty**: Intermediate
 - **Note**: Tiran Island is administered by Saudi Arabia but traditionally dived from Sharm El Sheikh, Egypt

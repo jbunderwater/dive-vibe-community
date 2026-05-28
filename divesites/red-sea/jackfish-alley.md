@@ -23,7 +23,7 @@ Jackfish Alley forms part of the Ras Mohammed reef system at the southern tip of
 
 - **Location**: Ras Mohammed National Park, southern tip of Sinai, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The channelled current in the alley can be strong enough to make independent nav
 The swirling jackfish tornado is the most-photographed subject in Ras Mohammed and one of the iconic images of Red Sea diving. A wide-angle lens pointed upward through the school, backlist by the sun, produces stunning results. Compact camera users can achieve similar effects by positioning within or beneath the school. The coral walls also provide good backgrounds for reef fish portraits.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [PADI - Shark & Yolanda Reef Ras Mohammed](https://www.padi.com/dive-site/egypt/shark-yolanda-reef-ras-mohammed/), [Circle Divers - Ras Mohammed Sites](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/ras-mohammed-national-park-dive-sites), [Divezone - Jackfish Alley](https://divezone.net/divesite/jackfish-alley). Last updated 2026-05-25.*

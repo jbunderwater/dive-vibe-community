@@ -23,7 +23,7 @@ Bay dive sites in the El Quseir area typically feature sandy beach entries with 
 
 - **Location**: El Quseir area, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Plane Wreck
 
-Plane Wreck is a small aircraft wreck dive site located at Ras Muhammad, the southern tip of the Sinai Peninsula where the Red Sea divides into the Gulf of Suez and Gulf of Aqaba. The wreck is a prop aircraft of uncertain origin that rests on a sandy shelf, and is one of the more unusual dive experiences on the northern Red Sea circuit.
+Plane Wreck is a small aircraft wreck dive site located in the Gulf of Aqaba near Aqaba/Eilat (at approximately 29.42°N, 34.97°E), not at Ras Muhammad as sometimes incorrectly stated. The wreck is a propeller aircraft of unverified type that rests on a sandy shelf at approximately 28–30 metres depth.
 
 ## Overview
 
-The wreck sits at a maximum depth of around 30 meters on a sand slope descending from the reef base. The aircraft is partially intact — the fuselage and wings are recognizable, though heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the structure into an artificial reef, and it supports a thriving community of reef fish. The site is typically dived in conjunction with the nearby Ras Muhammad reef system and benefits from the same exceptional clarity and conditions.
+The aircraft is partially intact — the fuselage and recognisable structural elements are heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the metal structure into an artificial reef supporting resident reef fish. The specific aircraft type and provenance have not been independently confirmed in available sources.
 
 ## Site Information
 
-- **Location**: Red Sea, Egypt (Ras Muhammad National Park, Sinai)
+- **Location**: Gulf of Aqaba, near Aqaba/Eilat (approximately 29.42°N, 34.97°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -58,4 +58,4 @@ The maximum depth of 30 meters reduces no-decompression bottom time significantl
 The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Description based on GPS coordinates and regional diving characteristics. Aircraft type and history not confirmed by independent sources. Last updated 2026-05-25.*

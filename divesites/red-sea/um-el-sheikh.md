@@ -23,7 +23,7 @@ Um El Sheikh sits at approximately 24.31°N, 35.40°E in the Fury Shoals complex
 
 - **Location**: Fury Shoals, southern Egyptian Red Sea (~24.31°N, 35.40°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

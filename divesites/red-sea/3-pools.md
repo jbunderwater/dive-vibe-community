@@ -23,7 +23,7 @@ addedBy: osm_import
 
 - **Location**: Strait of Tiran area, Sharm el Sheikh, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters

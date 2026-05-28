@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Baltra
 
-*A sheltered check-out dive at the Galápagos' main airport island — shallow rocky reef with surprising marine life including nudibranchs, scorpionfish, and Galápagos sea robins.*
+*A sheltered check-out dive at the Galápagos' main airport island — shallow rocky reef where liveaboard itineraries begin, with nudibranchs, scorpionfish, and whitetip reef sharks on a low-profile volcanic bottom.*
 
 ## Overview
 
-Baltra (also called South Seymour) is the main airport island for the Galápagos, and the dive site off its northeast coast serves as a check-out or check-in dive for liveaboard itineraries. While not a destination dive site in the same league as Gordon Rocks or Darwin's Arch, the sheltered anchorage offers calm conditions at 10–12 meters over rocky and sandy bottom. The site is richer than its functional role suggests — trip reports mention blue-striped nudibranchs, Galápagos sea robins, jewel morays, and scorpionfish among the usual reef inhabitants. The nearby Itabaca Channel between Baltra and Santa Cruz funnels nutrients through the area.
+Baltra (also called South Seymour) is the main airport island for the Galápagos, and the dive site off its northeast coast serves as a check-out or check-in dive for liveaboard itineraries. While not a destination dive site in the same league as Gordon Rocks or Darwin's Arch, the sheltered anchorage offers calm conditions at 10–12 meters over rocky and sandy bottom. The ScubaBoard September 2021 trip report from a Punta Carrion/Baltra check-in dive logged a white-tip reef shark, blue nudibranch, and large starfish. The site is typically used for equipment checks and familiarization with Galápagos conditions before heading to more demanding sites. The nearby Itabaca Channel between Baltra and Santa Cruz funnels nutrients through the area.
 
 ## Site Information
 
 - **Location**: Northeast coast of Baltra Island, near Itabaca Channel, Galápagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–15 meters (can be poor in the channel)
@@ -33,7 +33,7 @@ Baltra (also called South Seymour) is the main airport island for the Galápagos
 
 ## Marine Life
 
-Despite its check-out-dive status, Baltra's rocky reef supports a range of species. Blue-striped nudibranchs, scorpionfish, calico lizardfish, and Galápagos sea robins are reported on the substrate. Jewel moray eels and longnose hawkfish inhabit rocky crevices. Diamond stingrays rest on sandy patches. White-tip reef sharks and Galápagos sharks patrol the edges. Pacific creolefish school above the reef. Large starfish dot the bottom. Sea lions may visit from the nearby Mosquera islet colony.
+Despite its check-out-dive status, Baltra's rocky reef supports a range of species. The ScubaBoard September 2021 trip report logged a white-tip reef shark, blue nudibranch, and large starfish at the Punta Carrion/Baltra check-in dive. Scorpionfish are reported as typical bottom-dwelling inhabitants of the rocky substrate. Diamond stingrays rest on sandy patches. Pacific creolefish school above the reef. Sea lions may visit from the nearby Mosquera islet colony. The Dive The World Galapagos guide notes that "bloody frogfish and pacific seahorse" are among the exotic species in the broader Baltra/North Seymour area, though these are more reliably encountered at other central Galapagos sites.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Giant stride or back roll from the panga at the liveaboard anchorage. Conditions
 A low-risk dive in sheltered conditions. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
 
 ---
-*Sources: [ScubaBoard](https://scubaboard.com/community/threads/diving-in-galapagos-in-october-2022.626791/), [ScubaBoard](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Galápagos Shark Diving](https://www.galapagossharkdiving.com/en/galapagos-dive-liveaboard/8-day-itinerary/), [Starfish.ch](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*
+*Sources: [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*

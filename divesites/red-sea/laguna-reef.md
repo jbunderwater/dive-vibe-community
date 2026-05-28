@@ -23,7 +23,7 @@ Unlike the exposed outer walls of Jackson and Thomas Reef, Laguna Reef offers a 
 
 - **Location**: Tiran Island reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

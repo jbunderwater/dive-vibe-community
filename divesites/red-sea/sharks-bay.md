@@ -23,7 +23,7 @@ Shark's Bay is a sheltered bay located north of Naama Bay and south of Ras Nasra
 
 - **Location**: Shark's Bay, north of Naama Bay, Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

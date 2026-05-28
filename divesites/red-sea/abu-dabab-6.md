@@ -23,7 +23,7 @@ Abu Dabab 6 is one of the southernmost numbered entry points along Abu Dabbab Ba
 
 - **Location**: Abu Dabbab Bay (south), north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters

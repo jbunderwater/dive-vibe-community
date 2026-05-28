@@ -23,7 +23,7 @@ Rose Reef sits on the shallow platform of the Farasan Banks, an extensive reef s
 
 - **Location**: Farasan Banks / southern Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

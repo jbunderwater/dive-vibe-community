@@ -23,7 +23,7 @@ Umm Sid sits just south of Sharm el-Sheikh and is accessed by boat from the Na'a
 
 - **Location**: Sharm el-Sheikh, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

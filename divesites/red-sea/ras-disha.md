@@ -23,7 +23,7 @@ Ras Disha ("fringing reef" in Arabic) lies in the Makadi Bay area approximately 
 
 - **Location**: Makadi Bay area, 35 km south of Hurghada, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

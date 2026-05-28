@@ -27,7 +27,7 @@ The southern Red Sea around Marsa Alam is known for sea turtles (hawksbill and g
 
 - **Location**: Marsa Alam region, southern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 

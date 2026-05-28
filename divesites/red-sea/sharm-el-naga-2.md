@@ -25,7 +25,7 @@ For site information, see the primary [Sharm el-Naga](/divesites/red-sea/sharm-e
 
 - **Location**: Sharm el-Naga bay area, ~40 km south of Hurghada, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 ## Additional Resources

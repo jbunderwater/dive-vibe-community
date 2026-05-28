@@ -23,7 +23,7 @@ Erg Somaya is an isolated coral pinnacle at approximately 27.20°N, 33.98°E in 
 
 - **Location**: Hurghada offshore zone, central Egyptian Red Sea (~27.20°N, 33.98°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

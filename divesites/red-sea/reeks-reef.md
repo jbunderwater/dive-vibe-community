@@ -23,7 +23,7 @@ Reeks Reef sits at approximately 28.56°N, 34.53°E on the northern Sinai Penins
 
 - **Location**: Northern Sinai, Gulf of Aqaba zone (~28.56°N, 34.53°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

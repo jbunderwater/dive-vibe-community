@@ -23,7 +23,7 @@ Elba Reef East (North-Plateau) occupies the northeastern quadrant of the Elba Re
 
 - **Location**: Northeastern face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

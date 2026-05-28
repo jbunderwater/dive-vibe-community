@@ -23,7 +23,7 @@ Tobia Kebir ("Large Tobia") is the biggest of the four Tobia reefs clustered in 
 
 - **Location**: Safaga area, central Egyptian Red Sea (near Soma Bay)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–23 meters

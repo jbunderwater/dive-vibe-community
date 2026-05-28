@@ -23,7 +23,7 @@ Dangerous Reef sits in the central Red Sea south of the Brothers (El Akhawein), 
 
 - **Location**: Red Sea, Egypt (offshore, Brothers Islands region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)

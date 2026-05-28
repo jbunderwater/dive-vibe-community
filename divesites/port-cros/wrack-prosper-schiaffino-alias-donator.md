@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Wrack 'Prosper Schiaffino' (Alias Donator)
 
-An alternative access point to the legendary Donator wreck, France's most celebrated intact shipwreck lying upright at 35–52 metres between Porquerolles and Port-Cros.
+An alternate buoy access point to the legendary Donator wreck — a 78-metre Norwegian-built cargo ship lying upright at 35–52 metres between Porquerolles and Port-Cros.
 
 ## Overview
 
-This entry references an alternate buoy access point to the *Prosper Schiaffino* — the official name of the wreck universally known among divers as "Le Donator." The ship was built in Bergen, Norway in 1931 (78 metres long, 12 metres wide), bought by the Compagnie Schiaffino in 1939 and renamed *Prosper Schiaffino*. On 10 November 1945, returning from Algeria with a cargo of wine, she struck a mine in the Mistral south of Porquerolles and sank within four minutes. She lies upright and fully intact on a sandy bottom at 42°59'592"N / 06°16'436"E, in the Hyères Bay Natura 2000 zone managed cooperatively with Port-Cros National Park.
+This entry marks an alternate buoy position for the *Prosper Schiaffino* — the official name of the wreck universally known among divers as "Le Donator." The ship was built in 1931 at Bergen Mekaniske Verksted, Bergen, Norway (78.28 metres long, 11.94 metres wide, 1,698 gross register tons). It was launched as *Donator*, renamed *Petite Terre* in October 1933, and renamed *Prosper Schiaffino* in June 1939 when purchased by the Algerian navigation company Société Schiaffino for wine transport. On 10 November 1945, at 13:15, a drifting mine tore the vessel nearly in two south of Porquerolles; it sank in under four minutes with five deaths. The wreck lies upright and fully intact on a sandy bottom at approximately 42°59'57"N / 6°16'43"E, within the Hyères Bay Natura 2000 zone. Deck depth is 35 metres; the propeller reaches 51–52 metres.
+
+See the dedicated [Le Donator Wreck](../le-donator-wreck/) entry for the full site description, dive profile, and photography notes.
 
 ## Site Information
 
@@ -28,35 +30,24 @@ This entry references an alternate buoy access point to the *Prosper Schiaffino*
 - **Maximum Depth**: 52 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
-- **Current**: Strong current possible; approach operators for conditions report
+- **Current**: Strong current possible; check conditions before each dive
 - **Best Time**: May to October
 
 ## Marine Life
 
-The *Prosper Schiaffino* wreck is densely colonised. Enormous gorgonian red sea fans and yellow gorgonians cover the superstructures from mast to propeller. Schools of swallowtail sea perch (castagnoles) swarm around the bridge and crane structures. Dentex, groupers, two-banded sea bream, and striped red mullet are abundant. Large conger eels and moray eels occupy the interior passageways. Spiny lobsters inhabit sheltered positions under the hull. The wine vat cargo holds are still recognisable and shelter their own community of fish and crustaceans.
+The wreck is densely colonised by red (*Paramuricea clavata*) and yellow gorgonian fans. Schools of anthias and swallowtail sea perch swarm the bridge and mast. Dentex, groupers, two-banded sea bream, and red mullet are abundant. Large conger eels and moray eels inhabit the interior passageways. Scorpionfish and nudibranchs are found on encrusted surfaces. Wine cargo holds remain recognisable.
 
 ## Dive Profile
 
-From this alternate buoy position, descend directly to the wreck. The deck sits at 35 metres; the propeller and rudder are at 52 metres. Major landmarks include the superb large steering wheel at the stern castle, the spare propeller aft, the mast, the crane, and the accessible holds. Nitrox is strongly recommended to extend no-decompression limits at this depth. Plan the deepest objectives first (propeller at 52 metres), then work progressively shallower through the deck and mast sections. Ascend via the descent line.
+From this buoy position, descend to the deck at 35 metres. Major features: the large steering wheel at the stern castle, wine cargo holds, engine room access, galley, crew quarters with bathtub, spare propeller aft, and the mast. The propeller and rudder are at 51–52 metres — plan deepest first. Nitrox strongly recommended. Ascend via descent line.
 
 ## Entry and Exit
 
-Boat access from La Londe, Le Lavandou, or Hyères-based operators. Descent line is essential; do not free-dive at this depth in open water without a reference line. Giant stride entry. Ascend on the line; deploy SMB from the 5-metre safety stop before surfacing. Coordinate with the boat crew on the surfacing plan.
-
-## Tips
-
-- Confirm which buoy position the boat is using before the dive so your wreck orientation is correct
-- The steerman's wheel is one of the most iconic images from this wreck — allocate specific time to photograph or simply appreciate it
-- Both interior penetration (galley, crew quarters, engine room) and exterior exploration are productive at this wreck
-- Request nitrox from the dive operator if available — it significantly improves safety and enjoyment at these depths
+Boat access from La Londe, Le Lavandou, or Hyères-based operators. Descent line essential. Giant stride entry; descend directly. Ascend via line; deploy SMB from the 5-metre safety stop before surfacing.
 
 ## Safety
 
-Minimum advanced open water certification required; deep specialty experience strongly preferred. Nitrox 32–36% recommended. Monitor gas constantly — the wreck's many interesting features encourage longer bottom times than are safe. Strong current is possible; abort or relocate if the descent line shows significant drag. Wreck penetration requires wreck training and illumination.
-
-## Photography
-
-See Le Donator Wreck for full photography notes. The gorgonian-covered superstructure, steering wheel, propeller, and dense fish schools are all outstanding subjects. Bring a powerful strobe and a torch — at 35–52 metres, artificial lighting is the entire story.
+Advanced certification required; deep specialty experience strongly preferred. Nitrox 32–36% recommended. Monitor gas constantly — the wreck's many features encourage extended bottom times that must be resisted. Strong current can develop. Never penetrate the wreck without wreck training and a torch.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Wikipedia (fr) — Donator](https://fr.wikipedia.org/wiki/Donator), [Tribloo — The Donator](https://www.tribloo.com/en/dive-sites/5/the-donator-prosper-schiaffino.html), [Destination Port-Cros — Le Donator](https://destination.portcros-parcnational.fr/outdoor-site/29-Plongee-sur-l-epave-du-Donator), [Provence Méditerranée — The Donator](https://www.provencemed.com/en/activities/the-donator/). Last updated 2026-05-25.*

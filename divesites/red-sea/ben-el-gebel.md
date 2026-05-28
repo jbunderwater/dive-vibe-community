@@ -23,7 +23,7 @@ Ben El Gebel features a series of coral heads, small pinnacles, and reef outcrop
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)

@@ -25,7 +25,7 @@ The Fury Shoals comprise approximately 20 reefs in a 30 km arc, offering some of
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 
 *No site-specific source was found for Styphano 2 by name. Description based on Fury Shoals regional characteristics. [Dive the World — Fury Shoals](https://www.dive-the-world.com/diving-sites-egypt-red-sea-south.php), [ScubaDiverLife — Fury Shoals](https://scubadiverlife.com/dive-site-fury-shoals-red-sea/). Last updated 2026-05-17.*

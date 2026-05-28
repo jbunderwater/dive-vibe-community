@@ -23,7 +23,7 @@ L'Esquadillon is a submerged rocky structure in the outer waters northeast of Po
 
 - **Location**: Outer Hyères Bay area, northeast of Port-Cros, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–30 metres
@@ -59,4 +59,4 @@ Standard Mediterranean intermediate dive conditions. Exposed outer bay location 
 The Posidonia meadow provides excellent macro subjects (seahorses, cuttlefish, pipefish), while the rocky reef offers grouper portraits and gorgonian wide-angle shots. The clear outer-bay water produces excellent natural-light photography in the 5–15 metre range. A strobe adds accuracy to colour in the deeper sections.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Description based on the OSM-tagged reef/islet classification and regional diving characteristics. No dive-operator specific sources confirming depth, site type, or marine life details for l'Esquadillon were located during the 2026-05-25 QA review. Marine life listed reflects the broader Hyères Bay ecosystem, not confirmed sightings at this specific site. Last updated 2026-05-25.*

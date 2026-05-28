@@ -27,7 +27,7 @@ Reef communities in this zone include the full complement of typical Red Sea ree
 
 - **Location**: South of central Hurghada, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 metres
 - **Difficulty**: Intermediate
 - **Note**: Not to be confused with Abu Nuhas shipwreck graveyard near Shadwan Island

@@ -53,7 +53,7 @@ The stern, propeller, and engine make attractive wide-angle subjects, particular
 
 - **Location**: Laguna Reef, Straits of Tiran, Sinai Peninsula (near Sharm El Sheikh)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 metres
 

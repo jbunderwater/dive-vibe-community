@@ -13,15 +13,19 @@ addedBy: osm_import
 
 # Le Grec Wreck
 
-A legendary WWII-era mine victim in the Hyères channel, lying in three sections at 35–47 metres with a gorgonian-colonised hull and abundant fish life.
+A WWII-era mine victim south of Porquerolles, lying in two principal sections at 36–47 metres with gorgonian-colonised hull and dense fish communities.
 
 ## Overview
 
-Le Grec — officially named *Sagona* — is one of the most historically evocative wrecks in the Hyères Bay area. Built in 1912 in Dundee, Scotland, the 54-metre cargo ship changed hands multiple times before sinking on 3 December 1945 when it struck a floating mine south of Porquerolles while carrying a cargo of wine. The explosion tore off the bow, and the wreck now lies in three sections approximately 60 metres apart, at depths between 36 and 47 metres. The name "Le Grec" (The Greek) came from a later survey by naval divers who found Greek-language documents aboard — the ship's papers and crew were Greek at the time of sinking. It lies just hundreds of metres from the nearly identical Donator wreck, the two wrecks sharing the same fate six weeks apart.
+Le Grec — officially named *Sagona* — is one of the most dived wrecks in the Hyères Bay area. The vessel was built in 1912 by the Dundee Shipbuilding Company in Dundee, Scotland (53–54 metres long, 8.5 metres wide). After passing through several British owners and serving routes between Newfoundland and Labrador as a passenger and freight ferry, the ship was sold in 1943–1944 to the Zarati Steamship Company and registered in Panama for Mediterranean wine transport.
+
+On 3 December 1945, the *Sagona* struck a floating mine south of Porquerolles while carrying a cargo of wine, killing two sailors and leaving one missing. The explosion tore off the bow, and the wreck now lies in two principal sections approximately 50–60 metres apart on a sandy bottom at depths of 36–47 metres (poop deck at 40 metres, propeller at 47 metres). The nickname "Le Grec" (The Greek) was given by French Navy divers who discovered Greek-language documents aboard during a post-war survey — the crew and papers were Greek at the time of sinking.
+
+Note on dates: The English Wikipedia article on SS Sagona gives 21 November 1945 and a route from Nice to Toulon, which does not match the dive operator record (3 December 1945, wine cargo from Algeria). These details suggest the Wikipedia article may conflate two vessels or contain a transcription error. All three dive-specific sources consulted — en.bormesplongee.fr, provencemed.com, and tribloo.com — agree on 3 December 1945 for the Porquerolles wreck.
 
 ## Site Information
 
-- **Location**: South of Porquerolles, Hyères Bay, near Port-Cros, France
+- **Location**: South of Porquerolles, Hyères Bay, Var, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -33,30 +37,30 @@ Le Grec — officially named *Sagona* — is one of the most historically evocat
 
 ## Marine Life
 
-The gangways and deck areas of both the main hull (middle and stern, in excellent condition) and the separated bow section are invaded by red and two-tone gorgonian fans. Dense fish activity characterises all three sections: large groupers, barracudas, moray eels, and hundreds of dentex create a constant underwater spectacle. Schools of swallowtail sea perch cloud the mast and superstructure, and the holds, which still contain the remnants of wine barrel staves, attract conger eels and lobsters into the interior.
+Red and yellow gorgonian sea fans colonise the gangways and accessible hull surfaces throughout both sections. Dense fish communities occupy the entire wreck: large groupers, barracuda, moray eels, and abundant dentex are confirmed by multiple operator sources. Conger eels inhabit the deeper interior spaces. Schools of anthias and castagnoles (swallowtail sea perch) swarm the mast area (the mast lies on the port side of the main hull). The holds contain recognisable barrel stave debris from the wine cargo.
 
 ## Dive Profile
 
-The main hull (middle and stern) lies at 36–47 metres and is the primary dive section. Explore the most intact features: the winch, the propeller, the holds, and the mast lying on the port side. The separate bow section, located approximately 60 metres north-northeast of the main hull, can be a second dive objective or included in a single long dive with nitrox. The multi-section nature of the wreck means the exploration area is substantial — pre-plan which sections to cover given available bottom time.
+The main hull (middle and stern) lies at 36–47 metres and is the primary dive objective — the winch, propeller, holds with barrel remnants, and the port-side mast are the principal features. The separate bow section (approximately 50–60 metres north of the main hull) can serve as a second dive on the same excursion. Plan the deepest objective (propeller at 47 m) first; Nitrox is strongly recommended. Begin ascent with generous reserves — the multi-section layout invites extended bottom times that must be actively managed.
 
 ## Entry and Exit
 
-Boat access from operators in La Londe, Le Lavandou, or Hyères. A permanent buoy line or descent line is required. Descend directly to the wreck on the line. Ascent via line; deploy SMB from the safety stop at 5 metres. Current conditions should be verified before descent.
+Boat access from operators in La Londe, Le Lavandou, or Hyères. A descent line is essential at these depths. Confirm which wreck section the line leads to before the dive. Ascend via the line; deploy SMB at 5 metres before surfacing.
 
 ## Tips
 
-- Nitrox is almost essential here — bottom time at 36–47 metres on air is severely limiting
-- The story behind the name makes this dive more rewarding: the narrative of the Greek papers, the wine cargo, and the mine alongside the Donator creates a compelling historical context
-- Both sections of the wreck (main hull and separated bow) reward thorough exploration over two dives
-- Compare with the nearby Donator for an extraordinary twin-wreck diving experience
+- The barrel stave debris in the holds is one of this wreck's most evocative details — it connects directly to the ship's last cargo
+- The origin of the name "Le Grec" is worth sharing in the dive briefing — the Greek documents, discovered by French Navy divers, are how a Scottish-built, Panamanian-registered ship became "The Greek"
+- Comparing this wreck with the nearby Donator (same fate, same waters, six weeks apart) is a compelling twin-wreck experience
+- Nitrox planning: EAN36 at 47 metres extends no-decompression time from approximately 20 to approximately 30 minutes
 
 ## Safety
 
-Depth and current are the primary hazards. Minimum certification: advanced open water with deep specialty experience. Nitrox recommended. Current in the Hyères channel can be significant; dive with an operator who monitors conditions. Monitor gas consumption carefully at depth and ascend conservatively. Wreck penetration requires wreck training and a torch.
+Advanced depth and current conditions. Advanced open water certification minimum; deep specialty or technical dive training preferred. Monitor gas at all times. Current in the Hyères channel should be assessed before each descent. Two SMBs recommended given the open-water ascent environment. Never penetrate the wreck without wreck training and a dedicated torch.
 
 ## Photography
 
-The gorgonian-covered gangways and deck machinery provide outstanding wide-angle subjects. Groupers and dentex in the water column above the wreck create compelling fish portrait opportunities. Macro work on the encrusted surfaces shows gorgonian polyp detail and the varied sponge communities. Full artificial lighting is needed at these depths.
+The gorgonian-covered gangways and hull machinery are outstanding wide-angle subjects. Fish schools above the main hull create compelling mid-water portrait opportunities. The barrel stave debris photographed with torch illumination tells the ship's story. Powerful artificial lighting is essential at 36–47 metres.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/). Last updated 2026-05-25.*

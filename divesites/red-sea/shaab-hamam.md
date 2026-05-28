@@ -23,7 +23,7 @@ Shaab Hamam is a typical Fury Shoals reef structure: a broad coral flat rising t
 
 - **Location**: Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)

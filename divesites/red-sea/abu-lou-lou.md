@@ -27,7 +27,7 @@ The coast between Hurghada and Safaga features fringing reefs and offshore reef 
 
 - **Location**: Northern Red Sea coast, ~30–35 km south of Hurghada (Soma Bay / Safaga area)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

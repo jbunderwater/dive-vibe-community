@@ -23,7 +23,7 @@ Elba Reef West (Fingers) describes a section of the western face of Elba Reef at
 
 - **Location**: Western face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters

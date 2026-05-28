@@ -58,4 +58,4 @@ The wreck lies in the busy shipping lane of Aqaba Bay — SMB deployment before 
 The Cedar Pride's iconic images are: the crow's nest at 12–15 metres encrusted with coral and surrounded by fish schools; wide-angle hull profiles showing the full port-side colonisation; and glassfish clouds in the open deck sections. The soft coral growth on the upper hull in available light provides excellent ambient wide-angle conditions without flash.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Coral Garden Diving - Cedar Pride](https://www.dive-inaqaba.com/cedar-pride-wreck/), [Arab Divers - Cedar Pride](https://www.arabdivers.jo/en/activities/dive-sites/cedar-pride), [The Underwater Club - Wrecks of Jordan](https://theunderwaterclub.com/blog/the-wrecks-of-jordan/). Last updated 2026-05-25.*

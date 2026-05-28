@@ -23,7 +23,7 @@ Shaab Tiffany sits north of Hurghada at approximately 27.15°N, placing it firml
 
 - **Location**: Northern Red Sea, Egypt (near Hurghada, lat 27.15°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-25 meters (65-80 feet)

@@ -23,7 +23,7 @@ Rising from a sandy bottom to within a few meters of the surface, Habili Gaffar 
 
 - **Location**: St John's Reef, Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

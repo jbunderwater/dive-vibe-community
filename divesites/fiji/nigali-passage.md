@@ -3,7 +3,7 @@ name: Nigali Passage
 lat: -17.3
 lng: 178.5833
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: drift
 ref: null
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 # Nigali Passage
 
-A narrow channel on remote Gau Island where grey reef sharks school by the dozen — one of Fiji's most dramatic shark encounters.
+A tidal channel on remote Gau Island where grey reef sharks school by the dozen — one of Fiji's most dramatic unbaited shark encounters.
 
 ## Overview
 
-Nigali Passage is a tidal channel on the west coast of Gau Island, cutting through the barrier reef into a protected lagoon. Gau is a remote, sparsely populated island in the Lomaiviti Group, accessible only by liveaboard or infrequent charter. The passage is about 100 meters wide at its narrowest point, and when the tide runs in or out, it concentrates marine life in a way that few sites in the Pacific can match. The signature encounter is with schooling grey reef sharks — 20 to 40 individuals regularly patrol the channel in a counter-rotating formation, a behavior rarely seen at other sites. Divers drift through the passage with the current and into the lagoon, passing through the shark school on the way. The site is remote enough that it sees limited traffic, keeping the sharks habituated but not over-fed or conditioned.
+Nigali Passage is a tidal channel on the northwestern coast of Gau Island, cutting through the barrier reef into a protected lagoon. Gau is the fifth-largest island in Fiji, remote and sparsely populated, in the Lomaiviti Group. The passage is accessible only by liveaboard. The passage itself is narrow — sources describe it as roughly 20 meters long at its tightest section, opening into the lagoon beyond — and the tidal current concentrates marine life in the channel in a way few Pacific sites match. The site has an optimal dive window of approximately three to four hours per day tied to the tidal cycle; outside this window, current exceeds 4 knots and visibility drops significantly. The signature encounter is with schooling grey reef sharks — sources report 10 to 25 individuals (primarily females and offspring according to NAI'A's site documentation) patrolling the channel in a formation that is unusual in the Pacific. Divers drift through the passage with the incoming tide. The sharks are not baited or conditioned; they are present because the tidal current naturally concentrates fish life in the passage.
 
 ## Site Information
 
-- **Location**: Nigali Passage, Gau Island, Lomaiviti Group, Fiji
+- **Location**: Nigali Passage, Gau Island (northwest coast), Lomaiviti Group, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
-- **Current**: Strong tidal current (dive timed to incoming tide)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20–30 meters (65–100 feet; drops outside tidal window)
+- **Current**: Strong tidal current (dive timed to incoming tide; 3–4 hour optimal window per day)
 - **Best Time**: May to October; accessible year-round by liveaboard
 
 ## Marine Life
 
-Grey reef sharks are the principal attraction and can be present in staggering numbers. Unlike feeding dives where sharks are cued by bait, the Nigali sharks are at the site because the tidal current naturally concentrates fish life in the passage — the sharks are hunting and patrolling, not performing. Whitetip reef sharks share the passage, resting on sandy patches in the channel floor. Barracuda form dense columns in the channel above the sharks. Large Napoleon wrasse are resident and remarkably relaxed with divers. Bumphead parrotfish move through the lagoon interior. On the channel walls, soft corals and sea fans are fed by the strong current, and in the lagoon itself, coral gardens shelter butterflyfish and anemonefish.
+Grey reef sharks are the principal attraction — 10 to 25 individuals are consistently reported in the channel by multiple operator sources, patrolling at 15–25 meters. Unlike feeding dives, these sharks are hunting in the natural current-driven food concentration, not responding to bait. Whitetip reef sharks share the passage. Three separate age-segregated schools of barracuda have been documented in the passage by NAI'A. Malabar grouper (also known as brindle bass) are resident and visible at depth. Eagle rays and occasional manta rays pass through. Trevally schools follow the current. In the lagoon at the exit, soft corals and coral gardens provide a calm decompression environment with smaller reef fish.
 
 ## Dive Profile
 
-The liveaboard boat positions upstream of the passage entrance at the incoming tide. Divers enter the water above the reef and descend to 15–20 meters at the channel mouth. The current carries divers through the narrowest section of the passage, which is where the shark school congregates. The drift continues into the lagoon interior as depth shallows to 8–12 meters and current eases. Total drift is typically 400–600 meters. Guides know where to position divers in the water column for the best shark views — mid-water at 12–15 meters usually places divers above the sharks, who patrol at 15–20 meters. After the drift, the boat or a tender collects divers in the lagoon.
+The liveaboard positions upstream of the passage entrance on the incoming tide. Divers enter above the reef and descend to 20–25 meters at the channel mouth — this is the primary shark viewing zone. The current carries the group through the passage and into the lagoon interior, where depth shallows to 8–12 meters and current eases. Sources describe the end of the passage opening into a "delightful cabbage patch" of coral for the final portion of the dive before collection. Total drift is variable depending on current strength. Guides position the group in the mid-water column for the best views of the sharks patrolling at depth.
 
 ## Entry and Exit
 
-Gau Island is accessible only by liveaboard — no day trips operate from Suva regularly enough to plan a visit. Liveaboard operators on the Fiji circuit (principally NAI'A and several others) include Nigali Passage as a standard stop. Entry upstream is by giant stride into moving water; guides hold the group together on descent. Exit in the lagoon is calm — the boat or a tender follows the group through and collects everyone. Deploy an SMB before surfacing in the lagoon.
+Gau Island is accessible only by liveaboard — no regular day-trip service operates from any major hub to this location. Fiji liveaboard operators (principally NAI'A and several others) include Nigali Passage as a standard stop on multi-day circuits. Entry upstream is by giant stride into moving water; guides hold the group during descent. Exit is in the calmer lagoon interior, where the boat or a tender collects divers.
 
 ## Tips and Recommendations
 
-- **Plan a liveaboard trip specifically for Gau**: Nigali Passage cannot be reached on a day trip from any major hub. Commit to a Fiji liveaboard itinerary that includes Gau — most Fiji liveaboard circuits stop here on multi-day routes.
-- **Dive the incoming tide**: The incoming tide pushes divers into the lagoon and positions the shark school at the passage mouth where visibility is best. Outgoing tides produce a reverse drift and typically fewer sharks in the main viewing zone.
-- **Stay mid-water**: Sharks at Nigali are on the bottom and at mid-depth. Hovering at 12–15 meters puts divers in the ideal position to observe without being above or below the main school.
-- **Avoid fin kicks over the sharks**: When the sharks are directly below, strong fin kicks can displace sediment and disturb the school. Use your buoyancy to glide silently overhead.
-- **Carry a reef hook**: If the current is very strong in the passage, a reef hook on bare rock allows you to hold station and watch the sharks without fighting the flow or touching coral.
+- **Plan a liveaboard trip specifically for Gau**: Nigali Passage cannot be reached on a day trip. Commit to a multi-day Fiji liveaboard itinerary that lists Gau on the route.
+- **Dive the incoming tide**: The incoming tide pushes divers into the lagoon and positions the shark school at the passage mouth where visibility is optimal.
+- **Stay mid-water at 12–15 meters**: This puts divers in position to observe the sharks patrolling below while avoiding the floor and strong bottom current.
+- **Remain still when sharks are close**: The sharks at Nigali are not conditioned, but stationary, passive divers are less disruptive. Hold your position and let the current deliver the encounter.
+- **Carry a reef hook**: On very strong current days, a reef hook on bare rock in the passage allows you to hold station and observe without fighting the flow.
 
 ## Safety Considerations
 
-Strong current in the channel is manageable if divers are positioned correctly before descent, but can become dangerous if a diver is swept into rocks or loses the group at depth. Stay with the guide and maintain a tight formation through the passage. Grey reef sharks in schooling behavior are not aggressive, but individuals can become assertive if divers are surrounded or cornered — maintain a calm, passive posture and do not block individual sharks' escape routes. Boat traffic inside the Gau lagoon is minimal, but surface with an SMB as standard practice. Gau is a remote island — medical evacuation to Suva is several hours away. Dive conservatively and within your limits.
+Diving outside the tidal window is dangerous — current exceeds 4 knots and can sweep divers into rocks or separate the group. The guide's tidal briefing is mandatory and non-negotiable. Grey reef sharks in natural schooling behavior are not aggressive, but cornering or blocking individual sharks' movement paths can provoke a defensive response — maintain a calm, passive posture. Gau Island is remote; medical evacuation to Suva takes several hours. Dive conservatively and within your limits. Deploy an SMB before surfacing in the lagoon.
 
 ## Photography
 
-Nigali Passage offers one of the most sought-after grey reef shark photography opportunities in the world. Wide-angle shooting at 10–17mm captures the schooling sharks with the passage walls and blue-lit lagoon as backdrop. The key shot is looking back toward the ocean through the passage mouth with sharks silhouetted against the blue. Shoot with natural light and fast shutter speeds (1/125 or faster) to freeze shark movement in the current. Avoid strobes on wide-angle shark shots — the animals are large enough to expose well without flash, and strobes can alter shark behavior. A second dive after the main drift is often available — use it for detail shots of the coral walls and resident Napoleon wrasse.
+Nigali Passage offers one of the most sought-after grey reef shark photography opportunities in the Pacific. Wide-angle shooting at 10–17mm captures the schooling sharks with the channel walls as backdrop. The key composition is looking back toward the ocean through the passage mouth with sharks silhouetted against the blue. Use natural light and fast shutter speeds (1/125 or faster) to freeze shark movement. Avoid strobes on wide-angle shark shots — the animals expose well in ambient light and flash can alter their behavior.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [NAI'A Liveaboard - Gau & Nigali Passage](https://www.naia.com.fj/fiji/dive-sites/), [LiveAboard.com - Nigali Passage](https://www.liveaboard.com/diving/fiji/nigali-passage), [Dive The World - Koro Sea](https://www.dive-the-world.com/diving-sites-fiji-koro-sea.php). Last updated 2026-05-25.*

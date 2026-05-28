@@ -25,7 +25,7 @@ Dahab house reefs in this area typically feature sandy slopes descending to abou
 
 - **Location**: Dahab, Sinai Peninsula, Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 
 ## Tips

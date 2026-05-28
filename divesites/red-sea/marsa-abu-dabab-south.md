@@ -35,7 +35,7 @@ Shore entry from the southern beach section of Abu Dabbab Bay. Depths range from
 
 - **Location**: Abu Dabbab Bay, ~30 km north of Marsa Alam, Egyptian Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Difficulty**: Beginner
 

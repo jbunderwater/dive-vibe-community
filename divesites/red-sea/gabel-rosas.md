@@ -43,7 +43,7 @@ Fire coral (Millepora) is abundant on the reef — avoid contact. Visibility may
 
 - **Location**: ~11–18 km north of Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 m (outer bay)
 

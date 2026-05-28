@@ -23,7 +23,7 @@ Rocky South sits on the southern face of its reef structure, receiving the predo
 
 - **Location**: Red Sea, Egypt (central region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

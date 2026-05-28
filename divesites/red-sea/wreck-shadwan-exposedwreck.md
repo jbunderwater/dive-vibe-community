@@ -35,7 +35,7 @@ The Red Sea waters around Shadwan Island support typical northern Red Sea reef s
 
 - **Location**: Near Shadwan Island, northern Red Sea / Gulf of Suez entrance
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 metres (recorded)
 

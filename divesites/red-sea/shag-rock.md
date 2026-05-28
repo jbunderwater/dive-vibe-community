@@ -23,7 +23,7 @@ Shag Rock is a submerged pinnacle at approximately 27.77°N, 33.88°E, located i
 
 - **Location**: Offshore Hurghada, northern Egyptian Red Sea (~27.77°N, 33.88°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

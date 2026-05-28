@@ -27,7 +27,7 @@ El Quseir's reef system is characterised by narrow passages, canyons, chimneys, 
 
 - **Location**: El Quseir area, central Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m
 

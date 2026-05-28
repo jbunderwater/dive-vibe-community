@@ -23,7 +23,7 @@ Small Crack sits at approximately 27.73°N, 34.10°E on the Sinai Peninsula's so
 
 - **Location**: Southern Sinai coast, southwest of Sharm el-Sheikh (~27.73°N, 34.10°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

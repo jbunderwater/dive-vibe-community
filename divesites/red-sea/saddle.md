@@ -23,7 +23,7 @@ Saddle is an ideal site for beginners and snorkelers, offering a calm, sheltered
 
 - **Location**: Gulf of Aqaba, northern Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)

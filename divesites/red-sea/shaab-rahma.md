@@ -37,7 +37,7 @@ The tunnel route requires careful buoyancy control and is not suitable for large
 
 - **Location**: Al-Qusayr area, Red Sea, Egypt (26°19'N, 34°10'E)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

@@ -23,7 +23,7 @@ South Point marks the southern extremity of an offshore reef system in the deep 
 
 - **Location**: Southern Red Sea, Egypt (Fury Shoals / Ras Banas area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)

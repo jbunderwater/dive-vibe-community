@@ -23,7 +23,7 @@ Abu Dabbab Bay is one of the most celebrated dive and snorkel destinations on th
 
 - **Location**: Abu Dabbab Bay, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–30 meters

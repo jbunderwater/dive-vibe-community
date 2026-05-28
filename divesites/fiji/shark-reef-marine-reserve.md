@@ -3,7 +3,7 @@ name: Shark Reef Marine Reserve
 lat: -18.2167
 lng: 177.9833
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 # Shark Reef Marine Reserve
 
-Pacific Harbour's legendary shark dive — up to eight species in a single session, presided over by massive bull sharks.
+Pacific Harbour's legendary shark dive — up to eight species in a single session, with the action beginning at 30 meters.
 
 ## Overview
 
-Shark Reef Marine Reserve, managed by the operators of Beqa Adventure Divers in partnership with local villages, is one of the world's most celebrated shark dives. The site sits on the outer edge of Beqa Lagoon, approximately 6 kilometers offshore from Pacific Harbour on Viti Levu's south coast. The dive is highly organized: divers descend to a coral rubble arena at 25 meters and kneel behind a low coral wall while trained feeders present fish heads to sharks from a central position. The structure keeps divers stationary and sharks in the foreground, producing consistently dramatic encounters. Up to eight shark species have been recorded on a single dive — bull sharks, tawny nurse sharks, silvertip sharks, grey reef sharks, whitetip reef sharks, blacktip reef sharks, sicklefin lemon sharks, and tiger sharks (seasonal, typically January–March). The reserve generates substantial village income and has transformed local attitudes toward shark protection.
+Shark Reef Marine Reserve, managed by Beqa Adventure Divers in partnership with local villages, is one of the world's most celebrated shark dives. Established in April 2004 as the first protected shark sanctuary in Fiji, it was designated Fiji's first National Marine Park in November 2014. The site sits in Beqa Passage approximately 6 kilometers from Pacific Harbour on Viti Levu's south coast — a 15 to 20 minute boat ride. The dive is a structured multi-level experience: divers descend to The Arena at 30 meters (100 feet), where trained feeders present tuna heads to sharks from a central feeding box positioned just beyond a low coral barricade. Divers observe from behind the barricade. After 10–12 minutes at depth, the group ascends to 10 meters for 10–15 minutes with grey reef and whitetip reef sharks, then finishes at 4 meters where blacktip and whitetip sharks are present in the shallows. Eight shark species are regularly recorded: bull, tiger, tawny nurse, silvertip, grey reef, whitetip reef, blacktip reef, and sicklefin lemon sharks. The reserve's income supports the local village and has transformed attitudes toward shark protection across Beqa Island.
 
 ## Site Information
 
-- **Location**: Beqa Lagoon outer reef, Pacific Harbour, Viti Levu, Fiji
+- **Location**: Beqa Passage outer reef, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
-- **Best Time**: Year-round; bull sharks present every dive; tiger sharks most likely November–March
+- **Best Time**: Year-round; bull sharks present on every dive; tiger sharks most frequent November–March
 
 ## Marine Life
 
-Bull sharks dominate the dive — the resident population numbers 20–30 individuals that reliably appear within minutes of the feeders descending. These are large animals, typically 2–3 meters, and they move with calm authority around the arena. During tiger shark season, individuals up to 4 meters cruise through, creating genuinely intense moments. Nurse sharks and tawny nurse sharks pile up near the feeders and must sometimes be physically moved. Away from the feeding arena, the reef supports excellent general marine life: Napoleon wrasse of enormous size, schools of surgeonfish, batfish, bumphead parrotfish, and turtles are regular companions. The Cathedral, a dramatic swim-through on the same reef system, can be visited on a second dive.
+Bull sharks dominate the Arena portion of the dive — the resident population is large and these animals approach the feeding position with calm authority. During tiger shark season, individuals cruise through, occasionally displacing the bull sharks from the feeding area. Tawny nurse sharks and regular nurse sharks pile near the feeders. Away from The Arena, the reef supports Napoleon wrasse, schools of surgeonfish, batfish, and sea turtles. The second dive, shallower and less structured, explores the reef and Cathedral swim-through on the same reef system.
 
 ## Dive Profile
 
-Boat trip from Pacific Harbour takes approximately 30–40 minutes. First dive descends to the upper feeding level at approximately 20 meters, then to the main arena at 25 meters. Divers kneel or crouch in an arc behind the coral wall for the feeding portion — typically 15–20 minutes — before ascending to the upper reef at 15 meters for additional observation. A safety stop is completed at 5 meters. The second dive is shallower, visiting "The Cathedral" and upper reef zones. Total water time for the two-dive package is 60–80 minutes.
+Boat transfer from Pacific Harbour harbor takes 15–20 minutes on the operator's dedicated vessels. First dive descends to The Arena at 30 meters, where the structured feeding portion takes place for 10–12 minutes. Divers then ascend the slope to 10 meters for grey reef and whitetip encounters, then move to 4 meters for a shallow finale. Total water time for the standard two-dive package is 60–80 minutes. The second dive is shallower, exploring the Cathedral swim-through and the upper reef structure.
 
 ## Entry and Exit
 
-Beqa Adventure Divers operates dedicated boats from Pacific Harbour harbor. The operation requires advance booking — it is not a walk-up dive. A thorough briefing covering behavior protocols (no loose equipment, hands in, no reaching toward sharks) is mandatory before descent. Advanced certification and a minimum of 50 logged dives are typically required; the operator may ask to review your log book. Wet suits are recommended despite warm water temperatures; the proximity of large sharks makes exposure protection standard practice.
+Beqa Adventure Divers operates dedicated vessels from Pacific Harbour harbor. Advance booking is required. A thorough briefing covering behavior protocols — no loose equipment, hands in, no reaching toward or chasing sharks — is mandatory before descent. The operator typically requires Advanced certification and a minimum of 50 logged dives; your logbook may be reviewed. Wetsuits are recommended regardless of water temperature; exposure protection is standard practice given the proximity of large sharks.
 
 ## Tips and Recommendations
 
-- **Book the two-dive package**: The first dive is the feeding dive; the second explores The Cathedral swim-through and the upper reef. Both dives are included in the standard package — skipping the second dive wastes one of Beqa's best sites.
-- **Arrive in January–March for tiger sharks**: Tiger shark sightings are not guaranteed but are most frequent during this window. Check recent trip reports on ScubaBoard's Fiji forum before booking around a tiger shark objective.
-- **Follow the briefing exactly**: This is a well-run operation that has an excellent safety record because its protocols are non-negotiable. Loose camera arms, dangling gauges, and reaching toward the sharks are the primary risk factors.
-- **Bring a wide-angle lens**: The action happens within 2–5 meters of divers. A wide-angle or fisheye is ideal. Strobes should be positioned far from the housing to avoid spooking nearby sharks.
-- **Consider a Pacific Harbour base**: The dive is worth dedicating a night or two to Pacific Harbour specifically, rather than rushing from Nadi and back. Multiple-day divers get priority booking on favorable tidal windows.
+- **Book the two-dive package**: The first dive is the feeding dive; the second explores The Cathedral swim-through and the upper reef. Both are included in the standard package.
+- **Arrive November–March for tiger sharks**: Tiger sharks are not guaranteed but are most frequently sighted during this seasonal window. Check recent trip reports on ScubaBoard's Fiji forum before targeting a tiger shark sighting.
+- **Follow the briefing exactly**: The operation has an excellent safety record because its protocols are non-negotiable. Loose camera arms, dangling gauges, and any movement toward the sharks are the primary risk factors.
+- **Bring a wide-angle lens**: The action happens within 2–5 meters of divers. A wide-angle or fisheye is ideal. Strobes should be positioned well clear of the housing.
+- **Consider basing in Pacific Harbour**: The dive is worth dedicating a night or two to Pacific Harbour specifically, allowing access to multiple tidal windows rather than a rushed day trip from Nadi.
 
 ## Safety Considerations
 
-The feeding dive is inherently more hazardous than open-water shark encounters and requires strict discipline. Follow all briefing instructions without deviation. Maintain position behind the coral wall — standing up or moving forward into the arena is prohibited and genuinely dangerous. Bull sharks are unpredictable when highly stimulated by feeding; the protocol exists to minimize provocation. Post-dive surface interval is important given the deep starting depth. Divers with cardiovascular conditions or anxiety around large predators should consult their physician and consider whether this dive is appropriate for them.
+The feeding dive carries inherent risks requiring strict discipline. Follow all briefing instructions without deviation. Maintain position behind the coral barricade at The Arena — bull sharks actively stimulated by feeding are genuinely dangerous to divers who break the protocol. Post-dive surface interval is important given the 30-meter starting depth. Beqa Adventure Divers is not the only operator running shark dives in Beqa Passage; Coral Coast Divers runs a similar program. Both have long operational histories.
 
 ## Photography
 
-Shark Reef Marine Reserve is one of the world's best shark photography venues because the animals are predictably positioned in good light at close range. Wide-angle shooting at 10–17mm allows full-frame shark portraits with the reef in the background. Shoot during the feeding phase when sharks are most active and in the open. The upper reef on the second dive offers Napoleon wrasse portraits and Cathedral light-beam shots with a 16–35mm lens. Video divers should use red filters at 20–25 meters to restore color lost to depth.
+Shark Reef Marine Reserve is one of the world's best shark photography venues. The animals are predictably positioned at close range in reasonable visibility. Wide-angle shooting at 10–17mm allows full-frame shark portraits. Shoot during the feeding phase when sharks are in the open and most active. Video divers benefit from red filters at 25–30 meters to restore color. The Cathedral on the second dive offers swim-through light-beam shots.
 
 ---
-*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*
+*Sources: [Beqa Adventure Divers - The Fiji Shark Dive](https://www.fijisharkdive.com/the-fiji-shark-dive/), [Diveplanit - The Arena](https://www.diveplanit.com/dive-site/arena-beqa-adventure-divers-shark-dive/), [Tourism Fiji - Shark Reef Marine Reserve](https://www.fiji.travel/places-to-go/pacific-harbour/locations/diving-with-sharks-in-fiji-s-first-national-marine). Last updated 2026-05-25.*

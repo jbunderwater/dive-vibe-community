@@ -3,7 +3,7 @@ name: West Flower Garden Bank
 lat: 27.8681933
 lng: -93.8240273
 difficulty: Advanced
-maxDepth: 16.8
+maxDepth: 17.0
 entryType: boat
 siteType: reef
 ref: null
@@ -17,19 +17,19 @@ West Flower Garden Bank is a reef dive site in Flower Garden Banks, North Americ
 
 ## Overview
 
-West Flower Garden Bank is an underwater mountain 100 nautical miles offshore in the Gulf of Mexico, renowned as one of the best sites in the sanctuary for manta ray encounters. The 100-acre reef plateau boasts over 50 percent coral cover with massive boulder-shaped brain and star corals, and visibility can exceed 30 meters in summer. Spotted eagle rays school here in winter, whale sharks visit from July through September, and the August full moon triggers a spectacular mass coral spawning event.
+West Flower Garden Bank is an underwater mountain approximately 113 miles offshore in the Gulf of Mexico, renowned as one of the best sites in the sanctuary for manta ray encounters. The reef plateau boasts over 52 percent coral cover with massive boulder-shaped brain and star corals, making it one of the healthiest reef systems in the Western Hemisphere, and visibility can exceed 30 meters in summer. Whale sharks visit from July through September, and the August full moon triggers a spectacular mass coral spawning event.
 
 ## Site Information
 
 - **Location**: Flower Garden Banks, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 16.8 meters
+- **Maximum Depth**: 17.0 meters
 
 ## Marine Life
 
-West Flower Garden Bank shares the coral and fish assemblage of East Bank, as documented by NOAA and DAN. DAN Alert Diver notes torpedo-shaped barracuda, schools of silvery horse-eye jacks, brown and blue chromis, bluehead wrasses, queen and French angelfish, damselfish, trunkfish, balloonfish, parrotfish, squirrelfish, blue-striped neon gobies, and moray eels. Manta rays are year-round residents across both banks; over 100 individuals have been catalogued, with the manta population confirmed as a nursery for juvenile oceanic mantas. Spotted eagle rays school in winter. Whale sharks visit from July through September. Scalloped hammerhead sharks are present January through March. Loggerhead sea turtles and nurse sharks are regularly sighted. The August full-moon coral spawning involves mountainous star coral and great star coral simultaneously releasing gametes.
+West Flower Garden Bank shares the coral and fish assemblage of East Bank, as documented by NOAA and DAN. Fish documented here include great barracuda, horse-eye jacks, brown and blue chromis, bluehead wrasses, queen and French angelfish, damselfish, trunkfish, balloonfish, parrotfish, squirrelfish, blue-striped neon gobies, spotted moray eels, stingrays, and moon jellies. Manta rays are year-round residents across both banks; over 100 individuals have been catalogued sanctuary-wide, with research confirming the area as a nursery for juvenile oceanic mantas (approximately 95% of individuals are sub-adult). Spotted eagle rays are regularly sighted. Whale sharks visit especially during July, August, and September. Scalloped hammerhead sharks school from roughly January through March. Loggerhead sea turtles and nurse sharks are regularly sighted. The August full-moon coral spawning involves brain and star coral species simultaneously releasing gametes.
 
 ## Dive Profile
 
@@ -37,7 +37,7 @@ The coral cap tops out at approximately 55–60 feet (17–18 m), with five moor
 
 ## Entry and Exit
 
-West Flower Garden Bank is liveaboard-only access, approximately 100 nautical miles south-southeast of Galveston and slightly west of East Bank. The primary liveaboard operators — M/V *Fling* and M/V *Spree* — depart from Freeport, Texas. Two- and three-day trips run from February through October. Day-boat access is not practical from the Texas coast. Reserve well in advance; August coral spawning trips are the most sought-after.
+West Flower Garden Bank is liveaboard-only access, approximately 113 miles from shore, about 13 miles west of East Flower Garden Bank. The primary operator is Texas Caribbean Charters, running the M/V *Fling* from Freeport, Texas (NOAA's charter page lists Texas Caribbean Charters as the current operator). Two- and three-day trips run from February through October. Day-boat access is not practical from the Texas coast. Reserve well in advance; August coral spawning trips are the most sought-after.
 
 ## Tips and Recommendations
 
@@ -52,4 +52,4 @@ West Flower Garden Bank shares the same open-ocean, 100-miles-offshore risk prof
 The massive brain and star coral boulders provide dramatic wide-angle subjects with superb natural-light potential. Manta rays circling the reef cap are the marquee wide-angle shot. During coral spawning, position yourself 1–2 metres above the reef looking up into the gamete cloud to capture the "upside-down snowstorm" effect. Eagle ray schools make compelling silhouette images when backlit against the surface. Visibility exceeding 30 metres in summer supports very wide compositions with a 10–17mm range.
 
 ---
-*Sources: [NOAA Flower Garden Banks - What Will I See](https://flowergarden.noaa.gov/visiting/eastwestwwis.html), [NOAA Seasonal Highlights](https://flowergarden.noaa.gov/visiting/naturalevents.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Flower Garden Banks 2](https://dan.org/alert-diver/article/flower-garden-banks-2/). Last updated 2026-05-17.*
+*Sources: [NOAA Flower Garden Banks - What Will I See](https://flowergarden.noaa.gov/visiting/eastwestwwis.html), [NOAA Seasonal Highlights](https://flowergarden.noaa.gov/visiting/naturalevents.html), [NOAA West Flower Garden Bank](https://flowergarden.noaa.gov/about/westflowergardenbank.html), [NOAA Manta Ray Nursery](https://sanctuaries.noaa.gov/news/jun18/fgbnms-identified-as-juvenile-manta-ray-nursery.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/), [ScubaBoard Trip Report 2023](https://scubaboard.com/community/threads/2023-08-04-08-07-flower-garden-banks-marine-sanctuary-with-mv-fling-trip-report.636436/). Last updated 2026-05-25.*

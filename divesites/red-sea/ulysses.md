@@ -58,4 +58,4 @@ The 30-metre maximum depth requires air management awareness — begin ascent at
 Whitetip reef shark portraits on the sandy floor adjacent to the wreck are the site's signature image — approach slowly from a distance and photograph from the horizontal plane at the shark's eye level. The colonised upper hull structure in natural light at 15–20 metres suits wide-angle wreck shots. Interior accessible sections with glassfish schools reward torch-assisted wide-angle technique.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. Vessel identity and history unverified — no independent sources found for this Hurghada wreck. Last updated 2026-05-25.*

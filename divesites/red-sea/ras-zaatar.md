@@ -23,7 +23,7 @@ Ras Za'atar ("headland of thyme" in Arabic) is located at approximately 27.76°N
 
 - **Location**: Sinai Peninsula southwestern coast, south of Sharm el-Sheikh (~27.76°N, 34.26°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

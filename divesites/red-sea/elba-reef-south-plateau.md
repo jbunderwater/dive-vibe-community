@@ -23,7 +23,7 @@ Elba Reef South Plateau forms the southern tip of the Elba atoll at approximatel
 
 - **Location**: Southern tip, Elba Reef atoll, near Egyptian-Sudanese border (~21.97°N)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters

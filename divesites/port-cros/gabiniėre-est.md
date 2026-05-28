@@ -5,7 +5,7 @@ lng: 6.3957633
 difficulty: Intermediate
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 12988211769
 addedBy: osm_import
@@ -44,7 +44,7 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Protected Status**: Port-Cros National Park
@@ -54,4 +54,4 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php). Last updated 2026-05-17.*
+*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-05-25.*

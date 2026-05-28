@@ -43,7 +43,7 @@ Occasional moderate currents require situational awareness — plan the dive wit
 
 - **Location**: ~15 km north of El Quseir, southern Red Sea coast
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25+ m
 

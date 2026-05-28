@@ -17,7 +17,7 @@ The Lugano is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-The Lugano is a shallow wreck dive located on Long Reef south of The Mandalay in the Upper Keys. This partially intact wreck lies in 20-30 feet of water with its outline clearly visible, making it an excellent beginner wreck site. The wreck has created an artificial reef environment attracting diverse tropical fish and coral growth.
+The Lugano is a shallow wreck dive on Long Reef within Biscayne National Park, one of six sites on the park's Maritime Heritage Trail. A 350-foot British iron cargo steamer that ran aground in 1913 en route from Liverpool to Havana, she was stripped by wreckers and left to deteriorate; her iron hull plates and frames now rest in approximately 25 feet of water, encrusted with corals and sponges and serving as the centerpiece of an underwater archaeological interpretive trail.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Lugano is a shallow wreck dive located on Long Reef south of The Mandalay in
 
 ## Wreck History
 
-The Lugano was a 350-foot, 3,770-ton single-screw iron-hulled British cargo steamship built in England in 1882. On March 9, 1913, en route from Galveston to Hamburg with 116 passengers, Captain P. Penwill drove her aground on Long Reef in high winds and heavy seas, significantly off course. The tug Rescue evacuated all passengers safely to Key West. Salvage attempts continued until April 15, when efforts were abandoned and the steamer declared a total loss after further storm damage. Wreckers subsequently stripped the vessel down to the hull. The Lugano was the largest vessel ever to wreck in the Florida reefs up to that time, and is now one of six sites on Biscayne National Park's Maritime Heritage Trail — the only underwater archaeological trail in the National Park System.
+The Lugano was a 350-foot, 3,770-ton single-screw iron-hulled British cargo steamship built in England in 1882. On March 9, 1913, en route from Liverpool to Havana with 116 passengers and a cargo of fine silks, wines, rice, and other foods valued at approximately $1 million, Captain P. Penwill drove her aground on Long Reef in high winds and heavy seas while significantly off course. The tug Rescue evacuated all passengers safely to Key West. Salvage of the cargo began immediately, with around $150,000 recovered; the vessel was abandoned on April 4 and declared a total loss on April 15 after further storm damage. The Lee Brothers were contracted to deliver the hull to Key West for $17,000, but wreckers stripped much of what remained. The Lugano was the largest vessel ever to wreck in the Florida reefs up to that time, and is now one of six sites on Biscayne National Park's Maritime Heritage Trail — the only underwater archaeological trail in the National Park System.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ The Lugano is accessible only by boat through Biscayne National Park, which main
 - Fire coral and stinging hydroids are present on encrusted wreckage; maintain neutral buoyancy.
 
 ---
-*Sources: [NPS — Lugano (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/lugano.htm), [NPS Places — Lugano](https://www.nps.gov/places/lugano.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park), [Archaeology Channel — Dive Into History: SS Lugano](https://www.archaeologychannel.org/video-guide-summary/2473-dive-into-history-episode-four). Last updated 2026-05-17.*
+*Sources: [NPS — Lugano (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/lugano.htm), [NPS Places — Lugano](https://www.nps.gov/places/lugano.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park), [Archaeology Channel — Dive Into History: SS Lugano](https://www.archaeologychannel.org/video-guide-summary/2473-dive-into-history-episode-four). Last updated 2026-05-25.*

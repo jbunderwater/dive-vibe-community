@@ -35,7 +35,7 @@ Excellent photography conditions: the chimney's yellow gorgonians and coloured s
 
 - **Location**: Eastern coast of Ras Mohammed National Park, South Sinai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 metres
 - **Difficulty**: Advanced
 

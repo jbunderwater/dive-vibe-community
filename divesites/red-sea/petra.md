@@ -39,7 +39,7 @@ The shallow, clear, and calm environment — with colourful pinnacles, diverse r
 
 - **Location**: Magawish Island area, approximately 45 minutes southeast of Hurghada
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 metres (typical dive 9 m)
 - **Difficulty**: Beginner
 
