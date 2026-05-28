@@ -3,7 +3,7 @@ name: La Pointe du Vaisseau
 lat: 42.99
 lng: 6.41
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ A south-eastern headland at Port-Cros with a rich coralligenous drop-off, excell
 
 ## Overview
 
-La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The coralligenous drop-off descends to 35 metres, and groupers here have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
+La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The coralligenous drop-off descends to approximately 40 metres, and groupers here have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light; generally less than La Gabinière
@@ -33,7 +33,7 @@ La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, 
 
 ## Marine Life
 
-Brown groupers are numerous and highly approachable — dive guides describe them as "accustomed to human presence" and willing to swim alongside divers at close range. Moray eels emerge from crevices throughout the drop-off, and small-spotted catsharks are occasionally seen resting on the rock ledges. Conger eels occupy the deeper overhangs. The coralligenous drop-off supports gorgonian sea fans, encrusting red coral, and vivid sponge communities. Scorpionfish blend almost invisibly into the rocky substrate. Steinitz' gobies, sea spiders (unusual Pycnogonida), and spiny lobsters are also recorded at this site.
+Brown groupers are numerous and highly approachable — dive guides describe them as "accustomed to human presence" and willing to swim alongside divers at close range. Moray eels emerge from crevices throughout the drop-off. Small-spotted catsharks (roussettes) are listed by local operators as present at this site, resting on sandy ledges. Scorpionfish blend almost invisibly into the rocky substrate. Gobies, spiny lobsters, slipper lobsters, and nudibranchs are also recorded. The coralligenous drop-off supports gorgonian sea fans, axinelle sponges, and diverse encrusting communities. Note: sea spiders (Pycnogonida) appeared in a previous version of this description — they are present in the Mediterranean but no site-specific source confirms them here; that claim has been removed.
 
 ## Dive Profile
 
@@ -46,17 +46,17 @@ Boat access; mooring buoys are reserved for dive clubs and operators. No anchori
 ## Tips
 
 - The calmer conditions at this point make it an excellent first dive in the park for less confident intermediates
-- The combination of groupers, catsharks, and sea spiders makes Vaisseau one of the most species-diverse encounters in the park
+- The combination of groupers, catsharks, and diverse invertebrates makes Vaisseau one of the more species-diverse sites in the park
 - Visit the deeper gorgonian sections in the morning when natural light penetrates at the best angle
 - This site appeared in early park management surveys as one of the original high-quality dive zones; its protection over decades has maintained exceptional marine life
 
 ## Safety
 
-Although calmer than the Gabinière sites, the 35-metre maximum depth warrants careful air and depth management for intermediate divers. Maintain good buoyancy to avoid disturbing the coralligenous bottom. Never anchor in the park's protected zones. Deploy an SMB before surfacing.
+Although calmer than the Gabinière sites, the 40-metre maximum depth warrants careful air and depth management for intermediate divers. Maintain good buoyancy to avoid disturbing the coralligenous bottom. Never anchor in the park's protected zones. Deploy an SMB before surfacing.
 
 ## Photography
 
-Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals sea spiders, nudibranchs, and coral polyp detail.
+Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals nudibranchs, sponge polyp detail, and diverse invertebrates.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Mio Palmo Plongée — Pointe Vaisseau](https://www.miopalmoplongee.com/nos-sites/pointe-vaisseau.php), [Aqualonde Plongée — La Pointe du Vaisseau](https://aqualonde-plongee.com/en/la-pointe-du-vaisseau-3/), [Destination Port-Cros — Site de la Pointe du Vaisseau](https://destination.portcros-parcnational.fr/outdoor-site/22-Site-de-la-Pointe-du-Vaisseau). Last updated 2026-05-28.*

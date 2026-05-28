@@ -17,7 +17,7 @@ East Flower Garden Bank is a reef dive site in Flower Garden Banks, North Americ
 
 ## Overview
 
-East Flower Garden Bank sits atop a salt dome 100 nautical miles off Galveston, Texas, supporting the northernmost coral reef on the North American continental shelf. Coral covers more than 50 percent of the reef cap down to about 30 meters, dominated by massive brain and star coral formations, making it one of the healthiest reef systems in the Western Hemisphere. Resident manta rays, loggerhead sea turtles, and nurse sharks patrol the sand channels, while scalloped hammerhead sharks school here in winter and whale sharks pass through during summer months.
+East Flower Garden Bank sits atop a salt dome approximately 119 miles (192 km) south of the Texas/Louisiana border, supporting the northernmost coral reef on the North American continental shelf. Coral covers over 52 percent of the reef cap — up to five times the hard coral density of many Caribbean reefs — dominated by massive brain and star coral formations that rise 15–20 feet above the nearest sand patches. Resident oceanic manta rays, loggerhead sea turtles, and nurse sharks patrol the sand channels, while scalloped hammerhead sharks school here in late winter and whale sharks pass through in summer.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ East Flower Garden Bank sits atop a salt dome 100 nautical miles off Galveston, 
 
 ## Marine Life
 
-The NOAA sanctuary database and DAN Alert Diver document a dense Atlantic and Gulf assemblage. Signature species: oceanic manta rays (over 100 catalogued individuals identified by unique belly markings, confirmed as a manta nursery with ~95% juveniles in 2018), spotted eagle rays, loggerhead sea turtles, and nurse sharks year-round. Scalloped hammerhead sharks school at the bank from January through March. Whale sharks visit from July through September, often seen filter-feeding at the surface. Fish life includes blue creole wrasses (schooling), queen and French angelfish, yellowmouth grouper, marbled grouper, great barracuda, horse-eye jacks, squirrelfish, spotted moray eels, yellowheaded jawfish, and pufferfish. Invertebrates include red night shrimp, blackpoint sculling crabs, Christmas tree worms, and queen conchs. Orange and yellow barrel sponges add colour to the coral boulders.
+NOAA and DAN Alert Diver document a dense Atlantic and Gulf assemblage. Oceanic manta rays are year-round residents: over 80 individuals have been catalogued by unique belly-spot patterns, and a 2018 study published in Marine Biology confirmed the sanctuary as the world's first known manta ray nursery, with approximately 95% of observed mantas being juveniles. Spotted eagle rays, loggerhead sea turtles, and nurse sharks are regularly sighted year-round. Scalloped hammerhead sharks school at the bank from January through March (January–April per some observers). Whale sharks visit July through September, often seen filter-feeding at the surface. Fish life includes schooling blue creole wrasses, queen and French angelfish, yellowmouth grouper, marbled grouper, great barracuda, horse-eye jacks, squirrelfish, spotted moray eels, yellowheaded jawfish, and pufferfish. Invertebrates include red night shrimp, Christmas tree worms, and various crabs. Orange and yellow barrel sponges add colour to the coral boulders. Note: lionfish arrived in the sanctuary in 2011 and are present at this site.
 
 ## Dive Profile
 
@@ -37,7 +37,7 @@ The reef cap of East Flower Garden Bank tops out at approximately 55–65 feet (
 
 ## Entry and Exit
 
-East Flower Garden Bank is a liveaboard-only destination, approximately 100 nautical miles southeast of Galveston, Texas, in the open Gulf of Mexico. The primary operators are the M/V *Fling* (a 100-foot vessel, maximum 31 divers) and the M/V *Spree*, both departing from Freeport, Texas. Two- and three-day trips run from February through October. There is no day-boat access — the overnight crossing and 36-hour round trip require liveaboard scheduling. Reservations typically book months in advance; the coral spawning trips in August are especially popular.
+East Flower Garden Bank is a liveaboard-only destination, approximately 119 miles from the Texas/Louisiana coast, in the open Gulf of Mexico. The primary operator is the M/V *Fling* (Texas Caribbean Charters, Freeport, Texas), a 100-foot converted crew boat. Two- and three-day trips run from February through October. There is no practical day-boat access — the overnight crossing requires liveaboard scheduling. Reservations typically book months in advance; the coral spawning trips in August fill first. Note: M/V Spree was formerly a sister vessel but was sold in 2015 and no longer operates these trips.
 
 ## Tips and Recommendations
 
@@ -52,4 +52,4 @@ East Flower Garden Bank is not suitable for novice divers. The site is 100 miles
 East Flower Garden Bank is among the finest wide-angle diving subjects in the Gulf of Mexico. Manta ray portraits using an 8–15mm fisheye lens are a highlight; approach slowly and hover at mid-water to let mantas pass overhead. During coral spawning, wide-angle captures the gamete blizzard rising from the reef. Scalloped hammerhead silhouettes in the blue water column (winter) and whale shark encounters (summer) are bucket-list shots. The dense coral boulder carpet with abundant fish life rewards both macro and wide-angle approaches.
 
 ---
-*Sources: [NOAA Flower Garden Banks - What Will I See](https://flowergarden.noaa.gov/visiting/eastwestwwis.html), [NOAA Seasonal Highlights](https://flowergarden.noaa.gov/visiting/naturalevents.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Flower Garden Banks 2](https://dan.org/alert-diver/article/flower-garden-banks-2/). Last updated 2026-05-17.*
+*Sources: [NOAA Flower Garden Banks - What Will I See](https://flowergarden.noaa.gov/visiting/eastwestwwis.html), [NOAA Seasonal Highlights](https://flowergarden.noaa.gov/visiting/naturalevents.html), [NOAA East Flower Garden Bank](https://flowergarden.noaa.gov/about/eastflowergardenbank.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/), [NOAA Sanctuaries - Manta Ray Nursery (2018)](https://sanctuaries.noaa.gov/news/jun18/fgbnms-identified-as-juvenile-manta-ray-nursery.html). Last updated 2026-05-28.*

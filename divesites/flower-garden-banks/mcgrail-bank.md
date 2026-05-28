@@ -29,7 +29,7 @@ McGrail Bank is a deep reef within the Flower Garden Banks National Marine Sanct
 
 ## Marine Life
 
-NOAA's McGrail Bank page documents creolefish, groupers, snappers, reef butterflyfish, blue chromis, creole wrasses, rock beauty, schools of yellow goatfish, squirrelfish, and horse-eye jacks in the mid-water column. The deep reef cap supports the dominant blushing star coral (*Stephanocoenia intersepta*) colonies — no other known coral reef is dominated by this species. Deeper mesophotic zones (below 60 m, accessible only by submersible or rebreather) host black corals, octocorals, dense sponge communities, and sharks. NOAA designates McGrail a Coral Habitat Area of Particular Concern in recognition of its unique ecosystem.
+NOAA's McGrail Bank page documents creolefish, groupers, snappers, reef butterflyfish, blue chromis, creole wrasses, schools of yellow goatfish, squirrelfish, and horse-eye jacks in the mid-water column. The DAN Alert Diver article specifically notes sandbar sharks at McGrail Bank. The reef cap is dominated by blushing star coral (*Stephanocoenia intersepta*) — NOAA confirms no other known coral reef is dominated by this species. Note: the coral species name appears as *Stephanocoenia intersepta* in NOAA documentation; older literature sometimes uses *Stephanocoenia michelini*. Deeper mesophotic zones (below 60 m, accessible only by submersible or technical rebreather equipment) host black corals, octocorals, dense sponge communities. NOAA designates McGrail a Coral Habitat Area of Particular Concern in recognition of its unique ecosystem.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ McGrail is a specialist destination: plan it as a technical dive with appropriat
 At 44 m, McGrail sits beyond the safe recreational no-decompression limit without careful gas management. Technical diving training (minimum Advanced Nitrox/Decompression Procedures or equivalent) is required. Narcosis at depth, unpredictable Gulf currents, and distance from shore (109 miles) all elevate the risk profile. Emergency evacuation is a multi-hour operation. The site carries NOAA's Coral Habitat Area of Particular Concern designation — no anchoring, no take, strict no-contact reef rules apply.
 
 ---
-*Sources: [NOAA McGrail Bank](https://flowergarden.noaa.gov/about/mcgrailbank.html), [NOAA Mesophotic Habitats](https://flowergarden.noaa.gov/about/mesophotic.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [DAN Alert Diver - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/). Last updated 2026-05-17.*
+*Sources: [NOAA McGrail Bank](https://flowergarden.noaa.gov/about/mcgrailbank.html), [NOAA Mesophotic Habitats](https://flowergarden.noaa.gov/about/mesophotic.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/). Last updated 2026-05-28.*

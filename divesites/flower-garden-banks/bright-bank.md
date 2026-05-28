@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bright Bank
 
-Bright Bank, named after marine biologist Tom Bright (known as "the father of the Flower Garden Banks"), is a structurally connected reef system part of the larger sanctuary complex added in 2021. The bank's distinctive lion's-paw shape, with a crest around 112 feet (34 meters), provides varied diving terrain. Unfortunately, historical treasure salvage operations in the 1980s caused significant damage to portions of the reef, making conservation efforts here particularly important.
+Bright Bank is named after Tom Bright, a Texas A&M University marine biologist who researched the region in the 1970s–1980s through the Bureau of Land Management's Topographic Features Study and co-authored the 1985 reference work *Reefs and Banks of the Northwestern Gulf of Mexico*. Added to the sanctuary in 2021, this lion's-paw-shaped bank rises to a crest at 112 feet (34 m) and covers 7.7 square miles (19.9 sq km), approximately 124 miles from shore. In the 1980s, treasure salvors claiming a Spanish galleon caused documented damage to coral boulders through explosive excavation, creating pits 10–13 feet (3–4 m) deep; abandoned tools and equipment remain at the site.
 
 ## Overview
 
-Bright Bank is one of seven sanctuary banks with reef habitat within recreational diving limits (130 feet/40 meters). The bank features deep-water coral communities along with typical tropical fish fauna and scattered coral formations. The reef crest is at 34 meters, putting it within reach of experienced recreational divers. The site is structurally connected to Rankin and 28 Fathom Banks via patch reefs, forming a larger ecosystem. Part of a Habitat Area of Particular Concern (HAPC), this location is important for marine conservation and research.
+Bright Bank is one of seven sanctuary banks with reef habitat within the 130-foot (40-meter) recreational diving limit. NOAA confirms the reef crest sits at 112 feet (34 m), with the bank descending to 384 feet (117 m) at depth. Boulder-like reef structures form individual colonies or reef patches up to 64 feet (50 m) in diameter in the shallower areas, transitioning to coralline algae and deep coral habitats at depth. Structurally connected to Rankin and 28 Fathom Banks via patch reefs and designated a Habitat Area of Particular Concern, Bright Bank carries extra conservation significance. Mooring buoys are installed at depths of 143–159 feet (44–48 m), slightly deeper than the reef crest itself. Note: the NOAA-confirmed mooring depths at 143–159 ft (44–48 m) suggest most dive access is at or just below the no-decompression limit for recreational divers.
 
 ## Site Information
 
@@ -27,13 +27,13 @@ Bright Bank is one of seven sanctuary banks with reef habitat within recreationa
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34.1 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Water Temperature**: 21-29°C (70-84°F) summer; 4-9°C (40-48°F) winter
+- **Water Temperature**: approximately 27-29°C (80-84°F) summer; approximately 15-20°C (59-68°F) winter
 - **Current**: Moderate to strong; manageable for experienced divers
 - **Best Time**: May-October (summer season); February-April (winter season)
 
 ## Marine Life
 
-Bright Bank supports tropical fish fauna including butterflyfish, wrasses, groupers, and snappers. Black corals, octocorals, sponges, and stony corals form the deep-water community. Pelagic encounters include nurse sharks, eagle rays, and occasional larger fish species attracted to the offshore pinnacle structure. The living reef represents recovery from historical treasure salvage damage; only a small amount of coral remains on the crest due to past excavations.
+NOAA documents hard corals, crinoids, black corals, and algae (particularly *Codium* sp.) at Bright Bank, along with brown chromis and creolefish. DAN Alert Diver describes the site as having "sponges, fire corals and occasional hard corals" and being "teeming with tropical fish." No site-specific marine life census comparable to East/West Banks has been published for Bright Bank. The 1980s salvage damage created excavated pits that are still visible; their location and the abandoned equipment are documented in NOAA records. Pelagic encounters typical of offshore Gulf banks — eagle rays, larger fish species — are possible, but no source confirms specific species as reliably present at this particular site.
 
 ## Dive Profile
 
@@ -76,4 +76,4 @@ Not suitable for recreational divers without deep-water training.
 The recovering coral formations provide good wide-angle composition opportunities. Tropical fish fauna and coral heads offer both wide-angle and macro subjects. Photography is challenging given the depth and resulting darker light environment; bring lights for macro work.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Sources: [NOAA Bright Bank](https://flowergarden.noaa.gov/about/brightbank.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [NOAA Mooring Buoys](https://flowergarden.noaa.gov/protection/mooringbuoys.html), [DAN Alert Diver - Magic in the Gulf](https://dan.org/alert-diver/article/flower-garden-banks-2/). Last updated 2026-05-28.*

@@ -54,4 +54,4 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php). Last updated 2026-05-17.*
+*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Port Cros National Park diving overview](https://worldadventuredivers.com/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php). Last updated 2026-05-28.*

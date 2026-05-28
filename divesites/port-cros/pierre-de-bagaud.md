@@ -33,7 +33,7 @@ Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagau
 
 ## Marine Life
 
-Brown groupers inhabit the rock structure at 15–25 metres, moving with characteristic curiosity between the reef and the Posidonia meadow borders. Moray eels of multiple species (Mediterranean and long-tailed) occupy crevices throughout. The Posidonia meadows adjacent to the reef harbour sea needles, cuttlefish, and cryptic flatfish. Sea bream (two-banded and Sargus varieties), oblades, and salema school above the reef. Scorpionfish blend into the rocky substrate. Octopus and spiny lobsters are present in the deeper boulder gaps. Nudibranchs are found on the encrusted rock faces.
+Brown groupers inhabit the rock structure at 15–25 metres, moving with characteristic curiosity between the reef and the Posidonia meadow borders. Moray eels of multiple species (Mediterranean and long-tailed) occupy crevices throughout. The Posidonia meadows adjacent to the reef are typical Mediterranean seagrass habitat; sea needles and cryptic flatfish are characteristic of such meadows. Sea bream, oblades, and salema school above the reef. Scorpionfish blend into the rocky substrate. Octopus and spiny lobsters are present in the deeper boulder gaps. Nudibranchs are found on the encrusted rock faces. Cuttlefish have been noted in port-cros Posidonia meadows generally, but no site-specific source for Pierre de Bagaud was located.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ A sheltered intermediate site with straightforward conditions in typical weather
 
 ## Photography
 
-The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (seahorses, pipefish, cuttlefish) and encrusted rock surfaces is productive.
+The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species and encrusted rock surfaces is productive.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Provence-Alpes-Côte d'Azur Tourism — Bagaud in Port-Cros](https://provence-alpes-cotedazur.com/en/get-inspired/natural-areas/natural-wealth/bagaud-in-port-cros-diving-site-hyeres-en-3260804/), [Hyères Tourism — Bagaud Diving Site](https://hyeres-tourism.co.uk/fauna-flora-parks-garden/bagaud-in-port-cros-diving-site), [Port-Cros National Park — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee). No site-specific marine life census for Pierre de Bagaud found; species reflect general park characteristics. Last updated 2026-05-28.*

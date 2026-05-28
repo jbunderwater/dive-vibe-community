@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Wildcat
 
-A rare aircraft wreck at the north-eastern tip of Port-Cros island — a Royal Navy Grumman Wildcat (Martlet) resting upside down at 53 metres.
+A WWII-era aircraft wreck near Île de la Fourmigue — a Royal Navy Grumman Wildcat Mk V (Martlet) resting upside down on sand at 53 metres.
 
 ## Overview
 
-The Wildcat is one of the most unusual dive sites in the Port-Cros area: a single-seat Royal Navy Grumman F4F Wildcat (known in British service as the "Martlet") aircraft that was discarded from an aircraft carrier in the late 1950s following irreparable damage, coming to rest on the sandy bottom at the north-eastern tip of Port-Cros island. The aircraft lies upside down with the cockpit buried, at depths of 53 metres maximum, visible from around 30–35 metres in good visibility. It is a technically challenging dive due to both its depth and the strong current that often runs at the site. The Wildcat is a reminder of the long history of Royal Navy carrier operations in Mediterranean waters.
+The Wildcat is one of the most unusual dive sites in the Port-Cros area: a Royal Navy Grumman F4F Wildcat Mk V (designated "Martlet" in British service) that was lost during the Second World War, almost certainly during Operation Dragoon — the Allied landings on the south of France that began on 15 August 1944. The 882 Naval Air Squadron, operating from the escort carrier HMS Searcher as part of Task Force 88.1, flew 167 sorties during Operation Dragoon and lost three aircraft during the operation; this wreck is likely one of them. Sources disagree on the exact circumstances of the loss: the Port-Cros National Park destination guide describes the aircraft as having been jettisoned from a carrier following irreparable damage, while another local operator source notes uncertainty between a deliberate jettison and a crash or forced landing.
+
+The aircraft lies inverted on sandy bottom at a maximum depth of 53 metres, approximately 200 metres northwest of Île de la Fourmigue. Despite its wartime context, the wreck is in remarkably good condition: both wings are intact, the fuselage has retained a rear wheel, and the tail assembly is well-preserved. The cockpit is open and at sand level; the engine is missing but the propeller shaft is present. The aircraft is identifiable by its distinctive inverted single-engine fighter silhouette and retains British military insignia. It is technically challenging due to both depth and the strong current that frequently runs at the site.
 
 ## Site Information
 
-- **Location**: North-eastern tip of Île de Port-Cros, Var, France
+- **Location**: ~200 m northwest of Île de la Fourmigue, Rade de Bormes-les-Mimosas, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (aircraft)
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 53 meters
 - **Typical Visibility**: 10–25 metres
@@ -59,4 +61,4 @@ Technical-level depths require advanced certifications as a minimum. Strong curr
 The inverted aircraft is a unique and unusual wide-angle subject. Shooting along the wing line from a distance, with a diver above for scale, captures the shape clearly. The encrusted sections of the tail and wings show the passage of time effectively. Powerful artificial lighting is essential at 53 metres — ambient light is minimal and colour is absent.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Destination Port-Cros — Épave du Wildcat](https://destination.portcros-parcnational.fr/outdoor-site/3-Plongee-sur-l-epave-du-Wildcat), [Mio Palmo Plongée — Le Wildcat](https://www.miopalmoplongee.com/nos-sites/le-wildcat.php), [Wikipedia — 882 Naval Air Squadron](https://en.wikipedia.org/wiki/882_Naval_Air_Squadron), [Wikipedia — HMS Searcher](https://en.wikipedia.org/wiki/HMS_Searcher_(D40)). Last updated 2026-05-28.*

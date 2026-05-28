@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # La Tantine
 
-A deep wreck in the Hyères Bay area, resting at 48 metres in the waters of the Port-Cros maritime zone.
+A small deep barge wreck known as the "barge aux congres" (conger barge), resting flat on sand at 48 metres approximately 500 metres from Bagaud island.
 
 ## Overview
 
-La Tantine is a wreck site in the Hyères Bay area, within the broader maritime zone covered by Port-Cros National Park's associated protected waters. At 48 metres maximum depth, this is a dedicated advanced and technical dive. The wreck rests on a sandy bottom and has become an artificial reef over the decades since sinking, hosting dense fish communities and encrusting invertebrate growth. The depth and occasional current at this site mean it is reserved for experienced divers with appropriate advanced or technical qualifications. Visibility in the Hyères Bay area typically runs 10–25 metres.
+La Tantine — officially the *Barge aux Congres* (Conger Barge) — is a small wreck measuring approximately 20 metres long, 6 metres wide, and 3 metres high, resting flat on a sandy bottom at 48 metres depth. Its origins and sinking history are unknown: no vessel name, build date, tonnage, or confirmed sinking date has been established by any available source. Local accounts suggest it may have been a tugboat or crane barge that sank during severe weather, possibly in the 1960s, though this is unconfirmed speculation. The wreck has acquired its informal nickname from the large conger eels that inhabit the space beneath the hull. A crane structure at the stern is elevated approximately 2 metres above the hull; railings have disappeared over time.
+
+At 48 metres, La Tantine is among the deeper recreational dives in the Port-Cros area. The limited bottom time at this depth — combined with the frequently strong current at the site — makes this a demanding dive. The site's small footprint means the full circuit takes around 10 minutes; divers must plan gas and decompression limits accordingly.
 
 ## Site Information
 
@@ -33,7 +35,7 @@ La Tantine is a wreck site in the Hyères Bay area, within the broader maritime 
 
 ## Marine Life
 
-Wreck structures in the Hyères Bay area attract dense fish communities. Brown groupers and large dentex are commonly encountered on and around the superstructure. Schools of swallowtail sea perch (anthias) cloud the most encrusted surfaces. Conger eels and large moray eels inhabit the wreck's interior passages. Gorgonian fans and encrusting sponges colonise the metalwork, and spiny lobsters are present in sheltered areas. Octopus occupy accessible openings.
+The site takes its nickname "Barge aux Congres" from the enormous conger eels — reported up to 2 metres in length — that shelter beneath the hull. Moray eels and various rockfish (scorpionfish, comber) occupy crevices around the structure. At 48 metres, the wreck's surface is colonised by encrusting organisms, though marine life density here is not as well-documented as at the larger ship wrecks in the area. No site-specific census of species at La Tantine is available; the description above reflects operator reports.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ This is an advanced dive with depth-related risks. Never dive La Tantine without
 The encrusted metalwork and resident fish life create compelling subjects at La Tantine. Wide-angle shots of groupers and dentex against the wreck structure, and macro work on the sponge and gorgonian encrustation, both work well. Artificial lighting is essential — at 48 metres, no usable ambient colour remains. A torch for focus assists and a powerful strobe are needed.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [Mio Palmo Plongée — La Barge aux Congres](https://www.miopalmoplongee.com/nos-sites/la-barge-aux-congres.php), [Provence Méditerranée — La Barge aux Congres (La Tantine)](https://www.provencemed.com/activite/la-barge-aux-congres-la-tantine/), [Provence-Alpes-Côte d'Azur Tourism — La Barge aux Congres](https://provence-alpes-cotedazur.com/en/get-inspired/natural-areas/natural-wealth/la-barge-aux-congres-la-tantine-hyeres-en-3261307/). Vessel history unknown; no build date, tonnage, or sinking date confirmed by any source. Last updated 2026-05-28.*

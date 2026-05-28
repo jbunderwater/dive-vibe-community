@@ -10,8 +10,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "hyeres-tourism.co.uk,miopalmoplongee.com,lavandou-plongee.com,provencemed.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -25,8 +26,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,lavandou-plongee.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -40,15 +42,17 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "neptuneproject.eu,provencemed.com,hyeres-tourism.co.uk,tribloo.com",
+      "last_qa_date": "2026-05-28",
+      "wreck_qa_note": "Sinking date conflict: neptuneproject.eu gives 10 November 1945; provencemed.com states 'October 1945'. Dimensions (78m x 12m) and Norway 1931 build confirmed by 2+ sources."
     }
   },
   {
     "name": "La Pointe du Vaisseau",
     "lat": 42.99,
     "lon": 6.41,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -56,8 +60,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Classic Mediterranean wall dive with vertical drop, 10-35m. Posidonia seagrass meadows on shallow plateau. Groupers, morays, and amberjacks in wall crevices. Excellent macro photography and light penetration. 15m+ visibility typical."
+      "validation_source": "miopalmoplongee.com,aqualonde-plongee.com,destination.portcros-parcnational.fr",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -71,8 +75,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "fr.wikipedia.org,aqualonde-plongee.com,subaqua.ffessm.fr",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -86,8 +91,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "lavandou-plongee.com,worldadventuredivers.com,aquabormes.fr",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -102,8 +108,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore-accessible reef in protected marine reserve with snorkeling trail, 2-12m. Beginner-friendly posidonia seagrass exploration. Groupers, bream, and nudibranchs common. Excellent for learning Mediterranean reef ecology."
+      "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,worldadventuredivers.com,lavandou-plongee.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -117,8 +123,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "worldadventuredivers.com,lavandou-plongee.com,provencemed.com",
+      "last_qa_date": "2026-05-28",
+      "site_specific_note": "No site-specific source found for Les Deux Frères; description reflects regional park characteristics."
     }
   },
   {
@@ -133,8 +141,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Bagaud island reef (pierre = rock) with rocky formations and posidonia, 5-25m. Intermediate exploration of marine reserve with groupers, octopus, and sea fans. Good visibility (20m+) and moderate currents."
+      "validation_source": "provence-alpes-cotedazur.com,hyeres-tourism.co.uk,portcros-parcnational.fr",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -148,8 +156,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "lavandou-plongee.com,miopalmoplongee.com,worldadventuredivers.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -164,8 +173,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Beach dive site (plage = beach) with easy shore access, depths 2-8m. Beginner-friendly Mediterranean reef with posidonia seagrass beds. Perfect for learning in calm, shallow protected area."
+      "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,worldadventuredivers.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -180,8 +189,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Point (pointe) reef with deeper exploration, 8-30m. Intermediate Mediterranean dive with rocky formations, groupers, and amberjacks. Posidonia and macroalgae. Visibility typically 15-25m with light currents."
+      "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,worldadventuredivers.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -200,8 +209,9 @@
       "sport": "scuba_diving",
       "wreck:depth": "47m",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "fr.wikipedia.org,aqualonde-plongee.com,subaqua.ffessm.fr",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -220,8 +230,10 @@
       "sport": "scuba_diving",
       "wreck:depth": "52m",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "neptuneproject.eu,provencemed.com,tribloo.com,hyeres-tourism.co.uk",
+      "last_qa_date": "2026-05-28",
+      "wreck_qa_note": "Sinking date conflict: neptuneproject.eu gives 10 November 1945; provencemed.com states 'October 1945'. Both flagged in markdown."
     }
   },
   {
@@ -243,8 +255,10 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "miopalmoplongee.com,provencemed.com,provence-alpes-cotedazur.com",
+      "last_qa_date": "2026-05-28",
+      "wreck_qa_note": "Small barge (~20m x 6m x 3m); identity and sinking date unknown. No vessel name, tonnage, or build date available from any source."
     }
   },
   {
@@ -265,8 +279,10 @@
       "sport": "scuba_diving",
       "wreck:type": "aircraft",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "destination.portcros-parcnational.fr,miopalmoplongee.com,tribloo.com",
+      "last_qa_date": "2026-05-28",
+      "wreck_qa_note": "Aircraft is a WWII-era Grumman Wildcat V (Martlet Mk V), lost during Operation Dragoon (August 1944). 882 Squadron on HMS Searcher confirmed operating in the area and losing 3 aircraft during the operation. Source conflict: destination.portcros-parcnational.fr says 'jettisoned after irreparable damage'; miopalmoplongee.com says uncertainty between jettisoned vs crash. Previous markdown claim of 'late 1950s' was fabricated — corrected."
     }
   },
   {
@@ -285,12 +301,13 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "lavandou-plongee.com,miopalmoplongee.com,worldadventuredivers.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
-    "name": "l’Esquadillon",
+    "name": "l'Esquadillon",
     "lat": 43.0475448,
     "lon": 6.5138411,
     "osm_id": 602115153,
@@ -300,14 +317,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "l’Esquadillon",
+      "name": "l'Esquadillon",
       "natural": "reef",
       "place": "islet",
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,lavandou-plongee.com",
+      "last_qa_date": "2026-05-28"
     }
   }
 ]

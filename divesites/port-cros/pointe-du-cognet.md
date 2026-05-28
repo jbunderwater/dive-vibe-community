@@ -33,7 +33,7 @@ La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, in
 
 ## Marine Life
 
-Brown groupers are the headline species — resident fish that know the park and approach divers with bold curiosity. Moray eels inhabit the rock crevices along the entire depth range, and octopus are found at the transitions between rock and sandy or seagrass substrate. Sea bream, salema, and oblades move through the water column. Scorpionfish are common (and often invisible until very close inspection). Below 18 metres, gorgonian sea fans and encrusting sponges appear on the rocky surfaces. The Posidonia meadow sections in the upper 12 metres shelter cuttlefish and seahorses.
+Brown groupers are the headline species — resident fish that know the park and approach divers with bold curiosity. Moray eels inhabit the rock crevices along the entire depth range, and octopus are found at the transitions between rock and sandy or seagrass substrate. Sea bream, salema, and oblades move through the water column. Scorpionfish are common (and often invisible until very close inspection). Below 18 metres, gorgonian sea fans and encrusting sponges appear on the rocky surfaces. The Posidonia meadow sections in the upper 12 metres shelter cryptic species typical of Mediterranean seagrass; cuttlefish and seahorses are part of the broader park's Posidonia fauna but no site-specific records for Pointe du Cognet were found in available sources.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Standard park intermediate conditions. The exposed face of the headland requires
 
 ## Photography
 
-Grouper portraits near the rocky headland structure are the photographic highlight. The Posidonia meadow provides excellent macro subjects (cuttlefish, seahorses). Gorgonian fans on the deeper rock faces photograph well wide-angle with a strobe. Natural light is productive in the upper 15 metres.
+Grouper portraits near the rocky headland structure are the photographic highlight. The Posidonia meadow provides excellent macro subjects for Mediterranean seagrass species. Gorgonian fans on the deeper rock faces photograph well wide-angle with a strobe. Natural light is productive in the upper 15 metres.
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). No site-specific sources for Pointe du Cognet marine life were found; description reflects regional park characteristics and headland topography. Last updated 2026-05-28.*

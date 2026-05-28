@@ -17,7 +17,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,sanctuaries.noaa.gov",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -38,7 +39,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,sanctuaries.noaa.gov",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -47,8 +49,8 @@
     "lon": -94.2990745,
     "osm_id": 6014024399,
     "osm_type": "node",
-    "depth": 21.3,
-    "site_type": "wall",
+    "depth": 17.0,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -59,7 +61,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -74,7 +77,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,fishgame.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -89,14 +93,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
     "name": "Geyer Bank",
     "lat": 27.7167,
     "lon": -93.4667,
-    "depth": 39.6,
+    "depth": 32.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -104,22 +109,25 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "noaa"
+      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
     "name": "Rankin Bank",
     "lat": 27.6833,
     "lon": -93.5833,
-    "depth": 39.6,
+    "depth": 50.0,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "validation_source": "flowergarden.noaa.gov",
+      "last_qa_date": "2026-05-28",
+      "note": "Depth correction: NOAA confirms shallowest point is 164ft (50m), beyond 130ft recreational limit. Not accessible to recreational divers. Requires technical diving. Single source only - cannot reach 3-source validation threshold for recreational dive site."
     }
   },
   {
@@ -127,14 +135,15 @@
     "lat": 27.91,
     "lon": -93.595,
     "depth": 7.6,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "noaa"
+      "validated": "false",
+      "last_qa_date": "2026-05-28",
+      "note": "No independent source found for this site name. NOAA mooring buoy list for East FGB shows only numbered buoys at 18.6-21.3m; no sub-site named Stairway appears in any source. The 7.6m max depth is inconsistent with all NOAA mooring depths (18.6-21.3m). Site existence and characteristics unverified."
     }
   }
 ]
