@@ -23,9 +23,9 @@ Geyer Bank is one of seven sanctuary banks with reef habitat within the 130-foot
 
 - **Location**: Gulf of Mexico, southern Flower Garden Banks complex (27.72°N, 93.47°W)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters (105 feet) at shallowest reef crest; full depth range 32–220 meters
+- **Maximum Depth**: 32.0 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Water Temperature**: approximately 27-29°C (80-84°F) summer; approximately 15-20°C (59-68°F) winter
 - **Current**: Moderate to strong; variable conditions
@@ -47,7 +47,7 @@ Access is exclusively by dive boat with moored buoys. Giant stride entry with fu
 
 - Book with Flower Garden Banks operators experienced in deep reef diving
 - Watch for marbled grouper during spawning season (specific times) if research permits access
-- Bring adequate thermal protection; Gulf water is cold
+- Bring adequate thermal protection; Gulf water can be 15-20°C (59-68°F) in winter at depth
 - Bring a camera for butterflyfish aggregation photography
 - Plan dives conservatively with substantial air reserves
 - Stay close to the moored line for safe ascent
@@ -60,7 +60,7 @@ Geyer Bank presents substantial technical challenges:
 - Extended decompression obligations
 - Offshore location with limited emergency response
 - Strong currents possible; condition awareness critical
-- Cold water year-round
+- Cooler water in winter (15-20°C); appropriate thermal protection required year-round
 
 Essential requirements:
 - Advanced Open Water or Deep Diver certification minimum

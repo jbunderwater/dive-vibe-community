@@ -23,7 +23,7 @@ West Flower Garden Bank is an underwater mountain approximately 113 miles (182 k
 
 - **Location**: Flower Garden Banks, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 16.8 meters
 

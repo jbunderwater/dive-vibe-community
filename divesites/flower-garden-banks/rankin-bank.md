@@ -24,9 +24,9 @@ Rankin Bank is named after John L. Rankin (1919–2011), the first Director of t
 ## Site Information
 
 - **Location**: Gulf of Mexico, 124 miles (200 km) offshore (27.68°N, 93.58°W)
-- **Entry Type**: Boat dive (technical diving only)
-- **Site Type**: Coral reef (deep)
-- **Difficulty Level**: Advanced (technical diving required; beyond recreational limits)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Minimum Depth to Reef**: 50 meters (164 feet) — beyond recreational no-decompression limits
 - **Full Depth Range**: 50–174 meters (164–571 feet)
 

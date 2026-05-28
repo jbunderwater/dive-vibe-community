@@ -23,9 +23,9 @@ Stetson Bank is the westernmost unit of the Flower Garden Banks National Marine 
 
 - **Location**: Flower Garden Banks, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 17 meters (56 feet) at the shallowest reef crest; full depth range 17–61 meters
+- **Maximum Depth**: 17.0 meters
 
 ## Marine Life
 

@@ -23,7 +23,7 @@ McGrail Bank is a deep reef within the Flower Garden Banks National Marine Sanct
 
 - **Location**: Flower Garden Banks, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 43.9 meters
 

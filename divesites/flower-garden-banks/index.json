@@ -29,9 +29,9 @@
     "lat": 28.163431,
     "lng": -94.2990745,
     "difficulty": "Advanced",
-    "maxDepth": 21.3,
+    "maxDepth": 17.0,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 6014024399
   },
@@ -65,7 +65,7 @@
     "lat": 27.7167,
     "lng": -93.4667,
     "difficulty": "Advanced",
-    "maxDepth": 39.6,
+    "maxDepth": 32.0,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
@@ -77,7 +77,7 @@
     "lat": 27.6833,
     "lng": -93.5833,
     "difficulty": "Advanced",
-    "maxDepth": 39.6,
+    "maxDepth": 50.0,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
@@ -91,7 +91,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 7.6,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   }

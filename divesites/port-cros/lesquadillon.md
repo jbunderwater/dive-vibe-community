@@ -23,7 +23,7 @@ L'Esquadillon is a submerged rocky structure in the outer waters northeast of Po
 
 - **Location**: Outer Hyères Bay area, northeast of Port-Cros, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–30 metres
@@ -33,7 +33,7 @@ L'Esquadillon is a submerged rocky structure in the outer waters northeast of Po
 
 ## Marine Life
 
-Brown groupers move between the reef structure and the Posidonia meadow edges. Moray eels, octopus, and spiny lobsters inhabit the rock crevices. Sea bream (two-banded, Saddled, and Sargus varieties), salema, oblades, and sea bass are active in the water column above the reef. The Posidonia meadow shelters cuttlefish, seahorses, and pipefish. Scorpionfish blend into the rocky substrate. Nudibranchs (particularly aeolids and dorids) are found on encrusted rock surfaces. Red and yellow gorgonian fans appear on the deeper rock faces below 18 metres.
+Brown groupers move between the reef structure and the Posidonia meadow edges. Moray eels, octopus, and spiny lobsters inhabit the rock crevices. Sea bream (two-banded, Saddled, and Sargus varieties), salema, oblades, and sea bass are active in the water column above the reef. The Posidonia meadow shelters cryptic species typical of Mediterranean seagrass habitat. Scorpionfish blend into the rocky substrate. Nudibranchs (particularly aeolids and dorids) are found on encrusted rock surfaces. Red and yellow gorgonian fans appear on the deeper rock faces below 18 metres.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Boat access from operators in La Londe, Le Lavandou, or Hyères. Back roll or gi
 
 - L'Esquadillon's outer location means excellent visibility when weather permits — check forecasts for easterly winds that can stir sediment
 - The combination of reef and Posidonia in one dive makes this a good site for photographers wanting both habitat types
-- Cuttlefish in the seagrass change colour rapidly when approached — maintain distance and patience for best behaviour
+- In Mediterranean Posidonia meadows, cryptic species such as cuttlefish may be present — maintain distance and patience when approaching any wildlife
 - Gorgonian fans on the deeper rock faces develop well in clear outer-bay water
 
 ## Safety
@@ -56,7 +56,7 @@ Standard Mediterranean intermediate dive conditions. Exposed outer bay location 
 
 ## Photography
 
-The Posidonia meadow provides excellent macro subjects (seahorses, cuttlefish, pipefish), while the rocky reef offers grouper portraits and gorgonian wide-angle shots. The clear outer-bay water produces excellent natural-light photography in the 5–15 metre range. A strobe adds accuracy to colour in the deeper sections.
+The Posidonia meadow provides excellent macro opportunities for Mediterranean seagrass species, while the rocky reef offers grouper portraits and gorgonian wide-angle shots. The clear outer-bay water produces excellent natural-light photography in the 5–15 metre range. A strobe adds accuracy to colour in the deeper sections.
 
 ---
 *Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/). No site-specific sources for l'Esquadillon were found beyond its OSM reef classification; description reflects regional park characteristics. Last updated 2026-05-28.*

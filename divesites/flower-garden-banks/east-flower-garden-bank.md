@@ -23,7 +23,7 @@ East Flower Garden Bank sits atop a salt dome approximately 119 miles (192 km) s
 
 - **Location**: Flower Garden Banks, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21.3 meters
 

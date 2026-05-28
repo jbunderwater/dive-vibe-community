@@ -39,7 +39,7 @@ Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typic
 
 - **Location**: Hyères Archipelago / Port-Cros area, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Protected Status**: Within or adjacent to Port-Cros National Park zone

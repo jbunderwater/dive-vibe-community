@@ -23,7 +23,7 @@ Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagau
 
 - **Location**: Off Islet of Bagaud, Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 metres

@@ -44,7 +44,7 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 
 - **Location**: Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Protected Status**: Port-Cros National Park

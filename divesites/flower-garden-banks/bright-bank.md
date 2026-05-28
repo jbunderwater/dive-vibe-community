@@ -23,7 +23,7 @@ Bright Bank is one of seven sanctuary banks with reef habitat within the 130-foo
 
 - **Location**: Gulf of Mexico, 110 miles offshore, east of East Flower Garden Bank (27.88°N, 93.30°W)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34.1 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -46,7 +46,7 @@ Access is exclusively by dive boat with moored buoys. Giant stride entry with fu
 ## Tips and Recommendations
 
 - Book with Flower Garden Banks-experienced operators
-- Bring adequate thermal protection; Gulf water is cold year-round
+- Bring adequate thermal protection; Gulf water can be 15-20°C (59-68°F) in winter at depth
 - Bring an underwater camera to document the recovering coral community
 - Plan dives conservatively with generous air reserves for safety stops
 - Stay close to the moored buoy line for safe ascent in current
@@ -59,7 +59,7 @@ Bright Bank presents significant challenges for recreational diving:
 - Extended decompression obligations from deep starting depth
 - Offshore location with limited emergency response
 - Strong currents possible; current awareness essential
-- Cold water; proper thermal protection required
+- Cooler water in winter (15-20°C); a 5mm wetsuit or drysuit appropriate in winter months
 
 Essential skills:
 - Advanced Open Water or higher certification

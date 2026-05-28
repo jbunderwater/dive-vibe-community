@@ -41,7 +41,7 @@
     "lat": 42.99,
     "lng": 6.41,
     "difficulty": "Intermediate",
-    "maxDepth": 35,
+    "maxDepth": 40,
     "entryType": "boat",
     "siteType": "wall",
     "ref": "",
@@ -204,7 +204,7 @@
     "osmId": 12988211769
   },
   {
-    "name": "l’Esquadillon",
+    "name": "l'Esquadillon",
     "filename": "lesquadillon.md",
     "lat": 43.0475448,
     "lng": 6.5138411,

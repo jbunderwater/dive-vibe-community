@@ -23,7 +23,7 @@ Plage de la Fausse Monnaie ("Fake Money Cove") sits on Port-Cros's west coast, a
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 

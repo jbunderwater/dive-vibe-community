@@ -5,7 +5,7 @@ lng: -93.595
 difficulty: Intermediate
 maxDepth: 7.6
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,62 +13,39 @@ addedBy: osm_import
 
 ## East Flower Garden Stairway
 
-East Flower Garden Stairway is a relatively shallow wall/slope feature on the eastern flank of East Flower Garden Bank. This site offers intermediate divers an accessible introduction to wall diving and open-ocean reef environments while staying within shallower depth limits. The "stairway" name refers to the stepped slope formation created by the transition zone between the shallow reef platform and deeper water.
+East Flower Garden Stairway is a named sub-feature of East Flower Garden Bank whose existence and characteristics could not be independently verified during QA review.
 
 ## Overview
 
-This site features the wall formation characteristic of Flower Garden Banks' offshore reef structure, where the shallow reef platform drops away to deeper water. Unlike the extreme walls of Stetson Bank (which plunge to 180 feet), East Flower Garden Stairway offers a more gentle slope accessible to intermediate divers. The transition zone from reef to sand and deeper water creates interesting topography and wildlife viewing. This is an excellent site for divers developing open-ocean wall diving skills before attempting deeper, more challenging walls.
+This entry was added as a gap-fill curated site. During the 2026-05-28 QA review, no independent source — including NOAA's official mooring buoy list, the DAN Alert Diver Flower Garden Banks articles, ScubaBoard trip reports, or any dive operator site — references a named dive site called "East Flower Garden Stairway" at East Flower Garden Bank.
+
+NOAA's official mooring buoy list for East Flower Garden Bank records seven numbered buoys at depths of 61–70 feet (18.6–21.3 m). The 7.6-meter (25-foot) maximum depth attributed to this site is inconsistent with any documented mooring location at the bank. No source has been found to confirm this site name, its location, or its characteristics.
+
+If this site refers to an informal diver name for a shallow portion of the East Bank reef edge, it may exist but cannot be validated or described without a primary source.
 
 ## Site Information
 
-- **Location**: Gulf of Mexico, eastern slope of East Flower Garden Bank (27.91°N, 93.60°W)
+- **Location**: East Flower Garden Bank, Gulf of Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 7.6 meters
-- **Typical Visibility**: 23-38 meters (75-125 feet) in summer; 9-23 meters (30-75 feet) in winter
-- **Water Temperature**: 21-29°C (70-84°F) summer; 4-9°C (40-48°F) winter
-- **Current**: Variable; offshore conditions can change
-- **Best Time**: May-October (summer season); February-April (winter season)
 
 ## Marine Life
 
-The wall transition zone supports reef fish including butterflyfish, wrasses, groupers, and snappers. Sand patches host rays and the occasional nurse shark. Coral formations at the transition include brain corals, star corals, and sponges. Schools of jacks and creolefish are common in the water column. The shallow depth and clear visibility make this an excellent site for observing reef ecology and fish behavior without the depth challenges of deeper sites.
+*No site-specific sources found. Marine life descriptions for this site cannot be confirmed independently. The general reef assemblage of East Flower Garden Bank — as documented by NOAA and DAN — applies to the broader bank area.*
 
 ## Dive Profile
 
-Start at the mooring in relatively shallow water and follow the contour of the slope/wall structure. The reef platform transitions to deeper water, creating the "stairway" effect. Keep the wall on your right and explore coral formations, sand channels, and rock outcrops. Most of the dive occurs in 5-25 meters of water, well-suited for intermediate divers. The shallow maximum depth allows extended bottom time and reduces decompression obligations. This site offers an excellent introduction to wall diving in an offshore environment.
+*No verified dive profile information found. East Flower Garden Bank's seven official mooring buoys are all at 61–70 feet (18.6–21.3 m); the 7.6-meter attributed depth for this feature has not been confirmed by any source.*
 
 ## Entry and Exit
 
-Access is by dive boat. Giant stride entry with full gear is standard. Descend to the wall structure and follow the slope/wall formation. Maintain good buoyancy control to stay off the wall and coral. A standard safety stop at 5 meters is sufficient given the shallow depth. Ascent is straightforward; deploy SMB and coordinate with boat crew for final pickup.
-
-## Tips and Recommendations
-
-- This is an excellent training site for intermediate divers new to open-ocean diving
-- Practice maintaining position along the wall/slope
-- Watch for ray species on sand patches
-- Bring an underwater camera; excellent visibility makes this photogenic
-- The shallow depth allows extended exploration; don't rush the dive
-- Look for fish behavior and feeding activity in the water column
-- This site is less crowded than the main banks; enjoy the solitude
+Access to East Flower Garden Bank is exclusively by liveaboard from Freeport, Texas (M/V *Fling*, Texas Caribbean Charters). This specific sub-feature is not referenced in any known dive charter itinerary.
 
 ## Safety Considerations
 
-East Flower Garden Stairway is suitable for intermediate divers with the following considerations:
-- Offshore location with unpredictable weather; monitor conditions
-- Strong currents possible despite shallower depth
-- Cold water in winter; appropriate thermal protection required
-- Mooring-dependent site; communicate with boat crew
-- Deploy SMB for ascent
-- Buddy teamwork essential in open water
-- Stay aware of depth and current direction
-
-Not recommended for inexperienced open-water divers; some offshore diving comfort is helpful.
-
-## Photography
-
-Excellent photographic opportunities due to shallow depth and clear visibility. The wall/slope formations offer good composition. Fish behavior and schooling activity (especially jacks and creolefish) provide dynamic subjects. Macro photography of coral and invertebrate life is possible with the good light penetration. Summer provides the clearest conditions and best natural lighting.
+East Flower Garden Bank is 119 miles offshore in the open Gulf of Mexico, requiring liveaboard access. Open Gulf conditions apply regardless of depth. Carry a surface marker buoy; weather windows can close rapidly.
 
 ---
-*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for "East Flower Garden Stairway" as a named dive site. The site name does not appear in NOAA sanctuary documentation, DAN articles, ScubaBoard trip reports, or any dive operator materials reviewed. Last updated 2026-05-28.*

@@ -25,7 +25,7 @@ The aircraft lies inverted on sandy bottom at a maximum depth of 53 metres, appr
 
 - **Location**: ~200 m northwest of Île de la Fourmigue, Rade de Bormes-les-Mimosas, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 53 meters
 - **Typical Visibility**: 10–25 metres
