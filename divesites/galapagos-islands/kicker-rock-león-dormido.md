@@ -3,7 +3,7 @@ name: Kicker Rock (León Dormido)
 lat: -0.77
 lng: -89.52
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kicker Rock (León Dormido)
 
-Kicker Rock (León Dormido — "Sleeping Lion") is one of the Galápagos Islands' most iconic dive sites, located approximately 1.5 hours by boat northeast of Puerto Baquerizo Moreno on San Cristóbal Island. The formation is the eroded remnant of a vertical tuff cone rising 153 metres above the surface, split by a narrow 70-foot channel that forms the primary dive corridor.
+Kicker Rock (León Dormido — "Sleeping Lion") is one of the Galápagos Islands' most iconic dive sites, located approximately 1.5 hours by boat from Puerto Baquerizo Moreno on San Cristóbal Island. The formation is the eroded remnant of a vertical tuff cone split by a narrow channel that forms the primary dive corridor, with walls descending to around 30 meters.
 
 ## Overview
 
@@ -41,11 +41,11 @@ Strong and variable currents, particularly through the channel, require good buo
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/diving-at-kicker-rock-tips-marine-life-and-best-time-to-visit/), [Visit Galapagos – Kicker Rock](https://www.visitgalapagos.travel/visitor-sites/kicker-rock-leon-dormido-galapagos-islands.html). Last updated 2026-05-17.*
+*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [The Portuguese Traveler – Diving in Kicker Rock](https://theportuguesetraveler.com/galapagos/san-cristobal/diving-in-kicker-rock/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/diving-at-kicker-rock-tips-marine-life-and-best-time-to-visit/). Last updated 2026-05-28.*

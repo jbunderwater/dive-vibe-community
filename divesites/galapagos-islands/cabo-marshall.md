@@ -3,7 +3,7 @@ name: Cabo Marshall
 lat: -0.0219
 lng: -91.1949
 difficulty: Advanced
-maxDepth: 22
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Cabo Marshall sits on the remote northeast coast of Isabela Island, accessible o
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Current**: Strong, often unpredictable
 - **Best Time**: June to November for manta encounters; hammerheads year-round
@@ -36,7 +36,7 @@ Giant oceanic manta rays are the star attraction, visiting cleaning stations on 
 
 ## Dive Profile
 
-The dive follows the volcanic wall, typically descending to 18-22 meters and drifting with the current along the rock face. The manta cleaning stations are found at specific points along the wall, usually at 12-18 meters depth. When mantas are present, divers settle on the wall below the station and watch from a respectful distance as the rays circle overhead. The wall drops off into deep blue water, so depth awareness is critical. The dive finishes with a gradual ascent along the wall, with the safety stop performed in the shallows near the rocky coastline.
+The dive follows the volcanic wall, typically descending to 18-40 meters and drifting with the current along the rock face. A plateau around 12 meters creates an ideal cleaning station area for mantas and rays. Multiple sources confirm the wall exceeds 40 meters, though most diving occurs at 12-30 meters to manage air consumption. When mantas are present, divers settle on the wall below the station and watch from a respectful distance as the rays circle overhead. The wall drops off into deep blue water, so depth awareness is critical. The dive finishes with a gradual ascent along the wall, with the safety stop performed in the shallows near the rocky coastline.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Strong and variable currents are the primary hazard. The exposed northeast coast
 Mantas at cleaning stations offer world-class wide-angle photography. Position yourself below and to the side of the station with a fisheye or ultra-wide lens, shooting upward to silhouette the mantas against the surface light. Strobes are useful for filling the manta's white belly pattern. Hammerhead schools off the wall require fast shutter speeds (1/200+) and good blue-water shooting technique. Marine iguanas grazing on algae in the shallows provide a unique macro or close-focus wide-angle subject found nowhere else on Earth.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Aqua Mundo – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/), [The Portuguese Traveler – Best Dive Sites Isabela](https://theportuguesetraveler.com/galapagos/isabela/best-dive-sites-isabela-galapagos/), [Galapatours – Cape Marshall](https://www.galapatours.com/highlights/cape-marshall-diving). Last updated 2026-05-28.*

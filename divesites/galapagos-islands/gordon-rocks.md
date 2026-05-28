@@ -32,7 +32,7 @@ Gordon Rocks is the remains of an eroded volcanic crater, now submerged, creatin
 
 ## Marine Life
 
-Schools of scalloped hammerhead sharks are the headline attraction, often seen cruising through the channel or circling the outer walls in groups ranging from a handful to dozens. Spotted eagle rays glide through in formation. Galapagos sharks patrol the deeper sections. Green sea turtles rest on ledges and rocky outcrops. Playful Galapagos sea lions weave among divers in the shallows. Golden rays, whitetip reef sharks, and large schools of barracuda round out the pelagic action. The rocky substrate hosts king angelfish, hogfish, and moray eels tucked into crevices.
+Schools of scalloped hammerhead sharks are the headline attraction, often seen cruising through the channel or circling the outer walls in groups ranging from a handful to dozens. Spotted eagle rays, golden rays, stingrays, marble rays, and mobulas are regularly reported. Oceanic manta rays visit, and Mola alexandrini (sunfish) have been confirmed at the site. Galapagos sharks patrol the deeper sections. Green sea turtles rest on ledges and rocky outcrops. Playful Galapagos sea lions weave among divers in the shallows. Tunas, wahoos, barracuda, jacks, and large schools of baitfish fill the water column. The rocky substrate hosts parrotfish, triggerfish, moray eels, and snappers in the crevices.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ This is the most demanding dive in the Galapagos and not suitable for inexperien
 Wide-angle is essential here -- bring the biggest dome port you have for hammerhead schools against the blue water backdrop. The channel between the rock formations creates dramatic silhouette opportunities with sharks overhead. Sea lions in the shallows offer engaging close-up wide-angle subjects. Macro is impractical due to surge and currents. Shoot on high shutter speed (1/200+) to freeze motion in the turbulent water. Morning light penetrating the channel provides the best natural illumination.
 
 ---
-*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*
+*Sources: [Scuba Iguana – Gordon Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/gordon-rocks-galapagos-dive-site/), [Happy Gringo – Gordon Rocks Guide](https://happygringo.com/blog/gordon-rocks-galapagos-diving/), [The Portuguese Traveler – Diving in Gordon Rocks](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-gordon-rocks/). Last updated 2026-05-28.*

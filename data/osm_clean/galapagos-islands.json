@@ -5,15 +5,16 @@
     "lon": -90.2772687,
     "osm_id": 13121663404,
     "osm_type": "node",
-    "depth": 27,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mosquera",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaiguana.com/mosquera-north, padi.com/dive-site/ecuador/mosquera, theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera"
+      "validation_source": "scubaiguana.com,theportuguesetraveler.com,academybaydiving.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -30,7 +31,8 @@
       "name": "Gordon Rocks",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaiguana.com/gordon-rocks, happygringo.com/gordon-rocks-galapagos-diving, scubaboard.com/gordon-rocks-to-dive-or-not"
+      "validation_source": "scubaiguana.com,happygringo.com,theportuguesetraveler.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -47,14 +49,15 @@
       "name": "Plazas",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-the-world.com/diving-sites-galapagos, theportuguesetraveler.com/galapagos/diving-guide-galapagos"
+      "validation_source": "theportuguesetraveler.com,academybaydiving.com,galapagosdivingdaytrips.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
-    "name": "Kicker Rock (Le\u00f3n Dormido)",
+    "name": "Kicker Rock (León Dormido)",
     "lat": -0.77,
     "lon": -89.52,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -62,14 +65,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com/dive-site/ecuador/leon-dormido-kicker-rock, happygringo.com/kicker-rock-galapagos-leon-dormido, aquaventuresgps.com/diving-at-kicker-rock"
+      "validation_source": "happygringo.com,aquaventuresgps.com,theportuguesetraveler.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
     "name": "Cabo Marshall",
     "lat": -0.0219,
     "lon": -91.1949,
-    "depth": 22,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -77,7 +81,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "galapatours.com/cape-marshall-diving, starfish.ch/Galapagos-west, liveaboard.com/diving/galapagos/cabo-marshall"
+      "validation_source": "aquamundogalapagos.com,theportuguesetraveler.com,galapatours.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -92,7 +97,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/cousins, padi.com/dive-site/ecuador/bartolomecousin-rocks, galapatours.com/cousin-rock-dive-galapagos"
+      "validation_source": "scubaiguana.com,galapatours.com,royalgalapagos.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -107,7 +113,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "divephotoguide.com/punta-vicente-roca, liveaboard.com/diving/galapagos/punta-vicente-roca, blog.padi.com/top-dive-sites-in-the-galapagos"
+      "validation_source": "aquamundogalapagos.com,theportuguesetraveler.com,starfish.ch",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -117,12 +124,13 @@
     "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/bartolome-galapagos-dive-site, naturegalapagos.com/galapagos-diving/bartolome, academybaydiving.com/galapagos-dive-sites"
+      "validation_source": "scubaiguana.com,naturegalapagos.com,theportuguesetraveler.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -137,7 +145,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/north-seymour-channel, aquaventuresgps.com/north-seymour, theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera"
+      "validation_source": "scubaiguana.com,theportuguesetraveler.com,academybaydiving.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -152,7 +161,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/daphne-galapagos-dive-site, eagleraygalapagos.com/daphne-minor, naturegalapagos.com/galapagos-islands-scuba-diving-daphne-minor"
+      "validation_source": "scubaiguana.com,naturegalapagos.com,eagleraygalapagos.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -168,7 +178,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "San Cristobal",
       "validated": "true",
-      "validation_source": "galapatours.com, scubaboard.com, dive-the-world.com, scubaiguana.com"
+      "validation_source": "galapatours.com,scubaboard.com,vivatravelguides.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -184,7 +195,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "North Seymour",
       "validated": "true",
-      "validation_source": "scubaboard.com, galapagossharkdiving.com, starfish.ch"
+      "validation_source": "scubaboard.com,galapagossharkdiving.com,starfish.ch",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -200,7 +212,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "Wolf Island",
       "validated": "true",
-      "validation_source": "galapatours.com, liveaboard.com, happygringo.com, scubaboard.com"
+      "validation_source": "galapatours.com,happygringo.com,liveaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -216,7 +229,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "Wolf Island",
       "validated": "true",
-      "validation_source": "galapatours.com, liveaboard.com, happygringo.com, zentacle.com, scubaboard.com"
+      "validation_source": "galapatours.com,happygringo.com,liveaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -232,7 +246,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "Darwin Island",
       "validated": "true",
-      "validation_source": "masterliveaboards.com, happygringo.com, scubadiverlife.com, scubaboard.com"
+      "validation_source": "masterliveaboards.com,happygringo.com,scubaboard.com",
+      "last_qa_date": "2026-05-28"
     }
   },
   {
@@ -248,7 +263,8 @@
       "addedBy": "scubaboard_user_dan",
       "region": "Fernandina",
       "validated": "true",
-      "validation_source": "liveaboard.com, galapatours.com, starfish.ch, scubaboard.com, xray-mag.com"
+      "validation_source": "liveaboard.com,galapatours.com,deepbluecoast.com",
+      "last_qa_date": "2026-05-28"
     }
   }
 ]
