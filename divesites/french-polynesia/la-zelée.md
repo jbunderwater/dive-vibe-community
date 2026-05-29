@@ -3,9 +3,9 @@ name: La zelée
 lat: -17.528658
 lng: -149.577362
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869242
 addedBy: osm_import
@@ -41,7 +41,7 @@ Depth range: 5–20 metres over the wreck remains, with a drop-off to 50 metres 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-05-29
 
 ---
-*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [DiveSsi – La Zélée Tahiti](https://www.divessi.com/en/mydiveguide/divesite/la-zelee-tahiti-lazelee-wreck-french-polynesia-250876). Last updated 2026-05-17.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Tahiti Heritage – Épave de la canonnière Zélée](https://www.tahitiheritage.pf/epave-zelee-papeete/), [DiveSsi – La Zélée Tahiti](https://www.divessi.com/en/mydiveguide/divesite/la-zelee-tahiti-lazelee-wreck-french-polynesia-250876). Last updated 2026-05-29.*

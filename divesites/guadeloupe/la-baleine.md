@@ -11,13 +11,15 @@ osmId: 9383533418
 addedBy: osm_import
 ---
 
-# La Baleine
+## La Baleine
 
-*A historic wreck and wall site in the Les Saintes passage, where the French Navy schooner Anémone is believed to rest in a dramatic whale-shaped channel formation.*
+La Baleine is a wall and current dive in the Passe de la Baleine between Terre-de-Haut and Terre-de-Bas in Les Saintes, notable for combining a historically significant wreck — the definitively identified French Navy schooner *Anémone* — with excellent wall diving in strong tidal flow.
 
 ## Overview
 
-La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage between Terre-de-Haut and Terre-de-Bas in Les Saintes. The site combines wall diving with a historic wreck component — the Épave de la passe de la Baleine is believed to be the remains of the Anémone, a French Navy schooner dating to 1823 that sank in 1824. The passage creates current-driven conditions with excellent visibility, and the combination of historic wreck, wall structure, and strong fish life makes this one of Les Saintes' most interesting dives. Maximum depth reaches 25 meters. Visibility averages 25–30 meters. Water temperature is 25–27°C.
+The Passe de la Baleine (Whale's Passage) separates the two main inhabited islands of Les Saintes and creates tidal current conditions that concentrate filter feeders and pelagic fish. The dive site La Baleine takes advantage of this setting: a wall on the Terre-de-Haut side provides depth reference and marine life, while the passage floor holds the remains of a historically documented warship.
+
+**The Anémone wreck**: Archaeological research — including a PhD thesis in 2013 and systematic excavation campaigns from 2015 to 2019 — has confirmed the wreck is the *Anémone*, a French Navy schooner built in Bayonne in 1823. The ship was deployed to Guadeloupe as a patrol and customs vessel to combat the illicit slave trade. The *Anémone* sank on September 7–8, 1824, during a severe hurricane. All 29 crew members perished, including the captain, Guillotin. The wreck was looted in the 1990s prior to archaeological investigation. It sits at approximately 25 metres in the passage floor and is now a protected archaeological site.
 
 ## Site Information
 
@@ -26,37 +28,36 @@ La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
-- **Current**: Moderate to strong; the passage creates tidal current — time the dive accordingly
-- **Best Time**: Year-round; time dives with favorable tidal flow
+- **Typical Visibility**: 25–30 meters
+- **Current**: Moderate to strong tidal flow — timing with the tidal cycle is required
+- **Best Time**: Year-round; time dives with favourable tidal flow
 
 ## Marine Life
 
-The tidal current through the passage concentrates filter feeders — sea fans and sea whips are dense and fully extended in the flow. Schools of gorettes and creole wrasse station in the current. Eagle rays and Caribbean reef sharks use the passage to move between the open Atlantic and the Caribbean side. The wreck remains, after two centuries, are substantially buried and encrusted but attract large groupers and lobsters around the old ironwork and ballast. Hawksbill turtles navigate the passage regularly. Barracuda are abundant in the mid-water column.
+The tidal current concentrates filter feeders — sea fans and sea whips extend fully in the flow. Schools of gorettes (French grunts) and creole wrasse station in the current. Hawksbill turtles navigate the passage regularly. Barracuda are abundant in the mid-water column. The passage is used by larger pelagic species. The two-century-old wreck remains — largely buried and encrusted — attract groupers and lobsters around the exposed ironwork and ballast. No site-specific confirmation of Caribbean reef sharks or eagle rays at this site from available sources.
 
 ## Dive Profile
 
-Enter up-current from the passage entry point and drift through the La Baleine passage. The wall face on the Terre-de-Haut side provides a depth reference throughout the drift. The historic wreck remains sit at 18–22 meters in the passage floor. Visit the wreck section before continuing the drift to 20–25 meters. Exit the passage at the down-current end and signal the boat for pickup. Drift dives in tidal passages require a chase boat and SMB deployment.
+Entry is up-current from the passage. The wall face on the Terre-de-Haut side provides a depth reference. The Anémone's remains lie at 18–25 metres in the passage floor. Visit the wreck section before the drift carries you through to the exit end. Signal the chase boat for pickup at the down-current end of the passage. Drift dive format requires a chase boat and SMB.
 
 ## Entry and Exit
 
-Operated by Les Saintes-based dive operators who know the tidal schedule. Entry is timed to the current. Drift dive format — the boat drops divers up-current and picks up at the exit end. Deploy SMB on ascent.
+Operated by Les Saintes-based operators (La Dive Bouteille, Pisquettes Plongée) who know the tidal schedule. Entry is timed to current conditions. Drift pickup at the down-current end. Deploy SMB before ascending.
 
 ## Tips
 
-- This dive must be timed with the tidal schedule — ask your operator specifically when the passage is running at the right speed for a comfortable drift
-- The historic wreck connection makes La Baleine especially interesting for wreck and history enthusiasts
-- Combine with Pointe du Gouvernail on the same day for two contrasting Les Saintes dives
-- The passage between the Saintes islands is a historically significant maritime route — the Battle of the Saintes (1782) was fought in these waters
-- Sea fans in the passage current are fully extended and make outstanding photography subjects
+- Ask your operator specifically about optimal tidal timing — the current in the passage is its defining feature
+- The *Anémone* is a protected archaeological site; observe only, do not disturb any hull materials
+- The Battle of the Saintes (1782) was fought in the waters around this archipelago — the area has historical significance above and below water
+- Combine with Pointe du Gouvernail on the same day for a contrasting wall dive in Les Saintes
 
 ## Safety
 
-Current in the passage can be strong — this is a fundamental feature of the site rather than an exceptional condition. Only dive when the operator confirms current speed is appropriate. Never attempt to swim against the passage current. Deploy an SMB early for the drift boat to track your position. Always dive with a buddy.
+Current is a consistent and strong feature of this passage — never the exception. Only dive when the operator confirms conditions are appropriate. Do not attempt to swim against the passage current. Deploy an SMB early for the chase boat to track position. Always dive with a buddy.
 
 ## Photography
 
-La Baleine is an excellent current dive photography site. Sea fans fully extended in the current flow with divers drifting behind create compelling wide-angle images. Reef sharks cruising through the passage in clear water are dramatic. The historic wreck remains, covered in two centuries of encrustation, create unique macro subjects unlike the deliberately sunk artificial reefs elsewhere in Guadeloupe.
+Sea fans fully extended in current flow with drifting divers create compelling wide-angle images. The two-century-old encrusted ironwork of the *Anémone* provides unique macro subjects. The passage's excellent visibility gives scale and depth to wide-angle compositions.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [ACUA — End of Game on the Anémone Site, Les Saintes](https://acuaonline.org/deep-thoughts/end-of-game-on-anemone-wreck-site-les-saintes-guadeloupe-fwi/), [The Conversation — L'Anémone: de Bayonne à la Baie des Saintes](https://theconversation.com/lanemone-de-bayonne-a-la-baie-des-saintes-une-epave-hors-du-commun-167821), [OpenEdition — Saintes Bay archaeological site record](https://journals.openedition.org/archeomed/24699?lang=en). Last updated 2026-05-29.*

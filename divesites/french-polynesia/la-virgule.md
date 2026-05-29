@@ -21,7 +21,7 @@ The site is centred on a curved, elongated coral formation whose shape traces a 
 
 ## What to Expect
 
-The sheltered inner face of the formation acts as a nursery ground for juvenile reef fish — small wrasse, chromis, and damselfish are abundant in the coral branches. The outer slope hosts more typical pelagic activity, with grey reef sharks cruising past and napoleon wrasse investigating divers. The tip of the comma — where the two faces meet — is a concentration point for hunting predators like bluefin trevally. Macro enthusiasts find the inner-face corals productive for nudibranchs and small crustaceans. The site's distinctive shape makes navigation intuitive: follow the curve of the formation for a natural dive circuit.
+The site features a lava formation decorated with coral roses — the specific coral growth pattern that gives this area its photogenic quality. Blacktip reef sharks are confirmed at the site, along with sea turtles. The reef structure supports typical Moorea outer-reef species diversity. Maximum depth is 25 metres and the site is rated accessible to N1/Open Water divers by Moorea Fun Dive, which lists this among its standard dive offerings.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ The sheltered inner face of the formation acts as a nursery ground for juvenile 
 Use the comma shape to plan a natural circuit dive — descend to the outer slope, follow the curve around, and return along the sheltered inner face for the safety stop. This multilevel approach maximises bottom time and exposes divers to both habitat types.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Moorea Fun Dive – Dive Sites](https://www.moorea-fundive.com/2s), [Tahiti Tourisme – Diving in Moorea](https://www.tahititourisme.com/activities/diving/moorea/), [ScubaBoard – French Polynesia Diving](https://scubaboard.com/community/threads/dive-ops-in-moorea-papeete-raiatea.641190/). Last updated 2026-05-29.*

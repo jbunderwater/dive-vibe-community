@@ -23,7 +23,7 @@ Piscine sits in the natural shelter created between the twin islets of Pigeon Is
 
 - **Location**: Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The primary hazard here is boat traffic — always remain within the protected p
 The calm, clear, shallow water of Piscine is extraordinary for natural-light photography. Compact cameras and action cameras perform at their best here. Close-focus wide-angle shots of fish and turtles in bright ambient light are possible without any artificial lighting.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Caribbean Dive Guide — Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Réserve Cousteau](https://www.reserve-cousteau.fr/en), [PADI — Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-05-29.*

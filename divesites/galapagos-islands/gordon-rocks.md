@@ -32,7 +32,7 @@ Gordon Rocks is the remains of an eroded volcanic crater, now submerged, creatin
 
 ## Marine Life
 
-Schools of scalloped hammerhead sharks are the headline attraction, often seen cruising through the channel or circling the outer walls in groups ranging from a handful to dozens. Spotted eagle rays glide through in formation. Galapagos sharks patrol the deeper sections. Green sea turtles rest on ledges and rocky outcrops. Playful Galapagos sea lions weave among divers in the shallows. Golden rays, whitetip reef sharks, and large schools of barracuda round out the pelagic action. The rocky substrate hosts king angelfish, hogfish, and moray eels tucked into crevices.
+Schools of scalloped hammerhead sharks are the headline attraction — Scuba Iguana notes schools "can sometimes average 10-20 sharks per trip" with groups of up to 50 or more on exceptional dives. Happy Gringo confirms that eagle rays (mobula, sting, eagle varieties), Galapagos sharks, whitetip reef sharks, and green sea turtles are all reliably present. Sea lions are active in the shallows. Large schools of barracuda are commonly sighted. Mola alexandrini (endemic Galapagos sunfish) are confirmed by Scuba Iguana as a site-specific species, distinct from the Atlantic Mola mola. Manta rays are confirmed as occasional visitors by both Academy Bay Diving and Scuba Iguana. The rocky substrate hosts king angelfish, hogfish, moray eels, puffer fish, surgeonfish, and parrotfish.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ This is the most demanding dive in the Galapagos and not suitable for inexperien
 Wide-angle is essential here -- bring the biggest dome port you have for hammerhead schools against the blue water backdrop. The channel between the rock formations creates dramatic silhouette opportunities with sharks overhead. Sea lions in the shallows offer engaging close-up wide-angle subjects. Macro is impractical due to surge and currents. Shoot on high shutter speed (1/200+) to freeze motion in the turbulent water. Morning light penetrating the channel provides the best natural illumination.
 
 ---
-*Sources: [Scuba Iguana – Gordon Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/gordon-rocks-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Gordon Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/gordon-rocks-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [Happy Gringo – Gordon Rocks Galapagos Diving](https://happygringo.com/blog/gordon-rocks-galapagos-diving/). Last updated 2026-05-29.*

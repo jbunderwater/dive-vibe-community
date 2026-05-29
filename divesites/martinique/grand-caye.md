@@ -23,7 +23,7 @@ As the name suggests, Grand-Caye is a substantial reef feature — larger in ext
 
 - **Location**: South Caribbean coast, Martinique (Sainte-Luce / Rivière-Pilote area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ The site's breadth means navigation discipline is important — maintain a refer
 The combination of broad reef coverage and clear water makes Grand-Caye a versatile photography site. Wide-angle reef panoramas, turtle portraits, and nurse shark shots at depth are all achievable. The expansive sandy margin on the deep side provides clean background for stingray portraits.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Martinique Tourism — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine — Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique — Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php). No site-specific marine life sources found; French Antilles broader Caribbean fauna applies. Last updated 2026-05-29.*

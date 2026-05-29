@@ -33,7 +33,8 @@ Isla Lobos (Lobos Island) sits in a sheltered channel between a small rocky isla
 
 ## Marine Life
 
-Galápagos sea lions are the star attraction — large males, females, and especially pups, who are boldly curious and will approach divers face-to-face. Galápagos fur seals are also present. Diamond stingrays rest on the sandy patches. Green sea turtles cruise the reef. White-tip reef sharks patrol the channel. Eagle rays pass through. Marine iguanas are occasionally spotted in the water. The reef supports trumpetfish, garden eels, starfish, and various reef fish. Above water, blue-footed boobies nest on Lobos Island.
+Galápagos sea lions are the star attraction — large males, females, and especially pups, who are boldly curious and will approach divers face-to-face — confirmed by Galapatours and Scuba Iguana. Galápagos fur seals are confirmed as also present by Galapatours. White-tip reef sharks patrol the channel — confirmed by Galapatours and the VIVA Travel Guides reference. Green sea turtles cruise the reef — confirmed by Galapatours and VIVA Travel Guides. Rays are confirmed as present (Galapatours). Trumpetfish are confirmed by VIVA Travel Guides. Starfish and various reef fish populate the rocky substrate. Above water, blue-footed boobies nest on Lobos Island.
+
 
 ## Dive Profile
 
@@ -55,4 +56,4 @@ Boat access from Puerto Baquerizo Moreno on San Cristóbal, approximately 30 min
 While this is the calmest site in the Galápagos, standard dive safety practices apply. Sea lions are wild animals — maintain respectful distance from large males, who can be territorial. Do not touch or grab marine life. The shallow depth and lack of current make this a low-risk dive by Galápagos standards.
 
 ---
-*Sources: [Galapatours – Isla Lobos Diving](https://www.galapatours.com/highlights/isla-lobos-diving), [Scuba Iguana – Isla Lobos](https://scubaiguana.com/dive-travel-packages/customized-trip/isla-lobos/), [The Portuguese Traveler – San Cristóbal Dive Sites](https://theportuguesetraveler.com/galapagos/san-cristobal/best-dive-sites-san-cristobal-galapagos/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*
+*Sources: [Galapatours – Isla Lobos Diving](https://www.galapatours.com/highlights/isla-lobos-diving), [Scuba Iguana – Isla Lobos](https://scubaiguana.com/dive-travel-packages/customized-trip/isla-lobos/), [VIVA Travel Guides – Isla Lobos Dive Site](http://www.vivatravelguides.com/south-america/ecuador/thegalapagosislands/galapagos-activities/galapagos-islands-diving/galapagos-dive-sites/isla-lobos/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-29.*

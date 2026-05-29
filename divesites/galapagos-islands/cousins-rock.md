@@ -3,7 +3,7 @@ name: Cousins Rock
 lat: -0.2364
 lng: -90.5742
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,18 +25,18 @@ Cousins Rock is a small submerged rock formation between Santiago and Bartolome 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Current**: Mild to moderate (one of the more sheltered Galapagos sites)
 - **Best Time**: Year-round; June to November for best visibility
 
 ## Marine Life
 
-Pacific seahorses are found clinging to gorgonians and rocky outcrops along the wall. Frogfish hide among the sponges and coral. Sea lions from the nearby colony are constant companions, spiraling around divers, blowing bubbles, and making eye contact at close range. The wall is decorated with extensive black coral trees and large sea fans. Whitetip reef sharks rest in crevices and under overhangs. Spotted eagle rays cruise past the wall edge. Schools of barracuda and creole fish swirl in the blue. Moray eels peer from holes in the rock. King angelfish, hawkfish, and diverse reef fish populate the wall. Green sea turtles rest on ledges throughout the site.
+Pacific seahorses are confirmed by PADI and Starfish.ch as clinging to gorgonians and rocky outcrops — this is one of the few Galapagos sites where seahorse sightings are specifically documented. Frogfish are confirmed by Starfish.ch and Dive The World. Sea lions from the nearby colony are constant companions, spiraling around divers, blowing bubbles, and making eye contact at close range. The wall is decorated with extensive black coral trees — confirmed by Starfish.ch and Dive The World — and large sea fans. Whitetip reef sharks rest in crevices and under overhangs. Spotted eagle rays cruise past the wall edge. Schools of barracuda and manta rays are confirmed by PADI. Moray eels, nudibranchs, and hawkfish are confirmed by Starfish.ch. Green sea turtles rest on ledges throughout the site.
 
 ## Dive Profile
 
-The dive descends along the wall of the submerged rock formation, typically reaching maximum depth of 25-30 meters on the deeper side. The wall features a series of overhangs, ledges, and crevices that reward careful exploration. The richest macro life is found in the 12-20 meter range along the wall face. Divers work their way around the rock, gradually ascending. The shallower sections near the top of the rock (5-10 meters) are where sea lion encounters are most frequent and prolonged. Safety stop is performed on the reef top or in open water near the rock.
+The dive descends along terraced steps of the submerged rock formation — PADI confirms the terraced structure to 40 meters before a sandy bottom. The wall features a series of overhangs, ledges, and crevices that reward careful exploration. The richest macro life (seahorses, frogfish, nudibranchs) is found in the 12-20 meter range along the wall face. Divers work their way around the rock, gradually ascending. The shallower sections near the top of the rock (5-10 meters) are where sea lion encounters are most frequent and prolonged. Safety stop is performed on the reef top or in open water near the rock.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Currents are generally milder than at other Galapagos sites, but can still be pr
 One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects -- they approach closely, make eye contact, and spiral around divers, rewarding wide-angle shooters with engaging portraits and interaction shots. Seahorses and frogfish provide genuine macro opportunities rare in the Galapagos. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects makes this a site where both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
 
 ---
-*Sources: [Scuba Iguana – Cousins Rock](https://scubaiguana.com/our-dive-center/daily-diving-tours/cousins-rocks-galapagos-dive-site/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-25.*
+*Sources: [PADI – Cousins Rock Bartolome Day Dive](https://travel.padi.com/dive-trip/galapagos/daily-dive-tour-to-bartolome-cousin-rocks-18526/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-29.*

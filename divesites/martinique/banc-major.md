@@ -23,7 +23,7 @@ Banc Major rises from the sandy Caribbean shelf and features a broad, well-devel
 
 - **Location**: South Caribbean coast, Sainte-Luce area, Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Current is more variable here than at the inner banks — be prepared to drift r
 The open reef structure and clear water make Banc Major a strong wide-angle site. Eagle ray passes over the sandy margin and school-of-fish compositions at the reef crest are the highlight subjects. Barrel sponge portraits with resident groupers work well with a strobe setup.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Martinique Tourism — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine — Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique — Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php). No site-specific marine life sources found; French Antilles broader Caribbean fauna applies. Last updated 2026-05-29.*

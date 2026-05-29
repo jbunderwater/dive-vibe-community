@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Krystal Toy
 
-Krystal Toy is a historic wreck dive in Martinique, Caribbean.
+Krystal Toy is a wreck dive off the southern coast of Martinique near Sainte-Luce, recorded in OSM as a seamark wreck with the hull showing at the surface.
 
 ## Overview
 
-The Krystal Toy is a steel yacht wreck resting on the seabed at around 30 metres in the waters off southern Martinique, its hull now blanketed in spectacular soft and hard coral growth. Sergeant fish, damselfish, angelfish, and wrasse school around the structure, and the dark recesses of the wreck shelter smaller critters and crustaceans that reward patient divers who take time to look closely. Martinique's volcanic Caribbean coastline gives the site the clear blue water and warm temperatures typical of the island's leeward dive sites.
+The Krystal Toy is recorded in OpenStreetMap as a wreck site in southern Martinique waters (coordinates: 14.464°N, 60.879°W), categorised as "hull_showing" — meaning the hull or part of the structure is visible above the waterline or at the surface. The dive depth is recorded as approximately 30 metres to the seabed.
+
+No independent dive guide documentation, vessel history, sinking date, or site-specific marine life reports for the Krystal Toy have been located from published sources. The vessel name and hull-showing status are confirmed by the OSM seamark record. The site has not been featured in English or French-language dive operator listings or dive databases reviewed during this QA pass.
+
+Divers interested in this site should contact local Martinique operators in the Sainte-Luce or southern coast area for current access information and conditions.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Southern Martinique, near Sainte-Luce (approx.)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Description based on OSM seamark data only. No site-specific published sources found. Last updated 2026-05-29.*

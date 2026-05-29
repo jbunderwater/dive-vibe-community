@@ -32,7 +32,7 @@ Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and
 
 ## Marine Life
 
-Galapagos sea lions are the defining attraction — the colony uses the islets as a base and individuals approach divers directly, making sharp turns, blowing bubbles, and spiraling at close range. Pacific garden eels emerge from the sandy channel floor in large numbers, swaying in the current and retreating into their burrows as divers approach. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
+Galapagos sea lions are the defining attraction — the colony uses the islets as a base and individuals approach divers directly, making sharp turns, blowing bubbles, and spiraling at close range. Pacific garden eels emerge from the sandy channel floor in large numbers, swaying in the current and retreating into their burrows as divers approach. Stingrays and whitetip reef sharks are confirmed by Academy Bay Diving. Large manta rays, squadrons of mobula rays, and hunting sea lions are sometimes seen in the channel. Sea turtles visit regularly. Barracuda and reef fish populate the rocky margins.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Day boat from Puerto Ayora with a short transit. Giant stride entry into the cha
 The channel between the islets can funnel strong tidal currents without warning. Despite the shallower depths, be prepared for genuine drift conditions and stay oriented relative to your exit point. Sea lions are playful but protect loose gear from curious pups. Standard Galapagos thermal protection applies (water temperature 17-25°C seasonally). Carry an SMB and signaling devices.
 
 ---
-*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-25.*
+*Sources: [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-29.*

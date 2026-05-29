@@ -5,7 +5,7 @@ lng: -149.202744
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869231
 addedBy: osm_import
@@ -35,13 +35,13 @@ This is an overhead environment requiring proper buoyancy, torch, and dive exper
 
 - **Location**: Tahiti Iti (Taiarapu Est), Tahiti, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave (lava tube)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-05-29
 
 ---
-*Sources: [Tahiti Iti Diving – Scuba Diving](https://tahitiitidiving.com/portfolio-item/scuba-diving/?lang=en), [Tahiti Tourisme – Tahiti Iti Diving](https://tahititourisme.pf/experiences/le-plein-activites/tahiti-iti-diving-taiarapu-est-fr-5003854/). Last updated 2026-05-17.*
+*Sources: [Tahiti Iti Diving – Scuba Diving](https://tahitiitidiving.com/portfolio-item/scuba-diving/?lang=en), [Tahiti Tourisme – Tahiti Iti Diving](https://tahititourisme.pf/experiences/le-plein-activites/tahiti-iti-diving-taiarapu-est-fr-5003854/), [ScubaBoard – French Polynesia Diving](https://scubaboard.com/community/threads/dive-ops-in-moorea-papeete-raiatea.641190/). Last updated 2026-05-29.*

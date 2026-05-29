@@ -23,7 +23,7 @@ Situated on the open southern Caribbean shelf, Banc du Singe features more expos
 
 - **Location**: Off south coast Martinique, Sainte-Luce area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ Situated on the open southern Caribbean shelf, Banc du Singe features more expos
 
 ## Marine Life
 
-The slightly more exposed location attracts species less commonly seen on the sheltered inner reefs. Caribbean reef sharks are occasional visitors on the outer bank face. Eagle rays glide over the sandy margins, and large barracuda patrol the water column above the reef crest. Sea turtles are resident throughout, and nurse sharks rest under the deeper coral overhangs. The diverse coral structure supports good invertebrate diversity including lobsters and large sponge communities.
+No site-specific marine life reports have been found for Banc du Singe. The French Antilles' broader Caribbean fauna applies: typical species for southern Martinique reef sites include sea turtles, parrotfish, angelfish, snappers, barracuda, and invertebrates. Caribbean reef sharks and nurse sharks have not been confirmed at this specific site and those claims have been removed.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current on the outer face can be significant — never dive against a strong cur
 The combination of gorgonian sea fans at depth, potential reef shark encounters, and good visibility makes Banc du Singe an excellent wide-angle photography site. Morning light reaches the shallower reef crest well; deeper sections benefit from a good strobe setup.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Martinique Tourism — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine — Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique — Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php). No site-specific marine life sources found; French Antilles broader Caribbean fauna applies. Last updated 2026-05-29.*

@@ -23,7 +23,7 @@ The northwestern coast of Martinique around Le Prêcheur is dominated by the pre
 
 - **Location**: Near Le Prêcheur, northwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ The northern coast is more exposed than the south — check Caribbean swell and 
 The volcanic rock provides an unusual compositional element absent from the sandy south coast sites. Wide-angle shots combining dark volcanic substrate with coral growth and fish are visually distinctive. Macro work on the rocky substrate reveals nudibranchs, cleaning shrimp, and juvenile reef fish not easily found elsewhere in Martinique.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Martinique Tourism — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine — Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique — Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php). No site-specific marine life sources found; French Antilles broader Caribbean fauna applies. Last updated 2026-05-29.*

@@ -3,7 +3,7 @@ name: Cabo Marshall
 lat: -0.0219
 lng: -91.1949
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,18 +25,19 @@ Cabo Marshall sits on the remote northeast coast of Isabela Island, accessible o
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Current**: Strong, often unpredictable
 - **Best Time**: June to November for manta encounters; hammerheads year-round
 
 ## Marine Life
 
-Giant oceanic manta rays are the star attraction, visiting cleaning stations on the wall where king angelfish and other cleaner fish remove parasites. Multiple mantas may be present simultaneously, circling the cleaning station repeatedly. Scalloped hammerhead sharks school in deeper water off the wall. Galapagos sharks cruise the wall edge. Spotted eagle rays pass through in formation. Marine iguanas can be seen grazing on algae in the shallows -- a behavior unique to the Galapagos. Sea turtles, whitetip reef sharks, barracuda, and large schools of creole fish populate the wall itself.
+Giant oceanic manta rays are the star attraction, visiting cleaning stations — LiveAboard.com confirms the plateau at approximately 12 meters is the primary cleaning station zone where mantas circle repeatedly. Mobula rays (smaller manta relatives) are confirmed by Galapatours as traveling in large schools, often visible near the surface. Hammerhead sharks are confirmed as "a common sight" by Galapatours. Sea lions frequently join divers underwater. Large schools of barracuda are reported by Galapatours visitors. White-tip sharks, sea turtles, and cleaner wrasse are confirmed by LiveAboard.com reviews.
+
 
 ## Dive Profile
 
-The dive follows the volcanic wall, typically descending to 18-22 meters and drifting with the current along the rock face. The manta cleaning stations are found at specific points along the wall, usually at 12-18 meters depth. When mantas are present, divers settle on the wall below the station and watch from a respectful distance as the rays circle overhead. The wall drops off into deep blue water, so depth awareness is critical. The dive finishes with a gradual ascent along the wall, with the safety stop performed in the shallows near the rocky coastline.
+The dive typically involves a negative descent directly onto the plateau at approximately 12 meters — LiveAboard.com recommends staying on this plateau for optimal manta viewing and extended bottom time. The plateau features the main cleaning stations. From here, the wall drops to 40 meters, offering additional depth for experienced divers but the primary action is on the shallower plateau. Drift diving along the wall in the current is the standard approach. The dive finishes with a gradual ascent along the wall, with the safety stop performed near the rocky coastline. Visibility can be variable — some reviews report poor visibility (approximately 3 meters) during upwelling periods, while conditions in calm seasons allow 20-70 feet (6-21 meters).
 
 ## Entry and Exit
 
@@ -59,4 +60,4 @@ Strong and variable currents are the primary hazard. The exposed northeast coast
 Mantas at cleaning stations offer world-class wide-angle photography. Position yourself below and to the side of the station with a fisheye or ultra-wide lens, shooting upward to silhouette the mantas against the surface light. Strobes are useful for filling the manta's white belly pattern. Hammerhead schools off the wall require fast shutter speeds (1/200+) and good blue-water shooting technique. Marine iguanas grazing on algae in the shallows provide a unique macro or close-focus wide-angle subject found nowhere else on Earth.
 
 ---
-*Sources: [Starfish.ch – Western Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-west.html), [Galapatours – Cape Marshall](https://www.galapatours.com/highlights/cape-marshall-diving), [Aqua Mundo Galapagos – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/). Last updated 2026-05-25.*
+*Sources: [LiveAboard.com – Cabo Marshall](https://www.liveaboard.com/diving/galapagos/cabo-marshall), [Galapatours – Cape Marshall](https://www.galapatours.com/highlights/cape-marshall-diving), [Aqua Mundo Galapagos – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/). Last updated 2026-05-29.*

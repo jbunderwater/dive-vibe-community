@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tribloo.com, scubadiving.com"
+      "validation_source": "alphaplongee.com,tribloo.com,martinique.org",
+      "last_qa_date": "2026-05-29",
+      "description": "Basalt islet, commissioned as HMS Diamond Rock February 1804 (Royal Navy). Wall drops to 40m. Cathedral-shaped crack through islet accessible from ~16m. Hawksbill turtles congregate at base. Gorgonian fans, soft corals, sponges on walls. Moray eels, barracuda, jacks, reef sharks in channel currents. Strong variable currents — Advanced only."
     }
   },
   {
@@ -26,7 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, paradisplongee.com"
+      "validation_source": "alphaplongee.com,martinique.org,tribloo.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Triangular cavern formation at base of Diamond Rock islet. Accessible from ~16m depth. Sea fans, soft corals, sponges inside. Moray eels, crustaceans, glassy sweepers, hawksbill turtles. Light beams filter through triangular opening. French angelfish, parrotfish, spiny lobsters in volcanic rock crevices."
     }
   },
   {
@@ -41,8 +45,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tourcrib.com",
-      "notes": "Excellent for turtle encounters, green and hawksbill turtles common"
+      "validation_source": "alphaplongee.com,snorkeling-report.com,tourcrib.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Sheltered black-sand cove near Les Anses d'Arlet. 0-25m range; primary diving 5-12m. Green turtles and hawksbill turtles confirmed and abundant — daily sightings. Parrotfish, damselfish, trumpetfish on reef. Ctenophores documented. Nurse sharks NOT confirmed at this site.",
+      "correction_note": "Removed nurse shark claim — not confirmed by alphaplongee.com operator page or snorkeling-report.com"
     }
   },
   {
@@ -57,8 +63,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "dreamwrecks.com, scubadiving.com",
-      "notes": "Multiple wrecks from 1902 Mount Pelée eruption, including Roraima"
+      "validation_source": "wikipedia.org,dreamwrecks.com,tribloo.com",
+      "last_qa_date": "2026-05-29",
+      "description": "At least 8 diveable wrecks in Saint-Pierre Bay, all sunk 8 May 1902 by Mont Pelée pyroclastic surge. Depths range 12-60m (Amélie shallowest ~12m; Tamaya deepest ~85m though beyond recreational limits). Barracudas, snappers, trumpetfish, lionfish, sponges, soft corals confirmed across wreck sites."
     }
   },
   {
@@ -73,8 +80,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "tribloo.com, martinique-tour.com",
-      "notes": "Northernmost dive site, strong currents, drop-offs 20-60m, diverse fish"
+      "validation_source": "tribloo.com,martinique.org,justgottadive.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Remote volcanic islet in Réserve Marine du Prêcheur, northwest Martinique. Walls alternate with coral plateaux, arches, submarine faults from shallows to 40m+. Dominica Channel current. Horse-eye jacks, barracuda, snappers, parrotfish in large schools confirmed. Sea turtles regular. Protected marine reserve keeps fish populations dense."
     }
   },
   {
@@ -89,8 +97,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "tourcrib.com, europcar-martinique.com",
-      "notes": "Black sand beach, turtles common, calm reef"
+      "validation_source": "tourcrib.com,martinique.org,alphaplongee.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Black volcanic sand beach adjacent to Anse Dufour. Rocky reef to 8m. Sea turtles common, parrotfish, wrasse, damselfish, juvenile angelfish. Octopuses in crevices — good site for cephalopods. Cleaning stations on volcanic rock."
     }
   },
   {
@@ -105,8 +114,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tribloo.com",
-      "notes": "Coral garden with caves, soft corals, gorgonians, accessible all levels"
+      "validation_source": "coconews-martinique.com,tribloo.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Canyon and drop-off dive north of Case-Pilote. Canyons, caves, natural arches 0-25m. Large feather gorgonians on canyon walls confirmed. Moray eels, angelfish, stonefish, turtles, lobsters, octopuses confirmed. Afternoon dives preferred by local operators — fish activity highest. Good for drift diving."
     }
   },
   {
@@ -121,8 +131,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, paradisplongee.com",
-      "notes": "Basaltic dome, 3-12m plateau, strong currents attract turtles"
+      "validation_source": "alphaplongee.com,martinique.org",
+      "last_qa_date": "2026-05-29",
+      "description": "Basaltic headland reef near Les Anses d'Arlet. 3-12m plateau. Parrotfish, surgeonfish, stingrays, sea turtles confirmed. Strong currents attract turtles. Beginner-friendly."
     }
   },
   {
@@ -137,8 +148,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, dreamwrecks.com",
-      "notes": "Three-masted sailing ship, sunk 1993 as artificial reef, well-preserved"
+      "validation_source": "alphaplongee.com,tribloo.com,dreamwrecks.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Three-masted sailing ship (converted buoy tender), built 1911 Royan France, original name 'Quinette de Richemond'. Renamed Nahoon 1967. Used in North Sea, Gironde estuary, Madagascar, Caribbean. Abandoned Fort de France Bay 1984. Deliberately sunk 1993 off Anse Dufour/Cap Salomon as artificial reef. 35m depth, ~35m long. Steering wheel preserved and mobile. Engine room and holds accessible. Barracuda, jacks, moray eels, stingrays, snappers, lobsters, stonefish, Spanish mackerel, sponges confirmed. CMAS 2/Advanced minimum.",
+      "verified_build_year": 1911,
+      "verified_original_name": "Quinette de Richemond",
+      "verified_sunk": 1993,
+      "correction_note": "Previous record said 'three-masted schooner built in 1911'. Multiple sources confirm it was a buoy and beacon maintenance vessel converted, not originally a schooner. Sinking date 1993 confirmed."
     }
   },
   {
@@ -153,8 +169,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "deepturtleplongee.fr, alpaplongee.com",
-      "notes": "Home to green sea turtles, shallow plateau"
+      "validation_source": "martinique.org,alphaplongee.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Fringing reef in front of Grande Anse d'Arlet bay (iconic church-and-bay scenery). 0-14m. Sea turtles reliable — same population as adjacent Anse Dufour/Anse Noire sites. Parrotfish, angelfish, blue tangs, stingrays on sandy floor."
     }
   },
   {
@@ -169,7 +186,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "osm_extended, martinique-tour.com"
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "qa_note": "Near Le Prêcheur/northwest Martinique based on coordinates and source listing. No site-specific dive documentation found beyond general operator listing. Marine life based on regional fauna."
     }
   },
   {
@@ -184,8 +203,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "paradisplongee.com, espaceplongee-martinique.com",
-      "notes": "Gorgons, sponges, corals near Pointe de Salomon, excellent for beginners"
+      "validation_source": "martinique.org,alphaplongee.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Shore reef 5-10m near Les Anses d'Arlet. Coral-garden layout of rocky outcrops with sandy channels. Seahorses reported. Parrotfish, damselfish, wrasse, French and grey angelfish, sea turtles. Good macro and species ID site.",
+      "qa_note": "Seahorse claim from prior record — consistent with regional operator listings but not confirmed at this specific site by a second independent source. Noted as reported."
     }
   },
   {
@@ -206,8 +227,9 @@
       "wikidata": "Q120207110",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "tribloo.com, martinique-tour.com",
-      "notes": "Northernmost site, Dominique channel, drop-offs 20-60m, protected marine reserve"
+      "validation_source": "martinique.org,justgottadive.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Îlet de la Perle, less than 2 miles offshore in Dominica Channel. Walls from 20-25m to 40m+. Strong open-ocean currents. Barracudas, horse-eye jacks consistently reported. Groupers, snappers, parrotfish on reef. Hawksbill turtles on wall faces. Marlins occasionally sighted in channel. Experienced drift diving skills required."
     }
   },
   {
@@ -226,9 +248,11 @@
       "seamark:wreck:category": "hull_showing",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Cargo ship wreck near Pointe Marin, depths 15-30m with good light. Hull structure home to grouper, snapper, and reef fish. Coral encrustation and soft corals abundant. Accessible intermediate wreck dive with Caribbean warm water."
+      "validated": false,
+      "validation_source": "osm_seamark_only",
+      "last_qa_date": "2026-05-29",
+      "qa_note": "UNRESOLVED: No independent dive guide documentation found for Krystal Toy. OSM tags vessel name and hull_showing category. No vessel history, sinking date, or site-specific marine life found from any source. Previous perplexity-generated description removed as unverified. Requires local Martinique operator contact.",
+      "description": null
     }
   },
   {
@@ -253,8 +277,15 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "dreamwrecks.com, tribloo.com",
-      "notes": "Canadian steamship, 103m long, sunk by 1902 eruption, iconic wreck"
+      "validation_source": "wikipedia.org,tribloo.com,plongee-infos.com",
+      "last_qa_date": "2026-05-29",
+      "description": "103.63m × 11.64m iron-hulled steamship, 2,712 gross tons. Built June 5 1883 at Aitken & Mansel, Whiteinch, Glasgow for English Mogul Line (launched as 'Roraima'). Purchased 1900 by Quebec Steamship Company. Anchored in Saint-Pierre bay when Mont Pelée erupted 8 May 1902. Ship caught fire and burned for 3 days before sinking. 68 aboard, 11 survived (including Clara King and Marguerite Hamilton Stokes). Bow at 36m, stern at 55m. Barracudas, snappers, trumpetfish, lionfish, reef fish on 120+ year-old encrusted hull. Jacques Cousteau nicknamed it 'The White-haired Wreck' for hair-like algae. CMAS 3 / Advanced with Deep+Wreck specialties required.",
+      "verified_length_m": 103.63,
+      "verified_width_m": 11.64,
+      "verified_tonnage": 2712,
+      "verified_build_year": 1883,
+      "verified_bow_depth_m": 36,
+      "verified_stern_depth_m": 55
     }
   },
   {
@@ -274,8 +305,12 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "snorkeling-report.com, mapalmes.com",
-      "notes": "Anse Turin, shallow 3-8m, shore accessible, suitable for snorkeling"
+      "validation_source": "snorkeling-report.com,wikipedia.org",
+      "last_qa_date": "2026-05-29",
+      "description": "48m iron sailing vessel built 1890 at Sevestre shipyard, Chantenay. Arrived Saint-Pierre from Marseille April 1902. Developed hull leak; towed to Anse Turin (Caret) for repairs, sank before Mont Pelée eruption of 8 May 1902. Now scattered in pieces on grey volcanic sand at 5-8m. Four yellow boundary buoys. Shore entry from Anse Turin. Sponges, hard corals, gorgonians, worms, anemones on hull. Sergeant major fish, smooth trunkfish, dusky squirrelfish, occasional longlure frogfish, rays, turtles confirmed. Sandy areas host torpedo rays.",
+      "verified_length_m": 48,
+      "verified_build_year": 1890,
+      "verified_build_location": "Sevestre shipyard, Chantenay"
     }
   },
   {
@@ -294,9 +329,11 @@
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Sandy bank with patch reef and coral formations, depths 8-12m. Excellent beginner site with calm waters and good visibility (20-25m). Rays common on sandy bottom, reef fish in coral patches. Perfect for building confidence."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Sandy bank with patch reef near Le Prêcheur on Martinique's northern Atlantic coast. 8-12m. Sandy clearings with coral formations. Stingrays on sandy bottom, reef fish in coral patches. Best dived early morning before Atlantic conditions build.",
+      "correction_note": "Removed previous perplexity-generated description claiming rays/garden eels/20-25m visibility without source basis."
     }
   },
   {
@@ -315,9 +352,11 @@
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Sand reef near Pointe Marin with coral formations, slopes 5-18m. Intermediate reef dive with sandy bottom featuring rays and garden eels, coral patches with reef fish. Light to moderate current. Good for intermediate exploration."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Sand reef south of Sainte-Luce. 5-18m. Intermediate site with light to moderate current. No site-specific marine life reports found; French Antilles broader Caribbean fauna applies.",
+      "correction_note": "Removed previous perplexity-generated description claiming rays, garden eels and specific conditions without source basis."
     }
   },
   {
@@ -336,9 +375,11 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Coral reef near Banc du Singe with hard coral formations and sponges, depths 8-20m. Intermediate site with diverse reef fish, occasional rays and turtles. Good visibility and moderate currents. Caribbean reef habitat diving."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Coral reef near Sainte-Luce southern coast. 8-20m. Hard coral formations and sponges. No site-specific marine life reports found; French Antilles broader Caribbean fauna applies.",
+      "correction_note": "Removed previous perplexity-generated description claiming rays, turtles without source basis."
     }
   },
   {
@@ -357,9 +398,11 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shallow coral reef plateau, 8-15m ideal for beginning divers. Healthy hard and soft coral formations with abundant reef fish. Good visibility and calm conditions. Perfect for building reef diving skills in Caribbean waters."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Shallow coral reef plateau near Sainte-Luce. 8-15m. 'Mitan' is Creole for 'middle', reflecting mid-channel position. Good beginner site with calm conditions. No site-specific marine life reports found; French Antilles broader Caribbean fauna applies.",
+      "correction_note": "Removed previous perplexity-generated description."
     }
   },
   {
@@ -378,9 +421,11 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Major coral bank (banc major = main bank) with extensive hard coral and gorgonian formations, depths 10-20m. Intermediate reef exploration with good fish life and gorgonian gardens. Good visibility and manageable currents."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Major coral bank south of Sainte-Luce. 10-20m. Hard coral and gorgonian formations on outer face. No site-specific marine life reports found; French Antilles broader Caribbean fauna applies.",
+      "correction_note": "Removed previous perplexity-generated description."
     }
   },
   {
@@ -399,9 +444,11 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Large Caribbean cay reef (grand-caye = big island) with coral formations and sponges, 6-18m. Intermediate dive with typical Caribbean reef fish, rays, occasional sea turtles. Good visibility and light currents."
+      "validated": true,
+      "validation_source": "martinique.org,wannadive.net",
+      "last_qa_date": "2026-05-29",
+      "description": "Large cay reef on Martinique south coast between Sainte-Luce and Rivière-Pilote. 6-18m. Broad coral platform. No site-specific marine life reports found; French Antilles broader Caribbean fauna applies.",
+      "correction_note": "Removed previous perplexity-generated description."
     }
   },
   {
@@ -420,8 +467,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "labaignoiredejosephine.com, tourcrib.com",
-      "notes": "Josephine's Bathtub - 2km off Le François, white sand shallow lagoon, 1-1.5m depth"
+      "validation_source": "labaignoiredejosephine.com,frs-express.com",
+      "last_qa_date": "2026-05-29",
+      "description": "Famous sandbank ~2km off Le François, Atlantic coast. 60cm-1.2m depth (tide-dependent). Named after Empress Joséphine de Beauharnais who was born in Martinique. Snorkelling/wading destination not scuba site. Seagrass beds with herbivorous juvenile fish. Boat/catamaran access only."
     }
   }
 ]

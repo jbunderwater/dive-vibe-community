@@ -33,7 +33,8 @@ Cabo Douglas sits on the northwest coast of Fernandina, the youngest and most vo
 
 ## Marine Life
 
-Galápagos marine iguanas (*Amblyrhynchus cristatus*) are the signature encounter — the only marine lizards on Earth, feeding on algae at 3–7 meters in a display that feels like diving with dinosaurs. Red-lipped batfish (*Ogcocephalus darwini*), an endemic species found nowhere else, walk across the deeper volcanic substrate at 20–30 meters. Pacific seahorses are described as "aplenty" in the deeper sections. Galápagos penguins and flightless cormorants — both endemic — are seen in and around the water. Galápagos hornsharks have been confirmed on the reef. Sea lions are playful and abundant. Green sea turtles, small stingrays, and frogfish (multiple species) inhabit the reef. Chocolate chip sea stars dot the substrate.
+Galápagos marine iguanas (*Amblyrhynchus cristatus*) are the signature encounter — the only marine lizards on Earth. LiveAboard.com confirms they "can hold their breath for more than 10 minutes" while feeding on algae. Galapatours confirms they feed at 3–7 meters depth. Red-lipped batfish (*Ogcocephalus darwini*) are confirmed by LiveAboard.com and Galapatours in the deeper sections. Pacific seahorses are confirmed by Galapatours as "aplenty" in deeper sections. Galápagos penguins and flightless cormorants are confirmed by LiveAboard.com and Galapatours as visible in and around the water. Galápagos hornsharks are confirmed by X-Ray Mag on the reef. Sea lions are confirmed as playful and abundant by Galapatours and LiveAboard.com. Green sea turtles and small stingrays are confirmed by LiveAboard.com.
+
 
 ## Dive Profile
 
@@ -56,4 +57,4 @@ Access by panga from the liveaboard only. Divers are dropped in buddy pairs near
 The primary hazard is cold — water temperatures of 13–18°C can cause rapid heat loss and shortened dive times. Hypothermia risk is real without adequate exposure protection. Surge near shore is significant and visibility in the shallows can be poor. While currents at the site itself are minimal, the remote liveaboard-only location means medical facilities are far away. Monitor your core temperature and end the dive if you begin shivering.
 
 ---
-*Sources: [LiveAboard.com – Cabo Douglas](https://www.liveaboard.com/diving/galapagos/cabo-douglas), [Galapatours – Cape Douglas](https://www.galapatours.com/highlights/cape-douglas), [X-Ray Mag – Diving with Galapagos Marine Iguanas](https://xray-mag.com/content/diving-dinosaurs-galapagos-marine-iguana). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*
+*Sources: [LiveAboard.com – Cabo Douglas](https://www.liveaboard.com/diving/galapagos/cabo-douglas), [Galapatours – Cape Douglas](https://www.galapatours.com/highlights/cape-douglas), [X-Ray Mag – Diving with Galapagos Marine Iguanas](https://xray-mag.com/content/diving-dinosaurs-galapagos-marine-iguana). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-29.*

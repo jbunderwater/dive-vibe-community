@@ -3,7 +3,7 @@ name: La source
 lat: -17.634003
 lng: -149.619537
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -21,7 +21,7 @@ The defining feature of this site is an underwater freshwater spring emerging fr
 
 ## What to Expect
 
-The halocline above the spring is a highlight for underwater photographers and videographers — wide-angle shots of divers framed in the shimmering fresh/salt interface are a distinctive composition found at few sites in French Polynesia. Beyond the spring itself, the reef hosts lionfish, moray eels, and clusters of glassfish. Turtles graze the nearby coral heads, and parrotfish crunch coral throughout the dive. The mix of fresh and salt water near the spring also creates a unique micro-habitat where otherwise unusual species combinations can be observed.
+The halocline above the spring is a highlight for underwater photographers and videographers — wide-angle shots of divers framed in the shimmering fresh/salt interface are a distinctive composition found at few sites in French Polynesia. The site is a confirmed turtle haven: both hawksbill and green sea turtles are documented here, resting among the corals and grazing algae. A giant moray eel is a resident feature of the site. Clownfish in anemones are also confirmed at this location. The fresh/salt water mixing near the spring creates cooler, slightly turbid conditions directly above the vent.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ The halocline above the spring is a highlight for underwater photographers and v
 Allow time to observe the halocline effect carefully — the spring output varies with tide and season, so the visual effect ranges from a faint shimmer to a dramatic distortion. Position yourself above the spring looking up into the halocline for the most striking photographic results.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [TOPDIVE – Scuba Diving Moorea](https://topdive.com/scuba-diving-moorea/), [Tahiti Tourisme – La Source](https://www.tahititourisme.com/natural-heritage/source/). Last updated 2026-05-29.*

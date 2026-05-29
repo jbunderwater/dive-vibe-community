@@ -23,7 +23,7 @@ This site on the northern face of Pigeon Island's inner islet is named for its r
 
 - **Location**: North face, Pigeon Island (Îlet Pigeon), Malendure, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ This site on the northern face of Pigeon Island's inner islet is named for its r
 
 ## Marine Life
 
-Fish populations at Jardin de Corail benefit from years of protection under the reserve designation. Large French angelfish approach divers closely, and schools of blue tangs sweep over the coral mounds. Green and hawksbill turtles are seen on virtually every dive. Barracuda patrol the reef edges, and Caribbean reef sharks occasionally visit from deeper water. The coral carpet itself hosts enormous biodiversity — flamingo tongues on sea fans, banded coral shrimp in anemones, and juvenile fish sheltering in branching corals.
+Fish populations at Jardin de Corail benefit from years of protection under the reserve designation. Large French angelfish approach divers closely, and schools of blue tangs sweep over the coral mounds. Green and hawksbill turtles are seen on virtually every dive. Barracuda patrol the reef edges. The coral carpet itself hosts enormous biodiversity — flamingo tongues on sea fans, banded coral shrimp in anemones, and juvenile fish sheltering in branching corals. Seahorses have been reported in the Cousteau Reserve area, most commonly on ascent at shallower reef sections. Stingrays and nurse sharks are occasionally encountered in the reserve as a whole. Caribbean reef sharks have not been specifically confirmed at this site in available sources — this claim has been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ As with all Cousteau Reserve sites, respect the protected status — no touching
 Jardin de Corail is one of the French Caribbean's premier photography destinations. The Cousteau bust at depth is an iconic wide-angle subject, particularly when framed against a diver or turtle. The coral carpet at 3 meters in morning light photographs beautifully without strobes. Macro subjects are abundant on coral and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Réserve Cousteau — Dive Sites](https://www.reserve-cousteau.fr/en), [PADI — Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism — Dive Sites](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/diving-spots-in-guadeloupe/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/). Last updated 2026-05-29.*

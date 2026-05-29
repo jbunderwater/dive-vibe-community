@@ -34,7 +34,8 @@ No sources confirm marine iguana underwater feeding at Daphne Minor. Marine igua
 
 ## Marine Life
 
-Whitetip reef sharks rest in the small cave at the beginning of the dive, alongside playful sea lions. Galapagos sharks and juvenile Galapagos sharks patrol the outer areas. Stingrays, mobulas, and eagle rays cruise past. Green sea turtles are present. The black coral wall and gorgonians support a dense invertebrate community — corals, sponges, tunicates — plus schools of bonito tuna, trumpetfish, parrotfish, barracuda, and various snappers and groupers. Seahorses and Galapagos blennies have been confirmed as macro subjects. Manta rays are described by Academy Bay Diving as a frequent visitor. Frogfish have been reported in the rocky substrate.
+Whitetip reef sharks rest in the small cave at the beginning of the dive — confirmed by Scuba Iguana and NatureGalapagos. Alongside them, playful sea lions use the cave entrance area. Juvenile Galapagos sharks patrol the outer areas — confirmed by NatureGalapagos. Stingrays and mobulas cruise past — confirmed by Scuba Iguana. Eagle rays are confirmed by NatureGalapagos. Green sea turtles are present. The black coral wall and gorgonians — confirmed by both Scuba Iguana and NatureGalapagos as covering almost the entire island. Schools of bonito tuna, parrotfish, barracuda, and various snappers and groupers are confirmed by Scuba Iguana. Seahorses and Galapagos blennies are confirmed as macro subjects by Scuba Iguana. Manta rays are described as frequent visitors by NatureGalapagos. Frogfish are confirmed by Scuba Iguana in the rocky substrate.
+
 
 ## Dive Profile
 
@@ -56,4 +57,4 @@ Panga from day boat or liveaboard to entry on the lee side of the island. Giant 
 Currents around the island can strengthen at points where the island profile changes. The volcanic rock is sharp — maintain buoyancy control near the wall. The cold water (18-22°C) accelerates air consumption; plan dive times accordingly. Consistent plankton can reduce visibility. Carry an SMB, whistle, and mirror for exit. Standard Galapagos remoteness and thermal protection requirements apply.
 
 ---
-*Sources: [Scuba Iguana – Daphne](https://scubaiguana.com/diving/dive-sites/daphne-minor/), [NatureGalapagos – Daphne Minor Scuba Diving](https://naturegalapagos.com/galapagos-diving/scuba-diving-galapagos/galapagos-islands-scuba-diving-daphne-minor/), [PADI – Daphne Dive Site](https://www.padi.com/dive-site/ecuador/daphne/). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Daphne Minor](https://scubaiguana.com/diving/dive-sites/daphne-minor/), [NatureGalapagos – Daphne Minor Scuba Diving](https://naturegalapagos.com/galapagos-diving/scuba-diving-galapagos/galapagos-islands-scuba-diving-daphne-minor/), [PADI – Daphne Dive Site](https://www.padi.com/dive-site/ecuador/daphne/). Last updated 2026-05-29.*

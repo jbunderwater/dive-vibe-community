@@ -23,7 +23,7 @@ The cove at Anse Dufour is flanked by headlands that shelter it from prevailing 
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–20 meters
@@ -32,7 +32,7 @@ The cove at Anse Dufour is flanked by headlands that shelter it from prevailing 
 
 ## Marine Life
 
-Sea turtles — particularly green turtles — are the defining feature of Anse Dufour. Multiple individuals are typically encountered on every dive, often feeding on seagrass or resting on the sandy bottom. The cove has become a renowned turtle sanctuary and one of Martinique's signature underwater encounters. Parrotfish, damselfish, and trumpetfish are abundant in the reef zone. Nurse sharks occasionally rest under coral overhangs at depth.
+Sea turtles — particularly green turtles — are the defining feature of Anse Dufour. Multiple individuals are typically encountered on every dive, often feeding on seagrass or resting on the sandy bottom. The cove has become a renowned turtle sanctuary and one of Martinique's signature underwater encounters. Green and hawksbill turtles are both confirmed species; the Alpha Plongée operator page documents them explicitly. Parrotfish, damselfish, and trumpetfish are abundant in the reef zone. Ctenophores (spotted winged ctenophores, not jellyfish) are also documented here. No site-specific reports of nurse sharks at Anse Dufour have been found — this claim has been removed.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Keep an eye on fishing boat traffic — the cove is used by local fishermen. SMB
 Anse Dufour is Martinique's best turtle photography site. Close, relaxed encounters in clear shallow water allow natural-light portraits without strobe. Wide-angle shots of multiple turtles feeding on seagrass patches are possible on good days. The black volcanic sand background creates a distinctive compositional quality unique to Martinique.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Alpha Plongée — Diving at Anse Dufour](https://alphaplongee.com/diving-in-anse-dufour/?lang=en), [Snorkeling Report — Anse Dufour](https://www.snorkeling-report.com/spot/snorkeling-anse-dufour-martinique/), [Tourcrib — Anse Dufour](https://tourcrib.com/en/martinique/beaches/anse-dufour). Last updated 2026-05-29.*

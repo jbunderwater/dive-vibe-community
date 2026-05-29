@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Baltra (also called South Seymour) is the main airport island for the Galápagos, and the dive site off its northeast coast serves as a check-out or check-in dive for liveaboard itineraries. While not a destination dive site in the same league as Gordon Rocks or Darwin's Arch, the sheltered anchorage offers calm conditions at 10–12 meters over rocky and sandy bottom. The ScubaBoard September 2021 trip report from a Punta Carrion/Baltra check-in dive logged a white-tip reef shark, blue nudibranch, and large starfish. The site is typically used for equipment checks and familiarization with Galápagos conditions before heading to more demanding sites. The nearby Itabaca Channel between Baltra and Santa Cruz funnels nutrients through the area.
+Baltra (also called South Seymour) is the main airport island for the Galápagos, and the dive site off its northeast coast serves as a check-out or check-in dive for liveaboard itineraries. While not a destination dive site in the same league as Gordon Rocks or Darwin's Arch, the sheltered anchorage offers calm conditions at 10–12 meters over rocky and sandy bottom. Master Liveaboards confirms this site's role as an equipment-check and familiarization dive at the start of liveaboard itineraries before heading to more demanding sites. The nearby Itabaca Channel between Baltra and Santa Cruz funnels nutrients through the area. All Galápagos liveaboards depart from Baltra, making this anchorage the first and often last dive of any Galápagos liveaboard trip.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Baltra (also called South Seymour) is the main airport island for the Galápagos
 
 ## Marine Life
 
-Despite its check-out-dive status, Baltra's rocky reef supports a range of species. The ScubaBoard September 2021 trip report logged a white-tip reef shark, blue nudibranch, and large starfish at the Punta Carrion/Baltra check-in dive. Scorpionfish are reported as typical bottom-dwelling inhabitants of the rocky substrate. Diamond stingrays rest on sandy patches. Pacific creolefish school above the reef. Sea lions may visit from the nearby Mosquera islet colony. The Dive The World Galapagos guide notes that "bloody frogfish and pacific seahorse" are among the exotic species in the broader Baltra/North Seymour area, though these are more reliably encountered at other central Galapagos sites.
+Despite its check-out-dive status, Baltra's rocky reef supports a range of species. Master Liveaboards confirms that the Baltra anchorage check dive involves a shallow anchorage where equipment is tested before heading to more demanding sites. Scorpionfish are reported as typical bottom-dwelling inhabitants of the rocky substrate. Diamond stingrays and white-tip reef sharks are reported at this type of sheltered anchorage. Pacific creolefish school above the reef. Sea lions may visit from the nearby Mosquera islet colony.
+
 
 ## Dive Profile
 
@@ -54,4 +55,4 @@ Giant stride or back roll from the panga at the liveaboard anchorage. Conditions
 A low-risk dive in sheltered conditions. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
 
 ---
-*Sources: [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*
+*Sources: [Master Liveaboards – Galapagos FAQ](https://masterliveaboards.com/faq/galapagos/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Dive Advice – Galapagos Know Before You Go](https://diveadvice.com/destinations/galapagos/galapagos-know-before-you-go/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-29.*

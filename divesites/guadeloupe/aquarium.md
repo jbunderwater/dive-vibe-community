@@ -23,7 +23,7 @@ Sitting in the sheltered waters near the Jacques Cousteau Underwater Reserve, th
 
 - **Location**: Malendure, Basse-Terre, Guadeloupe (near Pigeon Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The shallow profile creates no decompression risk, but boat traffic in the Malen
 The combination of crystal-clear shallow water, dense fish life, and good natural light makes Aquarium one of Guadeloupe's top photography sites. Compact cameras and GoPros perform excellently here without strobes. Wide-angle shots capturing schools of fish against coral backdrops are particularly effective in the morning hours.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Caribbean Dive Guide — Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Réserve Cousteau](https://www.reserve-cousteau.fr/en), [PADI — Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-05-29.*

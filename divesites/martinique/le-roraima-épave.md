@@ -17,9 +17,11 @@ Le Roraima is the most famous of the Saint-Pierre wrecks — a 103-metre iron-hu
 
 ## Overview
 
-The Roraima was a 2,712-gross-ton mixed cargo and passenger steamer built in 1883 at the Aitken & Mansel shipyard in Whiteinch, Glasgow. Originally launched as the *Ghazee* for the English Mogul Line, it was purchased in 1900 by the Quebec Steamship Company and renamed *Roraima*. On the morning of 8 May 1902, the ship had just anchored in Saint-Pierre bay when Mont Pelée unleashed a pyroclastic flow that struck at approximately 8 am. The ship caught fire and burned for three days before finally sinking. Of the 68 people aboard, 11 survived. Jacques Cousteau, who dived the wreck in the 1970s, nicknamed it "The White-haired Wreck" because of the hair-like algae covering the hull.
+The Roraima was a 2,712-gross-ton mixed cargo and passenger steamer, launched June 5, 1883 at the Aitken & Mansel shipyard in Whiteinch, Glasgow. It was built with an iron hull measuring 103.63 metres long and 11.64 metres wide. The ship was built for and launched as *Roraima* — Wikipedia and the Encyclopedia Titanica record the vessel's original name as Roraima from launch (an alternative source refers to a *Ghazee* connection, but this is not confirmed by the primary ship registry records; the Quebec Steamship Company acquired it in 1900). It was purchased in 1900 by the Quebec Steamship Company and operated as a Caribbean cargo and passenger vessel out of Halifax.
 
-The wreck lies on its keel with a slight list to port, roughly 300 metres from shore. The bow rests at 36 metres and the stern at approximately 55 metres, making this an advanced-level site requiring CMAS 3 or equivalent technical certification and deep and wreck diving experience.
+On the morning of 8 May 1902, the ship had just anchored in Saint-Pierre bay when Mont Pelée unleashed a pyroclastic surge that struck at approximately 8 am. The ship caught fire — it was carrying potassium as cargo — and burned for three days before finally sinking. Of the 68 people aboard, 11 survived, including Clara King (a nanny) and young Marguerite Hamilton Stokes, transferred to the French rescue vessel *Suchet*. Jacques Cousteau, who dived the wreck in the 1970s, nicknamed it "The White-haired Wreck" because of the hair-like algae covering the hull.
+
+The wreck lies on its keel with a slight list to port, roughly 300 metres from shore. The bow rests at 36 metres and the stern at approximately 55 metres, making this an advanced-level site requiring CMAS 3 or equivalent certification and deep and wreck diving experience. The stern section (50–55 m) is at or beyond recreational diving limits.
 
 ## Dive Profile
 
@@ -45,4 +47,4 @@ The Roraima offers exceptional wide-angle opportunities: the encrusted hull, bol
 
 ---
 
-*Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Le Roraima deep wreck dive site — Tribloo](https://tribloo.com/en/dive-sites/74/the-roraima-deep-wreck.html), [Plongée Infos — Roraima 1902](https://www.plongee-infos.com/chaque-jour-une-epave-8-mai-1902-roraima-tamaya-les-naufrages-de-leruption-en-martinique/). Last updated 2026-05-17.*
+*Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Le Roraima deep wreck dive site — Tribloo](https://tribloo.com/en/dive-sites/74/the-roraima-deep-wreck.html), [Plongée Infos — Roraima 1902](https://www.plongee-infos.com/chaque-jour-une-epave-8-mai-1902-roraima-tamaya-les-naufrages-de-leruption-en-martinique/), [DreamWrecks — The Roraima, Martinique](https://dreamwrecks.com/roraima-martinique-shipwreck). Last updated 2026-05-29.*

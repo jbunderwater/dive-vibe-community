@@ -34,9 +34,9 @@ Galapagos penguins — the world's only equatorial penguin and the only penguin 
 
 ## Marine Life
 
-Whitetip reef sharks are a reliable presence, resting on the sandy platform between rock formations or cruising the reef edges. Galapagos sharks patrol the outer sections along the cliffs. Stingrays, marbled rays, and golden cownose rays cruise the sandy bottom; eagle rays and mobulas are seen seasonally. Green sea turtles graze on algae-covered rocks. Sea lions are ever-present and engage divers in the shallows. Stone scorpionfish, flounders, grunts, snappers, groupers, and parrotfish populate the rocky platform. One ScubaBoard trip report recorded hammerhead sharks approaching to close range at the site. Manta rays have been documented here in season.
+Whitetip reef sharks are a reliable presence, resting on the sandy platform between rock formations or cruising the reef edges — confirmed by Scuba Iguana. Galapagos sharks are confirmed by Scuba Iguana as patrolling the outer cliff sections. Stingrays, marbled rays, and golden cownose rays cruise the sandy bottom — confirmed by Scuba Iguana. Mobulas (eagle rays) are confirmed by Scuba Iguana as seasonal visitors. Green sea turtles are confirmed grazing on algae-covered rocks. Sea lions are ever-present and engage divers in the shallows — Scuba Iguana confirms this. Seahorses are specifically confirmed at Bartolome by PADI Adventures (hiding in black coral at the terraced steps). Stone scorpionfish, flounders, grunts, snappers, Galapagos groupers, hogfish, jacks, Pacific sierras, and parrotfish are all confirmed by Scuba Iguana. Manta rays are listed as seasonal by Scuba Iguana.
 
-No site-specific sources confirm regular underwater penguin encounters during dives at Bartolome. Post-dive surface views of penguins at Pinnacle Rock are consistently reported.
+No site-specific sources confirm regular underwater penguin encounters during dives at Bartolome. Post-dive surface views of penguins at Pinnacle Rock are consistently reported by multiple operators.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ This is one of the calmer Galapagos dive sites, but the Advanced rating reflects
 Wide-angle is the primary lens here — sea lions, sharks, and rays against the volcanic platform background. One first-person trip report described swimming through a fish school so dense that visibility dropped to near-zero — a dramatic wide-angle subject when encountered. For surface photography, a telephoto zoom captures the penguins perched on Pinnacle Rock post-dive. Split-level shots of the rock formation are possible when surface conditions are calm.
 
 ---
-*Sources: [Scuba Iguana – Bartolome](https://scubaiguana.com/our-dive-center/daily-diving-tours/bartolome-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Bartolome](https://scubaiguana.com/our-dive-center/daily-diving-tours/bartolome-galapagos-dive-site/), [PADI Adventures – Bartolome/Cousins Rock Day Dive](https://travel.padi.com/dive-trip/galapagos/daily-dive-tour-to-bartolome-cousin-rocks-18526/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-29.*

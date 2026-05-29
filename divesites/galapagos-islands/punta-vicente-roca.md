@@ -3,7 +3,7 @@ name: Punta Vicente Roca
 lat: -0.0531
 lng: -91.5597
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null
@@ -25,14 +25,15 @@ Punta Vicente Roca occupies the dramatic northwest tip of Isabela Island, where 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet), reduced by nutrient-rich water
 - **Current**: Mild to moderate (calmer than most Galapagos sites)
 - **Best Time**: July to October for mola mola; seahorses and batfish year-round
 
 ## Marine Life
 
-The cold upwelling creates a unique species mix. Mola mola (ocean sunfish) appear seasonally, drifting in from the deep to visit cleaning stations -- an encounter that alone justifies the dive. Pacific seahorses cling to rocky outcrops and gorgonians. Red-lipped batfish walk along the sandy bottom on modified fins, looking almost comically alien. Frogfish hide among the rocky substrate. Green sea turtles are abundant, often stacked several deep on ledges. Marine iguanas dive to graze on algae in the shallows. Galapagos fur seals (distinct from sea lions) hunt in the area. Galapagos penguins may be seen swimming underwater near the surface. Large schools of salema and other baitfish cloud the wall.
+The cold upwelling creates a unique species mix. Mola mola (ocean sunfish) are the primary attraction and are confirmed by multiple sources (Scuba Diving Earth, Liveaboard.com, PADI blog) — they appear seasonally and swim along the outside of the wall to be cleaned. Pacific seahorses are confirmed by Scuba Diving Earth and multiple operator listings. Red-lipped batfish are confirmed by Scuba Diving Earth and the PADI blog — they walk along the sandy bottom on modified fins. Frogfish are confirmed at the rocky substrate by Scuba Diving Earth. Green sea turtles are confirmed as abundant, often resting on ledges. Galapagos penguins are confirmed by multiple operators as hunting the large baitfish shoals — in-water penguin encounters are documented at this site. Large schools of black-striped salemas are confirmed by Scuba Diving Earth as "large shoals" attracting the penguins. Eagle rays, stingrays, marble rays, bullhead sharks, barracuda, and parrotfish are confirmed by Scuba Diving Earth.
+
 
 ## Dive Profile
 
@@ -59,4 +60,4 @@ Cold water is the primary challenge at this site. Hypothermia risk is real, espe
 This is the Galapagos' best macro and critter site. Red-lipped batfish on sandy bottom make extraordinary subjects -- use a macro lens and get low for eye-level portraits. Seahorses on gorgonians require patience and a steady hand. Frogfish reward those who search carefully. For wide-angle, mola mola silhouetted in the green-tinted water column are bucket-list shots. Sea turtles stacked on ledges create compelling compositions. Marine iguanas grazing underwater and penguins swimming through the shallows offer unique close-focus wide-angle opportunities. Strobes are essential in the low-visibility, nutrient-rich water to restore color.
 
 ---
-*Sources: [Starfish.ch – Western Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-west.html), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [LiveAboard.com – Punta Vicente Roca](https://www.liveaboard.com/diving/galapagos/punta-vicente-roca). Last updated 2026-05-25.*
+*Sources: [Scuba Diving Earth – Punta Vicente Roca Liveaboard Diving](https://www.scubadivingearth.com/punta-vicente-roca-liveaboard-diving/), [LiveAboard.com – Punta Vicente Roca](https://www.liveaboard.com/diving/galapagos/punta-vicente-roca), [The Portuguese Traveler – Isabela Dive Sites](https://theportuguesetraveler.com/galapagos/isabela/best-dive-sites-isabela-galapagos/). Last updated 2026-05-29.*

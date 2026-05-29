@@ -23,7 +23,7 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–25 meters
@@ -58,4 +58,4 @@ Do not attempt to put fingers or hands into vent openings — water temperature 
 The volcanic geology creates dramatic subjects — cracked seabed formations and warm-water shimmer rising from the vents photograph as visually striking and scientifically interesting. Macro work on large lobsters in the fault crevices is highly rewarding. The combination of geological and biological subjects makes this an unusually varied photography dive.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Caribbean Dive Guide — Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Réserve Cousteau](https://www.reserve-cousteau.fr/en), [PADI — Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-05-29.*

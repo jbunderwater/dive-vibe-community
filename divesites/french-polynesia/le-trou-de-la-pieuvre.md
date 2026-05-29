@@ -2,10 +2,10 @@
 name: Le trou de la Pieuvre
 lat: -16.686186
 lng: -151.449666
-difficulty: Beginner
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 58
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869250
 addedBy: osm_import
@@ -13,27 +13,27 @@ addedBy: osm_import
 
 ## Le trou de la Pieuvre
 
-Le trou de la Pieuvre — "The Octopus Hole" — is a reef dive site in the Raiatea or Taha'a lagoon, French Polynesia, named for a specific crevice or cave opening in the reef where a resident octopus was historically known to den.
+Le trou de la Pieuvre — "The Octopus Hole" — is a deep underwater cave system on the lagoon reef platform south of Taha'a, French Polynesia. Despite the playful name, this is a serious multi-chamber sinkhole extending to 58 metres, with large stalactites that indicate the cave was above sea level during a prior geological era.
 
 ## Overview
 
-The site is centred on a crevice or small cavern in the coral reef at around 15–18 metres depth, within a broader reef landscape of coral ridges and sandy patches. The Society Islands' lagoon here — shared between Raiatea and Taha'a, which sit inside the same barrier reef — hosts clear, warm water with visibility of 25–30 metres and temperatures of 27–28°C. While individual octopus residents change over time, the crevice structure continues to provide suitable habitat, and octopus sightings are frequent on this site. The wider reef around the "hole" is in good health and worth exploring beyond the namesake feature.
+The site opens on the reef flat at about 10 metres depth — the "octopus hole" entrance for which the site is named — then descends through a coral overhang at 20 metres and into a first chamber at 40 metres. A second, deeper chamber reaches 58 metres. Throughout the descent, natural light remains visible through the surface opening above, keeping the dive within cavern (rather than full cave) parameters for the upper sections. The stalactites and yellow mineral concretions decorating the chamber walls formed when the cave was above water during lower sea levels, a reminder of the geological history underlying these Pacific atolls. Taha'a Diving and other local operators run this site; Zysman Thierry's diving guide and Tahaa Diving photography documentation from 2011 are among the primary references.
 
 ## What to Expect
 
-Day octopuses (*Octopus cyanea*) are the target species here — active during daylight hours, they hunt across the reef and sand patches near the crevice. Observing their colour-changing camouflage and jet-propelled movement is a highlight. The crevice itself and surrounding reef holds moray eels, lionfish, and squirrelfish. The sandy surrounds host stingrays and groups of goatfish probing the substrate. Turtles graze the reef regularly in this part of the Society Islands lagoon. Small blacktip reef sharks cruise the outer reef edge visible from the site.
+The cave walls in the upper sections shelter resting whitetip reef sharks and marine invertebrates adapted to reduced light. The progressively darker chambers require a dive torch; mineral formations become more dramatic with depth. The first chamber at 40 metres rewards experienced divers with dramatic geological formations and the eerie quality of a confined space opened onto open ocean above. The second chamber at 58 metres is a technical depth requiring appropriate gas management and training. No specific marine life documentation for the deepest chambers has been confirmed in published sources.
 
 ## Conditions
 
-- **Best season**: Year-round; April–November optimal
-- **Visibility**: 25–30 m typical
-- **Current**: Mild
+- **Best season**: April–November; sheltered atoll location
+- **Visibility**: Good in upper sections; torch-dependent below the overhang
+- **Current**: Generally mild in the lagoon reef setting
 - **Water temperature**: 27–28°C
-- **Entry**: Boat dive from Raiatea or Taha'a operators
+- **Entry**: Boat dive from Taha'a operators
 
-## Tips
+## Safety Considerations
 
-Octopus are most active in the first few hours after sunrise when actively hunting. Ask your dive guide about the current status of the resident animal — octopus change dens periodically. Avoid touching or disturbing octopus; they are highly intelligent and stressed animals will retreat and hide.
+The depth profile of this site — to 58 metres at the second chamber — places the deepest sections firmly in the Advanced/technical range. The overhead environment of the cave chambers requires proper training, appropriate torch equipment, and gas planning for exit. This site should not be attempted beyond the first chamber without cave or technical diving experience. Always dive with a local guide familiar with the site.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Tahiti Heritage – Trou de la Pieuvre](https://www.tahitiheritage.pf/trou-de-la-pieuvre/), [Hemisphere Sub – Raiatea Taha'a Dive Sites](https://hemispheresub.com/en/scubadiving.html), [ScubaBoard – French Polynesia Diving](https://scubaboard.com/community/threads/dive-ops-in-moorea-papeete-raiatea.641190/). Last updated 2026-05-29.*

@@ -33,13 +33,14 @@ Shark Bay (Bahía Tiburón) occupies a protected bay on Wolf Island, offering a 
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the headliner, typically encountered in schools at 15–20 meters depth toward the outer bay. Galápagos sharks and silky sharks are regular visitors alongside them. Whale sharks have been documented here seasonally. Galápagos sea lions are playful and abundant in the shallower bay sections. Eagle rays, golden cowrays, green sea turtles, and dolphins are reported across multiple sources. Moray eels inhabit the wall crevices and cavern entrances. Schools of snappers and jacks patrol the wall face.
+Scalloped hammerhead sharks are the headliner, typically encountered in large schools — Galapatours confirms Shark Bay as a "favorite hangout for large schools of Scalloped Hammerheads." Galápagos sharks and silky sharks are confirmed by Galapatours and Dive The World as regular visitors. Whale sharks are confirmed as having been encountered here seasonally by Galapatours. Galápagos sea lions are confirmed as "so agile and inquisitive that they come to divers rather than the reverse" by Dive The World. Dolphins are confirmed by Galapatours. Green sea turtles and eagle rays are confirmed by Galapatours. Moray eels inhabit the wall crevices. Blue/gold snappers, pufferfish, trumpetfish, yellowfin tuna, barracuda, and African pompano are confirmed by Dive The World.
 
-Night dives at the Fondeadero anchorage reveal bioluminescent plankton, Galápagos fur seals, and nocturnal reef species not seen during the day.
+Night dives at the Fondeadero anchorage are confirmed by Galapatours as one of the only night diving locations in the entire Galápagos.
+
 
 ## Dive Profile
 
-The dive begins at approximately 10 meters in the shallower inner bay, where sea lions are most interactive. Moving further out, the wall drops to 27 meters with caverns and swim-throughs. Hammerhead schools and ray aggregations concentrate at 15–20 meters in the outer section. The recommended technique is the same as other Wolf Island sites: find a sheltered position on the wall or reef, wedge in, and let the sharks come to you. Active swimming against the current is counterproductive.
+The dive begins at approximately 8–10 meters in the shallower inner bay, where sea lions are most interactive — Dive The World confirms the shallower shoreline zone starts at 8–10 meters. Moving further out, the wall drops to approximately 25–27 meters with caverns and passages. Hammerhead schools and ray aggregations concentrate at depth in the outer section. Dive The World describes a "rocky substrate in shallows with sandy patch deeper down." The recommended technique is the same as other Wolf Island sites: find a sheltered position on the wall or reef, wedge in, and let the sharks come to you. Active swimming against the current is counterproductive.
 
 ## Entry and Exit
 
@@ -57,4 +58,4 @@ Access by panga from the liveaboard vessel only. Wolf Island is approximately 14
 Despite the bay's relative shelter, currents are strong and unpredictable. Unexpected drift dives occur regularly. Swell can be heavy close to shore and near the wall. Carry an SMB and signaling device. Night dives require additional planning — carry primary and backup lights, stay with your buddy, and follow the divemaster's briefing carefully.
 
 ---
-*Sources: [Galapatours – Shark Bay](https://www.galapatours.com/highlights/shark-bay-landslide-diving-wolf), [Galapatours – Fondeadero](https://www.galapatours.com/highlights/fondeadero), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-25.*
+*Sources: [Galapatours – Shark Bay](https://www.galapatours.com/highlights/shark-bay-landslide-diving-wolf), [Dive The World – Darwin & Wolf Island](https://www.dive-the-world.com/diving-sites-galapagos-darwin-wolf-island.php), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-29.*

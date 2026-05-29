@@ -3,7 +3,7 @@ name: Aquarium
 lat: -17.565279
 lng: -149.627502
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,11 +17,11 @@ Aquarium is a reef dive site in the Tahiti lagoon, French Polynesia. The name is
 
 ## Overview
 
-The site is a coral-rich reef structure in the outer lagoon area off Tahiti's west coast, where the combination of a protected location and proximity to the outer reef channel drives exceptional fish biomass. Coral coverage is dense, with branching acropora, table corals, and massive *Porites* heads creating a three-dimensional habitat at depths ranging from 5 to 25 metres. The fish life here is the draw: at any given moment hundreds of individual fish of dozens of species are visible, making the site one of the more consistently impressive reef dives in the Papeete area. Visibility averages 25–35 metres, with water temperatures of 27–28°C.
+The site is a coral-rich reef structure in the lagoon off Tahiti's west coast, where the protected location provides calm conditions and excellent fish biomass. The dive terrain covers depths from approximately 5 to 18 metres on a colourful coral formation. The fish life here is the draw: the site is named for its aquarium-like density of reef species visible at any moment, making it one of the more consistently impressive lagoon reef dives in the Papeete area. Water temperatures average 27–28°C.
 
 ## What to Expect
 
-Dense aggregations of bluestripe snapper (*Lutjanus kasmira*), surgeonfish, and anthias provide a colourful backdrop on every dive. Napoleon wrasse are regular visitors, often approaching divers closely. Large moray eels extend from crevices throughout the reef, and white-tip and blacktip reef sharks cruise the outer edge. The sandy patches between coral structures hold stingrays and flatfish. Unlike sites focused on a single feature, Aquarium rewards divers who move slowly and look in multiple directions — the fish life is present at every depth and in every direction simultaneously.
+Triggerfish, angelfish, lionfish, and parrotfish are confirmed species at this site. Clownfish in anemones are a highlight for photographers. The coral structures harbour groupers and smaller reef fish, and the sandy patches support stingrays. Unlike sites focused on a single feature, Aquarium rewards divers who move slowly and look in multiple directions — the fish life is present at every depth simultaneously. The sheltered lagoon location makes this suitable for all certification levels.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ Dense aggregations of bluestripe snapper (*Lutjanus kasmira*), surgeonfish, and 
 Bring a wide-angle lens to capture the fish density — the schooling snapper and surgeonfish create excellent schooling shots. The site is appropriate for intermediate divers though the fish life alone makes it appealing to beginners with a divemaster escort.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Tahiti Tourisme – Diving in Tahiti](https://www.tahititourisme.com/activities/diving/tahiti/), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/). Last updated 2026-05-29.*

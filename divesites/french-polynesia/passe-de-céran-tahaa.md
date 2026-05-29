@@ -3,7 +3,7 @@ name: Passe de Céran - TAHAA
 lat: -16.648034
 lng: -151.426964
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 40
 entryType: boat
 siteType: drift
 ref: null
@@ -41,7 +41,7 @@ Current strength varies with tidal flow. The dive requires experience in current
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-05-29
 
 ---
-*Sources: [Manawa – Exploration Diving Raiatea and Taha'a](https://www.manawa.com/en-GB/activity/french-polynesia/raiatea-tahaa/scuba-diving/exploration-diving-in-raiatea-and-tahaa-french-polynesia/13991), [PADI Blog – Best Dive Sites French Polynesia](https://blog.padi.com/escape-into-the-turquoise-waters-of-french-polynesias-islands-and-atolls/). Last updated 2026-05-17.*
+*Sources: [Manawa – Exploration Diving Raiatea and Taha'a](https://www.manawa.com/en-GB/activity/french-polynesia/raiatea-tahaa/scuba-diving/exploration-diving-in-raiatea-and-tahaa-french-polynesia/13991), [PADI Blog – Best Dive Sites French Polynesia](https://blog.padi.com/escape-into-the-turquoise-waters-of-french-polynesias-islands-and-atolls/), [Hemisphere Sub – Raiatea Taha'a Dive Sites](https://hemispheresub.com/en/scubadiving.html). Last updated 2026-05-29.*

@@ -3,7 +3,7 @@ name: Mosquera
 lat: -0.4085075
 lng: -90.2772687
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -25,18 +25,19 @@ Mosquera is a sand and rock islet in the channel between North Seymour and Baltr
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Current**: Mild to moderate
 - **Best Time**: Year-round; sea lions are always present
 
 ## Marine Life
 
-Galapagos sea lions dominate this site, with juveniles and adults alike engaging with divers in extended, playful encounters -- mirroring movements, blowing bubbles face-to-face, and performing acrobatic spins. Garden eels sway from the sandy bottom in large colonies, disappearing into their burrows as divers approach. Stingrays and eagle rays cruise over the sand flats. Whitetip reef sharks rest under rock ledges. Schools of reef fish -- including surgeonfish, parrotfish, and king angelfish -- congregate around the scattered rock formations. Sea turtles graze on algae on the rocks. Spotted moray eels and octopus hide in the rocky substrate.
+Galapagos sea lions dominate this site, with juveniles and adults alike engaging with divers in extended, playful encounters — mirroring movements, blowing bubbles face-to-face, and performing acrobatic spins. Garden eels sway from the sandy bottom in large colonies, disappearing into their burrows as divers approach — Academy Bay Diving describes thousands of garden eels visible "as far as the eye can see." Eagle rays, hammerhead sharks, blacktip reef sharks, and Galapagos sharks are confirmed by multiple operators at this site. A reef shark cleaning station is a notable feature, with sharks congregating at the cleaning area on the sandy platform. Stingrays and golden cownose rays cruise over the sand flats. Sea turtles are regularly present. Schools of reef fish including surgeon fish, parrotfish, and snapper populate the rock formations.
+
 
 ## Dive Profile
 
-The dive is relatively straightforward by Galapagos standards. Entry leads to a sandy slope descending gradually to 20-27 meters. The scattered rock formations provide structure and marine life concentration points along the way. The garden eel colonies are found on the sandy flats between rock formations. Most of the sea lion interaction happens in the 5-12 meter range as divers ascend along the slope. The shallow sandy areas near the islet provide the best sea lion encounters. Safety stop is easily performed in the calm shallows.
+The dive is relatively straightforward by Galapagos standards. Entry leads to a sandy slope descending gradually to 20-21 meters — Academy Bay Diving confirms the rock drop to approximately 21 meters, with the sandy platform where the eel colonies and cleaning station are found at that depth. The scattered rock formations provide structure and marine life concentration points along the way. The garden eel colonies are found on the sandy flats between rock formations. Most of the sea lion interaction happens in the 5-12 meter range as divers ascend along the slope. The shallow sandy areas near the islet provide the best sea lion encounters. Safety stop is easily performed in the calm shallows.
 
 ## Entry and Exit
 
@@ -59,4 +60,4 @@ While this is one of the gentler Galapagos dive sites, currents in the channel c
 Sea lion portraits and interaction shots are the main photographic draw. Use a wide-angle or fisheye lens and get close -- the sea lions will oblige by approaching to within centimeters. Eye-level shots produce the most engaging portraits. Garden eel colonies make excellent macro or mid-range subjects, but require patience and a slow, low approach. The sandy bottom provides a clean, uncluttered background for ray and shark shots. Ambient light is usually sufficient in the shallows, but strobes help with sea lion portraits to bring out the texture of their fur and the sparkle in their eyes.
 
 ---
-*Sources: [Scuba Iguana – Mosquera North](https://scubaiguana.com/our-dive-center/daily-diving-tours/mosquera-north/), [The Portuguese Traveler – North Seymour & Mosquera](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Mosquera North](https://scubaiguana.com/our-dive-center/daily-diving-tours/mosquera-north/), [The Portuguese Traveler – North Seymour & Mosquera](https://theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-29.*

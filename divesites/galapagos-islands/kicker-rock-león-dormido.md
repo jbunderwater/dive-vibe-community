@@ -23,7 +23,8 @@ The channel concentrates pelagic species drawn by nutrient-rich currents sweepin
 
 ## Marine Life
 
-Whitetip reef sharks and Galapagos sharks are the most consistently reported encounters throughout the dive. Scalloped hammerhead sharks regularly appear in the channel in schools — multiple sources report groups of 20 or more, particularly in the cooler season. Spotted eagle rays and golden rays are commonly sighted. Green sea turtles and sea lions are present. Barracuda schools, moray eels, octopus, parrotfish, and surgeonfish inhabit the wall formations. The plateau area hosts sea urchins and various reef fish. Manta rays are seen seasonally.
+Whitetip reef sharks, Galapagos sharks, and silky sharks are the most consistently reported encounters throughout the dive. Scalloped hammerhead sharks regularly appear in the channel — multiple sources including Happy Gringo and Aquaventures Dive Center confirm regular schooling behavior, particularly in the cooler season. Spotted eagle rays are commonly sighted. Green sea turtles are confirmed by multiple operators. Sea lions are present. Barracuda schools, surgeonfish, parrotfish, and various reef fish inhabit the wall formations. Manta rays are reported seasonally by The Portuguese Traveler.
+
 
 ## Dive Profile
 
@@ -50,4 +51,4 @@ All dives are by guided day trip from Puerto Baquerizo Moreno. Tours include two
 Strong and variable currents, particularly through the channel, require good buoyancy control and current diving experience. Divers should stay close to the wall and be prepared to adjust for surge. The exposed open-ocean position means conditions can deteriorate quickly. SMB use is mandatory. Advanced or minimum Intermediate certification is expected.
 
 ---
-*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/what-its-like-to-dive-at-kicker-rock-depth-marine-life-practical-tips/), [The Portuguese Traveler – Diving Kicker Rock](https://theportuguesetraveler.com/galapagos/san-cristobal/diving-in-kicker-rock/). Last updated 2026-05-25.*
+*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures Dive Center – Diving at Kicker Rock](https://aquaventuresgps.com/what-its-like-to-dive-at-kicker-rock-depth-marine-life-practical-tips/), [The Portuguese Traveler – Diving Kicker Rock](https://theportuguesetraveler.com/galapagos/san-cristobal/diving-in-kicker-rock/). Last updated 2026-05-29.*

@@ -23,7 +23,7 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 - **Location**: Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Boat traffic in the Malendure channel is significant — always surface with an 
 The Cousteau Reserve is consistently rated among the French Caribbean's top underwater photography locations. The fish density, clear water, and shallow depth create ideal ambient-light conditions for wide-angle reef shots. Turtle encounters are close enough for natural-light portraits. Macro subjects are numerous on coral heads and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Caribbean Dive Guide — Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Réserve Cousteau](https://www.reserve-cousteau.fr/en), [PADI — Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-05-29.*
