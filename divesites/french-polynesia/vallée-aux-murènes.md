@@ -40,4 +40,4 @@ Maximum depth is approximately 25 metres at the deepest valley floors; ridge top
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Diving Moorea – Hacking Family](https://hackingfamily.com/Underwater/Diving/diving_moorea.htm), [Dive Discovery – Moorea Diving](https://www.divediscovery.com/tahiti/divesites/moorea-diving.php), [DeeperBlue – Top 6 Dive Sites in Mo'orea](https://www.deeperblue.com/top-6-dive-sites-moorea-french-polynesia/). Last updated 2026-05-17.*
+*Sources: [Diving Moorea – Hacking Family](https://hackingfamily.com/Underwater/Diving/diving_moorea.htm), [Dive Discovery – Moorea Diving](https://www.divediscovery.com/tahiti/divesites/moorea-diving.php), [DeeperBlue – Top 6 Dive Sites in Mo'orea](https://www.deeperblue.com/top-6-dive-sites-moorea-french-polynesia/). Last updated 2026-05-29.*
