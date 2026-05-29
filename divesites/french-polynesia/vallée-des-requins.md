@@ -37,13 +37,13 @@ Maximum depth approximately 20 metres. The valley formations create a varied top
 
 - **Location**: Moorea, Society Islands, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-05-29
 
 ---
 *Sources: [Moorea Blue Diving – Shark Observatory](https://www.mooreabluediving.com/observatoire.html), [DiveOtion – Scuba Diving in Moorea](https://diveotion.com/scuba-diving-in-moorea/), [PADI – Top Dive Sites in Moorea](https://www.padi.com/dive-sites/french-polynesia/moorea/). Last updated 2026-05-29.*

@@ -17,11 +17,11 @@ Tombant St Etienne is a wall dive site adjacent to the St Etienne channel on the
 
 ## Overview
 
-The tombant (drop-off) begins at around 5–8 metres at the reef crest and descends vertically to 25 metres before transitioning to a sloping outer reef. The wall face is richly colonised with hard and soft corals, including large table corals on the upper sections and encrusting sponges and wire corals in the deeper zone. The St Etienne pass channel nearby channels oceanic water across the site, bringing good visibility of 25–35 metres and regular pelagic visitors. Water temperatures are a comfortable 27–28°C for most of the year.
+Located on the outer reef of Puna'auia at Ta'apuna Pass exit, the tombant (drop-off) descends from the reef crest to approximately 25 metres. According to Dive and Sea Tahiti, the site can be dived as a drift and is known for turtles, paddle perch, needlefish, Maori perch (groupers), jacks, and damselfish. The pass location means oceanic water regularly flows across the site. Water temperatures are 27–28°C for most of the year.
 
 ## What to Expect
 
-White-tip reef sharks are the most reliable large animal sighting here, often found resting in the sand channels at the base of the wall. Grey reef sharks patrol the mid-water, and schools of bigeye jacks and surgeonfish aggregate around the reef crest. The wall's irregular surface creates numerous overhangs and crevices sheltering hawkfish, longsnout butterflyfish, and squirrelfish. Napoleon wrasse regularly visit the site. The proximity to the St Etienne channel means that on incoming tides, small pelagics and hunting predators move through the area in concentrated bursts.
+Turtles, paddle perch (paletail unicornfish), needlefish, Maori perch (groupers), jacks, and damselfish are confirmed species at this site per Dive and Sea Tahiti. The wall's irregular surface creates overhangs and crevices suited for reef fish. The pass location means pelagic visitors move through the area with tidal flows.
 
 ## Conditions
 

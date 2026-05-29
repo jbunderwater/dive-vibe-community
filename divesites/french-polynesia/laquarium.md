@@ -21,7 +21,7 @@ Situated inside the shared barrier reef of Raiatea and Taha'a, this site benefit
 
 ## What to Expect
 
-Clouds of reef fish — sergeant majors, chromis, butterflyfish, and angelfish — hover over the coral garden throughout the dive. Turtles are frequently encountered resting on the sandy patches or grazing algae from coral surfaces. Blacktip reef sharks cruise the shallow outer edge of the coral garden, their dorsal fins occasionally breaking the surface. The coral formations support resident hawkfish, gobies perched on coral heads, and the occasional resting stonefish camouflaged against rubble. Children and non-divers snorkelling above can see much of what the divers see below, making this a popular family site.
+Stingrays, mullet, butterflyfish, sea urchins, and moray eels are documented species at this site. The coral bommies are adorned with multicoloured giant clams, visible at 10–15 metres depth. There are no walls here — the dive is entirely through coral bommie gardens and swim-throughs at shallow depth. This is a genuine beginner and family site, with snorkellers able to observe much of the underwater scene from the surface.
 
 ## Conditions
 

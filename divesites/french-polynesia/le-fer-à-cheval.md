@@ -35,7 +35,7 @@ This is an overhead environment requiring proper buoyancy, torch, and dive exper
 
 - **Location**: Tahiti Iti (Taiarapu Est), Tahiti, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave (lava tube)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

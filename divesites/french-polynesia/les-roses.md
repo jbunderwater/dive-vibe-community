@@ -21,7 +21,7 @@ The site is characterised by large rounded *Porites lobata* coral bommies — ma
 
 ## What to Expect
 
-The *Porites* bommies are encrusted with smaller corals, hydroids, and sponges, and host a rich community of gobies, damsels, and hawkfish on their surfaces. Crevices between bommies shelter moray eels and resting nurse sharks. Turtles frequently graze the algae growing on older bommie surfaces. The sandy corridors between the coral heads attract stingrays, and golden trevally (*Gnathanodon speciosus*) schools cruise the inter-bommie passages. The site is excellent for wide-angle photography, particularly when positioned low to capture divers framed against the tower-like coral heads.
+The *Porites* bommies are encrusted with smaller corals, hydroids, and sponges, and host a rich community of gobies, damsels, and hawkfish on their surfaces. Crevices between bommies shelter moray eels. The sandy corridors between the coral heads attract stingrays. Turtles and typical Tahiti reef fish inhabit the site. (Specific marine life species beyond regional norms were not confirmed at this particular site in sources consulted.) The site is excellent for wide-angle photography, particularly when positioned low to capture divers framed against the tower-like coral heads.
 
 ## Conditions
 

@@ -21,7 +21,7 @@ Rauto'Anui is one of the productive pass dives within the shared Raiatea-Taha'a 
 
 ## What to Expect
 
-Grey reef sharks are the primary attraction, moving through the pass on the tidal current in groups of 10–30. Blacktip reef sharks are present in smaller numbers, particularly toward the lagoon side of the pass. Eagle rays and manta rays are seasonally encountered. Schools of barracuda and bigeye trevally sweep through the channel in formation, while smaller reef fish shelter in crevices in the channel walls. The pass walls themselves are encrusted with hard corals and sea fans, providing habitat for hawkfish, trumpetfish, and moray eels that inhabit the edges of the main current. The combination of reef life and pelagic activity makes for a varied and exciting drift.
+Grey reef sharks are the primary attraction, moving through the pass on the tidal current in groups of 10–30. Blacktip reef sharks are present in smaller numbers, particularly toward the lagoon side of the pass. Eagle rays are associated with Raiatea's pass system; manta ray sightings at this specific pass were not confirmed in sources consulted. Schools of barracuda and bigeye trevally sweep through the channel in formation, while smaller reef fish shelter in crevices in the channel walls. The pass walls themselves are encrusted with hard corals and sea fans, providing habitat for hawkfish, trumpetfish, and moray eels that inhabit the edges of the main current. The combination of reef life and pelagic activity makes for a varied and exciting drift.
 
 ## Conditions
 

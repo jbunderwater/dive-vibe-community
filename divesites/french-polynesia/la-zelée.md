@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## La Zélée
 
-La Zélée is a historically significant wreck dive located near the port of Papeete, Tahiti. The wreck consists of the scattered remains of a French Surprise-class gunboat sunk during World War I, combining underwater history with active marine life encounters in the waters off French Polynesia's capital.
+La Zélée is a historically significant wreck dive located near the port of Papeete, Tahiti. The wreck consists of the scattered remains of a French gunboat sunk during World War I, combining underwater history with marine life encounters in the waters off French Polynesia's capital.
 
 ## Wreck History
 
-La Zélée was a French gunboat of the Surprise class, launched in 1899 and assigned to defend French Pacific interests. On 22 September 1914, during the early weeks of World War I, German cruisers SMS Scharnhorst and SMS Gneisenau entered Papeete harbour and bombarded the port. To prevent capture or further destruction, the French crew scuttled La Zélée, sending her to the bottom. The wreck has since become colonised by coral and serves as an artificial reef. (Note: The sinking date of 22 September 1914 is documented in multiple historical sources including French naval records; verify via additional sources before citing specific tonnage or armament figures, which are not confirmed here.)
+La Zélée was a French gunboat launched in 1900 and assigned to defend French Pacific interests. On 22 September 1914, during the early weeks of World War I, German cruisers SMS Scharnhorst and SMS Gneisenau entered Papeete harbour and bombarded the port. To prevent capture or further destruction, the French crew scuttled La Zélée, sending her to the bottom. The wreck has since become colonised by coral and serves as an artificial reef. (Note: The sinking date of 22 September 1914 is documented in multiple historical sources including French naval records; verify via additional sources before citing specific tonnage or armament figures, which are not confirmed here.)
 
 ## Overview
 
@@ -25,7 +25,7 @@ The wreck of La Zélée lies in pieces across a sandy bottom near Papeete port, 
 
 ## Marine Life
 
-Grey reef sharks, whitetip reef sharks, blacktip reef sharks, lemon sharks, and occasional tiger sharks have been recorded in the general area. The wreck structure itself is encrusted with coral and hosts the range of reef fish typical of Tahiti's nearshore waters. Morning dives may coincide with dolphin pods audible underwater in the bay.
+Pink and black corals are documented around the wreck remains at approximately 20 metres. Reef fish of various species inhabit the wreck structure. The general Papeete harbour area is known for diverse shark species, though specific confirmed species at this particular wreck site were not documented in primary sources consulted. Morning dives may coincide with dolphin pods audible underwater in the bay.
 
 ## Dive Profile
 
@@ -35,9 +35,9 @@ Depth range: 5–20 metres over the wreck remains, with a drop-off to 50 metres 
 
 - **Location**: Papeete, Tahiti, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 
 ## Additional Resources
 

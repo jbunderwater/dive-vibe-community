@@ -21,7 +21,7 @@ The fissure at St Etienne is one of the more dramatic geological features in Tah
 
 ## What to Expect
 
-The upper part of the fissure (10–20 m) has good coral coverage with glassfish swarms that part to allow passage. Deeper, the walls narrow and are draped in black coral (*Antipatharia* spp.) and large sea fans. Nurse sharks and white-tip reef sharks are frequently resting on ledges within the crack. At the base, where the faille meets the open slope, grey reef sharks and the occasional silvertip shark may be encountered. The dive rewards experienced divers with a sense of journeying through a geological fault while surrounded by dense marine life.
+The upper part of the fissure (10–20 m) has good coral coverage with glassfish swarms that part to allow passage. Deeper, the walls narrow and are draped in black coral (*Antipatharia* spp.) and large sea fans. Whitetip reef sharks are documented resting on ledges within the crack. At the base, where the faille meets the open slope, grey reef sharks may be encountered. (Note: nurse sharks and silvertip sharks were not confirmed at this specific site in sources consulted.) The dive rewards experienced divers with a sense of journeying through a geological fault while surrounded by dense marine life.
 
 ## Conditions
 

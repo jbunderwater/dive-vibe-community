@@ -21,7 +21,7 @@ The site presents a steep wall dropping from a shallow reef crest at 5–8 metre
 
 ## What to Expect
 
-Temaruata's wall is known for its healthy coral coverage and the density of reef fish sheltering on its face. Large schools of striped surgeonfish and convict tangs graze the upper reef crest while the wall below hosts resting nurse sharks and white-tip reef sharks wedged into crevices. Hawksbill turtles forage on the sponges and soft corals along the mid-wall. Eagle rays and occasional grey reef sharks patrol the sandy base of the wall. The site receives moderate attention from Papeete-based operators and can be dived year-round, though April–November provides the most reliably calm conditions.
+TOPDIVE confirms whitetip sharks, barracudas, and moray eels as the primary marine life at Temaruata, with opportunities to observe shark behaviour in the water column. The site features variety of corals throughout the wall. The reef crest hosts active reef fish life. The 20-minute boat ride from operators makes this an accessible ocean dive outside of the main pass system.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ Temaruata's wall is known for its healthy coral coverage and the density of reef
 Plan a multilevel profile, beginning at 28–30 m to examine the deepest wall section before working back up to the reef crest for the safety stop. The site pairs well with nearby St Etienne sites for a two-dive morning from Papeete.
 
 ---
-*Sources: [TOPDIVE – Scuba Diving Moorea](https://topdive.com/scuba-diving-moorea/), [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [ScubaBoard – French Polynesia Diving](https://scubaboard.com/community/threads/dive-ops-in-moorea-papeete-raiatea.641190/). Last updated 2026-05-29.*
+*Sources: [TOPDIVE – Scuba Diving Moorea](https://topdive.com/scuba-diving-moorea/) (note: TOPDIVE lists a Temaruata site in Moorea at max 100 feet depth; the OSM coordinates place this site on Tahiti's west coast — operators may use this name at both locations), [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [ScubaBoard – French Polynesia Diving](https://scubaboard.com/community/threads/dive-ops-in-moorea-papeete-raiatea.641190/). Last updated 2026-05-29.*

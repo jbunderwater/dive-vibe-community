@@ -37,7 +37,7 @@ Current strength varies with tidal flow. The dive requires experience in current
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 40 meters
 
 ## Additional Resources
 
