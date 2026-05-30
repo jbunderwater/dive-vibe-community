@@ -3,8 +3,8 @@ name: Brockville Underwater Sculpture Park
 lat: 44.5920153
 lng: -75.6772406
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
+maxDepth: 12
+entryType: shore
 siteType: reef
 ref: null
 osmId: 6721728582
@@ -22,10 +22,10 @@ Brockville sits along the scenic Thousand Islands stretch of the St. Lawrence Ri
 ## Site Information
 
 - **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands Region)
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Mild to moderate; the St. Lawrence River current varies with water levels

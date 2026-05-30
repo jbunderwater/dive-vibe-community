@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Arabia (Wreck)
 
-The Arabia is one of the most celebrated wreck dives in Georgian Bay, Lake Huron. This 19th-century schooner rests in approximately 34 metres of crystal-clear freshwater in the Tobermory area of Ontario's Bruce Peninsula, within the Fathom Five National Marine Park — Canada's first national marine park established specifically to protect subaqueous cultural heritage.
+The Arabia is one of the most celebrated wreck dives in Georgian Bay, Lake Huron. This 19th-century barkentine rests in approximately 33–34 metres of crystal-clear freshwater in the Tobermory area of Ontario's Bruce Peninsula, within Fathom Five National Marine Park — Canada's first national marine park established specifically to protect subaqueous cultural heritage.
 
 ## Overview
 
-The Arabia was a wooden schooner that sank in Georgian Bay in 1884. She now rests on her keel in approximately 34 metres, making her the deepest of the famous Tobermory wrecks. As part of Fathom Five National Marine Park, the Arabia benefits from exceptional protection. Cold Georgian Bay water — consistently around 4°C at depth — has preserved the vessel to a remarkable degree. The ship's hull, rigging, and internal spaces remain largely intact, offering a window into 19th-century Great Lakes sailing. Visibility in Georgian Bay can reach 20+ metres, among the best in the Great Lakes system.
+The Arabia was a three-masted barkentine (rigged with a square-rigged foremast and fore-and-aft rigged main and mizzenmasts) built in 1852 in Kingston, Ontario, measuring 40.1 metres (131.6 feet) in length. She foundered on October 4–5, 1884, off Echo Island in a severe gale while carrying 20,000 bushels of corn from Chicago to Midland, Ontario. All crew members were rescued by a passing tugboat. The wreck was discovered in 1971 by Captain Albert Smith. She now rests upright in approximately 33.5 metres (110 feet), making her the deepest of the accessible Tobermory wrecks. Cold Georgian Bay water — consistently around 4°C at depth — has preserved the vessel remarkably well, with the bowsprit, windlass, chains, and deck equipment all visible. Visibility in Georgian Bay can reach 20+ metres, among the best in the Great Lakes system.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ At 34 metres, the Arabia is at the outer limit for recreational divers. Calculat
 The Arabia is one of the finest freshwater wreck photography subjects in North America. Visibility often exceeds 15 metres, allowing wide shots of the entire hull in frame. The upright orientation, preserved masts, and dramatic bow profile are classic subjects. Natural light penetrates well in summer, reducing the need for powerful strobes for ambient shots.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [Shotline Diving - Arabia C32844](https://www.shotlinediving.com/docs/lake-huron/tobermory/arabia-c32844/), [DAN - Tobermory, Ontario](https://dan.org/alert-diver/article/tobermory-ontario/). Last updated 2026-05-30.*

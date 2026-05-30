@@ -3,7 +3,7 @@ name: The Conestoga
 lat: 44.779497
 lng: -75.3933132
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 10
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Conestoga sank in 1922 — relatively recent by Great Lakes wreck diving sta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; St. Lawrence River current

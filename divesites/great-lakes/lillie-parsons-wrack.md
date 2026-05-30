@@ -3,7 +3,7 @@ name: Lillie Parsons (Wrack)
 lat: 44.5561778
 lng: -75.7187806
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Lillie Parsons was a canal schooner — a vessel designed to pass through th
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; St. Lawrence current varies seasonally

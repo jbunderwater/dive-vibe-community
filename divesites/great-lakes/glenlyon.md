@@ -27,7 +27,7 @@ Access to Isle Royale requires a national park boat or seaplane — the park is 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18 meters (60 feet); shallowest sections at 5 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres
 - **Water Temperature**: 4–12°C (seasonal); Lake Superior bottom water consistently near 4°C
 - **Current**: Minimal in Siskiwit Bay

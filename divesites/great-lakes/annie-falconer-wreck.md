@@ -3,7 +3,7 @@ name: Annie Falconer (Wreck)
 lat: 43.9643278
 lng: -76.8016667
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Annie Falconer was a two-masted schooner typical of the commercial sailing f
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 5–10 metres
 - **Water Temperature**: 4–18°C (seasonal); bottom typically 4–6°C
 - **Current**: Generally mild; Lake Ontario produces minimal tidal current

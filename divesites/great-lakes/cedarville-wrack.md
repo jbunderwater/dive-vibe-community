@@ -27,7 +27,7 @@ The wreck lies on her starboard side at approximately 45 degrees from inverted, 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 meters (110 feet; hull top at ~11 metres)
+- **Maximum Depth**: 34 meters
 - **Typical Visibility**: 8–18 metres
 - **Water Temperature**: 4–15°C (seasonal); bottom typically 4–6°C
 - **Current**: Moderate; the Straits can develop significant current with water level changes

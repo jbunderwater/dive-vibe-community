@@ -2,7 +2,7 @@
 name: Sweepstakes (schooner)
 lat: 45.255239
 lng: -81.6808551
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 7
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ The Sweepstakes was a 36-metre two-masted schooner that sank in 1885 after susta
 - **Location**: Big Tub Harbour, Fathom Five National Marine Park, Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 7 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 12–20°C at surface in summer; cooler at bottom
@@ -54,11 +54,11 @@ Charter dive boats from Tobermory Harbour access the Sweepstakes multiple times 
 
 ## Safety Considerations
 
-The Sweepstakes is one of the safest scuba diving sites in the Great Lakes. The shallow depth, protected harbour location, and calm conditions minimize virtually all hazards. The primary consideration is the cold water (cooler than tropical destinations) — a wetsuit of at least 3mm is recommended even in peak summer. Always dive with a buddy. Be aware of glass-bottom boat traffic in the harbour.
+Despite its very shallow depth and calm location, the Sweepstakes should be approached as an Intermediate cold-water dive. Georgian Bay bottom temperatures remain in the single digits even at 7 metres in summer — a minimum 5mm wetsuit or drysuit is required. Cold freshwater demands proper thermal protection and buoyancy adjustment from saltwater diving. Always dive with a buddy. Be aware of glass-bottom boat and charter boat traffic in the harbour throughout the day.
 
 ## Photography
 
 The Sweepstakes is one of the most photographed wrecks in freshwater diving globally. Natural light at 7 metres in Georgian Bay's crystalline water produces vivid, colourful images without artificial lighting. Wide-angle shots of the entire hull from above, or looking back from the bow toward the stern with fish in frame, are classic compositions. The Sweepstakes has been featured in countless dive magazines, tourism campaigns, and documentary films.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Sweepstakes (schooner) - Wikipedia](https://en.wikipedia.org/wiki/Sweepstakes_(schooner)), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [Bruce Anchor Cruises - Tobermory Shipwrecks](https://cruises.bruceanchor.com/shipwrecks/). Last updated 2026-05-30.*

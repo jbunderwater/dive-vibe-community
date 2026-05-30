@@ -1052,7 +1052,7 @@
     "depth": 6,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "leisure": "divespot",
       "name": "The Caves",
@@ -1065,7 +1065,8 @@
     },
     "validated": "false",
     "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site at Tobermory Georgian Bay."
   },
   {
     "name": "Caroline Rose (Schooner)",
