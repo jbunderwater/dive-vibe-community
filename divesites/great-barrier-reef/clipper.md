@@ -25,7 +25,7 @@ At 17 metres maximum depth, Clipper is one of the shallower sites in the area, m
 
 - **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15–28 metres
@@ -59,4 +59,4 @@ Standard outer reef considerations. The relatively shallow maximum depth at 17 m
 Clipper suits close-focus wide-angle and standard wide-angle approaches. The garden eel colony on the sand makes an unusual subject — use a very slow approach and frame a few eels against the sandy bottom. Reef fish portraits are straightforward given the typical friendliness of the Lizard Island area fish population, habituated to regular dive activity.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*

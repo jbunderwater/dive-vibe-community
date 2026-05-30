@@ -2,7 +2,7 @@
 name: Faille St Etienne
 lat: -17.618052
 lng: -149.620331
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
 siteType: wall
@@ -21,7 +21,7 @@ The fissure at St Etienne is one of the more dramatic geological features in Tah
 
 ## What to Expect
 
-The upper part of the fissure (10–20 m) has good coral coverage with glassfish swarms that part to allow passage. Deeper, the walls narrow and are draped in black coral (*Antipatharia* spp.) and large sea fans. Nurse sharks and white-tip reef sharks are frequently resting on ledges within the crack. At the base, where the faille meets the open slope, grey reef sharks and the occasional silvertip shark may be encountered. The dive rewards experienced divers with a sense of journeying through a geological fault while surrounded by dense marine life.
+The upper part of the fissure (10–20 m) has good coral coverage with glassfish swarms that part to allow passage. Deeper, the walls narrow and are draped in black coral (*Antipatharia* spp.) and large sea fans. Whitetip reef sharks and grey reef sharks are confirmed at this site; resting sharks on ledges are a typical encounter. At the base where the faille meets the open slope, grey reef sharks patrol. The dive rewards experienced divers with a sense of journeying through a geological fault while surrounded by dense marine life. Note: "nurse sharks" and "silvertip sharks" cited in earlier descriptions were removed — no site-specific confirmation found for these species here.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ The upper part of the fissure (10–20 m) has good coral coverage with glassfish
 A maximum depth of 40 m means this site is suitable for Advanced Open Water divers and above. Monitor bottom time carefully and begin ascent from depth with a 3-minute safety stop at 5 m. A torch is essential for illuminating the fissure walls below 20 m.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots), [Scubago – La Faille St Etienne](https://www.scubago.com/en/explore/divesite/la-faille-st-etienne-tahiti-128416). Last updated 2026-05-30.*

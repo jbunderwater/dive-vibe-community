@@ -3,7 +3,7 @@ name: George A. Marsh (Wrack)
 lat: 44.1268361
 lng: -76.6027972
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## George A. Marsh (Wrack)
 
-The George A. Marsh is a well-known 19th-century schooner wreck in Lake Ontario near Kingston, Ontario. One of the signature dives of the Kingston area, the George A. Marsh sank in a storm in 1917 and rests in approximately 20 metres of cold Lake Ontario water where she has been beautifully preserved for over a century.
+The George A. Marsh is a well-known 19th-century schooner wreck in Lake Ontario near Kingston, Ontario. One of the signature dives of the Kingston area, the George A. Marsh sank in a storm on August 8, 1917, and rests in approximately 25 metres (80 feet) of cold Lake Ontario water where she has been beautifully preserved for over a century.
 
 ## Overview
 
-The George A. Marsh was a three-masted wooden schooner built in 1882 that served Great Lakes cargo trade for 35 years before sinking in a storm on August 8, 1917. She now rests upright on the Lake Ontario bottom near Kingston in approximately 20 metres of water. This is one of the Kingston area's most beloved wreck dives — the three masts (though broken) are still present, giving a distinctive silhouette, and the hull is remarkably intact for a 100+ year old wooden vessel. The cold, dark freshwater conditions have been extremely kind to the George A. Marsh, and details of her construction and fittings are readily visible. Visibility in the area typically ranges from 5–12 metres.
+The George A. Marsh was a three-masted wooden schooner built in 1882 in Michigan City, Indiana, originally as a lumber carrier and later converted to carry coal. She sank on August 8, 1917, in a summer gale, with the loss of twelve of the fourteen people aboard — including seven children between the ages of one and thirteen. She now rests upright on the Lake Ontario bottom near Kingston in approximately 25 metres (80 feet) of water, about 40 metres long and largely intact. This is one of the Kingston area's most beloved wreck dives — the three masts (though broken) are still present, giving a distinctive silhouette, and the hull is remarkably intact for a 100+ year old wooden vessel. The cold, dark freshwater conditions have been extremely kind to the George A. Marsh, and details of her construction and fittings are readily visible. Visibility in the area typically ranges from 5–12 metres.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The George A. Marsh was a three-masted wooden schooner built in 1882 that served
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–12 metres
 - **Water Temperature**: 4–18°C (seasonal); bottom 4–6°C
 - **Current**: Mild offshore
@@ -60,4 +60,4 @@ Cold water is the primary environmental consideration. Thermal protection approp
 The George A. Marsh is one of the most photographed wrecks in Canadian freshwater. The intact three-masted profile lends itself to dramatic wide-angle images. Descend below the deck level and look up to frame the hull against the surface light. Fish life — particularly the resident smallmouth bass population — adds animation to still images.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Pat's Dive Charters - George A. Marsh](http://patsdivecharters.com/george-a-marsh/), [Canadian Geographic - Diving Kingston's Shipwrecks](https://canadiangeographic.ca/articles/diving-kingstons-shipwrecks-the-hidden-histories-of-lake-ontario/), [George A. Marsh - Wikipedia](https://en.wikipedia.org/wiki/George_A._Marsh). Last updated 2026-05-30.*

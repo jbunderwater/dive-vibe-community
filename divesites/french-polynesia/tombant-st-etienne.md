@@ -3,7 +3,7 @@ name: Tombant St Etienne
 lat: -17.615904
 lng: -149.620071
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,11 +17,11 @@ Tombant St Etienne is a wall dive site adjacent to the St Etienne channel on the
 
 ## Overview
 
-The tombant (drop-off) begins at around 5–8 metres at the reef crest and descends vertically to 25 metres before transitioning to a sloping outer reef. The wall face is richly colonised with hard and soft corals, including large table corals on the upper sections and encrusting sponges and wire corals in the deeper zone. The St Etienne pass channel nearby channels oceanic water across the site, bringing good visibility of 25–35 metres and regular pelagic visitors. Water temperatures are a comfortable 27–28°C for most of the year.
+The tombant (drop-off) begins at around 5–8 metres at the reef crest and descends to approximately 40 metres at the deeper wall sections, transitioning to a sloping outer reef. Research indicates the wall at the Ta'apuna Pass exit can reach significant depths; the main recreational diving range is 15–40 m. The St Etienne pass channel nearby channels oceanic water across the site, bringing good visibility of 25–35 metres and regular pelagic visitors. Water temperatures are a comfortable 27–28°C. The site can also be dived as a drift dive leading toward the adjacent Faille St Etienne.
 
 ## What to Expect
 
-White-tip reef sharks are the most reliable large animal sighting here, often found resting in the sand channels at the base of the wall. Grey reef sharks patrol the mid-water, and schools of bigeye jacks and surgeonfish aggregate around the reef crest. The wall's irregular surface creates numerous overhangs and crevices sheltering hawkfish, longsnout butterflyfish, and squirrelfish. Napoleon wrasse regularly visit the site. The proximity to the St Etienne channel means that on incoming tides, small pelagics and hunting predators move through the area in concentrated bursts.
+Turtles — resting in nooks on the drop-off — are one of the most reliably mentioned sightings at this site. Schools of paddle perch (Kuhlia mugil), needlefish, and jacks aggregate around the reef crest and upper wall. Grey reef sharks, whitetip reef sharks, and blacktip reef sharks patrol the wall; lemon sharks and occasionally tiger sharks are possible in the broader Ta'apuna area. The upper wall is described as "very lively, with plenty of fish." The wall's overhangs and crevices shelter hawkfish, butterflyfish, and squirrelfish. The proximity to the St Etienne pass means pelagic activity increases on tidal exchanges.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ White-tip reef sharks are the most reliable large animal sighting here, often fo
 Dive the site on an incoming or early outgoing tide for the best pelagic activity. The wall profile allows an easy multilevel dive — spend time at 20–25 m on the lower wall then ascend to 10–15 m on the upper face for the safety stop.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Tahiti Tourisme – Tombant St Etienne](https://tahititourisme.pf/en-pf/activities/points-of-interest/tombant-st-etienne-punaauia-en-en-pf-3349342/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots). Last updated 2026-05-30.*

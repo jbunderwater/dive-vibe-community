@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shark Point
 
-The Gili Islands' most dramatic dive — deep ridges dropping to 50+ m on Gili Trawangan's northwest, with blacktip and whitetip reef sharks, a sunken tugboat, and masses of green turtles.
+The Gili Islands' most dramatic dive — deep ridges dropping to 50+ m on Gili Trawangan's northwest, with blacktip and whitetip reef sharks and masses of green turtles.
 
 ## Overview
 
-Shark Point is located on the northwest side of Gili Trawangan, where the reef slope transitions to deep ridges and canyons that plunge beyond 50 m into the Lombok Strait. This is the most exhilarating dive site in the Gili Islands, featuring reliable encounters with both black and whitetip reef sharks along the deeper ridges, while the shallower sections between 5–12 m support enormous numbers of green turtles resting in the sea grass and coral bommies. A tugboat wreck (Glenn Nusa) was intentionally sunk near the canyons and has become home to schools of black snappers, sweetlips, and a resident whitetip reef shark. The site is always a drift dive.
+Shark Point is located on the northwest side of Gili Trawangan, where the reef slope transitions to deep ridges and canyons that plunge beyond 50 m into the Lombok Strait. This is the most exhilarating dive site in the Gili Islands, featuring reliable encounters with both black and whitetip reef sharks along the deeper ridges, while the shallower sections between 5–12 m support substantial numbers of green turtles resting in the sea grass and coral bommies. The site is always a drift dive. The Glenn Nusa wreck — a 22 m tugboat intentionally sunk in February 2016 — lies on the sandy bottom at 28 m in the area between Shark Point and the adjacent Halik dive site, and is accessible as an extension of a Shark Point dive when currents allow.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Shark Point is located on the northwest side of Gili Trawangan, where the reef s
 
 ## Marine Life
 
-Blacktip and whitetip reef sharks cruise the canyon systems at depth. Green turtles in large numbers on the shallow reef crest at 5–12 m. The Glenn Nusa wreck hosts schools of black snappers, sweetlips, trevally, and a resident whitetip reef shark. Humpback snapper schools fill the canyon heads. Juvenile whitetip sharks shelter under coral bommies.
+Blacktip and whitetip reef sharks cruise the canyon systems at depth. Green turtles on the shallow reef crest at 5–12 m. Schools of jackfish, snappers, and sweetlips aggregate in the canyon heads. Juvenile whitetip sharks shelter under coral bommies. Octopus and scorpionfish inhabit the reef structure.
 
 ## Dive Profile
 
-Begin on the deep side at 25–30 m near the canyon systems, then gradually ascend through the canyons exploring fish life. The wreck at approximately 30 m is a dramatic feature worth hovering over. Ascend via the ridge systems to the shallower area and spend time in the 5–12 m turtle zone before completing the safety stop. Current carries divers toward shore.
+Begin on the deep side at 25–30 m near the canyon systems, then gradually ascend through the canyons exploring fish life. Ascend via the ridge systems to the shallower area and spend time in the 5–12 m turtle zone before completing the safety stop. Current carries divers toward shore. If conditions allow and the Glenn Nusa wreck is on the dive plan, this is normally scheduled as a separate dive given the current dependency.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Boat dive from Gili Trawangan dive operators. The site is always a drift — ent
 
 - Advanced Open Water minimum; experience with strong drift diving is essential
 - The 5–12 m turtle shallows are the perfect reward for an intense deep dive
-- The Glenn Nusa wreck is a bonus feature at depth — ask your operator for its location
+- Ask your operator about combining with the nearby Glenn Nusa wreck (22 m tugboat, sunk 2016 at 28 m); it is a separate dive requiring current assessment
 - Dive on neap tides for more manageable current speeds
 - Evening dives in the shallows offer the best turtle encounters when they settle for the night
 
@@ -56,7 +56,7 @@ Strong currents are constant and can accelerate suddenly. Do not fight the curre
 
 ## Photography
 
-Whitetip reef sharks resting on the ridge slopes are the signature shot. Schools of black snappers around the Glenn Nusa wreck suit wide-angle with a diver for scale. Turtle portraits in the shallow zone are the accessible highlight.
+Whitetip reef sharks resting on the ridge slopes are the signature shot. Turtle portraits in the shallow zone are the accessible highlight. The deep canyon sections suit wide-angle with divers silhouetted against the blue water.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Manta Dive Gili Air – Glenn Nusa Wreck](https://manta-dive-giliair.com/gili-islands-dive-sites/glenn-nusa-wreck), [Terumbu Divers – Glenn Nusa wreck article](https://terumbudivers.com/wreck-dive-gili-lombok/), [Dive Central Gili – Glenn Nusa sinking blog](https://www.divecentralgili.com/blog/2822016), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-05-30.*

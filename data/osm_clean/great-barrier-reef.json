@@ -8,7 +8,7 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Challenger Bay",
       "scuba_diving:entry:boat": "yes",
@@ -16,7 +16,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -36,7 +37,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -56,7 +58,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -76,7 +79,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "cairnsdiveadventures.com.au, en.wikipedia.org/wiki/Cod_Hole, ribbonreefs.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -88,7 +92,7 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Round the Bend",
       "scuba_diving:entry:boat": "yes",
@@ -96,7 +100,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -108,7 +113,7 @@
     "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Castle",
       "scuba_diving:entry:boat": "yes",
@@ -116,7 +121,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -128,7 +134,7 @@
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Halfway Wall",
       "scuba_diving:entry:boat": "yes",
@@ -136,7 +142,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -148,7 +155,7 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "North Horn",
       "scuba_diving:entry:boat": "yes",
@@ -156,7 +163,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -165,10 +173,10 @@
     "lon": 145.7882636,
     "osm_id": 270802353,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Steve's Bommie",
       "scuba_diving:entry:boat": "yes",
@@ -176,7 +184,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "greatbarrierreeftours.com, divessi.com, spiritoffreedom.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -196,7 +205,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -205,10 +215,10 @@
     "lon": 145.689982,
     "osm_id": 270802401,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Lighthouse Bommie",
       "scuba_diving:entry:boat": "yes",
@@ -216,7 +226,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "spiritoffreedom.com.au, greatbarrierreefliveaboards.com, cairns-tours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -228,7 +239,7 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Admiralty Anchorage",
       "scuba_diving:entry:boat": "yes",
@@ -236,7 +247,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -254,7 +266,8 @@
       "name": "Plate Top",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -272,7 +285,8 @@
       "name": "Troppo's",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -290,7 +304,8 @@
       "name": "Clipper",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -307,7 +322,8 @@
       "name": "Moore Reef - 5 Ways",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -324,7 +340,8 @@
       "name": "Agincourt Reef No. 1 - Trigger Fish City",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -341,7 +358,8 @@
       "name": "Agincourt Reef No. 4 - The Point",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -358,7 +376,8 @@
       "name": "Light Reef - Phil`s Bommie",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -375,7 +394,8 @@
       "name": "Moore Reef - Labyrinth",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -393,7 +413,8 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -411,7 +432,8 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -420,7 +442,7 @@
     "lon": 145.8370152,
     "osm_id": 1939562776,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -429,7 +451,8 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "tropicalnorthqueensland.org.au, thefold.com.au, big4.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -448,7 +471,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "cruisewhitsundays.com, visitwhitsundayislands.com.au, barrierreefaustralia.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -468,7 +492,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -486,8 +511,10 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_flag": "COMMERCIAL_OPERATOR — 'Down Under Diving' (also known as Down Under Cruise and Dive) is a registered dive tour operator running day trips from Cairns, not a named dive site. The actual sites they visit are Saxon Reef, Norman Reef, and Hastings Reef. This entry should be removed per data quality standards.",
+      "validation_source": "downundercruiseanddive.com.au, cairnsaustralia.com, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-05-30"
     }
   }
 ]

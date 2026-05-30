@@ -2,10 +2,10 @@
 name: Papa Whisky
 lat: -17.568533
 lng: -149.631668
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869249
 addedBy: osm_import
@@ -13,27 +13,27 @@ addedBy: osm_import
 
 ## Papa Whisky
 
-Papa Whisky is a reef dive site in the Tahiti lagoon, French Polynesia. The name uses NATO phonetic alphabet designations (P = Papa, W = Whisky), suggesting the site was originally identified by its radio call sign or buoy marker designation by the dive operators who first charted it.
+Papa Whisky is an advanced wall dive on Tahiti's west coast, named after the Papeete West (PW) aviation radio beacon in the NATO phonetic alphabet. The site features a dramatic amphitheatre-like formation where an underwater plateau has collapsed, creating a drop-off and amphitheatre approximately 70 metres across. It is one of Tahiti's most-cited Advanced dives.
 
 ## Overview
 
-The site is located near the outer reef on Tahiti's west coast, close to the Aquarium site, and shares the same productive marine environment driven by lagoon-to-ocean circulation. The reef structure includes a mix of coral pinnacles and ridges with sandy corridors, covering depths from 8 to 25 metres. The name has stuck among local operators and the site is a regular feature on multi-dive day trips out of Papeete and Punaauia. Visibility averages 25–30 metres, and water temperatures are 27–28°C year-round.
+Located 15 minutes by boat from the Punaauia/Papeete area, Papa Whisky descends from a reef starting at around 15 metres down to a maximum of 35–50 metres, where the collapsed plateau creates an open-ocean amphitheatre shape. The main dive is conducted at 25–35 m. The outer wall exposure brings oceanic current and the associated pelagic species and visibility — typically 25–30 metres. Water temperatures are 27–28°C. Due to the depth, Advanced Open Water certification or a Deep Dive specialty is required by operators.
 
 ## What to Expect
 
-The coral pinnacles at Papa Whisky are notable for their dense covering of encrusting corals and the schools of fish that aggregate around their summits — clouds of purple anthias and orange chromis are constant companions as divers navigate between the structures. Grey reef sharks patrol the outer edges of the reef, and large napoleon wrasse are a reliable presence. Eagle rays have been observed at this site, gliding between the pinnacles. The sandy corridors support stingrays and the occasional flatfish, while the crevice bases of the coral ridges shelter lobsters and large moray eels.
+Large gorgonian sea fans — yellow and purple — are a defining feature of the deeper wall sections, providing a distinctive visual backdrop. Lemon sharks and grey reef sharks are confirmed visitors to this site, typically at the deeper sections. Blacktip reef sharks are also present. Eagle rays and turtles are regularly encountered. Reef fish including bluestripe snapper, parrotfish, and butterflyfish inhabit the shallower reef sections, while the amphitheatre walls host sea fans and encrusting corals. Tiger sharks have been occasionally reported in the general area.
 
 ## Conditions
 
 - **Best season**: April–November
 - **Visibility**: 25–30 m typical
-- **Current**: Mild to moderate
+- **Current**: Moderate to strong; drift diving possible
 - **Water temperature**: 27–28°C
-- **Entry**: Boat dive
+- **Entry**: Boat dive; Advanced-only site
 
 ## Tips
 
-Papa Whisky is typically paired with the nearby Aquarium site for a two-dive morning out of Papeete. Plan the deeper profile on the first dive, exploring the sand corridors and pinnacle bases, and ascend to the shallower pinnacle tops for the second half and safety stop.
+This site requires Advanced Open Water certification at minimum, with deep diving experience recommended for the deeper amphitheatre sections. Shallower sections of the reef (around 15–20 m) provide a worthwhile experience for less experienced Advanced divers. The site is often paired with a second shallower dive in the same area.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Island Travelism – Diving in Tahiti](https://islandtravelism.com/diving-in-tahiti/), [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/). Last updated 2026-05-30.*

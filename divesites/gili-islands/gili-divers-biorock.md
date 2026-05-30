@@ -17,7 +17,7 @@ A Biorock coral restoration structure on the east coast of Gili Trawangan, suppo
 
 ## Overview
 
-Gili Divers Biorock is part of the extensive network of more than 120 Biorock structures around the Gili Islands. This particular structure is supported by the Gili Divers operation and forms part of the Gili Eco Trust's ongoing reef restoration initiative that has been running since 2006. The Biorock process uses low-voltage electrical current passed through steel frames to stimulate accelerated limestone mineral accretion, creating the ideal substrate for coral colonisation. Over time, the structure has become a thriving reef habitat. The Gili Divers operation offers Biorock specialty courses where divers can learn coral gardening, survey, and maintenance skills.
+Gili Divers Biorock is part of the extensive network of Biorock structures around the Gili Islands — estimates from different sources range from over 120 to more than 150 structures across the three islands and nearby Lombok. This particular structure is supported by the Gili Divers operation and forms part of the Gili Eco Trust's ongoing reef restoration initiative that began in 2004–2005. The Biorock process uses low-voltage electrical current passed through steel frames to stimulate accelerated limestone mineral accretion, creating the ideal substrate for coral colonisation. Over time, the structure has become a thriving reef habitat. The Gili Divers operation offers Biorock specialty courses where divers can learn coral gardening, survey, and maintenance skills.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Do not touch the metal frame — sharp edges can cause cuts, and touching distur
 Before-and-after documentation of coral growth makes interesting sequential photography. The steel geometry with growing coral creates abstract close-up compositions. Fish portraits against the coral-covered frame produce unique backgrounds.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Gili Divers – dive sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock](https://manta-dive-giliair.com/gili-islands-dive-sites/biorock-all-levels), [Trawangan Dive – reef restoration](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Dive Central Gili – Bio Rocks](https://www.divecentralgili.com/blog/3112016). Last updated 2026-05-30.*

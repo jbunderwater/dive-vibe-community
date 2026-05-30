@@ -3,7 +3,7 @@ name: Wolfe Islander II (Wrack)
 lat: 44.2257306
 lng: -76.4173806
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Wolfe Islander II was a steel-hulled passenger and vehicle ferry that served
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 5–10 metres
 - **Water Temperature**: 4–18°C (seasonal); bottom 4–6°C
 - **Current**: Generally mild in this sheltered Lake Ontario area

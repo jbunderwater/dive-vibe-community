@@ -2,7 +2,7 @@
 name: City of Grand Rapids (steamer)
 lat: 45.254884
 lng: -81.6808202
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: boat
 siteType: wreck
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## City of Grand Rapids (steamer)
 
-The City of Grand Rapids is an extremely shallow wreck lying in just 5 metres of water in Fathom Five National Marine Park near Tobermory, Ontario. This side-wheel steamer, which sank in 1907 during a fire, is one of the most accessible wreck dives in the Great Lakes — its upper structure is visible from the surface on clear days, making it a popular snorkelling and beginner diving destination.
+The City of Grand Rapids is an extremely shallow wreck lying in just 5 metres of water in Big Tub Harbour, Fathom Five National Marine Park, Tobermory, Ontario. This passenger steamer, built in Grand Haven, Michigan in 1879, caught fire in Little Tub Harbour on October 29, 1907, and was towed to Big Tub Harbour where it burned and sank. Parts of the hull are visible at the surface. The salvaged propeller and rudder are on display near the Tobermory visitor centre.
 
 ## Overview
 
@@ -24,7 +24,7 @@ The City of Grand Rapids was a passenger and freight steamer that caught fire an
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 10–20°C at surface in summer; cooler at the wreck bottom
@@ -60,4 +60,4 @@ This site is genuinely beginner-friendly, but cold water remains a consideration
 The City of Grand Rapids is outstanding for natural-light photography. The 5-metre depth allows full ambient light penetration, showing the wreck's structure in vivid colour without the need for artificial lighting. Wide-angle shots of the entire hull framed with sunlight from above, or close-up images of the side-wheel mechanism, are popular subjects.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Maritime History of the Great Lakes - City of Grand Rapids](https://images.maritimehistoryofthegreatlakes.ca/details.asp?ID=60562), [Tobermory Shipwrecks](https://shipwreckstobermory.com/), [Parks Canada - Fathom Five Big Tub Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive/activ2a). Last updated 2026-05-30.*

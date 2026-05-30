@@ -59,4 +59,4 @@ The drift current can occasionally accelerate to strong — if too fast, ascend 
 Night dive photography reveals lobsters, shrimps, and crabs with full colour in torch and strobe light. Day dives suit wide-angle for the colourful soft coral wall and passing turtles. Pygmy seahorses in the gorgonians require macro lens and patience.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Divine Divers – Gili sites](https://divinedivers.com/dive-sites/). Last updated 2026-05-30.*

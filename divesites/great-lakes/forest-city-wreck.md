@@ -3,7 +3,7 @@ name: Forest City (Wreck)
 lat: 45.31515
 lng: -81.5570306
 difficulty: Advanced
-maxDepth: 45
+maxDepth: 46
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Forest City lies in the deepest section of the Fathom Five wreck collection,
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
+- **Maximum Depth**: 46 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 4–12°C (seasonal); bottom consistently 4°C
 - **Current**: Minimal

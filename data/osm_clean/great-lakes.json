@@ -14,8 +14,10 @@
       "scuba_diving:education": "yes",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "pending research"
+    "validated": "false",
+    "validation_source": "COMMERCIAL BUSINESS - Brampton Scuba is a dive center/shop at 93 Queen St W, Brampton ON. Not a dive site. Should be removed from dataset.",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Confirmed commercial dive school/shop via bramptonscuba.com. OSM tag scuba_diving:education=yes confirms training facility. Remove from dataset."
   },
   {
     "name": "Little Wissahickon (Wrack)",
@@ -33,8 +35,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Frank E. Vigor (Wrack)",
@@ -52,8 +55,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Willis (Wrack)",
@@ -71,8 +75,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "M. I. Wilcox (Wreck)",
@@ -90,8 +95,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Specular (Wrack)",
@@ -109,8 +115,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "George Worthington (Wrack)",
@@ -128,8 +135,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Tasmania (Wrack)",
@@ -147,8 +155,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Lycoming (Wrack)",
@@ -166,8 +175,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "A. R. Colborn and Crane (Wrack)",
@@ -185,8 +195,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Monarch (Wreck)",
@@ -204,8 +215,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "William H. Wolf (Wrack)",
@@ -223,8 +235,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Wexford (Wrack)",
@@ -232,7 +245,7 @@
     "lon": -81.8883361,
     "osm_id": 663869471,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -243,7 +256,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "images.maritimehistoryofthegreatlakes.ca/57184/data, dan.org/alert-diver/article/the-great-storm-of-1913, tripsintohistory.com/2012/05/28/deadliest-storm-on-the-great-lakes",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Wexford was a steel-hulled propeller steamer (not just 'steamer'). Sank November 9 1913 in Great Storm, all 17+ crew lost. Discovered August 25 2000 in 75ft (approx 23m) of water off Grand Bend Ontario. Carrying 96,000 bushels of wheat. Depth corrected from 20m to 23m (75 feet per discovery reports). OSM depth of 20m was approximate."
   },
   {
     "name": "Raleigh (Wrack)",
@@ -261,8 +276,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Wilma (Wrack)",
@@ -280,8 +296,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "17 Fathom Wreck (Wrack)",
@@ -299,8 +316,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "C. B. Benson (Wreck)",
@@ -318,8 +336,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Carlingford (Wrack)",
@@ -337,8 +356,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Brown Brothers (Wrack)",
@@ -356,8 +376,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Atlantic (Wrack)",
@@ -375,8 +396,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Trade Wind (Wrack)",
@@ -394,8 +416,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Nimrod (Wrack)",
@@ -413,8 +436,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Merida (Wrack)",
@@ -432,8 +456,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Pascal P. Pratt (Wrack)",
@@ -451,8 +476,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Cecil J. (Wrack)",
@@ -470,8 +496,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Sligo (Wreck)",
@@ -489,8 +516,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Michigan (Wrack)",
@@ -501,7 +529,7 @@
     "depth": 4,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "depth": "4m",
       "historic": "wreck",
@@ -509,8 +537,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Mapledawn (Wrack)",
@@ -521,7 +550,7 @@
     "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "depth": "8m",
       "historic": "wreck",
@@ -529,8 +558,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Marquette (Wrack)",
@@ -541,7 +571,7 @@
     "depth": 11,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "depth": "11m",
       "historic": "wreck",
@@ -549,8 +579,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Lottie Wolf (Wrack)",
@@ -568,8 +599,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Wawinet (Wrack)",
@@ -587,8 +619,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Wolfe Islander II (Wrack)",
@@ -596,7 +629,7 @@
     "lon": -76.4173806,
     "osm_id": 663869500,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -607,7 +640,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "en.wikipedia.org/wiki/MV_Wolfe_Islander_II, thescubanews.com/2017/05/29/wolfe-islander-ii-served-kingston-as-ferry, shotlinediving.com/docs/general/kingston-canadian-side/wolfe-islander-ii-c157269",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Former Wolfe Island passenger/car ferry, originally built 1946. Deliberately scuttled September 21 1985 near Dawson's Point off Wolfe Island as artificial reef. Max depth 70ft (~21m), superstructure at ~40ft range. Hazardous materials removed before sinking. Door hatches removed for easy penetration."
   },
   {
     "name": "Munson (Wrack)",
@@ -625,8 +660,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Comet (Wrack)",
@@ -644,8 +680,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "George A. Marsh (Wrack)",
@@ -653,7 +690,7 @@
     "lon": -76.6027972,
     "osm_id": 663869503,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -664,7 +701,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "patsdivecharters.com/george-a-marsh, canadiangeographic.ca/articles/diving-kingstons-shipwrecks, en.wikipedia.org/wiki/George_A._Marsh",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Depth corrected from 20m to 25m per Pat's Dive Charters and Canadian Geographic. Built 1882, sank August 8 1917 in storm with loss of 12 of 14 aboard including children. Three-masted schooner, ~40m length."
   },
   {
     "name": "Frontenac (Wrack)",
@@ -682,8 +721,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "City of Sheboygan (Wrack)",
@@ -701,8 +741,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Katie Eccles (Wreck)",
@@ -724,7 +765,9 @@
       "wreck:visible_at_low_tide": "no"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "shotlinediving.com/docs/lake_ontario/picton/kattie-eccles-c75911, shipwreckworld.com/maps/katie-eccles-schooner-lake-ontario-shipwreck, kingstondivecharters.com/wrecks.html",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Katie Eccles: two-masted wooden schooner built 1877 by William Jamieson in Deseronto ON. 95ft long, 122 gross tons. Foundered November 28 1922 off Timber Island with cargo of coal, crew survived. Depth ~30m (100ft) per dive sources. Relatively intact with broken stern, intact bowsprit and wheel."
   },
   {
     "name": "Annie Falconer (Wreck)",
@@ -732,7 +775,7 @@
     "lon": -76.8016667,
     "osm_id": 663869507,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -746,7 +789,9 @@
       "wreck:visible_at_low_tide": "no"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "shotlinediving.com/docs/lake-erie/picton/annie-falconer-c83285, frontenacarchbiosphere.ca/explore/diving/annie-falconer, wannadive.net/spot/North_America/Canada/Ontario/Lake_Ontario/Annie_Falconer_Wreck",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Annie Falconer: two-masted wooden schooner built Kingston ON 1867. Sank November 12 1904 between False Duck and Timber Islands with cargo of coal. Upright on mud bottom in ~80ft (24m). Well preserved - stern broken off but visible nearby. Deadeyes, anchors, ship's wheel, blocks, chain present. Discovered August 1975."
   },
   {
     "name": "Olive Branch (Wrack)",
@@ -764,8 +809,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Robert Gaskin (Wrack)",
@@ -783,8 +829,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Rothesay (Shipwreck)",
@@ -807,8 +854,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Eastcliffe Hall (Wrack)",
@@ -816,7 +864,7 @@
     "lon": -75.1011111,
     "osm_id": 663869511,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -827,7 +875,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "whereontariobegan.ca/project/scuba-diving-eastcliffe-hall-shipwreck, en.wikipedia.org/wiki/Eastcliffe_Hall, southdundas.com/recreation-tourism/attractions/eastcliffe-hall-dive-site",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Eastcliffe Hall: Canadian bulk carrier built by Canadian Vickers Ltd Montreal. Length lengthened to 342.5ft (104.4m), 3335 GRT. Sank July 14 1970 in St Lawrence River near Morrisburg ON after fire in engine room. Lost 9 of 21 aboard including captain, his son, engineer's wife and 6-year-old daughter. Depth ~70ft (21m). Masts removed, forward superstructure dynamited as navigation hazard."
   },
   {
     "name": "Lillie Parsons (Wrack)",
@@ -835,7 +885,7 @@
     "lon": -75.7187806,
     "osm_id": 663869513,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -846,7 +896,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "en.wikipedia.org/wiki/Lillie_Parsons, sharkyscuba.com/local-ottawa-diving/lillie-parsons, divebrockville.com/charters/lillie-parsons",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Lillie Parsons: American two-masted schooner launched September 14 1868 Tonawanda NY. Sank 1877 in St Lawrence River near Brockville when squall shifted 500-ton coal cargo. Lies upside down against Sparrow Island. Bow downstream at ~21m (70ft), stern upstream at ~6m. Shore dive via Sparrow Island public dock. Strong current."
   },
   {
     "name": "Henry C. Daryaw (Wrack)",
@@ -864,8 +916,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Keystorm (Wreck)",
@@ -873,7 +926,7 @@
     "lon": -75.8231722,
     "osm_id": 663869515,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -884,7 +937,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validation_source": "divetech.ca/keystorm.htm, scubaboard.com/community/threads/diving-the-wreck-of-the-keystorm, uwphotographyguide.com/st-lawrence-river-wrecks",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Depth corrected to 35m max (stern). Bow is at 7.6m, stern at 35m. Wreck is on a slope, lies on starboard side. Sank October 12 1912 in fog after striking shoal near Alexandria Bay. Built in England, 256ft long, 2300 ton steel freighter. Location: St Lawrence River, US waters."
   },
   {
     "name": "Cedarville (Wrack)",
@@ -892,7 +947,7 @@
     "lon": -84.6708,
     "osm_id": 663869532,
     "osm_type": "node",
-    "depth": 32,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -903,7 +958,8 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "straitspreserve.com, en.wikipedia.org/wiki/SS_Cedarville, michiganpreserves.org",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Edmund Fitzgerald",
@@ -933,7 +989,8 @@
       "wreck:width": "23m"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com, michiganseagrant.org",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Panther (Wrack)",
@@ -951,8 +1008,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Sweepstakes (schooner)",
@@ -963,7 +1021,7 @@
     "depth": 7,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "leisure": "divespot",
@@ -981,7 +1039,9 @@
       "wreck:type": "schooner"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "en.wikipedia.org/wiki/Sweepstakes_(schooner), parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, cruises.bruceanchor.com/shipwrecks",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Confirmed: two-masted schooner built 1867 Burlington ON. Sank September 1885 in Big Tub Harbour after being towed there damaged from Cove Island. Length 36.3m confirmed. Depth 6.1m (20ft) - OSM 7m is close. Difficulty updated from Beginner to Intermediate per cold-water Great Lakes rule."
   },
   {
     "name": "The Caves",
@@ -992,7 +1052,7 @@
     "depth": 6,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "leisure": "divespot",
       "name": "The Caves",
@@ -1003,8 +1063,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site at Tobermory Georgian Bay."
   },
   {
     "name": "Caroline Rose (Schooner)",
@@ -1015,7 +1077,7 @@
     "depth": 16,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "leisure": "divespot",
@@ -1031,7 +1093,9 @@
       "wreck:type": "schooner"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "wrecksandreefs.com/CRose.html, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, visittobermory.ca/profile/shipwrecks-in-tobermory/2380",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Caroline Rose built 1940 Lunenburg NS. Deliberately sunk 1990 by Tobermory Marine Association at Driftwood Cove as dive site. 39.6m long, max depth 16.5m. Located OUTSIDE Fathom Five NP boundaries. Has since been flattened but artifacts remain (prop, chains, pulleys). Difficulty updated from Beginner to Intermediate per cold-water rule."
   },
   {
     "name": "Niagara II (sandsucker)",
@@ -1039,7 +1103,7 @@
     "lon": -81.6025721,
     "osm_id": 663869538,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1055,7 +1119,9 @@
       "wreck:date_sunk": "May 1999"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "niagaranow.com/news.phtml/2122-sand-sucker-lives-on-as-dive-wreck, bottomlessdivers.com/blog/niagara2tobermory, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Niagara II is 182ft (55m) long steel sandsucker built 1930 in Haverton Hill-on-Tees England. Deliberately sunk May 1999 by Tobermory Maritime Association as artificial reef. Rests in 30m (100ft). Located OUTSIDE Fathom Five NP boundaries. Depth corrected from 25m to 30m per dive site sources."
   },
   {
     "name": "James C. King (Wreck)",
@@ -1074,8 +1140,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "W. L. Wetmore (Wreck)",
@@ -1094,8 +1161,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "The Tugs (Wreck)",
@@ -1116,8 +1184,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "City of Grand Rapids (steamer)",
@@ -1128,7 +1197,7 @@
     "depth": 5,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "leisure": "divespot",
@@ -1144,7 +1213,9 @@
       "wreck:type": "steamer"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "images.maritimehistoryofthegreatlakes.ca/details.asp?ID=60562, shipwreckstobermory.com, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Passenger steamer built 1879 Grand Haven Michigan. Caught fire in Little Tub Harbour October 29 1907, towed to Big Tub Harbour where it burned and sank. Length was 125ft (38m). Salvaged propeller and rudder are on display near museum. Parts visible above water. Difficulty updated from Beginner to Intermediate per cold-water rule."
   },
   {
     "name": "Forest City (Wreck)",
@@ -1152,7 +1223,7 @@
     "lon": -81.5570306,
     "osm_id": 663869543,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 46,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1167,7 +1238,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "scubadiving.com/drive-and-dive-exploring-wrecks-tobermory, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, thebrucepeninsula.com/shipwrecks-of-fathom-five",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Forest City sank June 1904 hitting east side of Bears Rump Island in dense fog. Vessel was 66m long. Bow at ~18m, stern at ~46m. Fathom Five NP. Advanced/technical site only."
   },
   {
     "name": "Arabia (Wreck)",
@@ -1189,7 +1262,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, shotlinediving.com/docs/lake-huron/tobermory/arabia-c32844, dan.org/alert-diver/article/tobermory-ontario",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Vessel is a barkentine (3-masted barque), NOT a schooner as stated in markdown. Built 1852 Kingston Ontario, length 40.1m (131.6ft). Sank October 4/5 1884 near Echo Island in a gale with cargo of corn. All crew rescued. Depth confirmed ~33.5m (110ft) per Parks Canada. Markdown erroneously calls it a 'schooner' - must fix."
   },
   {
     "name": "Charles P. Minch (Wreck)",
@@ -1209,8 +1284,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Philo Scoville (Wreck)",
@@ -1231,8 +1307,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Waome (Wrack)",
@@ -1250,8 +1327,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "North Wind (Wrack)",
@@ -1269,8 +1347,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Glenlyon",
@@ -1278,17 +1357,19 @@
     "lon": -88.4482376,
     "osm_id": 2171849465,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Glenlyon",
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "Historic wreck (requires individual verification)"
+    "validation_source": "en.wikipedia.org/wiki/SS_Glenlyon, nps.gov/isro/learn/historyculture/shipwrecks.htm, home.nps.gov/articles/000/ss-glenlyon-wreck-event-and-survivor-accounts.htm",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Depth corrected: wreck lies in 15-60 ft (4.6-18.3m). OSM depth 20m was approximate. Location is Isle Royale NP off Menagerie Island, Siskiwit Bay, Lake Superior - NOT Keweenaw Peninsula as stated in markdown. Difficulty upgraded to Advanced: remote Isle Royale NP requires park permit, boat access from Rock Harbor or Windigo, cold Lake Superior water."
   },
   {
     "name": "Brockville Underwater Sculpture Park",
@@ -1296,9 +1377,9 @@
     "lon": -75.6772406,
     "osm_id": 6721728582,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -1309,7 +1390,9 @@
       "tourism": "attraction"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "homeisbrockville.com/all-about-brockvilles-underwater-sculpture-park, saveontarioshipwrecks.ca/chapter/thousand-islands/under-water-sculpture-park, bluenorthscuba.ca/centeen",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Canada's first underwater sculpture park, Centeen Memorial Dive Park, Brockville ON. Opened 2010. ~36 concrete sculptures. Shallow site 3-12m. Shore entry at Centeen Park. Annual dive token ~$10 required. Entry_type corrected from boat to shore. Depth corrected from 20m to 12m (max depth per sources is ~35-40ft)."
   },
   {
     "name": "The Conestoga",
@@ -1317,7 +1400,7 @@
     "lon": -75.3933132,
     "osm_id": 7814063292,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 10,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1335,7 +1418,9 @@
       "wreck:visible_at_low_tide": "yes"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "ottawa-scuba.com/sites/connestoga/connestoga.shtml, en.wikipedia.org/wiki/Save_Ontario_Shipwrecks, divekawartha.ca/charters/the-conestoga-shipwreck",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Conestoga: 252ft x 36ft double-planked propeller freighter (2008 tons), launched July 6 1878. Sank May 22 1922 near Cardinal Ontario when engine room fire broke out while awaiting passage through Galop Canal Lock 28. Burned to waterline. Mast visible at both tides. Shallow site alongside old canal wall. Depth corrected from 20m to ~10m (mast-showing wreck)."
   },
   {
     "name": "Lock 27",
@@ -1343,7 +1428,7 @@
     "lon": -75.399561,
     "osm_id": 7815068452,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1352,8 +1437,10 @@
       "name": "Lock 27",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "pending research"
+    "validated": "false",
+    "validation_source": "Not independently verified from multiple sources",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Old Galop Canal Lock 27 archaeological site near Cardinal Ontario. Adjacent to The Conestoga wreck. No dive-specific sources found confirming current access, depth, or conditions. Depth 20m is likely incorrect for a canal lock archaeological site. Marked unvalidated."
   },
   {
     "name": "Wreck Wee Hawk",
@@ -1375,8 +1462,9 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes"
     },
-    "validated": "true",
-    "validation_source": "Great Lakes Maritime History Database"
+    "validated": "false",
+    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Lock 23",
@@ -1384,7 +1472,7 @@
     "lon": -75.1751129,
     "osm_id": 719484360,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1394,8 +1482,10 @@
       "name": "Lock 23",
       "sport": "scuba_diving"
     },
-    "validated": "true",
-    "validation_source": "pending research"
+    "validated": "false",
+    "validation_source": "Not independently verified from multiple sources",
+    "last_qa_date": "2026-05-30",
+    "qa_notes": "Old canal lock archaeological site. Depth 20m is almost certainly incorrect for a canal lock site. No dive-specific sources found. Marked unvalidated pending proper research."
   },
   {
     "name": "Bow",
@@ -1424,7 +1514,8 @@
       "wreck:width": "23m"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Overturned Stern",
@@ -1452,7 +1543,8 @@
       "wreck:width": "23m"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
+    "last_qa_date": "2026-05-30"
   },
   {
     "name": "Midship",
@@ -1480,6 +1572,7 @@
       "wreck:width": "23m"
     },
     "validated": "true",
-    "validation_source": "Great Lakes Maritime History (OSM + research)"
+    "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
+    "last_qa_date": "2026-05-30"
   }
 ]

@@ -3,9 +3,9 @@ name: Faille d'Arue
 lat: -17.516584
 lng: -149.525421
 difficulty: Advanced
-maxDepth: 60
+maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: 663869246
 addedBy: osm_import
@@ -13,27 +13,27 @@ addedBy: osm_import
 
 ## Faille d'Arue
 
-Faille d'Arue is an advanced wall and fissure dive site off Arue, a commune on Tahiti's north coast east of Papeete, French Polynesia. At 60 metres maximum depth, it is one of the deepest charted dive sites on Tahiti and is firmly in the territory of deep or technical diving.
+Faille d'Arue is an advanced cave and wall dive site off Arue, on Tahiti's north coast east of Papeete, French Polynesia. The site features a dramatic outer reef wall beginning at around 5 metres, with a notable cave or cavern structure starting at approximately 27–30 metres depth.
 
 ## Overview
 
-The faille (fissure) at Arue is a dramatic vertical crack in the outer reef wall that begins at around 15 metres and extends to 60 metres at its base. The upper wall is richly decorated with hard corals, but the character changes markedly below 30 metres: black corals become dominant, large sea fans fill the fissure walls, and the ambient light drops to a twilight blue. The site is located off the Arue coast near the tomb of King Pomare V, an area of both historical significance and strong marine productivity due to the outer reef exposure. Visibility can exceed 40 metres on clear days, and deeper water temperatures sit around 24–25°C.
+The site presents a coral-covered outer reef wall with a cave or grotto opening at around 27–30 metres, described as resembling a church door arch. The upper reef plateau (5 m) transitions to the vertical wall face, which carries hard corals, diverse reef fish, and a scenic abyss drop-off beyond the recreational diving range. Visibility can reach 30–40 metres on clear days. Water temperatures are 27–28°C in the upper sections. The site is located in the marine environment off Arue, benefiting from the outer reef's oceanic exposure.
 
 ## What to Expect
 
-The upper portion of the fissure (15–30 m) has excellent coral coverage with abundant reef fish including anthias, butterflyfish, and surgeonfish schools. Below 30 m, the walls narrow slightly and the marine life shifts to species adapted to lower light — large moray eels in deep crevices, big-eye trevally, and silvertip sharks that cruise the outer wall at depth. Grey reef sharks are routinely encountered throughout the fissure. The deepest section (40–60 m) requires careful gas management and is suitable only for divers trained in deep diving or technical disciplines. Hammerhead sharks have been reported passing the base of the wall seasonally.
+The upper reef plateau hosts coral tables, parrotfish, groupers, surgeonfish, and bonito. The wall face descends to the cave opening at 27–30 m, a dramatic arch-like cavern entrance. Inside and around the cave, soldierfish, lobsters, and crayfish shelter. Grey reef sharks, whitetip reef sharks, blacktip reef sharks, and lemon sharks are confirmed at this site; the wall and cave setting concentrates fish activity. The outer wall below the cave extends into depths beyond recreational limits — drift diving potential exists on the outer wall face on certain tidal conditions.
 
 ## Conditions
 
 - **Best season**: April–November
-- **Visibility**: 30–40 m typical
-- **Current**: Variable; can be strong on the outer wall
-- **Water temperature**: 27–28°C upper, 24–25°C at 40–60 m
+- **Visibility**: 25–40 m typical
+- **Current**: Variable; can be strong on the outer wall; drift possible
+- **Water temperature**: 27–28°C
 - **Entry**: Boat dive
 
 ## Tips
 
-This site requires Advanced Open Water certification as a minimum; deep diving specialty or technical training is recommended for divers intending to approach 60 m. Dive the upper wall on a recreational profile (max 30 m) for a rewarding dive without the decompression obligation. The site is best done as a first dive of the day with full tanks. A dive computer with a depth alarm is strongly advised.
+Advanced Open Water certification is required for accessing the cave at 27–30 m. Dive the upper reef plateau first to assess conditions before descending to the cave. A torch is useful inside the cavern. The cave system should only be accessed while natural light from the entrance remains visible — this is a cavern, not a cave penetration dive.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Scubago – La Faille d'Arue](https://www.scubago.com/en/explore/divesite/la-faille-d-arue-237370), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Last updated 2026-05-30.*

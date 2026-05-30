@@ -25,7 +25,7 @@ The site is characterised by healthy hard coral gardens on a shallow outer reef 
 
 - **Location**: Agincourt Reef No. 1, outer Great Barrier Reef, approximately 65km east of Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 metres
@@ -60,4 +60,4 @@ Titan triggerfish are the primary behavioural hazard at this site. Their bite is
 The titan triggerfish are photogenic subjects with their bold colouration and dramatic expressions. Wide-angle shots in the top 10 metres benefit from the excellent natural light. The reef fish diversity provides constant subject material for both wide-angle reef scenes and individual fish portraits.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*

@@ -3,7 +3,7 @@ name: Lock 27
 lat: 44.7775281
 lng: -75.399561
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Lock 27 is part of the system of bypassed canals that preceded the modern St. La
 
 - **Location**: St. Lawrence River watershed, Eastern Ontario, Canada (Thousand Islands region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; varies with season and upstream conditions

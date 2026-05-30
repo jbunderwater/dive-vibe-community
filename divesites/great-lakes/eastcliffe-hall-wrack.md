@@ -3,7 +3,7 @@ name: Eastcliffe Hall (Wrack)
 lat: 44.9247194
 lng: -75.1011111
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Eastcliffe Hall (Wrack)
 
-The Eastcliffe Hall is a 20th-century steel vessel wreck in the St. Lawrence River, lying in the Long Sault area near the Ontario-Quebec border. This Canadian freighter sank in 1970 and now rests in the fast-flowing waters of the St. Lawrence, offering divers an unusual combination of current diving and steel wreck exploration in one of North America's great rivers.
+The Eastcliffe Hall is a 20th-century Canadian bulk carrier wreck in the St. Lawrence River, lying near Morrisburg, Ontario. On July 14, 1970, a fire broke out in the engine room while the vessel was bound for Saginaw, Michigan carrying 5,661 long tons of pig iron ingots. The ship sank in minutes with the loss of nine of twenty-one people aboard. The wreck was subsequently dynamited to remove the forward superstructure as a navigational hazard. She now rests in approximately 21 metres (70 feet) of St. Lawrence River water.
 
 ## Overview
 
-The Eastcliffe Hall was a Canadian lake freighter that grounded and sank in the St. Lawrence River. She now lies in approximately 20 metres of water in a stretch of river known for its strong current and excellent visibility. The St. Lawrence River in this region flows quickly, creating current conditions that require divers to plan entries and exits carefully and time dives appropriately. The reward is excellent visibility — the flowing river water keeps sediment moving and visibility can reach 10–15 metres. The steel hull is well-preserved in the fresh, cold river water, and the size of the vessel (a full Great Lakes freighter) creates an impressive dive.
+The Eastcliffe Hall was a Canadian bulk carrier that sank on July 14, 1970, in the St. Lawrence River near Morrisburg, Ontario, following an engine room fire. Nine people died including the captain, his son, and an engineer's wife and six-year-old daughter. The wreck lies in approximately 21 metres (70 feet) of St. Lawrence River water in a stretch known for current and reasonable visibility. The St. Lawrence River in this region flows quickly, creating current conditions that require divers to plan entries and exits carefully and time dives appropriately. The reward is excellent visibility — the flowing river water keeps sediment moving and visibility can reach 10–15 metres. The steel hull is well-preserved in the fresh, cold river water, and the size of the vessel (a full Great Lakes freighter) creates an impressive dive.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Eastcliffe Hall was a Canadian lake freighter that grounded and sank in the 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 5–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate to strong; varies with season and water levels
@@ -60,4 +60,4 @@ River current is the primary safety consideration at this site. Strong current c
 The steel hull of the Eastcliffe Hall provides industrial-scale photographic subjects. The river current keeps visibility relatively good, and the dark green tones of St. Lawrence River water create a distinct atmospheric quality. Northern pike encounters make excellent wildlife photography subjects.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Counties of SDG - Eastcliffe Hall Shipwreck](https://whereontariobegan.ca/project/scuba-diving-eastcliffe-hall-shipwreck/), [Eastcliffe Hall - Wikipedia](https://en.wikipedia.org/wiki/Eastcliffe_Hall), [South Dundas - Eastcliffe Hall Dive Site](https://www.southdundas.com/recreation-tourism/attractions/eastcliffe-hall-dive-site). Last updated 2026-05-30.*

@@ -59,4 +59,4 @@ Current can be strong on spring tides — check conditions before descending. Do
 Eagle ray silhouettes in the blue water above the wall are the most prized shot here. Giant barrel sponge cross-sections with divers provide scale reference. Clownfish in large anemones at wide-angle close focus suit the shallow sections.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-05-30.*

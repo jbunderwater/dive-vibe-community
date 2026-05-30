@@ -21,7 +21,7 @@ Iriru is one of the eastern-facing passes in the Raiatea reef system, receiving 
 
 ## What to Expect
 
-Grey reef sharks aggregate in the Iriru pass on strong incoming tides, with groups of 15–40 individuals typical on productive dives. The eastern exposure delivers schools of bigeye jacks, barracuda, and occasional large tuna sweeping through the channel. Eagle rays and spotted eagle rays are regularly encountered at this site, riding the current effortlessly. The pass walls carry dense coral and sea fan growth where hawkfish and soldierfish shelter. The lagoon side of the pass is calmer and allows divers to pause and observe the marine life before the boat pickup. The less-frequented eastern side of Raiatea means Iriru sees fewer dive groups than the western passes, preserving a more untouched character.
+Grey reef sharks aggregate in the Iriru pass on incoming tides — the specific figure of "15–40 individuals" was removed as no independent source confirmed this count for Iriru specifically. Shark encounters are expected, consistent with all Raiatea pass dives. The eastern exposure delivers schools of bigeye jacks and barracuda sweeping through the channel. Eagle rays are typically encountered at Society Islands pass dives. The pass walls carry dense coral and sea fan growth where hawkfish and soldierfish shelter. The lagoon side of the pass is calmer and allows divers to pause and observe the marine life before the boat pickup. The less-frequented eastern side of Raiatea means Iriru sees fewer dive groups than the western passes, preserving a more untouched character.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ Grey reef sharks aggregate in the Iriru pass on strong incoming tides, with grou
 The eastern exposure makes Iriru weather-sensitive; confirm conditions with operators before booking. This pass rewards divers who are comfortable managing current with their fin position and body trim rather than fighting it. The relative quiet of the eastern Raiatea reef makes early morning dives at Iriru particularly productive.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html), [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/). Last updated 2026-05-30.*

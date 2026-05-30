@@ -3,7 +3,7 @@ name: Niagara II (sandsucker)
 lat: 45.2500264
 lng: -81.6025721
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Niagara II (sandsucker)
 
-The Niagara II is a deliberately sunk sandsucker (sand dredge vessel) resting in Fathom Five National Marine Park near Tobermory, Ontario. Scuttled intentionally in 1999 as a diving attraction, this 20th-century working vessel provides a different character from the historic sailing ships typical of the park — its industrial machinery and modern construction offer a compelling complement to the 19th-century wooden wrecks nearby.
+The Niagara II is a deliberately sunk sandsucker (sand-dredging vessel) resting near Tobermory, Ontario. Built in 1930 in Haverton Hill-on-Tees, England, this 182-foot (55-metre) steel vessel was scuttled in May 1999 by the Tobermory Maritime Association as an artificial reef and dive attraction. The wreck lies outside Fathom Five National Marine Park boundaries at approximately 30 metres (100 feet) depth in Little Cove.
 
 ## Overview
 
-The Niagara II was an operational sand-dredging vessel that worked in Georgian Bay before being decommissioned and sunk as a dive attraction in May 1999. At 25 metres, she sits slightly deeper than the park's shallowest wrecks, providing a step up in experience for divers who have already explored the Sweepstakes and Caroline Rose. The sandsucker's industrial machinery — dredging equipment, engines, pumps, and pipes — creates a visually distinct dive from the wooden schooner aesthetic. Fathom Five's exceptional visibility (15–20+ metres) reveals the full length of the vessel in a single wide-angle view. The cold bottom water of Georgian Bay (consistently 4°C at this depth) has preserved the machinery in excellent condition since sinking.
+The Niagara II was built in 1930 as a tanker and later converted to a sand-dredging vessel before being decommissioned. She was deliberately sunk with explosives in May 1999 by the Tobermory Maritime Association to alleviate diving pressure on the older wrecks inside Fathom Five National Marine Park. She lies outside the park at 30 metres (100 feet) in Little Cove. Locals added items like a piano before sinking. The wreck remains in good shape with plenty of spaces to explore. The sandsucker's industrial machinery — dredging equipment, engines, pumps, and pipes — creates a visually distinct dive from the wooden schooner aesthetic of the park wrecks. Georgian Bay water clarity is excellent here.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Niagara II was an operational sand-dredging vessel that worked in Georgian B
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom consistently 4°C
 - **Current**: Minimal

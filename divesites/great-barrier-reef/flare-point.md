@@ -25,7 +25,7 @@ The reef is in good health by GBR standards and offers representative outer Ribb
 
 - **Location**: Ribbon Reefs (southern section), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 15–30 metres
@@ -59,4 +59,4 @@ Standard outer reef precautions apply. Current can be localised around the reef 
 Flare Point offers classic outer reef wide-angle photography: reef slope receding into the blue, large wrasse and parrotfish in their natural context, and turtle portraits. The clear water and good depth range allow for environmental images that convey the scale of the reef structure.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*

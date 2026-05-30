@@ -17,7 +17,7 @@ A Biorock reef restoration structure on the east coast of Gili Trawangan — par
 
 ## Overview
 
-Vila Almarick Biorock is one of the northernmost structures in the east coast Gili Trawangan Biorock cluster, named after the Vila Almarick resort. Like all structures in the Gili Islands Biorock network, it uses low-voltage electrical current to stimulate mineral accretion on steel frames, creating the foundation for accelerated coral growth. Since 2006, when the program began, these structures have transformed sections of previously damaged reef into thriving artificial reefs. The Vila Almarick structure sits at the shallower end of the east coast cluster, making it particularly accessible for beginner divers and snorkellers.
+Vila Almarick Biorock is one of the structures in the east coast Gili Trawangan Biorock cluster, named after the nearby Vila Almarick resort. Like all structures in the Gili Islands Biorock network, it uses low-voltage electrical current to stimulate mineral accretion on steel frames, creating the foundation for accelerated coral growth. The Gili Islands Biorock program was initiated in 2004–2005 by the Gili Eco Trust, making it one of the world's longest-running Biorock projects. The Vila Almarick structure's shallow depth makes it particularly accessible for beginner divers and snorkellers.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Standard artificial reef precautions apply — maintain buoyancy, do not touch t
 Each Biorock structure in the cluster has slightly different character — compare them photographically. Turtle and fish portraits against the coral-covered geometry suit wide-angle close-focus. The shallower position here allows natural light photography without strobe for the upper structure sections.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – BioRock](https://manta-dive-giliair.com/gili-islands-dive-sites/biorock-all-levels), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – reef restoration](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Dive Central Gili – Bio Rocks](https://www.divecentralgili.com/blog/3112016). Last updated 2026-05-30.*

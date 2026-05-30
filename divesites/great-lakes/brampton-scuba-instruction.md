@@ -13,7 +13,9 @@ addedBy: osm_import
 
 ## Brampton Scuba Instruction
 
-Brampton Scuba Instruction is a dive training and recreation facility in the Brampton/Lake Ontario area of Ontario, Canada. This site represents an indoor or controlled-environment scuba diving training pool or facility associated with the western Greater Toronto Area diving community — a gateway site for new divers entering the Great Lakes freshwater diving world.
+**QA NOTE (2026-05-30): This entry should be removed from the dive site dataset. Brampton Scuba (93 Queen St W, Brampton, ON) is a commercial dive centre, dive shop, and scuba instruction school — not a dive site. The OSM tags (scuba_diving:education=yes) confirm this is a training facility. This record should be deleted from great-lakes.json.**
+
+Brampton Scuba Instruction is a commercial dive centre located at 93 Queen Street West in Brampton, Ontario, serving the Greater Toronto Area diving community since 1975. It is one of the larger PADI and SSI-affiliated dive centres in Ontario, offering courses, equipment sales, and guided dive trips to Great Lakes wreck destinations.
 
 ## Overview
 
@@ -23,7 +25,7 @@ Brampton is a city in the western Greater Toronto Area of Ontario, located appro
 
 - **Location**: Lake Ontario / Greater Toronto Area, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Variable (pool: clear; natural sites: 3–10 metres)

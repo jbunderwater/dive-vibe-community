@@ -2,8 +2,8 @@
 name: La source
 lat: -17.634003
 lng: -149.619537
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -36,4 +36,4 @@ The halocline above the spring is a highlight for underwater photographers and v
 Allow time to observe the halocline effect carefully — the spring output varies with tide and season, so the visual effect ranges from a faint shimmer to a dramatic distortion. Position yourself above the spring looking up into the halocline for the most striking photographic results.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Last updated 2026-05-30.*

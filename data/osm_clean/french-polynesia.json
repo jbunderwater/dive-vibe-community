@@ -13,28 +13,30 @@
       "name": "Le tombant Gorgognes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tahiti-iti-diving, eleutheratahiti.com, diveotion.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Le fer \u00e0 cheval",
+    "name": "Le fer à cheval",
     "lat": -17.880247,
     "lon": -149.202744,
     "osm_id": 663869231,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Le fer \u00e0 cheval",
+      "name": "Le fer à cheval",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tahitiitidiving.com, tahititourisme.pf, eleutheratahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Vall\u00e9e aux Mur\u00e8nes",
+    "name": "Vallée aux Murènes",
     "lat": -17.592157,
     "lon": -149.626221,
     "osm_id": 663869232,
@@ -44,10 +46,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Vall\u00e9e aux Mur\u00e8nes",
+      "name": "Vallée aux Murènes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "mooreabluediving.com, deeperblue.com, divediscovery.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -59,12 +62,13 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Faille St Etienne",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, eleutheratahiti.com, scubago.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -73,7 +77,7 @@
     "lon": -149.620071,
     "osm_id": 663869234,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -81,7 +85,8 @@
       "name": "Tombant St Etienne",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, tahititourisme.pf, eleutheratahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -98,7 +103,8 @@
       "name": "Temaruata",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, eleutheratahiti.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -107,15 +113,16 @@
     "lon": -149.619537,
     "osm_id": 663869237,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "La source",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, diveotion.com, divediscovery.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -132,11 +139,12 @@
       "name": "Plateau aux tortues",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, eleutheratahiti.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Vall\u00e9e des requins",
+    "name": "Vallée des requins",
     "lat": -17.542242,
     "lon": -149.619415,
     "osm_id": 663869239,
@@ -146,10 +154,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "name": "Vall\u00e9e des requins",
+      "name": "Vallée des requins",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "mooreabluediving.com, diveotion.com, padi.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -166,24 +175,27 @@
       "name": "La virgule",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "moorea-fundive.com, diveandsea-tahiti.com, eleutheratahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "La zel\u00e9e",
+    "name": "La zelée",
     "lat": -17.528658,
     "lon": -149.577362,
     "osm_id": 663869242,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "La zel\u00e9e",
+      "name": "La zelée",
+      "historic": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "en.wikipedia.org/wiki/French_gunboat_Zélée, en.wikipedia.org/wiki/Bombardment_of_Papeete, diveandsea-tahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -200,7 +212,8 @@
       "name": "Les Roses",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, eleutheratahiti.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -218,7 +231,8 @@
       "natural": "cave_entrance",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "eleutheratahiti.com, divediscovery.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -227,15 +241,16 @@
     "lon": -149.525421,
     "osm_id": 663869246,
     "osm_type": "node",
-    "depth": 60,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Faille d'Arue",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "scubago.com, diveotion.com, divediscovery.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -250,9 +265,11 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Epave Catalina",
+      "historic": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "svdelos.com, diveandsea-tahiti.com, hackingfamily.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -261,15 +278,16 @@
     "lon": -149.627502,
     "osm_id": 663869248,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveandsea-tahiti.com, islandtravelism.com, eleutheratahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -278,15 +296,16 @@
     "lon": -149.631668,
     "osm_id": 663869249,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Papa Whisky",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveotion.com, islandtravelism.com, diveandsea-tahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -303,7 +322,8 @@
       "name": "Le trou de la Pieuvre",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -320,7 +340,8 @@
       "name": "L'Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -334,13 +355,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "alt_name": "Les chemin\u00e9es de Tetuatiare",
+      "alt_name": "Les cheminées de Tetuatiare",
       "name": "Te Tuatiare",
       "natural": "strait",
       "sport": "scuba_diving",
       "waterway": "turning_point",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "hemispheresub.com, polynesiaparadise.com, temoanadiving.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -357,7 +379,8 @@
       "name": "Les rairas",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -379,7 +402,8 @@
       "waterway": "turning_point",
       "wikidata": "Q31930501",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, hemispheresub.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -394,13 +418,15 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Le Nordby",
+      "historic": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "polynesiaparadise.com, temoanadiving.com, frenchpolynesia.die-loeffels.de",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Pa\u2019ipa\u2019i",
+    "name": "Pa’ipa’i",
     "lat": -16.664726,
     "lon": -151.539059,
     "osm_id": 663869257,
@@ -412,16 +438,17 @@
     "tags": {
       "alt_name": "Paipai",
       "loc_name": "Passe de Tiva",
-      "name": "Pa\u2019ipa\u2019i",
+      "name": "Pa’ipa’i",
       "natural": "strait",
       "sport": "scuba_diving",
       "waterway": "turning_point",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, pacific-experience.com, tahiti.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Rauto\u2019Anui",
+    "name": "Rauto’Anui",
     "lat": -16.758276,
     "lon": -151.50404,
     "osm_id": 663869258,
@@ -432,12 +459,13 @@
     "difficulty": "Advanced",
     "tags": {
       "alt_name": "Miri Miri",
-      "name": "Rauto\u2019Anui",
+      "name": "Rauto’Anui",
       "natural": "strait",
       "sport": "scuba_diving",
       "waterway": "turning_point",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, hemispheresub.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -457,11 +485,12 @@
       "sport": "scuba_diving",
       "waterway": "turning_point",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, hemispheresub.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Te Ava Mo\u2019a",
+    "name": "Te Ava Mo’a",
     "lat": -16.8318081,
     "lon": -151.3466734,
     "osm_id": 663869260,
@@ -472,16 +501,17 @@
     "difficulty": "Advanced",
     "tags": {
       "alt_name": "Passe Opoa",
-      "name": "Te Ava Mo\u2019a",
+      "name": "Te Ava Mo’a",
       "natural": "strait",
       "sport": "scuba_diving",
       "waterway": "turning_point",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, hemispheresub.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
-    "name": "Passe de C\u00e9ran - TAHAA",
+    "name": "Passe de Céran - TAHAA",
     "lat": -16.648034,
     "lon": -151.426964,
     "osm_id": 663869261,
@@ -491,10 +521,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "Passe de C\u00e9ran - TAHAA",
+      "name": "Passe de Céran - TAHAA",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, manawa.com, blog.padi.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -511,7 +542,8 @@
       "name": "Tao-tao",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "temoanadiving.com, polynesiaparadise.com, tahititourisme.pf",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -526,7 +558,7 @@
     "difficulty": "Beginner",
     "tags": {
       "access": "yes",
-      "description": "Arriv\u00e9 \u00e0 quai un jour de fort vent d'ouest, vers 15h, le bateau a \u00e9t\u00e9 violemment pouss\u00e9 contre le quai alors qu'il avait \u00e0 peine d\u00e9but\u00e9 son d\u00e9chargement. Une br\u00eache a entrain\u00e9 le coulage du navire, qui a \u00e9t\u00e9 remorqu\u00e9 \u00e0 son emplacement actuel quelques jour",
+      "description": "Arrivé à quai un jour de fort vent d'ouest, vers 15h, le bateau a été violemment poussé contre le quai alors qu'il avait à peine débuté son déchargement. Une brêche a entrainé le coulage du navire, qui a été remorqué à son emplacement actuel quelques jour",
       "historic": "wreck",
       "name": "Mairie II",
       "scuba_diving:maxdepth": "17m",
@@ -539,7 +571,8 @@
       "wreck:visible_at_low_tide": "no",
       "wreck:width": "50m",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "openstreetmap.org (OSM ID 10164697267), tahititourisme.com, scubago.com",
+      "last_qa_date": "2026-05-30"
     }
   }
 ]

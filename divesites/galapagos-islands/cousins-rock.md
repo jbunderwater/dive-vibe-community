@@ -17,11 +17,11 @@ A small submerged rock near Santiago delivering the rare Galapagos combination o
 
 ## Overview
 
-Cousins Rock is a small submerged rock formation between Santiago and Bartolome Islands, offering one of the more sheltered dives in the Galapagos. The site is distinctive for combining genuine macro diving -- seahorses, frogfish, nudibranchs -- with the big-animal encounters the Galapagos is famous for. The wall features dramatic overhangs and crevices draped in black coral and sea fans, creating a rich and visually complex reef ecosystem. A resident sea lion colony uses the rock as a playground, frequently joining divers for extended, interactive encounters.
+Cousins Rock is a small tuff cone located northeast of Santiago Island — approximately 15 minutes by boat from Bartolome — offering one of the more sheltered dives in the Galapagos. The site is distinctive for combining genuine macro diving -- seahorses, frogfish, nudibranchs -- with the big-animal encounters the Galapagos is famous for. The wall features dramatic overhangs and crevices draped in black coral and sea fans, creating a rich and visually complex reef ecosystem. A resident sea lion colony uses the rock as a playground, frequently joining divers for extended, interactive encounters.
 
 ## Site Information
 
-- **Location**: Between Santiago and Bartolome Islands, Galapagos Islands
+- **Location**: Northeast of Santiago Island, Galapagos Islands (approximately 15 minutes by boat from Bartolome)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -59,4 +59,4 @@ Currents are generally milder than at other Galapagos sites, but can still be pr
 One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects -- they approach closely, make eye contact, and spiral around divers, rewarding wide-angle shooters with engaging portraits and interaction shots. Seahorses and frogfish provide genuine macro opportunities rare in the Galapagos. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects makes this a site where both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
 
 ---
-*Sources: [Scuba Iguana – Cousins Rock](https://scubaiguana.com/our-dive-center/daily-diving-tours/cousins-rocks-galapagos-dive-site/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Cousins Rock](https://scubaiguana.com/diving/dive-sites/cousins/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Royal Galapagos – Cousins Rocks](https://www.royalgalapagos.com/visitor_points/santiago-island-cousins-rocks/), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-30.*

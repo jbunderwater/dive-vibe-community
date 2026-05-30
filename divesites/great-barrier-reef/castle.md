@@ -2,7 +2,7 @@
 name: Castle
 lat: -13.851845
 lng: 146.563382
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 24
 entryType: boat
 siteType: reef
@@ -25,8 +25,8 @@ At 24 metres maximum depth, Castle is the deepest of the Osprey Reef recreationa
 
 - **Location**: Osprey Reef, Coral Sea, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Moderate; variable with tidal changes
@@ -59,4 +59,4 @@ Castle's depth requires careful gas management and depth monitoring. NDL limits 
 The coral architecture at Castle is ideal for wide-angle environmental images. Shoot along the channels between formations with a diver exploring in the background. The grey reef sharks provide classic GBR-Coral Sea shark imagery, and the visibility allows for impressive environmental portraits with the blue water visible beyond the reef structures.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*

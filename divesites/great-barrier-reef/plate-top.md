@@ -25,7 +25,7 @@ The site is positioned on the outer reef system in the Lizard Island area, givin
 
 - **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 15–30 metres
@@ -59,4 +59,4 @@ Titan triggerfish establish cone-shaped territories around nesting sites on the 
 The plate coral architecture at this site is unusual and photogenic — wide-angle shots of the stacked formations create strong geometric compositions. Hawksbill turtles feeding under plate overhangs are a recurring subject. The good visibility on this outer reef site allows for environmental portraits that show the coral landscape in context.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*

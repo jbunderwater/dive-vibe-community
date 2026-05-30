@@ -5,7 +5,7 @@ lng: -149.202744
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869231
 addedBy: osm_import
@@ -35,7 +35,7 @@ This is an overhead environment requiring proper buoyancy, torch, and dive exper
 
 - **Location**: Tahiti Iti (Taiarapu Est), Tahiti, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

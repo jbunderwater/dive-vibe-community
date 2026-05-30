@@ -3,7 +3,7 @@ name: Lock 23
 lat: 44.8952974
 lng: -75.1751129
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ The site known as Lock 23 is an underwater remnant of one of the old canal syste
 
 - **Location**: St. Lawrence River watershed, Eastern Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; varies with water levels

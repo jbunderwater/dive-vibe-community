@@ -25,7 +25,7 @@ At 18 metres maximum depth, The Point offers slightly deeper diving than the sou
 
 - **Location**: Agincourt Reef No. 4 (northern end), outer Great Barrier Reef, approximately 65km east of Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–28 metres
@@ -59,4 +59,4 @@ The Point is the most current-affected of the Agincourt sites. Monitor your posi
 The Point's current-driven marine activity creates outstanding opportunities for pelagic fish schools against the open water blue. Position yourself at the reef edge and let the schools come to you. The gorgonian sea fans on the deeper face are excellent for diver-in-context wide-angle images.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*
