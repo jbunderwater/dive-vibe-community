@@ -36,4 +36,4 @@ Temaruata's wall is known for its healthy coral coverage and the density of reef
 Plan a multilevel profile, beginning at 28–30 m to examine the deepest wall section before working back up to the reef crest for the safety stop. The site pairs well with nearby St Etienne sites for a two-dive morning from Papeete.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*

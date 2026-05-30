@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## La virgule
 
-La virgule — "The Comma" — is a reef dive site in the Tahiti lagoon, French Polynesia, named for a comma-shaped coral structure visible on the bathymetric charts and from the surface in calm conditions.
+La virgule — "The Comma" — is a reef dive site in the waters of Moorea, French Polynesia, named for a comma-shaped coral structure visible on the bathymetric charts and from the surface in calm conditions. Moorea Fun Dive lists this site as one of its regular dive locations.
 
 ## Overview
 
@@ -36,4 +36,4 @@ The sheltered inner face of the formation acts as a nursery ground for juvenile 
 Use the comma shape to plan a natural circuit dive — descend to the outer slope, follow the curve around, and return along the sheltered inner face for the safety stop. This multilevel approach maximises bottom time and exposes divers to both habitat types.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Moorea Fun Dive - Sites](https://www.moorea-fundive.com/2s), [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots). Last updated 2026-05-30.*

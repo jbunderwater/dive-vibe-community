@@ -2,10 +2,10 @@
 name: La zelée
 lat: -17.528658
 lng: -149.577362
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869242
 addedBy: osm_import
@@ -35,9 +35,9 @@ Depth range: 5–20 metres over the wreck remains, with a drop-off to 50 metres 
 
 - **Location**: Papeete, Tahiti, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 
 ## Additional Resources
 

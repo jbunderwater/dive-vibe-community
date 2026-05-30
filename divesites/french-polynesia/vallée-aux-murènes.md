@@ -31,7 +31,7 @@ Maximum depth is approximately 25 metres at the deepest valley floors; ridge top
 
 - **Location**: Moorea, Society Islands, French Polynesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

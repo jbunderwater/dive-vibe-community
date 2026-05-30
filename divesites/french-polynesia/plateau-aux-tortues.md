@@ -21,7 +21,7 @@ The site is a broad, gently sloping reef plateau extending from about 8 to 20 me
 
 ## What to Expect
 
-Green turtles are the headline attraction and are reliably encountered on most dives — groups of two to four animals resting together are typical. The coral plateau provides habitat for bluefin trevally hunting over the sandy patches, while Napoleon wrasse cruise the reef edge. Stingrays rest in the sand channels between coral heads, and large schools of bluestripe snapper (*Lutjanus kasmira*) drift in loose aggregations above the reef. The shallower sections of the plateau are an excellent snorkelling destination as well as a dive site, making this one of the more accessible sites for less experienced divers.
+Green turtles are the headline attraction and are reliably encountered on most dives — groups of two to four animals resting together are typical. Whitetip reef sharks are confirmed at this site. The coral plateau provides habitat for bluefin trevally hunting over the sandy patches. Stingrays rest in the sand channels between coral heads, and tropical fish inhabit the reef. The shallower sections of the plateau are an excellent snorkelling destination as well as a dive site, making this one of the more accessible sites for less experienced divers. (Napoleon wrasse removed from description — no site-specific source found confirming this species at Plateau aux Tortues specifically.)
 
 ## Conditions
 
@@ -36,4 +36,4 @@ Green turtles are the headline attraction and are reliably encountered on most d
 Approach resting turtles slowly and from the side — never from above or directly in front. Turtles regularly surface to breathe; hovering neutrally buoyant and watching them rise and descend is one of the memorable experiences at this site. Morning dives catch turtles actively feeding before they rest.
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
