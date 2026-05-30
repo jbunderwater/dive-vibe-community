@@ -13,9 +13,7 @@ addedBy: osm_import
 
 ## Down Under Diving
 
-Down Under Diving is a reef dive site on the outer Great Barrier Reef south of Cairns, Queensland, Australia.
-
-> **Data Quality Note**: The name "Down Under Diving" is more typically associated with a dive operator or company than a dive site. This entry should be reviewed to confirm it refers to a genuine named dive site location rather than an operator listing. If it proves to be an operator rather than a site, it should be removed from the database per the project's data quality standards.
+> **REMOVAL REQUIRED**: "Down Under Diving" (formally "Down Under Cruise and Dive") is a registered commercial dive tour operator running day trips from Cairns aboard the vessel *Evolution*, not a named dive site. The actual reefs they visit are Saxon Reef, Norman Reef, and Hastings Reef. This entry must be removed from the database per project data quality standards (no commercial businesses). Sources: downundercruiseanddive.com.au, cairnsaustralia.com, cairnsdiveadventures.com.au. Re-audited 2026-05-30.
 
 ## Overview
 
@@ -27,7 +25,7 @@ The site, if confirmed as a genuine location, sits on outer reef terrain at a de
 
 - **Location**: Outer Great Barrier Reef (south of Cairns), Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 metres
@@ -60,4 +58,4 @@ Standard outer reef precautions apply. The site's data quality status is uncerta
 Outer reef sites in this latitude offer standard GBR photography opportunities: reef landscapes, sea turtle portraits, and reef fish assemblages in clear tropical water.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Down Under Cruise and Dive - official site](https://downundercruiseanddive.com.au/), [Cairns Australia listing](https://cairnsaustralia.com/tours/great-barrier-reef/down-under-cruise-and-dive/), [Cairns Dive Adventures - Down Under](https://cairnsdiveadventures.com.au/tour/down-under-dive/). Entry flagged for removal — commercial operator not a dive site. Re-audited 2026-05-30.*

@@ -2,7 +2,7 @@
 name: Challenger Bay
 lat: -14.9154407
 lng: 145.6903158
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -25,8 +25,8 @@ The site is a favourite for night dives on liveaboard itineraries due to its cal
 
 - **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Minimal; well sheltered
@@ -60,4 +60,4 @@ Challenger Bay is one of the safest sites in the Ribbon Reefs. Currents are mini
 The bay's calm conditions make it ideal for macro work — no surge to disturb camera positioning. Nudibranchs, flatworms, and small crustaceans reward patient photographers with a diopter or macro lens. Night dives offer Spanish dancer nudibranchs, crayfish, and hunting octopuses as subjects in reliably still water.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*

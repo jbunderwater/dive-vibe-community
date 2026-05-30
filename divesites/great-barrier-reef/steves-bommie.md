@@ -2,8 +2,8 @@
 name: Steve's Bommie
 lat: -15.5012397
 lng: 145.7882636
-difficulty: Beginner
-maxDepth: 20
+difficulty: Intermediate
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Steve's Bommie
 
-Steve's Bommie is an iconic coral pinnacle in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, renowned for its spectacular soft coral coverage and dense fish life.
+Steve's Bommie is an iconic coral pinnacle on Ribbon Reef No. 3 in the northern Great Barrier Reef, Queensland, Australia, renowned for its spectacular soft coral coverage and dense fish life.
 
 ## Overview
 
-Named after a local dive guide who regularly led divers here, Steve's Bommie is one of the most photographed sites on the GBR. The bommie rises from 20 metres to around 5 metres depth and is blanketed in soft corals — mustard yellow, deep purple, and blood orange — that drape every surface and sway in the mild current. The concentration of life on and around the pinnacle is extraordinary, with every tier offering a different spectacle from large pelagic visitors at depth to tiny macro subjects among the coral branches.
+Named in honour of a local dive guide, Steve's Bommie is one of the most photographed sites on the GBR. A marble memorial plaque at 22 metres commemorates the site's namesake. The pinnacle rises from approximately 35 metres to around 5 metres depth and is blanketed in soft corals — sea fans, encrusting sponges, and crinoids in vivid colours — that drape every surface and sway in the mild current. The concentration of life on and around the pinnacle is extraordinary, with every tier offering a different spectacle from large pelagic visitors at depth to tiny macro subjects among the coral branches.
 
 Divers consistently rate it among their best GBR experiences, and it appears on almost every liveaboard itinerary in the Ribbon Reefs area.
 
 ## Site Information
 
-- **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
+- **Location**: Ribbon Reef No. 3, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–35 metres
 - **Current**: Mild; light current keeps soft corals extended
 - **Best Time**: July to November
@@ -42,7 +42,7 @@ Circumnavigate the bommie at various depths to experience the full range of life
 
 ## Entry and Exit
 
-Liveaboard access only. The site is approximately 250km north of Cairns. Shot line or free descent to the pinnacle. Exit via SMB on open water.
+Liveaboard access only from Cairns. Shot line or free descent to the pinnacle. Exit via SMB on open water.
 
 ## Tips and Recommendations
 
@@ -60,4 +60,4 @@ Conditions are typically benign. The main risk is becoming absorbed in the site 
 Steve's Bommie is a wide-angle showpiece. Frame the soft coral drapes with the blue water behind, or shoot upward with divers silhouetted against the surface light. The anthias schools add movement and colour to any composition. Macro subjects are found at every depth — bring a diopter for nudibranchs and take your time scanning the coral.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Great Barrier Reef Tours - Steve's Bommie](https://greatbarrierreeftours.com/great-barrier-reef/coral-sea-reefs/steves-bommie/), [SSI Dive Guide - Steve's Bommie Ribbon No 3](https://www.divessi.com/en/mydiveguide/divesite/steves-bommie-ribbon-no-3-reef-australia-86497), [Spirit of Freedom Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Great Barrier Reef Liveaboards - Steve's Bommie](https://greatbarrierreefliveaboards.com/reef-location/steves-bommie/). Last updated 2026-05-30.*

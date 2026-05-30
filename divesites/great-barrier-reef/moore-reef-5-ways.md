@@ -25,7 +25,7 @@ The 5 Ways site is a short swim or boat transfer from the pontoon and offers the
 
 - **Location**: Moore Reef, outer Great Barrier Reef, approximately 40km east of Cairns, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–25 metres
@@ -60,4 +60,4 @@ Moore Reef is the most supervised and supported dive environment on the GBR — 
 Moore Reef's clear outer reef water and abundant large animals make it excellent for beginner underwater photographers. Sea turtles are the primary subject — approach slowly from the side and the turtles typically continue feeding, allowing close-range portraits. The maori wrasse are similarly cooperative. Wide-angle reef landscapes are achievable without strobes in the morning light.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*

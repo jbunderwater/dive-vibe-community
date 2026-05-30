@@ -25,7 +25,7 @@ Coral coverage is exceptional — table corals, branching staghorns, brain coral
 
 - **Location**: Ribbon Reefs (adjacent to Pixie Pinnacle), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 metres
@@ -60,4 +60,4 @@ The site is exceptionally safe for its target audience. The main consideration i
 Pixie Gardens is a natural-light photographer's venue. The 5–10 metre depth zone at midday allows reef photography without strobes, rendering the hard corals in their true colours against the blue water background. Wide-angle reef landscapes and close-focus wide-angle shots of resident clownfish are both well-served here. The site also offers good close-up work on the anemone colonies.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*

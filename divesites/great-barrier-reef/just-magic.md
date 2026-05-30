@@ -25,7 +25,7 @@ The site is a reliable performer for day-trip operators running out of Port Doug
 
 - **Location**: Light Reef, outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 metres
@@ -59,4 +59,4 @@ Standard outer reef considerations. The mild conditions and moderate depth make 
 Just Magic's broad fish diversity makes it suitable for a mixed photography approach — wide-angle reef landscapes, turtle portraits, and mid-sized reef fish all in a single dive. The site's name encourages a certain latitude in framing: shoot what moves you rather than following a strict shot list.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*

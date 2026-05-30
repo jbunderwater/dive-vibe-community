@@ -2,7 +2,7 @@
 name: Halfway Wall
 lat: -13.8487161
 lng: 146.563876
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 22
 entryType: boat
 siteType: wall
@@ -26,7 +26,7 @@ The site provides an excellent middle option on Osprey Reef liveaboard itinerari
 - **Location**: Osprey Reef (eastern face), Coral Sea, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Variable; typically mild along the wall face
@@ -59,4 +59,4 @@ Wall dives require consistent depth monitoring — it is easy to drift deeper th
 Halfway Wall excels for wide-angle photography with divers positioned against the soft coral backdrop and the blue water column extending below. Use a strobe to bring out the orange and red tones of the soft corals, which appear dull without artificial light at depth. Sea fans with associated hawkfish provide excellent close-focus wide-angle compositions.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*

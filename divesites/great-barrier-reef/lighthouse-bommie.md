@@ -2,8 +2,8 @@
 name: Lighthouse Bommie
 lat: -14.875091
 lng: 145.689982
-difficulty: Beginner
-maxDepth: 20
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Lighthouse Bommie
 
-Lighthouse Bommie is a productive coral pinnacle in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, and is considered one of the best night dive sites in the region.
+Lighthouse Bommie is a coral pinnacle on Ribbon Reef No. 9 in the northern Great Barrier Reef, Queensland, Australia, and is considered one of the best night dive sites in the region.
 
 ## Overview
 
-Lighthouse Bommie sits near the channel between two Ribbon Reefs sections, rising from a sandy bottom at 20 metres to around 5 metres depth. The structure is dense with encrusting corals, sponges, and sea fans, and the overhangs and crevices throughout the bommie provide ideal habitat for the ambush predators and nocturnal animals that make night diving here exceptional.
+Lighthouse Bommie is a coral tower that rises from the seafloor at approximately 25 metres to around 5 metres depth, standing roughly 20 metres tall. The structure is dense with encrusting corals, sponges, and sea fans, and the overhangs and crevices throughout the bommie provide ideal habitat for the ambush predators and nocturnal animals that make night diving here exceptional.
 
 During the day, the site offers a well-rounded experience — healthy coral coverage, a resident community of reef fish, and reliable sightings of larger species including moray eels, lionfish, and sweetlips. At night it transforms completely, with previously hidden critters emerging from every surface.
 
 ## Site Information
 
-- **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
+- **Location**: Ribbon Reef No. 9, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Variable; can strengthen with tidal changes
 - **Best Time**: July to November
@@ -42,7 +42,7 @@ Daytime dives typically follow a circuit of the bommie, descending to the sandy 
 
 ## Entry and Exit
 
-Liveaboard access only; the site lies approximately 225km north of Cairns. Night dives are typically tethered to a shot line for orientation. Exit via SMB or direct retrieval from the liveaboard tender.
+Liveaboard access only from Cairns. Night dives are typically tethered to a shot line for orientation. Exit via SMB or direct retrieval from the liveaboard tender.
 
 ## Tips and Recommendations
 
@@ -60,4 +60,4 @@ Night dives require careful buddy management and a pre-agreed surface signal. Mo
 The Spanish dancer nudibranch is the photographic trophy at Lighthouse Bommie. Its large size (up to 60cm) means standard macro lenses capture detailed close-ups, while wider focal lengths can capture the full animal in context. Use a torch for positioning, then a focus light for camera autofocus. The moray eels make excellent daytime portrait subjects in their crevice frames.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Great Barrier Reef Liveaboards - Ribbon Reefs](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/), [Cairns Tours - Ribbon Reefs](https://cairns-tours.com/article/what-are-the-ribbon-reefs), [Diversion Dive Travel - Lighthouse Bommie](https://www.diversiondivetravel.com.au/g2659/diving_lighthouse_bommie.html). Last updated 2026-05-30.*

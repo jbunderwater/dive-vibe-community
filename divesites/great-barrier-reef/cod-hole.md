@@ -17,13 +17,13 @@ Cod Hole is one of the most famous dive sites in the world, located at Ribbon Re
 
 ## Overview
 
-Cod Hole earned its legendary status through decades of fish-feeding encounters with giant potato cod — massive groupers that can reach 100kg and grow to nearly two metres in length. These fish have been interacting with divers since the 1970s and are completely unafraid, approaching within touching distance and hovering motionlessly in front of your mask. On a typical dive, 10 to 20 individual potato cod may be present simultaneously, an experience unlike anything else in Australian waters.
+Cod Hole earned its legendary status through decades of fish-feeding encounters with giant potato cod — massive groupers that can grow to nearly two metres in length and weigh over 100 kg. Underwater filmmakers Ron and Valerie Taylor brought the site to international attention after they documented it in 1971, and the fish have been interacting with divers since the 1970s. The potato cod are completely unafraid, approaching within touching distance and hovering motionlessly in front of your mask. On a typical dive, a dozen or more individual potato cod may be present simultaneously, an experience unlike anything else in Australian waters.
 
-The site itself is a coral pinnacle rising from the sandy seafloor to around 8 metres depth, surrounded by sloping reef and rubble at 25 metres. Though the feeding program has been discontinued in recent years, the cod remain resident and habituated to divers, continuing to seek out human visitors with uncanny boldness.
+The site itself is a coral pinnacle at Ribbon Reef No. 10, rising from the sandy seafloor to around 8 metres depth, surrounded by sloping reef and rubble at approximately 25 metres. Where divemaster-led feeding still occurs on some liveaboard programs, only the guides handle the bait; individual divers are not permitted to feed the fish directly.
 
 ## Site Information
 
-- **Location**: Ribbon Reef No. 10, northern Great Barrier Reef, Queensland, Australia
+- **Location**: Ribbon Reef No. 10, northern Great Barrier Reef, ~240km north of Cairns, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
@@ -61,4 +61,4 @@ Currents can strengthen rapidly with tidal changes. Monitor depth carefully when
 Cod Hole is a wide-angle dream. The sheer size of the potato cod demands a fisheye or rectilinear wide-angle lens to capture them in full. Shoot upward with ambient light behind the pinnacle for dramatic silhouettes, or use strobes close in to reveal the cod's spotted patterns. The Napoleon wrasse, coral trout, and schooling fish provide constant compositional variety throughout the dive.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Cairns Dive Adventures - Cod Hole](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/cod-hole/), [Wikipedia - Cod Hole](https://en.wikipedia.org/wiki/Cod_Hole), [Ribbon Reefs.com - The Cod Hole](https://ribbonreefs.com/the-cod-hole/), [Great Barrier Reef Liveaboards - Cod Hole](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/). Last updated 2026-05-30.*

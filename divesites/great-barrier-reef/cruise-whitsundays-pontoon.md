@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Cruise Whitsundays Pontoon
 
-Cruise Whitsundays Pontoon is a day-trip dive site in the Whitsunday Islands section of the Great Barrier Reef, Queensland, Australia, operated from a permanent pontoon on the outer reef.
+Cruise Whitsundays Pontoon is a day-trip dive site at Hardy Reef, approximately 65km northeast of Airlie Beach in the Whitsunday Islands section of the Great Barrier Reef, Queensland, Australia.
 
 ## Overview
 
-The Cruise Whitsundays pontoon provides the primary structured diving and snorkelling experience for day-trippers from the Whitsunday Islands — one of the most visited sections of the GBR, famous for its white sand beaches, sailing, and tropical island scenery. The pontoon is positioned on the outer reef of the Whitsunday section, giving access to GBR reef that would otherwise require a liveaboard commitment.
+The Cruise Whitsundays Reefworld pontoon provides the primary structured diving and snorkelling experience for day-trippers from the Whitsunday Islands — one of the most visited sections of the GBR. The pontoon is permanently moored at Hardy Reef, giving access to GBR reef that would otherwise require a liveaboard commitment. Reefworld also offers overnight Reef Sleep stays and Reef Suites accommodation on the pontoon.
 
 The diving is characterised by sheltered conditions, shallow depth, and the GBR's southern character — warmer summer water than the northern reef, slightly less visibility on average, but impressive coral gardens and good fish life. This site is particularly well-designed for the many visitors to the Whitsundays who want a first scuba experience without prior training.
 
 ## Site Information
 
-- **Location**: Outer reef, Whitsunday Islands, Great Barrier Reef, Queensland, Australia
+- **Location**: Hardy Reef, approximately 65km northeast of Airlie Beach, Whitsunday Islands, Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 8–20 metres
@@ -60,4 +60,4 @@ The pontoon operation runs with multiple staff in the water at all times during 
 The shallow depth and protected conditions make this an accessible underwater photography venue. Sea turtles are reliably approachable. The reef fish are accustomed to divers and allow close approach. For beginning photographers, this pontoon site offers forgiving conditions to learn without strong current or deep water.
 
 ---
-*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*
+*Sources: [Cruise Whitsundays - Great Barrier Reef](https://www.cruisewhitsundays.com/destinations/great-barrier-reef/), [Visit Whitsunday Islands - Hardy Reef](https://visitwhitsundayislands.com.au/places-to-go/reefs/hardy-reef/), [Barrier Reef Australia - Hardy Reef Reefworld](https://www.barrierreefaustralia.com/things-to-do/tours/whitsundays-great-barrier-reef-pontoon-tour-to-hardy-reef-reefworld.497/). Last updated 2026-05-30.*
