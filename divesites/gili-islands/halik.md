@@ -25,7 +25,7 @@ Halik Reef is on the north side of Gili Trawangan and offers a drift dive suitab
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (beginner sections); full site to 40 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift current
 - **Best Time**: May to October

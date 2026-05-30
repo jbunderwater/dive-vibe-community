@@ -23,9 +23,9 @@ Manta Point (also called Sunset Reef or Sunset Point by local operators) is a ge
 
 - **Location**: Southwest Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18–24 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; generally gentle
 - **Best Time**: May to October

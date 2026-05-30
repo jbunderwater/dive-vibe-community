@@ -14,7 +14,8 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "Manta Dive, Trawangan Dive, PADI"
+      "validation_source": "manta-dive-giliair.com, trawangandive.com, manta-dive.com, gilidivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -34,7 +35,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, PADI, Gili Divers"
+      "validation_source": "gilidivers.com, trawangandive.com, manta-dive.com, terumbudivers.com, padi.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -52,7 +54,8 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "Manta Dive, Trawangan Dive, Gili Shark Conservation"
+      "validation_source": "manta-dive-giliair.com, divinedivers.com, manta-dive.com, gilidivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -67,10 +70,11 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Manta Point",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; also known as Sunset Reef/Sunset Point; manta ray sightings are rare (3-4 confirmed over multiple years per Terumbu Divers); mobula rays more common",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "Manta Dive, PADI, Gili Divers"
+      "validation_source": "terumbudivers.com, manta-dive-giliair.com, trawangandive.com, gilidivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -88,7 +92,8 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "Manta Dive, PADI, Trawangan Stingray Divers"
+      "validation_source": "gilidivers.com, terumbudivers.com, manta-dive.com, divinedivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -108,7 +113,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Trawangan Dive"
+      "validation_source": "trawangandive.com, gilidivers.com, manta-dive.com, divinedivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -123,10 +129,11 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Shark Point",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; Glenn Nusa wreck (22m tugboat, sunk Feb 2016, 28m depth) is between Shark Point and Halik - separate dive, current dependent",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "Manta Dive, Trawangan Dive, Gili Shark Conservation"
+      "validation_source": "manta-dive-giliair.com, terumbudivers.com, divecentralgili.com, manta-dive.com, gilidivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -147,7 +154,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Trawangan Dive"
+      "validation_source": "manta-dive.com, trawangandive.com, gilidivers.com, terumbudivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -162,9 +170,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Lombok Dive",
+      "note": "OSM-sourced entry; no site-specific source found for this exact name across dive operator listings reviewed",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "PADI, Gili Divers"
+      "validation_source": "padi.com, gilidivers.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -184,7 +194,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
+      "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -204,7 +215,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
+      "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -224,7 +236,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
+      "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -244,7 +257,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
+      "validation_source": "manta-dive-giliair.com, trawangandive.com, gilidivers.com, divecentralgili.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -264,7 +278,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
+      "validation_source": "gilidivers.com, manta-dive-giliair.com, trawangandive.com, divecentralgili.com",
+      "last_qa_date": "2026-05-30"
     }
   },
   {
@@ -285,7 +300,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "Manta Dive, PADI, Gili Divers"
+      "validation_source": "manta-dive.com, gilidivers.com, trawangandive.com, padi.com",
+      "last_qa_date": "2026-05-30"
     }
   }
 ]

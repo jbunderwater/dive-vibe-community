@@ -23,7 +23,7 @@ Shallow Turbo is the more beginner-accessible sibling of Deep Turbo in the Gili 
 
 - **Location**: Gili Islands channel
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
