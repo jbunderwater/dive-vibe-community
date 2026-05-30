@@ -3,9 +3,9 @@ name: Faille d'Arue
 lat: -17.516584
 lng: -149.525421
 difficulty: Advanced
-maxDepth: 60
+maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: 663869246
 addedBy: osm_import
