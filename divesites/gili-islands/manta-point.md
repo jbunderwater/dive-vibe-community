@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Manta Point
 
-A seasonal reef site south of the Gili Islands where reef manta rays occasionally visit — a gentle drift through healthy coral with turtle sightings.
+A shallow reef site on the southwest side of Gili Trawangan — good coral, turtles, and reef sharks. Manta ray sightings here are rare.
 
 ## Overview
 
-Manta Point is located south of the Gili Islands chain, in deeper water where the occasional reef manta ray has been sighted. Unlike the near-guaranteed encounters at Nusa Penida, manta ray sightings here are seasonal and less predictable, but when they do occur the shallow, sheltered depth profile at this site makes for exceptionally accessible encounters. The site is primarily a gentle drift reef with healthy corals, resident turtles, and the full complement of Gili Islands reef fish, making it worth diving regardless of manta sightings.
+Manta Point (also called Sunset Reef or Sunset Point by local operators) is a gently sloping Acropora staghorn coral reef on the south side of Gili Trawangan, reaching 5–24 m. Despite the name, manta ray encounters at this specific site are genuinely rare: one long-running local operator reports only 3–4 confirmed sightings across multiple years of operation. Mobula rays (devil rays) are considerably more common, particularly October to December. The site is primarily a relaxed reef dive suitable for all levels, with good coral cover, turtles, and the typical Gili Islands reef fish community. Do not book this site primarily for manta rays — treat any encounter as an unexpected bonus.
 
 ## Site Information
 
-- **Location**: South of Gili Islands, near Lombok coast
+- **Location**: Southwest Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 18–24 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate; gentle drift conditions
+- **Current**: Moderate; generally gentle
 - **Best Time**: May to October
 
 ## Marine Life
 
-Reef manta rays are seasonal visitors — most likely May to October when current patterns are optimal. Resident green and hawksbill turtles. Reef sharks cruise the outer sections. Blue-spotted stingrays on sandy patches between coral heads. Reef fish diversity typical of the Gili Islands: parrotfish, triggerfish, sweetlips, and wrasse.
+Green and hawksbill turtles are reliable sightings. Whitetip reef sharks are regularly seen on the outer reef. Schools of oriental sweetlips, lined snappers, and fusiliers in the mid-water. Peacock mantis shrimp and octopus on sandy patches. Pufferfish and angelfish throughout the reef. Mobula rays (devil rays) are occasionally seen — more frequently than manta rays. Manta ray sightings are rare and unscheduled; do not book this site to see manta rays.
 
 ## Dive Profile
 
-Descend to the reef at 8–18 m and drift gently with the current through the site. Scan both the reef surface and the open water for manta rays — they can appear at any depth level. The coral garden sections are worth slowing down to explore even if manta rays are absent. Complete a 3-minute safety stop before ascending.
+Descend to the sloping staghorn coral reef and drift gently with the current. The coral garden sections between 5–18 m are worth exploring carefully for turtles and reef fish. Scan mid-water for rays — mobulas are the more likely encounter. Complete a 3-minute safety stop before ascending.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Boat from Gili Islands dive operators. Entry via back roll. Drift pickup from bo
 
 ## Tips and Recommendations
 
-- Manta sightings are not guaranteed here — treat any encounter as a bonus
-- The reef and turtle encounters alone make this a worthwhile dive
-- Ask your operator about recent manta sightings before booking this specifically
-- Suitable for Open Water divers as the main reef dive even without mantas
+- Manta rays are genuinely rare at this site — do not book it specifically to see mantas
+- Mobula rays are considerably more common here, especially October to December
+- The staghorn coral garden and turtle encounters make this a quality dive independent of ray sightings
+- Suitable for all experience levels — a good first dive of the day before more demanding sites
 - Combine with another Gili Islands site for a complete diving day
 
 ## Safety Considerations
 
-Standard reef dive precautions apply. Current is gentle but can increase. Manta rays should not be approached closer than 3 m and should not be touched. Always carry an SMB.
+Standard reef dive precautions apply. Current is gentle but can increase. Any rays encountered should not be approached closer than 3 m and should not be touched. Always carry an SMB.
 
 ## Photography
 
-Manta ray encounters at this shallow depth produce bright, natural-light shots. Turtle portraits in the coral garden suit wide-angle. The gentle current allows more time for careful composition compared to stronger drift sites.
+Turtle portraits in the staghorn coral garden suit wide-angle. The gentle current allows relaxed composition. Mobula rays in formation are an excellent wide-angle subject when encountered.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Terumbu Divers – Manta rays in Gili Islands](https://terumbudivers.com/manta-ray-in-gili-islands-lombok-indonesia/), [Manta Dive Gili Air – Sunset Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-05-30.*

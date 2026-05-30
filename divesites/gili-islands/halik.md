@@ -17,22 +17,22 @@ A beginner-friendly drift site on Gili Trawangan's north coast — barrel sponge
 
 ## Overview
 
-Halik Reef is on the northwest side of Gili Trawangan and offers a drift dive suitable for Open Water certified divers, with enough depth and variety to interest more experienced divers as well. The reef starts at around 6 m with huge barrel sponges and gorgonian sea fans, and drops down to 40 m with deeper ridges and canyons. The current here makes it ideal for drift diving, and you can expect to see schools of snapper, eagle rays, giant trevally, lionfish, and white and blacktip reef sharks. The large anemone fields hosting clownfish are a consistent feature throughout the shallower sections.
+Halik Reef is on the north side of Gili Trawangan and offers a drift dive suitable for Open Water certified divers in the shallower sections, with enough depth and variety to interest more experienced divers as well. The reef starts at around 5–6 m with a platform edge and coral bommies, dropping to a small wall at 12 m and continuing via ridges and canyons to 40 m. The current here makes it ideal for drift diving, and you can expect to see schools of snapper, eagle rays, giant trevally, lionfish, and white and blacktip reef sharks. The site also features bumphead parrotfish, sea turtles, and small caves under the wall that often shelter juvenile reef sharks. The JSON max depth of 18 m reflects the recommended recreational depth for beginner divers; the full site extends to 40 m for advanced divers.
 
 ## Site Information
 
-- **Location**: Northwest Gili Trawangan, Gili Islands
+- **Location**: North Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 18 meters (beginner sections); full site to 40 m
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift current
 - **Best Time**: May to October
 
 ## Marine Life
 
-Eagle rays pass in mid-water — a regular sighting. White and blacktip reef sharks cruise the outer reef. Schools of snapper and giant trevally are consistent. Large anemone fields throughout the upper reef with resident clownfish. Lionfish in overhangs. The barrel sponges starting at 6 m are among the largest in the Gili Islands.
+Eagle rays pass in mid-water — a regular sighting. White and blacktip reef sharks cruise the outer reef and deeper sections. Schools of snapper and giant trevally are consistent. Bumphead parrotfish and sea turtles on the reef throughout. Lionfish and moray eels in overhangs. Juvenile reef sharks shelter in the small caves under the wall. Cuttlefish, octopus, and blue-spotted stingrays on sandy patches.
 
 ## Dive Profile
 
@@ -44,11 +44,11 @@ Boat from Gili Trawangan. Drift pickup — enter upstream and follow the reef un
 
 ## Tips and Recommendations
 
-- The giant barrel sponges at 6–10 m are the opening feature of the dive — worth slowing down to examine
-- Scan mid-water to both sides of the reef for eagle rays — they can appear from either direction
-- Suitable for Open Water divers in the upper sections; advanced divers can explore the deeper ridges
-- This site is often called Trawangan Wall and is the same reef system — naming varies by operator
-- Combine with Turtle Point or Shark Point for a northwest Gili Trawangan day
+- Begin on the platform and wall section at 5–12 m before descending to the ridges and canyons
+- Scan mid-water carefully for eagle rays — they can appear from either direction
+- Suitable for Open Water divers in the upper sections (5–18 m); advanced divers can explore the deeper ridges to 40 m
+- Check the caves under the wall for juvenile whitetip reef sharks
+- Combine with Shark Point or Jack Point for a north Gili Trawangan day; the Glenn Nusa wreck (28 m) is accessible nearby when currents allow
 
 ## Safety Considerations
 
@@ -59,4 +59,4 @@ Drift current is always running — do not attempt to fight it or swim upstream.
 Giant barrel sponges framing smaller fish make excellent wide-angle subjects. Eagle rays in clear water suit wide-angle with fast shutter speed. Clownfish portraits in large anemones are accessible throughout the drift.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Gili Divers – Halik dive site](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [PADI – Halik dive site](https://www.padi.com/dive-site/indonesia/halik/). Last updated 2026-05-30.*

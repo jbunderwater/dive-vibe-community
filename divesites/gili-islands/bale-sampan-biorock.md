@@ -17,7 +17,7 @@ One of the Gili Islands' Biorock coral restoration structures — an artificial 
 
 ## Overview
 
-Bale Sampan Biorock is one of more than 120 Biorock structures placed in the waters around the Gili Islands since the program began in 2006, making the Gilis the second largest Biorock project in the world. The steel framework is supplied with a low-voltage electrical current that stimulates limestone accretion — the natural substrate for hard coral — causing coral to grow five times faster than normal and dramatically improving coral survival rates through bleaching events. Located on the east coast of Gili Trawangan to 15 m depth, the structure is now well-colonised with diverse coral and shelters lionfish, batfish, sweetlips, trumpetfish, and pufferfish. It is a cornerstone of the island's reef restoration and conservation education effort.
+Bale Sampan Biorock is one of the Biorock structures placed in the waters around the Gili Islands since the program began in 2004–2005, making the Gilis one of the world's largest Biorock projects — counts vary across sources but exceed 120 structures across the three islands and nearby Lombok. The steel framework is supplied with a low-voltage electrical current that stimulates limestone accretion — the natural substrate for hard coral — causing coral to grow five times faster than normal and dramatically improving coral survival rates through bleaching events. Located on the east coast of Gili Trawangan to 15 m depth, the structure is now well-colonised with diverse coral and shelters lionfish, batfish, sweetlips, trumpetfish, and pufferfish. It is a cornerstone of the island's reef restoration and conservation education effort.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ The steel frame can have sharp metal edges — do not touch the structure. Low-v
 The Biorock structure provides a unique photographic subject showing reef restoration technology. Coral growth patterns on the metal frame contrast with the steel geometry. Lionfish and pufferfish portraits against the coral-covered frame make compelling subjects.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – BioRock](https://manta-dive-giliair.com/gili-islands-dive-sites/biorock-all-levels), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – reef restoration](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Dive Central Gili – Bio Rocks](https://www.divecentralgili.com/blog/3112016). Last updated 2026-05-30.*

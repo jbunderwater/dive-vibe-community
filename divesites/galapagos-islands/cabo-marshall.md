@@ -26,17 +26,17 @@ Cabo Marshall sits on the remote northeast coast of Isabela Island, accessible o
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Typical Visibility**: 6–20 meters (variable; nutrient-rich water reduces visibility)
 - **Current**: Strong, often unpredictable
 - **Best Time**: June to November for manta encounters; hammerheads year-round
 
 ## Marine Life
 
-Giant oceanic manta rays are the star attraction, visiting cleaning stations on the wall where king angelfish and other cleaner fish remove parasites. Multiple mantas may be present simultaneously, circling the cleaning station repeatedly. Scalloped hammerhead sharks school in deeper water off the wall. Galapagos sharks cruise the wall edge. Spotted eagle rays pass through in formation. Marine iguanas can be seen grazing on algae in the shallows -- a behavior unique to the Galapagos. Sea turtles, whitetip reef sharks, barracuda, and large schools of creole fish populate the wall itself.
+Giant oceanic manta rays (Mobula birostris, critically endangered) are the star attraction, visiting cleaning stations on the wall where cleaner wrasse remove parasites. Multiple mantas may be present simultaneously, circling the cleaning station repeatedly. Mobula rays often travel in large schools near the surface. Scalloped hammerhead sharks school in deeper water off the wall. Galapagos sharks cruise the wall edge. Spotted eagle rays pass through in formation. Marine iguanas can be seen grazing on algae in the shallows — a behavior unique to the Galapagos. Sea turtles, whitetip reef sharks, barracuda, and large schools of creole fish populate the wall itself. Sea horses have been confirmed along the wall.
 
 ## Dive Profile
 
-The dive follows the volcanic wall, typically descending to 18-22 meters and drifting with the current along the rock face. The manta cleaning stations are found at specific points along the wall, usually at 12-18 meters depth. When mantas are present, divers settle on the wall below the station and watch from a respectful distance as the rays circle overhead. The wall drops off into deep blue water, so depth awareness is critical. The dive finishes with a gradual ascent along the wall, with the safety stop performed in the shallows near the rocky coastline.
+The dive typically begins with a negative descent onto the underwater plateau at approximately 12 meters — this is the primary manta cleaning station area. Cleaner wrasse wait at fixed positions on the plateau for mantas to arrive. When mantas are present, divers settle on the wall below the station and watch from a respectful distance as the rays circle overhead. The wall drops off to 30–40 meters into deep blue water, so depth awareness is critical. The dive finishes with a gradual ascent along the wall, with the safety stop performed in the shallows near the rocky coastline.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Strong and variable currents are the primary hazard. The exposed northeast coast
 Mantas at cleaning stations offer world-class wide-angle photography. Position yourself below and to the side of the station with a fisheye or ultra-wide lens, shooting upward to silhouette the mantas against the surface light. Strobes are useful for filling the manta's white belly pattern. Hammerhead schools off the wall require fast shutter speeds (1/200+) and good blue-water shooting technique. Marine iguanas grazing on algae in the shallows provide a unique macro or close-focus wide-angle subject found nowhere else on Earth.
 
 ---
-*Sources: [Starfish.ch – Western Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-west.html), [Galapatours – Cape Marshall](https://www.galapatours.com/highlights/cape-marshall-diving), [Aqua Mundo Galapagos – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/). Last updated 2026-05-25.*
+*Sources: [Starfish.ch – Western Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-west.html), [LiveAboard.com – Cabo Marshall](https://www.liveaboard.com/diving/galapagos/cabo-marshall), [Aqua Mundo Galapagos – Cape Marshall](https://aquamundogalapagos.com/poi/cape-marshall/), [Galapagos Conservation Trust – Oceanic Manta Ray](https://galapagosconservation.org.uk/species/oceanic-manta-ray/). Last updated 2026-05-30.*

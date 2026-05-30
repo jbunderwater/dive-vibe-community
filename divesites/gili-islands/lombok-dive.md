@@ -59,4 +59,4 @@ Standard reef dive precautions apply. Currents are moderate — suitable for int
 Sandy patches with cuttlefish or octopus are the best photography subjects. Turtle portraits in natural reef habitat suit wide-angle. Ghost pipefish require macro focus and good torch illumination.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*
+*Description based on general Gili Islands reef diving characteristics and proximity to documented sites. No site-specific sources found for "Lombok Dive" by that exact name — this entry originates from OSM data. Last updated 2026-05-30.*

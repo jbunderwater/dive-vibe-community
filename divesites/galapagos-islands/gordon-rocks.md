@@ -17,7 +17,7 @@ The "washing machine" of the Galapagos -- a submerged volcanic crater delivering
 
 ## Overview
 
-Gordon Rocks is the remains of an eroded volcanic crater, now submerged, creating a channel between two rock formations that funnels powerful currents and concentrates pelagic life. Widely regarded as the most challenging dive in the Galapagos, it earned the nickname "the washing machine" for its intense surge and unpredictable currents. This is the single best site in central Galapagos for schooling scalloped hammerhead sharks, which aggregate in the channel and along the outer walls.
+Gordon Rocks is the remains of an eroded volcanic tuff cone, now largely submerged, with three rocks visible above the surface and four underwater pinnacles (three in the northern crater from 8–30 meters, one central pinnacle at 21–30 meters). The currents that funnel through and around this structure concentrate pelagic life and create the turbulent conditions that earned the site its nickname "the washing machine." Widely regarded as the most challenging dive site operated out of Puerto Ayora, it requires a minimum of 20–25 logged dives at most operators. This is the single best site in central Galapagos for schooling scalloped hammerhead sharks, which aggregate in the crater and along the outer walls.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Schools of scalloped hammerhead sharks are the headline attraction, often seen c
 
 ## Dive Profile
 
-The dive begins with a negative entry and rapid descent into the channel between the two rock formations, typically to 20-30 meters where the hammerheads congregate. Divers tuck into the rocks on the crater wall and hold position against the current while scanning the blue for shark activity. Mid-dive, the guide may signal a move along the wall to a second vantage point. The ascent requires careful timing between surge cycles, and safety stops can be challenging due to the current and swell near the surface.
+The dive descends inside the crater, through a rocky area that drops to a sandy bottom at 30 meters. Most of the dive takes place inside and around the submerged pinnacles, where divers tuck into the rocks and hold position against the current while scanning the blue for shark activity. The outer wall drops to approximately 60 meters — depth awareness is critical. Mid-dive, the guide may signal a move along the crater wall to a second vantage point. The ascent requires careful timing between surge cycles, and safety stops can be challenging due to the current and swell near the surface.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ This is the most demanding dive in the Galapagos and not suitable for inexperien
 Wide-angle is essential here -- bring the biggest dome port you have for hammerhead schools against the blue water backdrop. The channel between the rock formations creates dramatic silhouette opportunities with sharks overhead. Sea lions in the shallows offer engaging close-up wide-angle subjects. Macro is impractical due to surge and currents. Shoot on high shutter speed (1/200+) to freeze motion in the turbulent water. Morning light penetrating the channel provides the best natural illumination.
 
 ---
-*Sources: [Scuba Iguana – Gordon Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/gordon-rocks-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). Last updated 2026-05-25.*
+*Sources: [Scuba Iguana – Gordon Rocks](https://scubaiguana.com/our-dive-center/daily-diving-tours/gordon-rocks-galapagos-dive-site/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [Happy Gringo – Gordon Rocks Dive Guide](https://happygringo.com/blog/gordon-rocks-galapagos-diving/), [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/). Last updated 2026-05-30.*

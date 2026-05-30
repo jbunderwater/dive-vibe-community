@@ -17,7 +17,7 @@ A shallow reef dive off South Plaza Island where a large sea lion colony turns e
 
 ## Overview
 
-Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and South Plaza are divided by a narrow channel. The dive takes place in this channel, over a sandy and silt bottom with strong currents possible. Multiple sources describe this as a relatively accessible site — not dominated by dramatic topography, but by an active sea lion colony whose members descend to play with divers at close quarters. The sandy bottom supports Pacific garden eels, and the channel edges attract rays, sharks, and sea turtles. Gordon Rocks briefings are sometimes conducted here at Plazas, which is just five minutes away — Plazas doubles as a staging and equipment-check location for the demanding crater dive.
+Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and South Plaza are divided by a narrow channel. The dive takes place on the seaward side of the islets, over a sandy and rocky bottom at 15–18 meters with strong currents possible. The site is used as a check dive and staging point — Gordon Rocks is just minutes away. The sandy bottom supports Pacific garden eels, and the channel edges attract rays, sharks, and sea turtles. Note: the sea lion colony beaches on the opposite side of the islet from the dive site, so underwater sea lion encounters here are possible but not a guaranteed feature — they are more reliable at Mosquera and North Seymour. Gordon Rocks briefings are sometimes conducted here, with Plazas serving as an equipment-check location before the demanding crater dive.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and
 
 ## Marine Life
 
-Galapagos sea lions are the defining attraction — the colony uses the islets as a base and individuals approach divers directly, making sharp turns, blowing bubbles, and spiraling at close range. Pacific garden eels emerge from the sandy channel floor in large numbers, swaying in the current and retreating into their burrows as divers approach. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
+Pacific garden eels are the most reliable encounter, emerging from the sandy floor in large numbers and retreating into their burrows as divers approach. Sea lions may visit the dive site, but the colony beaches on the opposite (landward) side of the islet — underwater interactions here are opportunistic, not guaranteed. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
 
 ## Dive Profile
 
@@ -47,11 +47,11 @@ Day boat from Puerto Ayora with a short transit. Giant stride entry into the cha
 - Gordon Rocks trips sometimes include a Plazas check dive first — use this time to dial in your weighting for Galapagos conditions
 - Approach garden eel colonies very slowly and low to the bottom; they disappear rapidly if disturbed
 - Current can pick up quickly; carry a reef hook if you want to hold position
-- This site works well for wide-angle photography of sea lions against the sandy bottom backdrop
+- Garden eel colonies make for interesting macro photography — approach slowly and low for best results
 
 ## Safety Considerations
 
 The channel between the islets can funnel strong tidal currents without warning. Despite the shallower depths, be prepared for genuine drift conditions and stay oriented relative to your exit point. Sea lions are playful but protect loose gear from curious pups. Standard Galapagos thermal protection applies (water temperature 17-25°C seasonally). Carry an SMB and signaling devices.
 
 ---
-*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-25.*
+*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-30.*
