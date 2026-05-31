@@ -4,38 +4,42 @@ addedBy: osm_import
 
 ## Greenland
 
-Extreme Arctic diving with icebergs and unique polar marine life.
+Extreme Arctic diving with icebergs, rocky reefs, and cold-water marine life in one of the world's most remote dive destinations.
 
 ## Description
 
-Greenland is a notable diving destination in the Arctic region, offering diverse dive sites with depths ranging from 18 to 18 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
+Greenland offers niche Arctic diving for experienced cold-water divers, concentrated primarily along the west coast (Disko Bay, Sisimiut, Aasiaat, Maniitsoq) and in the east (Tasiilaq, Sermilik Fjord, Scoresby Sund). The dive season runs from June to September, when fjords are navigable and visibility peaks. Water temperatures remain near -1 to 4°C at dive depth year-round, making drysuit diving with cold-water regulators mandatory. Visibility typically reaches 10–20 metres in calm conditions but can be sharply reduced near glacial meltwater outflows — some areas near active glaciers have near-zero horizontal visibility.
 
 ### Diving Opportunities
 
-- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Rocky Reef Diving**: The predominant dive type. Granite boulders and ledges support dense kelp forests, sea anemones, sea urchins, starfish, sea cucumbers, and cold-water invertebrates including skeleton shrimp and amphipods. Atlantic wolffish (locally called "catfish"), lumpsucker, and sculpin are among the regularly documented fish species.
+- **Wreck Diving**: A small number of historic wrecks exist in Greenlandic waters. The most documented diveable wreck is the Borgin, a wooden schooner that caught fire and sank in 1954 near Sisimiut, resting upright at approximately 25 metres with its masts near the surface. Other wrecks are less documented.
+- **Iceberg Diving**: Diving alongside or beneath stranded icebergs is one of Greenland's most distinctive experiences. Operators near Ilulissat and Sisimiut run iceberg dives when conditions allow. Every iceberg dive site is transient — icebergs melt and shift.
+- **Ice Diving**: Under-ice diving through drilled or natural holes is possible in March–April. This requires specialist training and equipment beyond standard cold-water certification.
 
 ### Accessibility
 
-- **Getting There**: Greenland is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: International flights connect Copenhagen to Nuuk (Air Greenland), with domestic connections to Ilulissat, Sisimiut, Aasiaat, Maniitsoq, and Tasiilaq. Helicopter services operate between settlements without airstrips.
+- **Dive Operators**: Commercial dive operations are sparse. Documented operators include Arctic Dream (Tasiilaq area, east Greenland), Northern Explorers (German-Norwegian liveaboard operator), and Sirius Greenland (Sisimiut area, west Greenland). Blue Green Expeditions runs expedition-vessel diving in east Greenland fjords.
+- **Accommodation**: Guesthouses, hotels, and expedition vessels. Dedicated dive resorts do not exist; diving is typically arranged through local operators or expedition packages.
+- **Certification Requirement**: A minimum Advanced Open Water certification is required by most operators. Cold-water diving experience and dry-suit certification are strongly recommended. Remote sites effectively require advanced or technical diving credentials.
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from -1 to 8°C (30-46°F) with visibility of 10-30 meters (30-100 feet). Currents are generally variable, tidal currents.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests, sea urchins, starfish.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+Greenland's cold, nutrient-rich waters support distinctive Arctic fauna. Documented species at comparable west Greenland rocky reef sites include: Atlantic wolffish, lumpsucker, sculpin, polar cod, Icelandic scallop, sea angel (*Clione limacina*), nudibranchs, sea urchins, starfish, sea cucumbers, kelp forests, sea anemones, hydroids, and bristle worms. Humpback, minke, and fin whales feed in Disko Bay and adjacent fjords during summer; harbour and ringed seals are present throughout. Encounters with marine mammals while diving cannot be guaranteed at any specific site.
+
+No tropical or warm-water corals are present. The term "coral reef" does not apply to any Greenland dive site; sites are rocky reef, bank, or wreck.
+
+### Safety
+
+The nearest hyperbaric chambers are in Nuuk and Copenhagen; emergency medevac from remote sites can take many hours. No decompression facilities exist in northeast Greenland. Hypothermia is the primary risk. Icebergs can capsize suddenly and without warning — dive operators maintain strict safe distances. Tidal currents around island channels can be strong and variable.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to September. Outside the main season, conditions may be less favorable.
+- **Best Time to Visit**: June to September. April is considered by some operators to offer optimal light (midnight sun begins in May north of the Arctic Circle) and iceberg conditions.
 - **Currency**: Danish Krone (DKK)
-- **Language**: Greenlandic, Danish
-- **Safety**: Always dive within certification limits. Be aware of extreme cold, hypothermia risk, ice. Verify the location of the nearest hyperbaric chamber before diving.
+- **Language**: Greenlandic (Kalaallisut), Danish
+- **Water Temperature**: -1 to 4°C at depth year-round; surface temperatures slightly warmer in summer
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Sources: [Visit Greenland — Diving](https://visitgreenland.com/activities/diving/), [Guide to Greenland — Diving in Greenland](https://guidetogreenland.com/travel-blogs/erling-svendsen/diving-in-greenland/), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [SSI — Ice Diving in East Greenland](https://www.divessi.com/en/blog/ice-diving-at-its-best-in-the-east-of-greenland-5741.html), [Inside Scuba — Embracing the Cold](https://insidescuba.online/p/embracing-the-cold-an-arctic-diving-adventure). Last updated 2026-05-31.*

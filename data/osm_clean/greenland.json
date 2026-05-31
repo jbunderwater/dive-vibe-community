@@ -14,10 +14,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay area, Arctic rock formations"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, guidetogreenland.com, adrex.com",
+      "validation_note": "Rocky reef near Aasiaat, south of Disko Bay. Regional sources confirm Arctic kelp reef diving in this area but no site-specific sources found for Aasiaat Nugguat. Depth 20m unconfirmed — OSM value retained. Cannot mark validated without 3+ site-specific sources.",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -35,14 +35,15 @@
       "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
       "name:da": "Sukkertoppen Banke",
       "natural": "reef",
+      "reef": "rock",
       "source": "osm_extended",
       "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
       "source:type": "BANK",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rocky bank"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, guidetogreenland.com",
+      "validation_note": "Shallow rocky bank in west Greenland waters near Maniitsoq (Sukkertoppen). OSM tags this as a natural bank (Banke). No site-specific dive sources found. Depth 18m is OSM value, unconfirmed.",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -61,10 +62,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland wreck"
+      "validated": "false",
+      "validation_source": "openstreetmap.org",
+      "validation_note": "OSM seamark wreck at 74.7N 18.3W (northeast Greenland, likely Scoresby Sund area). No independent sources found confirming vessel identity, history, tonnage, dimensions, sinking cause, or dive conditions. Name 'Carl' appears only in OSM data. Depth 40m is unconfirmed. Cannot validate without 2+ independent wreck history sources. Deep research required from Greenlandic maritime records.",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -85,10 +86,10 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rock formation"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, wikipedia.org",
+      "validation_note": "Rocky reef near abandoned settlement of Nuugaatsiaq, northwest Greenland. No site-specific dive sources found. Nuugaatsiaq was evacuated after 2017 landslide-tsunami (confirmed by USGS and Wikipedia) but no dive surveys of underwater topography changes confirmed. Depth 22m is OSM value.",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -109,10 +110,10 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay rocky site"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, guidetogreenland.com",
+      "validation_note": "Rocky reef in Disko Bay region of west Greenland. No site-specific dive sources found. Depth 16m is OSM value. Regional sources confirm Disko Bay area features rocky kelp reefs with anemones and cold-water fauna.",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -133,10 +134,10 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "North of Disko Bay, Arctic diving"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, guidetogreenland.com",
+      "validation_note": "Rocky reef north of Disko Bay, west Greenland. No site-specific dive sources found. Depth 18m is OSM value. Coordinates place this north of Ilulissat.",
+      "last_qa_date": "2026-05-31"
     }
   }
 ]
