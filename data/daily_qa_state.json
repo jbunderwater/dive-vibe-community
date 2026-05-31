@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "greece",
-    "greenland",
-    "grenada",
-    "guadeloupe",
-    "guam",
-    "halmahera",
     "hawaii",
     "hawaii-big-island",
     "hawaii-kauai",
@@ -174,7 +168,13 @@
     "galapagos-islands",
     "gili-islands",
     "great-barrier-reef",
-    "great-lakes"
+    "great-lakes",
+    "greece",
+    "greenland",
+    "grenada",
+    "guadeloupe",
+    "guam",
+    "halmahera"
   ],
   "history": [
     {
@@ -877,6 +877,89 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/79"
+    },
+    {
+      "date": "2026-05-31",
+      "slugs": [
+        "greece",
+        "greenland",
+        "grenada",
+        "guadeloupe",
+        "guam",
+        "halmahera"
+      ],
+      "summary": {
+        "sites_total": 85,
+        "sites_validated_today": 30,
+        "sites_re_audited": 55,
+        "hallucinations_removed": 46,
+        "marine_life_stripped": 31,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 28,
+        "by_destination": {
+          "greece": {
+            "sites_total": 13,
+            "sites_validated_today": 4,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 9,
+            "notes": "SS Probitas coords confirmed Albania not Greece; Aksona site_type reef\u2192wall; fabricated anchor claim removed from Mononaftis"
+          },
+          "greenland": {
+            "sites_total": 6,
+            "sites_validated_today": 0,
+            "sites_re_audited": 6,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 6,
+            "notes": "Coral reef corrected to Rocky reef across all sites; Carl wreck unverifiable; all validated=false (single-source perplexity validation revoked)"
+          },
+          "grenada": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Northern Exposure false north-coast framing corrected; Shakem Wreck spiral staircase removed; Boss Reef Caribbean reef sharks removed; Bianca C length conflict 536ft vs 180m flagged"
+          },
+          "guadeloupe": {
+            "sites_total": 30,
+            "sites_validated_today": 8,
+            "sites_re_audited": 19,
+            "hallucinations_removed": 14,
+            "marine_life_stripped": 11,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 8,
+            "notes": "Duplicate site deleted (wrong coords); L Aquarium location error corrected (Les Saintes not Cousteau Reserve); La Baleine confirmed as An\u00e9mone 1824 wreck by archaeology; \u00c9pave de Caret depth 18m\u21923m"
+          },
+          "guam": {
+            "sites_total": 8,
+            "sites_validated_today": 6,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "SAFETY: Blue Hole entry shore\u2192boat (45m cliff); Gab Gab military access restriction added; Tokai Maru UXO depth charges warning added; length 139m\u2192134m"
+          },
+          "halmahera": {
+            "sites_total": 16,
+            "sites_validated_today": 12,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "USS PT-371 length 24m\u219221m; Makian Black Sand epaulette shark year 2008\u21922013; Tosei Maru OSM date 1941-12-12 flagged as unverifiable; Bristol Plane confirmed as 2x RAAF Beauforts"
+          }
+        }
+      },
+      "pr_url": null
     }
   ]
 }
