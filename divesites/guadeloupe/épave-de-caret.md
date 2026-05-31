@@ -2,8 +2,8 @@
 name: Épave de Caret
 lat: 16.3617054
 lng: -61.6482558
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 3
 entryType: boat
 siteType: wreck
 ref: null

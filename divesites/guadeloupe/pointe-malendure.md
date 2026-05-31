@@ -23,7 +23,7 @@ Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terr
 
 - **Location**: Malendure Beach, Basse-Terre, Guadeloupe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terr
 
 ## Marine Life
 
-The seagrass zone near the entry hosts hawksbill turtles feeding on vegetation and occasionally resting on the sandy bottom. As depth increases, grey and French angelfish (known in French as "anges royaux") become prominent, often swimming in pairs around large coral heads. The deeper reef platform supports barracuda, snappers, and grunts in larger numbers. Eagle rays and the occasional Caribbean reef shark are seen in the open water above the deeper platform.
+ScubaGo's database for Pointe Malendure records barracuda, snapper, cassava, and lionfish as common species around the large rocks, with sea urchins and other small invertebrates on the seabed. Visibility at this site tends to be lower than the Cousteau Reserve sites. Note: "eagle rays and the occasional Caribbean reef shark" claimed in the previous version were not confirmed in sources specifically for Pointe Malendure and have been removed. "Hawksbill turtles feeding on seagrass" is plausible for the seagrass transition zone and is supported by the broader Malendure area documentation, but no source specifically for this shore dive site confirms it.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Keep the guide rope in sight throughout the dive — without it, navigation in o
 The seagrass zone provides an unusual photographic environment for a Caribbean reef dive — wide-angle turtle portraits in the seagrass are distinctive. The deeper reef platforms offer classic reef compositions. Natural light is excellent throughout the depth range, particularly in morning hours.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [ScubaGo — Pointe Malendure dive site](https://www.scubago.com/en/explore/divesite/pointe-malendure-113628), [DiveAdvisor — La Pointe Malendure](https://diveadvisor.com/guadeloupe/la-pointe-malendure), [Les Heures Saines — map of spots](https://www.heures-saines.gp/en/map-of-spots/). Last updated 2026-05-31.*

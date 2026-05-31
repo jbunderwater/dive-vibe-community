@@ -24,7 +24,7 @@ The wreck measures 48.32 metres long and 7.6 metres wide, with a tonnage of 416 
 ## Site Information
 
 - **Location**: Cousteau Reserve area, Malendure, Basse-Terre, Guadeloupe
-- **Entry Type**: Boat dive (~1 mile from Malendure)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters

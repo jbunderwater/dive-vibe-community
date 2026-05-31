@@ -23,7 +23,7 @@ Sitting in the sheltered waters near the Jacques Cousteau Underwater Reserve, th
 
 - **Location**: Malendure, Basse-Terre, Guadeloupe (near Pigeon Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters

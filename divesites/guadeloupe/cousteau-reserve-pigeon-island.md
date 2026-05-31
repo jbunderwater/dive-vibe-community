@@ -23,7 +23,7 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 - **Location**: Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters

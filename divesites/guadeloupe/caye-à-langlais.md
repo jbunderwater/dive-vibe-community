@@ -28,7 +28,7 @@ The Grand Cul-de-Sac Marin covers around 15,000 hectares and encompasses seagras
 
 ## Marine Life
 
-The Grand Cul-de-Sac Marin reef system hosts nearly 250 fish species and 60 species of coral, sponges, and gorgonians. Species documented in this protected lagoon include French angelfish, yellowtail snapper, hawksbill turtles, red starfish, schooling reef fish, sea urchins, and crustaceans. Seagrass areas near the reef support juvenile fish.
+No site-specific marine life reports found for Caye à l'Anglais as a named dive site. This is an OSM-sourced reef node with no dedicated dive guide documentation. The Grand Cul-de-Sac Marin reserve overall supports approximately 250 fish species per reserve documentation, but species attributed specifically to this node have not been confirmed. Guadeloupe's regional Caribbean fauna applies.
 
 ## Notes
 
@@ -36,4 +36,4 @@ No site-specific published dive guide documentation has been found for Caye à l
 
 ---
 
-*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-31.*

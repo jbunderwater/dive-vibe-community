@@ -29,7 +29,7 @@ The wreck has 15 cabins and gangways accessible to divers. It is the deepest of 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters (range: 29–33 m across sources)
+- **Maximum Depth**: 33 meters
 - **Certification Required**: PADI Advanced Open Water / CMAS 2 minimum
 
 ## Marine Life

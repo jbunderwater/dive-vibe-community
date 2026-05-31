@@ -30,7 +30,7 @@ The Grand Cul-de-Sac Marin encompasses approximately 15,000 hectares and hosts t
 
 ## Marine Life
 
-The broader Grand Cul-de-Sac Marin reef ecosystem documented by Guadeloupe Islands Tourism includes French angelfish, yellowtail snapper, hawksbill turtles, red starfish, sea urchins, crustaceans, and schooling reef fish. Seagrass zones adjacent to reef structures attract juvenile fish and herbivorous species.
+No site-specific marine life reports found for Frégate-de-Bas as a named dive site. This is an OSM-sourced reef node with no dedicated dive documentation. The broader Grand Cul-de-Sac Marin reserve supports 250 fish species overall but no species have been documented specifically at this node. Guadeloupe's regional Caribbean fauna applies.
 
 ## Notes
 
@@ -38,4 +38,4 @@ No site-specific published dive guide documentation has been located for Frégat
 
 ---
 
-*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-31.*

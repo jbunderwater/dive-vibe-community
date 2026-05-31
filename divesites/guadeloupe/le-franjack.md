@@ -28,7 +28,7 @@ The wreck lies flat on its keel. The forward cabin has collapsed, but the remain
 - **Location**: Malendure, Bouillante, Basse-Terre, Guadeloupe (Cousteau Reserve area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (suitable for all certified divers from PADI Open Water / N2 FFESSM)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 
 ## Marine Life

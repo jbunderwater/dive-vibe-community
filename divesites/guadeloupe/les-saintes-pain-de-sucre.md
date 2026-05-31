@@ -23,7 +23,7 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 - **Location**: Pain de Sucre Bay, Terre-de-Haut, Îles des Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 ## Marine Life
 
-Sea turtles are abundant throughout the bay and extremely relaxed around divers. Nurse sharks rest under coral overhangs at the base of the reef. French angelfish, grey angelfish, and large parrotfish patrol the reef slope. Schools of yellowtail snappers and grunts gather around coral structures. Spotted eagle rays visit the deeper sandy sections, and Caribbean reef sharks occasionally appear in the blue water above the reef.
+The Snorkeling Report documents the following species specifically at Pain de Sucre: sea fans (gorgones), sponges, surgeonfish, butterfly fish, jacks, and damselfish — confirmed from shore/boat access to the reef. The les-saintes.com local tourism site notes multicoloured gorgones, sponges, flamingo tongue snails, and sabella at this site. Note: nurse sharks, spotted eagle rays, and Caribbean reef sharks cited in the previous description were not confirmed in sources specifically for Pain de Sucre bay and have been removed.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current around the headlands flanking the bay can be strong — stay within the 
 Pain de Sucre offers some of the best ambient-light turtle photography in Guadeloupe, with clear water and relaxed animals that allow close approaches. Wide-angle reef shots looking up toward the sugarloaf silhouette above the surface create dramatic above-and-below split-level images. The visibility and depth make compact cameras and GoPros highly effective.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Snorkeling Report — Pain de Sucre, Les Saintes](https://www.snorkeling-report.com/spot/snorkeling-pain-de-sucre-guadeloupe/), [Les-Saintes.com — Plage du Pain de Sucre](https://www.les-saintes.com/plage-pain-de-sucre.php), [Lesilesdeguadeloupe.com — Diving in Les Saintes](https://www.lesilesdeguadeloupe.com/tourism/en-us/activities/6748-plongee-des-saintes). Last updated 2026-05-31.*

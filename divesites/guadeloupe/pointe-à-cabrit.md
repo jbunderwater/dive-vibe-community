@@ -3,7 +3,7 @@ name: Pointe à Cabrit
 lat: 15.8775259
 lng: -61.601923
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: wall
 ref: null

@@ -2,7 +2,7 @@
 name: Lynndy
 lat: 15.8710183
 lng: -61.5844046
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: wreck
@@ -26,7 +26,7 @@ As of the most recent documentation available, the hull had not yet accumulated 
 ## Site Information
 
 - **Location**: Anse Mire, Terre-de-Haut, Îles des Saintes, Guadeloupe
-- **Entry Type**: Boat dive (10-minute walk from Terre-de-Haut pier to Anse Mire beach, then boat)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters

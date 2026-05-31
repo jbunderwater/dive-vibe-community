@@ -23,8 +23,8 @@ Les Heures Saines describes La Caye as "Malendure's nursery," with depth ranging
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (all certified divers)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Generally calm; suitable for all levels

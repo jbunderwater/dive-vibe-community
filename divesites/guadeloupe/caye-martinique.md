@@ -23,7 +23,7 @@ The reef structure at Caye Martinique rises from a sandy lagoon floor and forms 
 
 - **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ The reef structure at Caye Martinique rises from a sandy lagoon floor and forms 
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly seen at this site, and southern stingrays rest on sandy clearings between coral formations. French grunts, yellowtail snappers, and squirrelfish form dense aggregations in the midwater. Spotted morays and conger eels occupy deeper crevices. Eagle rays are occasional visitors, particularly in the early morning.
+No site-specific marine life reports found for Caye Martinique as a named dive site. This is an OSM-sourced reef node. All species in the previous version (turtles, stingrays, grunts, eagle rays, etc.) were regional Caribbean generics not confirmed at this specific site and have been removed. Guadeloupe's regional Caribbean fauna applies.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Monitor air consumption carefully at depth — the sandy bottom at 18 meters can
 The bright lagoon water and coral-head formations provide natural-light portrait opportunities at 8–15 meters. Wide-angle shots capturing turtles or stingrays against coral backdrops are the highlight of this site.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-31.*
