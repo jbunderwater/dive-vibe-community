@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage between Terre-de-Haut and Terre-de-Bas in Les Saintes. The site combines wall diving with a historic wreck component — the Épave de la passe de la Baleine is believed to be the remains of the Anémone, a French Navy schooner dating to 1823 that sank in 1824. The passage creates current-driven conditions with excellent visibility, and the combination of historic wreck, wall structure, and strong fish life makes this one of Les Saintes' most interesting dives. Maximum depth reaches 25 meters. Visibility averages 25–30 meters. Water temperature is 25–27°C.
+La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage between Terre-de-Haut and Terre-de-Bas in Les Saintes. The site's most significant feature is the wreck of the Anémone — a French Navy schooner built in Bayonne in 1823 that sank in the hurricane of 7–8 September 1824, killing all 29 crew including Captain Guillotin. The vessel had been assigned to patrol these waters to suppress the illicit slave trade. The wreck lies at approximately 25 metres depth and was the subject of systematic archaeological excavations from 2015 to 2019, with 554 artifacts catalogued across approximately 63 square metres of excavation area; the site had been extensively looted in the 1990s before formal investigation began. The wreck identity was established through archival research for a PhD thesis in 2013. Maximum depth at this site reaches 25 metres.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage 
 
 ## Marine Life
 
-The tidal current through the passage concentrates filter feeders — sea fans and sea whips are dense and fully extended in the flow. Schools of gorettes and creole wrasse station in the current. Eagle rays and Caribbean reef sharks use the passage to move between the open Atlantic and the Caribbean side. The wreck remains, after two centuries, are substantially buried and encrusted but attract large groupers and lobsters around the old ironwork and ballast. Hawksbill turtles navigate the passage regularly. Barracuda are abundant in the mid-water column.
+No site-specific marine life reports for La Baleine passage are available in published dive guides. The broader Les Saintes area supports typical French Caribbean reef fauna. The wreck remains of the Anémone, after two centuries, are partially buried and heavily encrusted; they attracted significant archaeological interest (excavated 2015–2019) and had been looted in the 1990s before investigation began. What specific marine life inhabits the wreck site has not been independently documented in dive guides consulted.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current in the passage can be strong — this is a fundamental feature of the si
 La Baleine is an excellent current dive photography site. Sea fans fully extended in the current flow with divers drifting behind create compelling wide-angle images. Reef sharks cruising through the passage in clear water are dramatic. The historic wreck remains, covered in two centuries of encrustation, create unique macro subjects unlike the deliberately sunk artificial reefs elsewhere in Guadeloupe.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [ACUA — End of Game on the Anémone Site, Les Saintes](https://acuaonline.org/deep-thoughts/end-of-game-on-anemone-wreck-site-les-saintes-guadeloupe-fwi/), [The Conversation — L'Anémone: de Bayonne à la Baie des Saintes](https://theconversation.com/lanemone-de-bayonne-a-la-baie-des-saintes-une-epave-hors-du-commun-167821), [HAL Science — Overview of Anémone wreck project 2015–2019](https://hal.science/hal-03479619). Last updated 2026-05-31.*

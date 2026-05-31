@@ -32,7 +32,7 @@ Piscine sits in the natural shelter created between the twin islets of Pigeon Is
 
 ## Marine Life
 
-Despite the shallow depth, marine life is surprisingly varied. Parrotfish, sergeant majors, wrasse, and damselfish are found throughout the rocky substrate. Hawksbill turtles regularly enter the pool to rest or feed on seagrass attached to rocks. Juvenile fish of many species use the calm water as a nursery habitat, making Piscine an excellent place to observe small and young marine life in close detail.
+The vacances-guadeloupe.fr source documents the following species specifically at La Piscine: lizardfish, Spanish mackerel, long-nosed seahorses, barracudas, lionfish, stingrays, and boxfish (coffre). The site is described as having a sand bottom that illuminates the water with white light. Note: the claim about "hawksbill turtles regularly enter the pool to rest or feed" is not confirmed in sources specifically for this site and has been removed; turtle presence at this depth and location is plausible but unverified.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The primary hazard here is boat traffic — always remain within the protected p
 The calm, clear, shallow water of Piscine is extraordinary for natural-light photography. Compact cameras and action cameras perform at their best here. Close-focus wide-angle shots of fish and turtles in bright ambient light are possible without any artificial lighting.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Vacances Guadeloupe — Cousteau Reserve sites](https://vacances-guadeloupe.fr/reserve-cousteau-5-sites-de-plongee-decouverte-recif-coralien-guadeloupe/), [Cousteau Reserve — official site](https://www.reserve-cousteau.fr/en), [Voyageguadeloupe — Réserve Cousteau](https://www.voyageguadeloupe.fr/guide-guadeloupe/attraction/reserve-cousteau). Last updated 2026-05-31.*

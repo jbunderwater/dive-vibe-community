@@ -29,12 +29,12 @@ The site is located at Plage Caraïbe in Pointe-Noire, on the western coast of B
 
 ## Marine Life
 
-The western Basse-Terre reef ecosystem supports typical Caribbean shallow-water species. The broader region hosts the Cousteau Reserve's documented fauna including yellowtail snapper, French angelfish, hawksbill turtles, southern stingrays, hogfish, and lobsters. Night dives are also available from this operator for observing nocturnal reef behaviour.
+The operator Anse Caraïbe Plongée documents coral gardens and drop-offs with multicoloured fish, sea turtles, moray eels, and crustaceans at this site. No independent species survey for this specific bay has been published. Regional species not attributed to this specific location have been removed. Night dives are available through the club.
 
 ## Notes
 
-This entry refers to the bay dive site at Anse Caraïbe / Pointe-Noire. The operator Anse Caraïbe Plongée is based here; site-specific species documentation for this particular bay has not been separately published but conditions are consistent with the wider Basse-Terre western reef system.
+Anse Caraïbe Plongée was created in 2000 by instructor Jazz. The club runs small groups (maximum 12 divers) and offers baptism dives from age 6.
 
 ---
 
-*Sources: [Anse Caraïbe Plongée — operator site](https://anse-caraibe-plongee-guadeloupe.org/), [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/). Last updated 2026-05-17.*
+*Sources: [Anse Caraïbe Plongée — operator site](https://www.plongee-guadeloupe-reserve-cousteau.fr/), [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/), [Petit Futé — Anse Caraïbe Plongée](https://www.petitfute.co.uk/v36593-pointe-noire-97116/c1171-sports-loisirs/c290-loisirs-et-sports-nautiques/c287-plongee-apnee/55541-anse-caraibe-plongee.html). Last updated 2026-05-31.*

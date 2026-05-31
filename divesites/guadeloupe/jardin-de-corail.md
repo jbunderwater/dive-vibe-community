@@ -32,7 +32,7 @@ This site on the northern face of Pigeon Island's inner islet is named for its r
 
 ## Marine Life
 
-Fish populations at Jardin de Corail benefit from years of protection under the reserve designation. Large French angelfish approach divers closely, and schools of blue tangs sweep over the coral mounds. Green and hawksbill turtles are seen on virtually every dive. Barracuda patrol the reef edges, and Caribbean reef sharks occasionally visit from deeper water. The coral carpet itself hosts enormous biodiversity — flamingo tongues on sea fans, banded coral shrimp in anemones, and juvenile fish sheltering in branching corals.
+Multiple operator sites document the following species at Jardin de Corail: barracudas, Spanish mackerel, sea turtles (hawksbill confirmed), moray eels, groupers, parrotfish, angelfish (French and grey), surgeonfish, and trevallies. The Tribloo listing confirms nudibranchs on coral heads. The Cousteau bust at 12 m is noted in multiple sources as a landmark where Platax (batfish) are encountered at depth. Flamingo tongues on sea fans are documented by reserve information. The claim that "Caribbean reef sharks occasionally visit from deeper water" is not specifically confirmed at this site in sources consulted and has been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ As with all Cousteau Reserve sites, respect the protected status — no touching
 Jardin de Corail is one of the French Caribbean's premier photography destinations. The Cousteau bust at depth is an iconic wide-angle subject, particularly when framed against a diver or turtle. The coral carpet at 3 meters in morning light photographs beautifully without strobes. Macro subjects are abundant on coral and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Tribloo — The Coral Garden, Cousteau Reserve](https://tribloo.com/en/dive-sites/450/the-coral-garden.html), [Vacances Guadeloupe — Cousteau Reserve sites](https://vacances-guadeloupe.fr/reserve-cousteau-5-sites-de-plongee-decouverte-recif-coralien-guadeloupe/), [Cousteau Reserve — official site](https://www.reserve-cousteau.fr/en). Last updated 2026-05-31.*
