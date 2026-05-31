@@ -23,7 +23,7 @@ Batu Jabu is an oval-shaped reef built around a submerged rock seamount whose ti
 
 - **Location**: Off Pulau Kusu, Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
@@ -48,4 +48,4 @@ Dive the current-exposed face when conditions allow for the best fish density, t
 The Patinti Strait is characterised by strong tidal currents. While Batu Jabu is generally more manageable than Proco Channel, conditions can change rapidly. Carry an SMB on every dive. Halmahera is remote — emergency access to a recompression chamber requires evacuation to Manado. Water temperature is 27–30°C year-round.
 
 ---
-*Sources: [IndoPacificImages – South-West Halmahera Scuba Diving Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/), [Jakare Liveaboard – Halmahera Dive Sites](https://jakare-liveaboard.com/destination/halmahera-moluques/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*
+*Sources: [Neptune Liveaboards – Halmahera](https://www.neptuneliveaboards.com/blog/halmahera-diving/), [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [IndoPacificImages – South-West Halmahera Scuba Diving Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/). Last updated 2026-05-31.*

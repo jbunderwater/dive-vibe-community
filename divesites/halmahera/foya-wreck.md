@@ -17,7 +17,7 @@ Foya Wreck is a historic wreck dive in Weda Bay, on the east coast of Central Ha
 
 ## Overview
 
-Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese World War II vessel — a 35-metre steamer believed to have served as a sub-chaser — resting in excellent condition at depths of 10 to 30 metres in Weda Bay. The wreck sits upright on a sandy slope, its structure still largely intact, and has been colonised by soft corals and sponges over the decades. It is one of the few documented WWII dive sites on the east coast of Halmahera, offering both historical interest and healthy marine life in a relatively sheltered bay environment.
+Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a vessel resting in excellent condition at depths of 10 to 30 metres in Weda Bay. Weda Resort describes it as a 35-metre vessel believed to have served as a sub-chaser, and characterises it as Japanese WWII in origin. The wreck sits upright on a sandy slope, its structure still largely intact after decades underwater. **Note on historical claims**: The WWII Japanese origin, vessel type, and sinking cause are stated by Weda Resort as the discovering operator, but could not be independently verified from a second source. No vessel name, tonnage, build date, or sinking date has been confirmed across two independent historical sources. This information is reported as stated by the operator but should not be taken as confirmed historical fact until additional sources are identified.
 
 ## Site Information
 
@@ -30,7 +30,7 @@ Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese Worl
 
 ## Marine Life
 
-The wreck and surrounding sandy areas support a mix of reef fish and macro life typical of Weda Bay. Pygmy seahorses, turtles, and giant groupers have been recorded in the broader bay environment. The wreck's structure provides shelter for nudibranchs and encrusting invertebrates, while larger pelagics such as blacktip reef sharks and Napoleon wrasse are regular visitors to Weda Bay dive sites.
+No site-specific marine life reports have been found for the Foya Wreck specifically. The wreck's structure provides shelter for encrusting invertebrates typical of established wreck sites. The broader Weda Bay ecosystem supports pygmy seahorses, turtles, and giant groupers at other bay dive sites, and blacktip reef sharks and Napoleon wrasse are documented as regular visitors to Weda Bay — but these species have not been confirmed at the Foya Wreck specifically. The Halmahera walking shark (*Hemiscyllium halmahera*) is found at Weda Resort's dive sites generally, though no source confirms sightings at this wreck in particular.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ The wreck is best dived in the morning when visibility is at its peak. Because i
 Halmahera is a remote destination with limited emergency medical infrastructure. The nearest recompression chamber is in Manado, North Sulawesi. Carry a fully charged SMB and dive within your certification limits. While Weda Bay typically has gentle conditions, open-water transfers between sites can involve chop and longer boat rides.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Note: WWII historical claims are from Weda Resort as the discovering operator only — no independent historical verification of vessel identity, tonnage, or sinking date found. Last updated 2026-05-31.*

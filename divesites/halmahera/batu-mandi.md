@@ -48,4 +48,4 @@ Look for the humphead wrasse early in the dive while in the shallower zone. Desc
 Currents on the wall can accelerate unexpectedly in the Patinti Strait area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. The 50-metre maximum depth recorded is beyond recreational limits; no decompression diving should only be attempted with appropriate training.
 
 ---
-*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Note: only 2 independent sources found for this site — additional verification needed. Last updated 2026-05-31.*

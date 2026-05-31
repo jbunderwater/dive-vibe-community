@@ -17,7 +17,7 @@ Bristol Plane Wreck is a WWII aircraft wreck dive site in the Morotai/North Halm
 
 ## Overview
 
-The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down near Morotai island, which served as a major Allied base during the Pacific campaign. The wrecks rest on a sloping reef at considerable depth, reaching 45–50 metres at the deepest point. Morotai and North Halmahera hold a concentration of WWII aircraft and vessel wrecks from the intense Allied and Japanese operations in the region during 1944–1945. The Bristol Beaufort was a twin-engine aircraft used by Allied forces in the Pacific, and wrecks of these aircraft have been documented in the Gotolamo village area of Morotai, associated with the airfields that were central to Allied operations in the region.
+The Bristol Plane Wreck site features two Bristol Beaufort twin-engine bombers that came down near Morotai island, along with jeeps and tyres on a sloping reef reaching 45–50 metres at the deepest point. Morotai served as a major Allied base during the Pacific campaign, with RAAF (Royal Australian Air Force) No. 1 Squadron operating Bristol Beauforts from Morotai from January 1945. The Gotalamo village area of Morotai is documented as a location where WWII aircraft wrecks remain on the seabed, now covered in coral and hosting small fish communities. Morotai and North Halmahera hold a concentration of WWII aircraft and vessel wrecks from the intense Allied and Japanese operations during 1944–1945. **Note**: The specific aircraft serial numbers, mission dates, and sinking circumstances for these two Beaufort wrecks could not be confirmed from a third independent source; the two Bristol Beaufort aircraft and RAAF context are confirmed by two sources (Malaillo Liveaboard and Bluewater Dive Travel).
 
 ## Site Information
 
@@ -30,7 +30,7 @@ The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down n
 
 ## Marine Life
 
-WWII wrecks in North Halmahera are typically encrusted with decades of coral growth. Fusiliers, reef sharks, turtles, and Napoleon wrasse have been documented in the area around the Bristol wreck. The sloping reef habitat adjacent to the aircraft supports a broader reef fish community, while the wreck structure itself provides substrate for soft corals and sponges.
+No site-specific marine life reports were found for the Bristol Plane Wreck specifically. The Gotalamo area article notes the aircraft are "covered by tiny corals and sea moss" and shelter small fish. Fusiliers, reef sharks, turtles, and Napoleon wrasse are mentioned in connection with the North Halmahera/Morotai region generally by liveaboard operators, but cannot be attributed to this specific wreck site without site-specific diver reports.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ The 50-metre maximum depth puts significant sections of this wreck beyond recrea
 This is strictly an advanced dive site due to depth. No-decompression limits are quickly reached at 40–50 metres. Only advanced certified divers with experience of deep wreck diving should attempt the deeper sections. The site is remote — the nearest recompression chamber is in Manado, a significant distance from Morotai. Strong currents can occur in the North Halmahera area. An SMB should always be carried. Wreck penetration (entering enclosed sections of aircraft) requires proper training and equipment.
 
 ---
-*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Morotai Indonesia Tourism – Gotalamo Village](https://www.morotai.indonesia-tourism.com/gotalamo_village.html), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Morotai Indonesia Tourism – Gotalamo Village](https://www.morotai.indonesia-tourism.com/gotalamo_village.html), [Bluewater Dive Travel – Halmahera](https://www.bluewaterdivetravel.com/destination/halmahera-diving). Note: RAAF No. 1 Squadron Beaufort context confirmed via [historyofwar.org](https://www.historyofwar.org/air/units/RAAF/1_wwII.html); specific aircraft serial numbers and mission histories not verified. Last updated 2026-05-31.*

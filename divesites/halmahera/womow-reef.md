@@ -53,4 +53,4 @@ North Halmahera is extremely remote. The nearest decompression facility is in Ma
 The combination of a hard-coral reef top at 7 metres and reliable shark patrols on the walls makes Womow Reef well suited to wide-angle photography. Good ambient light in the shallows allows natural-light shots of schooling fish, while reef shark encounters on the walls benefit from a fisheye lens and dual strobes.
 
 ---
-*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Mikumba Diving – Halmahera Final Frontier](https://www.mikumbadiving.com/halmahera-diving-indonesias-final-frontier/). Last updated 2026-05-31.*

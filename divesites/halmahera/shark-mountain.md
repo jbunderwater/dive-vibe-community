@@ -53,4 +53,4 @@ Shark Mountain is a fully open-water, deep dive with no shallow reef for orienta
 The open blue-water setting and consistent shark presence make Shark Mountain an exceptional wide-angle photography site. A fisheye or wide-angle rectilinear lens is recommended for capturing sharks and schooling trevally against the blue water column. Strobes with wide coverage help in the clear, featureless open water.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ScubaBoard – Weda Resort Halmahera April 2019](https://scubaboard.com/community/threads/trip-report-weda-resort-halmahera-april-2019.580148/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-31.*

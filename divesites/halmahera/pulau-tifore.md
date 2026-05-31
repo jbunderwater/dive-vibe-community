@@ -23,7 +23,7 @@ Tifore Island sits in open sea, exposed to strong tidal flows that concentrate n
 
 - **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
@@ -52,4 +52,4 @@ Currents at Tifore can be strong and unpredictable — this is an intermediate-l
 Pulau Tifore is a premier wide-angle destination. The trademark barracuda and trevally tornadoes create some of Indonesia's most dramatic schooling-fish images. A fisheye lens with dual strobes or a large dome port for natural-light shooting in blue water are both effective approaches. Arrive early in the dive to position yourself before the schools scatter.
 
 ---
-*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Mikumba Diving – Halmahera Final Frontier](https://www.mikumbadiving.com/halmahera-diving-indonesias-final-frontier/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Last updated 2026-05-17.*
+*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [IndoPacificImages – Tifore Island, Pantai Sago](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [Mikumba Diving – Halmahera Final Frontier](https://www.mikumbadiving.com/halmahera-diving-indonesias-final-frontier/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Last updated 2026-05-31.*
