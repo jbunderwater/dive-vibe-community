@@ -12,8 +12,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "wikipedia.org,puregrenada.com,caribbean-beat.com,ecodiveandtrek.com,nowgrenada.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Length corrected 184m->180m (Wikipedia, multiple sources). Depth corrected: wreck sits at 50m, shallowest accessible hull at ~28-30m (NOT 40m max). Cause: engine room explosion (not boiler). Deaths: 3 crew (not 'six'). Stern section torn away in late 1980s/early 1992. No permanent moorings. Previous validation_source had only 2 domains - now has 5. Hallucinations removed: '184 metres', 'boiler explosion', 'six crew members', '25-28m shallowest'. Marine life note added: species specific to hull vs general Caribbean pelagic community."
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. HALLUCINATION REMOVED: markdown 'Entry and Exit' section previously said 'Permanent moorings are attached to the wreck' — contradicting the Tips section which correctly stated no permanent moorings. Multiple sources (scubadiving.place, caribdiveguide.com) confirm there are NO permanent moorings; skipper uses GPS to locate wreck. Mooring contradiction fixed. Deaths confirmed 3 (1 immediate, 2 later from injuries) per Wikipedia, NOW Grenada, Caribbean Beat — consistent with prior QA. Length 180m confirmed by Wikipedia and most primary dive sources; DreamWrecks '536 feet' is an outlier and likely an error. Depth 50m confirmed. Shallowest accessible hull 28-30m confirmed. Stern section torn away ~late 1992 confirmed. Source footer date updated to 2026-05-31."
     }
   },
   {
@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "underwatersculpture.com,ecodiveandtrek.com,puregrenada.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Site type confirmed reef (sculpture park as artificial reef). Depth 3-8m confirmed. Created 2006 confirmed. Jason deCaires Taylor confirmed creator. 65+ sculptures confirmed. Molinere Bay location confirmed. No factual errors found in existing content."
+      "validation_source": "underwatersculpture.com,ecodiveandtrek.com,puregrenada.com,divegrenada.com,padi.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. All prior claims verified: depth 3-8m confirmed (Sportif Dive lists 5-9m for snorkeling, consistent). Created 2006 confirmed. Jason deCaires Taylor confirmed creator. 65+ sculptures confirmed. Molinere Bay location confirmed. Site listed as one of National Geographic's 25 Wonders of the World per Dive Grenada. No factual errors found. Source footer date updated."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,puregrenada.com,sandals.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. ECO Dive confirms Flamingo Bay as fringing reef 15-60ft (5-18m), all levels, within Marine Protected Area. Includes elkhorn coral and sponges. Chromis, squirrelfish, Creole wrasse, parrotfish, grouper confirmed."
+      "validation_source": "ecodiveandtrek.com,puregrenada.com,scubatech-grenada.com,padi.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Flamingo Bay confirmed as fringing reef 15-60ft (5-18m), within Marine Protected Area. ECO Dive and ScubaTech Grenada both confirm the site. Marine life confirmed: chromis, squirrelfish, Creole wrasse, parrotfish, grouper, seahorses, pipefish confirmed. ScubaTech Grenada also mentions a wall aspect starting at 23ft - site has both reef and wall character but is primarily known as a beginner reef. Nurse sharks 'occasionally found resting under overhangs' is plausible but not explicitly sourced; softened in markdown. Source footer date updated."
     }
   },
   {
@@ -63,8 +63,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "ecodiveandtrek.com,puregrenada.com,justgottadive.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Boss Reef confirmed as extensive reef system extending ~5 miles from St George's harbour. Depth 20-80ft (6-24m). Named sections: Upper reef, Valleys, Lower Boss, Middle Boss, Northern Exposure. Marine life confirmed: lobster, spotted moray eels, trunkfish, turtles, barracuda, nurse sharks, stingrays, moray eels. Eagle rays in previous description not specifically confirmed at this site."
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. HALLUCINATION NOTE: Current markdown marine life section attributes Caribbean reef sharks as regular sightings on 'the deeper outer edge.' Pure Grenada and ECO Dive only confirm nurse sharks, stingrays, lobster, moray eels, turtles, and barracuda at Boss Reef. Caribbean reef sharks are not confirmed at this specific site. Eagle rays listed in photography section — not confirmed. Marine life section rewritten to remove Caribbean reef sharks. Boss Reef extent confirmed: up to 5-6 miles from St George's. Depth 20-80ft (6-24m) confirmed. A distinctive hole at ~14m dropping to 18m is a barracuda hangout per Pure Grenada."
     }
   },
   {
@@ -79,9 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,padi.com,puregrenada.com,scubadiving.place",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Depth corrected 18m->28m (90ft). ECO Dive and PADI confirm depth 15-90ft (5-28m). Tug boat wreck in shallows confirmed by ECO Dive and PADI Dragon Bay page. site_type remains reef (the tug is a feature but reef is primary type). Previous description did not mention the tug boat wreck - corrected."
+      "validation_source": "ecodiveandtrek.com,padi.com,puregrenada.com,sportifdive.co.uk",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Tug boat wreck in shallows confirmed by ECO Dive, PADI, and Sportif Dive. Depth 15-90ft (5-28m) confirmed. Site is in Grenada Marine Park. Marine life: grouper, angelfish, moray eels confirmed. Octopus and stingrays confirmed at sandy sections. Tips section mentions 'octopus sightings more reliable here than at many other Grenada sites' - consistent with multiple sources confirming octopus at Dragon Bay. Nurse sharks mentioned in Tips as 'check under boulder overhangs' - plausible but not primary-source confirmed at Dragon Bay specifically. Photography section mentions nurse shark portraits - same caveat."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,padi.com,justgottadive.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. CRITICAL HALLUCINATION REMOVED: site_type corrected wall->reef. Purple Rain is named for 'constant rain of violet Creole wrasse' (ECO Dive), NOT purple sponges. Previous markdown described 'dense blankets of purple sponges that drape the wall face' - this was fabricated. The site is a sloping reef/drift with whip corals, barrel sponges, and gorgonians. ECO Dive describes as reef/drift. Marine life corrected: eagle rays and Caribbean reef sharks removed (unconfirmed at this specific site). Turtles, stingrays, barracuda confirmed."
+      "validation_source": "ecodiveandtrek.com,padi.com,justgottadive.com,shershegoes.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Creole wrasse confirmed as namesake feature (ECO Dive, Just Gotta Dive, PADI). Depth 6-25m confirmed (some sources say 50-90ft). Site confirmed as reef/drift. Turtles and stingrays confirmed. Barracuda confirmed (ScubaBoard trip report mentions barracuda schools at Purple Rain). Dive Grenada website mentions 'eagle rays soar out of the depths' at Purple Rain - this is the first primary source to mention eagle rays here; however it is not corroborated by ECO Dive or PADI descriptions. Eagle rays kept out of marine life section pending corroboration. Nurse sharks mentioned in PADI listing but not by ECO Dive or JGD - kept out as unconfirmed at this specific site."
     }
   },
   {
@@ -114,8 +114,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "ecodiveandtrek.com,dreamwrecks.com,divessi.com,one-million-places.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. HALLUCINATION REMOVED: Previous description said 'sunk as an artificial reef' - WRONG. Veronica L sank ACCIDENTALLY in St George's harbour in 1993, was refloated and moved to Boss Reef. Length: sources say 130ft (dreamwrecks) vs 120ft cargo barge (ECO Dive) - using 130ft. Marine life corrected: creole wrasse, frogfish, seahorses, French angelfish, damselfish, horse-eye jacks confirmed by dreamwrecks/one-million-places. Previous marine life list (French grunts, yellowtail snappers, spotted morays, octopus) was fabricated."
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. All prior facts confirmed: 130ft cargo vessel, sank 1993 in St George's harbour, relocated to Boss Reef. Depth <50ft (15m) confirmed. Marine life: seahorses, frogfish, small fish schools, eels confirmed by DreamWrecks. Orange cup coral and encrusting sponges confirmed. Sportif Dive lists it as 25-metre cargo ship (consistent with 130ft = ~40m — note discrepancy between 25m and 40m in different sources; DreamWrecks and One Million Places both say 130ft/40m, so Sportif Dive '25m' may be in error). No new issues found."
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,padi.com,freedomtourtravel.com,californiadiver.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. HALLUCINATION REMOVED: Previous description said 'deliberately scuttled' - WRONG. MV Shakem sank in a storm in May 2001 when cement cargo shifted and blocked pumps. Depth corrected 33m->32m per multiple sources. Length confirmed: 180ft (55m). Key detail added: cement cargo solidified into 'cement pillows' stacked in holds. Spiral staircase and captain's quarters intact. Marine life corrected: green moray eels confirmed; tiger groupers, Nassau groupers, Caribbean reef sharks in previous description not confirmed at this specific site."
+      "validation_source": "ecodiveandtrek.com,dreamwrecks.com,freedomtourtravel.com,californiadiver.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Sinking confirmed: storm 2001, cement cargo shifted, blocked bilge pumps. Length confirmed 180ft (55m) per multiple sources. Depth confirmed 32m (100-110ft per various sources). Cement pillows confirmed. DreamWrecks does not mention spiral staircase — only mentions crane, wheelhouse, bow, propeller. Freedom Tour Travel and California Diver mention interior spaces but no explicit spiral staircase confirmation. Spiral staircase mention in markdown is unverified — flagged for removal. SCUBA board trip report confirms 'gigantic green moray eel' and seahorse. Freedomtourtravel mentions barracuda and French angelfish, not confirmed in prior QA — updated tags. The markdown visibility figure (12-15m in overview vs 20-30m in site information table) is an internal contradiction — fixing to consistent 15-25m per operator notes."
     }
   },
   {
@@ -147,9 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,diveadvisor.com,puregrenada.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Northern Exposure confirmed as part of Boss Reef system on northwest coast. Sloping reef max 23m. Finger and pillar corals, sea rods, sea whips, brown coral trees. Creole wrasse, lobsters, stingrays, conch, octopus confirmed. 'Hammerhead sharks on deeper reef sections' from previous description not confirmed at this specific site - removed."
+      "validation_source": "ecodiveandtrek.com,puregrenada.com,sportifdive.co.uk,activecaribbeantravel.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. CRITICAL HALLUCINATION REMOVED: Previous markdown described Northern Exposure as being on 'Grenada's less-visited north coast' requiring a '30-60 minute boat ride' — completely wrong. Northern Exposure is part of the Boss Reef system, located just outside St. George's harbour on the southwest coast, accessible to all skill levels including cruise ship day guests. Depth range 20-75ft (6-23m) confirmed by ECO Dive. NOTE: coordinate lat=12.2 is likely wrong given this is a southwest coast site near St George's (which is ~12.05). Coordinate needs field verification but has not been changed without confirmation. ECO Dive blog post (Day 8) describes a 'surprise little shipwreck on the sand patch on the eastern edge' — not mentioned in current markdown. Marine life corrected: eagle rays and hammerhead sharks removed (these were fabricated for the north coast narrative). Confirmed marine life: creole wrasse, chromis, french grunts, blue tangs, damselfish, lobster, stingrays, conch, octopus, occasional nurse sharks, turtles, barracuda. Markdown fully rewritten."
     }
   },
   {
@@ -164,8 +164,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": false,
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. 'Spice Island Reef' does not appear in any primary source by this name. Site may be a local name for part of the southwest reef complex. Cannot validate - marking unvalidated. Description is plausible for generic southwest Grenada shallow reef but no site-specific sources found."
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. 'Spice Island Reef' does not appear in ECO Dive, Aquanauts, Dive Grenada, PADI, ScubaTech, Sportif Dive, or any other primary source by this exact name. Cannot be validated. Description remains based on regional southwest Grenada shallow reef characteristics. No site-specific sources found. Maintained unvalidated status from prior QA."
     }
   },
   {
@@ -180,9 +180,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "ecodiveandtrek.com,padi.com,turq.com,scubadivermag.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Depth corrected 22m->28m (90ft per ECO Dive/PADI). Also known as 'Happy Valley'. Wall/drift confirmed. Begins in shallow brown coral forest, descends shelving slope with gorgonians. Admiralty anchor at mid-depth confirmed. HALLUCINATION REMOVED: 'sperm whale and whale shark sightings - rare but documented' - fabricated. Actual naming origin: a SINGLE whale sighted at 18m with calf (per ECO Dive). Previous canyon/channel topography description was fabricated - site is a shelving slope, not a canyon system. Marine life corrected: site-specific species removed, regional Grenada wall community applies."
+      "validation_source": "ecodiveandtrek.com,padi.com,sportifdive.co.uk,scuba.com",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Site confirmed as Happy Valley/Valley of Whales. Depth 20-90ft (6-28m) confirmed by PADI and ECO Dive. ECO Dive confirms drift toward Dragon Bay when tide runs. Admiralty anchor confirmed. Wall/drift character confirmed. Marine life: French angelfish, grouper confirmed. Spotted drums, yellowtail snappers, jaw fish confirmed per SportifDive. HALLUCINATION REMOVED: Photography section mentioned 'eagle ray passes through the channels' — eagle rays not confirmed at this site in any primary source. Removed. Also removed 'schooling jacks' from photography section as unconfirmed. 'Whales' listed as 'common sightings' on PADI page but this is generic PADI boilerplate, not site-specific confirmation — whale sighting origin story (single whale with calf, per ECO Dive) is the real reference."
     }
   },
   {
@@ -198,8 +198,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "ecodiveandtrek.com,padi.com,scuba.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Happy Hill confirmed as beginner reef. Depth 16m confirmed. Turtles, parrotfish, angelfish, blue tangs, stingrays, jawfish confirmed typical for southwest Grenada. No specific marine life sources found uniquely for this site."
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Re-audited 2026-05-31. Happy Hill confirmed as beginner reef by ECO Dive. Depth 16m confirmed. Turtles, parrotfish, angelfish, blue tangs, stingrays confirmed as typical for southwest Grenada. Jawfish at sand margin noted in Happy Valley description (Sportif Dive) — plausible at Happy Hill given similar habitat. Green turtles: no site-specific primary source found — only 'hawksbill' explicitly confirmed for Grenada southwest reefs in most sources. Markdown retains 'hawksbill and green turtles' — green turtle is plausible but not specifically sourced to Happy Hill. No new issues found beyond prior QA."
     }
   }
 ]

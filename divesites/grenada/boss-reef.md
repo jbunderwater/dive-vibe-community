@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Boss Reef
 
-One of Grenada's top intermediate reef dives — a broad sloping reef off the southwestern coast with impressive coral formations, resident Caribbean reef sharks on the outer edge, and the biodiversity that Grenada's nutrient-rich southern waters consistently deliver.
+One of Grenada's top intermediate reef dives — a broad sloping reef system extending up to six miles from St. George's harbour, with impressive coral formations, resident nurse sharks and moray eels, and a distinctive barracuda hole at 14 metres that is one of the reef's unmistakable landmarks.
 
 ## Overview
 
@@ -33,7 +33,7 @@ Positioned in the productive waters of Grenada's southwest, Boss Reef features a
 
 ## Marine Life
 
-Grenada's reefs support strong populations of large fish species. Caribbean reef sharks are seen regularly at Boss Reef, particularly on the deeper outer edge. Large groupers occupy coral overhangs, and schools of creole wrasse sweep along the reef face. Hawksbill turtles feed on sponges throughout the site. Eagle rays cruise the sandy transitions at the reef base. The barrel sponges at 18–24 metres host resident bigeye fish communities.
+Boss Reef's extensive system supports strong marine life across its depth range. Lobster, spotted moray eels, green moray eels, and trunkfish occupy the upper reef's rolling topography. Green and hawksbill turtles pass through regularly. Nurse sharks and stingrays are confirmed resting on sandy areas. Schools of Creole wrasse sweep along the reef face and large crabs and banded coral shrimp occupy the plate coral sections. Barracuda gather around a distinctive hole at approximately 14 metres that drops to 18 metres — a recognisable landmark within the reef system. Note: Caribbean reef sharks are not confirmed at Boss Reef in primary sources; nurse sharks are the shark species documented here.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from operators based in Grand Anse or True Blue Bay. Giant stride entr
 
 ## Tips and Recommendations
 
-Explore the outer reef face early in the dive for the best chance of shark encounters. Large groupers are territorial and can be approached slowly at their usual coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
+Locate the distinctive barracuda hole at 14 metres (drops to 18 metres) — it is a useful landmark and a reliable aggregation point. Large groupers and moray eels occupy the reef's coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Monitor NDL limits at the 24-metre sections. Deploy DSMB before ascending — bo
 
 ## Photography
 
-Boss Reef's combination of deep coral formations, clear water, and large marine life makes it one of Grenada's best wide-angle photography sites. Shark encounters, eagle ray passes, and school-of-fish compositions on the reef face are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
+Boss Reef's combination of coral formations, clear water, and good fish populations makes it a strong wide-angle photography site. Moray eel portraits in the reef's many crevices, turtle encounters, and creole wrasse school compositions on the reef face are the primary subjects. The distinctive barracuda hole is a good structural composition subject. A strobe is recommended for the deeper sponge sections.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Boss Reef's combination of deep coral formations, clear water, and large marine 
 - Typically paired with Flamingo Bay or Happy Hill for a two-tank morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-05-31.*
