@@ -38,7 +38,7 @@ Groupers, octopus, moray eels, schools of salemas, banded bream, saddled bream, 
 ## Site Information
 
 - **Location**: Agia Pelagia, Heraklion, Crete, Greece
-- **Entry Type**: Boat dive (Amphora Cave: shore entry)
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters

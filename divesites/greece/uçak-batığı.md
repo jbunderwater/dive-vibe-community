@@ -13,41 +13,36 @@ addedBy: osm_import
 
 ## Uçak Batığı
 
-Uçak Batığı is a wreck dive site in the Dodecanese region of Greece, near the border with Turkish waters.
+Uçak Batığı is Turkish for "airplane wreck." This site is recorded in OSM at coordinates 36.987°N, 27.433°E, in the Kos–Bodrum strait area.
 
 ## Overview
 
-Uçak Batığı is Turkish for "airplane wreck." This site is located in the northern Dodecanese, in the sea channel between Kos island (Greece) and the Turkish Bodrum peninsula. The coordinates (36.987°N, 27.432°E) place it in Greek waters very close to the Turkish border — the identical site name and near-identical coordinates appear for a dive site listed by Turkish operators as a decommissioned Turkish Air Force Dakota C-47 intentionally sunk in the Bodrum area. It is possible this represents the same aircraft, or a different wreck in adjacent waters.
+The coordinates (36.987°N, 27.433°E) place this site in the sea channel between the Greek island of Kos and the Turkish Bodrum peninsula, close to the Turkish maritime boundary. The OSM data records a maximum depth of 72 metres and tags it as a wreck dive.
 
-The recorded maximum depth of 72 metres makes this one of the deepest aircraft wrecks accessible in this area and places it firmly in technical diving territory — recreational sport diving limits (40 m with advanced training) would not reach the deepest sections. The dive would require technical diving certification (trimix or advanced nitrox) for the full depth profile.
+**Depth discrepancy:** The well-documented "Uçak Batığı" dive site operated by Aquapro Dive Center near Bodrum, Turkey is a decommissioned Dakota C-47 intentionally sunk on 1 July 2008 as an artificial reef in Paçoz Cove near Karaada island. That site lies at 17–32 metres depth, not 72 metres. The 72-metre depth in the OSM record does not match any known documented aircraft wreck or intentionally sunk aircraft in the Kos–Bodrum area. No dive operator or published source was found to corroborate a 72-metre aircraft wreck at these specific coordinates.
 
-The name "Uçak Batığı" appears in Greek and Turkish dive site databases for aircraft wrecks in the Kos–Bodrum strait area. Aircraft wrecks in this part of the Aegean typically originate from WWII aerial operations over the Dodecanese, though intentionally sunk aircraft are also present in Turkish waters for dive tourism purposes.
+Possible explanations include: an error in the OSM depth tag; a separate, undocumented WWII aircraft wreck in deeper water on the Greek side; or a data entry error assigning a Turkish site's name to different coordinates.
 
-No Greek dive operator documentation specifically for this site at these coordinates and this depth was found during research. Given the 72-metre maximum depth and the proximity to the Turkish border, this site may be primarily accessed from Turkish operators or may represent a different aircraft than the shallower C-47 listed by Bodrum operators.
+At 72 metres, this site would fall entirely in technical diving territory (beyond 40-metre recreational limits), requiring trimix or advanced nitrox and decompression planning. No technical diving operators offering dives at this specific location were found.
 
 ## Dive Profile
 
 - **Entry**: Boat
-- **Maximum depth**: 72 metres (technical diving depths)
-- **Minimum certification**: Technical diving (advanced nitrox / trimix required for depths below 40 m)
-- **Location note**: Near Greek/Turkish maritime border in the Kos–Bodrum strait
+- **Recorded depth**: 72 metres (technical diving territory — could not be confirmed)
+- **Known Bodrum C-47 depth**: 17–32 m (confirmed by multiple Turkish operators)
 - **Conditions**: Aegean; visibility typically 15–25 m
 
 ## Safety
 
-A maximum depth of 72 metres requires technical diving certification and mixed-gas equipment. This site is not accessible to recreational divers without technical training. Decompression obligations at this depth are significant.
+**Depth data for this site is flagged as unreliable.** If genuine at 72 metres, technical diving certification and mixed-gas equipment are required. Divers should verify with local Kos or Bodrum operators before planning a dive.
 
 ## Site Information
 
-- **Location**: Northern Dodecanese, Greece (Kos–Bodrum strait area)
+- **Location**: Kos–Bodrum strait (Greek/Turkish waters boundary area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 72 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
-
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). Relationship between these two listings is unclear. Last updated 2026-05-17.*
+*Sources: [Aquapro Dive Center — Plane Wreck Dive (Bodrum C-47)](https://aquapro-turkey.com/services/plane-wreck-dive/), [PADI — C47 Airplane Wreck (Turkey)](https://www.padi.com/dive-site/turkey/c47-airplane-wreck/), [Blue Escape Diving — Wrecks in Bodrum](https://www.blueescapediving.com/en/wrecks/). No source was found confirming an aircraft wreck at 72 m depth at these coordinates. The 72-metre depth tag in OSM could not be verified. Last updated 2026-05-31.*

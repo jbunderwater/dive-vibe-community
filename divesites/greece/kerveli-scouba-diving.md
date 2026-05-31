@@ -13,19 +13,37 @@ addedBy: osm_import
 
 ## Kerveli scouba diving
 
-Kerveli scouba diving is a reef dive site in Greece, Europe.
+Kerveli Bay is a reef dive site on the eastern coast of Samos, Greece.
 
 ## Overview
 
-Kerveli Bay on the eastern coast of Samos offers some of the Aegean's clearest water, with visibility exceeding 20 metres and a craggy reef system that tops out at 22 metres and includes walls, drop-offs, small caves, and caverns that shelter a diverse range of Mediterranean species. Groupers, moray eels, octopus, sea bream, nudibranchs, and seahorses inhabit the reef structure, alongside posidonia seagrass beds, red coral, and sea fans in the deeper sections. The eastern Samos coastline is considered the finest underwater scenery on the island, and Temple Bay nearby reportedly contains ancient artefacts at 18 metres depth, offering an additional dimension to diving in this archaeologically rich corner of the Aegean.
+Kerveli Bay sits on the eastern coast of Samos in the Northeast Aegean Islands. The Kerveli Dive Center, based at the Kerveli Village Hotel, operates from a private dock in the naturally protected bay and runs dives at multiple nearby sites. The bay itself is accessible as an easy reef dive, suitable for beginners, with visibility between 25–35 metres and mostly weak or no current.
+
+Within a 10-minute boat ride, certified divers can access Prasso Drop-Off (Cape Prasso, northeast Samos): a dramatic wall that drops to 60 metres, with fields of ancient amphorae at 20–30 metres depth as physical evidence of Samos's historical importance along the Europe–Asia maritime trade route. A second notable site, The Great Wall, also contains a field of ancient amphorae at 20–30 metres alongside lobsters, octopus, and nudibranchs. These amphora sites are distinct from Kerveli Bay itself and require appropriate certification levels.
+
+Marine life throughout the Kerveli area includes Mediterranean monk seal (rare; reported in the eastern part of the island), grouper, moray eels, octopus, and a variety of Aegean reef fish. Seahorses have been reported in the area by multiple sources, though no site-specific confirmation for Kerveli Bay was found.
+
+Temple Bay, reportedly containing ancient artefacts, is mentioned by some dive sources in the area but has not been independently confirmed in reviewed materials.
+
+## Dive Profile
+
+- **Entry**: Boat from Kerveli Village dock
+- **Depth range**: 5–22 m (for Kerveli Bay proper; Prasso wall goes to 60 m)
+- **Conditions**: Visibility 25–35 m; weak to no current
+- **Water temperature**: ~25°C in midsummer
+- **Best season**: May–October
+
+## Marine Life
+
+Grouper, moray eels, octopus, nudibranchs, lobsters (on Prasso/amphora sites), Mediterranean reef fish. Monk seal rarely encountered in the eastern Samos area. Seahorses reported regionally but not confirmed site-specifically at Kerveli Bay.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kerveli, Samos, Northeast Aegean Islands, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Kerveli Dive Center — Samos dive sites](https://samos-scuba.com/dive-sites/), [Beluga Aquakids — Kerveli Village Hotel](https://www.belugareisen.de/en/tauchreisen/europa/griechenland/kerveli-village-dive-center-by-beluga-aquakids/kerveli-village-hotel-samos-aquakids/), [Greeka — Samos Scuba Diving](https://www.greeka.com/eastern-aegean/samos/sports/scuba-diving/). Last updated 2026-05-31.*

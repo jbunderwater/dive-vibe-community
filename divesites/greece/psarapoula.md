@@ -4,7 +4,7 @@ lat: 36.453164
 lng: 28.2169361
 difficulty: Intermediate
 maxDepth: 25
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 11842033099
@@ -13,19 +13,34 @@ addedBy: osm_import
 
 ## Psarapoula
 
-Psarapoula is a reef dive site in Greece, Europe.
+Psarapoula is a reef dive site in Rhodes, Dodecanese, Greece.
 
 ## Overview
 
-Psarapoula is a rocky reef dive site off the coast of Rhodes in the Dodecanese Islands, known for its volcanic rock formations and clear Aegean waters. The site features swim-throughs and overhangs colonized by sponges and sea fans, with resident octopus, grouper, moray eels, and schools of bream. Red Sea immigrants such as soldierfish and rabbitfish have become increasingly common, and lucky divers may spot seahorses or Mediterranean monk seals.
+Psarapoula is located on the eastern coast of Rhodes at approximately 36.453°N, 28.217°E. The PADI dive site directory lists it as a beach (shore) entry site contributed by Big Fish, a local PADI dive center in Rhodes. The site type is recorded as reef with a maximum depth of 25 metres (OSM depth_max 22 m).
+
+Psarapoula is not documented in the major Rhodes dive operator websites reviewed (Waterhoppers, H2O Scuba Diving Center, Lepia Dive Centre), suggesting it is a relatively minor or locally-known site rather than a frequently dived destination. No depth confirmation, detailed site description, or marine life data from a named source was located during research.
+
+PADI lists common sightings at this location as sharks, whales, dolphins, and turtles — this appears to be a generic PADI database field, not site-specific confirmed observations, and should not be taken as characteristic species for this location.
+
+## Dive Profile
+
+- **Entry**: Shore (beach entry per PADI)
+- **Depth range**: Up to 22–25 m
+- **Bottom**: Reef (character unconfirmed)
+- **Conditions**: Eastern Rhodes; Dodecanese Aegean
+
+## Marine Life
+
+No site-specific marine life reports found. Regional Dodecanese/Rhodes fauna applies: grouper, sea bream, octopus, moray eels, wrasse, Mediterranean reef fish.
 
 ## Site Information
 
-- **Location**: Greece, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Rhodes, Dodecanese, South Aegean, Greece
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [PADI — Psaropoula dive site](https://www.padi.com/dive-site/greece/psaropoula/). No additional site-specific documentation was found. Description based on OSM-recorded data and regional Dodecanese diving conditions. Last updated 2026-05-31.*
