@@ -11,7 +11,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "validation_source": "OpenStreetMap"
+      "validation_source": "history.navy.mil, ibiblio.org/hyperwar, pacificwrecks.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Grounded 18/19 September 1944 on uncharted reef near Halmahera coast. OSM date_sunk tag removed - vessel was not sunk by enemy action but grounded and scuttled. Length corrected to ~21m (70 ft). Original markdown contained fabricated 24m length claim - corrected."
     }
   },
   {
@@ -26,8 +29,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "wreck:date_sunk": "1941-12-12",
-      "validation_source": "OpenStreetMap"
+      "validation_source": "OpenStreetMap",
+      "validated": "false",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "OSM wreck:date_sunk tag of 1941-12-12 cannot be verified from any independent source - Halmahera was not a combat zone in December 1941. No vessel history (tonnage, build date, nationality, sinking cause) could be confirmed from 2+ independent sources. Site existence confirmed via OSM only. Wreck claims stripped from markdown pending verified sources."
     }
   },
   {
@@ -41,7 +46,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, sailingfairy.com"
+      "validation_source": "padi.com, zubludiving.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "PADI confirms: max depth 30m, wall and overhangs, strong currents, cold thermoclines. Species confirmed: Napoleon wrasse, bumphead parrotfish, dogtooth tuna, ghost pipefish, leaf scorpionfish, nudibranchs. Site verified across 3 sources."
     }
   },
   {
@@ -55,7 +63,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "getlost.id, sailingfairy.com"
+      "validation_source": "getlost.id, wonderful.ternatekota.go.id, divessi.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "KM Pari (36m, 15-23m depth) confirmed by multiple sources. Motorcycles sunk 2017. Bus wrecks with intact seats confirmed. Shore entry 5min from Ternate hotels confirmed. Marine life (snappers, fusiliers, nudibranchs, frogfish, moray eels, clownfish) confirmed."
     }
   },
   {
@@ -69,7 +80,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "world-islands.net, mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com, liveaboardindonesia.com, mikumbadiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Barracuda school of 1000+ confirmed by multiple sources. Pantai Sago site on southern side confirmed. Tifore is a seamount in open Molucca Sea. Species (barracuda, trevally, fusiliers) confirmed. Hammerheads and mobula rays noted on productive days."
     }
   },
   {
@@ -83,7 +97,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "cruisingindonesia.com, indopacificimages.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "One of three primary Goraici dive sites (alongside Terumbu Gora and Pulau Goweba) confirmed by cruisingindonesia.com. Healthy reef, reef sharks, pelagics, night diving confirmed. No site-specific depth data for Reenie's Rock alone - 40m is approximate for the group."
     }
   },
   {
@@ -97,7 +114,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com, cruisingindonesia.com",
+      "validated": "false",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Only 2 sources found. Humphead wrasse sighting and batfish schools mentioned by Konjo Cruising Indonesia but that URL returned 403. Site listed as liveaboard stop in Goraici area. Needs third independent source to reach validated=true."
     }
   },
   {
@@ -111,7 +131,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com, cruisingindonesia.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "One of three primary Goraici dive sites confirmed. Fish life 'very healthy', Napoleon wrasse, tuna, reef sharks confirmed. Large sponges and healthy corals confirmed. Depth 35m based on Goraici group general data."
     }
   },
   {
@@ -125,7 +148,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "proco-island.com, bluewaterdivetravel.com, neptuneliveaboards.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Fast-moving current channel confirmed by Proco Island Bambu Resort (opened 2023). Barracuda, trevally, eagle rays, reef sharks confirmed. Advanced only confirmed. Soft corals and gorgonians in shallower sections confirmed."
     }
   },
   {
@@ -139,7 +165,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com, neptuneliveaboards.com, mermaid-liveaboards.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Site confirmed in Patinti Strait area near Pulau Kusu. Described as calmer complement to Proco Channel. Reef sharks, Napoleon wrasse, blacktip/whitetip reef sharks confirmed for the area."
     }
   },
   {
@@ -153,7 +182,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+      "validation_source": "wedaresort.com, zubludiving.com",
+      "validated": "false",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Weda Resort confirms: discovered 2014, 35m vessel (described as sub-chaser), depth 10-30m, upright on sandy slope, excellent condition. ZuBlu confirms Weda Bay wreck diving. WWII Japanese origin stated by Weda Resort but vessel name, tonnage, build date, and sinking cause NOT independently verified. Only 2 sources. Cannot mark validated=true under 3-source rule."
     }
   },
   {
@@ -167,7 +199,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com"
+      "validation_source": "wedaresort.com, zubludiving.com, scubaboard.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Weda Resort confirms: shallowest point 31m, 11km from shore, 'hardly ever a dive without sharks', two safety lines installed. ScubaBoard Weda Resort trip report (April 2019) confirms sharks and early-morning diving. Grey reef sharks, jackfish, barracuda, Napoleon wrasse confirmed."
     }
   },
   {
@@ -181,7 +216,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "jakare-liveaboard.com, coralia-liveaboard.com, mikumbadiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Group of four islands confirmed. Shark species (grey reef, silvertip, whitetip, blacktip) confirmed by Jakare and Coralia. Endemic amphipods confirmed by Jakare as site-specific. Underwater ridges and large pinnacles with branching corals confirmed. Bumphead parrotfish and moray eels confirmed."
     }
   },
   {
@@ -195,7 +233,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "malailloliveaboard.com, morotai.indonesia-tourism.com",
+      "validated": "false",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Two Bristol Beaufort aircraft confirmed by multiple sources (Malaillo Liveaboard, Bluewater Dive Travel). Australian Air Force (RAAF) aircraft confirmed - RAAF No.1 Squadron operated Beauforts from Morotai Jan 1945. Jeeps and tires also present. Depth 45-50m confirmed. Only 2 primary sources - cannot reach validated=true under 3-source rule. RAAF nationality added to markdown."
     }
   },
   {
@@ -209,7 +250,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "malailloliveaboard.com, liveaboardindonesia.com, mikumbadiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Womow Reef 1 and 2 confirmed. Shallowest point ~7m confirmed. Grey reef sharks, blacktip/whitetip reef sharks, tuna, giant trevallies, fusiliers, surgeonfish confirmed. Seamount character confirmed by multiple sources."
     }
   },
   {
@@ -223,7 +267,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
+      "validation_source": "coralia-liveaboard.com, liveaboardindonesia.com, mikumbadiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-05-31",
+      "qa_notes": "Black sand muck diving confirmed by Coralia, Liveaboard Indonesia, Mikumba Diving. Frogfish, nudibranchs, bobbit worms confirmed. Walking shark (Hemiscyllium halmahera) at Makian confirmed by Coralia and Liveaboard Indonesia. Species formally described in 2013 (not 2008 as prior draft stated). Corrected in markdown."
     }
   }
 ]

@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Reserve Cousteau official site, dive operators"
+      "validation_source": "reserve-cousteau.fr, lesilesdeguadeloupe.com, heures-saines.com",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Reserve Cousteau site information"
+      "validation_source": "reserve-cousteau.fr, vacances-guadeloupe.fr, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Reserve Cousteau, PADI dive site database",
+      "validation_source": "tribloo.com, vacances-guadeloupe.fr, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
       "description": "Most famous site in Cousteau Reserve featuring coral carpets at 3m, drop-off with tropical fauna, Jacques Cousteau bust at 12m depth"
     }
   },
@@ -57,7 +60,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Reserve Cousteau site information",
+      "validation_source": "vacances-guadeloupe.fr, reserve-cousteau.fr, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
       "description": "Sheltered pool between two islets with shallow water, rocky seabed, perfect for beginners and children"
     }
   },
@@ -73,8 +77,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Bouillante geothermal site information",
-      "description": "Unique thermal vents in seabed at 23m with hot springs, royal lobsters, magnificent fault formations from geothermal activity"
+      "validation_source": "heures-saines.com, reserve-cousteau.fr, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Geothermal site with warm seabed vents from Bouillante volcanic fault zone, fault formations, large spiny lobsters (langouste royale) in crevices, depth ~15m"
     }
   },
   {
@@ -89,15 +94,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Snorkeling Report, local dive operators",
-      "description": "Beach entry on black volcanic sand, descent along rope to two platforms (15m and 30m), royal angels, turtle sightings common, seagrass to coral reef transition"
+      "validation_source": "heures-saines.com, scubago.com, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Shore entry from Malendure black volcanic sand beach, guide rope descent through seagrass to reef at two platforms (~15m and ~20m), barracuda, snapper, lionfish, hawksbill turtles"
     }
   },
   {
     "name": "La Caye",
     "lat": 16.155,
     "lon": -61.798,
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -105,55 +111,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Cousteau Reserve dive site list"
-    }
-  },
-  {
-    "name": "Augustin Fresnel Wreck",
-    "lat": 16.25,
-    "lon": -61.53,
-    "depth": 28,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "TripAdvisor reviews, dive operator info",
-      "description": "53-meter Canadian lighthouse ship (Augustin Fresnel II) sunk 2003, moved to 33m by Cyclone Dean 2007, originally 25m, clean and safe wreck, requires CMAS**/AOW certification"
-    }
-  },
-  {
-    "name": "Pointe à Lézard",
-    "lat": 16.18,
-    "lon": -61.775,
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "ScubaGo dive site database",
-      "description": "Gently sloping wall with barrel sponges, geothermal vents (23m), hot springs in basin, magnificent fault, royal lobsters, unique volcanic geothermal features from Bouillante"
-    }
-  },
-  {
-    "name": "Sec Pâté",
-    "lat": 16.15,
-    "lon": -61.8,
-    "depth": 40,
-    "site_type": "pinnacle",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Dive O'Clock, multiple dive operator sites",
-      "description": "Phenomenal pinnacle between Les Saintes and Basse-Terre, starts 15m deep extends 300m+, 37-40m average dive depth, requires Level 2/PE40 or Advanced+Deep+50dives, intense 1-4 knot currents, colorful sponges, thriving corals, abundant fish schools"
+      "validation_source": "heures-saines.com, reserve-cousteau.fr, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Shallow reef 4-18m, formed from collapsed Malendure rock, popular for night dives, nocturnal species include astrophyton basket stars and corallimorphaires, also done as day dive"
     }
   },
   {
@@ -168,8 +128,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Guadeloupe Tourism Committee",
-      "description": "Beach entry on red sand with pebbles, calm pleasant beach in Pointe-Noire, coral gardens and drop-offs, colorful fish, sea turtles, moray eels, crustaceans, 25+ years of dive club operation"
+      "validation_source": "lesilesdeguadeloupe.com, plongee-guadeloupe-reserve-cousteau.fr, petitfute.co.uk",
+      "last_qa_date": "2026-05-31",
+      "description": "Shore entry from Plage Caraïbe in Pointe-Noire, calm bay, coral gardens, moray eels, crustaceans, sea turtles, operated by Anse Caraïbe Plongée (est. 2000)"
     }
   },
   {
@@ -184,8 +145,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Snorkeling Report, Guadeloupe Tourism",
-      "description": "Golden sand beach with palm trees, accessible reefs for beginners and experienced divers, multicolored corals, anemones, tropical fish schools, sea fans, sponges on rocky seabed, beginner-friendly snorkeling available"
+      "validation_source": "snorkeling-report.com, les-saintes.com, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Protected bay reef below Sugarloaf hill on Terre-de-Haut; sea fans, sponges, surgeon fish, butterfly fish, turtles; snorkel also possible from beach ends; rocky seabed with gorgonians and sabella"
     }
   },
   {
@@ -204,8 +166,10 @@
       "seamark:wreck:category": "mast_showing",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM wreck database, Les Saintes wreck listings"
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "No site-specific dive documentation found in 2026-05-31 QA pass. OSM marks mast showing. Location in Les Saintes waters confirmed by coordinates. Vessel identity unknown."
     }
   },
   {
@@ -228,8 +192,10 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM wreck database"
+      "validated": false,
+      "validation_source": "gwadaplans.com, lesilesdeguadeloupe.com",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "Vessel identity not definitively established. Located northeast of Îlet Fortune off Goyave. Portions reportedly near or at surface. No dedicated dive site documentation found."
     }
   },
   {
@@ -238,10 +204,10 @@
     "lon": -61.6482558,
     "osm_id": 9178392808,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 3,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Épave de Caret",
@@ -249,8 +215,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "OSM wreck database, Grand Cul-de-Sac Marin info",
-      "description": "Wreck in Grand Cul-de-Sac Marin (marine reserve since 1987), formerly used for sand removal, deliberately sunk ~26 years ago (1998-2000) as fish concentration device, shallow 2-3m visibility, classic tropical fish species, seaweed habitat"
+      "validation_source": "gwadaplans.com, permisbateauxguadeloupe.fr, nomad-diver.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Old metal sand-dredging boat deliberately sunk in Grand Cul-de-Sac Marin (marine reserve since 1987) as fish aggregation device; very shallow (2-3m to hull surface), visible from above; algae, tropical fish colonized; penetration prohibited due to structural instability and fire coral"
     }
   },
   {
@@ -259,7 +226,7 @@
     "lon": -61.601923,
     "osm_id": 9383506615,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -272,8 +239,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "Tribloo dive sites, La Dive Bouteille dive center",
-      "description": "Multi-level dive at entrance to Baie des Saintes, always sheltered site, plateau 2-5m for beginners with varied flora/fauna, drop-off to 20m for experienced divers, garden eels common, ideal for beginners and photographers"
+      "validation_source": "tribloo.com, skippair.com, dive-bouteille.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Multi-level dive at Îlet à Cabrit entrance to Baie des Saintes; always sheltered; shallow plateau 2-5m for beginners with scorpionfish, lobsters, trumpetfish, moray eels; drop-off to 20m; garden eels in sandy floor; La Patate Cabrit pinnacle (6-8m) nearby"
     }
   },
   {
@@ -293,9 +261,11 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "Tribloo, local dive operators",
-      "description": "Wall dive in Les Saintes with steep drop-off, similar characteristics to pinnacle Sec Pâté but distinct location, requires Advanced certification, strong currents possible"
+      "validated": false,
+      "validation_source": "tribloo.com, diveoclock.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Wall dive on south edge of Les Saintes archipelago (OSM node, distinct from the celebrated Sec Pâté pinnacle in the Saintes Channel). Advanced certification required, strong currents possible. Fewer than 3 independent sources specifically for this OSM node vs. the main pinnacle.",
+      "qa_note": "This OSM node at 15.90N may be the same feature as the main Sec Pâté pinnacle or a related wall. Cannot confirm as independently validated with 3 sources distinct from the main pinnacle site."
     }
   },
   {
@@ -316,8 +286,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "OSM wreck database, dive center listings",
-      "description": "Wall dive in Les Saintes, also known as Épave de la passe de la Baleine (Whale Pass Wreck), believed to be wreck of Anémone (French Navy schooner 1823, sunk 1824)"
+      "validation_source": "acuaonline.org, theconversation.com, hal.science",
+      "last_qa_date": "2026-05-31",
+      "description": "Wall dive in Passe de la Baleine, Les Saintes. Contains wreck of French Navy schooner Anémone (built 1823 in Bayonne, sunk hurricane Sept 7-8 1824, all 29 crew died including Captain Guillotin). Wreck at ~25m, archaeologically excavated 2015-2019 (554 artifacts). Vessel used to patrol against illicit slave trade."
     }
   },
   {
@@ -338,7 +309,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "La Dive Bouteille dive center, local operators"
+      "validation_source": "experience.transat.com, lesilesdeguadeloupe.com, myfavouriteescapes.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Wall dive off Terre-de-Bas, Les Saintes; drop-off starts at 4m descends to 20-22m; abundant predators: barracuda, frigate tuna, bigeye jacks (carangues); queen triggerfish, groupers, large green moray eels, lobsters in rifts, black fan corals, sponges"
     }
   },
   {
@@ -359,8 +332,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "Tribloo, La Dive Bouteille",
-      "description": "Beautiful dive with impressive underwater architecture, tunnels and plateaus covered with corals and sponges, schools of gorettes, cardinal fish, angelfish, wrasses"
+      "validation_source": "tribloo.com, lesilesdeguadeloupe.com, experience.transat.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Wall/tunnel dive in Les Saintes; tunnels and plateaus covered with corals and sponges; schools of gorettes (French grunts), cardinal fish, angelfish, wrasses; impressive underwater architecture"
     }
   },
   {
@@ -386,8 +360,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "TripAdvisor, dive operator sites",
-      "description": "48-meter small cargo vessel, first wreck deliberately sunk in Cousteau Reserve (1991) to create artificial reef, sunken after Hurricane Hugo, deep dive ~40m, requires PE40/Deep certification, popular artificial reef"
+      "validation_source": "heures-saines.com, nomad-diver.com, archipel-plongee.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Cargo vessel: built 1950 in Germany (PAHL SCHIFFSWERFT) as 'Hamburg'; renamed Drochtersen (1963), Geocéanique (1975), Gustavia (1982, owned La Cascade shipping). 48.32m × 7.6m, 416 tonnes. Damaged Hurricane Hugo Sept 17 1989 in Pointe-à-Pitre port; sunk as artificial reef May 1991 ~1 mile from Malendure, upright on sandy bottom at 40m. Rich in sponges, barracuda, groupers, moray eels. Requires PE40/Advanced certification."
     }
   },
   {
@@ -413,8 +388,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "TripAdvisor, PADI database, dive operators",
-      "description": "45-meter former cargo vessel deliberately sunk 1996 as artificial reef, cleaned and safe, rests on sandy bottom at 23m, popular in Cousteau Reserve near Malendure, damaged by Hurricane Hugo 1989"
+      "validation_source": "heures-saines.com, padi.com, nomad-diver.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Suction dredger: built 1958 at Danyard-Frederikshavns, Denmark as 'Oresund'; renamed Franjack 1976 (for owner Lacascade's sons François and Jacky); 53.32m × 10.04m, 486 tonnes. Damaged Hurricane Hugo 1989; sunk as artificial reef June 9 1996 at ~23m on sandy bottom near Malendure. Engine room, wheelhouse penetrable. Eels, shrimp, sponges, bryozoans, anemones resident; forward cabin collapsed. Sources give length as 50-53m; PADI lists 45m (possibly underestimate)."
     }
   },
   {
@@ -440,8 +416,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "Divessi, dive operator sites",
-      "description": "53-meter Canadian lighthouse ship, deliberately sunk 2003 in Cousteau Reserve, now at 33m depth (moved by Cyclone Dean), clean artificial reef, requires Advanced certification"
+      "validation_source": "heures-saines.com, tribloo.com, divebooker.com",
+      "last_qa_date": "2026-05-31",
+      "description": "Beacon tender (baliseur): built ~1940 in Canada; 53m × 9m, 660 tonnes. Served Mediterranean (Marseille, Corsica) then transferred to Pointe-à-Pitre 1990 to maintain Antilles-Guyane marine markers; retired 1994. Sunk as artificial reef July 9 2003 at ~29-33m. 15 cabins and gangways accessible. Stingrays, barracudas, moray eels, turtles, groupers, scorpionfish, nudibranchs, trevallies. Requires Advanced/CMAS 2."
     }
   },
   {
@@ -460,9 +437,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "Wikipedia, Karibiodiv, Conservatoire du Littoral",
-      "description": "Reef in Petit Cul-de-Sac Marin (nature reserve since 1987), former îlet disappeared after 1928 hurricane, now shallow reef accessible 5min from Petit-Bourg, named after frigatebirds that nested there, diverse marine life"
+      "validated": false,
+      "validation_source": "Wikipedia, osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "Reef confirmed to exist (former îlet submerged after 1928 hurricane) but no dive-specific documentation with 3 independent sources found in QA pass. OSM marks as natural reef. Location in Petit Cul-de-Sac Marin confirmed."
     }
   },
   {
@@ -481,8 +459,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "Wikipedia, Karibiodiv"
+      "validated": false,
+      "validation_source": "Wikipedia, osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "Same as Frégate-de-Haut — reef confirmed but no dive-specific documentation with 3 independent sources found."
     }
   },
   {
@@ -500,8 +480,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM database"
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "OSM natural=reef only. No dive-specific documentation found in QA pass. Depth placeholder."
     }
   },
   {
@@ -519,8 +501,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM database"
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "OSM natural=reef only. No dive-specific documentation found in QA pass. Depth placeholder."
     }
   },
   {
@@ -538,8 +522,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM database"
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "OSM natural=reef only. No dive-specific documentation found in QA pass. Depth placeholder."
     }
   },
   {
@@ -551,7 +537,7 @@
     "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "seamark:name": "Lynndy",
       "seamark:type": "wreck",
@@ -559,8 +545,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "Snorkeling Report, dive operators",
-      "description": "Small coastal freighter wreck in Anse Mire, Les Saintes, ~15m depth, 100m from beach, marked with yellow buoys, easy visibility from surface, not heavily coral encrusted yet but rapidly colonizing, snorkel-accessible"
+      "validation_source": "snorkeling-report.com, lapetitevilladessaintes.fr, youtube.com/watch?v=PgU1z3ntPU4",
+      "last_qa_date": "2026-05-31",
+      "description": "Small coastal freighter submerged 2006 after tropical storm in Anse Mire, Terre-de-Haut, Les Saintes; rests at 15m (~50ft) ~100m from beach; marked with two yellow cross buoys; minimal coral encrustation as of documentation; bluehead wrasse, moray eels, trunkfish; OSM marks 'dangerous' (likely shallow hazard). Only accessible to divers/freedivers — too deep to snorkel from surface. Difficulty adjusted to Intermediate (15m, not yet well-encrusted)."
     }
   },
   {
@@ -578,8 +565,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "OSM database"
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "OSM natural=reef only. No dive-specific documentation found in QA pass. Depth placeholder."
     }
   },
   {
@@ -597,8 +586,44 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "osm_extended",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "OSM natural=reef only. No dive-specific documentation found in QA pass. Depth placeholder."
+    }
+  },
+  {
+    "name": "Sec Pâté",
+    "lat": 16.15,
+    "lon": -61.8,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "OSM database"
+      "validation_source": "diveoclock.com, tribloo.com, plongee-guadeloupe-reserve-cousteau.fr",
+      "last_qa_date": "2026-05-31",
+      "description": "Legendary submerged volcanic pinnacle in Canal des Saintes; summit 15m, drops to 300m; three peaks; intense 1-4 knot currents; colorful sponges and soft corals; sea turtles, angelfish, surgeonfish, barracuda, trevally, humpback whales (seasonal). Requires CMAS 2/AOW + Deep Diver + 50 logged dives + PE40."
+    }
+  },
+  {
+    "name": "Pointe à Lézard",
+    "lat": 16.18,
+    "lon": -61.775,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean",
+      "validated": false,
+      "validation_source": "sea-seek.com, Wikipedia",
+      "last_qa_date": "2026-05-31",
+      "qa_note": "Location confirmed as geothermally active cape north of Bouillante bay, classified as protected coastal zone 2009. Sandy bottom with mooring confirmed. Dived by local enthusiasts per sea-seek.com. However, no dedicated dive site guide with depth/marine life data found. Cannot confirm 3 independent dive-specific sources."
     }
   }
 ]

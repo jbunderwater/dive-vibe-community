@@ -13,19 +13,38 @@ addedBy: osm_import
 
 ## Le Gustavia
 
-Le Gustavia is a historic wreck dive in Guadeloupe, Caribbean.
+Le Gustavia is a deliberately sunk cargo vessel resting upright on a sandy bottom at 40 metres in the Cousteau Reserve, the first of three artificial reef wrecks created off Malendure, Basse-Terre.
 
 ## Overview
 
-The Gustavia was a 49-metre coastal cargo vessel that traded between Caribbean islands before Hurricane Hugo damaged it beyond repair in 1989, and was deliberately scuttled as an artificial reef in 1991 one mile from Malendure Beach, sitting upright on a sandy bottom at 40 metres. The deep wreck is covered in sponges and soft corals and surrounded by curious barracuda that commonly swirl around ascending divers during the safety stop, while the sandy bottom around the keel hosts garden eels and occasional stingrays. One of three shipwrecks deliberately sunk within the Cousteau Reserve, the Gustavia is the deepest and requires advanced certification, earning its reputation as one of Guadeloupe's most atmospheric dives.
+The Gustavia has a well-documented history. Built in 1950 in Germany by PAHL SCHIFFSWERFT & MASCHINENBAU and delivered as the *Hamburg*, the vessel was renamed *Drochtersen* in 1963, then *Geocéanique* in 1975, and finally *Gustavia* in 1982 under Lacascade & Michaud shipping (company "La Cascade") operating between Guadeloupe and the northern islands. On 17 September 1989, Hurricane Hugo (Category 5) badly damaged the vessel while moored in Pointe-à-Pitre port. After thorough decontamination, she was sunk as an artificial reef in May 1991 approximately 1 mile from Malendure Rock at Bouillante — the first wreck deliberately sunk in the Cousteau Reserve area. She lies upright on a sandy bottom at 40 metres.
+
+The wreck measures 48.32 metres long and 7.6 metres wide, with a tonnage of 416 tonnes. After more than three decades underwater, the hull is richly colonised with sponges and soft corals. The deep profile (40 m) requires Advanced certification (PE40/CMAS 2 equivalent).
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
+- **Location**: Cousteau Reserve area, Malendure, Basse-Terre, Guadeloupe
+- **Entry Type**: Boat dive (~1 mile from Malendure)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
+- **Certification Required**: PADI Advanced Open Water (Deep Specialty) / CMAS 2 / PE40
+
+## Marine Life
+
+The wreck hosts barracuda that congregate around the superstructure, groupers holding position near the hull openings, and moray eels in accessible cavities. The exterior hull is extensively colonised with sponges and multicoloured soft corals. The sandy seabed around the wreck supports occasional stingrays. Note: claims of specific rare species at this exact site without source citation have been removed.
+
+## Dive Profile
+
+- **Depth range**: Upper deck ~36 m; keel at 40 m; sandy bottom at 40 m
+- **Entry**: Boat; descent via mooring/guide line
+- **Current**: Generally light in this section of the reserve
+- **Bottom time**: Limited at 40 m — Nitrox strongly recommended
+- **Visibility**: Typically 15–25 m
+
+## Safety
+
+Deepest of the three Cousteau Reserve wrecks. Gas management is critical — brief deco-free bottom time at 40 m on air. Narcosis can be a factor; agree on abort criteria with buddy. Ascend slowly. Minimum 3-minute safety stop at 5 m mandatory. Dive with a Bouillante licensed operator who knows the mooring.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Exploration des épaves](https://www.heures-saines.com/en/exploration-of-wrecks/), [Nomad Diver — Les épaves de Guadeloupe](https://nomad-diver.com/2021/07/06/les-epaves-de-guadeloupe/), [Archipel Plongée Guadeloupe](https://www.archipel-plongee.com/en-fr/exploration.php). Last updated 2026-05-31.*

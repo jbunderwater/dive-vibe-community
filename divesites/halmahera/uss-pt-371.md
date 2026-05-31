@@ -17,7 +17,7 @@ USS PT-371 is a WWII wreck dive site in the Galela area of North Halmahera, Indo
 
 ## Overview
 
-USS PT-371 was an American patrol torpedo boat lost during World War II. According to US Navy operational records, PT-371 grounded and was destroyed by its own crew to prevent capture at Halmahera on 19 September 1944. PT-371 was one of a group of four Scott-Paine designed PT boats (PT-368 through PT-371) originally built by the Canadian Power Boat Company for the Dutch Navy under Lend-Lease, then re-requisitioned by the US Navy after the fall of the Netherlands. At approximately 15 metres maximum depth, the wreck is relatively shallow and accessible for intermediate-level divers. North Halmahera is associated with WWII PT boat operations in the Pacific, and the site is included in liveaboard itineraries covering the area around Galela Bay.
+USS PT-371 was an American patrol torpedo boat lost during World War II. According to US Navy operational records confirmed by two independent sources, PT-371 ran aground on an uncharted reef close to the Halmahera coast on the night of 18–19 September 1944 and was destroyed by its crew to prevent capture. PT-371 was one of a group of four Scott-Paine–designed PT boats (PT-368 through PT-371) built by the Canadian Power Boat Company in Montreal and originally intended for the Royal Netherlands Navy under a Lend-Lease arrangement; the four boats were subsequently transferred to the US Navy and converted to Elco fittings at Fyfe's Shipyard, Long Island. At approximately 15 metres maximum depth, the wreck is relatively shallow and accessible for intermediate-level divers. North Halmahera is associated with WWII PT boat operations, and the site is included in liveaboard itineraries covering the Galela Bay area.
 
 ## Site Information
 
@@ -27,13 +27,17 @@ USS PT-371 was an American patrol torpedo boat lost during World War II. Accordi
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
+## Vessel Specifications (Verified)
+
+PT-371 was a 70-foot (approximately 21 metres) Scott-Paine–designed patrol torpedo boat. Displacement: 33–40 tons. Powered by three Packard W-14 M2500 engines delivering 1,500 shp each, with a maximum speed of 41–46 knots. The boat served with MTBRon 18 (Motor Torpedo Boat Squadron 18) in the Southwest Pacific, seeing action at Dreger Harbor, Aitape, Hollandia, Wakde, and Morotai before its loss.
+
 ## Marine Life
 
-Shallow WWII wrecks in North Halmahera are typically well-encrusted with coral after 80+ years underwater. The wreck structure and surrounding area are expected to host the reef fish community typical of North Halmahera: fusiliers, reef sharks, nudibranchs, and encrusting invertebrates. The broader Morotai/North Halmahera area is also known for occasional manta ray sightings.
+No site-specific marine life reports have been found for the PT-371 wreck specifically. Shallow WWII wrecks throughout North Halmahera are generally encrusted with coral after 80+ years underwater and typically host fusiliers, wrasse, grouper, and nudibranchs on the wreck structure. The broader Galela Bay area is part of North Halmahera's reef ecosystem. No site-specific species lists can be attributed to this wreck without independent diver reports.
 
 ## Dive Profile
 
-With a maximum depth of 15 metres, PT-371 is a relatively shallow wreck dive accessible to divers of intermediate experience. The patrol torpedo boat was a small, fast vessel (approximately 24 metres in length) — the wreck structure provides a compact but historically significant dive. Visibility in the Galela area is generally 15–25 metres. Currents are typically moderate.
+With a maximum depth of 15 metres, PT-371 is a shallow wreck dive. The boat was approximately 21 metres long — a compact but historically significant structure. Visibility in the Galela area is generally 15–25 metres. Currents are typically moderate. The shallow depth allows extended bottom time within recreational no-decompression limits.
 
 ## Entry and Exit
 
@@ -48,4 +52,4 @@ The 15-metre maximum depth allows extended bottom time for wreck exploration. Co
 North Halmahera is remote. The nearest recompression chamber is in Manado. The wreck is shallow and the site generally benign, but standard wreck diving caution applies — maintain external diving positions and do not enter enclosed spaces without proper wreck penetration training and equipment. Water temperature is 27–30°C. SMB should be carried on all boat dives in this area.
 
 ---
-*Sources: [Pacific Wrecks – Halmahera Island](https://pacificwrecks.com/location/indonesia_halmahera.html), [US Navy Motor Torpedo Boat Operational Losses](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u-s-navy-motor-torpedo-boat-operational-losses.html), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-05-17.*
+*Sources: [HyperWar: At Close Quarters, Part VIII – PT Boat Losses](https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-8.html), [Navsource – PT-371](http://www.navsource.org/archives/12/05371.htm), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-05-31.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Tosei Maru
 
-Tosei Maru is a WWII-era Japanese wreck dive site in the Kao Bay / Jailolo area of North Halmahera, Indonesia.
+Tosei Maru is a wreck dive site in the Kao Bay / Jailolo area of North Halmahera, Indonesia.
 
 ## Overview
 
-The Tosei Maru is a Japanese vessel located in or near Kao Bay in North Halmahera — an area that served as a significant Japanese base during World War II. The site lies at a maximum depth of 20 metres, making it accessible for intermediate divers. The wreck has been colonised by decades of coral growth and now serves as an artificial reef. Halmahera's Kao Bay (also spelled Kau Bay) hosted Japanese naval and logistics operations during the war, and a number of vessels associated with wartime activity in the bay remain on the seabed as dive sites. The coordinates of this site (1.14°N, 127.83°E) place it in the vicinity of the Kao Bay / Jailolo area.
+The Tosei Maru is a vessel whose remains lie at approximately 20 metres depth in or near Kao Bay, North Halmahera — an area that served as a significant Japanese logistics and naval base during World War II. The site exists in OpenStreetMap as a historic wreck node. The wreck has been colonised by decades of coral growth and now functions as an artificial reef structure.
+
+**Important note on wreck history**: No independent sources could be found to verify the vessel's name, nationality, tonnage, build date, or sinking cause for this specific wreck at this location. The OpenStreetMap record includes a `wreck:date_sunk` tag of 1941-12-12, but this date cannot be corroborated — Halmahera was not a significant combat zone in December 1941, and research across multiple WWII shipping loss databases did not confirm this. The historical details of this wreck remain unverified. Divers seeking confirmed historical context should consult local operators in Tobelo or Jailolo before the dive.
 
 ## Site Information
 
@@ -29,23 +31,23 @@ The Tosei Maru is a Japanese vessel located in or near Kao Bay in North Halmaher
 
 ## Marine Life
 
-At 20 metres maximum depth, the wreck provides extensive shallow habitat that supports rich encrusting coral and sponge communities. WWII wrecks in this region typically host fusiliers, wrasse, grouper, and invertebrates including nudibranchs and morays in the wreck structure. Soft corals are documented on WWII wrecks throughout North Halmahera after 80 years of growth.
+No site-specific marine life reports have been found for the Tosei Maru wreck. At 20 metres maximum depth, the wreck provides shallow habitat that typically supports encrusting coral and sponge communities on WWII-era wrecks in the North Halmahera region. No site-specific species lists can be attributed to this site without independent diver reports.
 
 ## Dive Profile
 
-The shallow maximum depth of 20 metres means long no-decompression bottom times are possible, allowing thorough wreck exploration within a single dive. The wreck is dived by boat in the Kao Bay area. Visibility in the bay environment is typically 10–20 metres, with better clarity on outgoing tides.
+The shallow maximum depth of 20 metres means long no-decompression bottom times are possible, allowing thorough exploration within a single dive. The wreck is dived by boat in the Kao Bay area. Visibility in the bay environment is typically 10–20 metres, with better clarity on outgoing tides.
 
 ## Entry and Exit
 
-Access is by boat from Tobelo or Jailolo — the main towns near Kao Bay in North Halmahera. The site is also accessible on liveaboard itineraries that include North Halmahera. Due to its shallow depth, the Tosei Maru can be combined with reef dives in the area on a single-day programme.
+Access is by boat from Tobelo or Jailolo — the main towns near Kao Bay in North Halmahera. The site may also be accessible on liveaboard itineraries that include North Halmahera. Local dive guides with knowledge of the Kao Bay area are recommended to locate this site.
 
 ## Tips and Recommendations
 
-The shallow depth suits relaxed, photography-focused wreck diving. A torch is recommended for illuminating the interior structure and revealing nudibranchs and morays sheltering in the coral growth. Given the relatively benign conditions at 20 metres, this is a suitable site for Open Water certified divers who have completed a PADI Wreck Diver specialty.
+The shallow depth suits relaxed wreck diving. A torch is recommended for illuminating the structure. Confirm site conditions and any updated historical information with local operators in Tobelo before diving.
 
 ## Safety Considerations
 
 North Halmahera is remote, with limited medical infrastructure. The nearest recompression chamber is in Manado. Standard wreck diving safety applies: maintain external positions and do not enter enclosed spaces without proper training, gas supply, and penetration equipment. An SMB should be carried on every boat dive. Water temperature is 27–30°C year-round.
 
 ---
-*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Pacific Wrecks – Kaoe Bay](https://pacificwrecks.com/provinces/irian_kaoe_bay.html), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [OpenStreetMap Node 20315906](https://www.openstreetmap.org/node/20315906). Note: vessel history (nationality, tonnage, sinking date) could not be independently verified from any published source. Last updated 2026-05-31.*
