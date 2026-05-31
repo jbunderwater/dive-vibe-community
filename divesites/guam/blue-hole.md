@@ -3,8 +3,8 @@ name: Blue Hole
 lat: 13.4365
 lng: 144.626083
 difficulty: Advanced
-maxDepth: 55
-entryType: shore
+maxDepth: 38
+entryType: boat
 siteType: cave
 ref: null
 osmId: null
@@ -13,48 +13,51 @@ addedBy: osm_import
 
 # Blue Hole
 
-A vertical hole in the reef top south of Apra Harbor off Orote Point. Enter at 18 meters, descend through a 20m x 10m opening, and exit onto a sheer wall at 40-45 meters that drops 80+ meters. Huge gorgonians, whitetip and grey reef sharks, and visibility exceeding 30 meters. Usually dived as a drift.
+A natural vertical shaft in the reef off Orote Point accessed exclusively by boat. The shaft starts at approximately 18 meters (60 feet), drops through an opening with a heart-shaped profile, and exits onto a sheer outer wall through a large window at approximately 38 meters (125 feet). The wall then drops to more than 90 meters (300 feet). Blacktip reef sharks, sea turtles, and large pelagic fish are regularly encountered on the outer wall.
 
 ## Overview
 
-Blue Hole is one of Guam's signature dives -- a natural vertical shaft in the reef top off Orote Point, south of Apra Harbor. The opening at 18 meters measures approximately 20 meters by 10 meters, creating a dramatic chimney-like formation that divers descend through. The shaft exits onto a sheer outer wall at 40-45 meters, which then drops vertically for 80 meters or more into the abyss.
+Blue Hole is one of Guam's signature dives — a natural vertical shaft (chimney) in the reef off Orote Point, at the southern entrance to Apra Harbor. The shoreline here is a 45-meter sheer cliff of uplifted coral; there is no beach entry. All access is by boat from Cabras Marina, approximately 20 minutes away.
 
-The wall below the exit is decorated with huge gorgonian sea fans. Whitetip reef sharks and grey reef sharks patrol the wall and the blue water beyond. Visibility outside the reef typically exceeds 30 meters, creating a dramatic sense of depth as the wall disappears into darkness below. The dive is usually done as a drift along the outer wall after exiting the hole.
+The shaft entrance is located on a reef shelf at approximately 18 meters (60 feet). The interior of the shaft has a distinctive heart shape when viewed from within. The shaft narrows and exits onto the open outer wall through a large window at approximately 38 meters (125 feet). Outside the window, the wall drops vertically for more than 90 meters (300 feet) into the abyss. The extraordinary water clarity of Guam's outer reef — visibility can exceed 60 meters vertically — creates a dramatic sense of depth as the wall falls away below.
+
+The dive is typically done as a drift: divers descend through the shaft, exit through the window, then drift along the outer wall before ascending back to the reef flat at 18 meters. Strong currents along the wall are common, especially in the afternoon.
 
 ## Site Information
 
 - **Location**: Off Orote Point, south of Apra Harbor, Guam
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 55 meters
-- **Typical Visibility**: 30+ meters (outside the reef)
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Variable; usually dived as drift
-- **Best Time**: Year-round
+- **Maximum Depth**: 38 meters
+- **Typical Visibility**: 30–60+ meters outside the reef
+- **Water Temperature**: 28–29 degrees C (no thermocline reported)
+- **Current**: Variable; typically dived as a drift; strong currents common in afternoon
+- **Best Time**: Morning dives recommended to avoid stronger afternoon currents
 
 ## Marine Life
 
-Whitetip reef sharks and grey reef sharks are regularly encountered along the outer wall. Huge gorgonian sea fans decorate the wall face below the Blue Hole exit. Pelagic species cruise the blue water beyond the wall. The dramatic depth and current-swept wall attract larger marine life than the sheltered inner-reef sites.
+Blacktip reef sharks are regularly encountered along the outer wall and in the blue water beyond. Green sea turtles are reported on most dives. Large pelagic fish including large snapper and marble rays are observed in the open water. Lionfish and moray eels inhabit the reef flat above the shaft. Schooling fish and triggerfish are common. Soft corals and sea whips grow inside the shaft. The reef flat at 18 meters features hand-fed fish and coral mounds. Note: the upper sections of the shaft may appear relatively bare due to wave and typhoon effects on the shallow reef.
 
 ## Dive Profile
 
-Enter at the reef top and descend through the Blue Hole shaft from 18 meters, passing through the 20m x 10m opening. Exit onto the outer wall at 40-45 meters. This is the deepest point of the dive -- bottom time here is very limited on air. Drift along the wall at 30-40 meters, observing the gorgonians and watching for sharks, before ascending to the reef top. Plan the deepest portion first and ascend progressively as gas is consumed. A safety stop is mandatory.
+Access by boat — moor to the site buoy and descend to the reef shelf at 18 meters. Enter the shaft, descending through the heart-shaped opening. The shaft narrows toward the 38-meter window exit — this is the deepest point of the planned dive and where bottom time is most critical. Pass through the window into open water, then drift along the outer wall at 30–38 meters, ascending progressively. The extreme clarity can cause unintended deeper dives; maintain strict depth awareness. Return over the reef flat at 18 meters for a safety stop or extended shallow exploration. Exit requires deploying an SMB for boat pickup in open water as the drift carries divers away from the mooring.
 
 ## Entry and Exit
 
-Can be accessed by shore from the Orote Point area or by boat. The boat option is more common and allows for drift diving along the wall after exiting the hole. Deploy an SMB for boat pickup during ascent.
+Boat dive only; access from Cabras Marina, Apra Harbor (~20 minutes). Moor to site buoy. Entry by giant stride. Exit by SMB pickup in open water after the drift — do not attempt to swim back against the current.
 
 ## Tips and Recommendations
 
-- The transition from the Blue Hole shaft to the sheer outer wall is one of the most dramatic moments in Guam diving -- have your camera ready
-- The gorgonians on the wall are massive and best appreciated with a wide-angle lens
-- This dive demands strict depth and gas discipline -- the wall below 45 meters is tempting but very deep
+- The transition from the shaft into the open wall at 38 meters is one of the most dramatic moments in Guam diving
+- Visibility outside the reef can be extraordinary — wide-angle lens recommended
+- Plan strict depth limits; the wall drops to 90+ meters and "it is very easy to get very deep here"
+- Dive in the morning when currents are typically calmer
 - Often combined with Hap's Reef as a shallower second dive
 
 ## Safety Considerations
 
-This is an advanced deep dive. The wall drops well beyond recreational limits -- maintain strict depth awareness and do not exceed your planned maximum. Nitrogen narcosis is a real concern at 40-45 meters. The vertical shaft creates a potential overhead environment during the descent. Currents along the outer wall can be strong -- be prepared for drift conditions. Plan gas management conservatively; the exit point at 40-45 meters means a long ascent is required.
+This is an advanced deep dive. The shaft creates a partial overhead environment during descent — maintain awareness of the exit window. The outer wall drops far beyond recreational limits; nitrogen narcosis is a real concern at 38+ meters. Currents on the outer wall can be strong; plan for drift conditions and have an SMB ready for open-water pickup. Gas management is critical — the exit from the window at 38 meters means a full ascent remains after the deepest portion.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Guam Dive Guide — Blue Hole](https://www.guamdiveguide.com/all-dive-sites/southern-sites/blue-hole/), [MDA Guam — Blue Hole](https://www.mdaguam.com/blue-hole/), [ScubaBoard — Guam Dive Sites Blue Hole](https://scubaboard.com/community/threads/guam-dive-sites-blue-hole.78139/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam). Last updated 2026-05-31.*

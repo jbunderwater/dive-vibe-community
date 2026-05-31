@@ -3,7 +3,7 @@ name: SMS Cormoran
 lat: 13.4557
 lng: 144.653883
 difficulty: Advanced
-maxDepth: 32
+maxDepth: 34
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # SMS Cormoran
 
-A WWI German armed raider (ex-SS Ryazan), 87 meters long, scuttled by her crew on 7 April 1917 when the United States entered the war. Lying on her port side in Apra Harbor adjacent to the WWII Japanese transport Tokai Maru -- one of the only places in the world where divers can touch wrecks from both World Wars on the same dive.
+A WWI German armed merchant raider (ex-Russian steamer Rjasan), 88 meters long and 3,500 tons, scuttled by her crew on 7 April 1917 (Guam time; 6 April US time) when the United States entered the war. Lying adjacent to the WWII Japanese transport Tokai Maru in Apra Harbor — one of the only places in the world where divers can touch wrecks from two World Wars on the same dive.
 
 ## Overview
 
-SMS Cormoran II was originally the Russian steamer SS Ryazan, an 87-meter, 3,500-ton vessel captured by the German Navy at the outbreak of World War I and converted into an armed raider. After a brief commerce-raiding career in the Pacific, she was forced to seek refuge in the neutral port of Apra Harbor, Guam, where she was interned by the Americans.
+SMS Cormoran II was originally the Russian passenger-cargo steamer Rjasan, an 88-meter, 3,500-ton vessel built in 1909 at Schichau shipyard in Elbing, Germany, for the Russian Volunteer Fleet. She was captured in August 1914 by the German light cruiser SMS Emden and converted into an armed commerce raider. After a commerce-raiding career in the Pacific, she was forced to seek refuge in the neutral port of Apra Harbor, Guam, on 14 December 1914, where she was interned by American authorities.
 
-When the United States declared war on Germany on 7 April 1917, the crew of the Cormoran chose to scuttle their ship rather than surrender her. They opened the sea cocks and the vessel sank in the harbor, coming to rest on her port side at approximately 30-32 meters.
+When the United States declared war on Germany, the Naval Governor of Guam informed Captain Adalbert Zuckschwerdt that the vessel would be seized. Rather than surrender, Zuckschwerdt ordered the crew to detonate explosives and scuttle the ship. Seven crew members died in the scuttling. The warning shots fired by the USS Supply as the crew abandoned ship were among the first shots fired by the United States in World War I — making this incident a significant moment in American military history. The wreck and the sailors' grave site in Hagåtña are both listed on the U.S. National Register of Historic Places.
 
-The wreck's claim to global diving fame came decades later when the Japanese transport Tokai Maru sank during World War II and settled immediately adjacent to the Cormoran. The two wrecks now share a mooring buoy, and divers can reach out and touch both vessels simultaneously -- spanning two World Wars with their arms. This is one of the only places in the world where this is possible.
+Sources conflict on the exact depth: NAUI and Guampedia cite 34 meters (110 feet); X-Ray Magazine and MDA describe average diving depth of 24–34 meters (80–110 feet), with portions rising higher. The keel rests in approximately 34–36 meters.
 
 ## Site Information
 
@@ -29,34 +29,34 @@ The wreck's claim to global diving fame came decades later when the Japanese tra
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-15 meters (Apra Harbor)
-- **Water Temperature**: 28-29 degrees C
+- **Maximum Depth**: 34 meters
+- **Typical Visibility**: 8–18 meters (25–60 feet) — variable with tide and harbor traffic
+- **Water Temperature**: 28–29 degrees C
 - **Current**: Generally mild inside the harbor
 - **Best Time**: Year-round
 
 ## Marine Life
 
-The combined wreck site (Cormoran and adjacent Tokai Maru) has become a significant artificial reef in Apra Harbor. Coral and sponge growth encrust both hulls. Fish shelter in and around the wreck structures. The harbor environment means visibility is typically lower than open-ocean sites but marine life is abundant.
+The combined wreck site (Cormoran and adjacent Tokai Maru) has become a significant artificial reef in Apra Harbor. Coral and sponge growth encrust both hulls. No site-specific species lists have been confirmed for the Cormoran alone by sources reviewed; the wreck shares its marine life community with the adjacent Tokai Maru site.
 
 ## Dive Profile
 
-Descend the shared mooring line to the wrecks. The Cormoran lies on her port side with the hull rising from approximately 32 meters at the keel to the starboard side at around 20 meters. The adjacent Tokai Maru is close enough to touch from the Cormoran -- the point where both wrecks can be reached simultaneously is the signature experience. Explore the Cormoran's exterior, noting the size and construction of this early 20th-century vessel. At 32 meters, bottom time is limited -- plan the dive to include the Two-World-Wars photo opportunity before gas runs low.
+Descend the shared mooring line to the wrecks. The Cormoran's steering deckhouse is visible at approximately 24 meters (80 feet); the hull extends to the keel at 34–36 meters. The wreck rests on her port side with the engine room accessible through skylights. The point where the Cormoran and Tokai Maru touch — allowing divers to reach both wrecks simultaneously — is reported at approximately 30 meters (95 feet). Plan the dive to include the two-wars contact point before gas becomes critical. At 34 meters, bottom time is limited on air; nitrox (32%) is recommended and widely used here.
 
 ## Entry and Exit
 
-Access by dive boat from Apra Harbor operators. The wrecks share a mooring buoy, making descent straightforward. Entry by giant stride. The sheltered harbor provides calm surface conditions.
+Boat dive only from Apra Harbor operators. The two wrecks share a mooring buoy, making descent straightforward. Entry by giant stride. The sheltered harbor provides calm surface conditions.
 
 ## Tips and Recommendations
 
-- The two-wars-one-dive experience is unique globally -- bring a camera and have your buddy photograph you touching both wrecks
-- Visibility in Apra Harbor averages 10-15 meters; a torch helps illuminate the hull details
-- The Cormoran and Tokai Maru can be explored on a single dive, but two separate dives allow more thorough exploration of each vessel
-- The scuttling history adds significant historical interest -- research the story before your dive
+- The two-World-Wars experience is unique globally — bring a camera and have your buddy photograph you touching both wrecks simultaneously
+- Visibility in Apra Harbor averages 8–18 meters; a torch helps illuminate hull details
+- The Cormoran and Tokai Maru can be explored on a single tank, but two separate dives allow thorough exploration of each vessel
+- The scuttling made this the site of the first shots fired by the U.S. in WWI — research the story before diving
 
 ## Safety Considerations
 
-At 32 meters with limited harbor visibility, this is an advanced dive. Gas management must be planned carefully for the depth. The wrecks are deteriorating and loose metal is present -- maintain good buoyancy and avoid contact with the hull structure. Interior penetration requires wreck diving certification. The harbor location means boat traffic above -- deploy an SMB during ascent.
+At 34 meters with variable harbor visibility, this is an advanced dive. Gas management must be planned carefully. The wreck is deteriorating — loose and razor-sharp metal is present; maintain good buoyancy and avoid contact with hull plating. Interior penetration (engine room) requires wreck diving certification. The harbor location means active boat traffic — deploy an SMB during ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [NAUI Worldwide — SMS Cormoran](https://www.naui.org/where-the-united-states-entered-world-war-i-the-sms-cormoran/), [Guampedia — Journey of SMS Cormoran II](https://www.guampedia.com/the-journey-of-sms-cormoran-ii/), [X-Ray Magazine — Tale of Two Wrecks](https://xray-mag.com/content/guam-tale-two-wrecks), [MDA Guam](https://www.mdaguam.com/sms-cormoran/). Last updated 2026-05-31.*

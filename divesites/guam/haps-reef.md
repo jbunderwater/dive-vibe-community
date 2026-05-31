@@ -2,8 +2,8 @@
 name: Hap's Reef
 lat: 13.38
 lng: 144.635
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,48 +13,52 @@ addedBy: osm_import
 
 # Hap's Reef
 
-Long renowned as the favourite reef of Guam fish watchers. A well-developed coral mound in Agat Bay at 10-15 meters, surrounded by sandy valleys. Teeming with Micronesian fish species -- butterflyfish, soldierfish, trumpetfish, squirrelfish, pufferfish, and lionfish. A popular second dive after Blue Hole.
+A prominent coral mound in Agat Bay rising to 6 meters (20 feet), surrounded by mixed reef and sand flats at 12–20 meters (40–65 feet). Described by MDA as "a great dive for all" with exceptional visibility. Frequently dived as a second, shallower dive after Blue Hole.
 
 ## Overview
 
-Hap's Reef sits in Agat Bay, a well-developed coral mound rising from flat sandy terrain in approximately 10-15 meters of water. The reef is several hundred yards offshore and is accessed by boat. It has long been considered the favourite reef on Guam among fish-watching enthusiasts due to its exceptional variety and density of small reef fish species.
+Hap's Reef is located in Agat Bay, south of Apra Harbor, accessed by boat. A prominent coral mound rises from a surrounding area of mixed reef and sand flats, with the mound's peak at approximately 6 meters (20 feet) and the surrounding sandy terrain at 12–20 meters (40–65 feet). The maximum depth on the site is approximately 18 meters.
 
-The relatively shallow depth and slight currents make it an ideal site for less experienced divers, while the abundance of photogenic subjects keeps experienced underwater photographers engaged. Hap's Reef is frequently dived as a second dive of the day after the deeper Blue Hole dive nearby, providing a relaxed contrast to the adrenaline of the wall dive.
+MDA Guam, the primary local operator for this site, describes Hap's Reef as "a great dive for all" with "great vis surrounding this prominent coral mound." The shallow depth and calm conditions make it appropriate for less-experienced divers, while the coral mound structure provides enough variety for photography. It is frequently paired with Blue Hole as a second, shallower dive.
+
+Earlier descriptions of Hap's Reef as "Guam's premier fish-watching reef" with specific species lists including "butterflyfish, soldierfish, trumpetfish, squirrelfish, pufferfish, lionfish" have not been confirmed by primary sources reviewed for this QA pass and have been removed to prevent unverified claims.
 
 ## Site Information
 
 - **Location**: Agat Bay, Guam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Slight
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Depth Range**: 6–18 meters
+- **Typical Visibility**: Reported as "great" by MDA (specific figures not confirmed in sources reviewed)
+- **Water Temperature**: 28–29 degrees C
+- **Current**: Generally slight
 - **Best Time**: Year-round
 
 ## Marine Life
 
-This is Guam's premier fish-watching reef. Micronesian fish species are present in exceptional variety: butterflyfish in multiple species, soldierfish, trumpetfish, squirrelfish, pufferfish, lionfish, and brightly coloured wrasses. Almost all small reef fish species found on Guam can be seen here on a single dive. The coral mound structure provides habitat for the full range of reef-dwelling species.
+No site-specific marine life list has been confirmed by primary sources reviewed for this site. The coral mound structure and surrounding sand flats are typical Guam reef habitat. Do not assume the full Micronesian reef fish species list applies specifically to Hap's Reef without source confirmation.
+
+*No site-specific marine life reports confirmed. Guam's regional Pacific reef fauna applies.*
 
 ## Dive Profile
 
-Descend to the coral mound at approximately 10-15 meters. Circle the mound, exploring the coral formations and the sandy valleys surrounding it. The fish life is concentrated on and around the mound structure, so there is no need to swim far -- the best strategy is slow, careful observation. The shallow depth allows generous bottom time for thorough fish-watching and photography.
+Descend to the coral mound and explore its peak at 6 meters, circling down to the surrounding sand flats at 12–20 meters. The mound can be circumnavigated multiple times at the shallow depth, allowing extended dive time. Explore the reef-sand interface for sand-dwelling species. The shallow maximum depth allows generous bottom time.
 
 ## Entry and Exit
 
-Access by dive boat from local operators. The reef is several hundred yards offshore in Agat Bay. Entry by giant stride.
+Access by dive boat from local operators in Agat Bay or Apra Harbor.
 
 ## Tips and Recommendations
 
-- Bring a macro lens -- this is one of the best fish photography sites on Guam
-- Take your time circling the mound; almost every species of small reef fish on Guam is present
-- An excellent second dive after Blue Hole -- the shallow depth helps off-gas after the deep wall dive
-- The sandy valleys surrounding the mound sometimes reveal sand-dwelling species
+- An excellent second dive after Blue Hole — the shallow depth aids nitrogen off-gassing after the deeper wall dive
+- The sandy valleys surrounding the mound can reveal buried or cryptic species
+- Calm conditions typically allow good macro photography on the coral surfaces
 
 ## Safety Considerations
 
-A relatively easy dive site with minimal hazards. Currents are slight. The shallow depth keeps the dive well within recreational limits. Lionfish are present -- do not touch.
+A gentle site with minimal hazards. Slight currents may be present. Shallow maximum depth keeps the dive well within recreational limits.
 
 ---
-*Sources: [Guam Dive Guide - Hap's Reef](https://www.guamdiveguide.com/all-dive-sites/southern-sites/haps-reef/), [MDA Guam](https://www.mdaguam.com/destination/haps-reef/), [Asia Dive Site](https://www.asiadivesite.com/micronesia-dive-sites/guam/haps-reef.html). Last updated 2026-04-08.*
+*Sources: [MDA Guam — Hap's Reef](https://www.mdaguam.com/destination/haps-reef/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam), [Asia Dive Site — Hap's Reef](https://www.asiadivesite.com/micronesia-dive-sites/guam/haps-reef.html). Last updated 2026-05-31.*
