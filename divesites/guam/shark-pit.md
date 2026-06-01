@@ -13,48 +13,52 @@ addedBy: osm_import
 
 # Shark Pit
 
-An unusual dive along Orote Peninsula with WWII artifacts, sea fans at 12 meters, a pinnacle rising from 30 meters to 4 meters, and resident sea turtles. One of the few Guam sites with gorgonian sea fans in the shallows. Named for its turtle-like shape, though sharks are also present.
+An unusual reef and boulder dive along Orote Peninsula with significant WWII debris, shallow sea fans, and a canyon-like area called Boulder Alley. Depths run 40–130+ feet. Named for its turtle-like shape when viewed from above — sea turtles are seen on most dives; reef sharks are now rare. The site was formerly used as a Navy dumping ground, leaving artifacts including cafeteria trays, anchors, bottles, jeeps, wheels, and landing craft. Gorgonian sea fans at 40 feet are the shallowest on Guam.
 
 ## Overview
 
-Shark Pit is located along Orote Peninsula, just south of the Blue Hole off Orote Point. Despite its name, the site is actually shaped like a turtle when viewed from above, and sea turtles -- not sharks -- are the most reliable large animal encounter, visible on most dives. That said, reef sharks and even pilot whales have been reported in the area.
+Shark Pit is located on the outer face of Orote Peninsula, close to the Blue Hole and the entrance to Apra Harbor. Despite its name, the site is described as turtle-shaped when viewed from above rather than named for shark encounters — sea turtles are the primary large animal seen here, observed on most dives. Reef sharks are now infrequently encountered, though they were historically more common at this site.
 
-The site features a pinnacle that rises dramatically from approximately 30 meters to just 4 meters below the surface. One of the distinguishing features of Shark Pit is the presence of gorgonian sea fans at just 12 meters depth -- unusual for Guam, where sea fans are typically found much deeper. WWII artifacts including tanks and trucks are scattered in the area, adding historical interest to the dive. The site is popular for macro photography.
+The site encompasses a large rock formation whose peak reaches approximately 25 feet below the surface, with the surrounding terrain dropping to 130 feet and beyond. Boulder Alley is a canyon-like area north of the main rock formation where turtles and eels are regularly found. The most unusual feature is the presence of gorgonian sea fans at just 40 feet — described by dive operators as the shallowest sea fans found anywhere on Guam, where they are typically only seen at much greater depths.
+
+The area around Orote Peninsula was historically used as a Navy dumping ground following WWII, and the site is littered with military and domestic debris: cafeteria trays, anchors, bottles, live ammunition, jeeps, wheels, and landing craft. This material gives the site an additional layer of historical interest; live ammunition should not be touched or disturbed.
 
 ## Site Information
 
-- **Location**: Orote Peninsula, south of Blue Hole, Guam
+- **Location**: Orote Peninsula, near Blue Hole entrance, Guam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Variable
-- **Best Time**: Year-round
+- **Shallowest Point**: ~25 feet (peak of main rock)
+- **Typical Depth Range**: 40–130+ feet
+- **Typical Visibility**: 70–100 feet
+- **Water Temperature**: 28–29°C
+- **Current**: Variable; can be strong along Orote Peninsula
+- **Best Time**: Year-round; check current conditions before diving
 
 ## Marine Life
 
-Sea turtles are seen on most dives. Gorgonian sea fans at 12 meters are a highlight -- unusually shallow for Guam. The pinnacle structure attracts fish schools. Macro subjects are abundant on the pinnacle surfaces. Sharks are occasional visitors to the deeper sections. Pilot whales have been reported in the surrounding waters.
+Sea turtles are seen on most dives — the highest frequency is reported in Boulder Alley, north of the main rock formation. Eels are common in Boulder Alley. Schools of yellow and white butterflyfish gather on the rock structure. Gorgonian sea fans at 40 feet are the shallower-than-usual highlight. Reef sharks are occasionally sighted but not reliably. The rocky substrate supports macro subjects on the rock surfaces.
 
 ## Dive Profile
 
-Descend to the pinnacle, which rises from the sand at approximately 30 meters to a peak at 4 meters. Explore the deeper sections first for the sea fans and WWII artifacts, then work upward along the pinnacle walls. The turtles are encountered at various depths. The pinnacle top at 4 meters provides an excellent safety stop area with fish life to observe. The variable depth range means the dive can be tailored to certification level.
+Descend to the main rock formation, whose peak is at approximately 25 feet. Explore the upper section and note the sea fans at 40 feet on the rock face — work deeper for the broader debris field. Head north to Boulder Alley, the canyon-like area between boulder formations where turtles and eels congregate. Observe the WWII debris scattered across the site — cafeteria trays, vehicle parts, anchors, and landing craft remnants are recognizable features. Ascend along the rock peak to the 25-foot level for a safety stop.
 
 ## Entry and Exit
 
-Primarily accessed by boat. Can also be dived from shore via Naval Base Guam, but boat access is more convenient. Entry by giant stride.
+Primarily accessed by boat, departing Cabras Marina or Agat Marina. Shore access is technically possible via Naval Station Guam but boat access is more convenient and the norm for visiting divers.
 
 ## Tips and Recommendations
 
-- The sea fans at 12 meters are a rarity in Guam waters -- bring a wide-angle lens
-- Look for the WWII artifacts (tanks, trucks) scattered around the base of the pinnacle
-- The pinnacle top at 4 meters makes an excellent extended safety stop
-- The macro photography opportunities on the pinnacle surfaces are outstanding
+- Boulder Alley north of the main rock is the most productive area for turtle and eel encounters
+- The sea fans at 40 feet are a rarity on Guam — bring a wide-angle lens
+- Do not touch or move any of the WWII debris — live ammunition is present and should never be handled
+- The high visibility (70–100 feet) makes this a good photography site
+- Currents along Orote Peninsula can be variable — check conditions with your dive operator before entering
 
 ## Safety Considerations
 
-Currents at Orote Peninsula can be variable -- follow the dive guide's assessment. The pinnacle drops to 30 meters at the base, so monitor depth when exploring the deeper sections. The WWII artifacts should be observed but not touched or disturbed.
+Currents at Orote Peninsula can be variable and at times strong — follow your dive guide's assessment of conditions. The maximum depth of 130+ feet is beyond recreational limits; plan a target depth and enforce it. Live ammunition is present in the WWII debris — observe but never touch. The WWII artifacts should not be disturbed. Deploy an SMB during ascent.
 
 ---
-*Sources: [MDA Guam - Sharks Pit](https://www.mdaguam.com/destination/sharks-pit/), [SSI - Sharks Pit](https://www.divessi.com/en/mydiveguide/divesite/sharks-pit-guam-309332), [Asia Dive Site](http://www.asiadivesite.com/micronesia-dive-sites/guam/sharks-pit.php). Last updated 2026-04-08.*
+*Sources: [MDA Guam – Sharks Pit](https://www.mdaguam.com/destination/sharks-pit/), [Guam Dive Guide – Sharks Pit](https://www.guamdiveguide.com/all-dive-sites/southern-sites/sharks-pit/), [SSI – Sharks Pit](https://www.divessi.com/en/mydiveguide/divesite/sharks-pit-guam-309332). Last updated 2026-06-01.*

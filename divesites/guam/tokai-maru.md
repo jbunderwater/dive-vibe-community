@@ -13,13 +13,17 @@ addedBy: osm_import
 
 # Tokai Maru
 
-A WWII Japanese transport, 139 meters long and 8,365 tons, sunk in Apra Harbor adjacent to the WWI German raider SMS Cormoran. Together they form one of the only dive sites in the world where you can touch wrecks from two World Wars on the same dive.
+A WWII Japanese passenger-cargo ship (8,365 GRT, 134 m / 440 ft long), sunk in Apra Harbor on 27 August 1943 by the USS Snapper. The wreck rests on her port side at up to 40 meters, immediately adjacent to the WWI German raider SMS Cormoran — together forming one of the only places in the world where a WWI and WWII wreck make physical contact.
 
 ## Overview
 
-The Tokai Maru was a 139-meter, 8,365-ton Japanese transport ship sunk during World War II in Apra Harbor, Guam. The vessel came to rest immediately adjacent to the SMS Cormoran II, a WWI German armed raider that had been scuttled in the same harbor in 1917. The proximity of the two wrecks creates one of the most historically significant dive sites in the world -- divers can simultaneously touch vessels from both World Wars.
+The Tokai Maru was a Japanese passenger-cargo ship built by Mitsubishi Heavy Industries, launched on 16 May 1930 and completed on 14 August 1930. She measured 134 meters (440 feet) in length and 18 meters (60 feet) in beam, displacing 8,365 gross registered tons. Before the war she served on the Tokyo–New York City run through the Panama Canal for Osaka Shosen Co., operating as a fast luxury freighter. She was requisitioned by the Imperial Japanese Navy in 1940 as a military transport.
 
-The Tokai Maru is substantially larger than the Cormoran (139 meters vs 87 meters) and extends to greater depths, with sections reaching approximately 40 meters. The wreck provides extensive exploration opportunities along its hull and superstructure.
+The Tokai Maru was first attacked on 24 January 1943 by the U.S. submarine USS Flying Fish, which fired two torpedoes while she lay in Apra Harbor — one missed and ran aground on a reef; the other struck the vessel but failed to sink her. Seven months later, on 27 August 1943, USS Snapper fired four torpedoes: three struck the Tokai Maru and sank her, while the fourth hit the already-damaged Japanese vessel Nichiyo Maru.
+
+The Tokai Maru came to rest with an approximately 85-degree list to her port side, with the shallowest accessible point — the upper forward bridge — at around 12 meters (40 feet), and the deepest sections reaching approximately 40 meters (130 feet). The wreck was added to the U.S. National Register of Historic Places on 14 July 1988. She settled immediately adjacent to the scuttled WWI German raider SMS Cormoran II, and the two wrecks make contact at approximately 30 meters — widely described as the only location in the world where a WWI and WWII wreck touch.
+
+Note on dimensions: MDA Guam lists the vessel at 446 feet while Wikipedia and other sources give 440 feet (134 meters); the discrepancy is minor and sources are otherwise consistent on key details.
 
 ## Site Information
 
@@ -28,33 +32,37 @@ The Tokai Maru is substantially larger than the Cormoran (139 meters vs 87 meter
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: ~12 meters (Apra Harbor typical)
-- **Water Temperature**: 28-29 degrees C
+- **Shallowest Point**: ~12 meters (upper forward bridge)
+- **Typical Visibility**: 20–60 feet (varies with tide and harbor traffic)
+- **Water Temperature**: 28–29°C
 - **Current**: Generally mild inside the harbor
-- **Best Time**: Year-round
+- **Best Time**: Year-round; nitrox recommended
 
 ## Marine Life
 
-The massive hull structure has become a significant artificial reef. Coral growth, sponges, and anemones encrust the exterior. Fish of various species shelter in and around the wreck. The combined wreck site (with the adjacent Cormoran) supports a substantial reef community despite the harbor location.
+Coral growth is visible on the davits and upper hull sections. Torpedo and strafing damage is visible on the bow and in hold #4. Depth charges can still be seen in the stern. The holds contain war-era cargo remnants including bed frames and truck frames. No site-specific fish or marine life reports distinct from the broader Apra Harbor wreck complex have been confirmed.
+
+*No site-specific marine life sources found for Tokai Maru. Regional harbor fauna applies.*
 
 ## Dive Profile
 
-Descend the shared mooring line to the wreck complex. The Tokai Maru's 139-meter length means a single dive cannot cover the entire vessel -- focus on either the bow or stern section plus the connection point with the Cormoran. The deepest sections reach 40 meters, so plan your deepest exploration first while gas supply is full, then work shallower. The point where the Tokai Maru and SMS Cormoran can be touched simultaneously is in the mid-section. Bottom time at 40 meters is severely limited on air.
+Descend the mooring line to the wreck complex. The Tokai Maru's 134-meter length means a single dive cannot cover the entire vessel — plan to focus on either the bow or stern on separate dives. Start at the shallowest accessible point, the upper forward bridge at ~12 meters, then work deeper. The contact point with the SMS Cormoran is located along the hull at approximately 30 meters — follow the hull contours from the aft bridge section down to reach it. The engine room retains two engines with intact catwalks. The deepest sections, reaching 40 meters, require careful gas planning; bottom time at this depth is limited on air. Interior penetration requires Wreck Diver certification and a reel.
 
 ## Entry and Exit
 
-Access by dive boat from Apra Harbor operators. The shared mooring buoy with the Cormoran provides a convenient descent line. Entry by giant stride. The harbor provides calm surface conditions.
+Access by dive boat from Apra Harbor operators. The shared mooring buoy with the Cormoran provides a convenient descent line. Entry by giant stride. The harbor provides calm surface conditions. Deploy an SMB during ascent due to harbor boat traffic.
 
 ## Tips and Recommendations
 
-- The touching-two-World-Wars experience is the must-do moment -- coordinate with your buddy for the photograph
-- At 139 meters, this wreck is too large for a single dive; plan at least two dives to explore different sections
-- Visibility in Apra Harbor typically averages around 12 meters -- carry a powerful torch
-- The historical significance of both wrecks is remarkable; research both vessels' stories before diving
+- The contact point with the SMS Cormoran at ~30 meters is the iconic moment — coordinate with your buddy for the photograph
+- Plan at least two dives to explore different sections of this 134-meter vessel
+- The shallowest point at 12 meters (upper bridge) makes an excellent extended safety stop area on the way up
+- Nitrox (32%) is recommended by local operators given the working depths
+- Look for torpedo damage on the bow and depth charges at the stern — visible reminders of the vessel's wartime fate
 
 ## Safety Considerations
 
-At 40 meters maximum depth with harbor visibility of approximately 12 meters, this is a challenging deep wreck dive. Gas management is critical -- plan conservatively and do not exceed your planned bottom time. The wreck structure is deteriorating; avoid contact with hull plating that could give way. Interior penetration is for wreck-certified divers only. The harbor location means boat traffic overhead -- always deploy an SMB during ascent.
+With a maximum depth of 40 meters and harbor visibility of 20–60 feet, this is a challenging deep wreck dive. Gas management is critical — plan conservatively and do not exceed your planned bottom time. The wreck structure is deteriorating; avoid contact with unstable hull plating. Interior penetration is for wreck-certified divers only with a reel. Deploy an SMB during ascent due to harbor boat traffic.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Wikipedia – Tokai Maru](https://en.wikipedia.org/wiki/Tokai_Maru), [MDA Guam](https://www.mdaguam.com/tokai-maru/), [Guam Dive Guide](https://www.guamdiveguide.com/all-dive-sites/apra-harbor/tokai-maru/), [X-Ray Mag – Tale of Two Wrecks](https://xray-mag.com/content/guam-tale-two-wrecks), [NOAA Sanctuaries – Tokai Maru](https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/protect/ppw/pdfs/tokai_maru.pdf). Last updated 2026-06-01.*

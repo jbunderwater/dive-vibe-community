@@ -3,17 +3,19 @@
     "name": "SMS Cormoran",
     "lat": 13.4557,
     "lon": 144.653883,
-    "depth": 32,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "wikipedia.org,guampedia.com,mdaguam.com,guamdiveguide.com,xray-mag.com,nps.gov",
     "tags": {
       "name": "SMS Cormoran",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "WWI wreck. Orientation conflict: Wikipedia/lakwatsero/scubaguam say starboard side; MDA Guam says port side. Majority of sources say starboard — noted in description. Depth conflict: Wikipedia 34m, other sources 37-40m — description notes range. Length conflict: Guampedia says 334.9 ft / 102m; X-Ray Mag says 88m/290ft — Guampedia primary source preferred. Tonnage: 3,443 GRT (Guampedia) vs 3,500 tons (Wikipedia) — minor discrepancy. Previous file depth 32m corrected to 34m per Wikipedia. Casualties: NPS and Guampedia cite 7, X-Ray Mag cites 13 — 7 used per majority of sources."
     }
   },
   {
@@ -25,29 +27,33 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "wikipedia.org,mdaguam.com,guamdiveguide.com,xray-mag.com,nmssanctuaries.blob.core.windows.net",
     "tags": {
       "name": "Tokai Maru",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "WWII wreck. Sunk 27 Aug 1943 by USS Snapper confirmed across multiple sources. Length: Wikipedia says 134m/440ft; MDA Guam says 446ft — minor discrepancy noted in description. Tonnage: 8,365 GRT confirmed. Depth: max 40m/130ft confirmed by MDA Guam and Guam Dive Guide. Orientation: port side at ~85 degree list confirmed. Previous validation_source was single source; now expanded to 5 independent sources."
     }
   },
   {
     "name": "Blue Hole",
     "lat": 13.4365,
     "lon": 144.626083,
-    "depth": 55,
+    "depth": 40,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "wikipedia.org,guamdiveguide.com,divessi.com,asiadivesite.com",
     "tags": {
       "name": "Blue Hole",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "entry_type corrected from shore to boat — Wikipedia and Guam Dive Guide confirm boat-only access from Cabras Marina. Previous file correctly noted shore access as secondary but JSON had shore. Depth corrected from 55m to 40m (exit window depth, max recreational planned depth); wall drops beyond 91m but planned dive max is the 40m exit. Strong currents typical, particularly afternoons. Endemic Lubbockichthys myersi first documented here 2004."
     }
   },
   {
@@ -59,12 +65,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "guamdiveguide.com,padi.com,zentacle.com,en.wikivoyage.org",
     "tags": {
       "name": "Gab Gab Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Site is on Naval Station Guam — photo ID required for base access. Previous description mentioned cabbage leaf corals and giant trevally; corrected to reflect confirmed species: sea turtles (high density), parrotfish (notably abundant), anemones with clownfish, trumpetfish, large jacks. Previous tourist submarine mention corrected to Atlantis Submarine. Visibility 75-100ft confirmed — better than typical harbor. Reef slopes to 75ft though most diving at 15-50ft."
     }
   },
   {
@@ -76,12 +84,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "fisheyeguamtours.com,wikipedia.org,visitguam.com",
     "tags": {
       "name": "Fish Eye Marine Park",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Observatory depth confirmed at ~9m/30ft (not 10m as previous description implied). Sea bridge extends ~1000ft from shore confirmed. 200 fish species and 80 coral species are preserve-wide inventories, not specific to the dive site per se — noted in description. Bomb holes (Piti Bomb Holes) confirmed at 7-9m depth as a distinctive feature added to description. Previous claim of resident dolphin population offshore stripped as unverified — dolphin watching tours depart from here but resident population claim not supported by found sources."
     }
   },
   {
@@ -93,29 +103,33 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "mdaguam.com,divessi.com,divebuddy.com,zentacle.com",
     "tags": {
       "name": "Gun Beach",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Named for WWII Japanese gun emplacement confirmed. Cable/pipe channel entry confirmed. Candlestick corals confirmed. Green sea turtles as primary marine life confirmed across multiple sources. Manta rays noted as occasional visitors per one source but not reliable. Previous description mentioned WWII gun as US gun — corrected to Japanese gun per research. Reef slope confirmed to ~100ft/30m. Visibility confirmed ~60ft/18m. Previous claim of reef going to 20m depth consistent with research."
     }
   },
   {
     "name": "Hap's Reef",
     "lat": 13.38,
     "lon": 144.635,
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "guamdiveguide.com,mdaguam.com,asiadivesite.com",
     "tags": {
       "name": "Hap's Reef",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Previous depth 25m corrected to 20m per research (reef crest at 20-30ft / 6-9m; sand flats at 40-65ft / 12-20m). Site confirmed as upraised coral mound surrounded by sand flats, not a 25m-deep reef. Marine life list revised: confirmed species include lionfish, squirrelfish, trumpetfish, soldierfish, butterflyfish, pufferfish, octopus, anemones with clownfish. Difficulty confirmed as Intermediate (slight currents, moderate depth range). Kayak access also possible per research."
     }
   },
   {
@@ -127,12 +141,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "mdaguam.com,guamdiveguide.com,divessi.com",
     "tags": {
       "name": "Shark Pit",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Previous description mentioned pilot whales and tanks/trucks as WWII artifacts. Pilot whale claim stripped — no source found. Tanks/trucks from previous description corrected to confirmed debris: cafeteria trays, anchors, bottles, live ammunition, jeeps, wheels, landing craft (per Guam Dive Guide). Pinnacle rise confirmed: peak at ~25ft, surrounding terrain to 130ft+. Sea fans confirmed at 40ft (shallowest on Guam). Boulder Alley (north of main rock) confirmed as productive area for turtles/eels. Reef sharks noted as rare now — previous description implied regular sightings which is no longer accurate."
     }
   }
 ]
