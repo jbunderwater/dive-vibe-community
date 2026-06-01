@@ -27,9 +27,9 @@ The Greek Ministry of Culture and Sport has authorised more than 90 WWII wrecks 
 
 - **Location**: Paros/Antiparos area, Cyclades, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 7 meters (OSM-recorded; not independently verified)
+- **Maximum Depth**: 7 meters
 
 ## Validation Status
 

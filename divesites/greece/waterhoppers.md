@@ -29,7 +29,7 @@ The recorded depth of 25 metres and site type of reef are broadly consistent wit
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (OSM-recorded; this is an info point, not a fully documented site)
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

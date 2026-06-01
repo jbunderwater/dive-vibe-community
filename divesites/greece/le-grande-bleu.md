@@ -27,7 +27,7 @@ The site itself is a reef dive to approximately 20 metres on the volcanic underw
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters (OSM-recorded; not independently verified)
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

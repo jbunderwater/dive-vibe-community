@@ -39,7 +39,7 @@ Confirmed species at this site: groupers, barracuda, moray eels, octopus, lobste
 
 - **Location**: Kos–Bodrum strait, Dodecanese / Turkey border area
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 

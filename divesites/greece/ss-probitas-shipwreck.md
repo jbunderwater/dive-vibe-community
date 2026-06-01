@@ -42,7 +42,7 @@ Wreck penetration is possible in the preserved sections but requires appropriate
 ## Site Information
 
 - **Location**: Saranda Bay, Albania (coordinates place this site in Albanian, not Greek, waters)
-- **Entry Type**: Boat dive (shore also possible)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters

@@ -24,10 +24,10 @@ No detailed site-specific dive documentation was located for this exact point be
 ## Site Information
 
 - **Location**: Northern Rhodes Town, Dodecanese, Greece
-- **Entry Type**: Shore dive
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters (OSM-recorded; not independently verified)
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

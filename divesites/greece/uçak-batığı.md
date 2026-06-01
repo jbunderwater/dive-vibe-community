@@ -40,8 +40,8 @@ At 72+ metres, this site is inaccessible to recreational divers. Technical divin
 
 - **Location**: Rhodes–Bodrum strait, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
-- **Difficulty Level**: Advanced (technical)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 72 meters
 
 ---
