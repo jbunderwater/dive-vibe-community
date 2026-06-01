@@ -41,11 +41,11 @@ The wreck sits at approximately 50 metres, with the shallowest accessible hull s
 
 ## Entry and Exit
 
-Boat dive exclusively, from operators based in True Blue Bay or Grand Anse. The site is typically a 15–20 minute boat ride from the main dive centres. Permanent moorings are attached to the wreck. Entry by backward roll or giant stride. DSMB required on ascent.
+Boat dive exclusively, from operators based in True Blue Bay or Grand Anse. The site is typically a 15–20 minute boat ride from the main dive centres. There are no permanent moorings on the Bianca C — the Government of Grenada has requested the wreck not be permanently buoyed. The standard approach is a free descent through open water directly to the wreck, with the dive boat skipper positioning divers over the wreck using GPS. Entry by backward roll or giant stride. DSMB required on ascent.
 
 ## Tips and Recommendations
 
-Multiple dives are needed to explore this massive wreck — plan at least two to three dives if the Bianca C is a priority. Carry a torch as essential equipment — the interior sections and hull overhangs are dark. The shallowest hull sections at 28–30 metres receive reasonable natural light and are the most photographable areas. The wreck dives best on calm days when the descent line is stable. Note that there are no permanent moorings — currents in the area can be strong and unpredictable, so dive only with experienced local operators.
+Multiple dives are needed to explore this massive wreck — plan at least two to three dives if the Bianca C is a priority. Carry a torch as essential equipment — the interior sections and hull overhangs are dark. The shallowest hull sections at 28–30 metres receive reasonable natural light and are the most photographable areas. The wreck dives best on calm days. There are no permanent moorings on the Bianca C — currents in the area can be strong and unpredictable, so dive only with experienced local operators who know the site's current patterns.
 
 ## Safety Considerations
 
@@ -62,4 +62,4 @@ The Bianca C is one of the Caribbean's most photographed wrecks. Wide-angle shot
 - The wreck is commemorated in St. George's with a bronze bust of the vessel's captain
 
 ---
-*Sources: [Wikipedia - MV Bianca C](https://en.wikipedia.org/wiki/MV_Bianca_C.), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Bianca C](https://www.puregrenada.com/bianca-c-ship-wreck/), [Caribbean Beat - Into the Deep](https://www.caribbean-beat.com/issue-141/into-deep-bianca-c), [NOW Grenada - Sinking of Bianca C](https://nowgrenada.com/2025/10/sinking-of-the-bianca-c-22-october-1961/). Last updated 2026-05-24.*
+*Sources: [Wikipedia - MV Bianca C](https://en.wikipedia.org/wiki/MV_Bianca_C.), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Bianca C](https://www.puregrenada.com/bianca-c-ship-wreck/), [Caribbean Beat - Into the Deep](https://www.caribbean-beat.com/issue-141/into-deep-bianca-c), [NOW Grenada - Sinking of Bianca C](https://nowgrenada.com/2025/10/sinking-of-the-bianca-c-22-october-1961/), [Carib Dive Guide - Bianca C](http://www.caribdiveguide.com/bianca_c.htm). Last updated 2026-06-01.*

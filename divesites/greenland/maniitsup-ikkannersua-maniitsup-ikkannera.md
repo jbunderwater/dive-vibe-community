@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Maniitsup Ikkannersua, Maniitsup Ikkannera
 
-Maniitsup Ikkannersua, Maniitsup Ikkannera is a reef dive site in Greenland, Arctic.
+Maniitsup Ikkannersua and Maniitsup Ikkannera are rocky bank formations in the waters off Maniitsoq (Sukkertoppen) on the west coast of Greenland.
 
 ## Overview
 
-Maniitsup Ikkannersua and Maniitsup Ikkannera are shallow reef formations in the waters surrounding Maniitsoq, a town on Greenland's west coast known locally as "the Venice of Greenland" for its network of natural channels and bridges. The rocky underwater terrain reaches 18 meters depth and is draped in low-lying kelp beds, with crabs, sea urchins, starfish, and amphipods among the boulders. The nutrient-rich channels between the islands attract humpback whales and harbour seals to the area during the summer feeding season.
+These two OSM-mapped reef features — known collectively as Sukkertoppen Banke in Danish — lie in the coastal waters off Maniitsoq, a town on Greenland's mid-west coast at approximately 65°N. Maniitsoq is known for its intricate archipelago of islands and channels carved by glaciers, and the surrounding waters are among the most complex and scenic on the west coast. The rocky bank reaches to about 18 metres depth.
+
+No site-specific dive reports or operator descriptions have been found for this location. Greenland's rocky bank sites are characterised by cold-water kelp communities, but specific marine life at this bank cannot be attributed without local source confirmation.
+
+The area around Maniitsoq is one of the better places in Greenland to encounter humpback whales during summer feeding season, and seals are common throughout the archipelago. However, whale or seal encounters during a dive at this specific bank cannot be guaranteed and should not be expected.
+
+Diving anywhere in Greenland requires a full drysuit and cold-water experience. Water temperatures are typically 2–6°C in summer. This site is accessible only by boat and requires Advanced certification at minimum.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Maniitsoq (Sukkertoppen), West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional Greenland diving characteristics and OSM geographic data (Sukkertoppen Banke). No site-specific dive sources found. Sources consulted: [Visit Greenland – Diving](https://visitgreenland.com/activities/diving/), [Guide to Greenland – Diving](https://guidetogreenland.com/travel-blogs/erling-svendsen/diving-in-greenland/), [Wikipedia – Maniitsoq](https://en.wikipedia.org/wiki/Maniitsoq). Last updated 2026-06-01.*

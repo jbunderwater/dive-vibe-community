@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Qerruannguit
 
-Qerruannguit is a reef dive site in Greenland, Arctic.
+Qerruannguit is an Arctic rocky reef dive site in the Disko Bay region of western Greenland.
 
 ## Overview
 
-Qerruannguit is a rocky reef site in the Disko Bay region of western Greenland, where granite boulders and ledges descend to 16 meters in near-freezing water. The substrate supports trailing cold-water kelp, soft corals, and dense colonies of sea anemones, with nudibranchs, starfish, and sea cucumbers visible among the rocks. Icebergs calved from the Ilulissat Icefjord frequently drift through the area, creating a constantly shifting backdrop and occasional ice diving opportunities.
+Qerruannguit (alternate name: Qerruánguit, recorded by Kleinschmidt) is a rocky reef formation in Disko Bay, one of western Greenland's most iconic stretches of coastline. The site reaches a maximum depth of around 16 metres, making it one of the shallower sites in the Greenland dataset, though shallow depth provides no reduction in difficulty given the extreme cold-water conditions.
+
+The Disko Bay area is renowned for the icebergs that calve from the Ilulissat Icefjord (a UNESCO World Heritage Site), and large tabular and irregular icebergs drift through the bay throughout the summer season. Whether any particular iceberg passes near this reef on any given dive is entirely unpredictable and cannot be assured.
+
+No site-specific dive reports or operator descriptions have been found for this location. Species lists cannot be confirmed for this specific site without local source documentation. Cold-water rocky reef communities in Disko Bay are documented regionally to include kelp, anemones, and invertebrates, but attributing specific species to this site requires a site-specific source.
+
+Full drysuit, advanced certification, and cold-water experience are mandatory for this site.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Disko Bay, West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 16 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional Greenland diving characteristics and OSM geographic data. No site-specific dive sources found. Sources consulted: [Visit Greenland – Diving](https://visitgreenland.com/activities/diving/), [Advanced Diver Magazine – Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Wikipedia – Disko Bay](https://en.wikipedia.org/wiki/Disko_Bay). Last updated 2026-06-01.*

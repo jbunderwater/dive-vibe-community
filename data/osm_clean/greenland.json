@@ -14,10 +14,11 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay area, Arctic rock formations"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "No site-specific sources found after deep QA. OSM-mapped rocky reef near Aasiaat in Disko Bay archipelago. Three independent sources required to re-validate.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -39,10 +40,11 @@
       "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
       "source:type": "BANK",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rocky bank"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "No site-specific sources found after deep QA. OSM-mapped rocky bank (Sukkertoppen Banke) in waters off Maniitsoq, west Greenland. Three independent sources required to re-validate.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -61,10 +63,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland wreck"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "Deep QA 2026-06-01: no independent source found confirming vessel name, build date, length, tonnage, or sinking cause. OSM-only record (way 1137623285, edited by 'andershl'). Cannot meet 2-source requirement for wreck history. Depth 40m is retained from OSM but unconfirmed. Validation status downgraded from true. Requires maritime archive research before re-validation.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -85,10 +88,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rock formation"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "Deep QA 2026-06-01: no site-specific sources found. Previous description incorrectly linked this site to the 2017 Nuugaatsiaq landslide-tsunami — Nuugaatsiaap Ikkannera (near Ilulissat, lat 68.1) and Nuugaatsiaq settlement (lat ~71.5, Karrat Fjord) are distinct places; tsunami claim removed as hallucination. Three independent sources required to re-validate.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -109,10 +113,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay rocky site"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "No site-specific sources found after deep QA. OSM-mapped rocky reef in Disko Bay region. Three independent sources required to re-validate.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -133,10 +138,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "North of Disko Bay, Arctic diving"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "validation_note": "No site-specific sources found after deep QA. OSM-mapped rocky reef in Disko Bay area. Previous description attributed specific species (polar cod, nudibranchs, skeleton shrimp, scallops, bristle worms) without site-specific sourcing — replaced with regional-level description. Three independent sources required to re-validate.",
+      "last_qa_date": "2026-06-01"
     }
   }
 ]
