@@ -43,4 +43,4 @@ The shallow plateau depth and good light make macro photography on the pinnacle 
 
 ---
 
-*Sources: [Tribloo — La Pointe et La Patate Cabrit, Les Saintes](https://tribloo.com/en/dive-sites/494/la-pointe-et-la-patate-cabrit.html), [Skippair — Mini dive for beginners, Les Saintes](https://skippair.com/en/diving/offers/mini-dive-for-beginners-in-les-saintes-in-guadeloupe/). Last updated 2026-05-17.*
+*Sources: [Tribloo — La Pointe et La Patate Cabrit, Les Saintes](https://tribloo.com/en/dive-sites/494/la-pointe-et-la-patate-cabrit.html), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/). Last updated 2026-06-01.*

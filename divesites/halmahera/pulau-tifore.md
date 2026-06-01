@@ -3,7 +3,7 @@ name: Pulau Tifore
 lat: 0.9708
 lng: 126.1445
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Tifore Island sits in open sea, exposed to strong tidal flows that concentrate n
 
 - **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 
 ## Marine Life
 

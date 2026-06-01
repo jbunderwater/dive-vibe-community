@@ -17,7 +17,7 @@ Batu Mandi is a wall dive site in the Goraici Islands or Patinti Strait area of 
 
 ## Overview
 
-Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres and beyond. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. The site sits near the coordinates of the Goraici Islands / western Halmahera area and is featured on liveaboard itineraries that include the Patinti Strait region.
+Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along a wall covered in hard and soft corals. The site is one of three main dive sites around the Goraici Islands and is featured on liveaboard itineraries covering the Goraici / western Halmahera area.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the su
 
 ## Marine Life
 
-Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. Wall substrate supports soft corals and sponges. The broader Halmahera region's characteristic marine life — reef sharks, Napoleon wrasse, fusiliers — is expected on the current-exposed walls. The nearby Goraici Islands area also features macro life including nudibranchs and crustaceans.
+Documented species at Batu Mandi include schools of sweetlips and snappers on the reef, and large tuna and reef sharks in the open water. The reef is covered with hard and soft corals. The broader Goraici Islands area also features macro life in the sheltered bays including nudibranchs and crustaceans on night dives.
 
 ## Dive Profile
 
@@ -41,11 +41,11 @@ Access is by boat from a liveaboard or from the nearest dive operation in the Pa
 
 ## Tips and Recommendations
 
-Look for the humphead wrasse early in the dive while in the shallower zone. Descend along the wall face slowly, scanning for batfish and bannerfish schools in mid-water. A safety stop at 5 metres on the rock structure itself allows time to observe the shallower fish communities. A maximum depth of 30 metres is recommended for the recreational range; the wall continues deeper for those with appropriate advanced training.
+Descend along the wall face slowly, scanning for sweetlips and snappers around the coral structure. A safety stop at 5 metres on the rock structure itself allows time to observe the shallower fish communities. A maximum depth of 30 metres is recommended for the recreational range; the wall continues deeper for those with appropriate advanced training.
 
 ## Safety Considerations
 
 Currents on the wall can accelerate unexpectedly in the Patinti Strait area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. The 50-metre maximum depth recorded is beyond recreational limits; no decompression diving should only be attempted with appropriate training.
 
 ---
-*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Mermaid Liveaboards – Batu Mandi](https://www.mermaid-liveaboards.com/dive_spots/batu-mandi/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Last updated 2026-06-01.*

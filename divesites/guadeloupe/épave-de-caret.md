@@ -40,4 +40,4 @@ Entry inside the wreck is prohibited — the hull is structurally unstable and f
 
 ---
 
-*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Nomad Diver — Les épaves de Guadeloupe](https://nomad-diver.com/2021/07/06/les-epaves-de-guadeloupe/). Last updated 2026-05-17.*
+*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Nomad Diver — Les épaves de Guadeloupe](https://nomad-diver.com/2021/07/06/les-epaves-de-guadeloupe/), [Îlet Caret — Grand Cul-de-Sac Marin](https://www.ilet-caret.com/grand-cul-de-sac-marin.html). Last updated 2026-06-01.*

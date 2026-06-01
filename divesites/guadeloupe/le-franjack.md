@@ -28,8 +28,8 @@ After nearly three decades on the seabed, the superstructure is heavily colonise
 - **Location**: Cousteau Reserve, Malendure, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (Open Water / Level 1 and above)
-- **Maximum Depth**: 23 metres
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Light within the Cousteau Reserve
 - **Best Time**: Year-round

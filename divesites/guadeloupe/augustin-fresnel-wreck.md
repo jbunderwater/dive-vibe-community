@@ -13,50 +13,27 @@ addedBy: osm_import
 
 # Augustin Fresnel Wreck
 
-*A 53-meter Canadian lighthouse ship deliberately sunk in the Cousteau Reserve in 2003, extensively colonized and now one of Guadeloupe's premier wreck dives.*
+*Note: This curated entry (coordinates 16.25N, -61.53W) appears to be a duplicate or alternate entry for the same vessel. The confirmed OSM-sourced wreck site is L'Augustin Fresnel II at 16.1026954N, -61.7771092W (OSM node 11564342992), located in the Cousteau Reserve near Malendure. The coordinates for this entry place it significantly to the east of the Cousteau Reserve — if this is a distinct site, it has not been independently verified.*
 
 ## Overview
 
-The Augustin Fresnel II is a 53-meter Canadian lighthouse ship (lightvessel) that was deliberately sunk on June 10, 2003, as an artificial reef within the Jacques Cousteau Underwater Reserve near Bouillante, Guadeloupe. The wreck was originally placed at 25 meters, but Cyclone Dean in 2007 moved the vessel deeper — it now rests at approximately 28–33 meters. The wreck was professionally cleaned before sinking and is considered safe for qualified divers. Advanced certification (CMAS** or AOW equivalent) is required due to the depth. After more than two decades underwater, the Augustin Fresnel II is substantially colonized with corals and sponges and is regarded as one of the most impressive accessible wrecks in the French Caribbean.
+The Augustin Fresnel II was a 53-metre beacon tender (Phares et Balises service) built in Canada in the 1940s, weighing 660 tonnes. It served the French lighthouse and beacons service in the Mediterranean before being transferred to Guadeloupe in 1990. After retirement in 1994, it was deliberately sunk on 9 July 2003 as an artificial reef. It rests flat on a sandy bottom at 30–33 metres depth. (Sources report the depth as 30, 31, or 33 metres — the variation likely reflects measurements at different points along the hull.)
+
+The vessel had not been moved by Cyclone Dean — this claim appeared in earlier versions of the data and has been removed as it is not confirmed by any independent source.
+
+For the confirmed dive site description, see [L'Augustin Fresnel II](./laugustin-fresnel-ii.md).
 
 ## Site Information
 
-- **Location**: Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
+- **Location**: Cousteau Reserve area, Bouillante, Basse-Terre, Guadeloupe (coordinates may be inaccurate — see note above)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
-- **Current**: Light to moderate in the Cousteau Reserve area
-- **Best Time**: Year-round from Bouillante; best visibility November to May
 
 ## Marine Life
 
-Two decades of colonization have transformed the Augustin Fresnel II into a living reef. The hull is encrusted with orange and red sponges, black coral at the deeper sections, and stony coral formations. Hawksbill turtles rest on the superstructure during their sleep cycles — early morning dives sometimes reveal sleeping turtles on the deck. Large groupers hold territorial positions near the superstructure. Schools of gorettes pack the interior spaces. Moray eels inhabit the machinery spaces accessible through open doorways. Barracuda patrol the water column above. The vessel's large size means multiple dives are needed to fully explore the structure.
-
-## Dive Profile
-
-Descend directly to the wreck, which can be accessed along the mooring line. The upper deck structures sit at 28 meters; the keel at 33 meters. Spend the first portion of the dive on the shallower superstructure sections to maximize bottom time. Penetrate accessible interior spaces with a torch, but only as appropriate to your training level. Begin your ascent from the stern or bow deck structure and make a gradual ascent to the safety stop at 5 meters. Nitrox 32% is strongly recommended. Total dive time on air at this depth is approximately 20–25 minutes for the deeper sections.
-
-## Entry and Exit
-
-Operated exclusively by licensed Bouillante dive operators within the Cousteau Reserve. Permanent mooring on the wreck. Entry via giant stride. Reservations through Bouillante dive shops required.
-
-## Tips
-
-- Nitrox 32% or 36% is the standard choice for this dive — significantly extends bottom time and reduces post-dive fatigue
-- Plan a second shallow Cousteau Reserve dive (L'Aquarium or Jardin de Corail) as the follow-up to this advanced dive
-- Sleeping turtles on the superstructure are occasionally reported on very early morning dives — before 7am
-- The vessel's compass, some instruments, and structural features remain identifiable — bring a waterproof guidebook to the vessel's history
-- The Cousteau Reserve is a strictly managed protected area — follow all reserve guidelines and book with licensed operators only
-
-## Safety
-
-Advanced dive requiring careful gas management at 28–33 meters. Narcosis can be a factor — discuss with your buddy and agree on abort criteria. The wreck has been in situ for over 20 years and some sections may be structurally weakened — inspect carefully before penetrating. Always carry a primary and backup torch for interior diving. Safety stop of minimum 3 minutes at 5 meters is mandatory. Always dive with a buddy.
-
-## Photography
-
-The Augustin Fresnel II is a spectacular wreck photography subject. The large scale of the vessel allows impressive wide-angle compositions — shoot from the sandy seabed with the hull towering above. Sponge encrustation in orange and red against the hull steel makes vibrant color photography. Turtle encounters on the superstructure in the early morning are extraordinary. A strobe or video light system is needed to illuminate the interior and deep hull sections.
+See L'Augustin Fresnel II entry. No site-specific marine life documentation separate from the main wreck entry has been located.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Exploration des épaves](https://www.heures-saines.com/spots-de-plongee/exploration-epaves/), [Nomad Diver — Les épaves de Guadeloupe](https://nomad-diver.com/2021/07/06/les-epaves-de-guadeloupe/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-01.*

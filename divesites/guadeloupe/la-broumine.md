@@ -25,9 +25,9 @@ No information on the vessel's name, history, dimensions, or how it came to sink
 
 - **Location**: Les Saintes, Guadeloupe (approximate — OSM coordinates)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate (unconfirmed)
-- **Maximum Depth**: 18 metres (OSM data)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 
 ## Notes
 

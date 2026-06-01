@@ -28,8 +28,8 @@ The wreck preserves substantial superstructure including the crane operator's ca
 - **Location**: South of the Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / PADI Advanced Open Water with Deep Diver speciality)
-- **Maximum Depth**: 30–33 metres
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Light to moderate
 - **Best Time**: November to May

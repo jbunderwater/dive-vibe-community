@@ -23,7 +23,7 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 - **Location**: Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,9 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 ## Marine Life
 
-The protected status of the reserve has allowed fish populations to recover and thrive beyond what most Caribbean dive sites can offer. Large hawksbill and green sea turtles are essentially guaranteed encounters. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move in loose formations over the reef crest. Nurse sharks rest under coral ledges, and spotted eagle rays cruise the sandy margins. The reserve's healthy coral also supports exceptional invertebrate diversity, including spiny lobsters, flamingo tongues, banded coral shrimp, and arrow crabs.
+The protected status of the reserve has allowed fish populations to recover and thrive. Hawksbill and green sea turtles are frequently encountered. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move in loose formations over the reef crest. Spiny lobsters, banded coral shrimp, and flamingo tongues on sea fans are documented invertebrates in the reserve.
+
+*Note: "Nurse sharks rest under coral ledges" and "spotted eagle rays cruise the sandy margins" are frequently cited for the Cousteau Reserve generally but no source confirms them specifically at this entry point (rather than the wrecks or other reserve sites). These claims have been removed from the site-specific description pending source confirmation.*
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Boat traffic in the Malendure channel is significant — always surface with an 
 The Cousteau Reserve is consistently rated among the French Caribbean's top underwater photography locations. The fish density, clear water, and shallow depth create ideal ambient-light conditions for wide-angle reef shots. Turtle encounters are close enough for natural-light portraits. Macro subjects are numerous on coral heads and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Spots de plongée](https://www.heures-saines.com/spots-de-plongee/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-01.*

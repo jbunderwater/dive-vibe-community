@@ -24,10 +24,10 @@ The wreck was relatively lightly colonised by coral and sponges at the time the 
 ## Site Information
 
 - **Location**: Anse Mire, Baie des Saintes, Les Saintes, Guadeloupe
-- **Entry Type**: Boat dive (also accessible to freedivers from shore)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good in calm conditions (the bay offers natural shelter)
 - **Current**: Generally calm within the bay
 - **Best Time**: Year-round

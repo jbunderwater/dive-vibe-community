@@ -28,8 +28,8 @@ The wreck measures 48.32 metres in length by 7.6 metres in width and displaces 4
 - **Location**: Cousteau Reserve, approximately 1.6 km from Malendure Beach, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / PADI Deep Diver speciality required)
-- **Maximum Depth**: 40 metres (upright on sandy bottom)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Light to moderate within the reserve
 - **Best Time**: November to May

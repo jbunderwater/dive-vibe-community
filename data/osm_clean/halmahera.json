@@ -11,7 +11,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "validation_source": "OpenStreetMap"
+      "validation_source": "pacificwrecks.com,navsource.org,ibiblio.org",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Vessel confirmed: 70-foot Scott-Paine design PT boat, 33 tons, built Canadian Power Boat Co 1942, grounded and destroyed 18/19 Sep 1944 near Tagalasa, Halmahera. Depth 15m confirmed by OSM. Marine life claims stripped — no site-specific reports found. Length error corrected (was 24m, now 21m/70ft). Only 2 independent maritime sources confirmed vessel identity; marine life section rewritten to reflect absence of site-specific data."
     }
   },
   {
@@ -26,8 +29,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "wreck:date_sunk": "1941-12-12",
-      "validation_source": "OpenStreetMap"
+      "validation_source": "OpenStreetMap",
+      "validated": "false",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "UNRESOLVED: OSM tag wreck:date_sunk=1941-12-12 cannot be independently verified. No vessel named Tosei Maru appears in JANAC Japanese shipping losses index for 1941 in Halmahera area. Tosho Maru (different vessel) is documented at Kaoe Bay 1944. Tosei Maru No 2 (507 tons, tanker) was sunk in 1944 in Taiwan Strait — unrelated. Vessel identity, type, dimensions, and sinking history remain unconfirmed. Description revised to flag uncertainty. Do not mark validated until >=2 independent maritime sources confirm vessel identity."
     }
   },
   {
@@ -41,7 +46,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, sailingfairy.com"
+      "validation_source": "padi.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Partially confirmed: PADI confirms wall dive, 30m max depth, marine life (Napoleon wrasse, bumphead parrotfish, dogtooth tuna, ghost pipefish, leaf scorpionfish, nudibranchs, crabs, reef fish). Original sailingfairy.com source is 404 — removed. ZuBlu source was 403. Only 1 confirmed source domain (padi.com); does not meet 3-source requirement for full validation."
     }
   },
   {
@@ -55,21 +63,27 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "getlost.id, sailingfairy.com"
+      "validation_source": "getlost.id,wonderful.ternatekota.go.id,unchartedcruises.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: KM Pari (36m cargo vessel) at 15-23m, illegal fishing vessel at 19m, motorcycles since 2017, two city buses. Shore entry from Taman Nukila park, central Ternate. 3 independent sources confirm site details."
     }
   },
   {
     "name": "Pulau Tifore",
     "lat": 0.9708,
     "lon": 126.1445,
-    "depth": 30,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "world-islands.net, mermaid-liveaboards.com"
+      "validation_source": "liveaboardindonesia.com,mermaid-liveaboards.com,indopacificimages.com,cruisingindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Depth corrected from 30m to 40m (diveindonesia.com cites 10-40m range; liveaboardindonesia.com describes steep walls). Barracuda schools (1000+), hammerhead sharks, mobula rays confirmed at Tifore specifically by liveaboardindonesia.com. 4 independent sources confirm site. Pantai Sago/barracuda school confirmed by IndoPacific Images."
     }
   },
   {
@@ -83,7 +97,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "cruisingindonesia.com,indopacificimages.com,zubludiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed as one of 3 Goraici Islands dive sites. Marine life confirmed: dogtooth tuna, blacktip reef sharks, whitetip reef sharks, grey reef sharks, leaf fish. 3 sources confirm. Goraici reef condition and fish health confirmed."
     }
   },
   {
@@ -97,7 +114,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com,cruisingindonesia.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "HALLUCINATION CORRECTED: Previous description attributed batfish schools, bannerfish, and resident humphead wrasse to Batu Mandi. Mermaid Liveaboards page (the original source) actually documents sweetlips, snappers, tuna, and reef sharks — no batfish/bannerfish/humphead wrasse. Description rewritten using confirmed sources. Only 2 source domains confirmed; does not meet 3-source requirement."
     }
   },
   {
@@ -111,7 +131,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com,cruisingindonesia.com,konjocruisingindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: one of 3 primary Goraici Islands sites. Fish life described as very healthy. Large sponges, healthy corals, Napoleon wrasse, dogtooth tuna, reef sharks confirmed. 3 source domains cited."
     }
   },
   {
@@ -125,7 +148,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com,neptuneliveaboards.com,bluewaterdivetravel.com,jakare-liveaboard.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed as drift channel between Pulau Salah and Pulau Saleh Kecil. Pelagic action at ~24m confirmed by IndoPacificImages. Proco Island Bambu Resort confirms the site. 4 independent source domains."
     }
   },
   {
@@ -139,7 +165,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com,neptuneliveaboards.com,jakare-liveaboard.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed as oval reef around surface-breaking rock seamount in Patinti Strait. Surface-breaking tip as current indicator confirmed. Less dramatic than Proco Channel but consistently fish-rich. Marine life attributed to Patinti Strait area broadly; no site-specific marine life list. 3 source domains."
     }
   },
   {
@@ -153,7 +182,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+      "validation_source": "wedaresort.com,zubludiving.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed by Weda Resort: 35m steamer (former sub-chaser), discovered 2014, depths 10-30m, upright on sandy slope. Vessel type (sub-chaser), length (35m), and discovery date consistent across available sources. However only 2 confirmed source domains (ZuBlu was 403 — cannot confirm); does not fully meet 3-source requirement. Description accurate per Weda Resort source. Marine life claims (pygmy seahorses, turtles, giant groupers, blacktip reef sharks) are regional-level — no site-specific marine life list confirmed for Foya Wreck itself."
     }
   },
   {
@@ -167,7 +199,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com"
+      "validation_source": "wedaresort.com,zubludiving.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed by Weda Resort: shallowest point ~31m, ~11km from resort, safety lines installed, reliable shark sightings, schooling jackfish/barracuda/Napoleon wrasse/tuna confirmed. Only 2 confirmed source domains (ZuBlu 403 — cannot confirm 3rd); does not meet 3-source requirement for full validation."
     }
   },
   {
@@ -181,7 +216,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "jakare-liveaboard.com,coralia-liveaboard.com,xray-mag.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: pinnacle and ridge system connecting 4 islands. Shark diversity confirmed (grey reef, silvertip, whitetip, blacktip). Endemic amphipods confirmed by X-Ray Mag (claimed to be species found only here). Sea turtles confirmed. 3 source domains. Note: amphipod claim sourced from dive travel journalism only, not peer-reviewed."
     }
   },
   {
@@ -195,7 +233,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "malailloliveaboard.com,wikipedia.org,zubludiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: two Bristol Beaufort twin-engine aircraft on sloping reef to 45-50m depth. Bristol Beaufort specs confirmed (Wikipedia): 44ft 2in/13.46m length, crew of 4, RAAF Pacific theater use confirmed. Marine life (fusiliers, reef sharks, turtles, Napoleon wrasse) confirmed by Malaillo search result. 3 source domains."
     }
   },
   {
@@ -209,7 +250,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "malailloliveaboard.com,liveaboardindonesia.com,zubludiving.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: seamount rising to 7m with steep drop-offs. Grey reef sharks, blacktip/whitetip reef sharks, tunas, giant trevallies, fusiliers, surgeonfish confirmed. Second Womow site noted by sources. 3 source domains cited."
     }
   },
   {
@@ -223,7 +267,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
+      "validation_source": "coralia-liveaboard.com,liveaboardindonesia.com,wikipedia.org,sharksandrays.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-01",
+      "qa_notes": "Confirmed: black sand muck diving, bobbit worms, frogfish, nudibranchs, walking sharks (H. halmahera) confirmed at Makian-type sites. H. halmahera formally described 2013 (not 2008 as previously stated — corrected). Weda Resort confirmed as location for walking shark sightings. 4 source domains."
     }
   }
 ]

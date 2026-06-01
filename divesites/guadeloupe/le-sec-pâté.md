@@ -38,4 +38,4 @@ The OSM validation notes that this site shares characteristics with the famous S
 
 ---
 
-*Sources: [Tribloo — Le Sec Pâté dive site, Les Saintes](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/). Last updated 2026-05-17.*
+*Sources: [Tribloo — Le Sec Pâté dive site, Les Saintes](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-01.*

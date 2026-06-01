@@ -38,4 +38,4 @@ No site-specific documentation identifying this vessel's origin or precise dive 
 
 ---
 
-*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Guadeloupe Islands — Îlet Fortune](https://www.lesilesdeguadeloupe.com/en/natural-heritage/ilet-fortune/). Last updated 2026-05-17.*
+*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Guadeloupe Islands Tourism — Îlet Fortune](https://www.lesilesdeguadeloupe.com/en/natural-heritage/ilet-fortune/). No site-specific dive documentation found. Last updated 2026-06-01.*

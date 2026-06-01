@@ -27,9 +27,9 @@ The wreck had been looted in the 1970s and 1990s before formal archaeological in
 
 - **Location**: Passe de la Baleine, between Terre-de-Haut and Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with historic wreck component
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Moderate to strong tidal current through the passage; timing with tidal schedule required
 - **Best Time**: Year-round; time dives with favourable tidal flow

@@ -37,4 +37,4 @@ This entry refers to the bay dive site at Anse Caraïbe / Pointe-Noire. The oper
 
 ---
 
-*Sources: [Anse Caraïbe Plongée — operator site](https://anse-caraibe-plongee-guadeloupe.org/), [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/). Last updated 2026-05-17.*
+*Sources: [Anse Caraïbe Plongée — operator site](https://anse-caraibe-plongee-guadeloupe.org/), [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/), [Beausejour Guest House — Plage Anse Caraïbe](https://www.beausejour-guest-house.com/plage-anse-caraibe-pointe-noire/). Last updated 2026-06-01.*

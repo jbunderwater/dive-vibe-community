@@ -38,4 +38,4 @@ No site-specific published dive guide documentation has been located for Frégat
 
 ---
 
-*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*
+*Description based on OSM natural:reef data and Grand Cul-de-Sac Marin regional characteristics. No site-specific dive sources found for Frégate-de-Haut as a named dive site. Last updated 2026-06-01.*

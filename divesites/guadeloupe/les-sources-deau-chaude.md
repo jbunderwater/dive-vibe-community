@@ -23,7 +23,7 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–25 meters
@@ -32,7 +32,9 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 
 ## Marine Life
 
-Despite — or perhaps because of — the geothermal activity, marine life is rich. Large spiny lobsters (langouste royale) occupy the crevices and fault formations, making this one of the better lobster-spotting sites in the Malendure area. Sea turtles frequent the site, and parrotfish, angelfish, and squirrelfish are abundant around the coral and rock formations. The fault zone also harbours moray eels and conger eels in deeper recesses.
+Large spiny lobsters (*langouste royale*) in the fault crevices are specifically documented for this geothermal site by multiple operators. Sea turtles frequent the broader Malendure area.
+
+*Note: "Parrotfish, angelfish, and squirrelfish are abundant," "moray eels and conger eels in deeper recesses" are consistent with regional Malendure fauna but are not confirmed by a source specifically documenting Les Sources d'Eau Chaude marine life distinct from adjacent sites. No site-specific marine life survey has been published.*
 
 ## Dive Profile
 
@@ -58,4 +60,4 @@ Do not attempt to put fingers or hands into vent openings — water temperature 
 The volcanic geology creates dramatic subjects — cracked seabed formations and warm-water shimmer rising from the vents photograph as visually striking and scientifically interesting. Macro work on large lobsters in the fault crevices is highly rewarding. The combination of geological and biological subjects makes this an unusually varied photography dive.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Destination Bouillante — Sources chaudes](https://destination-bouillante.com/sources-chaudes/), [Les Heures Saines — Spots de plongée](https://www.heures-saines.com/spots-de-plongee/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-01.*
