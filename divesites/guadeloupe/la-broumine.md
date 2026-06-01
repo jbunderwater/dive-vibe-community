@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## La Broumine
 
-La Broumine is a historic wreck dive in Guadeloupe, Caribbean.
+La Broumine is a shipwreck recorded in OSM seamark data in the waters of Les Saintes, Guadeloupe, at approximately 18 metres depth. The OSM record classifies it as "mast showing," indicating part of the structure extends toward the surface.
 
 ## Overview
 
-La Broumine is a wreck dive site in the waters of Guadeloupe, resting at 18 metres in the Caribbean Sea, where the warm clear water and coral-encrusted hull support the kind of reef fish community typical of the island's leeward dive sites — groupers, snappers, hawksbill turtles, and southern stingrays among the regular inhabitants. Guadeloupe's diving is centred on the west coast of Basse-Terre, which benefits from volcanic Caribbean seabed topography and the warm nutrient-rich waters between the island and its neighbours. The accessible depth and protected Caribbean conditions make this a solid intermediate wreck dive within Guadeloupe's rich diving scene.
+This site appears in the OSM seamark database as a wreck with at least one mast visible near the water surface. No published dive guide, operator website, or dive forum has been located that documents La Broumine as an active recreational dive site with vessel history, depth profile, or marine life. The location places it in the Les Saintes archipelago waters, approximately 1.6 km from Terre-de-Haut.
+
+No information on the vessel's name, history, dimensions, or how it came to sink has been found in available sources. Divers interested in this site should contact dive operators based on Terre-de-Haut (such as La Dive Bouteille) for current information on accessibility and site conditions.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Les Saintes, Guadeloupe (approximate — OSM coordinates)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Site Type**: Wreck
+- **Difficulty Level**: Intermediate (unconfirmed)
+- **Maximum Depth**: 18 metres (OSM data)
+
+## Notes
+
+This site has not been independently validated. The "mast showing" classification suggests the wreck is partially visible at or near the surface, which may make it accessible to snorkelers as well as divers, but this has not been confirmed. The validated field has been set to false pending confirmation from a dive operator or published source.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on OSM seamark data only. No site-specific sources found. Last updated 2026-06-01.*

@@ -52,4 +52,4 @@ Southern Halmahera is remote with very limited infrastructure. Medical emergenci
 Pulau Pisang offers unusual dual opportunities: wide-angle photography of multiple reef shark species on shallow coral slopes, and macro photography of the endemic amphipods and reef invertebrates. The combination of large coral heads in the shallows and dramatic pinnacles at depth makes this a versatile photo destination.
 
 ---
-*Sources: [Jakare Liveaboard – Halmahera Hidden Dive Gem](https://jakare-liveaboard.com/halmahera-hidden-dive-gem/), [Coralia Liveaboard – Halmahera](https://www.coralia-liveaboard.com/halmahera-liveaboard-diving/), [X-Ray Mag – Halmahera Liveaboard Diving](https://xray-mag.com/content/halmahera-0). Last updated 2026-05-17.*
+*Sources: [Jakare Liveaboard – Halmahera Hidden Dive Gem](https://jakare-liveaboard.com/halmahera-hidden-dive-gem/), [Coralia Liveaboard – Halmahera](https://www.coralia-liveaboard.com/halmahera-liveaboard-diving/), [X-Ray Mag – Halmahera Liveaboard Diving](https://xray-mag.com/content/halmahera-0). Last updated 2026-06-01.*
