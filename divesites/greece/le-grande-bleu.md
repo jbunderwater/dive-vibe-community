@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Le Grande Bleu
 
-Le Grande Bleu is a reef dive site in Greece, Europe.
+Le Grande Bleu is a reef dive site off Ios in the Cyclades, near Manganari Bay — the location where the childhood scenes of Luc Besson's 1988 film "The Big Blue" were filmed.
 
 ## Overview
 
-Le Grande Bleu is a reef dive site off Ios in the Cyclades, near Manganari Bay — the very location used to film the childhood scenes of Luc Besson's cult 1988 freediving film "The Big Blue," where the director himself had spent part of his childhood. The clear Aegean water and volcanic reef topography of Ios descend to 20 metres, with groupers, moray eels, octopus, barracuda, sea bream, and posidonia seagrass beds providing a distinctly Mediterranean underwater character. The Cyclades offer some of the Aegean's warmest and most transparent summer diving, and the film connection draws divers to what is otherwise an unspoiled and lightly dived corner of the island group.
+Le Grande Bleu is named after the French title of Luc Besson's 1988 freediving film "The Big Blue" (*Le Grand Bleu*). The OSM record notes this site is associated with the filming of the movie's childhood scenes, which were shot at Manganari on the east coast of Ios — a secluded bay that Besson reportedly chose as the setting for the two main characters' childhood rivalry. Manganari is noted for calm, clear water in a protected bay shielded from strong winds.
+
+The site itself is a reef dive to approximately 20 metres on the volcanic underwater topography typical of the Cyclades. No published site-specific dive documentation with independent depth verification or marine life observations at this exact site was located.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Near Manganari Bay, Ios, Cyclades, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (OSM-recorded; not independently verified)
+
+## Marine Life
+
+No site-specific marine life sources were found for this exact dive site. Regional Mediterranean Aegean species apply to the Ios area.
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Movie Locations — Le Grand Bleu filming locations](https://movie-locations.com/movies/g/Grand-Bleu.php), [Wikipedia — The Big Blue](https://en.wikipedia.org/wiki/The_Big_Blue), [Greeka — Ios Manganari beach](https://www.greeka.com/cyclades/ios/beaches/manganari/). No site-specific dive documentation found for this exact dive site. Last updated 2026-06-01.*

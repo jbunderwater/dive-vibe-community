@@ -3,9 +3,9 @@ name: Aksona
 lat: 36.9599139
 lng: 27.4864435
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 10973665014
 addedBy: osm_import
@@ -13,19 +13,35 @@ addedBy: osm_import
 
 ## Aksona
 
-Aksona is a reef dive site in Greece, Europe.
+Aksona is a wall dive in the Kos–Bodrum strait, starting shallow at 3 metres and dropping dramatically to 30–35 metres, named after a famous local sponge hunter.
 
 ## Overview
 
-Aksona is a rocky reef dive site in the Dodecanese Islands of Greece, located in the warm, clear waters between Kos and the Turkish coast. The site features Mediterranean rock formations draped with sponges, sea fans, and posidonia seagrass beds that shelter octopus, moray eels, grouper, and nudibranchs. Visibility regularly exceeds 20 meters in summer, and the area is known for sightings of amberjack, barracuda, and the occasional sea turtle.
+Aksona is a dive site in the strait between Kos island (Greece) and the Bodrum peninsula (Turkey). The site is documented primarily by Turkish operators in Bodrum, though the OSM node places it in Greek waters. The site was named in honour of Aksona Mehmet, a celebrated Bodrum sponge hunter.
+
+The topography begins at 3 metres and slopes into the 20-metre range before a rock wall drops dramatically to 30–35 metres. In deeper sections below 35 metres, a spectacular sponge field extends downward. The site is approximately 50 minutes by boat from Bodrum.
+
+Conditions are often windy and choppy on the surface. The dive itself is sheltered once submerged on the wall.
+
+## Dive Profile
+
+- **Entry**: Boat (~50 min from Bodrum; shorter from Kos)
+- **Depth range**: 3–35 m
+- **Wall drop**: Begins at approximately 20 m, falls to 30–35 m
+- **Sponge field**: Below 35 m (advanced divers)
+- **Surface conditions**: Often windy and choppy
+
+## Marine Life
+
+Confirmed species at this site: groupers, barracuda, moray eels, octopus, lobster, and crabs among the rocks. A spectacular field of sponges is present below 35 metres.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kos–Bodrum strait, Dodecanese / Turkey border area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [The Scuba Tank — Scuba Diving in Bodrum](https://www.thescubatank.com/scuba-diving-in-bodrum-turkey/), [The Marmara Hotels — Best Scuba Diving Spots in Bodrum](https://www.themarmarahotels.com/bodrum/blog/the-magic-of-the-underwater-world-discover-the-best-scuba-diving-sports-in-bodrum), [DivingPicks — Scuba Diving in Bodrum](https://divingpicks.com/scuba-diving-in-bodrum-turkey/). Last updated 2026-06-01.*

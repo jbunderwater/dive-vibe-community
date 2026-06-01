@@ -61,4 +61,4 @@ The accessible shallow reef, good visibility, and active fish community make Fla
 - Commonly offered as the second dive of a morning two-tank trip after the Underwater Sculpture Park
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/), [SherSheGoes - Scuba Diving in Grenada](https://shershegoes.com/scuba-diving-in-grenada-eco-dive-review/). Last updated 2026-06-01.*

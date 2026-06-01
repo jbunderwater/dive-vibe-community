@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Shakem Wreck
 
-A 55-metre (180-foot) freighter that sank in a storm in May 2001 when her cement cargo shifted and overwhelmed her pumps — now upright at 32 metres off Quarantine Point, with intact cargo holds, a spiral staircase, and extraordinary preserved details that only an accidental sinking can leave.
+A freighter that sank in a storm in May 2001 when her cement cargo shifted and overwhelmed her pumps — most sources report her length as 180 feet (55m) — now upright at approximately 30–33 metres off Quarantine Point, with intact cargo holds, a spiral staircase, and extraordinary preserved details that only an accidental sinking can leave.
 
 ## Overview
 
@@ -27,7 +27,7 @@ The MV Shakem was a working cargo vessel that transported cement between Grenada
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wreck |
-| Visibility | 20–30 m |
+| Visibility | 12–20 m |
 | Current | Light |
 | Water Temp | 26–28°C |
 
@@ -61,4 +61,4 @@ The Shakem offers a more intimate wreck photography experience than the Bianca C
 - Typically combined with the Bianca C or Veronica L for multi-wreck dive trips
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Shake'm Dive Site](https://www.padi.com/dive-site/grenada/shakem/), [Freedom Tour Travel - Wrecks of Grenada's South Coast](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Shake'm Dive Site](https://www.padi.com/dive-site/grenada/shakem/), [DreamWrecks - The Shakem](https://dreamwrecks.com/shakem-grenada-shipwreck), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-06-01.*

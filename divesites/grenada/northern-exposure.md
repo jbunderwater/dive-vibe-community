@@ -1,7 +1,7 @@
 ---
 name: Northern Exposure
-lat: 12.2
-lng: -61.62
+lat: 12.06
+lng: -61.77
 difficulty: Beginner
 maxDepth: 23
 entryType: boat
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Northern Exposure
 
-A broad, undisturbed reef on Grenada's less-visited north coast — the longest boat ride from St. George's, but rewarded with dense coral coverage, natural fish behaviour, and a noticeably different character to the well-trafficked southwest sites.
+A broad sloping reef beginning just outside St. George's harbour and extending approximately six miles southwest toward Point Salines — part of the extensive Boss Reef system, with a shallow eel garden, finger and pillar corals, dense schools of blue Creole wrasse, and a small shipwreck on the eastern reef edge.
 
 ## Overview
 
-Located off Grenada's northern coastline, Northern Exposure features a broad reef that descends to around 23 metres. The north coast sees significantly fewer dive boats than the southwest, and the reef reflects this lower human traffic pressure — coral coverage is dense and marine life is notably less conditioned to human presence. The reef features good hard coral diversity including brain, star, and pillar corals, with substantial barrel sponge growth at depth. Visibility can be exceptional in good conditions, reaching 30 metres or more. Water temperature is 26–28°C year-round.
+Northern Exposure lies just outside St. George's harbour on Grenada's southwestern coast, forming part of the broader Boss Reef complex that stretches toward Point Salines. The site begins at a shallow sand patch at around 5 metres, where eel gardens are a distinctive feature of the reef entry. The slope descends gently to a maximum of around 23 metres (75 feet), with the reef face carpeted in patches of finger and pillar corals, branching sea rods, sea whips, and forests of soft brown coral trees. Dense schools of blue Creole wrasse are a hallmark of the site. A small shipwreck rests on the eastern reef edge, providing additional habitat diversity. The site is a short boat ride from south coast operators, easily combined with a second dive at Boss Reef or the Underwater Sculpture Park. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,32 +33,32 @@ Located off Grenada's northern coastline, Northern Exposure features a broad ree
 
 ## Marine Life
 
-The lower dive pressure on the north coast means marine life behaves less predictably around divers — which is a positive quality, as encounters feel more naturalistic. Sea turtles are less habituated to boats and divers, making interactions feel special. Large parrotfish, groupers, and Caribbean reef sharks are more common here than at the south coast sites. Eagle rays and the occasional hammerhead are documented at the deeper reef sections on the more northerly exposed faces.
+The shallow sandy patch at the start of the dive hosts an eel garden at around 6 metres — a reliable feature worth spending time with before descending the slope. Dense schools of blue Creole wrasse sweep along the reef face throughout the dive. Caribbean lobsters peek from reef crevices, and stingrays, conch, and octopus are found in the sand patches that dot the reef. Barracuda and Atlantic spadefish school in open water above the reef. Occasional juvenile nurse sharks rest in overhangs. Sea turtles are seen on the reef. The small wreck on the eastern reef edge supports encrusting sponges and additional fish life. Note: previous descriptions attributed Caribbean reef sharks and hammerhead sharks as regular or documented sightings — these are not confirmed by primary sources for this specific site and have been removed.
 
 ## Dive Profile
 
-Descend to the reef crest and follow the slope to 23 metres, then ascend along the reef face. The less-explored terrain rewards divers who look carefully — the north coast reef has corners and structures that aren't well-documented and may yield unexpected finds. Allow adequate air for the full safety stop and the boat return.
+Descend to the shallow sand patch at 5–6 metres and observe the eel garden before following the reef crest to the slope. Work down to 15–23 metres along the slope, noting the pillar corals and sea rod formations at mid-depth. Check the eastern reef edge for the small wreck. Ascend through the shallower zone for the safety stop. The full site can be comfortably covered in a single dive.
 
 ## Entry and Exit
 
-Longer boat ride of 30–60 minutes from south coast operators. Giant stride entry; DSMB essential on ascent given the more remote location. Typically offered as a half-day excursion combining two dives on the north coast. Check conditions carefully with the operator.
+Short boat ride from Grand Anse or True Blue Bay area operators — Northern Exposure is accessible as a standard half-day or two-tank southwest coast dive. Giant stride entry; DSMB on ascent. Often combined with Boss Reef or Veronica L for a two-tank morning.
 
 ## Tips and Recommendations
 
-The journey is worth it — this site offers a noticeably different character to the more visited south coast. Less frequent dive traffic means marine life behaviours are more natural and encounters more spontaneous. Bring lunch and plan for a full half-day north coast excursion. The remoteness means self-sufficiency in navigation and safety equipment is important.
+Spend time at the eel garden in the shallows before descending — the garden eels are a distinctive feature not found at all Grenada reef sites. The Creole wrasse schools are densest at mid-reef depths. The small wreck on the eastern edge rewards divers who swim the full extent of the site. Well-suited as a second dive after a deeper wreck like the Shakem or Bianca C.
 
 ## Safety Considerations
 
-The north coast is more exposed to Atlantic swell than the south — conditions can change rapidly. Only attempt the journey with an operator who knows the north coast and monitors weather carefully. The longer distance from shore means any equipment problem is more serious than at the nearshore sites. DSMB is essential.
+The site is straightforward and well-suited to beginners. DSMB required on ascent. Fire coral is present. Maintain good buoyancy on the sandy sections to avoid disturbing the eel garden.
 
 ## Photography
 
-The undisturbed quality of Northern Exposure's reef makes it ideal for wildlife photography — animals behave naturally. The higher probability of large species encounters (sharks, eagle rays, unhurried turtles) rewards wide-angle setups. Natural light at 15–23 metres in Grenada's clear north coast water is excellent.
+The eel garden in the shallows offers behavioural photography opportunities in good natural light. The dense Creole wrasse schools in mid-water create fish-cloud compositions. Wide-angle shots of the pillar coral and sea rod formations along the slope are distinctive. The small wreck on the eastern edge adds a structural subject to the reef photography options.
 
 ## Additional Resources
 
-- Aquanauts Grenada: offers north coast excursions including Northern Exposure on request
-- Best approached as a full-day trip combining two north coast dives
+- ECO Dive Grenada and Aquanauts Grenada: include Northern Exposure as part of southwest reef itineraries
+- Best combined with Boss Reef or Veronica L for a two-tank southwest coast dive day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DiveAdvisor - Northern Exposure](https://diveadvisor.com/grenada/northern-exposure), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [ECO Dive Grenada - Northern Exposure Feature](https://www.ecodiveandtrek.com/2014/02/18/day-8-featuring-padi-owsi-simon-dive-site-northern-exposure-feature-creature-the-thing/), [Sportif Dive - Grenada Dive Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [Tripomatic - Northern Exposure](https://tripomatic.com/en/poi/northern-exposure-poi:25731). Last updated 2026-06-01.*

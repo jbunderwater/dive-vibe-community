@@ -13,19 +13,39 @@ addedBy: osm_import
 
 ## SS Probitas Shipwreck
 
-SS Probitas Shipwreck is a historic wreck dive in Greece, Europe.
+The SS Probitas is an Italian WWII cargo vessel sunk in 1943, lying in Saranda Bay, Albania — this OSM node is located in Albanian waters, not Greece.
 
 ## Overview
 
-The SS Probitas is an Italian WWII cargo vessel sunk in 1943 during an air raid, lying at a depth of 3 to 22 metres just 50 metres from shore near the southern Ionian coast, making it one of the most accessible WWII wrecks in the wider Greece region. The wreck has evolved into a productive artificial reef with excellent visibility and a diverse population of conger eels, groupers, moray eels, octopus, sea bream, and amberjack colonising the encrusted hull. The shallow upper sections can be snorkelled or freedived, while the deeper parts of the hull reward scuba divers with atmospheric penetration opportunities through the preserved structure.
+**Note on location:** The coordinates for this site (39.87°N, 20.01°E) place it in Saranda Bay, southern Albania, approximately 50 metres from shore. PADI and multiple dive databases list this as an Albanian dive site. The OSM node has been imported into the Greece destination due to the proximity of the Greek-Albanian maritime border in this area, but the wreck is in Albanian waters.
+
+The SS Probitas is an Italian cargo ship sunk on 25 September 1943 during an air raid. The vessel rests on its port side along the sandy bottom of Saranda Bay. The shallowest section of the wreck begins at 3 metres depth, making snorkelling and freediving possible on the upper hull, while the maximum depth is 22 metres. Sources give the ship's length as approximately 100–115 metres (sources vary). Holes from the air raid are still visible on the hull sides.
+
+The wreck has become a productive artificial reef. It is one of the best-known dive sites along Albania's Ionian coast and is marked with a surface buoy to protect it from boat traffic.
+
+## Dive Profile
+
+- **Entry**: Boat or shore (approximately 50 m from shore)
+- **Depth range**: 3–22 m
+- **Wreck orientation**: Port side down on sandy bottom
+- **Conditions**: Sheltered bay; typically good visibility
+- **Country**: Albania (Saranda Bay)
+
+## Marine Life
+
+Confirmed species at this site include grouper, bream, moray eels, nudibranchs, octopus, sponges, and lionfish. The encrusted hull supports diverse sessile life throughout.
+
+## Safety
+
+Wreck penetration is possible in the preserved sections but requires appropriate training and equipment. The wreck is a protected heritage site in Albania; touching or removing artefacts is prohibited.
 
 ## Site Information
 
-- **Location**: Greece, Europe
-- **Entry Type**: Boat dive
+- **Location**: Saranda Bay, Albania (coordinates place this site in Albanian, not Greek, waters)
+- **Entry Type**: Boat dive (shore also possible)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [PADI — SS Probitas dive site (Albania)](https://www.padi.com/dive-site/albania/ss-probitas/), [Dive Buddies 4 Life — Albania Scuba Diving](https://divebuddies4life.com/albania-scuba-diving-into-the-unknown/), [Silver Sky Diving — Probitas Ship Wreck](https://silver-sky.club/activity/saranda/probitas-ship-wreck.html). Last updated 2026-06-01.*

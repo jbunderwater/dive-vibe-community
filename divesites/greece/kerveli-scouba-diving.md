@@ -13,19 +13,35 @@ addedBy: osm_import
 
 ## Kerveli scouba diving
 
-Kerveli scouba diving is a reef dive site in Greece, Europe.
+Kerveli is a sheltered reef dive in a protected bay on Samos's east coast, with maximum 22-metre depth and excellent visibility up to 30 metres.
 
 ## Overview
 
-Kerveli Bay on the eastern coast of Samos offers some of the Aegean's clearest water, with visibility exceeding 20 metres and a craggy reef system that tops out at 22 metres and includes walls, drop-offs, small caves, and caverns that shelter a diverse range of Mediterranean species. Groupers, moray eels, octopus, sea bream, nudibranchs, and seahorses inhabit the reef structure, alongside posidonia seagrass beds, red coral, and sea fans in the deeper sections. The eastern Samos coastline is considered the finest underwater scenery on the island, and Temple Bay nearby reportedly contains ancient artefacts at 18 metres depth, offering an additional dimension to diving in this archaeologically rich corner of the Aegean.
+Kerveli Bay is located on the eastern coast of Samos in the northeast Aegean. The Kerveli Dive Center operates from within the Kerveli Village Hotel, with their dive base steps from a private dock in this naturally protected bay. The site is accessible in almost all weather conditions due to the bay's shelter.
+
+The reef descends to a maximum of 22 metres and offers a colourful environment of smaller reef formations interspersed with Mediterranean sponges. The craggy coastline produces geological formations that include drop-offs, walls, small caves, and caverns at around 25 metres depth. At the deeper level, a small cavern is noted where local wine is reportedly aged.
+
+Additional dive sites operated from Kerveli include Heart Rock East and West — two sites on the north side of Samos featuring steep walls, small caves, and a rock opening in the shape of a heart — and the Treasure Cave site, which serves as a marine wildlife refuge.
+
+## Dive Profile
+
+- **Entry**: Boat (short transfer from private dock)
+- **Depth range**: 0–22 m (Kerveli Reef); walls and caves at 25 m at other local sites
+- **Conditions**: Sheltered; no significant current
+- **Visibility**: Up to 30 m
+- **Water temperature**: 19–23°C
+
+## Marine Life
+
+Confirmed at this site: moray eels, octopus, and diverse Mediterranean reef fish. The reef is described as colourful with Mediterranean sponges. No site-specific species list beyond these confirmed observations was located.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kerveli, Samos, Northeast Aegean Islands, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Kerveli Dive Center — Dive Sites](https://samos-scuba.com/dive-sites/), [Zentacle — Samos Kerveli Reef](https://www.zentacle.com/Beach/10148/samos-kerveli-reef), [Greeka — Best Samos Scuba Diving Clubs](https://www.greeka.com/eastern-aegean/samos/sports/scuba-diving/). Last updated 2026-06-01.*

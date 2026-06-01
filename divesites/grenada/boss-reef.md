@@ -33,7 +33,7 @@ Positioned in the productive waters of Grenada's southwest, Boss Reef features a
 
 ## Marine Life
 
-Grenada's reefs support strong populations of large fish species. Caribbean reef sharks are seen regularly at Boss Reef, particularly on the deeper outer edge. Large groupers occupy coral overhangs, and schools of creole wrasse sweep along the reef face. Hawksbill turtles feed on sponges throughout the site. Eagle rays cruise the sandy transitions at the reef base. The barrel sponges at 18–24 metres host resident bigeye fish communities.
+Boss Reef supports a rich reef community. Schools of blue Creole wrasse sweep along the reef face. Large spotted moray eels occupy coral overhangs, and nurse sharks rest in deeper crevices on the outer edge. Caribbean lobsters, trunkfish, and conch are confirmed residents. Hawksbill turtles feed on sponges throughout the site. Barracuda and stingrays are regularly encountered. Octopus are found in sand patches. A distinctive hole dropping to 18 metres is a known barracuda gathering point. The barrel sponges at 18–24 metres host resident fish communities. Note: "Caribbean reef sharks seen regularly" and "eagle rays at the reef base" from previous descriptions were not confirmed by primary sources for Boss Reef specifically and have been removed.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from operators based in Grand Anse or True Blue Bay. Giant stride entr
 
 ## Tips and Recommendations
 
-Explore the outer reef face early in the dive for the best chance of shark encounters. Large groupers are territorial and can be approached slowly at their usual coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
+Explore the outer reef face early in the dive for the best chance of nurse shark sightings in deeper crevices. The distinctive hole dropping to 18 metres is a reliable barracuda gathering point — find it with your guide. Large moray eels are territorial and can be approached slowly at their usual coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Monitor NDL limits at the 24-metre sections. Deploy DSMB before ascending — bo
 
 ## Photography
 
-Boss Reef's combination of deep coral formations, clear water, and large marine life makes it one of Grenada's best wide-angle photography sites. Shark encounters, eagle ray passes, and school-of-fish compositions on the reef face are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
+Boss Reef's combination of deep coral formations, clear water, and active fish communities makes it one of Grenada's best wide-angle photography sites. Creole wrasse schools, barracuda around the distinctive 18-metre hole, and moray eel portraits are the primary subjects. Turtle encounters on the reef provide classic compositions. A strobe is recommended for the deeper sponge and gorgonian sections.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Boss Reef's combination of deep coral formations, clear water, and large marine 
 - Typically paired with Flamingo Bay or Happy Hill for a two-tank morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [Sportif Dive - Grenada Dive Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [Carib Dive Guide - Grenada](http://www.caribdiveguide.com/). Last updated 2026-06-01.*

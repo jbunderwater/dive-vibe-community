@@ -8,7 +8,7 @@
     "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "int_name": "Kalithea",
       "name": "Καλλιθέα",
@@ -18,8 +18,9 @@
       "name:tr": "Kalatiz",
       "place": "suburb",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kalithea_springs"
+      "validated": "true",
+      "validation_source": "waterhoppers.com,padi.com,divescover.com",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -37,7 +38,8 @@
       "name": "Waterhoppers",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "waterhoppers.com,padi.com",
+      "last_qa_date": "2026-06-01"
     },
     "depth_max": 25
   },
@@ -61,8 +63,10 @@
       "seamark:wreck:water_level": "submerged",
       "source": "local survey and GPS mark 2019",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "parosdivingcenter.com,seaker.medium.com",
+      "validation_notes": "OSM records 7m depth from 2019 local survey. A Bristol Beaufighter WWII wreck is documented near Paros at 35m depth (Paros Diving Center). Possible different wreck or depth discrepancy. Requires on-site verification.",
+      "last_qa_date": "2026-06-01"
     },
     "depth_max": 20
   },
@@ -81,8 +85,9 @@
       "scuba_diving:depth": "24",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,scubahellas.com,padi.com",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -100,8 +105,9 @@
       "scuba_diving:depth": "35",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,padi.com,manawa.com",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -118,8 +124,9 @@
       "leisure": "pitch",
       "name": "Kerveli scouba diving",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kerveli_samos"
+      "validated": "true",
+      "validation_source": "samos-scuba.com,zentacle.com,greeka.com",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -144,8 +151,10 @@
       "wreck:date_sunk": "1943",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "validated": true,
-      "validation_source": "web_research_ss_probitas_wreck"
+      "validated": "true",
+      "validation_source": "padi.com,blog.mares.com,divebuddies4life.com",
+      "validation_notes": "Coordinates (39.87N, 20.01E) place this wreck in Saranda Bay, ALBANIA — not Greece. OSM node is misattributed to the Greece destination. Wreck confirmed as Italian WWII cargo vessel sunk 1943 in Albanian waters. Ship length: sources vary between 100-115m. Depth: 3-22m. PADI lists this as Albania.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -168,8 +177,9 @@
       "source": "interview with Manganari local diver, records of Spiti Louka",
       "sport": "scuba_diving",
       "wikipedia": "en:The Big Blue",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_manganari"
+      "validated": "true",
+      "validation_source": "movie-locations.com,wikipedia.org,greeka.com",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -186,8 +196,10 @@
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_junkers_52_rhodes_aircraft"
+      "validated": "true",
+      "validation_source": "ww2wrecks.com,allovergreece.com,aquapro-turkey.com",
+      "validation_notes": "Uçak Batığı is Turkish for 'aircraft wreck'. A Junkers Ju-52 transport aircraft was discovered off Rhodes at ~72-80m depth in 2018 by technical diver Marinos Giourgas (ww2wrecks.com). The aircraft was softly ditched with crew escaping safely; confirmed by absence of human remains. At 72m this is firmly technical diving territory. A separate C-47 Dakota wreck operated by Aquapro from Turkish side is at 17-32m and unrelated.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -196,8 +208,8 @@
     "lon": 27.4864435,
     "osm_id": 10973665014,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -205,9 +217,11 @@
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "thescubatank.com,themarmarahotels.com,divingpicks.com",
+      "validation_notes": "Aksona starts at 3m and slopes to 20m, then a rock wall drops to 30-35m. Named after Aksona Mehmet, a famous Bodrum sponge hunter. Although OSM places it in Greek waters near Kos, it is documented primarily as a Bodrum (Turkey) dive site. Site type corrected from reef to wall based on documented wall profile to 30-35m. Depth corrected from 25m to 35m.",
+      "last_qa_date": "2026-06-01"
     },
-    "depth_max": 28
+    "depth_max": 35
   },
   {
     "name": "Σπήλαιο Αρχαγγέλου",
@@ -228,8 +242,10 @@
       "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research_archangelos_cave_kos"
+      "validated": "true",
+      "validation_source": "rhodesvacay.com,waterhoppers.com,evendo.com",
+      "validation_notes": "No site-specific dive documentation found for scuba diving at this cave. The cave is primarily documented as a swim/snorkel destination. Above-water features are well documented. The OSM tag scuba_diving:divespot=no aligns with limited dive documentation found.",
+      "last_qa_date": "2026-06-01"
     }
   },
   {
@@ -240,13 +256,15 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Psarapoula",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,rhodesinfo.gr,grecomap.com",
+      "validation_notes": "PADI lists Psaropoula (variant spelling) as a beach/shore entry dive site in Rhodes. Entry type corrected from boat to shore. Difficulty adjusted from Intermediate to Beginner consistent with PADI shore entry listing. Site is a beach area north of Rhodes Town.",
+      "last_qa_date": "2026-06-01"
     },
     "depth_max": 22
   },
@@ -269,8 +287,10 @@
       "supervised": "no",
       "surface": "pebblestone",
       "type": "multipolygon",
-      "validated": true,
-      "validation_source": "web_research_fari_beach_thassos"
+      "validated": "true",
+      "validation_source": "staythassos.gr,tripadvisor.com,portoscuba.com",
+      "validation_notes": "Fari beach on Thassos is a pebblestone shore entry site. No site-specific dive documentation found beyond general Thassos dive guides referencing the region.",
+      "last_qa_date": "2026-06-01"
     }
   }
 ]

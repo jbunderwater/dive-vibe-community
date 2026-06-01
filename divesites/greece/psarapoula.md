@@ -2,9 +2,9 @@
 name: Psarapoula
 lat: 36.453164
 lng: 28.2169361
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 11842033099
@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Psarapoula
 
-Psarapoula is a reef dive site in Greece, Europe.
+Psarapoula (also spelled Psaropoula) is a shore entry reef dive site along the northern Rhodes coastline, north of Rhodes Town.
 
 ## Overview
 
-Psarapoula is a rocky reef dive site off the coast of Rhodes in the Dodecanese Islands, known for its volcanic rock formations and clear Aegean waters. The site features swim-throughs and overhangs colonized by sponges and sea fans, with resident octopus, grouper, moray eels, and schools of bream. Red Sea immigrants such as soldierfish and rabbitfish have become increasingly common, and lucky divers may spot seahorses or Mediterranean monk seals.
+Psarapoula is a beach and shore dive site on the northwest coast of Rhodes, located near the Aquarium in northern Rhodes Town. PADI lists the site with beach/shore entry. The area features the rocky Mediterranean seabed typical of the northern Rhodes coast, with the underwater topography including reef formations accessible from shore.
+
+No detailed site-specific dive documentation was located for this exact point beyond the PADI listing and beach records. Local dive operators based in Rhodes Town service this and nearby sites.
 
 ## Site Information
 
-- **Location**: Greece, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Location**: Northern Rhodes Town, Dodecanese, Greece
+- **Entry Type**: Shore dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters (OSM-recorded; not independently verified)
+
+## Marine Life
+
+No site-specific marine life documentation found. Regional species for northern Rhodes apply. The Aegean around northern Rhodes increasingly hosts Red Sea immigrant species including soldierfish, rabbitfish, and lionfish alongside native Mediterranean species such as grouper, bream, octopus, and moray eels.
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [PADI — Psaropoula dive site](https://www.padi.com/dive-site/greece/psaropoula/), [Rhodes Info — Psaropoula beach](https://www.rhodesinfo.gr/index.php/en/beaches/psaropoula.html), [GrecoMap — Psaropoula](https://www.grecomap.com/attractions/psaropoula). No site-specific dive documentation beyond PADI listing was located. Last updated 2026-06-01.*

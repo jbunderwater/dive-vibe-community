@@ -49,7 +49,7 @@ Watch the creole wrasse behaviour — they swarm in dense, fast-moving schools t
 
 ## Safety Considerations
 
-The wall continues well below 25 metres — maintain your planned maximum depth and do not follow the wall further. Current can run along the wall face; if conditions strengthen, ascend to the shallower reef sections. DSMB required for the ascent in southwest Grenada's active boat traffic area.
+The reef slope continues beyond 25 metres — maintain your planned maximum depth and do not follow the slope further down. Current can run along the outer reef; ECO Dive notes this can reach 2 knots. If conditions strengthen, ascend to the shallower reef sections. DSMB required for the ascent in southwest Grenada's active boat traffic area.
 
 ## Photography
 
@@ -61,4 +61,4 @@ The massed Creole wrasse give Purple Rain its photographic identity — wide-ang
 - Often paired with Boss Reef or Dragon Bay for a two-tank southwest coast day
 
 ---
-*Sources: [ECO Dive Grenada - Purple Rain](https://www.ecodiveandtrek.com/2014/02/17/day-7-featuring-ron-dive-site-purple-rain-feature-creature-the-creole-wrasse/), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Purple Rain](https://www.padi.com/dive-site/grenada/purple-rain/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Purple Rain Feature](https://www.ecodiveandtrek.com/2014/02/17/day-7-featuring-ron-dive-site-purple-rain-feature-creature-the-creole-wrasse/), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Purple Rain](https://www.padi.com/dive-site/grenada/purple-rain/), [Sportif Dive - Grenada Dive Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites). Last updated 2026-06-01.*
