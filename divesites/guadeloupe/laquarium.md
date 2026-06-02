@@ -2,61 +2,48 @@
 name: L'Aquarium
 lat: 15.850237
 lng: -61.5916944
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 14
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 9383584506
 addedBy: osm_import
 ---
 
-# L'Aquarium
+## L'Aquarium
 
-*A richly decorated wall site in the Cousteau Reserve off Pigeon Island, with tunnels, plateaus, and extraordinary fish density in a protected marine environment.*
+L'Aquarium is a canyon and arch dive site at the base of the Rotonde islet in Les Saintes, accessible to Open Water (Level 1) divers, reaching 14 metres maximum depth.
 
 ## Overview
 
-L'Aquarium is one of the signature dive sites within the Jacques Cousteau Underwater Reserve off Pigeon Island (Îlet à Goyaves) near Bouillante on Guadeloupe's western Basse-Terre coast. The site earns its name from the exceptional density and diversity of fish life that fill the site's tunnels, coral plateaus, and wall sections — diving here genuinely resembles swimming inside an aquarium. The protected status of the Cousteau Reserve has allowed the marine life to thrive, and L'Aquarium is one of the most visually impressive reef dives in the French Caribbean. The wall and tunnel architecture creates a multi-level dive at 8–18 meters. Visibility averages 20–30 meters. Water temperature stays at 26–28°C year-round.
+L'Aquarium is located at the foot of the Rotonde islet in the Les Saintes archipelago. The site takes its name from the rich marine life in a canyon sequence that leads divers through a succession of enclosed passages and into a circular amphitheatre formation. An arch structure — approximately 1.5 metres high, 4 metres wide, and 5 metres long — forms the gateway to the main amphitheatre area, which functions as the "aquarium" proper.
+
+The site is suitable for Level 1 / Open Water certified divers. Maximum depth is 14 metres (average 12 metres). Conditions require calm seas — the site is exposed to swell and not recommended in rough weather.
+
+This site is in Les Saintes (southern Guadeloupe) and is distinct from the "Aquarium" site near Pigeon Island in the Cousteau Reserve (Malendure).
 
 ## Site Information
 
-- **Location**: Pigeon Island (Îlet à Goyaves), Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
+- **Location**: Rotonde islet area, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
-- **Current**: Light to moderate; Pigeon Island's position in the Cousteau Reserve creates generally protected conditions
-- **Best Time**: Year-round; December to May for best visibility; the reserve is always accessible from Bouillante
+- **Site Type**: Reef (canyon/amphitheatre formation)
+- **Difficulty Level**: Beginner (Open Water / Level 1)
+- **Maximum Depth**: 14 meters (average 12 meters)
+- **Current**: Variable; site not advisable in rough swell
+- **Best Time**: Calm weather conditions
 
 ## Marine Life
 
-The Cousteau Reserve's protection has created exceptional fish density at L'Aquarium. Schools of gorettes (French grunts) mass in silver clouds at the tunnel entrances. Cardinal fish hover in mid-water. Creole wrasse and rainbow wrasse swarm around coral formations. Hawksbill and green turtles are reliably present — Guadeloupe has one of the most important sea turtle populations in the French Caribbean. Large barracuda patrol the plateau sections. Angelfish — French and grey — are abundant. Groupers have grown large under the reserve's protection. Moray eels inhabit crevices throughout. Tarpon cruise through the tunnels in the evenings.
+Confirmed by La Dive Bouteille: lobsters and moray eels in the canyon crevices. The amphitheatre and arch structure shelter a variety of reef fish. No broader species list has been confirmed from site-specific operator reports.
 
 ## Dive Profile
 
-Descend to the shallow plateau at 8 meters and enter the tunnel system. The main tunnel passes through the reef formation and opens to the wall face. Explore the plateau sections between tunnels, then drop to the wall face at 15–18 meters. The architecture provides natural navigation reference points throughout. Return through the tunnels to the boat mooring for the safety stop. Multiple passages can be combined for an extended dive.
+Enter the canyon sequence from the reef crest and navigate through the succession of passages, leading to the circular amphitheatre. Pass through the arch (1.5m × 4m × 5m) into the open amphitheatre area. Return through the canyon exits or backtrack through the passages. Maximum depth 14 metres throughout.
 
 ## Entry and Exit
 
-Served by dive operators from Bouillante — the main dive base for the Cousteau Reserve. Short 5–10 minute boat crossing to Pigeon Island. Entry via giant stride. The Cousteau Reserve is a strict no-fishing, no-collecting zone — all diving must be organized through licensed operators.
-
-## Tips
-
-- The Cousteau Reserve is justifiably one of the French Caribbean's top dive destinations — plan multiple dives here over several days
-- L'Aquarium is often combined with adjacent Cousteau Reserve sites (Jardin de Corail, La Baleinière, La Coulée) for a full day of diving
-- Pigeon Island is listed as one of the 10 best dive destinations in the world by some publications — it warrants careful exploration
-- Morning dives have better light penetration into the tunnel passages
-- Bring an underwater light/torch for the darker tunnel interiors where cardinal fish congregate
-
-## Safety
-
-Generally beginner-friendly depth range but classified Intermediate due to the tunnel passages, which require comfort with enclosed spaces and good buoyancy control. The Cousteau Reserve is a boat diving area — never anchor on the coral, use the mooring buoys. Respect all reserve regulations. Always carry an SMB.
-
-## Photography
-
-L'Aquarium is a photographer's paradise. Wide-angle shots from inside the tunnels looking toward the bright opening, with schools of gorettes silhouetted against the light, are among the most striking available in Guadeloupe. The exceptional fish density means fish photography is effortless. Turtle encounters in the shallow plateau sections are well-lit by the clear, sunlit water. Coral plateau scenes with layered fish schools are compelling wide-angle subjects.
+Boat dive from Terre-de-Haut (Les Saintes). Operated by Les Saintes-based dive operators, primarily La Dive Bouteille. Conditions must be calm — swell makes this site inadvisable.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [La Dive Bouteille — Site Descriptions](https://www.dive-bouteille.com/copie-de-description), [Guadeloupe Islands Tourism — Les Saintes Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-02.*

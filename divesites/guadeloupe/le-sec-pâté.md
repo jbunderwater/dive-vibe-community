@@ -3,9 +3,9 @@ name: Le Sec Pâté
 lat: 15.9010173
 lng: -61.6555095
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: 9383533417
 addedBy: osm_import
@@ -13,29 +13,41 @@ addedBy: osm_import
 
 ## Le Sec Pâté
 
-Le Sec Pâté is an advanced wall dive near the Îles des Saintes in southern Guadeloupe. This site — distinct from the famous pinnacle of the same name located further north in the Saintes Channel — is an OSM-recorded wall dive feature on the southern edge of the Les Saintes archipelago, descending to 30 metres.
+Le Sec Pâté is the famous submerged volcanic pinnacle in the Saintes Channel between Basse-Terre and the Îles des Saintes — one of the most celebrated advanced dive sites in the Caribbean.
 
 ## Overview
 
-This entry corresponds to an OSM-recorded dive node at the southern tip of the Les Saintes archipelago (lat 15.90°N), classified as a wall dive. It is distinct from the celebrated Sec Pâté pinnacle site in the central Saintes Channel. Local validation sources note it shares similar advanced characteristics: steep drop-off, strong currents, and a requirement for Advanced certification.
+This OSM node at lat 15.90°N, lon -61.66°W corresponds to the legendary Sec Pâté pinnacle, which rises from approximately 300 metres depth to a summit at 15 metres below the surface. The site is positioned between the Îles des Saintes archipelago and Basse-Terre and requires a minimum 25-minute boat transit.
 
-Les Saintes is a compact archipelago of nine islands south of Basse-Terre, renowned for some of the best diving in the French Caribbean. The wall sites around the archipelago drop sharply into the deep Saintes Channel, with excellent visibility and diverse marine life.
+See also the curated "Sec Pâté" entry (lat 16.15°N, lon -61.80°W) which refers to this same feature but has less precise coordinates. This OSM entry has site_type corrected from "wall" to "pinnacle" and depth corrected from 30m to 40m (the recreational maximum depth confirmed by multiple operators).
 
-## Dive Profile
+The pinnacle consists of volcanic rock with overhangs, small caves, and swim-throughs below 30 metres. The summit and upper walls are densely covered with colourful sponges and soft corals. Multiple competing ocean currents converge and deflect around the pinnacle, creating powerful and often unpredictable water movement.
 
-- **Depth range**: Shallow reef to 30 m wall
-- **Entry**: Boat dive
-- **Current**: Strong currents possible; Advanced certification required
-- **Visibility**: Typically excellent in the Les Saintes area (15+ metres)
+## Site Information
+
+- **Location**: Saintes Channel, between Îles des Saintes and Basse-Terre, Guadeloupe
+- **Entry Type**: Boat dive (25+ minutes from Terre-de-Haut)
+- **Site Type**: Pinnacle
+- **Difficulty Level**: Advanced (CMAS Level 2 / PADI Advanced Open Water with Deep Dive specialty; 50+ logged dives required by operators)
+- **Maximum Depth**: 40 meters recreational (summit at 15m; walls descend to 300m)
+- **Current**: Always present; strength and direction vary; 1–4 knots typical
+- **Best Time**: Conditions assessed morning of each dive; cancelled in rough conditions
 
 ## Marine Life
 
-Les Saintes wall diving sites host hawksbill turtles, barracudas, groupers, moray eels, lobsters, queen and gray angelfish, and dense sponge and gorgonian growth on the wall faces. Scorpionfish are common on rocky substrates.
+Confirmed species at the site: queen angelfish (large specimens), grey angelfish, ocean triggerfish, moray eels, sea turtles, schooling horse-eye jacks (carangues gros-yeux), barracuda, groupers, and reef sharks. The surrounding water column is productive due to cold upwelling — humpback whales have been heard and occasionally sighted in the Saintes Channel during seasonal passage. Colourful sponges and soft corals densely cover the pinnacle walls.
 
-## Notes
+## Dive Profile
 
-The OSM validation notes that this site shares characteristics with the famous Sec Pâté pinnacle but is a distinct location. Divers visiting Les Saintes should confirm the exact site with their operator, as "Le Sec Pâté" can refer to multiple related features in the area.
+Descend and ascend on the fixed mooring line — do not release this line in current. Summit at 15 metres; recreational maximum 40 metres. Bottom time at depth is limited by no-decompression limits (approximately 40 minutes at 40m). The current may change direction or intensity during the dive — divers should hold the line and abort to a shallower section if conditions deteriorate. The boat tracks divers throughout the dive.
+
+## Certification Requirements
+
+Minimum CMAS Level 2 / PADI Advanced Open Water with Deep Dive specialty. Most operators require 50+ logged dives verified by logbook. PE40 equivalent level mandatory.
+
+## Safety
+
+Descent and ascent lines are mandatory — independent swimming against the current is not feasible. Dive is conducted only in suitable conditions; operators assess and cancel without notice when swell or current is excessive. Divers should actively endorse aborting the dive if conditions deteriorate beyond comfort. Always dive with a buddy; never release the line unilaterally.
 
 ---
-
-*Sources: [Tribloo — Le Sec Pâté dive site, Les Saintes](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/). Last updated 2026-05-17.*
+*Sources: [Tribloo — Le Sec Pâté](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/), [Guadeloupe Islands Tourism — Infini Plongée Sec Pâté](https://www.lesilesdeguadeloupe.com/tourism/en-us/activities/6382-infini-plongee-diving-on-the-sec-pate). Last updated 2026-06-02.*

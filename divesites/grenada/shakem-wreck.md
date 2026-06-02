@@ -17,7 +17,7 @@ A 55-metre (180-foot) freighter that sank in a storm in May 2001 when her cement
 
 ## Overview
 
-The MV Shakem was a working cargo vessel that transported cement between Grenada and Trinidad. In May 2001 she was caught in heavy seas; the bags of cement in the hold shifted, and as seawater mixed with the loose cement in the bilge the mixture blocked the pumps. She sank within sight of St. George's harbour, settling upright on a sandy bottom at approximately 32 metres. Because the sinking was rapid and unplanned, the vessel's instruments, furniture, engine room equipment, and cargo were left largely intact. The bags of cement in the holds have since solidified — the bags have long disintegrated, leaving stacked "cement pillows" in organised rows as if ready for offloading. The wreck has developed good gorgonian sea fan growth and soft coral encrustation across the superstructure. Visibility averages 12–15 metres. Water temperature is 26–28°C.
+The MV Shakem was a working cargo vessel that transported cement between Grenada and Trinidad. In May 2001 she was caught in heavy seas; the bags of cement in the hold shifted, and as seawater mixed with the loose cement in the bilge the mixture blocked the pumps. She sank within sight of St. George's harbour, settling upright on a sandy bottom at approximately 32 metres (note: sources range from 30–34 metres; the figure of 32m is consistent with the majority of sources). Because the sinking was rapid and unplanned, the vessel's instruments, furniture, engine room equipment, and cargo were left largely intact. The bags of cement in the holds have since solidified — the bags have long disintegrated, leaving stacked "cement pillows" in organised rows as if ready for offloading. DreamWrecks describes the mid-ship crane as "probably the biggest highlight of the vessel, encrusted with sea fans, gorgonians, and sponges." The wreck has developed good gorgonian sea fan growth and soft coral encrustation across the superstructure. Visibility averages 20–30 metres (consistent with southwest Grenada conditions). Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -27,13 +27,13 @@ The MV Shakem was a working cargo vessel that transported cement between Grenada
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wreck |
-| Visibility | 20–30 m |
+| Visibility | 15–25 m |
 | Current | Light |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-The Shakem's hull supports a developing reef community. The superstructure and exterior surfaces carry black gorgonians, white hydroids, and a variety of sponges. Green moray eels occupy crevices in the hull structure. The wreck's many intact interior spaces — including the spiral staircase and cargo holds with their cement pillows — shelter fish communities typical of enclosed wreck habitat. Note: specific species claims (tiger groupers, Nassau groupers, Caribbean reef sharks) were not confirmed by primary sources at this specific site and have not been attributed here.
+Confirmed marine life at the Shakem from multiple sources: green moray eels (ECO Dive), black gorgonians, white hydroids, sponges, and sea fans covering the superstructure (dreamwrecks.com, ECO Dive). FreedomTourTravel confirms cleaner shrimp, arrow crabs, barracudas, and French angelfish. The mid-ship crane is encrusted with sea fans, gorgonians, and sponges and is described by DreamWrecks as the highlight structure. Soft coral growth described by FreedomTourTravel as "sparkling like snow" across the exterior. Note: tiger groupers, Nassau groupers, and Caribbean reef sharks claimed in previous descriptions are not confirmed by primary sources at this site and have not been reinstated.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The Shakem offers a more intimate wreck photography experience than the Bianca C
 - Typically combined with the Bianca C or Veronica L for multi-wreck dive trips
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Shake'm Dive Site](https://www.padi.com/dive-site/grenada/shakem/), [Freedom Tour Travel - Wrecks of Grenada's South Coast](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Shakem](https://dreamwrecks.com/shakem-grenada-shipwreck), [Freedom Tour Travel - Grenada Wrecks](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [Divernet - Grenada Wrecks](https://divernet.com/world-dives/grenada-shipwreck-capital-of-the-caribbean/). Last updated 2026-06-02.*

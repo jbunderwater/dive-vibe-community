@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## La Caye
 
-La Caye is an intermediate-level reef dive southwest of Pigeon Island in the Malendure area, positioned outside the boundary of the Cousteau Reserve and offering more open-ocean character with greater depth than the protected reserve sites nearby.
+La Caye is known as "Malendure's nursery" — a shallow reef dive within the Cousteau Reserve area, accessible to all levels, reaching 4–18 metres.
 
 ## Overview
 
-Reaching 25 meters at its deepest point, La Caye features a sloping reef that transitions from hard coral formations in the shallower zone to sandy terraces with scattered coral heads and sponge growth at depth. Its position outside the reserve means it sees slightly more current than the sheltered sites at Pigeon Island, adding an open-water feel that appeals to intermediate and more experienced divers. Visibility runs 20–30 meters during the dry season. Water temperature averages 27°C.
+La Caye is a reef site within the Cousteau Reserve corridor near Malendure, Bouillante. Multiple operator sources describe it as a nursery habitat, meaning it hosts juvenile fish and serves as a feeding and sheltering ground for the reserve's marine population. Depth ranges from 4 to 18 metres, making it accessible to all certification levels. Previous records listed depth as 25m — this has been corrected to 18m and difficulty from Intermediate to Beginner per operator descriptions found during research. Visibility is consistent with the broader Cousteau Reserve area: 20–30 metres in the dry season. Water temperature averages 27°C.
 
 ## Site Information
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Moderate; can be stronger on flood/ebb tides
 - **Best Time**: November to May
 
 ## Marine Life
 
-The slightly more open-water character of La Caye attracts larger pelagic species alongside reef residents. Caribbean reef sharks occasionally patrol the deeper sections, and eagle rays are sighted gliding over the sandy terraces. Hawksbill and green turtles are present throughout the dive, and large parrotfish are abundant on the reef slope. The sandy bottom at 20–25 meters supports sand-dwelling species including stingrays and garden eels.
+Operators describe La Caye as ideal for observing colorful fish, sea turtles, and rays within the Cousteau Reserve ecosystem. As a nursery site, juvenile fish of many species are a notable feature. No site-specific detailed species list has been published for La Caye independently — the marine life is consistent with the broader Cousteau Reserve fauna (yellowtail snapper, parrotfish, French angelfish, hawksbill and green turtles). Previous claims about Caribbean reef sharks and eagle rays at this site were not confirmed by specific sources and have been removed.
 
 ## Dive Profile
 
-Begin on the reef crest at approximately 8 meters and work progressively deeper. The most biologically rich zone is between 10–20 meters where coral and sponge growth is densest. Descend to the sandy terrace at 25 meters before beginning the ascent. Allow sufficient air for a safety stop at 5 meters.
+Begin on the reef crest at approximately 4–5 metres and work progressively deeper. Maximum depth is 18 metres. The site is wide enough for extended exploration at mid-reef depths. Allow sufficient air for a safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -58,4 +58,4 @@ Current is a real consideration at this site — ask your operator about conditi
 The deeper sandy terrace zone offers opportunities for wide-angle shots of eagle rays and reef sharks in open water. Reef slope compositions at 12–18 meters with ambient light are particularly effective in the dry season.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Quebec Antilles — Best Dives in Guadeloupe](https://quebecantilles.ca/eng/100625-2/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [PPK Plongée Guadeloupe](https://ppk-plongee-guadeloupe.com/). Depth corrected from 25m to 18m and difficulty from Intermediate to Beginner per operator sources. Last updated 2026-06-02.*

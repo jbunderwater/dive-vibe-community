@@ -17,7 +17,7 @@ A compact, colourful shallow reef off southwest Grenada, named for the island's 
 
 ## Overview
 
-Spice Island Reef lies off the southwestern coast and features a classic Caribbean fringing reef profile with excellent hard coral coverage at depths of 5–12 metres. The reef includes well-developed brain and star coral formations, sea fans, and finger corals creating a diverse structural environment. The proximity to the main resort area of Grand Anse means this site is frequently visited, but it remains in good health with consistent marine life encounters. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
+Spice Island Reef (also listed as "Spice Isle Reef" in at least one source) lies off the southwestern coast. Turq.com describes the site as a sloping wall with valleys at 20–50 feet (6–15m), with a sandy area that serves as a fish nursery, and notes occasional octopus sightings. The site does not appear under this name in ECO Dive or PADI's dive site listings, and no primary source has been found that fully documents it as a distinct named dive site with confirmed species and diving conditions. The description below is based on the single turq.com reference and regional Grenada southwest reef characteristics. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Spice Island Reef lies off the southwestern coast and features a classic Caribbe
 
 ## Marine Life
 
-The shallow, well-lit reef at Spice Island Reef supports exceptional fish diversity for its depth range. Schools of blue tangs, yellowtail snappers, and French grunts are abundant. Large parrotfish work the reef constantly, and French angelfish are a consistent presence. Hawksbill turtles are regular visitors — some individual animals have been observed at this site for years. The sandy margin at 10–12 metres is productive for southern stingrays and garden eels.
+The only primary source found for this site (turq.com's "Spice Isle Reef") describes small fish species and occasional octopus as the confirmed marine life. The detailed species list in previous descriptions (blue tangs, yellowtail snappers, French grunts, parrotfish, French angelfish, hawksbill turtles, southern stingrays, garden eels) is not sourced to this specific site and reflects regional Grenada southwest reef communities rather than confirmed sightings here. Those attributions have been removed pending site-specific source confirmation.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The shallow depth and exceptional clarity make Spice Island Reef one of Grenada'
 - Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
 ---
-*Description based on regional Grenada southwest reef characteristics and operator site listings. No site-specific sources found for "Spice Island Reef" by this name. Last updated 2026-05-24.*
+*One partial source found: [Grenada: Beneath the Surface - Turq.com](https://www.turq.com/grenada/grendive.html) lists "Spice Isle Reef" with limited detail. No other primary sources confirm this site under either name. Marine life and dive profile details remain unverified. Last updated 2026-06-02.*

@@ -17,7 +17,7 @@ Les Sources d'Eau Chaude — the Hot Water Springs — is one of Guadeloupe's mo
 
 ## Overview
 
-Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geothermal fault zone where hot springs vent into the Caribbean through the seabed. At around 15 meters depth, divers can feel localised warm water seeping from fissures in the rock and observe the fault formations created by volcanic activity over thousands of years. The seabed features dramatic cracked rock formations, with coral and sponge growth adapted to the slightly elevated temperatures. Visibility averages 20–25 meters. Background water temperature is the usual 26–28°C, but water near the vents can be noticeably warmer.
+Situated close to the Cousteau Reserve near Pigeon Island, Les Sources d'Eau Chaude sits on a geothermal fault zone where hot springs vent into the Caribbean through the seabed. Multiple sources describe geothermal vents at different depth levels: hot water sources from volcanic rocks have been documented at 18 metres, 23 metres, and 36 metres at this site. The main recreational dive zone reaches 23 metres (the listed depth has been corrected from 15m to 23m to reflect the primary vent area depth, confirmed by multiple operator descriptions). A coral plateau with sponges and gorgonians precedes the drop-off where the vents are found. Background water temperature is 26–28°C; water near the vents is noticeably warmer. Visibility averages 20–25 metres.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 23 meters (vents documented at 18m, 23m, and 36m)
 - **Typical Visibility**: 20–25 meters
 - **Current**: Light to moderate
 - **Best Time**: November to May
 
 ## Marine Life
 
-Despite — or perhaps because of — the geothermal activity, marine life is rich. Large spiny lobsters (langouste royale) occupy the crevices and fault formations, making this one of the better lobster-spotting sites in the Malendure area. Sea turtles frequent the site, and parrotfish, angelfish, and squirrelfish are abundant around the coral and rock formations. The fault zone also harbours moray eels and conger eels in deeper recesses.
+Sources confirm spiny lobsters (langouste royale) in the crevices and fault formations, sea turtles, schooling fish, and sponge communities adapted to the slightly elevated water temperatures near the vents. Specific species confirmed at the vents by local operator sites include seahorses in the sponge growth. Parrotfish and angelfish are consistent with the Cousteau Reserve area generally but are not attributed to this specific site by source — they may be present but this is not independently confirmed here.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Do not attempt to put fingers or hands into vent openings — water temperature 
 The volcanic geology creates dramatic subjects — cracked seabed formations and warm-water shimmer rising from the vents photograph as visually striking and scientifically interesting. Macro work on large lobsters in the fault crevices is highly rewarding. The combination of geological and biological subjects makes this an unusually varied photography dive.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Plongée Guadeloupe / Anse Caraïbe — Cousteau Reserve Sites](https://www.plongee-guadeloupe-reserve-cousteau.fr/nos-sites-de-plongee/la-reserve-cousteau/), [Atlantis Plongée — Site Listings](https://www.atlantisplongee.com/sites), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Depth corrected from 15m to 23m and vent depths confirmed per operator descriptions. Last updated 2026-06-02.*

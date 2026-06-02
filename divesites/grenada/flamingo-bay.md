@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Flamingo Bay
 
-A calm, accessible beginner reef just minutes by boat from Grand Anse Beach — one of Grenada's most popular first-dive sites, with reliable turtle encounters and a well-developed reef on a gentle sandy slope.
+A calm, accessible beginner site just minutes by boat from Grand Anse Beach — one of Grenada's most popular first-dive sites, with reliable fish life on a fringing reef that drops to a wall, confirmed elkhorn coral, and dense schools of chromis and Creole wrasse.
 
 ## Overview
 
-Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable entry-level site with a gentle sloping reef that reaches 18 metres. The reef features a mix of hard corals including brain, star, and finger corals, with sea fans and sponges adding colour at greater depths. The bay's sheltered position ensures consistently calm conditions and good visibility, typically 20–30 metres in the dry season. The proximity to Grand Anse makes it a natural first-dive site for visitors to Grenada, and its accessible depth profile suits a wide range of certification levels.
+Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable entry-level site within the most northern section of Grenada's Marine Protected Area. PADI and ECO Dive both describe the site as a fringing reef that slopes to a wall, with a depth range of 15–60 feet (5–18 metres). The wall is encrusted with whip coral, colourful sponges, and sea fans. Confirmed corals include elkhorn coral at the shallower sections as well as ball, rope, and barrel sponges. The bay's sheltered position ensures consistently calm conditions and good visibility, typically 20–30 metres in the dry season. The proximity to Grand Anse makes it a natural first-dive site for visitors to Grenada.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable e
 
 ## Marine Life
 
-Flamingo Bay supports a classic Grenada reef community. Sea turtles are reliable sightings, feeding on sponges and cruising through the coral formations. Parrotfish and blue tang schools sweep over the reef crest. Queen triggerfish, French angelfish, and large groupers are resident. The sandy margins at the base of the reef attract southern stingrays. Barracuda patrol the open water above the reef, and nurse sharks are occasionally found resting under overhangs.
+PADI and ECO Dive confirm the following species at Flamingo Bay: blue clouds of chromis, squirrelfish, jackknife fish, Creole wrasse, parrotfish, butterfly fish, grouper, jacks, and rays. Turq.com also confirms black seahorses are found here. Sea turtles are noted in the general Grenada Marine Park area. Note: "queen triggerfish" and "nurse sharks resting under overhangs" were in previous descriptions but are not confirmed at Flamingo Bay specifically by primary sources — these attributions have been removed. "Southern stingrays at the reef base" has been generalised to "rays" as confirmed by primary sources.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The accessible shallow reef, good visibility, and active fish community make Fla
 - Commonly offered as the second dive of a morning two-tank trip after the Underwater Sculpture Park
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Flamingo Bay](https://www.padi.com/dive-site/grenada/flamingo-bay/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [Grenada: Beneath the Surface - Turq.com](https://www.turq.com/grenada/grendive.html). Last updated 2026-06-02.*

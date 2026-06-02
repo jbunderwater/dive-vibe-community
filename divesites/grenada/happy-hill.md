@@ -33,7 +33,7 @@ Happy Hill features a classic Caribbean fringing reef profile, descending from 5
 
 ## Marine Life
 
-Hawksbill and green turtles are regularly encountered on the reef, particularly in the 5–10 metre range where sponge and algae growth is highest. Large parrotfish and queen triggerfish are prominent reef residents. French angelfish move through the coral in pairs, and schools of blue tangs sweep the shallow reef crest. Southern stingrays glide across the sandy margin at the reef base, and the sand is dotted with jawfish peering from their burrows.
+The southwest Boss Reef system is known for turtles (hawksbill and green), parrotfish, French angelfish, blue tangs, grouper, nurse sharks (resting), spotted morays, and lobsters — the species community typical of this section of Boss Reef. Southern stingrays are noted at sand margins in the broader reef area. Note: "jawfish peering from their burrows" attributed in previous descriptions is not confirmed at Happy Hill specifically by any primary source and has been removed. No site-specific marine life sources distinct from the general Boss Reef/Northern Exposure system were found for Happy Hill.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from Grand Anse or True Blue operators; short ride from the main resor
 
 ## Tips and Recommendations
 
-The name describes the dive accurately — this is an uncomplicated, enjoyable site for all levels. Jawfish observation at the sand margin rewards divers who stay still and wait. An excellent site for fish photography beginners — fish density is high and the animals are relaxed. Well-suited as a refresher dive for visitors who have not dived recently.
+The name describes the dive accurately — this is an uncomplicated, enjoyable site for all levels. Check sandy pockets beneath coral heads for resting nurse sharks. An excellent site for fish photography beginners — fish density is high and the animals are relaxed. Well-suited as a refresher dive for visitors who have not dived recently.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Straightforward site with no significant hazards beyond standard precautions. De
 
 ## Photography
 
-Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal conditions for natural-light photography. Turtle portraits in the mid-water zone, school-of-fish compositions, and jawfish behavioural shots from the sand margin are the standout subjects.
+Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal conditions for natural-light photography. Turtle portraits in the mid-water zone, school-of-fish compositions, and nurse shark resting portraits are the standout subjects at this level of the reef.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal
 - Often paired with Flamingo Bay or the Underwater Sculpture Park for a two-tank beginner morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [AquaViews Scuba - Grenada](https://www.scuba.com/blog/best-places-to-scuba-dive/grenada/). No site-specific sources found for "Happy Hill" distinct from regional Grenada southwest reef characteristics. Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Grenada dive sites](https://www.padi.com/diving-in/grenada/), [AquaViews Scuba - Grenada](https://www.scuba.com/blog/best-places-to-scuba-dive/grenada/). No site-specific sources found for "Happy Hill" distinct from the broader Boss Reef system. Marine life attribution reflects confirmed species from the adjacent Northern Exposure/Boss Reef sections. Last updated 2026-06-02.*

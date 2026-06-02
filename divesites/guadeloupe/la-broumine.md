@@ -13,19 +13,17 @@ addedBy: osm_import
 
 ## La Broumine
 
-La Broumine is a historic wreck dive in Guadeloupe, Caribbean.
+La Broumine is a wreck site in Les Saintes waters, recorded in OpenStreetMap as a hazard seamark with a mast showing above water.
 
 ## Overview
 
-La Broumine is a wreck dive site in the waters of Guadeloupe, resting at 18 metres in the Caribbean Sea, where the warm clear water and coral-encrusted hull support the kind of reef fish community typical of the island's leeward dive sites — groupers, snappers, hawksbill turtles, and southern stingrays among the regular inhabitants. Guadeloupe's diving is centred on the west coast of Basse-Terre, which benefits from volcanic Caribbean seabed topography and the warm nutrient-rich waters between the island and its neighbours. The accessible depth and protected Caribbean conditions make this a solid intermediate wreck dive within Guadeloupe's rich diving scene.
+The OSM database records La Broumine as a wreck at these coordinates near the Les Saintes archipelago, classified as a "mast showing" wreck — meaning part of the structure is visible above the surface. Maximum depth to the seabed at this location is approximately 18 metres.
 
-## Site Information
+No recreational dive guide, dive operator listing, dive forum thread, or published account of La Broumine as a named scuba diving site has been located in available sources. The wreck may be accessible to divers but is not documented in any source consulted during this research pass.
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+## Research Status
+
+This site is **unvalidated** as a recreational dive site. Divers seeking to explore this wreck should contact Les Saintes-based dive operators (including La Dive Bouteille) who may have direct knowledge of conditions and any local access considerations. Vessel identity and history are not established in available sources.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on OSM seamark data only. No recreational dive site documentation found. Last updated 2026-06-02.*

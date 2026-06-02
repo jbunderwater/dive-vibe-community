@@ -33,7 +33,7 @@ Dragon Bay lies near Point Salines at the southern end of Grenada. A highlight o
 
 ## Marine Life
 
-The rocky structure and tug boat wreck provide habitat for groupers, angelfish, and moray eels. The slope below supports hard corals and gorgonians with associated reef fish communities including French grunts, parrotfish, and damselfish. Hawksbill turtles are present in the site area. Note: previous descriptions attributed specific species (nurse sharks, octopus) as "particularly well-represented" without source confirmation — marine life at Dragon Bay follows the general Grenada southwest reef community.
+Dragon Bay's confirmed marine life includes peacock flounder, barracuda, green moray eels, groupers, French angelfish, chromis, spotted moray eels, octopus, southern stingrays, and lobster (per ECO Dive and PADI sources). The tug boat wreck in the shallows provides additional structure habitat for sheltering fish. The sandy area adjacent to the reef is productive for peacock flounder and rays. Black coral and black gorgonians are reported on the wall section below 45 feet. Note: nurse sharks were mentioned in the Tips section without source confirmation and have been removed.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from True Blue Bay or Grand Anse area operators. Giant stride entry; D
 
 ## Tips and Recommendations
 
-This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check under boulder overhangs for nurse sharks and large morays. Octopus sightings are more reliable here than at many other Grenada sites. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
+This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check the sandy areas carefully for peacock flounder and stingrays; both are confirmed at Dragon Bay. Octopus are found in rocky crevices. The tug boat wreck in the shallows is a good subject to explore before descending the main slope. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ The complex boulder terrain requires good navigation skills — maintain depth a
 
 ## Photography
 
-Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nurse shark portraits in rocky resting spots, octopus encounters, and moray close-ups are distinctive macro and medium-range subjects. Wide-angle shots through boulder archways create depth and drama.
+Dragon Bay's volcanic rock-and-coral terrain offers dramatic topographic subjects. Peacock flounder portraits on the sandy substrate, octopus encounters in rocky crevices, and moray close-ups are distinctive macro and medium-range subjects. Wide-angle shots of the volcanic rock formations and the tug boat wreck create depth and drama.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nur
 - Best combined with Valley of Whales for a two-tank southern Grenada day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [SSI - Dragon Bay](https://www.divessi.com/en/mydiveguide/divesite/dragon-bay-wreck-grenada-299871), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/). Last updated 2026-06-02.*

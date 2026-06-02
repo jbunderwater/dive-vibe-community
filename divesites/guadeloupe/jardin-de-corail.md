@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Jardin de Corail
 
-Jardin de Corail — the Coral Garden — is widely considered the most iconic dive site within the Cousteau Reserve at Pigeon Island, featuring a bronze bust of Jacques Cousteau placed at 12 meters as a permanent tribute to the explorer who championed these waters.
+Jardin de Corail — the Coral Garden — is widely considered the most iconic dive site within the Cousteau Reserve at Pigeon Island, featuring a bronze bust of Jacques Cousteau cast in 2004 by sculptor Albert Fage, placed on the sandy bottom at 12 metres as a permanent tribute to the explorer who championed these waters.
 
 ## Overview
 
@@ -32,7 +32,7 @@ This site on the northern face of Pigeon Island's inner islet is named for its r
 
 ## Marine Life
 
-Fish populations at Jardin de Corail benefit from years of protection under the reserve designation. Large French angelfish approach divers closely, and schools of blue tangs sweep over the coral mounds. Green and hawksbill turtles are seen on virtually every dive. Barracuda patrol the reef edges, and Caribbean reef sharks occasionally visit from deeper water. The coral carpet itself hosts enormous biodiversity — flamingo tongues on sea fans, banded coral shrimp in anemones, and juvenile fish sheltering in branching corals.
+Multiple sources confirm species at Jardin de Corail specifically: bonitos, barracudas, diodons (porcupinefish), triggerfish, sea turtles (both green and hawksbill), French angelfish, lobsters, and surgeonfish (blue tangs). The coral carpet from 3 metres supports dense fish populations that are notably bold and approachable due to the reserve's no-take protection. Note on Caribbean reef sharks: they are reported in the broader Cousteau Reserve but no site-specific source confirms them at Jardin de Corail in particular — do not assume this claim without confirmation from a dive operator at the site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ As with all Cousteau Reserve sites, respect the protected status — no touching
 Jardin de Corail is one of the French Caribbean's premier photography destinations. The Cousteau bust at depth is an iconic wide-angle subject, particularly when framed against a diver or turtle. The coral carpet at 3 meters in morning light photographs beautifully without strobes. Macro subjects are abundant on coral and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [PADI — Jardin de Corail Dive Site](https://www.padi.com/fr/site-plongee/les-iles-de-la-guadeloupe/jardin-de-corail/), [Atlantis Plongée — Site Listings](https://www.atlantisplongee.com/sites), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Cousteau bust confirmed as cast in 2004 by sculptor Albert Fage per PADI site record. Last updated 2026-06-02.*

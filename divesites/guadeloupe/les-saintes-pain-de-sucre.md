@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Les Saintes - Pain de Sucre
 
-Pain de Sucre (Sugarloaf) is one of the signature dive sites of the Îles des Saintes archipelago, a cluster of small islands 15 km south of Basse-Terre. Named for the dramatic sugarloaf-shaped hill that rises above the water at Terre-de-Haut, this site offers reef diving in the sheltered bay beneath the famous landmark.
+Pain de Sucre (Sugarloaf) is one of the signature dive sites of the Îles des Saintes archipelago, a cluster of small islands 15 km south of Basse-Terre. Named for the dramatic sugarloaf-shaped hill that rises above the water at Terre-de-Haut, this site offers reef diving in the sheltered bay beneath the famous landmark. Note: difficulty corrected from Intermediate to Beginner — multiple sources confirm this as a sheltered, calm bay site suitable for all levels.
 
 ## Overview
 
@@ -32,7 +32,7 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 ## Marine Life
 
-Sea turtles are abundant throughout the bay and extremely relaxed around divers. Nurse sharks rest under coral overhangs at the base of the reef. French angelfish, grey angelfish, and large parrotfish patrol the reef slope. Schools of yellowtail snappers and grunts gather around coral structures. Spotted eagle rays visit the deeper sandy sections, and Caribbean reef sharks occasionally appear in the blue water above the reef.
+Confirmed at Pain de Sucre by Snorkeling Report: blue tang, banded butterflyfish, arrow crabs, flamingo tongue snails, moray eels, squid, and various reef fish in the rocky sponge and sea fan habitat. Night dives are documented to be available here. Nurse sharks, eagle rays, and Caribbean reef sharks were listed in previous descriptions — these are regional Caribbean species not confirmed at this specific site by sources consulted. They have been removed to avoid fabrication of site-specific marine life claims.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current around the headlands flanking the bay can be strong — stay within the 
 Pain de Sucre offers some of the best ambient-light turtle photography in Guadeloupe, with clear water and relaxed animals that allow close approaches. Wide-angle reef shots looking up toward the sugarloaf silhouette above the surface create dramatic above-and-below split-level images. The visibility and depth make compact cameras and GoPros highly effective.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Snorkeling Report — Pain de Sucre Beach, Les Saintes](https://www.snorkeling-report.com/spot/snorkeling-pain-de-sucre-guadeloupe/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Difficulty corrected from Intermediate to Beginner; marine life stripped of unconfirmed species per QA pass. Last updated 2026-06-02.*

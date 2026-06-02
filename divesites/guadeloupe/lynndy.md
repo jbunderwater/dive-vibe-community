@@ -13,19 +13,33 @@ addedBy: osm_import
 
 ## Lynndy
 
-Lynndy is a historic wreck dive in Guadeloupe, Caribbean.
+The Lynndy is a small coastal freighter sunk in 2006 after a tropical storm, lying 100 metres from the beach at Anse Mire in Terre-de-Haut, Les Saintes.
 
 ## Overview
 
-The Lynndy is a shallow wreck resting at 15 metres in the waters off southern Basse-Terre, Guadeloupe, where the wreck structure provides artificial reef habitat in warm Caribbean waters typical of the island's leeward coast. The hull supports encrusting sponges, hard coral growth, and resident reef fish including groupers, snappers, and glassy sweepers, with hawksbill turtles visiting the site as they do throughout Guadeloupe's protected waters. The accessible depth and beginner-friendly conditions make this a good introduction to Guadeloupe wreck diving for divers working their way up to the deeper reserve wrecks at Malendure.
+The Lynndy was a small coastal freighter that was immersed in 2006 following storm damage. The wreck lies approximately 100 metres from the sandy beach at Anse Mire, in the sheltered Baie des Saintes. It rests at 15 metres depth and is visible from the surface in calm conditions. The position of the wreck is marked with two yellow cross buoys, making it easy to locate from the water.
+
+The vessel's full history — including build year, home port, and ownership at the time of sinking — is not established in published dive sources. The wreck is described in available sources as a small coastal freighter; no further detail has been confirmed from independent sources.
+
+At the time of research (2026), the hull is not yet heavily colonised by coral and sponges; reef fish are actively establishing the structure as habitat. Snorkeling-Report.com and La Petite Villa des Saintes both document the wreck as accessible.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
+- **Location**: Anse Mire, Terre-de-Haut, Îles des Saintes, Guadeloupe
+- **Entry Type**: Boat dive (approx. 10-minute walk from Terre-de-Haut pier; boat advised)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
+- **Current**: Calm; sheltered bay conditions
+- **Best Time**: Year-round
+
+## Marine Life
+
+Reef fish are colonising the wreck. No site-specific species list from dive operators or published dive reports has been located — only general references to "numerous reef fish." Species should not be attributed specifically to this site without confirmation from operator dive reports.
+
+## Notes
+
+The wreck is visible from the surface and accessible to snorkelers and freedivers as well as scuba divers. It sits in the calm Baie des Saintes, well protected from Atlantic swell. A Terre-de-Haut dive operator should be contacted for current conditions and exact mooring locations.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Snorkeling Report — Anse Mire & Lynndy Shipwreck](https://www.snorkeling-report.com/spot/snorkeling-anse-mire-guadeloupe/), [La Petite Villa des Saintes — Terre-de-Haut Shipwreck](https://www.lapetitevilladessaintes.fr/blog/the-terre-de-haut-shipwreck-an-unusual-must-see-in-les-saintes). Last updated 2026-06-02.*

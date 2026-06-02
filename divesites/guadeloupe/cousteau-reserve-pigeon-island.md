@@ -32,7 +32,7 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 ## Marine Life
 
-The protected status of the reserve has allowed fish populations to recover and thrive beyond what most Caribbean dive sites can offer. Large hawksbill and green sea turtles are essentially guaranteed encounters. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move in loose formations over the reef crest. Nurse sharks rest under coral ledges, and spotted eagle rays cruise the sandy margins. The reserve's healthy coral also supports exceptional invertebrate diversity, including spiny lobsters, flamingo tongues, banded coral shrimp, and arrow crabs.
+The protected status of the reserve has allowed fish populations to recover. Confirmed in the Cousteau Reserve area by Atlantis Plongée and Les Heures Saines: French angelfish, barracuda, moray eels, groupers, large sea turtles (hawksbill and green), spiny lobsters, and schooling reef fish. Nurse sharks resting under coral ledges are documented in the reserve generally (confirmed by PPK Plongée and Cousteau Reserve operators). Spotted eagle rays are regionally present but not specifically confirmed at the Pigeon Island sites in sources consulted — their presence is possible but not site-verified here.
 
 ## Dive Profile
 
