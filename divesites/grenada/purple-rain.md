@@ -37,7 +37,7 @@ The defining feature is the dense purple schools of Creole wrasse that give the 
 
 ## Dive Profile
 
-Descend to the reef plateau at around 6–8 metres and follow the gentle slope toward the outer reef edge. The creole wrasse schools are present throughout. Drift with the mild current along the reef face, pausing to examine the whip corals and barrel sponges at 15–25 metres. Ascend to the shallow plateau for the safety stop. This can be dived as a gentle drift or an active swim depending on current conditions on the day.
+Descend to the reef plateau at around 12 metres and follow the gentle slope toward the outer reef edge. The Creole wrasse schools are present throughout. Look for barracuda sheltering along the telecom cables in the sand channels. Drift with the current along the reef face, pausing to examine the whip corals and barrel sponges at 20–26 metres. Ascend to the shallower reef sections for the safety stop. This can be dived as a gentle drift or an active swim depending on current conditions — on stronger current days it becomes a true drift dive.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat dive from operators based in True Blue Bay or Grand Anse. The site is typic
 
 ## Tips and Recommendations
 
-Watch the creole wrasse behaviour — they swarm in dense, fast-moving schools that create an immersive experience unlike any other Grenada site. Look for seahorses and moray eels sheltering in the whip corals while the wrasse move around them. The site pairs well with Boss Reef for a two-tank morning — Boss Reef for reef sharks and large groupers, Purple Rain for its characteristic wrasse activity.
+Watch the Creole wrasse behaviour — they swarm in dense, fast-moving schools that create an immersive experience unlike any other Grenada site. Inspect the telecom cables crossing the sand channels — barracuda use these as reference points and often school around them. Eagle rays are confirmed sightings at this site — watch the open water above the reef edge. The site pairs well with Boss Reef for a two-tank morning — Boss Reef for lobster, morays, and turtles; Purple Rain for its characteristic wrasse activity and pelagic surprises.
 
 ## Safety Considerations
 
