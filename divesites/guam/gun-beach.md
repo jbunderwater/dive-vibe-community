@@ -13,49 +13,53 @@ addedBy: osm_import
 
 # Gun Beach
 
-Often called the best shore dive on Guam -- the only dive site in Tumon Bay, the main resort area. Named for a WWII gun emplacement on shore. Shore entry following cables through the reef flat leads to a sloping reef with candlestick corals, turtles, rays, and octopus within the Tumon Marine Preserve.
+The only scuba dive site in Tumon Bay, Guam's main resort area, within the Tumon Marine Preserve. Named for a WWII gun emplacement still visible on the shoreline. Shore entry following a cable and pipe channel through the shallow reef flat leads to a gently sloping reef with distinctive candlestick corals, turtles, rays, and octopus. Often described as the best shore dive on Guam.
 
 ## Overview
 
-Gun Beach is the only scuba dive site in Tumon Bay, Guam's main resort and tourism district. Named after a World War II gun emplacement that still sits on the shoreline, the site is frequently described as the best shore dive on Guam due to its combination of easy access, marine preserve protection, and diverse marine life.
+Gun Beach is located in Tumon Bay, the main tourist and resort district of Guam, and is the only scuba dive site within the bay. The site lies within the Tumon Marine Preserve, which gives the reef and its inhabitants protected status. The name derives from a World War II Japanese gun emplacement that remains on the shoreline above the entry point.
 
-Entry follows cables and pipe channels from the beach through the shallow reef flat -- about 30 feet of walking from the car park to knee-deep water. Once past the reef line, a sloping reef extends outward, covered in distinctive candlestick corals that gradually deepen from 5 meters to around 20 meters before transitioning to a sandy plain. The Tumon Marine Preserve status means fish and turtle populations are healthy and habituated to divers.
+The beach entry follows a cable and pipe channel through the shallow reef flat from the shore — approximately 9 meters of walking from the car park to knee-deep water — providing a safe passage through the sharp shallow reef to open water beyond. Once past the reef line, the reef slopes gently from around 5 meters to approximately 20 meters before transitioning to a sandy plain. Heading left (toward the hotel district) from the reef entry puts divers in the best-developed section, where distinctive candlestick coral formations are most abundant.
+
+The Tumon Marine Preserve status has produced healthy, approachable marine life populations. Sea turtles are the primary draw and are regularly encountered throughout the depth range.
 
 ## Site Information
 
-- **Location**: Tumon Bay, Guam (main resort area)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Tumon Bay, Guam (north of the main hotel zone; gun emplacement visible on shore)
+- **Entry Type**: Shore entry (cable and pipe channel through reef flat)
+- **Site Type**: Coral reef (gently sloping)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-18 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Generally mild inside the bay
-- **Best Time**: Year-round
+- **Maximum Depth**: approximately 20 meters (65 feet) before sandy plain
+- **Typical Visibility**: 15–18 meters
+- **Water Temperature**: 28–29°C
+- **Current**: Generally mild inside the bay; outflowing currents possible during falling tides per Wikivoyage
+- **Best Time**: Year-round; good night dive site
 
 ## Marine Life
 
-Green sea turtles are regularly encountered and are a major draw. Rays rest on the sandy areas between reef sections. Octopus hide in rocky crevices and can be spotted by observant divers. Colourful schools of reef fish inhabit the candlestick coral formations. The protected preserve status supports healthy marine populations.
+Confirmed sightings at this specific site per MDA Guam, Wikivoyage, and multiple diver reports: green sea turtles (regularly encountered and habituated to divers), stingrays (resting on sandy areas), octopus (in rocky crevices), lionfish, pipefish, barracuda, giant clams, and pufferfish. Candlestick coral formations are the defining structural feature, with small reef fish throughout. One ScubaBoard report mentions a manta ray sighting at Gun Beach, though this appears to be an occasional rather than regular occurrence.
+
+Note: Some sources list a broader range of species (blennies, grouper, Christmas tree worms, sponges, sea stars); these reflect regional Guam fauna and cannot all be confirmed as site-specific from the sources consulted.
 
 ## Dive Profile
 
-Follow the cable/pipe channel from shore through the reef flat to reach deeper water. Once outside the reef line, head left (toward the hotels) for the best diving. The candlestick corals create a beautiful landscape that slopes gradually from 5 meters to around 20 meters. Turtles can be encountered throughout the depth range. Explore the reef edge and sandy areas for rays and octopus before returning along the reef to the entry point.
+Gear up at the car park and walk approximately 9 meters to the water. Follow the cable and pipe channel through the shallow reef flat — this is the only safe passage through the sharp coral. Once past the reef edge, head left (northeast toward the hotels) for the candlestick coral formations. The reef slopes gradually from 5 to 20 meters. Turtles can be encountered at any depth along the slope. Search the sandy areas at the base of the slope for rays; check crevices in the coral for octopus. Return along the reef to the cable channel for exit.
 
 ## Entry and Exit
 
-Gear up at your car, walk approximately 30 feet to the water, and follow the cable/pipe channel through the reef flat. This provides a safe passage through the shallow reef to the dive site beyond. Exit the same way, following the cables back through the reef flat.
+Follow the cable and pipe channel from shore through the reef flat. This marked channel is the safe entry route; attempting to cross the reef flat without the channel risks contact with sharp coral and marine life. The WWII gun emplacement on the beach is a useful visual landmark for the entry point. Exit the same way.
 
 ## Tips and Recommendations
 
-- Follow the pipes/cables out through the reef flat -- this is the safe entry route past the shallow reef
-- Head left toward the hotel area for the best candlestick coral formations
-- The turtles here are accustomed to divers and often allow close approach
-- An excellent night dive site -- octopus and other nocturnal species are more active after dark
-- Visit the WWII gun emplacement on the beach before or after your dive
+- Follow the cable channel in and out — the reef flat is too shallow and sharp to cross away from the marked route
+- Head left from the reef exit for the best candlestick coral area and highest turtle density
+- An excellent night dive — octopus and other nocturnal species are more active after dark (confirmed per multiple diver reports)
+- Outflowing currents during falling tides can be strong; check the tide chart before diving
+- The WWII gun emplacement on the beach is worth a look before or after the dive
 
 ## Safety Considerations
 
-Follow the cable channel for safe entry and exit through the reef flat. The reef flat is shallow with sharp coral -- do not attempt to cross it away from the marked channel. Currents are generally mild inside the bay. Boat traffic is possible -- stay aware of surface activity.
+Follow the cable channel for safe entry and exit. The reef flat is shallow and sharp — do not cross it away from the marked channel. Outflowing currents during falling tides are a noted hazard per Wikivoyage; check tidal conditions. Boat traffic is possible in the bay — maintain awareness and stay close to shore where boat passage is less likely.
 
 ---
-*Sources: [The Guam Guide](https://theguamguide.com/12-best-dives-on-guam-2), [SSI - Gun Beach](https://www.divessi.com/en/mydiveguide/divesite/gun-beach-guam-309153), [DiveBuddy.com](http://www.divebuddy.com/divesite/5672/gun-beach-guam/). Last updated 2026-04-08.*
+*Sources: [MDA Guam - Gun Beach](https://www.mdaguam.com/destination/gun-beach/), [Wikivoyage - Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam), [ScubaBoard - Guam Dive Sites & Shops](https://scubaboard.com/community/threads/guam-dive-sites-shops.352015/), [SSI Dive Site - Gun Beach](https://www.divessi.com/en/mydiveguide/divesite/309153). Last updated 2026-06-02.*

@@ -17,7 +17,7 @@ Bristol Plane Wreck is a WWII aircraft wreck dive site in the Morotai/North Halm
 
 ## Overview
 
-The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down near Morotai island, which served as a major Allied base during the Pacific campaign. The wrecks rest on a sloping reef at considerable depth, reaching 45–50 metres at the deepest point. Morotai and North Halmahera hold a concentration of WWII aircraft and vessel wrecks from the intense Allied and Japanese operations in the region during 1944–1945. The Bristol Beaufort was a twin-engine aircraft used by Allied forces in the Pacific, and wrecks of these aircraft have been documented in the Gotolamo village area of Morotai, associated with the airfields that were central to Allied operations in the region.
+The Bristol Plane Wreck site features two Bristol Beaufort aircraft resting on a sloping reef off Morotai island, which served as a major Allied base during the Pacific campaign. The wrecks reach 45–50 metres at their deepest points, with additional military equipment including jeeps and tires at the site. Morotai and North Halmahera hold a concentration of WWII aircraft and vessel wrecks from Allied and Japanese operations during 1944–1945. The Bristol Beaufort was a twin-engine torpedo bomber and reconnaissance aircraft used by Allied forces in the Pacific; Morotai's airfields were central to Allied operations in the final year of the Pacific war. No aircraft serial numbers or individual loss records for these specific aircraft have been confirmed in the sources consulted — the "Bristol Plane Wreck" name refers to the Bristol Beaufort type, confirmed by Malaillo Liveaboard, the primary operator in this area.
 
 ## Site Information
 
@@ -30,7 +30,9 @@ The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down n
 
 ## Marine Life
 
-WWII wrecks in North Halmahera are typically encrusted with decades of coral growth. Fusiliers, reef sharks, turtles, and Napoleon wrasse have been documented in the area around the Bristol wreck. The sloping reef habitat adjacent to the aircraft supports a broader reef fish community, while the wreck structure itself provides substrate for soft corals and sponges.
+No site-specific species reports from dive logs at the Bristol Plane Wreck have been confirmed in independent sources. The broader North Halmahera region hosts fusiliers, reef sharks, turtles, and Napoleon wrasse, and the sloping reef habitat adjacent to the aircraft likely supports reef fish communities typical of the area. However, attributing specific species to this particular wreck site requires diver confirmation not yet found in available sources.
+
+*No site-specific marine life sources found. Regional North Halmahera/Morotai fauna is applicable but cannot be confirmed as site-specific.*
 
 ## Dive Profile
 
@@ -49,4 +51,4 @@ The 50-metre maximum depth puts significant sections of this wreck beyond recrea
 This is strictly an advanced dive site due to depth. No-decompression limits are quickly reached at 40–50 metres. Only advanced certified divers with experience of deep wreck diving should attempt the deeper sections. The site is remote — the nearest recompression chamber is in Manado, a significant distance from Morotai. Strong currents can occur in the North Halmahera area. An SMB should always be carried. Wreck penetration (entering enclosed sections of aircraft) requires proper training and equipment.
 
 ---
-*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Morotai Indonesia Tourism – Gotalamo Village](https://www.morotai.indonesia-tourism.com/gotalamo_village.html), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Mikumba Diving – North Maluku Dive Sites](https://www.mikumbadiving.com/north-maluku-dive-sites/), [Pacific Wrecks – Bristol DAP Beaufort Technical Info](https://pacificwrecks.com/aircraft/beaufort/tech.html). Last updated 2026-06-02. Note: Two Bristol Beaufort aircraft confirmed at site. No individual aircraft serial numbers or loss records confirmed. No vessel name equivalent for aircraft applies. No site-specific marine life confirmed.*

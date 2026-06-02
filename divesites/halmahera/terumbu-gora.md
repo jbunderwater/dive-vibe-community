@@ -52,4 +52,4 @@ The Goraici group is remote, with no infrastructure or emergency services. All m
 The healthy, unbleached coral and active predator behaviour make Terumbu Gora an excellent wide-angle photography site. Large sponges provide foreground interest, while reef sharks and Napoleon wrasse in the blue water column offer compelling subjects. For night diving in the sheltered bays, macro photography of octopus and nudibranchs is productive.
 
 ---
-*Sources: [Mermaid Liveaboards – Terumbu Gora](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*
+*Sources: [Mermaid Liveaboards – Terumbu Gora](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [Neptune Liveaboards – Halmahera](https://www.neptuneliveaboards.com/blog/halmahera-diving/). Last updated 2026-06-02.*

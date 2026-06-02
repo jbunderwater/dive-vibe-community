@@ -42,7 +42,7 @@ At 33 metres this is an Advanced-level dive. The wreck is not marked with a buoy
 
 - **Location**: Off Naxos, Cyclades, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 

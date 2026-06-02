@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Aksona
 
-Aksona is a reef dive site in Greece, Europe.
+Aksona is a reef dive site in the Dodecanese Islands of Greece, near the Kos–Bodrum strait area.
 
 ## Overview
 
-Aksona is a rocky reef dive site in the Dodecanese Islands of Greece, located in the warm, clear waters between Kos and the Turkish coast. The site features Mediterranean rock formations draped with sponges, sea fans, and posidonia seagrass beds that shelter octopus, moray eels, grouper, and nudibranchs. Visibility regularly exceeds 20 meters in summer, and the area is known for sightings of amberjack, barracuda, and the occasional sea turtle.
+Aksona is recorded in OpenStreetMap as a dive site in the northern Dodecanese, in waters between Kos island (Greece) and the Turkish Bodrum peninsula. Research for this QA pass checked the websites of Waterhoppers Diving School (Rhodes), H2O Scuba Diving Center (Rhodes), Lepia Dive Centre (Lindos), Liamis Dive Centre (Kos), and Sea World Scuba Diving Center (Kos) — none listed a site by this name. It did not appear in ScubaBoard searches for the area.
+
+The site likely exists as a local dive spot but lacks published documentation by name. The coordinates (36.96°N, 27.49°E) place it in the waters between Kos and the Turkish coast, consistent with Kos-area boat diving territory. The recorded depth of 25–28 metres and Intermediate difficulty are plausible for this area but unverified.
+
+No specific marine life, site type, or site-specific descriptions were confirmed from independent sources.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Dodecanese, South Aegean, Greece (Kos area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive documentation was located for Aksona from any dive operator or forum source. Last updated 2026-06-02.*

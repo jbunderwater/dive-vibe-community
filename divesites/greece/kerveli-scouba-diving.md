@@ -13,19 +13,37 @@ addedBy: osm_import
 
 ## Kerveli scouba diving
 
-Kerveli scouba diving is a reef dive site in Greece, Europe.
+Kerveli Bay on the eastern coast of Samos offers rocky reef diving to 22 metres with excellent visibility and remains of ancient shipwrecks with amphoras at depth.
 
 ## Overview
 
-Kerveli Bay on the eastern coast of Samos offers some of the Aegean's clearest water, with visibility exceeding 20 metres and a craggy reef system that tops out at 22 metres and includes walls, drop-offs, small caves, and caverns that shelter a diverse range of Mediterranean species. Groupers, moray eels, octopus, sea bream, nudibranchs, and seahorses inhabit the reef structure, alongside posidonia seagrass beds, red coral, and sea fans in the deeper sections. The eastern Samos coastline is considered the finest underwater scenery on the island, and Temple Bay nearby reportedly contains ancient artefacts at 18 metres depth, offering an additional dimension to diving in this archaeologically rich corner of the Aegean.
+Kerveli Bay is a naturally sheltered bay on the east coast of Samos, the island closest to the Turkish coast in the northeast Aegean. Kerveli Dive Center (samos-scuba.com) operates here and describes the bay as having visibility reaching 25–40 metres with weak or no current. The house reef directly in front of the hotel drops to approximately 15 metres and is suitable for beginners; further reef structures guide divers to a maximum depth of 22 metres.
+
+The eastern Samos coast is valued by local operators for its position along an historically important maritime trade route between Europe and Asia. At depths of 20–30 metres, Kerveli Dive Center documents the remains of ancient shipwrecks with amphoras — evidence of this trading history — along with a feature called the Panagias Wall and a cave known as the Treasure Cave on the rugged coastline.
+
+According to Beluga Aquakids (a German-based dive travel operator with a long-standing partnership at Kerveli Village Hotel), the bay "hardly ever has currents" and visibility "is almost always very good." Divers in season may encounter yellowtail hunting in the bay; dolphins are occasionally reported.
+
+**Note on name:** The OSM tag "Kerveli scouba diving" (with the typo "scouba") appears to mark the general Kerveli Bay dive area or the dive centre's operations zone rather than a specifically named site.
+
+## Marine Life
+
+Documented by Kerveli Dive Center and Beluga Aquakids: octopus, gilthead bream, marble bream, white bream, mullet, sea bass, and groups of golden stripe. Yellowtail (amberjack) hunt in the bay seasonally. Dolphins reported occasionally. No site-specific seahorse records were found; the previous description's reference to seahorses has been removed.
+
+## Dive Profile
+
+- **Entry**: Boat or shore from Kerveli Village Hotel
+- **Depth range**: 5–22 m
+- **Conditions**: Sheltered; weak to no current; visibility 25–40 m
+- **Best season**: May–October
+- **Minimum certification**: Open Water Diver
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kerveli Bay, Samos, Northeast Aegean Islands, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Kerveli Dive Center — Samos](https://samos-scuba.com/), [Beluga Aquakids — Kerveli Village Hotel Samos](https://www.belugareisen.de/en/tauchreisen/europa/griechenland/kerveli-village-dive-center-by-beluga-aquakids/kerveli-village-hotel-samos-aquakids/), [Greeka — Scuba Diving in Samos](https://www.greeka.com/eastern-aegean/samos/sports/scuba-diving/). Last updated 2026-06-02.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Boss Reef
 
-One of Grenada's top intermediate reef dives — a broad sloping reef off the southwestern coast with impressive coral formations, resident Caribbean reef sharks on the outer edge, and the biodiversity that Grenada's nutrient-rich southern waters consistently deliver.
+One of Grenada's most extensive reef systems — a five-mile sloping reef off the southwestern coast stretching from St. George's harbour to Point Salines, with impressive coral formations, a resident barracuda hole, and strong populations of turtles, morays, nurse sharks, and lobster.
 
 ## Overview
 
-Positioned in the productive waters of Grenada's southwest, Boss Reef features a well-developed hard coral reef that slopes from a shallow plateau to a deeper outer edge at 24 metres. The reef is characterised by impressive coral formations including large brain corals, sea fans, and barrel sponges at depth, with diverse encrusting corals and sea whips on the reef face. Grenada's position at the southern end of the Caribbean island chain gives it access to nutrient-rich water from the South American continental shelf, supporting excellent marine biodiversity. Visibility averages 20–30 metres. Water temperature stays around 26–28°C.
+Boss Reef extends approximately five miles along Grenada's southwest coast from St. George's harbour to Point Salines, making it one of the Caribbean's most extensive continuous reef systems. The reef features gently rolling mounds of rock, sandy valleys, and broad areas of plate coral. Named sections include the Upper Reef, Japanese Gardens, Valleys, Lower Boss, Middle Boss, and Northern Exposure. A distinctive hole at around 14 metres that drops to 18 metres has been noted by Pure Grenada as a reliable barracuda gathering spot. Depth ranges from 6–24 metres (20–80 feet). Visibility averages 20–30 metres. Water temperature stays around 26–28°C.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Positioned in the productive waters of Grenada's southwest, Boss Reef features a
 
 ## Marine Life
 
-Grenada's reefs support strong populations of large fish species. Caribbean reef sharks are seen regularly at Boss Reef, particularly on the deeper outer edge. Large groupers occupy coral overhangs, and schools of creole wrasse sweep along the reef face. Hawksbill turtles feed on sponges throughout the site. Eagle rays cruise the sandy transitions at the reef base. The barrel sponges at 18–24 metres host resident bigeye fish communities.
+Boss Reef supports strong populations of the species confirmed by both Pure Grenada and ECO Dive: lobster, spotted moray eels, enormous green moray eels, trunkfish, hawksbill and green turtles, large crabs, banded coral shrimp, nurse sharks (resting, occasional), stingrays, barracuda (particularly at the 14–18 metre hole), and Creole wrasse. Octopus lurk in sand patches at the reef margins. Note: Caribbean reef sharks and eagle rays are not confirmed at Boss Reef specifically by primary sources; these species may be present but have not been attributed here.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from operators based in Grand Anse or True Blue Bay. Giant stride entr
 
 ## Tips and Recommendations
 
-Explore the outer reef face early in the dive for the best chance of shark encounters. Large groupers are territorial and can be approached slowly at their usual coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
+Look for the distinctive barracuda hole — a feature that drops from 14m to 18m and has been cited as a consistent barracuda gathering spot. Nurse sharks are found resting on sandy patches; approach slowly and avoid touching. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Monitor NDL limits at the 24-metre sections. Deploy DSMB before ascending — bo
 
 ## Photography
 
-Boss Reef's combination of deep coral formations, clear water, and large marine life makes it one of Grenada's best wide-angle photography sites. Shark encounters, eagle ray passes, and school-of-fish compositions on the reef face are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
+Boss Reef's combination of deep coral formations, clear water, and resident macro life makes it one of Grenada's best wide-angle photography sites. Barracuda at the characteristic hole, turtle portraits on the reef, moray close-ups, and Creole wrasse schools are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Boss Reef's combination of deep coral formations, clear water, and large marine 
 - Typically paired with Flamingo Bay or Happy Hill for a two-tank morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/), [ScubaTravel.co.uk - Grenada](https://www.scubatravel.co.uk/americas/grenada-diving.html). Last updated 2026-06-02.*

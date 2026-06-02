@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Bianca C
 
-The largest shipwreck in the Caribbean — a 180-metre Italian ocean liner that sank off Grenada on 24 October 1961, now sitting upright at 50 metres with the upper hull accessible from around 30 metres, encrusted with decades of coral and sponge growth.
+The largest shipwreck in the Caribbean — a 180-metre Italian ocean liner that sank off Grenada on 24 October 1961, now sitting upright at 50 metres with the top deck accessible from around 30 metres, encrusted with decades of coral and sponge growth.
 
 ## Overview
 
-The MV Bianca C was a Costa Line passenger liner measuring 180 metres (600 feet) in length and 18,427 gross register tons — built at La Ciotat, France, launched in 1944, and completed in 1949. On 22 October 1961, an explosion occurred in the engine room while the vessel was anchored off St. George's with approximately 700 passengers and crew aboard. Three crew members died as a result of the explosion and subsequent fire; all passengers were evacuated safely with the help of the British frigate HMS Londonderry and Grenadian fishing boats. The vessel burned for two days before sinking on 24 October 1961. Grenada's government later received a bronze statue of Christ of the Abyss from Costa Line in recognition of the rescue efforts. The wreck rests upright on the seafloor at approximately 50 metres; the stern section was lost in the late 1980s–early 1990s and sources report that the rear third of the vessel was torn away by that time, so the wreck is shorter than its original 180-metre length. The shallowest accessible hull sections begin at approximately 28–30 metres. The Bianca C is rated by multiple publications as one of the world's top ten wreck dives. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+The MV Bianca C was a Costa Line passenger liner measuring 180 metres (600 feet) in length and 18,427 gross register tons — built at La Ciotat, France, launched in 1944, and completed in 1949. On 22 October 1961, an explosion occurred in the engine room while the vessel was anchored off St. George's with approximately 700 passengers and crew aboard. Sources differ on the exact death toll: Wikipedia records one crewman killed immediately with eight others injured; other sources including cruiselinehistory.com state three crew members died in total (one in the initial explosion, two later from burn injuries); NOW Grenada records two crew deaths. All passengers were evacuated safely with the help of the British frigate HMS Londonderry and Grenadian fishing boats. The vessel burned for two days before sinking on 24 October 1961. Costa Line later presented Grenada with a bronze statue of Christ of the Abyss, which stands in the Carenage at St. George's in recognition of the rescue efforts. The wreck rests upright on the seafloor at approximately 50 metres; Wikipedia records that in late 1992 the rear third of the ship was torn off and the vessel began to deteriorate, so the diveable wreck is shorter than its original 180-metre length. The top deck begins at approximately 30 metres (100 feet); the swimming pool sits at around 38 metres. The Bianca C is rated by multiple publications as one of the world's top ten wreck dives. Visibility averages 20–30 metres, though some diver reports note reduced visibility of around 12 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 28–50 m |
+| Depth Range | 30–50 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wreck |
@@ -33,19 +33,19 @@ The MV Bianca C was a Costa Line passenger liner measuring 180 metres (600 feet)
 
 ## Marine Life
 
-The Bianca C's hull supports diverse Caribbean marine life concentrated around the encrusted superstructure and crane derricks. Large schools of horse-eye jacks and Atlantic spadefish are documented above the wreck. Eagle rays, moray eels, barracuda, and Caribbean reef sharks are reported at the site. The upper hull and mast sections carry dense sponge growth and soft coral encrustation. Hawksbill turtles visit the wreck structure. Note: individual species attributions across dive sites vary between sources — the hull's pelagic community is well-documented, but specific claims about "nurse sharks as regular visitors" or "giant groupers at engine room openings" require individual dive report confirmation.
+The Bianca C's hull supports marine life concentrated around the encrusted superstructure, foremast, and crane derricks. Barracuda are the most consistently reported species — caribdiveguide.com notes large barracudas circling the foremast area. ECO Dive lists eagle rays, jacks, and schools of barracuda. Black coral trees and encrusting sponges and hydroids cover the hull surfaces. The wreck's deep profile and deteriorating condition mean fish density is lower than at shallow Caribbean reef sites; some divers report relatively modest marine life for the brief bottom time available at this depth. Note: Caribbean reef sharks and hawksbill turtles have not been confirmed by primary sources at this specific wreck and are not attributed here.
 
 ## Dive Profile
 
-The wreck sits at approximately 50 metres, with the shallowest accessible hull sections at around 28–30 metres — this makes it a deep advanced dive with limited bottom time at maximum depth. Most operators focus on the 28–40 metre zone, which covers the main deck, crane derricks, and accessible superstructure. The full wreck length cannot be explored in a single dive; the bow, midship, and surviving sections are separate dive objectives. NDL limits at 40+ metres are restrictive — plan conservatively. At least two to three dives are needed to survey the accessible sections.
+The wreck sits at approximately 50 metres on the sandy bottom, with the top deck at about 30 metres — this makes it a deep advanced dive with limited bottom time at maximum depth. On air, NDL at 30–40 metres allows roughly 10–20 minutes at depth; some operators use nitrox for extended bottom time. The swimming pool is accessible at around 38 metres. The bow section reaches to approximately 27 metres at its shallowest. The full wreck length cannot be explored in a single dive; the bow, midship, and surviving sections are separate dive objectives. At least two to three dives are needed to survey the accessible sections.
 
 ## Entry and Exit
 
-Boat dive exclusively, from operators based in True Blue Bay or Grand Anse. The site is typically a 15–20 minute boat ride from the main dive centres. Permanent moorings are attached to the wreck. Entry by backward roll or giant stride. DSMB required on ascent.
+Boat dive exclusively, from operators based in True Blue Bay or Grand Anse. The site is typically a 15–20 minute boat ride from the main dive centres. There are no permanent moorings at the Bianca C — the Government of Grenada has requested the wreck not be permanently buoyed. Dives are typically conducted as drift dives using a surface marker buoy, or with the boat holding position and divers making a free descent. Entry by backward roll or giant stride. DSMB required on ascent.
 
 ## Tips and Recommendations
 
-Multiple dives are needed to explore this massive wreck — plan at least two to three dives if the Bianca C is a priority. Carry a torch as essential equipment — the interior sections and hull overhangs are dark. The shallowest hull sections at 28–30 metres receive reasonable natural light and are the most photographable areas. The wreck dives best on calm days when the descent line is stable. Note that there are no permanent moorings — currents in the area can be strong and unpredictable, so dive only with experienced local operators.
+Multiple dives are needed to explore this massive wreck — plan at least two to three dives if the Bianca C is a priority. Carry a torch as essential equipment — the interior sections and hull overhangs are dark. The top deck at ~30 metres receives reasonable natural light and is the most photographable section. The wreck dives best on calm days; currents in the area can be strong and unpredictable. There are no permanent moorings — dive only with experienced local operators who know current conditions at this site. Some operators offer nitrox for this dive to extend bottom time.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ This is an advanced dive requiring experience with wreck diving and comfortable 
 
 ## Photography
 
-The Bianca C is one of the Caribbean's most photographed wrecks. Wide-angle shots along the hull length with sponge encrustation and open water behind are the defining images. The school of horse-eye jacks above the wreck provides a classic pelagic composition. Natural light at 28–30 metres in Grenada's clear water is sufficient for the shallowest hull sections. A strobe is essential for the deeper sections and any hull penetration.
+The Bianca C is one of the Caribbean's most photographed wrecks. Wide-angle shots along the hull length with sponge encrustation and open water behind are the defining images. Schools of barracuda circling the foremast provide a classic pelagic composition. Natural light at 30 metres in Grenada's clear water is sufficient for the top deck in good conditions. A strobe or video light is essential for the deeper sections and any hull penetration.
 
 ## Additional Resources
 
@@ -62,4 +62,4 @@ The Bianca C is one of the Caribbean's most photographed wrecks. Wide-angle shot
 - The wreck is commemorated in St. George's with a bronze bust of the vessel's captain
 
 ---
-*Sources: [Wikipedia - MV Bianca C](https://en.wikipedia.org/wiki/MV_Bianca_C.), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Bianca C](https://www.puregrenada.com/bianca-c-ship-wreck/), [Caribbean Beat - Into the Deep](https://www.caribbean-beat.com/issue-141/into-deep-bianca-c), [NOW Grenada - Sinking of Bianca C](https://nowgrenada.com/2025/10/sinking-of-the-bianca-c-22-october-1961/). Last updated 2026-05-24.*
+*Sources: [Wikipedia - MV Bianca C](https://en.wikipedia.org/wiki/MV_Bianca_C.), [Cruising The Past - Bianca C](https://www.cruiselinehistory.com/bianca-c-when-a-cruise-ship-becomes-a-deep-sea-diving-attraction-off-the-island-of-grenada/), [Caribbean Dive Guide - Bianca C](http://www.caribdiveguide.com/bianca_c.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [NOW Grenada - Sinking of Bianca C](https://nowgrenada.com/2025/10/sinking-of-the-bianca-c-22-october-1961/). Death toll conflict noted: sources disagree (1, 2, or 3 crew deaths). Last updated 2026-06-02.*

@@ -27,9 +27,9 @@ No site-specific dive sources for a location named "Waterhoppers" were located. 
 
 - **Location**: Rhodes, Dodecanese, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (default — not verified as a distinct site)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (unconfirmed)
+- **Maximum Depth**: 25 meters
 
 ---
 *Description based on OpenStreetMap data. This OSM node is tagged as an info point for Waterhoppers Diving School, not a named dive site. See [Waterhoppers Diving School](https://www.waterhoppers.com/en/dive-sites/) for their actual dive site list. No site-specific sources found. Last updated 2026-06-02.*

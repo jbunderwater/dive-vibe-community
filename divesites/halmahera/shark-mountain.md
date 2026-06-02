@@ -17,7 +17,7 @@ Shark Mountain is a submerged pinnacle dive site in Weda Bay, on the east coast 
 
 ## Overview
 
-Shark Mountain is an offshore underwater mountain in Weda Bay, located approximately 11 kilometres from the Weda Resort and reaching its shallowest point at 31 metres — meaning the entire dive takes place in open blue water. According to the resort, which has dived it repeatedly, they "hardly ever had a dive without sharks here," making it one of the most reliable shark-encounter sites in the Halmahera region. The site attracts large pelagic species that congregate around the upwelling currents at the seamount tip, and the resort has installed safety lines to assist divers during descent and ascent in open water.
+Shark Mountain is an offshore underwater mountain in Weda Bay, located approximately 11 kilometres from the Weda Resort. Weda Resort records the shallowest point at 31 metres; a ScubaBoard trip report from a guest noted the seamount "ends at 28 meters" — sources differ slightly, and both measurements indicate this is a fully open-water dive with no shallow reef top. According to the resort, which has dived it repeatedly, they "hardly ever had a dive without sharks here," making it one of the most reliable shark-encounter sites in the Halmahera region. The site attracts large pelagic species that congregate around the upwelling currents at the seamount tip, and the resort has installed safety lines to assist divers during descent and ascent in open water.
 
 ## Site Information
 
@@ -53,4 +53,4 @@ Shark Mountain is a fully open-water, deep dive with no shallow reef for orienta
 The open blue-water setting and consistent shark presence make Shark Mountain an exceptional wide-angle photography site. A fisheye or wide-angle rectilinear lens is recommended for capturing sharks and schooling trevally against the blue water column. Strobes with wide coverage help in the clear, featureless open water.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ScubaBoard – Weda and Tobelo Halmahera Trip Report](https://scubaboard.com/community/threads/weda-and-tobelo-halmahera-trip-report.538278/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-02. Note: Shallowest point 31m per Weda Resort; ScubaBoard trip report notes 28m — minor source conflict flagged. Marine life (sharks, trevally, barracuda, Napoleon wrasse, tuna) confirmed by Weda Resort as primary operator.*

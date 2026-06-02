@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Le Grande Bleu
 
-Le Grande Bleu is a reef dive site in Greece, Europe.
+Le Grande Bleu is a reef dive site off the coast of Ios in the Cyclades, near Manganari Bay — a location used as a filming site for Luc Besson's 1988 film *The Big Blue*.
 
 ## Overview
 
-Le Grande Bleu is a reef dive site off Ios in the Cyclades, near Manganari Bay — the very location used to film the childhood scenes of Luc Besson's cult 1988 freediving film "The Big Blue," where the director himself had spent part of his childhood. The clear Aegean water and volcanic reef topography of Ios descend to 20 metres, with groupers, moray eels, octopus, barracuda, sea bream, and posidonia seagrass beds providing a distinctly Mediterranean underwater character. The Cyclades offer some of the Aegean's warmest and most transparent summer diving, and the film connection draws divers to what is otherwise an unspoiled and lightly dived corner of the island group.
+The OSM node for "Le Grande Bleu" (French for *The Big Blue*) is positioned near Manganari, on the south-eastern coast of Ios, one of the Cyclades islands. The OSM description reads: "diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay," citing an interview with a local Manganari diver and records of Spiti Louka.
+
+Wikipedia confirms Manganari, Ios as a filming location for *The Big Blue* (1988). The film also used locations on the island of Amorgos (Agia Anna, Kalotaritissa Bay) and other Aegean sites. Luc Besson spent time in the Manganari area as a child, which is referenced in accounts of the film's origins, though the film itself is fictional.
+
+The dive site itself is a reef in the clear Aegean waters off Ios, with depths reaching approximately 20 metres. Ios diving is lightly documented compared to other Cyclades islands; no detailed site descriptions from local operators were found during research. The depth of 20 m is recorded as "unreliable" in OSM.
+
+No site-specific marine life records were located. The waters around Ios are typical eastern Cyclades Aegean: clear, warm in summer, with Mediterranean reef species expected but not confirmed at this specific location.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Manganari Bay area, Ios, Cyclades, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — The Big Blue (film)](https://en.wikipedia.org/wiki/The_Big_Blue), [Movie Locations — Le Grand Bleu filming locations](https://movie-locations.com/movies/g/Grand-Bleu.php), [OSM source tag: interview with Manganari local diver, records of Spiti Louka]. No site-specific dive documentation for this location was found. Last updated 2026-06-02.*

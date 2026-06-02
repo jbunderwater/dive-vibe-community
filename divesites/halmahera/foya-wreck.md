@@ -30,7 +30,9 @@ Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese Worl
 
 ## Marine Life
 
-The wreck and surrounding sandy areas support a mix of reef fish and macro life typical of Weda Bay. Pygmy seahorses, turtles, and giant groupers have been recorded in the broader bay environment. The wreck's structure provides shelter for nudibranchs and encrusting invertebrates, while larger pelagics such as blacktip reef sharks and Napoleon wrasse are regular visitors to Weda Bay dive sites.
+No sources have confirmed species at the Foya Wreck specifically. Weda Bay as a whole is documented to support pygmy seahorses, turtles, giant groupers, blacktip reef sharks, Napoleon wrasse, and varied macro life — but these are regional species for Weda Bay, not wreck-specific confirmed sightings. The wreck structure likely provides shelter for encrusting invertebrates and reef fish typical of the bay, but no diver species reports for this individual site have been found.
+
+*No site-specific marine life sources found. Regional Weda Bay fauna applies but species cannot be attributed to the Foya Wreck specifically.*
 
 ## Dive Profile
 
@@ -49,4 +51,4 @@ The wreck is best dived in the morning when visibility is at its peak. Because i
 Halmahera is a remote destination with limited emergency medical infrastructure. The nearest recompression chamber is in Manado, North Sulawesi. Carry a fully charged SMB and dive within your certification limits. While Weda Bay typically has gentle conditions, open-water transfers between sites can involve chop and longer boat rides.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [Scubago – Halmahera](https://www.scubago.com/en/explore/destination/halmahera-9752519), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-02. Note: Vessel described as a Japanese WWII sub-chaser confirmed by Weda Resort (primary operator). No independent historical records confirming vessel name or tonnage were found. Marine life listed above is for Weda Bay generally, not this specific wreck.*

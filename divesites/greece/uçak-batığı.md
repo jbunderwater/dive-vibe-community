@@ -3,51 +3,47 @@ name: Uçak Batığı
 lat: 36.9870592
 lng: 27.4325639
 difficulty: Advanced
-maxDepth: 72
+maxDepth: 75
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 2092439797
+osmId: 10973665012
 addedBy: osm_import
 ---
 
 ## Uçak Batığı
 
-Uçak Batığı is a wreck dive site in the Dodecanese region of Greece, near the border with Turkish waters.
+Uçak Batığı is Turkish for "aircraft wreck." This site corresponds to a Luftwaffe Junkers Ju-52 transport aircraft discovered off Rhodes island in 2018, lying at approximately 75 metres depth.
 
 ## Overview
 
-Uçak Batığı is Turkish for "airplane wreck." This site is located in the northern Dodecanese, in the sea channel between Kos island (Greece) and the Turkish Bodrum peninsula. The coordinates (36.987°N, 27.432°E) place it in Greek waters very close to the Turkish border — the identical site name and near-identical coordinates appear for a dive site listed by Turkish operators as a decommissioned Turkish Air Force Dakota C-47 intentionally sunk in the Bodrum area. It is possible this represents the same aircraft, or a different wreck in adjacent waters.
+A Junkers Ju-52 was found off the coast of Rhodes by technical diving instructor Marinos Giourgas and colleagues in May 2018, with the first documented dive in July 2018. The aircraft lies at a maximum depth of 75 metres on a muddy seabed with its nose facing south-west, approximately 1 nautical mile from Gadoura on Rhodes.
 
-The recorded maximum depth of 72 metres makes this one of the deepest aircraft wrecks accessible in this area and places it firmly in technical diving territory — recreational sport diving limits (40 m with advanced training) would not reach the deepest sections. The dive would require technical diving certification (trimix or advanced nitrox) for the full depth profile.
+WW2Wrecks.com documents the wreck as tentatively identified as aircraft code DR+UA, possibly Werk Nr. 501111, which historical records show ditched approximately 1 nautical mile from the coast of Gadoura on 31 March 1944. However, the identification is not considered complete — the article notes "No, there was no such effort" to locate identifying tags — and the match to DR+UA is speculative based on circumstantial historical records.
 
-The name "Uçak Batığı" appears in Greek and Turkish dive site databases for aircraft wrecks in the Kos–Bodrum strait area. Aircraft wrecks in this part of the Aegean typically originate from WWII aerial operations over the Dodecanese, though intentionally sunk aircraft are also present in Turkish waters for dive tourism purposes.
+The aircraft is described as nearly intact: the main structure is in one piece with the nose facing SW; the left engine propeller is undamaged (engine was not running at impact); engine No. 2 is detached and lying 2 metres from the airframe; the right engine shows operational damage. No combat or fire damage was observed on the fuselage. No human remains were found, consistent with a controlled ditching from which the crew evacuated.
 
-No Greek dive operator documentation specifically for this site at these coordinates and this depth was found during research. Given the 72-metre maximum depth and the proximity to the Turkish border, this site may be primarily accessed from Turkish operators or may represent a different aircraft than the shallower C-47 listed by Bodrum operators.
+Two independent sources (ww2wrecks.com and greekreporter.com) confirm the 2018 discovery, the Ju-52 aircraft type, and the Rhodes location. The depth is reported as approximately 75 metres by ww2wrecks.com; the OSM entry records 72 metres. The corrected depth used here is 75 metres per the specialist source.
 
 ## Dive Profile
 
 - **Entry**: Boat
-- **Maximum depth**: 72 metres (technical diving depths)
-- **Minimum certification**: Technical diving (advanced nitrox / trimix required for depths below 40 m)
-- **Location note**: Near Greek/Turkish maritime border in the Kos–Bodrum strait
-- **Conditions**: Aegean; visibility typically 15–25 m
+- **Maximum depth**: 75 metres (technical diving depths)
+- **Minimum certification**: Technical diving — closed-circuit rebreather and trimix experience required for this depth
+- **Conditions**: Open Aegean/Dodecanese; visibility 15–25 m typical
+- **Wreck orientation**: Upright, nose SW, muddy seabed
 
 ## Safety
 
-A maximum depth of 72 metres requires technical diving certification and mixed-gas equipment. This site is not accessible to recreational divers without technical training. Decompression obligations at this depth are significant.
+At 75 metres this site is beyond recreational diving limits and requires technical diving certification and mixed-gas equipment. This is not an accessible recreational dive. Decompression obligations are significant. The site was explored by technical diving instructors using closed-circuit rebreathers.
 
 ## Site Information
 
-- **Location**: Northern Dodecanese, Greece (Kos–Bodrum strait area)
+- **Location**: Off Gadoura, Rhodes, Dodecanese, South Aegean, Greece
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 72 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
+- **Maximum Depth**: 75 meters
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). Relationship between these two listings is unclear. Last updated 2026-05-17.*
+*Sources: [WW2Wrecks.com — Ju-52 off Rhodes: identification as DR+UA](https://www.ww2wrecks.com/portfolio/the-ju52-found-off-rodos-island-possibly-identified-as-dr-ua-ditched-on-march-31-1944/), [Greek Reporter — German WWII Plane Discovered off Rhodes](https://greekreporter.com/2018/07/12/german-wwii-plane-discovered-almost-intact-off-greeces-rhodes/), [AllOverGreece — Aircraft Junkers Ju 52](https://www.allovergreece.com/Wreck/Descr/20/en). Identification as DR+UA is tentative per primary source. Last updated 2026-06-02.*
