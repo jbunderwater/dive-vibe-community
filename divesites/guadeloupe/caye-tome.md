@@ -23,7 +23,7 @@ The reef at Caye Tome sits in protected lagoon water and features a mix of hard 
 
 - **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ The reef at Caye Tome sits in protected lagoon water and features a mix of hard 
 
 ## Marine Life
 
-Hawksbill turtles are a consistent presence, particularly in the reef's shallower section. Parrotfish, triggerfish, and angelfish are abundant throughout the coral formations. Southern stingrays occupy sandy patches between coral heads. Barracuda occasionally patrol the deeper reef margin, and nurse sharks rest under ledges at depth.
+No site-specific species records for Caye Tome have been found in published dive guides. The species listed in previous descriptions (turtles, stingrays, barracuda, nurse sharks) are regionally plausible for the Grand Cul-de-Sac Marin area but are not confirmed specifically at Caye Tome in sources consulted.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Fire coral is present; avoid contact and maintain careful buoyancy. Deploy SMB w
 The combination of shallow clear water and colourful reef fish makes Caye Tome a natural-light macro and fish-portrait site. Turtle encounters in the 5–10 meter zone are ideal for wide-angle work.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on regional Grand Cul-de-Sac Marin diving characteristics. No site-specific sources found for Caye Tome as a named dive site. Last updated 2026-06-02.*

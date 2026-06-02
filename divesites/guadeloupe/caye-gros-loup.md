@@ -23,7 +23,7 @@ The reef at Caye Gros Loup rises from sandy substrate and extends to around 18 m
 
 - **Location**: Off northern Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ The reef at Caye Gros Loup rises from sandy substrate and extends to around 18 m
 
 ## Marine Life
 
-Common sightings include hawksbill and green turtles, southern stingrays resting on sandy patches, barracuda patrolling the reef edge, and schools of yellowtail snappers and grunts. Parrotfish are abundant, particularly the larger stoplight and queen varieties. Moray eels are present in deeper crevices, and nurse sharks occasionally rest under coral overhangs.
+No site-specific species records for Caye Gros Loup have been found in published dive guides. The species listed in previous descriptions are regionally plausible Caribbean reef fauna but are not confirmed at this specific site in sources consulted during this research pass.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current can increase with tidal flow — check conditions with your operator. Fi
 The broad reef structure and good visibility make this a solid wide-angle site. Turtle and stingray portraits work well in the 10–15 meter zone where natural light is still strong.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on regional Grand Cul-de-Sac Marin diving characteristics. No site-specific sources found for Caye Gros Loup as a named dive site. Last updated 2026-06-02.*

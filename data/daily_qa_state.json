@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "greece",
-    "greenland",
-    "grenada",
-    "guadeloupe",
-    "guam",
-    "halmahera",
     "hawaii",
     "hawaii-big-island",
     "hawaii-kauai",
@@ -174,7 +168,13 @@
     "galapagos-islands",
     "gili-islands",
     "great-barrier-reef",
-    "great-lakes"
+    "great-lakes",
+    "greece",
+    "greenland",
+    "grenada",
+    "guadeloupe",
+    "guam",
+    "halmahera"
   ],
   "history": [
     {
@@ -877,6 +877,27 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/79"
+    },
+    {
+      "date": "2026-06-02",
+      "slugs": [
+        "greece",
+        "greenland",
+        "grenada",
+        "guadeloupe",
+        "guam",
+        "halmahera"
+      ],
+      "summary": {
+        "sites_total": 86,
+        "sites_validated_today": 49,
+        "sites_re_audited": 86,
+        "hallucinations_removed": 24,
+        "marine_life_stripped": 33,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 21
+      },
+      "pr_url": null
     }
   ]
 }

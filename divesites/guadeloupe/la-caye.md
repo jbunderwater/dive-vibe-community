@@ -2,8 +2,8 @@
 name: La Caye
 lat: 16.155
 lng: -61.798
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -23,7 +23,7 @@ La Caye is a reef site within the Cousteau Reserve corridor near Malendure, Boui
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters

@@ -2,7 +2,7 @@
 name: Les Saintes - Pain de Sucre
 lat: 15.87
 lng: -61.62
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 - **Location**: Pain de Sucre Bay, Terre-de-Haut, Îles des Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Generally mild in the bay; stronger around headlands

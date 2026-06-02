@@ -23,7 +23,7 @@ Sitting in the sheltered waters near the Jacques Cousteau Underwater Reserve, th
 
 - **Location**: Malendure, Basse-Terre, Guadeloupe (near Pigeon Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ Sitting in the sheltered waters near the Jacques Cousteau Underwater Reserve, th
 
 ## Marine Life
 
-The Aquarium lives up to its name — dense populations of French and grey angelfish, queen triggerfish, French grunts, yellowtail snappers, and countless parrotfish in all phases create a constant swirl of colour. Hawksbill turtles are frequently encountered resting on the reef or cruising between coral heads. Spotted morays extend from crevices, and banded coral shrimp occupy cleaning stations under ledges. The sandy margins support southern stingrays gliding along the bottom.
+This very shallow Cousteau Reserve site (6m maximum) supports the reserve's typical protected fish populations. The dense, approachable fish life is the defining characteristic. Confirmed by PPK Plongée for Cousteau Reserve sites generally: French angelfish, parrotfish, surgeonfish, snappers, and sea turtles. The extreme shallowness means fish concentrations are visible from the surface. Spotted morays and stingrays on the sandy margins are consistent with the broader reserve area. No site-specific species census distinguishing the Aquarium from adjacent Pigeon Island sites has been located in available sources.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The shallow profile creates no decompression risk, but boat traffic in the Malen
 The combination of crystal-clear shallow water, dense fish life, and good natural light makes Aquarium one of Guadeloupe's top photography sites. Compact cameras and GoPros perform excellently here without strobes. Wide-angle shots capturing schools of fish against coral backdrops are particularly effective in the morning hours.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [PPK Plongée Guadeloupe — Cousteau Reserve Sites](https://ppk-plongee-guadeloupe.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Les Heures Saines — Cousteau Reserve](https://www.heures-saines.com/en/exploration-of-wrecks/). Last updated 2026-06-02.*

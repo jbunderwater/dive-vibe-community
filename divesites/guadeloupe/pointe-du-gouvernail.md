@@ -17,11 +17,11 @@ addedBy: osm_import
 
 ## Overview
 
-Pointe du Gouvernail ("Rudder Point") is a wall dive site located off the main island of Terre-de-Haut in the Les Saintes archipelago, approximately 15 kilometers south of Basse-Terre, Guadeloupe. The promontory juts out from the island's coastline and drops into clear Caribbean water, creating a wall dive at 10–22 meters. Les Saintes is widely regarded as one of the most beautiful dive areas in the French Caribbean, combining crystalline visibility, strong coral health, and a charming traditional island community above the waterline. Water temperatures average 26–27°C year-round, with a slight dip to 24°C in February–March.
+Pointe du Gouvernail ("Rudder Point") is a wall dive site in the Les Saintes archipelago. La Dive Bouteille — the primary dive operator in Les Saintes — places this site west of Terre-de-Bas, not Terre-de-Haut as stated in earlier versions of this record. The dive starts at 4 metres and descends to 22 metres. Les Saintes is widely regarded as one of the most beautiful dive areas in the French Caribbean, combining crystalline visibility, strong coral health, and a charming traditional island community above the waterline. Water temperatures average 26–27°C year-round.
 
 ## Site Information
 
-- **Location**: Terre-de-Haut, Les Saintes, Guadeloupe
+- **Location**: West of Terre-de-Bas, Les Saintes, Guadeloupe (note: earlier records incorrectly stated Terre-de-Haut)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ Pointe du Gouvernail ("Rudder Point") is a wall dive site located off the main i
 
 ## Marine Life
 
-Les Saintes has a reputation for clean, healthy reef systems with lower diver pressure than the main Guadeloupe sites near Bouillante. Pointe du Gouvernail hosts impressive large animal encounters. Caribbean reef sharks cruise the deeper section of the wall. Hawksbill and green turtles are very commonly sighted. Eagle rays appear seasonally. The wall face is covered with sea fans, encrusting sponges, and wire corals. Barracuda school in the open water above the point. Large groupers and snapper hold station near the wall base. French and grey angelfish are territorial residents of the shallow reef section.
+La Dive Bouteille confirms predator hunting at this site: barracuda, kingfish (wahoo/barracuda), and horse-eye jacks actively patrolling the water column around the point are a defining feature. Les Saintes generally has clean, healthy reef systems. Caribbean reef sharks, eagle rays, and large groupers are part of the broader Les Saintes ecosystem; site-specific confirmation of these species at Pointe du Gouvernail has not been found in available sources beyond the operator reference to predators.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current at the promontory tip requires experience managing drift. Do not attempt
 The exceptional visibility of Les Saintes makes Pointe du Gouvernail an outstanding photography site. Wide-angle shots along the wall face with the promontory topography visible in the background. Reef shark encounters in clear, blue-green water are dramatic subjects in this visibility. The wall face's sea fan coverage makes compelling foreground framing for wide-angle compositions.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [La Dive Bouteille — Les Saintes site descriptions](https://www.dive-bouteille.com/copie-de-description), [Guadeloupe Islands Tourism — Les Saintes Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Location corrected from Terre-de-Haut to Terre-de-Bas per La Dive Bouteille operator description. Last updated 2026-06-02.*

@@ -28,7 +28,7 @@ The Franjack lies flat on its keel on a sandy bottom at 23 metres. The forward c
 - **Location**: Cousteau Reserve, off Malendure, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (Open Water / Level 1 certification sufficient)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light within the protected reserve

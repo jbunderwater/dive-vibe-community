@@ -23,7 +23,7 @@ Piscine sits in the natural shelter created between the twin islets of Pigeon Is
 
 - **Location**: Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters
@@ -32,7 +32,7 @@ Piscine sits in the natural shelter created between the twin islets of Pigeon Is
 
 ## Marine Life
 
-Despite the shallow depth, marine life is surprisingly varied. Parrotfish, sergeant majors, wrasse, and damselfish are found throughout the rocky substrate. Hawksbill turtles regularly enter the pool to rest or feed on seagrass attached to rocks. Juvenile fish of many species use the calm water as a nursery habitat, making Piscine an excellent place to observe small and young marine life in close detail.
+PPK Plongée and local operators confirm moray eels in the rock cavities and turtles as frequent visitors at this Pigeon Island site. The calm shallow water supports juvenile fish sheltering in rocky substrate — typical of nursery-zone habitat. The broader Cousteau Reserve fish community (parrotfish, wrasse, damselfish, sergeant majors) inhabits this area. No site-specific species census exists for La Piscine separately from the other Pigeon Island sites.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The primary hazard here is boat traffic — always remain within the protected p
 The calm, clear, shallow water of Piscine is extraordinary for natural-light photography. Compact cameras and action cameras perform at their best here. Close-focus wide-angle shots of fish and turtles in bright ambient light are possible without any artificial lighting.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [PPK Plongée — Cousteau Reserve site descriptions](https://ppk-plongee-guadeloupe.com/), [Plongée Guadeloupe — La Piscine site](https://www.plongee-guadeloupe-reserve-cousteau.fr/nos-sites-de-plongee/la-reserve-cousteau/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-02.*

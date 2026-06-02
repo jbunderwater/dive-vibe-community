@@ -30,7 +30,7 @@ The wreck is the third and most recently added artificial reef in the Cousteau R
 - **Location**: Cousteau Reserve area, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (CMAS Level 2 / PADI Advanced Open Water required)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 15+ meters
 - **Current**: Absent to light within the reserve

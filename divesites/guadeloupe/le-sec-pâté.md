@@ -26,10 +26,10 @@ The pinnacle consists of volcanic rock with overhangs, small caves, and swim-thr
 ## Site Information
 
 - **Location**: Saintes Channel, between Îles des Saintes and Basse-Terre, Guadeloupe
-- **Entry Type**: Boat dive (25+ minutes from Terre-de-Haut)
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Advanced (CMAS Level 2 / PADI Advanced Open Water with Deep Dive specialty; 50+ logged dives required by operators)
-- **Maximum Depth**: 40 meters recreational (summit at 15m; walls descend to 300m)
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Current**: Always present; strength and direction vary; 1–4 knots typical
 - **Best Time**: Conditions assessed morning of each dive; cancelled in rough conditions
 

@@ -27,7 +27,7 @@ After 200 years on the seabed, the Anémone's remains are substantially buried i
 
 - **Location**: Passe de la Baleine, between Terre-de-Haut and Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (wreck remains present at passage floor)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters in the passage

@@ -27,9 +27,9 @@ This site is in Les Saintes (southern Guadeloupe) and is distinct from the "Aqua
 
 - **Location**: Rotonde islet area, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (canyon/amphitheatre formation)
-- **Difficulty Level**: Beginner (Open Water / Level 1)
-- **Maximum Depth**: 14 meters (average 12 meters)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 14 meters
 - **Current**: Variable; site not advisable in rough swell
 - **Best Time**: Calm weather conditions
 

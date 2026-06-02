@@ -28,7 +28,7 @@ The Grand Cul-de-Sac Marin covers around 15,000 hectares and encompasses seagras
 
 ## Marine Life
 
-The Grand Cul-de-Sac Marin reef system hosts nearly 250 fish species and 60 species of coral, sponges, and gorgonians. Species documented in this protected lagoon include French angelfish, yellowtail snapper, hawksbill turtles, red starfish, schooling reef fish, sea urchins, and crustaceans. Seagrass areas near the reef support juvenile fish.
+No site-specific species records for Caye à l'Anglais have been found in published dive guides or operator reports. The description above reflects general Grand Cul-de-Sac Marin ecosystem data, not site-confirmed observations.
 
 ## Notes
 

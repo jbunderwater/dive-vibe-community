@@ -28,7 +28,7 @@ The wreck lies upright on a sandy bottom at 40 metres. The hull and superstructu
 - **Location**: Cousteau Reserve, approximately 1 mile off Malendure Rock, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / PADI AOW + Deep Dive specialty required)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate within the reserve

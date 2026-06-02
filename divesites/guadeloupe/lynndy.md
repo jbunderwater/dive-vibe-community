@@ -26,7 +26,7 @@ At the time of research (2026), the hull is not yet heavily colonised by coral a
 ## Site Information
 
 - **Location**: Anse Mire, Terre-de-Haut, Îles des Saintes, Guadeloupe
-- **Entry Type**: Boat dive (approx. 10-minute walk from Terre-de-Haut pier; boat advised)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters

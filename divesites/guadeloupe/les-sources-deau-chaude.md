@@ -3,7 +3,7 @@ name: Les Sources d'Eau Chaude
 lat: 16.16
 lng: -61.795
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Situated close to the Cousteau Reserve near Pigeon Island, Les Sources d'Eau Cha
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 meters (vents documented at 18m, 23m, and 36m)
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Light to moderate
 - **Best Time**: November to May
