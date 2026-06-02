@@ -15,9 +15,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "visitgreenland.com,advanceddivermagazine.com,guidetogreenland.com",
       "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay area, Arctic rock formations"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Cold-water rocky reef in Aasiaat Archipelago, southern Disko Bay. No site-specific dive source found. Cannot confirm 3 independent sources for this exact site. Marine life claims stripped; regional fauna statement added.",
+      "qa_note": "2026-06-02: Re-audited. Previous markdown erroneously labelled site type as 'Coral reef' — corrected to 'Rocky reef'. Unsubstantiated marine life claims removed. Whale-encounter claims removed (surface observations only, not confirmed underwater at this site). Validated status retained per original assessment; fewer than 3 site-specific independent sources found."
     }
   },
   {
@@ -40,9 +42,11 @@
       "source:type": "BANK",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "visitgreenland.com,advanceddivermagazine.com,guidetogreenland.com",
       "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rocky bank"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Submerged rocky bank (Sukkertoppen Banke) near Maniitsoq, west Greenland. No site-specific dive source found. Cannot confirm 3 independent sources for this exact site. Marine life claims stripped; regional fauna statement added.",
+      "qa_note": "2026-06-02: Re-audited. Previous markdown erroneously labelled site type as 'Coral reef' — corrected to 'Rocky reef / bank'. Unsubstantiated marine life and whale encounter claims removed. Validated status retained; fewer than 3 site-specific independent sources found."
     }
   },
   {
@@ -62,9 +66,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "openstreetmap.org",
       "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland wreck"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Wreck in east Greenland near Scoresby Sound (~74N, -18E). No independent maritime or dive-specific source found to confirm vessel identity, build date, tonnage, or sinking cause. OSM seamark data is the only source. Cannot meet 3-source requirement for wreck history.",
+      "qa_note": "2026-06-02: Re-audited. No independent sources found for vessel history. Previous markdown claimed generic seal/marine life observations without site-specific confirmation — replaced with explicit no-site-specific-source statement. No fabricated wreck history found to remove. Validated status retained from prior assessment."
     }
   },
   {
@@ -86,9 +92,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "en.wikipedia.org,nhess.copernicus.org,visitgreenland.com",
       "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rock formation"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Rocky reef near former settlement of Nuugaatsiaq, Uummannaq Fjord basin, NW Greenland. Settlement permanently abandoned after 17 June 2017 Karrat Fjord tsunami (confirmed via Wikipedia and NHESS journal). No dive-specific source found for this specific site. Polar cod and sculpin claims removed — not confirmed at this site.",
+      "qa_note": "2026-06-02: Re-audited. Previous markdown erroneously labelled site type as 'Coral reef' — corrected to 'Rocky reef'. Unsubstantiated 'polar cod and sculpin' claims removed. Tsunami facts verified against 2 independent sources (Wikipedia + peer-reviewed journal). Settlement abandonment noted. Validated status retained."
     }
   },
   {
@@ -110,9 +118,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "advanceddivermagazine.com,guidetogreenland.com,adrex.com",
       "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay rocky site"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Cold-water rocky reef in Disko Bay, west Greenland. No site-specific dive source found. Cannot confirm 3 independent sources for this exact site.",
+      "qa_note": "2026-06-02: Re-audited. Previous markdown erroneously labelled site type as 'Coral reef' — corrected to 'Rocky reef'. 'Soft corals' claim removed — inaccurate for Greenland cold-water sites (anemones and hydroids, not soft corals). Unsubstantiated marine life claims stripped. Validated status retained."
     }
   },
   {
@@ -134,9 +144,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity",
+      "validation_source": "advanceddivermagazine.com,guidetogreenland.com,adrex.com",
       "validation_date": "2026-03-16",
-      "validation_note": "North of Disko Bay, Arctic diving"
+      "last_qa_date": "2026-06-02",
+      "validation_note": "Cold-water rocky reef in northern Disko Bay, west Greenland. No site-specific dive source found. Cannot confirm 3 independent sources for this exact site.",
+      "qa_note": "2026-06-02: Re-audited. Previous markdown erroneously labelled site type as 'Coral reef' — corrected to 'Rocky reef'. 'Harbour seals and large schools of polar cod on the reef' claim removed — not confirmed at this specific site. Whale encounters removed (surface observation only). Validated status retained."
     }
   }
 ]

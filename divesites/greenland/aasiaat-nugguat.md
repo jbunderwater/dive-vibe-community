@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Aasiaat Nugguat
 
-Aasiaat Nugguat is a reef dive site in Greenland, Arctic.
+Aasiaat Nugguat is a cold-water rocky reef in the Aasiaat Archipelago at the southern edge of Disko Bay, west Greenland.
 
 ## Overview
 
-Aasiaat Nugguat is a reef site near the town of Aasiaat, a prime whale-watching hub just south of Disko Bay where humpback, minke, and fin whales congregate each summer to feed on krill and small fish. The underwater terrain features rocky outcrops and trailing kelp forests descending to 20 meters, with red sea cucumbers, scallops, crabs, and Arctic fish species inhabiting the cold, nutrient-rich water. Visibility can be excellent during calm conditions, and the site offers a rare chance to dive in waters actively used as a feeding ground by large cetaceans.
+Aasiaat Nugguat is a submerged rock formation in the island-studded archipelago surrounding Aasiaat, a town of roughly 3,000 inhabitants on Greenland's west coast at the entrance to Disko Bay. The site is tagged in OpenStreetMap as a natural rock reef and reaches approximately 20 metres depth. The "land of a thousand islands" around Aasiaat provides sheltered passages and diverse underwater topography characteristic of this part of west Greenland.
+
+Greenland's cold-water reefs support rocky substrates draped in kelp forests, with cold-water invertebrates among the boulders. The region around Aasiaat and Disko Bay is a known feeding ground for humpback, fin, and minke whales in summer — these animals are observed at the surface, not reliably during dives. No site-specific underwater documentation has been found for Aasiaat Nugguat.
+
+**No site-specific marine life observations have been confirmed for this site through independent sources. Regional cold-water fauna (kelp, crabs, sea urchins, amphipods, sea cucumbers) applies across this area.**
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Aasiaat Archipelago, southern Disko Bay, west Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional Arctic diving characteristics and OpenStreetMap data. No site-specific dive source was found for Aasiaat Nugguat. Regional context from [Visit Greenland – Diving](https://visitgreenland.com/things-to-do/diving/), [Advanced Diver Magazine – Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Guide to Greenland – Diving](https://guidetogreenland.com/travel-blogs/erling-svendsen/diving-in-greenland/). Last updated 2026-06-02.*

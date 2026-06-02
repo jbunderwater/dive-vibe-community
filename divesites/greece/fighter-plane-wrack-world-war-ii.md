@@ -2,8 +2,8 @@
 name: fighter plane wrack world war II
 lat: 36.8275723
 lng: 25.4221525
-difficulty: Intermediate
-maxDepth: 7
+difficulty: Advanced
+maxDepth: 33
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,38 @@ addedBy: osm_import
 
 ## fighter plane wrack world war II
 
-fighter plane wrack world war II is a historic wreck dive in Greece, Europe.
+A WWII-era aircraft wreck in the Cyclades, Greece, most likely the RAF Bristol Beaufighter discovered off Naxos in 2007.
 
 ## Overview
 
-This WWII fighter plane wreck lies in the shallow waters of the Aegean at just 7 metres depth, one of over 90 military aircraft and shipwrecks opened to recreational divers by the Greek Ministry of Culture and Sport. The shallow depth makes it highly accessible and offers excellent natural light for photography, and the warm Aegean summer water brings good visibility as conger eels, groupers, moray eels, and octopus have made the wreck their home. Greece's many wartime wrecks are protected heritage sites where touching or removing artefacts is strictly prohibited, preserving the historical integrity of the site for future divers.
+The coordinates for this OSM node (36.83°N, 25.42°E) place it in the waters off Naxos in the Cyclades, consistent with the location of a well-documented RAF Bristol Beaufighter wreck discovered in June 2007. The OSM node records a depth of 7 metres; however, multiple dive operator sources and magazine accounts confirm the Beaufighter lies at approximately 33 metres on a sandy seabed, roughly a quarter of a mile (about 400 metres) off the coast of Naxos. The 7-metre OSM depth is considered erroneous.
+
+The Beaufighter was shot down in 1943. Its crew were rescued, and the aircraft lay undiscovered until 2007. The wreck is described as remarkably intact: both engines remain in position (the port-side propellers are bent from impact; the starboard propellers are missing), the cockpit hatch is open — indicating the crew's escape route — and bullet holes are visible along the fuselage. A moray eel inhabits the tail section; lionfish have colonised the site. The wreck sits upright, and its twin-engine silhouette is immediately recognisable on approach.
+
+Dive Magazine described the site as "the real deal — not some restored museum-piece," emphasising the authenticity of the WWII-era condition.
+
+**Depth correction note:** OSM records this at 7 m. The associated Bristol Beaufighter wreck off Naxos lies at 33 m according to Dive Magazine and Blue Fin Divers Naxos. The difficulty has been corrected to Advanced accordingly.
+
+## Dive Profile
+
+- **Entry**: Boat
+- **Depth**: approximately 33 m on sandy seabed
+- **Wreck orientation**: upright
+- **Conditions**: Open Aegean; visibility typically 15–25 m; mild current possible
+- **Minimum certification**: Advanced Open Water Diver
+- **Operator**: Blue Fin Divers, Naxos Town
+
+## Safety
+
+At 33 metres this is an Advanced-level dive. The wreck is not marked with a buoy; dive operators use GPS navigation to locate it. Divers without previous aircraft-wreck experience should go with a local guide familiar with the site.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Off Naxos, Cyclades, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 7 meters
+- **Site Type**: Wreck dive (aircraft)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 33 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Dive Magazine — Silent Beau: the Naxos Bristol Beaufighter](https://divemagazine.com/scuba-diving-travel/silent-beau-the-naxos-bristol-beaufighter), [Blue Fin Divers Naxos — Beaufighter dive site](https://www.bluefindivers.gr/diving-spots/beaufighter-plane/), [WW2Aircraft.net — Junkers Ju-52 and Beaufighter wrecks in Greece](https://ww2aircraft.net/forum/threads/junkers-ju-52-wreck-off-kea-greece.63454/). Last updated 2026-06-02.*

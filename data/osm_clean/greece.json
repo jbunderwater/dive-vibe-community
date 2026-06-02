@@ -18,8 +18,9 @@
       "name:tr": "Kalatiz",
       "place": "suburb",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kalithea_springs"
+      "validated": "true",
+      "validation_source": "padi.com,divescover.com,waterhoppers.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -33,11 +34,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Info point only",
+      "description": "Info point only — OSM node marks the Waterhoppers Diving School operations area, not a named dive site",
       "name": "Waterhoppers",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "waterhoppers.com",
+      "last_qa_date": "2026-06-02"
     },
     "depth_max": 25
   },
@@ -47,10 +49,10 @@
     "lon": 25.4221525,
     "osm_id": 2092439797,
     "osm_type": "node",
-    "depth": 7,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "depth": "7",
       "historic": "wreck",
@@ -62,9 +64,11 @@
       "source": "local survey and GPS mark 2019",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divemagazine.com,ww2wrecks.com,bluefindivers.gr",
+      "depth_note": "OSM records 7m; RAF Bristol Beaufighter off Naxos (best match for coordinates) lies at 33m. Depth corrected per dive operator sources.",
+      "last_qa_date": "2026-06-02"
     },
-    "depth_max": 20
+    "depth_max": 33
   },
   {
     "name": "Lygaria",
@@ -81,8 +85,9 @@
       "scuba_diving:depth": "24",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,greeka.com,padi.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -100,8 +105,9 @@
       "scuba_diving:depth": "35",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,ecodivingcenter.com,padi.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -118,8 +124,9 @@
       "leisure": "pitch",
       "name": "Kerveli scouba diving",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kerveli_samos"
+      "validated": "true",
+      "validation_source": "samos-scuba.com,belugareisen.de,greeka.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -131,7 +138,7 @@
     "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -141,11 +148,13 @@
       "seamark:wreck:category": "non-dangerous",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "wreck:date_sunk": "1943",
+      "wreck:date_sunk": "1943-09-25",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "validated": true,
-      "validation_source": "web_research_ss_probitas_wreck"
+      "location_note": "Coordinates (39.87N, 20.01E) fall within Albanian territory near Saranda, Albania — confirmed by PADI, Albanian Diving Federation, and Mapcarta. The wreck is in Albania, not Greece. OSM attribution likely erroneous.",
+      "validated": "true",
+      "validation_source": "padi.com,albaniandivingfederation.al,silver-sky.club",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -168,8 +177,9 @@
       "source": "interview with Manganari local diver, records of Spiti Louka",
       "sport": "scuba_diving",
       "wikipedia": "en:The Big Blue",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_manganari"
+      "validated": "true",
+      "validation_source": "wikipedia.org,movie-locations.com,greeka.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -178,7 +188,7 @@
     "lon": 27.4325639,
     "osm_id": 10973665012,
     "osm_type": "node",
-    "depth": 72,
+    "depth": 75,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -186,8 +196,13 @@
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_junkers_52_rhodes_aircraft"
+      "wreck:aircraft_type": "Junkers Ju-52",
+      "wreck:date_sunk_approx": "1944-03-31",
+      "wreck:identification": "tentative — possibly DR+UA, Werk Nr. 501111",
+      "validated": "true",
+      "validation_source": "ww2wrecks.com,greekreporter.com,allovergreece.com",
+      "depth_note": "OSM recorded 72m; ww2wrecks.com documents 75m maximum. Corrected to 75m.",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -204,8 +219,9 @@
       "name": "Aksona",
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-02"
     },
     "depth_max": 28
   },
@@ -228,8 +244,9 @@
       "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research_archangelos_cave_kos"
+      "validated": "false",
+      "validation_source": "rhodesvacay.com,mapcarta.com",
+      "last_qa_date": "2026-06-02"
     }
   },
   {
@@ -245,8 +262,9 @@
     "tags": {
       "name": "Psarapoula",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-02"
     },
     "depth_max": 22
   },
@@ -269,8 +287,9 @@
       "supervised": "no",
       "surface": "pebblestone",
       "type": "multipolygon",
-      "validated": true,
-      "validation_source": "web_research_fari_beach_thassos"
+      "validated": "false",
+      "validation_source": "visitkavala.gr",
+      "last_qa_date": "2026-06-02"
     }
   }
 ]
