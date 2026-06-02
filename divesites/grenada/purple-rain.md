@@ -23,7 +23,7 @@ Purple Rain is a sloping reef on the southwest corner of Grenada, running from a
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–25 m |
+| Depth Range | 12–26 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef/Drift |
@@ -33,7 +33,7 @@ Purple Rain is a sloping reef on the southwest corner of Grenada, running from a
 
 ## Marine Life
 
-The defining feature is the dense purple schools of Creole wrasse that give the site its name — they are present throughout the dive. Hawksbill turtles and green sea turtles are confirmed sightings at this site. Stingrays and barracuda are reported. Lobsters, moray eels, and seahorses are found among the whip corals. At depth, giant barrel sponges support resident bigeye and sweeper communities. Note: "spotted eagle rays" and "Caribbean reef sharks" attributed in previous descriptions were not confirmed by primary sources for this specific site.
+The defining feature is the dense purple schools of Creole wrasse that give the site its name — they are present throughout the dive in extraordinary density. ECO Dive's blog entry for this site confirms the following marine life: hawksbill turtles, green turtles, southern stingrays, eagle rays, the occasional nurse shark, barracuda, angelfish, triggerfish, grunts, trunkfish, and filefish. Giant barrel sponges and extensive soft coral growth cover the reef at depth. Barracuda schools are found sheltering along the submarine telecom cables that cross the site. Note: Caribbean reef sharks are not confirmed at Purple Rain by primary sources and are not attributed here.
 
 ## Dive Profile
 
