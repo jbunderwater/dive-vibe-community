@@ -3,7 +3,7 @@ name: Purple Rain
 lat: 12.07
 lng: -61.72
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 26
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Purple Rain
 
-A reef dive on Grenada's southwest coast named for the constant "rain" of violet Creole wrasse that sweep through the site — one of Grenada's liveliest reef fish experiences, combined with giant barrel sponges and whip corals at depth.
+A reef drift dive on Grenada's southwest coast named for the constant "rain" of violet Creole wrasse that sweep through the site — one of Grenada's liveliest reef fish experiences, with giant barrel sponges, whip corals, confirmed eagle ray and nurse shark sightings, and three submarine telecom cables running through the site.
 
 ## Overview
 
-Purple Rain is a sloping reef on the southwest side of Grenada, running from a shallow plateau of soft and hard corals at around 6 metres down to approximately 25 metres. The site takes its name not from sponge colour but from the perpetual movement of violet-coloured Creole wrasse that flit through the water column in dense schools, creating a constant purple "rain" effect for divers on the reef. The reef features whip corals, giant barrel sponges, and gorgonians on the slope, with sand channels at the base. ECO Dive Grenada describes this as a reef/drift dive with moderate current. Visibility averages 20–30 metres in good conditions. Water temperature is 26–28°C.
+Purple Rain is a sloping reef on the southwest corner of Grenada, running from a shallow plateau of soft and hard corals at around 12 metres down to approximately 26 metres (40–90 feet per ECO Dive). The site takes its name not from sponge colour but from the perpetual movement of violet-coloured Creole wrasse that flit through the water column in dense schools, creating a constant purple "rain" effect for divers on the reef. The reef features whip corals, giant barrel sponges, and gorgonians on the slope, with sand channels at the base. Three submarine telecom cables run through the site and have been noted by ECO Dive as shelter points for barracuda schools. ECO Dive Grenada describes this as a reef/drift dive with a steady current; it can be dived as a gentle drift or an active swim depending on conditions. Visibility averages 20–30 metres in good conditions. Water temperature is 26–28°C.
 
 ## Site Information
 

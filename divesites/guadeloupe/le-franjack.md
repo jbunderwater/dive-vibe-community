@@ -13,19 +13,41 @@ addedBy: osm_import
 
 ## Le Franjack
 
-Le Franjack is a historic wreck dive in Guadeloupe, Caribbean.
+Le Franjack is a 53-metre suction dredger deliberately sunk in 1996 at 23 metres in the Cousteau Reserve near Malendure — one of the most accessible and popular wreck dives in the French Caribbean.
 
 ## Overview
 
-The Franjack is a 45-metre former sand-transport vessel badly damaged by Hurricane Hugo in 1989 and deliberately sunk in 1996 at 23 metres on the sandy bottom of the Cousteau Reserve near Malendure, specifically cleaned and prepared as an accessible wreck dive for beginners. The engine room, kitchen, and hold are all safely penetrable, and a large green moray eel reliably inhabits the hull, with snappers, cardinals, lobsters, and green turtles — which use the wreck for nightly rest — completing the resident cast. Slow disintegration has produced a spectacular colonisation of different sponge species across the superstructure, making the Franjack one of the most colourful wreck dives in the French Caribbean.
+The vessel was originally named Oresund and built in 1958 at Danyard Frederikshavns shipyard in Denmark. It operated as a suction dredger in Baltic waters, then relocated to the French Atlantic coast in 1976. The ship was purchased by the Guadeloupe company Lacascade-Michaud and renamed Franjack — a name coined from the first names of the owner's two sons, François and Jacky — and brought to Guadeloupe in 1983 for sand-extraction work.
+
+The vessel was severely damaged by Hurricane Hugo in September 1989. Abandoned for several years, it was then professionally cleaned of all pollutants and deliberately sunk as an artificial reef on 9 June 1996, off Malendure in Bouillante. The wreck initially came to rest on its port side; one month later, Tropical Storm Berta repositioned it upright on its keel, where it has remained since. Dimensions: 53.32 metres long, 10.04 metres wide, 486 gross tonnes.
+
+The Franjack lies flat on its keel on a sandy bottom at 23 metres. The forward cabin has collapsed; the remainder of the structure is in good general condition. The engine hold, holds, and accessible interior spaces can be explored.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, off Malendure, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate (Open Water / Level 1 certification sufficient)
 - **Maximum Depth**: 23 meters
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light within the protected reserve
+
+## Marine Life
+
+Confirmed species on and around the wreck: green moray eels in the engine hold (reliably resident), lobsters throughout the structure, sea turtles, barracuda and jacks in the water column, and fish schools occupying the interior spaces. The superstructure is encrusted with sponges after nearly 30 years of colonisation.
+
+## Dive Profile
+
+Descend to the wreck and orientate to the bow or stern. The upper deck sits at around 18–20 metres; the sandy bottom and keel at 23 metres. The large scale of the vessel — over 53 metres — means multiple dives are needed to fully explore the structure. Engine hold and accessible internal sections can be entered through open doorways; bring a torch. The beginner-friendly depth allows comfortable exploration and generous no-decompression limits.
+
+## Entry and Exit
+
+Boat dive from Malendure operators; often combined with a Cousteau Reserve reef dive as a two-tank day. Giant stride entry; the wreck has a permanent mooring buoy. Safety stop at 5 metres on ascent.
+
+## Safety
+
+The forward cabin is structurally collapsed — avoid this section. All other open-access interior spaces should be inspected before entry; wreck interiors carry inherent risks including silt disturbance, disorientation, and structural instability. Interior exploration requires appropriate training and a primary light source. Never characterise penetration as fully safe.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Wreck Diving](https://www.heures-saines.com/en/exploration-of-wrecks/), [PADI — Franjack Dive Site](https://www.padi.com/dive-site/the-guadeloupe-islands/franjack/), [Les Baillantes Tortues — Dive Spots Guadeloupe](https://lesbaillantestortues.com/dive-spots/). Last updated 2026-06-02.*
