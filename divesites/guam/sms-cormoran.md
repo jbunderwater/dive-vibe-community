@@ -28,10 +28,10 @@ Decades after the scuttling, the WWII Japanese transport Tokai Maru settled imme
 ## Site Information
 
 - **Location**: Apra Harbor, Guam
-- **Entry Type**: Boat dive (mooring buoy; access from Cabras Marina area)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: approximately 34 meters (110 feet) at the keel; starboard hull side rises to around 24 meters
+- **Maximum Depth**: 34 meters
 - **Typical Visibility**: 8–18 meters (harbor-dependent; can drop further after rain or heavy boat traffic)
 - **Water Temperature**: 28–29°C
 - **Current**: Generally mild inside the harbor

@@ -26,10 +26,10 @@ A separate deeper site, Gab Gab II (also called the Atlantis Submarine reef), is
 ## Site Information
 
 - **Location**: Gab Gab Beach, Naval Base Guam, Apra Harbor
-- **Entry Type**: Shore entry via stairs with railing (military base access required)
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner (Gab Gab I); Intermediate (Gab Gab II, requiring compass navigation across open water)
-- **Maximum Depth**: approximately 18 meters (60 feet) at Gab Gab I; 14 meters (45 feet) at Gab Gab II plateau
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–21 meters (harbor location; generally good, improving with morning dives)
 - **Water Temperature**: approximately 29°C
 - **Current**: Minimal inside the harbor

@@ -33,10 +33,10 @@ At least four unexploded depth charges remain visible in the Tokai Maru's stern 
 ## Site Information
 
 - **Location**: Apra Harbor, Guam (13°27′33″N 144°39′15″E)
-- **Entry Type**: Boat dive (shared mooring buoy with SMS Cormoran; access from Cabras Marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Advanced Open Water or Wreck Diver certification recommended)
-- **Maximum Depth**: approximately 37 meters (120 feet)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 37 meters
 - **Shallowest Point**: approximately 12 meters (40 feet; upper forward bridge)
 - **Typical Visibility**: 8–18 meters (harbor-dependent; tide and boat traffic affect conditions)
 - **Water Temperature**: 28–29°C

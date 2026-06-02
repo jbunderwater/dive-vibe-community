@@ -28,10 +28,10 @@ The Piti Bomb Holes preserve is home to three endemic species — two mollusks a
 ## Site Information
 
 - **Location**: Piti Bay Marine Preserve, 818 N Marine Corps Drive, Piti, Guam
-- **Entry Type**: Shore entry via the sea bridge walkway; no boat access needed
-- **Site Type**: Coral reef / natural percolation pits
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: approximately 9 meters (30 feet) within the dive zone
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 10–20 meters inside the bay
 - **Water Temperature**: 28–29°C
 - **Current**: Calm inside the bay

@@ -29,9 +29,9 @@ Note on maximum depth: The JSON previously listed 20 meters, but PADI cites dept
 
 - **Location**: Orote Peninsula, Guam (same dive corridor as Blue Hole and Barracuda Rock)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / pinnacle with WWII artifacts
-- **Difficulty Level**: Intermediate (drift conditions variable; depths to 27–30 meters)
-- **Maximum Depth**: approximately 27–30 meters (90–100 feet) at pinnacle base
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Pinnacle Peak**: approximately 4–5 meters (12–15 feet) below surface
 - **Sea Fans**: at approximately 12 meters (40 feet)
 - **Typical Visibility**: 18–30 meters (excellent; described as "super-clear water" by operators)

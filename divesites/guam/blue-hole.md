@@ -28,9 +28,9 @@ In 2004, an endemic species — the Guam Pencil dottyback (Lubbockichthys myersi
 ## Site Information
 
 - **Location**: Off Orote Peninsula, southwest of Apra Harbor, Guam (13.4400°N, 144.6190°E)
-- **Entry Type**: Boat dive only (no shore access; sheer coral cliff on shore side); depart from Cabras Marina
-- **Site Type**: Natural vertical shaft / cavern leading to open wall
-- **Difficulty Level**: Advanced (Advanced Open Water recommended; deep diver certification for full profile)
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
 - **Depth of shaft entry**: approximately 18 meters (60 feet)
 - **Depth of window exit**: approximately 38–40 meters (125–130 feet)
 - **Outer wall drops to**: 90 meters (300+ feet)

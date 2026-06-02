@@ -26,10 +26,10 @@ The Tumon Marine Preserve status has produced healthy, approachable marine life 
 ## Site Information
 
 - **Location**: Tumon Bay, Guam (north of the main hotel zone; gun emplacement visible on shore)
-- **Entry Type**: Shore entry (cable and pipe channel through reef flat)
-- **Site Type**: Coral reef (gently sloping)
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: approximately 20 meters (65 feet) before sandy plain
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–18 meters
 - **Water Temperature**: 28–29°C
 - **Current**: Generally mild inside the bay; outflowing currents possible during falling tides per Wikivoyage

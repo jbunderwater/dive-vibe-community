@@ -29,9 +29,9 @@ Note: The JSON previously listed depth as 25 meters and difficulty as Intermedia
 
 - **Location**: Agat Bay, southern Guam (several hundred meters offshore)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef mound surrounded by sandy flats
-- **Difficulty Level**: Beginner (Open Water certification sufficient)
-- **Maximum Depth**: approximately 18 meters (60 feet)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 18–23 meters (60–75 feet)
 - **Water Temperature**: 28–29°C
 - **Current**: Slight
