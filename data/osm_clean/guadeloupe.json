@@ -59,7 +59,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
+      "validated": false,
       "validation_source": "lesbaillantestortues.com,experience.transat.com",
       "last_qa_date": "2026-06-03",
       "description": "Sheltered pool between two islets with shallow water, rocky seabed, perfect for beginners and children. La Piscine listed by Les Baillantes Tortues as white sandy bottom training site."
@@ -178,7 +178,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
+      "validated": false,
       "validation_source": "anse-caraibe-plongee-guadeloupe.org,lesilesdeguadeloupe.com",
       "last_qa_date": "2026-06-03",
       "description": "Shore entry at Plage Caraïbe, Pointe-Noire. Dive club Anse Caraïbe Plongée operates from this beach (25+ years). Shallow, calm bay suitable for beginners including first-time try-dives from age 8. Maximum 12 divers per group. Operator also offers access to Cousteau Reserve, Sec Pâté, and Îlet Kahouanne near Deshaies. Note: only 2 sources found (operator site + Guadeloupe Tourism listing); cannot mark with 3+ independent sources."
@@ -243,7 +243,7 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
+      "validated": false,
       "validation_source": "gwadaplans.com,lesilesdeguadeloupe.com",
       "last_qa_date": "2026-06-03",
       "description": "Metal vessel grounded on shallow reef while attempting to enter Pointe-à-Pitre harbor. True vessel name unknown locally — called 'Épave de l'Îlet Fortune' or 'Épave de Goyave'. Partially visible near/at surface. Located northeast of Îlet Fortune off Goyave. Dive/snorkel accessible by boat or kayak. Note: only 2 sources confirm basic facts; vessel identity unresolved."
@@ -381,7 +381,7 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
+      "validated": false,
       "validation_source": "tribloo.com,lesbaillantestortues.com",
       "last_qa_date": "2026-06-03",
       "description": "Wall with tunnels and plateaus covered in corals and sponges. Depth 0-20m. Confirmed species: gorettes (French grunts), cardinal fish, angelfish, triggerfish. Rich in sponges and corals. Best November to end of August."
@@ -482,15 +482,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
+      "description": "Reef in Petit Cul-de-Sac Marin (nature reserve since 1987). Former îlet disappeared after 1928 hurricane, now shallow reef. Named after frigatebirds that nested there. Note: only 2 independent sources found; cannot meet 3-source threshold but core reef/ecological facts are confirmed.",
       "name": "Frégate-de-Haut",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
+      "validated": false,
       "validation_source": "fr.wikipedia.org,lesilesdeguadeloupe.com",
-      "last_qa_date": "2026-06-03",
-      "description": "Reef in Petit Cul-de-Sac Marin (nature reserve since 1987). Former îlet disappeared after 1928 hurricane, now shallow reef. Named after frigatebirds that nested there. Note: only 2 independent sources found; cannot meet 3-source threshold but core reef/ecological facts are confirmed."
+      "last_qa_date": "2026-06-03"
     }
   },
   {
@@ -509,7 +508,7 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
+      "validated": false,
       "validation_source": "fr.wikipedia.org,lesilesdeguadeloupe.com",
       "last_qa_date": "2026-06-03"
     }
@@ -593,7 +592,7 @@
       "seamark:wreck:category": "dangerous",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
+      "validated": false,
       "validation_source": "snorkeling-report.com",
       "last_qa_date": "2026-06-03",
       "description": "Small coastal vessel sunk during tropical storm 2006. Location: Anse Mire, Terre-de-Haut, Les Saintes. ~100m from beach, marked with two yellow cross buoys. Depth ~15m. Hull structurally deteriorated. Limited coral colonization. Abundant reef fish. Visible from surface; snorkel/freedive accessible. OSM category: 'dangerous' (structural state). Note: vessel identity, dimensions, and original name not found in published sources. Only 1 independent dive source found (snorkeling-report.com); cannot meet 3-source threshold."
