@@ -61,4 +61,4 @@ Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal
 - Often paired with Flamingo Bay or the Underwater Sculpture Park for a two-tank beginner morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [AquaViews Scuba - Grenada](https://www.scuba.com/blog/best-places-to-scuba-dive/grenada/). No site-specific sources found for "Happy Hill" distinct from regional Grenada southwest reef characteristics. Last updated 2026-05-24.*
+*The site name "Happy Hill" does not appear in primary Grenada dive operator or dive guide sources — searches return "Happy Valley" instead, which is a different confirmed site (a wall/drift dive with an Admiralty anchor). No site-specific sources found for "Happy Hill" as a distinct named dive site. This description is based on regional southwest Grenada shallow reef characteristics. Not validated. Last updated 2026-06-03.*
