@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Nuugaatsiaap Ikkannera
 
-Nuugaatsiaap Ikkannera is a reef dive site in Greenland, Arctic.
+Nuugaatsiaap Ikkannera is a rocky reef formation near the former settlement of Nuugaatsiaq in the Uummannaq Fjord area of northwestern Greenland.
 
 ## Overview
 
-Nuugaatsiaap Ikkannera is a shallow reef near the settlement of Nuugaatsiaq in northwestern Greenland, where the rocky seabed drops to 22 meters through cold, clear Arctic water. The site features kelp-covered boulders sheltering crabs, sea urchins, and Arctic fish species including polar cod and sculpin. The surrounding fjord system was reshaped by a major landslide-triggered tsunami in 2017, and the underwater topography reflects the dramatic geology of this remote Greenlandic coastline.
+This site is recorded in OpenStreetMap as a natural reef (reef:rock) near Nuugaatsiaq. The settlement of Nuugaatsiaq itself was evacuated on 17 June 2017 following a catastrophic landslide in Karrat Fjord that generated a megatsunami with a 9-metre run-up wave, killing four people and destroying eleven buildings. As of 2023, Nuugaatsiaq and the nearby settlement of Illorsuit remain abandoned due to the continuing risk of further landslides. The underwater topography in Karrat Fjord was significantly altered by the 45 million m³ of rock and debris that entered the water during the event.
+
+No diving operation has published a site description, confirmed depths, or marine life inventory for this specific location. The 22-metre depth figure is a placeholder from the OSM record. Visiting this area by boat requires awareness of the ongoing geological instability documented in Karrat Fjord.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Near former settlement of Nuugaatsiaq, Uummannaq Fjord, Northwest Greenland (settlement abandoned since 2017)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Nuugaatsiaq](https://en.wikipedia.org/wiki/Nuugaatsiaq) (2017 tsunami and village abandonment confirmed). No site-specific diving sources found. Last updated 2026-06-03.*

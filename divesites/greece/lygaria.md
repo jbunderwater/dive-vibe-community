@@ -13,19 +13,35 @@ addedBy: osm_import
 
 ## Lygaria
 
-Lygaria is a reef dive site in Greece, Europe.
+Lygaria is a reef and swim-through dive site wrapped around a small peninsula on Crete's north coast near Agia Pelagia, 0.8 nautical miles from the dive centre.
 
 ## Overview
 
-Lygaria reef wraps around a small peninsula on Crete's north coast near Agia Pelagia, offering a dive that descends in steps — 6 metres, 12 metres, 18 metres — to a maximum of 24 metres at the northwest corner, with a signature swim-through tunnel entered at 14 metres and exiting at 8 metres where moray eels, crabs, scorpionfish, and seasonal lobsters shelter in the rocky passage. Schools of damselfish and various sea bream work the upper reef, while groupers, anemones, nudibranchs, and octopus are found in the holes and crevices throughout; notably, three WWII bombs lie undisturbed at 11 metres just before the safety stop point. The accessible shore-based location and diverse marine life make Lygaria one of the most popular guided reef dives on Crete.
+The reef forms a series of stepped ledges at 6, 12, and 18 metres, with the deepest section reaching 24 metres at the northwest corner of the peninsula. At 14 metres, divers enter a swim-through tunnel that exits at 8 metres; the passage is wide enough for single-file passage and is accessible to divers with minimum experience. The tunnel hosts moray eels, crabs, scorpionfish, and — seasonally — lobsters.
+
+On the return to the boat, divers pass three WWII bombs lying undisturbed on the seabed at 11 metres, documented by the dive operator (Divers Club Crete). These are protected heritage objects; touching or removing them is prohibited.
+
+## Dive Profile
+
+- **Entry**: Boat (anchored at 6 m)
+- **Depth range**: 6–24 m
+- **Bottom**: Rocky reef with ledge steps at 6, 12, 18 m
+- **Swim-through**: Entry at 14 m, exit at 8 m
+- **Conditions**: Sheltered; typically calm
+- **Visibility**: 20 m+ typical for the area
+- **Best season**: April–October
+
+## Marine Life
+
+Species confirmed by Divers Club Crete at Lygaria: groupers, moray eels, anemones, nudibranchs, crabs, lobsters (seasonal), scorpionfish, octopus, small red coral colonies, damselfish, and various sea bream. Amberjacks have been observed in the open water sections.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Agia Pelagia, Heraklion, Crete, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef with swim-through
+- **Difficulty Level**: Beginner (OW certification; 18 m max for level 1; 24 m for level 2+)
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Divers Club Crete — Lygaria](https://www.diversclub-crete.gr/sites-lygaria/), [Scubahellas — Crete Agia Pelagia](https://www.scubahellas.com/crete-agia-pelagia/), [PADI — Diving in Agia Pelagia](https://www.padi.com/diving-in/greece/agia-pelagia/). Last updated 2026-06-03.*

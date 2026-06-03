@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Ikkanneq
 
-Ikkanneq is a reef dive site in Greenland, Arctic.
+Ikkanneq is a rocky reef formation in Disko Bay, western Greenland, recorded in OpenStreetMap with the alternate historical spelling Íkáneq.
 
 ## Overview
 
-Ikkanneq takes its name from the Greenlandic word for a shallow reef or underwater ledge, and sits in the waters near Ilulissat in Disko Bay, western Greenland. The rocky substrate supports trailing kelp forests, with nudibranchs, skeleton shrimp, scallops, and bristle worms inhabiting the algae-covered boulders down to 18 meters. Humpback and minke whales feed in the surrounding waters during summer, and divers may encounter harbour seals and large schools of polar cod on the reef.
+Ikkanneq (also spelled Íkáneq in older Greenlandic orthography, per a Kleinschmidt source) is a natural reef feature recorded in OpenStreetMap near Ilulissat in Disko Bay (approximately 68.8°N). The OSM tag reef:rock confirms this is a rocky formation rather than coral. The 18-metre depth is a placeholder from the OSM record.
+
+No dive operator or published diving guide has documented this specific site by name or provided verified depths, a confirmed marine life list, or a dive profile. Inshore diving in the Ilulissat and Disko Bay area — confirmed by dive guides for nearby sites — features kelp-covered boulders, anemones, and cold-water invertebrates in near-freezing water. Whether whale activity in the surrounding waters is encountered during a dive at this specific location has not been confirmed in any source.
+
+Diving anywhere in the Disko Bay area requires advanced cold-water experience, drysuits, and expedition-level logistics. There are no hyperbaric facilities in the region.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Disko Bay, near Ilulissat, West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for Disko Bay, West Greenland, informed by [Guide to Greenland](https://guidetogreenland.com/travel-blogs/erling-svendsen/diving-in-greenland/) (general Disko Bay diving conditions). No site-specific sources found for Ikkanneq. Last updated 2026-06-03.*

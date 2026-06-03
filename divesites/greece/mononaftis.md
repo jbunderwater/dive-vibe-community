@@ -13,19 +13,40 @@ addedBy: osm_import
 
 ## Mononaftis
 
-Mononaftis is a reef dive site in Greece, Europe.
+Mononaftis ("lonely sailor") is a large rock formation rising from the sea approximately 50 metres off the shore near Agia Pelagia, Crete, considered the largest dive site in the area.
 
 ## Overview
 
-Mononaftis, meaning "lonely sailor," is a massive rock formation rising from the sea near Agia Pelagia, Crete, and is considered the largest dive site on the island. The reef complex includes small canyons, underwater caves, and a coral garden spread across depths of 18 to 35 meters. Ancient Minoan amphoras are scattered across the seabed, and a 400-year-old anchor rests at 32 meters, surrounded by groupers, moray eels, octopus, scorpionfish, and schools of bream.
+Mononaftis is a rocky reef and cave complex that descends in steps from 18 metres to a maximum of 35 metres. The site accommodates both beginner-level divers (exploring to 18 m) and advanced divers who reach the deeper sections. The underwater terrain includes small canyons, large cavities, and rocky overhangs that shelter abundant marine life.
+
+Notable features documented by the local dive operator include:
+
+- **The Chimney** — a vertical rock formation divers can ascend through
+- **Pierced Rock** — a distinctive formation with holes through the reef structure
+- **An anchor** lying on the seabed in the bay, used as a navigation landmark
+
+A separate dive site nearby is the Amphora Cave (at 17 metres), which contains ancient amphoras and is operated as a shore dive from Mononaftis beach; this is a distinct site from the main Mononaftis boat dive.
+
+## Dive Profile
+
+- **Entry**: Boat
+- **Depth range**: 18–35 m
+- **Bottom**: Rocky reef, canyons, cavities
+- **Conditions**: Sheltered bay; typically calm with good visibility
+- **Visibility**: Up to 30 m in clear conditions
+- **Best season**: April–October
+
+## Marine Life
+
+Confirmed species at Mononaftis by the local dive operator (Divers Club Crete): groupers, octopus, moray eels, schools of salemas, banded bream, saddled bream, stingrays, sea rabbits (nudibranch/sea slugs), red scorpionfish, black scorpionfish, sponges, sea anemones, and large schools of barracuda.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Agia Pelagia, Heraklion, Crete, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (rocky reef with caves and canyons)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [Divers Club Crete — Mononaftis](https://www.diversclub-crete.gr/sites-mononaftis/), [Divers Club Crete — Big Anchor](https://www.diversclub-crete.gr/sites-anchor/), [PADI — Mononaftis dive site](https://www.padi.com/dive-site/greece/mononaftis/). Last updated 2026-06-03.*

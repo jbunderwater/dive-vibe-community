@@ -14,10 +14,11 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay area, Arctic rock formations"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. No site-specific sources found for this named rock formation near Aasiaat. OSM reef tag refers to a rocky/kelp formation, not coral reef. Depth 20m is placeholder. Cannot validate with 3+ independent sources."
     }
   },
   {
@@ -39,10 +40,11 @@
       "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
       "source:type": "BANK",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rocky bank"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. OSM source:type=BANK indicates this is a navigational/fishing bank, not a named dive site. No diving sources found. Sukkertoppen Banke is a geographic feature off Maniitsoq. Depth 18m is placeholder. Cannot validate with 3+ independent sources."
     }
   },
   {
@@ -61,10 +63,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland wreck"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. OSM way 1137623285 is tagged historic=wreck, seamark:type=wreck. No maritime records found for a vessel named Carl at 74.71N 18.26W. No vessel name, build date, tonnage, length, or sinking cause confirmed in any source. Cannot validate with 2+ independent sources as required for wrecks. Wreck identity unresolved."
     }
   },
   {
@@ -85,10 +88,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rock formation"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. OSM reef:rock tag confirms rock formation near Nuugaatsiaq. Wikipedia confirms Nuugaatsiaq village was evacuated June 2017 and remains abandoned (ongoing landslide risk). No diving sources found for this site. Depth 22m is placeholder. Cannot validate with 3+ independent sources."
     }
   },
   {
@@ -109,10 +113,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay rocky site"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. OSM reef:rock tag confirms rocky formation in Disko Bay area. No site-specific diving sources found. Depth 16m is placeholder. Cannot validate with 3+ independent sources."
     }
   },
   {
@@ -133,10 +138,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "North of Disko Bay, Arctic diving"
+      "validated": "false",
+      "validation_source": "",
+      "validation_date": "",
+      "last_qa_date": "2026-06-03",
+      "validation_note": "Re-audited 2026-06-03. OSM reef:rock tag confirms rocky formation north of Disko Bay. No site-specific diving sources found. Depth 18m is placeholder. Cannot validate with 3+ independent sources."
     }
   }
 ]

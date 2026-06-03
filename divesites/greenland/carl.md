@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Carl
 
-Carl is a historic wreck dive in Greenland, Arctic.
+Carl is an unidentified shipwreck in the waters of northeast Greenland, tagged in OpenStreetMap as a maritime hazard at approximately 74.7°N.
 
 ## Overview
 
-The Carl is a wreck dive in the extreme conditions of Greenlandic waters, resting at 40 meters in the Arctic region where year-round water temperatures hover between -1 and 8°C and a drysuit is not optional. Greenland's clear, cold Arctic water offers excellent visibility — frequently 15-25 meters — and the wreck has been colonized by the dense anemone beds, crabs, and kelp growth typical of high-latitude diving, with harbor and ringed seals occasionally investigating divers on the ascent. Access requires specialist cold-water diving experience and equipment; there are no decompression facilities in the Arctic, and emergency assistance can be several hours away.
+This wreck is recorded in OpenStreetMap (way 1137623285) with the tags `historic=wreck` and `seamark:type=wreck`, indicating it has been charted as a navigational hazard off the northeast coast of Greenland near Scoresby Sund. The vessel's name, build date, length, tonnage, and cause of sinking are unknown — no maritime records or independent sources confirming these details have been located. The 40-metre depth figure is an estimate based on the OSM record and should be treated as unverified.
+
+At this latitude (approximately 74°N), conditions are extreme year-round: water temperatures remain near or below 0°C, sea ice is present for much of the year, and emergency assistance may be many hours away. Diving this site would require specialist polar expedition support, full drysuits, and extensive cold-water experience. No organised dive operations to this specific wreck are known to exist.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Northeast Greenland, approximately 74.7°N 18.3°W
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on OpenStreetMap record (way 1137623285). No independent maritime or diving sources confirmed for this wreck. Vessel name, history, and dimensions are unverified. Last updated 2026-06-03.*

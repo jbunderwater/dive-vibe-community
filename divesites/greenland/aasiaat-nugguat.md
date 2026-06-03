@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Aasiaat Nugguat
 
-Aasiaat Nugguat is a reef dive site in Greenland, Arctic.
+Aasiaat Nugguat is a rocky reef formation in the waters near Aasiaat, a town on Greenland's west coast at the southern edge of Disko Bay.
 
 ## Overview
 
-Aasiaat Nugguat is a reef site near the town of Aasiaat, a prime whale-watching hub just south of Disko Bay where humpback, minke, and fin whales congregate each summer to feed on krill and small fish. The underwater terrain features rocky outcrops and trailing kelp forests descending to 20 meters, with red sea cucumbers, scallops, crabs, and Arctic fish species inhabiting the cold, nutrient-rich water. Visibility can be excellent during calm conditions, and the site offers a rare chance to dive in waters actively used as a feeding ground by large cetaceans.
+Aasiaat Nugguat is recorded in OpenStreetMap as a natural reef feature near Aasiaat (approximately 68.7°N), a hub town for the wider Disko Bay region. The site sits in cold Arctic waters where temperatures range from approximately -1°C in winter to 6°C in summer. Typical Greenlandic inshore diving in this region features rocky and boulder substrates draped in kelp, with cold-water invertebrates common throughout the area. No dive operator has published a site description or confirmed depths for this specific named location.
+
+The 20-metre depth figure is a placeholder from the OSM record. Diving anywhere in Disko Bay requires advanced cold-water experience and a drysuit; there are no hyperbaric facilities in the region and emergency response times are long.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Near Aasiaat, southern Disko Bay, West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for Disko Bay, West Greenland. No site-specific sources found for Aasiaat Nugguat. Last updated 2026-06-03.*
