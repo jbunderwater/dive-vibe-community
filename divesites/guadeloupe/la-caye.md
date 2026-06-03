@@ -32,7 +32,7 @@ Reaching 25 meters at its deepest point, La Caye features a sloping reef that tr
 
 ## Marine Life
 
-The slightly more open-water character of La Caye attracts larger pelagic species alongside reef residents. Caribbean reef sharks occasionally patrol the deeper sections, and eagle rays are sighted gliding over the sandy terraces. Hawksbill and green turtles are present throughout the dive, and large parrotfish are abundant on the reef slope. The sandy bottom at 20–25 meters supports sand-dwelling species including stingrays and garden eels.
+The slightly more open-water character of La Caye attracts reef residents and, conditions permitting, larger species. Hawksbill turtles are present throughout the dive, and large parrotfish are abundant on the reef slope. Note: No site-specific published dive sources were located for La Caye's marine life. Caribbean reef sharks, eagle rays, stingrays, and garden eels are documented in the broader Malendure/Cousteau Reserve area but are not confirmed specifically at this site in available sources.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current is a real consideration at this site — ask your operator about conditi
 The deeper sandy terrace zone offers opportunities for wide-angle shots of eagle rays and reef sharks in open water. Reef slope compositions at 12–18 meters with ambient light are particularly effective in the dry season.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*No site-specific published dive sources were found for La Caye. Description based on regional Malendure diving characteristics. Last updated 2026-06-03.*

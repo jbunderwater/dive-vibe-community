@@ -13,48 +13,50 @@ addedBy: osm_import
 
 # Fish Eye Marine Park
 
-A marine preserve in Piti Bay featuring Guam's only underwater observatory, over 200 fish species, and 80 coral species. Walk across a sea bridge and descend to a 10-meter-deep viewing chamber, or dive and snorkel the surrounding protected reef.
+A marine tourism facility on the Piti Bay Marine Preserve, best known for its underwater observatory — a dry viewing chamber accessible via a sea-bridge walkway. The surrounding preserve protects over 200 fish species and 80 coral species. Guided snorkeling tours and Seawalker tours are offered; the site is also used for entry-level scuba instruction by some local dive operators.
 
 ## Overview
 
-Fish Eye Marine Park is located in Piti Bay, Guam's most famous marine preserve. The park's centerpiece is the only underwater observatory in Micronesia -- a 10-meter-deep chamber accessed by walking across a sea bridge and descending a stairway. From the observatory, visitors can view the reef without getting wet, but divers and snorkelers can explore the same reef from the outside.
+Fish Eye Marine Park occupies one of the largest "bomb holes" in Piti Bay — natural percolation pits formed where fresh water filters through the shallow lagoon bottom at approximately 7–9 meters (25–30 feet). The park's centerpiece is an underwater observatory: visitors walk a pier and stairway to reach an air-filled viewing chamber approximately 10 meters below the surface, observing the reef through panoramic windows without entering the water.
 
-The Piti Bay Marine Preserve protects over 200 species of fish and approximately 80 species of coral, making this one of the most biodiverse shallow reef environments on Guam. The protected status has allowed marine life to flourish, and the easy access makes it popular for introductory dives and snorkeling. A resident population of wild dolphins is found offshore.
+The Piti Bay Marine Preserve surrounding the park is protected habitat supporting over 200 fish species and 80 coral species, with dense populations of hard and soft coral in the bomb holes. The calm, shallow, protected bay makes this an ideal site for beginners, dive instruction classes, and snorkeling.
+
+Note: Fish Eye Marine Park's primary offerings are the underwater observatory, guided snorkeling tours, Seawalker tours, and dolphin-watching cruises. The facility itself does not operate scuba diving programs. Local dive operators may use the adjacent protected waters for confined water instruction dives. For dedicated scuba diving in the Piti Bay area, the nearby Piti Bomb Holes are the recognized dive site.
 
 ## Site Information
 
-- **Location**: Piti Bay Marine Preserve, Guam
+- **Location**: Piti Bay Marine Preserve, Piti, Guam (818 North Marine Corps Drive)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-20 meters
-- **Water Temperature**: 28-29 degrees C
+- **Typical Visibility**: 10–20 meters
+- **Water Temperature**: 28–29 degrees C
 - **Current**: Generally calm inside the bay
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Over 200 fish species and 80 coral species inhabit the protected bay. The marine preserve status means fish are abundant and relatively unafraid of divers. Colourful reef fish, including butterflyfish, parrotfish, damselfish, and wrasses, are present in large numbers. The coral formations are well-developed within the protected zone.
+The Piti Bay Marine Preserve supports over 200 fish species and 80 coral species. The bomb-hole formations contain dense populations of hard and soft coral supporting fish and invertebrate communities. Occasional visitors include blacktip sharks, barracuda, and sea turtles. Colourful reef fish — butterflyfish, parrotfish, damselfish, wrasses — are abundant. The protected marine preserve status has allowed fish populations to become dense and habituated to human presence.
 
 ## Dive Profile
 
-Enter from the sea bridge area and explore the surrounding reef at depths of 3-10 meters. The shallow depth allows extended bottom time. The reef extends around the observatory structure, with the best coral and fish life within the preserved zone. The calm bay conditions make this ideal for relaxed exploration and underwater photography.
+The shallow, calm bay allows relaxed exploration at depths of 3–10 meters. The bomb-hole formations are the most interesting topographic features — natural circular depressions with dense coral on the walls. The shallow depth allows very extended bottom times with no decompression concern.
 
 ## Entry and Exit
 
-Access via the sea bridge walkway from the Fish Eye Marine Park visitor centre. Walk across the bridge and enter the water near the observatory. Exit at the same location.
+Shore entry via the sea-bridge area or nearby beach access. The bay is fully enclosed with calm conditions. Exit at the entry point.
 
 ## Tips and Recommendations
 
-- The protected marine preserve means fish populations are denser than at unprotected sites
-- Excellent for underwater photography beginners -- calm water, abundant subjects, shallow depth
-- Combine the dive with a visit to the underwater observatory for a different perspective on the same reef
-- Dolphin watching cruises are also offered from the park
+- Visit the underwater observatory before or after diving to see the same reef from two perspectives
+- The guided snorkeling tours offered by the park are an alternative to diving for less experienced visitors
+- Combine with a dolphin-watching cruise for a full day of marine activities
+- The Piti Bomb Holes (adjacent to the park) offer more defined topography for experienced divers who want a richer dive
 
 ## Safety Considerations
 
-An extremely gentle dive site. Calm bay conditions and shallow depth make this one of the safest dive locations on Guam. Maintain awareness of snorkelers and observatory visitors sharing the water.
+An extremely gentle environment. Calm, shallow, warm water with no current. Suitable for first dives under instruction. The main hazard is boat traffic from tour operations — stay within the designated swimming area.
 
 ---
-*Sources: [Fish Eye Marine Park](https://fisheyeguamtours.com/), [Visit Guam](https://www.visitguam.com/listing/fish-eye-marine-park/116/). Last updated 2026-04-08.*
+*Sources: [Fish Eye Marine Park](https://fisheyeguamtours.com/), [Wikipedia — Piti Bomb Holes Marine Preserve](https://en.wikipedia.org/wiki/Piti_Bomb_Holes_Marine_Preserve), [Stripes Guam — Best Dives on Guam](https://guam.stripes.com/travel/best-dives-on-guam.html). Last updated 2026-06-03.*

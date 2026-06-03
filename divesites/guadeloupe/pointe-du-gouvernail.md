@@ -32,7 +32,7 @@ Pointe du Gouvernail ("Rudder Point") is a wall dive site located off the main i
 
 ## Marine Life
 
-Les Saintes has a reputation for clean, healthy reef systems with lower diver pressure than the main Guadeloupe sites near Bouillante. Pointe du Gouvernail hosts impressive large animal encounters. Caribbean reef sharks cruise the deeper section of the wall. Hawksbill and green turtles are very commonly sighted. Eagle rays appear seasonally. The wall face is covered with sea fans, encrusting sponges, and wire corals. Barracuda school in the open water above the point. Large groupers and snapper hold station near the wall base. French and grey angelfish are territorial residents of the shallow reef section.
+Confirmed species documented at Pointe du Gouvernail by dive sources include: sea turtles (two documented in a single dive), barracudas, a stingray, a boxfish, angelfish, cardinalfish, parrots, triggerfish, moray eels, and surgeonfish. The wall face is covered with sea fans and gorgonians. Large groupers and snappers hold station near the wall base. Note: Caribbean reef sharks and eagle rays are mentioned in some regional Les Saintes dive descriptions but are not specifically confirmed for this site in available sources.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Current at the promontory tip requires experience managing drift. Do not attempt
 The exceptional visibility of Les Saintes makes Pointe du Gouvernail an outstanding photography site. Wide-angle shots along the wall face with the promontory topography visible in the background. Reef shark encounters in clear, blue-green water are dramatic subjects in this visibility. The wall face's sea fan coverage makes compelling foreground framing for wide-angle compositions.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Yacht Paradise GP — Plongée aux Saintes](https://www.yacht-paradise.gp/portfolio-view/gp-diving-saintes/), [Plongeur.com — Les Saintes: belles plongées accessibles à tous](https://www.plongeur.com/les-saintes-belles-plongees-accessibles). Last updated 2026-06-03.*

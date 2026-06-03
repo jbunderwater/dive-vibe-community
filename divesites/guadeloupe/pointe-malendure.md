@@ -32,7 +32,7 @@ Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terr
 
 ## Marine Life
 
-The seagrass zone near the entry hosts hawksbill turtles feeding on vegetation and occasionally resting on the sandy bottom. As depth increases, grey and French angelfish (known in French as "anges royaux") become prominent, often swimming in pairs around large coral heads. The deeper reef platform supports barracuda, snappers, and grunts in larger numbers. Eagle rays and the occasional Caribbean reef shark are seen in the open water above the deeper platform.
+The seagrass zone near the entry hosts hawksbill and green turtles feeding on vegetation and occasionally resting on the sandy bottom. As depth increases, grey and French angelfish (known in French as "anges royaux") become prominent, often swimming in pairs around large coral heads. Barracudas, snappers, and lionfish are documented at this site. Note: eagle rays and Caribbean reef sharks appear in some regional Malendure descriptions; no site-specific confirmation of these species at Pointe Malendure shore entry has been located in published dive sources.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Keep the guide rope in sight throughout the dive — without it, navigation in o
 The seagrass zone provides an unusual photographic environment for a Caribbean reef dive — wide-angle turtle portraits in the seagrass are distinctive. The deeper reef platforms offer classic reef compositions. Natural light is excellent throughout the depth range, particularly in morning hours.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [DiveAdvisor — La Pointe Malendure](https://diveadvisor.com/guadeloupe/la-pointe-malendure), [Divein.com — 15 Best Dive Sites in Guadeloupe](https://www.divein.com/diving/destination/diving-in-guadeloupe/). Note: the description of eagle rays and Caribbean reef sharks at Pointe Malendure reflects regional Malendure fauna cited in dive sources; DiveAdvisor specifically confirms juvenile and adult "royal angels" (French angelfish) and hawksbill/green turtles for this shore site. Last updated 2026-06-03.*

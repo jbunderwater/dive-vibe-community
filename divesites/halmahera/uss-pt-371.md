@@ -29,11 +29,11 @@ USS PT-371 was an American patrol torpedo boat lost during World War II. Accordi
 
 ## Marine Life
 
-Shallow WWII wrecks in North Halmahera are typically well-encrusted with coral after 80+ years underwater. The wreck structure and surrounding area are expected to host the reef fish community typical of North Halmahera: fusiliers, reef sharks, nudibranchs, and encrusting invertebrates. The broader Morotai/North Halmahera area is also known for occasional manta ray sightings.
+No site-specific marine life reports have been located for the USS PT-371 wreck. Shallow WWII wrecks in North Halmahera are generally well-encrusted with coral after 80+ years underwater. The region's reef fish community — fusiliers, wrasse, grouper, and encrusting invertebrates — would be expected on a structure at this depth, but no species should be attributed to this specific wreck without confirmed diver reports.
 
 ## Dive Profile
 
-With a maximum depth of 15 metres, PT-371 is a relatively shallow wreck dive accessible to divers of intermediate experience. The patrol torpedo boat was a small, fast vessel (approximately 24 metres in length) — the wreck structure provides a compact but historically significant dive. Visibility in the Galela area is generally 15–25 metres. Currents are typically moderate.
+With a maximum depth of 15 metres, PT-371 is a relatively shallow wreck dive accessible to divers of intermediate experience. The patrol torpedo boat was a small, fast vessel — 70 feet (approximately 21 metres) in length with a 33-ton displacement — so the wreck footprint is compact but historically significant. Visibility in the Galela area is generally 15–25 metres. Currents are typically moderate.
 
 ## Entry and Exit
 
@@ -48,4 +48,4 @@ The 15-metre maximum depth allows extended bottom time for wreck exploration. Co
 North Halmahera is remote. The nearest recompression chamber is in Manado. The wreck is shallow and the site generally benign, but standard wreck diving caution applies — maintain external diving positions and do not enter enclosed spaces without proper wreck penetration training and equipment. Water temperature is 27–30°C. SMB should be carried on all boat dives in this area.
 
 ---
-*Sources: [Pacific Wrecks – Halmahera Island](https://pacificwrecks.com/location/indonesia_halmahera.html), [US Navy Motor Torpedo Boat Operational Losses](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u-s-navy-motor-torpedo-boat-operational-losses.html), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-05-17.*
+*Sources: [Pacific Wrecks – Halmahera Island](https://pacificwrecks.com/location/indonesia_halmahera.html), [US Navy Motor Torpedo Boat Operational Losses – NavSource](http://www.navsource.org/archives/12/05371.htm), [Canadian Power Boat Company – Wikipedia](https://en.wikipedia.org/wiki/Canadian_Power_Boat_Company), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-03.*

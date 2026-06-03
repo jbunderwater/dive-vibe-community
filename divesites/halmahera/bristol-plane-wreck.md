@@ -30,7 +30,7 @@ The Bristol Plane Wreck site features WWII-era Bristol aircraft that came down n
 
 ## Marine Life
 
-WWII wrecks in North Halmahera are typically encrusted with decades of coral growth. Fusiliers, reef sharks, turtles, and Napoleon wrasse have been documented in the area around the Bristol wreck. The sloping reef habitat adjacent to the aircraft supports a broader reef fish community, while the wreck structure itself provides substrate for soft corals and sponges.
+No site-specific marine life reports have been independently confirmed for the Bristol Plane Wreck. WWII wrecks in the Morotai area are generally colonised with decades of coral and sponge growth; the reef community on and around the sloping site is characteristic of North Halmahera reefs. Species attributed to this specific wreck require confirmation from diver accounts of this site in particular.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ The 50-metre maximum depth puts significant sections of this wreck beyond recrea
 This is strictly an advanced dive site due to depth. No-decompression limits are quickly reached at 40–50 metres. Only advanced certified divers with experience of deep wreck diving should attempt the deeper sections. The site is remote — the nearest recompression chamber is in Manado, a significant distance from Morotai. Strong currents can occur in the North Halmahera area. An SMB should always be carried. Wreck penetration (entering enclosed sections of aircraft) requires proper training and equipment.
 
 ---
-*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Morotai Indonesia Tourism – Gotalamo Village](https://www.morotai.indonesia-tourism.com/gotalamo_village.html), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Bristol Beaufort – Wikipedia](https://en.wikipedia.org/wiki/Bristol_Beaufort), [Pacific Wrecks – Bristol / DAP Beaufort Technical Information](https://pacificwrecks.com/aircraft/beaufort/tech.html). Last updated 2026-06-03.*

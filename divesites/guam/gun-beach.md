@@ -13,49 +13,52 @@ addedBy: osm_import
 
 # Gun Beach
 
-Often called the best shore dive on Guam -- the only dive site in Tumon Bay, the main resort area. Named for a WWII gun emplacement on shore. Shore entry following cables through the reef flat leads to a sloping reef with candlestick corals, turtles, rays, and octopus within the Tumon Marine Preserve.
+The only scuba dive site in Tumon Bay, Guam's main resort district, and often described as the best shore dive on the island. Named for a WWII gun emplacement still visible on the shoreline. Entry follows a cable/pipe channel through the reef flat into a sloping reef covered in candlestick corals, with regular green turtle sightings, rays, octopus, and large wrasses inside the Tumon Marine Preserve.
 
 ## Overview
 
-Gun Beach is the only scuba dive site in Tumon Bay, Guam's main resort and tourism district. Named after a World War II gun emplacement that still sits on the shoreline, the site is frequently described as the best shore dive on Guam due to its combination of easy access, marine preserve protection, and diverse marine life.
+Gun Beach is the sole dive site in Tumon Bay and occupies a particularly convenient position for visitors staying in Guam's hotel strip — the entry point is a short walk from the resort area. Its reputation as the best shore dive on Guam rests on a combination of easy access, healthy marine preserve status, and reliable wildlife encounters.
 
-Entry follows cables and pipe channels from the beach through the shallow reef flat -- about 30 feet of walking from the car park to knee-deep water. Once past the reef line, a sloping reef extends outward, covered in distinctive candlestick corals that gradually deepen from 5 meters to around 20 meters before transitioning to a sandy plain. The Tumon Marine Preserve status means fish and turtle populations are healthy and habituated to divers.
+The shoreline WWII gun emplacement that gives the site its name is visible before you even enter the water. Entry follows a cable and pipe channel laid through the shallow reef flat — this is the designated safe passage and must be followed to avoid damaging the reef and injuring your feet on the sharp coral. Once past the reef line, a sloping reef begins at around 5 meters and descends toward 20 meters before transitioning to a sandy bottom. The characteristic candlestick corals give the reef a distinctive appearance. The Tumon Marine Preserve status means fishing is prohibited and marine life has recovered to healthy levels.
+
+Multiple sources confirm green sea turtles as a frequent and reliable encounter. Manta rays have been reported in the area. Octopus are present in rocky crevices for attentive searchers. Large wrasses and parrotfish inhabit the reef in good numbers.
 
 ## Site Information
 
-- **Location**: Tumon Bay, Guam (main resort area)
+- **Location**: Tumon Bay, Guam (main resort area, North Tumon)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-18 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Generally mild inside the bay
+- **Typical Depth Range**: 5–20 meters
+- **Typical Visibility**: 15–18 meters
+- **Water Temperature**: 28–29 degrees C
+- **Current**: Generally mild inside the protected bay
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Green sea turtles are regularly encountered and are a major draw. Rays rest on the sandy areas between reef sections. Octopus hide in rocky crevices and can be spotted by observant divers. Colourful schools of reef fish inhabit the candlestick coral formations. The protected preserve status supports healthy marine populations.
+Green sea turtles are a defining encounter — regularly seen throughout the reef and well habituated to divers. Manta rays have been reported in the area. Octopus shelter in rocky crevices throughout the reef. Large wrasses and parrotfish patrol the candlestick coral formations. Abundant schooling reef fish inhabit the protected preserve. The Tumon Marine Preserve protects these species from fishing pressure.
 
 ## Dive Profile
 
-Follow the cable/pipe channel from shore through the reef flat to reach deeper water. Once outside the reef line, head left (toward the hotels) for the best diving. The candlestick corals create a beautiful landscape that slopes gradually from 5 meters to around 20 meters. Turtles can be encountered throughout the depth range. Explore the reef edge and sandy areas for rays and octopus before returning along the reef to the entry point.
+Gear up at the car park (about 9 meters / 30 feet from the water). Enter via the cable/pipe channel through the reef flat — follow it carefully to avoid the sharp coral on either side. Once past the reef line, head toward the hotel area (left when facing the water) for the best candlestick coral formations. The reef slopes from around 5 meters at the reef edge to approximately 20 meters before becoming sandy. Turtles can be encountered at all depths. Explore the reef edge and sandy margins for octopus and resting rays. Return along the reef and follow the cable channel back to shore.
 
 ## Entry and Exit
 
-Gear up at your car, walk approximately 30 feet to the water, and follow the cable/pipe channel through the reef flat. This provides a safe passage through the shallow reef to the dive site beyond. Exit the same way, following the cables back through the reef flat.
+Shore entry only. Follow the laid cable and pipe channel from shore through the reef flat — do not attempt to cross the reef flat off the marked channel. The walk from the car park to water entry is short. Exit via the same cable channel. Boat traffic in the bay is possible — stay aware during the swim back.
 
 ## Tips and Recommendations
 
-- Follow the pipes/cables out through the reef flat -- this is the safe entry route past the shallow reef
-- Head left toward the hotel area for the best candlestick coral formations
-- The turtles here are accustomed to divers and often allow close approach
-- An excellent night dive site -- octopus and other nocturnal species are more active after dark
-- Visit the WWII gun emplacement on the beach before or after your dive
+- Follow the cable/pipe channel exactly — the reef flat on either side is sharp and ecologically sensitive
+- Head left (toward the hotel area) from the channel exit for the best coral formations and wildlife
+- Turtles are the signature encounter — they are accustomed to divers and often rest on the reef
+- An excellent night dive: octopus are more active after dark and the site is easy to navigate
+- Inspect the WWII gun emplacement on the beach before or after your dive
 
 ## Safety Considerations
 
-Follow the cable channel for safe entry and exit through the reef flat. The reef flat is shallow with sharp coral -- do not attempt to cross it away from the marked channel. Currents are generally mild inside the bay. Boat traffic is possible -- stay aware of surface activity.
+Follow the cable channel for safe entry and exit — the reef flat is shallow with sharp coral if you stray off the route. Currents are generally mild inside the bay. Boat traffic is possible within Tumon Bay — maintain surface awareness during the swim back to shore. Respect the marine preserve: no collecting, no feeding wildlife.
 
 ---
-*Sources: [The Guam Guide](https://theguamguide.com/12-best-dives-on-guam-2), [SSI - Gun Beach](https://www.divessi.com/en/mydiveguide/divesite/gun-beach-guam-309153), [DiveBuddy.com](http://www.divebuddy.com/divesite/5672/gun-beach-guam/). Last updated 2026-04-08.*
+*Sources: [MDA Guam — Gun Beach](https://www.mdaguam.com/destination/gun-beach/), [Guam Dive Guide — Gun Beach](https://www.guamdiveguide.com/all-dive-sites/northern-sites/gun-beach/), [SSI Dive Guide — Gun Beach Guam](https://www.divessi.com/en/mydiveguide/divesite/gun-beach-guam-309153), [The Guam Guide](https://theguamguide.com/12-best-dives-on-guam-2). Last updated 2026-06-03.*

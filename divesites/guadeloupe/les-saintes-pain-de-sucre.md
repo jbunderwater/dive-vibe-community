@@ -32,7 +32,7 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 ## Marine Life
 
-Sea turtles are abundant throughout the bay and extremely relaxed around divers. Nurse sharks rest under coral overhangs at the base of the reef. French angelfish, grey angelfish, and large parrotfish patrol the reef slope. Schools of yellowtail snappers and grunts gather around coral structures. Spotted eagle rays visit the deeper sandy sections, and Caribbean reef sharks occasionally appear in the blue water above the reef.
+Sea turtles are frequently encountered in the bay. French angelfish, grey angelfish, and large parrotfish patrol the reef slope. Schools of yellowtail snappers and grunts gather around coral structures. Note: No site-specific published dive sources were located for Pain de Sucre's marine life. Nurse sharks, spotted eagle rays, and Caribbean reef sharks are documented in the broader Les Saintes dive area but are not confirmed specifically at this site in available sources.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current around the headlands flanking the bay can be strong — stay within the 
 Pain de Sucre offers some of the best ambient-light turtle photography in Guadeloupe, with clear water and relaxed animals that allow close approaches. Wide-angle reef shots looking up toward the sugarloaf silhouette above the surface create dramatic above-and-below split-level images. The visibility and depth make compact cameras and GoPros highly effective.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*No site-specific published dive sources were found for Pain de Sucre as a named dive site distinct from the broader Les Saintes area. Description based on regional Les Saintes diving characteristics. Last updated 2026-06-03.*

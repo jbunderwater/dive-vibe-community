@@ -32,7 +32,7 @@ Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre an
 
 ## Marine Life
 
-The protected status of the reserve has allowed fish populations to recover and thrive beyond what most Caribbean dive sites can offer. Large hawksbill and green sea turtles are essentially guaranteed encounters. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move in loose formations over the reef crest. Nurse sharks rest under coral ledges, and spotted eagle rays cruise the sandy margins. The reserve's healthy coral also supports exceptional invertebrate diversity, including spiny lobsters, flamingo tongues, banded coral shrimp, and arrow crabs.
+The protected status of the reserve has allowed fish populations to recover and thrive. Hawksbill and green sea turtles are frequently encountered. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move over the reef crest. The reserve's healthy coral supports invertebrate diversity including spiny lobsters, flamingo tongues, and banded coral shrimp. Note: regional sources mention nurse sharks and spotted eagle rays as present in the broader Cousteau Reserve area; no site-specific confirmation of these species at this particular entry point has been located in published dive guides.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Boat traffic in the Malendure channel is significant — always surface with an 
 The Cousteau Reserve is consistently rated among the French Caribbean's top underwater photography locations. The fish density, clear water, and shallow depth create ideal ambient-light conditions for wide-angle reef shots. Turtle encounters are close enough for natural-light portraits. Macro subjects are numerous on coral heads and sponge surfaces.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Bucketlist Bri — Diving the Cousteau Reserve, Guadeloupe](https://bucketlistbri.com/diving-cousteau-reserve-guadeloupe/), [Tribloo — Guadeloupe Dive Sites](https://tribloo.com/en/destination/2/diving/guadeloupe.html), [PADI — Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/). Last updated 2026-06-03.*

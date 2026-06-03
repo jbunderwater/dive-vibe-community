@@ -3,7 +3,7 @@ name: Hap's Reef
 lat: 13.38
 lng: 144.635
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,48 +13,52 @@ addedBy: osm_import
 
 # Hap's Reef
 
-Long renowned as the favourite reef of Guam fish watchers. A well-developed coral mound in Agat Bay at 10-15 meters, surrounded by sandy valleys. Teeming with Micronesian fish species -- butterflyfish, soldierfish, trumpetfish, squirrelfish, pufferfish, and lionfish. A popular second dive after Blue Hole.
+A well-developed coral mound in Agat Bay rising from sandy flats, regarded as one of Guam's premier fish-watching sites. Depth ranges 9–18 meters (30–60 feet) with excellent visibility of 18–23 meters (60–75 feet). Anemones, lionfish, octopus, pufferfish, and colourful butterflyfish are consistently reported. A popular and relaxed second dive after the deeper Blue Hole.
 
 ## Overview
 
-Hap's Reef sits in Agat Bay, a well-developed coral mound rising from flat sandy terrain in approximately 10-15 meters of water. The reef is several hundred yards offshore and is accessed by boat. It has long been considered the favourite reef on Guam among fish-watching enthusiasts due to its exceptional variety and density of small reef fish species.
+Hap's Reef is an upraised coral mound in Agat Bay, rising from surrounding sand flats at depths of roughly 12–18 meters (40–60 feet). The reef crest comes to within approximately 9 meters (30 feet) of the surface. The mound structure creates a self-contained dive — the best marine life is concentrated on and immediately around the coral formation rather than spread across a wide area, making it ideal for systematic exploration and photography.
 
-The relatively shallow depth and slight currents make it an ideal site for less experienced divers, while the abundance of photogenic subjects keeps experienced underwater photographers engaged. Hap's Reef is frequently dived as a second dive of the day after the deeper Blue Hole dive nearby, providing a relaxed contrast to the adrenaline of the wall dive.
+The site has a long-standing reputation as Guam's best fish-watching reef. Its combination of excellent visibility (often 18–23 meters / 60–75 feet), diverse coral growth, and a wide variety of small reef species makes it a favourite for underwater photography. Because it is shallower than the nearby Blue Hole or the Apra Harbor wrecks, it functions as an excellent relaxed second dive that allows divers to extend their bottom time comfortably.
+
+The site is suitable for divers of all experience levels despite its Intermediate classification — the gentle depth and typically mild conditions are manageable by Open Water certified divers, but boat-only access earns the intermediate rating.
 
 ## Site Information
 
-- **Location**: Agat Bay, Guam
+- **Location**: Agat Bay, Guam (southern Guam, boat only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Slight
+- **Maximum Depth**: 18 meters
+- **Reef Crest**: approximately 9 meters (30 feet)
+- **Typical Visibility**: 18–23 meters (60–75 feet)
+- **Water Temperature**: 28–29 degrees C
+- **Current**: Light
 - **Best Time**: Year-round
 
 ## Marine Life
 
-This is Guam's premier fish-watching reef. Micronesian fish species are present in exceptional variety: butterflyfish in multiple species, soldierfish, trumpetfish, squirrelfish, pufferfish, lionfish, and brightly coloured wrasses. Almost all small reef fish species found on Guam can be seen here on a single dive. The coral mound structure provides habitat for the full range of reef-dwelling species.
+Multiple sources confirm anemones, lionfish, octopus, and pufferfish as characteristic species at Hap's Reef. Brightly coloured butterflyfish are particularly abundant and photogenic. The reef also hosts wrasses, damselfish, and a wide variety of small reef fish typical of Guam's coral reefs. Sand-dwelling species may be encountered in the sandy valleys surrounding the mound base.
 
 ## Dive Profile
 
-Descend to the coral mound at approximately 10-15 meters. Circle the mound, exploring the coral formations and the sandy valleys surrounding it. The fish life is concentrated on and around the mound structure, so there is no need to swim far -- the best strategy is slow, careful observation. The shallow depth allows generous bottom time for thorough fish-watching and photography.
+Descend from the boat to the coral mound, reaching the crest at approximately 9 meters and the sandy base at 12–18 meters. Circle the mound systematically — there is no need to swim far from the structure; most marine life is concentrated here. The shallow maximum depth allows generous bottom time for thorough observation and photography. Explore the transition zones between coral and sand at the mound's base for octopus and other sand-dwelling species.
 
 ## Entry and Exit
 
-Access by dive boat from local operators. The reef is several hundred yards offshore in Agat Bay. Entry by giant stride.
+Boat dive from local Agat Bay or Apra Harbor operators. Giant stride entry. The reef is several hundred metres offshore in Agat Bay.
 
 ## Tips and Recommendations
 
-- Bring a macro lens -- this is one of the best fish photography sites on Guam
-- Take your time circling the mound; almost every species of small reef fish on Guam is present
-- An excellent second dive after Blue Hole -- the shallow depth helps off-gas after the deep wall dive
-- The sandy valleys surrounding the mound sometimes reveal sand-dwelling species
+- Slow, patient observation pays off — Hap's Reef rewards careful fish watchers more than active swimmers
+- Anemones with resident clownfish and cleaner shrimp are reliable subjects for close-up photography
+- The sandy margins around the mound base are worth searching for octopus
+- An excellent second dive after Blue Hole — shallower depth aids off-gassing after the deep wall dive
+- Lionfish are present — observe but do not touch
 
 ## Safety Considerations
 
-A relatively easy dive site with minimal hazards. Currents are slight. The shallow depth keeps the dive well within recreational limits. Lionfish are present -- do not touch.
+A gentle dive site. Light currents and shallow maximum depth keep conditions manageable. The primary consideration is boat access — coordinate with the operator for safe entry and exit. Lionfish are present; treat them as hazardous and maintain distance.
 
 ---
-*Sources: [Guam Dive Guide - Hap's Reef](https://www.guamdiveguide.com/all-dive-sites/southern-sites/haps-reef/), [MDA Guam](https://www.mdaguam.com/destination/haps-reef/), [Asia Dive Site](https://www.asiadivesite.com/micronesia-dive-sites/guam/haps-reef.html). Last updated 2026-04-08.*
+*Sources: [Guam Dive Guide — Hap's Reef](https://www.guamdiveguide.com/all-dive-sites/southern-sites/haps-reef/), [MDA Guam — Hap's Reef](https://www.mdaguam.com/destination/haps-reef/), [Asia Dive Site — Hap's Reef](https://www.asiadivesite.com/micronesia-dive-sites/guam/haps-reef.html). Last updated 2026-06-03.*

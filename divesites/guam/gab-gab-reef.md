@@ -13,48 +13,52 @@ addedBy: osm_import
 
 # Gab Gab Reef
 
-The most popular reef dive inside Apra Harbor, off Gab Gab Beach on the Naval Reserve. An underwater mini-mountain of cabbage leaf corals with giant trevally, batfish, and a tourist submarine operating in the area. Visibility 10-15 meters in warm 29-degree water.
+A popular shore dive off Gab Gab Beach inside Apra Harbor on Naval Base Guam. Access requires a valid military ID or a sponsored visitor pass. The sloping coral reef runs from 5 to 27 meters (15–90 feet), with high turtle density, large resident sea anemones with clownfish, and calm, current-free harbor conditions. Known as Guam's unofficial "home reef."
 
 ## Overview
 
-Gab Gab Reef is the most popular reef dive site inside Apra Harbor, located off Gab Gab Beach within the Naval Reserve area. The reef features an underwater formation resembling a mini-mountain, covered in distinctive cabbage leaf corals (Turbinaria) that give the site much of its character.
+Gab Gab Reef is located off Gab Gab Beach within Naval Base Guam — access requires a valid military ID or a visitor's pass with a military sponsor. Entry is via stairs with a railing down to the water; the rocks at the base can be slippery, so inflate your BCD before entry. Head north from the entry stairs to reach the reef drop-off and the best diving.
 
-Despite the harbor location and relatively modest visibility (10-15 meters), Gab Gab Reef supports a healthy population of larger fish including giant trevally and batfish. A tourist submarine operates in the area, adding an unusual element to the dive -- encountering a submarine while underwater is a memorable experience. The warm water (approximately 29 degrees C) and shallow maximum depth of 18 meters make this an accessible dive for all levels.
+The site is a gently sloping coral reef inside the protected harbor, running from very shallow at the entry beach to around 27 meters (90 feet). The harbor's completely sheltered position means there are virtually no waves or current, making this one of the calmest dive environments on Guam. Visibility is generally good for a harbor site, typically 22–30 meters (75–100 feet).
+
+Gab Gab is described as Guam's unofficial "home reef" — a beloved training and leisure dive where locals and military personnel log hundreds of dives per year. Concrete tie-off blocks are available at approximately 5 and 8 meters (15 and 25 feet) for buoy lines.
 
 ## Site Information
 
-- **Location**: Gab Gab Beach, Naval Reserve, Apra Harbor, Guam
+- **Location**: Gab Gab Beach, Naval Base Guam, Apra Harbor
+- **Access**: Military ID required, or visitor pass with military sponsor
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters
+- **Typical Depth Range**: 5–27 meters
+- **Typical Visibility**: 22–30 meters (75–100 feet)
 - **Water Temperature**: ~29 degrees C
-- **Current**: Generally mild inside the harbor
+- **Current**: None (fully sheltered harbor)
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Giant trevally patrol the reef structure. Batfish hover in small groups around the coral formations. Cabbage leaf corals (Turbinaria) are the dominant coral species, creating the distinctive terraced appearance of the mini-mountain. A variety of smaller reef fish inhabit the coral structure.
+Green sea turtles are present in high density, owing to the protected reserve status of the area. Two large resident sea anemones with clownfish colonies and cleaner shrimp are well-known features of the reef. Sources report nurse sharks, large jacks (trevally), and abundant reef fish throughout the site. The protected harbor conditions have allowed marine life to become unusually habituated to divers.
 
 ## Dive Profile
 
-Enter from Gab Gab Beach and swim out to the reef formation. The underwater mini-mountain rises from the sandy bottom, with the most developed coral growth on its upper sections. Circle the formation, observing the cabbage leaf corals and watching for trevally and batfish in the water column. The maximum depth of 18 meters allows generous bottom time. Watch for the tourist submarine if it is operating during your dive.
+Enter from the stairs at Gab Gab Beach and head north to find the reef drop-off. Concrete buoy tie-off blocks at 5 and 8 meters serve as useful landmarks. The reef slopes gradually downward toward the north, reaching around 27 meters at its deepest. The shallow sections are rich with coral and small reef fish; the deeper areas attract larger species. The absence of current allows very relaxed navigation and extended bottom time.
 
 ## Entry and Exit
 
-Shore entry from Gab Gab Beach. Walk in and swim out to the reef formation. The sandy bottom between the beach and reef provides an easy approach. Exit at the same beach.
+Shore entry from Gab Gab Beach via stairs with a railing. The rocks at the base are slippery — inflate your BCD before stepping in. Exit at the same location. No currents or surge complicate the entry/exit.
 
 ## Tips and Recommendations
 
-- The cabbage leaf corals are photogenic -- their terraced structure creates interesting compositions
-- Keep an eye out for the tourist submarine -- an unusual underwater encounter
-- The warm water and shallow depth make this an excellent site for extended photography sessions
-- Good choice for a first dive on Guam or as a relaxed afternoon dive
+- Confirm base access procedures before your visit — access policy is at the discretion of the current base commander
+- Inflate your BCD before entry to handle the slippery rocks at the base of the stairs
+- Head north from the entry point for the most developed reef and the drop-off
+- The resident anemones with clownfish are a reliable photographic subject
 
 ## Safety Considerations
 
-A gentle site with minimal hazards. Visibility is lower than open-ocean sites but manageable. The harbor location means some boat and submarine traffic -- maintain awareness of surface activity. The shallow maximum depth keeps the dive well within recreational limits.
+One of the safest dive environments on Guam. No current, no surge, calm harbor conditions, and easy shore entry. The main consideration is confirming valid base access before traveling. Be aware of the slippery entry rocks.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Guam Dive Guide — Gab Gab](https://www.guamdiveguide.com/all-dive-sites/apra-harbor/gab-gab/), [Stripes Guam — Best Dives on Guam](https://guam.stripes.com/travel/best-dives-on-guam.html), [PADI — Gab Gab dive site](https://www.padi.com/dive-site/guam/gab-gab/). Last updated 2026-06-03.*

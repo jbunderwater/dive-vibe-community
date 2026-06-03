@@ -13,19 +13,26 @@ addedBy: osm_import
 
 ## Le Franjack
 
-Le Franjack is a historic wreck dive in Guadeloupe, Caribbean.
+Le Franjack is a deliberately sunk sand-transport vessel resting at 23–24 metres in the Cousteau Reserve near Malendure. It is the shallowest and most accessible of the reserve's three wrecks, suitable for Open Water / Level 1 certified divers.
 
 ## Overview
 
-The Franjack is a 45-metre former sand-transport vessel badly damaged by Hurricane Hugo in 1989 and deliberately sunk in 1996 at 23 metres on the sandy bottom of the Cousteau Reserve near Malendure, specifically cleaned and prepared as an accessible wreck dive for beginners. The engine room, kitchen, and hold are all safely penetrable, and a large green moray eel reliably inhabits the hull, with snappers, cardinals, lobsters, and green turtles — which use the wreck for nightly rest — completing the resident cast. Slow disintegration has produced a spectacular colonisation of different sponge species across the superstructure, making the Franjack one of the most colourful wreck dives in the French Caribbean.
+The Franjack was built in 1958 at the Danyard shipyard in Frederikshavn, Denmark, under the name "Oresund," a reference to the strait between Sweden and Denmark. The vessel was used to exploit glacial moraine (sand transport). Purchased by the Guadeloupean shipowner Lacascade-Michaud and renamed "Franjack" — after the owner's two sons, François and Jacky — in 1976, the ship arrived in Guadeloupe in 1983 for the Sablière de Guadeloupe (SAGUA) and was used for sand transport in the Caribbean. Hurricane Hugo (1989) damaged the vessel beyond economic repair. On 9 June 1996, the Franjack was fully decontaminated, cleaned, and deliberately sunk at approximately 24 metres on a sandy bottom off Malendure, becoming the first wreck sunk at Bouillante to create an artificial reef.
+
+The vessel measures 53.32 metres long by 10.04 metres wide and displaced 486 tonnes. (Note: some sources cite dimensions of 50 metres; the figure from Les Heures Saines of 53.32 metres is the most specific available.) The wreck lies flat on its keel. The wheelhouse and engine compartments are accessible, and the hull is colonised by sponges, bryozoans, anemones, eels, barracudas, and jacks. Turtles reportedly use the wreck for rest at night, though this is cited by Les Baillantes Tortues rather than a primary source.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 meters
+- **Difficulty Level**: Intermediate (Open Water / Level 1 sufficient)
+- **Maximum Depth**: 23–24 meters
+- **Typical Visibility**: 20–30 meters
+
+## Safety
+
+The Franjack is regarded as the most accessible wreck in the reserve. Interior penetration of the wheelhouse and engine spaces is possible; always use a torch and maintain buddy contact. Respect Cousteau Reserve rules — no collecting, no anchoring.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Wreck Dives Guadeloupe](https://www.heures-saines.com/en/exploration-of-wrecks/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [Divingaway — Wreck Franjack](https://divingaway.com/en/wreck-366/franjack). Last updated 2026-06-03.*
