@@ -26,8 +26,8 @@ The vessel measures 53 metres long by 9 metres wide and displaced 660 tonnes. It
 - **Location**: Cousteau Reserve, south of Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / AOW + Deep Dive required)
-- **Maximum Depth**: 33 meters (propeller); approximately 28–30 m to upper deck
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20–30 meters
 
 ## Safety

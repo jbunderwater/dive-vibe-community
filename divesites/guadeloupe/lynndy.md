@@ -28,7 +28,7 @@ Note: The vessel's original name, dimensions, and owner are not identified in av
 ## Site Information
 
 - **Location**: Anse Mire, Terre-de-Haut, Les Saintes, Guadeloupe
-- **Entry Type**: Boat dive (also accessible to freedivers from the beach)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters

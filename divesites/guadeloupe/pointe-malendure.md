@@ -23,7 +23,7 @@ Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terr
 
 - **Location**: Malendure Beach, Basse-Terre, Guadeloupe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

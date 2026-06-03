@@ -23,13 +23,13 @@ Batu Jabu is an oval-shaped reef built around a submerged rock seamount whose ti
 
 - **Location**: Off Pulau Kusu, Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-The nutrient-rich currents from the Patinti Strait support abundant reef fish populations. Blacktip and whitetip reef sharks are regular sightings. Anthias, fusiliers, and schooling reef fish populate the shallower sections of the reef, while Napoleon wrasse and larger predators are seen at depth. Macro life is found in the current-sheltered areas on the lee side of the rock.
+The nutrient-rich currents from the Patinti Strait support abundant reef fish populations. The Patinti Strait generally hosts blacktip and grey reef sharks, barracuda, and tuna on current-exposed structures; specific species confirmed at Batu Jabu itself are not independently reported beyond the site's general description as "a very pleasant dive" rich in reef fish. Anthias, fusiliers, and schooling reef fish populate the shallower sections, while the current-sheltered lee side provides macro habitat. Accounts from multiple liveaboard operators place this among the reliable, accessible sites in the Patinti area.
 
 ## Dive Profile
 

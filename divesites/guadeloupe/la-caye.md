@@ -23,7 +23,7 @@ Reaching 25 meters at its deepest point, La Caye features a sloping reef that tr
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters

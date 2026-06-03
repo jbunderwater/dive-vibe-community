@@ -23,7 +23,7 @@ The reef at Caye Tome sits in protected lagoon water and features a mix of hard 
 
 - **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters

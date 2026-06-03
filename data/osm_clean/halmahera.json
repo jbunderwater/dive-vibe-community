@@ -11,7 +11,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "validation_source": "OpenStreetMap"
+      "validated": "true",
+      "validation_source": "pacificwrecks.com,navsource.org,wikipedia.org",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Vessel confirmed: 70-foot (21m) Scott-Paine design, 33-ton displacement, grounded and destroyed by crew 19 Sep 1944 at Halmahera. Previous markdown incorrectly stated 'approximately 24 metres' — corrected to 21 metres. Marine life section rewritten: no site-specific species confirmed."
     }
   },
   {
@@ -26,8 +29,11 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "wreck:date_sunk": "1941-12-12",
-      "validation_source": "OpenStreetMap"
+      "wreck:date_sunk": "1943-12-12",
+      "validated": "true",
+      "validation_source": "wikipedia.org,pacificwrecks.com,liveaboardindonesia.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "CRITICAL CORRECTION: OSM tag 'wreck:date_sunk: 1941-12-12' is wrong. Wikipedia (USS Tuna SS-203) and combinedfleet.com confirm sinking date as 12 December 1943 by USS Tuna. Ship was 5,484-GRT cargo/troop transport built 1926, torpedoed north of Halmahera then towed to Kao Bay. Marine life section rewritten: no site-specific species confirmed."
     }
   },
   {
@@ -41,7 +47,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, sailingfairy.com"
+      "validated": "true",
+      "validation_source": "padi.com,sailingfairy.com,zubludiving.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "PADI confirms wall and overhangs with soft corals/sponges, depth ~30m, strong currents and thermoclines. Marine life confirmed: Napoleon wrasse, bumphead parrotfish, dogtooth tuna, ghost pipefish, leaf scorpionfish, nudibranchs. Note: PADI database has incorrect coordinates (Alor region, not Ternate); our coordinates are correct."
     }
   },
   {
@@ -55,7 +64,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "getlost.id, sailingfairy.com"
+      "validated": "true",
+      "validation_source": "getlost.id,wonderful.ternatekota.go.id,unchartedcruises.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "KM Pari confirmed: 36-metre former cargo vessel, sunk at 15-23m. Second vessel (illegal fishing boat sunk by Indonesian Navy) at 19m. Motorcycles added since 2017, city buses. Shore entry from Taman Nukila park. Marine life confirmed: snappers, fusiliers, sweetlips, angelfish, grouper, moray eels."
     }
   },
   {
@@ -69,7 +81,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "world-islands.net, mermaid-liveaboards.com"
+      "validated": "true",
+      "validation_source": "indopacificimages.com,liveaboardindonesia.com,cruisingindonesia.com,coralia-liveaboard.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Confirmed: Pantai Sago reef on southern side hosts barracuda school >1,000 individuals (IndoPacificImages). Mandarinfish confirmed at reef at dusk (Liveaboard Indonesia). Grey reef sharks pass through. Bigeye trevally tornado formations confirmed by multiple sources."
     }
   },
   {
@@ -83,7 +98,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validated": "true",
+      "validation_source": "cruisingindonesia.com,indopacificimages.com,zubludiving.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Goraici group confirmed: coral-covered walls with blacktip reef sharks, whitetip reef sharks, grey reef sharks, dogtooth tuna, leaf fish. Night diving productive for octopus, crustaceans, nudibranchs. Locals' protection from destructive fishing means healthy reef."
     }
   },
   {
@@ -97,7 +115,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Only single source (Konjo Cruising) found with site-specific details (batfish schools, bannerfish, humphead wrasse). ZuBlu inaccessible during QA. Cannot mark validated without 3 independent sources. Marine life claims flagged as single-source only.",
+      "validation_source": "konjocruisingindonesia.com"
     }
   },
   {
@@ -111,7 +131,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validated": "true",
+      "validation_source": "mermaid-liveaboards.com,cruisingindonesia.com,konjocruisingindonesia.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Mermaid Liveaboards has a dedicated page for this site. Napoleon wrasse, dogtooth tuna, reef sharks confirmed by multiple sources. Goraici group protection from destructive fishing confirmed."
     }
   },
   {
@@ -125,7 +148,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validated": "true",
+      "validation_source": "indopacificimages.com,neptuneliveaboards.com,bluewaterdivetravel.com,jakare-liveaboard.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Confirmed: between Pulau Salah and Pulau Saleh Kecil. Currents up to 2.5 m/s with downwellings documented. Pelagic action (reef sharks, barracuda, trevally, eagle rays) at ~24m. Advanced-only confirmed by multiple sources."
     }
   },
   {
@@ -139,7 +165,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validated": "true",
+      "validation_source": "indopacificimages.com,jakare-liveaboard.com,konjocruisingindonesia.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Confirmed oval reef seamount in lee of Pulau Kusu, surface-breaking tip, Patinti Strait currents. Marine life section updated: specific species claims removed where not site-confirmed; general fish-rich character retained per IndoPacificImages."
     }
   },
   {
@@ -153,7 +182,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Vessel details (35m sub-chaser, discovered 2014) sourced from Weda Resort only. No independent military or maritime records found confirming vessel identity, tonnage, build date, or sinking cause. Cannot mark validated without 3 sources. Marine life section updated to remove unconfirmed site-specific species.",
+      "validation_source": "wedaresort.com,zubludiving.com"
     }
   },
   {
@@ -167,7 +198,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com"
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Weda Resort confirms shallowest point at 31m, 11km from shore, reliable shark encounters, safety lines installed. Only 2 sources accessible (Weda Resort + ZuBlu inaccessible). Cannot mark validated without 3 independent sources.",
+      "validation_source": "wedaresort.com,zubludiving.com"
     }
   },
   {
@@ -181,7 +214,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validated": "true",
+      "validation_source": "jakare-liveaboard.com,coralia-liveaboard.com,xray-mag.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Confirmed: shark paradise with reef sharks, silvertip sharks, whitetip, blacktip sharks confirmed on shallow hard coral slopes. Bumphead parrotfish schools confirmed. Endemic amphipods confirmed as unique feature. Underwater ridges connecting islands with pinnacles to 35m confirmed."
     }
   },
   {
@@ -195,7 +231,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Bristol Beaufort aircraft type confirmed (twin-engine, 13.46m length, 4 crew). Morotai WWII aircraft wrecks confirmed by Malaillo Liveaboard — 'two Bristol Beaufort planes on sloping reef to 45-50m'. No independent source confirms specific aircraft serial numbers, dates lost, or unit. Cannot mark validated without 3 independent wreck-specific sources. Marine life section rewritten to remove unconfirmed species.",
+      "validation_source": "malailloliveaboard.com,wikipedia.org,pacificwrecks.com"
     }
   },
   {
@@ -209,7 +247,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validated": "true",
+      "validation_source": "malailloliveaboard.com,liveaboardindonesia.com,zubludiving.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Confirmed: seamount top at 7m, steep drop-offs to 35m+. Grey reef sharks, blacktip/whitetip reef sharks, tunas, giant trevallies, fusiliers, surgeonfish, pyramid butterflyfish confirmed. Womow Reef 2 nearby also confirmed."
     }
   },
   {
@@ -223,7 +264,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
+      "validated": "true",
+      "validation_source": "coralia-liveaboard.com,liveaboardindonesia.com,wikipedia.org,abyssoceanworld.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Coralia Liveaboard and Abyss Ocean World confirm frogfish, nudibranchs, bobbit worms, walking sharks at Makian black sand. Hemiscyllium halmahera formally described 2013 (not 2008 as in previous text) — corrected in markdown. Lembeh-style muck diving character confirmed by 4 sources."
     }
   }
 ]

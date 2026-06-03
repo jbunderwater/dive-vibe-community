@@ -23,7 +23,7 @@ The reef at Caye Fortune rises from a sandy bottom and forms a series of coral s
 
 - **Location**: Off southern Grande-Terre, near Îlet Fortune, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ The reef at Caye Fortune rises from a sandy bottom and forms a series of coral s
 
 ## Marine Life
 
-Sea turtles are regularly encountered at this site, attracted by the seagrass and algae growth near the reef margins. Parrotfish, surgeonfish, and snapper are abundant, and larger species such as barracuda and eagle rays make occasional passes over the reef. Spotted morays occupy coral crevices, and spiny lobsters are found at depth under ledges.
+No site-specific published dive source has been located for Caye Fortune's marine life. The site is within the Petit Cul-de-Sac Marin marine reserve system, and the regional reef fauna includes sea turtles, parrotfish, surgeonfish, snappers, and various reef fish. Eagle rays are documented in the broader Grand Cul-de-Sac Marin area but are not confirmed specifically at this site.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Fire coral is present on reef crests — maintain good buoyancy. Boat traffic in
 The mix of coral structures and soft light at 10–15 meters is well-suited to natural-light reef photography. Wide-angle shots capturing sea turtle behaviour near the reef work well in morning light.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on regional Petit Cul-de-Sac Marin diving characteristics. No site-specific sources found for Caye Fortune as a named dive site. Last updated 2026-06-03.*

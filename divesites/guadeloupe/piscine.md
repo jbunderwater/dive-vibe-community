@@ -23,7 +23,7 @@ Piscine sits in the natural shelter created between the twin islets of Pigeon Is
 
 - **Location**: Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20–30 meters

@@ -23,7 +23,7 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 
 - **Location**: Pain de Sucre Bay, Terre-de-Haut, Îles des Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

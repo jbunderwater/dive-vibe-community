@@ -39,4 +39,4 @@ This site sits just north of the core Cousteau Reserve zone. Most dive operators
 
 ---
 
-*Sources: [Plongeur.com — La Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard). Last updated 2026-05-17.*
+*Sources: [Plongeur.com — La Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard), [Bucketlist Bri — Bouillante, Guadeloupe (geothermal dive reference)](https://bucketlistbri.com/bouillante-guadeloupe/). Last updated 2026-06-03.*

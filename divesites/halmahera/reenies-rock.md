@@ -23,7 +23,7 @@ Reenie's Rock is one of three primary dive sites around the Goraici island group
 
 - **Location**: Goraici Islands, between Halmahera and Bacan, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 
@@ -48,4 +48,4 @@ Time the current-facing wall dives to the tidal flow for best shark encounters, 
 The Goraici Islands are among the more remote destinations in the Halmahera region. Emergency evacuation to Ternate would be required for any medical incident, followed by onward transfer to Manado. Currents on the exposed walls can be strong. Always carry an SMB and do not drift beyond pickup range. Water temperature is 27–30°C.
 
 ---
-*Sources: [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [IndoPacificImages – West Halmahera Scuba Diving Sites, The Goraici Islands](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [IndoPacificImages – West Halmahera Scuba Diving Sites, The Goraici Islands](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-06-03.*

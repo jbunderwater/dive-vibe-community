@@ -23,7 +23,7 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–25 meters
@@ -32,7 +32,7 @@ Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geoth
 
 ## Marine Life
 
-Despite — or perhaps because of — the geothermal activity, marine life is rich. Large spiny lobsters (langouste royale) occupy the crevices and fault formations, making this one of the better lobster-spotting sites in the Malendure area. Sea turtles frequent the site, and parrotfish, angelfish, and squirrelfish are abundant around the coral and rock formations. The fault zone also harbours moray eels and conger eels in deeper recesses.
+No site-specific species list from a published dive source was located for Les Sources d'Eau Chaude. The Pointe Lézarde area (the closest named geothermal dive site referenced in sources) is reported to host sea turtles, reef fish, a rare frogfish, angelfish, lobster, and eels (bucketlistbri.com). The broader Malendure/Cousteau Reserve ecosystem supports these species. The fault formations create crevice habitat that typically attracts lobsters and eels, but specific abundance claims for this site cannot be verified.
 
 ## Dive Profile
 

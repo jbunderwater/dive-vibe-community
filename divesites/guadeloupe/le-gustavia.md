@@ -26,7 +26,7 @@ The wreck is substantially colonised with sponges and corals. French angelfish, 
 - **Location**: Cousteau Reserve, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / AOW + Deep Dive required)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate within the reserve

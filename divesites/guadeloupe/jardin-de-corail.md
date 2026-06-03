@@ -23,7 +23,7 @@ This site on the northern face of Pigeon Island's inner islet is named for its r
 
 - **Location**: North face, Pigeon Island (Îlet Pigeon), Malendure, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters

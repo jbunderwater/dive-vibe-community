@@ -3,7 +3,7 @@ name: Le Franjack
 lat: 16.1656996
 lng: -61.7804476
 difficulty: Intermediate
-maxDepth: 23
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,8 +26,8 @@ The vessel measures 53.32 metres long by 10.04 metres wide and displaced 486 ton
 - **Location**: Cousteau Reserve, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (Open Water / Level 1 sufficient)
-- **Maximum Depth**: 23–24 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–30 meters
 
 ## Safety

@@ -25,9 +25,9 @@ This entry should be treated as a recorded wreck feature whose dive characterist
 
 - **Location**: Les Saintes, Guadeloupe (approximately)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate (unverified)
-- **Maximum Depth**: 18 meters (OSM data; unverified against dive sources)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 
 ---
 *Description based on OSM seamark data only. No site-specific published dive sources were found for La Broumine. Last updated 2026-06-03.*
