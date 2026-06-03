@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Flamingo Bay
 
-A calm, accessible beginner reef just minutes by boat from Grand Anse Beach — one of Grenada's most popular first-dive sites, with reliable turtle encounters and a well-developed reef on a gentle sandy slope.
+A popular beginner reef in Grenada's Grand Anse Marine Protected Area, named for the flamingo tongue snail (*Cyphoma gibbosum*) that lives on its soft corals — one of the most critter-rich sites on the southwest coast, with seahorses, pipefish, and banded jawfish alongside reliable turtle sightings.
 
 ## Overview
 
-Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable entry-level site with a gentle sloping reef that reaches 18 metres. The reef features a mix of hard corals including brain, star, and finger corals, with sea fans and sponges adding colour at greater depths. The bay's sheltered position ensures consistently calm conditions and good visibility, typically 20–30 metres in the dry season. The proximity to Grand Anse makes it a natural first-dive site for visitors to Grenada, and its accessible depth profile suits a wide range of certification levels.
+Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable entry-level site within the Grenada Marine Park. The site takes its name from the flamingo tongue snail — a small, vibrantly spotted sea snail with a white shell hidden under its vivid orange-and-yellow fleshy mantle — which is abundant on the soft corals here. The reef descends from the shallows to 18 metres on a gentle slope, with the deeper outer edge described by PADI as having wall characteristics. The bay's sheltered position ensures consistently calm conditions and good visibility, typically 20–30 metres in the dry season. The proximity to Grand Anse makes it a natural first-dive site for visitors to Grenada, and its accessible depth profile suits a wide range of certification levels.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable e
 
 ## Marine Life
 
-Flamingo Bay supports a classic Grenada reef community. Sea turtles are reliable sightings, feeding on sponges and cruising through the coral formations. Parrotfish and blue tang schools sweep over the reef crest. Queen triggerfish, French angelfish, and large groupers are resident. The sandy margins at the base of the reef attract southern stingrays. Barracuda patrol the open water above the reef, and nurse sharks are occasionally found resting under overhangs.
+Flamingo Bay is recognised as one of Grenada's critter-rich sites. The flamingo tongue snail, the site's namesake, is reliably found on soft corals throughout the reef. Longsnout seahorses and pipefish hide among elkhorn coral formations — this is one of the better Grenada sites for these cryptic species. Banded jawfish are found in the sandy margins. Chromis, squirrelfish, jackknife fish, Creole wrasse, parrotfish, butterfly fish, grouper, jacks, and rays represent the broader reef fish community. Sea turtles visit regularly. The outer, deeper sections host whip coral, colourful sponges, and sea fans, with larger grouper and rays toward the base. Spotted drum fish and yellowtail snappers are confirmed by both PADI and ECO Dive descriptions of this site.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Short boat ride from Grand Anse area operators. Giant stride entry; DSMB on asce
 
 ## Tips and Recommendations
 
-An excellent orientation dive for visitors new to Grenada — the reef is relaxed and shallow enough for beginners to focus on buoyancy and fish identification. Morning dives offer calmer sea conditions and better light. Pair with the Underwater Sculpture Park for a morning that showcases Grenada's range.
+Move slowly and scan the soft coral surfaces for flamingo tongue snails — their vivid orange-and-yellow coloured mantle makes them easier to spot than you might expect. Check the elkhorn coral bases carefully for longsnout seahorses. The banded jawfish at the sandy margin reward divers who hover patiently. Pair with the Underwater Sculpture Park for a morning that showcases Grenada's range.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ The accessible shallow reef, good visibility, and active fish community make Fla
 - Commonly offered as the second dive of a morning two-tank trip after the Underwater Sculpture Park
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/). Last updated 2026-05-24.*
+*Sources: [PADI - Flamingo Bay](https://www.padi.com/dive-site/grenada/flamingo-bay/), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DiveJourney - Flamingo Bay](https://divejourney.io/dive-spots/grenada-flamingo-bay), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/). Last updated 2026-06-03.*

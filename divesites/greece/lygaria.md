@@ -39,8 +39,8 @@ Species confirmed by Divers Club Crete at Lygaria: groupers, moray eels, anemone
 
 - **Location**: Agia Pelagia, Heraklion, Crete, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with swim-through
-- **Difficulty Level**: Beginner (OW certification; 18 m max for level 1; 24 m for level 2+)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
 
 ---

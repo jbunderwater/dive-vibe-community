@@ -44,8 +44,8 @@ Interior penetration (cargo holds) is accessible through open structures. Divers
 ## Site Information
 
 - **Location**: Saranda Bay, Albania (near Albania–Greece border)
-- **Entry Type**: Boat dive (from Saranda, Albania)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 - **Vessel**: Italian motor cargo ship (1919–1943)

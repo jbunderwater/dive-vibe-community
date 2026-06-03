@@ -45,7 +45,7 @@ Boat dive from True Blue Bay or Grand Anse area operators. Giant stride entry; D
 
 ## Tips and Recommendations
 
-This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check under boulder overhangs for nurse sharks and large morays. Octopus sightings are more reliable here than at many other Grenada sites. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
+This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check carefully in the sandy areas and under rocky overhangs — octopus sightings are confirmed at Dragon Bay by both PADI and ECO Dive, and moray eels occupy crevices throughout the volcanic rock. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ The complex boulder terrain requires good navigation skills — maintain depth a
 
 ## Photography
 
-Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nurse shark portraits in rocky resting spots, octopus encounters, and moray close-ups are distinctive macro and medium-range subjects. Wide-angle shots through boulder archways create depth and drama.
+Dragon Bay's volcanic rock and coral terrain offers dramatic topographic subjects. Octopus encounters, moray close-ups in the volcanic rock, and grouper portraits in coral overhangs are distinctive macro and medium-range subjects. The tug boat wreck in the shallows creates an accessible wide-angle composition.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nur
 - Best combined with Valley of Whales for a two-tank southern Grenada day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Sportif Dive - Grenada Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/). Last updated 2026-06-03.*

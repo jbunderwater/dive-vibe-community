@@ -13,19 +13,22 @@ addedBy: osm_import
 
 ## Psarapoula
 
-Psarapoula is a reef dive site in Greece, Europe.
+Psarapoula (also spelled Psaropoula) is a dive site off the northern coast of Rhodes, described as a deep dive at the location of an ancient port entrance.
 
 ## Overview
 
-Psarapoula is a rocky reef dive site off the coast of Rhodes in the Dodecanese Islands, known for its volcanic rock formations and clear Aegean waters. The site features swim-throughs and overhangs colonized by sponges and sea fans, with resident octopus, grouper, moray eels, and schools of bream. Red Sea immigrants such as soldierfish and rabbitfish have become increasingly common, and lucky divers may spot seahorses or Mediterranean monk seals.
+Psarapoula is located in the northern Dodecanese, off Rhodes island. Available dive site listings describe it as a "deep dive in the spot where the entrance of the ancient port used to be," suggesting the site has archaeological character and reaches depths requiring Advanced Open Water certification.
+
+Beyond this brief description, site-specific documentation for Psarapoula from Rhodes dive operators has not been located. The northern Rhodes coastline in this area features rocky Mediterranean reef typical of the Dodecanese — volcanic formations with sponges, sea fans, and resident Mediterranean species such as octopus, grouper, and moray eels. Aegean visibility is typically 20+ metres in summer.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Northern Rhodes, Dodecanese, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
+- **Status**: Site-specific dive documentation limited
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Description based on brief dive site listing referencing an ancient port location. No detailed site-specific sources were found for Psarapoula. Last updated 2026-06-03.*

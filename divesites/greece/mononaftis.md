@@ -44,7 +44,7 @@ Confirmed species at Mononaftis by the local dive operator (Divers Club Crete): 
 
 - **Location**: Agia Pelagia, Heraklion, Crete, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (rocky reef with caves and canyons)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 

@@ -53,7 +53,7 @@ Check current conditions before diving — the site can run as a drift when the 
 
 ## Photography
 
-The canyon topography creates strong compositional opportunities — shooting down a sand-floored channel with the coral walls framing the shot is the defining Valley of Whales image. Schooling jacks in the open water above the reef edge, eagle ray passes through the channels, and wide-angle wall shots with sea fan silhouettes are the main subjects.
+The shelving slope and soft coral growth create strong compositional opportunities — wide-angle shots along the gorgonian-draped slope with open water behind, and detail shots of the Admiralty anchor's encrusted surface, are the defining Valley of Whales images. The shallow brown coral forest at the start of the dive is best shot in natural light with the surface visible above. Sea fan silhouettes against open water are the main wide-angle subjects on the deeper slope.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The canyon topography creates strong compositional opportunities — shooting do
 - Best combined with Dragon Bay for a two-tank southern Grenada dive day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Happy Valley](https://www.padi.com/dive-site/grenada/happy-valley/), [Turq.com - Grenada Diving](https://www.turq.com/grenada/grendive.html), [Scuba Diver Magazine - Grenada Wrecks](https://www.scubadivermag.com/top-10-grenada-wrecks/holiday-deals/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Happy Valley](https://www.padi.com/dive-site/grenada/happy-valley/), [Turq.com - Grenada Diving](https://www.turq.com/grenada/grendive.html), [Sportif Dive - Grenada Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites). Last updated 2026-06-03.*

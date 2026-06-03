@@ -61,4 +61,4 @@ The shallow depth and exceptional clarity make Spice Island Reef one of Grenada'
 - Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
 ---
-*Description based on regional Grenada southwest reef characteristics and operator site listings. No site-specific sources found for "Spice Island Reef" by this name. Last updated 2026-05-24.*
+*The site name "Spice Island Reef" does not appear in primary Grenada dive operator sources. The closest match found is "Spice Isle Reef" in Turq.com's Grenada dive guide, described as a sloping reef with finger and brain coral bommies, yellowtail snapper, blue chromis, and sea plumes. This may be the same site under a slightly different name. All other content in this description is based on regional southwest Grenada reef characteristics. Not yet validated to the 3-source threshold. Sources: [Turq.com - Grenada Diving](https://www.turq.com/grenada/grendive.html). Last updated 2026-06-03.*

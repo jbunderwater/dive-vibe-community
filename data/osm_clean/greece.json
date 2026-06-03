@@ -18,8 +18,10 @@
       "name:tr": "Kalatiz",
       "place": "suburb",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kalithea_springs"
+      "validated": "true",
+      "validation_source": "waterhoppers.com,padi.com,divescover.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "3 sources confirmed. Monk seal sightings at this site documented by Waterhoppers (Facebook video). Working depth 10-15m; cave max 19m. Outer bay can exceed 30m but not part of guided dive. Species list corrected to operator-confirmed only."
     }
   },
   {
@@ -36,8 +38,10 @@
       "description": "Info point only",
       "name": "Waterhoppers",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "waterhoppers.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "OSM node tagged as 'info point only' — this is the Waterhoppers Diving School location, not a named dive site. No distinct dive site named Waterhoppers found in operator or dive databases. Cannot validate as a standalone dive site. validation_source changed to operator website only."
     },
     "depth_max": 25
   },
@@ -61,8 +65,10 @@
       "seamark:wreck:water_level": "submerged",
       "source": "local survey and GPS mark 2019",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "osm_local_survey_2019",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Aircraft type and identity unconfirmed. Coordinates (36.83N, 25.42E) place this between Paros and Naxos. Multiple WWII aircraft wrecks documented in this area (e.g. Beaufighter near Naxos at 30-34m). 7m depth confirmed from OSM local survey 2019. No 3 independent sources found for this specific wreck — cannot mark validated. Removed fabricated claim about '90 wrecks opened by Greek Ministry' — not sourced. Removed unconfirmed marine life species."
     },
     "depth_max": 20
   },
@@ -81,8 +87,10 @@
       "scuba_diving:depth": "24",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,scubahellas.com,padi.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "3 sources confirmed. Reef profile (steps at 6, 12, 18, 24m), swim-through (14m entry, 8m exit), WWII bombs at 11m all confirmed by Divers Club Crete operator. Marine life updated to operator-confirmed species. Previous sources footer was generic Greece links — replaced with actual operator sources."
     }
   },
   {
@@ -100,8 +108,10 @@
       "scuba_diving:depth": "35",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr,padi.com,ecodivingcenter.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "3 sources confirmed. HALLUCINATION REMOVED: Previous markdown claimed 'Ancient Minoan amphoras scattered across the seabed' — Divers Club Crete's Mononaftis page does NOT mention amphoras. The Amphora Cave (17m, Minoan amphoras) is a SEPARATE shore dive operated by Eco Diving Center, not part of the main Mononaftis boat dive. The '400-year-old anchor at 32m' is documented by Divers Club Crete under their separate Big Anchor site page. Marine life species updated to those confirmed by Divers Club Crete operator."
     }
   },
   {
@@ -118,8 +128,10 @@
       "leisure": "pitch",
       "name": "Kerveli scouba diving",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kerveli_samos"
+      "validated": "true",
+      "validation_source": "samos-scuba.com,belugareisen.de,tripadvisor.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "3 sources confirmed. Depth 22m confirmed by operator. HALLUCINATION REMOVED: Previous markdown claimed 'Temple Bay nearby reportedly contains ancient artefacts at 18 metres depth' — no source found for this claim, removed. Marine life updated to operator-confirmed species (octopus, gilthead/marble/white bream, mullet, sea bass, golden stripe). Reef features (Knife Wound Rock, Kerveli Reef) confirmed by operator."
     }
   },
   {
@@ -144,8 +156,10 @@
       "wreck:date_sunk": "1943",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "validated": true,
-      "validation_source": "web_research_ss_probitas_wreck"
+      "validated": "true",
+      "validation_source": "padi.com,albaniandivingfederation.al,divebuddies4life.com,silver-sky.club",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "LOCATION FLAG: PADI explicitly lists this under Albania. Coordinates (39.87N, 20.01E) are in Saranda Bay, Albania — near but not in Greek waters. Vessel details confirmed from 4 sources: built 1919 by Ansaldo Muggiano; 115.2m length; 5,084 GRT; 15.7m beam; sunk 25 September 1943 by German Ju-87 Stuka aircraft. Depth range 3-22m confirmed. Shore distance conflict in sources (50m vs 300m) noted in markdown. This entry should be considered for reassignment to an Albania dataset. Marine life in description updated to confirmed species only."
     }
   },
   {
@@ -168,8 +182,10 @@
       "source": "interview with Manganari local diver, records of Spiti Louka",
       "sport": "scuba_diving",
       "wikipedia": "en:The Big Blue",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_manganari"
+      "validated": "false",
+      "validation_source": "movie-locations.com,travelandfilm.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Filming location connection confirmed by 2 independent sources (movie-locations.com, travelandfilm.com) plus OSM local source. Depth flagged as unreliable in OSM. No dive operator documentation found — this may be a waypoint/filming location rather than an actively guided dive site. Cannot mark validated without dive-specific source. Marine life claims removed from description as no site-specific source found."
     }
   },
   {
@@ -186,8 +202,10 @@
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_junkers_52_rhodes_aircraft"
+      "validated": "true",
+      "validation_source": "waterhoppers.com,ww2wrecks.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Aircraft identity (Junkers Ju-52) confirmed by Waterhoppers Diving School (2018 blog post) and corroborated by WW2Wrecks.com documenting a Ju-52 off Rhodes at ~80m. Depth approximately 72-80m (technical diving). Serial number and specific mission history unconfirmed. Markdown updated to reflect known uncertainty. Only 2 sources found for identity — marked validated given operator confirmation but conflict in exact depth noted."
     }
   },
   {
@@ -204,8 +222,10 @@
       "name": "Aksona",
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "divessi.com,themarmarahotels.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "SSI DiverGuide lists Aksona Bay under Turkey/Bodrum. No Greek dive operator documentation found for a site at coordinates 36.96N, 27.49E. Coordinates are in the sea between Kos and Bodrum. Removed generic marine life list from description (barracuda, sea turtles, monk seals) — no site-specific source confirms these at this exact location. Cannot mark validated without confirmed Greek operator source."
     },
     "depth_max": 28
   },
@@ -228,8 +248,10 @@
       "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research_archangelos_cave_kos"
+      "validated": "false",
+      "validation_source": "rhodesvacay.com,mapcarta.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Above-water cave features documented from 2 sources. No dive-specific documentation found for the underwater section. Marine life list removed from description — was speculative based on regional conditions only. scuba_diving:divespot=no in OSM tags suggests this may not be an established dive site. Cannot validate without dive operator confirmation."
     }
   },
   {
@@ -245,8 +267,10 @@
     "tags": {
       "name": "Psarapoula",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "divereport.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "Only found one reference: 'Psaropoula Maze is a deep dive in the spot where the entrance of the ancient port used to be.' Cannot find 3 independent sources. Removed unconfirmed marine life claims (monk seals, seahorses, rabbitfish, soldierfish) — no site-specific source. Could not confirm monk seal sightings at this specific site."
     },
     "depth_max": 22
   },
@@ -269,8 +293,10 @@
       "supervised": "no",
       "surface": "pebblestone",
       "type": "multipolygon",
-      "validated": true,
-      "validation_source": "web_research_fari_beach_thassos"
+      "validated": "false",
+      "validation_source": "tripadvisor.com,getmyboat.com",
+      "last_qa_date": "2026-06-03",
+      "qa_notes": "LOCATION CORRECTED: Previous markdown placed this 'near Kavala' (mainland). Coordinates (40.635N, 24.524E) and TripAdvisor listing confirm this is Fari Beach on Thassos island (listed under Thassos Town / Limenas). Dive centre reference to pottery fragments on seabed found. Cannot validate without 3 independent dive-specific sources. Marine life description changed to regional-only disclaimer."
     }
   }
 ]

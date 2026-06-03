@@ -13,19 +13,24 @@ addedBy: osm_import
 
 ## Le Grande Bleu
 
-Le Grande Bleu is a reef dive site in Greece, Europe.
+Le Grande Bleu is a reef dive site off Manganari Bay, Ios, Cyclades — at the location used to film the childhood scenes of Luc Besson's 1988 freediving film *The Big Blue* ("Le Grand Bleu").
 
 ## Overview
 
-Le Grande Bleu is a reef dive site off Ios in the Cyclades, near Manganari Bay — the very location used to film the childhood scenes of Luc Besson's cult 1988 freediving film "The Big Blue," where the director himself had spent part of his childhood. The clear Aegean water and volcanic reef topography of Ios descend to 20 metres, with groupers, moray eels, octopus, barracuda, sea bream, and posidonia seagrass beds providing a distinctly Mediterranean underwater character. The Cyclades offer some of the Aegean's warmest and most transparent summer diving, and the film connection draws divers to what is otherwise an unspoiled and lightly dived corner of the island group.
+This dive site off Ios in the Cyclades takes its name from Luc Besson's 1988 cult freediving film. The childhood scenes of the film were shot at Manganari on the southeastern coast of Ios, which was also where Besson himself spent part of his childhood. The site's OSM description notes it was filmed "in front of Manganari and/or Tris Klisies bay," with the `name:en` field explicitly set to "The Big Blue."
+
+The site is tagged with `depth:source_quality: unreliable` in the OSM data, and the 20-metre depth should be treated as approximate. The Cyclades volcanic reef topography — clear Aegean waters, warm summer temperatures, and typically 20+ metre visibility — characterises this lightly dived corner of the Aegean.
+
+No site-specific dive operator documentation or detailed underwater description has been located for this exact location. The film connection is the primary reason this point appears in dive databases; whether it functions as a regular guided dive site with established access is unclear.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Manganari Bay, Ios, Cyclades, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
+- **Film connection**: Filming location for *Le Grand Bleu* / *The Big Blue* (1988, dir. Luc Besson)
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [OSM node data — interview with Manganari local diver, records of Spiti Louka](https://www.openstreetmap.org/node/9968656595), [Movie Locations — Le Grand Bleu Greece filming locations](https://movie-locations.com/movies/g/Grand-Bleu.php), [Travel and Film — Le Grand Bleu filming locations Greece](https://travelandfilm.com/lieux-de-tournage-du-film-le-grand-bleu-en-grece-amorgos-ios/). No dive-specific operator documentation found for this site. Last updated 2026-06-03.*

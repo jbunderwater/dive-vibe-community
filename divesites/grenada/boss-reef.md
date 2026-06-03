@@ -33,7 +33,7 @@ Positioned in the productive waters of Grenada's southwest, Boss Reef features a
 
 ## Marine Life
 
-Grenada's reefs support strong populations of large fish species. Caribbean reef sharks are seen regularly at Boss Reef, particularly on the deeper outer edge. Large groupers occupy coral overhangs, and schools of creole wrasse sweep along the reef face. Hawksbill turtles feed on sponges throughout the site. Eagle rays cruise the sandy transitions at the reef base. The barrel sponges at 18–24 metres host resident bigeye fish communities.
+Boss Reef's marine life is documented by the Pure Grenada Tourism Authority and ECO Dive. Lobster, spotted moray eels, green moray eels, trunkfish, hawksbill turtles, and green turtles are the confirmed resident species. A distinctive hole in the reef at around 14 metres (dropping to 18 metres) is a well-known barracuda aggregation point. Nurse sharks and southern stingrays are occasionally encountered resting on the reef. Banded coral shrimp and large crabs inhabit the reef crevices. Schools of Creole wrasse sweep the reef face. Note: Caribbean reef sharks and spotted eagle rays are not confirmed at Boss Reef by primary sources — these species are documented at other Grenada sites (Shark Reef, Bianca C) but not specifically here.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from operators based in Grand Anse or True Blue Bay. Giant stride entr
 
 ## Tips and Recommendations
 
-Explore the outer reef face early in the dive for the best chance of shark encounters. Large groupers are territorial and can be approached slowly at their usual coral overhangs. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
+Look for the barracuda aggregation point — the distinctive hole in the reef at around 14 metres is Boss Reef's most iconic feature and a reliable find. Nurse sharks occasionally rest in reef crevices. Large green moray eels occupy permanent territory in the reef structure. The 15–20 metre zone is the sweet spot for both biodiversity and ambient photography light. Boss Reef is an excellent day-two dive for visitors who started with the Underwater Sculpture Park or shallower sites.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Monitor NDL limits at the 24-metre sections. Deploy DSMB before ascending — bo
 
 ## Photography
 
-Boss Reef's combination of deep coral formations, clear water, and large marine life makes it one of Grenada's best wide-angle photography sites. Shark encounters, eagle ray passes, and school-of-fish compositions on the reef face are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
+Boss Reef's combination of deep coral formations, clear water, and resident marine life makes it a productive wide-angle photography site. Barracuda at the hole, nurse shark portraits in reef crevices, moray close-ups, and school-of-fish compositions on the reef face are the primary subjects. A strobe is recommended for the deeper sponge and gorgonian sections.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Boss Reef's combination of deep coral formations, clear water, and large marine 
 - Typically paired with Flamingo Bay or Happy Hill for a two-tank morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Just Gotta Dive - Grenada Reef Diving](https://www.justgottadive.com/dive_resources/travel_articles/reef-diving-adventures-grenada-red-buoy-purple-rain), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Sportif Dive - Grenada Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [She's So Bright - Scuba Diving Grenada](https://shershegoes.com/scuba-diving-in-grenada-eco-dive-review/). Last updated 2026-06-03.*
