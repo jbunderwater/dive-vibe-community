@@ -13,48 +13,47 @@ addedBy: osm_import
 
 # Shark Pit
 
-An unusual dive along Orote Peninsula with WWII artifacts, sea fans at 12 meters, a pinnacle rising from 30 meters to 4 meters, and resident sea turtles. One of the few Guam sites with gorgonian sea fans in the shallows. Named for its turtle-like shape, though sharks are also present.
+An unusual dive along Orote Peninsula featuring a large pinnacle (haystack rock) that rises from approximately 27 meters (90 feet) to 4–5 meters (12–15 feet) below the surface, sea fans at 12 meters (40 feet), and an extraordinary accumulation of WWII military equipment dumped in the shallows. One of the few Guam sites with gorgonian sea fans at relatively shallow depth.
 
 ## Overview
 
-Shark Pit is located along Orote Peninsula, just south of the Blue Hole off Orote Point. Despite its name, the site is actually shaped like a turtle when viewed from above, and sea turtles -- not sharks -- are the most reliable large animal encounter, visible on most dives. That said, reef sharks and even pilot whales have been reported in the area.
+Shark Pit (also listed as "Sharks Pit" by MDA Guam and SSI) is located along the Orote Peninsula, near the Blue Hole off Orote Point. The site takes its name from its shape — reported to resemble a turtle or shark when viewed from above — though reef sharks are occasional visitors, and sea turtles are confirmed as the most reliable large animal encounter.
 
-The site features a pinnacle that rises dramatically from approximately 30 meters to just 4 meters below the surface. One of the distinguishing features of Shark Pit is the presence of gorgonian sea fans at just 12 meters depth -- unusual for Guam, where sea fans are typically found much deeper. WWII artifacts including tanks and trucks are scattered in the area, adding historical interest to the dive. The site is popular for macro photography.
+The diving here is unusual in two respects. First, a prominent pinnacle (described as a "haystack rock" by MDA) rises from a sandy bottom at approximately 27 meters (90 feet) to within 4–5 meters (12–15 feet) of the surface, covered in fish and coral. Sea fans are present at approximately 12 meters (40 feet) — shallower than is typical for gorgonian fans at most Guam sites. Second, the seafloor around the site is littered with WWII military debris. War History Online documented at the site: at least ten LVT Buffalos (amphibious tracked vehicles), the remains of a locomotive, a bulldozer, a large flatbed trailer, and other equipment. Japanese tanks have been reported at approximately 60 meters, beyond recreational diving depth. This material is believed to be equipment discarded after the 1944 liberation of Guam.
+
+MDA Guam reports the depth range as 12–50 meters (40–160 feet), suggesting the reef and pinnacle system extends deeper than the common site summary depth. The 20-meter maximum depth in the JSON reflects the main recreational diving area around the pinnacle and sea fans.
 
 ## Site Information
 
-- **Location**: Orote Peninsula, south of Blue Hole, Guam
+- **Location**: Orote Peninsula, Guam (near Blue Hole)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 28-29 degrees C
-- **Current**: Variable
+- **Pinnacle**: Rises from ~27 meters (90 feet) to ~4–5 meters (12–15 feet) at the surface
+- **Sea Fans**: Confirmed at ~12 meters (40 feet)
+- **Maximum Recreational Depth**: ~20–27 meters for the main dive area; artifacts extend deeper
+- **Typical Visibility**: 15–25 meters
+- **Water Temperature**: 28–29 degrees C
+- **Current**: Variable at Orote Peninsula — assess on the day
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Sea turtles are seen on most dives. Gorgonian sea fans at 12 meters are a highlight -- unusually shallow for Guam. The pinnacle structure attracts fish schools. Macro subjects are abundant on the pinnacle surfaces. Sharks are occasional visitors to the deeper sections. Pilot whales have been reported in the surrounding waters.
+MDA Guam confirms sea fans (gorgonians) at approximately 12 meters (40 feet). Sea turtles are reported as seen on most dives. The pinnacle structure attracts fish schools. Reef sharks are occasional visitors.
+
+The previous version mentioned "pilot whales have been reported in the surrounding waters." This claim has not been confirmed in multiple independent sources reviewed here and has been removed. Pilot whales are pelagic animals not typically associated with a fixed reef dive site; the claim may originate from incidental open-water sightings and is not established as a site-specific feature.
 
 ## Dive Profile
 
-Descend to the pinnacle, which rises from the sand at approximately 30 meters to a peak at 4 meters. Explore the deeper sections first for the sea fans and WWII artifacts, then work upward along the pinnacle walls. The turtles are encountered at various depths. The pinnacle top at 4 meters provides an excellent safety stop area with fish life to observe. The variable depth range means the dive can be tailored to certification level.
+Boat dive from Orote Peninsula operators. Descend to the pinnacle and begin exploring from the deeper sand base (approximately 27 meters). Work upward along the pinnacle walls, observing the sea fans at 12 meters and the fish life in the water column. Search the sand and rubble fields around the pinnacle base for WWII equipment — Buffalos, tracked vehicles, and other artifacts are documented here. The pinnacle top at 4–5 meters provides a productive safety stop area. Assess current conditions before descending — Orote Peninsula can experience variable current.
 
 ## Entry and Exit
 
-Primarily accessed by boat. Can also be dived from shore via Naval Base Guam, but boat access is more convenient. Entry by giant stride.
-
-## Tips and Recommendations
-
-- The sea fans at 12 meters are a rarity in Guam waters -- bring a wide-angle lens
-- Look for the WWII artifacts (tanks, trucks) scattered around the base of the pinnacle
-- The pinnacle top at 4 meters makes an excellent extended safety stop
-- The macro photography opportunities on the pinnacle surfaces are outstanding
+Boat dive. Entry by giant stride. Shore access via Naval Base Guam is reportedly possible but requires base access and is not the standard approach.
 
 ## Safety Considerations
 
-Currents at Orote Peninsula can be variable -- follow the dive guide's assessment. The pinnacle drops to 30 meters at the base, so monitor depth when exploring the deeper sections. The WWII artifacts should be observed but not touched or disturbed.
+Currents at Orote Peninsula can be variable and should be assessed on the day with the dive guide. The pinnacle base descends to approximately 27 meters — monitor depth carefully when exploring the deeper sections. WWII artifacts should be observed but never touched or disturbed; they are protected historic items and may include unstable ordnance. The Orote Peninsula location means some exposure to open-ocean conditions.
 
 ---
-*Sources: [MDA Guam - Sharks Pit](https://www.mdaguam.com/destination/sharks-pit/), [SSI - Sharks Pit](https://www.divessi.com/en/mydiveguide/divesite/sharks-pit-guam-309332), [Asia Dive Site](http://www.asiadivesite.com/micronesia-dive-sites/guam/sharks-pit.php). Last updated 2026-04-08.*
+*Sources: [MDA Guam — Sharks Pit](https://www.mdaguam.com/destination/sharks-pit/), [SSI — Sharks Pit](https://www.divessi.com/en/mydiveguide/divesite/sharks-pit-guam-309332), [War History Online — War Wreck Diving in Guam](https://www.warhistoryonline.com/war-articles/war-wreck-diving-in-guam.html). Last updated 2026-06-04.*
