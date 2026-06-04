@@ -29,7 +29,7 @@ Biatabang is a boat-access wall dive on the flanks of Ternate — an active volc
 
 ## Marine Life
 
-Large pelagic species documented at the site include Napoleon wrasse (*Cheilinus undulatus*), bumphead parrotfish (*Bolbometopon muricatum*), and dogtooth tuna. Macro subjects include ghost pipefish, leaf scorpionfish (*Taenianotus triacanthus*), nudibranchs, and crabs. Standard reef fish communities including scorpionfish, boxfish, surgeonfish, angelfish, parrotfish, grouper, and snappers are present throughout the wall.
+Large pelagic species listed by PADI for this site include Napoleon wrasse (*Cheilinus undulatus*), bumphead parrotfish (*Bolbometopon muricatum*), and dogtooth tuna. Macro subjects confirmed in the PADI listing include ghost pipefish, leaf scorpionfish (*Taenianotus triacanthus*), nudibranchs, and crabs. Standard reef fish including scorpionfish, boxfish, surgeonfish, angelfish, grouper, and snappers are present throughout the wall. Note: dolphins, whales, and similar large pelagics listed generically by PADI for this site type have not been confirmed at Biatabang specifically.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ A 5mm wetsuit is recommended for the deeper sections where thermoclines can drop
 Strong and variable currents make this an advanced-only site. Downcurrents are possible on the wall face. Carry an SMB and ascend off the wall rather than fighting current. Cold thermoclines at 30 metres can cause rapid heat loss — a thick wetsuit is important. Despite being near Ternate City, the nearest recompression chamber is in Manado; emergency services in Ternate are limited.
 
 ---
-*Sources: [PADI Dive Site – Biatabang](https://www.padi.com/dive-site/indonesia/biatabang/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [PADI Dive Site – Biatabang](https://www.padi.com/dive-site/indonesia/biatabang/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

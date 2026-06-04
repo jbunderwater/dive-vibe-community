@@ -13,30 +13,33 @@ addedBy: osm_import
 
 ## Pointe à Lézard
 
-Pointe à Lézard is a wall dive site near Bouillante on the western coast of Basse-Terre, Guadeloupe, within the broader Cousteau Reserve diving area. The cape — a classified protected coastal zone since 2009 — features colourful sponge growth and an underwater landscape of small peaks and rocky formations.
+Pointe à Lézard is the southernmost dive site of the Cousteau Reserve corridor near Bouillante, where a rocky ridge covered in multicoloured sponges descends between small peaks to 25 metres and contains a geothermal vent basin at 23 metres.
 
 ## Overview
 
-Pointe à Lézard is a cape in the commune of Bouillante, between Pointe-à-Lézard and Pointe Mahault. This stretch of coast was formally classified as a marine and coastal protected area in 2009. The dive site lies in the same western Basse-Terre corridor as the Cousteau Reserve (Jacques Cousteau Marine Reserve), which begins at the Îlets Pigeon a short distance to the south.
+Pointe à Lézard is a cape in the commune of Bouillante, described by ScubaGo as "the last dive site of the National Park towards the south of Bouillante." The site consists of a rocky ridge with navigation between small peaks. Most diving is done between 15 and 25 metres, with depth potential to 40 m for those with appropriate certification.
 
-The site is described by Plongeur.com as offering "beautiful coloured sponges" with diving between small peaks. Depths range from 6 to 40 metres, though the maximum planned recreational depth here is 25 metres.
+A geothermal vent basin is present at 23 metres, the same volcanic system that creates Les Sources d'Eau Chaude nearby. The basin contains hot springs and a "magnificent fault" formation.
 
-## Dive Profile
+The cape and its surrounding marine zone were classified as a protected coastal area in 2009.
 
-- **Depth range**: 6–25 m (recreational maximum)
-- **Entry**: Boat dive
-- **Current**: Light to moderate; western Basse-Terre is generally calmer than Atlantic-facing sites
-- **Visibility**: Good; consistent with Cousteau Reserve area conditions
-- **Setting**: Rocky pinnacles, sponge-covered walls, and mixed reef terrain
+## Site Information
+
+- **Location**: Bouillante, Basse-Terre, Guadeloupe (southern end of Cousteau Reserve corridor)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall/rocky ridge with sponge cover and geothermal features
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 metres (recreational maximum; wall continues deeper)
 
 ## Marine Life
 
-The western Basse-Terre reef corridor supports typical Cousteau Reserve fauna. Documented reef species in this area include yellowtail snapper, French angelfish, hawksbill turtles, southern stingrays, hogfish, moray eels, and lobsters. The colourful sponge communities on the rocky formations provide habitat for a diverse range of invertebrates and small reef fish. The area's protected status since 2009 has contributed to healthy reef condition.
+Confirmed by ScubaGo and Les Baillantes Tortues for this site: spiny lobsters (langouste royale) — up to 13 reported in a single fault crevice; green turtles (resting at night at this site); gorettes, pisquettes, cardinal fish; frogfish (rare sighting confirmed); angelfish; moray eels. These species are attributed specifically to this site by named operator sources.
 
-## Notes
+Note: Generic regional species (eagle rays, stingrays, nurse sharks) are not attributed to this specific site without per-site source confirmation and have been removed from previous descriptions.
 
-This site sits just north of the core Cousteau Reserve zone. Most dive operators based in Bouillante (including Tropical Sub Diving and Les Heures Saines) include Pointe à Lézard on their site rotation alongside the Îlets Pigeon reserve sites.
+## Dive Profile
+
+Rocky ridge from the surface descending between peaks. Navigate between the small peaks 6–40 m (recreational maximum 25 m). The geothermal basin is at 23 m. Multicoloured sponges cover the rocky formations throughout. Night dives available — sleeping turtles confirmed on the site.
 
 ---
-
-*Sources: [Plongeur.com — La Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard). Last updated 2026-05-17.*
+*Sources: [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard), [Plongeur.com — Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard). Last updated 2026-06-04.*

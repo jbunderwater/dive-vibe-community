@@ -3,7 +3,7 @@ name: Batu Jabu
 lat: -0.3995
 lng: 127.735
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null

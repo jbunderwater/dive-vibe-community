@@ -13,19 +13,32 @@ addedBy: osm_import
 
 ## Le Franjack
 
-Le Franjack is a historic wreck dive in Guadeloupe, Caribbean.
+Le Franjack is a 53-metre deliberately scuttled wreck in the Cousteau Reserve, lying on a sandy bottom at 23–24 metres near Malendure — the most accessible of the three reserve wrecks and a popular first wreck dive for intermediate divers.
 
 ## Overview
 
-The Franjack is a 45-metre former sand-transport vessel badly damaged by Hurricane Hugo in 1989 and deliberately sunk in 1996 at 23 metres on the sandy bottom of the Cousteau Reserve near Malendure, specifically cleaned and prepared as an accessible wreck dive for beginners. The engine room, kitchen, and hold are all safely penetrable, and a large green moray eel reliably inhabits the hull, with snappers, cardinals, lobsters, and green turtles — which use the wreck for nightly rest — completing the resident cast. Slow disintegration has produced a spectacular colonisation of different sponge species across the superstructure, making the Franjack one of the most colourful wreck dives in the French Caribbean.
+The Franjack was built in 1958 at the Danyard Frederikshavns yard in Denmark under the name Oresund (later sources indicate 53.32 m × 10.04 m, 486 tonnes). It operated as a sand-transport vessel. In 1976 it was purchased by shipowner Lacascade-Michaud in La Rochelle and renamed Franjack in honour of his two sons François and Jacky. The vessel arrived in Guadeloupe in 1983 to work for SAGUA (Sablière de Guadeloupe). Hurricane Hugo damaged it in September 1989. The dive centre Les Heures Saines then prepared it as an artificial reef and deliberately scuttled it on 9 June 1996 at 23–24 metres depth on the sandy bottom of the Cousteau Reserve.
+
+The wreck rests flat on its keel. Its engine room, galley, and hold spaces are accessible for internal exploration.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, near Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 meters
+- **Difficulty Level**: Intermediate (Open Water / Level 1 sufficient)
+- **Maximum Depth**: 23–24 metres
+- **Vessel Length**: 53.32 metres
+- **Vessel Tonnage**: 486 tonnes
+- **Scuttled**: 9 June 1996
+
+## Marine Life
+
+Confirmed at this wreck: sponges, bryozoans, anemones, moray eels, shrimp colonising the hull surfaces (confirmed by Les Heures Saines). Green turtles use the wreck to rest at night (confirmed by Les Heures Saines). A large green moray eel is reported as a reliable resident of the hull interior by PADI. These species are attributed specifically to this wreck by named sources; no generic regional species are added.
+
+## Safety
+
+Penetration of the engine room, galley, and hold is possible — enter only with a torch and appropriate training for wreck penetration. Never penetrate beyond the light zone without a proper wreck certification and redundant lighting. The wreck has been in the water since 1996 and some sections may be weakened. Safety stop mandatory at 5 metres.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Wrecks](https://www.heures-saines.com/en/exploration-of-wrecks/), [PADI — Franjack](https://www.padi.com/dive-site/the-guadeloupe-islands/franjack/), [Divingaway — Wreck Franjack](https://divingaway.com/en/wreck-366/franjack), [DiveBuddy — Franjack Guadeloupe](http://www.divebuddy.com/divesite/3766/franjack-guadeloupe/). Last updated 2026-06-04.*

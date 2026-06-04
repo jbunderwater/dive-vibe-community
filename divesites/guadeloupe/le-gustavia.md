@@ -13,19 +13,32 @@ addedBy: osm_import
 
 ## Le Gustavia
 
-Le Gustavia is a historic wreck dive in Guadeloupe, Caribbean.
+Le Gustavia is the deepest of the three deliberately scuttled wrecks in the Cousteau Reserve, lying upright at 40 metres on a sandy bottom approximately one mile from Malendure Beach.
 
 ## Overview
 
-The Gustavia was a 49-metre coastal cargo vessel that traded between Caribbean islands before Hurricane Hugo damaged it beyond repair in 1989, and was deliberately scuttled as an artificial reef in 1991 one mile from Malendure Beach, sitting upright on a sandy bottom at 40 metres. The deep wreck is covered in sponges and soft corals and surrounded by curious barracuda that commonly swirl around ascending divers during the safety stop, while the sandy bottom around the keel hosts garden eels and occasional stingrays. One of three shipwrecks deliberately sunk within the Cousteau Reserve, the Gustavia is the deepest and requires advanced certification, earning its reputation as one of Guadeloupe's most atmospheric dives.
+The Gustavia was a 48.32-metre cargo vessel (7.6 m wide, 416 tonnes) built in 1950 by PAHL SCHIFFSWERFT & MASCHINENBAU in Germany. It operated under three previous names — Hamburg (1950), Drochtersen (1963), and Géocéanique (1975) — before being renamed Gustavia in 1982 for inter-Caribbean cabotage trade. Hurricane Hugo (Category 5) severely damaged the vessel on 17 September 1989 while it was moored at Pointe-à-Pitre; it was subsequently declared unfit for navigation. After decontamination and cleaning, the Gustavia was deliberately scuttled in 1991 as an artificial reef approximately one mile from Malendure.
+
+The wreck sits upright on a sandy bottom at 40 metres depth and is heavily colonised with sponges and soft corals. Due to the depth, this is classified an Advanced dive (PE40 / PADI Advanced Open Water with Deep specialty required). Les Heures Saines records depth as 40 m; CameraOnBoard and Divingaway confirm 40 m.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, ~1 mile from Malendure Beach, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Difficulty Level**: Advanced (PE40 / AOW + Deep required)
+- **Maximum Depth**: 40 metres
+- **Vessel Length**: 48.32 metres
+- **Vessel Tonnage**: 416 tonnes
+- **Scuttled**: 1991
+
+## Marine Life
+
+Confirmed sightings at this wreck include large barracudas that congregate around the structure and ascending divers, groupers holding station near the superstructure, and moray eels inhabiting interior spaces. The hull surfaces are heavily encrusted with colourful sponges. These species are confirmed by Les Heures Saines and CameraOnBoard dive reports; no additional species are attributed without site-specific source confirmation.
+
+## Safety
+
+Advanced certification is mandatory due to the 40-metre depth. Narcosis should be discussed with your buddy before descent. Bottom time on air at this depth is limited — plan the dive accordingly. Always carry a torch for the interior. Safety stop of minimum 3 minutes at 5 metres is mandatory.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Heures Saines — Wrecks](https://www.heures-saines.com/en/exploration-of-wrecks/), [CameraOnBoard — Diving the Gustavia](https://www.cameraonboard.fr/en/34-diving-on-the-gustavias-wreck-of-gwada/), [Divingaway — Wreck Gustavia](https://divingaway.com/en/wreck-367/gustavia), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/). Last updated 2026-06-04.*

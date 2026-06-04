@@ -3,7 +3,7 @@ name: Les Sources d'Eau Chaude
 lat: 16.16
 lng: -61.795
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,35 @@ addedBy: osm_import
 
 ## Les Sources d'Eau Chaude
 
-Les Sources d'Eau Chaude — the Hot Water Springs — is one of Guadeloupe's most geologically distinctive dive sites, located near Pigeon Island in the Malendure area. Thermal vents and hydrothermal activity at the seabed create warm patches and fault formations that give this site a character found nowhere else in the island's dive roster.
+Les Sources d'Eau Chaude — the Hot Water Springs — is one of Guadeloupe's most geologically distinctive dive sites, located near Pigeon Island in the Malendure area. Thermal vents at the seabed create warm-water patches in a fault zone at approximately 23 metres depth.
 
 ## Overview
 
-Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geothermal fault zone where hot springs vent into the Caribbean through the seabed. At around 15 meters depth, divers can feel localised warm water seeping from fissures in the rock and observe the fault formations created by volcanic activity over thousands of years. The seabed features dramatic cracked rock formations, with coral and sponge growth adapted to the slightly elevated temperatures. Visibility averages 20–25 meters. Background water temperature is the usual 26–28°C, but water near the vents can be noticeably warmer.
+Situated close to the Cousteau Reserve, this site sits on a geothermal fault zone. At around 23 metres depth (not 15 m as previously noted — the depth discrepancy in earlier records reflects the reef crest, not the vent zone), thermal springs vent into the Caribbean through fissures in the rock. A basin at 23 metres contains several hot springs. Les Baillantes Tortues and ScubaGo both describe the vent basin at 23 m and a "magnificent fault" formation with multiple spiny lobsters.
+
+Diving here typically ranges from shallow reef sections at 6–10 m down to the vent basin at 23 m. The maxDepth field has been updated from 15 m to 23 m to match operator descriptions of the vent depth.
 
 ## Site Information
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef with geothermal vents
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20–25 meters
-- **Current**: Light to moderate
-- **Best Time**: November to May
+- **Maximum Depth**: 23 metres (vent basin depth; reef crest from ~6 m)
 
 ## Marine Life
 
-Despite — or perhaps because of — the geothermal activity, marine life is rich. Large spiny lobsters (langouste royale) occupy the crevices and fault formations, making this one of the better lobster-spotting sites in the Malendure area. Sea turtles frequent the site, and parrotfish, angelfish, and squirrelfish are abundant around the coral and rock formations. The fault zone also harbours moray eels and conger eels in deeper recesses.
+Confirmed at this site by Les Baillantes Tortues and ScubaGo: spiny lobsters (langouste royale) — up to 13 in the same fault crevice; green turtles resting at night; gorettes (French grunts), pisquettes, cardinal fish. A rare frogfish has been sighted. Angelfish and eels are present. These species are attributed specifically to this site; generic regional species are not listed.
+
+Note: "Conger eels" and "parrotfish" mentioned in a previous version are not confirmed by site-specific sources for this location and have been removed.
 
 ## Dive Profile
 
-Descend to the reef and navigate toward the fault zone, identifiable by the cracked geological formations on the seabed. Place your hand carefully near (not on) the vent openings to feel the warm water rising. Explore the full extent of the fault structures before ascending through the coral zone for your safety stop.
+Descend from the reef crest and navigate toward the fault zone, identifiable by cracked geological formations. Place your hand near (not on or in) the vent openings to feel the warm water rising. Explore the full extent of the fault structures at 23 m before ascending through the coral zone for your safety stop.
 
-## Entry and Exit
+## Safety
 
-Boat dive from Malendure operators, often combined with a Cousteau Reserve dive. Giant stride entry, SMB required on ascent. The site is accessible year-round but conditions are typically best from November through May.
-
-## Tips and Recommendations
-
-- This is one of the Caribbean's few accessible geothermal dive sites — the scientific interest alone makes it worth a visit
-- Locate the vent openings and feel the temperature difference — a memorable underwater experience
-- Large lobsters at this site are protected — observe, don't disturb
-- The fault formations create interesting crevice habitat that rewards slow, careful exploration
-
-## Safety Considerations
-
-Do not attempt to put fingers or hands into vent openings — water temperature can be high close to the source. Maintain careful buoyancy over the geological formations. The site attracts divers specifically for the vents — follow your guide's briefing on safe interaction with the geothermal features.
-
-## Photography
-
-The volcanic geology creates dramatic subjects — cracked seabed formations and warm-water shimmer rising from the vents photograph as visually striking and scientifically interesting. Macro work on large lobsters in the fault crevices is highly rewarding. The combination of geological and biological subjects makes this an unusually varied photography dive.
+Do not put fingers or hands into vent openings — water temperature close to the source can be very high. Maintain careful buoyancy over geological formations. Follow your guide's briefing on safe interaction with geothermal features.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Les Heures Saines — Dive Sites](https://www.heures-saines.com/spots-de-plongee/). Last updated 2026-06-04.*

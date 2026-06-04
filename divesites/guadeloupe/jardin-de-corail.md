@@ -13,50 +13,39 @@ addedBy: osm_import
 
 ## Jardin de Corail
 
-Jardin de Corail — the Coral Garden — is widely considered the most iconic dive site within the Cousteau Reserve at Pigeon Island, featuring a bronze bust of Jacques Cousteau placed at 12 meters as a permanent tribute to the explorer who championed these waters.
+Jardin de Corail — the Coral Garden — is widely considered the most iconic dive site within the Cousteau Reserve at Pigeon Island. A bronze bust of Jacques Cousteau placed at 12 metres in January 2004 marks the site as a permanent tribute to the explorer who championed these waters.
 
 ## Overview
 
-This site on the northern face of Pigeon Island's inner islet is named for its remarkable carpet of corals that begins at just 3 meters depth. Dense fields of brain corals, pillar corals, star corals, and enormous sea fans extend across a gently terraced reef that drops from the shallows to 12 meters and beyond. The concentration of hard coral cover is exceptional by Caribbean standards. Visibility consistently reaches 20–30 meters, and the protected position of the site within the Cousteau Reserve means fish life is dense, bold, and unafraid of divers. Water temperature averages 27°C.
+This site on the northern face of Pigeon Island's inner islet features a remarkable carpet of corals beginning at just 3 metres depth. Dense fields of brain corals, pillar corals, star corals, and staghorn corals extend across a gently terraced reef that drops from the shallows to 12 metres and beyond. The concentration of hard coral cover is exceptional by Caribbean standards. The reserve's protection has allowed fish populations to thrive.
+
+The Cousteau bust was placed at 12 metres on the site of the Coral Garden in January 2004 by the Mayor of Bouillante (confirmed by DiveSSI and Snorkeling Report).
 
 ## Site Information
 
-- **Location**: North face, Pigeon Island (Îlet Pigeon), Malendure, Guadeloupe
+- **Location**: North face, Pigeon Island (Îlet Pigeon), Cousteau Reserve, Malendure, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Minimal on the inner face
-- **Best Time**: November to May
+- **Maximum Depth**: 12 metres
 
 ## Marine Life
 
-Fish populations at Jardin de Corail benefit from years of protection under the reserve designation. Large French angelfish approach divers closely, and schools of blue tangs sweep over the coral mounds. Green and hawksbill turtles are seen on virtually every dive. Barracuda patrol the reef edges, and Caribbean reef sharks occasionally visit from deeper water. The coral carpet itself hosts enormous biodiversity — flamingo tongues on sea fans, banded coral shrimp in anemones, and juvenile fish sheltering in branching corals.
+Confirmed species at this site: French angelfish, grey angelfish, blue tangs, parrotfish, barracuda, hawksbill turtles, green turtles, pufferfish (diodons), triggerfish, surgeonfish, platax (batfish), spiny lobsters (langouste) — confirmed by DiveSSI and Snorkeling Report for this specific site. Flamingo tongues on sea fans and banded coral shrimp in cleaning stations are documented. Bonitos visit the 15–25 m zone deeper beyond the shallow reef crest.
+
+Note: "Caribbean reef sharks occasionally visit from deeper water" stated in a previous version is not confirmed by a source specific to Jardin de Corail and has been removed.
 
 ## Dive Profile
 
-Begin at the reef crest (3 meters) and follow the slope to the sandy plateau at 12 meters where the Cousteau bust sits. The profile is flat and easy, ideal for the first open-water dives of a trip. The bust at 12 meters serves as a natural orientation point. Swim along the reef face examining coral heads and crevices before ascending for your safety stop in the shallows among the coral carpet.
+Begin at the reef crest (3 metres) and follow the slope to the sandy plateau at 12 metres where the Cousteau bust sits. The profile is flat and easy. The bust at 12 metres serves as a natural orientation point. Swim along the reef face examining coral heads and crevices before ascending through the shallow coral carpet for your safety stop.
 
 ## Entry and Exit
 
-Boat access from Malendure, 5 minutes away. Giant stride entry to mooring buoy lines. On ascent, deploy your SMB in the open water away from the reef — boat traffic between the reserve and the mainland is consistent.
+Boat access from Malendure, 5 minutes. Giant stride entry to mooring buoy lines. Deploy SMB on ascent in the open water away from the reef — boat traffic between the reserve and the mainland is consistent.
 
-## Tips and Recommendations
-
-- Visit the Cousteau bust at 12 meters — a unique underwater landmark and popular photo subject
-- Dive the site before 10am for the best combination of light and smaller crowds
-- The shallow coral carpet at 3 meters offers extraordinary snorkeling and perfect practice for newly certified divers
-- Look for the cleaning stations where small wrasse service larger fish — active throughout the day
-- Combine with the Aquarium site for a two-tank day in the reserve
-
-## Safety Considerations
+## Safety
 
 As with all Cousteau Reserve sites, respect the protected status — no touching, collecting, or feeding. SMB required on ascent due to boat traffic. Fire coral is prevalent in the reef crest zone; exercise buoyancy control carefully. Dive with a licensed local operator familiar with reserve rules.
 
-## Photography
-
-Jardin de Corail is one of the French Caribbean's premier photography destinations. The Cousteau bust at depth is an iconic wide-angle subject, particularly when framed against a diver or turtle. The coral carpet at 3 meters in morning light photographs beautifully without strobes. Macro subjects are abundant on coral and sponge surfaces.
-
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [DiveSSI — Le Jardin de Corail](https://www.divessi.com/en/mydiveguide/divesite/le-jardin-de-corail-ikets-pigeon-reserve-cousteau-iles-france-113622), [Snorkeling Report — Pigeon Islands Cousteau Reserve](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en). Last updated 2026-06-04.*
