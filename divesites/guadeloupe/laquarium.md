@@ -23,9 +23,9 @@ The site features underwater tunnels passing through reef formations and opening
 
 - **Location**: Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with tunnels
-- **Difficulty Level**: Intermediate (enclosed tunnel passages require comfort with reduced visibility)
-- **Maximum Depth**: 18 metres
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 

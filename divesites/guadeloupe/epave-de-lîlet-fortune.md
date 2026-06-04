@@ -24,10 +24,10 @@ The site lies adjacent to the Grand Cul-de-Sac Marin marine protected area. It i
 ## Site Information
 
 - **Location**: Northeast of Îlet Fortune, off Goyave, Guadeloupe
-- **Entry Type**: Boat or kayak
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 metres
+- **Maximum Depth**: 16 meters
 
 ## Marine Life
 

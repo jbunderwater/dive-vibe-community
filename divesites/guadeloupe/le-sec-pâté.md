@@ -27,7 +27,7 @@ The site requires Advanced certification due to depth (30 m) and potential for s
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

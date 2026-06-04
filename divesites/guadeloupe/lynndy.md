@@ -25,9 +25,9 @@ The OSM seamark category "dangerous" refers to the navigational hazard classific
 
 - **Location**: Anse Mire, Baie des Saintes, Terre-de-Haut, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Distance from shore**: approximately 100 metres
 
 ## Marine Life

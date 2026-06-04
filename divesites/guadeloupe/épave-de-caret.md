@@ -26,10 +26,10 @@ Penetration of the interior is not permitted — the hull is structurally unstab
 ## Site Information
 
 - **Location**: West of Îlet Caret, Grand Cul-de-Sac Marin, northern Guadeloupe
-- **Entry Type**: Boat dive (accessible on Sainte-Rose excursions)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres (shallowest sections 2–3 m)
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 

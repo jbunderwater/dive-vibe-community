@@ -26,8 +26,8 @@ The wreck sits upright on a sandy bottom at 40 metres depth and is heavily colon
 - **Location**: Cousteau Reserve, ~1 mile from Malendure Beach, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / AOW + Deep required)
-- **Maximum Depth**: 40 metres
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Vessel Length**: 48.32 metres
 - **Vessel Tonnage**: 416 tonnes
 - **Scuttled**: 1991

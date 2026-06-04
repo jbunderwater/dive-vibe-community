@@ -13,49 +13,22 @@ addedBy: osm_import
 
 ## Caye Martinique
 
-Caye Martinique is a reef dive site at the southern end of the Grand Cul-de-Sac Marin lagoon off Grande-Terre, positioned between the Sainte-Anne shoreline and the outer reef systems. Despite sharing a name with the neighbouring island, the site is entirely within Guadeloupe's waters.
+Caye Martinique is an OSM-recorded reef node in the southern Grand Cul-de-Sac Marin lagoon off Grande-Terre. Despite sharing a name with the neighbouring island, the site is entirely within Guadeloupe's waters.
 
 ## Overview
 
-The reef structure at Caye Martinique rises from a sandy lagoon floor and forms a compact series of coral formations descending to 18 meters. Coral health is good, with brain, star, and encrusting corals forming the primary framework. Barrel sponges and rope sponges add colour at deeper levels. The lagoon setting provides shelter from Atlantic swell, keeping conditions calm and visibility reliable at 15–25 meters. Water temperature stays in the 26–28°C range year-round.
+The site is a natural reef in the protected lagoon system of the Grand Cul-de-Sac Marin. No published dive guide or operator documentation has been found that lists Caye Martinique as a specifically named dive site with described conditions. Maximum recorded depth is 18 metres. The lagoon location provides shelter from Atlantic swell.
 
 ## Site Information
 
 - **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Generally light within the lagoon
-- **Best Time**: November to May
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly seen at this site, and southern stingrays rest on sandy clearings between coral formations. French grunts, yellowtail snappers, and squirrelfish form dense aggregations in the midwater. Spotted morays and conger eels occupy deeper crevices. Eagle rays are occasional visitors, particularly in the early morning.
+No site-specific marine life documentation found for Caye Martinique. Regional marine life applies; no site-specific species reports found.
 
-## Dive Profile
-
-Descend to the reef crest and follow the gradual slope to the sandy bottom at 18 meters. The dive rewards slow exploration of coral heads and crevices. Bring adequate air for a safety stop at 5 meters — the shallows provide colourful reef-crest scenery to accompany your stop.
-
-## Entry and Exit
-
-Boat dive from Sainte-Anne or Saint-François operators. Giant stride or back-roll entry. SMB required on ascent. Commonly paired with Caye Tome for a two-tank itinerary in the southern lagoon.
-
-## Tips and Recommendations
-
-- A reliable, uncrowded alternative to the busier Cousteau Reserve sites
-- Early morning departures from Sainte-Anne give the best chance of calm conditions
-- Stingray sightings are more frequent when diving slowly and staying low to the sandy floor
-- The 10–15 meter zone is the sweet spot for marine life variety and photography light
-
-## Safety Considerations
-
-Monitor air consumption carefully at depth — the sandy bottom at 18 meters can encourage divers to stay deeper than planned. Deploy SMB well before ascending. Fire coral is present; buoyancy control is essential.
-
-## Photography
-
-The bright lagoon water and coral-head formations provide natural-light portrait opportunities at 8–15 meters. Wide-angle shots capturing turtles or stingrays against coral backdrops are the highlight of this site.
-
----
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*

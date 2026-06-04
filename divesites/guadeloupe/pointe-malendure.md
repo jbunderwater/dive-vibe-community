@@ -22,10 +22,10 @@ Entry is from Malendure's black volcanic sand beach. The site descends through a
 ## Site Information
 
 - **Location**: Malendure Beach, Bouillante, Basse-Terre, Guadeloupe
-- **Entry Type**: Shore entry from black volcanic sand beach
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres (recreational; drop-off continues to ~35 m)
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

@@ -24,8 +24,8 @@ The site begins in only 4 metres of water and drops to 22 metres. La Dive Boutei
 - **Location**: West of Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate (suitable for all levels; current management required)
-- **Maximum Depth**: 22 metres
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 22 meters
 
 ## Marine Life
 

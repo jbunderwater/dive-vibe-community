@@ -25,9 +25,9 @@ The reserve offers diverse dive profiles from 3 metres to beyond 30 metres on th
 
 - **Location**: Pigeon Island (Îlet Pigeon), Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 metres (this overview entry; individual reserve sites vary)
+- **Maximum Depth**: 12 meters
 
 ## Marine Life
 

@@ -28,8 +28,8 @@ Interior spaces including cabins, galley, and dining areas are accessible for ex
 - **Location**: Cousteau Reserve, south of Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (PE40 / AOW + Deep required)
-- **Maximum Depth**: 31–33 metres (sources vary slightly; deck at approximately 30 m)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 33 meters
 - **Vessel Length**: 53 metres
 - **Vessel Tonnage**: 660 tonnes
 - **Scuttled**: 9 July 2003

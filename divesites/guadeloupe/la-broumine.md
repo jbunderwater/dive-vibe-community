@@ -23,9 +23,9 @@ La Broumine is recorded in OSM data as a seamark wreck with category "mast_showi
 
 - **Location**: Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres (OSM data)
+- **Maximum Depth**: 18 meters
 
 ## Notes
 

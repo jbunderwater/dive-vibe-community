@@ -27,9 +27,9 @@ Note: The OSM tag classifies this as a "wall" dive, but site descriptions from g
 
 - **Location**: Passe de la Baleine, between Terre-de-Haut and Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Reef/canyon dive with archaeological wreck
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: Good in settled conditions
 - **Current**: Tidal flow through the passage
 

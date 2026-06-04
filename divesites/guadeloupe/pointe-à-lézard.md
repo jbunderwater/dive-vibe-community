@@ -27,9 +27,9 @@ The cape and its surrounding marine zone were classified as a protected coastal 
 
 - **Location**: Bouillante, Basse-Terre, Guadeloupe (southern end of Cousteau Reserve corridor)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/rocky ridge with sponge cover and geothermal features
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres (recreational maximum; wall continues deeper)
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

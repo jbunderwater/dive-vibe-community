@@ -26,8 +26,8 @@ The wreck rests flat on its keel. Its engine room, galley, and hold spaces are a
 - **Location**: Cousteau Reserve, near Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (Open Water / Level 1 sufficient)
-- **Maximum Depth**: 23–24 metres
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 23 meters
 - **Vessel Length**: 53.32 metres
 - **Vessel Tonnage**: 486 tonnes
 - **Scuttled**: 9 June 1996

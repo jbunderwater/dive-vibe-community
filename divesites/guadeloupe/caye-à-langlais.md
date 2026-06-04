@@ -13,27 +13,22 @@ addedBy: osm_import
 
 ## Caye à l'Anglais
 
-Caye à l'Anglais is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe (Basse-Terre side), accessible by boat. The site sits within the broader Grand Cul-de-Sac Marin marine reserve, which protects the largest coral reef system in the Lesser Antilles at approximately 29 kilometres of reef.
+Caye à l'Anglais is an OSM-recorded reef feature in the northern Grand Cul-de-Sac Marin, part of the barrier reef system protecting the inner lagoon.
 
 ## Overview
 
-The Grand Cul-de-Sac Marin covers around 15,000 hectares and encompasses seagrass beds, mangroves, and coral reef environments. Caye à l'Anglais lies within this protected lagoon system. The coordinates place it north-east of Pointe-à-Pitre, in the sheltered inner reef waters that characterise this part of Guadeloupe. The site reaches a maximum depth of 18 metres, suitable for beginner and intermediate divers.
+The site is a natural reef in the Grand Cul-de-Sac Marin marine reserve, which protects the largest coral reef system in the Lesser Antilles. No published dive guide or operator documentation has been found that lists Caye à l'Anglais as a specifically named dive site. Maximum recorded depth is 18 metres.
 
-## Dive Profile
+## Site Information
 
-- **Depth range**: Shallow to 18 m
-- **Entry**: Boat dive
-- **Current**: Typically calm within the protected lagoon
-- **Conditions**: Sheltered from Atlantic swell; good visibility in settled weather
+- **Location**: Northern Grand Cul-de-Sac Marin, Guadeloupe
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-The Grand Cul-de-Sac Marin reef system hosts nearly 250 fish species and 60 species of coral, sponges, and gorgonians. Species documented in this protected lagoon include French angelfish, yellowtail snapper, hawksbill turtles, red starfish, schooling reef fish, sea urchins, and crustaceans. Seagrass areas near the reef support juvenile fish.
+No site-specific marine life documentation found for Caye à l'Anglais. Regional marine life applies; no site-specific species reports found.
 
-## Notes
-
-No site-specific published dive guide documentation has been found for Caye à l'Anglais as a named dive site distinct from the broader Grand Cul-de-Sac Marin area. Operators based in Sainte-Rose are the primary access point for dives in this part of the reserve.
-
----
-
-*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*
+*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*

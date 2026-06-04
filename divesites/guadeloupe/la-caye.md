@@ -23,9 +23,9 @@ La Caye is listed by Les Heures Saines as one of their regular dive sites. It is
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

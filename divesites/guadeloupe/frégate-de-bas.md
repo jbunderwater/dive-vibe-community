@@ -23,9 +23,9 @@ Frégate-de-Bas (Lower Frigate) is the companion site to Frégate-de-Haut (Upper
 
 - **Location**: Petit Cul-de-Sac Marin, near Petit-Bourg, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

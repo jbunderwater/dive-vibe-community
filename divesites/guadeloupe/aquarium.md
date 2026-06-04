@@ -25,9 +25,9 @@ Note: this "Aquarium" site near Malendure (part of the Cousteau Reserve) is dist
 
 - **Location**: Cousteau Reserve, Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 metres
+- **Maximum Depth**: 6 meters
 
 ## Marine Life
 

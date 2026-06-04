@@ -25,9 +25,9 @@ Anse Caraïbe Plongée has operated from this beach for over 25 years, offering 
 
 - **Location**: Plage Caraïbe, Pointe-Noire, Basse-Terre, Guadeloupe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner (discovery dives from age 8 offered here)
-- **Maximum Depth**: 10 metres
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 
 ## Marine Life
 

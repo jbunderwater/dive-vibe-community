@@ -25,9 +25,9 @@ The Cousteau bust was placed at 12 metres on the site of the Coral Garden in Jan
 
 - **Location**: North face, Pigeon Island (Îlet Pigeon), Cousteau Reserve, Malendure, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 
 ## Marine Life
 

@@ -25,9 +25,9 @@ Diving here typically ranges from shallow reef sections at 6–10 m down to the 
 
 - **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with geothermal vents
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 metres (vent basin depth; reef crest from ~6 m)
+- **Maximum Depth**: 23 meters
 
 ## Marine Life
 

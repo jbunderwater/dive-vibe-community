@@ -23,9 +23,9 @@ The site encompasses two features: La Pointe (the headland) and La Patate Cabrit
 
 - **Location**: Îlet à Cabrit, entrance to Baie des Saintes, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/multi-level
-- **Difficulty Level**: Beginner (plateau); more experienced divers access the deeper drop-off
-- **Maximum Depth**: 15–20 metres (OSM entry records 15 m; drop-off reaches 20–30 m)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 

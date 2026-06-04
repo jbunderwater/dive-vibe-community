@@ -23,9 +23,9 @@ The name reflects the site's exceptionally calm, enclosed character. A rocky sea
 
 - **Location**: Between the twin islets of Pigeon Island, Cousteau Reserve, Malendure, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 metres
+- **Maximum Depth**: 6 meters
 
 ## Marine Life
 

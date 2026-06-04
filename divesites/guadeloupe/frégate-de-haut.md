@@ -23,9 +23,9 @@ The Îlet Frégate de Haut was a small island in the Petit Cul-de-Sac Marin that
 
 - **Location**: Petit Cul-de-Sac Marin, near Petit-Bourg, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 
