@@ -1,7 +1,7 @@
 ---
 name: Northern Exposure
-lat: 12.2
-lng: -61.62
+lat: 12.06
+lng: -61.77
 difficulty: Beginner
 maxDepth: 23
 entryType: boat
@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Northern Exposure
 
-A broad, undisturbed reef on Grenada's less-visited north coast — the longest boat ride from St. George's, but rewarded with dense coral coverage, natural fish behaviour, and a noticeably different character to the well-trafficked southwest sites.
+A sloping reef on Grenada's southwest coast, part of the extensive Boss Reef system — beginning in a shallow sandy area with an eel garden, then sweeping along a gently sloping reef carpeted with finger and pillar corals, sea rods, and soft coral trees.
 
 ## Overview
 
-Located off Grenada's northern coastline, Northern Exposure features a broad reef that descends to around 23 metres. The north coast sees significantly fewer dive boats than the southwest, and the reef reflects this lower human traffic pressure — coral coverage is dense and marine life is notably less conditioned to human presence. The reef features good hard coral diversity including brain, star, and pillar corals, with substantial barrel sponge growth at depth. Visibility can be exceptional in good conditions, reaching 30 metres or more. Water temperature is 26–28°C year-round.
+Northern Exposure is a section of the Boss Reef system on Grenada's southwest coast, accessible from St. George's harbour. The site begins along a shallow patch of sand where crustaceans including large queen conch are abundant, with an eel garden at around 6 metres. The reef slopes gently to the seafloor at around 23 metres (75 feet), carpeted in patches of finger and pillar corals, branching sea rods, sea whips, and forests of soft brown coral trees. Azure vase sponges are a noted feature. The site is within Grenada's Marine Protected Area and is suitable for all diver levels. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
+
+**Note on previous description**: Earlier versions of this page incorrectly described Northern Exposure as being on Grenada's "north coast" and requiring a 30–60 minute boat ride. Multiple authoritative sources (ECO Dive Grenada, Pure Grenada, Sportif Dive) confirm this site is part of the Boss Reef system on the southwest coast, accessible within minutes of St. George's harbour. The coordinates have been corrected accordingly.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–23 m |
+| Depth Range | 6–23 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,32 +35,27 @@ Located off Grenada's northern coastline, Northern Exposure features a broad ree
 
 ## Marine Life
 
-The lower dive pressure on the north coast means marine life behaves less predictably around divers — which is a positive quality, as encounters feel more naturalistic. Sea turtles are less habituated to boats and divers, making interactions feel special. Large parrotfish, groupers, and Caribbean reef sharks are more common here than at the south coast sites. Eagle rays and the occasional hammerhead are documented at the deeper reef sections on the more northerly exposed faces.
+Northern Exposure hosts an active reef fish community documented by ECO Dive and operator accounts. Large shoals of blue Creole wrasse sweep through the reef. Porcupine fish, Spanish hogfish, yellowtail snapper, schoolmasters, and parrotfish are confirmed residents. Caribbean lobsters peek from canyons and crevices. Stingrays, queen conch, and octopus are found in the sandy patches that intersperse the reef. Barracuda and Atlantic spadefish are also documented at this site. Sea turtles are present. Note: previous descriptions claiming "Caribbean reef sharks more common here than at south coast sites" and "occasional hammerhead sharks" had no source support and have been removed.
 
 ## Dive Profile
 
-Descend to the reef crest and follow the slope to 23 metres, then ascend along the reef face. The less-explored terrain rewards divers who look carefully — the north coast reef has corners and structures that aren't well-documented and may yield unexpected finds. Allow adequate air for the full safety stop and the boat return.
+The dive begins in the sandy shallows, passes through the eel garden at 6 metres, and follows the gently sloping reef to the seafloor at 23 metres. The undulating topography alternates between coral garden sections and sandy glades with their crustacean and cephalopod inhabitants. Ascend through the shallower coral zone for the safety stop. The site connects southward along the Boss Reef system.
 
 ## Entry and Exit
 
-Longer boat ride of 30–60 minutes from south coast operators. Giant stride entry; DSMB essential on ascent given the more remote location. Typically offered as a half-day excursion combining two dives on the north coast. Check conditions carefully with the operator.
+Boat dive from True Blue Bay or Grand Anse area operators — the site is part of the southwest Boss Reef system accessible within a short boat ride from St. George's harbour area. Giant stride entry; DSMB recommended on ascent. Often combined with the Veronica L wreck for a two-tank morning: the wreck dives first, then a swim along Northern Exposure connects the two sites.
 
 ## Tips and Recommendations
 
-The journey is worth it — this site offers a noticeably different character to the more visited south coast. Less frequent dive traffic means marine life behaviours are more natural and encounters more spontaneous. Bring lunch and plan for a full half-day north coast excursion. The remoteness means self-sufficiency in navigation and safety equipment is important.
+The sandy areas at the base of the reef are particularly productive — take time to investigate queen conch, octopus, and ray activity in the glades between coral sections. Look for Azure vase sponges at depth — these distinctive sponges are a visual highlight of the site. The eel garden at 6 metres rewards slow observation. The site's beginner-friendly depth range makes it a useful option for a second tank after a deeper site.
 
 ## Safety Considerations
 
-The north coast is more exposed to Atlantic swell than the south — conditions can change rapidly. Only attempt the journey with an operator who knows the north coast and monitors weather carefully. The longer distance from shore means any equipment problem is more serious than at the nearshore sites. DSMB is essential.
+Standard precautions apply. DSMB deployment on ascent. Fire coral is present on the reef. Monitor for current in the open water sections.
 
 ## Photography
 
-The undisturbed quality of Northern Exposure's reef makes it ideal for wildlife photography — animals behave naturally. The higher probability of large species encounters (sharks, eagle rays, unhurried turtles) rewards wide-angle setups. Natural light at 15–23 metres in Grenada's clear north coast water is excellent.
-
-## Additional Resources
-
-- Aquanauts Grenada: offers north coast excursions including Northern Exposure on request
-- Best approached as a full-day trip combining two north coast dives
+Northern Exposure's varied topography of coral garden, sandy glade, and soft coral forest offers multiple photography compositions. Wide-angle reef landscape shots, school-of-fish images with Creole wrasse, and close-up subjects in the sandy patches (octopus, conch, stingrays) are all achievable in good ambient light at the site's shallow depth range.
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DiveAdvisor - Northern Exposure](https://diveadvisor.com/grenada/northern-exposure), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Sportif Dive - Grenada](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [DiveAdvisor - Northern Exposure](https://diveadvisor.com/grenada/northern-exposure). Last updated 2026-06-04.*

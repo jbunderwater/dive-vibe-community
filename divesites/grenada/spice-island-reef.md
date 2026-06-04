@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Spice Island Reef
 
-A compact, colourful shallow reef off southwest Grenada, named for the island's celebrated status as the world's second-largest nutmeg producer — an excellent beginner site with reliable turtle sightings and exceptional natural light.
+A compact shallow reef off southwest Grenada operated by Aquanauts Grenada — a sandy area bordered by finger and brain coral reef with small bommies, juvenile fish communities, and sea plumes. Note: this site name is not widely confirmed across multiple independent sources; see the marine life and source attribution sections for details.
 
 ## Overview
 
-Spice Island Reef lies off the southwestern coast and features a classic Caribbean fringing reef profile with excellent hard coral coverage at depths of 5–12 metres. The reef includes well-developed brain and star coral formations, sea fans, and finger corals creating a diverse structural environment. The proximity to the main resort area of Grand Anse means this site is frequently visited, but it remains in good health with consistent marine life encounters. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
+X-Ray Magazine's Grenada dive guide describes a site called "Spice Island Reef" operated by Aquanauts Grenada as a sandy area bordered by a reef of finger and brain corals, where small bommies provide ideal habitat for juvenile fish, yellowtail snapper, blue chromis, and numerous sea plumes. This profile is consistent with the shallow southwest Grenada reef environment. The site name "Spice Island Reef" does not appear in other major operator listings (ECO Dive, Pure Grenada, PADI's Grenada site listings) under this name. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
