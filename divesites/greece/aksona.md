@@ -2,10 +2,10 @@
 name: Aksona
 lat: 36.9599139
 lng: 27.4864435
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 10973665014
 addedBy: osm_import
@@ -13,19 +13,26 @@ addedBy: osm_import
 
 ## Aksona
 
-Aksona is a reef dive site in Greece, Europe.
+## Location Warning
+
+The coordinates of this site (36.96°N, 27.49°E) place it in Turkish waters in the sea between Kos (Greece) and the Bodrum peninsula (Turkey). Aksona is documented as a Turkish dive site operated by Bodrum-based dive centres, approximately 50 minutes by boat from Bodrum. It is named after "Aksona Mehmet," a famous Bodrum sponge hunter. This OSM node may have been incorrectly assigned to the Greece dataset; the site appears to be in Turkish waters.
 
 ## Overview
 
-Aksona is a rocky reef dive site in the Dodecanese Islands of Greece, located in the warm, clear waters between Kos and the Turkish coast. The site features Mediterranean rock formations draped with sponges, sea fans, and posidonia seagrass beds that shelter octopus, moray eels, grouper, and nudibranchs. Visibility regularly exceeds 20 meters in summer, and the area is known for sightings of amberjack, barracuda, and the occasional sea turtle.
+Aksona is a wall and drop-off dive site in the Kos–Bodrum strait area. The site starts at 3 metres and slopes gradually to around 20 metres, where a rock wall drops dramatically to 30–35 metres. The site is described by Turkish dive operators as popular with divers who prefer deep and drop-off dives. The wall is swathed in corals and sponges. Archaeological features documented at the site include amphoras and a ship's anchor attributed to a Phoenician vessel.
+
+Marine life documented at Aksona includes thornback rays (occasional), groupers, barracuda, octopus, and moray eels.
+
+**Site type correction:** Previously listed as "reef" with 25 m maximum depth and Intermediate difficulty. Corrected to wall type, 35 m maximum depth, and Advanced difficulty based on documented drop-off profile to 30–35 m.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kos–Bodrum strait (Turkish waters — OSM node may be misassigned to Greece)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Notable Features**: Phoenician amphoras and ship anchor at depth; wall drop-off from 20 m
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Sources: [The Marmara Hotels Bodrum — Aksona dive site](https://www.themarmarahotels.com/bodrum/blog/the-magic-of-the-underwater-world-discover-the-best-scuba-diving-sports-in-bodrum), [Just Gotta Dive — Bodrum dive sites](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay), [Scubago — Bodrum dive sites](https://www.scubago.com/en/explore/destination/bodrum-65900). All sources describe Aksona as a Turkish/Bodrum dive site. Last updated 2026-06-04.*

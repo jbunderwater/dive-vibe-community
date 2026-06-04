@@ -47,7 +47,7 @@ A maximum depth of 72 metres requires technical diving certification and mixed-g
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-04
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). Relationship between these two listings is unclear. Last updated 2026-05-17.*
+*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). The C-47 Dakota listed by Turkish operators is a deliberately sunk decommissioned aircraft (sunk 1 July 2008). Relationship between these two OSM listings is unclear and could not be resolved from available sources. Last updated 2026-06-04.*

@@ -3,7 +3,7 @@ name: Psarapoula
 lat: 36.453164
 lng: 28.2169361
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Psarapoula
 
-Psarapoula is a reef dive site in Greece, Europe.
+Psarapoula is a reef dive site in the Rhodes area, Dodecanese, Greece.
 
 ## Overview
 
-Psarapoula is a rocky reef dive site off the coast of Rhodes in the Dodecanese Islands, known for its volcanic rock formations and clear Aegean waters. The site features swim-throughs and overhangs colonized by sponges and sea fans, with resident octopus, grouper, moray eels, and schools of bream. Red Sea immigrants such as soldierfish and rabbitfish have become increasingly common, and lucky divers may spot seahorses or Mediterranean monk seals.
+Psarapoula is a reef dive site located near Rhodes at approximately 36.45°N, 28.22°E, in the northern Dodecanese. The coordinates place it in the sea north of Rhodes Town near Ialyssos.
+
+No site-specific documentation for Psarapoula was found in major dive site databases, Rhodes dive operator listings (Waterhoppers, H2O Scuba, Lepia Dive Centre), or ScubaBoard during research conducted June 2026. The site name (Psarapoula — a diminutive of "psaropoula," meaning small fish in Greek) suggests a local name for a fish-rich reef.
+
+A previous description included unverified claims about swim-throughs, overhangs, soldierfish, rabbitfish, seahorses, and Mediterranean monk seals at this specific site. These claims have been removed as no source was found to confirm them at this location. Regional marine life for the eastern Dodecanese applies.
+
+Regional marine life applies; no site-specific species reports found.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Rhodes area, Dodecanese, South Aegean, Greece
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*Description based on regional Dodecanese diving characteristics. No site-specific sources for Psarapoula were located during research. Last updated 2026-06-04.*
