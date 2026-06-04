@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Veronica L Wreck
 
-A 130-foot Trinidad cargo vessel now resting upright at 15 metres on Boss Reef — it sank accidentally in St. George's harbour in 1993 and was relocated here before cruise-ship terminal construction, where it has become one of Grenada's most popular beginner wreck dives.
+A Trinidad cargo vessel now resting upright at approximately 15 metres on Boss Reef — it sank accidentally in St. George's harbour in 1993 and was relocated here before cruise-ship terminal construction, where it has become one of Grenada's most popular beginner wreck dives. Sources give her length as 120–130 feet (approximately 40 metres); ECO Dive and x-ray mag say 40m, DreamWrecks says 130 feet.
 
 ## Overview
 
-The Veronica L was a cargo vessel built in 1963 that operated between Trinidad and Grenada. In 1993 she began taking on water and sank in St. George's harbour at the site of a planned cruise-ship terminal. Before construction could begin, the wreck was refloated, loaded onto a barge, and sunk on the outer edge of Boss Reef near Grand Anse. She settled upright on her keel at approximately 15 metres (50 feet), making this one of Grenada's most accessible wreck dives. The vessel's open hold, bow anchor windlass, and freight crane arm extending sideways are distinctive features. Orange cup coral and encrusting sponges in yellow, orange, pink, and purple have colonised the hull surfaces. The shallow depth means excellent natural light throughout the dive. Visibility averages 20–25 metres. Water temperature is 26–28°C year-round.
+The Veronica L was a cargo vessel that operated between Trinidad and Grenada. In 1993 she began taking on water while at anchor in St. George's harbour and sank. She was subsequently refloated, loaded onto a barge, and sunk on the outer edge of Boss Reef near Grand Anse, where she settled upright on her keel at approximately 15 metres (50 feet). The vessel's open hold, bow anchor windlass, and freight crane arm extending sideways are distinctive features. Orange cup coral and encrusting sponges in yellow, orange, pink, and purple have colonised the hull surfaces. The shallow depth means excellent natural light throughout the dive. Visibility averages 20–25 metres. Water temperature is 26–28°C year-round. **Vessel length conflict**: ECO Dive and x-ray magazine describe the vessel as 40 metres (approximately 120–131 feet); DreamWrecks says 130 feet. Both measurements are broadly consistent. Build year of 1963 is stated in some sources but not independently confirmed.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ The Veronica L's excellent natural light at 15 metres makes this a strong photog
 - Commonly paired with the Underwater Sculpture Park or a reef site for a varied morning two-tank trip
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Veronica L](https://dreamwrecks.com/veronica-l-grenada-shipwreck), [SSI Dive Guide - Veronica L](https://www.divessi.com/en/mydiveguide/divesite/veronica-l-wreck-grenada-17229), [One Million Places - Veronica L](https://one-million-places.com/en/island-grenada/diving-on-the-wreck-of-the-cargo-ship-veronica-l). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Veronica L](https://dreamwrecks.com/veronica-l-grenada-shipwreck), [X-Ray Magazine - Grenada](https://xray-mag.com/content/grenada-spice-isle-caribbean), [One Million Places - Veronica L](https://one-million-places.com/en/island-grenada/diving-on-the-wreck-of-the-cargo-ship-veronica-l). Last updated 2026-06-04.*

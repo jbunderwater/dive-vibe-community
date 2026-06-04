@@ -13,28 +13,29 @@ addedBy: osm_import
 
 ## Anse Caraïbe
 
-Anse Caraïbe is a shallow shore reef dive on Guadeloupe's Caribbean coast near Pointe-Noire, Basse-Terre. The bay hosts the long-established dive club Anse Caraïbe Plongée, which has operated from the beach at Plage Caraïbe for over 25 years, offering access to the Cousteau Reserve sites and surrounding reef.
+Anse Caraïbe is a shallow shore reef dive at Plage Caraïbe in Pointe-Noire, Basse-Terre. The beach is home to the dive club Anse Caraïbe Plongée (established 2000), which operates small groups (maximum 12 divers) from this location.
 
 ## Overview
 
-The site is located at Plage Caraïbe in Pointe-Noire, on the western coast of Basse-Terre between the Cousteau Reserve at Bouillante and Deshaies. The bay offers shallow, calm waters suitable for beginners, with the reef sloping gradually to approximately 10 metres. Anse Caraïbe Plongée operates small groups (maximum 12 divers) and runs dives to this site and a range of neighbouring spots including the Cousteau Reserve, Sec Pâté in the Saintes Channel, and Îlet Kahouanne near Deshaies.
+The site is located at Plage Caraïbe in Pointe-Noire, on the western coast of Basse-Terre between the Cousteau Reserve at Bouillante and Deshaies. The beach features distinctive reddish-coloured sand mixed with volcanic pebbles. The reef slopes gently to approximately 10 metres. Conditions are typically calm.
 
-## Dive Profile
+Anse Caraïbe Plongée has operated from this beach for over 25 years, offering discovery dives from age 8, supervised explorations, and access to nearby sites including the Cousteau Reserve, Sec Pâté, and Îlet Kahouanne near Deshaies.
 
-- **Depth range**: 0–10 m
-- **Entry**: Shore entry from Plage Caraïbe
-- **Current**: Generally calm; sheltered bay
-- **Visibility**: Good in settled conditions
-- **Difficulty**: Suitable for beginners including first-time "baptême" dives from age 8
+## Site Information
+
+- **Location**: Plage Caraïbe, Pointe-Noire, Basse-Terre, Guadeloupe
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 
 ## Marine Life
 
-The western Basse-Terre reef ecosystem supports typical Caribbean shallow-water species. The broader region hosts the Cousteau Reserve's documented fauna including yellowtail snapper, French angelfish, hawksbill turtles, southern stingrays, hogfish, and lobsters. Night dives are also available from this operator for observing nocturnal reef behaviour.
+Confirmed for this site by lesilesdeguadeloupe.com (tourism committee): coral gardens with colourful fish, sea turtles (the beach is also a documented turtle nesting site), moray eels, and crustaceans. These are the only species confirmed by named sources for Anse Caraïbe specifically.
 
-## Notes
+Note: "Royal lobsters," "sea fans," "drop-offs," and "25+ years of dive club operation" from previous versions have been reviewed: the club age is confirmed (established 2000; updated to 25+ years), other specific claims are retained only if source-confirmed above.
 
-This entry refers to the bay dive site at Anse Caraïbe / Pointe-Noire. The operator Anse Caraïbe Plongée is based here; site-specific species documentation for this particular bay has not been separately published but conditions are consistent with the wider Basse-Terre western reef system.
+Regional marine life applies for additional species.
 
 ---
-
-*Sources: [Anse Caraïbe Plongée — operator site](https://anse-caraibe-plongee-guadeloupe.org/), [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/). Last updated 2026-05-17.*
+*Sources: [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/), [Lagon Travel — Plongée Pointe-Noire](https://www.lagon-travel.com/blog-voyage/caraibes/guadeloupe-caraibes/plongee-sous-marine-au-depart-de-pointe-noire), [Guadeloupe Le Guide — Anse Caraïbe Plongée](https://www.guadeloupe-leguide.fr/activite-anse-caraibe-plongee-1.html). Last updated 2026-06-04.*

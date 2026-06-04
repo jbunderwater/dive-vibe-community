@@ -23,13 +23,13 @@ Tifore Island sits in open sea, exposed to strong tidal flows that concentrate n
 
 - **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Pulau Tifore is particularly famous for large, dense schools of bigeye trevally and barracuda that form dramatic swirling "tornado" formations. Fusiliers, snappers, jacks, reef sharks, and Napoleon wrasse are regular sightings. The island's exposed position in the Molucca Sea also brings hammerhead sharks and mobula rays on productive days. At the reef called Pantai Sago on the southern side, barracuda schools numbering over 1,000 individuals have been observed.
+Pulau Tifore is particularly famous for large, dense schools of bigeye trevally and barracuda that form dramatic swirling "tornado" formations — confirmed by Mermaid Liveaboards, IndoPacific Images, and Liveaboard Indonesia. IndoPacific Images specifically documents the school at Pantai Sago on the southern side as numbering over 1,000 barracuda individuals. Fusiliers, snappers, jacks, and reef sharks are confirmed across multiple sources. Hammerhead sharks and mobula rays are reported on productive days by Liveaboard Indonesia, though these are less consistent than the barracuda schools.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Currents at Tifore can be strong and unpredictable — this is an intermediate-l
 Pulau Tifore is a premier wide-angle destination. The trademark barracuda and trevally tornadoes create some of Indonesia's most dramatic schooling-fish images. A fisheye lens with dual strobes or a large dome port for natural-light shooting in blue water are both effective approaches. Arrive early in the dive to position yourself before the schools scatter.
 
 ---
-*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Mikumba Diving – Halmahera Final Frontier](https://www.mikumbadiving.com/halmahera-diving-indonesias-final-frontier/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/). Last updated 2026-05-17.*
+*Sources: [Mermaid Liveaboards – Pulau Tifore](https://www.mermaid-liveaboards.com/dive_spots/pulau-tifore/), [IndoPacific Images – West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

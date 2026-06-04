@@ -98,8 +98,8 @@
   {
     "name": "Northern Exposure",
     "filename": "northern-exposure.md",
-    "lat": 12.2,
-    "lng": -61.62,
+    "lat": 12.06,
+    "lng": -61.77,
     "difficulty": "Beginner",
     "maxDepth": 23,
     "entryType": "boat",

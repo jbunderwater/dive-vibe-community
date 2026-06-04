@@ -13,19 +13,22 @@ addedBy: osm_import
 
 ## La Broumine
 
-La Broumine is a historic wreck dive in Guadeloupe, Caribbean.
+La Broumine is a wreck recorded in OpenStreetMap as a "mast-showing" hazard in the waters of Les Saintes, Guadeloupe, at 18 metres depth.
 
 ## Overview
 
-La Broumine is a wreck dive site in the waters of Guadeloupe, resting at 18 metres in the Caribbean Sea, where the warm clear water and coral-encrusted hull support the kind of reef fish community typical of the island's leeward dive sites — groupers, snappers, hawksbill turtles, and southern stingrays among the regular inhabitants. Guadeloupe's diving is centred on the west coast of Basse-Terre, which benefits from volcanic Caribbean seabed topography and the warm nutrient-rich waters between the island and its neighbours. The accessible depth and protected Caribbean conditions make this a solid intermediate wreck dive within Guadeloupe's rich diving scene.
+La Broumine is recorded in OSM data as a seamark wreck with category "mast_showing," meaning part of the structure is visible above the waterline. The site is located in the Les Saintes archipelago at approximately 15.877°N, 61.578°W. No published dive guide, operator website, or dive forum post has been located to provide the vessel's identity, its sinking history, current dive conditions, or confirmed marine life at this specific location.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
----
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+## Notes
+
+No site-specific information has been found for La Broumine beyond its OSM coordinates and wreck classification. Divers interested in this site should contact Les Saintes-based dive operators (La Dive Bouteille, Pisquettes Plongée) for current access conditions and information about the vessel.
+
+*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*

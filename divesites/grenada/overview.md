@@ -12,7 +12,7 @@ Grenada sits at the southern end of the Windward Islands, offering a distinctive
 
 ### Diving Opportunities
 
-- **Wreck Diving**: Wreck sites including the Bianca C (a 180-meter Italian cruise liner sunk in 1961 at 40m depth — advanced certification required), the Veronica L, and the Shakem.
+- **Wreck Diving**: Wreck sites including the Bianca C (a 180-metre Italian cruise liner sunk in 1961, resting at 50m with accessible hull from ~28m — advanced certification required), the Veronica L (beginner-friendly at 15m), and the Shakem (advanced, 30–33m).
 - **Boat Diving**: All sites are boat dives, with most operators running from Grand Anse and the Carenage in St. George's. Most sites are within minutes of the harbour.
 - **Reef Diving**: Reef sites featuring volcanic rock formations, sponge gardens, and healthy hard coral. Notable sites include Purple Rain, Shark Reef, and Fisherman's Paradise.
 - **Wall Diving**: Wall dive sites with steep drop-offs along the island's western coast.
@@ -29,7 +29,7 @@ Grenada sits at the southern end of the Windward Islands, offering a distinctive
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature stays around 27-29°C (80-84°F) year-round. Visibility typically 15-30 meters. Calm seas prevail most of the year, with the calmest conditions January through May.
-- **Marine Biodiversity**: Sea turtles, spotted eagle rays, southern stingrays, moray eels, nurse sharks, barracuda, parrotfish, angelfish, and dense schools of reef fish. The Bianca C wreck hosts large pelagics including occasional hammerhead sharks at depth.
+- **Marine Biodiversity**: Sea turtles, spotted eagle rays, southern stingrays, moray eels, nurse sharks, barracuda, parrotfish, angelfish, and dense schools of reef fish. The Bianca C wreck hosts large pelagics including barracuda, eagle rays, and schools of horse-eye jacks.
 - **Conservation**: The Molinere-Beauséjour Marine Protected Area encompasses the Underwater Sculpture Park and surrounding reefs. The sculptures, created by Jason deCaires Taylor starting in 2006, serve as artificial reef structures that have been colonized by coral and marine life. Listed among National Geographic's 25 Wonders of the World.
 
 ## Additional Information
@@ -37,7 +37,7 @@ Grenada sits at the southern end of the Windward Islands, offering a distinctive
 - **Best Time to Visit**: Year-round diving. Dry season (January-May) offers the calmest seas and best visibility. The rainy season (June-December) brings occasional reduced visibility but warmer water. Hurricane risk is highest August-September, though Grenada sits at the southern edge of the hurricane belt.
 - **Currency**: Eastern Caribbean Dollar (XCD); US dollars widely accepted.
 - **Language**: English (official).
-- **Safety**: Nearest recompression chamber is in Barbados or Trinidad. DAN insurance strongly recommended. The Bianca C is a deep dive (35-40m) requiring advanced certification — do not attempt without proper training.
+- **Safety**: Nearest recompression chamber is in Barbados or Trinidad. DAN insurance strongly recommended. The Bianca C rests at 50m with the shallowest accessible hull at 28–30m — this is a deep advanced dive requiring appropriate certification and experience. There are no permanent moorings at the wreck; divers make a free negative descent.
 
 ---
 *Sources: [Dive Grenada](https://divegrenada.com/), [PADI - Underwater Sculpture Park](https://www.padi.com/dive-site/grenada/underwater-sculpture-park/), [Sandals - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/), [SCUBA Travel - Grenada](https://www.scubatravel.co.uk/americas/grenada-diving.html), [Active Caribbean Travel - Grenada Diving](https://activecaribbeantravel.com/grenada-diving/). Last updated 2026-04-05.*

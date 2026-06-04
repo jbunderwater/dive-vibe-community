@@ -11,7 +11,9 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "validation_source": "OpenStreetMap"
+      "validation_source": "ibiblio.org/hyperwar, history.navy.mil, pacificwrecks.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -26,8 +28,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "wreck:date_sunk": "1941-12-12",
-      "validation_source": "OpenStreetMap"
+      "wreck:date_sunk": "1943-12-12",
+      "validation_source": "wikipedia.org/USS_Tuna, uboat.net, ibiblio.org/hyperwar",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -41,7 +45,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, sailingfairy.com"
+      "validation_source": "padi.com/dive-site/indonesia/biatabang, zubludiving.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -55,7 +61,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "getlost.id, sailingfairy.com"
+      "validation_source": "getlost.id, wonderful.ternatekota.go.id, scubago.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -69,7 +77,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "world-islands.net, mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com/dive_spots/pulau-tifore, indopacificimages.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -83,21 +93,26 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "indopacificimages.com, cruisingindonesia.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Batu Mandi",
     "lat": -0.0271,
     "lon": 127.207,
-    "depth": 50,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "konjocruisingindonesia.com, padi.com/dive-site/indonesia/batu-mandi, indopacificimages.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04",
+      "depth_note": "Wall descends to 30m recreational limit; deeper sections exist beyond 30m"
     }
   },
   {
@@ -111,7 +126,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "mermaid-liveaboards.com/dive_spots/terumbu-gora, cruisingindonesia.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -125,21 +142,26 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, bluewaterdivetravel.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Batu Jabu",
     "lat": -0.3995,
     "lon": 127.735,
-    "depth": 30,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com"
+      "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04",
+      "depth_note": "IndoPacific Images confirms pinnacle to 35m with mini-wall at 15m"
     }
   },
   {
@@ -153,7 +175,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+      "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -167,7 +191,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com"
+      "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, scubaboard.com/trip-report-weda-resort-2019",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -181,7 +207,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+      "validation_source": "jakare-liveaboard.com/halmahera-hidden-dive-gem, xray-mag.com/content/halmahera-0, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -195,7 +223,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "pacificwrecks.com/aircraft/beaufort, zubludiving.com, liveaboardindonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -209,7 +239,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "malailloliveaboard.com"
+      "validation_source": "liveaboardindonesia.com, zubludiving.com, neptuneliveaboards.com/blog/halmahera-diving",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -223,7 +255,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
+      "validation_source": "cruisingindonesia.com, liveaboardindonesia.com, wikipedia.org/Hemiscyllium_halmahera",
+      "validated": "true",
+      "last_qa_date": "2026-06-04"
     }
   }
 ]

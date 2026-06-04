@@ -3,51 +3,54 @@
     "name": "SMS Cormoran",
     "lat": 13.4557,
     "lon": 144.653883,
-    "depth": 32,
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, guamdiveguide.com, en.wikipedia.org",
     "tags": {
       "name": "SMS Cormoran",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Tokai Maru",
     "lat": 13.4557,
     "lon": 144.653883,
-    "depth": 40,
+    "depth": 37,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org, guamdiveguide.com, combinedfleet.com",
     "tags": {
       "name": "Tokai Maru",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Blue Hole",
     "lat": 13.4365,
     "lon": 144.626083,
-    "depth": 55,
+    "depth": 40,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org, mdaguam.com, scubaboard.com",
     "tags": {
       "name": "Blue Hole",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -59,12 +62,13 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, zentacle.com, en.wikivoyage.org",
     "tags": {
       "name": "Gab Gab Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -76,46 +80,49 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "fisheyeguamtours.com, en.wikipedia.org, visitguam.com",
     "tags": {
       "name": "Fish Eye Marine Park",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Gun Beach",
     "lat": 13.52,
     "lon": 144.78,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "mdaguam.com, en.wikivoyage.org, zentacle.com",
     "tags": {
       "name": "Gun Beach",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
     "name": "Hap's Reef",
     "lat": 13.38,
     "lon": 144.635,
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "guamdiveguide.com, mdaguam.com, en.wikivoyage.org",
     "tags": {
       "name": "Hap's Reef",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -127,12 +134,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "gap_fill",
+    "validation_source": "mdaguam.com, divessi.com, warhistoryonline.com",
     "tags": {
       "name": "Shark Pit",
       "sport": "scuba_diving",
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-04"
     }
   }
 ]

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Spice Island Reef
 
-A compact, colourful shallow reef off southwest Grenada, named for the island's celebrated status as the world's second-largest nutmeg producer — an excellent beginner site with reliable turtle sightings and exceptional natural light.
+A compact shallow reef off southwest Grenada operated by Aquanauts Grenada — a sandy area bordered by finger and brain coral reef with small bommies, juvenile fish communities, and sea plumes. Note: this site name is not widely confirmed across multiple independent sources; see the marine life and source attribution sections for details.
 
 ## Overview
 
-Spice Island Reef lies off the southwestern coast and features a classic Caribbean fringing reef profile with excellent hard coral coverage at depths of 5–12 metres. The reef includes well-developed brain and star coral formations, sea fans, and finger corals creating a diverse structural environment. The proximity to the main resort area of Grand Anse means this site is frequently visited, but it remains in good health with consistent marine life encounters. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
+X-Ray Magazine's Grenada dive guide describes a site called "Spice Island Reef" operated by Aquanauts Grenada as a sandy area bordered by a reef of finger and brain corals, where small bommies provide ideal habitat for juvenile fish, yellowtail snapper, blue chromis, and numerous sea plumes. This profile is consistent with the shallow southwest Grenada reef environment. The site name "Spice Island Reef" does not appear in other major operator listings (ECO Dive, Pure Grenada, PADI's Grenada site listings) under this name. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Spice Island Reef lies off the southwestern coast and features a classic Caribbe
 
 ## Marine Life
 
-The shallow, well-lit reef at Spice Island Reef supports exceptional fish diversity for its depth range. Schools of blue tangs, yellowtail snappers, and French grunts are abundant. Large parrotfish work the reef constantly, and French angelfish are a consistent presence. Hawksbill turtles are regular visitors — some individual animals have been observed at this site for years. The sandy margin at 10–12 metres is productive for southern stingrays and garden eels.
+The one source that specifically names this site (X-Ray Magazine) confirms: juvenile fish communities on the bommies, yellowtail snapper, blue chromis, and sea plumes. Generic southwest Grenada reef species (blue tangs, French grunts, parrotfish, stingrays) are plausible for this depth and habitat type but are not confirmed specifically at "Spice Island Reef" by name. Note: "individual hawksbill turtles observed for years" and "garden eels on the sandy margin" from previous descriptions had no site-specific source and have been removed from this version.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The shallow depth and exceptional clarity make Spice Island Reef one of Grenada'
 - Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
 ---
-*Description based on regional Grenada southwest reef characteristics and operator site listings. No site-specific sources found for "Spice Island Reef" by this name. Last updated 2026-05-24.*
+*Sources: [X-Ray Magazine - Grenada Dive Guide](https://xray-mag.com/content/grenada-spice-isle-caribbean). One source found referencing this site by name (Aquanauts Grenada operator listing). No independent confirmation from other operators or dive databases. This site remains unvalidated pending additional source confirmation. Last updated 2026-06-04.*

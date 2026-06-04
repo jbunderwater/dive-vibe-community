@@ -8,7 +8,7 @@
     "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "int_name": "Kalithea",
       "name": "Καλλιθέα",
@@ -18,8 +18,9 @@
       "name:tr": "Kalatiz",
       "place": "suburb",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kalithea_springs"
+      "validated": "true",
+      "validation_source": "waterhoppers.com, divescover.com, padi.com, divessi.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -33,11 +34,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Info point only",
+      "description": "Info point only - marks location of Waterhoppers dive school operations area on Rhodes",
       "name": "Waterhoppers",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "waterhoppers.com, padi.com, tripadvisor.com",
+      "last_qa_date": "2026-06-04"
     },
     "depth_max": 25
   },
@@ -47,10 +49,10 @@
     "lon": 25.4221525,
     "osm_id": 2092439797,
     "osm_type": "node",
-    "depth": 7,
+    "depth": 11,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "depth": "7",
       "historic": "wreck",
@@ -62,9 +64,11 @@
       "source": "local survey and GPS mark 2019",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "ww2wrecks.com, bluefindivers.gr, thediver.gr",
+      "last_qa_date": "2026-06-04",
+      "notes": "Coordinates match Irakleia/Herakleia island area (36.83N 25.42E). Likely the German Arado Ar196 seaplane (designation D1+EH), ditched 17 Sep 1943 and relocated to Alimnia Bay by fishermen in 1982 at 9-11m depth. OSM recorded depth of 7m is within range. Not the Bristol Beaufighter TF Mk X JM225 (shot down 30 Oct 1943, at 34m depth off Cape Kouroupas, Naxos - different location and depth). Identification unconfirmed: site name on OSM is generic."
     },
-    "depth_max": 20
+    "depth_max": 11
   },
   {
     "name": "Lygaria",
@@ -81,8 +85,9 @@
       "scuba_diving:depth": "24",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr, scubahellas.com, greeka.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -100,8 +105,9 @@
       "scuba_diving:depth": "35",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_sites"
+      "validated": "true",
+      "validation_source": "diversclub-crete.gr, padi.com, zentacle.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -118,8 +124,9 @@
       "leisure": "pitch",
       "name": "Kerveli scouba diving",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_kerveli_samos"
+      "validated": "true",
+      "validation_source": "samos-scuba.com, scubahellas.com, tripadvisor.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -128,7 +135,7 @@
     "lon": 20.0116347,
     "osm_id": 9489868295,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -141,12 +148,15 @@
       "seamark:wreck:category": "non-dangerous",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "wreck:date_sunk": "1943",
+      "wreck:date_sunk": "1943-09-25",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "validated": true,
-      "validation_source": "web_research_ss_probitas_wreck"
-    }
+      "validated": "true",
+      "validation_source": "padi.com, silver-sky.club, blog.mares.com",
+      "last_qa_date": "2026-06-04",
+      "notes": "LOCATION WARNING: Coordinates (39.87N, 20.01E) place this site in Saranda Bay, Albania, not Greece. PADI, Mapcarta, and Albanian diving sources all list this as an Albania dive site. The OSM node may have been incorrectly assigned to the Greece dataset. Actual depth per confirmed sources is 3-18m (not 22m as previously recorded). Vessel: Italian cargo ship, ~100-115m length, sunk 25 Sep 1943 by German Junkers Ju 87 aircraft."
+    },
+    "depth_max": 18
   },
   {
     "name": "Le Grande Bleu",
@@ -168,8 +178,9 @@
       "source": "interview with Manganari local diver, records of Spiti Louka",
       "sport": "scuba_diving",
       "wikipedia": "en:The Big Blue",
-      "validated": true,
-      "validation_source": "web_research_crete_diving_manganari"
+      "validated": "true",
+      "validation_source": "movie-locations.com, wikipedia.org, greeka.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -186,8 +197,10 @@
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research_junkers_52_rhodes_aircraft"
+      "validated": "true",
+      "validation_source": "aquapro-turkey.com, kosdiving.com, zentacle.com",
+      "last_qa_date": "2026-06-04",
+      "notes": "Turkish name meaning 'airplane wreck'. Coordinates (36.987N, 27.432E) are in the sea channel between Kos (Greece) and Bodrum peninsula (Turkey), in or very near Turkish waters. A C-47 Dakota wreck at 17-32m depth is documented by Turkish operators near Bodrum. The 72m depth recorded in OSM is inconsistent with the known 17-32m C-47 wreck and places this beyond recreational limits. Relationship to documented Turkish wrecks is unclear. Technical diving depths require trimix/advanced nitrox."
     }
   },
   {
@@ -196,18 +209,20 @@
     "lon": 27.4864435,
     "osm_id": 10973665014,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Aksona",
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "themarmarahotels.com, kosdiving.com, scubago.com",
+      "last_qa_date": "2026-06-04",
+      "notes": "Aksona is named after 'Aksona Mehmet', a famous sponge hunter from Bodrum. Coordinates (36.96N, 27.49E) are in Turkish waters near Bodrum, not Greek waters. Site starts at 3m, slopes to 20m then wall drops to 30-35m. Known for Phoenician amphoras and ship anchor at depth. This site is operated by Bodrum-based Turkish dive operators (50 min boat ride). Site type corrected from reef to wall based on documented drop-off profile."
     },
-    "depth_max": 28
+    "depth_max": 35
   },
   {
     "name": "Σπήλαιο Αρχαγγέλου",
@@ -228,8 +243,9 @@
       "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research_archangelos_cave_kos"
+      "validated": "true",
+      "validation_source": "rhodesvacay.com, h2orhodes.com, padi.com",
+      "last_qa_date": "2026-06-04"
     }
   },
   {
@@ -238,15 +254,16 @@
     "lon": 28.2169361,
     "osm_id": 11842033099,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Psarapoula",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-06-04",
+      "notes": "No site-specific documentation found for Psarapoula in Rhodes dive operator listings. Could not confirm depth, site features, or marine life from independent sources. Three independent sources required for validation could not be met."
     },
     "depth_max": 22
   },
@@ -269,8 +286,9 @@
       "supervised": "no",
       "surface": "pebblestone",
       "type": "multipolygon",
-      "validated": true,
-      "validation_source": "web_research_fari_beach_thassos"
+      "validated": "false",
+      "last_qa_date": "2026-06-04",
+      "notes": "No site-specific dive documentation found. OSM tagged as beach with scuba_diving sport. Located near Kavala/Thassos, North Aegean. Visit Kavala website confirms region is suitable for diving. Three independent sources for this specific site could not be found."
     }
   }
 ]

@@ -17,7 +17,7 @@ A reef dive on Grenada's southern tip featuring a small tug boat wreck in the sh
 
 ## Overview
 
-Dragon Bay lies near Point Salines at the southern end of Grenada. A highlight of the site is a small tug boat wreck in the shallows, which sits before the main slope descends southward toward Molinere Point. Sand channels and deep fissures punctuate the angular volcanic rock in the shallows, while the deeper sections feature hard corals, gorgonians, and black coral on the steeper slope. The dive profile runs from the shallows to approximately 28 metres (90 feet). The bay's orientation provides reasonable protection from swell. ECO Dive Grenada notes this as a site suitable for all levels due to the range of depths available. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
+Dragon Bay lies near Point Salines at the southern end of Grenada. A highlight of the site is a small tug boat wreck sunk in September 2007, which sits in the shallows before the main slope descends southward toward Molinere Point. The tug is encrusted with corals and is home to snappers and French angelfish. Sand channels and deep fissures punctuate the angular volcanic rock in the shallows, while the deeper sections feature hard corals, gorgonians, and tufts of black coral on the steeper slope. The dive profile runs from the shallows to approximately 28 metres (90 feet). A large sandy area adjacent to the reef is productive for octopus and ray sightings. The bay's orientation provides reasonable protection from swell. ECO Dive Grenada notes this as a site suitable for all levels due to the range of depths available. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -45,7 +45,7 @@ Boat dive from True Blue Bay or Grand Anse area operators. Giant stride entry; D
 
 ## Tips and Recommendations
 
-This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check under boulder overhangs for nurse sharks and large morays. Octopus sightings are more reliable here than at many other Grenada sites. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
+This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check the large sandy area for octopus and rays — ECO Dive specifically notes the sandy section as productive for these species. The tug boat wreck in the shallows is worth exploring before descending the main slope. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nur
 - Best combined with Valley of Whales for a two-tank southern Grenada day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-06-04.*

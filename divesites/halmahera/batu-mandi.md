@@ -3,7 +3,7 @@ name: Batu Mandi
 lat: -0.0271
 lng: 127.207
 difficulty: Intermediate
-maxDepth: 50
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ Batu Mandi is a wall dive site in the Goraici Islands or Patinti Strait area of 
 
 ## Overview
 
-Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres and beyond. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. The site sits near the coordinates of the Goraici Islands / western Halmahera area and is featured on liveaboard itineraries that include the Patinti Strait region.
+Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. Sources from Konjo Cruising Indonesia and IndoPacific Images confirm Batu Mandi as part of the western Halmahera / Goraici Islands liveaboard circuit.
 
 ## Site Information
 
@@ -25,15 +25,15 @@ Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the su
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 meters
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. Wall substrate supports soft corals and sponges. The broader Halmahera region's characteristic marine life — reef sharks, Napoleon wrasse, fusiliers — is expected on the current-exposed walls. The nearby Goraici Islands area also features macro life including nudibranchs and crustaceans.
+Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. These are confirmed by Konjo Cruising Indonesia and IndoPacific Images. Wall substrate supports soft corals and sponges. No additional site-specific species reports have been found beyond these confirmed sightings.
 
 ## Dive Profile
 
-Entry is from the surface near the low-tide rock marker, descending to around 3 metres where the wall begins. The wall drops steeply to 30 metres and beyond. Divers typically work the wall between 10–30 metres where fish density is highest, ascending along the structure for a safety stop in the shallows. Currents are variable, with the wall exposed to tidal flows that bring in the schooling fish.
+Entry is from the surface near the low-tide rock marker, descending to around 3 metres where the wall begins. The wall drops steeply to 30 metres. Divers typically work the wall between 10–30 metres where fish density is highest, ascending along the structure for a safety stop in the shallows. Currents are variable, with the wall exposed to tidal flows that bring in the schooling fish.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Look for the humphead wrasse early in the dive while in the shallower zone. Desc
 
 ## Safety Considerations
 
-Currents on the wall can accelerate unexpectedly in the Patinti Strait area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. The 50-metre maximum depth recorded is beyond recreational limits; no decompression diving should only be attempted with appropriate training.
+Currents on the wall can accelerate unexpectedly in the western Halmahera area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. Recreational diving should be limited to 30 metres; no-decompression diving beyond this depth requires appropriate advanced training and certification.
 
 ---
-*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [IndoPacific Images – West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [PADI Dive Site – Batu Mandi](https://www.padi.com/dive-site/indonesia/batu-mandi/). Last updated 2026-06-04.*

@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Ikkanneq
 
-Ikkanneq is a reef dive site in Greenland, Arctic.
+Ikkanneq is a rocky reef recorded north of Disko Bay in western Greenland, at depths to approximately 18 metres.
 
 ## Overview
 
-Ikkanneq takes its name from the Greenlandic word for a shallow reef or underwater ledge, and sits in the waters near Ilulissat in Disko Bay, western Greenland. The rocky substrate supports trailing kelp forests, with nudibranchs, skeleton shrimp, scallops, and bristle worms inhabiting the algae-covered boulders down to 18 meters. Humpback and minke whales feed in the surrounding waters during summer, and divers may encounter harbour seals and large schools of polar cod on the reef.
+Ikkanneq is an OSM-recorded rock formation (tagged `natural=reef`, `reef=rock`) in the waters north of Disko Bay, western Greenland, at approximately 68.8°N. The Greenlandic name "ikkanneq" (also recorded in older orthography as "íkáneq") refers to a shallow reef or underwater shelf, consistent with the site's recorded depth profile.
+
+No dive operator or published source has been identified that specifically describes diving at this named site. The location places it in the northern Disko Bay region, which Sirius Greenland and other operators have characterized as accessible cold-water reef diving terrain, with rocky substrate covered by kelp forests in near-freezing water. General Greenland reef diving accounts document nudibranchs, anemones, skeleton shrimp, scallops, sea cucumbers, and amphipods in similar habitats.
+
+Previous versions of this page attributed specific species observations (polar cod, sculpin, humpback whales) at this site — those claims have been removed as no site-specific source was found confirming them at Ikkanneq.
+
+Regional marine life applies; no site-specific species reports found.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: North Disko Bay area, West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Advanced Diver Magazine - Greenland Diving](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/). Last updated 2026-06-04.*

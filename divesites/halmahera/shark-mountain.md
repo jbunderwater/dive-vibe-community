@@ -30,7 +30,7 @@ Shark Mountain is an offshore underwater mountain in Weda Bay, located approxima
 
 ## Marine Life
 
-Shark species documented at the site include grey reef sharks and reef sharks as regular sightings. Schooling pelagics include jackfish (trevally), barracuda, Napoleon wrasse, and tuna. The offshore setting and upwelling conditions attract big-fish action typical of exposed oceanic seamounts throughout the Coral Triangle.
+Weda Resort confirms that shark sightings are nearly guaranteed at this site; the resort website states "we hardly ever had a dive without sharks here." Schooling jackfish, barracuda, Napoleon wrasse, and tuna are documented by Weda Resort for this specific site. A ScubaBoard trip report (April 2019) independently confirms shark encounters and abundant fish life at early-morning Shark Mountain dives.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Shark Mountain is a fully open-water, deep dive with no shallow reef for orienta
 The open blue-water setting and consistent shark presence make Shark Mountain an exceptional wide-angle photography site. A fisheye or wide-angle rectilinear lens is recommended for capturing sharks and schooling trevally against the blue water column. Strobes with wide coverage help in the clear, featureless open water.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ScubaBoard – Trip Report Weda Resort April 2019](https://scubaboard.com/community/threads/trip-report-weda-resort-halmahera-april-2019.580148/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

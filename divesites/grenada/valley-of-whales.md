@@ -17,7 +17,7 @@ A wall drift dive on Grenada's southwest coast north of St. George's — beginni
 
 ## Overview
 
-Valley of Whales (also known locally as Happy Valley) is a wall and drift dive on Grenada's western coast, north of the main harbour. The site begins in a shallow forest of brown coral at around 6 metres and follows a shelving slope covered in gorgonians and soft coral down to approximately 28 metres (90 feet). The site is named after a specific event: a whale was observed cruising through the site at around 18 metres (60 feet) accompanied by its calf — this single documented sighting gave the site its evocative name. An ancient Admiralty anchor rests amid the flora at mid-depth. ECO Dive Grenada describes this as a wall/drift site run north of St. George's harbour. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+Valley of Whales (also known locally as Happy Valley) is a wall and drift dive on Grenada's western coast, near St. George's harbour. The site begins in a shallow forest of brown coral at around 6 metres and follows a shelving slope covered in gorgonians and soft coral, pillar coral formations, and elkhorn coral down to approximately 28 metres (90 feet). The site is named after a specific event: a whale was observed cruising through the site at around 18 metres (60 feet) accompanied by its calf — this single documented sighting gave the site its evocative name. An ancient Admiralty anchor rests amid the flora at mid-depth. At the deepest point (90 feet), a graveyard of old vehicles including cars and buses lies on the sandy bottom — an unusual feature confirmed by multiple sources. When tide is running, the site becomes a pleasant drift dive flowing gently southward toward Dragon Bay. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Valley of Whales (also known locally as Happy Valley) is a wall and drift dive o
 
 ## Marine Life
 
-The soft coral-rich slope at Valley of Whales hosts the reef fish community typical of Grenada's western wall sites. Gorgonians and pillar coral formations are confirmed features. The ancient Admiralty anchor at mid-depth is a distinctive artificial structure that attracts encrusting life. The site's name is associated with a single documented whale sighting — repeat whale encounters cannot be predicted and should not be expected. Note: previous descriptions attributed Caribbean reef sharks, eagle rays, and tiger groupers as regular sightings; these were not confirmed by primary sources for this specific site.
+The soft coral-rich slope at Valley of Whales hosts the reef fish community typical of Grenada's western wall sites. Spotted drums, yellowtail snapper, bara jacks, and banded jawfish are confirmed residents. Lobsters, spotted morays, and nurse sharks (sleeping) inhabit the reef. Long-snout seahorses and pipefish are occasionally spotted in the reef. The ancient Admiralty anchor at mid-depth is a distinctive artificial structure that attracts encrusting life. The site's name is associated with a single documented whale sighting — repeat whale encounters cannot be predicted and should not be expected. Note: "Caribbean reef sharks, eagle rays, and tiger groupers as regular sightings" from previous descriptions were not confirmed by primary sources for this specific site.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from True Blue Bay or Grand Anse operators, with the southern tip loca
 
 ## Tips and Recommendations
 
-Look for the Admiralty anchor at mid-depth — it is one of Grenada's least-publicised historical artefacts on a dive site. The site has a drift character when current runs; plan accordingly. The shallow brown coral forest at the start of the dive rewards slow exploration before descending the slope.
+Look for the Admiralty anchor at mid-depth — it is one of Grenada's least-publicised historical artefacts on a dive site. Descend to the vehicle graveyard at 28 metres early in the dive before ascending to spend time on the richer shallower sections. The site has a drift character when current runs toward Dragon Bay; plan accordingly. The shallow brown coral forest at the start of the dive rewards slow exploration before descending the slope — look for seahorses and pipefish in the reef here.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Check current conditions before diving — the site can run as a drift when the 
 
 ## Photography
 
-The canyon topography creates strong compositional opportunities — shooting down a sand-floored channel with the coral walls framing the shot is the defining Valley of Whales image. Schooling jacks in the open water above the reef edge, eagle ray passes through the channels, and wide-angle wall shots with sea fan silhouettes are the main subjects.
+The wall and slope topography creates strong compositional opportunities — wide-angle shots of the shelving coral slope with the open blue behind, pillar coral formations, and the Admiralty anchor encrusted with marine life are the defining subjects. The vehicle graveyard at depth is a unique topographic curiosity. Macro shooters will find seahorses and pipefish. Note: "eagle ray passes through channels" referenced in previous descriptions was not confirmed by primary sources for this site.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The canyon topography creates strong compositional opportunities — shooting do
 - Best combined with Dragon Bay for a two-tank southern Grenada dive day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Happy Valley](https://www.padi.com/dive-site/grenada/happy-valley/), [Turq.com - Grenada Diving](https://www.turq.com/grenada/grendive.html), [Scuba Diver Magazine - Grenada Wrecks](https://www.scubadivermag.com/top-10-grenada-wrecks/holiday-deals/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Happy Valley](https://www.padi.com/dive-site/grenada/happy-valley/), [Turq.com - Grenada Diving](https://www.turq.com/grenada/grendive.html), [Sportif Dive - Grenada](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites). Last updated 2026-06-04.*

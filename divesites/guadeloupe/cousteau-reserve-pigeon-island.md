@@ -13,50 +13,31 @@ addedBy: osm_import
 
 ## Cousteau Reserve - Pigeon Island
 
-The Cousteau Underwater Reserve at Pigeon Island is the most celebrated dive destination in Guadeloupe and one of the most famous protected marine areas in the entire Caribbean — designated in honour of Jacques Cousteau, who called it one of the world's greatest dive sites after filming here in the 1950s.
+The Cousteau Underwater Reserve at Pigeon Island (Îlet Pigeon) is the most celebrated dive destination in Guadeloupe and one of the best-known protected marine areas in the Caribbean — designated in honour of Jacques Cousteau, who filmed here and championed its protection.
 
 ## Overview
 
-Pigeon Island (Îlet Pigeon) sits just off the Malendure coast of Basse-Terre and forms the centrepiece of the Réserve Cousteau, established as a protected marine park to preserve its exceptional coral reef system. The reserve extends around both islets of the Pigeon Island group, offering diverse dive profiles from 3 meters to beyond 30 meters. The shallower reef sections on the island's sheltered faces are rich with coral carpets — dense fields of brain, star, and pillar coral interspersed with barrel sponges and sea fans. Visibility regularly exceeds 25 meters. Water temperature stays between 26–29°C year-round.
+Pigeon Island sits just off the Malendure coast of Basse-Terre and forms the centrepiece of the Réserve Cousteau. The reserve was formally established as a protected marine park and encompasses both islets of the Pigeon Island group. The area has been protected since at least 2009 under national park status. Dive operators based in Malendure and Bouillante access the reserve by a 5-minute boat crossing. Mooring buoys protect the reef from anchor damage.
+
+The reserve offers diverse dive profiles from 3 metres to beyond 30 metres on the various named sites within it (Jardin de Corail, L'Aquarium, Piscine, La Baleinière, Les Sources d'Eau Chaude). Visibility regularly exceeds 20 metres. Water temperature stays between 26–29°C year-round.
 
 ## Site Information
 
-- **Location**: Pigeon Island, Malendure, Basse-Terre, Guadeloupe
+- **Location**: Pigeon Island (Îlet Pigeon), Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Usually mild; occasional moderate currents on the exposed side
-- **Best Time**: November to May
 
 ## Marine Life
 
-The protected status of the reserve has allowed fish populations to recover and thrive beyond what most Caribbean dive sites can offer. Large hawksbill and green sea turtles are essentially guaranteed encounters. French and grey angelfish, queen triggerfish, and large parrotfish are abundant. Schools of blue tangs and yellowtail snappers move in loose formations over the reef crest. Nurse sharks rest under coral ledges, and spotted eagle rays cruise the sandy margins. The reserve's healthy coral also supports exceptional invertebrate diversity, including spiny lobsters, flamingo tongues, banded coral shrimp, and arrow crabs.
+Confirmed species within the Cousteau Reserve by reserve-cousteau.fr and lesilesdeguadeloupe.com: hawksbill turtles and green sea turtles (both species present, important nesting population), French angelfish, grey angelfish, parrotfish, barracuda, spiny lobsters, blue tangs, yellowtail snappers, French grunts. The reserve's protected status has allowed fish populations to grow large and bold around divers.
 
-## Dive Profile
-
-The reef slopes from 3 meters down to the park boundary near 12 meters at this entry profile, though further exploration reveals deeper terracing. Begin in the shallows and move progressively deeper, keeping the island close on one side. The calm, protected topography of the inner face makes this an ideal site for beginners to develop navigation skills and buoyancy control. End the dive in the shallows for a relaxed safety stop with excellent marine life around you.
+Note: "Nurse sharks under coral ledges," "spotted eagle rays," and "Caribbean reef sharks" are reported for the broader reserve area; they are not confirmed as routine sightings at this specific Pigeon Island overview entry.
 
 ## Entry and Exit
 
-Accessed by boat from Malendure beach, a 5-minute crossing. Giant stride entry; a mooring buoy system protects the reef from anchor damage. Surface marker buoy (SMB) required for ascent due to boat traffic in the channel.
-
-## Tips and Recommendations
-
-- Diving anywhere in the reserve requires going with a licensed local operator
-- The site is dived alongside Jardin de Corail and the Aquarium for a full reserve experience
-- Arrive early — the reserve sees significant boat traffic by mid-morning
-- A bust of Jacques Cousteau at 12 meters in the adjacent Jardin de Corail site marks his connection to these waters
-- Night dives are available and reveal sleeping parrotfish, octopus, and crab activity
-
-## Safety Considerations
-
-Boat traffic in the Malendure channel is significant — always surface with an inflated SMB. The reserve has rules prohibiting collection, anchoring on coral, and feeding fish. Fire coral is present and easily confused with other corals by inexperienced divers — look, don't touch. Respect the marine park boundaries.
-
-## Photography
-
-The Cousteau Reserve is consistently rated among the French Caribbean's top underwater photography locations. The fish density, clear water, and shallow depth create ideal ambient-light conditions for wide-angle reef shots. Turtle encounters are close enough for natural-light portraits. Macro subjects are numerous on coral heads and sponge surfaces.
+Boat from Malendure beach, 5-minute crossing. Giant stride entry; mooring buoy system in place. SMB required on ascent due to consistent boat traffic in the channel.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Cousteau Reserve](https://www.heures-saines.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Snorkeling Report — Pigeon Islands](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/). Last updated 2026-06-04.*

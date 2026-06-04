@@ -33,7 +33,7 @@ Located just minutes by boat from Grand Anse Beach, Flamingo Bay is a reliable e
 
 ## Marine Life
 
-Flamingo Bay supports a classic Grenada reef community. Sea turtles are reliable sightings, feeding on sponges and cruising through the coral formations. Parrotfish and blue tang schools sweep over the reef crest. Queen triggerfish, French angelfish, and large groupers are resident. The sandy margins at the base of the reef attract southern stingrays. Barracuda patrol the open water above the reef, and nurse sharks are occasionally found resting under overhangs.
+Flamingo Bay supports a diverse Grenada reef community confirmed by multiple operators. Blue clouds of chromis glide along the slope, with big-eyed squirrelfish and jackknife fish in reef crannies. Creole wrasse, parrotfish, and butterflyfish are abundant. Grouper, jacks, and rays are encountered deeper on the wall. The reef is encrusted with whip coral, colourful sponges, and sea fans. Sea turtles are documented visitors. Note: "nurse sharks resting under overhangs" cited in previous descriptions were not confirmed by primary sources for this specific site.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The accessible shallow reef, good visibility, and active fish community make Fla
 - Commonly offered as the second dive of a morning two-tank trip after the Underwater Sculpture Park
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [SANDALS - Scuba Diving Grenada](https://www.sandals.com/blog/scuba-diving-grenada/). Last updated 2026-05-24.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [PADI - Flamingo Bay](https://www.padi.com/dive-site/grenada/flamingo-bay/). Last updated 2026-06-04.*

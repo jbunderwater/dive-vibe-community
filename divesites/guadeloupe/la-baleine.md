@@ -3,60 +3,49 @@ name: La Baleine
 lat: 15.8800649
 lng: -61.5870059
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 9383533418
 addedBy: osm_import
 ---
 
-# La Baleine
+## La Baleine
 
-*A historic wreck and wall site in the Les Saintes passage, where the French Navy schooner Anémone is believed to rest in a dramatic whale-shaped channel formation.*
+La Baleine is a canyon and reef dive in the Passe de la Baleine between Terre-de-Haut and Terre-de-Bas in Les Saintes, notable for its distinctive canyon topography and the presence of a historically identified 19th-century shipwreck at its base.
 
 ## Overview
 
-La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage between Terre-de-Haut and Terre-de-Bas in Les Saintes. The site combines wall diving with a historic wreck component — the Épave de la passe de la Baleine is believed to be the remains of the Anémone, a French Navy schooner dating to 1823 that sank in 1824. The passage creates current-driven conditions with excellent visibility, and the combination of historic wreck, wall structure, and strong fish life makes this one of Les Saintes' most interesting dives. Maximum depth reaches 25 meters. Visibility averages 25–30 meters. Water temperature is 25–27°C.
+The site consists of two perpendicular underwater canyons in the Passe de la Baleine (Whale Pass). The main canyon descends from shallow (2–3 metres) water to a small circular rocky plateau at approximately 20–22 metres maximum depth. The canyon walls are covered with sea fans, branching gorgonians, and barrel sponges.
+
+The site contains archaeological wreck remains definitively identified as the French Navy schooner Anémone, which was built at Bayonne in 1823 and sank on 7–8 September 1824 during a hurricane. The entire crew of 29 men, including Captain Louis Alexandre Guillotin, perished. The Anémone had been deployed to Guadeloupe as a patrol and customs vessel to fight the illicit slave trade. The wreck was identified through a doctoral thesis in 2013 and confirmed by an archaeological excavation project (2015–2019) sponsored by the French Ministry of Culture, the Guadeloupe regional authority, and the French Ministry of Defence. After two centuries underwater, the remains are substantially buried and encrusted. The site had been looted in the 1990s prior to archaeological investigation.
+
+Note: The OSM tag classifies this as a "wall" dive, but site descriptions from guadeloupe-fr.com describe it primarily as a canyon dive with a maximum depth of 22 metres. Site type is updated to reef/canyon in line with reported site character.
 
 ## Site Information
 
 - **Location**: Passe de la Baleine, between Terre-de-Haut and Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
-- **Current**: Moderate to strong; the passage creates tidal current — time the dive accordingly
-- **Best Time**: Year-round; time dives with favorable tidal flow
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: Good in settled conditions
+- **Current**: Tidal flow through the passage
 
 ## Marine Life
 
-The tidal current through the passage concentrates filter feeders — sea fans and sea whips are dense and fully extended in the flow. Schools of gorettes and creole wrasse station in the current. Eagle rays and Caribbean reef sharks use the passage to move between the open Atlantic and the Caribbean side. The wreck remains, after two centuries, are substantially buried and encrusted but attract large groupers and lobsters around the old ironwork and ballast. Hawksbill turtles navigate the passage regularly. Barracuda are abundant in the mid-water column.
+Confirmed species at this site (guadeloupe-fr.com): sergeant major fish (Abudefduf saxatilis) and blue/grey damselfish in the canyon shallows; juvenile and adult yellowtail damselfish (Microspathodon chrysurus); Caribbean angelfish; pufferfish (Chilomycterus species); royal spiny lobsters (Panulirus argus); flat lobsters (Scyllarides aequinoctialis). Deeper section hosts large royal spiny lobsters and grey/yellow snappers (Lutjanus species). Sea fans are fully extended in the tidal current.
+
+Regional species are not attributed to this site without per-site confirmation.
 
 ## Dive Profile
 
-Enter up-current from the passage entry point and drift through the La Baleine passage. The wall face on the Terre-de-Haut side provides a depth reference throughout the drift. The historic wreck remains sit at 18–22 meters in the passage floor. Visit the wreck section before continuing the drift to 20–25 meters. Exit the passage at the down-current end and signal the boat for pickup. Drift dives in tidal passages require a chase boat and SMB deployment.
-
-## Entry and Exit
-
-Operated by Les Saintes-based dive operators who know the tidal schedule. Entry is timed to the current. Drift dive format — the boat drops divers up-current and picks up at the exit end. Deploy SMB on ascent.
-
-## Tips
-
-- This dive must be timed with the tidal schedule — ask your operator specifically when the passage is running at the right speed for a comfortable drift
-- The historic wreck connection makes La Baleine especially interesting for wreck and history enthusiasts
-- Combine with Pointe du Gouvernail on the same day for two contrasting Les Saintes dives
-- The passage between the Saintes islands is a historically significant maritime route — the Battle of the Saintes (1782) was fought in these waters
-- Sea fans in the passage current are fully extended and make outstanding photography subjects
+Enter from boat and descend into the main canyon. Shallower section (2–12 m) is rich with damselfish and smaller reef species. Swim deeper along the larger canyon through the gorgonian and sponge field to the circular plateau at 20–22 m where large lobsters and snappers concentrate. The wreck remains are at depth in the passage floor — encrusted and partially buried; observe without disturbing the archaeological site. Ascend the canyon wall back to the shallows.
 
 ## Safety
 
-Current in the passage can be strong — this is a fundamental feature of the site rather than an exceptional condition. Only dive when the operator confirms current speed is appropriate. Never attempt to swim against the passage current. Deploy an SMB early for the drift boat to track your position. Always dive with a buddy.
-
-## Photography
-
-La Baleine is an excellent current dive photography site. Sea fans fully extended in the current flow with divers drifting behind create compelling wide-angle images. Reef sharks cruising through the passage in clear water are dramatic. The historic wreck remains, covered in two centuries of encrustation, create unique macro subjects unlike the deliberately sunk artificial reefs elsewhere in Guadeloupe.
+Tidal current flows through the passage — time the dive with your operator. Deploy an SMB on ascent. The Anémone wreck is a protected archaeological site; nothing may be removed or disturbed.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [ACUA Online — End of Game on the Anémone Site](https://acuaonline.org/deep-thoughts/end-of-game-on-anemone-wreck-site-les-saintes-guadeloupe-fwi/), [OpenEdition Journals — Épave de la passe de la Baleine](https://journals.openedition.org/archeomed/5539), [The Conversation — L'Anémone: de Bayonne à la Baie des Saintes](https://theconversation.com/lanemone-de-bayonne-a-la-baie-des-saintes-une-epave-hors-du-commun-167821), [Guadeloupe-fr.com — La Baleine dive site](https://www.guadeloupe-fr.com/accueilPatrimoine/article=444/). Last updated 2026-06-04.*

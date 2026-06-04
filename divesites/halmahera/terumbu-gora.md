@@ -29,7 +29,7 @@ Terumbu Gora is one of three primary dive sites in the Goraici island group — 
 
 ## Marine Life
 
-Fish life at Terumbu Gora is described as "very healthy," with large sponges and healthy corals supporting dense reef fish populations. Active hunters on the walls include Napoleon wrasse, dogtooth tuna, and reef sharks. The Goraici island group as a whole also features macro life in the sheltered bays and is an excellent night dive destination with octopus, crustaceans, and nudibranchs. Dogtooth tuna, grey reef sharks, surgeonfish, and black snappers are documented in the current-facing zones.
+Mermaid Liveaboards confirms that fish life at Terumbu Gora is "very healthy," with large sponges and healthy corals. Napoleon wrasse, dogtooth tuna (tunas), and reef sharks actively hunting on the walls are documented by Mermaid Liveaboards for this specific site. Manta rays at cleaning stations are reported at the Goraici Islands by Liveaboard Indonesia but have not been confirmed at Terumbu Gora specifically. The sheltered bays of the Goraici group are good for night dives with octopus, crustaceans, and nudibranchs — confirmed by Cruising Indonesia.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ The Goraici group is remote, with no infrastructure or emergency services. All m
 The healthy, unbleached coral and active predator behaviour make Terumbu Gora an excellent wide-angle photography site. Large sponges provide foreground interest, while reef sharks and Napoleon wrasse in the blue water column offer compelling subjects. For night diving in the sheltered bays, macro photography of octopus and nudibranchs is productive.
 
 ---
-*Sources: [Mermaid Liveaboards – Terumbu Gora](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*
+*Sources: [Mermaid Liveaboards – Terumbu Gora](https://www.mermaid-liveaboards.com/dive_spots/terumbu-gora/), [Cruising Indonesia – Halmahera, Goraici and Bacan](https://cruisingindonesia.com/dive/halmahera-goraici-and-bacan/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Happy Hill
 
-A cheerful, easy-going beginner reef on Grenada's southwest coast — a gentle sandy slope with good coral coverage, abundant fish life, and the kind of uncomplicated, enjoyable dive that the site's name perfectly describes.
+A beginner reef dive on Grenada's southwest coast — a gentle sandy slope with coral coverage and reef fish life. Note: "Happy Hill" does not appear as a named dive site in multiple independent operator listings; this entry remains unvalidated pending confirmation from additional sources.
 
 ## Overview
 
@@ -33,7 +33,7 @@ Happy Hill features a classic Caribbean fringing reef profile, descending from 5
 
 ## Marine Life
 
-Hawksbill and green turtles are regularly encountered on the reef, particularly in the 5–10 metre range where sponge and algae growth is highest. Large parrotfish and queen triggerfish are prominent reef residents. French angelfish move through the coral in pairs, and schools of blue tangs sweep the shallow reef crest. Southern stingrays glide across the sandy margin at the reef base, and the sand is dotted with jawfish peering from their burrows.
+No site-specific source for "Happy Hill" as a named dive site has been found. The species listed (turtles, parrotfish, queen triggerfish, French angelfish, blue tangs, southern stingrays, jawfish) are consistent with southwest Grenada shallow reef habitat generally, but cannot be attributed specifically to a site by this name without confirmation. Regional marine life applies; no site-specific species reports found for "Happy Hill."
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal
 - Often paired with Flamingo Bay or the Underwater Sculpture Park for a two-tank beginner morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [AquaViews Scuba - Grenada](https://www.scuba.com/blog/best-places-to-scuba-dive/grenada/). No site-specific sources found for "Happy Hill" distinct from regional Grenada southwest reef characteristics. Last updated 2026-05-24.*
+*No site-specific sources found for "Happy Hill" as a named dive site. "Happy Hill" does not appear in ECO Dive Grenada, Pure Grenada, PADI, Sportif Dive, ScubaDiving.place, or ScubaBoard listings for Grenada dive sites. This entry remains unvalidated. Regional southwest Grenada reef characteristics apply. Last updated 2026-06-04.*
