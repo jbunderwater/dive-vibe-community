@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Aasiaat Nugguat
 
-Aasiaat Nugguat is a reef dive site in Greenland, Arctic.
+Aasiaat Nugguat is a rocky reef dive site near the town of Aasiaat in western Greenland, located just south of Disko Bay.
 
 ## Overview
 
-Aasiaat Nugguat is a reef site near the town of Aasiaat, a prime whale-watching hub just south of Disko Bay where humpback, minke, and fin whales congregate each summer to feed on krill and small fish. The underwater terrain features rocky outcrops and trailing kelp forests descending to 20 meters, with red sea cucumbers, scallops, crabs, and Arctic fish species inhabiting the cold, nutrient-rich water. Visibility can be excellent during calm conditions, and the site offers a rare chance to dive in waters actively used as a feeding ground by large cetaceans.
+Aasiaat Nugguat is a submerged rock formation in the waters near Aasiaat, a town on Greenland's west coast documented as a reliable area for humpback, minke, and fin whale sightings during the summer feeding season. The underwater terrain is characteristic of Greenland's west coast diving: granite and basalt substrate with kelp forests descending to approximately 20 metres. Greenland dive operators have documented the general character of this region's reefs as supporting nudibranchs, crabs, skeleton shrimp, starfish, amphipods, scallops, and bristle worms in kelp-covered boulder fields.
+
+Diving in Greenland requires a drysuit and significant cold-water experience. Water temperatures in this area range from approximately 0–4°C year-round, and the diving season runs June to September when the fjords are accessible.
+
+Regional marine life applies; no site-specific species reports found for Aasiaat Nugguat specifically.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Near Aasiaat, West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-06-04.*

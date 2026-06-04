@@ -14,10 +14,11 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay area, Arctic rock formations"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, airgreenland.com, advanceddivermagazine.com",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. Regional diving character confirmed for Aasiaat/Disko Bay area. Marine life claims stripped — not attributable to this specific site. Validation_source requirement of 3 independent domains not met for site-specific validation."
     }
   },
   {
@@ -39,10 +40,11 @@
       "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
       "source:type": "BANK",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rocky bank"
+      "validated": "false",
+      "validation_source": "visitgreenland.com, airgreenland.com, advanceddivermagazine.com",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. OSM data identifies this as a submerged bank (Sukkertoppen Banke). No site-specific dive sources found. Marine life claims stripped. 3-domain validation requirement not met for site-specific validation."
     }
   },
   {
@@ -61,10 +63,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland wreck"
+      "validated": "false",
+      "validation_source": "osm_extended",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. WRECK HISTORY UNVERIFIED: No independent sources found confirming vessel name 'Carl', build date, length, tonnage, nationality, or sinking cause. Located at 74.7N in remote East Greenland — no documented dive operations in this area. Depth of 40m from OSM only. Previous description claiming wreck colonized by anemones and seals has been replaced with factual uncertainty notice. Do not restore fabricated vessel history."
     }
   },
   {
@@ -85,10 +88,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "West Greenland rock formation"
+      "validated": "false",
+      "validation_source": "en.wikipedia.org, nhess.copernicus.org, visitgreenland.com",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. NOTE: Nuugaatsiaq settlement was abandoned after June 2017 tsunami and remains abandoned as of 2023 (Wikipedia, NHESS). No dive operations documented at this site before or after the event. Previous claim that 'underwater topography reflects the dramatic geology' of the tsunami was unsourced speculation — removed. Marine life claims stripped. Access is expedition-only with no local infrastructure."
     }
   },
   {
@@ -109,10 +113,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Disko Bay rocky site"
+      "validated": "false",
+      "validation_source": "advanceddivermagazine.com, adrex.com, airgreenland.com",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. Disko Bay regional diving character confirmed. Marine life claims stripped — not attributable to this specific site. 3-domain requirement not met for site-specific validation."
     }
   },
   {
@@ -133,10 +138,11 @@
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "North of Disko Bay, Arctic diving"
+      "validated": "false",
+      "validation_source": "advanceddivermagazine.com, adrex.com, visitgreenland.com",
+      "validation_date": "2026-06-04",
+      "last_qa_date": "2026-06-04",
+      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. North Disko Bay regional diving character confirmed. Marine life claims (polar cod, sculpin, humpback whales at site) stripped — not attributable to this specific site. 3-domain requirement not met for site-specific validation."
     }
   }
 ]

@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Maniitsup Ikkannersua, Maniitsup Ikkannera
 
-Maniitsup Ikkannersua, Maniitsup Ikkannera is a reef dive site in Greenland, Arctic.
+Maniitsup Ikkannersua and Maniitsup Ikkannera (Danish: Sukkertoppen Banke) are submerged rock formations in the waters surrounding Maniitsoq on Greenland's west coast.
 
 ## Overview
 
-Maniitsup Ikkannersua and Maniitsup Ikkannera are shallow reef formations in the waters surrounding Maniitsoq, a town on Greenland's west coast known locally as "the Venice of Greenland" for its network of natural channels and bridges. The rocky underwater terrain reaches 18 meters depth and is draped in low-lying kelp beds, with crabs, sea urchins, starfish, and amphipods among the boulders. The nutrient-rich channels between the islands attract humpback whales and harbour seals to the area during the summer feeding season.
+Maniitsup Ikkannersua and Maniitsup Ikkannera are OSM-recorded reef features near Maniitsoq (historically known as Sukkertoppen) on western Greenland's coast, reaching depths to approximately 18 metres. The site is recorded in OSM with the tag `description: Banke` (Danish for bank or shoal) and a Danish name of "Sukkertoppen Banke," indicating this is a submerged rocky bank rather than a fringing reef in the tropical sense.
+
+Greenland's west coast dive sites in this region feature rocky boulder fields and kelp forest habitat. The channel and island network around Maniitsoq is documented as providing productive waters for marine wildlife, though no dive operator or published source has been identified that specifically describes diving at these named banks.
+
+Regional marine life applies; no site-specific species reports found for this named site.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
+- **Location**: Near Maniitsoq (Sukkertoppen), West Greenland
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Visit Greenland - Diving](https://visitgreenland.com/things-to-do/diving/), [PADI - Diving in Greenland](https://www.padi.com/diving-in/greenland/), [ZuBlu - Greenland](https://www.zubludiving.com/destination/arctic/denmark/greenland), [Oceanwide Expeditions - Diving in Greenland](https://oceanwide-expeditions.com/to-do/experiences/diving-in-greenland), [Northern Explorers - Iceberg Diving](https://www.northern-explorers.com/tours/iceberg-diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-06-04.*
