@@ -23,17 +23,17 @@ Batu Jabu is an oval-shaped reef built around a submerged rock seamount whose ti
 
 - **Location**: Off Pulau Kusu, Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 
 ## Marine Life
 
-The nutrient-rich currents from the Patinti Strait support abundant reef fish populations. Blacktip and whitetip reef sharks are regular sightings. Anthias, fusiliers, and schooling reef fish populate the shallower sections of the reef, while Napoleon wrasse and larger predators are seen at depth. Macro life is found in the current-sheltered areas on the lee side of the rock.
+The nutrient-rich currents from the Patinti Strait support abundant reef fish populations. IndoPacific Images and Neptune Liveaboards confirm schools of jacks and small barracudas at the site. Active reef sharks are present. Macro life is found in the current-sheltered areas on the lee side of the rock. Napoleon wrasse and larger predators are reported in the area by multiple liveaboard operators.
 
 ## Dive Profile
 
-The reef is dived as a circuit around the central rock, descending along the current-facing walls to explore the deeper reef before ascending to the shallower sections on the lee side. The oval reef structure allows divers to manage exposure to current by positioning on sheltered sides. Depth range is typically 5–30 metres.
+The reef is dived as a circuit around the central rock, descending along the current-facing walls to explore the deeper reef before ascending to the shallower sections on the lee side. IndoPacific Images confirms a mini-wall commencing at 15 metres, a smaller rock at 21 metres, and the pinnacle descending to 35 metres. The oval reef structure allows divers to manage exposure to current by positioning on sheltered sides. Depth range is typically 5–35 metres.
 
 ## Entry and Exit
 
@@ -48,4 +48,4 @@ Dive the current-exposed face when conditions allow for the best fish density, t
 The Patinti Strait is characterised by strong tidal currents. While Batu Jabu is generally more manageable than Proco Channel, conditions can change rapidly. Carry an SMB on every dive. Halmahera is remote — emergency access to a recompression chamber requires evacuation to Manado. Water temperature is 27–30°C year-round.
 
 ---
-*Sources: [IndoPacificImages – South-West Halmahera Scuba Diving Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/), [Jakare Liveaboard – Halmahera Dive Sites](https://jakare-liveaboard.com/destination/halmahera-moluques/), [Konjo Cruising Indonesia – Halmahera](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Last updated 2026-05-17.*
+*Sources: [IndoPacific Images – South-West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-south-west-halmahera-scuba-diving-sites/), [Neptune Liveaboards – Halmahera Diving](https://www.neptuneliveaboards.com/blog/halmahera-diving/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

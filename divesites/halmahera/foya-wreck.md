@@ -30,7 +30,7 @@ Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese Worl
 
 ## Marine Life
 
-The wreck and surrounding sandy areas support a mix of reef fish and macro life typical of Weda Bay. Pygmy seahorses, turtles, and giant groupers have been recorded in the broader bay environment. The wreck's structure provides shelter for nudibranchs and encrusting invertebrates, while larger pelagics such as blacktip reef sharks and Napoleon wrasse are regular visitors to Weda Bay dive sites.
+Weda Resort, the operator that discovered the wreck, documents the following for Weda Bay dive sites in general: pygmy seahorses, turtles, giant groupers, and the endemic Halmahera walking shark on night dives. No species list specific to the Foya Wreck itself has been published. The wreck structure provides shelter for encrusting invertebrates and reef fish; no site-specific species reports beyond the general Weda Bay inventory have been confirmed.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ The wreck is best dived in the morning when visibility is at its peak. Because i
 Halmahera is a remote destination with limited emergency medical infrastructure. The nearest recompression chamber is in Manado, North Sulawesi. Carry a fully charged SMB and dive within your certification limits. While Weda Bay typically has gentle conditions, open-water transfers between sites can involve chop and longer boat rides.
 
 ---
-*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Weda Resort – Dive Sites of Weda Bay](https://wedaresort.com/dive-sites-halmahera/), [ScubaBoard – Trip Report Weda Resort 2019](https://scubaboard.com/community/threads/trip-report-weda-resort-halmahera-april-2019.580148/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

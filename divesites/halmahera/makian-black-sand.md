@@ -30,7 +30,7 @@ Makian is a stratovolcano island, and its eruptions have blanketed the surroundi
 
 ## Marine Life
 
-The black sand substrate supports classic Lembeh-style critters. Documented species at Makian-type black sand sites in the region include frogfish, nudibranchs (multiple species), bobbit worms, and the endemic Halmahera epaulette shark (*Hemiscyllium halmahera*) — a species discovered in 2008 that is found only in the shallow reefs and rocky substrates around Halmahera and neighbouring islands. Colourful hard and soft corals in the northern areas also support reef fish.
+The black sand substrate supports classic Lembeh-style critters. Cruising Indonesia specifically documents frogfish, ghost pipefish, scorpionfish, and various eels under the pier at Makian as confirmed species at this site. Bobbit worms and nudibranchs are confirmed for the broader Makian area by the same source. The endemic Halmahera epaulette shark (*Hemiscyllium halmahera*) — formally described in 2013 and found only in the Halmahera and Ternate island group — is documented in shallow rocky and reef habitats at 0–10 metres across Halmahera; it has been recorded at nearby Weda Bay on night dives but has not been independently confirmed at the Makian black sand site specifically. Colourful hard and soft corals in the northern areas of Makian also support reef fish.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Makian is an active volcano with periodic eruption alerts — confirm current vo
 Black sand muck photography is a speciality discipline. A macro lens or 60mm/100mm equivalent with dual strobes is the standard setup for nudibranchs and frogfish. The dark substrate creates natural contrast, making even simple compositions effective. The northern coral-and-black-sand interface offers opportunities for mixed-style shots combining reef and muck subjects.
 
 ---
-*Sources: [Coralia Liveaboard – Halmahera](https://www.coralia-liveaboard.com/halmahera-liveaboard-diving/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Hemiscyllium halmahera – Wikipedia](https://en.wikipedia.org/wiki/Hemiscyllium_halmahera), [Halmahera Epaulette Shark – Weda Resort Research](https://www.sharksandrays.com/halmahera-epaulette-shark/). Last updated 2026-05-17.*
+*Sources: [Cruising Indonesia – Halmahera, Lembeh and Raja Ampat](https://cruisingindonesia.com/dive/raja-ampat-and-halmahera-plus-lembeh-strait/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Wikipedia – Hemiscyllium halmahera](https://en.wikipedia.org/wiki/Hemiscyllium_halmahera). Last updated 2026-06-04.*

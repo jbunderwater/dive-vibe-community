@@ -29,7 +29,7 @@ Pulau Pisang ("banana island") is a group of four islands in southern Halmahera,
 
 ## Marine Life
 
-Reef sharks present at the site include reef sharks (Carcharhinus amblyrhynchos), silvertip sharks (Carcharhinus albimarginatus), whitetip reef sharks (Triaenodon obesus), and blacktip reef sharks (Carcharhinus melanopterus). Moray eels, Napoleon wrasse, anthias, and barracuda are also documented. The site is also noted for bumphead parrotfish schools and pelagic species. The endemic amphipod colony is a unique scientific feature of the site. Coralia Liveaboard also documents large coral heads in the shallows and soft corals in deeper areas.
+Multiple reef shark species are documented at Pulau Pisang by Jakare Liveaboard and X-Ray Magazine: grey reef sharks (*Carcharhinus amblyrhynchos*), silvertip sharks (*Carcharhinus albimarginatus*), whitetip reef sharks (*Triaenodon obesus*), and blacktip reef sharks (*Carcharhinus melanopterus*). Sea turtles are confirmed by X-Ray Magazine at the site. The endemic amphipod colony — a crustacean species found only at Pulau Pisang — is documented by multiple sources including Jakare Liveaboard. Bumphead parrotfish schools and large coral heads in the shallows are reported by Coralia Liveaboard. Manta rays are occasionally reported in the broader southern Halmahera area when currents bring nutrient-rich waters, but are not confirmed specifically at Pulau Pisang with regularity.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Southern Halmahera is remote with very limited infrastructure. Medical emergenci
 Pulau Pisang offers unusual dual opportunities: wide-angle photography of multiple reef shark species on shallow coral slopes, and macro photography of the endemic amphipods and reef invertebrates. The combination of large coral heads in the shallows and dramatic pinnacles at depth makes this a versatile photo destination.
 
 ---
-*Sources: [Jakare Liveaboard – Halmahera Hidden Dive Gem](https://jakare-liveaboard.com/halmahera-hidden-dive-gem/), [Coralia Liveaboard – Halmahera](https://www.coralia-liveaboard.com/halmahera-liveaboard-diving/), [X-Ray Mag – Halmahera Liveaboard Diving](https://xray-mag.com/content/halmahera-0). Last updated 2026-05-17.*
+*Sources: [Jakare Liveaboard – Halmahera Hidden Dive Gem](https://jakare-liveaboard.com/halmahera-hidden-dive-gem/), [X-Ray Mag – Halmahera Liveaboard Diving](https://xray-mag.com/content/halmahera-0), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*

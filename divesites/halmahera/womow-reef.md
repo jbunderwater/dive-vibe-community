@@ -30,7 +30,7 @@ Womow Reef is a submerged seamount whose top rises to approximately 7 metres bel
 
 ## Marine Life
 
-Documented species include grey reef sharks, blacktip reef sharks, whitetip reef sharks, tunas, giant trevallies, fusiliers, surgeonfish, and pyramid butterflyfish. The hard coral reef top supports dense communities of smaller reef fish, while the drop-offs bring in the pelagic action typical of exposed Coral Triangle seamounts.
+Liveaboard Indonesia and Neptune Liveaboards confirm grey reef sharks, blacktip reef sharks, whitetip reef sharks, tunas, giant trevallies, fusiliers, surgeonfish, and pyramid butterflyfish at Womow Reef. The shallow reef top at 7 metres with hard coral coverage is confirmed across multiple sources. The pelagic action on the drop-offs is consistent with exposed seamounts in this region of the Molucca Sea.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ North Halmahera is extremely remote. The nearest decompression facility is in Ma
 The combination of a hard-coral reef top at 7 metres and reliable shark patrols on the walls makes Womow Reef well suited to wide-angle photography. Good ambient light in the shallows allows natural-light shots of schooling fish, while reef shark encounters on the walls benefit from a fisheye lens and dual strobes.
 
 ---
-*Sources: [Malaillo Liveaboard – North Halmahera & Morotai](https://www.malailloliveaboard.com/north-halmahera-morotai/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-05-17.*
+*Sources: [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Neptune Liveaboards – Halmahera Diving](https://www.neptuneliveaboards.com/blog/halmahera-diving/), [ZuBlu – Halmahera, Ternate and Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai). Last updated 2026-06-04.*
