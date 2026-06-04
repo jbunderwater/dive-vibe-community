@@ -45,7 +45,7 @@ Boat dive from True Blue Bay or Grand Anse area operators. Giant stride entry; D
 
 ## Tips and Recommendations
 
-This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check under boulder overhangs for nurse sharks and large morays. Octopus sightings are more reliable here than at many other Grenada sites. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
+This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss. Check the large sandy area for octopus and rays — ECO Dive specifically notes the sandy section as productive for these species. The tug boat wreck in the shallows is worth exploring before descending the main slope. Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day.
 
 ## Safety Considerations
 

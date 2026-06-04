@@ -33,7 +33,7 @@ X-Ray Magazine's Grenada dive guide describes a site called "Spice Island Reef" 
 
 ## Marine Life
 
-The shallow, well-lit reef at Spice Island Reef supports exceptional fish diversity for its depth range. Schools of blue tangs, yellowtail snappers, and French grunts are abundant. Large parrotfish work the reef constantly, and French angelfish are a consistent presence. Hawksbill turtles are regular visitors — some individual animals have been observed at this site for years. The sandy margin at 10–12 metres is productive for southern stingrays and garden eels.
+The one source that specifically names this site (X-Ray Magazine) confirms: juvenile fish communities on the bommies, yellowtail snapper, blue chromis, and sea plumes. Generic southwest Grenada reef species (blue tangs, French grunts, parrotfish, stingrays) are plausible for this depth and habitat type but are not confirmed specifically at "Spice Island Reef" by name. Note: "individual hawksbill turtles observed for years" and "garden eels on the sandy margin" from previous descriptions had no site-specific source and have been removed from this version.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The shallow depth and exceptional clarity make Spice Island Reef one of Grenada'
 - Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
 ---
-*Description based on regional Grenada southwest reef characteristics and operator site listings. No site-specific sources found for "Spice Island Reef" by this name. Last updated 2026-05-24.*
+*Sources: [X-Ray Magazine - Grenada Dive Guide](https://xray-mag.com/content/grenada-spice-isle-caribbean). One source found referencing this site by name (Aquanauts Grenada operator listing). No independent confirmation from other operators or dive databases. This site remains unvalidated pending additional source confirmation. Last updated 2026-06-04.*
