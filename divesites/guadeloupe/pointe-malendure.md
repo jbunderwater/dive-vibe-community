@@ -13,49 +13,29 @@ addedBy: osm_import
 
 ## Pointe Malendure
 
-Pointe Malendure is one of Guadeloupe's most accessible shore dives, departing from the black volcanic sand beach of Malendure village — the main shore base for diving the nearby Cousteau Reserve. The site offers a guided descent along a fixed rope to deeper reef structures, transitioning from a seagrass zone through a classic Caribbean coral reef.
+Pointe Malendure is a shore dive departing from the black volcanic sand beach at Malendure village, offering a seagrass-to-reef transition dive with reliable turtle encounters in the seagrass zone.
 
 ## Overview
 
-Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terre's volcanic origins. A guide rope leads from the entry point seaward, descending through a seagrass meadow and into the reef zone. The reef features two distinct depth platforms — around 15 and 20 meters — marked by differences in coral assemblage and fish life. Visibility averages 20–30 meters. Water temperature holds at 26–28°C and the seagrass zone provides additional habitat diversity absent from the Pigeon Island boat sites nearby.
+Entry is from Malendure's black volcanic sand beach. The site descends through a seagrass meadow into a reef zone with drop-off potential to 35 metres (though the OSM-recorded maximum recreational depth for this entry is 20 m). Snorkeling Report confirms the seagrass zone and turtle activity. ScubaGo describes a plateau at 12 m and a canyon to the right with crustacean life.
 
 ## Site Information
 
-- **Location**: Malendure Beach, Basse-Terre, Guadeloupe
-- **Entry Type**: Shore entry
+- **Location**: Malendure Beach, Bouillante, Basse-Terre, Guadeloupe
+- **Entry Type**: Shore entry from black volcanic sand beach
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; stronger at the reef's exposed face
-- **Best Time**: November to May
+- **Maximum Depth**: 20 metres (recreational; drop-off continues to ~35 m)
 
 ## Marine Life
 
-The seagrass zone near the entry hosts hawksbill turtles feeding on vegetation and occasionally resting on the sandy bottom. As depth increases, grey and French angelfish (known in French as "anges royaux") become prominent, often swimming in pairs around large coral heads. The deeper reef platform supports barracuda, snappers, and grunts in larger numbers. Eagle rays and the occasional Caribbean reef shark are seen in the open water above the deeper platform.
+Confirmed for this site by Snorkeling Report and lesilesdeguadeloupe.com: hawksbill turtles and green turtles — the seagrass beds are a primary turtle feeding zone, with sightings on essentially every dive; green turtles feed on seagrass metres from the entry point. French angelfish (anges royaux) are confirmed as typical of this reef (regional Cousteau Reserve character, confirmed by multiple reserve operator sources). Barracuda and snappers are present on the deeper platforms.
 
-## Dive Profile
-
-Use the guide rope to navigate from the beach to the reef. Descend through the seagrass zone, noting the transition as coral heads begin to appear around 6–8 meters. Follow the slope to the 15-meter platform and assess conditions before continuing to 20 meters. Ascend slowly, spending time in the seagrass zone during the safety stop — this is often where the best turtle encounters occur.
+Note: "Eagle rays" and "Caribbean reef sharks" attributed to this site in a previous version are not confirmed by sources specific to Pointe Malendure shore dive and have been removed.
 
 ## Entry and Exit
 
-Shore entry over dark volcanic sand — fins on before entering. The guide rope is your primary navigation reference. Exit at the same beach; surge can make the final few meters to shore slightly challenging on days with northerly swell. Water shoes are recommended.
-
-## Tips and Recommendations
-
-- The guide rope makes navigation straightforward for intermediate divers new to Guadeloupe
-- The seagrass-to-reef transition is ecologically interesting and not replicated at the nearby boat sites
-- Turtle sightings are extremely reliable here — allow extra time in the seagrass zone at the start and end of the dive
-- Combines naturally with a morning boat dive in the Cousteau Reserve for a full day at Malendure
-
-## Safety Considerations
-
-Keep the guide rope in sight throughout the dive — without it, navigation in open water back to the beach can be difficult. Watch for boat traffic between Malendure beach and Pigeon Island; the channel is active throughout the day. Wear a SMB and be visible on the surface. Fire coral is present on reef structures.
-
-## Photography
-
-The seagrass zone provides an unusual photographic environment for a Caribbean reef dive — wide-angle turtle portraits in the seagrass are distinctive. The deeper reef platforms offer classic reef compositions. Natural light is excellent throughout the depth range, particularly in morning hours.
+Shore entry over dark volcanic sand — fins on before entering. Surge can make the final metres to shore challenging when northerly swell is present. Water shoes recommended. Use the guide rope for navigation.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Snorkeling Report — Malendure Beach](https://www.snorkeling-report.com/spot/snorkeling-malendure-guadeloupe/), [Guadeloupe Islands Tourism — Turtles](https://www.lesilesdeguadeloupe.com/en/explore/the-fauna-and-flora-of-guadeloupe/sea-turtles/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Malendure](https://www.scubago.com/en/explore/divesite/pointe-malendure-113628). Last updated 2026-06-04.*

@@ -13,29 +13,29 @@ addedBy: osm_import
 
 ## Epave de l'Îlet Fortune
 
-The Épave de l'Îlet Fortune (also called the Épave de Goyave) is a metal wreck lying northeast of Îlet Fortune off the coast of Goyave on Guadeloupe's Grand-Terre side. The exact identity of the vessel is not definitively established in available sources.
+The Épave de l'Îlet Fortune (also known as the Épave de Goyave) is a metal wreck located northeast of Îlet Fortune off the coast of Goyave, accessible by boat or kayak. The identity of the vessel has not been definitively established.
 
 ## Overview
 
-The wreck is a metal structure located northeast of Îlet Fortune in the waters off Goyave. According to the dive resource site gwadaplans.com, the true name of the vessel is not known; it is referred to locally as the "Épave de l'Îlet Fortune" or the "Épave de Goyave." The wreck is accessible by boat or kayak. Parts of the structure are reported to be visible near or at the water surface, though the recorded dive depth extends to 16 metres.
+The wreck is a metal structure located northeast of Îlet Fortune in the waters off Goyave, Guadeloupe. According to GwadaPlans, the true name of the vessel is not known locally; it is referred to as the "Épave de l'Îlet Fortune" or "Épave de Goyave." Parts of the structure emerge above the waterline (OSM tags confirm visible at both high and low tide). The dive depth extends to approximately 16 metres for the deepest sections.
 
-The site lies within or adjacent to the Grand Cul-de-Sac Marin marine protected area, which stretches along northern Basse-Terre and hosts 29 km of coral reef — the largest in the Lesser Antilles.
+The site lies adjacent to the Grand Cul-de-Sac Marin marine protected area. It is accessible by boat from Goyave or by kayak from the nearby coast.
 
-## Dive Profile
+## Site Information
 
-- **Depth range**: Shallow to approximately 16 m
-- **Entry**: Boat dive; kayak access also possible from nearby shore
-- **Conditions**: Protected lagoon waters; generally calm
-- **Setting**: Sandy bottom within the Grand Cul-de-Sac Marin system
+- **Location**: Northeast of Îlet Fortune, off Goyave, Guadeloupe
+- **Entry Type**: Boat or kayak
+- **Site Type**: Wreck
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 16 metres
 
 ## Marine Life
 
-The broader Grand Cul-de-Sac Marin reserve system supports diverse reef life including angelfish, snappers, hawksbill turtles, and abundant invertebrates. Artificial structures in this region typically attract schooling reef fish and invertebrates that colonise the submerged metalwork over time.
+No site-specific marine life has been documented in published sources for this wreck. Regional marine life applies; no site-specific species reports found.
 
 ## Notes
 
-No site-specific documentation identifying this vessel's origin or precise dive conditions has been located in published dive guides. Divers interested in this site should contact local operators in the Goyave or Sainte-Rose area for current conditions and access logistics.
+No vessel identity, sinking date, or dive condition data has been published for this site beyond the OSM record and GwadaPlans reference. Divers interested in this site should contact operators in the Goyave area for current conditions.
 
 ---
-
-*Sources: [Gwadaplans.com — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Guadeloupe Islands — Îlet Fortune](https://www.lesilesdeguadeloupe.com/en/natural-heritage/ilet-fortune/). Last updated 2026-05-17.*
+*Sources: [GwadaPlans — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Guadeloupe Islands — Îlet Fortune](https://www.lesilesdeguadeloupe.com/en/natural-heritage/ilet-fortune/). Last updated 2026-06-04.*

@@ -13,29 +13,28 @@ addedBy: osm_import
 
 ## Frégate-de-Haut
 
-Frégate-de-Haut is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe. It lies adjacent to Frégate-de-Bas, with both sites positioned within the protected lagoon system north-east of Pointe-à-Pitre.
+Frégate-de-Haut is a coral reef in the Petit Cul-de-Sac Marin, a former îlet that disappeared during the 1928 hurricane and is now a submerged reef known to operators in the Petit-Bourg area.
 
 ## Overview
 
-Frégate-de-Haut (Upper Frigate) sits slightly south and inshore of Frégate-de-Bas, with coordinates suggesting both sites are closely related reef features within the Grand Cul-de-Sac Marin reserve. The site is a boat dive reaching a maximum depth of 20 metres, suitable for beginner divers.
+The Îlet Frégate de Haut was a small island in the Petit Cul-de-Sac Marin that disappeared, apparently after the 1928 hurricane, and is now a submerged reef. It is located approximately 5 minutes by boat from Petit-Bourg. The OSM tag notes this history. The site is within or near the Petit Cul-de-Sac Marin reserve area, east of the main Basse-Terre coast. Maximum dive depth is recorded as 20 metres.
 
-The Grand Cul-de-Sac Marin is a 15,000-hectare marine reserve protecting the largest coral reef in the Lesser Antilles — nearly 29 kilometres of reef. It is one of Guadeloupe's most biologically rich marine environments, encompassing coral reefs, seagrass beds, and mangroves.
+## Site Information
 
-## Dive Profile
-
-- **Depth range**: Shallow to 20 m
-- **Entry**: Boat dive
-- **Current**: Typically calm within the protected lagoon
-- **Conditions**: Sheltered from Atlantic swell; visibility generally good in settled weather
+- **Location**: Petit Cul-de-Sac Marin, near Petit-Bourg, Guadeloupe
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 metres
 
 ## Marine Life
 
-The Grand Cul-de-Sac Marin ecosystem supports French angelfish, yellowtail snapper, hawksbill turtles, red starfish, sea urchins, lobsters, and diverse schooling reef fish. Seagrass beds adjacent to coral reef areas attract juvenile fish and herbivorous species.
+No site-specific marine life has been documented in published sources for Frégate-de-Haut as a named dive site. The broader Petit Cul-de-Sac Marin supports Caribbean reef fish communities typical of protected Guadeloupean waters.
+
+Regional marine life applies; no site-specific species reports found.
 
 ## Notes
 
-No site-specific published dive guide documentation has been located for Frégate-de-Haut as a named dive site distinct from the broader Grand Cul-de-Sac Marin. Operators based in Sainte-Rose are the primary access point for reef dives in this section of the reserve.
+No published dive guide or operator documentation has been found for Frégate-de-Haut as a specifically named dive destination. Operators in Petit-Bourg and Sainte-Rose are the likely access point for this reef.
 
----
-
-*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*
+*Description based on OSM data and regional context. No site-specific sources found. Last updated 2026-06-04.*

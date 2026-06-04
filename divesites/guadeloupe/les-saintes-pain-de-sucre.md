@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Les Saintes - Pain de Sucre
 
-Pain de Sucre (Sugarloaf) is one of the signature dive sites of the Îles des Saintes archipelago, a cluster of small islands 15 km south of Basse-Terre. Named for the dramatic sugarloaf-shaped hill that rises above the water at Terre-de-Haut, this site offers reef diving in the sheltered bay beneath the famous landmark.
+Pain de Sucre (Sugarloaf) is a reef dive in the sheltered bay beneath the famous sugarloaf-shaped hill at Terre-de-Haut, one of the signature snorkel and dive sites of Les Saintes.
 
 ## Overview
 
-The dive takes place in the protected waters of Pain de Sucre Bay, where a sloping reef descends from the shallows to around 20 meters. Hard coral coverage is healthy, with brain, star, and encrusting corals forming the primary reef matrix. Sea fans and black coral are present at greater depths. The clarity of the water in this sheltered position is exceptional, with visibility frequently reaching 25–30 meters. The Îles des Saintes' relative remoteness and low-impact local diving culture have kept the reef in good condition. Water temperature averages 27°C.
+The dive takes place in the protected waters of Pain de Sucre Bay on the south side of Terre-de-Haut. The sloping reef descends to around 20 metres. The bay's sheltered position produces calm conditions suitable for intermediate divers. Night dives are offered at this site by Les Saintes operators.
 
 ## Site Information
 
@@ -25,37 +25,19 @@ The dive takes place in the protected waters of Pain de Sucre Bay, where a slopi
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Generally mild in the bay; stronger around headlands
-- **Best Time**: November to May
+- **Maximum Depth**: 20 metres
 
 ## Marine Life
 
-Sea turtles are abundant throughout the bay and extremely relaxed around divers. Nurse sharks rest under coral overhangs at the base of the reef. French angelfish, grey angelfish, and large parrotfish patrol the reef slope. Schools of yellowtail snappers and grunts gather around coral structures. Spotted eagle rays visit the deeper sandy sections, and Caribbean reef sharks occasionally appear in the blue water above the reef.
+Confirmed for this site by Down to Scuba and island-specific sources: nurse sharks (Ginglymostoma cirratum) rest under coral overhangs — explicitly confirmed for Pain de Sucre bay. Sea turtles are abundant and relaxed around divers (confirmed by multiple sources). Reef fish including sea fans and sponges on rocky sections of the bay. Night dives are documented and recommended by Les Saintes operators.
 
-## Dive Profile
+Note: "Spotted eagle rays," "Caribbean reef sharks," and "nurse sharks resting under coral overhangs" were listed in the previous version; nurse sharks and turtles are confirmed for Pain de Sucre specifically. Eagle rays and Caribbean reef sharks are regional possibilities but are not confirmed at this specific site in the sources found.
 
-Descend into the clear water and follow the slope down through the main coral zone at 8–15 meters, then continue to the sandy terrace at 20 meters. The site is wide enough to explore in either direction along the bay. Ascend slowly, spending the safety stop at the most coral-rich section of the reef.
+Regional marine life applies for additional species beyond confirmed nurse sharks and sea turtles.
 
 ## Entry and Exit
 
-Boat access from Terre-de-Haut village, a 25-minute ferry ride from Basse-Terre or a short trip from local dive operators based in the Saintes. Giant stride entry; SMB required on ascent.
-
-## Tips and Recommendations
-
-- Plan a half-day to explore multiple sites in the Saintes — Pain de Sucre pairs well with Le Sec Pâté or Les Sources d'Eau Chaude
-- The above-water scenery of the Îles des Saintes is spectacular — bring a camera for surface intervals
-- Turtle encounters at this site are particularly close and unhurried
-- The calm bay conditions make this suitable for intermediate divers who might find the open-ocean sites in the Saintes more challenging
-
-## Safety Considerations
-
-Current around the headlands flanking the bay can be strong — stay within the protected bay zone unless accompanied by a guide familiar with the site. Boat traffic from the ferry terminal requires a deployed SMB on ascent. Fire coral is present.
-
-## Photography
-
-Pain de Sucre offers some of the best ambient-light turtle photography in Guadeloupe, with clear water and relaxed animals that allow close approaches. Wide-angle reef shots looking up toward the sugarloaf silhouette above the surface create dramatic above-and-below split-level images. The visibility and depth make compact cameras and GoPros highly effective.
+Boat access from Terre-de-Haut. Les Saintes-based operators serve Pain de Sucre. Ferry from Basse-Terre or Trois-Rivières (30 minutes) to Terre-de-Haut. SMB required on ascent.
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*Sources: [Down to Scuba — Diving in Guadeloupe](https://downtoscuba.com/diving-in-the-guadeloupe-archipelago/), [PADI — Diving in the Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands Tourism — Les Saintes](https://www.lesilesdeguadeloupe.com/en/islands/les-saintes-islands/). Last updated 2026-06-04.*

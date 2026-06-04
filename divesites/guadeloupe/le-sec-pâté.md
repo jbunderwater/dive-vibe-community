@@ -13,29 +13,29 @@ addedBy: osm_import
 
 ## Le Sec Pâté
 
-Le Sec Pâté is an advanced wall dive near the Îles des Saintes in southern Guadeloupe. This site — distinct from the famous pinnacle of the same name located further north in the Saintes Channel — is an OSM-recorded wall dive feature on the southern edge of the Les Saintes archipelago, descending to 30 metres.
+Le Sec Pâté is an OSM-recorded advanced wall dive node in the southern Les Saintes archipelago. It is distinct from the celebrated Sec Pâté pinnacle site in the central Saintes Channel.
 
 ## Overview
 
-This entry corresponds to an OSM-recorded dive node at the southern tip of the Les Saintes archipelago (lat 15.90°N), classified as a wall dive. It is distinct from the celebrated Sec Pâté pinnacle site in the central Saintes Channel. Local validation sources note it shares similar advanced characteristics: steep drop-off, strong currents, and a requirement for Advanced certification.
+This entry corresponds to an OSM dive node at lat 15.901°N, lon 61.656°W, classified in OSM as a wall dive. Its position in the southern Les Saintes area is distinct from the main Sec Pâté pinnacle (recorded separately at lat 16.15, inside the Saintes Channel). Local dive operators in Les Saintes may refer to multiple related features in this area under the "Sec Pâté" name. Divers should confirm the exact site with their operator.
 
-Les Saintes is a compact archipelago of nine islands south of Basse-Terre, renowned for some of the best diving in the French Caribbean. The wall sites around the archipelago drop sharply into the deep Saintes Channel, with excellent visibility and diverse marine life.
+The site requires Advanced certification due to depth (30 m) and potential for strong current in the Les Saintes area.
 
-## Dive Profile
+## Site Information
 
-- **Depth range**: Shallow reef to 30 m wall
-- **Entry**: Boat dive
-- **Current**: Strong currents possible; Advanced certification required
-- **Visibility**: Typically excellent in the Les Saintes area (15+ metres)
+- **Location**: Southern Les Saintes archipelago, Guadeloupe
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 metres
 
 ## Marine Life
 
-Les Saintes wall diving sites host hawksbill turtles, barracudas, groupers, moray eels, lobsters, queen and gray angelfish, and dense sponge and gorgonian growth on the wall faces. Scorpionfish are common on rocky substrates.
+No site-specific species reports have been found for this OSM-recorded node as distinct from the Sec Pâté pinnacle entry. Regional marine life applies; no site-specific species reports found.
 
 ## Notes
 
-The OSM validation notes that this site shares characteristics with the famous Sec Pâté pinnacle but is a distinct location. Divers visiting Les Saintes should confirm the exact site with their operator, as "Le Sec Pâté" can refer to multiple related features in the area.
+Divers visiting Les Saintes should confirm which "Sec Pâté" feature is being dived with their operator — the pinnacle in the Saintes Channel and this southern wall node are different locations.
 
 ---
-
-*Sources: [Tribloo — Le Sec Pâté dive site, Les Saintes](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/). Last updated 2026-05-17.*
+*Sources: [Tribloo — Le Sec Pâté dive site](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/). Last updated 2026-06-04.*
