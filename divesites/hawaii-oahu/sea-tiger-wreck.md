@@ -13,24 +13,31 @@ addedBy: osm_import
 
 ## Sea Tiger Wreck
 
-The Sea Tiger is the closest major wreck dive to Waikiki—a 51-meter freighter that was intentionally sunk in 1999 as an artificial reef. It's become one of Hawaii's most popular advanced wreck dives.
+The Sea Tiger is a 51-meter former Chinese fishing and cargo vessel intentionally sunk off Waikiki in 1999—one of the most popular advanced wreck dives on Oahu's south shore, with a documented history as colourful as its marine life.
 
 ## Overview
 
-Located just 10 minutes by boat from Kewalo Basin in Waikiki, the Sea Tiger offers an exceptional deep dive experience with excellent visibility. The 168-foot vessel sits upright in 110 feet of water with a maximum depth of 121 feet, and has become heavily encrusted with coral and marine life since sinking over two decades ago. Outer sections allow experienced penetration with appropriate training.
+Located approximately 10 minutes by boat from Kewalo Basin, the Sea Tiger rests upright on the sandy bottom with a maximum depth of approximately 36–37 meters (120 feet) at the sand and the main deck at approximately 24 meters (80 feet). Visibility is typically 20–30 meters. The vessel has been underwater for over two decades and is now colonized with coral, sponges, and abundant marine life. Exterior exploration is the primary activity; some penetration into outer sections is possible with appropriate training and equipment.
+
+## Historical Background
+
+The vessel was built in the early 1950s and originally operated as the Yun Fong Seong No. 303, a Chinese-registered fishing and cargo ship trading across Asia. In February 1992, the vessel was intercepted in Honolulu Harbor carrying 93 undocumented Chinese immigrants—Hawaii's largest such seizure at the time. The five crew members received prison sentences. The Justice Department auctioned the confiscated vessel; it passed through several owners, including the Sea Shepherd Conservation Society (purchased for $40,000 in 1992–93 with plans to use it against drift-net fishing, though those plans did not proceed), and a Vietnamese fisherman who renamed it the Sea Tiger. By 1994 the vessel was leaking oil in Honolulu Harbor and was seized by state authorities. Voyager Submarines acquired it in 1997 for $1 and spent approximately $250,000 on hazardous material cleanup and permits. The ship was intentionally sunk in 1999 as an artificial reef.
+
+Note on vessel length: most sources cite 51 meters (168 feet); one dive operator source cites 190 feet. The 51 m / 168 ft figure appears in multiple independent sources and is used here.
 
 ## Site Information
 
-- **Location**: South shore of Oahu, near Honolulu
+- **Location**: South shore of Oahu, ~10 minutes from Kewalo Basin
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 37 meters
-- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Main Deck Depth**: ~24 meters (80 feet)
+- **Maximum Depth**: ~36–37 meters (120 feet)
+- **Penetration**: Outer sections accessible with appropriate training
 
 ## Marine Life
 
-The Sea Tiger hosts an impressive array of marine life thanks to its large structure and depth. Divers regularly encounter resting sea turtles, eagle rays, reef sharks, nudibranchs, and frogfish hiding along the coral-encrusted walls. The diversity of species reflects the wreck's importance as an artificial reef ecosystem.
+Divers regularly encounter schools of jacks and butterflyfish, sea turtles resting on the structure, moray eels in the wreck's crevices, and spotted eagle rays passing through. Giant pufferfish, reef sharks, and colorful sponges on the hull are commonly reported. No species fabricated—all observations drawn from multiple operator accounts of this specific site.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Rainbow Scuba – Sea Tiger](https://www.rainbowscuba.com/seatiger.html), [Ocean Therapy Charters – Sea Tiger](https://www.oceantherapycharters.com/post/sea-tiger-shipwreck-honolulu-hawaii), [ScubaBoard – History of the Sea Tiger](https://scubaboard.com/community/threads/history-of-the-sea-tiger.215781/), [Dive Oahu – Sea Tiger](https://www.diveoahu.com/sea-tiger). Last updated 2026-06-06.*

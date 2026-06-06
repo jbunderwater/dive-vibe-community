@@ -32,10 +32,10 @@ Most dives at Niihau and Lehua operate in the 45–105 feet range (14–32m), th
 ## Site Information
 
 - **Location**: Channel between Ni'ihau and Lehua Crater, ~17 miles west of Kauai's south shore
-- **Entry Type**: Boat dive (live boat, charter only)
-- **Site Type**: Wall, drift, pinnacle, and sea cave complex
-- **Difficulty Level**: Advanced (open-ocean crossing, strong currents, significant depths, remote location)
-- **Maximum Depth**: 45 meters (typical sport diving max ~105 feet; Vertical Awareness drops to 300 feet)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 45 meters
 - **Typical Dive Range**: 45–105 feet (14–32m)
 - **Water Temperature**: 24–27°C (75–81°F)
 - **Requirements**: Certified diver; 15+ logged dives recommended by most operators; AOW certification recommended for wall/drift sites

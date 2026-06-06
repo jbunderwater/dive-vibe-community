@@ -25,9 +25,9 @@ Sea turtles are the defining feature: Hawaiian green sea turtles graze on algae 
 
 - **Location**: A few hundred yards offshore, Poipu, South Shore — 2 miles from Kukuiula Harbor
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern (lava tube system)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters (70 feet)
+- **Maximum Depth**: 21 meters
 - **Depth Range**: 20–70 feet (6–21m)
 - **Water Temperature**: 26–28°C (79–82°F)
 

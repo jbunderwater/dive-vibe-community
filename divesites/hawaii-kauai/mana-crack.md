@@ -24,10 +24,10 @@ The wall itself features massive black coral stalks swaying in the current and a
 ## Site Information
 
 - **Location**: 11-mile sunken fringing reef along the Na Pali Coast, Kauai (west/northwest shore)
-- **Entry Type**: Boat dive (live boat; no moorings)
-- **Site Type**: Wall (sunken fringing reef with drift)
-- **Difficulty Level**: Advanced (live boat only, strong currents, remote location)
-- **Maximum Depth**: 30 meters (100 feet, first dive; 24m/80 feet second dive)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Depth Range**: First dive 60–100 feet (18–30m); second dive 45–80 feet (14–24m)
 - **Water Temperature**: 24–26°C (75–79°F)
 

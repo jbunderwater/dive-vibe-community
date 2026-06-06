@@ -25,9 +25,9 @@ The wreck remains of the steam schooner Pele — which struck the sunken rock Ka
 
 - **Location**: Poipu area, South Shore, Kauai
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (steam schooner Pele, 1895) within lava reef system
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (90 feet, outer edge of inlet)
+- **Maximum Depth**: 27 meters
 - **Depth Range**: 65–90 feet (20–27m)
 - **Water Temperature**: 24–27°C (75–81°F)
 

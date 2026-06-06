@@ -24,10 +24,10 @@ Because of the site's position near the point, currents here can run strong, and
 ## Site Information
 
 - **Location**: Southeast shore, Poipu area, Kauai (furthest east of south side sites)
-- **Entry Type**: Boat dive (private charter recommended)
-- **Site Type**: Wall/ledge with drift
-- **Difficulty Level**: Advanced (strong currents, far from harbor)
-- **Maximum Depth**: 30 meters (100 feet)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Depth Range**: 60–100 feet (18–30m)
 - **Water Temperature**: 24–27°C (75–81°F)
 

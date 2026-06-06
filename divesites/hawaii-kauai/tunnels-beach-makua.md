@@ -24,10 +24,10 @@ Diving conditions are seasonal and strongly affected by north shore swells. May 
 ## Site Information
 
 - **Location**: Haena, North Shore, Kauai (east of Haena State Park)
-- **Entry Type**: Shore entry (no current commercial guided access; self-guided)
-- **Site Type**: Cave/cavern (lava tube and arch system)
-- **Difficulty Level**: Intermediate (seasonal surge, outer reef navigation)
-- **Maximum Depth**: 21 meters (70 feet, outer reef)
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 21 meters
 - **Water Temperature**: 24–27°C (75–81°F)
 - **Access Note**: Commercial dive tours prohibited by DLNR as of 2024; independent diving permitted with proper safety precautions
 

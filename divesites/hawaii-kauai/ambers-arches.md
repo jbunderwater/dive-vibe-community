@@ -24,10 +24,10 @@ The site is rated Advanced by Explore Kauai Scuba due to potentially rough surfa
 ## Site Information
 
 - **Location**: Just outside Kukuiula Harbor, South Shore, Kauai
-- **Entry Type**: Boat dive (mooring)
-- **Site Type**: Cave/cavern with arch and lava structures
-- **Difficulty Level**: Advanced (surface conditions, currents)
-- **Maximum Depth**: 24 meters (78 feet)
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 24 meters
 - **Depth Range**: 40–78 feet (12–24m)
 - **Water Temperature**: 26–28°C (79–82°F)
 

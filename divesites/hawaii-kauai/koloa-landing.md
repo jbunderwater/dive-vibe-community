@@ -24,10 +24,10 @@ The site hosts several resident frogfish — Explore Kauai Scuba notes these are
 ## Site Information
 
 - **Location**: Poipu area, South Shore, Kauai (Hanaka'ape Bay)
-- **Entry Type**: Shore entry; lava ramp, use booties
-- **Site Type**: Coral reef with lava wall arms
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (60 feet; finger reefs reach ~60 ft)
+- **Maximum Depth**: 18 meters
 - **Water Temperature**: 24–27°C (75–81°F)
 
 ## Marine Life
