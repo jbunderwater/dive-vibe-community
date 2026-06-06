@@ -910,12 +910,20 @@
         "honduras"
       ],
       "summary": {
-        "note": "hawaii and honduras are group slugs with no own data; 4 data slugs processed",
+        "note": "hawaii and honduras are isGroup parent slugs with no own data; 4 data slugs processed",
         "sites_total": 47,
         "sites_re_audited": 47,
-        "status": "in_progress"
+        "sites_validated_today": 43,
+        "sites_unresolved": 4,
+        "hallucinations_removed": "multiple (Corsair date, Mahi identity, depth errors feet-as-meters, 600+ species claims, manta species)",
+        "marine_life_stripped": "multiple across all 4 destinations",
+        "wreck_conflicts_flagged": 5,
+        "type_corrections": "Kohala Coast wall\u2192cave, General Store reef\u2192wreck, Brenneckes Ledge reef\u2192wall, Sharks Cove reef\u2192cave, Enenue wall\u2192reef",
+        "depth_corrections": "Kauai: 4 sites (75-130m \u2192 realistic); Maui: 8 sites (all 25m placeholder); Oahu: 4 sites (feet-as-meters errors)",
+        "difficulty_corrections": "Puako Reef Beginner\u2192Intermediate, Brenneckes Ledge Intermediate\u2192Advanced, Honokohau Harbor Beginner\u2192Intermediate, Electric Beach Beginner\u2192Intermediate",
+        "status": "complete"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/85"
     }
   ]
 }
