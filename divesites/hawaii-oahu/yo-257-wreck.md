@@ -13,24 +13,31 @@ addedBy: osm_import
 
 ## YO-257 Wreck
 
-The YO-257 is one of Oahu's premier deep wreck dives—a 165-foot Navy fuel barge from the WWII era, offering excellent penetration opportunities for advanced divers.
+The YO-257 is one of Oahu's premier deep wreck dives—a 174-foot U.S. Navy yard oiler that served through three wars before being intentionally scuttled two miles off Waikiki as an artificial reef.
 
 ## Overview
 
-The YO-257 sits approximately 3 miles offshore from Kewalo Basin, making this a quick 10-15 minute boat ride from Waikiki. This iconic wreck has numerous levels to explore and is known for its strong currents and excellent photographic subjects. The vessel bottoms out around 100-110 feet, with the main deck resting at approximately 65 feet.
+Sitting approximately two miles south of Kewalo Basin, the YO-257 rests upright on the seafloor with the main deck at approximately 85 feet and the bottom at 100 feet. The hull has been prepared for diving with large access holes cut through the structure, allowing penetration into the interior corridors and compartments. Visibility typically exceeds 100 feet. Mooring buoys are available at the site. The nearby San Pedro wreck (sunk 1996) sits approximately 100 feet away, allowing a dual-wreck dive on a single charter.
+
+## Historical Background
+
+USS YO-257 was a Yard Oiler built in 1938 in Puget Sound, Washington. Specifications from the Wikipedia record: 174 feet (53 m) long, 33 ft beam, 13 ft draft; light displacement 440 tons, full displacement 1,390 tons. The vessel served in World War II, the Korean War, and the Vietnam War. From September to November 1963 it was temporarily loaned to the U.S. Coast Guard to carry materials for a LORAN station construction project on Yap, Western Carolines. After decommissioning, the vessel was purchased by Atlantis Submarines Hawaii and intentionally scuttled as an artificial reef in 1989.
+
+Note: one operator source (oahudiving.com) gives the vessel length as 165 feet; Wikipedia and Rainbow Scuba both give 174 feet. The Wikipedia figure (174 ft / 53 m) is used here.
 
 ## Site Information
 
-- **Location**: South Shore of Oahu, near Waikiki
+- **Location**: South shore of Oahu, ~2 miles off Kewalo Basin / Waikiki
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Bottom Time**: 15-30 minutes depending on depth and location
+- **Main Deck Depth**: ~26 meters (85 feet)
+- **Maximum Depth**: ~30 meters (100 feet)
+- **Penetration**: Available for trained divers—access holes cut through the hull
 
 ## Marine Life
 
-The wreck hosts abundant marine life including resting sea turtles, eagle rays, reef sharks, nudibranchs, and frogfish. The coral-encrusted structure provides shelter for thousands of reef fish, creating a thriving artificial reef ecosystem.
+Hawaiian green sea turtles frequently rest on the wreck structure. White-tip reef sharks and reef trevally patrol the shadowed corridors. Eagle rays pass through the site. The coral-encrusted hull hosts abundant reef fish, eels, and invertebrates.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Wikipedia – YO-257](https://en.wikipedia.org/wiki/YO-257), [Rainbow Scuba – YO-257](https://rainbowscuba.com/yo257.html), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Oahu Diving – YO-257](https://www.oahudiving.com/yo_257.htm). Last updated 2026-06-06.*
