@@ -13,67 +13,51 @@ addedBy: osm_import
 
 ## Suck Em Up
 
-One of Kona's most dramatic lava tube dives, Suck Em Up features a 40-foot tunnel running parallel to the shoreline with dynamic surge effects and natural skylights. This intermediate dive combines technical interest with accessible depth, making it popular with divers seeking more than a simple reef experience.
+A North Kona lava tube and cavern site known for the rhythmic surge that pulses through its passages — "sucking" divers gently in and out — Suck Em Up is a staple of standard two-tank morning charters out of Honokohau Harbor.
 
 ## Overview
 
-Suck Em Up gets its memorable name from the powerful ocean surge that can create a "plunger effect" within the lava tubes—pushing and pulling divers with the swell. The site features a complex system of lava tubes and caverns with multiple entrances, exits, and skylights. Sunlight pierces through openings in the lava rock ceiling, creating dramatic light beams that dance through the water, a photographer's dream.
+Suck Em Up is a regularly visited boat dive on the North Kona Coast, appearing alongside sites such as Pyramid Pinnacle on typical two-tank morning itineraries. The site consists of a lava tube and cavern network at shallow depth — around 8 metres maximum — with multiple passages, entrances, and natural skylights. Ocean swell entering the lava formations creates a pulsing surge effect, which is both the site's character and the origin of its name. On calm days the surge is manageable and the dive is straightforward; in larger swells the surge can make entry and exit challenging.
 
 ## Site Information
 
-- **Location**: North Kona Coast
+- **Location**: North Kona Coast (exact access coordinates proprietary to operators)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/cavern (lava tube system)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 26-28°C (78-82°F)
-- **Best Time**: April to September (calmer conditions for surge navigation)
+- **Maximum Depth**: 8 metres
+- **Typical Visibility**: 15–25 metres
+- **Water Temperature**: 26–28°C
+- **Best Time**: April to September for calmer conditions
 
 ## The Lava Tube System
 
-The signature feature is a 100-foot long lava tube with a 40-foot primary passage that runs roughly parallel to the shoreline. The tube opens onto the reef at about 25 feet. There are various openings, exits, and a series of skylights distributed along the system. The network creates a natural underwater maze suitable for intermediate buoyancy skills.
-
-## Surge and Dynamics
-
-The site is famous for surge—ocean swell pushes water into the tubes and pulls it back out in a rhythmic pattern. In calm conditions, surge is minimal and the dive is straightforward. In rougher conditions, surge can be dramatic, making entries and exits challenging. This is both the appeal and the challenge of the site. Some divers enjoy the dynamic challenge; others prefer calmer conditions.
+The site features interconnected lava tubes and cavern passages formed by ancient volcanic lava flows cooling around channels of flowing lava. Natural skylights — openings in the lava ceiling — allow sunlight to penetrate, creating the dramatic beams of light characteristic of Kona's shallow lava dive sites. The passages remain within light-penetrating cavern zones accessible to divers without advanced cave training; divemasters manage group navigation to keep divers within safe limits.
 
 ## Marine Life
 
-Within the tubes you'll find crustaceans (including large spiny lobsters), small reef fish, octopus, and porcupine pufferfish. The reef surrounding the tubes supports typical Hawaiian reef fish communities. Few large animals, but the environment is rich with interesting invertebrates and small species.
+Spiny lobsters, porcupine pufferfish, and octopus are documented in the tube interiors by multiple operator sources and diver reports. Small reef fish shelter in overhangs. The surrounding open reef supports typical Hawaiian reef fish communities.
+
+No site-specific reports of large vertebrates (sharks, rays, turtles) at this site are available from current sources; marine life claims restricted to what is confirmed by local operator and forum accounts.
 
 ## Photography
 
-Exceptional opportunities for lighting and composition. The natural skylights create dramatic shadows and light beams. The dramatic rock formations within the tubes provide excellent abstract and detail photography subjects. Bring underwater lights to illuminate the interior caverns and reveal the true colors of marine life.
-
-## Diving the Site
-
-Most divers enter the tube system from the reef side, exploring the main passage and skylights, then exiting the way they came. With good buoyancy, the navigation is straightforward. Avoid touching walls to prevent disturbing sediment and to protect the delicate cavern environment. Move deliberately and smoothly to maintain control in surge.
+Natural skylights create dramatic contrast between lit and unlit areas. The dark tube interiors with beams of light from above are a classic Kona lava-tube photography subject. Bring a primary dive light and a backup — essential for illuminating the true colors of crustaceans and reef invertebrates inside the tubes.
 
 ## Tips and Recommendations
 
-- **Buoyancy practice**: Practice mid-water buoyancy control before this dive if unfamiliar
-- **Lights are essential**: Bring quality underwater lights to explore the darker chambers and reveal colors
-- **Surge awareness**: Ask your operator about conditions beforehand; high surge days can be challenging
-- **Calm conditions preferred**: Schedule this dive during calm, low-surf forecasts if possible
-- **Photography setup**: Consider a wide-angle setup for the dramatic tube interiors
+- Check swell forecast before booking: high-surge days can close this site
+- Bring a quality dive light in addition to any operator-provided lights
+- Practice mid-water buoyancy before attempting cavern passages
+- Move deliberately and avoid contact with lava walls (sharp and ecologically sensitive)
 
 ## Safety Considerations
 
-- Intermediate certification recommended (or equivalent experience)
-- Maintain excellent buoyancy control to prevent stirring up sediment
-- In surge conditions, maintain a safe distance from the group and divemaster
-- Do not penetrate beyond light-penetrating areas (about 100 feet into the tubes)
-- Be aware that surge can create unexpected currents; discuss exit strategy beforehand
-- Bring a safety light and maintain good spatial awareness
-- Do not touch the lava rock walls—they are sharp and fragile ecosystems
-
-## Site Condition Considerations
-
-This is a surge-dependent dive. On calm days, it's an excellent intermediate site. On high-swell days, it can be more challenging. Experienced operators will recommend postponement if surge is excessive. Check local conditions and swell forecasts before booking.
+- Intermediate buoyancy control required for cavern navigation
+- Never penetrate beyond light-penetrating zones without dedicated cave training and equipment
+- Surge can be disorienting; establish a clear exit strategy with your divemaster before descending
+- Carry a backup light
+- Sharp lava rock: avoid contact with bare skin and fins
 
 ---
-*This dive site information was researched from Kona dive operator reviews, diver trip reports, and lava tube diving guides. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Kona trip in four days](https://scubaboard.com/community/threads/kona-trip-in-four-days-dive-op-or-stick-to-shore.609977/), [Kona Honu Divers — Big Island Scuba Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving). Last updated 2026-06-06.*

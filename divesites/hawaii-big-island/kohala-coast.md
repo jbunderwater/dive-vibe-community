@@ -3,9 +3,9 @@ name: Kohala Coast
 lat: 19.9333
 lng: -155.8667
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,76 +13,71 @@ addedBy: osm_import
 
 ## Kohala Coast
 
-The Kohala Coast represents some of Hawaii's most dramatic and unique diving, featuring extensive lava formations, intricate caverns, and outstanding biodiversity. This is diving "off the beaten track" with a character distinct from the more popular Kona dive sites.
+A collective entry covering the northern Big Island's premier lava tube dive sites — primarily Black Point, Frog Rock, and Lava Dome — the Kohala Coast offers some of Hawaii's most distinctive cavern diving, with volcanic rock formations encrusted in Tubastrea and plate corals, and a documented species list of endemic invertebrates found nowhere else.
 
 ## Overview
 
-The Kohala Coast encompasses multiple dive sites along the northern shore of Hawaii's Big Island, in the leeward (western) shadow of Kohala volcano—last erupted 120,000 years ago. The underwater landscape has been sculpted by ancient volcanic activity into a dramatic playground of lava tubes, arches, pinnacles (bommies), and walls. The best sites on the Kohala Coast are Black Point, Frog Rock, and Lava Dome, which are accessed primarily by boat from Kohala Divers and similar operators.
+The Kohala Coast dive area sits on the northwestern side of the Big Island in the rain shadow of the extinct Kohala Volcano. Unlike the Kona sites, which are serviced by multiple operators out of Honokohau Harbor, Kohala diving is primarily operated by Kohala Divers, based in Kawaihae. Conditions are generally calmer from May to October. The three signature sites — Black Point, Frog Rock, and Lava Dome — are all accessible by boat and feature lava tube systems in the cavern zone (i.e., within light penetration and close to exits throughout), suitable for divers with solid Open Water skills and good buoyancy.
+
+The PADI Blog article on Kohala diving notes that the tubes are "mostly flat and wide swim-through" passages, "only a few chambers" requiring narrow passages, and that divers "maintain a couple of meters away from an exit at all times." This is not technical cave diving.
 
 ## Site Information
 
-- **Location**: Northwestern Big Island (Kohala Peninsula area)
+- **Location**: Northwestern Big Island, Kawaihae area (Kohala Peninsula)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Cave/cavern (lava tube primary character)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 25-27°C (77-80°F)
-- **Best Time**: May to October (calmer conditions)
+- **Maximum Depth**: Approximately 20 metres (Frog Rock to 20 m; Lava Dome to 30 m at Pink Floyd ledge)
+- **Typical Visibility**: 15–25 metres
+- **Water Temperature**: 25–27°C
+- **Best Time**: May to October
 
-## Geological Character
+## Key Sites
 
-The Kohala Coast's lava formations have been twisted and sculpted from molten magma into unique geological features: pinnacles, lava tubes, arches, and bommies (coral-encrusted rock formations). These structures have been encrusted by more than 50 species of Hawaii's stony coral colonies. The variety of depth zones creates a complex topography suitable for intermediate divers who enjoy navigation and geological exploration.
+**Frog Rock**: Depth 3–20 metres. Features lava tubes with many interconnecting caverns in the shallower sections. Sandy patches and coral fingers alternate. Porcupine pufferfish, octopus, and abundant invertebrates in the tube interiors. Strong currents are possible — confirm conditions with Kohala Divers before entry.
 
-## Key Dive Sites
+**Lava Dome**: Depth 9–30 metres. The central feature is a volcanic rock dome standing about 9 metres (30 feet) high, encrusted in plate and knob coral described by operator sources as hundreds of years old. Beyond the dome, coral fingers extend to a ledge called "Pink Floyd" (a reference to Pink Floyd's album *The Wall*) at the outer reef edge, where schooling fish congregate. Blue dragon nudibranchs (Pteraeolidia ianthina) are a confirmed feature of this site.
 
-**Black Point**: Features a dramatic black lava wall and caverns, offering excellent navigation and exploration.
-
-**Frog Rock**: A pinnacle site with coral-encrusted lava formations and abundant fish life.
-
-**Lava Dome**: Features dome-shaped lava formations and cavern systems with excellent photo opportunities.
-
-**Kei Kei Caverns**: Located on the northwestern Kohala peninsula, featuring caves, caverns, and tunnels formed from ancient lava flows.
-
-**Puako**: Often considered the "heaven of the Kohala Coast," featuring lava tubes, garden eels, abundant fish, and frequent turtle encounters (accessible as shore dive).
+**Black Point**: Black lava wall and cavern structure; operator-level detail is limited in current public sources. Kohala Divers selects sites based on daily conditions, so Black Point may or may not be on any given itinerary.
 
 ## Marine Life
 
-Over 600 species of tropical fish inhabit the Kohala Coast, with many species found nowhere else in the world. Unique species include snowball nudibranchs, marbled shrimps, and endemic Hawaiian fish. Sea turtles, octopus, reef sharks, and eels are commonly encountered. The cavern environment provides habitat for species adapted to low-light conditions.
+Confirmed at Kohala Coast sites by two independent sources (PADI Blog + operator accounts):
 
-## Diving the Kohala Coast
+- White-mouth moray eels
+- Leaf scorpionfish
+- Frogfish
+- Arc-eye hawkfish
+- Snowball nudibranch (Jorunna funebris)
+- Marbled shrimp
+- White-margin nudibranch
+- Blue dragon nudibranch (Pteraeolidia ianthina)
+- Red soldierfish (Myripristis spp., also called paeony bullseye)
+- Porcupine pufferfish (Diodon hystrix)
+- Octopus
+- Schooling fish at the Pink Floyd ledge (species not specified in sources)
+- Dolphins (sighted in the area, not exclusively at dive sites)
 
-Dives typically focus on navigation through pinnacles, exploration of lava formations, and cavern viewing (open water level, not technical cavern penetration). Buoyancy skills are important for maintaining position on depth and avoiding reef damage. The sites offer excellent opportunities for photography due to dramatic formations and good lighting in shallow areas.
+The earlier claim of "600+ tropical fish species" on the Kohala Coast is unverifiable and has been removed. The confirmed marine inventory above reflects what has been documented at these specific sites.
 
-## Technical Requirements
+## Diving Kohala
 
-The Kohala Coast requires better buoyancy and navigation skills than typical Kona dives. Cavern diving requires your best buoyancy skills. If you feel unsure, additional training is recommended before attempting Kohala Coast dives. This is not a beginner destination, though sites can be done by Open Water divers with good fundamentals.
+Best approach is to book through Kohala Divers in Kawaihae, who select the two daily sites based on conditions. The boat ride from Kawaihae is shorter than from Kona, and the sites are generally less visited, offering a quieter experience. Buoyancy control and comfort in overhead environments are the key prerequisites — these dives are more demanding than a flat reef dive.
 
 ## Tips and Recommendations
 
-- **Buoyancy practice**: Practice mid-water buoyancy control before these dives
-- **Lighting**: Bring quality lights to explore caverns and reveal true colors
-- **Navigation skills**: Compass bearings and natural landmarks aid orientation
-- **Photography**: Dramatic formations offer exceptional composition opportunities
-- **Book Kohala Divers**: Specialized operator for Kohala Coast diving
-- **Timing**: Best conditions early season (May-July); winter can be rougher
+- Book through Kohala Divers; they determine site selection based on conditions
+- Bring a primary dive light and backup — essential for tube interiors
+- Practice horizontal trim and mid-water buoyancy before attempting the cavern passages
+- Request information about current strength at Frog Rock before committing to that site
 
 ## Safety Considerations
 
-- Intermediate certification recommended (or equivalent experience with good fundamentals)
-- Maintain excellent buoyancy control; surging through caverns can disorient
-- Do not penetrate caverns beyond light-penetrating areas
-- Bring backup lighting and surface signaling devices
-- Be aware of currents; discuss conditions with operators beforehand
-- Allow adequate air for ascent and safety stops
-- Always dive with a buddy and stay with your divemaster group
-
-## Why Kohala Coast?
-
-If you're bored with standard reef diving and want to experience Hawaii's unique volcanic diving character, the Kohala Coast delivers. The dramatic geology, unique species, and less-crowded conditions make this an excellent choice for intermediate divers seeking adventure beyond typical resort dives.
+- Good buoyancy control required throughout
+- Never penetrate caverns beyond light-penetrating areas without dedicated cave training and equipment
+- Strong currents possible at Frog Rock; confirm with operators
+- Bring backup lighting and a surface signalling device
+- Always stay with your divemaster in the cavern sections
 
 ---
-*This dive site information was researched from PADI Kohala diving guides, lava tube diving resources, and Kohala Divers operator information. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [PADI Blog — Diving the Lava Tubes of the Kohala Coast](https://blog.padi.com/diving-off-the-beaten-track-in-hawaii-the-lava-tubes-of-the-kohala-coast/), [World Adventure Divers — Lava Tubes Hawaii](https://worldadventuredivers.com/dive-in-lava-tubes-in-hawaii/), [Kohala Divers](https://www.kohaladivers.com/). Last updated 2026-06-06.*

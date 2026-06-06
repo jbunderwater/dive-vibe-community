@@ -5,7 +5,7 @@
     "lon": -156.4985786,
     "osm_id": 3480272729,
     "osm_type": "node",
-    "depth": null,
+    "depth": 46,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -15,7 +15,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -24,17 +25,18 @@
     "lon": -156.4952669,
     "osm_id": 3480272730,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Enenue",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinicrater.com,activityauthority.com,makenacoastcharters.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -43,7 +45,7 @@
     "lon": -156.4942032,
     "osm_id": 3480272731,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -53,7 +55,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -62,7 +65,7 @@
     "lon": -156.4969171,
     "osm_id": 3480272732,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -72,7 +75,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "blog.padi.com,activityauthority.com,molokinicrater.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -81,7 +85,7 @@
     "lon": -156.4977891,
     "osm_id": 3480273165,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -91,7 +95,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "makenacoastcharters.com,activityauthority.com,padi.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -100,7 +105,7 @@
     "lon": -156.4950612,
     "osm_id": 3480273166,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -110,7 +115,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -119,7 +125,7 @@
     "lon": -156.4980376,
     "osm_id": 3480273167,
     "osm_type": "node",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -129,7 +135,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinimaui.com,activityauthority.com,molokinicrater.com",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -138,7 +145,7 @@
     "lon": -156.4959859,
     "osm_id": 3480273168,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -148,7 +155,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "molokinicrater.com,goscubadivemaui.com,scubaboard.com",
+      "last_qa_date": "2026-06-06"
     }
   }
 ]

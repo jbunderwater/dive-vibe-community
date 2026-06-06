@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "hawaii",
-    "hawaii-big-island",
-    "hawaii-kauai",
-    "hawaii-maui",
-    "hawaii-oahu",
-    "honduras",
     "iceland",
     "india",
     "indonesia",
@@ -174,7 +168,13 @@
     "grenada",
     "guadeloupe",
     "guam",
-    "halmahera"
+    "halmahera",
+    "hawaii",
+    "hawaii-big-island",
+    "hawaii-kauai",
+    "hawaii-maui",
+    "hawaii-oahu",
+    "honduras"
   ],
   "history": [
     {
@@ -898,6 +898,24 @@
         "unresolved": 17
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/84"
+    },
+    {
+      "date": "2026-06-06",
+      "slugs": [
+        "hawaii",
+        "hawaii-big-island",
+        "hawaii-kauai",
+        "hawaii-maui",
+        "hawaii-oahu",
+        "honduras"
+      ],
+      "summary": {
+        "note": "hawaii and honduras are group slugs with no own data; 4 data slugs processed",
+        "sites_total": 47,
+        "sites_re_audited": 47,
+        "status": "in_progress"
+      },
+      "pr_url": null
     }
   ]
 }
