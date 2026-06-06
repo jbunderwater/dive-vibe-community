@@ -32,7 +32,7 @@ Note on vessel length: most sources cite 51 meters (168 feet); one dive operator
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Main Deck Depth**: ~24 meters (80 feet)
-- **Maximum Depth**: ~36–37 meters (120 feet)
+- **Maximum Depth**: 37 meters
 - **Penetration**: Outer sections accessible with appropriate training
 
 ## Marine Life

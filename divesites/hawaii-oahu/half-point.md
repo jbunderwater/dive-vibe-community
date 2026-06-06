@@ -13,24 +13,24 @@ addedBy: osm_import
 
 ## Half Point
 
-Half Point is a scenic reef dive site on Oahu's southeast shore, featuring healthy hard coral formations and an active reef ecosystem with good visibility.
+Half Point is a reef dive site on Oahu's southeast coast, recorded in OpenStreetMap data. No independently documented dive-specific sources were found for this site during research.
 
 ## Overview
 
-Half Point is located on Oahu's southeast coast off the Windward side and is accessible via boat dive charter. The site features a healthy coral reef with moderate depth, making it suitable for intermediate divers. The name likely refers to its position relative to nearby reef markers. Good visibility and moderate currents make this a reliable diving destination with diverse marine life.
+Half Point is an OSM-derived reef site located on Oahu's southeast shore. Its name and coordinates appear in maritime OSM data. No dive operator websites, forum trip reports, or dive databases were found that document this site independently under this name during the June 2026 QA pass.
 
 ## Site Information
 
 - **Location**: Southeast shore of Oahu
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Water Temperature**: 24–27°C (75–80°F) year-round
 
 ## Marine Life
 
-The reef supports a diverse marine community including reef fish, sea turtles, octopuses, moray eels, and whitetip reef sharks. The hard coral formations provide excellent habitat for various reef fish species and invertebrates.
+*No site-specific marine life sources found. Regional Oahu reef fauna applies but is not attributed to this specific site.*
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Description based on OSM data. No site-specific sources found during June 2026 QA research pass. Last updated 2026-06-06.*

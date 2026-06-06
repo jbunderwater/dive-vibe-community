@@ -3,7 +3,7 @@ name: Turtle Alley
 lat: 21.2758897
 lng: -157.8412477
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 14
 entryType: boat
 siteType: reef
 ref: null
@@ -13,24 +13,26 @@ addedBy: osm_import
 
 ## Turtle Alley
 
-Turtle Alley is a healthy offshore reef dive near Turtle Canyon on Oahu's south shore, named for its frequent Hawaiian green sea turtle encounters.
+Turtle Alley is an offshore reef dive on Oahu's south shore, part of the same reef system as nearby Turtle Canyon and similarly known for Hawaiian green sea turtle encounters at cleaning stations.
 
 ## Overview
 
-Located on Oahu's south shore off Waikiki, Turtle Alley is an offshore reef site accessible via a short boat ride from Kewalo Basin. The site is part of the same reef system as nearby Turtle Canyon and offers similar opportunities for encountering Hawaiian green sea turtles along with abundant reef fish and healthy coral formations. The moderate depth makes this an excellent site for intermediate divers.
+Located on Oahu's south shore near Turtle Canyon, Turtle Alley is accessible by short boat ride from Kewalo Basin. The site is a continuation of the finger reef system that includes Turtle Canyon, with similar lava formations, coral heads, sandy patches, and cleaning station activity. Depth range is broadly comparable to Turtle Canyon at approximately 20–45 feet, with the reef beginning in shallow water. The site is frequently combined with Turtle Canyon on two-tank dive charters.
 
 ## Site Information
 
-- **Location**: South shore of Oahu, off Waikiki
+- **Location**: South shore of Oahu, near Waikiki (adjacent to Turtle Canyon)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Depth Range**: 6–14 meters (20–45 feet)
+- **Water Temperature**: 24–27°C (75–80°F) year-round
 
 ## Marine Life
 
-The site is known for frequent Hawaiian green sea turtle encounters, particularly at cleaning stations where turtles gather to be groomed by smaller reef fish. Other marine life includes reef fish, octopi, moray eels, whitetip reef sharks, and large coral heads. Endemic Hawaiian fish species are commonly sighted.
+Hawaiian green sea turtles are regularly encountered at cleaning stations. Gold ring surgeonfish, butterflyfish, moray eels, and octopi are commonly reported. Whitetip reef sharks are occasionally sighted on the reef. The site's marine life is broadly similar to adjacent Turtle Canyon—no species confirmed as unique to Turtle Alley specifically.
+
+*Description based on the adjacent Turtle Canyon reef system. No sources found that distinguish Turtle Alley as an independently documented site from Turtle Canyon.*
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Dive Oahu – Turtle Canyon](https://www.diveoahu.com/turtle-canyon), [Oahu Diving – Turtle Canyon](https://www.oahudiving.com/turtle_canyons.htm). Last updated 2026-06-06.*

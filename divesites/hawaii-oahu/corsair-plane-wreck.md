@@ -27,9 +27,9 @@ Pacific Wrecks records this aircraft as Bureau Number 49668, a Vought F4U-1A ope
 
 - **Location**: Maunalua Bay, 3 miles offshore from Hawaii Kai marina
 - **Entry Type**: Boat dive
-- **Site Type**: Aircraft wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~34 meters (110–115 feet)
+- **Maximum Depth**: 34 meters
 - **Visibility**: Typically 80–100 feet
 - **Penetration**: Not permitted—exterior-only dive
 

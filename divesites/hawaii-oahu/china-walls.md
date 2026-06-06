@@ -22,7 +22,7 @@ Located in the Portlock area of Oahu's southeast coast, China Walls is a wall di
 ## Site Information
 
 - **Location**: Portlock area, southeast shore of Oahu
-- **Entry Type**: Boat dive (shore entry technically possible but hazardous)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Depth Range**: 30–55 feet (9–17 meters) along wall face

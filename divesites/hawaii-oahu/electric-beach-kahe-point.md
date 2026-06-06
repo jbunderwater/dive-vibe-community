@@ -23,8 +23,8 @@ Located on Oahu's west side approximately 45 minutes from Waikiki, Electric Beac
 
 - **Location**: Leeward (west) side of Oahu, north of Ko Olina, across from Kahe Power Plant
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef with artificial structure (discharge pipe)
-- **Difficulty Level**: Intermediate (currents near discharge; hazardous in higher swells)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Average Depth**: 6–9 meters (20–30 feet) near discharge
 - **Cost**: Free
 

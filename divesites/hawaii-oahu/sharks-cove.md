@@ -22,9 +22,9 @@ Located at Pupukea Beach Park between Waimea Bay and Sunset Beach, Sharks Cove i
 ## Site Information
 
 - **Location**: Pupukea Beach Park, North Shore of Oahu
-- **Entry Type**: Shore entry (rocky—requires care with tanks and fins)
-- **Site Type**: Cave/cavern with reef
-- **Difficulty Level**: Intermediate (rocky entry; cave areas require experience)
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
 - **Depth Range**: 5–13 meters (15–45 feet) in cave areas; shallower in cove interior
 - **Season**: Summer only (approximately May–September)
 

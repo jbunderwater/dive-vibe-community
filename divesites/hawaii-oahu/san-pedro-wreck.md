@@ -32,7 +32,7 @@ Note on depth: oahudiving.com gives the bottom at approximately 80 feet; diveoah
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Main Deck Depth**: ~18–21 meters (60–70 feet)
-- **Maximum Depth**: ~26 meters (85 feet)
+- **Maximum Depth**: 26 meters
 - **Special Note**: Approximately 100 feet from YO-257—dual-wreck dive possible
 
 ## Marine Life

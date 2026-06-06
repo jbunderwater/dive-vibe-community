@@ -30,9 +30,9 @@ The West Loch Disaster—together with the Port Chicago disaster two months late
 ## Site Information
 
 - **Location**: West Loch, Pearl Harbor (Restricted military area)
-- **Entry Type**: NOT accessible for recreational diving
-- **Site Type**: Wreck (historical)
-- **Difficulty Level**: N/A—restricted access
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Wikidata**: Q7870965
 
 ## Other Oahu Wrecks

@@ -22,7 +22,7 @@ Located 100 yards off Kepuhi Point on Oahu's West Shore, Makaha Caverns consists
 ## Site Information
 
 - **Location**: Off Kepuhi Point, Waianae coast, West Oahu
-- **Entry Type**: Boat dive (approximately quarter-mile swim to main cavern)
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Average Depth**: 8–13 meters (25–45 feet)

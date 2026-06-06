@@ -30,11 +30,11 @@ Note on length: Wikipedia documents 184 ft 6 in for USS Scrimmage. Several dive 
 ## Site Information
 
 - **Location**: Off Waianae, West Shore of Oahu
-- **Entry Type**: Boat dive (charter from Waianae area)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Main Deck Depth**: ~20 meters (65 feet)
-- **Maximum Depth**: ~27 meters (90 feet)
+- **Maximum Depth**: 27 meters
 - **Penetration**: Not recommended—structural collapse in most areas
 
 ## Marine Life

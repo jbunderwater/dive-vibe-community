@@ -32,7 +32,7 @@ Note: one operator source (oahudiving.com) gives the vessel length as 165 feet; 
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Main Deck Depth**: ~26 meters (85 feet)
-- **Maximum Depth**: ~30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Penetration**: Available for trained divers—access holes cut through the hull
 
 ## Marine Life

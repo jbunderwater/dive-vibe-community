@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Kaneohe Sandbar
 
-The Kaneohe Sandbar is Oahu's only barrier reef system, creating a unique and protected marine environment ideal for beginner-friendly snorkeling and diving with calm, shallow waters.
+The Kaneohe Sandbar lies at the center of Kaneohe Bay on Oahu's windward coast—part of Hawaii's only barrier reef system, with waist-deep waters at high tide and abundant shallow reef life surrounding the sandbar edges.
 
 ## Overview
 
-Located on Oahu's windward (east) coast in Kaneohe Bay, the Kaneohe Sandbar is part of Hawaii's only barrier reef system. This unique geological feature creates protected, shallow waters that are perfect for all skill levels. Tours depart from He'eia Kea Boat Harbor with a range of shared and private options offering snorkeling, kayaking, banana boats, and other water activities. The fringing reefs surrounding the sandbar are home to about 40 different species of coral and abundant marine life including Hawaiian green sea turtles.
+Located in Kaneohe Bay and accessed by boat from He'eia Kea Boat Harbor, the Kaneohe Sandbar is a shallow sand flat surrounded by the bay's barrier reef system. The sandbar itself is ankle-to-waist deep depending on tide; the fringing reef edges and coral patches beyond the sandbar offer snorkeling in calm, protected water. This is primarily a snorkeling and watersports destination rather than a scuba dive site; depths are insufficient for meaningful diving directly on the sandbar. The surrounding bay reaches 12 feet in places near the reef edges.
 
 ## Site Information
 
 - **Location**: Kaneohe Bay, windward (east) Oahu
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Water Depth**: Waist-deep at high tide, ankle-deep at low tide
-- **Special Feature**: Only barrier reef in Hawaii
+- **Sandbar Depth**: Waist-deep at high tide, ankle-deep at low tide
+- **Special Feature**: Within Hawaii's only barrier reef system
 
 ## Marine Life
 
-The area features colorful schools of fish, 40+ species of coral (including finger coral and rice coral), Hawaiian green sea turtles, rays, and numerous reef fish. The barrier reef protection creates stable conditions for a thriving marine ecosystem.
+Approximately 40 species of coral are documented in Kaneohe Bay, including rice coral and finger coral. Sea turtles, spotted eagle rays, moray eels, and reef fish are reported in the deeper reef zones surrounding the sandbar. Near the sandbar itself in shallow water, parrotfish, damselfish, and sea cucumbers are commonly observed.
 
 ## Activities
 
-Tours typically include snorkeling, kayaking, stand-up paddle boarding (SUP), water volleyball, and floating platform lounging. Many tour packages include banana boat and bumper tube rides, and meal options. Live Hawaiian music is often featured on tours.
+Tour packages departing from He'eia Kea Boat Harbor typically include snorkeling, kayaking, and stand-up paddleboarding. The calm, protected water makes this suitable for families and non-swimmers.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Kaneohe Bay Ocean Sports – Sandbar Snorkeling](https://kaneohebayoceansports.com/kaneohe-bay-sandbar-snorkeling/), [Britannica – Kaneohe Bay](https://www.britannica.com/place/Kaneohe-Bay), [Hawaii Activities – Kaneohe Bay Snorkeling](https://www.hawaiiactivities.com/travelguide/kaneohe-bay-snorkeling-the-ultimate-guide/). Last updated 2026-06-06.*
