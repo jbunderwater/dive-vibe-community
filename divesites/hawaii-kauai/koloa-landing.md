@@ -13,24 +13,32 @@ addedBy: osm_import
 
 ## Koloa Landing
 
-Koloa Landing, also known as Whalers Cove, is a protected reef dive site on Kauai's South Shore and was voted one of the Best Shore Dives in the Pacific by Scuba Diving Magazine.
+Koloa Landing (also called Whalers Cove) is the premier shore dive on Kauai's South Shore — voted one of the Best Shore Dives in the Pacific by Scuba Diving Magazine and the only south shore site currently permitted for commercial dive operations.
 
 ## Overview
 
-Koloa Landing offers excellent shore diving with vibrant stony corals and abundant marine life. The large horseshoe-shaped bay allows divers to explore two distinct areas with multiple entry points and easy navigation. With no real swell break and protection from the bay, this is an ideal site for divers of all skill levels seeking colorful, life-filled diving in calm water.
+Koloa Landing sits in the sheltered Hanaka'ape Bay, a U-shaped inlet that protects divers from surf, wind, and chop. The bay's two arms — each offering a distinct reef wall — allow divers to explore finger reefs dropping to roughly 60 feet. A sandy rubble bottom fills the middle of the U, flanked by sloping rock walls on each side. Historical anchor chains from Koloa's whaling-era port days are sometimes encountered near the entry point.
+
+The site hosts several resident frogfish — Explore Kauai Scuba notes these are a near-certainty on any guided dive — as well as up to seven species of moray eels, the rarest being the dragon moray and the snowflake moray, both of which are rarely found at boat sites on Kauai. Divers following the eastern wall at depth can connect to Sheraton Caverns, though that route is not recommended on an initial visit.
 
 ## Site Information
 
-- **Location**: Poipu area, South Shore, Kauai
+- **Location**: Poipu area, South Shore, Kauai (Hanaka'ape Bay)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Water Temperature**: 24-27°C (75-81°F)
+- **Water Temperature**: 24–27°C (75–81°F)
 
 ## Marine Life
 
-Koloa Landing is known as a colorful dive, full of vibrant stony corals and diverse reef inhabitants. Expect to see Hawaiian green sea turtles (common), moray eels, triggerfish, surgeonfish, parrotfish, butterflyfish, frogfish, and scorpionfish. On rare occasions, divers encounter spotted eagle rays, dolphins, or even reef sharks. During December-April, humpback whale songs may be heard during dives.
+Koloa Landing is Kauai's top site for encountering rare cryptic reef species. Resident frogfish are reliably present. Dragon moray eels and snowflake morays — uncommon at Kauai's boat sites — are encountered here on a regular basis. Other confirmed species include Hawaiian green sea turtles (honu) resting during the day, octopus, leaf scorpionfish, devil scorpionfish, hermit crabs, cone snails, auger snails, shrimp, sea stars, urchins, and a wide variety of tropical reef fish. Spotted eagle rays, Galapagos sharks, and Hawaiian monk seals are occasionally reported.
+
+## Tips
+
+- Best entered via the concrete ramp on the south side of the bay; reef shoes recommended
+- The western arm of the bay has calmer conditions; eastern arm leads to deeper wall dives
+- The site is best dived as a two-tank excursion — each arm offers distinct topography
 
 ---
-*Sources: [Seasport Divers - Kauai Dive Sites Map](https://seasportdivers.com/dive-map/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Kauai](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-kauai), [Fathom Five Divers - Kauai Dive Sites](https://www.fathomfive.com/dive-sites/), [Bluewater Dive Travel - Kauai Diving](https://www.bluewaterdivetravel.com/destination/kauai-diving), [Seasport Divers - Kauai Dive Map](https://seasportdivers.com/dive-map/), [Fathom Five Divers - Certified Shore Dives](https://www.fathomfive.com/certified-shore-dives/). Last updated 2026-04-04.*
+*Sources: [Explore Kauai Scuba - Shore Dive](https://explorekauaiscuba.com/scuba-diving-tours/shore-dive/), [Seasport Divers - Koloa Landing](https://seasportdivers.com/dive-map/), [ScubaBoard - Koloa Landing Details](https://scubaboard.com/community/threads/koloa-landing-details-kauai.663601/), [PADI - Koloa Landing Dive Site](https://www.padi.com/dive-site/united-states-of-america-usa/koloa-landing-dive-site/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/). Last updated 2026-06-06.*

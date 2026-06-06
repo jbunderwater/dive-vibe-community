@@ -11,16 +11,17 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "horseshoe bay, colorful stony corals, abundant marine life",
-      "marine_life": "Hawaiian green sea turtles, moray eels, triggerfish, surgeonfish, parrotfish, butterflyfish, frogfish, scorpionfish, spotted eagle rays, dolphins"
+      "validation_source": "explorekauaiscuba.com,seasportdivers.com,scubaboard.com",
+      "notable_features": "U-shaped horseshoe bay, anchor chains from whaling era, resident frogfish, multiple moray eel species including dragon eel, finger reef wall structures both sides of bay",
+      "marine_life": "Hawaiian green sea turtles (honu), dragon moray eels, snowflake moray, frogfish (resident), octopus, leaf scorpionfish, devil scorpionfish, hermit crabs, cone snails, spotted eagle rays (rare), Galapagos sharks (rare), Hawaiian monk seals (occasional), trumpet fish, triggerfish",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Sheraton Caverns",
     "lat": 21.8748,
     "lon": -159.4505,
-    "depth": 26,
+    "depth": 21,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -28,85 +29,97 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "26+ lava tubes and caverns, sea turtle sanctuary, collapsed lava formations",
-      "marine_life": "hundreds of sea turtles, white-tip reef sharks, manta rays, whale sharks, schooling reef fish, eels, octopuses, nudibranchs"
+      "validation_source": "seasportdivers.com,gardenisledivers.com,fathomfive.com",
+      "notable_features": "Three partial lava tubes with archways and overhangs; site is located a few hundred yards offshore in front of the former Sheraton Kauai Resort; sandwiched between Koloa Landing to the west and Ice Box to the east",
+      "marine_life": "Hawaiian green sea turtles (consistently encountered, often 10+ per dive), whitemouth moray eels, tropical reef fish, octopuses, nudibranchs, white-tip reef sharks (occasional), manta rays (rare seasonal)",
+      "depth_note": "Depths range 20-70 feet (6-21m)",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "General Store",
     "lat": 21.876,
     "lon": -159.445,
-    "depth": 80,
-    "site_type": "reef",
+    "depth": 27,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "drift dive, ship wreckage, deep reef structure, plentiful fish selection",
-      "marine_life": "black triggers, butterfly fish, white-tip reef sharks, spotted puffer, giant porcupine, lemon butterfly fish, helmet conch, octopus, turtles, eagle rays, frogfish"
+      "validation_source": "fathomfive.com,thegardenisland.com,explorekauaiscuba.com",
+      "notable_features": "Horseshoe inlet with remains of steam schooner Pele (sank March 24, 1895 after striking sunken rock Kalanipuao); wreck remains include boiler, hull plates, and anchors; small lava tubes on either side of inlet; black coral stands; depths 65-90 feet (20-27m)",
+      "wreck_vessel": "steam schooner Pele",
+      "wreck_sank": "1895-03-24",
+      "wreck_cause": "struck sunken rock Kalanipuao, three-quarters of a mile from shore between Koloa and Eleele",
+      "wreck_cargo": "200 tons of coal and general freight",
+      "marine_life": "Whiskered boarfish (regular), white-tip reef sharks, sea turtles, octopus, lemon butterfly fish, milletseed butterflyfish, pennant butterflyfish, helmet conch, lobsters, large crabs, black coral, dolphins (frequent)",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Brennecke's Ledge",
     "lat": 21.873,
     "lon": -159.439,
-    "depth": 75,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "lava shelf with 90-foot wall drop, cauliflower coral, overhangs with orange cup coral, dramatic volcanic features",
-      "marine_life": "green sea turtles, whitetip sharks, giant trevally, blue-striped snapper, nudibranchs, frogfish, hermit crabs, reef crabs, lobsters, sea stars"
+      "validation_source": "gardenisledivers.com,fathomfive.com,scubadiving.com",
+      "notable_features": "Broad lava shelf running parallel to southeast shore, shelf starts around 60 feet then drops off with a 15-foot overhang below; pink and white cauliflower coral on shelf top; vibrant orange cup coral on overhangs; frequently done as a drift dive; strong currents possible; furthest boat site from harbor",
+      "marine_life": "Green sea turtles, nudibranchs (numerous species), orange-banded cowry, pincushion sea stars, Triton's trumpet shells, hermit crabs, small crustaceans in cauliflower coral, black coral on wall face",
+      "depth_note": "Shelf begins at 60 feet; ledge and overhang 60-100 feet (18-30m)",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Amber's Arches",
     "lat": 21.8755,
     "lon": -159.453,
-    "depth": 18,
+    "depth": 24,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "three fingers of lava forming arches, huge boulders, large caverns, undercut ledges, holes to swim through",
-      "marine_life": "lots of turtles, schooling fish, sharks, eels, lobsters, dark-loving crustaceans"
+      "validation_source": "gardenisledivers.com,explorekauaiscuba.com,divessi.com",
+      "notable_features": "Large arch at base of mooring festooned with orange cup coral and black coral; reef plateau at ~40 feet leads to drop-off with undercut ledges and swim-through holes; advanced due to potentially rough surface conditions and strong currents",
+      "marine_life": "Eels (multiple species), lobsters, longnose hawkfish (rare, confirmed), sponge crab, bicolor anthias, ghost shrimp, yellow hairy hermit crab, reef sharks",
+      "depth_note": "Depths 40-78 feet (12-24m)",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Tunnels Beach (Makua)",
     "lat": 22.2203,
     "lon": -159.5695,
-    "depth": 15,
+    "depth": 21,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "many lava tubes, caverns, cathedrals, tunnels in reef, excellent coral near shore, free access",
-      "marine_life": "Hawaiian monk seals, colorful reef fish, sea turtles, tropical fish",
-      "seasonal_note": "best May-September (calmer north shore), avoid winter high surf"
+      "validation_source": "seasportdivers.com,fathomfive.com,scubaboard.com",
+      "notable_features": "Inner and outer reef with wide channel between; outer reef offers more lava tubes and arches; coral reef comes within a few feet of low-tide shore; commercial dive operations prohibited by DLNR as of 2024; best May-September when north shore swells subside; dive at or near high tide",
+      "marine_life": "Hawksbill sea turtles, reef sharks, nudibranchs, manta rays (reported), peacock flounder, parrotfish schools, butterflyfish schools, moray eels, octopuses",
+      "seasonal_note": "Best May-September (calm north shore); avoid winter high surf; no commercial dive operations as of 2024",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Ni'ihau",
     "lat": 21.9,
     "lon": -160.15,
-    "depth": 120,
+    "depth": 45,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -114,16 +127,18 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "pristine private island, untouched reefs, hundreds of feet visibility, world-class pelagic diving, Vertical Awareness pinnacle (300ft bottom to 45ft top)",
-      "marine_life": "sandbar, tiger and oceanic blacktip sharks, manta rays, eagle rays, whale sharks, endangered Hawaiian monk seals (prolific populations), grey reef sharks, healthy vibrant corals"
+      "validation_source": "explorekauaiscuba.com,seasportdivers.com,scubaboard.com",
+      "notable_features": "Multiple named sites in channel between Niihau and Lehua Crater: Vertical Awareness (pinnacle 45-300ft), Keyhole Drift to Lehua Gardens, Niihau Arches (sea caves and lava tubes), Neon Cave to Pyramid Point Drift; 8-hour charter, certified divers only, 15+ logged dives recommended; visibility often hundreds of feet; strong open-ocean currents possible",
+      "marine_life": "Sandbar sharks, grey reef sharks (schools of 30+ reported), Hawaiian monk seals (one of highest concentrations in Hawaii), manta rays and eagle rays (seen approximately every other charter), schooling butterflyfish, bait balls, endemic Tinker's butterflyfish, endemic red lionfish, bicolor anthias, long-handed spiny lobster, spinner dolphins (November-May whales common)",
+      "depth_note": "Most dives 45-105 feet (14-32m); Vertical Awareness pinnacle drops to 300 feet",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Mana Crack",
     "lat": 21.9551,
     "lon": -159.7725,
-    "depth": 130,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -131,16 +146,18 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "11-mile sunken barrier reef, furthest offshore dive site in Hawaii, live boat only, strong currents, wall drops 130+ feet",
-      "marine_life": "large barracuda, spotted eagle rays, white-tip reef sharks, endangered Hawaiian monk seals"
+      "validation_source": "explorekauaiscuba.com,scubaboard.com,divessi.com",
+      "notable_features": "11-mile sunken fringing reef off Na Pali Coast; furthest offshore dive site in Hawaii; no moorings, always live boat drift dive; first dive 60-100 feet, second dive 45-80 feet on different drop point; massive black coral stalks; ancient coral with deep cracks; surface interval exploring Na Pali sea caves",
+      "marine_life": "Large barracuda, spotted eagle rays, grey reef sharks, white-tip reef sharks, java moray eels, rainbow runners, stripe-belly puffers, black surgeonfish, wringtail wrasse, hammerhead sharks (reported), giant trevally, ono (wahoo), spinner dolphins (nearly guaranteed), humpback whales (winter)",
+      "depth_note": "First dive 60-100 feet (18-30m); second dive 45-80 feet (14-24m)",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Kukuiula Bay",
     "lat": 21.8771,
     "lon": -159.4825,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -148,16 +165,18 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "sheltered harbor with breakwater, calm protected waters, small beach, on-site facilities (restrooms, showers), south shore location",
-      "marine_life": "reef fish, coral structures, typical south shore tropical species"
+      "validation_source": "fathomfive.com,seasportdivers.com,explorekauaiscuba.com",
+      "notable_features": "Protective breakwater creates calm waters; large horseshoe-shaped bay with two distinct dive areas; also serves as boat launch for south shore charters May-September; facilities include restrooms, showers, picnic tables; no lifeguard",
+      "marine_life": "Sea turtles, moray eels, schooling reef fish; Fathom Five notes this site for its abundant marine life in protected bay conditions",
+      "depth_note": "Bay maximum approximately 50 feet (15m); shallow sections suitable for beginners",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
     "name": "Prince Kuhio Beach",
     "lat": 21.8722,
     "lon": -159.4326,
-    "depth": 10,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -165,9 +184,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notable_features": "accessible shore dive, healthy reef, tropical fish abundance",
-      "marine_life": "reef fish, sea turtles, coral structures"
+      "validation_source": "thescubadirectory.com,zentacle.com,scubaboard.com",
+      "notable_features": "Rocky lava shore entry (booties recommended); shallow reef 3-21 feet; long swim to main reef from shore; rocky entry point; good visibility; not many fish nor much coral at main reef section",
+      "marine_life": "Hawaiian green sea turtles (main attraction, several often visible), whitemouth moray eels, trumpetfish, Picasso triggerfish (humuhumunukunukuapua'a), reef fish; limited coral coverage",
+      "depth_note": "Depths 3-21 feet (1-6m); very shallow",
+      "last_qa_date": "2026-06-06"
     }
   }
 ]

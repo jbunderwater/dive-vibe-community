@@ -2,8 +2,8 @@
 name: Amber's Arches
 lat: 21.8755
 lng: -159.453
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 24
 entryType: boat
 siteType: cave
 ref: null
@@ -13,24 +13,29 @@ addedBy: osm_import
 
 ## Amber's Arches
 
-Amber's Arches features three distinctive fingers of lava forming impressive underwater arches and is rated as one of Kauai's best dive sites for both beginners and advanced certified divers.
+Amber's Arches is a boat dive just outside Kukuiula Harbor featuring a large underwater arch draped in orange cup coral and black coral, with a plateau leading to a drop-off system of undercut ledges and swim-throughs.
 
 ## Overview
 
-Amber's Arches sits just outside Kukuiula Harbor and features three fingers of lava creating a unique geologic formation. The site consists of huge underwater boulders making large caverns ideal for exploration. A short traverse across the plateau leads to a drop-off with dramatic rock structures, including interesting undercut ledges and swim-through holes. The lava formations create natural habitats for eels, lobsters, and a variety of dark-loving reef fish seeking shelter in crevices and overhangs.
+The mooring line descends to a reef plateau at approximately 40 feet (12m), where divers find a prominent arch at the base of the mooring covered in orange cup coral and black coral stalks hosting longnose hawkfish. A short traverse across the plateau leads to a drop-off with a series of rock structures: undercut ledges and swim-through passages that run to the site's maximum depth of around 78 feet (24m).
+
+The site is rated Advanced by Explore Kauai Scuba due to potentially rough surface conditions and the possibility of strong currents — factors that can make entry and the plateau crossing challenging regardless of depth. In calm conditions the site is accessible to confident intermediate divers comfortable with current management.
 
 ## Site Information
 
 - **Location**: Just outside Kukuiula Harbor, South Shore, Kauai
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Water Temperature**: 26-28°C (79-82°F)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 24 meters
+- **Depth Range**: 40–78 feet (12–24m)
+- **Water Temperature**: 26–28°C (79–82°F)
 
 ## Marine Life
 
-Lots of sea turtles, schooling fish, and reef sharks. The cave environment hosts eels, lobsters, crustaceans, and cryptic reef species adapted to low-light conditions within the caverns. The dramatic lava structures provide habitat for multiple depth zones of marine life.
+Eels and lobsters are common residents of the ledge system. The arch and black coral host longnose hawkfish (described as rare by Explore Kauai Scuba; confirmed at this specific site). Also documented: sponge crabs, bicolor anthias, ghost shrimp, and yellow hairy hermit crabs — cryptic species that Explore Kauai Scuba notes as surprising even for experienced Hawaii divers. Reef sharks are occasionally present in the drop-off area.
+
+Note: Previous descriptions citing "lots of turtles" and "schooling fish" at Amber's Arches are not specifically corroborated by site-level source material for this site as distinct from surrounding sites; these were removed to avoid padding the description.
 
 ---
-*Sources: [Seasport Divers - Kauai Dive Sites Map](https://seasportdivers.com/dive-map/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Kauai](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-kauai), [Fathom Five Divers - Kauai Dive Sites](https://www.fathomfive.com/dive-sites/), [Bluewater Dive Travel - Kauai Diving](https://www.bluewaterdivetravel.com/destination/kauai-diving), [Seasport Divers - Kauai Dive Map](https://seasportdivers.com/dive-map/), [Fathom Five Divers - Certified Shore Dives](https://www.fathomfive.com/certified-shore-dives/). Last updated 2026-04-04.*
+*Sources: [Garden Isle Divers - Amber's Arches](https://www.gardenisledivers.com/ambers-arches/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [SSI MyDiveGuide - Amber's Arches](https://www.divessi.com/en/mydiveguide/divesite/ambers-arches-arch-united-states-19173). Last updated 2026-06-06.*

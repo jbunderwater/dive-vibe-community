@@ -3,7 +3,7 @@ name: Middle Reef
 lat: 20.6338539
 lng: -156.4969171
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,29 @@ addedBy: osm_import
 
 ## Middle Reef
 
-Middle Reef is a reef dive site in Hawaii - Maui, Pacific.
+Middle Reef is the central hard coral reef inside Molokini Crater's protected volcanic bowl, offering some of Hawaii's most consistently clear diving with visibility regularly reaching 40–50 metres.
 
 ## Overview
 
-Middle Reef is the central dive site inside Molokini Crater, a submerged volcanic caldera 2.5 miles off Maui's southwest coast and a designated Marine Life Conservation District. A large hard-coral mount rises in the center of the crater, sloping from about 10 meters down to 20 meters, surrounded by thousands of pyramid butterflyfish, sergeant majors, trumpetfish, and giant trevally. Visibility inside the protected crater regularly exceeds 40 meters, making this one of Hawaii's most reliably clear dives.
+Middle Reef occupies the centre of Molokini Crater's sheltered interior, where the crater floor rises into a broad hard coral mount. The protected position inside the caldera eliminates the strong currents and exposed conditions of the outer back wall sites, making this the most accessible dive within the crater. Visibility inside the bowl routinely reaches 40–50 metres (130–160 feet). The reef is primarily composed of hard corals including cauliflower coral, and it slopes from the shallows to a maximum of approximately 30 metres (98 feet) before the terrain drops off toward the sandy crater floor. Massive schools of pyramid butterflyfish and scissortail sergeants concentrate in the mid-water column above the reef, with trumpetfish, wrasses, unicornfish, Moorish idols, and giant trevally working the reef structures below. The crater wall behind the reef shelters the site from open-ocean swell.
 
 ## Site Information
 
-- **Location**: Hawaii - Maui, Pacific
+- **Location**: Molokini Crater, Maui, Hawaii (interior crater)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
+
+## Marine Life
+
+Multiple independent sources confirm the following species at Middle Reef: pyramid butterflyfish (in large schools), scissortail sergeants, Moorish idols, trumpetfish, unicornfish, wrasses, giant trevally, and cauliflower coral. The reef hosts approximately 250 fish species across the broader Molokini interior; whitetip reef sharks and garden eels are documented inside the crater at Reef's End and adjacent areas. Flamingo angelfish and fire goby have also been noted at Middle Reef specifically by PADI sources.
+
+## Tips
+
+- The exceptional visibility makes Middle Reef an ideal site for wide-angle photography; plan your air allocation to spend time at multiple depth zones.
+- The drop-off at the base of the central mount descends abruptly — intermediate divers should establish depth limits before descending and monitor gauges carefully.
+- Often dived as the first tank on a two-tank Molokini trip; the sheltered conditions make it a good warm-up before any back wall dive.
 
 ---
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Maui](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-maui), [Dive Maui - Scuba Diving](https://goscubadivemaui.com/), [Maui Diamond Sea Sports - Diving Maui Top Sites](https://mauidiamond.com/), [Banyan Tree Divers - Maui Shore Diving Guide](https://banyantreedivers.com/blog/maui-shore-diving-official-guide/), [PADI - Diving in Maui](https://www.padi.com/diving-in/united-states-of-america-usa/maui/). Last updated 2026-04-04.*
+*Sources: [PADI – Diving Into a Volcano Crater in Molokini, Hawaii](https://blog.padi.com/diving-into-a-volcano-crater-in-molokini-hawaii/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/). Last updated 2026-06-06.*

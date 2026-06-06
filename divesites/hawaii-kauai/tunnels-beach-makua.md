@@ -2,8 +2,8 @@
 name: Tunnels Beach (Makua)
 lat: 22.2203
 lng: -159.5695
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 21
 entryType: shore
 siteType: cave
 ref: null
@@ -13,24 +13,36 @@ addedBy: osm_import
 
 ## Tunnels Beach (Makua)
 
-Tunnels Beach is named for its many underwater lava tubes, caverns, cathedrals, and tunnels that create a snorkeling and diving paradise on Kauai's scenic north shore.
+Tunnels Beach (known locally as Makua) is a north shore shore dive famous for its outer reef system of lava tubes, arches, and tunnels — the formations that gave the site its name. As of 2024, commercial dive operations at Tunnels are prohibited by DLNR; the site remains accessible for independent certified divers.
 
 ## Overview
 
-Tunnels Beach (Makua) is a picture-postcard tropical beach on the north shore featuring an excellent coral reef that comes within a few feet of dry land at low tide. The fantastic lava tube formations provide exciting exploration opportunities for certified divers, with free shore access requiring no tour booking or entrance fees. Calm summer conditions make this ideal for diving (May-September), though winter brings strong waves and currents requiring caution. The beach is one of Hawaii's best spots to encounter Hawaiian monk seals coming to feed on the drop-off.
+The reef at Tunnels consists of an inner and outer reef separated by a wide sandy channel. Divers favor the outer reef, where the lava tube and arch network is concentrated. The outer reef extends to roughly 70 feet (21m) in depth. The coral reef rises to within a few feet of the surface at low tide near shore, making entry timing important — dive at or near high tide to avoid scraping over the shallow reef.
+
+Diving conditions are seasonal and strongly affected by north shore swells. May through September typically brings calm conditions ideal for diving; winter months bring surf that makes entry hazardous and can stir up visibility. Fathom Five lists the site's cavern system as comprising over 26 caverns and tubes, with some exceeding 75 feet in length — though Fathom Five's site data notes it as one of the most extensive lava tube systems on Kauai.
 
 ## Site Information
 
-- **Location**: Haena, North Shore, Kauai
+- **Location**: Haena, North Shore, Kauai (east of Haena State Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Water Temperature**: 24-27°C (75-81°F)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 21 meters
+- **Water Temperature**: 24–27°C (75–81°F)
+- **Access Note**: Commercial dive tours prohibited by DLNR as of 2024; independent diving permitted with proper safety precautions
 
 ## Marine Life
 
-Hawaiian monk seals (common), colorful reef fish, sea turtles (honu), tropical fish species. The lava structures create habitat for multiple reef fish communities, with unique dive experiences in the various tunnels and cavern systems.
+Confirmed species at Tunnels include hawksbill sea turtles, reef sharks, nudibranchs, manta rays (reported by Seasport Divers), peacock flounder, schools of parrotfish and butterflyfish, moray eels, and octopuses. The lava tube and arch environment supports a diversity of reef communities across depth zones.
+
+Note: "Hawaiian monk seals" appeared in previous site descriptions as common, but sources specifically name hawksbill sea turtles as the confirmed turtle species here; monk seal sightings at the beach area are known but not consistently reported as underwater encounters.
+
+## Tips
+
+- Best dived May–September; check surf forecast before entering
+- Time entry to high tide to avoid the shallow inner reef
+- The outer reef tubes require good buoyancy and navigation skills
+- No guided tours currently available; dive with a buddy familiar with the site layout
 
 ---
-*Sources: [Seasport Divers - Kauai Dive Sites Map](https://seasportdivers.com/dive-map/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Kauai](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-kauai), [Fathom Five Divers - Kauai Dive Sites](https://www.fathomfive.com/dive-sites/), [Bluewater Dive Travel - Kauai Diving](https://www.bluewaterdivetravel.com/destination/kauai-diving), [Seasport Divers - Kauai Dive Map](https://seasportdivers.com/dive-map/), [Fathom Five Divers - Certified Shore Dives](https://www.fathomfive.com/certified-shore-dives/). Last updated 2026-04-04.*
+*Sources: [Seasport Divers - Tunnels Beach](https://seasportdivers.com/dive-map/tunnels-beach-kauai/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [ScubaBoard - Kauai Diving Late May 2024](https://scubaboard.com/community/threads/kauai-diving-late-may-24.645591/). Last updated 2026-06-06.*

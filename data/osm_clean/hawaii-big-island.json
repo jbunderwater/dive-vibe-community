@@ -13,8 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Iconic night dive, shallow sandy bottom, avg 5-6 mantas per dive, 80-90% success rate"
+      "validation_source": "konahonudivers.com,mantarayadvocates.com,konadivingcompany.com",
+      "notes": "Garden Eel Cove (Makako Bay) — primary Kona manta site. Sandy bottom at ~9m. Reef manta (Mobula alfredi). 450+ catalogued resident rays; 80-90% sighting success rate year-round.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -31,8 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Marine Life Conservation District, pristine reef, spinner dolphins, 100ft+ visibility"
+      "validation_source": "dlnr.hawaii.gov,lovebigisland.com,konasnorkelandsail.com",
+      "notes": "Marine Life Conservation District established 1969, 315 acres. Ka'awaloa Cove near Cook Monument. Depth 5-36m. Spinner dolphins documented. 100+ fish species. Boat access only — motorised vessel moratorium enforced.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -41,16 +43,17 @@
     "lon": -156.0267,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Harbor access point, departure for boat dives, accessible from shore"
+      "validation_source": "jacksdivinglocker.com,uwphotographyguide.com,scubaboard.com",
+      "notes": "Shore dive at Crescent Beach (Alua/Dog Beach/Nai'a Bay). Depth 0-27m (90ft). Tiger sharks (Galeocerdo cuvier) are documented residents; moray eels, octopus, colorful reef fish. Active boat channel — intermediate navigation required. Known by multiple names: Manta Ray Bay, Nai'a Bay, Crescent Beach, Alua Beach.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -67,8 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Also called Manta Ray Heaven, day/night site, garden eels during day, 70%+ manta sightings"
+      "validation_source": "konahonudivers.com,mantarayadvocates.com,konasnorkeltrips.com",
+      "notes": "Also called Manta Ray Heaven / Makako Bay. Hawaiian garden eels (Gorgasia hawaiiensis) in sand at ~24m (80ft). Campfire/night-dive viewing area at ~10m (35ft). Kona Honu Divers exclusively uses this site since 2018. Protected from south swell by Keahole Point. Site established for manta viewing in August 1999.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -85,8 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "40ft lava tube with surge effects, skylights, photo-friendly, surge-dependent"
+      "validation_source": "scubaboard.com,konahonudivers.com,uwphotographyguide.com",
+      "notes": "Lava tube/cavern system on North Kona Coast. Surge-dependent dive. Standard morning two-tank site. Spiny lobsters, porcupine pufferfish, octopus documented by multiple operator/forum sources.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -98,13 +103,14 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Extensive shore reef, lava tunnels, turtles, white-tip sharks, Kohala Coast access"
+      "validation_source": "jacksdivinglocker.com,scubaboard.com,hawaii.greatestdivesites.com",
+      "notes": "Series of lava fingers with arches, tubes, caves. Reef top ~3m, drops to ~18m, then deeper. Hawaiian green sea turtle (Chelonia mydas) cleaning station confirmed. White-tip reef sharks in pukas (caves). Spotted eagle rays documented. Multiple entry points along Puako Beach Drive. Difficulty upgraded to Intermediate: wind-driven surface chop, navigation over long shallow reef, active boat traffic concern.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -113,16 +119,17 @@
     "lon": -155.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Lava tubes, arches, bommies, 600+ tropical fish species, dramatic formations"
+      "validation_source": "blog.padi.com,worldadventuredivers.com,kohaladivers.com",
+      "notes": "Umbrella entry covering Black Point, Frog Rock, Lava Dome (primary sites). Frog Rock: 3-20m, lava tubes with interconnecting caverns, porcupine puffers, octopus, strong currents possible. Lava Dome: 9-30m, centuries-old coral head, 'Pink Floyd' ledge with schooling fish. Marine life confirmed: white-mouth moray eels, leaf scorpionfish, frogfish, arc-eye hawkfish, snowball nudibranch, marbled shrimp, blue dragon nudibranch, red soldierfish. site_type updated to cave (lava tube/cavern primary character).",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -139,8 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Extended lava cavern system, crustaceans, pufferfish, arches and skylights"
+      "validation_source": "uwphotographyguide.com,scubaboard.com,dive-the-world.com",
+      "notes": "South Kona near Miloli'i. Lava tube ~40ft (13m) long decorated with Tubastrea coral. Resident frogfish (3 reported). Green turtles documented. Far from shore — primarily liveaboard or long-range boat access. Water temp slightly cooler than Kona average (~24°C/75°F).",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -157,7 +165,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "bluewaterdivetravel.com,konahonudivers.com,hawaiistateparks.org",
+      "notes": "North Kona coast. Seamount rises to within ~7m (25ft) of surface. Max depth ~18m. Natural cleaning station for Hawaiian green sea turtles (Chelonia mydas). Cleaner fish: surgeonfish/tang (family Acanthuridae). Visibility 45-60m. Light currents typical. Suitable all cert levels.",
+      "last_qa_date": "2026-06-06"
     }
   },
   {
@@ -174,8 +184,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research",
-      "notes": "Miloli'i Bay, basalt rock with grottoes, collapsed lava tubes, abundant turtles"
+      "validation_source": "uwphotographyguide.com,konasnorkelandsail.com,hawaii.greatestdivesites.com",
+      "notes": "Miloli'i Bay area. Collapsed lava tube grottoes with skylights. Max depth ~12m (40ft). Hawaiian green turtles (Chelonia mydas) abundant and accustomed to divers. Fish life described by multiple sources as 'average' — name refers to topography not fish density.",
+      "last_qa_date": "2026-06-06"
     }
   }
 ]

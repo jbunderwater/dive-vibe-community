@@ -13,57 +13,50 @@ addedBy: osm_import
 
 ## Kealakekua Bay
 
-A pristine Marine Life Conservation District with exceptional clarity and abundant marine life, Kealakekua Bay is one of Hawaii's most protected and iconic dive sites. The bay is particularly famous for its resident spinner dolphins and lush coral reefs.
+A Marine Life Conservation District on Hawaii's South Kona Coast, Kealakekua Bay offers calm, exceptionally clear water, a gentle reef slope, and a well-documented population of tame reef fish — with spinner dolphins sighted on many morning dives.
 
 ## Overview
 
-Kealakekua Bay is a protected marine sanctuary where diving is permitted in Ka'awaloa Cove near the Cook Monument. The site offers extraordinary underwater conditions with visibility often exceeding 100 feet, allowing divers to appreciate the remarkable diversity of coral and fish life. Spinner dolphins are commonly encountered inside the bay, and the shallow sections teem with Hawaiian tropical fish and sea turtles.
+Established in 1969 under Hawaii Administrative Rules 13-29, Kealakekua Bay Marine Life Conservation District encompasses 315 acres of coastline approximately 30 minutes south of Kailua-Kona. Diving is concentrated in Ka'awaloa Cove, on the northern shore near the Captain James Cook monument — a white obelisk marking where Cook died in 1779. The motorised vessel moratorium (enforced since 2013) means access is by kayak-assisted tour, guided dive charter, or small non-motorised craft; standard boat-dive operators hold permits to access the area.
+
+The MLCD protects against anchoring in Subzone A, extraction of marine life, and feeding of fish. This long-standing protection has produced unusually relaxed, large populations of reef fish with high fish density and notably calm behaviour toward divers.
 
 ## Site Information
 
-- **Location**: Kealakekua Bay, South Kona Coast
+- **Location**: Ka'awaloa Cove, Kealakekua Bay, South Kona Coast (approximately 30 minutes south of Kailua-Kona)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Water Temperature**: 25-27°C (77-80°F)
-- **Best Time**: May to September
+- **Typical Visibility**: 15–36 metres (50–120 feet), frequently described as among Hawaii's clearest
+- **Water Temperature**: 25–27°C
+- **Best Time**: Morning dives offer best visibility and spinner dolphin encounter probability; May–September for calmest conditions
 
-## Historical and Ecological Significance
+## Underwater Character
 
-Kealakekua Bay was declared a Marine Life Conservation District in 1969. It's the site of English explorer Captain James Cook's death in 1779, marked by an obelisk monument in the bay. A watercraft moratorium (enforced since 2013) protects the bay, with only licensed kayak tours and guided diving permitted, ensuring minimal disturbance to marine life.
+The reef in Ka'awaloa Cove slopes gently from the shoreline, with abundant coral growth on the lava substrate. The Hawaii Division of Aquatic Resources describes the fish as "quite tame" — a direct result of long-term protection since 1969. Over 100 fish species have been recorded in the bay. The diversity of corals is exceptional, with healthy hard coral cover across the slope.
 
 ## Marine Life
 
-The bay is home to over 100 species of tropical fish, with exceptional tame populations due to the protection status. Spinner dolphins frequently visit the bay to rest and socialize. Green sea turtles (honu) are regularly encountered. The coral diversity is exceptional, with healthy branching corals and abundant reef fish.
+Hawaiian green sea turtles (Chelonia mydas) are regularly encountered resting on the reef. Spinner dolphins (Stenella longirostris) visit the bay, particularly in the early morning, using it as a resting area after overnight feeding trips — they are not always present but are frequently sighted on morning dives. Parrotfish, tangs, surgeonfish, and triggerfish are documented resident species. Occasional manta ray sightings are reported but are not a reliable feature of this site.
 
-## Diving in Kealakekua
+No specific fish count beyond "100+ species" has been independently verified with a species list; the claim of "200 species" found in some sources is not corroborated by the MLCD documentation and has been omitted here.
 
-Dives typically focus on Ka'awaloa Cove, where the reef slope is gentle and suitable for all levels. The cove offers multiple depth zones, from shallow reef areas at 5 meters to deeper sections beyond 30 meters. The water is remarkably clear, making this one of the clearest diving locations in Hawaii.
+## Practical Access
 
-## Tips and Recommendations
+Only licensed dive operators with permits can take divers to Ka'awaloa Cove. Kona Honu Divers and other major Kona operators run charters; confirm which operators hold current access permits when booking. Arrive early — conditions and spinner dolphin encounters are typically best in the first hours after sunrise.
 
-- **Book a reputable operator**: Only licensed dive operators can access the bay; plan with companies like Kona Honu Divers or similar
-- **Respect the marine sanctuary**: Stay with your group and follow strict protocols
-- **Encounter wildlife respectfully**: Do not chase dolphins; allow them to approach
-- **Timing matters**: Water clarity and conditions are best in the morning
-- **Photography**: This site is exceptional for underwater photography due to clarity
+## Conservation
+
+No anchoring in Subzone A (northern cove). Do not feed fish, touch corals, or interfere with spinner dolphins resting behaviour. Follow all divemaster and operator briefings. The bay's pristine condition is directly attributable to decades of strict protection.
 
 ## Safety Considerations
 
-- Watercraft restrictions mean no casual entry; book a guided dive
+- Diving is only through licensed operators; no self-guided entry
 - Stay within your depth limits and certification
-- The bay can experience currents; discuss conditions with your operator
 - Maintain proper buoyancy to avoid damaging the reef
-- Descend and ascend with your divemaster
-
-## Conservation Note
-
-This site's pristine condition is the result of strict protection. Divers must follow all guidelines to preserve this sanctuary for future generations. Respect marine life, do not touch corals or fish, and maintain proper buoyancy.
+- Light currents are possible; discuss conditions with your operator
+- Spinner dolphin encounters: observe from a distance and allow dolphins to dictate any approach
 
 ---
-*This dive site information was researched from Hawaii Division of Aquatic Resources, Kealakekua Bay MLCD documentation, and dive operator reviews. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Hawaii DLNR Division of Aquatic Resources — Kealakekua Bay MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/hawaii-kealakekua-bay/), [Love Big Island — Kealakekua Bay](https://www.lovebigisland.com/kealakekua-bay/), [Kona Snorkel and Sail — How Deep is Kealakekua Bay](https://konasnorkelandsail.com/how-deep-is-kealakekua-bay/). Last updated 2026-06-06.*

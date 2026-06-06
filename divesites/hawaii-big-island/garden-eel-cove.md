@@ -13,61 +13,58 @@ addedBy: osm_import
 
 ## Garden Eel Cove
 
-Known locally as Manta Ray Heaven, Garden Eel Cove is a dual-personality dive site that offers distinctly different experiences by day and night. By day, divers explore a fascinating colony of garden eels; by night, it transforms into one of Kona's most reliable manta ray viewing sites.
+Known as Makako Bay in Hawaiian and as Manta Ray Heaven among dive operators, Garden Eel Cove is a dual-character site offshore from Kona International Airport: by day, a black-sand slope hosting a colony of Hawaiian garden eels; by night, one of the world's most reliable manta ray feeding aggregations.
 
 ## Overview
 
-Garden Eel Cove (Hawaiian name: Makako Bay) is located just offshore from Kona International Airport. During the day, the site showcases a remarkable colony of swaying garden eels in their natural habitat, along with diverse reef life. At night, powerful lights attract plankton, which in turn draws manta rays to feed. On night dives, there's a 70%+ chance of encountering at least one manta ray.
+Garden Eel Cove is protected on its south side by Keahole Point, which blocks the southern swells that regularly force cancellations at Manta Village in Keauhou Bay. This natural shelter, combined with a broad sandy amphitheater at around 10 metres depth and a richer surrounding reef, has made it the preferred manta dive site for many Kona operators. Kona Honu Divers has operated exclusively at this site since 2018.
+
+The site was established as a dedicated manta night-dive location in August 1999 by James Wing, who placed dive lights in the natural sand chute. Six manta rays appeared on the first night, including individuals later named Lefty and Big Bertha. A stone ring known as the "campfire" marks the central viewing area.
 
 ## Site Information
 
-- **Location**: Kona Coast near Kona Airport
+- **Location**: Makako Bay (Manta Ray Heaven), offshore from Kona International Airport, Keahole Point area
 - **Entry Type**: Boat dive
 - **Site Type**: Manta
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 26-28°C (78-82°F)
-- **Best Time**: Year-round for manta night dives; day dives excellent May-September
+- **Typical Visibility**: 15–25 metres
+- **Water Temperature**: 26–28°C
+- **Best Time**: Year-round for manta night dives; daytime reef and eel dives are best May–September when conditions are calmest
 
-## Day Dive Experience
+## Day Dive — Garden Eels
 
-During daylight hours, the site showcases a colossal colony of garden eels living in the sandy bottom. These fascinating creatures withdraw into their burrows when threatened but emerge to feed on plankton. The site also features healthy reef sections with tropical fish, octopus, nudibranchs, and occasional sea turtles.
+During daylight hours the site's black-sand slope hosts a dense colony of Hawaiian garden eels (Gorgasia hawaiiensis). These slender, burrow-dwelling fish extend from their sandy tubes to filter-feed on passing plankton, retreating completely around sunset. Approaching slowly from a distance is essential — they retract at any perceived threat. The surrounding reef supports moray eels, squirrelfish, schools of goatfish, and octopus.
 
-## Night Dive Experience
+## Night Dive — Manta Ray Heaven
 
-At night, the site becomes Manta Ray Heaven. Dive boats position lights on the sandy bottom, creating a powerful attraction for manta rays feeding on nocturnal plankton. Mantas glide gracefully through the illuminated area, sometimes solo, sometimes in groups. On exceptional nights, there can be so many mantas that seeing them all at once becomes challenging. On slower nights, you may see just one or none, though 70%+ success rate is documented.
+After dark, the site's sandy floor becomes one of the world's most-visited manta aggregations. Dive lights are placed on the sand (the "campfire"), concentrating zooplankton. Reef manta rays (Mobula alfredi) arrive to feed with barrel rolls and looping passes through the illuminated column. The Kona Coast has a resident, individually catalogued population of over 450 reef mantas (Mobula alfredi), tracked by the Manta Pacific Research Foundation using each ray's unique ventral spot pattern. Sighting success rates at Garden Eel Cove are consistently documented at 70%+ and often higher.
 
 ## Marine Life
 
-Day dives: garden eels, octopus, nudibranchs, reef fish, turtles. Night dives: manta rays (primary), nocturnal reef fish, octopus, crustaceans.
+Day: Hawaiian garden eels (Gorgasia hawaiiensis), moray eels, squirrelfish, goatfish schools, octopus, reef fish.
+Night: Reef manta rays (Mobula alfredi) — primary subjects. Nocturnal reef fish, octopus, and crustaceans are also present in the surrounding reef.
 
-## Manta Ray Viewing Notes
-
-Snorkelers and divers typically get in the water just after sunset. Tour operators tow illuminated boards and position campfire-style lights on the bottom. Mantas are attracted by the plankton concentrated near these lights and glide overhead to feed. The experience lasts typically 45-60 minutes of bottom time.
+No site-specific reports of whale sharks, monk seals, or dolphins at the night-dive viewing area itself; these species are occasionally sighted in the broader Kona coast region.
 
 ## Tips and Recommendations
 
-- **Day vs. Night**: Consider doing both to experience the full character of the site
-- **Night manta tours**: Book with operators offering night snorkel and dive packages
-- **Lighting**: Bring a good quality underwater light if you have your own; operators provide lights but backups are useful
-- **Plankton events**: Manta activity increases with plankton blooms; ask your operator about recent conditions
-- **Photography**: Excellent opportunities for both types of dive; night photography is challenging but rewarding
+- Both a daytime reef dive and the night manta dive are offered by operators as a two-tank evening charter
+- Plankton density affects manta activity; ask your operator about recent conditions
+- Bring a quality dive light (operators provide lights, but a backup is useful)
+- Move slowly when approaching the garden eel colony during day dives
 
 ## Safety Considerations
 
-- Maintain excellent buoyancy to avoid kicking up sediment
-- Night diving certification recommended for night dives
-- Stay with your group and divemaster at all times
-- Be aware of strong currents; discuss conditions beforehand
-- Carry backup signaling devices and lights
+- Night diving experience strongly recommended
+- Maintain excellent buoyancy to avoid disturbing the sandy bottom or stirring sediment
+- Stay within the campfire group as directed by the divemaster
+- Carry a backup light and surface signalling device
+- Occasional currents; confirm conditions with your operator
 
-## Conservation Note
+## Conservation
 
-This site's manta activity depends on healthy plankton populations. Respect the marine environment and do not touch or chase mantas.
-
----
-*This dive site information was researched from Kona dive operator reviews, manta ray viewing guides, and marine biology sources. Last updated 2026-03-16.*
+Do not touch mantas or obstruct their feeding passes. The Manta Pacific Research Foundation (mantapacific.org) coordinates ongoing research and conservation for Kona's resident manta population.
 
 ---
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Kona Honu Divers — Garden Eel Cove / Manta Ray Heaven](https://konahonudivers.com/manta-ray-heaven-garden-eel-cove/), [Manta Ray Advocates Hawaii — Viewing Sites](https://mantarayadvocates.com/manta-ray-viewing-sites-kona-hawaii/), [Kona Snorkel Trips — Garden Eel Cove](https://konasnorkeltrips.com/blog/garden-eel-cove-manta-ray-heaven-in-kona-hawaii/). Last updated 2026-06-06.*

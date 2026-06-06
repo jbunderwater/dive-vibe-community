@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Manta Ray Night Dive Kona
 
-One of the world's most iconic night dives, the Manta Ray Night Dive Kona is an unforgettable encounter with these graceful giants in their natural habitat. This is the one dive every diver should experience at least once.
+One of the world's most documented and consistently rewarding night dives, the Kona manta ray experience draws divers to a shallow sandy bottom where resident reef manta rays (Mobula alfredi) feed on plankton concentrated by underwater lights.
 
 ## Overview
 
-The Manta Ray Night Dive Kona is famous for its incredibly reliable manta ray encounters, boasting an 80-90% success rate with divers typically seeing 5-6 mantas per dive. Divers descend to a sandy bottom where the dive operator positions powerful lights—the "campfire"—to attract plankton, which in turn draws the mantas. You'll remain in one location as these magnificent creatures glide overhead, sometimes just feet away.
+The primary site for Kona's manta night dives is Garden Eel Cove (Makako Bay), located just offshore from Kona International Airport. A second site, Manta Village (Kaukalaelae Point) near the Outrigger Kona Resort & Spa in Keauhou Bay, is also used by some operators. Garden Eel Cove is considered the superior site by many operators due to its natural protection from south swells and a large sandy amphitheater at around 9–10 metres where divers kneel in a circle around a cluster of powerful lights — known locally as the "campfire." The lights attract zooplankton, which in turn draws manta rays.
+
+The Kona Coast hosts a resident, catalogued population of over 450 individual reef mantas (Mobula alfredi), identified by the unique spot patterns on their ventral surfaces and studied by the Manta Pacific Research Foundation. This resident population — not seasonal migrants — explains the year-round, 80–90% sighting success rate documented by local operators.
 
 ## Site Information
 
-- **Location**: Kona Coast, Hawaii Big Island
+- **Location**: Garden Eel Cove (Makako Bay), offshore from Kona International Airport; secondary site Manta Village, Keauhou Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Manta
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 26-28°C (78-82°F)
-- **Best Time**: Year-round; all times offer excellent manta activity
+- **Typical Visibility**: 15–25 metres
+- **Water Temperature**: 26–28°C
+- **Best Time**: Year-round; sighting success does not vary significantly by season
 
-## The Experience
+## The Dive
 
-The Kona coast hosts a large resident population of reef mantas. The sheltered bays and unique lava rock formations act as natural funnels, concentrating plankton that mantas feed on. Conditions are almost always calm, making this an excellent first night dive for certified divers. Once you're settled on the sandy bottom, divers gather around the light array in the darkness as mantas glide in from all directions to feed. The experience is surreal and typically lasts 45-60 minutes of bottom time.
+Divers descend after sunset and settle on the sandy bottom around the campfire lights. Mantas arrive to feed on the concentrated plankton and perform repeated passes directly overhead — often within arm's reach. Reef manta wingspans in Kona average around 3 metres (10 feet), with the largest individuals documented at over 4 metres. Bottom time is typically 45–60 minutes. Movement is minimal: divers kneel or hover in place as the mantas complete barrel rolls and gliding passes through the light columns. An Open Water certification is sufficient for the night dive; night diving experience is strongly recommended.
 
 ## Marine Life
 
-While manta rays are the main attraction, you may also encounter reef sharks, octopuses, and small nocturnal fish species.
+The primary subjects are reef manta rays (Mobula alfredi). During the daytime portion of some two-tank charters, the surrounding reef at Garden Eel Cove hosts moray eels, squirrelfish, schools of goatfish, octopus, and reef fish. The Hawaiian garden eel (Gorgasia hawaiiensis) colony lives in the sand at approximately 24 metres — visible on daytime dives before the garden eels retract at sunset.
 
-## Tips and Recommendations
+No site-specific reports exist for the night dive site itself beyond manta rays and the typical reef fish present in the surrounding area.
 
-- **Book early**: This is a popular dive; book with reputable Kona operators like Big Island Divers or Kona Honu Divers
-- **Night diving comfort**: If this is your first night dive, practice buoyancy control and signaling during the day first
-- **Bring a quality camera**: Underwater photography here is spectacular, but challenging due to darkness
-- **Bring a light**: Many operators provide lights, but bringing your own backup is wise
-- **Relax and breathe**: The success rate is very high; remain calm and enjoy the moment
+## Manta Village vs Garden Eel Cove
+
+Both are legitimate manta sites. Manta Village (Keauhou) opened first, circa 1991, when bright hotel lights at the then-Kona Surf Hotel began concentrating plankton and attracting mantas. Garden Eel Cove was established as a manta night dive site in August 1999. Garden Eel Cove benefits from protection from south swells and a larger, more open sandy viewing area. Kona Honu Divers has operated exclusively at Garden Eel Cove since 2018. Conditions and local operator preference determine which site is used on any given night.
+
+## Conservation
+
+Manta Pacific Research Foundation (mantapacific.org) has catalogued over 450 individual Kona mantas by their unique belly-spot patterns. Many local dive staff are certified Manta Naturalists through the Foundation's programme. Do not touch mantas or disrupt their feeding passes.
 
 ## Safety Considerations
 
-- Night diving certification or equivalent training strongly recommended
-- Maintain excellent buoyancy to avoid kicking up sediment
-- Stay close to your buddy and divemaster
-- Have clear hand signals established before descent
-- Carry a backup light and surface signaling device
-- Be aware that strong currents are possible; discuss with your operator beforehand
-
-## Notes
-
-This is one of the most rewarding dives in Hawaii and worth planning a trip around. The uniqueness of nighttime manta interactions makes it a bucket-list experience for divers worldwide. The dive is suitable for Open Water certified divers, though night diving certification is ideal.
+- Night diving certification or equivalent briefing strongly recommended for first night dives
+- Maintain excellent buoyancy to avoid disturbing the sandy bottom
+- Stay within the campfire perimeter as directed by the divemaster
+- Carry a backup light and surface signalling device
+- Discuss current conditions with your operator — occasional strong currents can occur
 
 ---
-*This dive site information was researched from Kona dive operator reviews, dive safety guides, and marine biology sources. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Kona Diving Company — Mantas of Kona](https://konadivingcompany.com/mantas-of-kona/), [Manta Ray Advocates Hawaii — Viewing Sites](https://mantarayadvocates.com/manta-ray-viewing-sites-kona-hawaii/), [Kona Honu Divers — Garden Eel Cove](https://konahonudivers.com/manta-ray-heaven-garden-eel-cove/), [Wikipedia — Manta Ray Night Dive](https://en.wikipedia.org/wiki/Manta_ray_night_dive). Last updated 2026-06-06.*

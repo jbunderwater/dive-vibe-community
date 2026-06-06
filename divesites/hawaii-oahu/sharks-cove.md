@@ -2,10 +2,10 @@
 name: Sharks Cove
 lat: 21.6519
 lng: -158.0633
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Sharks Cove
 
-Sharks Cove is one of the world's top 12 shore dives, recognized by Scuba Diving Magazine for its dramatic lava formations, caves, and caverns on Oahu's North Shore.
+Sharks Cove is a world-class shore dive within the Pupukea Marine Life Conservation District on Oahu's North Shore, featuring an extensive system of lava caves, caverns, and swim-throughs accessible from summer to early autumn.
 
 ## Overview
 
-Located on Oahu's North Shore as part of Pupukea Beach Park, between the famous Waimea Bay and Sunset Beach, Sharks Cove is recognized globally as a world-class shore dive destination. The cove features massive concentrations of underwater caves, caverns, walls, overhangs, and lava tubes created by ancient lava flows. The left side reaches depths up to 40 feet with more marine life, while the right side is shallower with spectacular lava swim-throughs. The site offers unique geological wonders from beneath the ocean surface.
+Located at Pupukea Beach Park between Waimea Bay and Sunset Beach, Sharks Cove is part of the Pupukea MLCD. The cove is diveable only in summer months (approximately May through September) when North Shore swells subside. In winter, the same area is transformed by powerful surf that makes diving dangerous. The left side of the cove reaches depths up to 40 feet and typically offers the best marine life encounters; the right side is shallower with spectacular lava formations and swim-throughs. Lava caves with 15–45 foot ceilings sit around the cove's northwest point.
 
 ## Site Information
 
-- **Location**: North Shore of Oahu (Pupukea Beach Park)
+- **Location**: Pupukea Beach Park, North Shore of Oahu
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Special Features**: Underwater caves, lava tubes, swim-throughs
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Depth Range**: 5–13 meters (15–45 feet) in cave areas; shallower in cove interior
+- **Season**: Summer only (approximately May–September)
 
 ## Marine Life
 
-The cove hosts a diverse array of marine life including colorful tropical fish, Hawaiian green sea turtles, octopuses, eels, and various types of coral. The left side typically offers more marine life encounters.
+Sea turtles, octopus, and moray eels are regularly reported at this site. A variety of tropical reef fish inhabit the cove's protected waters. Hawaiian sea urchins are abundant in crevices—hand placement requires care. No specific rare or unusual species are confirmed unique to this site versus the broader Pupukea MLCD reef system.
 
-## Entry and Safety
+## Entry
 
-Entry can be tricky with a rocky, steep trail from the parking lot. The water entry is rocky with large underwater rocks that can strike tanks and legs. The site functions as a tide pool with abundant sea urchins in crevices, so divers should be mindful of hand placement. Entry is typically on the south side of the cove after walking around to the east. Rocky entry makes this more suitable for experienced shore divers despite beginner-level depths.
+Entry is on the south side of the cove, walking around to the east. Large underwater rocks can strike tanks and legs. The entry trail from the parking area is rocky and steep.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Oahu Dive Guide – Sharks Cove](https://www.oahudiveguide.com/post/sharks-cove), [Hawaii Eco Divers – North Shore](https://hawaiiecodivers.com/scuba-diving-north-shore-oahu/), [DLNR – Pupukea MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/). Last updated 2026-06-06.*

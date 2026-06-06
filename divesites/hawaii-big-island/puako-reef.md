@@ -2,7 +2,7 @@
 name: Puako Reef
 lat: 19.9667
 lng: -155.85
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: shore
 siteType: reef
@@ -13,77 +13,62 @@ addedBy: osm_import
 
 ## Puako Reef
 
-One of Hawaii's premier shore diving destinations, Puako Reef offers miles of accessible coral reef with lava formations, abundant marine life, and a reputation as one of the best places on the island to encounter Hawaiian green sea turtles (honu).
+A multi-kilometre shore-accessible reef system on the Kohala Coast, Puako is built on a series of lava fingers separated by sandy channels, with well-documented sea turtle cleaning stations, white-tip reef sharks sleeping in caves, and spotted eagle rays in the deeper sections.
 
 ## Overview
 
-Puako is located on the Kohala Coast north of the Kona area, accessible via Highway 19 and Puako Road. The reef system is extensive, stretching for miles with multiple entry points along the shoreline. Unlike many Hawaii dive sites requiring boat access, Puako offers numerous shore entry points at the end of Puako Road, making it ideal for independent divers. Conditions are typically best in the morning when trade wind protection is optimal and visibility is clearest.
+Puako is located on the Kohala Coast, north of Kona, accessible via Highway 19 and Puako Road. The reef is not a single dive spot but a continuous system stretching for miles, with multiple named entry points along Puako Beach Drive (Puako Village End, House 40, House 56, Catholic Church, and others). Multiple dive operators including Blue Wilderness (based at the Puako general store) and Puako Dive Adventures run guided dives here; it is also popular for self-guided shore diving by experienced divers familiar with the conditions.
 
 ## Site Information
 
-- **Location**: Kohala Coast, Puako Village area
+- **Location**: Puako Village area, Kohala Coast, approximately 3 miles down Puako Road from Highway 19
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet) mornings
-- **Water Temperature**: 25-27°C (77-80°F)
-- **Best Time**: March to October (calmer conditions, better visibility)
+- **Typical Visibility**: 15–25 metres, best in morning
+- **Water Temperature**: 25–27°C
+- **Best Time**: Morning, before afternoon trade winds build; March–October for calmest conditions
 
-## Access and Navigation
+## Underwater Character
 
-The turnoff to Puako is on Highway 19 about 3.4 miles south of the junction with Highway 270. Continue down Puako Road for 2.1 miles to the end of the road, which is one of Hawaii's favorite shore diving locations. Multiple entry points are available; the end-of-road area provides the most popular access point with easy parking and entry.
+The reef consists of lava fingers extending seaward, separated by sandy channels. The top of the reef structure sits at around 3 metres and drops to about 9 metres at its base, before the bottom slopes gradually to around 18 metres and then deeper. The lava formations are riddled with arches, caves (pukas), lava tubes, and swim-throughs that provide habitat for resting sharks and turtles. Hard coral encrusts the lava throughout.
 
-## Underwater Features
-
-The reef is a series of lava fingers with excellent rock formations and abundant wildlife. Features include swim-through lava tunnels, arches, and varied coral coverage. Hard and soft corals encrust the lava formations. Depths range from shallow 10 feet to more adventurous 60 feet depending on how far you venture from shore. Morning dives typically offer the best visibility and calmest conditions due to trade wind protection.
+At Puako Village End specifically, there is a small drop-off at the reef edge, finger canyons, and a mooring ball marking a large pinnacle. Entry requires passing over a long, shallow reef — tricky at low tide and in any swell.
 
 ## Marine Life
 
-Puako is renowned as one of the best places on the island for Hawaiian green sea turtle (honu) encounters. White-tip reef sharks are common. The reef hosts yellow tangs, parrotfish, nudibranchs, octopus, and a vibrant tapestry of typical Hawaiian reef fish. Large schools of jacks and barracuda occasionally pass through.
+Hawaiian green sea turtles (Chelonia mydas): confirmed as one of the island's best locations for turtle encounters, with an active cleaning station on the reef documented by multiple sources. Observe from at least 1.5 metres; do not touch.
 
-## Diving the Site
+White-tip reef sharks (Triaenodon obesus): confirmed resting in the lava pukas (caves) at the site by multiple diver reports.
 
-Enter from shore, descending along the lava formations. The reef structure is intuitive to navigate due to natural features serving as landmarks. Most divers stay between 10-30 feet, exploring the reef pockets and lava arches. Deeper sections are accessible but require adequate air planning. Return to shore via the same route you entered, ascending as you approach shallower water.
+Spotted eagle rays (Aetobatus narinari): documented by local divers in the deeper sandy sections.
 
-## Turtle Encounters
+Yellow tangs, parrotfish, various eels, nudibranchs, and octopus are documented reef species here.
 
-Turtles frequently visit Puako for feeding and rest. Maintain a respectful distance (at least 5 feet), observe without touching, and allow turtles to set the pace of interaction. Do not chase turtles or force encounters. Passive observation is the most respectful and most successful approach.
+Hammerhead sharks have been sighted at Puako; these are uncommon encounters and not a reliable feature.
+
+Manta rays have been documented in the broader Puako area but are not a consistent feature of this reef.
+
+## Access and Conditions
+
+Conditions deteriorate when trade winds are strong; afternoon diving here is typically rougher. Morning is strongly preferred. The reef entry can be difficult — crossing the long shallow reef risks scraping on sharp lava in any surge. Low tide makes entry too shallow; aim for mid to high tide. Surface navigation: divers report being pushed off their exit point by currents and wind when conditions pick up, making compass bearings important. Puako lies on the windward side and is more exposed than Kona sites.
 
 ## Tips and Recommendations
 
-- **Morning dives**: Schedule dives early for best visibility and calmest conditions
-- **No crowds**: Puako offers a peaceful alternative to crowded Kona boat dives
-- **Turtle lens**: Bring a good macro or standard zoom lens for turtle photography
-- **Reef shoes**: Lava rock is sharp; wear reef shoes for entry and exit
-- **Dive light**: Bring a light to illuminate colors in darker lava formations
-- **Navigation**: Use natural landmarks; compass bearings help if visibility decreases
+- Dive early (before 09:00) for calmest surface and clearest water
+- Bring a dive light to illuminate the cave interiors and coral colours
+- Wear reef boots for lava rock entry
+- Use compass bearings to maintain your exit line
+- Blue Wilderness operator at the Puako general store provides guide services and gear
 
 ## Safety Considerations
 
-- Check conditions before entering; shore dives can have surge in rough seas
-- Lava rock is sharp and fragile—avoid direct contact with skin
-- Maintain excellent buoyancy to avoid damaging corals and kicking up sediment
-- Descend and ascend at appropriate rates; allow safety stops as needed
-- Always dive with a buddy; buddy separation is dangerous
+- Dive with a buddy; buddy separation is more hazardous on a long shore reef
 - Carry a dive flag and surface marker buoy (SMB)
-- Be aware of currents; discuss with locals about current patterns
-- Avoid diving after heavy rains (river runoff reduces visibility)
-
-## Conditions Notes
-
-Puako is on the windward side; conditions can deteriorate if trade winds are strong. Best diving occurs in the morning before wind picks up. Summer (May-September) typically offers better conditions than winter. Check local weather and sea state before diving.
-
-## Photography
-
-Lava formations create excellent compositional opportunities. Turtle photography is a highlight; wide-angle work captures the reef environment while standard/macro lenses are ideal for turtle portraiture. The varied lighting of lava tunnels and arches provides good technical challenges.
-
-## Conservation
-
-Puako's health depends on responsible diving. Respect the reef, avoid touching corals, maintain proper buoyancy, and leave no trace. Report any signs of damage or marine pollution to local conservation groups.
+- Do not dive after heavy rain — river runoff reduces visibility
+- Be aware of potential afternoon currents
+- Avoid bare-skin contact with lava rock — extremely sharp
 
 ---
-*This dive site information was researched from Kohala Coast dive guides, Hawaiian marine conservation resources, and diver community reviews. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Jack's Diving Locker — Puako Village End](https://jacksdivinglocker.com/puako-village-end), [ScubaBoard — Shore Diving Puako](https://scubaboard.com/community/threads/shore-diving-puako.624616/), [Hawaii Greatest Dive Sites — Puako](https://hawaii.greatestdivesites.com/hawaii_big_island/puako). Last updated 2026-06-06.*

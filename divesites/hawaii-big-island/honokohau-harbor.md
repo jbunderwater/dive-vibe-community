@@ -2,8 +2,8 @@
 name: Honokohau Harbor
 lat: 19.6672
 lng: -156.0267
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,64 +13,49 @@ addedBy: osm_import
 
 ## Honokohau Harbor
 
-Honokohau Harbor is a major hub for Kona diving operations and serves as the departure point for many of the island's most famous boat dives. Beyond its role as a dive center, the harbor offers shore access to nearby reefs with opportunities to observe megafauna including tiger sharks and diverse tropical fish.
+Honokohau Harbor is the operational hub of Kona diving and also the access point for Crescent Beach (Alua Beach / Nai'a Bay / Dog Beach) — a legitimate shore dive known for one of the island's more reliable tiger shark encounters and a sloping reef reaching to around 27 metres.
 
 ## Overview
 
-Located between Kona International Airport and Kailua-Kona town, Honokohau Harbor is the infrastructure backbone of Kona diving. Multiple dive operators—including Manta Ray Dives of Hawaii, Kona Honu Divers, Big Island Divers, and others—check in and out from this harbor for boat dives to some of Hawaii's most iconic sites. The harbor also offers shore diving access to Crescent Beach and nearby reef areas.
+The harbour sits between Kona International Airport and Kailua-Kona and serves as the departure point for virtually all major Kona boat dive operations. For shore diving, the site of interest is Crescent Beach, also known locally as Manta Ray Bay, Nai'a Bay, Alua Beach, and Dog Beach — a small sandy cove accessible by a 10–15 minute walk over lava rock from the harbour car park. The beach is directly adjacent to the harbour entrance, within an active boat channel.
+
+The site has a documented local population of over 20 tiger sharks (Galeocerdo cuvier) that use the harbour as a regular patrol area, particularly in summer months, attracted by billfishing activity from the harbour. It is frequently cited as one of the most reliably accessible places to see tiger sharks on the Big Island.
 
 ## Site Information
 
-- **Location**: Between Kona Airport and Kailua-Kona
+- **Location**: Crescent Beach (Alua/Nai'a Bay), immediately outside Honokohau Harbor, between Kona Airport and Kailua-Kona
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 26-28°C (78-82°F)
-- **Best Time**: Year-round
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15–25 metres
+- **Water Temperature**: 26–28°C
+- **Best Time**: Summer months for tiger shark encounters; year-round for general diving; avoid winter NW swells
 
-## Honokohau Harbor as a Diving Hub
+## Underwater Character
 
-This working harbor is the operational center for Kona diving. All major dive operators have boats here. If you're planning any Kona boat dives—manta rays, wrecks, or other pelagic dives—you'll likely depart from Honokohau Harbor. The harbor provides facilities, parking, and easy boat access to numerous offshore sites.
+The bottom slopes from the sandy beach entry through a reef section to deeper sandy areas. Garden eels inhabit the sandy patches. The reef holds moray eels, octopus, barracudas, and reef fish. Eagle rays and green sea turtles are documented visitors. The site's proximity to the harbour creates boat traffic overhead — navigation with a compass is recommended.
 
-## Shore Diving Opportunities
-
-Crescent Beach, located just outside Honokohau Harbor, is accessible for shore diving and is famous for large megafauna visits, especially tiger sharks. The shallow reef areas near the harbor offer good entry/exit conditions for beginners exploring nearby reef structures.
+Note: This is primarily a working harbour; most visiting divers use Honokohau as the departure point for boat dives rather than as a primary dive destination. Experienced local divers specifically visit Crescent Beach for tiger shark sightings.
 
 ## Marine Life
 
-Megafauna including tiger sharks, manta rays, dolphins, and whale sharks make regular appearances. Typical reef fish, sea turtles, and octopus are common in the shallower areas.
+Tiger sharks (Galeocerdo cuvier) are documented residents associated with the harbour; most sightings are at 7–18 metres depth on the reef slope. Garden eels in sandy patches. Moray eels, octopus, barracudas, eagle rays, and green sea turtles are also documented at this site. Dolphins are occasionally seen.
 
-## Practical Information
+No site-specific sources confirm manta rays or whale sharks as regular features of the shore dive here (they occur in the broader Kona region); those claims have been removed from the marine life section.
 
-- **Facilities**: Parking, restrooms, boat rental services
-- **Dive Operators**: Multiple shops available; book directly with operators
-- **Accessibility**: Easy access from Kailua-Kona and airport
-- **Season**: Consistent conditions year-round
+## Access
 
-## Tips and Recommendations
-
-- **Boat dive hub**: Use this location to arrange boat dives to famous offshore sites
-- **Shore diving alternative**: Try Crescent Beach if you want to dive independently
-- **Arrive early**: Boat dives typically depart early morning (6-7 AM)
-- **Shop around**: Multiple operators offer competitive pricing; compare before booking
-- **Book in advance**: Popular dive sites depart full; advance booking recommended
+From Highway 19, turn into Honokohau Harbor. Park near the harbour facilities. Walk approximately 10–15 minutes north over lava rock to reach Crescent Beach. Entry is over a small sandy patch. Shallow conditions at low tide make entry more difficult; higher tides are preferred.
 
 ## Safety Considerations
 
-- Shore dives: Check conditions before entering; respect surge and currents
-- Boat dives: Bring seasickness medication if prone; wear sunscreen
-- Tiger sharks are present; maintain distance and respect wildlife
-- Always dive with a buddy
-- Follow operator briefings and protocols
-
-## Access Note
-
-This is primarily a working harbor and diving hub rather than a standalone dive site. Most divers use Honokohau as the launching point for boat adventures rather than diving directly from the shore here. The adjacent Crescent Beach offers the best shore diving access.
+- Active boat channel: surface with a dive flag and SMB; maintain visibility with operators
+- Tiger sharks are wild animals; maintain distance and do not feed or approach them
+- Lava rock entry and exit requires footwear and care
+- Winter NW swells make this site choppy and potentially dangerous
+- Compass navigation is strongly recommended due to boat traffic
+- Many local divers report other Kona shore dives offer comparable reef quality without the boat traffic hazard
 
 ---
-*This dive site information was researched from Kona harbor operator websites and dive community reviews. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Jack's Diving Locker — Honokohau Beach / Manta Ray Bay](https://jacksdivinglocker.com/honokohau-beach-manta-ray-bay), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Crescent Beach/Honokohau Harbor Shore Dive](https://scubaboard.com/community/threads/crescent-beach-honokohau-harbor-shore-dive-help.633903/). Last updated 2026-06-06.*

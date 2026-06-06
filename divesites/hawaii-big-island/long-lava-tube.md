@@ -13,73 +13,59 @@ addedBy: osm_import
 
 ## Long Lava Tube
 
-An extended underwater cavern system showcasing the dramatic geology of Kona's volcanic past, Long Lava Tube features interconnected chambers, dramatic lighting effects through skylights, and a rich ecosystem adapted to cave living.
+A seldom-visited lava tube site in South Kona near Miloli'i, Long Lava Tube is distant enough from Honokohau Harbor to be almost exclusively a liveaboard or long-range charter destination, offering a navigable lava tube passage decorated with Tubastrea coral and documented resident frogfish.
 
 ## Overview
 
-Long Lava Tube is a boat dive site featuring an extended lava cavern system with multiple chambers and passages. The site is named for its length and the substantial cave passages that traverse the reef. Unlike some volcanic sites that are more scenic formations on open reef, Long Lava Tube emphasizes the actual cavern exploration experience while remaining accessible to intermediate divers without advanced cave training.
+Long Lava Tube is located near the village of Miloli'i towards the southern end of the Big Island's west coast — far enough from Kona that, as the Underwater Photography Guide to Kona notes, it is "mostly for liveaboard divers alone." Regular two-tank morning charters from Honokohau typically do not reach this site; it appears on long-range charter itineraries and on liveaboard routes.
+
+The site name refers to a single lava tube that traverses the reef: sources describe a navigable passage approximately 40 feet (13 metres) in length decorated with pink, orange, and yellow Tubastrea coral. The surrounding reef holds additional tubes, arches, and cavern features.
 
 ## Site Information
 
-- **Location**: Kona Coast
+- **Location**: Near Miloli'i village, South Kona Coast
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 26-28°C (78-82°F)
+- **Typical Visibility**: Described as excellent; water temperature slightly cooler than central Kona (~24°C / 75°F)
 - **Best Time**: April to November
 
-## Cavern Features
+## Lava Tube Features
 
-The site features flat, vast cavern chambers with low ceilings typical of lava tube formations. Most chambers remain only a couple of meters away from open water, keeping them in the "cavern zone" (penetration without specialized training). Natural skylights allow sunlight to penetrate, creating dramatic lighting effects and reducing disorientation concerns. The tunnel structure creates an intuitive pathways to navigate, with clear visual landmarks.
+The signature tube is approximately 13 metres long and lined with Tubastrea coral colonies in pink, orange, and yellow. Natural skylights and open sections in the surrounding reef allow light to enter. The topography follows the typical Kona lava-tube character: formed by ancient lava flows leaving hollow channels as the surface crust cooled.
 
 ## Marine Life
 
-The cave environment hosts a specialized ecosystem of low-light adapted species. Crustaceans are abundant, including large spiny lobsters, tiny transparent shrimp, and various crabs. Porcupine pufferfish are frequently encountered in the caverns. Small fish species shelter in the overhangs. Octopus are occasionally seen. The darkness provides excellent habitat for nocturnal species.
+Hawaiian green turtles (Chelonia mydas): confirmed at this site by the Underwater Photography Guide to Kona.
+
+Frogfish: three resident frogfish reported at the site by the same source. These are site-specific and relatively unusual; frogfish are ambush predators that remain stationary for long periods and can be found in the same location on repeated dives.
+
+The source also mentions "sharks in the blue" as a general observation for South Kona liveaboard dives; no specific species or confirmed sighting at this particular site is available.
+
+No other site-specific marine life claims are supported by current sources. The earlier description mentioning "crustaceans including large spiny lobsters" for this specific site was carried over from the Suck Em Up description without a separate source and has been removed.
 
 ## Diving the Site
 
-Entry is typically at the cave mouth on the reef. Divers descend and navigate through the primary passage and interconnected chambers. With good buoyancy control and steady movement, navigation is straightforward. Experienced divemasters manage the group to prevent contact with cave ceilings or walls. Descent into the darker inner chambers requires good lighting. Return is via the same route, maintaining safe buoyancy throughout.
+Divers enter the tube system from the reef, navigate the primary passage, and return the same way. The described length (~13 m) means the entire tube can be seen without losing visual orientation to open water. Divemasters manage the group to keep all divers within the light-penetrating cavern zone.
 
-## Lighting and Photography
+## Photography
 
-Bring quality underwater lights—essential for safe navigation and photography. Lights illuminate the true colors of crustaceans and reef life (which appear nearly colorless in darkness). The natural skylights create dramatic contrast between lit and dark areas, offering excellent compositional opportunities. Cave formations photograph well with wide-angle setups.
-
-## Technical Aspects
-
-This site requires better buoyancy and spatial awareness than open-water reef dives. Cavern navigation, while not requiring advanced cave training, demands attention to positioning and awareness of the overhead environment. Newer divers should get oriented with better fundamentals before attempting deep cavern dives.
+Tubastrea coral in the tube interior is the primary photographic subject. Bring a primary dive light and ideally a video light for wide-angle work — the corals lose all colour without artificial lighting. Frogfish subjects are excellent for macro work.
 
 ## Tips and Recommendations
 
-- **Lighting is essential**: Bring your own quality light in addition to any provided by operators
-- **Buoyancy practice**: Practice excellent mid-water buoyancy control before the dive
-- **Respect the ceiling**: Never force contact with cave formations
-- **Stay with the group**: Separation in cavern systems can lead to disorientation
-- **Clear hand signals**: Establish communication protocols with your buddy before descent
-- **Macro photography**: Bring close-focus lenses for crustacean photography
+- This site is not on standard day-charter itineraries from Kona; enquire specifically with long-range or liveaboard operators
+- Bring a primary dive light — essential for the tube interior
+- The cooler water (~24°C) may be noticeable; a 3 mm suit is adequate for most divers
+- Allow adequate air for ascent and safety stop; the distance from shore means boat pickup planning is important
 
 ## Safety Considerations
 
-- Intermediate certification or advanced Open Water with cavern experience recommended
-- Maintain excellent buoyancy to avoid contact with cave ceiling and walls
-- Bring backup lighting in addition to primary dive light
-- Use a surface signaling device when returning to the boat
-- Stay with your divemaster and buddy at all times
-- Do not penetrate beyond light-penetrating areas into full darkness
-- Be aware of limited visibility in dark chambers; stay calm and move deliberately
-- Ascend in a controlled manner with proper safety stops
-
-## Entry Requirements
-
-This is not a beginner site. Divers should have solid Open Water fundamentals, good buoyancy control, and prior cavern-adjacent diving experience. If you're hesitant about cavern diving, consider doing several open-water lava reef dives first to build confidence.
-
-## Why Long Lava Tube?
-
-This site offers a unique diving experience showcasing Hawaii's volcanic geology from the interior, with dramatic cavern features and specialized marine life. It's a step beyond standard reef diving but remains accessible without technical cave training.
+- Intermediate buoyancy required for tube navigation
+- Never penetrate beyond the light-penetrating zone without dedicated cave training and equipment
+- Bring backup lighting
+- Liveaboard and long-range charter safety briefings apply; follow operator protocols
 
 ---
-*This dive site information was researched from Kona cavern diving guides, lava tube diving resources, and Kona dive operator reviews. Last updated 2026-03-16.*
-
----
-*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*
+*Sources: [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Big Island/Kona diving](https://scubaboard.com/community/threads/big-island-kona-diving.260269/), [Dive the World — Hawaii Kona](https://www.dive-the-world.com/diving-sites-hawaii.php). Last updated 2026-06-06.*

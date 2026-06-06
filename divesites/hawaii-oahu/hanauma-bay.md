@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Hanauma Bay
 
-Hanauma Bay is Oahu's most protected and popular marine preserve, a pristine marine ecosystem within a volcanic crater offering exceptional snorkeling and beginner diving.
+Hanauma Bay is a State Nature Preserve within a volcanic crater on Oahu's southeast coast, offering calm, shallow reef diving and snorkeling with over 400 confirmed fish species and frequent Hawaiian green sea turtle encounters.
 
 ## Overview
 
-Located on Oahu's southeast coast approximately 10 miles east of Waikiki, Hanauma Bay is a designated State Nature Preserve formed within a volcanic crater. The bay protects an extraordinary marine ecosystem with over 400 species of fish and numerous Hawaiian green sea turtles. The calm, shallow, protected waters and dense concentration of coral just offshore make this an ideal location for beginning divers and snorkelers. However, visitor access is strictly managed through a reservation system to protect the marine environment.
+Located approximately 10 miles east of Waikiki, Hanauma Bay formed within an ancient volcanic crater that has since opened to the sea. The protected bay contains shallow coral reef beginning just offshore and extending outward. The calm, enclosed waters and abundant marine life make this Oahu's most popular snorkeling and beginner diving destination. Strict access controls protect the marine environment.
 
 ## Site Information
 
 - **Location**: Southeast coast of Oahu (Kahalu'u)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Water Temperature**: 24–27°C (75–80°F) year-round
 
 ## Marine Life
 
-Hanauma Bay hosts over 400 species of fish including trigger fish, yellow tang, angel fish, trumpet fish, parrot fish, and butterfly fish. Hawaiian green sea turtles are frequently seen. The dense concentration of hard and soft coral throughout the bay provides food and shelter for the thriving marine community.
+Over 400 fish species are confirmed within the preserve, including parrotfish, yellow tang, butterflyfish, triggerfish, trumpetfish, and wrasse. Hawaiian green sea turtles are frequently observed. The density of coral and fish life is among the highest of any accessible Oahu site, a result of decades of protection.
 
 ## Visitor Information
 
-The bay is open Wednesday-Sunday only (closed Mondays and Tuesdays for reef recovery). All visitors are required to watch a 9-minute educational video covering marine life, ecosystem protection, and safety rules. Entry fee: $25 per adult (children 12 and under are free). 48-hour advance reservations are REQUIRED.
+The bay is open Wednesday through Sunday, 6:45 AM to 4 PM (closed Mondays and Tuesdays for reef recovery). All visitors must watch a required orientation video covering marine protection and safety rules. Entry fee: $25 per adult non-resident (residents with valid Hawaii ID free; children 12 and under free). As of late 2025, advance reservations are required—bookings open two days prior at 7:00 AM HST through the official reservation system.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Hanauma Bay State Park – Official Site](https://hanaumabaystatepark.com/), [Hawaii Guide – Hanauma Bay](https://www.hawaii-guide.com/oahu/sights/hanauma-bay), [DLNR – Hanauma Bay](https://dlnr.hawaii.gov/). Last updated 2026-06-06.*
