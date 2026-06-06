@@ -24,10 +24,10 @@ The MLCD protects against anchoring in Subzone A, extraction of marine life, and
 ## Site Information
 
 - **Location**: Ka'awaloa Cove, Kealakekua Bay, South Kona Coast (approximately 30 minutes south of Kailua-Kona)
-- **Entry Type**: Boat dive (permit required; no casual motorised vessel access)
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: Approximately 36 metres (120 feet) in the deepest cove sections; most diving occurs at 5–20 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–36 metres (50–120 feet), frequently described as among Hawaii's clearest
 - **Water Temperature**: 25–27°C
 - **Best Time**: Morning dives offer best visibility and spinner dolphin encounter probability; May–September for calmest conditions

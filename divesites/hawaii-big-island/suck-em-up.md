@@ -23,9 +23,9 @@ Suck Em Up is a regularly visited boat dive on the North Kona Coast, appearing a
 
 - **Location**: North Kona Coast (exact access coordinates proprietary to operators)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern (lava tube system)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 8 metres
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 15–25 metres
 - **Water Temperature**: 26–28°C
 - **Best Time**: April to September for calmer conditions

@@ -25,7 +25,7 @@ Turtle Pinnacle is located off the west coast of the Big Island, north of Kailua
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Reported at 45–60 metres by multiple sources — exceptional even by Kona standards
 - **Water Temperature**: 26–28°C
 - **Best Time**: Year-round

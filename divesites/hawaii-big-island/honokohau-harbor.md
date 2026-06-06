@@ -24,10 +24,10 @@ The site has a documented local population of over 20 tiger sharks (Galeocerdo c
 ## Site Information
 
 - **Location**: Crescent Beach (Alua/Nai'a Bay), immediately outside Honokohau Harbor, between Kona Airport and Kailua-Kona
-- **Entry Type**: Shore entry (10–15 minute walk over lava rock from car park)
-- **Site Type**: Coral reef with sand slope
-- **Difficulty Level**: Intermediate (active boat channel, navigation required, lava entry/exit)
-- **Maximum Depth**: Approximately 20–27 metres (reported to 90 feet in sandy areas)
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 metres
 - **Water Temperature**: 26–28°C
 - **Best Time**: Summer months for tiger shark encounters; year-round for general diving; avoid winter NW swells

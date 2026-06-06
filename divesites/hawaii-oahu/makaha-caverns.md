@@ -13,29 +13,29 @@ addedBy: osm_import
 
 ## Makaha Caverns
 
-Makaha Caverns features some of Hawaii's most dramatic examples of volcanic lava topography with interconnected lava tubes and fun swim-throughs in shallow water on Oahu's West Shore.
+Makaha Caverns is a system of interconnected lava tubes off Kepuhi Point on Oahu's Waianae coast, formed by the ancient Waianae Volcano, where two open-ended lava tubes merge in a distinctive V-shape.
 
 ## Overview
 
-Located on the Farrington Highway on Oahu's West Shore, Makaha Caverns is a series of interconnected lava tubes with spectacular cave formations. The site is typically accessed by boat, though swimming from the beach is possible (approximately 150 yards). The caverns are filled with tons of wildlife, swim-throughs, and rock formations—showcasing trenches, lava tubes, and caverns with excellent lava formations and light penetration for non-penetration exploration.
+Located 100 yards off Kepuhi Point on Oahu's West Shore, Makaha Caverns consists of a series of lava tube caverns and swim-throughs reaching depths of approximately 25–45 feet. The main cavern is formed by the V-shaped merger of two open-ended lava tubes that remain intact; collapsed sections elsewhere in the system create additional passages. A large sandy channel separates the north and south reef sections. Visibility can exceed 100 feet on calm days, though surge can significantly reduce visibility and complicate navigation. DLNR mooring buoys are available throughout the area.
 
 ## Site Information
 
-- **Location**: West Shore of Oahu (Waianae area)
-- **Entry Type**: Boat dive
+- **Location**: Off Kepuhi Point, Waianae coast, West Oahu
+- **Entry Type**: Boat dive (approximately quarter-mile swim to main cavern)
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Average Depth**: 8 meters (26 feet)
+- **Average Depth**: 8–13 meters (25–45 feet)
 - **Maximum Depth**: 14 meters
-- **Dive Time**: ~50 minutes bottom time
+- **Dive Time**: ~50 minutes bottom time in good conditions
 
 ## Marine Life
 
-Makaha Caverns hosts turtles as frequent residents (napping in caves), massive pufferfish, spiney lobsters, and schools of fish. Whitetip reef sharks are also commonly encountered. The cave environment provides shelter for species adapted to low-light conditions, including crustaceans and small fish seeking protection in the overhangs.
+Sea turtles frequently rest inside the caves. Massive pufferfish and schools of pufferfish are regularly observed. Spiny lobsters inhabit the crevices. Whitetip reef sharks rest in the caverns. Schools of reef fish, octopus, and moray eels are common in the collapsed tube sections. A single eagle ray sighting has been documented at this site; they are occasional rather than regular visitors.
 
 ## Special Considerations
 
-Divers are strongly recommended to bring a good dive light (and backup) when exploring caverns or swim-throughs. Buddy systems, signaling devices, and surface marker buoys are essential. Dive flags are mandatory, and lifeguards may stop divers before water entry to ensure compliance with safety requirements.
+A good dive light (and backup) is required for cavern exploration. Surge can be significant—conditions should be assessed before entry. Dive flag/buoy, surface marker buoy, buddy system, and whistle are recommended. Swimming to the site from the beach is approximately a quarter mile and is challenging with full scuba gear; boat access is strongly preferred.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Oahu Dive Guide – Makaha Caverns](https://www.oahudiveguide.com/post/exploring-makaha-caverns), [Banzai Divers Hawaii – Makaha Caverns](https://banzaidivershawaii.com/dive/makaha-caverns/), [Hawaii Greatest Dive Sites – Makaha Caverns](https://hawaii.greatestdivesites.com/oahu/makaha_caverns). Last updated 2026-06-06.*

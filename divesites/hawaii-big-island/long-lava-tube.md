@@ -24,10 +24,10 @@ The site name refers to a single lava tube that traverses the reef: sources desc
 ## Site Information
 
 - **Location**: Near Miloli'i village, South Kona Coast
-- **Entry Type**: Boat dive (long-range charter or liveaboard)
-- **Site Type**: Cave/cavern (lava tube)
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Approximately 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: Described as excellent; water temperature slightly cooler than central Kona (~24°C / 75°F)
 - **Best Time**: April to November
 

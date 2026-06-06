@@ -23,9 +23,9 @@ Puako is located on the Kohala Coast, north of Kona, accessible via Highway 19 a
 
 - **Location**: Puako Village area, Kohala Coast, approximately 3 miles down Puako Road from Highway 19
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef (lava finger formation)
-- **Difficulty Level**: Intermediate (entry/exit over long shallow reef; wind-driven chop possible; navigation skills needed)
-- **Maximum Depth**: Approximately 18 metres on the outer reef; reef top at 3–5 metres, drops to 9 metres at the lava finger base
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 metres, best in morning
 - **Water Temperature**: 25–27°C
 - **Best Time**: Morning, before afternoon trade winds build; March–October for calmest conditions

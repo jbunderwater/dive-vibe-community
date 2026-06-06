@@ -25,9 +25,9 @@ The Kona Coast hosts a resident, catalogued population of over 450 individual re
 
 - **Location**: Garden Eel Cove (Makako Bay), offshore from Kona International Airport; secondary site Manta Village, Keauhou Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Manta feeding aggregation site (sandy bottom)
+- **Site Type**: Manta
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 metres (campfire area at approximately 10 m; garden eels in sand at approximately 24 m)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15–25 metres
 - **Water Temperature**: 26–28°C
 - **Best Time**: Year-round; sighting success does not vary significantly by season

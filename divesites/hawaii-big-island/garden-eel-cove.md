@@ -25,9 +25,9 @@ The site was established as a dedicated manta night-dive location in August 1999
 
 - **Location**: Makako Bay (Manta Ray Heaven), offshore from Kona International Airport, Keahole Point area
 - **Entry Type**: Boat dive
-- **Site Type**: Manta feeding aggregation site (sandy bottom / reef)
+- **Site Type**: Manta
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 metres (campfire viewing area approximately 10 m; garden eel colony at approximately 24 m)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15–25 metres
 - **Water Temperature**: 26–28°C
 - **Best Time**: Year-round for manta night dives; daytime reef and eel dives are best May–September when conditions are calmest

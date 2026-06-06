@@ -2,8 +2,8 @@
 name: Electric Beach (Kahe Point)
 lat: 21.3544
 lng: -158.1297
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 9
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,28 @@ addedBy: osm_import
 
 ## Electric Beach (Kahe Point)
 
-Electric Beach is a unique and free shore dive site on Oahu's leeward coast, famous for warm water effluent from a nearby power plant that attracts dolphins, sea turtles, eagle rays, and abundant pelagic marine life.
+Electric Beach is a shore dive on Oahu's leeward coast where warm water discharge pipes from the Hawaii Electric Company power plant attract an exceptional concentration of marine life—but strong currents near the discharge make this more suitable for intermediate than true beginner divers.
 
 ## Overview
 
-Located across from the Kahe Power Plant on the leeward side of Oahu, just north of Ko Olina, Electric Beach gets its name from the warm water discharge pipes from Hawaiian Electric Company. These pipes have become flourishing artificial reefs with massive concentrations of coral and marine life. The warm water (several degrees warmer than surrounding ocean) creates thermal currents that attract large groups of tropical fish, sea turtles, eagle rays, and occasional pods of spinner dolphins. The site offers abundant marine life and is completely free to visit.
+Located on Oahu's west side approximately 45 minutes from Waikiki, Electric Beach sits across from the Kahe Power Plant. A discharge pipe runs along the seafloor from the plant and emits warm water approximately 200 yards offshore, drawing marine life to the area. Average diving depth is 20–30 feet near the discharge; the surrounding reef is shallow throughout. Entry requires descending a series of rocks to reach the shore. The discharge current is described as extremely strong and will push divers up and away from the bottom—not ideal for scuba at the pipe itself. Best dived in 1–3 ft or lower swell.
 
 ## Site Information
 
-- **Location**: Leeward (west) side of Oahu, north of Ko Olina
+- **Location**: Leeward (west) side of Oahu, north of Ko Olina, across from Kahe Power Plant
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Reef Location**: 300-600 feet offshore
-- **Water Temperature**: Warmer than surrounding ocean (extra thermal comfort)
-- **Cost**: FREE
+- **Site Type**: Coral reef with artificial structure (discharge pipe)
+- **Difficulty Level**: Intermediate (currents near discharge; hazardous in higher swells)
+- **Average Depth**: 6–9 meters (20–30 feet) near discharge
+- **Cost**: Free
 
 ## Marine Life
 
-The warm water discharge attracts exceptional marine life including sea turtles, eagle rays, spinner dolphins, and dense schools of tropical reef fish. The pipe structures have become thriving artificial reefs with massive coral growth and abundant invertebrates. This is one of Oahu's best sites for encountering marine megafauna.
+Sea turtles, spotted eagle rays, white-tip reef sharks, eels, octopus, nudibranchs, spiny lobsters, and large schools of reef fish are regularly reported at this site across multiple sources. Spinner dolphins are occasionally encountered. Manta rays and monk seals have been reported here but are uncommon. The warm discharge water is the primary attraction for aggregating marine life.
 
 ## Access and Conditions
 
-A small sandy beach allows easy water entry, though shore break can be rough and currents strong at times—particularly 300-600 feet offshore toward the main reef. Beginners should be cautious of current strength when venturing beyond the nearshore zone. The site is for experienced snorkelers and swimmers as well as divers.
+Significant boat traffic (tour boats, private vessels, jet skis) passes through the area. Free divers and spear fishers are common. The rocky beach entry and exit require care. Conditions change significantly with swell; the site is best on calm days.
 
 ---
-*Sources: [Island Divers Hawaii - Oahu Dive Sites](https://www.oahuscubadiving.com/oahu-dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu), [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Dive Aloha Scuba - Oahu Dive Sites](https://divealohascuba.com/infoandresources/oahu-dive-sites), [PADI - Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [PADI - Diving in Oahu](https://www.padi.com/diving-in/united-states-of-america-usa/oahu/), [Zentacle - Oahu Dive Sites](https://www.zentacle.com/loc/us/hi/oahu). Last updated 2026-04-04.*
+*Sources: [Oahu Dive Guide – Electric Beach](https://www.oahudiveguide.com/post/electric-beach), [Love Oahu – Electric Beach](https://loveoahu.org/beaches/electric-beach/), [Atlas Obscura – Electric Beach](https://www.atlasobscura.com/places/electric-beach-2). Last updated 2026-06-06.*

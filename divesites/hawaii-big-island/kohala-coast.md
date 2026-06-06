@@ -25,9 +25,9 @@ The PADI Blog article on Kohala diving notes that the tubes are "mostly flat and
 
 - **Location**: Northwestern Big Island, Kawaihae area (Kohala Peninsula)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern (lava tube primary character)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Approximately 20 metres (Frog Rock to 20 m; Lava Dome to 30 m at Pink Floyd ledge)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 metres
 - **Water Temperature**: 25–27°C
 - **Best Time**: May to October
