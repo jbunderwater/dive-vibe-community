@@ -19,7 +19,7 @@ A plateau with overhangs near the Boo area. Home to endemic Raja Ampat epaulette
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 

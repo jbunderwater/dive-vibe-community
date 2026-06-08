@@ -23,7 +23,7 @@ Tatawa Besar is a larger island than Tatawa Kecil, and its more gently contoured
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters

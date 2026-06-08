@@ -23,7 +23,7 @@ Yembuba village is one of several small communities along Waigeo's southern coas
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters (40–65 feet)

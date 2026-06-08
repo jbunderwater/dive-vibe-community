@@ -27,7 +27,7 @@ Note: Sources describe the depth as significantly greater than the original 14m 
 
 - **Location**: Eastern Ambon Bay, Amahusu/Amahusa area
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 meters

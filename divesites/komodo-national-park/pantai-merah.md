@@ -23,7 +23,7 @@ Situated on the eastern coast of Komodo Island, Pantai Merah offers a shore entr
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern Komodo Island)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–20 meters

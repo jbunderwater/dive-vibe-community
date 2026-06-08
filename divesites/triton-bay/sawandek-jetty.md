@@ -23,7 +23,7 @@ Located in the settlement area of inner Triton Bay, West Papua, Indonesia, Sawan
 
 - **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 5-15 meters (can be reduced near the jetty structure by particulates)

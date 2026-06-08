@@ -23,7 +23,7 @@ The name says it all: Fuzzy Rock is a rocky structure so thickly coated in soft 
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters

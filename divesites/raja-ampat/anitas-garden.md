@@ -23,7 +23,7 @@ Among Raja Ampat's many personally named dive sites, Anita's Garden is one of th
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters

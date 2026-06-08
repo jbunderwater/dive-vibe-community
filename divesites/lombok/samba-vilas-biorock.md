@@ -23,7 +23,7 @@ Samba Vilas Biorock is one of the east coast Gili Trawangan cluster of Biorock s
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 m

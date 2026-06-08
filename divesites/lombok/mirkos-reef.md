@@ -23,7 +23,7 @@ Mirkos Reef is a dive site in the waters around Gili Air, known as part of the b
 
 - **Location**: Waters near Gili Air and Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–22 m

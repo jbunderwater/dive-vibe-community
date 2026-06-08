@@ -23,7 +23,7 @@ The name Batu Rufas translates roughly as "rock" in the local context (batu is t
 
 - **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 8-20 meters

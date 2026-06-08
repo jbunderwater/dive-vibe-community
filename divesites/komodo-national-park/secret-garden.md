@@ -17,7 +17,7 @@ A sheltered bay reef off northeast Padar Island with mild currents. Features lar
 ## Site Information
 
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

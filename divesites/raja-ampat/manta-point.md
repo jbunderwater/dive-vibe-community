@@ -23,7 +23,7 @@ Manta Point sits in the productive waters off Arborek village, where reef manta 
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

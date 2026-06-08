@@ -23,7 +23,7 @@ One of the more unusual dive experiences in Raja Ampat, this site combines a hea
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8-20 meters

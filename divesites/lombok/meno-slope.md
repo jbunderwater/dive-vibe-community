@@ -23,7 +23,7 @@ Meno Slope is a gently inclining reef on the southern side of Gili Meno, offerin
 
 - **Location**: South side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–22 m

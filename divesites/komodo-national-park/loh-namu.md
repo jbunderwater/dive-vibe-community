@@ -23,7 +23,7 @@ Situated in a bay on the western coast of Komodo Island, Loh Namu benefits from 
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (western Komodo Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 12–20 meters

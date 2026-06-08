@@ -23,7 +23,7 @@ Friwen Island lies in the northern reaches of Raja Ampat's core diving zone, and
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)

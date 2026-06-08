@@ -23,7 +23,7 @@ Manta Sandy lives up to its name: the site features a shallow sandy bottom at 15
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

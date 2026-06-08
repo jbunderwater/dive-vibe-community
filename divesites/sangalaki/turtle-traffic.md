@@ -56,7 +56,7 @@ Turtle Traffic is one of the best turtle photography sites in Kalimantan. Shooti
 
 - **Location**: Maratua Island vicinity, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

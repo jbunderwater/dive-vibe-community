@@ -23,7 +23,7 @@ Frog Fish Point is a dedicated macro dive site in the Gili Air area, renowned fo
 
 - **Location**: Near Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m

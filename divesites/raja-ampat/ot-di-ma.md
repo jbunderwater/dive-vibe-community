@@ -23,7 +23,7 @@ Located in the Dampier Strait between Waigeo and the central islands, Ot Di Ma i
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters (40–65 feet)

@@ -17,7 +17,7 @@ Large coral-encrusted boulders on the southwestern tip of Nusa Kode creating hab
 ## Site Information
 
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 

@@ -23,7 +23,7 @@ The five rock formations that give this site its name break the reef's horizonta
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)

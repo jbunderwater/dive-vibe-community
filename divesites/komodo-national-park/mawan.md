@@ -23,7 +23,7 @@ Mawan is a small island in the eastern section of Komodo National Park with a ge
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 12–20 meters

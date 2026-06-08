@@ -17,7 +17,7 @@ Dive site in the north Komodo area. Site details unverified — contributed from
 ## Site Information
 
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

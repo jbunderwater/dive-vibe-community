@@ -25,7 +25,7 @@ Depths stay under 20 m for most of the dive. Access is by liveaboard or day trip
 
 - **Location**: Northern side of Sangeang Island, northeast Sumbawa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Visibility**: ~30 metres

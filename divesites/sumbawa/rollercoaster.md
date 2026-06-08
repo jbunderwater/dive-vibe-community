@@ -23,7 +23,7 @@ Rollercoaster sits at the most exposed, current-swept corner of Gili Banta. The 
 
 - **Location**: Northwest tip of Gili Banta, Sumbawa / Komodo border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Currents**: Strong — vertical and horizontal; cold upwellings possible

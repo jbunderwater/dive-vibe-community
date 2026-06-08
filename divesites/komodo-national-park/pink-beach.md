@@ -23,7 +23,7 @@ Located on the eastern coast of Komodo Island, Pink Beach (separate from the sim
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern Komodo Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 12–20 meters

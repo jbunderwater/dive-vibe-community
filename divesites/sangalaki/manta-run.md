@@ -55,7 +55,7 @@ Manta Run rewards wide-angle photography. Shooting upward with blue-water backli
 
 - **Location**: Sangalaki Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

@@ -23,7 +23,7 @@ Vila Almarick Biorock is one of the northernmost structures in the east coast Gi
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 m
