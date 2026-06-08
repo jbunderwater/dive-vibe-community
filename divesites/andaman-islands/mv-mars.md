@@ -21,7 +21,7 @@ The MV Mars is a small wooden cargo ship that sank during a storm in April 2006,
 
 ## Site Information
 
-- **Location**: Northwest of Havelock Island (Swaraj Dweep), Andaman Islands
+- **Location**: Northwest of Havelock Island (Swaraj Dweep), approximately 4 km from shore, near Sir William Peel Island, Andaman Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -58,4 +58,4 @@ Dive within your certification limits. Visibility can be limited at this wreck. 
 The small, intact wreck makes a good wide-angle subject, and the resident crocodilefish and seahorses offer macro opportunities on the hull.
 
 ---
-*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Last updated 2026-05-17.*
+*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Last updated 2026-06-08.*

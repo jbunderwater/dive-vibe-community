@@ -59,4 +59,4 @@ Strong currents are possible in the channel. Dive within your certification limi
 The wall face offers dramatic wide-angle shots with schools of barracuda or trevally silhouetted against blue water. Coral crevices provide macro subjects including scorpionfish and small invertebrates.
 
 ---
-*Sources: [Barefoot Scuba - The Wall](https://www.barefootscuba.in/dive-sites/dive-sites-in-andaman.html), [Seahawks Scuba - The Wall](https://seahawksscuba.in/the-wall-havelock-island/), [Dive Andaman - Dive Sites](https://www.diveandaman.com/page/scuba-diving-sites-havelock-island). Last updated 2026-05-17.*
+*Sources: [Barefoot Scuba - The Wall](https://www.barefootscuba.in/dive-sites/dive-sites-in-andaman.html), [Seahawks Scuba - The Wall](https://seahawksscuba.in/the-wall-havelock-island/), [Dive Andaman - The Wall](https://www.diveandaman.com/the-wall-havelock-island). Last updated 2026-06-08.*

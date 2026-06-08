@@ -32,7 +32,7 @@ South Button Island is part of South Button Island National Park, situated withi
 
 ## Marine Life
 
-The western wall hosts schooling barracuda, bigeye trevally, surgeonfish, snapper, groupers, angelfish, butterflyfish, and Napoleon wrasse. Manta rays and devil rays visit the eastern coral garden. Green turtles and hawksbill turtles are frequently reported. Sea eagles and herons are visible above the waterline. Reef sharks have been reported at the site. No site-specific reports of leopard sharks could be confirmed from independent sources.
+The western wall hosts schooling barracuda, bigeye trevally, surgeonfish, snapper, groupers, angelfish, butterflyfish, and Napoleon wrasse. Manta rays and devil rays visit the eastern coral garden. Green turtles and hawksbill turtles are frequently reported. Sea eagles and herons are visible above the waterline. Reef sharks have been reported at the site. Leopard sharks are documented as occasional visitors to the eastern coral garden (touristinindia.com specifically records sightings at this site), though reports are infrequent.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Remote location with a long boat ride — ensure your operator has appropriate s
 The ray encounters on the eastern garden side provide exceptional wide-angle opportunities. The western wall's fish aggregations are suited to schooling-fish shots. Visibility exceeding 20 metres makes this a strong site for natural-light reef photography.
 
 ---
-*Sources: [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/), [Tourist in India - South Button Island](https://touristinindia.com/south-button-island-national-park-corals-andaman-guide/), [Andaman Islands - South Button Guide](https://www.andamanislands.com/blog/detail/all-you-need-to-know-about-visiting-south-button-island). Last updated 2026-05-17.*
+*Sources: [Tourist in India - South Button Island](https://touristinindia.com/south-button-island-national-park-corals-andaman-guide/), [Wikipedia - South Button Island National Park](https://en.wikipedia.org/wiki/South_Button_Island_National_Park), [Andaman Islands - South Button Guide](https://www.andamanislands.com/blog/detail/all-you-need-to-know-about-visiting-south-button-island). Last updated 2026-06-08.*
