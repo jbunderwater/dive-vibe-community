@@ -23,7 +23,7 @@ Bare Bush Cay is one of several small cay-fringing reefs in Jamaica's Portland B
 
 - **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
@@ -63,4 +63,4 @@ The undisturbed reef and frequent turtle and shark sightings make this a good ph
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bare Bush Cay. Not validated. Last updated 2026-06-08.*

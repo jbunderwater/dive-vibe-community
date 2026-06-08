@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # The Throne Room
 
-Negril's premier cavern dive, where a colony of massive orange elephant ear sponges forms a natural throne in a cathedral-like reef chamber.
+Negril's premier cavern dive — a wide, cathedral-like reef chamber entered through a crack in the reef at 12 metres, famous for a colony of enormous orange elephant ear sponges at its interior.
 
 ## Overview
 
-The Throne Room is widely considered the best dive site in Negril and one of the most spectacular in all of Jamaica. The site is a natural cavern formed in the reef, approximately 25 feet long and 8 feet wide, entered through a crack in the reef formation at around 12 metres. The main draw is a colony of enormous orange elephant ear sponges deep inside the cavern that resemble thrones — this distinctive formation gives the site its name. The cavern walls from top to bottom are covered with descending layers of corals, sponges, and sea fans. Advanced divers can reach an exit window near the bottom of the cavern at approximately 21 metres. The remarkable interplay of light and shadow inside the cavern, with shafts of light filtering from the entrance, creates an otherworldly atmosphere.
+The Throne Room is widely regarded as the best dive site in Negril and one of the most spectacular in Jamaica. The site is a natural cavern formed in the reef structure north of Bloody Bay, entered through a crack in the reef at around 12 metres (40 feet). The cavern is described as wide and low — approximately 25 feet long and 8 feet wide at the entrance crack — opening into a larger interior chamber. The main feature is a colony of enormous orange elephant ear sponges deep inside the cavern. These demosponges can grow to impressive sizes and, in the dimly lit interior, their shapes resemble thrones — giving the site its name. The cavern walls from top to bottom support corals, sponges, and sea fans. Advanced divers can use an exit window near the bottom of the cavern at approximately 21 metres (70 feet) to access the outer wall.
 
 ## Site Information
 
-- **Location**: Negril, Jamaica (north of Bloody Bay)
+- **Location**: Negril, Jamaica (Bloody Bay area)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
@@ -32,35 +32,30 @@ The Throne Room is widely considered the best dive site in Negril and one of the
 
 ## Marine Life
 
-The throne-shaped orange elephant ear sponges are the defining feature. The cavern walls support yellow tube sponges, black corals, and encrusting rope sponges. Stingrays rest on sandy patches at the cavern floor. Spotted moray eels and octopus occupy the cavern crevices. Barracuda and nurse sharks are occasional visitors near the entrance. On the outer reef approaching the cavern, angelfish, snapper, and schools of grunts are common. Dolphins have been spotted in the blue water above the site on rare occasions.
+The defining feature is the colony of large orange elephant ear sponges at the rear of the chamber. The cavern walls support yellow tube sponges, black corals, and encrusting rope sponges. Nurse sharks have been reported resting in the sandy areas near the entrance. Spotted moray eels and octopus occupy the cavern crevices. Cubera snapper are associated with the cavern interior. On the outer reef approaching the cavern, angelfish, snapper, and schools of grunts are common. No site-specific reports of dolphin sightings at this site were found during research — the regional area lists dolphins as an occasional general sighting.
 
 ## Dive Profile
 
-Descend to the reef top at around 10–12 metres. Locate the cavern entrance — a crack in the reef that opens into the main chamber. Enter and explore the chamber, keeping the entrance visible (cavern, not cave, diving rules apply). The orange elephant ear sponge colony is the centerpiece at the rear of the chamber. Advanced divers can use the deeper exit window at 21 metres to access the outer wall. Novice divers can enjoy the upper section of the cavern with direct access maintained. Ascend back up the reef for a 3-minute safety stop at 5 metres.
+Descend to the reef top at around 10–12 metres. Locate the cavern entrance — a crack in the reef that opens into the main chamber. Cavern diving rules apply: maintain visibility of natural light from the entrance throughout the dive. The orange elephant ear sponge colony is at the rear of the chamber. Advanced divers can use the deeper exit window at 21 metres to access the outer wall. Novice divers should enjoy the upper section of the cavern only, keeping direct access to the entrance in view. Ascend back up the reef for a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access by dive boat from Negril operators. Entry via giant stride or back roll. The site is located north of Bloody Bay. Boats moor on the reef near the cavern entrance. Deploy SMB on ascent for boat pickup. A local guide who knows the cavern layout is strongly recommended for first visits.
+Access by dive boat from Negril operators. Boats moor on the reef near the cavern entrance north of Bloody Bay. Entry via giant stride or back roll. A local divemaster who knows the exact cavern layout is strongly recommended for first visits. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Roll onto your back inside the cavern to look up at the coral-encrusted ceiling — the lighting is extraordinary
-- Visit during morning hours when sunlight angles create the best light shafts inside the chamber
-- The site is consistently ranked as the best dive in Negril — plan at least two visits
-- Combine with The Arches for a perfect two-site dive day
+- Roll onto your back inside the cavern to look up at the coral-encrusted ceiling
+- Visit during morning hours when sunlight angles create the best light inside the chamber
+- Cavern diving rules apply: always maintain sight of natural light from the entrance
+- Combine with The Arches for a classic two-site Negril dive day
 
 ## Safety Considerations
 
-Cavern diving rules apply: always maintain sight of natural light from the entrance. Good buoyancy is essential — the sponge colony and coral walls can be damaged by contact. Proceed in single file through the entrance crack. Advanced divers using the deep exit should maintain a reserve of at least one-third tank before entering. Never enter the cavern alone.
+Cavern diving rules apply throughout: always maintain sight of natural light from the entrance. Good buoyancy is essential — the sponge colony and coral walls can be damaged by contact. Proceed in single file through the entrance crack. Advanced divers using the deep exit should maintain a reserve of at least one-third tank before entering. Never enter the cavern alone.
 
 ## Photography
 
-The Throne Room is one of Jamaica's premier underwater photo locations. Wide-angle lens with dual strobes to illuminate the cavern walls. The elephant ear sponge colony is the hero shot — position yourself to include the entrance light behind and above. The light shaft effect inside the cavern in early morning creates stunning ambient shots. Macro opportunities on the encrusted walls include tiny brittle stars, cleaning shrimp, and nudibranchs.
-
-## Additional Resources
-
-- **Local Operators**: SunDivers Negril, Couples Swept Away Dive Team
-- **Last Updated**: 2026-03-28
+The Throne Room is one of Jamaica's premier underwater photo locations. Wide-angle lens with dual strobes to illuminate the cavern walls. The elephant ear sponge colony is the hero shot — position yourself to include the entrance light behind and above. The light shaft effect inside the cavern in early morning creates stunning ambient shots. Macro opportunities on the encrusted walls include brittle stars and cleaning shrimp.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [ScubaBoard - Negril Dive Sites](https://scubaboard.com/community/threads/negril-dive-sites.299578/), [The Scuba Directory - The Throne Room](https://thescubadirectory.com/divesiteprofile/The-Throne-Room-Negril-Jamaica-Dive-Site). Last updated 2026-06-08.*

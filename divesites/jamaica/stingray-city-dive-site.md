@@ -23,7 +23,7 @@ Stingray City is one of the most popular dive experiences in the Montego Bay Mar
 
 - **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -63,4 +63,4 @@ Stingray City is a macro and wide-angle photographer's dream. The clear shallow 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [The Scuba Directory - Stingray City Montego Bay](https://thescubadirectory.com/divesiteprofile/Sting-Ray-City-Montego-Bay-Jamaica-Dive-Site), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Last updated 2026-06-08.*

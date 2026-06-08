@@ -13,54 +13,50 @@ addedBy: osm_import
 
 # Cayman Trench Edge
 
-A dramatic wall dive on the northern rim of the Cayman Trench, where the reef drops thousands of feet into one of the deepest points in the Caribbean.
+A deep wall dive on the western Jamaican shelf break, where the reef drops steeply toward depth and large sea fans, tube sponges, and black coral formations cover the upper wall.
 
 ## Overview
 
-The Cayman Trench Edge is one of Jamaica's most exhilarating wall dives, situated on the northern shelf break where the sea floor plunges to extraordinary depths — the Cayman Trench reaches over 7,500 metres (24,700 feet) making it the deepest point in the Caribbean Sea. Just a few miles offshore near Negril, the reef shelf breaks at around 15–20 metres before the wall drops vertically and then steeply into the abyss. Divers descend along the wall face to the recreational depth limit of 40 metres, where the wall remains covered in large sea fans, tube sponges, and black coral formations. The nutrient-rich upwelling from the deep trench fuels exceptional fish life and regularly brings pelagic species close to the wall.
+The Cayman Trench Edge is a wall dive on the western Jamaican shelf near Negril, where the reef shelf breaks at around 15–20 metres before the wall descends steeply to depth. The Cayman Trough (or Cayman Trench) is the deepest part of the Caribbean Sea, running between Jamaica and the Cayman Islands to the northwest; its maximum depth is approximately 7,686 metres (25,217 feet). The deep-water influence along Jamaica's western and northern shelf is a consistent feature of wall diving in this area. Divers descend along the wall face to the recreational depth limit of 40 metres, where the wall remains covered in large sea fans, tube sponges, and black coral formations.
+
+**Note:** This entry appears to be a curated descriptive site rather than a named dive site documented independently by dive operators. No third-party source lists "Cayman Trench Edge" as a specific named site distinct from other Negril wall dives. The description applies broadly to western Negril wall diving. This site is not validated per the 3-source requirement.
 
 ## Site Information
 
-- **Location**: Off Negril, Jamaica (Cayman Trench northern rim)
+- **Location**: Off Negril, Jamaica (western shelf break)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
-- **Current**: Moderate; variable with upwelling
+- **Current**: Moderate; variable
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The shallow reef plateau before the wall hosts grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with impressive stands of black coral at depth. Rainbow jacks and cero mackerel patrol mid-water. Large green moray eels occupy crevices in the wall face. Hawksbill turtles are regular visitors along the wall. At depth, schools of horse-eye jacks and bar jacks sweep past the wall face. The nutrient upwelling occasionally draws spinner dolphins into the area above the wall.
+The shallow reef plateau before the wall has grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with black coral at depth. Horse-eye jacks and bar jacks sweep past the wall face. Large green moray eels occupy crevices. Hawksbill turtles are regular visitors along the wall. No site-specific marine life reports were found for this as a named site; the species above are typical for Jamaica deep wall dives. The reference to spinner dolphins in earlier descriptions was removed — no site-specific dolphin report was found.
 
 ## Dive Profile
 
-Descend to the reef top at 15–18 metres. Follow the reef to the wall edge and descend to your planned depth — 30 metres is a comfortable advanced dive with good bottom time; 40 metres approaches recreational limits and requires careful planning. Swim along the wall face, exploring the sponge formations and fish life. Ascend the wall gradually, pausing at 15 metres before your 5-metre safety stop. Allow adequate air for the ascent and safety stop — the wall can be deceptively deep.
+Descend to the reef top at 15–18 metres. Follow the reef to the wall edge and descend to your planned depth — 30 metres is a comfortable advanced dive; 40 metres approaches recreational limits and requires careful planning. Swim along the wall face, exploring sponge formations. Ascend the wall gradually, pausing at 15 metres before your 5-metre safety stop.
 
 ## Entry and Exit
 
-Access by dive boat from Negril operators. Entry via giant stride or back roll. Boats anchor or moor on the shallow plateau above the wall. Current direction varies — get a full briefing before the dive. Deploy SMB at the start of your ascent for boat pickup.
+Access by dive boat from Negril operators. Current direction varies — get a full briefing before the dive. Deploy SMB at the start of your ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth constantly — the wall's vertiginous scale makes it easy to drift deeper than planned
-- Spend time on the reef plateau before dropping over the wall to let your eyes adjust to the scale
+- Watch your depth constantly — the wall's scale makes it easy to drift deeper than planned
 - Look into the blue water away from the wall — pelagics and turtles often appear from open water
-- Dive this site on a calm day for the best conditions; northerly swell can create surge at the wall top
+- Dive on a calm day for the best conditions
 
 ## Safety Considerations
 
-This site is for advanced divers and above. The wall drops well beyond recreational limits — strict depth discipline is essential. Monitor your computer throughout the dive. Current from trench upwelling can be significant and variable; always get a pre-dive current briefing. Ascend the wall slowly and perform a full 3-minute safety stop at 5 metres. Never dive this site alone.
+Advanced divers and above only. The wall drops well beyond recreational limits. Monitor your computer throughout. Current can be significant and variable. Ascend the wall slowly and perform a full 3-minute safety stop at 5 metres.
 
 ## Photography
 
-The Cayman Trench Edge is a wide-angle site — the vast blue backdrop and the wall face covered in sponges makes for dramatic images. Position a diver near a large sea fan with the blue open water behind them. At depth, the black coral formations are compelling macro and close-focus wide-angle subjects. Fish portraits of the resident jacks and mackerel work well in the clear water.
-
-## Additional Resources
-
-- **Local Operators**: SunDivers Negril, Couples Swept Away Dive Team
-- **Last Updated**: 2026-03-28
+Wide-angle site — the wall face covered in sponges against the blue backdrop makes for strong images. At depth, black coral formations are compelling macro subjects.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [Britannica - Cayman Trench](https://www.britannica.com/place/Cayman-Trench). No third-party source found listing this as a distinct named dive site. Description based on regional Negril wall diving characteristics. Last updated 2026-06-08.*

@@ -23,7 +23,7 @@ Bush Reef is located on Jamaica's southern coast in the area south of Kingston, 
 
 - **Location**: South Jamaica coast (near Kingston region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
@@ -57,4 +57,4 @@ Remote location with limited dive infrastructure. Carry appropriate safety equip
 The undisturbed reef provides clean photographic subjects without other divers in the frame. Nurse shark and lobster portraits work well in the reef crevices. Wide-angle shots of the coral ridges capture the classic Jamaican reef structure.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Description based on regional Jamaica reef diving characteristics. OSM entry with Wikidata Q27120334 confirms geographic existence. No site-specific dive sources found. Not validated. Last updated 2026-06-08.*

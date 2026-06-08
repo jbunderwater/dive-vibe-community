@@ -23,7 +23,7 @@ Bush Cay is one of several small offshore cays along Jamaica's north coast that 
 
 - **Location**: North Jamaica coast (between Montego Bay and Falmouth)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -57,4 +57,4 @@ The seaward side of the cay may experience more current than the sheltered lee s
 Cay reefs offer the opportunity to photograph the cay fringe structure from below — wide-angle shots looking up toward the cay and surface create distinctive compositions. Turtle encounters at cay sites are common and make excellent subjects.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bush Cay. Not validated. Last updated 2026-06-08.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # Arches (Negril)
 
-Negril's most celebrated swim-through dive, where wide rock arches frame walls of purple and yellow fairy basslets at 12–18 metres.
+Negril's most celebrated swim-through dive, where wide natural rock arches frame the reef at 12–18 metres and colonies of fairy basslets line the overhanging ceilings.
 
 ## Overview
 
-The Arches is one of the most frequently visited dive sites in Negril and consistently ranks among the top dives in Jamaica. The site features a series of wide natural arches formed in the reef structure, with the main arch beginning at around 12 metres and dipping to 18 metres. Divers swim through the arches along wide passages that feel effortless even for intermediate-level divers. The formation is often combined with a nearby shallow reef — sometimes including a small plane wreck nearby — making it a versatile two-site dive. Negril's leeward position shelters this site from most winds, and visibility commonly reaches 25–30 metres. Water temperatures average 28–30°C.
+The Arches is one of the most frequently visited dive sites in Negril and consistently ranks among Jamaica's top dives. The site features a series of wide natural arches formed in the reef structure, with the main arch beginning at around 12 metres (40 feet) and dipping to 18 metres (60 feet). The passages are wide and open — intermediate divers find them effortless to navigate. Negril's leeward position shelters this site from most winds, and visibility commonly reaches 25–30 metres. The formation is often combined with the nearby Shallow Plane Wreck on a two-tank day. The dive is a ScubaBoard-confirmed personal favourite among Negril regulars for its swim-through architecture and reliable marine life.
 
 ## Site Information
 
-- **Location**: Negril, Jamaica
+- **Location**: Negril, Jamaica (Bloody Bay area)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ The Arches is one of the most frequently visited dive sites in Negril and consis
 
 ## Marine Life
 
-The arches and surrounding reef are home to dense colonies of purple and yellow fairy basslets aligned against the substratum, appearing upside down on the arch ceilings. Southern stingrays and large nurse sharks are commonly encountered resting on sandy patches adjacent to the arches. Hawksbill turtles are frequent visitors. Schools of grunts and snapper shelter beneath the overhangs. Blue angelfish, French angelfish, and queen triggerfish patrol the outer reef. The sandy areas near the arches attract eagle rays on occasion. Moray eels occupy the reef crevices flanking the arch entrances.
+The arches and surrounding reef are home to dense colonies of purple and yellow fairy basslets clinging upside-down to the arch ceilings — one of the most distinctive marine life sightings in Negril. Southern stingrays are commonly encountered resting on sandy patches adjacent to the arches. Nurse sharks are frequently seen resting on the sand near the arch bases. Hawksbill turtles are occasional visitors. Schools of grunts and snapper shelter beneath the overhangs. French angelfish patrol the outer reef. Moray eels occupy reef crevices flanking the arch entrances. No additional site-specific species lists were found beyond these confirmed operator-reported animals.
 
 ## Dive Profile
 
@@ -40,27 +40,22 @@ Descend from the boat to the reef top at around 10 metres. Navigate toward the a
 
 ## Entry and Exit
 
-Access by dive boat from Negril operators, including operators based at Hedonism II and Couples resorts. Entry via giant stride or back roll. Boats typically moor on the reef top. Deploy SMB on ascent for boat pickup.
+Access by dive boat from Negril operators, including operators based at Hedonism II (Hedo Diving) and resort operators along Seven Mile Beach. Entry via giant stride or back roll. Boats typically moor on the reef top. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
 - Roll onto your back inside the arch to see the fairy basslets clinging to the ceiling — the view upward is spectacular
-- Combine with a nearby shallow reef or the Negril plane wreck on a two-tank day
-- Advanced divers can use the exit window near the bottom of the arch at maximum depth
+- Combine with the Shallow Plane Wreck nearby on a two-tank day
 - Negril is calm year-round — even during shoulder season the Arches is typically diveable
+- Ask about The Throne Room as a complement on a second dive
 
 ## Safety Considerations
 
-Good buoyancy is essential inside the arch — the walls and ceiling are covered in living coral and sponge. Proceed in single file through the narrower sections. Have adequate air before entering the arch to allow for exploration and a safe exit. Always carry an SMB for the ascent.
+Good buoyancy is essential inside the arch — the walls and ceiling are covered in living coral and sponge. Proceed in single file through any narrower sections. Ensure adequate air before entering the arch to allow for exploration and a safe exit. Always carry an SMB for the ascent.
 
 ## Photography
 
-The Arches is one of Jamaica's top underwater photography locations. Wide-angle lenses capture the arch framing the blue water beyond. Shooting through the arch toward open water with a diver as subject creates iconic images. The fairy basslets on the ceiling are stunning macro subjects. Strobes fill in the underexposed arch walls effectively.
-
-## Additional Resources
-
-- **Local Operators**: SunDivers Negril, Couples Swept Away Dive Team
-- **Last Updated**: 2026-03-28
+The Arches is one of Jamaica's top underwater photography locations. Wide-angle lenses capture the arch framing the blue water beyond. Shooting through the arch toward open water with a diver as subject creates iconic images. The fairy basslets on the ceiling are best photographed by rolling on your back and shooting upward with a wide-angle lens. Strobes fill the underexposed arch walls effectively.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [ScubaBoard - Negril Dive Sites](https://scubaboard.com/community/threads/negril-dive-sites.299578/), [Hedo Diving - Hedonism II Sites](https://www.hedodiving.com/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [Fiwi Roots - Jamaica Dive Sites](https://fiwiroots.com/scuba.html). Last updated 2026-06-08.*
