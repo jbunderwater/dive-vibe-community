@@ -23,7 +23,7 @@ DAGSUF is located in the northern end of Eilat's coastline at approximately lat 
 
 - **Location**: Northern Eilat, harbor zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-20 meters (can be reduced near industrial areas)
 - **Current**: Generally mild
@@ -52,4 +52,4 @@ Shore entry from the northern Eilat beach area adjacent to the port zone. Be awa
 
 Active port and industrial zone: be aware of boat traffic and avoid diving in areas marked as restricted. The bottom may have debris from harbor operations. Good navigation skills are needed as this area lacks the clear reef landmarks of the southern sites.
 
-*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-06-08.*

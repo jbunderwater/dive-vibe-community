@@ -53,4 +53,4 @@ A relatively easy dive with modest depth, suitable for divers of various experie
 Shallow and accessible, but wreck metal edges can be sharp. In poor conditions, surge can be a factor. Boat traffic in the area warrants the use of an SMB.
 
 ---
-*Sources: [Ynetnews — Truth revealed about Turkish ship off Nahariya](https://www.ynetnews.com/environment/article/hyh424fclg), [JGD — Five Top Shipwrecks Israel Mediterranean](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea). Last updated 2026-04-11.*
+*Sources: [Ynetnews — Truth revealed about Turkish ship off Nahariya](https://www.ynetnews.com/environment/article/hyh424fclg), [JGD — Five Top Shipwrecks Israel Mediterranean](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-06-08.*

@@ -37,4 +37,4 @@ Mediterranean wreck species including grouper, sea bream, moray eels, octopus, a
 
 Advanced wreck dive. Carry SMB for surface signaling. Penetration requires appropriate wreck diving training.
 
-*Description based on OSM data and geographic analysis. No verified historical records confirmed in available English-language sources. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. No verified historical records confirmed in available English-language sources. Last updated 2026-06-08.*

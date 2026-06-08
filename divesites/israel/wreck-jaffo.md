@@ -35,4 +35,4 @@ The site may be related to the "Bilbeis" wreck mentioned in Tel Aviv diving guid
 
 Shallow wreck species including sea bream, octopus, moray eels, and encrusting invertebrates.
 
-*Description based on OSM data and geographic analysis. Site identity unconfirmed. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. Site identity unconfirmed. Last updated 2026-06-08.*

@@ -23,7 +23,7 @@ LightHouse — known in Hebrew as Migdalor Beach — is located approximately 8 
 
 - **Location**: Southern Eilat, Migdalor (Lighthouse) Beach, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-35 meters
 - **Current**: Light; gentle southerly drift common in this area
@@ -53,4 +53,4 @@ Rocky shore entry — water shoes or booties are recommended. The entry point is
 
 The rocky entry can be slippery — take care getting in and out of the water. The cave section is protected by netting; do not attempt to enter the netted areas. Be careful with buoyancy near the cave formations to avoid damage to coral. The deeper slope requires careful air management.
 
-*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [zentacle.com](https://www.zentacle.com/loc/il/south-district/beer-sheva/eilat). Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [zentacle.com](https://www.zentacle.com/loc/il/south-district/beer-sheva/eilat). Last updated 2026-06-08.*

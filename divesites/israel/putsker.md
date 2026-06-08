@@ -25,10 +25,10 @@ The Putsker Diving Club offers boat and shore dives to various sites along the n
 
 - **Location**: Northern Israeli Mediterranean, Nahariya/Rosh Hanikra area
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Operator**: Putsker Diving Club, Nahariya (HaMaapilim 5)
 
 ---
-*Sources: [Putsker Diving Club — TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297757-d10955440-Reviews-Putsker_diving_club-Nahariya_Northern_District.html). Last updated 2026-04-11.*
+*Sources: [Putsker Diving Club — TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297757-d10955440-Reviews-Putsker_diving_club-Nahariya_Northern_District.html). Last updated 2026-06-08.*

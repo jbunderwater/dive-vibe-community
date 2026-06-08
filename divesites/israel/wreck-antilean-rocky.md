@@ -38,4 +38,4 @@ This wreck is in close proximity to Wreck Annette and the Obstruction-23.5m site
 The rocky substrate around the wreck and the encrusted hull structure provide diverse habitat for grouper, moray eels, sea bream, octopus, and nudibranchs. Cuttlefish are seasonally present in this area.
 
 ---
-*Description based on OSM data, vessel name, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-04-11.*
+*Description based on OSM data, vessel name, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-06-08.*

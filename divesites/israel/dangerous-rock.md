@@ -23,7 +23,7 @@ Rocky pinnacles and submerged hazards along the Israeli Mediterranean coast typi
 
 - **Location**: Offshore Netanya / Poleg coastal area, central Israeli Mediterranean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-12 meters
 - **Current**: Can be strong around isolated rock features
@@ -37,4 +37,4 @@ Sea bream, grouper, moray eels, octopus, and invertebrates typical of rocky reef
 
 Rock pinnacles can create unpredictable current patterns. Be alert to swells breaking on the formation in rough weather. Keep clear of the rock's upper reaches when a swell is running.
 
-*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-04-11.*
+*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-06-08.*

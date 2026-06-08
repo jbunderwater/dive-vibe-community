@@ -39,4 +39,4 @@ Mediterranean wreck species including grouper, sea bream, moray eels, octopus, a
 
 Boat dive — carry an SMB. Wreck penetration requires appropriate training and equipment. Exercise caution around metal edges and compromised structure.
 
-*Description based on OSM data and geographic location. No verified historical records for this specific wreck found in available sources. Last updated 2026-04-11.*
+*Description based on OSM data and geographic location. No verified historical records for this specific wreck found in available sources. Last updated 2026-06-08.*

@@ -38,4 +38,4 @@ The Zehava 3 Bears wreck is likely accessed by boat from Ashdod Marina or a loca
 Wrecks at this depth range in the eastern Mediterranean attract grouper, dentex, sea bream, large moray eels, octopus, and encrusting invertebrates. Cuttlefish are seasonally present in this coastal zone.
 
 ---
-*Description based on OSM data, site name, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-04-11.*
+*Description based on OSM data, site name, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-06-08.*

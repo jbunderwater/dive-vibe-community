@@ -37,4 +37,4 @@ As of 2025, the Israeli government was exploring options to survey and potential
 
 The Altalena Affair is documented in Israeli historical records and multiple published histories as a defining moment of the War of Independence that tested the primacy of the new state's military command. The ship's name derived from the pen name of Zionist thinker Ze'ev Jabotinsky.
 
-*Sources: [Altalena Affair — Wikipedia](https://en.wikipedia.org/wiki/Altalena_Affair), [The Times of Israel](https://www.timesofisrael.com/fire-in-the-hole-blasting-the-altalena/), [Ynet News](https://www.ynetnews.com/magazine/article/bytczrnph). Last updated 2026-04-11.*
+*Sources: [Altalena Affair — Wikipedia](https://en.wikipedia.org/wiki/Altalena_Affair), [The Times of Israel](https://www.timesofisrael.com/fire-in-the-hole-blasting-the-altalena/), [Ynet News](https://www.ynetnews.com/magazine/article/bytczrnph). Last updated 2026-06-08.*

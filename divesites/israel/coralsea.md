@@ -23,7 +23,7 @@ CORALSEA sits in the heart of Eilat's premier diving zone, close to the Coral Wo
 
 - **Location**: Eilat, Coral Beach area, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters
 - **Current**: Very light to none
@@ -53,4 +53,4 @@ If entering within the Coral Beach Nature Reserve, an entrance fee is required. 
 
 The reserve enforces no-touching and no-collecting rules. Buoyancy control is essential to protect the coral. Fin carefully in shallow areas. Boat traffic is restricted within the reserve but watch for boats near the boundaries.
 
-*Sources: [en.parks.org.il](https://en.parks.org.il/reserve-park/eilat-coral-beach-nature-reserve-2/), [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*
+*Sources: [en.parks.org.il](https://en.parks.org.il/reserve-park/eilat-coral-beach-nature-reserve-2/), [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-06-08.*

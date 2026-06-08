@@ -39,4 +39,4 @@ Deep Mediterranean wreck species: grouper, sea bream, dentex, moray eels, and en
 
 Advanced dive. Appropriate certification and gas planning required. Deploy SMB on ascent.
 
-*Description based on OSM data and geographic analysis. No verified historical records found in available English-language sources. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. No verified historical records found in available English-language sources. Last updated 2026-06-08.*
