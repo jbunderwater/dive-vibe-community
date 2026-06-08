@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Silfra Lagoon
 
-Silfra Lagoon is a wall dive site in Silfra Fissure, Europe.
+Silfra Lagoon is the shallow, open exit section of the Silfra fissure where the glacial water is at its most vivid and the famous troll-hair algae is most abundant.
 
 ## Overview
 
-Silfra Lagoon is the calm, shallow exit section of the Silfra fissure dive — a 120-metre-long pool where the crack opens into a broad, sunlit space and the dazzling neon blues and greens of the glacial water are most vivid. It is the shallowest part of the dive and the spot where the remarkable visibility, often exceeding 100 metres, is most dramatically demonstrated, with the far end of the lagoon clearly visible from the entry point. Dense mats of the famous bright green "troll hair" algae coat the bottom, the only significant plant life in the near-freezing water.
+Silfra Lagoon is the fourth and final section of the standard Silfra fissure dive, forming the exit after the dramatic Cathedral corridor. The fissure here widens and opens into a broad, sunlit pool approximately 120 metres across (confirmed by Wikipedia and silfrafissure.com). At an average depth of around 5 metres, it is the shallowest section of the dive, and the generous width combined with exceptional visibility — often exceeding 120 metres here — creates the most vivid display of the glacial water's colour range, from deep cobalt blue to brilliant aquamarine.
+
+Dense mats of bright green "troll hair" algae (Vaucheria sp.) carpet the bottom of the Lagoon, particularly in summer when longer daylight hours stimulate growth. This is the most algae-rich section of the dive. After the Lagoon, divers exit the water and make the walk back to the parking area.
+
+The Lagoon is open to the sky — there is no overhead environment. It is not a cave; the fissure walls in this section are low and the space is airy and well-lit. Fish are rarely seen here.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Þingvellir National Park, Iceland (exit section of Silfra fissure)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
+- **Water Temperature**: 2–4°C year-round
+- **Visibility**: 100–120+ metres
 
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-06-08.*

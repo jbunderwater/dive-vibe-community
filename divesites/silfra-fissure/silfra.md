@@ -13,19 +13,29 @@ addedBy: osm_import
 
 ## Silfra
 
-Silfra is a wall dive site in Silfra Fissure, Europe.
+Silfra is a tectonic fissure dive in Þingvellir National Park where you can swim directly in the rift between the North American and Eurasian plates.
 
 ## Overview
 
-Silfra is a tectonic fissure in Þingvellir National Park where the North American and Eurasian plates diverge by about 2 cm per year — the only place on Earth where you can dive directly between two continental plates. The water is glacial meltwater from Langjökull glacier, filtered through porous volcanic rock for 30 to 100 years before surfacing, giving visibility that regularly exceeds 100 metres and a constant temperature of 2–4°C year-round. The dive passes through four distinct sections — Big Crack, Hall, Cathedral, and Lagoon — with the entire passage rated among PADI's top ten dive sites in the world; a dry suit and certification are mandatory.
+Silfra is the main entry point and name for the entire Silfra fissure dive system in Þingvellir National Park, Iceland. The site sits on the boundary between the North American and Eurasian tectonic plates, which are separating at approximately 2 cm per year (the total plate spreading rate along the Mid-Atlantic Ridge, consistent with USGS and Wikipedia data; the local fissure itself widens more slowly at 1–5 mm per year according to Þingvellir National Park). This is the only place on Earth where divers can enter a tectonic fissure directly at the plate boundary.
+
+The water originates as glacial meltwater from Langjökull glacier, approximately 50 km north. It percolates through porous lava rock for 30 to 100 years before emerging as a spring at Silfra, producing visibility that regularly exceeds 100 metres — widely cited as the clearest diving water in the world. Water temperature holds at a constant 2–4°C year-round regardless of season. A drysuit is mandatory; no wetsuit diving is permitted.
+
+The dive follows the fissure through four connected sections as a gentle drift: Big Crack (the narrowest section, entry point), Silfra Hall (wider, with cave systems below), Silfra Cathedral (a dramatic 100-metre corridor with near-vertical lava walls), and Silfra Lagoon (the shallow, algae-rich exit pool). Recreational maximum depth is 18 metres; the Cathedral section's fissure descends to 63 metres but diving beyond recreational limits requires technical certification. The Hall's cave systems drop to 45 metres and are off-limits on guided dives.
+
+Marine life is extremely limited in this near-freezing freshwater environment. The dominant biological feature is bright green "troll hair" algae (Vaucheria sp.) coating the lava walls. Brown trout and Arctic char visit the fissure in August and September during their spawning migration. Dwarf char (a subspecies found in Þingvallavatn Lake, up to 10 cm) inhabit darker recesses year-round. No saltwater species are present.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Þingvellir National Park, Iceland
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
+- **Water Temperature**: 2–4°C year-round
+- **Visibility**: 100+ metres
+- **Certification Required**: Open Water minimum; drysuit certification or 10 logged drysuit dives within 2 years
+- **Regulations**: One dive per day per person; guided dive mandatory; Þingvellir National Park permit fee required
 
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html). Last updated 2026-06-08.*
