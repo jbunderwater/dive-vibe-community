@@ -23,9 +23,9 @@ The Villasimius Marine Park encompasses the Capo Carbonara headland and surround
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [SubAqua Dive Service Villasimius - Capo Carbonara MPA](https://www.subaquadive.it/en/about-us/capo-carbonara-marine-protected-area), [Escursi - Diving Capo Carbonara](https://www.escursi.com/en/experiences/water-sports/diving-capo-carbonara-villasimius), [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/). Last updated 2026-06-08.*

@@ -28,4 +28,4 @@ Cala Mariolu is a protected cove on the Gulf of Orosei whose steep limestone wal
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Cala Mariolu Official Site](https://www.calamariolu.it/en/), [SardegnaTurismo - Cala Mariolu](https://www.sardegnaturismo.it/en/explore/cala-mariolu), [TripAdvisor - Diving Cala Mariolu](https://www.tripadvisor.com/Attraction_Review-g644260-d4745522-Reviews-Diving_Cala_Mariolu-Baunei_Province_of_Ogliastra_Sardinia.html). Last updated 2026-06-08.*

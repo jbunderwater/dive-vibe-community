@@ -23,9 +23,9 @@ Punta Spalmatore lies at the northwestern tip of Ustica near the lighthouse, whe
 
 - **Location**: Ustica, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-06-08.*

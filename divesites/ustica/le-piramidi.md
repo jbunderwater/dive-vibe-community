@@ -3,7 +3,7 @@ name: Le Piramidi
 lat: 38.7002335
 lng: 13.152312
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Le Piramidi
 
-Le Piramidi is a pinnacle dive site in Ustica, Europe.
+Le Piramidi is a volcanic pinnacle on the west coast of Ustica near Punta Spalmatore tower.
 
 ## Overview
 
-Le Piramidi is a dramatic seamount on the west coast of Ustica near Punta Spalmatore, where enormous pyramid-shaped volcanic boulders rise from 50 metres to within 5 metres of the surface. Divers navigate vertical chimneys decorated with yellow cluster anemones and colourful sponges, passing resting dusky groupers before reaching the enchanting Grotta dei Cirri, a cave with panoramic openings on two sides inhabited by unicorn shrimps. The outer walls are adorned with orange madrepore, yellow gorgonians, and large lobsters hiding in crevices along the drop-off.
+Le Piramidi rises from approximately 40 metres depth to a highest pinnacle at 5 metres, with the main top surface sitting at around 10 metres. The seamount contains several passages and tunnels carved through its volcanic rock, leading to the central cave chamber known as the Grotta dei Cirri. The cave opens at approximately 28 metres and has panoramic openings on two sides.
+
+Evasioni Blu Diving documents Plesionika narval (unicorn shrimps) on the cave's rocky inner walls; Profondo Blu describes the cave as containing banks of picarels (Centracanthus cirrus). Sources agree the cave is inhabited and photogenic. Confirmed additional species at the site include dusky groupers resting on boulders and pinnacles, lobsters in crevices, meagre (Argyrosomus regius), brown hake, and Pinna nobilis fan shells.
+
+The outer walls carry orange madrepore (Astroides calycularis) and yellow gorgonians. The site requires a Deep Diver or Tec 40 certification due to the chimney descent depth.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (west coast near Punta Spalmatore)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [Profondo Blu Diving - Beneath the Volcano](https://profondobludiving.com/content/beneath-the-volcano.html), [X-Ray Mag - Ustica Diving](https://xray-mag.com/content/ustica). Last updated 2026-06-08.*

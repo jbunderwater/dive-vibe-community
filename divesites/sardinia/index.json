@@ -5,23 +5,11 @@
     "lat": 40.9991561,
     "lng": 9.6124256,
     "difficulty": "Beginner",
-    "maxDepth": 6,
+    "maxDepth": 7,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 4840240367
-  },
-  {
-    "name": "Diving Archimete",
-    "filename": "diving-archimete.md",
-    "lat": 40.5917382,
-    "lng": 8.1682842,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 10537548720
   },
   {
     "name": "Cala Mariolu",
@@ -101,7 +89,7 @@
     "lat": 39.08,
     "lng": 9.53,
     "difficulty": "Intermediate",
-    "maxDepth": 25,
+    "maxDepth": 40,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
