@@ -15,7 +15,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, trawangandive.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -36,7 +36,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "gilidivers.com, trawangandive.com, manta-dive.com, terumbudivers.com, padi.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -55,7 +55,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, divinedivers.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -74,7 +74,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "terumbudivers.com, manta-dive-giliair.com, trawangandive.com, gilidivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -93,7 +93,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "gilidivers.com, terumbudivers.com, manta-dive.com, divinedivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -114,7 +114,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "trawangandive.com, gilidivers.com, manta-dive.com, divinedivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -133,7 +133,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, terumbudivers.com, divecentralgili.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -155,7 +155,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive.com, trawangandive.com, gilidivers.com, terumbudivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -174,7 +174,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "padi.com, gilidivers.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -195,7 +195,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -216,7 +216,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -237,7 +237,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -258,7 +258,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, trawangandive.com, gilidivers.com, divecentralgili.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -279,7 +279,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "gilidivers.com, manta-dive-giliair.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -301,7 +301,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive.com, gilidivers.com, trawangandive.com, padi.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

@@ -17,7 +17,7 @@ The Gili Islands' most accessible wreck dive — a pontoon on Gili Meno's northe
 
 ## Overview
 
-The Bounty Wreck (also called Meno Wreck) lies on the northern slope of Gili Meno, where a pontoon that was used during jetty construction sank after developing a hole. The pontoon's top sits at about 6 m and its deepest tip at 17 m, making it accessible to Open Water level divers throughout its length. Over the years the structure has been completely colonised by soft and hard corals and now functions as a thriving artificial reef. The Bounty is the best place in the Gili Islands to search for pygmy seahorses, and frogfish, scorpionfish, and sweetlips are reliable residents.
+The Bounty Wreck (also called Meno Wreck) lies on the northern slope of Gili Meno. The pontoon served as a floating pier during construction of the Gili Meno jetty and sank during a storm in 2001. The pontoon's top sits at about 6 m and its deepest tip at 17 m, making it accessible to Open Water level divers throughout its length. Over the years the structure has been completely colonised by soft and hard corals and now functions as a thriving artificial reef. The Bounty is the best place in the Gili Islands to search for pygmy seahorses, and frogfish, scorpionfish, and sweetlips are reliable residents.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ The wreck structure may have sharp metal edges — do not touch it. Do not attem
 Pygmy seahorses on soft coral require a dedicated macro lens and patience. Frogfish portraits in their cryptic positions on the wreck suit macro. Wide-angle captures the complete pontoon structure with accompanying fish life. The coral-covered hull makes stunning close-focus wide-angle subjects.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Dive Central Gili – Bounty Wreck](https://divecentralgili.com/), [Trawangan Dive – Gili Dive Sites](https://trawangandive.com/), [Terumbu Divers – Lombok Wrecks](https://terumbudivers.com/), [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/). Wreck history: sank in 2001 storm while serving as construction pontoon for Gili Meno jetty — corrected from earlier claim that it "developed a hole." Last updated 2026-06-08.*

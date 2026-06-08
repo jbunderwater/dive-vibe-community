@@ -11,7 +11,8 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Alung banua",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/alung-banua, scubadiving.place/divesite/alung-banua"
@@ -29,7 +30,8 @@
     "tags": {
       "name": "Muka kampung",
       "name:en": "Turtle City",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "twofishdivers.com/blog/bunaken-dive-site-the-turtle-city, padi.com/dive-site/indonesia/muka-kampung"
@@ -46,7 +48,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Mike's",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/mike-s-point, originaldiving.com/diving-mikes-point-dive-site"
@@ -63,7 +66,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Pangulingan",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
@@ -80,7 +84,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Likuan 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "murexresorts.com/diving-bunaken, dive-the-world.com/diving-sites-indonesia-manado-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
@@ -97,7 +102,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bualo",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
@@ -114,7 +120,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pangalisan",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "twofishdivers.com/diving/bunaken-island-manado, lumbalumbaresort.com/dive-snorkel/bunaken-national-park"
@@ -131,7 +138,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Timur 2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
@@ -148,7 +156,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Timur 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
@@ -165,7 +174,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Raymond's",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divessi.com/mydiveguide/divesite/16877, merapitours.com/indonesia/sulawesi/dive-spots-bunaken"
@@ -182,7 +192,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siladen 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
@@ -199,7 +210,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mandolin",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/mandolin, zubludiving.com/articles/best-dive-sites-bunaken"
@@ -216,7 +228,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Tanjung Parigi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "padi.com/dive-site/indonesia/tanjung-1, murexresorts.com/diving-bunaken"
@@ -233,7 +246,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Tanjung Kopi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divescover.com/dive-site/tanjung-kopi, starfish.ch/dive/Bunaken.html"
@@ -250,7 +264,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Likuan 3",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/likuan-iii, murexresorts.com/diving-bunaken"
@@ -269,9 +284,13 @@
       "name": "Bango",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"perplexity\" - not a real source. Updated with proper domain sources. Bango is confirmed as sandy slope/wall dive on Bangka Island, north of Bunaken. depth_max 40m confirmed."
     },
-    "depth_max": 40
+    "depth_max": 40,
+    "validation_source": "murexresorts.com,zubludiving.com,dive-the-world.com",
+    "validated": "true"
   },
   {
     "name": "Likuan 2",
@@ -285,7 +304,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Likuan 2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/likuan-ii, murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
@@ -302,7 +322,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "S. Utara",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "siladen.com/experiences/dive-sites-map, divernet.com/bunaken-national-marine-park-superlative-siladen"
@@ -319,7 +340,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Panorama",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "bunakendiving.co, murexresorts.com/diving-bunaken"
@@ -336,7 +358,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siladen 2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
@@ -353,7 +376,8 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Fukui Point",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/fukui-point, thalassamanado.com/diving-bunaken-fukui-point, padi.com/dive-site/indonesia/fukui-point"
@@ -370,7 +394,8 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Muka Gereja",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "merapitours.com/indonesia/sulawesi/dive-spots-bunaken, murexresorts.com/diving-bunaken"
@@ -387,7 +412,8 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Cela Cela",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/celah-celah, padi.com/dive-site/indonesia/celah-celah"
@@ -404,7 +430,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Tengah",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "bottles-up-diving.com/BU_divingother_bunaken, murexresorts.com/diving-bunaken"
@@ -421,7 +448,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorango",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "starfish.ch/dive/Bunaken.html, sulawesi-experience.com/news/bunaken-marine-park-dive-sites"
@@ -438,7 +466,8 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Sachiko's",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08"
     },
     "validated": "true",
     "validation_source": "divezone.net/divesite/sachiko-s-point, zubludiving.com/articles/best-dive-sites-bunaken, murexresorts.com/diving-bunaken-dive-sites"

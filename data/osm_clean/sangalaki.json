@@ -10,8 +10,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, Green Nirvana Resort, AsiaDiveSite"
-    }
+      "validation_source": "PADI, Green Nirvana Resort, AsiaDiveSite",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains. Re-audit 2026-06-08: 3 domain sources confirmed. Validated status set to false pending 3-source re-check per deep QA protocol."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,starfish.ch,dive-the-world.com"
   },
   {
     "name": "Manta Avenue",
@@ -24,8 +28,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "AsiaDiveSite, starfish.ch, Dive The World"
-    }
+      "validation_source": "AsiaDiveSite, starfish.ch, Dive The World",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains."
+    },
+    "validated": "false",
+    "validation_source": "asiadivesite.com,starfish.ch,dive-the-world.com"
   },
   {
     "name": "Manta Parade",
@@ -38,8 +46,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "AsiaDiveSite, starfish.ch"
-    }
+      "validation_source": "AsiaDiveSite, starfish.ch",
+      "last_qa_date": "2026-06-08",
+      "notes": "Only 2 sources found. Requires 3rd independent source before validation."
+    },
+    "validated": "false",
+    "validation_source": "asiadivesite.com,starfish.ch"
   },
   {
     "name": "Coral Gardens",
@@ -52,8 +64,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Asia Diving Vacation, starfish.ch, Dive The World"
-    }
+      "validation_source": "Asia Diving Vacation, starfish.ch, Dive The World",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains."
+    },
+    "validated": "false",
+    "validation_source": "asiadivingvacation.com,starfish.ch,dive-the-world.com"
   },
   {
     "name": "Turtle Town",
@@ -66,8 +82,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Asia Diving Vacation, starfish.ch, Liveaboard Indonesia"
-    }
+      "validation_source": "Asia Diving Vacation, starfish.ch, Liveaboard Indonesia",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains."
+    },
+    "validated": "false",
+    "validation_source": "asiadivingvacation.com,starfish.ch,liveaboardindonesia.com"
   },
   {
     "name": "Barracuda Point",
@@ -80,8 +100,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, AsiaDiveSite, Green Nirvana Resort"
-    }
+      "validation_source": "PADI, AsiaDiveSite, Green Nirvana Resort",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains. Additional source confirmed via search."
+    },
+    "validated": "false",
+    "validation_source": "asiadivesite.com,scubajunkiesangalaki.com,zubludiving.com"
   },
   {
     "name": "Blue Light Cave",
@@ -94,8 +118,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Wannadive, AsiaDiveSite"
-    }
+      "validation_source": "Wannadive, AsiaDiveSite",
+      "last_qa_date": "2026-06-08",
+      "notes": "Depth corrected: cave starts at 2m, chimney opens at 21m into cavern extending 120m, exit crack at 44m. Max depth 65m confirmed. Advanced only due to cave penetration at depth."
+    },
+    "validated": "false",
+    "validation_source": "indonesia.greatestdivesites.com,wannadive.net,asiadivesite.com"
   },
   {
     "name": "Kakaban Jellyfish Lake",
@@ -108,8 +136,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Wikipedia, Scuba Junkie Sangalaki, AsiaDiveSite"
-    }
+      "validation_source": "Wikipedia, Scuba Junkie Sangalaki, AsiaDiveSite",
+      "last_qa_date": "2026-06-08",
+      "notes": "IMPORTANT: Scuba diving is NOT permitted inside Kakaban Lake - snorkel only. site_type should reflect non-scuba nature. The outer wall of Kakaban is a separate scuba site. The lake entry is snorkel only."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,wikipedia.org,asiadivesite.com"
   },
   {
     "name": "Big Fish Country",
@@ -122,8 +154,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, Green Nirvana Resort, Maratua Seaview Resort"
-    }
+      "validation_source": "PADI, Green Nirvana Resort, Maratua Seaview Resort",
+      "last_qa_date": "2026-06-08",
+      "notes": "Informal source names replaced with domains."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,liveaboardindonesia.com,zubludiving.com"
   },
   {
     "name": "Turtle Traffic",
@@ -136,8 +172,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "PADI, Green Nirvana Resort"
-    }
+      "validation_source": "PADI, Green Nirvana Resort",
+      "last_qa_date": "2026-06-08",
+      "notes": "Only 2 sources found. Requires 3rd independent source."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,asiadivingvacation.com"
   },
   {
     "name": "Gorgonzola",
@@ -150,8 +190,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Scuba Junkie Sangalaki, SSI MyDiveGuide"
-    }
+      "validation_source": "Scuba Junkie Sangalaki, SSI MyDiveGuide",
+      "last_qa_date": "2026-06-08",
+      "notes": "Only 2 sources found. Requires 3rd independent source."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,divessi.com"
   },
   {
     "name": "Kelapa Dua",
@@ -164,8 +208,12 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Green Nirvana Resort, Scuba Junkie Sangalaki"
-    }
+      "validation_source": "Green Nirvana Resort, Scuba Junkie Sangalaki",
+      "last_qa_date": "2026-06-08",
+      "notes": "Only 2 sources found. Requires 3rd independent source."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,zubludiving.com"
   },
   {
     "name": "North Sangalou",
@@ -178,7 +226,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "Scuba Junkie Sangalaki, Bluewater Dive Travel"
-    }
+      "validation_source": "Scuba Junkie Sangalaki, Bluewater Dive Travel",
+      "last_qa_date": "2026-06-08",
+      "notes": "Additional source added."
+    },
+    "validated": "false",
+    "validation_source": "scubajunkiesangalaki.com,bluewaterdivetravel.com,zubludiving.com"
   }
 ]

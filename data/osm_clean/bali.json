@@ -20,7 +20,7 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:type:boat": "yes",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -46,7 +46,7 @@
       "wikidata": "Q2468064",
       "wikimedia_commons": "Category:USAT Liberty (ship, 1918)",
       "wikipedia": "en:USAT Liberty",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -66,7 +66,7 @@
       "leisure": "marina",
       "name": "Coral Garden",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -86,7 +86,7 @@
       "leisure": "marina",
       "name": "Bat Cave",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -107,7 +107,7 @@
       "name": "Manta Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -129,7 +129,7 @@
       "scuba_diving:type": "artificial_reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -148,7 +148,7 @@
       "description": "Reef dive site near Nusa Penida/south Bali area. NOTE: Name 'Bali Scuba' does not appear as a named dive site in operator listings; may be an OSM entry for a dive business rather than a named dive site. No site-specific sources found.",
       "name": "Bali Scuba",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -167,7 +167,7 @@
       "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
       "name": "Blue Hill Dive Site",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -186,7 +186,7 @@
       "description": "Reef dive site near Nusa Penida area. NOTE: 'Water Walk' at Sanur is primarily known as a seawalker (helmet diving) activity venue, not a conventional scuba dive site. No scuba dive site named 'Water Walk' confirmed in operator listings at these coordinates. Requires verification.",
       "name": "Water Walk",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -207,7 +207,7 @@
       "name": "Underwater Cave",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -228,7 +228,7 @@
       "name": "Blue Corner",
       "reef": "coral",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -249,7 +249,7 @@
       "name": "Post I Jetty",
       "reef": "coral",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -270,7 +270,7 @@
       "name": "Mangrove Point",
       "reef": "coral",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -296,7 +296,7 @@
       "scuba_diving:maxdepth": "20",
       "scuba_diving:type": "biology",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -317,7 +317,7 @@
       "scuba_diving:type": "reef;wall;apnoe",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -337,7 +337,7 @@
       "name": "Blue Lagoon",
       "scuba_diving:depth": "20",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -359,7 +359,7 @@
       "scuba_diving:depth": "20",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -381,7 +381,7 @@
       "scuba_diving:depth": "30",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -397,14 +397,14 @@
     "validated": true,
     "validation_source": "nusapenida.org,scubaboard.com,scubadiverlife.com,purpledivepenida.com",
     "tags": {
-      "description": "Northwest tip of Nusa Penida. Bali's premier site for mola mola (ocean sunfish) July-October; peak August-September. Two shallow reefs on either side of bay plus deep channel to 190m. Powerful downcurrents documented causing multiple accidents and fatalities - advanced divers only. Water temperature drops to 16-18°C during cold upwellings. Mola mola cleaning stations at 20-35m. Also: manta rays, barracuda, giant trevally, whitetip/blacktip reef sharks, turtles, frogfish, wobbegong, nudibranchs.",
+      "description": "Northwest tip of Nusa Penida. Bali's premier site for mola mola (ocean sunfish) July-October; peak August-September. Two shallow reefs on either side of bay plus deep channel to 190m. Powerful downcurrents documented causing multiple accidents and fatalities - advanced divers only. Water temperature drops to 16-18\u00b0C during cold upwellings. Mola mola cleaning stations at 20-35m. Also: manta rays, barracuda, giant trevally, whitetip/blacktip reef sharks, turtles, frogfish, wobbegong, nudibranchs.",
       "name": "Crystal Bay",
       "scuba_diving:access_easyness": "1",
       "scuba_diving:depth": "15",
       "scuba_diving:difficulty": "2",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -424,7 +424,7 @@
       "name": "Ped",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -443,7 +443,7 @@
       "description": "Shore-entry reef in Amed area. Coral clump rising from sandy bottom. Nutrient-rich Lombok Strait waters. Schools of snappers, platax (batfish), fusiliers. Tuna in blue water. Giant frogfish and leaf scorpionfish confirmed. Nudibranchs, crabs, mantis shrimps. 5-30m depth. Nil to moderate current. Good visibility 15-30m.",
       "name": "Batu Belah",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -462,7 +462,7 @@
       "description": "Ghost Bay - muck dive in Amed area. Black volcanic sand bay with burrows, rubble, sparse coral. Garden eel colonies. Flying gurnard (iconic species). Blue-spotted stingrays, frogfish, mantis shrimp, nudibranchs, cuttlefish, ghost pipefish. 8-25m depth. Mild current. Note: only 2 sources found; further validation recommended.",
       "name": "Bulakan",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -482,7 +482,7 @@
       "name": "Pyramids",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -501,7 +501,7 @@
       "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks, bumphead parrotfish (early morning). Night: Spanish dancers. Accessible all levels.",
       "name": "Coral Garden Tulamben",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -520,7 +520,7 @@
       "description": "Tulamben area. Note: 'Big Fins TecDiving' refers to a technical diving operator (bigfins.asia) rather than a named dive site. No independent dive site named 'Big Fins TecDiving' confirmed in operator site listings. Single source; requires verification as a legitimate dive site entry.",
       "name": "Big Fins TecDiving",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -540,7 +540,7 @@
       "leisure": "marina",
       "name": "Menjangan - Pos 2",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -560,7 +560,7 @@
       "name": "Emerald",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -579,7 +579,7 @@
       "description": "Most remote of Amuk Bay's three Gili islands; ~45 min boat from Padangbai. Black volcanic wall surrounding island drops to 40m+. Shark Cave at ~10-12m depth on northeastern face where whitetip reef sharks rest; schools of glass fish at cave entrance. Strong and unpredictable currents including downcurrents. Confirmed species: whitetip reef sharks, lobsters, crabs, pufferfish, nudibranchs, octopus, cuttlefish, frogfish, leaf scorpionfish, lionfish, turtles, mola mola (seasonal), dolphins. Best Jun-Oct.",
       "scuba_diving:entry": "boat",
       "scuba_diving:dangers:current": "yes",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -597,7 +597,7 @@
       "sport": "scuba_diving",
       "description": "Tulamben Wall - volcanic wall formed by Mount Agung lava flow. Shore entry across pebble beach. Wall top 3-5m drops to 60m+. Shallow aquarium at 5m teems with reef fish. Wall: sponges, gorgonian fans, black coral, crinoids. Whitetip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, nudibranchs. Adjacent to USAT Liberty wreck.",
       "scuba_diving:entry": "shore",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -616,7 +616,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "Black sand muck slope ~200m southeast of USAT Liberty wreck. Named for resident harlequin shrimps found under rocks at depth. Volcanic sand ridges with small coral outcrops. Shore entry. Single source only - requires additional independent validation for 3-source requirement.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -635,7 +635,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "~3km SE of Tulamben near Seraya village. Three sub-sites: Top Secrets (shallow), Deep Secrets (to ~35m), Noisy Reef (juvenile triggerfish sounds). Silty black volcanic sand - strict buoyancy required. Metal dome artificial structure colonised by soft corals. Confirmed species: nudibranchs (donut, pikachu), harlequin shrimp, Coleman/tiger shrimp, boxer crabs, frogfish, ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels. Night: Spanish dancers. NOTE: No airplane frame exists at this site - earlier description was in error.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -654,7 +654,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "Black sand muck area adjacent to USAT Liberty wreck at Tulamben. Shore entry. Sand ridges perpendicular to shore, 12-28m. Only 2 sources found - requires additional independent validation for 3-source requirement.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -673,7 +673,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "Kubu village, 3.5km NW of Tulamben. Sandy ridges with coral outcrops shallowing to deeper reef with small wall beyond 30m. Two sub-sites. Anglerfish (multiple color morphs), pygmy seahorses on gorgonias, ghost pipefish, barrel sponges. Local porters assist with equipment. Shore entry over rocky shoreline.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -692,7 +692,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "Boga Wreck - Dutch-built Indonesian government patrol vessel ~40-45m length, intentionally sunk September 2012 as artificial reef off Kubu village. Bow ~18m, stern 38-40m (has settled deeper over time). Deck props: non-original wooden steering wheel, Buddha statues, VW car, scuba tanks. Confirmed species: moray eels, barracuda, batfish, lionfish, nudibranchs, octopus, turtles. Gorgonian fans colonising structure.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -711,7 +711,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "East end of Jemeluk Beach, Amed. Slope steepens to wall dropping to 50m+. Upper slope: small gorgonias, barrel sponges, large pink gorgonia fans, hard corals. Moray eels in crevices, ribbon eels in sandy areas, clownfish in anemones on upper slope. Wall top at ~15m. Shore entry from beach. ~10 min from Hotel Uyah. Intermediate to Advanced due to depth.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -730,7 +730,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "~12 min from Amed. Sandy slope to 40m with artificial reef structures (coral-colonised), natural coral patches, large bommies with gorgonias and barrel sponges. Confirmed shark nursery area - baby and juvenile reef sharks shelter under large table corals alongside adult reef sharks. Hawksbill and green turtles regular. Large moray eels. Shore entry over black pebble beach. All levels when calm. Site_type corrected from wall to reef.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -749,7 +749,7 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "description": "Drift dive from east end of Bunutan Beach heading east-southeast. Wall densely covered in thousands of barrel sponges and hundreds of gorgonia fans. Large garden eel colonies on sandy bottom - among largest in Amed area. Ribbon eels and moray eels in wall crevices. Very large brain corals. Current-assisted drift; boat follows bubbles for pickup. Note: only 2 sources found.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

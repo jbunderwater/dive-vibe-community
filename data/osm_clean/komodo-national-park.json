@@ -13,8 +13,10 @@
       "name": "Pantai Merah",
       "scuba_diving:type:reef": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -30,8 +32,10 @@
     "tags": {
       "name": "Manta Point dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -47,8 +51,10 @@
     "tags": {
       "name": "Mawan",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -65,8 +71,10 @@
       "name": "Crystal Bay Dive Site",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -84,8 +92,10 @@
       "name:de": "Pengah Kecil",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -103,8 +113,10 @@
       "name:de": "Siaba Besar",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -122,8 +134,10 @@
       "scuba_diving:dive_spot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -145,8 +159,10 @@
       "scuba_diving:name": "The Cauldron",
       "scuba_diving:type": "drift",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -162,8 +178,10 @@
     "tags": {
       "name": "Batu Tiga Dive Site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -179,8 +197,10 @@
     "tags": {
       "name": "Bonsai dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -196,8 +216,10 @@
     "tags": {
       "name": "3 Sisters",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -213,8 +235,10 @@
     "tags": {
       "name": "Sabayor Kecil",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -230,8 +254,10 @@
     "tags": {
       "name": "Mini Wall",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -247,8 +273,10 @@
     "tags": {
       "name": "Pillarsteen",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -264,8 +292,10 @@
     "tags": {
       "name": "Tatawa Besar dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -281,8 +311,10 @@
     "tags": {
       "name": "Tatawa Kecil dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -298,8 +330,10 @@
     "tags": {
       "name": "Indihiang",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -315,8 +349,10 @@
     "tags": {
       "name": "Gaja Rock dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -332,8 +368,10 @@
     "tags": {
       "name": "Loh Namu",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -349,8 +387,10 @@
     "tags": {
       "name": "Pink Beach",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -366,8 +406,10 @@
     "tags": {
       "name": "Wainilu",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -383,8 +425,10 @@
     "tags": {
       "name": "Loh Sera dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -400,8 +444,10 @@
     "tags": {
       "name": "Tanjung Loh Sera dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -417,8 +463,10 @@
     "tags": {
       "name": "Gindang",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -434,8 +482,10 @@
     "tags": {
       "name": "Payong",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -451,8 +501,10 @@
     "tags": {
       "name": "Sabolon besar dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -468,8 +520,10 @@
     "tags": {
       "name": "Sabolon kecil dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -486,8 +540,10 @@
       "name": "Lighthouse Reef Dive Site",
       "scuba_diving:dive_spot": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -503,8 +559,10 @@
     "tags": {
       "name": "Sebayur dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -520,8 +578,10 @@
     "tags": {
       "name": "Seraya kecil dive site",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -537,8 +597,10 @@
     "tags": {
       "name": "Makassar Reef (Manta Point)",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubaboard",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was single \"scubaboard\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -556,7 +618,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "Dive site in the north Komodo area. Site details unverified — contributed from a diver's personal logbook. Located in open water northwest of Komodo Island. May be known by a different name among local operators."
+      "description": "Dive site in the north Komodo area. Site details unverified \u2014 contributed from a diver's personal logbook. Located in open water northwest of Komodo Island. May be known by a different name among local operators.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -574,7 +637,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A high-energy drift dive through the narrow channel between Gili Lawa Darat and Komodo Island. Tidal currents reaching several knots sweep divers past volcanic rock walls covered in hard and soft corals. Schools of trevally, whitetip and blacktip reef sharks, hawksbill turtles, and occasional manta rays gather in the nutrient-rich flow."
+      "description": "A high-energy drift dive through the narrow channel between Gili Lawa Darat and Komodo Island. Tidal currents reaching several knots sweep divers past volcanic rock walls covered in hard and soft corals. Schools of trevally, whitetip and blacktip reef sharks, hawksbill turtles, and occasional manta rays gather in the nutrient-rich flow.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -592,7 +656,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A large underwater seamount north of Gili Lawa Laut with its peak just meters below the surface. Blanketed in soft corals and sea fans hosting pygmy seahorses. Medium to very strong currents draw huge schools of fusiliers, whitetip and grey reef sharks, giant trevally, napoleon wrasse, and occasional eagle rays. Widely considered one of Komodo's best dive sites."
+      "description": "A large underwater seamount north of Gili Lawa Laut with its peak just meters below the surface. Blanketed in soft corals and sea fans hosting pygmy seahorses. Medium to very strong currents draw huge schools of fusiliers, whitetip and grey reef sharks, giant trevally, napoleon wrasse, and occasional eagle rays. Widely considered one of Komodo's best dive sites.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -610,7 +675,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "An exposed rock pinnacle rising from over 70m in the center of Lintah Strait. Strong currents hit alternating sides depending on tide. Every inch of the pinnacle is covered in healthy coral, hosting enormous densities of anthias, reef sharks, giant trevally, dogtooth tuna, and napoleon wrasse. Regularly ranked among the world's top dive sites."
+      "description": "An exposed rock pinnacle rising from over 70m in the center of Lintah Strait. Strong currents hit alternating sides depending on tide. Every inch of the pinnacle is covered in healthy coral, hosting enormous densities of anthias, reef sharks, giant trevally, dogtooth tuna, and napoleon wrasse. Regularly ranked among the world's top dive sites.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -628,7 +694,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A sheltered bay reef off northeast Padar Island with mild currents. Features large green and orange black coral bushes, vibrant soft corals, and rich macro life including mantis shrimp, ribbon eels, blue-ringed octopus, ghost pipefish, and nudibranchs. A calm alternative to Komodo's current-swept northern sites."
+      "description": "A sheltered bay reef off northeast Padar Island with mild currents. Features large green and orange black coral bushes, vibrant soft corals, and rich macro life including mantis shrimp, ribbon eels, blue-ringed octopus, ghost pipefish, and nudibranchs. A calm alternative to Komodo's current-swept northern sites.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -646,12 +713,13 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A protected bay on the south side of Padar offering sheltered reef diving with gentle slopes and coral gardens. Calm conditions make it ideal for less experienced divers and a relaxing complement to the more demanding sites in central and northern Komodo."
+      "description": "A protected bay on the south side of Padar offering sheltered reef diving with gentle slopes and coral gardens. Calm conditions make it ideal for less experienced divers and a relaxing complement to the more demanding sites in central and northern Komodo.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
     "name": "Crinoid Wall",
-    "lat": -8.80,
+    "lat": -8.8,
     "lon": 119.7,
     "depth": 25,
     "site_type": "wall",
@@ -664,12 +732,13 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A colorful wall in a small cove near the southern entrance to Loh Dasami at Nusa Kode, almost directly opposite Yellow Wall. Crevices hold sleeping slipper lobsters, cleaner shrimp, decorator crabs, red sea apples, and a great variety of tunicates and soft corals. An excellent slow-paced macro dive best done in the morning."
+      "description": "A colorful wall in a small cove near the southern entrance to Loh Dasami at Nusa Kode, almost directly opposite Yellow Wall. Crevices hold sleeping slipper lobsters, cleaner shrimp, decorator crabs, red sea apples, and a great variety of tunicates and soft corals. An excellent slow-paced macro dive best done in the morning.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
     "name": "Yellow Wall",
-    "lat": -8.80,
+    "lat": -8.8,
     "lon": 119.7,
     "depth": 40,
     "site_type": "wall",
@@ -682,7 +751,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A dramatic wall along the east coast of Nusa Kode named for the profusion of bright yellow soft corals (Tubastrea) and robust sea cucumbers. Crevices harbor nudibranchs and ladybug amphipods, with clown triggerfish, fairy basslets, and occasional sharks and mantas cruising past. Best dived in the afternoon for optimal light. Medium to strong currents."
+      "description": "A dramatic wall along the east coast of Nusa Kode named for the profusion of bright yellow soft corals (Tubastrea) and robust sea cucumbers. Crevices harbor nudibranchs and ladybug amphipods, with clown triggerfish, fairy basslets, and occasional sharks and mantas cruising past. Best dived in the afternoon for optimal light. Medium to strong currents.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -700,7 +770,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A small seamount in Loh Dasami Bay at Nusa Kode, carpeted in dense soft corals, crinoids, and sponges. Widely regarded as one of Indonesia's premier macro and critter diving sites. Home to an extraordinary density of invertebrate life including nudibranchs, sea apples, and crinoid shrimp, with occasional manta rays and reef sharks passing by."
+      "description": "A small seamount in Loh Dasami Bay at Nusa Kode, carpeted in dense soft corals, crinoids, and sponges. Widely regarded as one of Indonesia's premier macro and critter diving sites. Home to an extraordinary density of invertebrate life including nudibranchs, sea apples, and crinoid shrimp, with occasional manta rays and reef sharks passing by.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -718,7 +789,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "Large coral-encrusted boulders on the southwestern tip of Nusa Kode creating habitat for giant potato cod, Malabar groupers, bamboo sharks, and schools of giant trevally and fusiliers. Coleman shrimp on fire urchins and rare paddleflap scorpionfish (Rhinopia) attract macro photographers. Also a popular night dive."
+      "description": "Large coral-encrusted boulders on the southwestern tip of Nusa Kode creating habitat for giant potato cod, Malabar groupers, bamboo sharks, and schools of giant trevally and fusiliers. Coleman shrimp on fire urchins and rare paddleflap scorpionfish (Rhinopia) attract macro photographers. Also a popular night dive.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -736,7 +808,8 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A black sand slope in Horseshoe Bay at Nusa Kode and Komodo's most celebrated night dive. Named for the torpedo rays (electric rays) that blend into the substrate. After dark the slope comes alive with ambon scorpionfish, frogfish, stargazers, snake eels, cuttlefish, and abundant nudibranchs. Equally rewarding during the day for muck diving enthusiasts."
+      "description": "A black sand slope in Horseshoe Bay at Nusa Kode and Komodo's most celebrated night dive. Named for the torpedo rays (electric rays) that blend into the substrate. After dark the slope comes alive with ambon scorpionfish, frogfish, stargazers, snake eels, cuttlefish, and abundant nudibranchs. Equally rewarding during the day for muck diving enthusiasts.",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -754,7 +827,9 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A rocky channel at the far southern tip of Komodo Island where manta rays aggregate at cleaning stations, with sightings of 20+ mantas on a single dive not uncommon during peak season (November to March). Strong currents and cold thermoclines make this a challenging but unforgettable dive. Also home to giant trevallies, sweetlips, and occasional mobula rays."
+      "description": "A rocky channel at the far southern tip of Komodo Island where manta rays aggregate at cleaning stations. Peak season: sources conflict \u2014 divehappy.com and Dragon Dive Komodo report peak September\u2013January; the original description cited November\u2013March. Sightings of multiple mantas on a single dive are common in peak season. Strong currents and cold thermoclines (22\u201323\u00b0C) make this a challenging dive. Shallow cleaning stations at 5\u201315m; deeper sandy channels to ~20\u201325m. Maximum depth 40m. Also home to giant trevallies, sweetlips, and occasional mobula rays.",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Seasonal peak conflict found. divehappy.com and dragondivekomodo.com both report September-January as peak; original Nov-March claim flagged as unconfirmed. Description updated to note conflict."
     }
   }
 ]
