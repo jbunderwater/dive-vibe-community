@@ -25,7 +25,7 @@ This site is in the waters between Michmoret and Caesarea, accessible by boat.
 
 - **Location**: Offshore between Michmoret and Caesarea, central Israeli Mediterranean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-10 meters (can be reduced near active farms due to organic matter)
 - **Current**: Variable

@@ -3,15 +3,17 @@
     "name": "Widowmaker's Cave",
     "lat": 18.36,
     "lon": -78.36,
-    "depth": 25,
+    "depth": 24,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "PADI Jamaica diving guides, multiple dive center references",
+    "validation_source": "divebooker.com,thescubadirectory.com,tripadvisor.com,scubadivejamaica.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -23,10 +25,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "PADI Jamaica diving guides - iconic cavern dive 40-70 feet",
+    "validation_source": "divezone.net,thescubadirectory.com,bluewaterdivetravel.com,scubadivejamaica.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -38,10 +42,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI - beginner-friendly reef in marine protected area",
+    "validation_source": "padi.com,divezone.net,scubadivejamaica.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -53,10 +59,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Negril wall diving references - 90+ foot walls require AOW",
+    "validation_source": "scubadivejamaica.com,divezone.net,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -68,25 +76,30 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef diving - shallow beginner site",
+    "validation_source": "scubadivejamaica.com,divezone.net,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
     "name": "Shallow Plane Wreck",
     "lat": 18.37,
     "lon": -78.35,
-    "depth": 10,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Montego Bay wreck references - airplane wreck at shallow depth",
+    "validation_source": "scubadivejamaica.com,scubacaribe.com,divebooker.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Depth corrected from 10m to 18m (60ft) per scubadivejamaica.com and scubacaribe.com. Difficulty updated from Beginner to Intermediate. Aircraft type: Cessna 152, sunk as artificial reef, no confirmed sinking date found."
     }
   },
   {
@@ -98,10 +111,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI Negril diving - Arches 40-60 feet with wall explorations",
+    "validation_source": "scubadivejamaica.com,thescubadirectory.com,divezone.net,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -113,10 +128,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Historical Port Royal reef dives - shallow 10-35 feet ruins and reefs",
+    "validation_source": "divezone.net,bluewaterdivetravel.com,scubadivejamaica.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -128,10 +145,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI Ocho Rios - beginner reef within 32-131 feet range",
+    "validation_source": "zentacle.com,wannadive.net,scubadivejamaica.com,scubacaribe.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09",
+      "qa_note": "SS Kathryn sinking date corrected: sunk 1991 (not 1950s as previously written). Depth 11-15m confirmed. 140-foot steel minesweeper confirmed across multiple sources."
     }
   },
   {
@@ -143,10 +163,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Zentacle - Runaway Bay Wall 125+ feet deep with anchored wall dives",
+    "validation_source": "scubadivejamaica.com,fiwiroots.com,divezone.net",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -158,10 +180,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Negril area - deep wall dives feeding from Cayman Trench currents",
+    "validation_source": "scubadivejamaica.com,divezone.net,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -173,10 +197,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef site - shallow beginner-friendly coral gardens",
+    "validation_source": "padi.com,divezone.net,scubadivejamaica.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -189,13 +215,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "PADI Port Antonio dive center - reef and wall diving 30-110 feet",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Lady G'Diver",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously tagged validated=true with source 'PADI Port Antonio dive center'. No third-party source found confirming this specific site. Validation removed pending 3-source confirmation."
     }
   },
   {
@@ -209,13 +237,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef - shallow 40 feet with Bermuda Chubb schools",
+    "validation_source": "scubadivejamaica.com,divezone.net,padi.com",
     "tags": {
       "name": "Chubb Reef (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -228,14 +258,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bowden Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source, does not meet 3-domain threshold. No site-specific sources found. Validation removed."
     }
   },
   {
@@ -248,15 +279,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Dead Man's Bones",
       "natural": "reef",
       "wikidata": "Q27119118",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source, does not meet 3-domain threshold. No site-specific sources found. Validation removed."
     }
   },
   {
@@ -269,14 +301,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source, does not meet 3-domain threshold. No site-specific sources found. Validation removed."
     }
   },
   {
@@ -290,13 +323,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "DiveBuddy - Fish Pond Montego Bay reef 51-60 feet with caverns",
+    "validation_source": "scubadivejamaica.com,divezone.net,padi.com",
     "tags": {
       "name": "Fish Pond (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -309,14 +344,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "DiveBuddy - adjacent to Fish Pond with similar characteristics",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Fish Pond Edge (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'DiveBuddy - adjacent to Fish Pond with similar characteristics' — inference, not independent sourcing. No direct source found. Validation removed."
     }
   },
   {
@@ -330,13 +367,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI Montego Bay - iconic 30 feet beginner stingray encounter site",
+    "validation_source": "scubadivejamaica.com,padi.com,divezone.net",
     "tags": {
       "name": "Stingray City (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -349,15 +388,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Pelican Reef (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source, does not meet 3-domain threshold. No site-specific sources found. Validation removed."
     }
   },
   {
@@ -370,14 +410,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Gun Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source, does not meet 3-domain threshold. No site-specific sources found. Validation removed."
     }
   },
   {
@@ -390,14 +431,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Rackhmans Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -410,14 +452,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "West Middle Shoal",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -430,14 +473,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Drunkenmans Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -450,14 +494,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "South East Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -470,14 +515,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Maiden Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -490,14 +536,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "South Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -510,15 +557,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bush Reef",
       "natural": "reef",
       "wikidata": "Q27120334",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -531,14 +579,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "One Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -551,14 +600,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bare Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -571,14 +621,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Careening Island",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   },
   {
@@ -591,14 +642,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bucknors Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-09",
+      "qa_note": "Previously validated via 'perplexity' only — single generic source. Validation removed."
     }
   }
 ]

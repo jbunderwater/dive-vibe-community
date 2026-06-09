@@ -25,7 +25,7 @@ Depths at the waterline are typically very shallow (1–5 metres). The site is s
 
 - **Location**: Tel Shikmona, Haifa, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 3–8 metres (harbour proximity affects clarity)
 - **Current**: Mild

@@ -23,7 +23,7 @@ ARDAG sits at the northern end of Eilat's coastline near the port and fishing in
 
 - **Location**: Northern Eilat, near Ardag fishing area, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters
 - **Current**: Generally mild

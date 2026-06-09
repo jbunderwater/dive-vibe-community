@@ -23,7 +23,7 @@ Fish Pond Edge is the outer margin of the Fish Pond reef complex within the Mont
 
 - **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–28 meters (65–90 feet)
@@ -63,4 +63,4 @@ The large sponge formations — barrel sponges, azure vase sponges, rope sponges
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Description based on the adjacent Fish Pond site characteristics. No independent source found specifically for Fish Pond Edge as a distinct named dive site. Marine life based on regional Caribbean reef characteristics for the Montego Bay Marine Park. Last updated 2026-06-09.*

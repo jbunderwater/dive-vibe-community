@@ -17,7 +17,7 @@ Negril's most celebrated swim-through dive, where wide rock arches frame walls o
 
 ## Overview
 
-The Arches is one of the most frequently visited dive sites in Negril and consistently ranks among the top dives in Jamaica. The site features a series of wide natural arches formed in the reef structure, with the main arch beginning at around 12 metres and dipping to 18 metres. Divers swim through the arches along wide passages that feel effortless even for intermediate-level divers. The formation is often combined with a nearby shallow reef — sometimes including a small plane wreck nearby — making it a versatile two-site dive. Negril's leeward position shelters this site from most winds, and visibility commonly reaches 25–30 metres. Water temperatures average 28–30°C.
+The Arches is one of the most frequently visited dive sites in Negril and consistently ranks among the top dives in Jamaica. The site features a series of wide natural arches formed in the reef structure, with the main arch at approximately 12–14 metres and the site reaching 18 metres at its deepest. Divers swim through the arches along wide passages that feel effortless even for intermediate-level divers. The site is confirmed as a double arch connected by a tunnel. It is frequently combined with nearby reef or wreck sites on two-tank trips. Negril's leeward position shelters this site from most winds, and visibility commonly reaches 25–30 metres. Water temperatures average 28–30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Arches is one of the most frequently visited dive sites in Negril and consis
 
 ## Marine Life
 
-The arches and surrounding reef are home to dense colonies of purple and yellow fairy basslets aligned against the substratum, appearing upside down on the arch ceilings. Southern stingrays and large nurse sharks are commonly encountered resting on sandy patches adjacent to the arches. Hawksbill turtles are frequent visitors. Schools of grunts and snapper shelter beneath the overhangs. Blue angelfish, French angelfish, and queen triggerfish patrol the outer reef. The sandy areas near the arches attract eagle rays on occasion. Moray eels occupy the reef crevices flanking the arch entrances.
+The arches and surrounding reef are home to dense colonies of purple and yellow fairy basslets clinging to the arch ceilings, often swimming upside-down — a confirmed and distinctive feature of this site. Nurse sharks are a common sighting at this site. Yellow-headed jawfish, garden eels, and moray eels are reported in the sandy sections adjacent to the arches. Lobsters occupy the reef crevices. Grunts and snapper shelter beneath the overhangs. Turtles are reported as occasional visitors.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The Arches is one of Jamaica's top underwater photography locations. Wide-angle 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [The Scuba Directory - Arches](https://thescubadirectory.com/divesiteprofile/Arches-Negril-Jamaica-Dive-Site), [Divezone - Jamaica](https://divezone.net/diving/jamaica), [ScubaDiveJamaica](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/), [PADI - Diving in Negril](https://www.padi.com/diving-in/jamaica/negril/). Last updated 2026-06-09.*

@@ -32,7 +32,7 @@ The Cayman Trench Edge is one of Jamaica's most exhilarating wall dives, situate
 
 ## Marine Life
 
-The shallow reef plateau before the wall hosts grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with impressive stands of black coral at depth. Rainbow jacks and cero mackerel patrol mid-water. Large green moray eels occupy crevices in the wall face. Hawksbill turtles are regular visitors along the wall. At depth, schools of horse-eye jacks and bar jacks sweep past the wall face. The nutrient upwelling occasionally draws spinner dolphins into the area above the wall.
+The shallow reef plateau before the wall hosts grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with impressive stands of black coral at depth. Rainbow jacks and cero mackerel patrol mid-water. Large green moray eels occupy crevices in the wall face. Hawksbill turtles are regular visitors along the wall. At depth, schools of horse-eye jacks and bar jacks sweep past the wall face. *No site-specific source confirms dolphin sightings at this dive site.*
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The Cayman Trench Edge is a wide-angle site — the vast blue backdrop and the w
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [ScubaDiveJamaica - Negril Sites](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/), [Divezone - Jamaica](https://divezone.net/diving/jamaica), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica). Cayman Trench maximum depth (7,500m+) is a confirmed geographic fact. "Spinner dolphins" mention: no site-specific source confirms spinner dolphin sightings at this dive site — regional occurrence only. Last updated 2026-06-09.*

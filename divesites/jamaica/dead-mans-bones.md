@@ -23,7 +23,7 @@ Dead Man's Bones is located on Jamaica's eastern coast near the community of Bow
 
 - **Location**: Eastern Jamaica coast (near Bowden)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–22 meters (50–70 feet)
@@ -57,4 +57,4 @@ Intermediate divers and above. The outer slope begins to drop more steeply below
 The outer reef slope and sponge formations at depth are compelling wide-angle subjects. Grouper portraits at the reef base work well. The lack of other divers at this rarely-visited site means unobstructed compositions.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*No site-specific source found for Dead Man's Bones as a named recreational dive site. Description based on OSM data (node with natural=reef tag) and regional characteristics of Jamaica's southeastern coast. Regional Caribbean marine life applies; no site-specific reports found. Last updated 2026-06-09.*

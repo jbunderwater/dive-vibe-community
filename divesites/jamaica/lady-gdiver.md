@@ -23,7 +23,7 @@ Lady G'Diver is a reef dive site located on Jamaica's south-central coast, lying
 
 - **Location**: South-central Jamaica coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–22 meters (50–70 feet)
@@ -57,4 +57,4 @@ Intermediate difficulty due to the 20-metre maximum depth. Monitor bottom time c
 The outer slope sponge formations and grouper provide wide-angle and portrait subjects. Shooting upward toward a school of jacks with the surface light behind creates strong silhouette images. Nurse shark portraits in natural light at the reef base are excellent.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*No site-specific source found for Lady G'Diver as a named dive site. Description based on geographic context (south-central Jamaica, OSM node classification) and regional Caribbean reef characteristics. Validation removed pending independent sourcing. Last updated 2026-06-09.*

@@ -23,7 +23,7 @@ Almog B lies within the Almog Beach Reserve, a protected coastal strip stretchin
 
 - **Location**: Eilat, Red Sea, Israel (Almog Beach Reserve)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters
 - **Current**: Generally mild — the Gulf of Aqaba has minimal tidal currents

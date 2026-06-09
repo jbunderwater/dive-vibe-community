@@ -23,7 +23,7 @@ Bowden Reef lies along Jamaica's eastern coastline, near the fishing village of 
 
 - **Location**: Bowden, southeastern Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
@@ -58,4 +58,4 @@ Remote location with limited emergency services. Ensure all equipment is functio
 The undisturbed reef and good coral cover make this a productive photography site for those willing to make the journey. The relative absence of other divers means unobstructed wide-angle compositions. Look for cleaning stations with shrimp and gobies for macro subjects.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*No site-specific source found for Bowden Reef as a named recreational dive site. Description based on OSM geographic data and regional characteristics of Jamaica's southeastern coast. Regional Caribbean marine life applies; no site-specific reports found. Last updated 2026-06-09.*

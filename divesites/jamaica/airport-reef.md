@@ -23,7 +23,7 @@ Airport Reef sits within the boundaries of the Montego Bay Marine Park, Jamaica'
 
 - **Location**: Montego Bay, Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -63,4 +63,4 @@ Wide-angle shots of the spur-and-groove reef structures work well in the clear w
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [ScubaDiveJamaica - Montego Bay Sites](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Divezone - Jamaica](https://divezone.net/diving/jamaica). The plane wreck at Airport Reef is referenced in multiple operator listings; depth cited as approximately 40ft (12m). Last updated 2026-06-09.*

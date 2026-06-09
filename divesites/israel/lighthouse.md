@@ -23,7 +23,7 @@ LightHouse — known in Hebrew as Migdalor Beach — is located approximately 8 
 
 - **Location**: Southern Eilat, Migdalor (Lighthouse) Beach, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-35 meters
 - **Current**: Light; gentle southerly drift common in this area

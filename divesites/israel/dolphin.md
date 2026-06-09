@@ -23,7 +23,7 @@ The DOLPHIN site corresponds to the Katza / EAPC Beach area immediately adjacent
 
 - **Location**: Eilat, adjacent to Dolphin Reef facility and EAPC (Katza) Beach, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters
 - **Current**: Light; sanctuary zone rules apply

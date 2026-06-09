@@ -23,7 +23,7 @@ CORALSEA sits in the heart of Eilat's premier diving zone, close to the Coral Wo
 
 - **Location**: Eilat, Coral Beach area, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters
 - **Current**: Very light to none

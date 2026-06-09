@@ -23,7 +23,7 @@ This site is catalogued as "CHANNEL" in the coastal waters south of Haifa, in th
 
 - **Location**: South of Haifa, central Israeli Mediterranean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical Israeli Mediterranean 5–10 metres
 

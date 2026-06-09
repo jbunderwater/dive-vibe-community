@@ -23,7 +23,7 @@ Rackhmans Cay (likely named in reference to the infamous pirate John "Calico Jac
 
 - **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–22 meters (50–70 feet)
@@ -62,4 +62,4 @@ Lobster portraits in torch-lit crevices and turtle encounters in the clear water
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*No site-specific source found for Rackhmans Cay as a named recreational dive site. Description based on OSM data and Portland Bight Protected Area context. Note: the pirate Calico Jack Rackham's connection to the cay name is plausible given the location but could not be independently confirmed — treat as local legend. Regional Caribbean marine life applies; no site-specific reports found. Last updated 2026-06-09.*

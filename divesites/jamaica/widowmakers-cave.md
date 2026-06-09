@@ -3,7 +3,7 @@ name: Widowmaker's Cave
 lat: 18.36
 lng: -78.36
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: cave
 ref: null
@@ -25,14 +25,14 @@ Widowmaker's Cave is the signature dive site of Montego Bay and one of the most 
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The cave walls are draped with black coral formations, encrusting sponges, and soft red polyps. Just inside the entrance, banded coral shrimp are frequently found at cleaning stations. Creole wrasse and parrotfish are common on the outer reef above the cave. Hawksbill turtles are regular visitors around the cave entrance. Large grouper and snapper congregate near the wall exit. Barracuda often hang in the water column above the site. On the wall itself, large sea fans and azure vase sponges appear at depth.
+The cave walls are draped with black coral formations, encrusting sponges, and soft corals — confirmed by multiple dive reports. Creole wrasse and parrotfish are common on the outer reef above the cave entrance. Grouper and snapper are reported near the wall exit. Barracuda are common in the water column above the site. The specific species composition of cleaning shrimp, eel populations, and sponge communities at this site varies between diver reports; the above reflects the most consistent observations found across sources.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The cave interior offers dramatic low-key images lit by a dive torch. The contra
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [The Scuba Directory - Widowmaker's Cave](https://thescubadirectory.com/divesiteprofile/Widowmaker's-Cave-Montego-Bay-Jamaica-Dive-Site), [Divebooker - Widowmaker's Cave](https://divebooker.com/widowmakers-cave-baz14859), [TripAdvisor Reviews - Widowmaker's Cave](https://www.tripadvisor.com/Attraction_Review-g147311-d150913-Reviews-Widowmaker_s_Cave-Montego_Bay_Saint_James_Parish_Jamaica.html), [ScubaDiveJamaica](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/). Note: the name derives from James Jones' novel "Go to the Widowmaker" — confirmed by Divebooker; one reviewer incorrectly attributed it to a James Bond novel. Last updated 2026-06-09.*

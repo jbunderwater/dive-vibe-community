@@ -17,13 +17,13 @@ A lively north-coast reef near Jamaica's cruise port town, where the Cayman Tren
 
 ## Overview
 
-Ocho Rios is Jamaica's second most popular dive destination after Negril, offering close to two dozen dive sites within easy reach. The Cayman Trench approaches the shoreline in this area, and the resulting nutrient-rich upwelling feeds the reef communities, producing good coral coverage and abundant fish life. The main reef system at Ocho Rios consists of spur-and-groove formations with sandy channels, interspersed with small caverns and overhangs. The SS Kathryn — a WWII minesweeper intentionally sunk in the 1950s — lies in the shallows as a highlight wreck dive nearby. The reef itself features warm water (26–29°C), moderate visibility (20–25 m), and calm, sheltered conditions most of the year.
+Ocho Rios is Jamaica's second most popular dive destination after Negril, offering close to two dozen dive sites within easy reach. The Cayman Trench approaches the shoreline in this area, and the resulting nutrient-rich upwelling feeds the reef communities, producing good coral coverage and abundant fish life. The main reef system at Ocho Rios consists of spur-and-groove formations with sandy channels, interspersed with small caverns and overhangs. The SS Kathryn — a 140-foot WWII Canadian steel minesweeper intentionally sunk in 1991 as an artificial reef — lies in the shallows nearby at approximately 11–15 metres as a highlight wreck dive. The reef itself features warm water (26–29°C), moderate visibility (20–25 m), and calm, sheltered conditions most of the year.
 
 ## Site Information
 
 - **Location**: Ocho Rios, Jamaica (north coast)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -63,4 +63,4 @@ The clear water and active fish life make Ocho Rios reef a versatile photography
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Zentacle - Kathryn and Caverns](https://www.zentacle.com/Beach/12433/kathryn-and-caverns), [Wannadive - Kathryn Wreck](https://www.wannadive.net/spot/Central_America/Jamaica/Ocho_Rios/Kathryn_and_Caverns/index.html), [ScubaDiveJamaica - Ocho Rios Sites](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/), [ScubaCaribe Ocho Rios](https://www.scubacaribe.com/diving/jamaica/ocho-rios/). SS Kathryn sinking date corrected to 1991. Last updated 2026-06-09.*

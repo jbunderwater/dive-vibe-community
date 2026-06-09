@@ -32,7 +32,9 @@ The Throne Room is widely considered the best dive site in Negril and one of the
 
 ## Marine Life
 
-The throne-shaped orange elephant ear sponges are the defining feature. The cavern walls support yellow tube sponges, black corals, and encrusting rope sponges. Stingrays rest on sandy patches at the cavern floor. Spotted moray eels and octopus occupy the cavern crevices. Barracuda and nurse sharks are occasional visitors near the entrance. On the outer reef approaching the cavern, angelfish, snapper, and schools of grunts are common. Dolphins have been spotted in the blue water above the site on rare occasions.
+The throne-shaped orange elephant ear sponges are the defining feature — confirmed across multiple sources. The cavern walls support encrusting sponges, black corals, and soft corals. Stingrays rest on sandy patches at the cavern floor. Nurse sharks are occasional visitors near the entrance. Barracuda, angelfish, snapper, and schools of grunts are common on the outer reef approaching the cavern. Moray eels and octopus occupy reef crevices.
+
+*Marine life claim removed: "Dolphins have been spotted in the blue water above the site on rare occasions" — no site-specific source confirms this.*
 
 ## Dive Profile
 
@@ -63,4 +65,4 @@ The Throne Room is one of Jamaica's premier underwater photo locations. Wide-ang
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Divezone - Jamaica](https://divezone.net/diving/jamaica), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Throne Room](https://thescubadirectory.com/divesiteprofile/The-Throne-Room-Negril-Jamaica-Dive-Site), [ScubaDiveJamaica](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/). Last updated 2026-06-09.*

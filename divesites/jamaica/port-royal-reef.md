@@ -23,7 +23,7 @@ Port Royal Reef sits near the southeastern tip of Jamaica, in the historically c
 
 - **Location**: Port Royal, Kingston Harbour, Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
@@ -63,4 +63,4 @@ The historical context adds interest to underwater photography here — wide-ang
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Divezone - Jamaica](https://divezone.net/diving/jamaica), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [FiwiRoots - Jamaica Dive Sites](https://fiwiroots.com/scuba.html). Historical Port Royal earthquake (1692) is a verified historical fact. Diving the submerged ruins is noted as restricted in some sources. Marine life is based on regional Caribbean reef characteristics; no site-specific reports found. Last updated 2026-06-09.*

@@ -51,4 +51,4 @@ Boat dive to the wreck, approximately 3 km from shore. Descend to the hull and e
 The site is approximately 3 km offshore, requiring boat access. Current can be present. Carry an SMB. The area is near the Lebanese border and may have restricted military access zones — always dive with a local operator who knows current permissions.
 
 ---
-*Sources: [JGD — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-04-11.*
+*Sources: [Just Gotta Dive — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [Ynetnews — 100 Divers Underwater Salute](https://www.ynetnews.com/articles/0,7340,L-4802448,00.html), [Putsker Diving Club — Dive Sites](https://www.putsker.co.il/en/Marine_Activities.html), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-06-09.*

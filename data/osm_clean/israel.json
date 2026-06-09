@@ -27,8 +27,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "eilat.city"
+      "validated": "partial",
+      "validation_source": "eilat.city",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -75,8 +76,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "snorkeling-report.com"
+      "validated": "partial",
+      "validation_source": "snorkeling-report.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -108,7 +110,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "eilatredsea.com, zentacle.com"
+      "validation_source": "eilatredsea.com,aqua-sport.com,dive.site",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -116,7 +119,7 @@
     "lat": 29.505683,
     "lon": 34.91912,
     "depth": 60,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -124,7 +127,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "israelbylocals.com, shulamit-diving.com"
+      "validation_source": "ahla-dive.com,eilatredsea.com,divezone.net,israelbylocals.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -156,7 +160,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "snorkeling-report.com, shulamit-diving.com"
+      "validation_source": "snorkeling-report.com,aqua-sport.com,blog.mares.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -172,7 +177,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "eilat.city, shulamit-diving.com"
+      "validation_source": "eilat.city,shulamit-diving.com,aqua-sport.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -249,7 +255,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -279,7 +286,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -295,7 +303,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -310,8 +319,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "putsker.co.il"
+      "validated": "partial",
+      "validation_source": "putsker.co.il",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -370,11 +380,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "Wreck Antilean \"Rocky\"",
@@ -388,11 +397,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "Wreck Arlozorov",
@@ -407,7 +415,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "haipo.co.il, talmermaid.com, yadvashem.org"
+      "validation_source": "haipo.co.il,justgottadive.com,jfc.org.il",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -423,7 +432,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "indigo-club.co.il, diver.co.il"
+      "validation_source": "indigo-club.co.il,diver.co.il,divessi.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -470,8 +480,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "osm",
-      "validated": "true"
+      "validation_source": "osm,traveltriangle.com",
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -487,7 +498,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il, indigo-club.co.il, diver.co.il, diving.org.il"
+      "validation_source": "putsker.co.il,ynetnews.com,justgottadive.com,scubadiving.guide",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -615,7 +627,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "xray-mag.com, warhistoryonline.com, divessi.com, putsker.co.il"
+      "validation_source": "xray-mag.com,warhistoryonline.com,haipo.co.il,academia.edu",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -646,7 +659,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "ynetnews.com"
+      "validation_source": "ynetnews.com,justgottadive.com,putsker.co.il",
+      "last_qa_date": "2026-06-09",
+      "validated": "true"
     }
   },
   {
@@ -661,11 +676,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "עמוד 5‎",
@@ -679,8 +693,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "mishmarhayam.com"
+      "validated": "partial",
+      "validation_source": "mishmarhayam.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -712,7 +727,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "putsker.co.il",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -744,7 +760,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "parks.org.il",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -759,8 +776,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "caesarea-diving.com",
-      "validated": "true"
+      "validation_source": "caesarea-diving.com,timesofisrael.com,alexinwanderland.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -776,7 +794,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "putsker.co.il",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -792,7 +811,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "caesarea-diving.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -808,7 +828,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "caesarea-diving.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -824,7 +845,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "caesarea-diving.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -840,7 +862,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "marsci.haifa.ac.il",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -855,8 +878,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "haipo.co.il"
+      "validated": "partial",
+      "validation_source": "haipo.co.il",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -887,7 +911,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -903,7 +928,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -919,7 +945,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -935,7 +962,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "tripadvisor.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -951,7 +979,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "divernet.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -967,7 +996,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "zentacle.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -983,7 +1013,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "traveltriangle.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -999,7 +1030,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "traveltriangle.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1015,7 +1047,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1031,7 +1064,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1047,10 +1081,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "divessi.com"
-    },
-    "validated": "true",
-    "validation_source": "divessi.com"
+      "validation_source": "divessi.com,surfaceinterval.co,fromthegrapevine.com",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "פלמחים - הרוקי",
@@ -1064,11 +1097,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "divessi.com"
-    },
-    "validated": "true",
-    "validation_source": "divessi.com"
+      "validated": "partial",
+      "validation_source": "divessi.com",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "אשדוד - הדיונונים",
@@ -1082,11 +1114,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "regional_diving_knowledge"
-    },
-    "validated": "true",
-    "validation_source": "regional_diving_knowledge"
+      "validated": "false",
+      "validation_source": "regional_diving_knowledge",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "הנקרות ‎‎",
@@ -1100,8 +1131,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "indigo-club.co.il, mishmarhayam.com",
-      "validated": "true"
+      "validation_source": "putsker.co.il,zentacle.com,en.wikipedia.org",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1116,8 +1148,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "indigo-club.co.il, mishmarhayam.com",
-      "validated": "true"
+      "validation_source": "indigo-club.co.il,zentacle.com,putsker.co.il",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1133,7 +1166,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il"
+      "validation_source": "putsker.co.il,justgottadive.com,fromthegrapevine.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1165,7 +1199,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il, justgottadive.com"
+      "validation_source": "justgottadive.com,putsker.co.il,divessi.com",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1181,7 +1216,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1197,7 +1233,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1213,7 +1250,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1228,11 +1266,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "סלע טבעי 1",
@@ -1246,11 +1283,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "regional_diving_knowledge"
-    },
-    "validated": "true",
-    "validation_source": "regional_diving_knowledge"
+      "validated": "false",
+      "validation_source": "regional_diving_knowledge",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "הענבר",
@@ -1264,11 +1300,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "regional_diving_knowledge"
-    },
-    "validated": "true",
-    "validation_source": "regional_diving_knowledge"
+      "validated": "false",
+      "validation_source": "regional_diving_knowledge",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "אשקלון - העוגנים",
@@ -1283,10 +1318,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "en.wikipedia.org"
-    },
-    "validated": "true",
-    "validation_source": "en.wikipedia.org"
+      "validation_source": "en.wikipedia.org,academia.edu,jewishvirtuallibrary.org",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "סלע טבעי 2",
@@ -1300,11 +1334,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "regional_diving_knowledge"
-    },
-    "validated": "true",
-    "validation_source": "regional_diving_knowledge"
+      "validated": "false",
+      "validation_source": "regional_diving_knowledge",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "The \"Corvette\"",
@@ -1334,11 +1367,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "אתר התחמושת",
@@ -1353,7 +1385,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1369,7 +1402,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1385,7 +1419,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "traveltriangle.com",
-      "validated": "true"
+      "validated": "partial",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1417,7 +1452,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1432,11 +1468,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "Cemal Ocan",
@@ -1451,7 +1486,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1482,8 +1518,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "uboat.net",
-      "validated": "true"
+      "validation_source": "uboat.net,en.wikipedia.org,hmstetcott.co.uk",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1499,7 +1536,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1515,7 +1553,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1530,11 +1569,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "nautical_chart_annotation"
-    },
-    "validated": "true",
-    "validation_source": "nautical_chart_annotation"
+      "validated": "false",
+      "validation_source": "nautical_chart_annotation",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "הדרג'ר",
@@ -1549,7 +1587,8 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validation_source": "geographic_analysis",
-      "validated": "true"
+      "validated": "false",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1564,8 +1603,9 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validation_source": "wikipedia.org",
-      "validated": "true"
+      "validation_source": "en.wikipedia.org,timesofisrael.com,ynetnews.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-09"
     }
   },
   {
@@ -1597,10 +1637,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "en.wikipedia.org"
-    },
-    "validated": "true",
-    "validation_source": "en.wikipedia.org"
+      "validation_source": "en.wikipedia.org,jewishvirtuallibrary.org,machal.org.il",
+      "last_qa_date": "2026-06-09"
+    }
   },
   {
     "name": "לאוניד",

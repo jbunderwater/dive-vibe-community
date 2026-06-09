@@ -63,4 +63,4 @@ Wide-angle is the lens of choice at The Point. The combination of enormous sea f
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [ScubaDiveJamaica - Negril Sites](http://www.scubadivejamaica.com/scuba-dive-sites-in-jamaica/), [Divezone - Jamaica](https://divezone.net/diving/jamaica), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica). Wall character and advanced difficulty confirmed. Specific marine life (cero mackerel, tiger grouper) sourced from regional diving knowledge; no site-specific confirmation found. Last updated 2026-06-09.*

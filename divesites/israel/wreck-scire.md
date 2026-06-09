@@ -59,4 +59,4 @@ Three unexploded depth charges have been documented near the wreck — do not ap
 The Scirè offers exceptional wide-angle photographic opportunities. Torpedo tubes, the bridge silhouette, and the overall hull profile make iconic subjects. Bring a torch to illuminate interior details from outside penetration points.
 
 ---
-*Sources: [X-Ray Mag — Scirè IANTD Expeditions](https://xray-mag.com/content/scire-expeditions-wwii-italian-submarine-wreck), [Haipo — Shira Italian Submarine](https://haipo.co.il/en/item/499422), [War History Online](https://www.warhistoryonline.com/instant-articles/scire-italian-royal-navy-sub.html). Last updated 2026-04-11.*
+*Sources: [X-Ray Mag — Scirè IANTD Expeditions](https://xray-mag.com/content/scire-expeditions-wwii-italian-submarine-wreck), [Haipo — Shira Italian Submarine](https://haipo.co.il/en/item/499422), [War History Online](https://www.warhistoryonline.com/instant-articles/scire-italian-royal-navy-sub.html), [Academia.edu — Sinking of the Scirè Analysis](https://www.academia.edu/44433286/The_SINKING_OF_THE_ITALIAN_SUBMARINE_SCIRE_HISTORICAL_AND_UNDERWATER_ANALYSIS_English_). Last updated 2026-06-09.*

@@ -51,4 +51,4 @@ A shallow, accessible dive suitable for intermediate divers. Enter from Bat Gali
 Haifa Bay has commercial shipping traffic. Carry a surface marker buoy (SMB) and surface with it deployed. Visibility can drop significantly in poor conditions. The wreck debris is scattered and angular — watch for sharp metal edges.
 
 ---
-*Sources: [Haipo — Chaim Arlozorov ship Haifa](https://haipo.co.il/en/item/254862), [JGD — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea). Last updated 2026-04-11.*
+*Sources: [Haipo — Chaim Arlozorov ship Haifa](https://haipo.co.il/en/item/254862), [Just Gotta Dive — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [Israeli Film Archive — Chaim Arlozorov Newsreel 1947](https://jfc.org.il/en/news_journal/112216-2/). Last updated 2026-06-09.*

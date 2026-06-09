@@ -41,4 +41,4 @@ Typical Mediterranean wreck species: groupers, sea bream, moray eels, octopus, a
 - The barge structure may provide interesting penetration-style exploration
 
 ---
-*Description based on nautical chart data and site name. No site-specific sources found.*
+*Sources: [Indigo Club — Israel Dive Sites](https://www.indigo-club.co.il), [diver.co.il — Israeli Diving Community](https://www.diver.co.il), [divessi.com — The Big Barge Wreck](https://www.divessi.com/en/mydiveguide/divesite/the-big-barge-wreck-hwdbrh-hgdwlh-israel-290148). Note: No detailed vessel history confirmed — name and type (barge) only. Last updated 2026-06-09.*
