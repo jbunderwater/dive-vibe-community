@@ -19,7 +19,7 @@ The eastern face of Boo island, with soft coral-draped walls and overhangs. Wobb
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 

@@ -17,7 +17,7 @@ A protected bay on the south side of Padar offering sheltered reef diving with g
 ## Site Information
 
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

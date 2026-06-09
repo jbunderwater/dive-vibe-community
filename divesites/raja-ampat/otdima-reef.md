@@ -23,7 +23,7 @@ Otdima Reef takes its name from the Ot Di Ma area, a local Papuan place name in 
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15-30 meters

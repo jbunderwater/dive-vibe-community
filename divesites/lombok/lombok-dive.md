@@ -23,7 +23,7 @@ Lombok Dive is a reef site in the waters south of the Gili Islands, accessible f
 
 - **Location**: South Gili Islands area, Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 m

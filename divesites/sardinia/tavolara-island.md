@@ -23,9 +23,9 @@ Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Prot
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Tavolara Diving Center - Marine Protected Area](https://www.tavolaradiving.it/en/marine-protected-area/), [Divessi - Tavolara MPA](https://www.divessi.com/en/mydiveguide/destination/Area-Marina-Protetta-di-Tavolara-9752351), [Porto San Paolo Dive Center](https://www.portospaolodiving.it/en/). Last updated 2026-06-08.*

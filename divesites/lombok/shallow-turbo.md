@@ -23,7 +23,7 @@ Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, provid
 
 - **Location**: Gili Islands channel, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m

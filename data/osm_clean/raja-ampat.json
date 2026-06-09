@@ -9,14 +9,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat diving standard reference - manta aggregation site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Manta Point",
       "scuba_diving:current": "2",
       "scuba_diving:type": "bigfish",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -29,13 +31,15 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle site - strong current, pelagic encounters",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Blue Magic",
-      "name:fr": "Site de plongée Blue Magic",
+      "name:fr": "Site de plong\u00e9e Blue Magic",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -48,12 +52,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive - coral-covered vertical drop",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Friwen Bonda",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -66,12 +72,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle with strong currents",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Mayhem Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -84,13 +92,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef garden site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Melissa's Garden",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -103,12 +113,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site - healthy coral structures",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Batu Rufas Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -121,14 +133,16 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat drift site - current-driven descent with good coral",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "description": "Good corals and good quantity of fishes. The stream kindly bring you to the south.",
       "name": "Citrus Ridge Dive Site",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -141,11 +155,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef - shark encounters near Arborek island",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Arborek shark point",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -158,13 +174,15 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle (5-27m) - strong current pelagic site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-27",
       "name": "Myoskon",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -177,12 +195,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive - vertical reef structure",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Fam Wall",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -195,12 +215,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat jetty site - accessible shallow reef",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Sawandarek Jetty",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -213,14 +235,16 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle (5-30m) - schooling fish aggregations",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-30",
       "name": "Sardine Reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -233,13 +257,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef (5-27m) - coral garden dive",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-27m",
       "name": "Batu Lima",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -252,12 +278,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral garden - biodiversity showcase",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Friwen Garden",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -270,12 +298,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site near Yembuba village",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Yembuba Diving",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -288,12 +318,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Lalosi",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -306,12 +338,14 @@
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat cave site - cavern formations with light penetration",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "The Cathedral",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -324,12 +358,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Chicken Reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -342,12 +378,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef dive site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Friwen Laut",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -360,12 +398,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat shallow reef site - suitable for training",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Koh",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -378,11 +418,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Kakatua reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -395,11 +437,13 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle site - strong currents, pelagics",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Mioskun",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -412,11 +456,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat sandy reef - manta encounter site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Manta Sandy",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -429,11 +475,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Ot Di Ma",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -446,13 +494,15 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat drift/passage site - tidal current dive",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "alt_name": "The Passage",
       "name": "Selat Kabui",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -465,12 +515,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat mangrove-associated reef dive",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Mangrove",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -483,12 +535,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive - vertical reef structures",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Francisco",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -501,11 +555,13 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle - strong current pelagic site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Lao lao",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -518,12 +574,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Andrea's Point",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -536,11 +594,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef near Mansuar island",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "West Mensuar",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -553,12 +613,14 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat drift site - current-driven descent",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Cross Over",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -571,11 +633,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Urai",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -588,13 +652,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive (3-30m) - coral-covered slopes",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "3-30",
       "name": "Mike's Point",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -607,12 +673,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Ransiwor",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -625,11 +693,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site in southern region",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Wai FPW",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -642,13 +712,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral garden site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Anita's Garden",
       "source": "Erens",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -661,12 +733,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site from local operator data",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Erens New",
       "source": "Erens Diving Center Sawandarek",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -679,11 +753,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat manta encounter site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Irvin's Mantas",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -696,11 +772,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive - southern region site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Swallope",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -713,13 +791,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef (5-27m) - diverse coral formations",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-27",
       "name": "Otdima Reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -732,12 +812,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site in eastern region",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Telma",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -750,12 +832,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "West Reef's End",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -768,12 +852,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat shallow reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Way Pretty Shallows",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -786,13 +872,15 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat drift/passage site - soft coral alignment",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "description": "Soft corals and sea fans",
       "name": "Soft corals in the passage",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -805,12 +893,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site with encrusting life",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Fuzzy Rock",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -823,14 +913,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef with turtle and eel encounters",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "description": "Good corals and good quantity of fish. Saw a turtle and some clown fishes. Saw a nice black murena hidden under coral.",
       "name": "Gam Ridge",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -843,12 +935,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat mangrove-associated reef",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Mangrove Ridge",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -861,14 +955,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site - variable coral cover",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "description": "Not much nice corals to see while snorkeling.",
       "name": "GA's Flash",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -881,12 +977,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat pinnacle site - strong current exposure",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Deep Rock",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -899,12 +997,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat mixed habitat reef dive",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Mangrove and Slope",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -917,13 +1017,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef (5-30m) - coastal island site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-30",
       "name": "Batu Laut",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -936,13 +1038,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat shallow reef (5-20m) - manta encounters",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-20",
       "name": "Manta Ridge",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -955,12 +1059,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat shallow reef - training-suitable site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Yeben Shallows",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -973,12 +1079,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat protected lagoon reef",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "The Lagoon",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -991,12 +1099,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat western reef site - pelagic encounters",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Barracuda West",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1009,13 +1119,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat eastern island reef (5-20m)",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-20",
       "name": "Pulau Memyai",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1028,13 +1140,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat northern reef (5-30m) - diverse marine life",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "5-30",
       "name": "White Arrow",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1047,12 +1161,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat eastern reef site - pelagic zone",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Barracuda East",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1065,12 +1181,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef near Penemu island",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "West Penemu",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1083,12 +1201,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Harto's Reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1101,13 +1221,15 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat bommie/pinnacle (3-30m) - coral-covered rocks",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "3-30",
       "name": "Imbekwan Bommies",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1120,13 +1242,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall (3-30m) - eastern region vertical drop",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "depth": "3-30",
       "name": "Imbekwan wall",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1139,12 +1263,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat reef site - fish aggregation area",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Swarm",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1157,12 +1283,14 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat drift/channel site - tidal movements",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Keruo Channel",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1175,12 +1303,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat coral reef site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "My Reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1193,12 +1323,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall/seamount site - vertical formations",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Seamount",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1211,12 +1343,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat nocturnal reef dive site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Keruo Night Dive",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1229,13 +1363,15 @@
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Raja Ampat cave/lagoon site - cavern environments",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Cave Lagoon",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1248,8 +1384,8 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall (5-30m) - marine sanctuary - turtle encounters noted",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "area": "yes",
       "depth": "5-30",
@@ -1258,7 +1394,9 @@
       "note": "Checked on diving map",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1271,13 +1409,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat shallow jetty reef - accessible training site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "area": "yes",
       "name": "Yenkoranu Jetty",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1290,15 +1430,17 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall - marine sanctuary - turtle and clownfish site",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "area": "yes",
       "description": "Perfect snorkeling spot. A lot of fishes, some turtles and clown fishes.",
       "name": "Cape Mansuar",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1311,14 +1453,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Raja Ampat jetty reef - shallow accessible dive",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "area": "yes",
       "name": "Aerborek Jetty Dive Site",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1331,13 +1475,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Raja Ampat wall dive - coral-covered vertical drop",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "area": "yes",
       "name": "Friwen Wall",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1353,7 +1499,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -1364,12 +1511,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1380,12 +1529,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "allstarliveaboards.com, birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1401,7 +1552,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -1417,7 +1569,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -1428,12 +1581,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "konjocruisingindonesia.com, birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1444,13 +1599,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "misool.info, birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "alt_names": "Small World"
+      "alt_names": "Small World",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1461,12 +1618,14 @@
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com, lagaligoliveaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1482,7 +1641,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -1493,12 +1653,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1509,12 +1671,14 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1525,13 +1689,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "alt_names": "Grouper Net"
+      "alt_names": "Grouper Net",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1542,12 +1708,14 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1558,12 +1726,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1574,12 +1744,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1590,12 +1762,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1606,12 +1780,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Raja Ampat North"
+      "area": "Raja Ampat North",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1622,12 +1798,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1638,13 +1816,15 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "alt_names": "Anti-Chovies"
+      "alt_names": "Anti-Chovies",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1655,12 +1835,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1671,12 +1853,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com, allstarliveaboards.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1687,12 +1871,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1703,12 +1889,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1719,12 +1907,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
   {
@@ -1735,12 +1925,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1751,12 +1943,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1767,12 +1961,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1783,12 +1979,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1799,12 +1997,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1815,12 +2015,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Misool"
+      "area": "Misool",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1831,12 +2033,14 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Kabui Bay"
+      "area": "Kabui Bay",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1847,12 +2051,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Penemu"
+      "area": "Penemu",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
   {
@@ -1863,12 +2069,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "svdelos.com dive log",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
-      "area": "Penemu"
+      "area": "Penemu",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   }
 ]

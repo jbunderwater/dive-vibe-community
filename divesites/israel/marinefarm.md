@@ -25,7 +25,7 @@ This site is in the waters between Michmoret and Caesarea, accessible by boat.
 
 - **Location**: Offshore between Michmoret and Caesarea, central Israeli Mediterranean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-10 meters (can be reduced near active farms due to organic matter)
 - **Current**: Variable
@@ -39,4 +39,4 @@ Large aggregations of fish typical around aquaculture sites: sea bream, sea bass
 
 Check with local operators regarding active farm status. Avoid entanglement in mooring lines and net structure if near active cages.
 
-*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-04-11.*
+*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-06-08.*

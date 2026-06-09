@@ -13,7 +13,8 @@
       "name": "NAD Lembeh",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, diveworldwide.com, lembehresort.com"
+      "validation_source": "nad-lembeh.com, diveworldwide.com, lembehresort.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/hairball, solitude.world, nad-lembeh.com"
+      "validation_source": "lembehresort.com/divesites/hairball, solitude.world, nad-lembeh.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, lembehresort.com, infinitebluedivetravel.com"
+      "validation_source": "nad-lembeh.com, lembehresort.com, infinitebluedivetravel.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nadlembehresort.wordpress.com, lembehresort.com, zubludiving.com"
+      "validation_source": "nadlembehresort.wordpress.com, lembehresort.com, zubludiving.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/tk3, zubludiving.com, infinitebluedivetravel.com"
+      "validation_source": "lembehresort.com/divesites/tk3, zubludiving.com, infinitebluedivetravel.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -98,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/nudi-falls, nad-lembeh.com, solitude.world"
+      "validation_source": "lembehresort.com/divesites/nudi-falls, nad-lembeh.com, solitude.world",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -115,7 +121,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "starfish.ch, zubludiving.com, blog.padi.com, dive-the-world.com"
+      "validation_source": "starfish.ch, zubludiving.com, blog.padi.com, dive-the-world.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -132,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com, tropilogy.com, zubludiving.com, solitude.world"
+      "validation_source": "lembehresort.com, tropilogy.com, zubludiving.com, solitude.world",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -149,7 +157,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "starfish.ch, lembehresort.com, zubludiving.com"
+      "validation_source": "starfish.ch, lembehresort.com, zubludiving.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -166,7 +175,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/aer-bajo, starfish.ch, zubludiving.com"
+      "validation_source": "lembehresort.com/divesites/aer-bajo, starfish.ch, zubludiving.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -183,7 +193,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, solitude.world, diversiondivetravel.com.au, zubludiving.com"
+      "validation_source": "nad-lembeh.com, solitude.world, diversiondivetravel.com.au, zubludiving.com",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -200,7 +211,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/angels-window, nad-lembeh.com, infinitebluedivetravel.com, starfish.ch"
+      "validation_source": "lembehresort.com/divesites/angels-window, nad-lembeh.com, infinitebluedivetravel.com, starfish.ch",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -217,7 +229,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "zubludiving.com, lembehresort.com, dive-the-world.com"
+      "validation_source": "zubludiving.com, lembehresort.com, dive-the-world.com",
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

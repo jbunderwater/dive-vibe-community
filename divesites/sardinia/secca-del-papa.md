@@ -17,7 +17,7 @@ Secca del Papa is a pinnacle dive site in Sardinia, Europe.
 
 ## Overview
 
-Secca del Papa is widely regarded as one of the top 10 dive sites in the entire Mediterranean, located 300 metres east of Punta del Papa at Tavolara Island. Three submarine pinnacles rise from 42 metres, with the shallowest reaching 15 metres, split by a sandy channel into Papa 1 and Papa 2. Clouds of damselfish part for voracious amberjack, while large dusky groupers and barracuda patrol the walls adorned with red, yellow, and rare bicolour paramuricea gorgonians. Currents are always present and sometimes strong, and Nitrox 32 is recommended for the average depth of 30 metres.
+Secca del Papa is widely regarded as one of the finest dive sites in the Mediterranean, located approximately 300 metres east of Punta del Papa at Tavolara Island within the Tavolara-Punta Coda Cavallo Marine Protected Area. A series of limestone pinnacles rise from 45-50 metres of depth, divided by a sandy channel into Papa 1 (shallowest peak at 15 metres) and Papa 2 (shallowest peak at 24 metres). Clouds of damselfish give way to voracious amberjack, while large dusky groupers and barracuda patrol the walls adorned with giant red and yellow gorgonian fans. Currents are always present and sometimes strong; this is a medium-to-high difficulty dive where Nitrox is recommended. Anchoring is prohibited — two mooring buoys are in place.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Secca del Papa is widely regarded as one of the top 10 dive sites in the entire 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Tavolara Diving Center - Secca del Papa 1](https://www.tavolaradiving.it/en/secca-del-papa-1-en/), [CiaoSardinia - Diving Tavolara Secca del Papa](http://www.ciaosardinia.com/eng/sardinia/diving-snorkeling/tavolara/secca-del-papa), [PADI - Secca del Papa](https://www.padi.com/dive-site/italy/secca-del-papa-2/). Last updated 2026-06-08.*

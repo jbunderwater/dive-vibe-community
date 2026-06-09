@@ -23,7 +23,7 @@ The wooden jetty at the village of Sawandarek sits above a shallow rubble and co
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet)

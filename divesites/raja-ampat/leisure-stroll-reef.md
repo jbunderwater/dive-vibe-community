@@ -19,7 +19,7 @@ A shallow, relaxed reef dive near Kalig Island in Misool. Maximum depth of just 
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
 

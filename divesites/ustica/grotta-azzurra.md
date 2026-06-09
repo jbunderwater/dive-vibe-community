@@ -17,7 +17,7 @@ Grotta Azzurra is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Grotta Azzurra is one of Ustica's most photogenic cave sites, entered through an imposing natural rock arch that floods the cavern with deep blue light when the sun angle is right. Located along the island's jagged western coast within Italy's first Marine Protected Area, the cave system connects to several neighbouring grottoes and a multitude of boulder-collapse passages that play remarkable light shows across sponge-encrusted walls. Grouper, wrasse, and damselfish are abundant in the shallows outside the entrance, making this a rewarding dive for beginners who want a true Mediterranean cave experience.
+Grotta Azzurra (Blue Grotto) is one of Ustica's most accessible cave sites, located just beyond the harbour entrance. The cave consists of a large room approximately 30 metres in diameter from which two branches lead into further sections and rooms. It connects via a partially submerged tunnel to the adjoining Grotta di San Francesco, forming a single cave complex. Light rays penetrating from outside create the characteristic blue colour effects. The site accommodates multiple dive routes suitable for all certification levels, and is used by local dive operators for courses. No confirmed species list specific to this site was found from independent sources; the general Ustica MPA fauna applies.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Grotta Azzurra is one of Ustica's most photogenic cave sites, entered through an
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*Sources: [EnjoyScilia - Grotta Azzurra Ustica](https://www.enjoysicilia.it/en/isola-di-ustica/ustica/grotta-azzurra-a-ustica/), [Divessi - Grotta Azzurra](https://www.divessi.com/en/mydiveguide/divesite/grotta-azzurra-italy-202415), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-06-08.*

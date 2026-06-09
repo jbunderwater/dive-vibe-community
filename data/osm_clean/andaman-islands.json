@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No site-specific sources found. Not listed by any Havelock dive operator. Cannot validate."
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. No site-specific sources found under any spelling variant (Guoddus, Guodus, Guddus). Not listed by any Havelock dive operator (Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Lacadives, Gypsy Divers, The Divemaster Havelock). Cannot validate."
     }
   },
   {
@@ -35,7 +35,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "barefootscuba.in,seahawksscuba.in,diveandaman.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. Depth 55m confirmed by Barefoot Scuba, Seahawks Scuba, Dive Andaman. 200m reef extent confirmed. Marine life (Napoleon wrasse, trevally, barracuda, scorpionfish, stonefish) confirmed. Site description accurate."
     }
   },
   {
@@ -54,7 +55,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scubalov.in,andamantourism.org,travelsetu.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. Depth 15m (10-16m range) confirmed by scubalov.in; travelsetu.com erroneously reports 30m — this conflicts with scubalov.in and andamantourism.org; 15m is supported by majority of operator sources. Vessel type is wooden cargo vessel (not fishing boat). Sinking month April 2006 confirmed by scubalov.in. Beginner difficulty confirmed. Marine life (cardinalfish, parrotfish, triggerfish, seahorses, crocodilefish) confirmed by scubalov.in."
     }
   },
   {
@@ -73,8 +75,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17",
-      "qa_note": "No site-specific sources found under this name. Karen brothers named sites are Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar — not Johnson's Reef. Cannot validate."
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. No site-specific sources found under this name. Checked Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Lacadives, Gypsy Divers — none list Johnson's Reef. Known Karen-brothers-named sites are Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar. Cannot validate."
     }
   },
   {
@@ -92,8 +94,9 @@
       "scuba_diving:divespot": "South Button",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "diveindia.com,touristinindia.com,andamanislands.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "touristinindia.com,wikipedia.org,andamanislands.com",
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. Updated validation sources to include wikipedia.org (South Button Island National Park article confirms smallest national park status, lists manta rays, devil rays, turtles). touristinindia.com confirms leopard shark as occasional visitor at eastern coral garden. West wall to 25m confirmed. Removed incorrect previous note that leopard sharks could not be confirmed — touristinindia.com specifically confirms occasional sightings at this site."
     }
   },
   {
@@ -111,8 +114,9 @@
       "scuba_diving:divespot": "Duncan's Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "frogman.in,private-scuba.com,diveandaman.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "frogman.in,private-scuba.com,seahawksscuba.in",
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. SS Inchkeith wreck details confirmed: built 1923 John Priestman & Co Sunderland, 111m long, 16m wide, 4,290 GRT (private-scuba.com), sank 2 March 1955 near Duncan Island carrying coal and timber. Depth 6-22m confirmed by frogman.in and seahawksscuba.in. Marine life (groupers, barracuda, scorpionfish, cleaner shrimp, nudibranchs) confirmed. Tonnage 4,290 GRT from private-scuba.com — not independently confirmed by a primary maritime source (Lloyd's Register not accessible online for 1923). Claim retained with caveat. Updated validation_source to replace diveandaman.com with seahawksscuba.in as Seahawks provides additional corroborating detail."
     }
   },
   {
@@ -130,8 +134,9 @@
       "scuba_diving:divespot": "Dixon's",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "diveandaman.com,private-scuba.com,scubalov.in",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "diveandaman.com,frogman.in,diveindia.com",
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. Three pinnacles rising from 35-40m+ confirmed by frogman.in, diveandaman.com, diveindia.com. Discovery in 2006 confirmed by diveindia.com blog. Karen brothers (Poayesay family) connection confirmed. Depth 16-35m confirmed. Marine life (manta rays, Napoleon wrasse, barracuda, trevally, reef sharks, turtles, yellow soft corals, barrel sponges) confirmed. Updated validation sources to replace private-scuba.com with frogman.in and add diveindia.com for third independent source."
     }
   },
   {
@@ -150,7 +155,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "diveandaman.com,seahawksscuba.in,diveindia.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08",
+      "qa_note": "Re-audited 2026-06-08. Depth confirmed: diveandaman.com states 6-20m; seahawksscuba.in says reef descends to 23m — minor discrepancy, 20m retained as maximum recreational depth. Location ~3km west of ferry jetty confirmed. Night diving confirmed as available by diveandaman.com and seahawksscuba.in. Marine life (lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, moray eels, nudibranchs, Kuhl's stingrays, octopuses, lobsters) confirmed by both sources."
     }
   },
   {
@@ -175,9 +181,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,nzherald.co.nz,geosat.space",
-      "last_qa_date": "2026-05-17",
-      "note": "Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population. 16,000-ton cargo ship grounded August 2, 1981, en route Bangladesh to Australia with chicken feed. 31 crew rescued by ONGC helicopter. Wreck remains on reef; Sentinelese scavenged iron for arrowheads. Depth null — not a dive site."
+      "validation_source": "wikipedia.org,nzherald.co.nz,upi.com",
+      "last_qa_date": "2026-06-08",
+      "note": "Re-audited 2026-06-08. Protected site near North Sentinel Island. Diving prohibited per Indian regulations. 16,000-ton cargo ship grounded 2 August 1981, en route Bangladesh to Australia with chicken feed. Crew count: NZ Herald and most sources confirm 31 total (UPI archive headline says 28 sailors, likely excluding officers — GEOSAT blog erroneously reports 20 crew; 31 is the consensus figure). Captain Liu Chunglong. Rescued by ONGC helicopter. In 1991, salvage operators Mohamed Brothers were authorised by the Indian government to dismantle vessel; Sentinelese confronted salvors with weapons. Sentinelese scavenged iron for arrowheads — confirmed by Wikipedia and GEOSAT. Updated validation_source to replace geosat.space with upi.com (UPI 1981 archive provides contemporaneous reporting)."
     }
   }
 ]

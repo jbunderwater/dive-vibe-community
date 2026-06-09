@@ -54,4 +54,4 @@ The site is listed by local dive operators as suitable for underwater photograph
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Lustrica Diving Ustica — dive sites](https://www.lustricadiving.it/dives/?lang=en), [Profondo Blu Diving Ustica — Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html), [Evasioni Blu Diving — Secca della Colombara / Ustica](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-05-17.*
+*Sources: [Lustrica Diving Ustica — dive sites](https://www.lustricadiving.it/dives/?lang=en), [Profondo Blu Diving Ustica — Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html), [Evasioni Blu Diving — Secca della Colombara / Ustica](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-06-08.*

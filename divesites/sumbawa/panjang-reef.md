@@ -23,7 +23,7 @@ Panjang is a banked, colourful reef sitting in shallow water north of Angel Reef
 
 - **Location**: Northwest corner of Moyo Island, Sumbawa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Visibility**: 15–35 metres

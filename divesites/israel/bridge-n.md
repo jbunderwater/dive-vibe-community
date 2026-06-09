@@ -23,7 +23,7 @@ BRIDGE N is located at the southern end of Eilat's diving coast, near where the 
 
 - **Location**: Southern Eilat, near Princess Hotel bridge, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters
 - **Current**: Gentle southerly drift; generally mild
@@ -53,4 +53,4 @@ Shore entry from the beach near the Princess Hotel bridge. Note that access to t
 
 The southernmost Eilat sites are unorganized beaches with no lifeguard service. Dive with a buddy and carry an SMB. Be mindful of the proximity to the Egyptian border — diving zones end at the international border crossing.
 
-*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [eilatredsea.com](https://www.eilatredsea.com/?CategoryID=169). Last updated 2026-04-11.*
+*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [eilatredsea.com](https://www.eilatredsea.com/?CategoryID=169). Last updated 2026-06-08.*

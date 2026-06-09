@@ -59,4 +59,4 @@ Currents are generally mild but can increase with tidal changes. Night dives req
 The shallow, calm reef provides ideal conditions for both wide-angle reef photography and macro shots of nudibranchs and small reef fish. Natural light penetrates well in the shallows during morning hours.
 
 ---
-*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/). Last updated 2026-06-08.*

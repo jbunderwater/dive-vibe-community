@@ -23,7 +23,7 @@ Chubb Reef lies within the outer cluster of Montego Bay Marine Park dive sites, 
 
 - **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -63,4 +63,4 @@ Brain coral formations with turtles as subjects are the signature shot at Chubb 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Last updated 2026-06-08.*

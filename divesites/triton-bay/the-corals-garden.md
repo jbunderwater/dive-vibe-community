@@ -23,7 +23,7 @@ The Corals Garden lives up to its name in the most literal sense: this is not a 
 
 - **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 8-18 meters

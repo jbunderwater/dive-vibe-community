@@ -19,7 +19,7 @@ Soft coral reef in the Daram area of Misool, near the Fiabacet island cluster.
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

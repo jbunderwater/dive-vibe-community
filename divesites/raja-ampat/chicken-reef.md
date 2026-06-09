@@ -23,7 +23,7 @@ Chicken Reef sits in the productive eastern section of the Dampier Strait near t
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters (40–65 feet)

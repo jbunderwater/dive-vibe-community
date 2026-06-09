@@ -55,7 +55,7 @@ The colourful hard coral garden in 5–10 metres of water makes excellent wide-a
 
 - **Location**: Sangalaki Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 

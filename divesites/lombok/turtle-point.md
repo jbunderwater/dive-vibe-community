@@ -23,7 +23,7 @@ Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has beco
 
 - **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m

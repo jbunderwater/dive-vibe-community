@@ -23,7 +23,7 @@ The name says everything: Flasher Beach in Triton Bay, West Papua, Indonesia, is
 
 - **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8-18 meters

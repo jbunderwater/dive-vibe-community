@@ -17,7 +17,7 @@ Nereo Cave is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Nereo Cave is widely cited as the largest marine cave in the Mediterranean, a labyrinthine system carved into the limestone cliffs of Capo Caccia with more than ten separate entrances and passages connecting at depths of 29-32 meters. The walls are draped in dense red coral colonies, yellow sponges, and sea daisies, and several chambers contain air pockets where divers can surface briefly before continuing through the tunnels. Spiny lobsters, scorpionfish, and dense schools of bream shelter inside, while the cave's multiple entrances allow natural ambient light to create dramatic beams through the water on calm mornings.
+Nereo Cave is widely cited as the largest marine cave in the Mediterranean, a labyrinthine system carved into the limestone cliffs of Capo Caccia, 100 metres north of Neptune's Grotto. The cave system has approximately ten separate entrances and extends to a total surveyed length of around 4,000 metres, with dive depths ranging from the surface to 35 metres. The walls are draped in dense red coral colonies and yellow leptosamnia sponges, and several chambers contain air pockets where divers can surface briefly before continuing through the tunnels. Lobsters, conger eels, moray eels, and groupers shelter inside, while the cave's multiple entrances allow natural ambient light to create dramatic beams through the water on calm mornings. The cave lies within the Capo Caccia-Isola Piana Marine Protected Area established in 2003.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Nereo Cave is widely cited as the largest marine cave in the Mediterranean, a la
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Nereo Cave](https://en.wikipedia.org/wiki/Nereo_Cave), [SardegnaTurismo - Nereo's Cave](https://www.sardegnaturismo.it/en/explore/nereos-cave), [CaveAtlas - Nereo Cave Italy](http://www.caveatlas.com/systems/system.asp?ID=822&co=IT). Last updated 2026-06-08.*

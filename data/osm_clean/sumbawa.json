@@ -10,7 +10,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, dive-the-world.com"
+      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -24,7 +26,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS"
+      "validation_source": "ScubaBoard GPS",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -38,7 +43,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com, asiadivesite.com"
+      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -52,7 +59,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, michaelmcfadyenscuba.info"
+      "validation_source": "ScubaBoard GPS, michaelmcfadyenscuba.info",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -66,7 +76,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS"
+      "validation_source": "ScubaBoard GPS",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -80,7 +93,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS"
+      "validation_source": "ScubaBoard GPS",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -94,7 +110,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "asiadivesite.com, liveaboardindonesia.com"
+      "validation_source": "asiadivesite.com,liveaboardindonesia.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "Only 2 sources found."
     }
   },
   {
@@ -108,7 +127,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "kalimayadiveresort.com"
+      "validation_source": "kalimayadiveresort.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -122,7 +144,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, kalimayadiveresort.com"
+      "validation_source": "ScubaBoard GPS, kalimayadiveresort.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -136,7 +161,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS"
+      "validation_source": "ScubaBoard GPS",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -150,7 +178,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, liveaboardindonesia.com"
+      "validation_source": "ScubaBoard GPS, liveaboardindonesia.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -164,7 +195,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, asiadivesite.com"
+      "validation_source": "ScubaBoard GPS, asiadivesite.com",
+      "validated": "false",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
     }
   },
   {
@@ -178,7 +212,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "masterliveaboards.com, dive-the-world.com"
+      "validation_source": "masterliveaboards.com,dive-the-world.com,neptuneliveaboards.com",
+      "validated": "true",
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -190,13 +226,16 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "asiadivesite.com, starfish.ch, liveaboardindonesia.com, ScubaBoard user Dan (GPS)",
+    "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
     "tags": {
       "name": "Lighthouse Reef",
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "Sheltered muck and macro diving site in a bay on the northeast side of Sangeang Island. Black volcanic sand slopes mixed with colorful coral garden. Premier critter diving with frogfish, nudibranchs, boxer crabs, pipefishes, pygmy seahorses, cuttlefish, and flame file shells with their signature electric-flash light displays. Calm conditions with minimal current make it suitable for less experienced divers compared to other Sangeang sites."
+      "description": "Sheltered muck and macro diving site in a bay on the northeast side of Sangeang Island. Black volcanic sand slopes mixed with colorful coral garden. Premier critter diving with frogfish, nudibranchs, boxer crabs, pipefishes, pygmy seahorses, cuttlefish, and flame file shells with their signature electric-flash light displays. Calm conditions with minimal current make it suitable for less experienced divers compared to other Sangeang sites.",
+      "validated": "true",
+      "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

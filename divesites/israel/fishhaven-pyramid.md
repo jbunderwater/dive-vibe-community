@@ -23,7 +23,7 @@ Known locally as "The Pyramid," this site features two nested metal pyramid stru
 
 - **Location**: Northern Eilat resort zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-35 meters
 - **Current**: Generally light
@@ -53,4 +53,4 @@ Shore entry from the northern resort beach zone. The swim to the structure requi
 
 Depth profile requires Advanced certification for full exploration to 32 meters. The shore entry requires good navigation to find the structure underwater. Carry adequate air for the swim distance and safety stop. Be aware of gradual narcosis effects at 30+ meters.
 
-*Sources: [eilatredsea.com](https://www.eilatredsea.com/?CategoryID=169), [zentacle.com](https://www.zentacle.com/loc/il/south-district/beer-sheva/eilat), [mdpi.com](https://www.mdpi.com/2673-1924/5/1/5). Last updated 2026-04-11.*
+*Sources: [eilatredsea.com](https://www.eilatredsea.com/?CategoryID=169), [zentacle.com](https://www.zentacle.com/loc/il/south-district/beer-sheva/eilat), [mdpi.com](https://www.mdpi.com/2673-1924/5/1/5). Last updated 2026-06-08.*

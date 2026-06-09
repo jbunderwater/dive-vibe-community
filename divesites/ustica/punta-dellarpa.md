@@ -3,7 +3,7 @@ name: Punta dell'Arpa
 lat: 38.72
 lng: 13.18
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ Punta dell'Arpa is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Punta dell'Arpa — the Tip of the Harp — lies on Ustica's southern coast where a rockfall of large boulders leads down to a sandy bottom at 40 metres, and the walls and crevices between them are blanketed in spectacular forests of red gorgonians from around 34 metres upward. The swim through tunnels and passages formed by the collapsed volcanic rock culminates in the gorgonian forest, with shy lobsters tucked into the deeper crevices and large barracuda frequently hovering in the current nearby. This is one of Ustica's most rewarding dives for those willing to drop to depth, requiring an advanced certification to appreciate the full spectacle.
+Punta dell'Arpa (Tip of the Harp) is located at the southernmost point of Ustica, identifiable on the surface by the "scoglio del cornutone" rocky outcrop. Two large volcanic rocks rise from a sandy base at 40 metres, their walls colonized by red gorgonian forests. The dive route follows passages and tunnels formed by boulder-collapse volcanic rock, reaching the gorgonian forest at depth. Arches covered with orange madrepore (Astroides calycularis) are a feature of the shallower approach. Confirmed marine life includes red and brown groupers, lobsters, forkbeards, black moray eels, nudibranchs, amberjacks, jacks, and seasonal young barracuda.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Punta dell'Arpa — the Tip of the Harp — lies on Ustica's southern coast wher
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*Sources: [Orca Diving Ustica - Punta dell'Arpa](https://www.orcadivingustica.com/en/dive-sites/punta-dellarpa), [Tribloo - Punta dell'Arpa](https://www.tribloo.com/en/dive-sites/613/punta-dellarpa.html), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-06-08.*

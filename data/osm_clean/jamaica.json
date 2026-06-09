@@ -1,17 +1,19 @@
 [
   {
     "name": "Widowmaker's Cave",
-    "lat": 18.36,
-    "lon": -78.36,
+    "lat": 18.491,
+    "lon": -77.939,
     "depth": 25,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "PADI Jamaica diving guides, multiple dive center references",
+    "validation_source": "padi.com,divezone.net,scubaboard.com,jamaicascene.com,thescubadirectory.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Coordinates corrected from 18.36/-78.36 (Negril) to ~18.491/-77.939 (Montego Bay Marine Park). PADI confirms coordinates 18.49133,-77.93907. Multiple sources confirm cave is in Montego Bay, not Negril."
     }
   },
   {
@@ -23,10 +25,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "PADI Jamaica diving guides - iconic cavern dive 40-70 feet",
+    "validation_source": "divezone.net,scubaboard.com,bluewaterdivetravel.com,thescubadirectory.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Depth confirmed 40-70ft (12-21m). Orange elephant ear sponges confirmed. Negril location confirmed (Bloody Bay area). Dolphin sighting claim removed - not site-specific."
     }
   },
   {
@@ -38,10 +42,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI - beginner-friendly reef in marine protected area",
+    "validation_source": "divezone.net,padi.com,scubacaribe.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Marine park established 1991 confirmed. Multiple sites within park confirmed. Depth range 3-15m confirmed."
     }
   },
   {
@@ -53,10 +59,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Negril wall diving references - 90+ foot walls require AOW",
+    "validation_source": "divezone.net,scubaboard.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Wall dive confirmed for southwestern Negril reef tip. Deep wall to 90ft+ confirmed by multiple sources."
     }
   },
   {
@@ -68,25 +76,29 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef diving - shallow beginner site",
+    "validation_source": "divezone.net,padi.com,scubacaribe.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Within Montego Bay Marine Park confirmed. Shallow reef with small plane wreck at ~12m confirmed."
     }
   },
   {
     "name": "Shallow Plane Wreck",
-    "lat": 18.37,
-    "lon": -78.35,
-    "depth": 10,
+    "lat": 18.368,
+    "lon": -78.358,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Montego Bay wreck references - airplane wreck at shallow depth",
+    "validation_source": "scubaboard.com,divezone.net,fiwiroots.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Depth corrected from 10m to ~17m (55ft per ScubaBoard; 60ft/18m per other sources). Difficulty upgraded from Beginner to Intermediate accordingly. Near The Arches confirmed. Aircraft is a Cessna. Coordinate kept near Arches/Bloody Bay area per ScubaBoard reference."
     }
   },
   {
@@ -98,10 +110,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI Negril diving - Arches 40-60 feet with wall explorations",
+    "validation_source": "scubaboard.com,divezone.net,fiwiroots.com,hedodiving.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Swim-through arches at 40-60ft confirmed. Hedo Diving and multiple sources confirm location and type."
     }
   },
   {
@@ -112,11 +126,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "Historical Port Royal reef dives - shallow 10-35 feet ruins and reefs",
+    "validated": false,
+    "validation_source": "divezone.net,scubaboard.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Only 2 independent sources found for site-specific details. Port Royal historical ruins access requires government permission (UNESCO site). This reef adjacent to Port Royal is distinct from the restricted ruins dive. Cannot achieve 3 independent site-specific sources - left unvalidated."
     }
   },
   {
@@ -128,10 +144,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI Ocho Rios - beginner reef within 32-131 feet range",
+    "validation_source": "scubacaribe.com,my-island-jamaica.com,divezone.net,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "SS Kathryn history corrected: sunk 1991 (not 1950s) as artificial reef. Length sources conflict: 120ft (my-island-jamaica.com) vs 140ft (wannadive, zentacle, divebooker). Both claims documented. Reef sites confirmed: Great House Reef, Jewel Reef, wall sites per ScubaCaribe."
     }
   },
   {
@@ -143,10 +161,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Zentacle - Runaway Bay Wall 125+ feet deep with anchored wall dives",
+    "validation_source": "scuba-jamaica.com,fiwiroots.com,scubaboard.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Wall confirmed, drops to 130ft+ per scuba-jamaica.com. Cayman Trench proximity to north coast confirmed (between Jamaica and Cayman Islands). Canyon, Groupers Drop, Pockets Reef, Reggae Queen confirmed as Runaway Bay sites."
     }
   },
   {
@@ -157,11 +177,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "Negril area - deep wall dives feeding from Cayman Trench currents",
+    "validated": false,
+    "validation_source": "divezone.net",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Cannot find 3 independent sources for this as a distinct named dive site. The Cayman Trench is between Jamaica and the Cayman Islands (not immediately off Negril specifically). This appears to be a curated/descriptive entry rather than a documented named site. Left unvalidated."
     }
   },
   {
@@ -173,10 +195,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef site - shallow beginner-friendly coral gardens",
+    "validation_source": "divezone.net,padi.com,scubacaribe.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Within Montego Bay Marine Park confirmed. Shallow coral garden character confirmed."
     }
   },
   {
@@ -189,13 +213,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "PADI Port Antonio dive center - reef and wall diving 30-110 feet",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Lady G'Diver",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "FLAGGED: Lady G'Diver is a PADI 5-Star dive operator/facility near Port Antonio, NOT a dive site. OSM tagged sport=scuba_diving at operator premises. Should be removed or replaced with an actual named dive site (e.g., Paul Bogle Shipwreck at 60ft/18m operated by Lady G'Diver, or Alligator Head reef). NOT validated as a dive site."
     }
   },
   {
@@ -209,13 +235,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Montego Bay reef - shallow 40 feet with Bermuda Chubb schools",
+    "validation_source": "divezone.net,padi.com,scubacaribe.com",
     "tags": {
       "name": "Chubb Reef (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Montego Bay Marine Park reef confirmed. Shallow beginner character confirmed. Name refers to Bermuda chubs (schoolmaster fish) seen at site."
     }
   },
   {
@@ -228,14 +256,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bowden Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific sources found beyond OSM. Southeast Jamaica coast receives almost no documented recreational dive traffic. Cannot achieve 3 independent sources. Previous validation_source 'perplexity' is not an independent source. Left unvalidated."
     }
   },
   {
@@ -248,15 +277,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Dead Man's Bones",
       "natural": "reef",
       "wikidata": "Q27119118",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. OSM entry exists. Southeast Jamaica coast is rarely dived commercially. Cannot achieve 3 independent sources. Previous 'perplexity' source not valid. Left unvalidated."
     }
   },
   {
@@ -269,14 +299,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found beyond OSM. North coast cay between Montego Bay and Falmouth. Previous 'perplexity' validation insufficient. Left unvalidated."
     }
   },
   {
@@ -290,13 +321,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "DiveBuddy - Fish Pond Montego Bay reef 51-60 feet with caverns",
+    "validation_source": "divezone.net,padi.com,scubacaribe.com",
     "tags": {
       "name": "Fish Pond (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Montego Bay Marine Park site with caverns/overhangs confirmed. Eagle ray sightings confirmed. Depth 51-60ft (15-18m) confirmed."
     }
   },
   {
@@ -309,14 +342,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "DiveBuddy - adjacent to Fish Pond with similar characteristics",
+    "validated": false,
+    "validation_source": "divezone.net,padi.com",
     "tags": {
       "name": "Fish Pond Edge (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Adjacent to Fish Pond in Montego Bay Marine Park. Only 2 distinct sources found specifically for this as a separate site from Fish Pond. Left unvalidated separately."
     }
   },
   {
@@ -330,13 +365,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI Montego Bay - iconic 30 feet beginner stingray encounter site",
+    "validation_source": "thescubadirectory.com,padi.com,divezone.net,scubacaribe.com",
     "tags": {
       "name": "Stingray City (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Sandy bottom at ~30ft/9m confirmed. Southern stingrays confirmed. Montego Bay Marine Park location confirmed. Multiple operator sources confirm site."
     }
   },
   {
@@ -350,14 +387,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "perplexity",
+    "validation_source": "padi.com,scubacaribe.com,divezone.net",
     "tags": {
       "name": "Pelican Reef (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Montego Bay Marine Park reef confirmed. Beginner shallow reef character confirmed."
     }
   },
   {
@@ -370,14 +408,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "scubaboard.com",
     "tags": {
       "name": "Gun Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "ScubaBoard confirms 'the reefs around the other cays (Maiden and drunkenmans) are diveable' for this area. Only 1 source found. Cannot achieve 3 independent sources for this specific cay. Left unvalidated."
     }
   },
   {
@@ -390,14 +429,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "scubaboard.com",
     "tags": {
       "name": "Rackhmans Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "ScubaBoard confirms 'Rackhmans Cay' as diveable in Kingston/south coast area. Only 1 source found specifically. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -410,14 +450,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "West Middle Shoal",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found beyond OSM. South coast shoal reef. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -430,14 +471,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "scubaboard.com",
     "tags": {
       "name": "Drunkenmans Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "ScubaBoard mentions Drunkenmans Cay as diveable near Kingston. Only 1 source found. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -450,14 +492,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "South East Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. South Jamaica coastal cay. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -470,14 +513,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "scubaboard.com",
     "tags": {
       "name": "Maiden Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "ScubaBoard confirms Maiden Cay as diveable near Kingston ('Maiden Cay NW' listed as dive site). Only 1 source found for this specific cay. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -490,14 +534,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "South Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found beyond OSM. South Jamaica coastal cay. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -510,15 +555,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bush Reef",
       "natural": "reef",
       "wikidata": "Q27120334",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "Has Wikidata entry Q27120334 confirming geographic existence, but no dive-specific sources found. Cannot achieve 3 independent dive sources. Left unvalidated."
     }
   },
   {
@@ -531,14 +577,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "One Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. North Jamaica coast cay. Previous 'perplexity' validation insufficient. Left unvalidated."
     }
   },
   {
@@ -551,14 +598,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bare Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. South Jamaica coastal cay. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -571,14 +619,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Careening Island",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. South Jamaica coast. Cannot achieve 3 independent sources. Left unvalidated."
     }
   },
   {
@@ -591,14 +640,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "perplexity",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "name": "Bucknors Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "last_qa_date": "2026-06-08",
+      "qa_notes": "No site-specific dive sources found. North Jamaica coast reef. Previous 'perplexity' validation insufficient. Left unvalidated."
     }
   }
 ]

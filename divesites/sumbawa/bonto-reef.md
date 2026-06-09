@@ -23,7 +23,7 @@ Bonto Reef is the go-to site for nudibranch hunters in the Sangeang area. The si
 
 - **Location**: West side of Sangeang Island, east Sumbawa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Currents**: Light

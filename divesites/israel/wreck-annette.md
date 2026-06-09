@@ -36,4 +36,4 @@ The wreck is accessed by boat from Ashdod Marina and is likely dived alongside t
 Wreck sites in this zone attract grouper, sea bream, moray eels, octopus, and encrusting invertebrates. The metal hull provides artificial reef habitat.
 
 ---
-*Description based on OSM data, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-04-11.*
+*Description based on OSM data, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-06-08.*

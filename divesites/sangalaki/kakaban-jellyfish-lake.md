@@ -5,7 +5,7 @@ lng: 118.497
 difficulty: Beginner
 maxDepth: 17
 entryType: shore
-siteType: reef
+siteType: beach
 ref: null
 osmId: null
 addedBy: osm_import
@@ -59,7 +59,7 @@ The jellyfish lake offers extraordinary opportunities for wide-angle snorkel pho
 
 - **Location**: Kakaban Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Beach dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
 

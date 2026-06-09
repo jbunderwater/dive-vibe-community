@@ -19,7 +19,7 @@ A ridge near Fiabacet with grey sharks, groupers, and yellowfin barracuda. Fish 
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 

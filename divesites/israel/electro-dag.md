@@ -37,4 +37,4 @@ Mediterranean wreck species: grouper, sea bream, moray eels, octopus, and encrus
 
 Plan gas appropriately for depth. Deploy SMB on ascent. If diving the deeper variant (~46 m), Advanced certification required.
 
-*Sources: [ScubaBoard Israel thread](https://scubaboard.com/community/threads/is-there-any-good-diving-near-tel-aviv.70339/). Last updated 2026-04-11.*
+*Sources: [ScubaBoard Israel thread](https://scubaboard.com/community/threads/is-there-any-good-diving-near-tel-aviv.70339/). Last updated 2026-06-08.*

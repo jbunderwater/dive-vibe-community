@@ -13,7 +13,7 @@
       "validated": "true",
       "validation_source": "starfish.ch,neptuneliveaboards.com,diveplanit.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -31,7 +31,7 @@
       "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com",
       "coordinates_note": "West of Laha along same coastline per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -49,7 +49,7 @@
       "validation_source": "en.wikipedia.org,starfish.ch,neptuneliveaboards.com",
       "coordinates_note": "Laha I area (Maluku Divers/Spice Island Divers) where psychedelic frogfish was first photographed January 2008",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -66,7 +66,7 @@
       "validated": "true",
       "validation_source": "diveplanit.com,bluewaterdivetravel.com,starfish.ch",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -84,7 +84,7 @@
       "validation_source": "indonesia-tourism.com,indopacificimages.com,bottles-up-diving.com",
       "coordinates_note": "South coast of Ambon Island",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -102,7 +102,7 @@
       "validation_source": "starfish.ch,bottles-up-diving.com,indopacificimages.com",
       "coordinates_note": "South shore of inner Ambon Bay opposite Laha per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -120,7 +120,7 @@
       "validation_source": "en.wikipedia.org,indopacificimages.com,coralia-liveaboard.com",
       "coordinates_note": "Northern Ambon Bay near main harbor",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -137,7 +137,7 @@
       "validated": "true",
       "validation_source": "starfish.ch,indopacificimages.com,bottles-up-diving.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -155,7 +155,7 @@
       "validation_source": "indopacificimages.com,divehappy.com,diveplanit.com",
       "coordinates_note": "Jetty area near Laha village / Pertamina fuel jetty, northwestern Ambon Bay near airport",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -173,7 +173,7 @@
       "validation_source": "starfish.ch,bottles-up-diving.com,bluewaterdivetravel.com",
       "coordinates_note": "Eastern Ambon Bay near Amahusu/Amahusa village",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

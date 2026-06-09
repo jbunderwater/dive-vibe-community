@@ -23,7 +23,7 @@ Crystal Bay sits at the northwestern corner of Nusa Penida island, where cold up
 
 - **Location**: Nusa Penida, near Komodo National Park region, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters (reduced to 10m during plankton blooms)

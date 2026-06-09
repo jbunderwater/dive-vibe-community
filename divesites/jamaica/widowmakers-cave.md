@@ -1,7 +1,7 @@
 ---
 name: Widowmaker's Cave
-lat: 18.36
-lng: -78.36
+lat: 18.491
+lng: -77.939
 difficulty: Advanced
 maxDepth: 25
 entryType: boat
@@ -13,15 +13,17 @@ addedBy: osm_import
 
 # Widowmaker's Cave
 
-Montego Bay's most famous dive — a dramatic reef tunnel lined with black coral that exits onto the wall at 25 metres.
+Montego Bay's signature dive — a natural limestone tunnel through the reef that opens at 11 metres and exits onto the wall at 24–25 metres, named for the James Jones novel set in Jamaica.
 
 ## Overview
 
-Widowmaker's Cave is the signature dive site of Montego Bay and one of the most recognizable names in Caribbean diving. The site takes its name from the James Jones novel "Go to the Widowmaker," and the cave lives up to its dramatic reputation. The entrance opens on the reef face at around 11 metres (35 feet) and the tunnel descends through the reef structure, exiting onto the wall at approximately 24–25 metres (80 feet). The passage is narrow in sections — a chimney-like section requires divers to pass through individually — and the walls are covered with black coral and soft red polyps. The experience of swimming through this reef tunnel and emerging onto the open wall is one of the most memorable in Jamaican diving.
+Widowmaker's Cave is the most famous dive site in Montego Bay and one of the most recognizable names in Caribbean diving. The site sits within the boundaries of the Montego Bay Marine Park. The cave takes its name from the James Jones novel "Go to the Widowmaker," whose protagonist's underwater adventures in Jamaica were inspired by the site. The tunnel is a natural formation in the limestone reef, approximately 10 feet wide in the main passage, with a chimney-like section that narrows before opening again. Divers enter through an opening at around 11 metres (35 feet), descend through the passage, and exit onto the wall at approximately 24–25 metres (80 feet). The walls of the passage are covered with soft corals, gorgonians, and encrusting sponges. The contrast between the darkened cave interior and the brilliant blue at the exit makes it one of the most visually dramatic moments in Jamaican diving.
+
+**Note on location:** Widowmaker's Cave is in the Montego Bay Marine Park (coordinates ~18.491°N, 77.939°W), not in Negril as is sometimes listed in secondary sources.
 
 ## Site Information
 
-- **Location**: Montego Bay, Jamaica
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
@@ -32,35 +34,30 @@ Widowmaker's Cave is the signature dive site of Montego Bay and one of the most 
 
 ## Marine Life
 
-The cave walls are draped with black coral formations, encrusting sponges, and soft red polyps. Just inside the entrance, banded coral shrimp are frequently found at cleaning stations. Creole wrasse and parrotfish are common on the outer reef above the cave. Hawksbill turtles are regular visitors around the cave entrance. Large grouper and snapper congregate near the wall exit. Barracuda often hang in the water column above the site. On the wall itself, large sea fans and azure vase sponges appear at depth.
+The cave walls are covered with soft corals, gorgonians, and encrusting sponges in the passage interior. Schools of bogas, glassy sweepers, and schoolmaster snappers are commonly observed inside the passage. Parrotfish, Creole wrasse, and blue angelfish are seen on the outer reef approaching the cave. Hawksbill turtles are reported at the site. Grouper congregate near the wall exit at depth. Large barracuda frequently hang above the site in the water column.
 
 ## Dive Profile
 
-Descend to the cave entrance at 11 metres. Swim through the passage, which descends progressively to the exit point at 24–25 metres. The narrowest section requires single-file passage. Upon exiting on the wall, explore along the wall face before beginning a gradual ascent. Ascend to 15 metres along the wall for exploration, then to 5 metres for your 3-minute safety stop. Divers can also enter from the bottom near the 24-metre mark. Manage air carefully — the penetration section requires adequate reserve for the passage and wall exploration.
+Descend to the cave entrance at 11 metres. Swim through the passage, which descends progressively to the exit at 24–25 metres. The narrowest section requires single-file passage. Upon exiting onto the wall, explore along the wall face before beginning a gradual ascent. Manage air carefully — the penetration section requires adequate reserve for passage and wall exploration. Ascend the wall to 5 metres for a 3-minute safety stop. Two entry options exist: from the top (reef at 35 ft/11m) or from below on the wall (80 ft/24m).
 
 ## Entry and Exit
 
-Access by dive boat from Montego Bay operators. Entry via giant stride or back roll. Boats moor on the reef near the cave entrance. On exit, ascend to the reef top and deploy SMB for boat pickup. Do not attempt this dive without an experienced local guide on your first visit — knowing the exact location of the entrance and exit is essential.
+Access by dive boat from Montego Bay operators including ScubaCaribe Montego Bay and Dressel Divers. Boats moor within the Marine Park on mooring buoys. Entry via giant stride or back roll. A local guide who knows the exact cave entrance location is strongly recommended for first-time visitors. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- This dive is for advanced divers and above — strong buoyancy skills are mandatory
-- Bring a dive torch to illuminate the cave interior and reveal the colors of the black coral and sponges
-- The wall exit is a dramatic moment — pause and look into the blue before beginning your ascent
-- Two entry options exist: from the top (reef at 35 ft) or from the bottom (wall at 80 ft)
+- Advanced divers and above only — strong buoyancy skills are mandatory
+- Bring a dive torch to illuminate the passage interior
+- The wall exit is a dramatic moment — pause and orient before ascending
+- Two entry options exist: from the reef top at 35 ft, or from the wall at 80 ft
 
 ## Safety Considerations
 
-The narrow chimney section must be navigated single file. Turn back immediately if you feel any discomfort or if visibility drops inside. Maintain a third of your tank air in reserve before entering. Do not attempt solo cave navigation. The wall drops significantly deeper than the recreational limit beyond 25 metres — monitor your depth carefully on exit.
+The narrow section must be navigated single file. Turn back immediately if you feel discomfort or if visibility inside the passage drops. Maintain at least one-third tank reserve before entering. Do not attempt solo navigation. The wall beyond the exit drops significantly deeper than the recreational limit — monitor depth carefully on exit. This is a cave dive requiring advanced buoyancy control; it is not a beginner site.
 
 ## Photography
 
-The cave interior offers dramatic low-key images lit by a dive torch. The contrast between the dark cave interior and the blue water framed at the exit is a compelling composition. Position a diver in the exit portal for scale. On the outer wall, wide-angle captures the sea fans and sponge formations beautifully.
-
-## Additional Resources
-
-- **Local Operators**: ScubaCaribe Montego Bay, Dressel Divers Montego Bay
-- **Last Updated**: 2026-03-28
+The cave interior offers dramatic low-key images lit by a dive torch. The contrast between the dark passage interior and the blue water framed at the exit is a compelling composition. Position a diver in the exit portal for scale. On the outer wall, wide-angle captures sea fans and sponge formations effectively.
 
 ---
-*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*
+*Sources: [PADI - Widow Maker Cave](https://www.padi.com/dive-site/jamaica/widow-maker-cave/), [Jamaica Gleaner - Exploring Widowmaker's Cave](https://jamaica-gleaner.com/article/art-leisure/20240519/exploring-widowmakers-cave-montego-bay), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [The Scuba Directory - Widowmaker's Cave](https://thescubadirectory.com/divesiteprofile/Widowmaker%E2%80%99s-Cave-Montego-Bay-Jamaica-Dive-Site), [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Last updated 2026-06-08.*

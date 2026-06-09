@@ -17,7 +17,7 @@ Cala Gonone is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Cala Gonone is the gateway to the Bue Marino sea caves on Sardinia's Gulf of Orosei coast, where a remarkable halocline marks the meeting of fresh spring water and salt sea inside the cave chambers. The caves reach depths of around 9 meters and feature stalactites that formed when the caverns were above sea level, giving dives here a strongly geological character found nowhere else in the western Mediterranean. Outside the cave entrance, the rocky reef and posidonia meadows shelter dusky groupers, moray eels, and octopus in the crystal-clear Tyrrhenian water.
+Cala Gonone is the gateway to the Bue Marino sea caves on Sardinia's Gulf of Orosei coast, where a remarkable halocline marks the meeting of fresh spring water and salt sea inside the cave chambers. The caves reach depths of around 9 meters and feature stalactites that formed when the caverns were above sea level, giving dives here a strongly geological character found nowhere else in the western Mediterranean. Outside the cave entrance, the rocky reef and posidonia meadows shelter a range of Mediterranean reef fish in the crystal-clear water. No site-specific marine life reports were found beyond those inside the cave system.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Cala Gonone is the gateway to the Bue Marino sea caves on Sardinia's Gulf of Oro
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Argonauta Diving Cala Gonone](https://www.argonauta.it/en/activities/scuba-diving/), [Protec Sardinia - Bue Marino](https://protecsardinia.com/bue-marino/?lang=en), [TripAdvisor - Grotta del Bue Marino](https://www.tripadvisor.com/Attraction_Review-g608907-d3219116-Reviews-Grotta_del_Bue_Marino-Cala_Gonone_Dorgali_Province_of_Nuoro_Sardinia.html). Last updated 2026-06-08.*

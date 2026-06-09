@@ -23,7 +23,7 @@ Sabayor Kecil is a small island in the eastern park area, its reef sloping from 
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters

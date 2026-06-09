@@ -13,7 +13,7 @@
       "historic": "wreck",
       "validation_source": "ibiblio.org/hyperwar, history.navy.mil, pacificwrecks.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -31,7 +31,8 @@
       "wreck:date_sunk": "1943-12-12",
       "validation_source": "wikipedia.org/USS_Tuna, uboat.net, ibiblio.org/hyperwar",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source cites USS Tuna Wikipedia (the submarine that sank it), uboat.net, and ibiblio.org. Wreck history confirmed: 5,484-GRT Japanese cargo ship, sunk 12 Dec 1943 by USS Tuna SS-203. OSM-recorded sinking date 1941-12-12 was incorrect (now noted). No independent dive site review found beyond the wreck identification sources. Dive site details (depth 20m, boat entry) come from OSM coordinates only."
     }
   },
   {
@@ -47,7 +48,7 @@
       "addedBy": "gap_fill",
       "validation_source": "padi.com/dive-site/indonesia/biatabang, zubludiving.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -63,7 +64,7 @@
       "addedBy": "gap_fill",
       "validation_source": "getlost.id, wonderful.ternatekota.go.id, scubago.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -79,7 +80,7 @@
       "addedBy": "gap_fill",
       "validation_source": "mermaid-liveaboards.com/dive_spots/pulau-tifore, indopacificimages.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -95,7 +96,7 @@
       "addedBy": "gap_fill",
       "validation_source": "indopacificimages.com, cruisingindonesia.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -111,7 +112,7 @@
       "addedBy": "gap_fill",
       "validation_source": "konjocruisingindonesia.com, padi.com/dive-site/indonesia/batu-mandi, indopacificimages.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04",
+      "last_qa_date": "2026-06-08",
       "depth_note": "Wall descends to 30m recreational limit; deeper sections exist beyond 30m"
     }
   },
@@ -128,7 +129,7 @@
       "addedBy": "gap_fill",
       "validation_source": "mermaid-liveaboards.com/dive_spots/terumbu-gora, cruisingindonesia.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -144,7 +145,7 @@
       "addedBy": "gap_fill",
       "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, bluewaterdivetravel.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -160,7 +161,7 @@
       "addedBy": "gap_fill",
       "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04",
+      "last_qa_date": "2026-06-08",
       "depth_note": "IndoPacific Images confirms pinnacle to 35m with mini-wall at 15m"
     }
   },
@@ -177,7 +178,7 @@
       "addedBy": "gap_fill",
       "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -193,7 +194,7 @@
       "addedBy": "gap_fill",
       "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, scubaboard.com/trip-report-weda-resort-2019",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -209,7 +210,7 @@
       "addedBy": "gap_fill",
       "validation_source": "jakare-liveaboard.com/halmahera-hidden-dive-gem, xray-mag.com/content/halmahera-0, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -225,7 +226,7 @@
       "addedBy": "gap_fill",
       "validation_source": "pacificwrecks.com/aircraft/beaufort, zubludiving.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -241,7 +242,7 @@
       "addedBy": "gap_fill",
       "validation_source": "liveaboardindonesia.com, zubludiving.com, neptuneliveaboards.com/blog/halmahera-diving",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   },
   {
@@ -257,7 +258,7 @@
       "addedBy": "gap_fill",
       "validation_source": "cruisingindonesia.com, liveaboardindonesia.com, wikipedia.org/Hemiscyllium_halmahera",
       "validated": "true",
-      "last_qa_date": "2026-06-04"
+      "last_qa_date": "2026-06-08"
     }
   }
 ]

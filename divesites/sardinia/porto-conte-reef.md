@@ -17,15 +17,15 @@ Porto Conte Reef is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's northwestern coast, part of the same Capo Caccia-Isola Piana Marine Protected Area that surrounds the Nereo Cave system. Extensive posidonia oceanica meadows cover the shallower sandy areas and provide habitat for seahorses, cuttlefish, and flatfish, while rocky formations at depth carry sea fans and encrusting corals. The protected bay setting means this is one of Sardinia's most accessible reef dives, with calm conditions and easy shore entry suitable for divers of all levels.
+Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's northwestern coast, part of the same Capo Caccia-Isola Piana Marine Protected Area that surrounds the Nereo Cave system. Extensive posidonia oceanica meadows cover the shallower sandy areas and provide habitat for molluscs, crustaceans, and lobsters, while rocky formations at depth carry sea fans and encrusting corals. Underwater excursions here require authorization from dive operators approved by the MPA managing body. The protected bay setting means this is one of Sardinia's most accessible reef dives, with calm conditions and easy shore entry suitable for divers of all levels.
 
 ## Site Information
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 
 ---
-*Sources: [PADI - Diving in Sardinia](https://www.padi.com/diving-in/sardinia/), [SCUBA Travel - Best Dive Sites in Sardinia](https://www.scubatravel.co.uk/italy/sardinia-dive.html), [Orso Diving Club - Diving in Sardinia](https://orsodiving.com/en/diving-in-sardinia/), [Scuba Diving Magazine - Sardinia Travel Guide](https://www.scubadiving.com/travel-guide-to-italian-island-sardinia), [Sardinia Bella - Best Dive Spots](https://sardiniabella.com/en/diving-in-sardinia-best-spots-tours/). Last updated 2026-04-04.*
+*Sources: [Porto Conte Diving Center](https://www.portoconte.it/diving/english.html), [Porto Conte Marina - Diving](https://www.portocontemarina.it/en/diving/), [SardegnaTurismo - Porto Conte Regional Natural Park](https://www.sardegnaturismo.it/en/explore/porto-conte-regional-natural-park). Last updated 2026-06-08.*

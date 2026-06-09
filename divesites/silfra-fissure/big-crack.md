@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Big Crack
 
-Big Crack is a wall dive site in Silfra Fissure, Europe.
+Big Crack is the entry section and narrowest point of the Silfra fissure, where the North American and Eurasian tectonic plates are close enough to touch simultaneously.
 
 ## Overview
 
-The Big Crack is the narrowest section of the Silfra fissure, a tight corridor of dark lava rock where the North American and Eurasian tectonic plates come closest together — close enough to reach out and touch the walls of both continents simultaneously. This is where the famous "dive between the continents" photograph is taken, with divers squeezing through the passage before the fissure opens into the wider Silfra Hall. Water temperature stays at a constant 2–4°C, making this a dry suit-only site with visibility exceeding 100 metres.
+Big Crack is the first section of the standard Silfra fissure dive, beginning at the entry platform. The fissure walls here are composed of dark lava rock, and at the narrowest points the plates are close enough that a diver can reach out and touch the rock face of both continents simultaneously — the origin of the iconic "dive between the continents" image. The crack then opens progressively, leading into Silfra Hall approximately 30 metres further.
+
+Water enters the fissure here as a gentle spring current, giving the dive its characteristic drift character. The current is mild and requires no physical effort; divers simply move with the flow. Visibility exceeds 100 metres in the 2–4°C glacial water. The walls display patches of troll-hair algae, and the lava rock shows the layered structure of successive Þingvellir lava flows formed approximately 9,000 years ago.
+
+The fissure descends deeper than the recreational limit of 18 metres here, but the bottom of the canyon is not the focus — the walls and the sensation of drifting through a tectonic crack are the defining experience of this section.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Þingvellir National Park, Iceland (entry section of Silfra fissure)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
+- **Water Temperature**: 2–4°C year-round
+- **Visibility**: 100+ metres
 
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/). Last updated 2026-06-08.*

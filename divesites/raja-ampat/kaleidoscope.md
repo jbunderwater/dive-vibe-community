@@ -19,7 +19,7 @@ Submerged reef packed with red gorgonians, black coral bushes, giant sea fans, a
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

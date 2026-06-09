@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "iceland",
-    "india",
-    "indonesia",
-    "israel",
-    "italy",
-    "jamaica",
     "japan",
     "jordan",
     "jordan-aqaba",
@@ -174,7 +168,13 @@
     "hawaii-kauai",
     "hawaii-maui",
     "hawaii-oahu",
-    "honduras"
+    "honduras",
+    "iceland",
+    "india",
+    "indonesia",
+    "israel",
+    "italy",
+    "jamaica"
   ],
   "history": [
     {
@@ -924,6 +924,28 @@
         "status": "complete"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/85"
+    },
+    {
+      "date": "2026-06-08",
+      "slugs": [
+        "iceland",
+        "india",
+        "indonesia",
+        "israel",
+        "italy",
+        "jamaica"
+      ],
+      "summary": {
+        "sites_total": 525,
+        "sites_re_audited": 525,
+        "sites_validated_today": 282,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 15,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 182,
+        "notes": "italy sub-destinations: sardinia + ustica; india sub-destination: andaman-islands; iceland sub-destination: silfra-fissure"
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/86"
     }
   ]
 }

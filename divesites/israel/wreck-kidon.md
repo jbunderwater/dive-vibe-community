@@ -17,7 +17,7 @@ The INS Kidon is a decommissioned Israeli Navy Sa'ar 4.5-class missile boat rest
 
 ## Overview
 
-The INS Kidon (Hebrew: כידון, meaning "javelin") was a Sa'ar 4.5-class missile boat that served in the Israeli Navy's Shayetet 3 Flotilla. After being decommissioned, the vessel was deliberately sunk offshore to serve as an artificial reef and as a memorial to twelve IDF Naval Commandos (Shayetet 13) who were killed during an operation in Lebanon. Alongside the sunken vessel, a memorial monument with twelve empty chairs — each bearing the name of one of the fallen — rests on the ocean floor.
+The INS Kidon (Hebrew: כידון, meaning "javelin") was a Sa'ar-class missile boat that served in the Israeli Navy before being deliberately sunk offshore as an artificial reef and memorial. The vessel commemorates twelve IDF Naval Commandos (Shayetet 13) killed in a 1997 Hezbollah ambush near the village of Ansariya, Lebanon. Alongside the sunken vessel, a monument of twelve chairs — each bearing the name of one of the fallen, arranged in the shape of bat-wings (the naval commando emblem) — rests at the bow at 26 metres depth. Note: A newer vessel named INS Kidon (Sa'ar 4.5-class, commissioned 1997) currently serves in the Israeli Navy — the dive site wreck is the older Sa'ar-class Kidon decommissioned to create this artificial reef.
 
 The wreck lies approximately 3 km offshore at a depth of 26 metres. The vessel's superstructure and hull provide habitat for Mediterranean marine life, and the site has become a popular dive for those wishing to pay respects to the fallen soldiers as well as for recreational wreck diving.
 
@@ -51,4 +51,4 @@ Boat dive to the wreck, approximately 3 km from shore. Descend to the hull and e
 The site is approximately 3 km offshore, requiring boat access. Current can be present. Carry an SMB. The area is near the Lebanese border and may have restricted military access zones — always dive with a local operator who knows current permissions.
 
 ---
-*Sources: [JGD — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-04-11.*
+*Sources: [JGD — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [Ynetnews — 100 divers in underwater salute](https://www.ynetnews.com/articles/0,7340,L-4802448,00.html), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-06-08.*

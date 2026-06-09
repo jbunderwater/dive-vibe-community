@@ -23,7 +23,7 @@ Koh is a shallow reef site ideally suited to new divers, snorkelers, and those w
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)

@@ -23,7 +23,7 @@ Simon's Reef is one of the premier advanced dive sites accessible from Lombok, s
 
 - **Location**: North of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (current-swept)

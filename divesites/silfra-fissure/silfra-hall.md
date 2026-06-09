@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Silfra Hall
 
-Silfra Hall is a wall dive site in Silfra Fissure, Europe.
+Silfra Hall is the widest section of the Silfra tectonic fissure, a corridor of open lava walls where the extraordinary clarity of the 2–4°C glacial water is at its most spacious.
 
 ## Overview
 
-Silfra Hall is the widest section of the Silfra fissure, where the tectonic crack opens up after the narrow Big Crack entry and towering lava walls rise on either side. The increased space makes the extraordinary visibility — often beyond 100 metres — especially apparent here, with sunlight filtering down through the 2–4°C glacial water and illuminating the electric blues and greens of the underwater landscape. The Hall contains a complex of cave systems dropping to 45 metres, though guided dives stay within recreational depth limits of 18 metres.
+Silfra Hall is the second section of the standard Silfra fissure dive, reached after a short 30-metre swim from the entry platform through Big Crack. Here the fissure widens significantly — walls of dark lava rise on both sides as the crack opens into a longer, corridor-like passage. The increased width makes the 100-metre visibility especially striking: the way ahead is completely clear, with glacial light filtering down and illuminating the electric blues and greens of the underwater landscape.
+
+The Hall conceals a complex of cave systems beneath the lava floor that descend to approximately 45 metres. These systems are off-limits on guided recreational dives — the tunnels are narrow, dark, and extend beyond safe recreational limits. At various points along the Hall, swim-throughs beneath boulders and wedged rocks are possible, adding a navigational dimension to the dive. The Hall stretches approximately 200 metres before opening into Silfra Cathedral.
+
+Bright green "troll hair" algae (Vaucheria sp.) coats the lava walls throughout, and above the waterline, ducks and geese are often visible on the fissure's rim. Fish are extremely rare in this near-freezing freshwater, though Dwarf char may be seen in the darker recesses.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Þingvellir National Park, Iceland (second section of Silfra fissure)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
+- **Water Temperature**: 2–4°C year-round
+- **Visibility**: 100+ metres
 
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/). Last updated 2026-06-08.*

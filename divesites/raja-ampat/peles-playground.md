@@ -19,7 +19,7 @@ Located near Pele/Waaf island in northern Raja Ampat. Mobula rays, bait ball act
 
 - **Location**: Raja Ampat North area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

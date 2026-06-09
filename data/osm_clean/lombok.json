@@ -13,8 +13,10 @@
       "name": "Air Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -32,7 +34,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "research"
+      "validation_source": "divecentralgili.com,trawangandive.com,terumbudivers.com",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: Vessel was a pontoon/floating pier for Gili Meno jetty construction. Sank in 2001 storm, not \"developing a hole\". Lies 8-18m depth. Sources: divecentralgili.com, trawangandive.com, terumbudivers.com confirm storm sinking."
     }
   },
   {
@@ -49,7 +53,10 @@
       "name": "Deep Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -66,8 +73,10 @@
       "name": "Frog Fish Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -86,7 +95,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -103,7 +115,10 @@
       "name": "Jack Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -120,8 +135,10 @@
       "name": "Malang",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -138,7 +155,10 @@
       "name": "Manta Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -155,7 +175,10 @@
       "name": "Meno Corner",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -172,8 +195,10 @@
       "name": "Meno Slope",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -190,8 +215,10 @@
       "name": "Meno Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -208,8 +235,10 @@
       "name": "Mirkos Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -228,8 +257,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -246,7 +277,10 @@
       "name": "Shark Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -263,8 +297,10 @@
       "name": "Simons Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -281,8 +317,10 @@
       "name": "Segaluh",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -299,8 +337,10 @@
       "name": "Teluk NBoro",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -320,8 +360,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -337,8 +379,10 @@
     "tags": {
       "name": "Lombok Dive",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -357,8 +401,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -377,8 +423,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -397,8 +445,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -417,8 +467,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -437,8 +489,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   },
   {
@@ -458,8 +512,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-08",
+      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
     }
   }
 ]

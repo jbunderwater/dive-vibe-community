@@ -21,14 +21,13 @@ Gorgonzola is part of the outer Maratua dive circuit — a vertical wall site th
 
 ## Marine Life
 
-- Gorgonian sea fans (*Subergorgia* spp.) — dense colonies on the wall face
-- White-tip reef sharks, grey reef sharks, and leopard sharks at depth
-- Bumphead parrotfish (*Bolbometopon muricatum*) passing in aggregations
-- Napoleon wrasse (*Cheilinus undulatus*) on the reef crest
-- Schools of jackfish and batfish along the wall
-- Eagle rays passing in the blue
-- Nudibranchs and pygmy seahorses on gorgonian fans (macro)
-- Soft coral anthias clouds in the shallower sections
+Scuba Junkie Sangalaki confirms: gorgonian sea fans, soft coral colonies, reef sharks (white-tip, grey reef) at depth, and excellent visibility. Specific species named below are consistent with Maratua outer-wall character but are drawn from regional reference rather than site-specific source confirmation.
+
+- Gorgonian sea fans — dense colonies on the wall face (source-confirmed)
+- White-tip reef sharks and grey reef sharks at depth (source-confirmed)
+- Soft coral anthias clouds in the shallower sections (source-confirmed)
+- Schooling jackfish and batfish (regional expectation; no site-specific source)
+- Nudibranchs and commensal shrimps on sea fan stems (regional expectation; no site-specific source)
 
 ## Dive Profile
 
@@ -65,4 +64,4 @@ Gorgonzola is one of the standout wide-angle photography sites in the Derawan Ar
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/). Last updated 2026-05-17.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/). Note: All three sources are from the same domain (scubajunkiesangalaki.com). This site requires at least 2 additional independent domain sources before full validation. Last updated 2026-06-08.*

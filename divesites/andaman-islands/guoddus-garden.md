@@ -47,4 +47,4 @@ Contact local Havelock Island dive operators for current access information.
 - General Andaman diving season runs November to April
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found. Re-audited 2026-06-08: site not listed by any Havelock operator under any spelling variant.*

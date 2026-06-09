@@ -3,9 +3,9 @@ name: Secca della Colombara
 lat: 38.73
 lng: 13.155
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 40
 entryType: boat
-siteType: seamount
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Secca della Colombara
 
-Secca della Colombara is a seamount dive site in Ustica, Europe.
+Secca della Colombara is a pinnacle dive site approximately 3 miles off Ustica's northeastern coast in the Tyrrhenian Sea.
 
 ## Overview
 
-Secca della Colombara is considered one of the most beautiful dives in the entire Mediterranean, located on a remnant volcanic cone three miles off Ustica's northeastern coast. The shoal rises from 50 metres to just 3 metres at the top, where a vertical wall of columnar basalt drops dramatically to a 30-metre plateau. Large dusky groupers and striped groupers occupy the seabed while clouds of barracuda form brilliant circling formations that explode apart when huge amberjack charge through, and occasional tuna cruise past in the blue.
+Secca della Colombara is what remains of one of the volcanic cones that formed Ustica, rising from 50 metres to a cap of just 3 metres. At the drop-off, a vertical wall of columnar basalt descends sharply to around 30 metres on the western side, where the wall meets an elongated platform extending to 15-20 metres on the north. The site regularly attracts large schools of Mediterranean barracuda (Sphyraena viridensis), amberjack, dusky groupers, snappers, and tuna. Unicorn shrimps (Plesionika narval) have also been documented inside the wreck at this site.
+
+The shoal features the wreck of the motor vessel ITA, a Panamanian-flagged ship carrying marble blocks that ran aground on February 21, 2005, and sank in two sections. The bow lies on the northern side and the stern toward the southeast, with both sections resting at 24-26 metres among marble block cargo scattered on the seabed.
+
+The combination of the volcanic pinnacle and the accessible wreck makes this one of the most varied dives in the Ustica area, though the open-water location and depth require advanced certification.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Europe (~3 miles northeast of the island)
 - **Entry Type**: Boat dive
-- **Site Type**: Seamount
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 40 meters
 
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*Sources: [Evasioni Blu Diving - Secca della Colombara](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [Lustrica Diving - Secca della Colombara](https://www.lustricadiving.it/dives/secca-della-colombara/?lang=en), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-06-08.*

@@ -23,7 +23,7 @@ Located in the southern (fenced) section of the Almog Coast Reserve, between the
 
 - **Location**: Almog Coast Reserve, Eilat, Red Sea, Israel (south of Coral World Observatory)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20-40 meters; often exceptional
 - **Current**: Generally light; visibility consistently excellent due to protected location
@@ -32,7 +32,7 @@ Located in the southern (fenced) section of the Almog Coast Reserve, between the
 
 ## Marine Life
 
-Japanese Gardens hosts exceptional biodiversity for its latitude as the northernmost flourishing coral ecosystem in the world. The shallow section teems with colorful anthias, damselfish, butterflyfish, and clownfish. Napoleon (humphead) wrasse are resident. Moray eels emerge from coral heads at night. Sea turtles patrol the deeper sections of the wall. Parrotfish, grouper, and snapper round out the fish community. The soft corals and sea fans on the deeper wall provide habitat for small invertebrates and nudibranchs. Occasional whale shark sightings have been reported in summer months.
+Japanese Gardens hosts exceptional biodiversity for its latitude as the northernmost flourishing coral ecosystem in the world. The shallow section teems with colorful anthias, damselfish, butterflyfish, and clownfish. Napoleon (humphead) wrasse are resident. Moray eels emerge from coral heads at night. Sea turtles patrol the deeper sections of the wall. Parrotfish, grouper, and snapper round out the fish community. The soft corals and sea fans on the deeper wall provide habitat for small invertebrates and nudibranchs. Whale sharks are occasionally sighted in Eilat Bay during summer months (average 3-4 times per year bay-wide), though confirmed sightings at this specific site are rare — they are more commonly encountered at the EAPC beach area to the north.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Boat access only. Contact one of Eilat's licensed dive operators (Manta, Aqua Sp
 
 The deep coral wall reaches beyond recreational diving limits. Adhere to your certification level. Boat access means potential surface traffic above — always deploy an SMB before ascending. The site is a marine protected area; absolutely no collecting or touching coral.
 
-*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [thebrokebackpacker.com](https://www.thebrokebackpacker.com/scuba-diving-in-eilat/), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*
+*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [thebrokebackpacker.com](https://www.thebrokebackpacker.com/scuba-diving-in-eilat/), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-06-08.*

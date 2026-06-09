@@ -23,7 +23,7 @@ The DOLPHIN site corresponds to the Katza / EAPC Beach area immediately adjacent
 
 - **Location**: Eilat, adjacent to Dolphin Reef facility and EAPC (Katza) Beach, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters
 - **Current**: Light; sanctuary zone rules apply
@@ -53,4 +53,4 @@ Free shore entry from EAPC Beach (no entrance fee required, unlike the Dolphin R
 
 Sanctuary zone: no touching the seabed. Buoyancy control is strictly enforced. Be aware of occasional boat traffic near the Dolphin Reef facility. The dolphins are wild animals that interact voluntarily — do not chase or try to touch them.
 
-*Sources: [snorkeling-report.com](https://www.snorkeling-report.com/spot/snorkeling-eapc-beach-eilat/), [ahla-dive.com](https://ahla-dive.com/for-certified-divers/dive-sites-of-Eilat/katza/), [traveldicted.com](https://www.traveldicted.com/middle-east/israel/eilat/tip-diving-with-dolphins-at-dive-site-katza-dolphin-reef-in-eilat/). Last updated 2026-04-11.*
+*Sources: [snorkeling-report.com](https://www.snorkeling-report.com/spot/snorkeling-eapc-beach-eilat/), [ahla-dive.com](https://ahla-dive.com/for-certified-divers/dive-sites-of-Eilat/katza/), [traveldicted.com](https://www.traveldicted.com/middle-east/israel/eilat/tip-diving-with-dolphins-at-dive-site-katza-dolphin-reef-in-eilat/). Last updated 2026-06-08.*

@@ -23,7 +23,7 @@ Located in the sheltered waters of the Siaba area in central-eastern Komodo Nati
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (Siaba area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

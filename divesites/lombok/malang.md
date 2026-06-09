@@ -23,7 +23,7 @@ Takat Malang (Malang) lies north of the Gili Islands and consists of a collectio
 
 - **Location**: North of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m

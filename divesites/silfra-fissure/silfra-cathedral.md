@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Silfra Cathedral
 
-Silfra Cathedral is a wall dive site in Silfra Fissure, Europe.
+Silfra Cathedral is the most dramatic section of the fissure — a 100-metre-long corridor of near-vertical lava walls that divers consistently describe as the emotional high point of the Silfra experience.
 
 ## Overview
 
-Silfra Cathedral is the deepest and most dramatic section of the fissure — a 100-metre-long corridor where sheer lava walls drop straight down to the chasm floor, creating the sensation of floating inside a vast cathedral nave. The visibility is so complete that divers can see the full length of the corridor at once, with the deep blue of the abyss below fading into shades of vivid turquoise closer to the surface. The actual fissure drops to 63 metres at its deepest, though recreational dives are limited to 18 metres.
+Silfra Cathedral is the third and most striking section of the standard Silfra fissure dive. The fissure here is approximately 100 metres in length end-to-end, and its walls of dark lava descend almost vertically on either side. The visibility is so complete that the full length of the corridor is visible at once: on a typical dive, divers can see clearly from one end of the Cathedral to the other. Sunlight filters down through the 2–4°C glacial water, creating the signature deep-blue and turquoise palette that makes Silfra photographs instantly recognisable.
+
+The bottom of the Cathedral slopes upward from depth toward a sand slope that rises to 2–3 metres at the far end, where the section transitions to the shallower Silfra Lagoon. The fissure itself descends to 63 metres at its deepest point within the Cathedral section (confirmed by Wikipedia), well below the recreational limit of approximately 18–20 metres; diving beyond that requires technical certification. No cave penetration is involved — the Cathedral is an open tectonic canyon.
+
+Marine life in this freshwater, near-freezing environment is extremely limited. Troll-hair algae (Vaucheria sp.) grows on the lava walls. Fish are rarely present during most of the year; brown trout and Arctic char visit in August and September.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Þingvellir National Park, Iceland (third section of Silfra fissure)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
+- **Water Temperature**: 2–4°C year-round
+- **Visibility**: 100+ metres (end-to-end corridor visible)
 
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra). Last updated 2026-06-08.*

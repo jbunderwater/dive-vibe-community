@@ -23,7 +23,7 @@ Bonsai is a reef site in the central Komodo area featuring a sloping reef where 
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
