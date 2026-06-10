@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Yatouche
 
-Yatouche is a historic wreck dive in Jordan - Aqaba, Middle East.
+Yatouche is listed in OSM as a wreck dive site at the northern end of the Gulf of Aqaba.
 
 ## Overview
 
-Yatouche is a wreck dive in the Gulf of Aqaba's Red Sea waters, resting at up to 20 metres depth in the protected Aqaba Marine Park environment where visibility regularly exceeds 20 metres and water temperatures range from 22 to 30°C. The wreck has been colonised over time by the hard and soft corals, sponges, and encrusting marine life characteristic of Aqaba's artificial reef sites, providing structure for reef fish and crustaceans in an otherwise sandy environment. Aqaba's commitment to artificial reef construction — which began with the Cedar Pride sinking in 1985 — means this site benefits from the same clear Red Sea water and warm temperatures that make the area one of the world's top wreck-diving destinations.
+Yatouche (also spelled Yatush) appears in OSM data as a wreck dive at approximately 20 metres depth near the northern end of the Gulf of Aqaba. The OSM coordinates (lat 29.504°N, lon 34.920°E) place this site in the vicinity where Jordan, Israel, and Egypt converge at the top of the Gulf — an area where the Eilat (Israel) and Aqaba (Jordan) coastlines are very close together. The wreck known as "Yatush" (Hebrew: יתוש, meaning "mosquito") documented in Eilat dive databases is described as an Israeli military gunboat sunk as an artificial reef, located north of Coral Beach, Eilat, Israel.
+
+No independent dive operator source in Jordan attributes this site to Jordanian waters, and it does not appear in any Jordanian dive site listing reviewed during this QA pass. The site may be in Israeli waters and may have been included in Jordan's OSM data in error due to proximity to the Israel-Jordan maritime boundary. Divers intending to visit this site should confirm its jurisdiction and access arrangements with a local dive operator in the Aqaba/Eilat area before diving.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
-- **Entry Type**: Shore entry
+- **Location**: Northern Gulf of Aqaba — jurisdiction unconfirmed
+- **Entry Type**: Shore entry (per OSM)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (per OSM; Eilat Yatush is reported at 25–33m)
 
 ---
-*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*
+*Description based on OSM data and regional diving sources. No Jordan-specific sources confirmed for this site. Sources consulted: [Eilat Red Sea - Yatush](https://www.eilatredsea.com/?CategoryID=169&ArticleID=91), [ScubaGo - Yatush Wreck Eilat](https://www.scubago.com/en/explore/divesite/yatush-wreck-eilat-660227), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba). Last updated 2026-06-10.*

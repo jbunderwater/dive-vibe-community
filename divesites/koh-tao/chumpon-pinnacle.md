@@ -26,7 +26,7 @@ Advanced Open Water certification is recommended for the deeper flanks (below 25
 - **Location**: 12 km northwest of Koh Tao, Gulf of Thailand; ~30–45 min by boat
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced (pinnacle top accessible to intermediate divers in calm conditions)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–40 m
 - **Current**: Mild to moderate; can be stronger depending on conditions

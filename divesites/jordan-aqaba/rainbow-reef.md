@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Rainbow reef
 
-Rainbow reef is a reef dive site in Jordan - Aqaba, Middle East.
+Rainbow Reef is named for the arc shape of the reef itself, and is regarded as one of Aqaba's premier night diving sites.
 
 ## Overview
 
-Rainbow Reef takes its name from the arc shape of the reef, which runs from 6 metres down to 18 metres along a northern wall that was reinforced as an artificial reef to protect four telecommunications cables laid between Jordan and Egypt in 1996. During the day the reef hosts parrotfish, butterflyfish, wrasse, scorpionfish, and eagle rays, but it really comes alive at night when Spanish dancers, feather stars in every colour, lobsters, and actively hunting lionfish and moray eels emerge across the reef. The easily navigable layout and reliable marine life make this one of Aqaba's best-regarded night dive sites.
+Rainbow Reef takes its name from the arc shape of the reef, which runs from 6 metres down to 18 metres. The northern wall of the site was built up as an artificial reef structure to protect four telecommunications cables laid in 1996 between Jordan and Egypt; the cables run beneath the reef with coral walls growing on either side. The reef is accessible by boat or shore.
+
+During daytime dives, documented marine life includes parrotfish, butterflyfish, wrasse, scorpionfish, and eagle rays. The site is particularly well known for night diving: Spanish dancers, lobsters, feather stars, moray eels, and lionfish are all active after dark, and the reef's fluorescent bacteria are visible only at night. Multiple dive operators in Aqaba rate Rainbow Reef as one of the area's top night dive sites.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Rainbow Reef takes its name from the arc shape of the reef, which runs from 6 me
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*
+*Sources: [Arab Divers - Rainbow Reef](https://www.arabdivers.jo/en/activities/dive-sites/rainbow-reef), [Coral Garden Diving Center - Rainbow Reef](https://www.dive-inaqaba.com/rainbow-reef/), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Rainbow Reef](https://jordan-travel.com/rainbow-reef-aqaba/). Last updated 2026-06-10.*

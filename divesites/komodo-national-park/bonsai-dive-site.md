@@ -2,10 +2,10 @@
 name: Bonsai dive site
 lat: -8.6034515
 lng: 119.6544647
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 7182733952
 addedBy: osm_import
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Bonsai dive site
 
-Bonsai is named for the distinctive miniaturised, gnarled hard coral formations that give the reef its character — small coral colonies sculpted by current into bonsai-tree shapes, creating an unusual and photogenic reef landscape in Komodo National Park.
+Bonsai — also known as One Tree or Lonely Tree for the single fragile mangrove tree perched on its surface boulder — is an advanced Komodo dive featuring dramatic overhangs, caves, valleys, and swim-throughs along the south and west sides, descending to 40 metres with giant fan corals in the deep passages.
 
 ## Overview
 
-Bonsai is a reef site in the central Komodo area featuring a sloping reef where decades of current sculpting have produced remarkably compact and interestingly shaped hard coral formations. The site runs from 5 meters in the shallows to around 20 meters at the sandy base. Compared to Komodo's headline current sites, Bonsai sees moderate flow and is comfortably dived at intermediate level. The intricate coral topography creates dozens of microhabitats that reward slow, observational diving over any attempt to cover distance.
+Bonsai sits in central Komodo and is marked on the surface by a solitary tree growing from a boulder. Below water, the site transforms into a complex landscape of overhangs, caves, valleys, and swim-throughs that extends across the southern and western faces of the reef from 20 to 40 metres. Emperor sweetlips, Napoleon wrasse, hawksbill turtles, and large grouper use the overhead environments as shelter. The south side has swim-throughs to 40 metres with giant red and white fan corals clinging to the rocky outcroppings. The surrounding coral garden on the island's perimeter is well-preserved, with pristine staghorn and table corals.
+
+Currents can be extremely dangerous at Bonsai and are highly variable; the site is classified as Advanced for this reason. Certain areas become inaccessible without technical qualifications when the current runs strong.
 
 ## Site Information
 
-- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (central park)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light to moderate
-- **Best Time**: April to November
+- **Site Type**: Wall (with caves, overhangs, and swim-throughs)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Variable; bring an underwater torch
+- **Current**: Mild to extremely dangerous; highly variable
+- **Best Time**: April to November; dive conditions require on-the-day assessment
 
 ## Marine Life
 
-The bonsai coral formations provide habitat for a wide variety of reef species. Hawkfish perch on coral tips while surveying territory. Butterflyfish and angelfish in several species are abundant. Cleaner shrimp occupy crevices and anemones. The sandy patches between coral heads host gobies and their symbiotic shrimp, worth spending time with for interesting behaviour observation. Green turtles graze on algae across the reef. Reef octopus are frequently seen changing colour and texture to match the coral substrate. With currents bringing nutrients, fish density is good — schools of fusiliers and surgeonfish move through regularly.
+Confirmed species in the overhead environments: emperor sweetlips, Napoleon wrasse, hawksbill turtles, and large grouper sheltering under overhangs at 20–30 metres. Giant red and white fan corals at 30–40 metres in the south-side swim-throughs. The surrounding coral garden hosts a typical Komodo reef community. No site-specific pelagic species confirmed; generic claims about schooling fish removed.
 
 ## Dive Profile
 
-A gentle circuit of the bonsai coral section between 8–18 meters is the standard approach. The guide identifies the most photogenic coral formations and pauses for observation and photography. The pace is relaxed — this is a site rewarding slow, attentive diving. Ascend gradually through the colourful shallows and take a comfortable safety stop on the reef top.
+Enter at the reef perimeter and work toward the southern face to locate the overhead entry points. Use the overhangs and valleys as an exploratory route, navigating with careful buoyancy to avoid disturbing silt in the overhead sections. The 40-metre swim-throughs are for divers specifically trained and equipped for overhead penetration. The surrounding coral garden provides a relaxed exploration zone when the overhangs are skipped or conditions are unsuitable.
 
 ## Entry and Exit
 
-Access by liveaboard or day boat. Giant stride entry, with a controlled descent to the reef. The boat follows the group's drift in light current. Safety stop on the reef top at 5 meters.
+Boat access. Giant stride entry. The variable currents mean entry timing is critical — follow the guide's assessment.
 
 ## Tips and Recommendations
 
-- Move slowly and get close to the bonsai formations — the textures and shapes reward detailed inspection
-- Bring a macro lens for gobies, cleaner shrimp, and small critters in the coral interstices
-- This is an excellent site for a night dive — the reef transforms after dark with basket stars emerging and reef octopus hunting
-- Combine with a more demanding site earlier in the day; Bonsai works well as a final, relaxed dive
-- Look inside table coral cavities for resting lionfish
+- Bring an underwater torch; the caves and overhangs require artificial light
+- Do not enter the overhead environments without appropriate overhead environment training
+- The coral garden surrounding the island is excellent wide-angle diving for non-overhead divers
+- Current assessment must be made on the day; abort if the guide indicates dangerous conditions
+- Combine with nearby muck or reef sites if Bonsai's conditions are unsuitable
 
 ## Safety Considerations
 
-The site is generally manageable, but current can increase as the tide moves. Monitor conditions and keep the group compact. Respect the bonsai coral formations by maintaining good buoyancy — these slow-growing structures take decades to develop and are easily damaged by fin strikes or contact.
-
-## Photography
-
-Bonsai is a macro photographer's pleasure — the intricate coral shapes, gooby-shrimp pairs, and perching hawkfish create detailed, layered compositions. A 60mm or 100mm macro lens is ideal. For wider shots, a 24–35mm captures the overall reef topography with good depth of field. The moderate currents keep sediment low, producing clean backgrounds.
+Bonsai carries significant hazard for divers without overhead environment training. Attempting the caves and swim-throughs without proper preparation risks entanglement, disorientation, and air emergencies. Extremely strong currents that develop with little warning are a documented feature. Only attempt with a guide who dives this site regularly. Advanced Open Water minimum; overhead training strongly recommended for swim-through sections.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Komodo Dive Center – Dive Sites](https://www.komododivecenter.com/diving/dive-sites/), [Komodo National Park Official – Dive Sites](https://www.komodonationalpark.org/dive_sites.htm), [Komodo Dive Sites Guide Blog](http://komododivesitesguide.blogspot.com/). Last updated 2026-06-10.*

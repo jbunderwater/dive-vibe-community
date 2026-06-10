@@ -25,9 +25,9 @@ The site features large boulders creating natural archways and caverns with sunl
 
 - **Location**: Laem Thian cape, east coast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with boulder terrain
-- **Difficulty Level**: Beginner (bay section); more experienced divers for the caves
-- **Maximum Depth**: 16 meters (bay section; caves section reaches up to 35 m)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Variable; east coast exposure
 - **Best Time**: November to April (southwest monsoon shelters east coast)

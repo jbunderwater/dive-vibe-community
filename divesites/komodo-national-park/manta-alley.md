@@ -36,4 +36,4 @@ The site consists of shallow rocky sections and a small channel cut through rock
 Reef manta rays at cleaning stations. Giant trevally, sweetlips, and mobula rays are also reported. The cooler, nutrient-rich water supports invertebrate communities typical of southern Komodo.
 
 ---
-*Sources: [DiveHappy – Manta Alley Komodo](https://divehappy.com/manta-alley-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [SSI MyDiveGuide – Manta Alley](https://www.divessi.com/en/mydiveguide/divesite/77789), [ScubaBoard user Dan (GPS coordinates)]. Last updated 2026-06-08.*
+*Sources: [DiveHappy – Manta Alley Komodo](https://divehappy.com/manta-alley-komodo/), [Dragon Dive Komodo – Manta Rays Komodo](https://dragondivekomodo.com/manta-rays-in-komodo/), [SSI MyDiveGuide – Manta Alley](https://www.divessi.com/en/mydiveguide/divesite/77789). Last updated 2026-06-10.*

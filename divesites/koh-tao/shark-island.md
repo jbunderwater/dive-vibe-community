@@ -23,7 +23,7 @@ Shark Island is a small granite rock islet off the southeast coast of Koh Tao wh
 
 - **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with boulder terrain
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15–30 m (in calm conditions)

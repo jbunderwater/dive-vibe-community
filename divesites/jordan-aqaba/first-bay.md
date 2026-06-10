@@ -57,4 +57,4 @@ Strong downward currents can develop suddenly near sandy channels in the deeper 
 Excellent for reef fish schooling shots and macro work on coral heads. The black coral seamount offers dramatic wide-angle subjects. Night dive photography of invertebrates is a highlight.
 
 ---
-*Sources: [Arab Divers - First Bay South](https://www.arabdivers.jo/en/activities/dive-sites/first-bay-south), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Red Sea Dive Center - Aqaba Dive Sites](https://redseadivecenter.com/aqaba-dive-sites/). Last updated 2026-04-11.*
+*Sources: [Arab Divers - First Bay South](https://www.arabdivers.jo/en/activities/dive-sites/first-bay-south), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Red Sea Dive Center - Aqaba Dive Sites](https://redseadivecenter.com/aqaba-dive-sites/), [Sea Wonders - First Bay Dive Site](https://seawondersdivingcenter.com/first-bay-dive-site/). Last updated 2026-06-10.*

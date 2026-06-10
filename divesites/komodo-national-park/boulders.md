@@ -22,4 +22,4 @@ Large coral-encrusted boulders on the southwestern tip of Nusa Kode creating hab
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: divekomodo.com, divescover.com, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [Lotus Liveaboards – Nusa Kode Dive Sites](https://lotusliveaboards.com/nusa-kode-dive-site-2/), [DiveHappy – Komodo Dragons Domain](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/). Last updated 2026-06-10.*

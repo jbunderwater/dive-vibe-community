@@ -24,7 +24,7 @@ Hin Pee Wee is a cluster of small rock pinnacles located approximately 200 m sou
 - **Location**: West Koh Tao, approximately 30 m from HTMS Sattakut wreck; ~200 m south of White Rock
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate (AOW recommended)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 2–15 m (variable; can be poor)
 - **Current**: Mild to moderate

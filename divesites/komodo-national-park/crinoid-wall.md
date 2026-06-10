@@ -22,4 +22,4 @@ A colorful wall in a small cove near the southern entrance to Loh Dasami at Nusa
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: divekomodo.com, komododivesitesguide.blogspot.com, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/), [Dive The World – Komodo](https://www.dive-the-world.com/diving-sites-indonesia-komodo.php), [Komodo National Park Official – Dive Sites](https://www.komodonationalpark.org/dive_sites.htm). Last updated 2026-06-10.*

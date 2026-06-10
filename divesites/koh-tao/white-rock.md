@@ -23,7 +23,7 @@ White Rock is located on the west side of Koh Tao and is one of the island's mos
 
 - **Location**: West side of Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10–20 m

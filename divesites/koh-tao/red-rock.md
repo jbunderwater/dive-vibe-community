@@ -23,7 +23,7 @@ Red Rock is a prominent rock pinnacle off the coast of Koh Nang Yuan that drops 
 
 - **Location**: Off Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / rock pinnacle
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–18 m

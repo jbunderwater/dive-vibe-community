@@ -23,7 +23,7 @@ Green Rock sits off the northwest coastline of Koh Nang Yuan and is one of Koh T
 
 - **Location**: Northwest of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with complex boulder topography
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 2–20 m (highly variable)

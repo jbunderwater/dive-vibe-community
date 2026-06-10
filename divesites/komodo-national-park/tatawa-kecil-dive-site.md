@@ -59,4 +59,4 @@ Strong and occasionally shifting currents are the primary hazard. Down-currents 
 Tatawa Kecil is a wide-angle dream: slopes blanketed in orange and purple soft corals, schools of fish backlit against blue water, and the occasional shark or turtle gliding through. The high fish density makes it easy to fill the frame — choose your exposure for the coral and let the fish come to you.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Diveconcepts – Tatawa Kecil](https://diveconcepts.com/tatawa-kecil-komodo). Last updated 2026-06-10.*

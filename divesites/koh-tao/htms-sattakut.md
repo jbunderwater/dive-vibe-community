@@ -26,8 +26,8 @@ On 18 June 2011, Thailand's Department of Marine and Coastal Resources deliberat
 - **Location**: West of Koh Tao, approximately 800 m offshore, adjacent to Hin Pee Wee pinnacle
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (wreck penetration requires advanced/wreck certification)
-- **Maximum Depth**: 30 meters (keel at 27–30 m; bridge at 18–19 m)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 2–15 m (variable; can be poor)
 - **Current**: Mild to moderate
 - **Best Time**: May to August

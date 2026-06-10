@@ -23,7 +23,7 @@ Scuba Junction is a dive site on the southeast side of Koh Tao offering coral sl
 
 - **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m

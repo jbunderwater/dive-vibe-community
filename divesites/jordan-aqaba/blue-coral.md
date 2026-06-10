@@ -57,4 +57,4 @@ Sea urchins are present at the entry point — appropriate footwear recommended.
 One of Aqaba's premier photography sites. The diverse coral formations, abundant nudibranchs, resting crocodilefish and frogfish, and frequent turtle sightings make it excellent for both macro and wide-angle work.
 
 ---
-*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/). Last updated 2026-04-11.*
+*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/), [Aqaba Adventure Divers - Blue Coral](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/blue-coral-dive-site/). Last updated 2026-06-10.*

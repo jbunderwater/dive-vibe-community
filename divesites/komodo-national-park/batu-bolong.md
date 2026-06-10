@@ -22,4 +22,4 @@ An exposed rock pinnacle rising from over 70m in the center of Lintah Strait. St
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: diveconcepts.com, divekomodo.com, azulkomodo.com, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Dive O'Clock – Komodo](https://www.diveoclock.com/destinations/Asia/Indonesia/Komodo/). Last updated 2026-06-10.*

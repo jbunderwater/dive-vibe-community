@@ -23,7 +23,7 @@ Japanese Garden sits in the sheltered eastern bay of Koh Nang Yuan, the twin-pea
 
 - **Location**: East side of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10–18 m
