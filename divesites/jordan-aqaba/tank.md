@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Tank
 
-Tank is a historic wreck dive in Jordan - Aqaba, Middle East.
+The M42 Duster is one of the most accessible wreck dives in the world — an American anti-aircraft tank deliberately sunk in just 6 metres of water, only 20 metres from shore.
 
 ## Overview
 
-The Tank is an American M42 Duster self-propelled anti-aircraft gun that served the Jordanian Army from 1965 to 1998 before being sunk in just 5–7 metres of water on 1 September 1999 by the Jordanian Royal Ecological Diving Society, making it one of the most accessible wreck dives in the world. Sitting on a sandy bottom only 20 metres from shore, the tank's hull is now overgrown with soft corals and sponges and shelters moray eels, shrimps, crabs, and starfish in its many crevices, with colourful reef fish schooling around the turret. The site sits just metres from the C-130 Hercules aircraft wreck, and together they represent the beginning of Aqaba's celebrated programme of deliberate artificial reef creation.
+The Tank is an American M42 Duster self-propelled anti-aircraft vehicle that was decommissioned from the Jordanian Army and sunk on 1 September 1999 by the Jordanian Royal Ecological Diving Society as an artificial reef. It was carefully cleaned of all hazardous materials — oils, fuel, and lubricants — before sinking, making it the first military vehicle deliberately placed in Aqaba's waters and the second artificial reef overall after the Cedar Pride. The specific years of its service with the Jordanian Army have not been confirmed in independent sources.
+
+Sitting on a sandy bottom at approximately 6 metres depth and only 20 metres from shore, the tank is encrusted with corals and sponges and is accessible to snorkellers as well as divers. Documented marine life at the site includes lionfish, angelfish, groupers, and moray eels. The site is near the C-130 Hercules aircraft wreck, and both are frequently combined in a single dive.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ The Tank is an American M42 Duster self-propelled anti-aircraft gun that served 
 - **Maximum Depth**: 6 meters
 
 ---
-*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*
+*Sources: [Arab Divers - The Tank](https://www.arabdivers.jo/en/activities/dive-sites/the-tank), [Sea Wonders Diving Center - M42 Duster Tank](https://seawondersdivingcenter.com/m42-duster-tank/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*

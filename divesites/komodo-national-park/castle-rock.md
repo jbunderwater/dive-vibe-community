@@ -22,4 +22,4 @@ A large underwater seamount north of Gili Lawa Laut with its peak just meters be
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: notroublesjustbubbles.com, divekomodo.com, nerendivingkomodo.net, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [DiveHappy – Komodo Dragons Domain](https://divehappy.com/indonesia/komodo-diving-dragons-domain/). Last updated 2026-06-10.*

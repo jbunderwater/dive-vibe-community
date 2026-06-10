@@ -2,8 +2,8 @@
 name: Sabolon besar dive site
 lat: -8.3926698
 lng: 119.8068523
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -51,4 +51,4 @@ Most divers work a figure-eight route between the main bommies, ranging from 5 t
 Sabolon Besar is an excellent site to take time and work slowly around the bommies rather than rushing through. Bring a torch for the dark recesses beneath coral heads where scorpionfish and moray eels are easily overlooked. The site's comparative calm makes it a good choice for photographers who need stable water to shoot macro subjects. Combine with Sabolon Kecil for a full double-site itinerary — the two sites show distinct character despite their proximity.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/), [SSI MyDiveGuide – Sabolan Besar](https://www.divessi.com/en/mydiveguide/divesite/132148). Last updated 2026-06-10.*

@@ -22,4 +22,4 @@ A sheltered bay reef off northeast Padar Island with mild currents. Features lar
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: divekomodo.com, divessi.com, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [SSI MyDiveGuide – Komodo](https://www.divessi.com/en/mydiveguide), [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/). Last updated 2026-06-10.*

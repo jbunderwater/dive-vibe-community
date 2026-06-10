@@ -13,49 +13,51 @@ addedBy: osm_import
 
 ## Mpunguti Marine Reserve
 
-Mpunguti Marine Reserve encompasses the Mpunguti ya Juu and Mpunguti ya Chini islands and surrounding reef near Shimoni at Kenya's southern tip, within the Kisite-Mpunguti Marine National Park and Reserve complex — one of Kenya's most consistently clean and biodiverse marine protected areas.
+Mpunguti Marine Reserve encompasses the Mpunguti ya Juu and Mpunguti ya Chini islands and surrounding reef near Shimoni at Kenya's southern tip, within the Kisite-Mpunguti Marine National Park and Reserve complex — one of Kenya's most consistently healthy and biodiverse marine protected areas.
 
 ## Overview
 
-The Kisite-Mpunguti Marine Protected Area is widely regarded as Kenya's finest dive destination, benefiting from strict enforcement of no-take regulations, low overall visitor numbers compared to the northern coast, and clean oceanic water flowing in from the open Indian Ocean south of the Tanzanian border. Mpunguti Marine Reserve forms part of this protected complex, with coral reefs extending from the island shorelines out to the 20-meter dive zone. The reef health here exceeds most of Kenya's coral systems, with high coral coverage, abundant reef fish, and regular large animal encounters. The 20-meter maximum depth combined with the beginner difficulty designation means the accessible sections of the reef provide the full marine life experience without requiring advanced skills.
+The Kisite-Mpunguti Marine Protected Area is widely regarded as Kenya's finest dive destination, benefiting from strict enforcement of no-take regulations, low overall visitor numbers compared to the northern coast, and clean oceanic water flowing in from the open Indian Ocean. The reef at Kisite-Mpunguti slopes gently from 2 metres down to 32 metres, with seven named dive sites within the park. The park covers 45 coral species and over 360 fish species according to Kenya Wildlife Service documentation.
+
+Named dive sites in the Kisite-Mpunguti system include: Outer Kisite (5–12 metres, shallow relaxed dive), Inner Kisite (6–25 feet), Dolphin Point (3–12 metres), Nyuli (27+ metres, advanced drift site with pelagic species), Harm's Drop Off (drift dive), and Secret Place (soft coral garden for macro photography). The Mpunguti Marine Reserve forms the reef complex surrounding the Mpunguti islands, with dive depths in the beginner range up to 20 metres.
+
+The park is known as the "Home of the Dolphins" — both bottlenose and spinner dolphin pods inhabit the reserve year-round and are frequently encountered.
 
 ## Site Information
 
-- **Location**: Mpunguti Islands, Kisite-Mpunguti Marine Protected Area, South Coast, Kenya
+- **Location**: Mpunguti Islands, Kisite-Mpunguti Marine National Park and Reserve, South Coast, Kenya
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: Up to 20 meters
+- **Current**: Minimal to light in most areas (Nyuli site has strong currents)
 - **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-The Kisite-Mpunguti area supports one of Kenya's largest resident sea turtle populations — green and hawksbill turtles are encountered on almost every dive and have become accustomed to respectful human presence. Whale sharks are sighted in the reserve seasonally (October-February) as they follow plankton concentrations through the protected channel. Indo-Pacific bottlenose and spinner dolphin pods inhabit the reserve year-round and are frequently encountered. Large schools of reef fish including parrotfish, surgeonfish, and snapper dominate the reef top. Potato grouper (potato bass) occupy deeper ledges.
+Dolphin pods (bottlenose and spinner) are a signature encounter in the reserve and are encountered on most visits. Green sea turtles are regularly sighted. The reef supports parrotfish, surgeonfish, moorish idol, giant sweeplip, butterflyfish, angelfish, turtle starfish, and octopus among the documented 360 species in the park. Humpback whales migrate along this coast from late June through December. Whale sharks are occasionally reported.
+
+*Note: The above species represent documented park-wide fauna from Kenya Wildlife Service and operator sources; site-specific species surveys for the Mpunguti reef in isolation are not available in the sources consulted.*
 
 ## Dive Profile
 
-Descend from the mooring to 18-20 meters at the reef base and work up the slope through the most productive reef zone at 8-15 meters. Turtle encounters are most frequent on the reef crest at 5-8 meters. Allow adequate time at this shallow zone — the protection status of the reserve means fish are calm and allow extended observation. The diverse terrain of the Mpunguti reef system supports navigating between coral formations rather than following a single line.
+The reef slopes gradually from the island shoreline down to the 20-metre dive limit accessible at this beginner-designated site. Navigation between coral formations rather than following a fixed line. The full park depth range extends to 32 metres at Nyuli — those depths require Advanced certification and a separate trip.
 
 ## Entry and Exit
 
-Boat departure from Shimoni jetty, approximately 45 minutes south of Diani Beach or 90 minutes from Mombasa. Shimoni is the main gateway to the Kisite-Mpunguti reserve, and the local operator community is experienced with the protected area regulations. A Kenya Wildlife Service marine park fee is payable at Shimoni jetty before departure.
+Boat departure from Shimoni jetty, approximately 45 minutes south of Diani Beach or 90 minutes from Mombasa. Dhow and speedboat transfers are available. A Kenya Wildlife Service marine park fee is payable at Shimoni. Kenya Coastal Divers (PADI-certified, based at Shimoni) operates guided dives here.
 
 ## Tips and Recommendations
 
-- Kisite-Mpunguti is Kenya's best dive destination and worth the journey from Mombasa or Diani Beach
-- Turtle encounters are reliable — approach behavior is important: lateral hovering at turtle eye level is less disruptive than overhead approach
-- Dolphin snorkeling excursions in the reserve are offered alongside diving — combining both in a day trip is standard
-- Book in advance during peak season (December-March) as demand from Diani Beach tourists is significant
+- Kisite-Mpunguti is Kenya's best-reviewed dive destination and worth the journey from Mombasa or Diani Beach
+- Dolphin encounters are the headline attraction — both snorkeling and diving dolphin experiences are offered from Shimoni
+- Combine with a Wasini Island visit and dhow lunch for a full day excursion
+- Book through operators based at Shimoni for the most efficient access to the park
 
 ## Safety Considerations
 
-Beginner-appropriate conditions within the protected area. Visibility and sea state are generally better here than at Mombasa-area sites due to the oceanic water source. The boat transit from Shimoni can be affected by sea state during the southeast monsoon season — June to September can see rough conditions. Park regulations require a licensed guide to accompany all dives. Standard coral and sea urchin contact hazards apply.
-
-## Photography
-
-The best conditions for sea turtle photography in Kenya — calm fish behavior, excellent visibility, and high density of photogenic subjects. Wide-angle lenses capture turtles against the open-water blue backdrop or over the coral reef. Dolphin snorkeling provides above-water photographic opportunities with trained wildlife behavior suitable for snorkel cameras. The general reef health at Mpunguti means wide-angle reef overview shots include significantly more coral cover and fish density than at comparable Kenya coast sites.
+Beginner-appropriate conditions within the main protected area. Park regulations require licensed guides to accompany all dives. The boat transit from Shimoni can be affected by sea state during the southeast monsoon season (June to September can see rougher conditions). Standard coral and sea urchin contact hazards apply. KWS regulations prohibit collecting, fishing, and touching marine life.
 
 ---
-*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*
+*Sources: [Africa Kenya Safaris – Kisite Mpunguti](https://www.africakenyasafaris.com/kenya-national-parks/kisite-mpunguti-marine-park-reserve/), [ScubaGo – Kisite](https://www.scubago.com/en/explore/destination/kisite-9753521), [Ocean Tribe – Kisite National Marine Park Guide](https://oceantribe.co/dive-and-safari-packages/kisite-national-marine-park-guide/). Last updated 2026-06-10.*

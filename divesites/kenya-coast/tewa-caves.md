@@ -2,8 +2,8 @@
 name: Tewa Caves
 lat: -3.36
 lng: 40.03
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 24
 entryType: boat
 siteType: cave
 ref: null
@@ -13,19 +13,41 @@ addedBy: osm_import
 
 ## Tewa Caves
 
-Tewa Caves is a cave dive site in Kenya Coast, Africa.
+Tewa Caves is one of the most distinctive dive sites in Watamu Marine National Park — a partially submerged cave system near the mouth of Mida Creek whose name derives from "tewa," the Swahili word for giant grouper, the enormous fish that make their home in the cave openings.
 
 ## Overview
 
-Tewa Caves sit at the southern boundary of Watamu Marine National Park near the entrance to Mida Creek, where "tewa" is the Swahili name for the giant groupers — fish reaching 200 kilograms — that make their home in the partially submerged cave system, accessible by boat at low tide. The dive features a light-flooded reef environment with coral islands surrounded by white sand, and lionfish and blue-spotted ribbontail rays hiding in the sandy substrate alongside the groupers peering out from the cave openings. The surrounding Watamu Marine Park, Africa's first marine park established in 1968, offers over 600 species of fish and 110 species of stony coral within reach of this site.
+The Tewa Caves site sits within Watamu Marine National Park near the Mida Creek channel entrance, accessible by boat from Watamu. The caves are accessible at low tide and feature a light-flooded reef environment with coral islands surrounded by white sand. The depth range across the site is 8 to 24 metres, making it accessible to beginner divers while offering enough depth to satisfy more experienced visitors.
+
+The caves are named for the giant groupers that inhabit them. Multiple sources confirm giant groupers weighing up to 200 kilograms live in the cave openings and surrounding reef. The site is suitable for all experience levels according to dive operators who run it.
+
+The surrounding Watamu Marine National Park was established on 26 March 1968 — Kenya's first marine park and one of Africa's first — and was designated part of a UNESCO Man and Biosphere Reserve in 1979 together with Malindi Marine Park.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Near Mida Creek mouth, Watamu Marine National Park, Kenya
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 24 meters
+- **Depth Range**: 8–24 meters
+- **Best Time**: October to March (northeast monsoon season)
+
+## Marine Life
+
+Giant groupers are the signature species at Tewa Caves, confirmed by multiple sources as resident in the cave openings, with reported weights up to 200 kilograms. Lionfish are documented at the site, perched among coral outcrops. Blue-spotted ribbontail rays hide in the white coral sand around the cave base. The broader Watamu Marine National Park supports approximately 600 fish species and over 150 coral species, but the above species are specifically documented at this site; regional species not confirmed as site-specific have been omitted from this description.
+
+## Dive Profile
+
+The dive takes place over a light-filled reef with the cave openings accessible from the sandy bottom. The cave interiors are open enough for natural light to penetrate and are not true overhead environments requiring cave certification — they are more accurately described as cavern-style openings. Depths range from 8 metres on the shallow reef to 24 metres in the deeper sections near the creek channel entrance.
+
+## Entry and Exit
+
+Boat access from Watamu. Aqua Ventures is the longest-running PADI 5-Star dive centre in Watamu and operates guided dives to this site. Access to the cave area may require a park warden permit in addition to standard Watamu Marine Park entrance fees.
+
+## Safety Considerations
+
+Rated beginner by operators, though the cave openings require sensible buoyancy to avoid disturbing sediment or the large resident fish. The giant groupers are habituated to divers but are large animals that should be treated respectfully. Standard marine park conditions apply — do not touch coral or harass marine life.
 
 ---
-*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*
+*Sources: [AJ Kenya Safaris – Watamu Marine National Park](https://ajkenyasafaris.com/things-todo/watamu-marine-national-park/), [Dive in Kenya – Aqua Ventures Watamu](https://www.diveinkenya.com/), [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html). Last updated 2026-06-10.*

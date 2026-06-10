@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Laem Thian Pinnacle
 
-A secluded east coast dive spot at Koh Tao's Laem Thian cape — boulder clusters, swim-throughs, and yellow tail barracuda schools in a remote setting.
+A rugged east coast dive spot at Koh Tao's Laem Thian cape — giant boulders, swim-throughs, and diverse reef fish in a seldom-crowded setting.
 
 ## Overview
 
-Laem Thian is located on Koh Tao's remote east coast and offers a secluded alternative to the busier west-side sites. The cape features clusters of huge boulders that form a series of exciting swim-throughs, caverns, and caves, creating a site that reveals more detail with each visit. The main swim-throughs are above 20 m with sun penetrating through gaps between boulders to create striking visuals. The rocky coastline from the surface matches the underwater landscape — rugged, boulder-strewn, and dramatically lit. Schools of yellow tail barracuda, butterflyfish, and blue ringed angelfish are resident throughout.
+Laem Thian is located on Koh Tao's east coast, at the site of a former small resort that has since been abandoned. The site is distinctly less crowded than the popular west-side sites; Black Turtle Dive notes that dives here are often made without encountering other groups. The bay section offers shallow diving from 5–15 m with boulders, natural swim-throughs, and coral formations. The adjacent caves section reaches deeper (up to 35 m) and is more suited to experienced divers. This entry covers the bay/pinnacle section (to approximately 16 m), which is accessible to Open Water divers; the caves section requires better buoyancy and experience.
+
+The site features large boulders creating natural archways and caverns with sunlight filtering through the gaps between rocks. Yellow-tail barracuda schools are a consistent feature.
 
 ## Site Information
 
@@ -26,37 +28,37 @@ Laem Thian is located on Koh Tao's remote east coast and offers a secluded alter
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10–18 m
+- **Typical Visibility**: 10–20 m
 - **Current**: Variable; east coast exposure
 - **Best Time**: November to April (southwest monsoon shelters east coast)
 
 ## Marine Life
 
-Schools of yellow tail barracuda are a consistent feature. Pairs of blue ring angelfish patrol the swim-through entrances. Butterflyfish are abundant on the rocky reef. Turtles, triggerfish, and moray eels inhabit the boulder base. Banded sea snakes cruise through the channels between boulders.
+Confirmed species include yellow-tail barracuda in large schools, blue-ring angelfish, butterflyfish, long-fin bannerfish, anemonefish, banded pipefish, blue-spotted stingrays, titan triggerfish, harlequin sweetlips, orange-spine unicorn fish, bumphead parrotfish, moray eels, groupers, batfish, and blacktip reef sharks. Jenkins whiprays have also been sighted at the site.
 
 ## Dive Profile
 
-Descend to the boulder base at 8–16 m and explore the swim-through formations. The main caverns are above 20 m with some at safety stop level. Work through the archways and rocky channels methodically — multiple passages can be found. Complete a safety stop in the shallow boulder zone where sun penetrates beautifully through the gaps.
+Descend to the boulder base at 8–16 m and explore the swim-through formations. The main archways are above 16 m with some at safety stop level. Work through the rocky channels methodically — multiple passages reward slow exploration. Complete a safety stop in the shallow boulder zone where sunlight penetrates beautifully through the gaps.
 
 ## Entry and Exit
 
-Boat from Koh Tao (approximately 20 minutes to the east coast). East coast sites are more accessible during the northwest monsoon (November–April) when the east is sheltered. Entry via back roll. SMB for ascent.
+Boat from Koh Tao (approximately 20 minutes to the east coast). East coast sites are more accessible during the northwest monsoon (November–April) when the east is sheltered from prevailing swells. Entry via back roll. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Dive this site November–April when the east coast is sheltered and conditions are best
+- Dive November–April when east coast conditions are most reliable
 - The swim-throughs at safety stop depth (5 m) are a highlight — don't rush the ascent
 - Multiple visits reveal progressively more passages and critters
-- Pair with Mango Bay or other east coast sites for a half-day east coast exploration
-- Early morning visits avoid any afternoon surface chop on the east coast
+- Look for bumphead parrotfish — a larger species occasionally seen here
+- Early morning visits avoid afternoon surface chop on the east coast
 
 ## Safety Considerations
 
-The east coast is more exposed during the southwest monsoon (May–October). Check conditions before committing. Swim-throughs should not be attempted solo. Titan triggerfish nesting areas around the boulders require wide avoidance in summer months.
+The east coast is more exposed during the southwest monsoon (May–October) — check conditions before committing to the site. Swim-throughs should not be attempted solo. Titan triggerfish nesting areas around the boulders require wide avoidance in summer months.
 
 ## Photography
 
-Sun-penetrating swim-through shots are the defining image of Laem Thian. Position yourself inside the arch and capture the exit opening with sunbeams filtering through. Schools of barracuda above the boulders in blue water make compelling wide-angle subjects.
+Sunlight-penetrating swim-through shots are the defining image of Laem Thian — position inside an arch and capture the exit opening with sunbeams filtering through. Schools of barracuda above the boulders in blue water make compelling wide-angle subjects.
 
 ---
-*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
+*Sources: [Black Turtle Dive – Laem Thian](https://www.blackturtledive.com/koh-tao-dive-sites/laem-thian/), [Funky Turtle – Laem Thian](https://www.thefunkyturtle.com/koh-tao-fun-diving/laem-thian-dive-site/), [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/). Last updated 2026-06-10.*

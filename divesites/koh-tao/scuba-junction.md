@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Scuba Junction
 
-A varied reef on Koh Tao's southeast coast with coral slopes, sandy channels, and reliable turtle sightings for all diver levels.
+A low-traffic east-coast reef on Koh Tao's southeast side — coral slopes, sandy channels, and the calmer afternoon conditions that suit divers when west-side sites are choppy.
 
 ## Overview
 
-Scuba Junction is a dive site on the southeast side of Koh Tao offering a mix of coral slopes, sandy channels, and varied topography that makes it accessible to divers of all levels. The site is less frequented than the island's most famous spots, giving it a more relaxed character with typically less boat traffic. Coral formations extend from the shallows to around 20 m, with sandy patches between them hosting a range of critters. Turtles are common throughout the site, and the calmer conditions make it a good option for afternoon dives when some of the more exposed west-side sites have more swell.
+Scuba Junction is a dive site on the southeast side of Koh Tao offering coral slopes, sandy channels, and varied topography accessible to all diver levels. The site receives less boat traffic than the popular Koh Nang Yuan sites, making it a more relaxed option for those wanting undisturbed reef exploration. Coral formations extend from the shallows to around 20 m. The southeast location provides shelter from afternoon southwest swells that can affect the west coast. Multiple operators list Scuba Junction as a good afternoon dive when west-coast surface conditions deteriorate.
 
 ## Site Information
 
 - **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m
@@ -32,11 +32,13 @@ Scuba Junction is a dive site on the southeast side of Koh Tao offering a mix of
 
 ## Marine Life
 
-Turtles are regularly encountered grazing on the reef. Cuttlefish are often seen hovering near the coral heads. Moray eels, triggerfish, and parrotfish are common. Sandy patches host stingrays and garden eels. Nudibranchs can be found in the rubble zones between coral heads.
+The site supports typical Gulf of Thailand reef fish including moray eels, triggerfish, parrotfish, cuttlefish near the coral heads, and stingrays on sandy patches. Nudibranchs have been found in the rubble zones between coral heads. Turtles are reported by operators at nearby southeast coast sites. No site-specific marine life surveys were found for Scuba Junction specifically; descriptions are based on operator listings for this part of Koh Tao's coast.
+
+*No site-specific marine life reports were found for Scuba Junction. Species described reflect general southeast Koh Tao reef conditions as reported by dive operators for nearby sites.*
 
 ## Dive Profile
 
-Descend to the reef at 5–8 m and follow the slope to 15–20 m. Explore the sandy channels between coral heads before returning along the upper reef. Turtles are often found along the reef crest between 5–12 m. Complete a 3-minute safety stop in the shallows before returning to the boat.
+Descend to the reef at 5–8 m and follow the slope to 15–20 m. Explore the sandy channels between coral heads before returning along the upper reef. Complete a 3-minute safety stop in the shallows before returning to the boat.
 
 ## Entry and Exit
 
@@ -45,10 +47,8 @@ Boat from Koh Tao. Entry via back roll. Conditions are manageable for beginner d
 ## Tips and Recommendations
 
 - A good afternoon dive option when west-facing sites have more surface chop
-- Less crowded than the popular Koh Nang Yuan sites — better for undisturbed turtle encounters
-- Search sandy channels for cuttlefish in hunting mode
+- Less crowded than the popular Koh Nang Yuan sites
 - Suitable as a discovery experience dive for non-certified divers
-- Night dive potential here — octopus and crabs are active after dark
 
 ## Safety Considerations
 
@@ -56,7 +56,7 @@ Conditions are generally easy but afternoon conditions can bring more swell from
 
 ## Photography
 
-Turtle portraits in natural reef habitat are accessible here. Cuttlefish colour display shots reward patient photographers. The less-visited reefs offer cleaner backgrounds for fish portrait photography.
+The less-visited reefs offer cleaner backgrounds for fish portrait photography. Cuttlefish colour displays reward patient photographers.
 
 ---
-*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
+*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Koh Tao Complete Guide – Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Big Blue Diving – Koh Tao Dive Sites](https://www.bigbluediving.com/). Last updated 2026-06-10.*

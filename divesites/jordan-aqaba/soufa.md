@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Soufa
 
-Soufa is a historic wreck dive in Jordan - Aqaba, Middle East.
+Soufa is listed in OSM as a wreck dive site at the northern end of the Gulf of Aqaba.
 
 ## Overview
 
-The Soufa (also known as Satil) is a 46-metre Israeli Navy missile boat decommissioned and sunk in the northern Gulf of Aqaba as an artificial reef in 1993, sitting upright with its bow facing north and the deck at 18–21 metres and maximum depth of around 25–30 metres. The wreck is accessible for interior exploration through the former deck cannon position and into the command bridge and engine room, where emperor angelfish, pipefish, Red Sea fusiliers, glassfish, lionfish, and moray eels have thoroughly colonised the hull. The vessel's backstory is remarkable — it was one of six gunboats secretly sailed from Cherbourg to Israel on Christmas Eve 1969 during a French arms embargo.
+Soufa appears in OSM data as a wreck dive with a Hebrew name tag (סופה, meaning "storm"), at coordinates lat 29.545°N, lon 34.954°E — placing it very close to the Israel-Jordan maritime boundary north of Aqaba city. The Israeli wreck known as Sufa or Satil (INS Sufa, a Sa'ar 3-class missile boat, 46 metres long) is documented by all Eilat, Israel dive operators as being located at Village Beach near Coral Beach, Eilat, Israel, at depths of 18–25 metres. Multiple independent sources confirm the Sufa/Satil as an Israeli dive site; no Jordanian dive operator source reviewed during this QA pass lists this wreck as a Jordanian site.
+
+The Sufa/Satil story is notable: the vessel was one of the Sa'ar 3 missile boats covertly sailed from the French port of Cherbourg to Israel on the night of 24–25 December 1969, during a French arms embargo. It was decommissioned from Israeli Navy service and sunk as an artificial reef; sources conflict on whether this occurred in 1993 or 1994. The wreck sits upright with its bow at 18 metres and stern at 21 metres, maximum depth around 25 metres.
+
+The OSM data entry for this site may represent the Eilat Sufa/Satil wreck incorrectly attributed to Jordanian waters, or a similarly named site. Divers should confirm the site's location and access with a local dive operator before visiting.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Northern Gulf of Aqaba — jurisdiction unconfirmed
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*
+*Description based on OSM data and regional diving sources. No Jordan-specific sources confirmed for this site. Sources consulted: [Adrex - Sufa Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/), [Wannadive - Sufa Wreck Eilat](https://www.wannadive.net/spot/Middle_East/Israel/Red_Sea_Eilat/Sufa_Wreck/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba). Last updated 2026-06-10.*

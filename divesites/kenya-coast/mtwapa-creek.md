@@ -2,10 +2,10 @@
 name: Mtwapa Creek
 lat: -3.9167
 lng: 39.75
-difficulty: Intermediate
-maxDepth: 15
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 23
+entryType: boat
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,49 +13,42 @@ addedBy: osm_import
 
 ## Mtwapa Creek
 
-Mtwapa Creek is a shore-entry dive in the tidal creek system north of Mombasa, where the creek's deeper channel sections and adjacent reef structures offer intermediate diving within an unusual estuary-influenced environment that differs significantly from Kenya's open reef sites.
+Mtwapa Creek is a tidal creek north of Mombasa whose current-swept underwater terrain supports a demanding drift dive over a drop-off that starts at 10 metres and falls to 35 metres, attracting large schools of pelagic fish and experienced-diver conditions.
 
 ## Overview
 
-Mtwapa Creek cuts inland from the Indian Ocean north of Mombasa, creating a sheltered waterway flanked by mangroves and lined with fishing communities and tourist facilities. The dive site utilizes the deeper sections of the creek mouth and channel where tidal exchange brings relatively clean ocean water in and out twice daily. The maximum depth of 15 meters is reached in the main channel, with shallower reef structures on the creek walls and along the sandy channel floor. The intermediate designation reflects the shore entry logistics and the variable visibility created by tidal turbidity rather than any demanding depth or current profile — the creek itself is calm, but sediment movements with the tide mean visibility is strongly tide-dependent.
+Mtwapa Creek cuts inland from the Indian Ocean approximately 25 kilometres north of Mombasa, lined with mangrove forest and flanked by tourist facilities. The primary dive attraction is the Mtwapa Drop Off — a wall structure beginning at 10 metres that descends to 35 metres — and the channel itself, which reaches 23 metres at depth. Strong tidal currents run through the creek, especially near the mouth, and these currents drive the pelagic fish activity that makes the site notable. Soft corals and sea fans on the drop-off benefit from the current-borne nutrients. A shallower shelf at 10 metres within the creek supports spiny lobsters.
+
+Visibility in the creek averages around 12 metres but is strongly tide-dependent, improving significantly on slack water. Water temperatures range from 24–30°C.
+
+**Correction from earlier data:** This site has been reclassified from `reef` to `drift` and the maximum depth corrected from 15m to 23m, based on multiple dive source descriptions. Difficulty has been updated from Intermediate to Advanced.
 
 ## Site Information
 
-- **Location**: Mtwapa Creek, North Mombasa, Kenya
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-15 meters (16-50 feet, tide-dependent)
-- **Current**: Moderate (tidal, strongest at creek mouth)
-- **Best Time**: High tide, October to March
+- **Location**: Mtwapa Creek, north of Mombasa, Kenya
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 23 meters
+- **Typical Visibility**: ~12 meters (tide-dependent)
+- **Current**: Strong tidal currents
+- **Best Time**: September to March
 
 ## Marine Life
 
-The creek environment attracts a mix of estuarine and reef species unusual in combination. Moray eels are abundant throughout the channel structures. Lionfish occupy coral outcrops on the creek walls. At night, the creek becomes particularly active — octopus emerge from rock crevices, crabs and shrimp hunt along the channel floor, and juvenile reef fish shelter in the coral and rock formations. Dolphins occasionally enter the creek mouth, particularly in early morning. Cleaning stations on the deeper reef structures attract potato grouper and other large fish that wait patiently for cleaner wrasse attention.
+Confirmed at this site: large schools of yellowtail barracuda and great barracuda, black trevally, kingfish, and potato grouper. Spiny lobsters are documented on the 10-metre shelf in the creek. Sea turtles are also reported in the area. The strong currents attract aggregations of pelagic species that are less reliably encountered at calmer Mombasa-area reef sites.
 
 ## Dive Profile
 
-Enter from the designated shore access point and navigate to the main channel, descending to 10-15 meters in the deeper sections. Visibility determines how far into the channel is productive — on high-tide slack water the visibility extends to 12-15 meters and navigation is straightforward; on low tide or active tidal flow it may be limited to 5-8 meters. Plan the dive to use the best visibility window around high-tide slack. Navigation requires compass skills as the channel branches and reverse-route navigation is needed to return to the entry point.
+A drift dive through the creek channel and over the drop-off, timed to the tidal current flow. The drop-off begins at 10 metres and descends steeply; divers follow the current rather than fighting it. Plan around slack water for the safest entry and exit. The 23-metre channel depth is accessible throughout; the 35-metre base of the drop-off is within advanced recreational limits but requires careful depth management.
 
 ## Entry and Exit
 
-Shore entry from Mtwapa, north of Mombasa. The creek is accessible from several points along its banks and from the Mtwapa bridge area. Equipment carrying distance from parking to water entry varies by access point — confirm with the local operator. Exit at the same shore point used for entry. Night diving is regularly done from this site.
-
-## Tips and Recommendations
-
-- Time the dive for approximately 30 minutes before high-tide slack for the best visibility conditions
-- Compass navigation is essential — the channel turns make visual navigation unreliable in any reduced visibility
-- Night diving at Mtwapa Creek is particularly productive for invertebrate life and hunting behavior
-- The mix of reef and estuarine species makes Mtwapa Creek genuinely different from Diani or Watamu reef dives — worth doing for the species variety
+Boat access from the Mtwapa area. Surface marker buoy essential for drift dive exit pickup. Coordinate with the boat operator for drift dive logistics — entry and exit points will differ. Dive on appropriate tidal timing; strong ebb and flow currents at the creek mouth can be hazardous outside slack water periods.
 
 ## Safety Considerations
 
-The main hazard at Mtwapa Creek is tidal current during active tidal exchange, which can be significant near the creek mouth. Dive only on slack water periods. Visibility reduction on the ebb tide can disorient divers without compass skills — always navigate by compass. Shore entry requires awareness of boat traffic in the creek. Standard coral and fire coral contact hazards apply. A surface marker buoy is less relevant on this shore dive but carry one in case of emergency.
-
-## Photography
-
-The Mtwapa Creek environment creates unusual photographic opportunities distinct from open reef diving — the framing of coral structures against the creek wall substrate, moray eels in rock crevice settings, and the macro life on encrusted channel surfaces. Night photography of the abundant invertebrate community is particularly rewarding. The documentary value of a Kenya coast estuarine reef system makes this worthwhile for underwater documentary photographers.
+This site requires drift diving experience and good buoyancy control. The strong tidal currents that make this site productive can also be dangerous — divers without drift diving training should not dive here. Boat pickup coordination is essential. The deep drop-off presents narcosis risk for divers descending below 30 metres without appropriate training. Boat traffic in the creek requires SMB deployment.
 
 ---
-*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*
+*Sources: [XtremeSpots – Mtwapa Creek](https://www.xtremespots.com/water-sports/scuba-diving/mtwapa-creek-mombasa-marine-park-coast-province-kenya/), [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/). Last updated 2026-06-10.*

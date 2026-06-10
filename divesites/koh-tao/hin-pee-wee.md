@@ -2,7 +2,7 @@
 name: Hin Pee Wee
 lat: 10.1066348
 lng: 99.8133678
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 28
 entryType: boat
 siteType: pinnacle
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Hin Pee Wee
 
-A pyramid-shaped rocky pinnacle just north of the HTMS Sattakut wreck — an ideal decompression and safety stop dive combined with the wreck.
+A rocky pinnacle cluster named after one of Koh Tao's early diving pioneers — 200 m from the HTMS Sattakut wreck and a natural companion dive on the same trip.
 
 ## Overview
 
-Hin Pee Wee is a pyramid-shaped rocky pinnacle covered in a combination of hard and soft corals, sitting just north of the HTMS Sattakut wreck. It is a popular spot for divers to visit after completing the wreck dive to maximise their remaining air and extend their no-decompression limits in shallower water. The pinnacle top sits at around 8 m, providing an excellent safety stop environment after the deeper wreck sections. Groupers, triggerfish, scribbled filefish, and pufferfish are regular sights around the pinnacle faces.
+Hin Pee Wee is a cluster of small rock pinnacles located approximately 200 m south of White Rock and 30 m from the HTMS Sattakut wreck, situated about 2 km off Koh Tao's west coast. The main pinnacle top sits at 8 m depth, with the surrounding formations descending to 20 m and the deepest sections off the southeastern rocks reaching 28 m. The pinnacle faces support sea fans, whip corals, table corals, and anemones. Black Turtle Dive lists the site as requiring Advanced Open Water certification due to the depth and moderate currents. It is typically dived as the second portion of an HTMS Sattakut wreck day, using remaining air and extending the no-decompression window in shallower water.
 
 ## Site Information
 
-- **Location**: West Koh Tao, adjacent to HTMS Sattakut wreck
+- **Location**: West Koh Tao, approximately 30 m from HTMS Sattakut wreck; ~200 m south of White Rock
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10–20 m
+- **Typical Visibility**: 2–15 m (variable; can be poor)
 - **Current**: Mild to moderate
 - **Best Time**: May to August
 
 ## Marine Life
 
-Honeycomb groupers and other grouper species are resident on the pinnacle faces. Scribbled filefish and pufferfish are common. Triggerfish are territorial around nesting areas during June–August. Moray eels inhabit crevices in the rock faces. Occasional whale sharks have been spotted cruising past the pinnacle during peak season. Soft coral growth on the pinnacle flanks hosts nudibranchs and small invertebrates.
+Confirmed species include long-faced emperor fish in small groups (a distinctive feature of this site), brown-barred grouper, moon wrasse, yellow-tail barracuda, great barracuda circling the pinnacle top, sea turtles resting on ledges, banded sea kraits, bearded scorpionfish, hermit crabs, nudibranchs, and ornate ghost pipefish. Macro subjects — nudibranchs and ghost pipefish — are a highlight for photographers visiting from the adjacent wreck.
 
 ## Dive Profile
 
-Typically dived as the second portion of an HTMS Sattakut dive day. After exploring the wreck, swim north to Hin Pee Wee and spend time on the pinnacle from 8–20 m. Ascend to the pinnacle top for the safety stop at 5–8 m while exploring the anemones and fish life at the summit. Total combined dive time with the wreck is typically 55–65 minutes.
+Typically dived as the second portion of an HTMS Sattakut dive day. After exploring the wreck, swim to Hin Pee Wee and spend time on the pinnacle from 8–20 m. Work the ledges and crevices for scorpionfish and ghost pipefish before ascending to the pinnacle top for the safety stop at 5–8 m.
 
 ## Entry and Exit
 
-Boat moored at the HTMS Sattakut wreck site. Swim to Hin Pee Wee from the wreck. Entry via back roll from the boat. SMB deployment for final ascent.
+Boat moored at the HTMS Sattakut wreck site. Swim from the wreck to Hin Pee Wee; both sites are accessible on a single tank if air management is planned. Entry via back roll from the boat. SMB deployment for final ascent.
 
 ## Tips and Recommendations
 
 - Always pair Hin Pee Wee with the HTMS Sattakut wreck — the two make a natural single-dive combination
-- The pinnacle top at 8 m is an ideal safety stop location with interesting marine life to observe
-- Check for whale sharks in the blue water during your safety stop — they pass this area seasonally
-- June–August: be aware of triggerfish nesting on the lower flanks
-- A torch helps illuminate crevices where groupers and moray eels shelter
+- The pinnacle top at 8 m is an ideal safety stop location with turtle encounters possible on the ledges
+- Bring a torch to illuminate crevices where scorpionfish and ghost pipefish shelter
+- Long-faced emperor fish are a distinctive local resident — look for small groups around the pinnacle faces
 
 ## Safety Considerations
 
-Triggerfish can be territorial during nesting season. Currents are generally mild but can funnel between the pinnacle and the seabed. Maintain awareness of the proximity of the HTMS Sattakut wreck structure when swimming between sites. Always carry an SMB.
+Currents can funnel between the pinnacle and the seabed. Visibility can be poor (2–10 m is typical for this site). Scorpionfish on the pinnacle faces are well-camouflaged — do not touch any surface. Always carry an SMB.
 
 ## Photography
 
-Grouper portraits against the soft coral-covered pinnacle face. The pinnacle summit from below with divers doing a safety stop and light filtering from the surface above. Combination shots showing both Hin Pee Wee and the HTMS Sattakut in the same wide frame require clear visibility and careful positioning.
+Long-faced emperor fish are a relatively unusual macro–mid-range subject. Ghost pipefish among the anemones suit close-focus wide-angle or macro. The soft coral and sea fan faces provide good wide-angle compositions. Combination shots looking back toward the HTMS Sattakut from Hin Pee Wee are possible in good visibility.
 
 ---
-*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
+*Sources: [Black Turtle Dive – Hin Pee Wee](https://www.blackturtledive.com/koh-tao-dive-sites/hin-pee-wee/), [Coral Grand Divers – Hin Pee Wee](https://coralgranddivers.com/pages/hin-pee-wee-dive-site-in-koh-tao), [Big Blue Diving – Hin Pee Wee](https://www.bigbluediving.com/koh-tao-dive-sites/hin-pee-wee/). Last updated 2026-06-10.*

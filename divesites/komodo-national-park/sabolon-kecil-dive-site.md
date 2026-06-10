@@ -3,9 +3,9 @@ name: Sabolon kecil dive site
 lat: -8.3896766
 lng: 119.7984087
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 8022562468
 addedBy: osm_import
@@ -51,4 +51,4 @@ Divers typically begin at the reef crest (5–8 m) and work down the slope to th
 Sabolon Kecil rewards patient, slow diving. Spending 10–15 minutes working a single rubble patch can yield multiple nudibranch species. A macro lens setup is well worth bringing if combined with the nearby Seraya Kecil site in the same trip. Early morning dives when light is low and animals are active produce the best turtle and octopus encounters.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [SSI MyDiveGuide – Sabolon Kecil](https://www.divessi.com/en/mydiveguide/divesite/sabolon-kecil-indonesia-250103), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*

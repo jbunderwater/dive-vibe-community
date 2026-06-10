@@ -22,4 +22,4 @@ A small seamount in Loh Dasami Bay at Nusa Kode, carpeted in dense soft corals, 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: diveconcepts.com, divehappy.com, divekomodo.com, ScubaBoard user Dan (GPS). Last updated 2026-04-05.*
+*Sources: [ScubadiverZ – Cannibal Rock Komodo](https://scubadiverz.org/diving-locations.php?territory=asia&country=indonesia&region=komodo&diving-location=cannibal-rock&id=201), [DiveHappy – Komodo Dragons Domain](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/). Last updated 2026-06-10.*

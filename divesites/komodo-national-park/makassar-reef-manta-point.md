@@ -3,7 +3,7 @@ name: Makassar Reef (Manta Point)
 lat: -8.5335442
 lng: 119.5905966
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Karang Makassar is a broad, shallow reef lying in the strait between Komodo and 
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 meters (can be reduced when currents carry plankton)
 - **Current**: Light to strong; direction varies with tide
 - **Best Time**: February to November; largest aggregations during February to April
@@ -59,4 +59,4 @@ Currents can accelerate quickly at Karang Makassar as the tide shifts. Stay clos
 Feeding mantas with open cephalic fins are the primary subject. Shoot from below or slightly to the side to capture the full wingspan — a 10–17mm fisheye on a wide dome gives jaw-dropping perspective. When mantas are dense, simply point upward at the surface silhouettes. The reduced visibility from plankton can add atmosphere to wide-angle shots.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Manta Point](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [PADI – Manta Point Komodo](https://www.padi.com/dive-site/indonesia/manta-point-komodo/). Last updated 2026-06-10.*

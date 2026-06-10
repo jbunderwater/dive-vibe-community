@@ -3,7 +3,7 @@ name: Crystal Rock Dive Site
 lat: -8.4416648
 lng: 119.5677822
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,7 +17,7 @@ Crystal Rock is one of Komodo National Park's most celebrated dive sites — a s
 
 ## Overview
 
-Crystal Rock is a submerged pinnacle in the northern sector of Komodo National Park, East Nusa Tenggara, Indonesia. The pinnacle tops out at roughly 3–5 meters below the surface and plunges to over 30 meters, its flanks carpeted in dense soft corals — orange, purple, and yellow sea fans spreading wide against the current. Strong upwellings funnel plankton over the rock, drawing vast schools of fusiliers, big-eye trevally, and sweetlips that swirl in shimmering columns. The diving is unambiguously advanced: currents can run at three knots or more, demanding good buoyancy control and the ability to hold position against the flow.
+Crystal Rock is a submerged pinnacle in the northern sector of Komodo National Park, near Gili Lawa Laut, East Nusa Tenggara, Indonesia. The pinnacle tops out at roughly 3–5 meters below the surface and plunges to over 35 meters, its flanks carpeted in dense soft corals — orange, purple, and yellow sea fans spreading wide against the current. Strong upwellings funnel plankton over the rock, drawing vast schools of fusiliers, big-eye trevally, and sweetlips that swirl in shimmering columns. The diving is unambiguously advanced: currents can run at three knots or more, demanding good buoyancy control and the ability to hold position against the flow.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Crystal Rock is a submerged pinnacle in the northern sector of Komodo National P
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Strong to very strong; must be timed with tidal flow
 - **Best Time**: April to November (dry season); early morning on incoming current
@@ -59,4 +59,4 @@ Currents at Crystal Rock can be extreme, with sudden up-currents and down-curren
 Crystal Rock is tailor-made for wide-angle work — shoot into the blue with schools of fusiliers backlit by sunlight pouring down from above, or frame soft coral fans against the current with a diver silhouetted behind. Early morning light creates dramatic shafts through the water column. A fisheye or 10–17mm lens captures the full drama of the pinnacle.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Dragon Dive Komodo – Crystal Rock](https://dragondivekomodo.com/crystal-rock-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [La Galigo Liveaboard – Crystal Rock](https://www.lagaligoliveaboard.com/diving/komodo/dive-site/crystal-rock/). Last updated 2026-06-10.*

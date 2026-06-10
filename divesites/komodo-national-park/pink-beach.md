@@ -3,8 +3,8 @@ name: Pink Beach
 lat: -8.60391
 lng: 119.5184013
 difficulty: Beginner
-maxDepth: 30
-entryType: boat
+maxDepth: 25
+entryType: both
 siteType: reef
 ref: null
 osmId: 7182770013
@@ -22,10 +22,10 @@ Located on the eastern coast of Komodo Island, Pink Beach (separate from the sim
 ## Site Information
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern Komodo Island)
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore or boat entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters
 - **Current**: Light; occasionally moderate at the reef's outer edge
 - **Best Time**: April to November; manageable year-round
@@ -59,4 +59,4 @@ The site is one of Komodo's safest. The main hazard is the entry and exit over t
 Pink Beach is visually exceptional above water — the pink sand, turquoise water, and dramatic volcanic hills behind make it one of the most photographed beaches in Indonesia. Underwater, the excellent natural light in the shallows creates clean, bright images without strobes for coral and fish portraits. Wide-angle to capture the reef landscape; macro for the critters. Shooting back toward the beach from underwater in 3–5 meters reveals the pink sand glowing above.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*

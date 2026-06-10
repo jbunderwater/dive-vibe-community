@@ -3,7 +3,7 @@ name: The Cauldron Dive Site
 lat: -8.4609097
 lng: 119.5633723
 difficulty: Advanced
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Located in the northern section of Komodo National Park near Gili Lawa Laut, The
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 meters
 - **Current**: Extremely strong during tidal flow; site-specific briefing essential
 - **Best Time**: April to November; must be timed precisely with tidal tables
@@ -59,4 +59,4 @@ The Cauldron is not suitable for divers without experience in strong current div
 The brief transit through the channel makes conventional photography difficult, but the outer slope offers excellent wide-angle opportunities. Manta rays on the sloping reef, schools of fish at the channel exit, and healthy hard corals make for compelling images. Secure your camera rig tightly before entering the Cauldron section.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Stingy Nomads – Diving Komodo](https://stingynomads.com/diving-komodo-island-indonesia/). Last updated 2026-06-10.*

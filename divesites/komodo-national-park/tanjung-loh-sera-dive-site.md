@@ -3,7 +3,7 @@ name: Tanjung Loh Sera dive site
 lat: -8.7432085
 lng: 119.4720907
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -51,4 +51,4 @@ The dive begins with a descent onto the pinnacle crest (5–8 m), followed by a 
 Tanjung Loh Sera demands respect: the headland creates current convergences that can shift direction with little warning. Always dive with an experienced guide who knows the site's tidal behaviour, and have a surface marker buoy ready from the start of the dive. A 5 mm wetsuit is strongly advised given reliable thermoclines. The combination of Tanjung Loh Sera and the adjacent Loh Sera wall in a single morning gives a complete picture of this remote southwestern zone's diving character.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Asia Dive Site – Tanjung Loh Sera](https://www.asiadivesite.com/indonesia-dive-sites/komodo/tanjung-loh-sera/), [Divescover – Tanjung Loh Sera](https://divescover.com/dive-site/tanjung-loh-sera/40278), [Komodo Island Tour – Tanjung Loh Sera](https://www.komodoislandtour.com/tanjung_loh_sera.html). Last updated 2026-06-10.*

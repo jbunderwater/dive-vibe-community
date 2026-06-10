@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Cedar Pride
 
-Cedar Pride is a historic wreck dive in Jordan - Aqaba, Middle East.
+The Cedar Pride is Aqaba's most celebrated wreck dive — a Lebanese cargo ship that caught fire in 1982 and was deliberately scuttled in 1985 as Jordan's first major artificial reef.
 
 ## Overview
 
-The Cedar Pride is a 74-metre Spanish-built cargo vessel that caught fire in Aqaba harbour in 1982, and was then deliberately scuttled on 16 November 1985 by Prince Abdullah (now King Abdullah II) to create Jordan's first major artificial reef, coinciding with the opening of the Royal Diving Centre. The wreck lies on its port side at a maximum depth of 27 metres, with its uppermost starboard side at 10 metres, and is now densely colonised by hard and soft corals sheltering lionfish, giant frogfish, clownfish, and green turtles. A swim-through under the wreck at 26 metres and the largely intact 80-metre hull make this the centrepiece of Aqaba wreck diving and one of the Red Sea's most celebrated dives.
+The Cedar Pride was built in 1964 at the S.A. Juliana Constructora shipyard in Gijón, Spain, and passed through several names — Mone Dos, Puerto De Pasajes, and San Bruno — before being purchased by a Lebanese shipping company. On 2 August 1982, while at anchor in Aqaba harbour, a fire broke out in the engine room and spread rapidly, claiming two crew members' lives. The fire-damaged vessel remained in the harbour until Crown Prince Abdullah (later King Abdullah II), an avid diver, requested it be prepared and scuttled as an artificial reef. On 16 November 1985 the Cedar Pride was sunk approximately 200 metres offshore, becoming Jordan's first dedicated dive wreck. The vessel measures 74 metres in length; some sources describe the overall wreck extent as "around 80 metres" when accounting for dispersed structure, and tonnage figures in sources range from 1,161 GRT to approximately 2,500 tons — these figures likely reflect different measurement conventions.
+
+The wreck lies on its port side with the uppermost starboard rail at around 10 metres and the maximum depth at 27 metres, spanning two adjacent coral reefs. Over four decades the hull has become heavily encrusted with hard and soft corals and large sea fans. Documented marine life at this specific site includes lionfish, giant frogfish, clownfish in anemones, snapper schools, fusiliers, angelfish, moray eels, and occasional hawksbill turtles. Two accessible cargo holds and the coral-encrusted crow's nest are highlight features of the dive.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ The Cedar Pride is a 74-metre Spanish-built cargo vessel that caught fire in Aqa
 - **Maximum Depth**: 27 meters
 
 ---
-*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*
+*Sources: [Sea Wonders Diving Center - Cedar Pride](https://seawondersdivingcenter.com/cedar-pride-shipwreck/), [Deep Blue Dive Center - Cedar Pride](https://www.deepbluedivecenter.com/exploring-the-cedar-pride-aqabas-legendary-shipwreck-dive/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba), [Jordan Travel - Cedar Pride](https://jordan-travel.com/cedar-pride-shipwreck-aqaba/). Last updated 2026-06-10.*

@@ -3,7 +3,7 @@ name: Pantai Merah
 lat: -8.6009657
 lng: 119.5261842
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Situated on the eastern coast of Komodo Island, Pantai Merah offers a shore entr
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Light to moderate; strongest at site corners
 - **Best Time**: April to November; early morning for calmest conditions
@@ -59,4 +59,4 @@ While generally calm, light currents can run along the reef edges. Maintain awar
 Pantai Merah is one of Komodo's best topside-and-underwater photography destinations. Above water, the pink sand framed by rust-red hills is spectacular. Below, the well-lit shallows with their diverse critter life make excellent macro and wide-angle subjects. The shallow depth and good light create clean backgrounds for nudibranch portraits. The beach and reef in the same frame from a drone or snorkel-level angle is iconic.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*

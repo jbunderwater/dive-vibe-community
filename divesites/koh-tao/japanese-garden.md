@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Japanese Garden
 
-Koh Tao's most beloved beginner dive — a gently sloping coral garden off Koh Nang Yuan with exceptional fish diversity and near-zero current.
+Koh Tao's most popular beginner dive — a sheltered coral cove on Koh Nang Yuan's east side with exceptional coral diversity and near-zero current.
 
 ## Overview
 
-Japanese Garden is situated on the east side of the famous twin-peaked Koh Nang Yuan islet, just off the northwest coast of Koh Tao. The site features a gently sloping sandy bottom that becomes progressively deeper from a few metres to around 14 m, surrounded by abundant hard and soft corals that create the "garden" character that gives the site its name. The sandy area off the island also allows wall diving to the north for more adventurous divers. The calm, sheltered conditions, minimal current, and shallow maximum depth make this the ideal site for beginning divers, snorkellers, and Open Water training. Turtles and moray eels are regular companions throughout the site.
+Japanese Garden sits in the sheltered eastern bay of Koh Nang Yuan, the twin-peaked islet just off Koh Tao's northwest coast. A sandbar at the surface separates the eastern bay (Japanese Garden) from the Twins pinnacles on the western side. The site is regarded as one of the most coral-diverse areas of its size in Thailand, showcasing staghorn, mushroom, brain, table, and funnel corals alongside giant barrel sponges and anemones. Depth is maximum 15 m, average 8 m, with a shallow sandy floor that makes it ideal for Open Water training and Discovery Scuba programmes. Current is minimal and conditions are reliably calm, sheltered by the island from prevailing swells.
 
 ## Site Information
 
 - **Location**: East side of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10–18 m
@@ -32,31 +32,31 @@ Japanese Garden is situated on the east side of the famous twin-peaked Koh Nang 
 
 ## Marine Life
 
-Turtles — both green and hawksbill — are frequently sighted grazing on the reef crest. Moray eels inhabit coral crevices throughout the site. Clownfish in anemones are abundant. Colourful reef fish including parrotfish, butterflyfish, surgeonfish, and wrasse are present in high density. The sandy channels between coral heads host garden eels and blue-spotted stingrays.
+Confirmed species include parrotfish, butterflyfish (Weibels and lined varieties), bannerfish, damselfish, sergeant majors, wrasse, fusiliers, rabbitfish, catfish, pufferfish, harlequin sweetlips, juvenile batfish, banded sea snakes, sea urchins, giant clams, sea anemones, and pinktail triggerfish — Black Turtle Dive notes that Japanese Garden is the only location on Koh Tao where pinktail triggerfish are reliably seen. Moray eels inhabit coral crevices throughout the site. Turtles are occasionally sighted in the wider Koh Nang Yuan area but are not a guaranteed encounter at this specific site.
 
 ## Dive Profile
 
-Descend to the sandy bottom in 6–8 m and explore the coral bommies surrounding the island. Follow the slope toward deeper sections around 12–14 m for encounters with turtles and moray eels. The north wall section extends the dive with a slightly deeper option. Ascend slowly and complete a 3-minute safety stop at the reef crest level.
+Descend to the sandy bottom in 6–8 m and explore the coral bommies surrounding the bay. Follow the reef toward deeper sections at 12–14 m. The southeast side of the bay, off the middle sandbar, hosts the anemone fields with clownfish families. Ascend slowly and complete a 3-minute safety stop at the reef crest level.
 
 ## Entry and Exit
 
-Boat from Koh Tao (approximately 10 minutes to Koh Nang Yuan). Day visitors to Koh Nang Yuan can also snorkel the site directly. Entry via back roll or giant stride from the dive boat.
+Boat from Koh Tao (approximately 10 minutes to Koh Nang Yuan). Entry via back roll or giant stride from the dive boat. Day visitors to Koh Nang Yuan can also snorkel the site directly from the beach.
 
 ## Tips and Recommendations
 
 - The go-to site for first-time divers and Open Water confined water dives
-- The north wall section provides more depth for divers wanting to extend the dive
-- Turtles are almost guaranteed — approach slowly and avoid following them
-- Pair with Chumpon Pinnacle or Sail Rock for a contrasting two-site day
-- Snorkelling from the beach at Koh Nang Yuan provides access to the shallows without a boat
+- Look for pinktail triggerfish — not found at other Koh Tao sites
+- Approach moray eels from above and never insert hands into coral crevices
+- Pair with Twins for a complete Koh Nang Yuan diving day
+- Snorkelling from the Koh Nang Yuan beach provides access to the shallows without a boat
 
 ## Safety Considerations
 
-Conditions are calm and current is minimal — excellent for beginners. Moray eels in crevices can bite if a hand is inserted into their shelter; never probe coral holes with fingers. Maintain buoyancy above the coral to avoid contact with the reef structure. Sea urchins on the sandy bottom between bommies.
+Conditions are calm and current is minimal — excellent for beginners. Moray eels in crevices can bite if startled; never probe coral holes with fingers. Maintain buoyancy above the coral to avoid contact with the reef structure. Sea urchins on the sandy bottom between bommies.
 
 ## Photography
 
-Bright natural light, clear shallow water, and abundant colourful subjects make this an excellent site for beginning underwater photographers. Turtle portraits in the shallows are achievable. Clownfish in anemones are accessible targets. The white sand and blue water create excellent backgrounds for reef fish portraits.
+Bright natural light, clear shallow water, and abundant colourful subjects make this an excellent site for beginner underwater photographers. Pinktail triggerfish portraits are a unique opportunity not available at other local sites. Clownfish in anemones are accessible close-up targets.
 
 ---
-*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
+*Sources: [Black Turtle Dive – Japanese Gardens](https://www.blackturtledive.com/koh-tao-dive-sites/japanese-gardens/), [Big Blue Diving – Japanese Garden](https://www.bigbluediving.com/koh-tao-dive-sites/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-06-10.*
