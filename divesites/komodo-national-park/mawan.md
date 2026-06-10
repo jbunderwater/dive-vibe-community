@@ -25,7 +25,7 @@ Note: the previous description of Mawan as a mandarin fish site was incorrect. M
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (west of Siaba Besar, central park)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift (manta cleaning station with sandy slope)
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters

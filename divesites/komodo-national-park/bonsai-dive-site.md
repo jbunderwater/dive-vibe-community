@@ -25,7 +25,7 @@ Currents can be extremely dangerous at Bonsai and are highly variable; the site 
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (central park)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall (with caves, overhangs, and swim-throughs)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: Variable; bring an underwater torch

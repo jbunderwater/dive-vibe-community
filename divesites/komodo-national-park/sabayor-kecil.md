@@ -5,7 +5,7 @@ lng: 119.695278
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 7182749565
 addedBy: osm_import
@@ -23,7 +23,7 @@ Sabayor Kecil is a small island in the eastern park area, its reef sloping from 
 
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park area)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ Moderate currents are manageable but require active buoyancy management. Keep th
 Sabayor Kecil suits a wide-angle setup for reef fish schools, shark shots, and turtle portraits. The good water clarity in the eastern park area creates clean backgrounds for blue-water silhouette work. The reef face at mid-depth with its coral coverage makes compelling reef landscape images.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [SEA Undersea – Sabayor Kecil](http://sea-undersea.com/indonesia/komodo/sabayor-kecil.php), [Greatest Dive Sites Indonesia – Sabayor Kecil](https://indonesia.greatestdivesites.com/komodo/sabayor_kecil), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*

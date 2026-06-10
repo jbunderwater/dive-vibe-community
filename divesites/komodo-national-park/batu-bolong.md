@@ -3,7 +3,7 @@ name: Batu Bolong
 lat: -8.54
 lng: 119.6
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -19,7 +19,7 @@ An exposed rock pinnacle rising from over 70m in the center of Lintah Strait. St
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 
 ---
 *Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Dive O'Clock – Komodo](https://www.diveoclock.com/destinations/Asia/Indonesia/Komodo/). Last updated 2026-06-10.*

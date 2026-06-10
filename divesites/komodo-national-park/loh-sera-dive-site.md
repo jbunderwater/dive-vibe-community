@@ -51,4 +51,4 @@ Divers descend along the wall face, typically following the contour between 10 a
 Loh Sera is best dived during slack water or on a controlled incoming current that holds divers against the wall face. Cold upwellings from the south can drop water temperatures significantly, so a 5 mm wetsuit is advisable. The site is typically visited on longer southern Komodo liveaboard itineraries — day trips from Labuan Bajo do not reach this area. A dive guide with local knowledge of tidal timing is strongly recommended.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Description based on site location and regional diving characteristics. No site-specific sources with 3+ independent verifications found. Last updated 2026-06-10.*

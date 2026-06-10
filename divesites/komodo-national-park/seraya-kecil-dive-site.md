@@ -5,7 +5,7 @@ lng: 119.8625135
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 8022733116
 addedBy: osm_import
@@ -52,4 +52,4 @@ Divers typically descend to the black sand bottom (12–18 m) and spend the majo
 Seraya Kecil is best approached with a specific macro mindset: slow down, hover close to the substrate, and spend time on likely habitat rather than covering distance. A knowledgeable local guide dramatically increases sighting rates for cryptic species like mimic octopus and frogfish. The blue-ringed octopus found here is genuinely dangerous — observe from a distance and never touch. Night dives at Seraya Kecil produce spectacular hunting behaviour from octopus and cuttlefish. Bring a macro lens; wide-angle has little application at this site.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Description based on regional muck diving characteristics near Labuan Bajo. No site-specific sources with 3+ independent verifications found for this exact OSM location. Last updated 2026-06-10.*

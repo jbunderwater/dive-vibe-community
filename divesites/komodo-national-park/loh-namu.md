@@ -3,7 +3,7 @@ name: Loh Namu
 lat: -8.641888
 lng: 119.4868791
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Situated in a bay on the western coast of Komodo Island, Loh Namu benefits from 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 12–20 meters
 - **Current**: Light to moderate; sheltered from main tidal flows
 - **Best Time**: April to November
@@ -59,4 +59,4 @@ While calmer than most Komodo sites, currents can pick up around the bay's headl
 The moderate conditions and good natural light in the bay make Loh Namu an approachable photography site at all levels. Wide-angle captures the reef slope and its turtle inhabitants; macro finds the critters on rubble and under ledges. The clear shallows provide excellent lighting for coral close-ups and fish portraits.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [South East Asia Dreams – Komodo Dive Sites](https://www.southeastasiadreams.com/travel-blog/2019/02/17/komodo-island-divesites-indonesia-part2/), [Indonesialogue – Komodo Diving](https://indonesialogue.com/about-indonesia/diving-and-snorkeling-sites-komodo-national-park-komodo-island), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*

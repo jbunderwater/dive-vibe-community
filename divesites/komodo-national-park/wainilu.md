@@ -26,7 +26,7 @@ The late-afternoon timing of a Wainilu dive is significant: the mandarinfish mat
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (near Rinca Island)
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
-- **Difficulty Level**: Intermediate (excellent buoyancy control required)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (silt-sensitive)
 - **Current**: None to mild; sheltered

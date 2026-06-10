@@ -3,7 +3,7 @@ name: The Cauldron Dive Site
 lat: -8.4609097
 lng: 119.5633723
 difficulty: Advanced
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Located in the northern section of Komodo National Park near Gili Lawa Laut, The
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 meters
 - **Current**: Extremely strong during tidal flow; site-specific briefing essential
 - **Best Time**: April to November; must be timed precisely with tidal tables

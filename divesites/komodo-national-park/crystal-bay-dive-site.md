@@ -23,7 +23,7 @@ This Crystal Bay is located in northern Komodo National Park near Gili Lawa Dara
 
 - **Location**: Northern Komodo National Park, Gili Lawa Darat area, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (sheltered bay)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters (clear, sheltered water)

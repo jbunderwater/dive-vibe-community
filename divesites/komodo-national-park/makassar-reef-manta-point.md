@@ -3,7 +3,7 @@ name: Makassar Reef (Manta Point)
 lat: -8.5335442
 lng: 119.5905966
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Karang Makassar is a broad, shallow reef lying in the strait between Komodo and 
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 meters (can be reduced when currents carry plankton)
 - **Current**: Light to strong; direction varies with tide
 - **Best Time**: February to November; largest aggregations during February to April

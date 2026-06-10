@@ -3,7 +3,7 @@ name: 3 Sisters
 lat: -8.6881122
 lng: 119.5736556
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Three pinnacles rising from deep water form the basis of this dive — each seam
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Strong to very strong; site-specific briefing essential
 - **Best Time**: April to November; best on incoming current
@@ -59,4 +59,4 @@ Strong and changing currents are the primary hazard at 3 Sisters. Down-currents 
 Three pinnacles provide multiple angles for wide-angle compositions. Shoot up at the pinnacle summits against the blue for dramatic perspective, or frame shark silhouettes against downward light. Fish schools swirling around the rocks create images that capture the energy of Komodo diving. A 10–17mm fisheye excels here.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*

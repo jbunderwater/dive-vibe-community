@@ -3,7 +3,7 @@ name: Batu Tiga Dive Site
 lat: -8.5996016
 lng: 119.5728673
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Three distinct pinnacles break the surface at Batu Tiga, and each submerged stru
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Strong to very strong between the rocks; must be timed with tidal flow
 - **Best Time**: April to November; morning dives on incoming current
@@ -59,4 +59,4 @@ The gaps between the three pinnacles can concentrate current into dangerous chan
 Three-dimensional pinnacle diving with fish schools in the water column above creates ideal wide-angle subjects. A 10–17mm fisheye or 14–24mm zoom captures the pinnacle faces with fish activity. Shark shots work well in the sandy channels where grey reef sharks rest or circle. Deploy strobes to bring back colour at depth.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
