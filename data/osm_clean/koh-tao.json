@@ -19,10 +19,13 @@
       "scuba_diving:mindepth": "2",
       "scuba_diving:type": "sand",
       "sport": "scuba_diving",
-      "wikidata": "Q49372696"
+      "wikidata": "Q49372696",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,chalokreefdivers.com,padi.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Black Turtle Dive, member-diving.com"
+    "validation_source": "blackturtledive.com,chalokreefdivers.com,padi.com"
   },
   {
     "name": "Japanese Garden",
@@ -43,10 +46,13 @@
       "scuba_diving:maxdepth": "14",
       "scuba_diving:mindepth": "1",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,divehappy.com,bigbluediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "ScubaBoard, dive operator reports"
+    "validation_source": "blackturtledive.com,divehappy.com,bigbluediving.com"
   },
   {
     "name": "Red Rock",
@@ -67,10 +73,13 @@
       "scuba_diving:maxdepth": "25",
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "saireecottagediving.com,bigbluediving.com,blackturtledive.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Sairee Cottage Diving, dive operator guides"
+    "validation_source": "saireecottagediving.com,bigbluediving.com,blackturtledive.com"
   },
   {
     "name": "อ่าวโตนด",
@@ -93,10 +102,13 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "wikidata": "Q49372904"
+      "wikidata": "Q49372904",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,coralgranddivers.com,padi.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Koh Tao Complete Guide, Sairee Cottage Diving"
+    "validation_source": "blackturtledive.com,coralgranddivers.com,padi.com"
   },
   {
     "name": "Twins",
@@ -117,10 +129,13 @@
       "scuba_diving:maxdepth": "18",
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Black Turtle Dive, Funky Turtle guide"
+    "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com"
   },
   {
     "name": "Green Rock",
@@ -128,23 +143,26 @@
     "lon": 99.8100987,
     "osm_id": 859428968,
     "osm_type": "node",
-    "depth": 25,
-    "minDepth": 5,
+    "depth": 28,
+    "minDepth": 4,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Green Rock",
       "name:en": "Green Rock",
-      "scuba_diving:difficulty": "1",
+      "scuba_diving:difficulty": "3",
       "scuba_diving:entry": "boat",
-      "scuba_diving:maxdepth": "25",
-      "scuba_diving:mindepth": "5",
+      "scuba_diving:maxdepth": "28",
+      "scuba_diving:mindepth": "4",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "DiveHappy, Sairee Cottage Diving, whale shark sightings"
+    "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com"
   },
   {
     "name": "Shark Island",
@@ -152,7 +170,7 @@
     "lon": 99.8456663,
     "osm_id": 859428997,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "minDepth": 4,
     "site_type": "reef",
     "entry_type": "boat",
@@ -161,13 +179,16 @@
       "name": "Shark Island",
       "scuba_diving:difficulty": "2",
       "scuba_diving:entry": "boat",
-      "scuba_diving:maxdepth": "25",
+      "scuba_diving:maxdepth": "28",
       "scuba_diving:mindepth": "4",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "DiveHappy, whale shark sightings, dive operator reports"
+    "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com"
   },
   {
     "name": "Chumpon Pinnacle",
@@ -175,23 +196,26 @@
     "lon": 99.7783071,
     "osm_id": 865081862,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 40,
     "minDepth": 14,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "depth": "20",
       "name": "Chumpon Pinnacle",
       "scuba_diving:descent_line": "yes",
-      "scuba_diving:difficulty": "2",
+      "scuba_diving:difficulty": "3",
       "scuba_diving:entry": "boat",
-      "scuba_diving:maxdepth": "35",
+      "scuba_diving:maxdepth": "40",
       "sport": "scuba_diving",
-      "type": "reef"
+      "type": "reef",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,divehappy.com,navascuba.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "PADI Blog, DiveHappy, pelagic species, whale shark sightings"
+    "validation_source": "blackturtledive.com,divehappy.com,navascuba.com"
   },
   {
     "name": "Scuba Junction",
@@ -206,10 +230,13 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Scuba Junction",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "saireecottagediving.com,kohtaocompleteguide.com,bigbluediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Koh Tao dive operator information"
+    "validation_source": "saireecottagediving.com,kohtaocompleteguide.com,bigbluediving.com"
   },
   {
     "name": "อ่าวหินงาม",
@@ -230,10 +257,13 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef:sand",
       "sport": "scuba_diving",
-      "wikidata": "Q49372564"
+      "wikidata": "Q49372564",
+      "validated": "true",
+      "validation_source": "coralgranddivers.com,padi.com,scubago.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Black Turtle Dive, DiveChamp, Koh Tao Complete Guide"
+    "validation_source": "coralgranddivers.com,padi.com,scubago.com"
   },
   {
     "name": "Laem Thian Pinnacle",
@@ -254,10 +284,12 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "blackturtledive.com,thefunkyturtle.com,saireecottagediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Black Turtle Dive, Funky Turtle, Sairee Cottage Diving"
+    "validation_source": "blackturtledive.com,thefunkyturtle.com,saireecottagediving.com"
   },
   {
     "name": "อ่าวมวง",
@@ -280,10 +312,13 @@
       "scuba_diving:mindepth": "1",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "wikidata": "Q49372726"
+      "wikidata": "Q49372726",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,chalokreefdivers.com,bigbluediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Sairee Cottage Diving, Koh Tao Complete Guide"
+    "validation_source": "blackturtledive.com,chalokreefdivers.com,bigbluediving.com"
   },
   {
     "name": "White Rock",
@@ -304,10 +339,13 @@
       "scuba_diving:maxdepth": "22",
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "divehappy.com,blackturtledive.com,newheavendiveschool.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "DiveHappy, DiveZone, Divers Guide, whale shark sightings"
+    "validation_source": "divehappy.com,blackturtledive.com,newheavendiveschool.com"
   },
   {
     "name": "Hin Pee Wee",
@@ -319,19 +357,22 @@
     "minDepth": 8,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Hin Pee Wee",
       "name:en": "Hin Pee Wee",
-      "scuba_diving:difficulty": "1",
+      "scuba_diving:difficulty": "2",
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "28",
       "scuba_diving:mindepth": "8",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,coralgranddivers.com,bigbluediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Sairee Cottage Diving, Funky Turtle, granite pinnacle dive"
+    "validation_source": "blackturtledive.com,coralgranddivers.com,bigbluediving.com"
   },
   {
     "name": "HTMS Sattakut",
@@ -352,10 +393,13 @@
       "scuba_diving:maxdepth": "32",
       "scuba_diving:mindepth": "20",
       "scuba_diving:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "PADI Blog, Black Turtle Dive, Funky Turtle, Underwater Clicks - ex-US Navy WWII wreck"
+    "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com"
   },
   {
     "name": "Buoyancy",
@@ -376,10 +420,13 @@
       "scuba_diving:maxdepth": "15",
       "scuba_diving:mindepth": "10",
       "scuba_diving:type": "artificial_reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,thefunkyturtle.com,lbdivingkohtao.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Black Turtle Dive, PADI Koh Tao - community training project"
+    "validation_source": "blackturtledive.com,thefunkyturtle.com,lbdivingkohtao.com"
   },
   {
     "name": "Pottery",
@@ -388,7 +435,7 @@
     "osm_id": 5993352457,
     "osm_type": "node",
     "depth": 12,
-    "minDepth": 5,
+    "minDepth": 3,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -397,11 +444,14 @@
       "scuba_diving:difficulty": "1",
       "scuba_diving:entry": "boat:shore",
       "scuba_diving:maxdepth": "12",
-      "scuba_diving:mindepth": "5",
+      "scuba_diving:mindepth": "3",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "blackturtledive.com,thefunkyturtle.com,master-divers.com",
+      "last_qa_date": "2026-06-10"
     },
     "validated": true,
-    "validation_source": "Koh Tao dive operator guides - training site"
+    "validation_source": "blackturtledive.com,thefunkyturtle.com,master-divers.com"
   }
 ]

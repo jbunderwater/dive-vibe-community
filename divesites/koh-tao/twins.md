@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Twins
 
-Two coral-covered pinnacles near Koh Nang Yuan — a shallow, clownfish-rich beginner site ideal for newly certified divers.
+Two granite pinnacles off Koh Nang Yuan — Koh Tao's most popular training and beginner site, with saddleback clownfish families, sandy channels, and accessible coral formations.
 
 ## Overview
 
-Twins consists of two main coral-covered pinnacle formations (and a smaller third) separated by sandy channels, located near Koh Nang Yuan just off Koh Tao. The site is extremely popular for beginner divers due to its shallow maximum depth of 18 m, low current, and dense anemone fields populated with resident clownfish families. The pinnacles themselves are decorated with soft corals and hard coral formations, creating a colourful environment accessible from 5 m to the sandy channels at 18 m. The adjacent Buoyancy World artificial site lies just to the north of the middle pinnacle, providing an optional extension.
+Twins consists of three granite rock pinnacles — two large and one smaller to the west — separated by sandy channels, located off the west coast of Koh Nang Yuan. The site tops out at 5 m on the pinnacle crests and descends to sandy bottom at 18–20 m on the deeper twin. Anemones with resident clownfish families are the site's signature feature: southeast of the middle pinnacle, a family of saddleback clownfish lives in a Sebae anemone, a spot frequently used by dive schools to teach symbiosis. The varied topography includes small caves, overhangs, and swim-throughs that provide multiple routes and habitats. Twins is described by multiple operators as possibly the most popular dive site on Koh Tao, used consistently for PADI training courses.
 
 ## Site Information
 
-- **Location**: Near Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
+- **Location**: West side of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ Twins consists of two main coral-covered pinnacle formations (and a smaller thir
 
 ## Marine Life
 
-Anemones with clownfish families are the signature species — dense populations across the pinnacle tops. Pufferfish, moray eels, and triggerfish are common throughout. Turtles graze on the shallow reef sections. Cuttlefish are sometimes seen hovering near the sandy channels. Barracuda occasionally patrol the outer sections of the pinnacles.
+Confirmed species include saddleback clownfish in Sebae anemones (signature feature), moray eels, angelfish, butterflyfish, parrotfish, pufferfish, blue-spotted stingrays resting on sandy channels, and occasional green sea turtles. Titan triggerfish nest in the sandy channels June–August. The Buoyancy World artificial site lies north of the middle pinnacle and is accessible on the same dive.
 
 ## Dive Profile
 
-Descend to the first pinnacle top at 5–8 m and explore the anemone fields. Drop to the sandy channels at 15–18 m to search for stingrays. Circle both pinnacles at mid-depth before ascending to the shallow reef for the safety stop. The entire site can be explored comfortably in 50–60 minutes.
+Descend to the first pinnacle top at 5–8 m and explore the anemone fields. Drop to the sandy channels at 15–18 m to search for stingrays. Swim southeast off the middle pinnacle to find the saddleback clownfish family. Circle both pinnacles at mid-depth before ascending to the shallow reef for the safety stop. The entire site can be explored comfortably in 50–60 minutes.
 
 ## Entry and Exit
 
@@ -45,18 +45,18 @@ Boat from Koh Tao (approximately 10 minutes). Entry via back roll or giant strid
 ## Tips and Recommendations
 
 - Excellent for a first boat dive after completing pool training
-- The Buoyancy World site to the north is an interesting adjacent extension of the dive
-- Clownfish families are reliably present throughout the year
+- Find the saddleback clownfish family southeast of the middle pinnacle — a protected population
 - Combine with Japanese Garden for a complete Koh Nang Yuan diving day
-- Evening dives occasionally reveal cuttlefish hunting over the sandy channels
+- Swim north to Buoyancy World for additional exploration if air allows
+- Evening dives sometimes reveal cuttlefish hunting over the sandy channels
 
 ## Safety Considerations
 
-Conditions are generally easy and current is mild. Titan triggerfish can nest in the sandy channels June–August — maintain distance from any circular nest depressions in the sand. Anemones with clownfish should not be touched. Maintain buoyancy above the pinnacle tops to protect coral.
+Conditions are generally easy and current is mild. Titan triggerfish can nest in the sandy channels June–August — maintain distance from any circular nest depressions in the sand, and if charged, swim horizontally away rather than ascending. Anemones with clownfish should not be touched. Maintain buoyancy above the pinnacle tops to protect coral.
 
 ## Photography
 
-Clownfish portraits in anemones are the classic Twins photograph — bright subjects in colourful settings. Wide-angle shots of both pinnacles together require a fisheye or ultra-wide lens. The sandy channel shots between pinnacles with stingrays are achievable with a wide-angle close-focus approach.
+Saddleback clownfish portraits in the Sebae anemone are the defining image of Twins — a rare species not commonly photographed. Wide-angle shots of both pinnacles together require a fisheye or ultra-wide lens. Sandy channel shots with stingrays between the pinnacles reward a patient wide-angle close-focus approach.
 
 ---
-*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
+*Sources: [Black Turtle Dive – Twins Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/twins-pinnacle/), [Big Blue Diving – Twins](https://www.bigbluediving.com/koh-tao-dive-sites/twins-dive-site/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-06-10.*

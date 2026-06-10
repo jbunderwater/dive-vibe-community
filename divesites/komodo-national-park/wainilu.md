@@ -2,8 +2,8 @@
 name: Wainilu
 lat: -8.6255978
 lng: 119.7074961
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: muck
 ref: null
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Wainilu
 
-Wainilu is Komodo National Park's standout muck diving site — a shallow, silty bay in the eastern park where a sandy and debris-strewn bottom hosts an unexpected variety of small, cryptic, and unusual marine creatures rarely found at the park's headline reef and current sites.
+Wainilu is Komodo National Park's standout muck diving site — a sandy slope near Rinca Island often called "Komodo's Lembeh," where a silty, current-free bottom hosts mandarinfish, mimic octopus, frogfish, and an extraordinary array of small, cryptic creatures rarely encountered at the park's headline reef and drift sites.
 
 ## Overview
 
-Situated in the eastern Komodo area, Wainilu is a calm, sheltered bay whose sandy and leaf-litter bottom creates ideal muck diving conditions. The site rarely exceeds 12 meters, and most of the interesting life is found between 3 and 10 meters on the bottom itself. Visibility can be lower than at reef sites — 8–15 meters is typical, and stirring the fine sand reduces it quickly — which rewards divers with the patience and buoyancy control to hover centimetres above the substrate without touching it. Wainilu provides a dramatic contrast to Komodo's fast, current-driven dives and is particularly appreciated by underwater photographers and critter enthusiasts.
+Situated near Rinca Island in the central park, Wainilu is a gently sloping sandy floor extending from shallow coral rubble at 5 metres to sandy bottom at around 25 metres. Currents are none to mild — critical conditions for the slow, hovering technique that muck diving demands. Visibility is typically 8–18 metres; stirring the fine silt with careless fin kicks reduces it instantly, making good buoyancy control a prerequisite rather than a recommendation. The site pairs naturally with nearby Batu Bolong or Tatawa Besar on the same day, offering a macro counterpoint to the park's best pelagic pinnacle diving.
+
+The late-afternoon timing of a Wainilu dive is significant: the mandarinfish mating display occurs approximately 30 minutes before sunset in the shallow coral rubble zone (1–5 metres), making this one of Indonesia's most celebrated dusk-dive experiences.
 
 ## Site Information
 
-- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park area)
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (near Rinca Island)
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 8–15 meters
-- **Current**: Very light; sheltered bay
-- **Best Time**: Year-round; best in dry season when visibility improves
+- **Difficulty Level**: Intermediate (excellent buoyancy control required)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 8–18 meters (silt-sensitive)
+- **Current**: None to mild; sheltered
+- **Best Time**: Year-round; late afternoon/dusk for mandarinfish
 
 ## Marine Life
 
-Frogfish in multiple species — painted, giant, and warty — are found on sponges and rubble throughout the bay. Leaf scorpionfish blend into the fallen leaf litter on the bottom. Pipefish and ghost pipefish hover in rubble patches. Coconut octopus carry shells across the sand floor while hunting. Mimic octopus have been reported at this site. Ribbon eels in black juvenile and blue adult phases peer from burrows. The slow pace also rewards encounters with small flatfish, dragonets, and sand-dwelling gobies paired with their alpheid shrimp. Sea horses have been documented in the seagrass patches at the bay's edge.
+Confirmed species documented at this specific site include: flamboyant cuttlefish hunting across the sand, mandarinfish (Synchiropus splendidus) emerging from coral rubble at dusk, mimic octopus, wunderpus octopus, blue-ringed octopus, frogfish, ornate ghost pipefish, harlequin shrimp, bobtail squid, ribbon eels, flying gurnards, seahorses, and moray eels. Nudibranchs are abundant and varied across the rubble zone.
 
 ## Dive Profile
 
-Slow, horizontal movement just above the substrate is the technique. Work across the sandy bottom in a grid pattern with the guide, who identifies the cryptic species that most divers would swim straight past. Depth rarely exceeds 10 meters, so bottom time is generous. Move with tiny, slow fin kicks to avoid raising sediment that reduces visibility for other divers. Adjust buoyancy to hover just above the substrate without touching.
+Descend to the sandy slope and work slowly across the bottom in a grid pattern with the guide, who identifies the cryptic species most divers swim past. The rubble zone at 5–12 metres is the focus for mandarinfish and most macro subjects; the open sand at 12–25 metres yields mimic octopus, snake eels, and ribbon eels. For the mandarinfish display, position in the 1–5 metre rubble zone 20–30 minutes before sunset with torches off.
 
 ## Entry and Exit
 
-Boat access; giant stride entry into the bay. The guide leads the traverse across the bottom. Exit by the ladder; no SMB needed given the calm, shallow conditions. Carry one anyway as a best practice.
+Boat access; giant stride entry into the bay. Calm, shallow conditions mean SMB deployment is rarely needed. Always carry one as standard practice.
 
 ## Tips and Recommendations
 
-- Muck diving requires precision buoyancy — this is not a site for recently certified divers still developing buoyancy control
-- A macro lens is essential: 60mm or 100mm for the small critters that define this site
-- Move slowly and look carefully at every leaf, sponge, and rubble pile — the best finds are invisible to a hurrying diver
-- Request a night dive here from the liveaboard — nocturnal muck diving reveals even more unusual species
-- Torch lighting improves the colour rendering of cryptic species for photography
+- Precise buoyancy is essential — this is not an appropriate first dive for divers still developing hover technique
+- A macro lens (60mm or 100mm) is the correct setup; wide-angle has almost no application here
+- For mandarinfish, use a red-filter torch to avoid disturbing the fish with bright white light
+- Night dives at Wainilu are highly productive for hunting octopus and cuttlefish
+- Move as slowly as possible; the best finds are invisible to any diver moving at normal pace
 
 ## Safety Considerations
 
-Wainilu is one of Komodo's safest dive sites. The primary risk is stirring sediment with poor buoyancy, which reduces visibility for the entire group. Maintain excellent buoyancy throughout. The bay is extremely shallow — surfacing is never far away. Always carry an SMB.
-
-## Photography
-
-Wainilu is a macro photographer's treasure site. Shoot frogfish with a 100mm lens using a single strobe from the side to avoid flat frontal lighting. Leaf scorpionfish and coconut octopus reward patient observation before firing. A snoot or grid modifier on your strobe creates dramatic dark backgrounds. Keep your fins clear of the sand — a photographer who stirs visibility ruins the shoot for everyone.
+One of Komodo's safest sites given the minimal current. The primary risk is stirring sediment through poor buoyancy, which reduces visibility for the entire group. The site is shallow enough that surfacing is never far away. Always carry an SMB.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Dragon Dive Komodo – Wainilu Dive Site](https://dragondivekomodo.com/wainilu-komodo/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*

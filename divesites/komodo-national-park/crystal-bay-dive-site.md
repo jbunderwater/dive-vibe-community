@@ -2,8 +2,8 @@
 name: Crystal Bay Dive Site
 lat: -8.4472423
 lng: 119.5682314
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Crystal Bay Dive Site
 
-Crystal Bay, located at the northwestern tip of Nusa Penida near the Komodo region, is the world's most reliable dive site for encountering the ocean sunfish — the mola mola (Mola mola) — a bizarre and enormous deep-water species that rises into the shallows to be cleaned between July and October.
+Crystal Bay is a sheltered, beginner-friendly reef bay near Gili Lawa Darat in northern Komodo National Park — a calm, pool-like site used for checkout dives and courses, with a sandy bottom, coral bommies, and resident sea turtles.
 
 ## Overview
 
-Crystal Bay sits at the northwestern corner of Nusa Penida island, where cold upwellings from the Lombok Strait collide with warm Flores Sea water. The bay itself has a fringing reef of reasonable quality, but the site's fame rests entirely on the mola mola — a fish that can reach 3 meters in length and 2,300 kilograms. Between July and October, these fish ascend from the deep to cleaning stations at 15–30 meters, hovering motionless while cleaner wrasses and bannerfish strip their skin of parasites. The thermocline here can be severe — divers frequently pass through a warm layer of 28°C into 19–22°C water within a meter. Strong down-currents are a feature of the bay's deeper section and demand careful depth management.
+This Crystal Bay is located in northern Komodo National Park near Gili Lawa Darat island, not to be confused with the famous Crystal Bay on Nusa Penida (Bali), which is a different site entirely, some 400 kilometres to the west. The Komodo Crystal Bay is a protected bay whose topography creates sheltered, low-current conditions rarely found elsewhere in a park defined by its powerful tidal flows. The bottom is sandy with scattered coral bommies beginning in the shallows and extending to around 12–15 metres. Hard coral coverage on the bommies is reasonable, and the calm, clear water makes this an excellent site for divers still developing their buoyancy or completing their open water certification dives.
 
 ## Site Information
 
-- **Location**: Nusa Penida, near Komodo National Park region, East Nusa Tenggara, Indonesia
+- **Location**: Northern Komodo National Park, Gili Lawa Darat area, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–30 meters (reduced to 10m during plankton blooms)
-- **Current**: Moderate to strong; down-currents possible at the bay's entrance
-- **Best Time**: July to October for mola mola; reef diving year-round
+- **Site Type**: Reef (sheltered bay)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15–25 meters (clear, sheltered water)
+- **Current**: None to very light; sheltered from main tidal flows
+- **Best Time**: April to November; accessible year-round
 
 ## Marine Life
 
-Mola mola (ocean sunfish) are the singular draw from July through October — finding one hovering patiently at a cleaning station at 20–25 meters is a once-in-a-lifetime experience for most divers. Multiple individuals in a dive are possible at peak season. The cleaning station fish — bannerfish, moorish idols, and various wrasses — are always present. The bay's reef holds green turtles, bumphead parrotfish, reef sharks, and schools of fusiliers. Pelagic species including sharks and tuna occasionally cruise the bay mouth. The cold thermocline layers sometimes carry pyrosomes and other open-ocean organisms swept in by currents.
+Sea turtles are the primary resident attraction, frequently seen resting on the bommies or cruising the sandy bottom. The coral bommies support a typical mix of damselfish, chromis, clownfish in anemones, and reef fish common across northern Komodo. The calm, clear water makes it easy to observe fish behaviour at close range without current management demands. No site-specific macro species have been independently documented here beyond general reef communities.
 
 ## Dive Profile
 
-Descend along the reef to the thermocline at 15–20 meters and assess conditions. Mola mola are typically found on the cooler side of the thermocline between 18–30 meters. Stay neutral and approach slowly from the side — do not chase or crowd the fish. The guide will signal when to hold position and when to move. Keep an eye on depth during the cold-water section; the compelling sight of a mola can distract from depth creep. Ascend through the thermocline with ample air for a full 3–5 minute safety stop at 5 meters.
+Descend into the bay and navigate the coral bommies at 5–12 metres, spending time around each structure before exploring the sandy channels between them. Depth rarely exceeds 15 metres. The calm conditions make this ideal for extended bottom time and relaxed observation.
 
 ## Entry and Exit
 
-Access by boat from Nusa Penida or Sanur (Bali). Entry by giant stride. The bay's calm interior makes entry and exit straightforward, though the outer reef can be subject to chop. Always carry and deploy an SMB for the safety stop, as boat traffic in the area can be significant.
+Boat access. Giant stride entry into calm water. Exit via ladder. The sheltered bay allows easy entry and exit in virtually all weather conditions.
 
 ## Tips and Recommendations
 
-- Mola mola season peaks in August–September; book dive guides who check the cleaning stations daily
-- Bring a 5mm wetsuit or thicker — the thermocline can make 30-minute dives feel cold
-- Do not chase or swim alongside mola mola; approach from the side and let them decide the distance
-- Arrive early; afternoon conditions can be rougher and plankton blooms can reduce visibility
-- A wide-angle lens is essential — mola mola are too large for macro work
+- An ideal site for completing certification dives in calm, manageable conditions
+- The clear water and good natural light make this excellent for underwater photography practice
+- Combine with the nearby Crystal Rock or Castle Rock on the same day for a contrast between Komodo's calm and advanced diving
+- Good snorkelling alongside the dive due to the shallow, calm conditions
 
 ## Safety Considerations
 
-Down-currents at Crystal Bay's entrance can catch divers off guard and pull them rapidly deeper than planned. Brief on the down-current escape procedure: fin horizontally to exit the downwelling rather than against it. The thermocline's cold water combined with strong current can lead to faster air consumption than divers expect. Never skip the safety stop at this site — the potential for residual nitrogen from the deeper section demands a full stop. Always dive with a buddy.
-
-## Photography
-
-Mola mola photography requires patience and a wide-angle setup — these fish are simply too large for anything tighter than a 14–35mm on full frame. Shoot from slightly below to show the full disc shape of the body against the reef. In the cleaning station context, a patient shooter can capture the fish hovering with bannerfish attending it. Bring powerful strobes — the deeper, colder water is often dim and blue-shifted.
+One of Komodo's safest and most forgiving sites. The sheltered bay largely eliminates current as a concern. Standard buoyancy discipline applies around the coral bommies. Always carry an SMB as a best practice even in calm sites.
 
 ---
-*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*
+*Sources: [Scuba Junkie Komodo – The North](https://www.scubajunkiekomodo.com/the-north/), [Manta Rhei Dive Center – North Komodo Sites](https://www.mantarhei.com/north-komodo-best-dive-sites/), [Manta Dive Komodo – Castle Rock & Crystal Rock](https://mantadivekomodo.com/castle-rock-crystal-rock-komodo/). Last updated 2026-06-10.*

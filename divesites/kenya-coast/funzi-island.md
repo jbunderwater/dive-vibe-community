@@ -13,49 +13,40 @@ addedBy: osm_import
 
 ## Funzi Island
 
-Funzi Island is a mangrove-fringed island off Kenya's far south coast near the Tanzania border, where the surrounding reef offers beginner diving in largely undisturbed conditions away from the more developed Diani Beach resort infrastructure. The island's relative remoteness has preserved both its marine environment and its traditional fishing community character.
+Funzi Island is a mangrove-fringed island off Kenya's far south coast near the Tanzania border, with surrounding coral reef diving and close proximity to Kisite-Mpunguti Marine National Park, and confirmed as Kenya's best nesting ground for green, hawksbill, and leatherback sea turtles.
 
 ## Overview
 
-Funzi Island sits in Funzi Bay, connected to the mainland by mangrove waterways, at Kenya's southern extreme before the Tanzanian border. The reef formations surrounding the island benefit from lower dive pressure than Diani Beach and receive the same nutrient-rich Indian Ocean circulation that supports the productive reef systems of the Kenya-Tanzania coast. The maximum depth of 16 meters keeps the dive profile accessible, and the fringing reef structure provides a diverse habitat from shallow coral crest to sandy base. The mangrove channels accessible by boat add an ecological dimension rare at most reef sites — the transition between mangrove nursery habitat and open reef diving within a single excursion is a distinctive feature of Funzi.
+Funzi Island sits in Funzi Bay, connected to the mainland by mangrove waterways. Reef diving around the island is accessible by boat from Shimoni or Msambweni. The island is positioned approximately 25 minutes by speedboat from Kisite-Mpunguti Marine National Park, and operators based at Funzi offer trips to both the local reef and the marine park.
+
+The island is documented as Kenya's premier sea turtle nesting site, supporting green turtles (*Chelonia mydas*), hawksbill turtles (*Eretmochelys imbricata*), and leatherback turtles (*Dermochelys coriacea*). Humpback whales migrate along the coast near Funzi from late June through December and are occasionally sighted from boats. The adjacent mangrove system adds ecological diversity to the excursion.
+
+Dive-specific details for the Funzi Island reef in isolation are limited in the sources consulted. The site's 16-metre maximum depth and beginner difficulty designation are consistent with the broader south Kenya fringing reef character, but no dive operator site listing or depth survey for the specific Funzi reef was found during QA research.
 
 ## Site Information
 
 - **Location**: Funzi Island, South Coast, Kenya
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-18 meters (33-60 feet)
-- **Current**: Light
-- **Best Time**: October to March (northeast monsoon)
+- **Best Time**: October to March
 
 ## Marine Life
 
-The reduced dive pressure at Funzi compared to Diani means fish behavior is less conditioned and more natural — grouper and snapper maintain normal approach distances, providing a more authentic reef encounter. Sea turtles are present on the reef crest. Dolphin pods are regularly sighted from the boat during the transit to the dive site and occasionally accompany divers on the surface. The adjacent mangrove system provides nursery habitat that sustains the reef fish population — juvenile reef fish of many species shelter in the mangrove root systems before graduating to the open reef.
+Sea turtle nesting (green, hawksbill, leatherback) is confirmed at Funzi Island by multiple sources. Humpback whale sightings during late June to December are documented from the area. Dolphin pods are reported during boat transits. The reef fish community reflects the broader south coast Indian Ocean character, but no site-specific underwater species survey has been found for the Funzi reef itself. Species are not listed individually here to avoid attributing regional fauna to a specific site without confirmation.
 
 ## Dive Profile
 
-A relaxed reef slope dive from 4-5 meters at the crest to 14-16 meters at the base. Navigate freely along the slope, exploring coral formations and sandy patches. The calm conditions and very light current allow beginners to practice navigation and buoyancy control without the complication of active water movement. Safety stop on the bright, shallow reef crest.
+The combination of mangrove channel boat transit and outer fringing reef diving is the distinctive feature of a Funzi Island excursion. The reef slope is gentle and well within beginner limits. Combine with Kisite-Mpunguti Marine Park for a full day of diving from this base.
 
 ## Entry and Exit
 
-Boat access from operators in Shimoni or Msambweni, the nearest departure points. Funzi Island is most commonly reached as part of a combined mangrove and reef excursion. The boat transit passes through the mangrove waterways en route to the outer reef, allowing above-water wildlife observation. Coordinate departure timing with the operator — tidal height affects passage through the mangrove channel routes.
-
-## Tips and Recommendations
-
-- Combine the reef dive with a mangrove exploration by boat for a comprehensive Funzi ecological experience
-- Fish behavior here is less habituated than at more heavily dived Diani — move slowly and you will see more natural behaviors
-- Dolphin escorts are common on the surface transit to the dive site; keep fins ready for opportunistic snorkel encounters
-- The reduced development in this area makes for a more authentic coastal Kenya experience alongside the diving
+Boat access from Shimoni or Msambweni. The excursion typically combines mangrove waterway transit (above-water) with outer reef diving. Funzi Keys resort is one documented accommodation base for accessing this area. Tidal height affects passage through mangrove channels.
 
 ## Safety Considerations
 
-Low-risk site overall. The 16-meter depth, light current, and protected bay position make this suitable for novice divers. The main logistical consideration is the boat transit distance — ensure the operator and boat are appropriate for the journey. Standard coral contact and sea urchin hazards apply on the reef. Always carry SMB.
-
-## Photography
-
-The less-pressured reef community at Funzi means more natural fish behavior for photography — longer observation windows before subjects retreat. The mangrove-to-reef transition offers unique above- and below-water documentary photography opportunities. Dolphin sightings during the surface transit are worth having a camera ready for even before entering the water.
+Gentle, beginner-appropriate conditions. Light current. Primary logistical consideration is the boat transit distance from the nearest town. Standard coral and sea urchin hazards. Always carry SMB.
 
 ---
-*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*
+*Sources: [Here Goes Kenya – Funzi Island](https://heregoeskenya.com/kenya-travel-guide/funzi-island/), [Marco Polo Safaris – Funzi Island](https://marcopolosafaris.com/2025/10/02/funzi-island-kenyas-secluded-coastal-paradise/), [4x4 Africa – Funzi Island](https://www.4x4africa.com/kenya/funzi-island/). Last updated 2026-06-10.*
