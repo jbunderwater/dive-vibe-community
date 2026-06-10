@@ -25,9 +25,9 @@ Documented marine life at this site includes hawksbill turtles, sergeant majors,
 
 - **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (recreational; deeper sections to 30m available)
+- **Maximum Depth**: 15 meters
 
 ---
 *Sources: [Coral Garden Diving Center - Japanese Gardens](https://www.dive-inaqaba.com/japanese-gardens/), [Arab Divers - Japanese Gardens](https://www.arabdivers.jo/en/activities/dive-sites/japanese-gardens), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Japanese Gardens](https://jordan-travel.com/japanese-gardens-reef-aqaba/). Last updated 2026-06-10.*

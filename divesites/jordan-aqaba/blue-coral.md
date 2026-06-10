@@ -23,7 +23,7 @@ The site is defined by three main spurs of coral reef — finger reefs — that 
 
 - **Location**: Jordan - Aqaba, southern coastal reef zone
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Mild to moderate

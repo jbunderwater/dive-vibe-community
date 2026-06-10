@@ -57,4 +57,4 @@ The wall drops to depths well beyond recreational limits — maintain strict dep
 Wide-angle photography of the wall face is the primary draw. The scale of the drop-off provides dramatic compositional opportunities. The shallower cabbage coral plateau offers colorful reef shots in good natural light.
 
 ---
-*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-04-11.*
+*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-06-10.*

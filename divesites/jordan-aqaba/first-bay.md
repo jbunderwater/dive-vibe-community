@@ -23,7 +23,7 @@ First Bay South (at these coordinates, ~29.44°N) features an undulating, kaleid
 
 - **Location**: Jordan - Aqaba, adjacent to Aqaba Marine Reserve
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Mild to moderate; strong downward currents possible near sandy valley edges (called "Death Valley" by technical divers)

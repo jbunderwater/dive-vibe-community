@@ -25,7 +25,7 @@ Documented marine life at this specific site includes hawksbill turtles (describ
 
 - **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

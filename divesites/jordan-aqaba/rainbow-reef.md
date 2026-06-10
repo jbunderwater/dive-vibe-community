@@ -25,7 +25,7 @@ During daytime dives, documented marine life includes parrotfish, butterflyfish,
 
 - **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

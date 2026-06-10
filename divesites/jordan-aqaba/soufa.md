@@ -26,10 +26,10 @@ The OSM data entry for this site may represent the Eilat Sufa/Satil wreck incorr
 ## Site Information
 
 - **Location**: Northern Gulf of Aqaba — jurisdiction unconfirmed
-- **Entry Type**: Shore entry (per OSM)
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (per OSM; Eilat Sufa reported at 25m max)
+- **Maximum Depth**: 30 meters
 
 ---
 *Description based on OSM data and regional diving sources. No Jordan-specific sources confirmed for this site. Sources consulted: [Adrex - Sufa Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/), [Wannadive - Sufa Wreck Eilat](https://www.wannadive.net/spot/Middle_East/Israel/Red_Sea_Eilat/Sufa_Wreck/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba). Last updated 2026-06-10.*

@@ -23,7 +23,7 @@ The site features a wall formation starting in very shallow water (6 meters) and
 
 - **Location**: Jordan - Aqaba, adjacent to Marine Reserve / Seastar Watersports
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Mild; turtles sometimes appear in stronger currents near northern mooring buoy
@@ -57,4 +57,4 @@ Mild currents. Lionfish and scorpionfish are present near the reef — maintain 
 Night photography is the highlight — scorpionfish, frogfish, and sleeping reef fish. During the day, black coral trees at depth offer dramatic wide-angle frames. Macro subjects include nudibranchs, shrimps, and the giant clams on the return route.
 
 ---
-*Sources: [Sea Star Water Sport - Cazar Reef](https://www.aqabadivingseastar.com/cazar-reef/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-04-11.*
+*Sources: [Sea Star Water Sport - Cazar Reef](https://www.aqabadivingseastar.com/cazar-reef/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/), [Wannadive - Cazar Reef](https://www.wannadive.net/spot/Middle_East/Jordan/Aqaba/Cazar_reef/). Last updated 2026-06-10.*

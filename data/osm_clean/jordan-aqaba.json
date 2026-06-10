@@ -16,7 +16,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "eilatredsea.com, scubago.com, divemagazine.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "UNRESOLVED: Coordinates fall near Israel-Jordan maritime boundary. All sources for Yatush wreck (Hebrew: יתוש) locate it at Eilat, Israel (north of Coral Beach). Not found in any Jordanian dive site listing. Possible OSM boundary error. Jurisdiction unconfirmed — do not present as a confirmed Jordanian dive site."
     },
     "depth_max": 25
   },
@@ -36,7 +38,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seawondersdivingcenter.com, deepbluedivecenter.com, divemagazine.com, jordan-travel.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Built 1964 Gijón Spain. Names: Mone Dos → Puerto De Pasajes → San Bruno → Cedar Pride. Length 74m (some sources say 'around 80m' for wreck extent). Tonnage conflict: 1,161 GRT per most specific source vs ~2,500t in one source — conflict noted, not resolved. Fire 2 Aug 1982, scuttled 16 Nov 1985 by Crown Prince Abdullah (later King Abdullah II). Lies on port side, 10m–27m. Marine life (site-specific): lionfish, giant frogfish, clownfish, snapper, fusiliers, angelfish, moray eels, hawksbill turtles."
     }
   },
   {
@@ -57,7 +61,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "adrex.com, wannadive.net, divemagazine.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "UNRESOLVED: Sufa/Satil (INS Sufa, Sa'ar 3 class, 46m) is documented by all sources as located at Village Beach, Eilat, Israel. Coordinates (29.545N, 34.954E) fall near Israel-Jordan maritime boundary. Hebrew name tag in OSM. Not found in any Jordanian dive operator listing. Very likely an Eilat, Israel dive site erroneously scraped into Jordan bounding box. Jurisdiction unconfirmed."
     },
     "depth_max": 20
   },
@@ -75,7 +81,9 @@
       "name": "Japanese Gardens Coral Reefs",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive-inaqaba.com, arabdivers.jo, deepbluedivecenter.com, jordan-travel.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Reef starts shallow (1-2m), slopes to Black Coral Valley at 26-30m. Large gorgonian fan at 23m. Coral relocation from Saudi border in 2013 confirmed. Marine life (site-specific): hawksbill turtles, sergeant majors, fusiliers, moray eels, lionfish, anthias, occasional white-tip reef sharks in deep blue."
     }
   },
   {
@@ -92,7 +100,9 @@
       "name": "Gorgon 1",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com, jordan-travel.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Named for TWO large gorgonian fan corals (previous description incorrectly said one). Three pinnacles rising to surface. Cabbage coral the size of a house at base of third pinnacle. Marine life (site-specific): hawksbill turtles, big-eye emperors, sergeant majors, fusiliers, glassfish, lionfish, stonefish, yellowmouth moray. Primary boat access."
     }
   },
   {
@@ -110,7 +120,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "arabdivers.jo, seawondersdivingcenter.com, divemagazine.com, deepbluedivecenter.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. M42 Duster anti-aircraft vehicle, sunk 1 Sep 1999 by Jordanian Royal Ecological Diving Society. 6m depth, 20m from shore. Prior markdown claim of '1965 to 1998' Jordanian Army service REMOVED — no independent source confirms these specific dates. Marine life (site-specific): lionfish, angelfish, groupers, moray eels."
     }
   },
   {
@@ -128,7 +140,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divemagazine.com, deepbluedivecenter.com, seawondersdivingcenter.com, arabdivers.jo",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Lockheed C-130 Hercules, donated by Royal Jordanian Air Force, scuttled 16 Nov 2017. Length 30m, wingspan ~40m. Max depth 17m. Plastic skeleton in pilot seat confirmed. Storm damage March 2020 confirmed — fuselage broken into sections, tail broadly intact. Note: one source (Dive Magazine article) initially listed 2021 but multiple sources confirm 2017."
     }
   },
   {
@@ -146,7 +160,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com, jordan-travel.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Arc-shaped reef, 6-18m. Four telecommunications cables laid 1996 (Jordan-Egypt) run beneath reef — northern wall is artificial reef structure built to protect cables. Known as Aqaba's top night dive site. Marine life (site-specific): Spanish dancers, lobsters, feather stars, moray eels, lionfish, parrotfish, butterflyfish, wrasse, scorpionfish, eagle rays."
     }
   },
   {
@@ -167,7 +183,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seawondersdivingcenter.com, arabdivers.jo, divemagazine.com, timesofisrael.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "CRITICAL: OSM coordinates (29.5145N, 34.9270E) are within ~30m of the Israeli Satil/Sufa wreck at Village Beach, Eilat. The OSM name tag in Hebrew reads 'Diving site - Satil (24m)'. This OSM entry almost certainly represents the Israeli Satil/Sufa wreck, NOT Jordan's Underwater Military Museum. The real Underwater Military Museum is off South Beach, Aqaba (SOUTH of city center). This entry's name has been set to 'Underwater Military Museum' in a previous community pass but the coordinates and Hebrew tag strongly indicate it is the Israeli Satil. Requires coordinate correction before this can be treated as a confirmed Jordanian UMM entry. The UMM itself is well documented: 19-21 vehicles, FV701 Ferrets, FV101 Scorpions, Chieftain/Khalid tanks, Chieftain ARV, FV103 Spartan, FV104 Samaritan ambulance, Ratel-20, M1 155mm guns, Willis jeeps, M42 Duster, 2x Bell AH-1F Cobra helicopters. Inaugurated 25 Jul 2019. Depths 5-28m. Marine life (site-specific): garden eels, moray eels, scorpionfish, bannerfish, reef fish, nudibranchs."
     }
   },
   {
@@ -183,7 +201,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "arabdivers.jo, dive-inaqaba.com"
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Moderate confidence. Corresponds to Coral Garden area in southern Aqaba near electricity plant. Hard coral formations, moderate currents. Marine life described generically from regional sources — no site-specific species list confirmed for this exact location."
     }
   },
   {
@@ -199,7 +219,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "arabdivers.jo, deepbluedivecenter.com, redseadivecenter.com"
+      "validation_source": "arabdivers.jo, deepbluedivecenter.com, redseadivecenter.com, seawondersdivingcenter.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. First Bay South at these coordinates. Descends to 30m recreational, with Death Valley technical section beyond 40m. Largest cabbage corals in the Middle East reported. Note: 'whale sharks' mentioned in one source for this site but not corroborated by other local operators — treat as occasional/unconfirmed."
     }
   },
   {
@@ -215,7 +237,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "arabdivers.jo, dive-inaqaba.com"
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, aqaba-diving.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Three finger reefs perpendicular to shore. Named for blue Acropora formations. Known nudibranch site. Marine life (site-specific confirmed): turtles, morays, rays, nudibranchs, shrimpfish, seahorses, pipefish. Thorny seahorse claim in seagrass — plausible for Aqaba but not confirmed at this exact site in reviewed sources."
     }
   },
   {
@@ -231,7 +255,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com"
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Named for a New Zealand diver (Bevan Airey) who discovered it. Dozen+ coral pinnacles over seagrass, 10-20m. Marine life (site-specific): morays, lionfish, stingrays, emperors, seahorses in seagrass, triggerfish, fusiliers, damselfish. Noted as exceptional night dive and photography site."
     }
   },
   {
@@ -247,7 +273,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "aqabadivingseastar.com, freedivingjordan.wordpress.com"
+      "validation_source": "aqabadivingseastar.com, freedivingjordan.wordpress.com, wannadive.net",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented via Seastar Watersports house reef. Wall starts at 6m, drops to 80m+. Shallow sandy training area. Black coral trees at depth, garden eels at 30m. Aqaba's most popular night dive. Marine life (site-specific): grey morays, fusiliers, groupers, flounders, garden eels, scorpionfish, lionfish, frogfish, giant clams, shrimps, hawksbill turtles near north buoy."
     }
   },
   {
@@ -263,7 +291,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "scubaboard.com, aqaba-diving.com, freedivingjordan.wordpress.com"
+      "validation_source": "scubaboard.com, aqaba-diving.com, freedivingjordan.wordpress.com",
+      "last_qa_date": "2026-06-10",
+      "qa_notes": "Well documented. Jordan's southernmost dive site, ~25 min drive from Aqaba town. Wall from 12m plateau dropping to 100m+. 850m wall extent. Best area is shallow cabbage coral plateau before wall drop. Marine life (site-specific): humphead wrasse, turtles, hunting jacks, sharks and moray eels reported. Access to far southern section may require special arrangements."
     }
   }
 ]

@@ -24,10 +24,10 @@ No independent dive operator source in Jordan attributes this site to Jordanian 
 ## Site Information
 
 - **Location**: Northern Gulf of Aqaba — jurisdiction unconfirmed
-- **Entry Type**: Shore entry (per OSM)
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (per OSM; Eilat Yatush is reported at 25–33m)
+- **Maximum Depth**: 20 meters
 
 ---
 *Description based on OSM data and regional diving sources. No Jordan-specific sources confirmed for this site. Sources consulted: [Eilat Red Sea - Yatush](https://www.eilatredsea.com/?CategoryID=169&ArticleID=91), [ScubaGo - Yatush Wreck Eilat](https://www.scubago.com/en/explore/divesite/yatush-wreck-eilat-660227), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba). Last updated 2026-06-10.*

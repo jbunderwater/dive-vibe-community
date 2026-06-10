@@ -23,7 +23,7 @@ The Gardens features branching hard coral formations over relatively flat to gen
 
 - **Location**: Jordan - Aqaba, southern coastal reef zone
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 meters
 - **Current**: Moderate
@@ -57,4 +57,4 @@ Moderate currents are common. Avoid surge zones near the entry point. Always div
 Excellent macro photography site. Look for nudibranchs, frogfish, and crocodilefish resting among the coral heads. Wide-angle shots of the branching hard coral formations work well in good visibility.
 
 ---
-*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/). Last updated 2026-04-11.*
+*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*
