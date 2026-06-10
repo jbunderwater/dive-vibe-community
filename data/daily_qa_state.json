@@ -1016,7 +1016,7 @@
           }
         }
       },
-      "pr_url": null,
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/88",
       "errors": [],
       "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
     }
