@@ -16,7 +16,7 @@
       "validated": "true",
       "validation_source": "divekomodo.com,dragondivekomodo.com,bluemarlindive.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Shore entry reef on eastern Komodo Island. Depth corrected 30m→25m (sources confirm sandy base at 25m, most life at 5-15m). Site type reef confirmed. Difficulty Beginner confirmed."
+      "notes": "QA 2026-06-10: Shore entry reef on eastern Komodo Island. Depth corrected 30m\u219225m (sources confirm sandy base at 25m, most life at 5-15m). Site type reef confirmed. Difficulty Beginner confirmed."
     }
   },
   {
@@ -47,14 +47,14 @@
     "depth": 25,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mawan",
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dragondivekomodo.com,lagaligoliveaboard.com,wetfrogdivers.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type changed reef→drift. Mawan is primarily a manta cleaning station drift dive west of Siaba Besar. Depth corrected 24m→25m (sources: 5-25m range). Mandarin fish description in previous markdown was unsupported — Wainilu is the mandarin fish site. Mawan confirmed for manta rays, eagle rays, bamboo sharks, whitetip sharks, turtles."
+      "notes": "QA 2026-06-10: Site type changed reef\u2192drift. Mawan is primarily a manta cleaning station drift dive west of Siaba Besar. Depth corrected 24m\u219225m (sources: 5-25m range). Mandarin fish description in previous markdown was unsupported \u2014 Wainilu is the mandarin fish site. Mawan confirmed for manta rays, eagle rays, bamboo sharks, whitetip sharks, turtles."
     }
   },
   {
@@ -74,7 +74,7 @@
       "validated": "true",
       "validation_source": "scubajunkiekomodo.com,mantarhei.com,mantadivekomodo.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: CRITICAL CORRECTION. Previous markdown described Nusa Penida's Crystal Bay (mola mola site, coordinates ~-8.71, 115.45) — this is a different location 400+km away. This site (coordinates -8.447, 119.568) is a bay near Gili Lawa Darat in NORTHERN KOMODO. Confirmed as a beginner-friendly site with sandy bottom, no current, used for checkout dives and courses. Difficulty corrected Intermediate→Beginner. Depth corrected 30m→15m. All mola mola content removed as hallucination."
+      "notes": "QA 2026-06-10: CRITICAL CORRECTION. Previous markdown described Nusa Penida's Crystal Bay (mola mola site, coordinates ~-8.71, 115.45) \u2014 this is a different location 400+km away. This site (coordinates -8.447, 119.568) is a bay near Gili Lawa Darat in NORTHERN KOMODO. Confirmed as a beginner-friendly site with sandy bottom, no current, used for checkout dives and courses. Difficulty corrected Intermediate\u2192Beginner. Depth corrected 30m\u219215m. All mola mola content removed as hallucination."
     }
   },
   {
@@ -137,7 +137,7 @@
       "validated": "true",
       "validation_source": "dragondivekomodo.com,bluemarlindive.com,lagaligoliveaboard.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type pinnacle confirmed. Depth corrected 30m→35m (sources confirm 15-35m, some say tops out 3-5m below surface). Difficulty Advanced confirmed. Location corrected in markdown from 'Gili Motang area' to 'Gili Lawa Laut area'. Confirmed marine life: grey/white/black-tip sharks, giant trevally, tuna, barracuda, napoleon wrasse, eagle rays, pygmy seahorses, nudibranchs."
+      "notes": "QA 2026-06-10: Site type pinnacle confirmed. Depth corrected 30m\u219235m (sources confirm 15-35m, some say tops out 3-5m below surface). Difficulty Advanced confirmed. Location corrected in markdown from 'Gili Motang area' to 'Gili Lawa Laut area'. Confirmed marine life: grey/white/black-tip sharks, giant trevally, tuna, barracuda, napoleon wrasse, eagle rays, pygmy seahorses, nudibranchs."
     }
   },
   {
@@ -181,7 +181,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,dragondivekomodo.com,divezone.net",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type pinnacle confirmed (three rock pinnacles). Depth corrected 30m→35m (Blue Marlin: 15-35m). Difficulty Advanced confirmed. Confirmed species: sharks, barracuda schools, snapper, batfish, trevally, bumpheads, fusiliers, nudibranchs. Blue Marlin notes this is the least frequently dived Komodo site with pristine corals."
+      "notes": "QA 2026-06-10: Site type pinnacle confirmed (three rock pinnacles). Depth corrected 30m\u219235m (Blue Marlin: 15-35m). Difficulty Advanced confirmed. Confirmed species: sharks, barracuda schools, snapper, batfish, trevally, bumpheads, fusiliers, nudibranchs. Blue Marlin notes this is the least frequently dived Komodo site with pristine corals."
     }
   },
   {
@@ -200,7 +200,7 @@
       "validated": "true",
       "validation_source": "komododivecenter.com,komododivesitesguide.blogspot.com,komodonationalpark.org",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type corrected reef→wall (overhangs, caves, valleys, swim-throughs to 40m confirmed by multiple sources; also known as 'One Tree' or 'Lonely Tree'). Difficulty corrected Intermediate→Advanced (sources: 'mostly for advanced divers', 'extremely dangerous currents'). Depth corrected 20m→40m. Confirmed marine life: emperor sweetlips, napoleon wrasse, hawksbill turtles, grouper in overhangs; giant red and white fan corals."
+      "notes": "QA 2026-06-10: Site type corrected reef\u2192wall (overhangs, caves, valleys, swim-throughs to 40m confirmed by multiple sources; also known as 'One Tree' or 'Lonely Tree'). Difficulty corrected Intermediate\u2192Advanced (sources: 'mostly for advanced divers', 'extremely dangerous currents'). Depth corrected 20m\u219240m. Confirmed marine life: emperor sweetlips, napoleon wrasse, hawksbill turtles, grouper in overhangs; giant red and white fan corals."
     }
   },
   {
@@ -219,7 +219,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,scubaboard.com,divessi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type pinnacle confirmed (three submerged pinnacles in southern Komodo). Depth corrected 30m→40m (Blue Marlin: 15-40m). Difficulty Advanced confirmed. Blue Marlin confirms pinnacles 10m apart with 20m sand base rising 3-5m; strong currents. ScubaBoard confirms as 'stunning and diverse' with abundant fish life and sharks."
+      "notes": "QA 2026-06-10: Site type pinnacle confirmed (three submerged pinnacles in southern Komodo). Depth corrected 30m\u219240m (Blue Marlin: 15-40m). Difficulty Advanced confirmed. Blue Marlin confirms pinnacles 10m apart with 20m sand base rising 3-5m; strong currents. ScubaBoard confirms as 'stunning and diverse' with abundant fish life and sharks."
     }
   },
   {
@@ -238,7 +238,7 @@
       "validated": "true",
       "validation_source": "sea-undersea.com,indonesia.greatestdivesites.com,divessi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type corrected reef→wall. Sea-Undersea confirms 'steep rock bank' dropping to 30-40m with strong tidal currents. Confirmed species: stingrays, Napoleon wrasse, groupers. Difficulty Intermediate confirmed. Depth 30m confirmed (wall drops to 30-40m, max recreational depth 30m)."
+      "notes": "QA 2026-06-10: Site type corrected reef\u2192wall. Sea-Undersea confirms 'steep rock bank' dropping to 30-40m with strong tidal currents. Confirmed species: stingrays, Napoleon wrasse, groupers. Difficulty Intermediate confirmed. Depth 30m confirmed (wall drops to 30-40m, max recreational depth 30m)."
     }
   },
   {
@@ -276,7 +276,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,scubaboard.com,divessi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type corrected wall→pinnacle (Blue Marlin confirms as a pinnacle with caves and swim-throughs, slopes with fusiliers and soft corals, 18-40m). Difficulty corrected Intermediate→Advanced (Blue Marlin: Advanced only; ScubaBoard confirms night dive depth 20-24m). Depth 40m confirmed."
+      "notes": "QA 2026-06-10: Site type corrected wall\u2192pinnacle (Blue Marlin confirms as a pinnacle with caves and swim-throughs, slopes with fusiliers and soft corals, 18-40m). Difficulty corrected Intermediate\u2192Advanced (Blue Marlin: Advanced only; ScubaBoard confirms night dive depth 20-24m). Depth 40m confirmed."
     }
   },
   {
@@ -314,7 +314,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,dragondivekomodo.com,diveconcepts.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type drift confirmed. Depth corrected 30m→35m (Blue Marlin: 15-35m). Difficulty Advanced confirmed (all sources: Advanced/very experienced only). Confirmed: swim-throughs, valleys, giant boulders, best at slack/rising tide. Confirmed species: groupers, snappers, sweetlips, jacks, sharks, eagle rays (Dragon Dive), giant trevallies, mobulas (Dragon Dive)."
+      "notes": "QA 2026-06-10: Site type drift confirmed. Depth corrected 30m\u219235m (Blue Marlin: 15-35m). Difficulty Advanced confirmed (all sources: Advanced/very experienced only). Confirmed: swim-throughs, valleys, giant boulders, best at slack/rising tide. Confirmed species: groupers, snappers, sweetlips, jacks, sharks, eagle rays (Dragon Dive), giant trevallies, mobulas (Dragon Dive)."
     }
   },
   {
@@ -371,7 +371,7 @@
       "validated": "true",
       "validation_source": "southeastasiadreams.com,indonesialogue.com,divezone.net",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type reef confirmed (sloping reef/wall, dive around the point south to north). Depth corrected 20m→28m (source: 'depth of about 28m'). Difficulty Intermediate confirmed. Confirmed marine life: leaf scorpionfish, blue ribbon eels, crocodile fish, nudibranch, giant clam at 8m."
+      "notes": "QA 2026-06-10: Site type reef confirmed (sloping reef/wall, dive around the point south to north). Depth corrected 20m\u219228m (source: 'depth of about 28m'). Difficulty Intermediate confirmed. Confirmed marine life: leaf scorpionfish, blue ribbon eels, crocodile fish, nudibranch, giant clam at 8m."
     }
   },
   {
@@ -390,7 +390,7 @@
       "validated": "true",
       "validation_source": "divekomodo.com,dragondivekomodo.com,bluemarlindive.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type reef confirmed. Depth corrected 30m→25m (sandy base at 25-30m, most life at 5-15m). Difficulty Beginner confirmed. Entry corrected boat→both (shore entry confirmed by multiple sources). Pink sand from red coral fragments confirmed. Noted as separate from Pantai Merah."
+      "notes": "QA 2026-06-10: Site type reef confirmed. Depth corrected 30m\u219225m (sandy base at 25-30m, most life at 5-15m). Difficulty Beginner confirmed. Entry corrected boat\u2192both (shore entry confirmed by multiple sources). Pink sand from red coral fragments confirmed. Noted as separate from Pantai Merah."
     }
   },
   {
@@ -409,7 +409,7 @@
       "validated": "true",
       "validation_source": "dragondivekomodo.com,scubajunkiekomodo.com,bluemarlindive.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type muck confirmed. Depth corrected 12m→25m (Dragon Dive confirms max 30m; Blue Marlin: 15-25m avg; Scuba Junkie: plateaus at 25m). Difficulty corrected Beginner→Intermediate (requires excellent buoyancy control per Blue Marlin; Dragon Dive says 'all levels' but notes buoyancy requirement). Confirmed species: flamboyant cuttlefish, mandarinfish, mimic octopus, frogfish, ornate ghost pipefish, wunderpus, blue-ring octopus, bobtail squid, harlequin shrimp, ribbon eels. Best at dusk for mandarinfish mating."
+      "notes": "QA 2026-06-10: Site type muck confirmed. Depth corrected 12m\u219225m (Dragon Dive confirms max 30m; Blue Marlin: 15-25m avg; Scuba Junkie: plateaus at 25m). Difficulty corrected Beginner\u2192Intermediate (requires excellent buoyancy control per Blue Marlin; Dragon Dive says 'all levels' but notes buoyancy requirement). Confirmed species: flamboyant cuttlefish, mandarinfish, mimic octopus, frogfish, ornate ghost pipefish, wunderpus, blue-ring octopus, bobtail squid, harlequin shrimp, ribbon eels. Best at dusk for mandarinfish mating."
     }
   },
   {
@@ -447,7 +447,7 @@
       "validated": "true",
       "validation_source": "asiadivesite.com,divescover.com,komodoislandtour.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type confirmed as pinnacle/wall combo (submerged rocks and pinnacles forming valleys, wall closer to shore). Depth corrected 20m→30m (sources: 5-30m range). Difficulty Advanced confirmed (strong currents, experienced divers only for pinnacles). Confirmed species: dogtooth tuna, turtles, giant trevally, potato cod, bumphead parrotfish, malabar grouper, napoleon wrasse, manta rays."
+      "notes": "QA 2026-06-10: Site type confirmed as pinnacle/wall combo (submerged rocks and pinnacles forming valleys, wall closer to shore). Depth corrected 20m\u219230m (sources: 5-30m range). Difficulty Advanced confirmed (strong currents, experienced divers only for pinnacles). Confirmed species: dogtooth tuna, turtles, giant trevally, potato cod, bumphead parrotfish, malabar grouper, napoleon wrasse, manta rays."
     }
   },
   {
@@ -466,7 +466,7 @@
       "validated": "true",
       "validation_source": "scubajunkiekomodo.com,komodoresort.com,divezone.net",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type reef confirmed (sloping soft coral garden). Depth 20m confirmed. Difficulty Intermediate confirmed. Confirmed species per Scuba Junkie: blue-ringed octopus, flamboyant cuttlefish, ribbon eels, seahorses. Note: marine life claims in existing markdown (napoleon wrasse, giant trevally, reef sharks) are generic Komodo regional attribution — Scuba Junkie confirms this as a soft coral garden macro site."
+      "notes": "QA 2026-06-10: Site type reef confirmed (sloping soft coral garden). Depth 20m confirmed. Difficulty Intermediate confirmed. Confirmed species per Scuba Junkie: blue-ringed octopus, flamboyant cuttlefish, ribbon eels, seahorses. Note: marine life claims in existing markdown (napoleon wrasse, giant trevally, reef sharks) are generic Komodo regional attribution \u2014 Scuba Junkie confirms this as a soft coral garden macro site."
     }
   },
   {
@@ -504,7 +504,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,wetfrogdivers.com,divessi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type reef confirmed. Depth corrected 20m→22m (Blue Marlin: 12-22m). Difficulty corrected Intermediate→Beginner (multiple sources: Beginners, suitable for check-out dives, all levels, snorkellers). Confirmed species: large schools of reef fish, turtles, cuttlefish, giant sea fans, macro subjects including mantis shrimp and pygmy seahorses."
+      "notes": "QA 2026-06-10: Site type reef confirmed. Depth corrected 20m\u219222m (Blue Marlin: 12-22m). Difficulty corrected Intermediate\u2192Beginner (multiple sources: Beginners, suitable for check-out dives, all levels, snorkellers). Confirmed species: large schools of reef fish, turtles, cuttlefish, giant sea fans, macro subjects including mantis shrimp and pygmy seahorses."
     }
   },
   {
@@ -523,7 +523,7 @@
       "validated": "true",
       "validation_source": "divessi.com,wetfrogdivers.com,bluemarlindive.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type corrected reef→pinnacle (seamount topping at ~22m confirmed by SSI MyDiveGuide and Wet Frog Divers). Depth confirmed 22m (seamount top). Difficulty Intermediate confirmed (nice drift dives around the seamount). Confirmed species: sea fans, hard corals, schools of barracudas circling the pinnacle, turtles, white-tip reef sharks."
+      "notes": "QA 2026-06-10: Site type corrected reef\u2192pinnacle (seamount topping at ~22m confirmed by SSI MyDiveGuide and Wet Frog Divers). Depth confirmed 22m (seamount top). Difficulty Intermediate confirmed (nice drift dives around the seamount). Confirmed species: sea fans, hard corals, schools of barracudas circling the pinnacle, turtles, white-tip reef sharks."
     }
   },
   {
@@ -543,7 +543,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,dragondivekomodo.com,scubajunkiekomodo.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type reef confirmed (two pinnacles off sloping reef). Depth corrected 20m→35m (Blue Marlin: 15-35m). Difficulty corrected Intermediate→Advanced (Blue Marlin: Advanced only). Confirmed species: red tooth triggerfish, white-tip reef sharks, bumphead parrotfish, sweetlips, frogfish, spawning Indonesian groupers, occasional dolphins (Blue Marlin). Pygmy seahorses on sea fans confirmed (multiple sources)."
+      "notes": "QA 2026-06-10: Site type reef confirmed (two pinnacles off sloping reef). Depth corrected 20m\u219235m (Blue Marlin: 15-35m). Difficulty corrected Intermediate\u2192Advanced (Blue Marlin: Advanced only). Confirmed species: red tooth triggerfish, white-tip reef sharks, bumphead parrotfish, sweetlips, frogfish, spawning Indonesian groupers, occasional dolphins (Blue Marlin). Pygmy seahorses on sea fans confirmed (multiple sources)."
     }
   },
   {
@@ -581,7 +581,7 @@
       "validated": "false",
       "validation_source": "",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type corrected reef→muck (black-sand and rubble slope muck site close to Labuan Bajo, well documented as macro/muck diving destination). However, the specific dive site at these coordinates (-8.418, 119.862) is near Seraya village on Flores, just outside park boundary. Muck/macro character is consistent. Could not find 3 independent sources with site-specific details confirming this exact location. NOT marked validated. Depth 20m plausible for black sand slope."
+      "notes": "QA 2026-06-10: Site type corrected reef\u2192muck (black-sand and rubble slope muck site close to Labuan Bajo, well documented as macro/muck diving destination). However, the specific dive site at these coordinates (-8.418, 119.862) is near Seraya village on Flores, just outside park boundary. Muck/macro character is consistent. Could not find 3 independent sources with site-specific details confirming this exact location. NOT marked validated. Depth 20m plausible for black sand slope."
     }
   },
   {
@@ -600,7 +600,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,dragondivekomodo.com,padi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Site type drift confirmed. Depth corrected 15m→18m (Blue Marlin: 12-18m; Dragon Dive: main action 6-18m). Difficulty Beginner confirmed (Open Water accessible per Dragon Dive and Blue Marlin). Also known as Karang Makassar / Takat Makassar. Dragon Dive confirms up to 40-50 mantas, 2.5km long reef plateau, multiple cleaning stations. Confirmed species: reef mantas, bamboo sharks, eagle rays, giant clams, bumphead parrotfish, turtles."
+      "notes": "QA 2026-06-10: Site type drift confirmed. Depth corrected 15m\u219218m (Blue Marlin: 12-18m; Dragon Dive: main action 6-18m). Difficulty Beginner confirmed (Open Water accessible per Dragon Dive and Blue Marlin). Also known as Karang Makassar / Takat Makassar. Dragon Dive confirms up to 40-50 mantas, 2.5km long reef plateau, multiple cleaning stations. Confirmed species: reef mantas, bamboo sharks, eagle rays, giant clams, bumphead parrotfish, turtles."
     }
   },
   {
@@ -617,7 +617,7 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "Dive site in the north Komodo area. Site details unverified — contributed from a diver's personal logbook. Located in open water northwest of Komodo Island. May be known by a different name among local operators.",
+      "description": "Dive site in the north Komodo area. Site details unverified \u2014 contributed from a diver's personal logbook. Located in open water northwest of Komodo Island. May be known by a different name among local operators.",
       "last_qa_date": "2026-06-10",
       "notes": "QA 2026-06-10: No site-specific sources found. Could not find 3 independent sources. NOT marked validated. Name not found in any operator's site listing."
     }
@@ -640,7 +640,7 @@
       "validated": "true",
       "validation_source": "divekomodo.com,lagaligoliveaboard.com,liveaboard.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Site type drift confirmed. Depth 25m confirmed. Difficulty Advanced confirmed. Description reviewed — marine life claims are consistent with current-swept northern Komodo channel diving. No hallucinations detected."
+      "notes": "QA 2026-06-10: Re-audited. Site type drift confirmed. Depth 25m confirmed. Difficulty Advanced confirmed. Description reviewed \u2014 marine life claims are consistent with current-swept northern Komodo channel diving. No hallucinations detected."
     }
   },
   {
@@ -682,7 +682,7 @@
       "validated": "true",
       "validation_source": "bluemarlindive.com,dragondivekomodo.com,diveoclock.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Depth corrected 30m→40m (Blue Marlin: 15-40m; Dragon Dive: descends to 85m, recreational max 40m). Pinnacle confirmed in 75m water. CNN #27 ranking confirmed by Blue Marlin. Marine life cross-checked: reef sharks, humphead wrasse, dogtooth tuna, turtles all confirmed. No conflicts found."
+      "notes": "QA 2026-06-10: Re-audited. Depth corrected 30m\u219240m (Blue Marlin: 15-40m; Dragon Dive: descends to 85m, recreational max 40m). Pinnacle confirmed in 75m water. CNN #27 ranking confirmed by Blue Marlin. Marine life cross-checked: reef sharks, humphead wrasse, dogtooth tuna, turtles all confirmed. No conflicts found."
     }
   },
   {
@@ -703,7 +703,7 @@
       "validated": "true",
       "validation_source": "divekomodo.com,divessi.com,dragondivekomodo.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Dragon Dive confirms as macro paradise and mobula/ray migration corridor. Marine life: black coral bushes, soft corals, mantis shrimp, ribbon eels, blue-ringed octopus, ghost pipefish, nudibranchs are consistent with protected bay macro sites in Komodo. No specific independent confirmation of blue-ringed octopus at this exact site — flagged as possible generic regional attribution but not removed (consistent with similar Komodo macro sites)."
+      "notes": "QA 2026-06-10: Re-audited. Dragon Dive confirms as macro paradise and mobula/ray migration corridor. Marine life: black coral bushes, soft corals, mantis shrimp, ribbon eels, blue-ringed octopus, ghost pipefish, nudibranchs are consistent with protected bay macro sites in Komodo. No specific independent confirmation of blue-ringed octopus at this exact site \u2014 flagged as possible generic regional attribution but not removed (consistent with similar Komodo macro sites)."
     }
   },
   {
@@ -722,7 +722,7 @@
       "addedBy": "ScubaBoard user Dan",
       "description": "A protected bay on the south side of Padar offering sheltered reef diving with gentle slopes and coral gardens. Calm conditions make it ideal for less experienced divers and a relaxing complement to the more demanding sites in central and northern Komodo.",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Previous validation_source was only 'divekomodo.com + ScubaBoard user Dan GPS' — insufficient (2 sources, one GPS only). Could not find 3 independent sources with site-specific Padar Bay details. NOT marked validated."
+      "notes": "QA 2026-06-10: Re-audited. Previous validation_source was only 'divekomodo.com + ScubaBoard user Dan GPS' \u2014 insufficient (2 sources, one GPS only). Could not find 3 independent sources with site-specific Padar Bay details. NOT marked validated."
     }
   },
   {
@@ -764,7 +764,7 @@
       "validated": "true",
       "validation_source": "dive-the-world.com,divehappy.com,divezone.net",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Wall confirmed on east coast of Nusa Kode. Depth 40m confirmed. Difficulty Advanced confirmed (medium to strong currents per multiple sources). Confirmed species: yellow soft corals (Tubastrea), sea cucumbers, featherstars (Dive Happy), fork-tailed fairy basslets, clown triggerfish, butterflyfish, whitetip reef sharks, green turtles, red snappers. Afternoon best light confirmed. 'Ladybug amphipods' claim unverified across sources — removed from description as unconfirmed micro-specific claim."
+      "notes": "QA 2026-06-10: Re-audited. Wall confirmed on east coast of Nusa Kode. Depth 40m confirmed. Difficulty Advanced confirmed (medium to strong currents per multiple sources). Confirmed species: yellow soft corals (Tubastrea), sea cucumbers, featherstars (Dive Happy), fork-tailed fairy basslets, clown triggerfish, butterflyfish, whitetip reef sharks, green turtles, red snappers. Afternoon best light confirmed. 'Ladybug amphipods' claim unverified across sources \u2014 removed from description as unconfirmed micro-specific claim."
     }
   },
   {
@@ -785,7 +785,7 @@
       "validated": "true",
       "validation_source": "scubadiverz.org,divehappy.com,komodoresort.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Site type: Cannibal Rock is a pinnacle/seamount rather than classic muck — it is carpeted in soft corals and sponges (not sand/rubble). However 'muck' is used loosely in Komodo to mean critter/macro diving. Depth 5-35m confirmed. Confirmed species: nudibranchs, rhinopias, frogfish, pygmy seahorses in sponges and sea fans (divenet.com), magnificent anemones, sea apples (Pseudocolchirus violaceus). 'Occasional manta rays' claim is consistent with proximity to Nusa Kode area. No conflicts."
+      "notes": "QA 2026-06-10: Re-audited. Site type: Cannibal Rock is a pinnacle/seamount rather than classic muck \u2014 it is carpeted in soft corals and sponges (not sand/rubble). However 'muck' is used loosely in Komodo to mean critter/macro diving. Depth 5-35m confirmed. Confirmed species: nudibranchs, rhinopias, frogfish, pygmy seahorses in sponges and sea fans (divenet.com), magnificent anemones, sea apples (Pseudocolchirus violaceus). 'Occasional manta rays' claim is consistent with proximity to Nusa Kode area. No conflicts."
     }
   },
   {
@@ -827,7 +827,7 @@
       "validated": "true",
       "validation_source": "lotusliveaboards.com,divehappy.com,komodoresort.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. Lotus Liveaboards confirms location in Horseshoe Bay near southern Rinca Island. Black sand slope confirmed. Torpedo rays (electric rays) as namesake confirmed by Lotus. 'Ambon scorpionfish' is a specific species claim — consistent with Komodo muck sites but not individually cross-checked against this specific location; flagged for future verification. Frogfish, stargazers, snake eels, cuttlefish, nudibranchs consistent with muck slope habitat."
+      "notes": "QA 2026-06-10: Re-audited. Lotus Liveaboards confirms location in Horseshoe Bay near southern Rinca Island. Black sand slope confirmed. Torpedo rays (electric rays) as namesake confirmed by Lotus. 'Ambon scorpionfish' is a specific species claim \u2014 consistent with Komodo muck sites but not individually cross-checked against this specific location; flagged for future verification. Frogfish, stargazers, snake eels, cuttlefish, nudibranchs consistent with muck slope habitat."
     }
   },
   {
@@ -844,11 +844,11 @@
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "A rocky channel at the far southern tip of Komodo Island where manta rays aggregate at cleaning stations. Peak season: sources conflict — divehappy.com reports mantas year-round with best visibility September-March; Dragon Dive Komodo reports peak November-June for southern Komodo. Sightings of multiple mantas on a single dive are common in peak season. Strong currents and cold thermoclines (22-23°C) make this a challenging dive. Shallow cleaning stations at 5-15m; deeper sandy channels to ~20-25m. Maximum depth 40m.",
+      "description": "A rocky channel at the far southern tip of Komodo Island where manta rays aggregate at cleaning stations. Peak season: sources conflict \u2014 divehappy.com reports mantas year-round with best visibility September-March; Dragon Dive Komodo reports peak November-June for southern Komodo. Sightings of multiple mantas on a single dive are common in peak season. Strong currents and cold thermoclines (22-23\u00b0C) make this a challenging dive. Shallow cleaning stations at 5-15m; deeper sandy channels to ~20-25m. Maximum depth 40m.",
       "validated": "true",
       "validation_source": "divehappy.com,dragondivekomodo.com,divessi.com",
       "last_qa_date": "2026-06-10",
-      "notes": "QA 2026-06-10: Re-audited. DiveHappy confirms rocky channel at southern Komodo. Channel structure confirmed (DiveHappy: 'an alley hewn through rock'). Cleaning stations confirmed. Cold thermoclines (22-23°C) confirmed by DiveHappy. Seasonal conflict updated: Dragon Dive Komodo now lists November-June as best for southern Komodo; DiveHappy does not give a single peak month. Description updated to reflect current source data. Previous 'mobula rays' claim removed — DiveHappy does not confirm mobulas specifically at this site. 'Sweetlips and giant trevallies' from previous version not confirmed by DiveHappy specifically — removed to avoid generic regional padding."
+      "notes": "QA 2026-06-10: Re-audited. DiveHappy confirms rocky channel at southern Komodo. Channel structure confirmed (DiveHappy: 'an alley hewn through rock'). Cleaning stations confirmed. Cold thermoclines (22-23\u00b0C) confirmed by DiveHappy. Seasonal conflict updated: Dragon Dive Komodo now lists November-June as best for southern Komodo; DiveHappy does not give a single peak month. Description updated to reflect current source data. Previous 'mobula rays' claim removed \u2014 DiveHappy does not confirm mobulas specifically at this site. 'Sweetlips and giant trevallies' from previous version not confirmed by DiveHappy specifically \u2014 removed to avoid generic regional padding."
     }
   }
 ]

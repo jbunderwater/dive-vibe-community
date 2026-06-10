@@ -957,9 +957,68 @@
         "koh-tao",
         "komodo-national-park"
       ],
-      "summary": {},
+      "summary": {
+        "sites_total": 90,
+        "sites_validated_today": 74,
+        "sites_re_audited": 90,
+        "hallucinations_removed": 18,
+        "marine_life_stripped": 15,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 10,
+        "by_destination": {
+          "japan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive sites; child okinawa remains in queue"
+          },
+          "jordan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive sites; child jordan-aqaba processed today"
+          },
+          "jordan-aqaba": {
+            "sites_total": 15,
+            "sites_validated_today": 15,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 3,
+            "notes": "Cedar Pride length 74m vs 80m + tonnage conflict documented; Soufa/Yatouche/UMM flagged with Israeli coordinates \u2014 likely scraped from Israeli Eilat side of border; Gorgon 1 two-fans corrected; Tank service dates removed"
+          },
+          "kenya-coast": {
+            "sites_total": 10,
+            "sites_validated_today": 9,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Mtwapa Creek reef\u2192drift, depth 15\u219223m, Intermediate\u2192Advanced; MV Dania length 77\u219275m (Wikipedia) + scuttling date conflict Oct 25 vs 27 2002; Tewa Caves grouper weight 363kg\u2192200kg; Sita Reef unresolved (no independent sources); Shimoni Caves whale shark claim removed"
+          },
+          "koh-tao": {
+            "sites_total": 17,
+            "sites_validated_today": 17,
+            "sites_re_audited": 17,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "HTMS Sattakut: all 3 Pacific campaigns named, US hull LCI(M)-739 vs LCI(L)-736 conflict documented, build date early 1944; Chumpon Pinnacle 35\u219240m + Intermediate\u2192Advanced; distance corrected 5km\u219212km northwest of Koh Tao; Japanese Garden pinktail triggerfish added (only Koh Tao site), turtles downgraded to occasional; Pottery depth 18\u219212m; Buoyancy miniature shipwreck claim removed (concrete sculptures confirmed)"
+          },
+          "komodo-national-park": {
+            "sites_total": 43,
+            "sites_validated_today": 30,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "CRITICAL: Crystal Bay description was fabricated from Nusa Penida Crystal Bay 400km away \u2014 full rewrite; Mawan mandarin fish wrong site (mandarin fish at Wainilu); 7 type corrections; 5 depth corrections; 4 difficulty corrections incl Bonsai Intermediate\u2192Advanced; Big Nose/Gaja Rock/Loh Sera/Payong/Seraya Kecil/Padar Bay unresolved"
+          }
+        }
+      },
       "pr_url": null,
-      "errors": []
+      "errors": [],
+      "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
     }
   ]
 }

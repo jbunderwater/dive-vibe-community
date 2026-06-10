@@ -2,7 +2,7 @@
 name: Mawan
 lat: -8.558126
 lng: 119.6361023
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
 siteType: drift
@@ -26,7 +26,7 @@ Note: the previous description of Mawan as a mandarin fish site was incorrect. M
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (west of Siaba Besar, central park)
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 12–20 meters
 - **Current**: Mild to strong; moon phase dependent
