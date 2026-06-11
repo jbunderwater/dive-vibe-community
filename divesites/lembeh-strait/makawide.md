@@ -32,7 +32,7 @@ The Makawide slope descends gradually to 24 meters across a substrate that trans
 
 ## Marine Life
 
-Makawide's diversity stands out even by Lembeh standards. Pygmy seahorses (Hippocampus bargibanti and H. denise) are found on gorgonian sea fans in the coral patch areas — extremely small, perfectly camouflaged, and invisible without expert guide assistance. Ornate and robust ghost pipefish are regular sightings, drifting near feather stars and crinoids. Mantis shrimp occupy burrows throughout the rubble zones. Various frogfish species — including painted, hairy, and clown frogfish — are distributed across the site. Nudibranchs are abundant and varied. The sandy open areas produce sand-dwelling species including snake eels, stargazers, and the occasional blue-ringed octopus. Flamboyant cuttlefish patrol the mid-slope, and thorny seahorses cling to rubble and low growth.
+Makawide's diversity stands out even by Lembeh standards. Makawide 2 has a pair of pinnacles and is specifically confirmed by operators as excellent for cephalopods, nudibranchs, and rhinopias (lacy scorpionfish). Pygmy seahorses are found on gorgonian sea fans in the coral patch areas. Ornate and robust ghost pipefish are regular sightings, drifting near feather stars and crinoids. Multiple frogfish species — including painted and hairy — are distributed across the site. The sandy open areas produce coconut octopus, flamboyant cuttlefish, and various nudibranch species. Multiple octopus types including mimic octopus are confirmed at this site by dive operators.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The coral patch areas require heightened buoyancy awareness — contact with gor
 Makawide may be the single best all-around macro photography site in the Lembeh Strait for photographers seeking variety in a single dive. Pygmy seahorses demand supermacro technique — a dioptre attachment and steady hand are essential for the 1–2 cm subjects. Ghost pipefish allow more conventional 100mm macro shooting at slightly greater distance. The habitat variety gives photographers a chance to work multiple focal lengths and approaches in one dive. Wide-aperture, supermacro shooting at the coral patch zones with a focus light produces the best pygmy seahorse images.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort Dive Sites](https://lembehresort.com/dive-sites), [Dive The World Lembeh](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-11.*

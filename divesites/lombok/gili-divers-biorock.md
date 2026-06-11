@@ -59,4 +59,4 @@ Standard artificial structure precautions. No touching the frame. Maintain buoya
 Documentary photography of reef restoration progress. Fish portraits against coral-covered steel geometry. Conservation context shots for dive logs and social media.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Gili Eco Trust – Biorock Program](https://www.giliecotrust.com/copie-de-biorock). Gili Divers operator and Biorock program confirmed. Individual structure details not independently published. Last updated 2026-06-11.*

@@ -32,11 +32,11 @@ The coral bowl at Nudi Retreat's shallowest point is the most distinctive struct
 
 ## Marine Life
 
-Nudi Retreat is particularly productive for aeolid nudibranchs, which prey on hydroids — the hydroid-covered rubble patches at this site provide exactly the feeding habitat these species require. Flabellina, Pteraeolidia, and various unidentified aeolid species are documented in good numbers. Dorid nudibranchs feeding on sponge growth add chromatic variety — Glossodoris, Hypselodoris, and Nembrotha species all appear regularly. Beyond nudibranchs, cuttlefish are frequently spotted hunting small shrimp near the rubble, and various frogfish species occupy positions among encrusted debris. Ghost pipefish have been found at this site, and the sandy inter-rubble zones produce mantis shrimp, sand-dwelling gobies with their commensal shrimps, and occasional juvenile fish sheltering in crevices.
+Nudi Retreat is a confirmed site for multiple species of pygmy seahorse — Denise's and Pontohi pygmy seahorses are specifically documented here on gorgonian fans and algae-covered structure. Pegasus sea moths (Eurypegasus draconis) are a signature species here and are regularly reported by visiting divers and operators. Nudibranchs of multiple families are abundant throughout the site's varied habitats. Other confirmed species include frogfish, Banggai cardinalfish, flamboyant cuttlefish, scorpionfish, boxer crabs, blue-ringed octopus (seasonal), Coleman shrimps on poisonous sea urchins, and various reef fish attracted to the soft coral growth.
 
 ## Dive Profile
 
-Work the rubble and hydroid zones between 8 and 18 meters. Hydroid colonies are the key habitat feature to search — locate a large hydroid stand and examine every branch carefully before moving on. The shallower upper sections of the site above 10 meters have the highest hydroid density and thus the most productive aeolid nudibranch hunting. Unlike deeper sites in the strait, the 20-meter maximum allows very generous bottom times of 60 minutes or more, rewarding the patient diver who wants to cover the same ground multiple times.
+Begin in the coral bowl at the shallowest section of the site, working the soft coral walls from the 2-metre mark downward. The bowl's walls are productive for pygmy seahorses and nudibranchs. Then transition to the encrusted boulder zone in the mid-section between 10 and 20 metres. The deeper sand slope extends to 29 metres at the far end — this section produces blue-ringed octopus and sand-dwelling species when conditions favour. The site's variety means a guide can design a different route on each consecutive dive.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Access by banca boat. Entry via back roll or giant stride. Navigate with your gu
 
 ## Tips and Recommendations
 
-- Nudi Retreat pairs naturally with Nudi Falls for a full nudibranch-focused dive day — plan a surface interval between them and approach each with fresh eyes
-- Hydroid stands require careful examination — aeolid nudibranchs feeding on hydroids are often the same colour as their prey and require close scrutiny to detect
-- The shallower profile here makes it a better site than Nudi Falls for photography lighting, as surface light penetrates more evenly throughout the dive zone
-- Ask your guide to note the nudibranch species they find — experienced Lembeh guides can identify nudibranchs on sight that most divers cannot distinguish from their surroundings
-- Multiple passes over the same section of rubble on a single dive frequently reveal additional species missed the first time
+- Nudi Retreat pairs naturally with Nudi Falls for a nudibranch-focused dive day — they are in close proximity and have different species profiles, making a combined day productive
+- Pygmy seahorses at Nudi Retreat require a guide who knows the specific fans — ask to be taken to Pontohi and Denise's locations specifically, as these smaller species are almost impossible to find without expert guidance
+- The coral bowl at the top of the site is accessible even to snorkellers — the soft coral walls rise to within 2 metres of the surface
+- Pegasus sea moths are a distinctive and photogenic target here — ask your guide for them specifically as they are regularly present but easily missed
+- The deeper 25–29 metre section is worth a brief visit for blue-ringed octopus sightings; manage air carefully on the ascent
 
 ## Safety Considerations
 
-Intermediate difficulty is appropriate due to mild current potential and the need for solid buoyancy control on the hydroid-covered bottom. Hydroids and certain nudibranchs can cause skin irritation on contact — do not touch anything, and avoid dragging equipment across hydroid stands. Standard blue-ringed octopus awareness applies throughout Lembeh. Carry an SMB.
+Intermediate difficulty is appropriate due to the site's depth range reaching 29 metres and mild current potential. Monitor no-decompression limits at the deeper end. The soft coral walls are delicate — do not touch or brush against them. Standard blue-ringed octopus awareness applies; the deeper sandy section is where they are most commonly reported. Carry an SMB.
 
 ## Photography
 
-The hydroid habitat at Nudi Retreat creates distinctive photographic backdrops — aeolid nudibranchs photographed against the branching hydroid structure produce complex, layered images that differ from the clean-sand shots typical of other Lembeh sites. Supermacro with a dioptre attachment reveals extraordinary detail in the gill plumes and preference markings of aeolid species. A diffused strobe or ring flash reduces harsh shadows in the intricate hydroid structure. The shallower depth improves ambient light availability throughout the dive.
+The coral bowl and shallow soft coral walls provide excellent natural light for photography in the upper sections of the site — ambient light is available much closer to the surface here than at the strait's pure sand slope sites. Pegasus sea moths are one of the most photogenic macro subjects in Lembeh, with their elaborate wing-like pectoral fins. Pygmy seahorse supermacro photography on the gorgonian fans requires a dioptre attachment and a guide-steady pointer to locate the 1–2 cm subjects. The encrusted boulders in the mid-section provide complex background textures for nudibranch portraiture.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort - Nudi Retreat Dive Site](https://www.lembehresort.com/divesites/nudi-retreat), [Dive The World Lembeh](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Infinite Blue Dive Travel - Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-06-11.*

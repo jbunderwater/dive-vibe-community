@@ -25,7 +25,7 @@ Shallow Turbo, to the south of this site, covers the same reef system at shallow
 
 - **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle (coral sea mounds on sandy bottom)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 m (current-swept)

@@ -25,7 +25,7 @@ The coral block on the east side of Gili Air drops from 5–18 m with anemone-co
 
 - **Location**: East side of Gili Air (harbour area), Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive (macro site)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m

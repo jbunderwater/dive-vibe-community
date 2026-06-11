@@ -59,4 +59,4 @@ Do not touch the metal frame — sharp edges possible. Maintain buoyancy near th
 The artificial reef geometry with growing coral creates unique subjects. Fish portraits against the coral-covered frame. Conservation documentation shots showing reef restoration progress.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Bale Sampan Bungalows – About](https://www.balesampanbungalows.com/about), [Gili Eco Trust – Biorock Program](https://www.giliecotrust.com/copie-de-biorock). Bale Sampan resort Biorock structures confirmed (sampan-shaped and octopus-shaped frames). Individual dive site-level details not independently published. Last updated 2026-06-11.*

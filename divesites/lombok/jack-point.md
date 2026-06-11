@@ -2,8 +2,8 @@
 name: Jack Point
 lat: -8.337684
 lng: 116.0255805
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 24
 entryType: boat
 siteType: drift
 ref: null
@@ -13,30 +13,34 @@ addedBy: osm_import
 
 ## Jack Point
 
-Gili Trawangan's western drift dive where jackfish schools and reef sharks congregate at the current-swept central headland.
+A deep canyon dive on the north/northeast of Gili Trawangan — long canyon structures with schools of jacks, barracuda, reef sharks, and stingrays for advanced divers.
 
 ## Overview
 
-Jack Point is at the central western coastline of Gili Trawangan, where the drift currents from north and south converge at the point, creating dense fish aggregations — particularly of jackfish (trevally) that circle the headland in large schools. Divers approach at depth and ascend to observe the schools before being carried around the point. Blue-spotted stingrays, cuttlefish, chromis, and colourful reef fish inhabit the reef flats above the point in the shallows. The site can be dived at three depth levels — deep, midwater, and shallow — making it flexible for different experience levels. Accessible to Lombok day-trip boats.
+Jack Point is located on the north or northeast side of Gili Trawangan, where two coral ridges stretch westward, separated by white sand, and drop down to around 24 m. The site is characterised by long canyon structures and is the deepest entry point to the Shark Point system. Strong currents and depth restrict this site to advanced divers or those completing a Deep Specialty or Deep Adventure course. Schools of bigeye trevally (jackfish), barracuda, blue-spotted stingrays, and whitetip reef sharks are the main marine life encounters. Eagle rays, devil rays, and manta rays are occasionally sighted here as well.
+
+**Note:** Only 2 independent sources were found for this site by name. A 3rd source could not be confirmed. Description above is based on available research but site remains unvalidated in the JSON.
 
 ## Site Information
 
-- **Location**: West Gili Trawangan, accessible from Lombok
+- **Location**: North/northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Strong at the point; drift conditions
+- **Current**: Strong; drift conditions
 - **Best Time**: May to October
 
 ## Marine Life
 
-Dense schools of jackfish and bigeye trevally at the point. Reef sharks cruise the current-swept headland. Blue-spotted stingrays on sandy patches. Cuttlefish in the shallows. Chromis, basslets, and reef fish in the upper reef zone at 5–12 m.
+Dense schools of bigeye trevally (jackfish) and barracuda at the canyon entry. Whitetip reef sharks. Blue-spotted stingrays and Tahitian stingrays on sandy patches. Schooling snappers and humpback snapper in the canyons. Eagle rays, devil rays, and manta rays occasionally sighted in the open water.
+
+*Marine life based on 2 operator sources. No 3rd independent source confirmed for this site.*
 
 ## Dive Profile
 
-Approach the point from upstream at 15–20 m. Observe the jackfish schools concentrated at the tip. Ascend via the upper reef flats in the shallows before being carried around the point. Drift carefully — being swept around the point into open water should be avoided if possible.
+Approach the point from upstream at 15–24 m. Observe the jackfish schools concentrated in the canyon. The site offers three depth levels — deep, midwater, and shallow — allowing divers to adjust based on experience and gas supply. Ascend via the upper reef sections. Coordinate carefully with the boat for drift pickup.
 
 ## Entry and Exit
 
@@ -44,19 +48,18 @@ Boat from Lombok or Gili Trawangan operators. Drift entry. Close boat coordinati
 
 ## Tips and Recommendations
 
-- Time entry for moderate current — too strong and the point cannot be approached safely
-- The shallow 5–12 m section around the headland is the most accessible drift option
-- Cuttlefish encounters at 3–8 m in the shallows are a highlight of the upper section
-- Accessible from Lombok as part of a full-day Gili Islands dive trip
-- Neap tides significantly reduce the current intensity at the point
+- Advanced Open Water certified minimum; Deep Specialty or Nitrox diving recommended
+- Time entry for moderate current — too strong and the canyons cannot be entered safely
+- Only dive with local operators who know this site's current patterns
+- Neap tides significantly reduce current intensity
 
 ## Safety Considerations
 
-Strong current at the headland can sweep divers into open water. Plan to end the dive before the point tip and surface in the shallower reef area. Always carry an SMB. Coordinate the pickup point with the boat crew before descending.
+Strong current in the canyons. This site is restricted to divers with advanced certification and experience. Do not exceed planned depth. Always carry an SMB. Coordinate the pickup point with the boat crew before descending.
 
 ## Photography
 
-Jackfish school density at the point produces compelling wide-angle images. Cuttlefish in the shallows are approachable portrait subjects. Reef shark silhouettes against the open water suit wide-angle.
+Jackfish and barracuda school density in the canyon suits wide-angle. Reef shark silhouettes at the canyon mouth. Stingrays on the sandy floor between ridges.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Diversia Diving – Jack Point](https://diversiadiving.wixsite.com/diversiadiving/jack-point), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Note: Only 2 independent sources found — site not yet fully validated to 3-source standard. Last updated 2026-06-11.*

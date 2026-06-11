@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-The accessible beginner version of the Turbo dive series — a gentle reef drift in the Gili Islands channel with turtles and reef fish.
+The accessible version of the Turbo dive system on the northeast of Gili Trawangan — sandy bottom with coral heads, pufferfish, garden eels, and ghost pipefish at 18 m.
 
 ## Overview
 
-Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, providing an introduction to drift diving for newly certified Open Water divers. The current-driven reef experience produces fish aggregations typical of the channel — turtles, reef sharks, snapper schools, and clownfish in anemones are regular sightings. The shallow depth profile allows extended bottom time and a relaxed diving pace suitable for building confidence with drift conditions before progressing to more exposed offshore sites. Accessible as a day trip from Lombok.
+Shallow Turbo is on the northeast side of Gili Trawangan, forming the shallower portion of the Turbo dive system (Deep Turbo is the adjacent deeper site). The site features a sandy bottom with distinctive coral head formations, and the gentle current creates a pleasant drift experience suitable for newly certified Open Water divers. Pufferfish, batfish, turtles, garden eels, and ghost pipefish are the reliable marine life encounters. Depth is 18 m maximum, providing generous bottom time.
 
 ## Site Information
 
-- **Location**: Gili Islands channel, accessible from Lombok
+- **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,13 @@ Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, provid
 
 ## Marine Life
 
-Turtles reliably sighted on the upper reef. Reef sharks occasionally cruise the outer sections. Snapper and fusilier schools in the current. Clownfish in anemones throughout the reef. Cuttlefish hover near coral heads. Moray eels in crevices.
+Pufferfish around coral heads. Batfish in small groups. Sea turtles reliably encountered. Garden eels in the sandy substrate. Ghost pipefish among sparse algae and coral debris. Unicornfish.
+
+*Species confirmed by local dive operators at this specific northeast Gili Trawangan site. Deep Turbo (adjacent) has additional pelagic and shark encounters at greater depth.*
 
 ## Dive Profile
 
-Descend to 10–18 m and drift gently with the current along the reef slope. Spend time at the coral formations between 6–15 m for the best turtle and fish encounters. Ascend gradually. Complete a 3-minute safety stop before the drift boat pickup.
+Descend to the sandy substrate at 10–18 m and drift gently with the current along the coral heads. Examine coral formations for pufferfish and search the sandy zones for garden eels and ghost pipefish. Ascend gradually. Complete a 3-minute safety stop before drift pickup.
 
 ## Entry and Exit
 
@@ -44,19 +46,18 @@ Boat from Lombok or Gili Islands operators. Gentle drift. SMB essential for drif
 
 ## Tips and Recommendations
 
-- Ideal for first drift dive experience before progressing to deeper sites
-- Turtles are the reliable highlight accessible to beginner divers throughout
-- Accessible from Lombok mainland as a day trip to the Gili Islands
-- Neap tides make the current very manageable even for anxious beginners
-- Combine with Meno Wall or Turtle Point for a two-site Gili Islands day
+- Ideal first drift dive experience before progressing to Deep Turbo
+- Turtles are reliably encountered throughout
+- The coral head formations provide good buoyancy practice for beginner divers
+- Combine with Deep Turbo for a full northeast Gili Trawangan day
 
 ## Safety Considerations
 
-Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Reef sharks are non-aggressive. Always dive with a buddy.
+Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Reef sharks are occasionally sighted but non-aggressive.
 
 ## Photography
 
-Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones at close range. Natural light in 6–15 m provides vivid coral colour without strobe.
+Garden eels on the sandy bottom suit macro or close-focus wide-angle. Ghost pipefish camouflage challenges. Pufferfish portraits with coral context. Natural light at 10–15 m provides vivid colour.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Stingray Divers – Shallow Turbo](https://www.trawanganstingraydivers.com/dive-site/dive-site-gili-trawangan/shallow-turbo/), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [SSI Dive Guide – Shallow Turbo](https://www.divessi.com/en/mydiveguide/divesite/shallow-turbo-hallo-reef-gili-trawangan-halik-t-lombok-indonesia-134717). Last updated 2026-06-11.*

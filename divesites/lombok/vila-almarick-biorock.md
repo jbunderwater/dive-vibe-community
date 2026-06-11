@@ -59,4 +59,4 @@ Standard artificial structure precautions. Maintain buoyancy to protect coral gr
 Each structure has slightly different coral and fish character. The shallower position here allows excellent natural light photography. Wide-angle captures the structure scale in context with the reef.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Gili Eco Trust – Biorock Program](https://www.giliecotrust.com/copie-de-biorock), [Trawangan Dive – Biorock Courses](https://www.trawangandive.com/eco-diver/courses/). Vila Almarik resort and Biorock program confirmed; individual structure-level details not independently published. Last updated 2026-06-11.*

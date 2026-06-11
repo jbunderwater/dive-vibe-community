@@ -29,8 +29,8 @@ Over the years the structure has been completely colonised by soft and hard cora
 
 - **Location**: Off the coast of Gili Meno (location described as south-west by most operators; OSM coordinate indicates northwest — discrepancy unresolved)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (pontoon/artificial reef)
-- **Difficulty Level**: Intermediate (accessible to Open Water divers throughout the wreck)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Shallowest Point**: Sources report 6–9 m (sources disagree; confirmed to be very shallow)
 - **Typical Visibility**: 15–25 m

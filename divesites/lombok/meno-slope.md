@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Meno Slope
 
-A gentle sloping reef on the south side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
+A gentle sloping reef on Gili Meno — a relaxed intermediate dive with diverse coral and resident turtles.
 
 ## Overview
 
-Meno Slope is a gently inclining reef on the southern side of Gili Meno, offering a more relaxed alternative to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 30 m and features a good mix of hard and soft coral formations with healthy fish populations. The moderate conditions make it a comfortable intermediate dive, and turtles are regularly sighted grazing along the reef crest. The site works well as a second or third dive of the day when a more relaxed dive profile is desired.
+Meno Slope is a gently sloping sandy reef on Gili Meno, offering a more relaxed alternative to the stronger current sites on the island. The slope features coral formations with reef fish, and turtles are regularly encountered. Blue-striped snappers school on the mid-slope, and reef sharks are occasionally sighted at the base. The comfortable conditions make it suitable as a second or third dive of the day.
+
+**Note:** Only 2 independent sources were found for this site. Description above is based on available research but site remains unvalidated in the JSON.
 
 ## Site Information
 
-- **Location**: South side of Gili Meno, Gili Islands / Lombok
+- **Location**: Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +34,13 @@ Meno Slope is a gently inclining reef on the southern side of Gili Meno, offerin
 
 ## Marine Life
 
-Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
+Green and hawksbill turtles on the reef crest. Blue-striped snappers on the mid-slope. Reef fish throughout. Reef sharks occasionally sighted at the base of the slope.
+
+*Species based on 2 operator sources. No 3rd independent source confirmed.*
 
 ## Dive Profile
 
-Descend to 20–25 m and explore the deeper coral formations before ascending the slope. The most productive zone for fish life is 8–18 m. Spend time on the reef crest in the shallows for turtle encounters. Complete a 3-minute safety stop before the ascent.
+Descend to the reef and follow the slope. The productive zone for fish life is 8–18 m. Spend time on the reef crest in the shallows for turtle encounters. Complete a 3-minute safety stop before the ascent.
 
 ## Entry and Exit
 
@@ -44,19 +48,17 @@ Boat from Gili Meno or Lombok operators. Entry via back roll. Mild current. SMB 
 
 ## Tips and Recommendations
 
-- Works well as a relaxed afternoon dive contrasting with stronger current morning dives
+- Works well as a relaxed afternoon dive after stronger current morning dives
 - Search the reef crest shallows carefully for turtle activity
-- Combine with Meno Corner and Bounty Wreck for a comprehensive Gili Meno diving day
-- The deeper sections at 25–30 m are worth exploring for larger groupers and occasional sharks
-- Accessible to intermediate Open Water divers in the main 8–20 m zone
+- Combine with Meno Corner and Bounty Wreck for a Gili Meno diving day
 
 ## Safety Considerations
 
-Currents are generally mild but can increase at depth on the outer slope. Maintain depth awareness as the slope continues deeper than recreational limits. Lionfish in coral overhangs — observe without touching. Always carry an SMB.
+Currents are generally mild but can increase at depth on the outer slope. Maintain depth awareness as the slope continues deeper. Always carry an SMB.
 
 ## Photography
 
-Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
+Turtle grazing on the shallow reef crest in natural light. Blue-striped snappers in mid-water. The gentle slope gradient allows careful composition.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [SSI Dive Guide – Meno Slope](https://www.divessi.com/en/mydiveguide/divesite/100222), [Gili Divers – Meno Slope](https://www.gilidivers.com/fun-dives/dive-sites). Note: Only 2 independent sources found — site not yet validated to 3-source standard. Last updated 2026-06-11.*

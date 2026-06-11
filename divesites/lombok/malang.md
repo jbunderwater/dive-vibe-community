@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Malang
 
-Also known as Takat Malang — a collection of large rock formations north of the Gili Islands with gorgonian sea fans, schooling fish, and depths to 40 m for technical and advanced divers.
+Also known as Takat Malang — a collection of large rock formations north of the Gili Islands, with a 15 m plateau leading to overhangs and canyons dropping to 40 m.
 
 ## Overview
 
-Takat Malang (Malang) lies north of the Gili Islands and consists of a collection of large rock formations (Takats) arranged on a sloping bed, beginning with a plateau at 15 m. About 10 major Takats make up the site, each sculpted with overhangs, outcrops, and swim-throughs. The structures are covered in soft and hard coral varieties including very large gorgonian sea fans and table corals. The maximum depth of 40 m places this firmly in the advanced and technical diver category. Sandy bottom passages between Takats are excellent for blue-spotted stingrays and garden eels.
+Takat Malang (Malang) lies north of the Gili Islands, between Gili Air and Gili Meno. The name means "large coral heads" in Indonesian. The site consists of roughly ten major Takats (large rock/coral formations) arranged on a sloping bed, beginning with a plateau at 15 m. Each Takat is sculpted with overhangs, outcrops, and some swim-throughs. The structures are covered in large gorgonian sea fans and table corals. Sandy bottom passages between the Takats hold blue-spotted stingrays and garden eels. The maximum depth of 40 m places this site in the advanced diver category, with moderate to strong currents depending on conditions.
 
 ## Site Information
 
-- **Location**: North of Gili Islands, Lombok region
+- **Location**: North of Gili Islands, between Gili Air and Gili Meno
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
@@ -32,7 +32,9 @@ Takat Malang (Malang) lies north of the Gili Islands and consists of a collectio
 
 ## Marine Life
 
-Very large gorgonian sea fans hosting pygmy seahorses. Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Schooling reef fish throughout the Takat overhangs. Barracuda and trevally in the blue water. Turtles on the upper plateau sections at 15–20 m.
+Large gorgonian sea fans on each Takat structure. Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Eagle rays and stingrays passing in the open water. Scorpionfish, triggerfish, angelfish, and schools of fusiliers around the overhangs. Turtles on the upper plateau sections at 15–20 m.
+
+*Species listed are confirmed by local Gili Islands dive operators at this site. This site is noted as distinct from Turtle Heaven (also near north Gili Meno) — some operators use both names for overlapping areas.*
 
 ## Dive Profile
 
@@ -44,19 +46,18 @@ Boat from Lombok or Gili Islands operators. Entry based on current conditions. A
 
 ## Tips and Recommendations
 
-- Advanced Open Water certified minimum; best with technical diving experience for the 40 m sections
-- One of the top five advanced dives in the Lombok/Gili Islands region
-- Examine gorgonian fans on each Takat for pygmy seahorses — patience required
+- Advanced Open Water certified minimum; technical diving experience useful for the 40 m sections
+- One of the top advanced dives in the Lombok/Gili Islands region
 - Plan no-decompression limits carefully when spending time at 30–40 m
 - Combine with Simon's Reef for a full north Gili Islands advanced day
 
 ## Safety Considerations
 
-The 40 m maximum depth requires advanced certification and careful gas management. Do not exceed planned depth limits on the Takat faces. Strong current possible between Takats. Always carry an SMB. Ascent planning from 40 m requires a minimum 3-minute stop at 5 m and longer if any decompression obligation.
+The 40 m maximum depth requires advanced certification and careful gas management. Do not exceed planned depth limits on the Takat faces. Strong current possible between Takats. Always carry an SMB.
 
 ## Photography
 
-Large gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels suit wide-angle with natural light. The Takat overhangs with soft coral suit strobe-lit wide-angle.
+Large gorgonian sea fans in profile with a diver for scale. Blue-spotted stingrays on the sandy channels suit wide-angle with natural light. The Takat overhangs with soft coral suit strobe-lit wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Gili Divers – Takat Malang](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-11.*

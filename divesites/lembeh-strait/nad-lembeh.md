@@ -32,7 +32,7 @@ The site runs along a sloping black volcanic sand bottom in front of the resort,
 
 ## Marine Life
 
-NAD Lembeh's house reef is one of the most reliable locations in the strait for the Bobbit worm (Eunice aphroditois) — the enormous ambush predator that buries its segmented body in the sand and strikes prey with spring-loaded jaws. The site is well-known for coconut octopus, which are observed regularly carrying shells across the sand. Mantis shrimp — both the smasher and spearer varieties — emerge from burrows throughout the slope. Snake eels retreat tail-first into the sand leaving only their heads visible. Hairy frogfish and painted frogfish are documented residents. The sandy areas between rubble patches frequently harbour blue-ringed octopus, flamboyant cuttlefish in season, and various species of nudibranch.
+NAD-Lembeh Resort lists frogfish, rhinopias, mimic octopus, blue-ringed octopus, wonderpus, flamboyant cuttlefish, hairy frogfish, ghost pipefish, dragonets, and an astonishing variety of nudibranchs as regular sightings across their dive programme. The Bobbit worm (Eunice aphroditois) is found in the Lembeh Strait's muck sites generally; the resort describes them as regular sightings during night diving, and guides are expert at locating burrow openings by their visible antennae. Coconut octopus carrying shells across the sand are a consistent and photogenic house reef resident. Snake eels, mantis shrimp, and various scorpionfish are also regularly found across the sandy slope.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Bobbit worms are a safety consideration unique to this site — their strike is 
 The house reef format allows photographers to return to the same subjects on consecutive dives, which is invaluable for behaviour photography. Bobbit worm photography requires patience — position yourself at eye level with the burrow entrance and wait for the worm to raise its head. Video is particularly effective for capturing strike behaviour. Coconut octopus carrying shells provide excellent behaviour sequences. A 100mm macro lens covers the majority of subjects well; a focus light is essential for burrow photography.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort - All About the Bobbit Worm](https://www.lembehresort.com/dive-center/all-about-the-bobbit-worm/), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-11.*

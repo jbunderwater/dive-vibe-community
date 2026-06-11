@@ -23,7 +23,7 @@ The site's varied topography places it in a different category from Lembeh's pur
 
 - **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with cave swim-through
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)

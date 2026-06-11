@@ -59,4 +59,4 @@ Do not touch the metal frame. Maintain buoyancy. Lionfish venomous. Low-voltage 
 Abstract geometry of steel frame with growing coral. Multiple structure comparison shots showing different colonisation stages. Fish portraits against the coral-encrusted background.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Samba Villas – Resort](https://sambavillas.com/), [Gili Eco Trust – Biorock Program](https://www.giliecotrust.com/copie-de-biorock). Samba Villas resort and Biorock installation confirmed. Individual dive site-level details not independently published. Last updated 2026-06-11.*

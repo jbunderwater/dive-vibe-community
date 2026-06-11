@@ -32,7 +32,7 @@ The site presents a classic Lembeh muck profile: a gently sloping black volcanic
 
 ## Marine Life
 
-TK1 is particularly well-regarded for ornate ghost pipefish, which drift near feather stars and black-sand patches in a range of colour morphs — black, red, and spotted individuals are all regularly found here. Seahorses, including both thorny and Bargibant's pygmy seahorses (on fan corals), are consistent sightings. Nudibranchs are abundant and diverse, with chromodorids, phyllidiids, and aeolids all present across the slope. Frogfish occupy rubble patches and encrusted debris in multiple colour phases. Ribbon eels are occasionally spotted retreating into sand burrows, and juvenile fish of various species shelter in the low-profile rubble throughout the site.
+TK1 is particularly well-regarded for ornate ghost pipefish, which drift near feather stars and black-sand patches in a range of colour morphs — black, red, and spotted individuals are all regularly found here. Sea moths and flying gurnards are documented at this site by operators. Thorny seahorses are regularly spotted. Mimic octopus, wonderpus, coconut octopus, and blue-ringed octopus are all confirmed here — the TK sites collectively represent one of the first locations in the strait where mimic octopus were regularly observed and documented. Nudibranchs are abundant and diverse across the slope. Frogfish occupy rubble patches. Ribbon eels are occasionally spotted retreating into sand burrows. Banggai cardinalfish and mandarinfish are also documented at this site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ TK1 is one of the most accessible and low-hazard sites in Lembeh. The main consi
 TK1 is an ideal introductory macro photography site. Ornate ghost pipefish are among the most photogenic subjects in Lembeh — the intricate fin detail and cryptic colouration reward patient close-up work with a 100mm macro lens. Seahorse portraits are a staple. The site's gentle slope allows photographers to position themselves without fighting current or depth pressure. Shooting supermacro is possible here with wet dioptre attachments for the smallest nudibranch species.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [NAD-Lembeh Resort - TK1](https://www.nad-lembeh.com/blog/lembeh/lembeh-divesites-tk1/), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive The World Lembeh](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php). Last updated 2026-06-11.*

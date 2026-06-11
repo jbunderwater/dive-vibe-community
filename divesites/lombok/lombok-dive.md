@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Lombok Dive
 
-A reef site in the southern Gili Islands accessible from Lombok — diverse coral gardens with resident turtles and macro critters.
+A reef site in the south Gili Islands area — sourced from OSM data; no independent published sources found under this name.
 
 ## Overview
 
-Lombok Dive is a reef site in the waters south of the Gili Islands, accessible from Lombok's northwest coast as well as Gili Air operators. The site offers a tropical coral reef experience with coral gardens, sandy channels, and the marine diversity characteristic of the Gili Islands' Coral Triangle position. The location between Lombok and Gili Air makes it a convenient stop for multi-site dive days. Turtles are regularly encountered, and the sandy patches host macro critters including ghost pipefish and seahorses.
+"Lombok Dive" appears in OSM data as a dive site in the waters south of the Gili Islands. No published dive operator websites, forum reports, or dive databases have been found that identify a dive site by this specific name. The coordinates place it in the channel south of Gili Trawangan. The name may be a generic label applied by the OSM contributor rather than an established named dive site.
+
+*This site has not been validated against independent sources. The description below is based solely on regional diving character and the OSM data.*
 
 ## Site Information
 
@@ -26,37 +28,32 @@ Lombok Dive is a reef site in the waters south of the Gili Islands, accessible f
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–20 m
-- **Current**: Moderate
-- **Best Time**: May to October
+- **Typical Visibility**: Unknown — no source data
+- **Current**: Unknown — no source data
+- **Best Time**: May to October (regional pattern)
 
 ## Marine Life
 
-Turtles grazing on the reef crest. Cuttlefish and octopus over sandy patches. Ghost pipefish in sparse algae. Reef sharks occasionally sighted. Clownfish in anemones, moray eels, parrotfish, and reef fish. Nudibranchs in the coral rubble zones.
+No site-specific marine life data found. Regional fauna for the south Gili Islands / Lombok waters applies: typical Coral Triangle reef fish, turtles, reef sharks, and invertebrates. No species are attributed to this specific named site.
+
+*Description based on regional diving characteristics. No site-specific sources found.*
 
 ## Dive Profile
 
-Descend to 8–15 m and explore the coral gardens. Move slowly over sandy patches between bommies. Follow the slope to 20 m before ascending. Complete a 3-minute safety stop at 5 m.
+No site-specific dive profile data available. Standard reef dive in 20 m depth range.
 
 ## Entry and Exit
 
-Boat from Lombok northwest coast or Gili Air. Moderate current. SMB for ascent.
+Boat from Lombok northwest coast or Gili Air operators.
 
 ## Tips and Recommendations
 
-- An accessible site from Lombok that avoids the longer boat trip to Gili Trawangan
-- Move slowly over sandy patches for ghost pipefish and cuttlefish encounters
-- Combine with Air Wall and Bounty Wreck for a varied Lombok day trip
-- The reef is suitable for intermediate Open Water divers
-- Afternoon dives when boats head back can provide a quieter experience
+- Confirm the site name and location with your operator — "Lombok Dive" may not be a name in local use
+- GPS coordinate accuracy uncertain per OSM source note
 
 ## Safety Considerations
 
-Standard reef dive precautions. Currents are moderate. Lionfish in overhangs. Maintain buoyancy above coral. Always carry an SMB.
-
-## Photography
-
-Cuttlefish and octopus over sandy substrate. Turtle portraits in natural light. Ghost pipefish require macro close-up. Clownfish in anemones for accessible portrait subjects.
+Standard intermediate reef precautions.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-06-11.*

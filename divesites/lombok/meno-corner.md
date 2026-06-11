@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Meno Corner
 
-The northeastern tip of Gili Meno — a turtle-rich pinnacle and slope where sea turtles gather in the surrounding sea grass and coral.
+The northeastern tip of Gili Meno — a slope and wall system with sea turtles and macro invertebrates, accessible from Lombok.
 
 ## Overview
 
-Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, all sides covered in corals. This is the main turtle habitat area on Gili Meno, where green and hawksbill turtles congregate in the sea grass beds and on the reef slope. A notable bonus is the nearby Bounty Wreck (Meno Wreck), sitting just off the coast and covered in soft coral. Together, these two adjacent sites make Gili Meno one of the standout dive destinations in the Lombok/Gili Islands area.
+Meno Corner is located at the northeastern tip of Gili Meno. The site features a slope leading to wall sections descending from 5 m to 18 m, with a steep sandy slope extending deeper. The area between the two wall sections has patchy coral gardens that suit muck-style searching for invertebrates including spiny lobsters, sea slugs, porcelain crabs, and cowrie shells. Green sea turtles, clownfish, and reef fish are found throughout. Whitetip reef sharks and spotted eagle rays occasionally pass on the outer sections. Current at the corner can be strong on spring tides.
+
+**Note:** Only 1 independent source was found for this specific site by name. Description above is based on available research but site remains unvalidated in the JSON.
 
 ## Site Information
 
@@ -32,31 +34,31 @@ Meno Corner is located at the northeastern tip of Gili Meno and is one of the be
 
 ## Marine Life
 
-Green and hawksbill turtles in numbers — among the best turtle encounters in the entire Gili Islands. The pinnacle hosts reef fish typical of the Gili Islands — parrotfish, triggerfish, sweetlips, and moray eels. Reef sharks are occasionally seen on the deeper pinnacle sections. Blue-spotted stingrays on sandy patches.
+Green and hawksbill turtles. Spiny lobsters, sea slugs, porcelain crabs, and cowrie shells in the wall crevices and sandy slope — a macro lover's corner. Clownfish in anemones. Angelfish and reef fish throughout. Whitetip reef sharks and spotted eagle rays occasionally on the outer sections.
+
+*Species based on 1 operator source. Description based on available research; no additional independent sources found.*
 
 ## Dive Profile
 
-Descend to the slope at 10–15 m and follow it to the pinnacle at 20–30 m. Spend time on the sea grass and reef patches searching for turtles before the pinnacle. Ascend via the shallower reef sections and complete a 3-minute safety stop.
+Descend to the slope at 10–15 m and follow the wall sections. Search the sandy slope and crevices between walls for macro invertebrates. Ascend via the shallower reef sections and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Boat from Gili Meno or Lombok operators. The corner has variable current — follow your guide's entry timing recommendation. SMB for drift ascent.
+Boat from Gili Meno or Lombok operators. Variable current at the corner — follow your guide's timing recommendation. SMB for drift ascent.
 
 ## Tips and Recommendations
 
-- Combine Meno Corner and Bounty Wreck in the same diving day for a comprehensive Gili Meno experience
-- Move slowly across the sea grass patches — turtles are often camouflaged among the blades
-- Best dived early in the morning when turtles are most active on the reef
-- The pinnacle drops to 30 m and is worth a deeper visit for advanced divers
-- Accessible from Lombok mainland as part of a Gili Islands day trip
+- Combine Meno Corner and Bounty Wreck in the same day for a Gili Meno experience
+- Search the crevices in the wall carefully for lobsters and sea slugs
+- Current at the corner can be strong on spring tides — monitor conditions
 
 ## Safety Considerations
 
-Current at the corner can be strong, particularly on spring tides. Stay close to the pinnacle for reference and do not let the current carry you away from it. Always carry an SMB. Turtles should not be approached from above.
+Current at the corner can accelerate on spring tides. Stay close to the wall for reference. Always carry an SMB.
 
 ## Photography
 
-Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
+Macro invertebrates in crevices — lobster, porcelain crab, sea slug close-ups. Turtle encounters with the wall background. Eagle ray silhouettes in the blue.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Stingray Divers – Gili Meno](https://www.trawanganstingraydivers.com/dive-site/gili-meno/). Note: Only 1 independent source found for this site by name — site not yet validated to 3-source standard. Last updated 2026-06-11.*

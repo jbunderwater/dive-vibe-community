@@ -3,7 +3,7 @@ name: Simons Reef
 lat: -8.3347077
 lng: 116.065643
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Simons Reef
 
-A deep offshore reef north of the Gili Islands with dramatic canyons, massive gorgonian sea fans, and pelagic encounters for advanced divers.
+A deep advanced site north of the Gili Islands — canyons, large coral bommies, massive gorgonian sea fans, and strong channelling currents.
 
 ## Overview
 
-Simon's Reef is one of the premier advanced dive sites accessible from Lombok, sitting north of the Gili Islands chain. Canyons spread across the site with large coral bommies rising from the sandy bottom, and massive gorgonian sea fans are the defining visual feature — the best spot on the reef for hunting pygmy seahorses with the eye. The channelling currents bring large and varying schooling fish, pelagic species, and create the dynamic conditions that attract experienced divers. Barrel sponges and vibrant soft corals complete the visual spectacle at depth.
+Simon's Reef sits north of the Gili Islands chain. The site is built around canyons with large coral bommies rising from the sandy bottom, and massive gorgonian sea fans are the defining visual feature — reported by multiple operators as the best place in the area to hunt for pygmy seahorses with a knowledgeable guide. Strong, channelling currents through the canyons bring large schooling fish, pelagic species, and create the conditions that draw experienced divers. Maximum depth reaches 40 m. Barrel sponges and soft corals complete the site's visual character.
+
+Banded sea snakes have been sighted at this site by at least two operator sources, though sightings are not guaranteed.
 
 ## Site Information
 
@@ -25,18 +27,20 @@ Simon's Reef is one of the premier advanced dive sites accessible from Lombok, s
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong; channelling through canyons
 - **Best Time**: May to October
 
 ## Marine Life
 
-Massive gorgonian sea fans hosting Bargibanti pygmy seahorses. Barrel sponges providing habitat for shrimps and small fish. Schools of snapper, fusiliers, and jack in the canyon currents. Pelagic species including trevally and barracuda. Reef sharks on the outer reef. Turtles on the shallower bommies.
+Massive gorgonian sea fans — the primary habitat feature. Pygmy seahorses in gorgonian fans (confirmed by local operators, patience and a skilled guide required). Barrel sponges. Schools of fusiliers, snappers, and jacks in the canyon currents. Reef sharks on the outer reef. Turtles on the shallower bommies. Banded sea snakes sighted here by multiple operators.
+
+*All species listed are confirmed at this site by local Gili Islands dive operators. Pygmy seahorses require an experienced guide to locate.*
 
 ## Dive Profile
 
-Descend to the canyon systems at 20–30 m and navigate between the coral bommies. Spend time examining the large gorgonian fans for pygmy seahorses. Allow the channelling current to carry you between canyon sections. Ascend to the shallower bommies before the safety stop.
+Descend to the canyon systems at 20–40 m and navigate between the coral bommies. Spend time examining the large gorgonian fans for pygmy seahorses. Allow the channelling current to carry you between canyon sections. Ascend to the shallower bommies before the safety stop.
 
 ## Entry and Exit
 
@@ -46,8 +50,7 @@ Boat from Lombok or Gili Islands operators. Entry timing based on current condit
 
 - Advanced Open Water certified divers with canyon and current experience
 - Examine gorgonian fans methodically — pygmy seahorses require patience and a trained eye
-- The canyon geography rewards multiple dives — each visit reveals new passages
-- One of the best deep dives accessible from Lombok's northwest coast
+- Depth and strong currents make this a dive to attempt only with local expert guides
 - Combine with Deep Turbo for a full day of advanced Lombok/Gili channel diving
 
 ## Safety Considerations
@@ -56,7 +59,7 @@ Channelling currents in the canyons can be strong and difficult to predict. Know
 
 ## Photography
 
-Massive gorgonian sea fans are the feature subject — wide-angle close-focus captures their full size. Pygmy seahorses require macro lens and skilled guide to locate. Canyon walls with schooling fish suit wide-angle.
+Massive gorgonian sea fans are the feature subject — wide-angle close-focus captures their scale. Pygmy seahorses require macro lens and a guide to locate. Canyon walls with schooling fish suit wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Dive Central Gili – Simon's Reef](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air), [Gili Divers – Simons Reef](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-11.*

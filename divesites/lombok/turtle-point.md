@@ -5,7 +5,7 @@ lng: 116.0437832
 difficulty: Beginner
 maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 6750981689
 addedBy: osm_import
@@ -13,17 +13,19 @@ addedBy: osm_import
 
 ## Turtle Point
 
-A pinnacle on Gili Trawangan's northeast side where green and hawksbill turtles gather in numbers — accessible from Lombok as a day trip.
+A large coral hill on the northeast side of Gili Trawangan where green and hawksbill turtles gather in numbers — upper sections accessible to beginners.
 
 ## Overview
 
-Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle drops from 10 m to 35 m and is used by both green and hawksbill turtles as a feeding and resting area. Multiple turtle encounters in a single dive — sometimes 10 or more — are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip, making it one of the most achievable bucket-list dives in the Lombok area for visiting divers.
+Turtle Point is a large coral hill (pinnacle) on the northeast side of Gili Trawangan. The structure starts at 10 m and drops to 35 m, with coral formations throughout. The site is primarily known for high turtle density: both green and hawksbill turtles use the site as a feeding and resting area, and multiple encounters in a single dive are typical. The upper sections at 10–18 m are accessible to beginner divers and are where turtle encounters are most concentrated. Advanced divers can explore the deeper sections of the hill to 35 m.
+
+Anemones, clownfish, mantis shrimp, octopus, garden eels, ghost pipefish, and pufferfish are also found here. Reef sharks are occasionally seen on the deeper sections.
 
 ## Site Information
 
 - **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m
@@ -32,31 +34,33 @@ Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has beco
 
 ## Marine Life
 
-Green and hawksbill turtles in substantial numbers — a standout site in the Gili Islands for turtle density. Reef sharks on the deeper pinnacle sections. Reef fish diversity throughout. Nudibranchs and cleaner shrimps on the coral surface. Barracuda and trevally in the blue water.
+Green and hawksbill turtles in substantial numbers — multiple encounters per dive are typical. Pufferfish, batfish, and unicornfish around the coral heads. Anemones with clownfish. Mantis shrimp, octopus. Garden eels on the sandy base. Ghost pipefish. Nudibranchs in rubble. Reef sharks occasionally on the deeper sections.
+
+*Species confirmed by local dive operators at this specific site. Turtle density is consistently high.*
 
 ## Dive Profile
 
-Descend the mooring line to the pinnacle and begin exploring the upper sections at 10–18 m where turtles are most concentrated. Advanced divers can explore deeper pinnacle sections. Ascend slowly to the pinnacle top for the safety stop.
+Descend to the pinnacle top at 10 m and explore the upper sections where turtles are most concentrated. Move very slowly along the coral face to avoid startling turtles. Advanced divers can extend to 25–35 m. Ascend slowly to the pinnacle top for the safety stop.
 
 ## Entry and Exit
 
-Boat from Lombok or Gili Trawangan operators. Descent on mooring line. SMB for open water ascent.
+Boat from Lombok or Gili Trawangan operators. Descent on mooring line or via the coral hill. SMB for open water ascent.
 
 ## Tips and Recommendations
 
-- One of the highest-value day trip sites accessible from Lombok
 - Move very slowly along the pinnacle face — turtles stay if not startled
-- Multiple turtle encounters are almost guaranteed on most dives
-- Combine with Trawangan Wall for a full northeast and northwest Gili Trawangan day
-- Accessible to beginner Open Water divers in the upper pinnacle sections
+- Multiple turtle encounters are consistently reported on most dives at this site
+- One of the highest-value day trip sites accessible from Lombok
+- Combine with Shallow Turbo or Deep Turbo for a full northeast Gili Trawangan day
+- Beginner divers should stay on the upper sections in 10–18 m
 
 ## Safety Considerations
 
-Variable current on the pinnacle. Beginners should stay on the upper sections in calmer water. Do not descend beyond certification depth. Do not touch or chase turtles. Always carry an SMB.
+Variable current on the pinnacle. Beginners should stay on the upper sections in calmer water. Do not descend beyond certification depth. Do not touch or chase turtles — maintain respectful distance from above. Always carry an SMB.
 
 ## Photography
 
-Multiple turtles together in one frame. Turtle eye-level portraits with pinnacle coral background. Wide-angle captures the pinnacle scale with turtles and reef sharks in context.
+Multiple turtles together in one frame is the standout shot. Turtle eye-level portraits against the coral pinnacle background. Wide-angle at the coral top with turtles and reef context. Clownfish in anemones at close range.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Stingray Divers – Turtle Point / Shallow Turbo](https://www.trawanganstingraydivers.com/dive-site/dive-site-gili-trawangan/shallow-turbo/), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Turtle Point](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-11.*

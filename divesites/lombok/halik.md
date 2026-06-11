@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## Halik
 
-A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, eagle rays, and good shark activity — accessible from Lombok operators.
+A northwest Gili Trawangan drift reef starting at 6 m with large barrel sponges — eagle rays, reef sharks, and bumphead parrotfish in strong channel current.
 
 ## Overview
 
-Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
+Halik Reef runs along the northwest side of Gili Trawangan. The reef begins at around 6 m with enormous barrel sponges and gorgonian sea fans, dropping through coral ridges and canyons to 40 m for advanced divers. The consistent current makes it an ideal drift dive: eagle rays pass in mid-water, white and blacktip reef sharks cruise the outer reef, and giant trevally and large snapper schools fill the current-swept sections. Anemone fields with clownfish are found throughout the upper reef. On full-moon dives, bumphead parrotfish have been seen schooling on this site.
+
+In the shallows, large bommies and antler coral host baby whitetip reef sharks. Turtles, reef octopus, cuttlefish, and moray eels appear in the 10–18 m zone. The Glenn Nusa tugboat wreck lies on the sandy bottom at 28 m between Halik and Shark Point — accessible as part of a combined dive for Advanced divers.
+
+The Trawangan Wall site in this database (OSM ID 2400061876) appears to be an overlapping or adjacent section of the same Halik reef system, based on coordinates and operator descriptions.
 
 ## Site Information
 
@@ -27,16 +31,18 @@ Halik Reef runs along the northwest side of Gili Trawangan and is dived as a dri
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
+- **Current**: Moderate to strong; consistent drift
 - **Best Time**: May to October
 
 ## Marine Life
 
-Eagle rays in mid-water are a defining feature of this reef. White and blacktip reef sharks. Schools of snapper and giant trevally. Giant barrel sponges hosting shrimps and small fish. Extensive anemone fields with clownfish. Lionfish in overhangs. Turtles throughout.
+Eagle rays in mid-water — a defining and reliable feature of this reef. White and blacktip reef sharks. Giant trevally hunting in the current. Snapper schools. Anemone fields with clownfish. Baby whitetip reef sharks in the shallow bommie zone. Enormous barrel sponges from 6 m hosting shrimps and small fish. Bumphead parrotfish on full-moon dives (confirmed). Turtles, reef octopus, cuttlefish, and moray eels throughout.
+
+*All species listed are confirmed at this specific site by multiple local dive operators.*
 
 ## Dive Profile
 
-Enter upstream of the reef and drift with the current. Stay at 10–20 m for the best combination of reef features and pelagic sightings. The barrel sponge zone at 6–10 m rewards a shallower drift. Ascend progressively with the current and complete the safety stop drifting in the upper water column.
+Enter upstream and drift with the current. Stay at 10–20 m for the best combination of reef features and pelagic sightings. The barrel sponge zone at 6–10 m rewards a shallower drift. Ascend progressively with the current and complete the safety stop drifting in the upper water column.
 
 ## Entry and Exit
 
@@ -44,11 +50,10 @@ Boat from Lombok or Gili Trawangan operators. Drift entry and pickup. SMB mandat
 
 ## Tips and Recommendations
 
-- Day trips from Lombok to the Gili Islands often include Halik as one of the featured sites
-- The giant barrel sponges at 6–10 m are worth slowing down to examine carefully
-- Eagle ray sightings are common enough to plan on them rather than hope for them
-- Accessible to intermediate Open Water divers in the 10–18 m range
-- Combine with Shark Point or Turtle Point for a full northwest Gili Trawangan day
+- Eagle ray sightings are reliable enough to plan on rather than hope for
+- The giant barrel sponges at 6–10 m are worth slowing down to examine — they host small fish communities
+- Full-moon dives are the best chance for bumphead parrotfish encounters at this site
+- Combine with Shark Point for a full northwest Gili Trawangan day
 
 ## Safety Considerations
 
@@ -56,7 +61,7 @@ Drift current is always running. Do not fight against it. Be prepared to surface
 
 ## Photography
 
-Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
+Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Baby whitetip sharks in bommie coral at 6–10 m suit wide-angle in natural light.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Halik](https://www.gilidivers.com/fun-dives/dive-sites), [Dive Central Gili – Halik](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air). Last updated 2026-06-11.*
