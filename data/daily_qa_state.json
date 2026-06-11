@@ -1019,6 +1019,90 @@
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/88",
       "errors": [],
       "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
+    },
+    {
+      "date": "2026-06-11",
+      "slugs": [
+        "la-paz-sea-of-cortez",
+        "lembeh-strait",
+        "lombok",
+        "lord-howe-island",
+        "los-cabos",
+        "madagascar"
+      ],
+      "summary": {
+        "sites_total": 73,
+        "sites_validated_today": 31,
+        "sites_re_audited": 49,
+        "hallucinations_removed": 23,
+        "marine_life_stripped": 13,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 18,
+        "by_destination": {
+          "la-paz-sea-of-cortez": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Los Islotes whale shark removed; La Reina manta count corrected 8+->4; San Rafaelito sea lion colony conflict documented; Fang Ming length 54-56m conflict"
+          },
+          "lembeh-strait": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Police Pier pier-structure fabrication removed; Hairball name origin corrected; TK1 pygmy seahorse attribution removed; Angels Window muck->pinnacle; 6 depth corrections"
+          },
+          "lombok": {
+            "sites_total": 25,
+            "sites_validated_today": 12,
+            "sites_re_audited": 1,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 12,
+            "notes": "Air Wall location corrected; Meno Wall location corrected; Bounty sinking year/depth/location conflicts documented; Frog Fish Point reef->muck; Turtle Point reef->pinnacle; Teluk NBoro reef->muck; 5 biorock sites unresolved"
+          },
+          "lord-howe-island": {
+            "sites_total": 8,
+            "sites_validated_today": 7,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "Ball's Pyramid distance/direction corrected; Ballina Angelfish depth claim removed; Malabar Reef unconfirmed species stripped; Sylph's Hole padding removed; North Bay Dropoff reverted to validated=false; Tenth of June depth 30->36m; Malabar Reef Beginner->Intermediate"
+          },
+          "los-cabos": {
+            "sites_total": 13,
+            "sites_validated_today": 10,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Land's End Harry Lundeberg wreck identified; Neptune's Finger cleaning station species corrected; Gordo Banks distance conflict documented; El Salinar vessel identity unresolved validated->false; Pelican Rock wall->reef"
+          },
+          "madagascar": {
+            "sites_total": 4,
+            "sites_validated_today": 2,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Shark Point 20->50m depth; bench snapper (fictional species) removed; 7m manta wingspan corrected; Manta divesite wall->reef; Rosado Beginner difficulty corrected; Chameau vessel identity unresolved; Rosado name may be Rosario"
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
     }
   ]
 }

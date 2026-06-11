@@ -19,7 +19,7 @@ The most popular dive site in the Cabo San Lucas Marine Park — a calm, shelter
 
 - **Location**: Cabo San Lucas Marine Park, inside the bay
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with canyon wall
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-25 meters

@@ -19,7 +19,7 @@ A small, protected horseshoe-shaped cove designated as a marine sanctuary along 
 
 - **Location**: The Corridor, marine sanctuary
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters

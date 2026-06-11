@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## El Salinar Shipwreck
 
-A mysterious shipwreck of unknown origin split into three large sections resting on a sandy bottom near San Jose del Cabo. The wreck has been thoroughly colonized by marine life and coral growth, creating an artificial reef teeming with fish. The shallow depth of 12 meters maximum and calm conditions make it accessible to all certification levels. The wreck sections and surrounding sand offer good macro photography subjects.
+A shipwreck resting on a sandy bottom near San Jose del Cabo, split into three large sections. The vessel's identity, history, and circumstances of sinking remain unverified — no independent historical records or maritime databases have been located to confirm the ship's name, build date, tonnage, or cause of loss. The wreck has been colonized by marine life and coral growth. The shallow maximum depth of 12 meters makes it accessible to beginning divers.
 
 ## Site Information
 
@@ -28,15 +28,15 @@ A mysterious shipwreck of unknown origin split into three large sections resting
 
 ## Marine Life
 
-The wreck structure attracts schools of grunts, snappers, and sergeant majors. Moray eels occupy holes in the corroded hull. The sandy bottom around the wreck sections hosts garden eels and various flatfish. Coral encrustation on the metal surfaces supports nudibranchs and small crustaceans — good macro territory.
+The wreck structure supports coral encrustation and provides habitat for reef fish and invertebrates typical of the San Jose del Cabo area. No site-specific marine life observations have been found in available sources — regional species for shallow sandy-bottom wreck sites in this area include grunts, snappers, moray eels, and nudibranchs, but these cannot be confirmed as specific to this wreck without site-verified reports.
 
 ## Dive Profile
 
-Visit each of the three wreck sections in sequence, starting with the largest. The sections are spread across a sandy bottom, so navigation between them is straightforward. Spend time examining the coral growth and marine life that has colonized the hull. The shallow depth allows extended bottom time for photography. External exploration only — the wreck structure is not suitable for penetration.
+Visit each of the three wreck sections in sequence. The sections are spread across a sandy bottom — navigation between them is straightforward at this depth. External exploration only; sources do not confirm interior penetration is possible or appropriate.
 
 ## Safety Considerations
 
-Shallow, calm site with minimal hazards. The wreck's corroded metal can have sharp edges — maintain neutral buoyancy and avoid contact. No penetration should be attempted.
+Shallow, calm site. The wreck's corroded metal may have sharp edges — maintain neutral buoyancy and avoid direct contact. No penetration should be attempted without proper equipment and training. The wreck's structural integrity has not been assessed in available sources.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Description based on limited operator descriptions. Vessel identity and history unverified — no independent historical sources found. No site-specific marine life sources found. Last updated 2026-06-11.*

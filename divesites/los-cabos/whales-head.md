@@ -19,7 +19,7 @@ Named for a distinctive rock formation visible above the surface, whose profile 
 
 - **Location**: Start of the Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters

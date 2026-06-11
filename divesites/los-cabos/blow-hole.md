@@ -19,7 +19,7 @@ Named for a surface blowhole visible on the adjacent cliff where surge forces se
 
 - **Location**: The Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/rocky reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters
