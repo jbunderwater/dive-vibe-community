@@ -3,7 +3,7 @@ name: Chameau
 lat: -13.3220658
 lng: 48.0994665
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 33
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Chameau
 
-Chameau is a reef dive site in Madagascar, Africa.
+Chameau ("Camel" in French) is an underwater shoal approximately 14 km offshore from Nosy Be, named for its two distinct humps that rise from the seabed and resemble a camel's profile.
 
 ## Overview
 
-Chameau ("Camel") is named for its distinctive underwater reef formation with two camel-like humps, located about 14 km offshore from Nosy Be. The standard dive profile follows a falling tide from 22 meters on the first hump to 13 meters on the second, while a deeper route at high tide starts at 33 meters on a northern shoal and passes through reef passages lined with large gorgonian sea fans. A vessel sunk in 2007 on the northwest side adds a wreck component to the dive, and marine life includes lobsters, sea turtles, lionfish, and resident reef fish.
+The standard dive follows the tidal current from southeast to northwest on a falling tide. Divers start on the first hump at around 22 m and work toward the shallower second hump at 13 m, finishing the dive as the current carries them across the reef. An alternative deeper route, only accessible on a high tide with a northwest current, starts on a separate shoal a few dozen metres to the north at approximately 33 m, then drifts back through reef passages to the main formation.
+
+The site is characterised by gorgonian sea fans and reef structures. Confirmed marine life at Chameau includes gorgonians, barracuda, peacock mantis shrimp, lobsters, sea turtles, and lionfish (madablu.com). Jacks, wahoo, angelfish, crocodile fish, blue-spotted stingrays, nudibranchs, leaf fish, scorpionfish, and occasional whitetip reef sharks have also been reported at the Nosy Sakatia reef complex in which Chameau sits (tropical-diving.com).
+
+A vessel was deliberately sunk on the northwest side of the shoal in April 2007, creating a small artificial reef structure. The wreck rests at depth and can be incorporated into the high-tide dive. No vessel name or dimensions have been found in any available source; the only detail confirmed is the April 2007 sinking date and that the vessel was sunk deliberately. Divers report a Napoleon wrasse associated with the wreck area. The wreck is now encrusted with coral growth and supports a concentration of fish life.
 
 ## Site Information
 
 - **Location**: Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 33 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [MadaBlu Nosy Be](https://www.madablu.com/en/diving-nosy-be-chameau/), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/). Last updated 2026-06-11.*
