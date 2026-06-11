@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "la-paz-sea-of-cortez",
-    "lembeh-strait",
-    "lombok",
-    "lord-howe-island",
-    "los-cabos",
-    "madagascar",
     "malaysia",
     "maldives",
     "malta-and-gozo",
@@ -174,7 +168,13 @@
     "jordan-aqaba",
     "kenya-coast",
     "koh-tao",
-    "komodo-national-park"
+    "komodo-national-park",
+    "la-paz-sea-of-cortez",
+    "lembeh-strait",
+    "lombok",
+    "lord-howe-island",
+    "los-cabos",
+    "madagascar"
   ],
   "history": [
     {
