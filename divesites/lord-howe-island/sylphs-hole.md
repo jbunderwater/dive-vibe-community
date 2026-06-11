@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Sylph's Hole
 
-Sylph's Hole is a scenic lagoon site accessible from shore with abundant marine life including sea turtles, located at Old Settlement Beach.
+Sylph's Hole is one of three shallow seabed depressions in Lord Howe Island's lagoon, accessible by short swim from shore and known for regular encounters with green sea turtles.
 
 ## Overview
 
-Sylph's Hole is one of three major seabed depressions in Lord Howe Island's lagoon (along with Erscott's Hole and Comets Hole), offering shallow diving accessible from shore. Located at Old Settlement Beach, it's easily accessible by a short swim from shore, making it perfect for beginner divers and snorkelers. The site is famous for encounters with friendly green sea turtles and numerous small fish.
+Sylph's Hole is one of three named lagoon depressions on Lord Howe Island, alongside Erscott's Hole and Comets Hole. Located near Old Settlement Beach, it is easily reached by a short swim from shore and sits within the protected lagoon. The site is shallow — maximum depth approximately 10 metres — and is suitable for beginners, snorkellers, and photographers. It is one of the most accessible diving and snorkelling spots on the island, and is frequently included in shore-accessible activity guides. The sheltered lagoon position makes it diveable in most weather conditions.
 
 ## Site Information
 
-- **Location**: Old Settlement Beach, Lord Howe Island lagoon
+- **Location**: Old Settlement Beach, Lord Howe Island lagoon (shore entry)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Special Note**: Accessible by short swim from shore; friendly green sea turtles common
+- **Special Note**: Accessible by short swim from shore
 
 ## Marine Life
 
-Sylph's Hole is known for encounters with friendly green sea turtles and abundant small fish. Recent observations include bentstick pipefish, goldstripe butterflyfish, great seahorse, and other species. The site is home to diverse fish life seeking shelter in the shallow reef environment.
+Green sea turtles are a confirmed regular feature at Sylph's Hole — multiple sources cite turtle encounters here as one of the site's defining characteristics. The lagoon environment supports endemic species including Double Header Wrasse and the Lord Howe Island Moray Eel, and three-striped butterflyfish have been documented in Lord Howe's lagoon system. However, the specific species list for Sylph's Hole (as distinct from the lagoon generally) is not independently documented in dive-specific sources. The broader lagoon hosts McCulloch's Anemonefish, various wrasse, damselfish, and small reef fish; these likely occur here but are attributed to the lagoon environment rather than this site specifically.
 
 ## Dive Profile
 
-Maximum depth is approximately 10 meters. This shallow lagoon site is ideal for photographers and beginners. The site offers easy navigation and relaxed diving in protected waters. Explore the reef structures and watch for turtle encounters.
+Maximum depth is approximately 10 metres. Enter from shore at Old Settlement Beach and swim a short distance to the site. The hole and surrounding reef provide easy navigation. The shallow depth allows extended bottom times. Best dived on a calm day for clearest water, though the lagoon location provides shelter from most sea states.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Lord Howe Island Tourism – Diving](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Pro Dive Lord Howe Island](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Spacifica Travel – Lord Howe Island Diving Guide](https://spacificatravel.com/post/snorkelling-diving-lord-howe-island-a-guide-to-the-worlds-southernmost-coral-reef__466). Last updated 2026-06-11.*

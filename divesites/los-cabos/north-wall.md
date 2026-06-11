@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## North Wall
 
-A rock-covered slope with layers of hidden life. The dive begins over a shallow sandy bottom where colonies of garden eels sway in the current. At around 12 meters, large boulders appear, sheltering moray eels, lobsters, scorpionfish, and pufferfish. The rocks give way to a cliff face at 27 meters. Seasonal seahorses have been spotted in the shallower sections. One of the better night dive sites in the marine park. Depths from 6 to 27 meters.
+A shallow, rock-covered sloping reef wall and one of the best night dive sites in the Cabo San Lucas Marine Park. The terrain transitions from a sandy bottom at 6 meters, through a boulder field at 12 meters, to a cliff face at 27 meters. The rocky overhangs and crevices shelter an unusual concentration of macro life including seahorses, frogfish, and pipefish. The close proximity to the marina (3–5 minutes by boat) makes it a frequent second-dive option.
 
 ## Site Information
 
@@ -28,15 +28,15 @@ A rock-covered slope with layers of hidden life. The dive begins over a shallow 
 
 ## Marine Life
 
-Garden eels carpet the sandy shallows. Green moray eels, spiny lobsters, spotted scorpionfish, and guineafowl pufferfish live among the boulders. Seahorses appear seasonally in the shallower rocky areas. At night, octopus, crabs, and basket starfish emerge, making this an excellent night dive destination.
+Garden eels carpet the sandy shallows. Green moray eels, spiny lobsters, spotted scorpionfish, and guineafowl pufferfish live among the boulders. Seahorses and frogfish are reported in the rocky areas, particularly in shallower sections. Cownose rays and mobula rays pass through. At night, octopus, crabs, and basket starfish emerge — sources specifically recommend this site as one of the better night dives in the marine park.
 
 ## Dive Profile
 
-Start in the sandy shallows at 6 meters to observe garden eels, then move over the boulder field at 12 meters. Continue to the cliff edge at 27 meters if your certification and air supply allow. Reverse course along the same path. The varied topography makes this site interesting at every depth, so it works well for both beginners staying shallow and experienced divers exploring the wall.
+Start in the sandy shallows at 6 meters to observe garden eels, then move into the boulder field at 12 meters. Continue to the cliff edge at 27 meters if certification and air supply allow. The varied topography makes the site interesting at every depth, working well for beginners who stay shallow and more experienced divers exploring the wall. The short boat ride from the marina makes this a practical second or third dive.
 
 ## Safety Considerations
 
-Mild conditions make this suitable for beginners, though the cliff drops deep beyond the 27-meter mark. Scorpionfish blend into the rocks — avoid placing hands on the substrate. For night dives, carry a primary and backup light.
+Mild conditions make this suitable for beginners, though the cliff drops beyond the 27-meter mark. Scorpionfish blend into the rocks — avoid placing hands on the substrate. For night dives, carry a primary and backup light.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/baja-california-sur/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Last updated 2026-06-11.*

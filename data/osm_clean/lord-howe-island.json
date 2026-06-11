@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,diveplanit.com,lordhoweisland.info",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,spacificatravel.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveplanit.com,lordhoweisland.info,spacificatravel.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -59,12 +62,13 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveplanit.com,howeadivers.com.au,prodive.com.au",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveplanit.com,lordhoweisland.info,prodive.com.au",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -90,7 +95,7 @@
     "lon": 159.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 36,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -98,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveplanit.com,lordhoweisland.info,prodive.com.au",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -114,8 +120,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -132,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,spacificatravel.com",
+      "last_qa_date": "2026-06-11"
     }
   }
 ]

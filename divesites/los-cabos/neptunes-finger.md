@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Neptune's Finger
 
-Home to the largest sandfall in the Cabo San Lucas marine park and a dramatic vertical wall. The wall begins at around 18 meters and drops past 30 meters, covered in hard and soft corals, gorgonian sea fans, and sponges. A ray cleaning station attracts spotted eagle rays, and green sea turtles, large groupers, and occasional mobula rays are seen here. Depths range from 10 to 33 meters.
+Named for the large finger-shaped pinnacle that protrudes above the water surface to approximately 8 meters. The site offers two distinct zones: a shallow rocky reef with multiple pinnacles suitable for macro photography, and a deep wall where sandfalls cascade over a cliff that drops more than 200 meters. This is considered to host the largest sandfall in the Cabo San Lucas Marine Park. The wall begins around 18 meters and continues well beyond recreational limits.
 
 ## Site Information
 
@@ -28,15 +28,15 @@ Home to the largest sandfall in the Cabo San Lucas marine park and a dramatic ve
 
 ## Marine Life
 
-The ray cleaning station is the highlight — spotted eagle rays and bat rays hover while cleaner wrasses work them over. Green sea turtles, large groupers, Cortez angelfish, and king angelfish are common. Mobula rays are seen seasonally. The wall itself supports dense gorgonian growth and colorful sponges.
+A butterflyfish cleaning station operates along the wall, attracting turtles, groupers, and various reef species. Schools of mobula rays and cownose rays pass overhead seasonally. Green sea turtles, large groupers, Cortez angelfish, and king angelfish are common. The shallow pinnacles are noted as one of the best spots in the marine park for nudibranchs and macro subjects. Large schools of snapper, barracuda, and bigeye jacks aggregate around the pinnacle. Guitarfish and stingrays are found on sandy areas near the wall base.
 
 ## Dive Profile
 
-Descend to the reef top around 10-12 meters and follow it to the wall edge at 18 meters. The wall drops steeply, with the best coral coverage between 18 and 28 meters. Look for the ray cleaning station along the wall. The sandfall is visible cascading down the wall face. Watch your depth — the wall continues well beyond recreational limits.
+Begin at the shallow pinnacles (5–12 meters) for macro subjects and sea fans, then descend to the wall edge at around 18 meters. Follow the wall to the sandfall, which is visible cascading over the edge into the deep. The most productive section for marine life is between 18 and 28 meters. Watch your depth — the wall continues well beyond 33 meters. Ascend along the pinnacles on your way up; the shallower structures provide additional dive time for photography.
 
 ## Safety Considerations
 
-The wall drops deep, so monitor your depth carefully. Currents can push divers along the wall face. The site is appropriate for intermediate divers comfortable with wall diving and depth management.
+The wall drops well past recreational limits — depth discipline is essential. Currents can push divers along the wall face. Intermediate or better buoyancy control is recommended. The site suits multiple skill levels, with the shallow pinnacle section offering a productive and safe option for less experienced divers.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-site/mexico/neptunes-finger/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Last updated 2026-06-11.*

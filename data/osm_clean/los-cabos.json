@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, padi.com, scubadiving.com"
+      "validation_source": "divecabo.com,padi.com,krakendivers.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -19,14 +20,15 @@
     "lat": 22.8792,
     "lon": -109.8984,
     "depth": 27,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com, divecabo.com, scubadiving.com"
+      "validation_source": "divecabo.com,cabosanlucastours.net,bajadiveguide.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, scubadiving.com, caboprivateguide.com"
+      "validation_source": "divecabo.com,cabosanlucastours.net,loscabosguide.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com,padi.com,cabosanlucastours.net",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -71,7 +75,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com,padi.com,cabosanlucastours.net",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, caboprivateguide.com"
+      "validation_source": "divecabo.com,bajadiveguide.com,caboprivateguide.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -101,7 +107,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com,bajadiveguide.com,cabosanlucastours.net",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -116,7 +123,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com, divecabo.com, caboprivateguide.com"
+      "validation_source": "padi.com,divecabo.com,bajadiveguide.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -131,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, caboprivateguide.com"
+      "validation_source": "divecabo.com,bajadiveguide.com,caboprivateguide.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -146,7 +155,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com,bajadiveguide.com,cabosanlucastours.net",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -161,7 +171,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "eastcapeexplorers.com, divecabo.com"
+      "validation_source": "divecabo.com,eastcapeexplorers.com,cabosanlucastours.net",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -175,8 +186,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "eastcapeexplorers.com"
+      "validated": "false",
+      "validation_source": "eastcapeexplorers.com",
+      "last_qa_date": "2026-06-11",
+      "qa_note": "Cannot confirm 3 independent sources. Vessel identity unverified. No historical records found. Marked unvalidated pending further research."
     }
   },
   {
@@ -191,7 +204,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, scubadiving.com, inthebite.com"
+      "validation_source": "divegordobanks.com,divecabo.com,caboprivateguide.com",
+      "last_qa_date": "2026-06-11"
     }
   }
 ]

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## North Bay Dropoff
 
-North Bay Dropoff is a spectacular intermediate wall dive just north of the main island, featuring a dramatic vertical wall dropping to 25 meters.
+North Bay Dropoff is a wall dive on the northern coast of Lord Howe Island.
 
 ## Overview
 
-North Bay Dropoff offers excellent wall diving along the northern coast of Lord Howe Island with a dramatic vertical drop and good marine life encounters. The site is accessible for intermediate divers with wall diving experience and provides a different diving perspective compared to the lagoon and distant site options.
+North Bay Dropoff is located on the northern face of Lord Howe Island and is classified as a wall dive site. The general character of Lord Howe Island's outer reef walls involves volcanic rock formations with coral growth and exposure to oceanic swell. Depths at this site are listed as reaching approximately 25 metres. No independent dive operator site or published dive report specifically describing "North Bay Dropoff" was located during research for this entry; the site data originates from curated records. Divers seeking current conditions and site-specific details should contact local operators (Pro Dive Lord Howe Island or Howea Divers) directly before visiting.
 
 ## Site Information
 
-- **Location**: North Bay, northern coast of Lord Howe Island
+- **Location**: Northern coast of Lord Howe Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ North Bay Dropoff offers excellent wall diving along the northern coast of Lord 
 
 ## Marine Life
 
-Wall diving at North Bay hosts reef fish and marine life adapted to vertical structures. The wall ecosystem supports a variety of species at different depths, with pelagic visitors in the blue water beyond the wall.
+No site-specific marine life documentation was found for North Bay Dropoff. The broader Lord Howe Island outer reef environment supports reef fish, slipper and spiny lobsters, moray eels, Galapagos sharks, turtles, and pelagic species including kingfish and trevally, but attributing any of these specifically to this site without a source would not meet verification standards.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and curated site records. No site-specific independent sources found. Last updated 2026-06-11.*

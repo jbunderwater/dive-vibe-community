@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Sand Falls
 
-Featured in Jacques Cousteau's television series, Sand Falls is one of the most unique underwater features in the world. Streams of sand cascade down a chute and over the edge of a submarine canyon that drops to over 365 meters. The visual effect resembles an underwater waterfall. The site sits near Pelican Rock at the canyon rim, with the sand rivers beginning around 27 meters and the main viewing depth at 30-40 meters.
+One of the most unusual underwater features in the world — streams of sand cascade continuously down a chute and over the edge of a submarine canyon that drops to over 365 meters (1,200 feet). The visual effect resembles an underwater waterfall. The site was first documented scientifically in 1959 by researcher Francis P. Shepard of the Scripps Institution of Oceanography, and was later featured in Jacques Cousteau's television series *The Underwater World of Jacques Cousteau*. The sand rivers begin around 27 meters and the main viewing depth is 30–40 meters.
 
 ## Site Information
 
@@ -28,15 +28,15 @@ Featured in Jacques Cousteau's television series, Sand Falls is one of the most 
 
 ## Marine Life
 
-The sandy canyon edge attracts garden eels and jawfish. Larger species cruise the blue water off the wall, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, sea fans, and groupers.
+The sandy canyon edge attracts garden eels and flatfish. Gorgonian sea fans, sponges, and schooling Mexican goatfish, snappers, and angelfish inhabit the rocky walls above the sand chutes. Larger species cruise the blue water off the wall edge, including mobula rays. Seahorses and frogfish have been reported in rocky recesses near the sand rivers.
 
 ## Dive Profile
 
-This is a deep dive requiring Advanced certification and good air management. Descend along the Pelican Rock reef slope to the canyon edge at approximately 27 meters. The sand rivers are visible from here, cascading over the lip into the abyss. Bottom time at 35-40 meters is limited — plan conservatively and begin your ascent with ample reserve. Nitrox is recommended.
+This is a deep dive requiring Advanced certification and careful air management. Descend along the Pelican Rock reef slope to the canyon edge at approximately 27 meters. The sand rivers are visible from here, cascading over the lip into the deep. The main viewing depth for the sandfall is 30–40 meters — bottom time is limited at these depths. Plan conservatively and begin your ascent with ample reserve. Nitrox is recommended to extend bottom time safely.
 
 ## Safety Considerations
 
-Depth is the primary hazard. The canyon drops to over 365 meters and narcosis can impair judgment at these depths. Strong currents can develop along the canyon edge. This site is not suitable for inexperienced divers. Carry an SMB and dive computer, and agree on maximum depth and turn pressure before descending.
+Depth is the primary hazard. The canyon drops to over 365 meters and narcosis can impair judgment. Strong currents can develop along the canyon edge. This site is not suitable for inexperienced divers. Carry an SMB and dive computer, and agree on maximum depth and turn pressure before descending.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [Dive Cabo](https://www.divecabo.com/dive-sites/), [Los Cabos Guide](https://www.loscabosguide.com/underwater-sand-waterfall/). Last updated 2026-06-11.*
