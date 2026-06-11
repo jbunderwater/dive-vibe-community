@@ -3,7 +3,7 @@ name: Hairball
 lat: 1.4667
 lng: 125.2333
 difficulty: Intermediate
-maxDepth: 29
+maxDepth: 28
 entryType: boat
 siteType: muck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Hairball
 
-Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and arguably the site that best encapsulates everything Lembeh is famous for. The name comes from the hairy frogfish found here in reliable numbers, though the site's real claim to fame is the extraordinary concentration of rare and bizarre critters packed into a single sandy slope.
+Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and arguably the site that best encapsulates everything Lembeh is famous for. The name has two reported origins: a diver once lost their hair band mid-dive, and the algae formations across the slope are said to resemble a cat's hairball. The site's real fame lies in the extraordinary concentration of rare and bizarre critters packed into a single sandy slope positioned on a point where converging currents deliver unusually rich nutrients to the seafloor.
 
 ## Overview
 
@@ -25,7 +25,7 @@ Hairball runs along a gently sloping black volcanic sand bottom scattered with s
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 29 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Usually mild; occasionally light drift
 - **Best Time**: Year-round; October to May for calmest conditions
@@ -60,4 +60,4 @@ Hairball is a straightforward muck dive with no significant hazards beyond stand
 Hairball is a supermacro photographer's dream. Hairy frogfish are ideal for portrait shots — find one, frame carefully, and take your time. Flamboyant cuttlefish reward patience with extraordinary colour-change sequences. Wonderpus and mimic octopus offer dynamic movement shots as they hunt. Shoot with a 100mm macro or wet dioptre for the smallest subjects. Early morning dives often have the best light penetration and the most active critters.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort - Hairball Dive Site](https://www.lembehresort.com/divesites/hairball), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Infinite Blue Dive Travel](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-06-11.*

@@ -17,19 +17,19 @@ Los Islotes is an iconic reef and wall dive site in La Paz & Sea of Cortez, famo
 
 ## Overview
 
-Los Islotes consists of two rocky islets at the northern tip of the Espíritu Santo Archipelago within Espiritu Santo National Park. The site is home to the southernmost California sea lion (Zalophus californianus) rookery in the Gulf of California. Researchers tracking the colony since 1980 document approximately 600 individuals, with around 170 pups born annually. Curious juveniles approach divers closely — the interactions are often compared to diving with underwater puppies. Beyond the sea lions, Los Islotes offers wall dives descending to 26+ meters, an underwater arch decorated with cup coral, large boulders, and cavern-like formations. The boat ride from La Paz is approximately 80 minutes.
+Los Islotes consists of two rocky islets at the northern tip of the Espíritu Santo Archipelago within Espiritu Santo National Park. The site is home to the southernmost California sea lion (Zalophus californianus) rookery in the Gulf of California. TOSEA researchers have tracked the colony since 1980 and document approximately 600 individuals, with around 170 pups born annually; roughly 20 territorial males defend distinct territories. Curious juveniles approach divers closely — the interactions are often compared to diving with underwater puppies. Beyond the sea lions, Los Islotes offers wall dives descending to 26+ meters, an underwater arch decorated with cup coral, large boulders, and cavern-like formations. The southern side features a shallow cave (accessible around 8–15 m); the northern side drops deeper into open water. The boat ride from La Paz is approximately 60–80 minutes depending on conditions.
 
 ## Site Information
 
 - **Location**: Northern tip of the Espíritu Santo Archipelago, Espiritu Santo National Park
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
 
 ## Marine Life
 
-California sea lions are the defining encounter — juvenile sea lions are particularly playful and inquisitive with divers. The rocky walls host fan corals, cup corals, and sponges, with rockfish species including cabrilla and grouper. Moray eels, octopus, and king angelfish are regularly sighted. Giant manta rays and dolphin pods pass through the area, particularly in the September–November reopening period. During the open season, whale sharks may be encountered in nearby Bay of La Paz waters (October–April).
+California sea lions are the defining encounter — juvenile sea lions are particularly playful and inquisitive with divers, while territorial bulls should be given wide berth. The rocky walls host fan corals, cup corals, and sponges, with rockfish species including cabrilla and grouper. Moray eels, octopus, and king angelfish are regularly sighted. Giant manta rays and dolphin pods pass through the area, particularly in the September–November reopening period. Seahorse and jawfish sightings have been documented at this site in sandy patches near boulders.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat access only from La Paz (~80 minutes crossing). The Cortez Club and La Paz 
 **Seasonal closure: Los Islotes is closed to all visitor access from June 1 through August 31 each year.** This mandatory closure protects California sea lions during their breeding season when mothers are nursing pups and territorial bulls are most aggressive. The site reopens on September 1. Always confirm current closure status with your operator before planning a visit. In water, maintain respectful distance from bulls displaying territorial behavior.
 
 ---
-*Sources: [TOSEA — The Successful Sea Lions of Los Islotes](https://tosea.net/the-successful-sea-lions-of-los-islotes/), [Cortez Club — Los Islotes is Back](https://cortezclub.com/los-islotes-is-back-dolphins-mantas-and-sea-lions-in-full-swing/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [La Paz Divers — Sea Lions Tour](https://lapazdivers.com/la-paz-sea-lions-tour/). Last updated 2026-05-17.*
+*Sources: [TOSEA — The Successful Sea Lions of Los Islotes](https://tosea.net/the-successful-sea-lions-of-los-islotes/), [Cortez Club — Los Islotes is Back](https://cortezclub.com/los-islotes-is-back-dolphins-mantas-and-sea-lions-in-full-swing/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [La Paz Divers — Sea Lions Tour](https://lapazdivers.com/la-paz-sea-lions-tour/), [Dive Into Life — Los Islotes](https://diveintolife.blog/sea-lions-los-islotes-baja-california-mexico/). Last updated 2026-06-11.*

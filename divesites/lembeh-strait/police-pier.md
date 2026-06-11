@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Police Pier
 
-Police Pier is one of the most famous night dive sites on the planet, located in Lembeh Strait, North Sulawesi, Indonesia. Situated beneath and around the piling structures of a working pier on the Lembeh Island side of the strait, this shallow, sheltered site is regularly cited by visiting divers as one of the best night dives of their lives. By day it is a productive muck site in its own right; after dark it transforms into a spectacle of rare and nocturnal marine life.
+Police Pier is one of the most famous night dive sites in the Lembeh Strait, North Sulawesi, Indonesia. Despite the name, the dive site itself is not located under a pier — it takes its name from the nearby police station that monitors the strait. The site is a shallow muck area of sand, silt, and rubble with scattered soft coral gardens, regularly cited by visiting divers as one of the best night dives of their lives. By day it is a productive muck site in its own right; after dark it transforms into a spectacle of rare and nocturnal marine life.
 
 ## Overview
 
-The site is dominated by the pier structure itself, whose pilings are encrusted with soft corals, sponges, and hydroids. The surrounding bottom is silty black sand and rubble at depths rarely exceeding 15 meters. Currents are almost always calm — the pier provides shelter and the strait is protected at this location. Visibility runs 8–12 meters during the day; at night, dive torch beams are all that matter. Water temperature stays around 26–28°C year-round.
+The bottom is silty black sand and rubble with soft coral patches at depths rarely exceeding 15 meters. Currents are almost always calm and the protected position in the strait ensures stable conditions. Visibility runs 8–12 meters during the day; at night, dive torch beams are all that matter. Water temperature stays around 26–28°C year-round.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The site is dominated by the pier structure itself, whose pilings are encrusted 
 
 ## Marine Life
 
-Police Pier is one of the few reliably consistent locations in Lembeh to find mandarinfish (Synchiropus splendidus) — the jewel-coloured dragonet that hides in rubble during the day and emerges at dusk to perform its famously spectacular courtship display. Seahorses, both thorny and spotted varieties, cling to pier pilings and encrusting growth. Frogfish — including painted and warty species — position themselves among the sponge-covered structure to ambush prey. Ghost pipefish, robust and ornate, drift near the pilings. After dark, Spanish dancer nudibranchs unfurl from hiding spots, octopus hunt actively across the sand, and the sandy patches between pilings often reveal sleeping parrotfish wrapped in mucus cocoons and hunting flatworms. Bobtail squid, cuttlefish, and various shrimps complete the nightly cast.
+Police Pier is one of the most reliably productive locations in Lembeh to find mandarinfish (Synchiropus splendidus) — the jewel-coloured dragonet that hides in rubble during the day and emerges at dusk to perform its famously spectacular courtship display. Multiple sources confirm that mating mandarinfish displays are one of the defining experiences of a dusk dive here. Seahorses including thorny varieties are found across the sand and rubble. Frogfish — including painted and giant species — are documented residents. Ghost pipefish, including ornate and robust, drift near structure. Scorpionfish and lionfish are regularly reported. After dark, octopus hunt actively across the sand, bobtail squid appear in the water column, cuttlefish cruise the rubble, and pipefish and sea moths are among the other nocturnal attractions. Banggai cardinalfish (an endemic species to this region) are documented at this site.
 
 ## Dive Profile
 
@@ -40,7 +40,7 @@ The dive is conducted entirely in the shallows — 3 to 15 meters — making it 
 
 ## Entry and Exit
 
-Access is by banca boat. Entry is via back roll or giant stride into calm, shallow water. Navigation is straightforward using the pier structure as a reference. Night dives are guided — stay close to your guide and ensure all torches are in working order before entry. Signal the boat with your torch when ready for pickup.
+Access is by banca boat. Entry is via back roll or giant stride into calm, shallow water. Navigation is straightforward on the open sandy bottom with a guide. Night dives are guided — stay close to your guide and ensure all torches are in working order before entry. Signal the boat with your torch when ready for pickup.
 
 ## Tips and Recommendations
 
@@ -52,11 +52,11 @@ Access is by banca boat. Entry is via back roll or giant stride into calm, shall
 
 ## Safety Considerations
 
-Police Pier is a beginner-friendly site with minimal hazards. The main night dive consideration is boat traffic in the strait — always surface next to the banca rather than away from it, and never ascend directly under other boats. Be aware of the pier structure overhead during shallow navigation. Spiny sea urchins colonise the base of the pilings — buoyancy awareness prevents accidental contact. Jellyfish are occasionally present in the water column.
+Police Pier is a beginner-friendly site with minimal hazards. The main night dive consideration is boat traffic in the strait — always surface next to the banca rather than away from it, and never ascend directly under other boats. Spiny sea urchins are present across the bottom — buoyancy awareness prevents accidental contact. Scorpionfish and lionfish rest camouflaged on the rubble throughout this site. Jellyfish are occasionally present in the water column.
 
 ## Photography
 
-This is one of the top macro and supermacro photography sites in Lembeh. Mandarinfish are the headline subject — use a wide aperture, fast shutter, and position yourself at eye level with the rubble as they emerge. Seahorse portraits benefit from a 100mm macro lens. The piling encrustation offers abstract reef textures for close-focus wide-angle work. Night photography here rewards divers who slow down and explore with a focus light — bobtail squid and Spanish dancer nudibranchs are spectacular subjects in torch light.
+This is one of the top macro and supermacro photography sites in Lembeh. Mandarinfish are the headline subject — use a wide aperture, fast shutter, and position yourself at eye level with the rubble as they emerge at dusk. Seahorse portraits benefit from a 100mm macro lens. Night photography here rewards divers who slow down and explore with a focus light — bobtail squid and octopus hunting across the sand are spectacular subjects in torch light.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Tropilogy Lembeh Dive Sites](https://www.tropilogy.com/article/top-dive-sites-and-beyond-diving-in-lembeh-strait/), [Dive The World Lembeh](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php). Last updated 2026-06-11.*

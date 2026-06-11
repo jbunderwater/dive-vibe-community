@@ -17,7 +17,7 @@ El Bajo Seamount is a legendary seamount dive site renowned for hammerhead shark
 
 ## Overview
 
-El Bajo (also called El Bajo Marisla) is a group of three isolated underwater pinnacles located approximately 8 miles from Los Islotes within Espiritu Santo National Park. The three peaks rise to between 52 and 83 feet from the surface, with walls dropping far deeper into open ocean. Because this submerged formation is one of the only shelters for kilometres of open sea, it functions as a critical cleaning station and aggregation point for pelagic megafauna. Approximately 90 minutes by boat from La Paz, this advanced site is considered one of the premier hammerhead shark dive sites in the world.
+El Bajo (also called El Bajo Marisla or Marisla Seamount) is a group of three isolated underwater pinnacles located approximately 8 miles (13 km) north-northeast of La Paz within Espiritu Santo National Park. Per Wikipedia, the three peaks are arranged 300 yards apart: the northern peak rises to 83 ft (25 m), the central peak to 52 ft (16 m), and the southern peak to 69 ft (21 m). Richard M. Adcock became the first known sport diver to explore the seamount using SCUBA in 1957 and ran commercial dive cruises here from 1968 through 2009. Because this submerged formation is one of the only shelters for kilometres of open sea, it functions as a critical cleaning station and aggregation point for pelagic megafauna. Approximately 90 minutes by boat from La Paz, this advanced site is considered one of the premier hammerhead shark dive sites in the world.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ El Bajo (also called El Bajo Marisla) is a group of three isolated underwater pi
 
 ## Marine Life
 
-El Bajo is best known for schooling scalloped hammerhead sharks, which congregate around the seamount — encounters with groups ranging from a handful to hundreds have been recorded. The site also hosts silky sharks, giant Pacific manta rays, whale sharks (seasonal), amberjacks, tuna, wahoo, eagle rays, Panamic green moray eels, and large schools of trevally. Dolphin pods pass through regularly. Hammerhead sightings are most reliable from May through early winter, with peak encounters in cooler months (September–December).
+El Bajo is best known for schooling scalloped hammerhead sharks, which congregate around the seamount — encounters with groups ranging from a handful to hundreds have been recorded. The site also hosts silky sharks, giant Pacific manta rays, whale sharks (seasonal), amberjacks, tuna, wahoo, eagle rays, and large schools of trevally. Wikipedia specifically documents a small canyon at the seamount housing a colony of over fifty Panamic green moray eels. Dolphin pods pass through regularly. Hammerhead sightings are most reliable from May through early winter, with peak encounters in cooler months (September–December).
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ All access is by boat from La Paz — typical crossing time is approximately 90 
 Strong and unpredictable currents are normal at this open-ocean site. Divers must be comfortable in blue water with limited visual reference. Depth can lead to nitrogen narcosis below 30 m. Always dive with a local guide who knows current patterns. Surface conditions can be choppy on the 90-minute crossing; seasickness precaution is advisable.
 
 ---
-*Sources: [PADI Dive Site — El Bajo (Marisla)](https://www.padi.com/dive-site/mexico/el-bajo-marisla/), [Cantamar Tours — Hammerheads in La Paz](https://tours.clubcantamar.com/en/scuba-diving-with-hammerheads-in-la-paz-an-unforgettable-underwater-adventure/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/). Last updated 2026-05-17.*
+*Sources: [PADI Dive Site — El Bajo (Marisla)](https://www.padi.com/dive-site/mexico/el-bajo-marisla/), [Wikipedia — Marisla Seamount](https://en.wikipedia.org/wiki/Marisla_Seamount), [Cantamar Tours — Hammerheads in La Paz](https://tours.clubcantamar.com/en/scuba-diving-with-hammerheads-in-la-paz-an-unforgettable-underwater-adventure/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/). Last updated 2026-06-11.*

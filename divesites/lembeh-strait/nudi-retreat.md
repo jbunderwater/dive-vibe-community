@@ -3,7 +3,7 @@ name: Nudi Retreat
 lat: 1.485
 lng: 125.2533
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 29
 entryType: boat
 siteType: muck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nudi Retreat
 
-Nudi Retreat is a nudibranch-focused muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. Situated in close proximity to its companion site Nudi Falls, Nudi Retreat presents a somewhat different character — a shallower profile capping at 20 meters — and a species composition that complements rather than duplicates what divers see at Nudi Falls. Operators frequently pair the two sites on the same day, allowing divers to compare and contrast the nudibranch communities of two distinct microhabitats.
+Nudi Retreat is one of the most-dived sites in the entire Lembeh Strait, North Sulawesi, Indonesia. Despite a name that suggests a companion site to Nudi Falls, Nudi Retreat has a distinctly different character: rather than a simple muck slope, the site features a coral bowl in the shallows that transitions to a sand slope with encrusted boulders below, with two walls extending outward from the central bowl sporting healthy soft coral growth to as shallow as 2 metres. Operators frequently pair it with Nudi Falls on the same day.
 
 ## Overview
 
-Nudi Retreat's slightly shallower profile and different substrate composition — tending toward more hydroid-covered rubble and low-profile sponge communities than the deeper reaches of Nudi Falls — supports a different nudibranch assemblage. The reduced maximum depth also means extended bottom times, making this a good site for methodical, slow-paced macro exploration. Visibility is 8–15 meters; currents are light to moderate. Water temperature is stable at 26–29°C.
+The coral bowl at Nudi Retreat's shallowest point is the most distinctive structural feature — it creates a sheltered cove effect that concentrates marine life and provides excellent conditions for photography. The site extends to 29 metres at the deep end, making it one of the deeper sites regularly dived in the strait. Soft coral growth reaches very shallow on the walls. Visibility is 8–15 meters; currents are light to moderate. Water temperature is stable at 26–29°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Nudi Retreat's slightly shallower profile and different substrate composition �
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions

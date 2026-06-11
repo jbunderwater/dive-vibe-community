@@ -50,4 +50,4 @@ Boat access from La Paz (approximately 45–60 minutes). Espiritu Santo National
 The wall's depth reaches Advanced-level territory — narcosis can be a factor below 30 m. Currents along the wall can push divers away from the structure; maintain a close swimming position relative to the wall for reference. A surface marker buoy is essential for open-water pick-up after drift sections.
 
 ---
-*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [The Dive Gurus — Espiritu Santo dive sites](https://www.thedivegurus.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/). Last updated 2026-05-17.*
+*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [The Dive Gurus — Espiritu Santo dive sites](https://www.thedivegurus.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/). Last updated 2026-06-11.*

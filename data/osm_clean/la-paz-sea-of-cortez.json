@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, Mapcarta, PADI"
+      "validation_source": "tosea.net,cortezclub.com,dan.org,lapazdivers.com,diveintolife.blog",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "padi.com,wikipedia.org,clubcantamar.com,uwphotographyguide.com,cortezclub.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "Zentacle, DiversInnMX, diveinlapaz.com"
+      "validation_source": "padi.com,dan.org,cortezclub.com,scubago.com,math.ucr.edu,veronikasadventure.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX, ScubaBoard"
+      "validation_source": "math.ucr.edu,dan.org,bajadiving.com,padi.com,veronikasadventure.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -71,7 +75,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, diveinlapaz.com, thedivegurus.com"
+      "validation_source": "diveinlapaz.com,cortezclub.com,thedivegurus.com,bajadiving.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, cabotrek.com, diveinlapaz.com"
+      "validation_source": "cortezclub.com,caboprivateguide.com,cabotrek.com,uwphotographyguide.com,bajadiving.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -101,7 +107,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "padi.com,cortezclub.com,yatezzitos.com,lapazexplorer.com,seaofcortez.guide",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -116,7 +123,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, ScubaBoard, DiversInnMX"
+      "validation_source": "caboprivateguide.com,dan.org,divers-guide.com,padi.com,destinoloscabos.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -131,7 +139,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX"
+      "validation_source": "uwphotographyguide.com,cortezclub.com,nautilusliveaboards.com,liveaboard.com",
+      "last_qa_date": "2026-06-11"
     }
   },
   {
@@ -146,7 +155,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "getamap.net, bajadiving.com"
+      "validation_source": "cortezclub.com,bajadiving.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-11"
     }
   }
 ]

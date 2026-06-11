@@ -5,7 +5,7 @@
     "lon": 116.0738278,
     "osm_id": 2395669745,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -13,10 +13,10 @@
       "name": "Air Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawanganstingraydivers.com,divezone.net,divecentralgili.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Located on west/southwest side of Gili Air (existing markdown incorrectly said eastern side — corrected). Wall from 5-10m to 24-28m, gorgonian sea fans and bumphead parrotfish confirmed. Depth updated from 22m to 28m per Dive Central Gili (18m avg/28m max). Sources: trawanganstingraydivers.com, divezone.net, divecentralgili.com."
     }
   },
   {
@@ -34,9 +34,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divecentralgili.com,trawangandive.com,terumbudivers.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Vessel was a pontoon/floating pier for Gili Meno jetty construction. Sank in 2001 storm, not \"developing a hole\". Lies 8-18m depth. Sources: divecentralgili.com, trawangandive.com, terumbudivers.com confirm storm sinking."
+      "validation_source": "divecentralgili.com,trawangandive.com,padi.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Re-audited. Sinking date conflict across sources: Dive Central Gili and Trawangan Dive say 2001 storm; PADI says 'around 2003'; one source says 1999. Description updated to note conflict. Shallowest point: sources vary (6m per some, 8m per others, 9m per PADI). Location: OSM coordinate places it northwest of Gili Meno; multiple dive operators describe it as 'south-west' — conflict noted in markdown. Dimensions: ~30m long, 15m wide confirmed by multiple sources. Marine life: pygmy seahorses, frogfish, scorpionfish, angelfish, sweetlips confirmed. Bamboo sharks removed (not confirmed at this site). Sources: divecentralgili.com, trawangandive.com, padi.com."
     }
   },
   {
@@ -45,7 +45,7 @@
     "lon": 116.0462579,
     "osm_id": 2395669748,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -53,10 +53,10 @@
       "name": "Deep Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawanganstingraydivers.com,divezone.net,trawangandive.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Depth updated from 30m to 40m per divezone.net and trawangandive.com. Site type confirmed as pinnacle (coral pinnacles/sea mounds rising from sandy bottom). Northeast Gili Trawangan. Strong currents confirmed. Sources: trawanganstingraydivers.com, divezone.net, trawangandive.com."
     }
   },
   {
@@ -66,17 +66,17 @@
     "osm_id": 2395669749,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Frog Fish Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "scubago.com,diversiondivetravel.com.au,oceans5dive.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Site type updated from reef to muck — multiple sources describe as muck/macro dive site. Located east of Gili Air (harbour area also known as Gili Air Harbour). Frogfish (multiple species), seahorses, ghost pipefish, leaf scorpionfish, pipefish confirmed. Sources: scubago.com, diversiondivetravel.com.au, oceans5dive.com (Gili Air dive sites)."
     }
   },
   {
@@ -95,10 +95,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawangandive.com,gilidivers.com,divecentralgili.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed northwest Gili Trawangan drift reef, 6-40m. Eagle rays, reef sharks, barrel sponges, anemone fields confirmed. Depth kept at 20m (shallow accessible section) but notes deep section to 40m. Note: Trawangan Wall site may overlap with Halik reef zone. Sources: trawangandive.com, gilidivers.com, divecentralgili.com."
     }
   },
   {
@@ -107,18 +107,18 @@
     "lon": 116.0255805,
     "osm_id": 2395669751,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jack Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "diversiadiving.wixsite.com,trawangandive.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Only 2 independent sources found (diversiadiving.wixsite.com, trawangandive.com). Cannot meet 3-source threshold. Confirmed northeast of Gili Trawangan, deep canyons to 24m+, schools of jacks/trevally/sharks, advanced/deep specialty site. Difficulty upgraded from Intermediate to Advanced per sources. Depth updated from 20m to 24m. Remains unvalidated pending 3rd independent source."
     }
   },
   {
@@ -135,10 +135,10 @@
       "name": "Malang",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "gilidivers.com,trawangandive.com,starfish.ch",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed as Takat Malang, north of Gili Islands. Rock formations (Takats) on sloping bed from 15m plateau to 40m. Gorgonian sea fans, blue-spotted stingrays, garden eels confirmed. Depth updated from placeholder to 40m max. Sources: gilidivers.com, trawangandive.com, starfish.ch."
     }
   },
   {
@@ -147,7 +147,7 @@
     "lon": 116.0265987,
     "osm_id": 2395669753,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -155,10 +155,10 @@
       "name": "Manta Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "lombok-dive.com,gilidivers.com,terumbudivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed south coast of Gili Trawangan. Depth updated from 20m to 24m per sources (range 8-24m). Manta ray encounters seasonal (best March-May). Reef sharks, sweetlips, snappers, turtles confirmed. Site type drift confirmed (gentle current). Sources: lombok-dive.com, gilidivers.com, terumbudivers.com."
     }
   },
   {
@@ -176,9 +176,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "trawanganstingraydivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Only one independent source found for this specific site name. Confirmed on Gili Meno (northeast tip per existing description). Cannot meet 3-source threshold. Remains unvalidated."
     }
   },
   {
@@ -196,9 +196,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "divessi.com,gilidivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Site confirmed as a sandy slope on Gili Meno. Two sources found (divessi.com, gilidivers.com) but not enough distinct independent dive-operator sources to meet 3-source threshold. Remains unvalidated."
     }
   },
   {
@@ -215,10 +215,10 @@
       "name": "Meno Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "padi.com,gilidivers.com,divecentralgili.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Wall confirmed on west side of Gili Meno (existing markdown incorrectly placed between Trawangan and Meno — corrected). Night dive quality confirmed. Marine life: moray eels, scorpionfish, lobsters, crabs, lionfish, groupers, turtles confirmed. Bamboo sharks removed — not confirmed by any source at this specific site. Pygmy seahorses mentioned at adjacent muck slope rather than the wall itself. Sources: padi.com (Gili Meno Wall), gilidivers.com, divecentralgili.com."
     }
   },
   {
@@ -235,10 +235,10 @@
       "name": "Mirkos Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "scubago.com,manta-dive-giliair.com,gilis.asia",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed between Gili Air and Gili Meno. Deep ridges from 35m to 18m with table corals, sea fans, sponges. Fusiliers, snappers, blue-spotted stingrays, frogfish, whitetip reef sharks, turtles confirmed. Sources: scubago.com, manta-dive-giliair.com (Mirko's Reef page), gilis.asia."
     }
   },
   {
@@ -257,10 +257,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawanganstingraydivers.com,trawangandive.com,divessi.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed northeast Gili Trawangan, sandy bottom with coral heads, 18m depth. Pufferfish, batfish, turtles, garden eels, ghost pipefish confirmed. Site type reef confirmed. Sources: trawanganstingraydivers.com, trawangandive.com, divessi.com."
     }
   },
   {
@@ -277,10 +277,10 @@
       "name": "Shark Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "terumbudivers.com,divecentralgili.com,trawangandive.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed northwest Gili Trawangan. Glenn Nusa: old tugboat, intentionally scuttled Feb 2016, 22m long x 6m high x 7m wide, lies at 28m sandy bottom between Halik and Shark Point — confirmed by 3 sources. Blacktip/whitetip reef sharks, turtles, bumphead parrotfish, trevally confirmed. The existing wreck name 'Glenn Nusa' is confirmed. Sources: terumbudivers.com, divecentralgili.com, trawangandive.com."
     }
   },
   {
@@ -289,7 +289,7 @@
     "lon": 116.065643,
     "osm_id": 2395669760,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -297,10 +297,10 @@
       "name": "Simons Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawangandive.com,divecentralgili.com,gilidivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Depth updated from 30m to 40m per Dive Central Gili (avg 25m, max 40m). Confirmed north of Gili Islands, canyons, gorgonian fans, pygmy seahorses. Sea snakes mentioned by multiple sources — added to notes but not written as guaranteed sighting. Sources: trawangandive.com, divecentralgili.com, gilidivers.com."
     }
   },
   {
@@ -319,8 +319,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: No independent sources found for this specific site name. Site appears on OSM only (from Diveschool Notice Board). Cannot validate without sources."
     }
   },
   {
@@ -330,7 +330,7 @@
     "osm_id": 2395670513,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -338,9 +338,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "divecentralgili.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Site type updated from reef to muck — Teluk Nara/Naro area on Lombok's northwest coast is confirmed as a muck/critter dive site with silt bottom. One source confirms mimic octopus, blue-ringed octopus, frogfish, nudibranchs (Dive Central Gili muck diving page). Insufficient sources for full validation — only 1 distinct source found."
     }
   },
   {
@@ -361,9 +361,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "trawangandive.com,gilidivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Existing markdown claims this is 'also known as Halik Reef' — Halik is confirmed as northwest Gili Trawangan drift/wall site. Trawangan Wall and Halik appear to be overlapping or adjacent sites in the same reef zone. Only 2 sources found specifically referencing the Halik reef/wall zone. Cannot meet 3-source threshold as distinct site. Remains unvalidated."
     }
   },
   {
@@ -381,8 +381,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: No independent sources found for a dive site specifically named 'Lombok Dive.' OSM source only. Cannot validate without sources."
     }
   },
   {
@@ -402,9 +402,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "giliecotrust.com,trawangandive.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Vila Almarick (Almarik) resort confirmed on east coast Gili Trawangan. Biorock program confirmed as world-scale project (180+ structures). Individual structure depths not independently published. Only 2 sources. Remains unvalidated."
     }
   },
   {
@@ -424,9 +424,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "balesampanbungalows.com,giliecotrust.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Bale Sampan resort confirmed on east coast Gili Trawangan. Biorock structures confirmed including sampan-shaped and octopus-shaped frames in front of cafe. Only 2 sources. Remains unvalidated."
     }
   },
   {
@@ -446,9 +446,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "sambavillas.com,giliecotrust.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Samba Villas resort confirmed on east coast Gili Trawangan. Biorock installation confirmed in front of resort beach. Only 2 sources. Remains unvalidated."
     }
   },
   {
@@ -468,9 +468,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "trawangandive.com,giliecotrust.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Trawangan Dive is a confirmed PADI 5-star centre on Gili Trawangan. Biorock specialty courses confirmed. Only 2 sources. Remains unvalidated."
     }
   },
   {
@@ -490,9 +490,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validation_source": "gilidivers.com,giliecotrust.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Gili Divers confirmed operator on Gili Trawangan and Gili Air. Biorock operations confirmed. Only 2 sources. Remains unvalidated."
     }
   },
   {
@@ -502,7 +502,7 @@
     "osm_id": 6750981689,
     "osm_type": "node",
     "depth": 35,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -512,10 +512,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "false",
-      "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"research\" - insufficient. Requires 3 independent domain sources."
+      "validated": "true",
+      "validation_source": "trawanganstingraydivers.com,trawangandive.com,gilidivers.com",
+      "last_qa_date": "2026-06-11",
+      "notes": "QA 2026-06-11: Confirmed northeast Gili Trawangan, large underwater hill/pinnacle from 10m to 35m. Multiple turtle species confirmed. Site type updated from reef to pinnacle per multiple sources. Difficulty Beginner retained — upper sections at 10m accessible to beginners. Trawanganstingraydivers.com page for Shallow Turbo also covers Turtle Point as the same northeast area. Sources: trawanganstingraydivers.com, trawangandive.com, gilidivers.com."
     }
   }
 ]
