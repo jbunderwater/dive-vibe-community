@@ -17,7 +17,7 @@ Retak Larry is a dedicated octopus site in the Lembeh Strait, North Sulawesi, In
 
 ## Overview
 
-The site runs along a sloping black volcanic sand bottom to 25 meters, with scattered rubble patches and debris that provide den sites for the various octopus species the site is known for. The open sandy areas are equally important — mimic octopus and wonderpus are active hunters that move across open sand in the open, making them visible from a distance and trackable by experienced guides. Visibility averages 8–15 meters. Currents are light to moderate. Water temperature holds at 26–29°C.
+The site runs along a sloping black volcanic sand bottom to approximately 18–20 meters, with scattered rubble patches and debris that provide den sites for the various octopus species the site is known for. The open sandy areas are equally important — mimic octopus and wonderpus are active hunters that move across open sand in the open, making them visible from a distance and trackable by experienced guides. Visibility averages 8–15 meters. Currents are light to moderate. Water temperature holds at 26–29°C.
 
 ## Site Information
 
