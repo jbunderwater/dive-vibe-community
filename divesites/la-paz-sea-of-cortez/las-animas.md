@@ -25,7 +25,7 @@ Las Animas is a small rocky island with associated pinnacle formations located n
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (typical hammerhead encounter depth; pinnacle tops at 18–22 m)
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

@@ -23,9 +23,9 @@ Los Islotes consists of two rocky islets at the northern tip of the Espíritu Sa
 
 - **Location**: Northern tip of the Espíritu Santo Archipelago, Espiritu Santo National Park
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 metres (typical dive zone 5–18 m; deeper sections exist on northern side)
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 

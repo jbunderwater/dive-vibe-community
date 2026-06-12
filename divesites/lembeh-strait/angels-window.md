@@ -17,7 +17,7 @@ Angel's Window is one of the most topographically distinctive dive sites in the 
 
 ## Overview
 
-The site descends to 32 meters, making it the deepest of the commonly dived Lembeh sites and the one that most demands careful dive planning. The upper portion of the dive involves the characteristic volcanic black sand slope, while the arch feature and associated rock structure at depth supports gorgonian sea fans and encrusted growth. This structural complexity adds species not typically found at pure muck sites. Visibility runs 8–15 meters. Currents are light to moderate. Water temperature averages 26–29°C year-round.
+The pinnacle has varied bathymetry: one side slopes gradually down to a sand flat at 15 metres, the other side drops as a wall to 8 metres, then a small plateau, then another drop-off to 20–30 metres where the cave swim-through is found. This structural complexity adds species not typically found at pure muck sites. Visibility runs 8–15 meters. Currents are light to moderate, and the site's exposed position means conditions can vary. Water temperature averages 26–29°C year-round.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The site descends to 32 meters, making it the deepest of the commonly dived Lemb
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions

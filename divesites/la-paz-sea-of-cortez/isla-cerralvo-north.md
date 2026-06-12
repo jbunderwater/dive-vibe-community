@@ -23,7 +23,7 @@ Isla Cerralvo is a remote island in the southern Sea of Cortez, southeast of La 
 
 - **Location**: Northern end of Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

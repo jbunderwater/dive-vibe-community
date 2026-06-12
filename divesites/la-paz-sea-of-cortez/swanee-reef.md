@@ -23,7 +23,7 @@ Swanee Reef (also written Suwanee Reef or Swanee Rock) is a submerged rocky pinn
 
 - **Location**: San Lorenzo Channel, between La Paz and Isla Espíritu Santo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
