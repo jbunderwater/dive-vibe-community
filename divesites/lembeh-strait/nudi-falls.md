@@ -3,7 +3,7 @@ name: Nudi Falls
 lat: 1.4833
 lng: 125.25
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null

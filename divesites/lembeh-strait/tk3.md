@@ -3,7 +3,7 @@ name: TK3
 lat: 1.4783
 lng: 125.2383
 difficulty: Beginner
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: muck
 ref: null
@@ -17,7 +17,7 @@ TK3 is the third and northernmost site in the Teluk Kembahu (TK) group — a tri
 
 ## Overview
 
-TK3's defining feature compared to its neighbours is the increased rubble coverage — more broken coral fragments, shells, and small stones are scattered across the volcanic sand slope, creating additional microhabitats for critters that prefer rubble to open sand. The slope descends to 25 meters and is accessible to beginners, with minimal current and protected bay conditions. Visibility is on par with the other TK sites at 8–15 meters. Water temperature is a consistent 26–29°C year-round.
+TK3's defining feature compared to its neighbours is the increased rubble coverage — more broken coral fragments, shells, and small stones are scattered across the volcanic sand slope, creating additional microhabitats for critters that prefer rubble to open sand. The site is dived primarily in the 10–18 metre range and is accessible to beginners, with minimal current and protected bay conditions. Visibility is on par with the other TK sites at 8–15 meters. Water temperature is a consistent 26–29°C year-round.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ TK3's defining feature compared to its neighbours is the increased rubble covera
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Minimal to light
 - **Best Time**: Year-round; October to May for calmest conditions

@@ -3,7 +3,7 @@ name: Hairball
 lat: 1.4667
 lng: 125.2333
 difficulty: Intermediate
-maxDepth: 29
+maxDepth: 28
 entryType: boat
 siteType: muck
 ref: null

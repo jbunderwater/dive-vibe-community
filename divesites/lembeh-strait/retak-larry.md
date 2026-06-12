@@ -3,7 +3,7 @@ name: Retak Larry
 lat: 1.48
 lng: 125.245
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ The site runs along a sloping black volcanic sand bottom to 25 meters, with scat
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions

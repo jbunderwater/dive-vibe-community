@@ -3,7 +3,7 @@ name: Angel's Window
 lat: 1.4633
 lng: 125.22
 difficulty: Intermediate
-maxDepth: 32
+maxDepth: 30
 entryType: boat
 siteType: muck
 ref: null

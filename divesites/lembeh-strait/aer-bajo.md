@@ -3,7 +3,7 @@ name: Aer Bajo
 lat: 1.5
 lng: 125.2667
 difficulty: Beginner
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: muck
 ref: null
@@ -17,7 +17,7 @@ Aer Bajo — meaning "low water" in Indonesian — is a muck dive site in the no
 
 ## Overview
 
-The site presents the characteristic Lembeh muck profile: volcanic black sand sloping gently to a maximum of 25 meters, with the most productive critter zones concentrated in the 8–18 meter range. The substrate is primarily open sand interspersed with low rubble patches and scattered debris. Currents are generally light. Visibility runs 8–15 meters. Water temperature is stable at 26–29°C year-round.
+The site presents the characteristic Lembeh muck profile: volcanic black sand beginning as a flat area in 1–6 metres, then sloping gently to a maximum of approximately 22 meters, with the most productive critter zones concentrated in the 8–18 meter range. The substrate is primarily open sand interspersed with low rubble patches and scattered debris. Currents are generally light. Visibility runs 8–15 meters. Water temperature is stable at 26–29°C year-round.
 
 ## Site Information
 
