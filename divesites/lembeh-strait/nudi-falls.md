@@ -32,11 +32,11 @@ The site combines a sheer wall dropping from near the surface to around 15 meter
 
 ## Marine Life
 
-Nudi Falls hosts a remarkable diversity of opisthobranch molluscs. Chromodorids are abundant and visually striking — the bold white, purple, and red patterns of Chromodoris annae, Chromodoris kuniei, and Hypselodoris species are regularly photographed here. Aeolid nudibranchs with their flowing cerata — including Flabellina and Pteraeolidia species — are found on hydroid patches. Phyllidiids patrol the sponge surfaces. Beyond nudibranchs, Nudi Falls produces cuttlefish in multiple species, octopus — including the broadclub cuttlefish laying eggs in crevices — and various ghost pipefish. Frogfish are present throughout the site, and the deeper rubble areas harbour mantis shrimp and small scorpionfish.
+Nudi Falls hosts a remarkable diversity of opisthobranch molluscs — it is consistently rated the most nudibranch-rich site in the Lembeh Strait. Rare species including Nembrotha, Dotto, and Jalonus nudibranch varieties are documented here alongside more common chromodorids and phyllidiids. Pygmy seahorses (Hippocampus bargibanti and H. pontohi) have been found on sea fans along the wall. The site also produces frogfish, wonderpus octopus, robust ghost pipefish, harlequin shrimp in the rubble channel, and the Lembeh seadragon — a regional rarity. Rhinopias scorpionfish have been reported in the channel section. Nudi Falls is also one of the most popular night dive sites in the strait, with colourful nocturnal activity including Spanish dancers.
 
 ## Dive Profile
 
-Descend to the mid-slope around 15–18 meters and work the sponge and rubble zones systematically. Nudibranch density is highest in the areas where sponge growth concentrates — these animals feed on specific sponge species and their distribution follows the food source. Work upslope slowly, spending extended time at each rubble-sponge interface. The shallower zones above 12 meters typically show the highest density of aeolids on hydroid colonies. Reserve enough air for a thorough safety stop in the productive 5-meter zone.
+Begin the dive at the wall section, which starts just below the surface and drops to around 15 meters. Work along the wall face carefully — this is where nudibranch density is highest and where bubble-dislodged specimens may be drifting. Descend to the rock pile at the base of the wall, then transition onto the sand slope and into the soft-coral rubble channel. Ascend slowly, revisiting the wall on the way up for the safety stop. The site dives well at all times of year; it is a primary night dive destination and worth a second visit after dark.
 
 ## Entry and Exit
 
