@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,wikipedia.org,diveplanit.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -23,14 +24,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 8,
-    "site_type": "cave",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,spacificatravel.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -41,13 +43,14 @@
     "osm_type": null,
     "depth": 7,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "prodive.com.au,lordhoweisland.info,diveplanit.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -98,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,diveplanit.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -115,7 +121,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "prodive.com.au,lordhoweisland.info,diveplanit.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -132,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,arr.news,scubaboard.com",
+      "last_qa_date": "2026-06-12"
     }
   }
 ]

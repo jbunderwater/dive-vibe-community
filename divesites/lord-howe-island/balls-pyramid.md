@@ -13,28 +13,30 @@ addedBy: osm_import
 
 ## Ball's Pyramid
 
-Ball's Pyramid is the world's tallest sea stack and Lord Howe Island's premier advanced wall dive site, located 26 kilometers offshore.
+Ball's Pyramid is a dramatic wall and drift dive around the world's tallest volcanic stack, located approximately 20 kilometres southeast of Lord Howe Island.
 
 ## Overview
 
-Ball's Pyramid is an iconic advanced dive site featuring dramatic vertical walls and drift diving with exceptional pelagic fish activity. This site is only for experienced divers (Advanced or Deep certification required) and offers stunning encounters with large schools of fish and rare endemic species found nowhere else on Earth. Located 26km south of Lord Howe Island, trips are scheduled based on weather conditions and diver numbers.
+Ball's Pyramid is a monolithic volcanic remnant rising 572 metres above the ocean surface, forming the centrepiece of Lord Howe Island's most sought-after dive experience. Underwater, dives typically average 25 metres and range from drift dives among adjacent islets to following coral walls and exploring boulder-strewn terrain. Dive Lord Howe operates the only boat surveyed to run these trips, and departures are weather-dependent — guests indicate interest when booking and trips are scheduled if conditions and diver numbers allow. Advanced certification is required.
+
+The site features two primary underwater locations: Observatory Rock, where large boulders create gullies and crevices from 8 to 16 metres, and South East Rock, with large flat stepped ledges subject to surge. Visibility outside the lagoon commonly reaches 20–40 metres in summer.
 
 ## Site Information
 
-- **Location**: Ball's Pyramid, 26km south of Lord Howe Island
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Special Note**: Boat access weather-dependent; trips scheduled on availability
+- **Location**: Approximately 20km southeast of Lord Howe Island (sources vary: some state 26km south)
+- **Entry Type**: Boat dive (weather and swell dependent; early morning departures typical)
+- **Site Type**: Wall dive with drift and boulder sections
+- **Difficulty Level**: Advanced (advanced certification required)
+- **Maximum Depth**: 25 metres average; some sections shallower at 8–16m
+- **Special Note**: Trips cannot be pre-scheduled; boat access managed solely by Dive Lord Howe
 
 ## Marine Life
 
-Ball's Pyramid is famous for hosting the endemic Ballina Angelfish—the world's rarest angelfish that is normally only found below 100 meters depth. Divers here encounter endless schools of pelagic fish including large schools of trevally and kingfish. Additional sightings include rays, sharks, fanning coral gardens, and diverse reef fish attracted to the rich ecosystem.
+Ball's Pyramid is believed to be the only location where the Ballina angelfish (*Chaetodontoplus ballinae*) can be reliably seen on recreational scuba at around 25 metres. This endemic species — known only from coastal northern New South Wales and Ball's Pyramid — typically inhabits deeper reef habitat, but the unusual topography here brings it within recreational diving range. Other confirmed species include Galapagos sharks (observed in large numbers), black stingrays, green sea turtles, schools of trevally, violet sweep, amberjack, kingfish, silver drummer, rainbow runners, black cod, painted rock lobsters, and various angelfish including conspicuous angelfish and half-banded angelfish.
 
 ## Dive Profile
 
-Dives at Ball's Pyramid vary between drift dives, cave dives, and wall-following dives. Most activity occurs between 10-25 meters. The site offers dramatic coral walls with fanning soft corals and constant pelagic fish action. Careful depth management and current awareness are essential. Many dives focus on the upper portions of the wall and surrounding pinnacles.
+Most dives take place between 8 and 25 metres. Observatory Rock offers boulder terrain with gullies; South East Rock presents flat stepped ledges. Drift and current conditions vary — careful depth management and situational awareness are essential. Many dives follow the outer wall and surrounding boulders. Surface interval may be spent at sea or aboard the boat; departure times are typically early morning.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Dive Lord Howe](https://divelordhowe.com/balls-pyramid/), [Lord Howe Island Tourism](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Wikipedia – Ball's Pyramid](https://en.wikipedia.org/wiki/Ball%27s_Pyramid), [DivePlanIt – Ball's Pyramid](https://www.diveplanit.com/dive-destination/diving-balls-pyramid/), [Pro Dive Lord Howe Island](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site). Last updated 2026-06-12.*
