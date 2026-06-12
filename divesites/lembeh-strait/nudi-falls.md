@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nudi Falls
 
-Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, Nudi Falls earns its name from the extraordinary density and variety of nudibranch species found along its sloping volcanic sand and rubble bottom. Experienced nudibranch hunters and underwater macro photographers consider this a must-dive site on any Lembeh trip.
+Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located on the mainland side of the strait near Bitung in North Sulawesi, Indonesia, the site gets its name from a specific phenomenon: diver bubbles rising along the sheer wall above sometimes dislodge nudibranchs, which then drift down past ascending divers in what early visitors described as a "nudi falls." Experienced nudibranch hunters and underwater macro photographers consider this a must-dive site on any Lembeh trip.
 
 ## Overview
 
-The site presents a sloping black sand bottom interspersed with rubble patches, sponges, and small coral growth down to 25 meters. This variety of microhabitats supports an unusually wide range of nudibranch families. The water here in the northern strait can carry slightly more current than the southern sites, though conditions are generally manageable for intermediate divers. Visibility runs 8–15 meters. Water temperature averages 26–29°C year-round.
+The site combines a sheer wall dropping from near the surface to around 15 meters, with a rock pile at its base that transitions into a sand slope, and further into a channel of rubble with large soft corals. This variety of microhabitats — wall face, rubble, sand slope — supports an unusually wide range of nudibranch families and is consistently rated the most nudibranch-dense site in the strait. Maximum depth is approximately 20 meters. The water here can carry slightly more current than the sheltered southern sites, though conditions are generally manageable for intermediate divers. Visibility runs 8–15 meters. Water temperature averages 26–29°C year-round.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The site presents a sloping black sand bottom interspersed with rubble patches, 
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate; occasionally stronger
 - **Best Time**: Year-round; October to May for calmest seas

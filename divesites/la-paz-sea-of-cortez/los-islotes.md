@@ -25,7 +25,7 @@ Los Islotes consists of two rocky islets at the northern tip of the Espíritu Sa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 18 metres (typical dive zone 5–18 m; deeper sections exist on northern side)
 
 ## Marine Life
 
@@ -33,7 +33,7 @@ California sea lions are the defining encounter — juvenile sea lions are parti
 
 ## Dive Profile
 
-Multiple dive zones ring the islets, ranging from shallow snorkel-depth areas (3–5 m) around the sea lion haul-out rocks to wall sections descending to 26 m. The underwater arch (explored around 10–15 m) is a highlight. Visibility is typically 15–25 meters. Conditions are generally calm but can be affected by surge and seasonal swell.
+Multiple dive zones ring the islets, ranging from shallow snorkel-depth areas (3–5 m) around the sea lion haul-out rocks to wall sections on the northern side reaching approximately 18 m. The underwater arch (explored around 10–15 m) is a highlight. Visibility is typically 15–25 metres; DiversInnMX reports an average of 20 m. Conditions are generally calm but can be affected by surge and seasonal swell.
 
 ## Entry and Exit
 
@@ -52,4 +52,4 @@ Boat access only from La Paz (~80 minutes crossing). The Cortez Club and La Paz 
 **Seasonal closure: Los Islotes is closed to all visitor access from June 1 through August 31 each year.** This mandatory closure protects California sea lions during their breeding season when mothers are nursing pups and territorial bulls are most aggressive. The site reopens on September 1. Always confirm current closure status with your operator before planning a visit. In water, maintain respectful distance from bulls displaying territorial behavior.
 
 ---
-*Sources: [TOSEA — The Successful Sea Lions of Los Islotes](https://tosea.net/the-successful-sea-lions-of-los-islotes/), [Cortez Club — Los Islotes is Back](https://cortezclub.com/los-islotes-is-back-dolphins-mantas-and-sea-lions-in-full-swing/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [La Paz Divers — Sea Lions Tour](https://lapazdivers.com/la-paz-sea-lions-tour/). Last updated 2026-05-17.*
+*Sources: [TOSEA — The Successful Sea Lions of Los Islotes](https://tosea.net/the-successful-sea-lions-of-los-islotes/), [Phys.org — Sea lion colony in Mexico defies declining numbers](https://phys.org/news/2021-10-sea-lion-colony-mexico-defies.html), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [La Paz Divers — Dive Sites](https://lapazdivers.com/la-paz-dive-sites/), [DiversInnMX — Dive Locations](https://diversinnmx.com/dive-locations/), [PADI — Los Islotes Sea Lion Colony](https://www.padi.com/dive-site/mexico/los-islotes-sea-lion-colony/). Last updated 2026-06-12.*
