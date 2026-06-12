@@ -3,9 +3,9 @@ name: Turtle Point
 lat: -8.3427036
 lng: 116.0437832
 difficulty: Beginner
-maxDepth: 35
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 6750981689
 addedBy: osm_import
@@ -17,15 +17,15 @@ A pinnacle on Gili Trawangan's northeast side where green and hawksbill turtles 
 
 ## Overview
 
-Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle drops from 10 m to 35 m and is used by both green and hawksbill turtles as a feeding and resting area. Multiple turtle encounters in a single dive — sometimes 10 or more — are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip, making it one of the most achievable bucket-list dives in the Lombok area for visiting divers.
+Turtle Point (widely called Turtle Heaven or Turtle City by Gili Islands operators) is a coral-covered pinnacle northeast of Gili Meno used by both green and hawksbill turtles as a feeding and resting area. The pinnacle peaks at around 10 m and descends to approximately 30 m. Multiple turtle encounters in a single dive are typical, and on lucky dives as many as 10 turtles have been reported in the water at once (Manta Dive). The site is suitable for all levels of diver, with the best turtle concentrations in the upper 10–18 m zone. Accessible from Lombok mainland as part of a Gili Islands day trip.
 
 ## Site Information
 
 - **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; variable on the pinnacle
 - **Best Time**: May to October
@@ -59,4 +59,4 @@ Variable current on the pinnacle. Beginners should stay on the upper sections in
 Multiple turtles together in one frame. Turtle eye-level portraits with pinnacle coral background. Wide-angle captures the pinnacle scale with turtles and reef sharks in context.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Gili Divers – Dive Sites (Turtle Heaven)](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/). Corrections: site type corrected from reef to pinnacle; location is northeast Gili Meno (this site is widely referred to as Turtle Heaven/Turtle City by operators); max depth corrected from 35m to 30m based on multi-source consensus (Gili Divers/Oceans 5 say 10-30m; one source says 35m). "10+ turtles per dive regularly" softened — Manta Dive says "up to 10 if lucky." Confirmed species: green and hawksbill turtles, nudibranchs, pipefish, frogfish. Last updated 2026-06-12.*

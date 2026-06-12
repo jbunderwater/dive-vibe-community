@@ -17,7 +17,9 @@ A bay dive on Lombok's northwest coast — a relaxed reef with seahorse populati
 
 ## Overview
 
-Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately 25 minutes by boat from the Gili Islands. The site sits in a sheltered bay with a sandy slope and scattered coral development, making it a relaxed dive that appeals particularly to macro photographers and divers interested in critter hunting rather than current-driven pelagic action. The nearby Mentigi Bay area on the Lombok coast is famous for seahorse populations, and Teluk NBoro shares similar substrate characteristics, with the potential for seahorses, pipefish, and ghost pipefish in the rubble and sand zones.
+Teluk NBoro is recorded in OSM data as a dive site on Lombok's northwest coast, south of the Gili Islands. The site name "Teluk NBoro" has not been found in any independent operator website, dive database, or forum. The coordinates (-8.4042, 116.0591) place it on the Lombok coast approximately 9 km south of Gili Meno, in the Teluk Nara / Mentigi Bay area. This coastal area is known for muck-style macro diving, but no source confirms this specific site name.
+
+Previous descriptions of this site as having "seahorse populations" were inferred from the nearby Seahorse Bay / Mentigi Bay area on Lombok's northwest coast — these are site-specific claims that have not been confirmed for this GPS location specifically. *This site has not been independently validated.*
 
 ## Site Information
 
@@ -32,7 +34,7 @@ Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately
 
 ## Marine Life
 
-Seahorses are occasionally found in the sandy rubble zone. Pipefish and ghost pipefish among sparse coral growth. Blue-spotted stingrays on the sandy bottom. Nudibranchs throughout the rubble. The bay fringe reef hosts typical reef fish — butterflyfish, parrotfish, and moray eels.
+No site-specific marine life has been confirmed for this exact GPS location. The wider Teluk Nara / Mentigi Bay area on northwest Lombok is generally associated with macro diving on sandy substrate. Seahorses, pipefish, and stingrays are characteristic of that area, but cannot be attributed to this specific site without independent confirmation.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Mild currents but standard buoyancy care essential above the sandy substrate. Do
 Seahorse portraits on their natural substrate are the highlight subject. Ghost pipefish camouflage against surrounding material — macro lens essential. Stingrays on sand suit wide-angle close-focus for environmental context.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on geographic position and regional diving characteristics of northwest Lombok coastal diving. No site-specific sources found for "Teluk NBoro" in any operator website, dive database, or forum. Seahorse claims removed — previously inferred from nearby Mentigi Bay / Seahorse Bay area, not confirmed for this specific site. QA 2026-06-12: site not validated.*

@@ -17,7 +17,7 @@ A coral-rich reef dive in the waters between Gili Meno and the Lombok coast with
 
 ## Overview
 
-Mirkos Reef is a dive site in the waters around Gili Air, known as part of the broader collection of coral-rich Gili Islands dive sites. The reef features coral formations with diverse tropical reef fish and extends to 35 m at its deepest sections, though the productive zone for marine life is concentrated between 10–25 m. The site suits intermediate divers for the main reef and offers extended depth options for advanced divers wanting to explore the deeper coral formations. It is accessible as a day trip from Lombok.
+Mirkos Reef (also called Secret Reef by some operators) is a long underwater seamount between Gili Air and Gili Meno, approximately 15 minutes by boat. Deep ridges extend from 35 m to 18 m, covered in sea fans, sponges, Acropora antler coral, and soft corals — described as fingers extending from the main ridge. The top of the reef is flat at around 12 m and makes a good safety stop and reef garden observation area. A large underwater statue of the letter M, placed in memory of a diver named Mirkos, is a distinctive landmark. The site is noted for pristine coral and schooling fish populations.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Mirkos Reef is a dive site in the waters around Gili Air, known as part of the b
 
 ## Marine Life
 
-Reef fish typical of the Gili Islands' coral triangle position — parrotfish, surgeonfish, triggerfish, butterflyfish, and wrasse. Turtles on the reef crest. Moray eels and grouper at depth. Reef sharks are occasionally sighted on the outer sections. Nudibranchs and cleaner shrimps in the coral rubble.
+Confirmed at this specific site (Manta Dive Gili Air): map pufferfish, yellow trumpetfish, long-nosed butterflyfish, green sea turtles, schooling fusiliers and snappers, blue-spotted ribbon-tailed rays under overhangs, giant frogfish camouflaged among sponges, white-tip reef sharks cruising the ridges. The site is described as having "pristine corals" with richer diversity than the main Gili Islands sites due to its position between the islands.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are moderate and manageable for intermediate divers. The deeper section
 Reef fish diversity suits fish portrait work. Turtles on the reef crest. Deeper sections with larger sea fans suit wide-angle with strobes.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Mirkos Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [ScubaGo – Mirkos Reef](https://www.scubago.com/en/explore/divesite/mirkos-reef-106692), [Gilis.asia – Mirkos Reef](https://gilis.asia/dive-sites-gili-islands/listing/mirkos-reef). Site-specific species added from Manta Dive Gili Air operator page: map pufferfish, yellow trumpetfish, long-nosed butterflyfish, green turtles, fusiliers, snappers, blue-spotted ribbon-tailed rays, giant frogfish, white-tip reef sharks. M-statue landmark confirmed by multiple sources. Alternate name "Secret Reef" noted. Last updated 2026-06-12.*

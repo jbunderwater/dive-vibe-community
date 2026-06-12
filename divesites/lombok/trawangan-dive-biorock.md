@@ -3,7 +3,7 @@ name: Trawangan Dive Biorock
 lat: -8.3490364
 lng: 116.0442834
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ The Trawangan Dive operation's flagship Biorock structure on Gili Trawangan's ho
 
 ## Overview
 
-Trawangan Dive Biorock is the coral restoration structure operated by Trawangan Dive, one of the most conservation-active dive operators in the Gili Islands. Supported by the Gili Eco Trust, this structure has been developing for years as part of the Biorock network that has transformed the reef ecology of the Gili Islands. The structure offers Biorock specialty course activities including coral gardening, monitoring, and maintenance. Accessible from Lombok as part of a Gili Islands day trip.
+Trawangan Dive Biorock is the coral restoration structure operated by Trawangan Dive, one of the most conservation-active dive operators in the Gili Islands. Supported by the Gili Eco Trust, this structure has developed since the programme's founding installation on 20 November 2004 (Gili Eco Trust was established in 2000; Biorock technology was introduced in 2004). The structure offers Biorock speciality course activities including coral gardening, monitoring, and maintenance. More than 110 Biorock structures had been installed across the Gili Islands by 2016. Accessible from Lombok as part of a Gili Islands day trip.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Trawangan Dive Biorock is the coral restoration structure operated by Trawangan 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -59,4 +59,4 @@ Standard Biorock structure precautions. Do not touch the frame. Maintain buoyanc
 Conservation documentation photography. Fish communities in the reef-covered structure. Macro on encrusting coral growth details.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Corrections: start date corrected from unspecified "for years" to first installation 20 November 2004; programme origin added (Gili Eco Trust founded 2000; Biorock technology introduced 2004). Last updated 2026-06-12.*

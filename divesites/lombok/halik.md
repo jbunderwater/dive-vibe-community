@@ -3,7 +3,7 @@ name: Halik
 lat: -8.336235
 lng: 116.038308
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Halik runs along the north side of Gili Trawangan and is dived as a drift, carry
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate drift
 - **Best Time**: May to October

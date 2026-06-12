@@ -25,7 +25,7 @@ Jack Point is on the northwest side of Gili Trawangan, where two coral ridges st
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (ridges at 24 m; deep specialty section to 35–40 m)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Strong; site is current- and weather-dependent
 - **Best Time**: May to October

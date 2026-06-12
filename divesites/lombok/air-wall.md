@@ -3,7 +3,7 @@ name: Air Wall
 lat: -8.3528396
 lng: 116.0738278
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Air Wall runs along the southwest side of Gili Air and drops from 5 m to around 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent along the wall
 - **Best Time**: May to October

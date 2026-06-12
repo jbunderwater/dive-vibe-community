@@ -17,7 +17,7 @@ A reef site near Lombok's northeast coast with coral formations and diverse reef
 
 ## Overview
 
-Segaluh is a reef site in the northeast area beyond the main Gili Islands chain, lying in the waters closer to Lombok's north coast. The site is less frequented than the core Gili Islands sites, which contributes to healthy corals and more undisturbed fish behaviour. The reef features typical Indonesian tropical coral formations at 10–25 m with a range of reef fish, occasional turtles, and the biodiversity characteristic of Coral Triangle waters. It is accessible from Lombok operators as a day trip to this less-visited section of the region.
+Segaluh is recorded in OSM data as a dive site northeast of the Gili Islands, closer to Lombok's north coast. No independent operator website, dive database, or forum post has been found that references this site by name. The OSM source note indicates it comes from a "Diveschool Notice Board" and the GPS location may need verification. The description below is based on the site's geographic position and general characteristics of northeast Lombok coastal reef diving; no site-specific sources have been found. *This site has not been independently validated.*
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Standard intermediate reef precautions. Currents are moderate. Maintain buoyancy
 Fish portraits benefit from the undisturbed nature of the reef — subjects are less wary. Turtle encounters with natural light. Nudibranchs in coral rubble for macro work.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on geographic position and regional diving characteristics. No site-specific sources found for "Segaluh" in any operator website, dive database, or forum. QA 2026-06-12: site not validated — unable to find 3 independent sources confirming this site's existence under this name.*

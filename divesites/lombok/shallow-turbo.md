@@ -17,7 +17,7 @@ The accessible beginner version of the Turbo dive series — a gentle reef drift
 
 ## Overview
 
-Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, providing an introduction to drift diving for newly certified Open Water divers. The current-driven reef experience produces fish aggregations typical of the channel — turtles, reef sharks, snapper schools, and clownfish in anemones are regular sightings. The shallow depth profile allows extended bottom time and a relaxed diving pace suitable for building confidence with drift conditions before progressing to more exposed offshore sites. Accessible as a day trip from Lombok.
+Shallow Turbo is the shallow section of the Deep Turbo dive site on the northeast side of Gili Trawangan. A sandy bottom with magnificent coral heads defines the site, which rarely exceeds 18 m. Garden eels are reliably found in the sandy areas between coral formations. The site offers extended bottom time in calm conditions and is accessible to beginner divers. It pairs naturally with the deeper Deep Turbo section for experienced divers doing a multi-depth dive on the same site. Accessible as a day trip from Lombok.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Even gentle drift requires SMB carry and drift pickup procedure. Do not swim ups
 Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones at close range. Natural light in 6–15 m provides vivid coral colour without strobe.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Stingray Divers – Shallow Turbo](https://www.trawanganstingraydivers.com/dive-site/dive-site-gili-trawangan/shallow-turbo/), [SSI – Shallow Turbo / Hallo Reef](https://www.divessi.com/en/mydiveguide/divesite/shallow-turbo-hallo-reef-gili-trawangan-halik-t-lombok-indonesia-134717), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Confirmed: shallow end of Deep Turbo, NE Gili Trawangan, 18m, sandy bottom with coral heads. Confirmed species: pufferfish, batfish, sea turtles, garden eels, ghost pipefish, unicornfish. Description corrected from "gentle reef drift" (no source calls this a drift site) to coral heads on sandy bottom. Last updated 2026-06-12.*

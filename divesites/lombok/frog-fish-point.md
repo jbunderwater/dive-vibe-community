@@ -3,7 +3,7 @@ name: Frog Fish Point
 lat: -8.3474561
 lng: 116.0886552
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,14 +25,14 @@ Frog Fish Point is a dedicated macro dive site in the Gili Air area, renowned fo
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Mild
 - **Best Time**: May to October
 
 ## Marine Life
 
-Multiple frogfish species — warty, giant, and hairy. Seahorses and pipefish in sparse algae and rubble zones. Ghost pipefish among debris. Nudibranchs throughout the rubble. Mantis shrimps at burrow entrances. The Gili Air harbour area nearby is famous for the mandarin fish, seen at dawn or dusk. Blue-spotted stingrays on the sand.
+Frogfish (multiple species) are the signature species — confirmed by multiple sources. Ghost pipefish among debris and sparse algae. Scorpionfish on coral heads and rubble. Garden eels on sandy areas. Clownfish in anemones throughout the reef. Nudibranchs on rubble. Note: previous descriptions listed "warty frogfish, giant frogfish, hairy frogfish" as three individually confirmed species — only "multiple frogfish species" is independently verified at this specific site; the species names are unconfirmed for Frogfish Point specifically. Seahorses are mentioned in association with Gili Air harbour/macro sites but are not confirmed for this specific site vs. the broader Gili Air harbour area.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Maintain positive buoyancy above the sand at all times — stonefish and scorpio
 Frogfish in their full cryptic context are the priority subject. Each colour morph of frogfish presents a different photographic challenge. Ghost pipefish and seahorses suit 100mm macro lens. Nudibranchs reward macro with diopter for the most detail.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Diversion Dive Travel – Frogfish Point](https://www.diversiondivetravel.com.au/g708/diving_frogfish_point.html), [Starfish.ch – Lombok Dive Sites](https://www.starfish.ch/dive/Lombok.html), [ScubaGo – Frogfish Point](https://www.scubago.com/en/explore/divesite/frogfish-point-77894). Confirmed species: frogfish (multiple species), ghost pipefish, scorpionfish, garden eels, clownfish. Species removed: "warty frogfish, giant frogfish, hairy frogfish" — specific species names not confirmed by independent sources for this site. Seahorses hedged as associated with Gili Air harbour area broadly, not this specific site. Last updated 2026-06-12.*

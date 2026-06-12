@@ -25,7 +25,7 @@ Shark Point runs along the west side of Gili Trawangan, where a coral reef plate
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Strong; always a drift dive
 - **Best Time**: May to October

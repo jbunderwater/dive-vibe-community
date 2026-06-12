@@ -3,7 +3,7 @@ name: Simons Reef
 lat: -8.3347077
 lng: 116.065643
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ A deep offshore reef north of the Gili Islands with dramatic canyons, massive go
 
 ## Overview
 
-Simon's Reef is one of the premier advanced dive sites accessible from Lombok, sitting north of the Gili Islands chain. Canyons spread across the site with large coral bommies rising from the sandy bottom, and massive gorgonian sea fans are the defining visual feature — the best spot on the reef for hunting pygmy seahorses with the eye. The channelling currents bring large and varying schooling fish, pelagic species, and create the dynamic conditions that attract experienced divers. Barrel sponges and vibrant soft corals complete the visual spectacle at depth.
+Simon's Reef is an advanced dive site accessible from Lombok, sitting northeast of Gili Air between Gili Air and Gili Meno (not "north of the Gili Islands" as sometimes stated). Large sea mounds/bommies rise from a sandy bottom at around 25–35 m, each sculpted with overhangs and outcrops. Massive gorgonian sea fans are the defining visual feature — confirmed by Blue Marlin Dive as the site's standout characteristic and a noted location for pygmy seahorse sightings. The site finishes on a pinnacle peppered with tropical reef fish. Strong currents create dynamic conditions requiring Advanced certification.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Simon's Reef is one of the premier advanced dive sites accessible from Lombok, s
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong; channelling through canyons
 - **Best Time**: May to October
 
 ## Marine Life
 
-Massive gorgonian sea fans hosting Bargibanti pygmy seahorses. Barrel sponges providing habitat for shrimps and small fish. Schools of snapper, fusiliers, and jack in the canyon currents. Pelagic species including trevally and barracuda. Reef sharks on the outer reef. Turtles on the shallower bommies.
+Massive gorgonian sea fans on the bommie faces — the standout visual feature. Garden eels and blue-spotted stingrays in sandy channels between bommies. Cuttlefish on the reef. Schools of angelfish, triggerfish, tuna, and large barracuda confirmed by DiveZone. Pygmy seahorse sightings in gorgonian fans confirmed by Blue Marlin Dive. Reef sharks on the outer reef. Turtles on the upper bommie sections.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Channelling currents in the canyons can be strong and difficult to predict. Know
 Massive gorgonian sea fans are the feature subject — wide-angle close-focus captures their full size. Pygmy seahorses require macro lens and skilled guide to locate. Canyon walls with schooling fish suit wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [DiveZone – Simons Reef](https://divezone.net/divesite/simons-reef), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/). Location corrected from "north of Gili Islands" to between Gili Air and Gili Meno (northeast of Gili Air). Depth corrected from 30m to 35m (DiveZone and Blue Marlin confirm sandy bottom at 35m; PADI also confirms 30m+ Advanced). Marine life updated with site-specific confirmed species. "Large canyons" from prior description changed to "sea mounds/bommies with overhangs". Last updated 2026-06-12.*

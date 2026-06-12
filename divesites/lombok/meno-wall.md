@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Meno Wall
 
-A steep soft coral wall between Gili Trawangan and Gili Meno — one of the Gili Islands' best night dive sites and an excellent drift for intermediate divers.
+A steep soft coral wall on the west side of Gili Meno — the Gili Islands' premier night dive, with lobsters, crabs, Spanish dancers, and nocturnal reef fish emerging after dark.
 
 ## Overview
 
-Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descending from 5 m to over 22 m on a steep face covered in soft corals and sea fans. The drift current carries divers at a relaxed pace along the wall, with turtles, reef sharks, and batfish appearing regularly from the blue. Night dives here are exceptional — the crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, and nocturnal reef fish become the main attraction. Pygmy seahorses and bamboo sharks have been found in the wall's crevices. This is one of the most consistently good sites in the Gili Islands / Lombok dive zone.
+Meno Wall runs along the west side of Gili Meno, descending from 5 m to around 22–25 m on a steep face covered in soft corals and sea fans. The drift current carries divers at a relaxed pace along the wall, with turtles, reef sharks, and batfish appearing regularly. Night dives here are exceptional — the crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, Spanish dancers, and nocturnal reef fish become the main attraction. Multiple operators consistently describe this as the best night dive in the Gili Islands. Bumphead parrotfish are occasionally observed passing in the blue. This is one of the most consistently good sites in the Gili Islands / Lombok dive zone.
 
 ## Site Information
 
-- **Location**: Channel between Gili Trawangan and Gili Meno, Gili Islands / Lombok
+- **Location**: West side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descendin
 
 ## Marine Life
 
-Green and hawksbill turtles on the wall face at all depths — the most consistently confirmed species here. Moray eels and lionfish in wall crevices. Scorpionfish (bearded scorpionfish) on the wall surface. Nudibranchs on the soft coral and gorgonian structures. Grouper and sweetlips in the overhang zones. At night: lobsters, crabs, shrimps, and Spanish dancers emerge throughout the wall — described by multiple operators as one of the best night dives in the Gili Islands. Pygmy seahorses have been reported on soft coral colonies by two operators. Note: bamboo sharks were in an earlier version of this description — this is unverified at this specific site and has been removed.
+Green and hawksbill turtles on the wall face at all depths. Reef sharks passing in the blue. Batfish in the water column. Moray eels and lionfish in wall crevices. Scorpionfish on the wall surface. Nudibranchs on the soft coral and gorgonian structures. Grouper and sweetlips in the overhang zones. Bumphead parrotfish occasionally observed in the blue (confirmed by divezone.net). At night: lobsters, crabs, shrimps, and Spanish dancers emerge throughout the wall.
 
 ## Dive Profile
 
@@ -46,17 +46,17 @@ Boat from Gili Trawangan, Gili Meno, or Lombok mainland operators. Always drifte
 
 - Night dives here are among the best in the Gili Islands — book with an operator who runs night boat trips
 - The comfortable drift pace suits both novice and experienced divers
-- Check wall crevices for bamboo sharks resting during day dives
-- Combine with the Bounty Wreck for a complete Gili Meno diving day
+- Scan the blue water for bumphead parrotfish passing along the wall
+- Combine with Meno Corner (northeast Gili Meno) for a full Gili Meno diving day
 - Soft coral density peaks between 8–18 m — ideal photography depth range
 
 ## Safety Considerations
 
-Drift current can accelerate occasionally. Ascend to the shallower wall if current becomes too strong. Always carry an SMB. Night dives require each diver to carry a primary light and a backup. Be aware of boat traffic in the channel especially at night.
+Drift current can accelerate occasionally. Ascend to the shallower wall if current becomes too strong. Always carry an SMB. Night dives require each diver to carry a primary light and a backup. Be aware of boat traffic especially at night.
 
 ## Photography
 
-Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Pygmy seahorses require macro lens and patience to locate in gorgonian polyps.
+Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Bumphead parrotfish in the blue benefit from fast shutter speeds and wide angle.
 
 ---
-*Sources: [PADI – Gili Meno Wall](https://www.padi.com/dive-site/indonesia/gili-meno-wall/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Trawangan Stingray Divers – Meno Wall](https://www.trawanganstingraydivers.com/dive-site/gili-meno/meno-wall/). Confirmed species: turtles (5+ sources), moray eels, lionfish, scorpionfish, nudibranchs, lobsters/crabs at night (5+ sources), Spanish dancer at night. Depth corrected from 22m to 25m. Bamboo sharks removed — unverified at this specific site. Last updated 2026-06-12.*
+*Sources: [PADI – Gili Meno Wall](https://www.padi.com/dive-site/indonesia/gili-meno-wall/), [DiveZone – Meno Wall](https://divezone.net/divesite/meno-wall), [Manta Dive Gili Air – Meno Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-wall-all-levels), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Key corrections: location changed from "channel between Trawangan and Meno" to west side of Gili Meno (confirmed by PADI coordinates, divezone.net, and manta-dive-giliair.com); bamboo sharks claim removed (not confirmed by any source); pygmy seahorses claim removed (not confirmed for Meno Wall by any source reviewed); bumphead parrotfish added (confirmed by divezone.net). Last updated 2026-06-12.*

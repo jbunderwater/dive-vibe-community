@@ -3,9 +3,9 @@ name: Meno Corner
 lat: -8.3588705
 lng: 116.0625884
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 20
 entryType: boat
-siteType: pinnacle
+siteType: drift
 ref: null
 osmId: 2395669754
 addedBy: osm_import
@@ -17,15 +17,15 @@ The northeast tip of Gili Meno — a coral-covered pinnacle rising from around 9
 
 ## Overview
 
-Meno Corner is located at the northeast tip of Gili Meno (also known to some operators as Turtle Heaven or Turtle City) and is consistently ranked among the best sites in the entire Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle with its peak at around 9–10 m, with coral-covered sides dropping to over 30 m. Green and hawksbill turtles congregate in the surrounding sea grass beds and on the reef slope in impressive numbers. The pinnacle also hosts schools of clownfish, damsels, sergeant majors, cuttlefish, scorpionfish, and giant clams.
+Meno Corner is located near the northeast tip of Gili Meno. Some operators may use this name interchangeably with or adjacently to the site commonly called Turtle Heaven or Turtle City — independent verification is needed to confirm whether these are identical or closely adjacent sites. The northeast Gili Meno area broadly features a pinnacle with its peak at approximately 9–10 m and coral-covered sides dropping past 30 m. Green and hawksbill turtles congregate in the surrounding sea grass beds and on the reef slope. The pinnacle hosts clownfish, damsels, sergeant majors, cuttlefish, scorpionfish, and giant clams.
 
 ## Site Information
 
 - **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30+ meters (pinnacle peak at 9–10 m)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; can be strong on the corner
 - **Best Time**: May to October
@@ -59,4 +59,4 @@ Current at the corner can be strong, particularly on spring tides. Stay close to
 Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Turtle Heaven](https://www.trawangandive.com/dive-sites-gili-islands/), [PADI – Turtle City/Heaven](https://www.padi.com/dive-site/indonesia/turtle-city-heaven/), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/). Key corrections: site_type changed from drift to pinnacle; max depth corrected from 20 m to 30+ m; "Bounty Wreck nearby/adjacent" claim removed — Bounty Wreck is on the southwest side of Gili Meno, Meno Corner is on the northeast side (opposite sides of the island, not adjacent); marine life updated to confirmed species (clownfish, cuttlefish, giant clams, scorpionfish replacing unverified parrotfish, triggerfish, sweetlips, moray eels). Pinnacle depth of 9–10 m peak confirmed by 2 independent sources. Last updated 2026-06-12.*

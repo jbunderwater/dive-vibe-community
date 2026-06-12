@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Meno Slope
 
-A gentle sloping reef on the south side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
+A gentle sloping reef on the west side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
 
 ## Overview
 
-Meno Slope is a sandy slope with large boulders and coral outcrops on the south side of Gili Meno, offering relaxed conditions compared to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 28 m. A notable landmark is an underwater statue of two embracing couples at approximately 3 m depth, visible from the surface in good conditions. Hawksbill and green turtles are reliably encountered, and blue-striped snapper schools are common on the reef sections. The site works well as a second or third dive of the day when a more relaxed dive profile is desired. Night dives are recommended by multiple operators for macro species.
+Meno Slope is a sandy slope with large boulders and coral outcrops on the west/south side of Gili Meno, offering relaxed conditions compared to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 28 m. A notable landmark is an underwater statue of two embracing couples at approximately 3 m depth, visible from the surface in good conditions. Hawksbill and green turtles are reliably encountered, and blue-striped snapper schools are common on the reef sections. The site works well as a second or third dive of the day when a more relaxed dive profile is desired. Night dives are recommended by multiple operators for macro species.
 
 ## Site Information
 
-- **Location**: South side of Gili Meno, Gili Islands / Lombok
+- **Location**: West side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15–22 m
 - **Current**: Mild to moderate
 - **Best Time**: May to October

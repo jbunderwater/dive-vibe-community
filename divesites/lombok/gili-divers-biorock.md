@@ -3,7 +3,7 @@ name: Gili Divers Biorock
 lat: -8.3495698
 lng: 116.0444604
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ A Biorock coral restoration structure supported by the Gili Divers operation —
 
 ## Overview
 
-Gili Divers Biorock is maintained by the Gili Divers operation and forms part of the broader Gili Eco Trust Biorock network on the east coast of Gili Trawangan. Since 2006, these structures have used low-voltage electrical current to stimulate accelerated limestone mineral accretion on steel frames, creating the substrate that encourages accelerated coral colonisation. The structure is accessible from Lombok as part of a Gili Islands day trip and showcases the conservation efforts that have contributed to increased marine biodiversity around the Gili Islands.
+Gili Divers Biorock is maintained by the Gili Divers operation and forms part of the Gili Eco Trust Biorock network on the east coast of Gili Trawangan. The Gili Eco Trust launched the first Biorock installation on 20 November 2004. More than 110 structures had been installed by 2016. The low-voltage current (1.2 volts) stimulates limestone accretion on steel frames at 2–6 times the normal coral growth rate. Confirmed marine life on Gili Islands Biorock structures: pipefish, juvenile frogfish, flatworms, and crustaceans (Gili Divers site). The structure is accessible from Lombok as part of a Gili Islands day trip.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Gili Divers Biorock is maintained by the Gili Divers operation and forms part of
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -59,4 +59,4 @@ Standard artificial structure precautions. No touching the frame. Maintain buoya
 Documentary photography of reef restoration progress. Fish portraits against coral-covered steel geometry. Conservation context shots for dive logs and social media.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Corrections: start date corrected from "since 2006" to first installation 20 November 2004; structure count corrected from "120+" to "more than 110" (as of 2016). Marine life added from Gili Divers site: pipefish, juvenile frogfish, flatworms, crustaceans. Last updated 2026-06-12.*

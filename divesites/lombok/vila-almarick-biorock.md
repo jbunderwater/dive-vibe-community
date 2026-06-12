@@ -3,7 +3,7 @@ name: Vila Almarick Biorock
 lat: -8.3461172
 lng: 116.0433854
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ A Biorock reef restoration structure on Gili Trawangan's east coast, accessible 
 
 ## Overview
 
-Vila Almarick Biorock is one of the northernmost structures in the east coast Gili Trawangan Biorock cluster. Like all structures in the Gili Islands Biorock network, it uses low-voltage electrical current to stimulate mineral accretion on steel frames for accelerated coral growth. Named after the adjacent Vila Almarick resort, the structure sits at the shallower end of the east coast cluster and is particularly accessible for beginner divers and snorkellers. Accessible from Lombok as part of a Gili Islands day trip.
+Vila Almarick Biorock is one of the northernmost structures in the east coast Gili Trawangan Biorock cluster. Like all structures in the Gili Islands Biorock network, it uses a low-voltage electrical current (1.2 volts) to stimulate mineral accretion on steel frames for accelerated coral growth. Named after the adjacent Vila Almarik resort, the structure sits at the shallower end of the east coast cluster. The Gili Eco Trust launched the programme on 20 November 2004 (not "since 2006" as sometimes stated); more than 110 structures existed by 2016. Accessible from Lombok as part of a Gili Islands day trip.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Vila Almarick Biorock is one of the northernmost structures in the east coast Gi
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -59,4 +59,4 @@ Standard artificial structure precautions. Maintain buoyancy to protect coral gr
 Each structure has slightly different coral and fish character. The shallower position here allows excellent natural light photography. Wide-angle captures the structure scale in context with the reef.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – Gili Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Corrections: programme start date corrected from "since 2006" to first installation 20 November 2004; structure count updated from unsourced to "more than 110" as of 2016. Last updated 2026-06-12.*
