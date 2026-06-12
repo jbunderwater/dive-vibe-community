@@ -44,10 +44,10 @@ Boat from Gili Meno or Lombok operators. The corner has variable current — fol
 
 ## Tips and Recommendations
 
-- Combine Meno Corner and Bounty Wreck in the same diving day for a comprehensive Gili Meno experience
-- Move slowly across the sea grass patches — turtles are often camouflaged among the blades
+- Move slowly across the sea grass patches — turtles are often resting among the blades
 - Best dived early in the morning when turtles are most active on the reef
-- The pinnacle drops to 30 m and is worth a deeper visit for advanced divers
+- The pinnacle drops to 30+ m and is worth a deeper visit for advanced divers
+- Note: Meno Wall (west side of Gili Meno) is a better same-day pairing than Bounty Wreck (southwest side) — they are on the same side of the island; Meno Corner is on the northeast
 - Accessible from Lombok mainland as part of a Gili Islands day trip
 
 ## Safety Considerations
