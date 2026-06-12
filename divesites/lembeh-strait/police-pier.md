@@ -56,7 +56,7 @@ Police Pier is a beginner-friendly site with minimal hazards. The main night div
 
 ## Photography
 
-This is one of the top macro and supermacro photography sites in Lembeh. Mandarinfish are the headline subject — use a wide aperture, fast shutter, and position yourself at eye level with the rubble as they emerge. Seahorse portraits benefit from a 100mm macro lens. The piling encrustation offers abstract reef textures for close-focus wide-angle work. Night photography here rewards divers who slow down and explore with a focus light — bobtail squid and Spanish dancer nudibranchs are spectacular subjects in torch light.
+This is one of the top macro and supermacro photography sites in Lembeh. Mandarinfish are the headline subject — use a wide aperture, fast shutter, and position yourself at eye level with the shallow staghorn coral patch as they emerge at dusk. Seahorse portraits benefit from a 100mm macro lens. Night photography here rewards divers who slow down and explore with a focus light — octopus behaviour sequences are compelling in torch light.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Two Fish Divers – Police Pier](https://twofishdivers.com/blog/lembeh-divesite-police-pier/), [Asia Dive Site – Police Pier](https://www.asiadivesite.com/indonesia-dive-sites/lembeh-strait/police-pier.php), [Solitude World – Mandarinfish at Lembeh](https://solitude.world/mandarinfish/), [Tropilogy – Lembeh Dive Sites](https://www.tropilogy.com/article/top-dive-sites-and-beyond-diving-in-lembeh-strait/). Last updated 2026-06-12.*
