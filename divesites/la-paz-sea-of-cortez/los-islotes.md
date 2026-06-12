@@ -3,7 +3,7 @@ name: Los Islotes
 lat: 24.5977
 lng: -110.401
 difficulty: Beginner
-maxDepth: 26
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Los Islotes is an iconic reef and wall dive site in La Paz & Sea of Cortez, famo
 
 ## Overview
 
-Los Islotes consists of two rocky islets at the northern tip of the Espíritu Santo Archipelago within Espiritu Santo National Park. The site is home to the southernmost California sea lion (Zalophus californianus) rookery in the Gulf of California. Researchers tracking the colony since 1980 document approximately 600 individuals, with around 170 pups born annually. Curious juveniles approach divers closely — the interactions are often compared to diving with underwater puppies. Beyond the sea lions, Los Islotes offers wall dives descending to 26+ meters, an underwater arch decorated with cup coral, large boulders, and cavern-like formations. The boat ride from La Paz is approximately 80 minutes.
+Los Islotes consists of two rocky islets at the northern tip of the Espíritu Santo Archipelago within Espiritu Santo National Park. The site is home to the southernmost California sea lion (Zalophus californianus) rookery in the Gulf of California. Long-term research (Professor Claudia J. Hernandez-Camacho, tracking since 1980) documented approximately 600 individuals with around 170 pups born annually; a 2021 study by researcher Hiram Rosales Nanduca recorded growth to approximately 700 animals — a striking contrast to the broader Gulf population, which has declined 65% since 1991. Curious juveniles approach divers closely — the interactions are often compared to diving with underwater puppies. Beyond the sea lions, Los Islotes offers wall sections and an underwater arch decorated with cup coral, large boulders, and cavern-like formations. Typical diving depths are 5–18 metres. The boat ride from La Paz is approximately 80 minutes.
 
 ## Site Information
 

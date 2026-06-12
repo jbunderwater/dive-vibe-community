@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Hairball
 
-Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and arguably the site that best encapsulates everything Lembeh is famous for. The name comes from the hairy frogfish found here in reliable numbers, though the site's real claim to fame is the extraordinary concentration of rare and bizarre critters packed into a single sandy slope.
+Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and arguably the site that best encapsulates everything Lembeh is famous for. The name has two origins: a diver once lost their hair band mid-dive, leaving hair flowing freely in the water, and the algae covering the slope is said to resemble a cat's hairball. The site's real claim to fame is the extraordinary concentration of rare and bizarre critters packed into a single sandy slope, with hairy frogfish among its most photographed residents.
 
 ## Overview
 
@@ -25,7 +25,7 @@ Hairball runs along a gently sloping black volcanic sand bottom scattered with s
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 29 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Usually mild; occasionally light drift
 - **Best Time**: Year-round; October to May for calmest conditions

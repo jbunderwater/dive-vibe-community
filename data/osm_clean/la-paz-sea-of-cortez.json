@@ -3,15 +3,16 @@
     "name": "Los Islotes",
     "lat": 24.5977,
     "lon": -110.401,
-    "depth": 26,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "DiversInnMX, Mapcarta, PADI"
+      "validated": "true",
+      "validation_source": "lapazdivers.com,cortezclub.com,padi.com,divers-guide.com,tosea.net",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -25,8 +26,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validated": "true",
+      "validation_source": "padi.com,cortezclub.com,tours.clubcantamar.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -40,8 +42,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "Zentacle, DiversInnMX, diveinlapaz.com"
+      "validated": "true",
+      "validation_source": "padi.com,dan.org,cortezclub.com,diveinlapaz.com,math.ucr.edu",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -55,8 +58,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "PADI, DiversInnMX, ScubaBoard"
+      "validated": "true",
+      "validation_source": "math.ucr.edu,dan.org,bajadiving.com,padi.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -70,8 +74,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "DiversInnMX, diveinlapaz.com, thedivegurus.com"
+      "validated": "true",
+      "validation_source": "diveinlapaz.com,cortezclub.com,thedivegurus.com,bajadiving.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -79,14 +84,15 @@
     "lat": 24.4153,
     "lon": -109.975,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "DiversInnMX, cabotrek.com, diveinlapaz.com"
+      "validated": "true",
+      "validation_source": "cortezclub.com,cabotrek.com,lapazdivers.com,caboprivateguide.com,padi.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -100,8 +106,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validated": "true",
+      "validation_source": "padi.com,cortezclub.com,yatezzitos.com,lapazexplorer.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -115,23 +122,25 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "PADI, ScubaBoard, DiversInnMX"
+      "validated": "true",
+      "validation_source": "caboprivateguide.com,dan.org,divers-guide.com,padi.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
     "name": "Las Animas",
     "lat": 24.6882,
     "lon": -110.486,
-    "depth": 28,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "DiversInnMX"
+      "validated": "true",
+      "validation_source": "uwphotographyguide.com,cortezclub.com,diversinnmx.com,zubludiving.com",
+      "last_qa_date": "2026-06-12"
     }
   },
   {
@@ -145,8 +154,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "getamap.net, bajadiving.com"
+      "validated": "true",
+      "validation_source": "bajadiving.com,cortezclub.com,cabotrek.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-12"
     }
   }
 ]
