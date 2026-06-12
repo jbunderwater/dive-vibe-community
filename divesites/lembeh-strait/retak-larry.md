@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Retak Larry
 
-Retak Larry is a dedicated octopus site in the Lembeh Strait, North Sulawesi, Indonesia — and in a location filled with sites named for habitats or specific species, this one is named after a person. "Retak Larry" is widely understood to honour Larry, a diver associated with early exploration of the site. Whatever the exact origin, the site has built a strong reputation as one of the best places in the strait to find multiple octopus species on a single dive, with the mimic octopus being the signature attraction.
+Retak Larry is a dedicated octopus site in the Lembeh Strait, North Sulawesi, Indonesia — and one of the few dive sites named after a person. "Retak" means "crack" in Indonesian, and the site is named after Larry Smith, a pioneering American divemaster who worked at Kungkungan Bay Resort and is credited with helping establish Lembeh Strait as the world's premier muck diving destination. The name was bestowed as a good-natured joke by resort staff, which Larry took with characteristic humour. Larry Smith passed away in 2007. The site he helped put on the map remains one of the best places in the strait to find multiple octopus species on a single dive, with the mimic octopus being the signature attraction.
 
 ## Overview
 
