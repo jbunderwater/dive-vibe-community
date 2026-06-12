@@ -33,7 +33,7 @@ Las Animas is documented as one of the best sites in the La Paz area for scallop
 
 ## Dive Profile
 
-The pinnacle formations drop into deep, clear water from the rocky island. Multiple dive sites ring the island at varying depths to 28 meters. Strong currents sweep the site regularly. Drift diving is often used to work the pinnacles efficiently. The remote location and demanding conditions make this suitable only for advanced divers comfortable with open-water drift technique.
+The pinnacle formations drop into deep, clear water from the rocky island. Multiple dive sites ring the island; the pinnacle tops begin at approximately 18–22 metres below the surface, with productive hammerhead shark zones extending to around 30 metres. Strong currents sweep the site regularly. Drift diving is typically used to work the pinnacles efficiently. The remote location and demanding conditions make this suitable only for advanced divers comfortable with open-water drift technique.
 
 ## Entry and Exit
 
@@ -52,4 +52,4 @@ Boat access from La Paz — the crossing is longer than most La Paz day-trip sit
 Strong, unpredictable currents are the primary hazard. Divers must have solid buoyancy control and open-water drift experience. The remote location means medical assistance is not immediately accessible. Always dive with a local guide who knows the site's current patterns and timing. Surface conditions on the crossing can be rough.
 
 ---
-*Sources: [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [ZuBlu — Shark Diving Baja California](https://www.zubludiving.com/articles/zublu-insights/top-shark-diving-in-baja-california), [Liveaboard.com — Sea of Cortez Season Calendar](https://www.liveaboard.com/diving/season-calendar/best-time-to-dive-in-the-sea-of-cortez). Last updated 2026-05-17.*
+*Sources: [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [ZuBlu — Shark Diving Baja California](https://www.zubludiving.com/articles/zublu-insights/top-shark-diving-in-baja-california), [DiversInnMX — Dive Locations](https://diversinnmx.com/dive-locations/), [Liveaboard.com — Sea of Cortez Season Calendar](https://www.liveaboard.com/diving/season-calendar/best-time-to-dive-in-the-sea-of-cortez). Last updated 2026-06-12.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Angel's Window
 
-Angel's Window is one of the most topographically distinctive muck diving sites in the Lembeh Strait, North Sulawesi, Indonesia. Unlike the purely flat sand slope sites that define most of the strait's diving, Angel's Window features a natural rock arch or window formation that gives the site its name and introduces reef-like structural elements into an otherwise muck-dominated environment. This hybrid character — muck sand slope combined with gorgonian-colonised rock structure — makes it one of the most varied dives in Lembeh.
+Angel's Window is one of the most topographically distinctive dive sites in the Lembeh Strait, North Sulawesi, Indonesia. Unlike the purely flat sand slope sites that define most of the strait's diving, Angel's Window is a twin-peaked pinnacle whose tip comes within a metre of the surface. A large cave on the deep end of the pinnacle creates a swim-through passage — the "window" — at approximately 25 metres depth. The site's name comes from the sunlight that streams through the cave opening in the early morning, described by early divers as a window to the light of angels. The pinnacle is cloaked in orange and green soft corals, sponges, and gorgonian sea fans, giving it a reef-like character distinct from the strait's typical muck sites.
 
 ## Overview
 
