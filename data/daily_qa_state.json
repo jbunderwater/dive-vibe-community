@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "la-paz-sea-of-cortez",
-    "lembeh-strait",
-    "lombok",
-    "lord-howe-island",
-    "los-cabos",
-    "madagascar",
     "malaysia",
     "maldives",
     "malta-and-gozo",
@@ -174,7 +168,13 @@
     "jordan-aqaba",
     "kenya-coast",
     "koh-tao",
-    "komodo-national-park"
+    "komodo-national-park",
+    "la-paz-sea-of-cortez",
+    "lembeh-strait",
+    "lombok",
+    "lord-howe-island",
+    "los-cabos",
+    "madagascar"
   ],
   "history": [
     {
@@ -1019,6 +1019,91 @@
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/88",
       "errors": [],
       "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
+    },
+    {
+      "date": "2026-06-12",
+      "slugs": [
+        "la-paz-sea-of-cortez",
+        "lembeh-strait",
+        "lombok",
+        "lord-howe-island",
+        "los-cabos",
+        "madagascar"
+      ],
+      "summary": {
+        "sites_total": 77,
+        "sites_validated_today": 63,
+        "sites_re_audited": 49,
+        "hallucinations_removed": 23,
+        "marine_life_stripped": 17,
+        "wreck_conflicts_flagged": 4,
+        "sites_unresolved": 6,
+        "by_destination": {
+          "la-paz-sea-of-cortez": {
+            "sites_total": 10,
+            "sites_validated_today": 5,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "Los Islotes depth 26m\u219218m corrected; La Reina reef\u2192pinnacle; Fang Ming length 54-56m conflict flagged; Salvatierra vessel identified as WWII Chesapeake Bay ferry; all validated=True\u2192\"true\" fixed"
+          },
+          "lembeh-strait": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Hairball naming corrected (cat hairball not frogfish); Nudi Falls naming origin added + depth 25\u219220m; Police Pier misidentified as traditional pier (it is a muck site); Retak Larry name origin corrected (crack not honoring Larry); Angel's Window arch\u2192twin-peaked pinnacle with cave; 6 species lists corrected with site-specific sources"
+          },
+          "lombok": {
+            "sites_total": 25,
+            "sites_validated_today": 17,
+            "sites_re_audited": 1,
+            "hallucinations_removed": 12,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Trawangan Wall/Halik alias removed (1.3km apart); Manta Point regular mantas removed (only 3-4 sightings since 2013); Air Wall location E\u2192SW corrected; Biorock start date 2006\u21922004; Teluk NBoro seahorses removed; Bounty sinking year/cause conflict documented; 4 unresolved: Segaluh, Teluk NBoro, Lombok Dive (commercial operator), Meno Corner"
+          },
+          "lord-howe-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "Erscott's Hole cave\u2192reef (critical error); Comets Hole entry shore\u2192boat; Ball's Pyramid angelfish depth range corrected; Howea Divers (defunct) removed from sources; Ball's Pyramid distance 26km\u219220km conflict documented; North Bay Dropoff no site-specific sources found"
+          },
+          "los-cabos": {
+            "sites_total": 13,
+            "sites_validated_today": 12,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Sand Falls Cousteau TV attribution removed (fabricated); Land's End \"small shipwreck\" corrected to SS Harry Lundeberg 134m; Gordo Banks hammerhead season corrected Aug-Jan; Neptune's Finger largest sandfall claim removed; Whale's Head Beginner\u2192Intermediate; Neptune's Finger Intermediate\u2192Advanced; El Salinar downgraded validated=false (no 3+ sources)"
+          },
+          "madagascar": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "sites_added": 4,
+            "notes": "Gap-filled 4\u21928 sites (added Nosy Tanikely, Mitsio Wreck, Banc des Gorgones, Fusiliers Bank); Rosado whale sharks removed; Manta divesite wall\u2192reef + depth 30\u219221m; Shark Point depth 20\u219230m; Rosado depth 20\u219219m, Intermediate\u2192Beginner; Chameau depth 20\u219233m"
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
     }
   ]
 }
