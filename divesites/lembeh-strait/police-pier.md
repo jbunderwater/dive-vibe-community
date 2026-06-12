@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Police Pier
 
-Police Pier is one of the most famous night dive sites on the planet, located in Lembeh Strait, North Sulawesi, Indonesia. Situated beneath and around the piling structures of a working pier on the Lembeh Island side of the strait, this shallow, sheltered site is regularly cited by visiting divers as one of the best night dives of their lives. By day it is a productive muck site in its own right; after dark it transforms into a spectacle of rare and nocturnal marine life.
+Police Pier is one of the most famous night dive sites in the Lembeh Strait, North Sulawesi, Indonesia, and a reliable dusk destination for one of the ocean's most spectacular fish courtship displays. Despite its name, Police Pier is not a traditional pier with pilings — the site is named after the nearby Lembeh police station. The dive itself is a shallow sandy and silty muck site with rubble, scattered soft corals, and a patch of staghorn coral that shelters mandarinfish. By day it is a productive macro hunting ground; at dusk it delivers the mandarinfish courtship display; after dark it transforms into a spectacle of rare nocturnal marine life.
 
 ## Overview
 
-The site is dominated by the pier structure itself, whose pilings are encrusted with soft corals, sponges, and hydroids. The surrounding bottom is silty black sand and rubble at depths rarely exceeding 15 meters. Currents are almost always calm — the pier provides shelter and the strait is protected at this location. Visibility runs 8–12 meters during the day; at night, dive torch beams are all that matter. Water temperature stays around 26–28°C year-round.
+The bottom is silty black sand and rubble at depths rarely exceeding 15 meters, with scattered soft corals, low-profile sponge growth, and a patch of staghorn coral that is the central attraction at dusk. Currents are almost always calm in this sheltered location. Visibility runs 8–12 meters during the day; at night, dive torch beams are all that matters. Water temperature stays around 26–28°C year-round.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ The site is dominated by the pier structure itself, whose pilings are encrusted 
 
 ## Marine Life
 
-Police Pier is one of the few reliably consistent locations in Lembeh to find mandarinfish (Synchiropus splendidus) — the jewel-coloured dragonet that hides in rubble during the day and emerges at dusk to perform its famously spectacular courtship display. Seahorses, both thorny and spotted varieties, cling to pier pilings and encrusting growth. Frogfish — including painted and warty species — position themselves among the sponge-covered structure to ambush prey. Ghost pipefish, robust and ornate, drift near the pilings. After dark, Spanish dancer nudibranchs unfurl from hiding spots, octopus hunt actively across the sand, and the sandy patches between pilings often reveal sleeping parrotfish wrapped in mucus cocoons and hunting flatworms. Bobtail squid, cuttlefish, and various shrimps complete the nightly cast.
+Police Pier is one of the few reliably consistent locations in Lembeh to find mandarinfish (Synchiropus splendidus) — the jewel-coloured dragonet that hides in the staghorn coral rubble during the day and emerges at dusk to perform its famously spectacular courtship display. Seahorses (thorny variety confirmed) are found among the rubble and low-profile growth. Frogfish — including painted and warty species — position themselves on sponge-covered debris. Banggai cardinalfish (endemic to this region) are documented around the structural elements. Pipefish, frogfish, ribbon and snake eels, sea moths, dragonets, and various scorpionfish and lionfish are documented at this site. Flamboyant cuttlefish, wunderpus, and long-armed octopus are among the cephalopods recorded here. After dark, the site comes alive with crabs, hunting octopus, and Bobbit worm sightings have been reported in the sandy areas.
 
 ## Dive Profile
 
-The dive is conducted entirely in the shallows — 3 to 15 meters — making it an exceptionally long bottom time site and ideal for beginners and underwater photographers alike. Day dives are best spent working the sandy areas around the pier base, searching rubble for seahorses and frogfish. Night dives begin at dusk when the mandarinfish courtship ritual peaks around sunset — divers typically enter the water 30–40 minutes before last light to find position before the display starts, then continue exploring through full dark for the remaining critters.
+The dive is conducted entirely in the shallows — 3 to 15 meters — making it an exceptionally long bottom time site and ideal for beginners and underwater photographers alike. Day dives are best spent working the sandy areas, searching rubble for seahorses and frogfish. Night and dusk dives target the mandarinfish at the staghorn coral patch — boats typically depart around 16:30, with most time spent hovering above the shallow coral waiting for the fish to emerge and mate around sunset.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by banca boat. Entry is via back roll or giant stride into calm, shall
 
 ## Safety Considerations
 
-Police Pier is a beginner-friendly site with minimal hazards. The main night dive consideration is boat traffic in the strait — always surface next to the banca rather than away from it, and never ascend directly under other boats. Be aware of the pier structure overhead during shallow navigation. Spiny sea urchins colonise the base of the pilings — buoyancy awareness prevents accidental contact. Jellyfish are occasionally present in the water column.
+Police Pier is a beginner-friendly site with minimal hazards. The main night dive consideration is boat traffic in the strait — always surface next to the banca rather than away from it, and never ascend directly under other boats. Spiny sea urchins colonise the rubble and debris — buoyancy awareness prevents accidental contact. Blue-ringed octopus are present throughout Lembeh and have been found at this site. Jellyfish are occasionally present in the water column.
 
 ## Photography
 

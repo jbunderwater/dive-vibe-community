@@ -29,7 +29,7 @@ The Salvatierra was a cargo ferry — an ex-U.S. Navy World War II LST (Landing 
 
 ## Wreck History
 
-Two independent historical sources confirm the key facts: the Salvatierra struck Swanee Rock in June 1976 while carrying flammable cargo; Hurricane Liza (September 30, 1976) subsequently rolled the hull and stripped the deck superstructure. The ex-Navy LST origin is documented at [math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html] and corroborated by Baja Diving and DAN Alert Diver.
+Three independent sources confirm the key facts: the Salvatierra struck Swanee Rock in June 1976 while carrying flammable cargo; Hurricane Liza (September 30, 1976) subsequently rolled the hull and stripped the deck superstructure; the vessel measures 320 feet (97 m) in length. The primary account at math.ucr.edu documents the vessel's WWII origin as a shipyard ferry, its post-war sale to Mexican operators, and the sinking in detail. This account is corroborated by Baja Diving, DAN Alert Diver, and the PADI dive site entry.
 
 ## Marine Life
 
@@ -55,4 +55,4 @@ Boat access from La Paz (approximately 45–60 minutes). Multiple La Paz operato
 The San Lorenzo Channel carries tidal currents that can increase during tide changes. Dive with a local guide familiar with timing. A surface marker buoy is recommended. Penetration of the cargo hold is possible but requires a torch and appropriate training.
 
 ---
-*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-05-17.*
+*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-06-12.*
