@@ -23,7 +23,7 @@ Manta Point lies about 16 km from Nosy Be and is built around a cleaning station
 
 - **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (cleaning station)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 

@@ -23,7 +23,7 @@ Nosy Tanikely is a tiny volcanic island (approximately 550 × 450 metres) surrou
 
 - **Location**: Nosy Tanikely Marine Reserve, south of Nosy Be, Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (marine reserve)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 23 meters
 

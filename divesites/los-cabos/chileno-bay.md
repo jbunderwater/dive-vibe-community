@@ -19,7 +19,7 @@ One of the most accessible and lively reef sites along the Corridor. A maze of f
 
 - **Location**: The Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters

@@ -18,7 +18,7 @@ The southernmost tip of the Baja California Peninsula, where the Pacific Ocean m
 ## Site Information
 
 - **Location**: Cabo San Lucas Marine Park, at the tip of the Baja Peninsula
-- **Entry Type**: Boat dive (7 minutes from marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters

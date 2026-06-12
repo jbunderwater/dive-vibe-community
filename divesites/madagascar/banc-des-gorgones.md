@@ -23,7 +23,7 @@ Located approximately 13 km from Ambatoloaka (about 40 minutes by boat), Banc de
 
 - **Location**: Offshore Ambatoloaka, Nosy Be, Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (plateau)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 

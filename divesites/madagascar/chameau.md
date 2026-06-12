@@ -23,7 +23,7 @@ The two humps of Chameau are aligned with the tidal current, which flows southea
 
 - **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (pinnacle/shoal)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 33 meters
 

@@ -32,7 +32,7 @@ The site presents the characteristic Lembeh muck profile: volcanic black sand sl
 
 ## Marine Life
 
-Aer Bajo is a consistent producer of seahorses, with both thorny seahorses and spotted seahorses documented across the sandy and rubble sections of the slope. Pipefish — including the ornate ghost pipefish and banded pipefish — are regularly sighted near seagrass patches and low algal growth. The sandy expanse of the slope provides habitat for sand-dwelling species including garden eels retreating into their burrows, and the occasional ribbon eel displaying from its burrow opening. Frogfish occupy rubble patches, and nudibranchs are found across the full depth range. Octopus, including both coconut and long-armed octopus species, hunt across the open sand.
+Aer Bajo's pure muck habitat is confirmed to produce coconut octopus, mimic octopus, blue-ringed octopus, and long-armed octopus — a strong octopus-diversity site. Frogfish occupy rubble patches, and Ambon scorpionfish have been documented here. Flamboyant cuttlefish patrol the shallower sections. Garden eels emerge from their burrows in the deeper sandy flats and retreat rapidly when approached. Carrier crabs (decorator crabs) are a distinctive feature of this site, carrying shells and debris as camouflage while moving across the sand. Snake eels and seahorses are also noted. The site has a distinctive topography: the slope begins as a flat sandy area in 1–6 metres, then slopes gently to the deeper flat at approximately 20 metres. Aer Bajo 1 and 2 are adjacent sections of the same sandy area.
 
 ## Dive Profile
 

@@ -23,7 +23,7 @@ The Mitsio Wreck sits upright on a sandy bottom at 26 metres, approximately 30 m
 
 - **Location**: Near Dzamandzar, Nosy Be area, Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 

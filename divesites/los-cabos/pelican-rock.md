@@ -18,7 +18,7 @@ One of the most popular and accessible dive sites in Cabo San Lucas, located on 
 ## Site Information
 
 - **Location**: Cabo San Lucas Marine Park, inside the bay
-- **Entry Type**: Boat dive (5 minutes from marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters

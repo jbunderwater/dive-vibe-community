@@ -25,7 +25,7 @@ Shark Point is a deep wall dive beginning at 18 metres and dropping well past 50
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (wall continues deeper)
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Scuba Nosy Be Dive Center](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT Dive Guide](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar). Last updated 2026-06-12.*

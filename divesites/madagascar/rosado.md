@@ -23,7 +23,7 @@ Rosado is a coral bank sitting between 14 and 19 metres, making it one of the mo
 
 - **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 

@@ -18,8 +18,8 @@ Named for a distinctive rock formation above the surface that resembles a surfac
 ## Site Information
 
 - **Location**: Start of the Corridor, between Cabo San Lucas and San Jose del Cabo
-- **Entry Type**: Boat dive (10-15 minutes from marina)
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters
