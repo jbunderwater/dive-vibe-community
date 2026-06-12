@@ -3,7 +3,7 @@ name: Meno Wall
 lat: -8.3452031
 lng: 116.0498999
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -25,14 +25,14 @@ Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descendin
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; carries divers along the wall comfortably
 - **Best Time**: May to October
 
 ## Marine Life
 
-Turtles cruise the wall face at all depths. Reef sharks are seen passing in the blue. Bamboo sharks rest in wall crevices. Pygmy seahorses inhabit soft coral colonies. At night: lobsters, shrimps, crabs, and nocturnal reef fish emerge throughout the wall. Nudibranchs are abundant on the soft coral and gorgonian fan structures.
+Green and hawksbill turtles on the wall face at all depths — the most consistently confirmed species here. Moray eels and lionfish in wall crevices. Scorpionfish (bearded scorpionfish) on the wall surface. Nudibranchs on the soft coral and gorgonian structures. Grouper and sweetlips in the overhang zones. At night: lobsters, crabs, shrimps, and Spanish dancers emerge throughout the wall — described by multiple operators as one of the best night dives in the Gili Islands. Pygmy seahorses have been reported on soft coral colonies by two operators. Note: bamboo sharks were in an earlier version of this description — this is unverified at this specific site and has been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Drift current can accelerate occasionally. Ascend to the shallower wall if curre
 Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Pygmy seahorses require macro lens and patience to locate in gorgonian polyps.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [PADI – Gili Meno Wall](https://www.padi.com/dive-site/indonesia/gili-meno-wall/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Trawangan Stingray Divers – Meno Wall](https://www.trawanganstingraydivers.com/dive-site/gili-meno/meno-wall/). Confirmed species: turtles (5+ sources), moray eels, lionfish, scorpionfish, nudibranchs, lobsters/crabs at night (5+ sources), Spanish dancer at night. Depth corrected from 22m to 25m. Bamboo sharks removed — unverified at this specific site. Last updated 2026-06-12.*

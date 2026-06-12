@@ -17,7 +17,7 @@ A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, 
 
 ## Overview
 
-Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
+Halik runs along the north side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 5–10 m through to the deeper ridges where gorgonian fans and soft corals grow. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Drift current is always running. Do not fight against it. Be prepared to surface
 Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [DiveZone – Halik Reef](https://divezone.net/divesite/halik-reef), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – Gili Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Note: Halik is a distinct site from Trawangan Wall — they are at separate OSM coordinates (~600 m apart). Halik is on the north side of Gili Trawangan; Trawangan Wall is on the west side. The "Also known as Halik Reef" alias applied to Trawangan Wall in another file is not confirmed by any source and has been removed there. Last updated 2026-06-12.*

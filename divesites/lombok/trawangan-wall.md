@@ -13,26 +13,28 @@ addedBy: osm_import
 
 ## Trawangan Wall
 
-Also known as Halik Reef — a northwest Gili Trawangan drift wall with giant barrel sponges, eagle rays, and reef sharks for intermediate divers.
+A northwest Gili Trawangan wall site with a deep drop-off to 50 m+, schools of surgeonfish and jackfish, a turtle zone at 5 m, and the Glenn Nusa tugboat wreck at 28 m.
 
 ## Overview
 
-Trawangan Wall (Halik Reef) runs along the northwest side of Gili Trawangan, starting at 6 m with enormous barrel sponges and gorgonian sea fans and extending down through ridges and canyons. The consistent current makes this an ideal drift dive where eagle rays, white and blacktip reef sharks, giant trevally, and schools of snapper are frequently encountered. Large anemone fields with clownfish are found throughout the upper reef sections. The site is dived from both Gili Trawangan and Lombok mainland operators as part of the broader Gili Islands dive circuit.
+Trawangan Wall runs along the northwest of Gili Trawangan, where the reef slopes steeply before dropping into depths exceeding 50 m. Cabbage coral meadows cover the reef crest at the shallowest point (around 5 m), and large numbers of turtles feed in the sea grass near shore. Schools of surgeonfish hang in the blue over the drop-off. The Glenn Nusa tugboat — intentionally sunk in February 2016 at 28 m on the sand — sits near this wall section and can be visited as part of the same trip. A large swim-through at extended range depths is a feature of the wall for technical divers. This is a distinct site from Halik, which is on the northern side of Gili Trawangan approximately 1.3 km away.
+
+Note: this site is recorded under the name "Trawangan Wall" in OSM data but this name is not used by current dive operators who refer to the northwest wall area collectively with Shark Point and the Glenn Nusa. GPS coordinates should be verified against local operator navigation marks.
 
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 50+ meters (wall drop-off)
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift
 - **Best Time**: May to October
 
 ## Marine Life
 
-Eagle rays in mid-water — a regular and distinctive sighting. Blacktip and whitetip reef sharks on the outer reef. Giant trevally hunting in the current. Large anemone fields with clownfish. Schools of snapper and fusiliers. Lionfish in overhangs. Giant barrel sponges at 6–10 m are a prominent habitat feature. Turtles throughout.
+Green turtles in large numbers at the shallow sea grass zone (5 m). Schools of surgeonfish over the drop-off. Schools of jackfish and sharks on the wall. Cabbage coral meadows on the reef crest. The Glenn Nusa wreck at 28 m hosts batfish, snapper schools, blue-spotted stingrays, and leaf scorpionfish. Note: the eagle rays, giant barrel sponges, and anemone fields described in an earlier version of this page are features of Halik Reef (north side of Gili Trawangan), not Trawangan Wall.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Current is consistent and stronger on spring tides. Do not attempt the deep cany
 Eagle ray silhouettes against blue water are the most sought-after image. Giant barrel sponge cross-sections with divers for scale. Clownfish in large anemones suit close-focus wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Islands Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Bali Ocean Ferries – Best Dive Spots Gili Trawangan](https://balioceanferries.com/2025/10/17/7-best-dive-spots-in-gili-trawangan/), [Terumbu Divers – Glenn Nusa Wreck](https://terumbudivers.com/wreck-dive-gili-lombok/). Corrections from QA 2026-06-12: "Also known as Halik Reef" claim removed — Trawangan Wall and Halik are distinct sites approximately 1.3 km apart on different sides of Gili Trawangan (Halik is on the north side, Trawangan Wall on the northwest). Marine life section corrected — barrel sponges, eagle rays, and anemone fields attributed previously are features of Halik, not this site. OSM GPS coordinates flagged as unverified. Last updated 2026-06-12.*

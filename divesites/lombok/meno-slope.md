@@ -3,7 +3,7 @@ name: Meno Slope
 lat: -8.3517823
 lng: 116.0500957
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ A gentle sloping reef on the south side of Gili Meno — an approachable dive wi
 
 ## Overview
 
-Meno Slope is a gently inclining reef on the southern side of Gili Meno, offering a more relaxed alternative to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 30 m and features a good mix of hard and soft coral formations with healthy fish populations. The moderate conditions make it a comfortable intermediate dive, and turtles are regularly sighted grazing along the reef crest. The site works well as a second or third dive of the day when a more relaxed dive profile is desired.
+Meno Slope is a sandy slope with large boulders and coral outcrops on the south side of Gili Meno, offering relaxed conditions compared to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 28 m. A notable landmark is an underwater statue of two embracing couples at approximately 3 m depth, visible from the surface in good conditions. Hawksbill and green turtles are reliably encountered, and blue-striped snapper schools are common on the reef sections. The site works well as a second or third dive of the day when a more relaxed dive profile is desired. Night dives are recommended by multiple operators for macro species.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Meno Slope is a gently inclining reef on the southern side of Gili Meno, offerin
 
 ## Marine Life
 
-Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
+Green and hawksbill turtles consistently present on the reef and slope. Schools of blue-striped snapper on the reef sections. Leaf scorpionfish among the boulder rubble. Moray eels in coral crevices. Nudibranchs throughout. Reef sharks are occasionally sighted on the outer slope. Note: bumphead parrotfish have been attributed to this site by one operator (Manta Dive) but this is a single-source claim. Blue-ringed octopus is mentioned by one source but cannot be confirmed for this specific site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are generally mild but can increase at depth on the outer slope. Mainta
 Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [PADI – Gili Meno Slope](https://www.padi.com/dive-site/indonesia/gili-meno-slope/), [Oceans 5 Dive – Dive Sites](https://www.oceans5dive.com/dive-sites/), [Trawangan Stingray Divers – Gili Meno](https://www.trawanganstingraydivers.com/dive-site/gili-meno/). Confirmed site-specific species: hawksbill and green turtles, blue-striped snapper schools, leaf scorpionfish, moray eels, nudibranchs. Depth corrected from 30m to 28m (trawanganstingraydivers.com). Underwater statue of two couples confirmed at ~3m. Last updated 2026-06-12.*

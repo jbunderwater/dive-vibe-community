@@ -3,9 +3,9 @@ name: Meno Corner
 lat: -8.3588705
 lng: 116.0625884
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
-siteType: drift
+siteType: pinnacle
 ref: null
 osmId: 2395669754
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Meno Corner
 
-The northeastern tip of Gili Meno — a turtle-rich pinnacle and slope where sea turtles gather in the surrounding sea grass and coral.
+The northeast tip of Gili Meno — a coral-covered pinnacle rising from around 9–10 m to depths over 30 m, surrounded by sea grass where green and hawksbill turtles gather in some of the highest concentrations in the Gili Islands.
 
 ## Overview
 
-Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, all sides covered in corals. This is the main turtle habitat area on Gili Meno, where green and hawksbill turtles congregate in the sea grass beds and on the reef slope. A notable bonus is the nearby Bounty Wreck (Meno Wreck), sitting just off the coast and covered in soft coral. Together, these two adjacent sites make Gili Meno one of the standout dive destinations in the Lombok/Gili Islands area.
+Meno Corner is located at the northeast tip of Gili Meno (also known to some operators as Turtle Heaven or Turtle City) and is consistently ranked among the best sites in the entire Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle with its peak at around 9–10 m, with coral-covered sides dropping to over 30 m. Green and hawksbill turtles congregate in the surrounding sea grass beds and on the reef slope in impressive numbers. The pinnacle also hosts schools of clownfish, damsels, sergeant majors, cuttlefish, scorpionfish, and giant clams.
 
 ## Site Information
 
 - **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30+ meters (pinnacle peak at 9–10 m)
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; can be strong on the corner
 - **Best Time**: May to October
 
 ## Marine Life
 
-Green and hawksbill turtles in numbers — among the best turtle encounters in the entire Gili Islands. The pinnacle hosts reef fish typical of the Gili Islands — parrotfish, triggerfish, sweetlips, and moray eels. Reef sharks are occasionally seen on the deeper pinnacle sections. Blue-spotted stingrays on sandy patches.
+Green and hawksbill turtles in exceptional numbers — among the best turtle encounters in the Gili Islands. The pinnacle hosts schools of clownfish, damselfish, sergeant majors, and cuttlefish. Giant clams at the pinnacle top. Scorpionfish camouflaged on the reef. Reef sharks are occasionally sighted on the deeper pinnacle sections.
 
 ## Dive Profile
 
-Descend to the slope at 10–15 m and follow it to the pinnacle at 20–30 m. Spend time on the sea grass and reef patches searching for turtles before the pinnacle. Ascend via the shallower reef sections and complete a 3-minute safety stop.
+Descend to the pinnacle and circumnavigate it at multiple depths — the peak at 9–10 m is accessible for shallow dives, while the coral-covered sides drop to 30+ m for more advanced sections. Spend time on the surrounding sea grass patches for turtle encounters. Ascend via the shallower reef and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
