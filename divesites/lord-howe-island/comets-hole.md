@@ -4,7 +4,7 @@ lat: -31.5333
 lng: 159.05
 difficulty: Beginner
 maxDepth: 7
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,28 +13,29 @@ addedBy: osm_import
 
 ## Comets Hole
 
-Comets Hole is Lord Howe Island's house reef and premier beginner site, a shallow lagoon hole teeming with marine life, popular among photographers.
+Comets Hole is a freshwater-upwelling reef hole inside Lord Howe Island's lagoon, renowned as one of the most species-rich beginner dives in Australia and a must-do for underwater photographers.
 
 ## Overview
 
-Comets Hole is Lord Howe Island's most accessible and easiest dive site, formed by natural freshwater upwelling. Located just minutes from the boatshed within the shelter of the lagoon, it's diveable in nearly all weather conditions. The site is famous for swarming marine life and excellent photography opportunities. This is considered one of the best dives on the island for its ease and abundance of marine life.
+Comets Hole was formed by natural freshwater rising through the sand floor, creating a hole that never fills with sediment. The freshwater upwelling keeps the site 1–2°C cooler than surrounding lagoon waters. Surrounded by a 3–4 metre high coral reef wall, the hole is swarming with marine life and is accessed by boat from the boatshed in minutes. It functions as Lord Howe Island's house reef and is diveable in almost all weather conditions. McCulloch's anemonefish — an endemic species found only at Lord Howe Island — is a signature sighting here.
 
 ## Site Information
 
-- **Location**: Within Lord Howe Island lagoon (house reef)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Inside Lord Howe Island lagoon (house reef)
+- **Entry Type**: Boat dive (minutes from boatshed)
+- **Site Type**: Coral reef (freshwater-upwelling lagoon hole)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7 meters
-- **Coral Wall**: 3-4 meter high coral reef wall surrounding the hole
+- **Maximum Depth**: 7 metres
+- **Coral Wall**: 3–4 metre high reef wall surrounding the hole
+- **Special Note**: Water is 1–2°C cooler than surrounding lagoon due to freshwater upwelling
 
 ## Marine Life
 
-Comets Hole is renowned for its abundance of fish life. Species include endemic McCulloch's anemonefish, large schools of lined catfish, decorator crabs, coral gobies, white-mouthed moray, slipper crayfish, trevally, painted morwong, silver drummer, three-striped butterflyfish, and three types of lionfish. Larger pelagic visitors include bull rays, long-tailed whip rays, and Galapagos whaler sharks cruising along the reef edge.
+Confirmed species at Comets Hole include the endemic McCulloch's anemonefish, schools of lined catfish, decorator crabs, coral gobies, white-mouthed moray, slipper crayfish, marble shrimp, trevally, painted morwong, silver drummer, three-striped butterflyfish, three types of lionfish, Lord Howe Island moray eel, bull rays, long-tailed whip rays, and Galapagos whaler sharks cruising the reef edge. Corals include Porites, Acroporas, and needle corals.
 
 ## Dive Profile
 
-The site features a natural hole surrounded by a 3-4 meter high coral reef wall. Maximum depth is approximately 7 meters. The hole was formed by natural freshwater upwelling and never fills with sand. Explore the hole's interior and the surrounding coral walls. The shallow depth allows for extended bottom time and relaxed diving.
+Maximum depth is approximately 7 metres with a median of around 3 metres inside the hole. The shallow depth allows for extended bottom time. Begin in the hole itself and explore the surrounding 3–4 metre coral walls. The site is described by Pro Dive as a "one species a minute" experience. Lighting is good throughout the dive, and the calm lagoon conditions suit photographers at all levels.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Lord Howe Island Tourism](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [DivePlanIt – Comet's Hole](https://www.diveplanit.com/dive-site/comets-hole-lord-howe/), [Pro Dive Lord Howe Island](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site). Last updated 2026-06-12.*
