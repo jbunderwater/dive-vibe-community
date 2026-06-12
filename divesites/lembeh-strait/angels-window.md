@@ -45,18 +45,18 @@ Access by banca boat. Back roll or giant stride entry. The guide descends to the
 ## Tips and Recommendations
 
 - Brief your guide explicitly on pygmy seahorse as a target before descending; without a guide to find them on the specific gorgonian fans, they are effectively impossible to locate
-- The arch formation itself is a photographic landmark — spend time framing compositions through the window before moving on to the muck slope
-- At 32 meters maximum depth, no-decompression limits on a standard recreational dive computer will restrict bottom time at the deepest zone to around 20–25 minutes on a first dive; plan accordingly
-- Angel's Window rewards divers who start deep and finish shallow — do not spend too long on the sand slope first or you will run out of NDL before reaching the arch
+- The cave swim-through is the photographic centrepiece — early morning dives are best when sunlight streams through the opening from above
+- The site is best dived as a first or second dive of the day to maximise NDL time at depth
+- Angel's Window rewards divers who start deep and finish shallow — do not spend too long on the sand slope first or you will run out of NDL before reaching the cave
 - The hybrid muck-reef character makes this an excellent final dive of a Lembeh trip for divers who want to sample something different after days of pure sand-slope muck diving
 
 ## Safety Considerations
 
-The 32-meter depth makes this the most demanding site described here and requires solid intermediate dive skills. Monitor no-decompression limits carefully, particularly if this is a second or third dive of the day. Ascend slowly from depth and complete a 3–5 minute safety stop at 5 meters without exception. Lionfish and scorpionfish in the structural zones are venomous — maintain distance and do not reach into crevices. Carry an SMB for signalling on a longer ascent.
+The 30-meter depth makes this the most demanding site described here and requires solid intermediate dive skills. Monitor no-decompression limits carefully, particularly if this is a second or third dive of the day. Ascend slowly from depth and complete a 3–5 minute safety stop at 5 meters without exception. Lionfish and scorpionfish in the structural zones are venomous — maintain distance and do not reach into crevices. Carry an SMB for signalling on a longer ascent.
 
 ## Photography
 
-Angel's Window offers the widest photographic range of any site in this collection. The arch formation allows close-focus wide-angle compositions framing divers or the structural silhouette against the water column above. The gorgonian zones call for supermacro technique for pygmy seahorses. The muck slope provides all the standard macro subjects. Photographers with a single lens choice should use a 100mm macro — the pygmy seahorse sightings at the arch justify the supermacro setup, and it covers the muck slope subjects effectively. A second dive with a wide-angle lens for the arch itself is worth planning for photographers who want to do the site justice.
+Angel's Window offers the widest photographic range of any site in this collection. The cave swim-through allows close-focus wide-angle compositions framing divers or the structural silhouette against the light streaming through the cave opening — best in the early morning. The gorgonian zones call for supermacro technique for pygmy seahorses. The muck slope provides all the standard macro subjects. Photographers with a single lens choice should use a 100mm macro — the pygmy seahorse sightings at the cave justify the supermacro setup, and it covers the muck slope subjects effectively. A dedicated wide-angle dive for the cave passage in morning light is worth planning for photographers who want to capture both characters of the site.
 
 ---
 *Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
