@@ -3,9 +3,9 @@ name: Manta divesite
 lat: -13.3683279
 lng: 48.0627584
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 21
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 6943571813
 addedBy: osm_import
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Manta divesite
 
-Manta divesite is a wall dive site in Madagascar, Africa.
+Manta Point is Nosy Be's most famous cleaning station, where reef mantas and oceanic mantas gather over scattered coral heads on a sandy plateau at 18–21 metres.
 
 ## Overview
 
-Manta Point is Nosy Be's crown jewel dive, a cleaning station over scattered coral blocks and a sandy bottom at 18–21 metres where manta rays with wingspans up to 7 metres glide in to be serviced by wrasse. Sightings peak between October and December when planktonic productivity is highest, though mantas are present year-round, and mobula rays are also frequent visitors to the station.
+Manta Point lies about 16 km from Nosy Be and is built around a cleaning station on a sandy plateau interspersed with coral spurs. Manta rays — including large oceanic individuals — hover here while wrasse pick parasites from their skin. Mobula rays are also regular visitors. The site is timed around the presence of mantas; operators monitor for aggregations before committing to a dive. Planktonic productivity peaks from May to October, which corresponds to the highest manta concentration, though individuals are present year-round. The relatively shallow, open-water profile means divers need to be comfortable in a current-swept, mid-water environment.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef (cleaning station)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 21 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Scuba Nosy Be Dive Center](https://scubanosybe.com/en/sites-de-plongee/), [Madagascar Diving Guide - urlaub-auf-madagaskar.com](https://www.urlaub-auf-madagaskar.com/en/diving-in-madagascar-nosy-be-and-surrounding-islands/). Last updated 2026-06-12.*

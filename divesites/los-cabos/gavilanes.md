@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Gavilanes
 
-Situated between Chileno Bay and Santa Maria Bay, Gavilanes hosts one of the healthiest coral reefs in the Los Cabos area. The topography features a series of ridges and canyons covered in hard and soft corals. Spiny lobsters, angelfish, groupers, and whitetip reef sharks inhabit the reef structure. Depths range from 12 to 18 meters across the site.
+Situated between Chileno Bay and Santa Maria Bay, Gavilanes is consistently cited by local operators as having one of the healthiest coral reefs in the Los Cabos region. The topography features a series of ridges and canyons with a mix of hard and soft coral coverage. Described as the most sheltered dive site in the Corridor, making it a reliable option when conditions elsewhere are rougher. Depths range from 8 to 18 meters.
 
 ## Site Information
 
@@ -28,7 +28,7 @@ Situated between Chileno Bay and Santa Maria Bay, Gavilanes hosts one of the hea
 
 ## Marine Life
 
-The healthy coral coverage supports diverse reef life. Cortez angelfish, king angelfish, large groupers, and schools of grunts are common. Spiny lobsters shelter in the crevices between ridges. Whitetip reef sharks patrol the canyons. The reef structure also attracts cleaning stations where smaller fish service larger visitors.
+Whitetip reef sharks patrol the canyons and are regularly reported here. Cortez angelfish, large groupers, and schools of snappers and grunts are common. Spiny lobsters shelter in the crevices between ridges. Moray eels, scorpionfish, octopus, and sea turtles have all been documented at this site. Rays pass through as well. Cleaning stations operate on the reef.
 
 ## Dive Profile
 
@@ -36,7 +36,7 @@ Follow the ridges and explore the canyons between them. The parallel ridge struc
 
 ## Safety Considerations
 
-Sheltered location with mild conditions. Suitable for beginners. Light current possible but rarely strong enough to affect the dive.
+Sheltered location with mild conditions. Considered the most protected site in the Corridor. Suitable for beginners. Light current possible but rarely strong enough to affect the dive.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/), [Baja Dive Guide](https://www.bajadiveguide.com/dive-sites-los-cabos/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Last updated 2026-06-12.*

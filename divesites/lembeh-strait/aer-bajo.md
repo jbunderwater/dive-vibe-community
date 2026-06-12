@@ -25,7 +25,7 @@ The site presents the characteristic Lembeh muck profile: volcanic black sand sl
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light; occasionally moderate with tidal influence
 - **Best Time**: Year-round; October to May for calmest conditions
@@ -59,4 +59,4 @@ Aer Bajo is one of the most beginner-accessible sites in the northern Lembeh Str
 Aer Bajo's open sandy habitat offers clean backgrounds for seahorse and pipefish photography — a challenge at more rubble-heavy sites where backgrounds can be cluttered. Thorny seahorses gripping low algal growth, shot from eye level with a 100mm macro lens, provide elegant portrait subjects with minimal background distraction. Garden eels in the sand are a unique supermacro opportunity if approached with patience. Octopus moving across open sand are excellent behavioural subjects for video footage.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort – How Deep Are the Dives](https://www.lembehresort.com/blogs/how-deep-are-the-dives-in-the-lembeh-strait), [Infinite Blue Dive Travel – 15 Best Dive Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish Lembeh Dive Sites – Aer Bajo (No. 40)](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-12.*

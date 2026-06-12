@@ -19,7 +19,7 @@
     "difficulty": "Beginner",
     "maxDepth": 8,
     "entryType": "boat",
-    "siteType": "cave",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -30,7 +30,7 @@
     "lng": 159.05,
     "difficulty": "Beginner",
     "maxDepth": 7,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": null

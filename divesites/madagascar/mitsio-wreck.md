@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Mitsio Wreck
 
-Mitsio Wreck is a historic wreck dive in Madagascar, Africa.
+The Mitsio Wreck is a deliberately sunken vessel lying at 26 metres near Dzamandzar, now encrusted with coral and hosting a dense population of reef fish.
 
 ## Overview
 
-Mitsio Wreck is a wreck dive in Madagascar. No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented and should be researched before publication.
+The Mitsio Wreck sits upright on a sandy bottom at 26 metres, approximately 30 minutes by boat from the lodge at Dzamandzar near Nosy Be. The vessel — a fishing boat — was sunk intentionally as an artificial reef. It has developed a significant coral covering over the years and supports large aggregations of fish including groupers, stingrays, guitar rays, jackfish, barracudas, and batfish. Scorpionfish are commonly seen among the coral growth on the hull. The depth makes this an Advanced-level dive; nitrox is recommended by local operators for a more comfortable bottom time at 26 metres. Penetration of the wreck structure requires proper training and equipment.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Near Dzamandzar, Nosy Be area, Madagascar
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 
 ---
-*Stub generated from OpenStreetMap data. No site-specific dive sources have been validated. Last updated 2026-06-12.*
+*Sources: [Scuba Spot Advisor - Mitsio Wreck](https://www.scubaspotadvisor.com/en/diving-spots/madagascar/dzamandzar/mitsio-wreck-3492), [Aqua Diving Madagascar](https://www.aquamadagascar.com/en/diving-spot/), [SCUBA Travel - Madagascar](https://www.scubatravel.co.uk/madagascar/). Last updated 2026-06-12.*

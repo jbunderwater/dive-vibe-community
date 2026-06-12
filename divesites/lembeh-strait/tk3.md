@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## TK3
 
-TK3 is the third and northernmost site in the Teluk Kembahu (TK) group — a trio of muck diving sites along the Lembeh Island shore of the Lembeh Strait, North Sulawesi, Indonesia. While TK1 and TK2 are the most frequently dived of the three, TK3 has its own character: the substrate transitions from smooth black sand to more varied rubble patches, giving the site a slightly different texture and critter community. It is regularly included as the third dive of a TK day-trip sequence.
+TK3 is the third and northernmost site in the Teluk Kembahu (TK) group — a trio of muck diving sites along the Lembeh Island shore of the Lembeh Strait, North Sulawesi, Indonesia. While TK1 and TK2 are the most frequently dived of the three, TK3 has built its own reputation: it is protected by the bay and dived primarily in the 10–15 metre range, and National Geographic filmed mimic octopus here for the "Secrets of the Octopus" documentary series. It is regularly included as the third dive of a TK day-trip sequence.
 
 ## Overview
 
@@ -32,7 +32,7 @@ TK3's defining feature compared to its neighbours is the increased rubble covera
 
 ## Marine Life
 
-The rubble patches at TK3 make it a productive site for critters that use physical structures as shelter or ambush positions. Stonefish and scorpionfish rest camouflaged among the rubble fragments. Frogfish use rubble patches as hunting grounds, sitting motionless and waiting for prey. Various shrimp species — including cleaner shrimps and coral banded shrimps — take refuge in low-profile rubble formations. Sand-dwelling species familiar from TK1 and TK2 — ghost pipefish, seahorses, nudibranchs — are present here as well, with the species mix varying by season. Mantis shrimp occasionally emerge from burrows at the rubble-sand interface, and octopus are regularly spotted hunting across the slope.
+TK3 is particularly well-regarded for octopus diversity — mimic octopus, coconut octopus, long-arm octopus, wonderpus, and mototi octopus have all been documented here. The black saddle snake eel with its commensal shrimp is a distinctive TK3 sighting. Frogfish use rubble patches as hunting grounds, sitting motionless and waiting for prey. Various shrimp species take refuge in low-profile rubble formations. Mantis shrimp emerge from burrows at the rubble-sand interface. The site is excellent for both day and night diving, and its shallow profile and calm bay conditions make it accessible year-round.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Stonefish are among the hazards unique to rubble-heavy sites like TK3 — their 
 The rubble habitat at TK3 opens photographic opportunities that are less available on the smooth sand at TK1. Stonefish and scorpionfish make compelling camouflage-pattern macro subjects when found in good position. Frogfish posed against rubble backgrounds offer interesting texture contrast. Shrimp species in rock crevices benefit from a focus light to illuminate subjects in shadow. A 60mm or 100mm macro lens covers the range of subjects well.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Infinite Blue Dive Travel – 15 Best Dive Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Solitude World – Lembeh Strait Muck Diving](https://solitude.world/lembeh-strait-muck-diving/), [Starfish Lembeh Dive Sites – TK (No. 22)](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-12.*

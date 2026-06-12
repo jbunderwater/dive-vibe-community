@@ -2,8 +2,8 @@
 name: Rosado
 lat: -13.3931342
 lng: 48.0866988
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 19
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Rosado
 
-Rosado is a reef dive site in Madagascar, Africa.
+Rosado (also known as Rosario Bank) is a shallow reef and gentle drift dive off Nosy Be, known for its fan coral gardens and reliable turtle sightings.
 
 ## Overview
 
-Rosado is a reef dive site in the waters off Nosy Be, northwestern Madagascar, an archipelago renowned for over 400 coral species and marine fauna often endemic to Malagasy waters. The site features healthy hard and soft coral formations with gorgonian sea fans, attracting reef sharks, stingrays, schools of snappers and barracudas, and a rich assortment of nudibranchs and other macro life. Diving conditions are best from April to December with visibility of 15-30 meters and warm water temperatures of 25-30°C, with the possibility of whale shark encounters from September through December.
+Rosado is a coral bank sitting between 14 and 19 metres, making it one of the more accessible sites in the Nosy Be area. The site features a field of gorgonian fan corals with abundant macro life including nudibranchs and stonefish. Schools of fusiliers, snappers, and barracuda pass through regularly, and sea turtles are frequently encountered among the coral heads. Whitetip and blacktip reef sharks patrol the outer edges. The gentle drift profile suits divers at beginner and intermediate level, and the site works well as a second dive or afternoon dive due to its manageable depth. Visibility is typically 15–25 metres.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 19 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [MadagasCAT Dive Guide](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [SSI Dive Guide - Nosy Be](https://www.divessi.com/en/mydiveguide/divesite/rosario-madagascar-307576), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/). Last updated 2026-06-12.*

@@ -24,10 +24,10 @@ The site features two primary underwater locations: Observatory Rock, where larg
 ## Site Information
 
 - **Location**: Approximately 20km southeast of Lord Howe Island (sources vary: some state 26km south)
-- **Entry Type**: Boat dive (weather and swell dependent; early morning departures typical)
-- **Site Type**: Wall dive with drift and boulder sections
-- **Difficulty Level**: Advanced (advanced certification required)
-- **Maximum Depth**: 25 metres average; some sections shallower at 8–16m
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Special Note**: Trips cannot be pre-scheduled; boat access managed solely by Dive Lord Howe
 
 ## Marine Life

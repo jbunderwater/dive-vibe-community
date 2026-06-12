@@ -3,7 +3,7 @@ name: Chameau
 lat: -13.3220658
 lng: 48.0994665
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 33
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Chameau
 
-Chameau is a reef dive site in Madagascar, Africa.
+Chameau ("Camel") is a two-hump shoal 14 km offshore from Nosy Be, named for the distinctive double-pinnacle reef structure that rises from deeper water.
 
 ## Overview
 
-Chameau ("Camel") is named for its distinctive underwater reef formation with two camel-like humps, located about 14 km offshore from Nosy Be. The standard dive profile follows a falling tide from 22 meters on the first hump to 13 meters on the second, while a deeper route at high tide starts at 33 meters on a northern shoal and passes through reef passages lined with large gorgonian sea fans. A vessel sunk in 2007 on the northwest side adds a wreck component to the dive, and marine life includes lobsters, sea turtles, lionfish, and resident reef fish.
+The two humps of Chameau are aligned with the tidal current, which flows southeast to northwest across the formation. The standard dive profile on a falling tide descends to 22 metres on the first hump and ascends to 13 metres on the second, drifting with the current between the two peaks. The deeper northwest route, dived on a high tide with a northwest current, begins at 33 metres on a shoal a few dozen metres north of the main formation and traverses reef passages lined with gorgonian sea fans in the upper section. In April 2007, a vessel was deliberately sunk on the northwest side to add a wreck element; visiting it requires the deeper high-tide profile. Marine life includes lobsters, sea turtles, lionfish, and various reef fish inhabiting the passages and coral structures.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Offshore Nosy Be, Madagascar, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (pinnacle/shoal)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 33 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [MadaBlu Diving Center - Chameau](https://www.madablu.com/en/diving-nosy-be-chameau/), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Scuba Nosy Be Dive Center](https://scubanosybe.com/en/sites-de-plongee/). Last updated 2026-06-12.*

@@ -23,9 +23,9 @@ Erscott's Hole is one of Lord Howe Island's most popular beginner dives, situate
 
 - **Location**: Inside Lord Howe Island lagoon, five-minute boat ride from the boatshed
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (lagoon reef, not cave)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 metres
+- **Maximum Depth**: 8 meters
 - **Special Note**: Marine sanctuary zone; fish feeding occurs; diveable year-round
 
 ## Marine Life

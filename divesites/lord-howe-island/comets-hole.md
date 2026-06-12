@@ -22,10 +22,10 @@ Comets Hole was formed by natural freshwater rising through the sand floor, crea
 ## Site Information
 
 - **Location**: Inside Lord Howe Island lagoon (house reef)
-- **Entry Type**: Boat dive (minutes from boatshed)
-- **Site Type**: Coral reef (freshwater-upwelling lagoon hole)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7 metres
+- **Maximum Depth**: 7 meters
 - **Coral Wall**: 3–4 metre high reef wall surrounding the hole
 - **Special Note**: Water is 1–2°C cooler than surrounding lagoon due to freshwater upwelling
 

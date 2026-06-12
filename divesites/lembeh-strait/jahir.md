@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Jahir
 
-Jahir is a highly regarded muck dive site in the northern reaches of the Lembeh Strait, North Sulawesi, Indonesia, known above all for its scorpionfish diversity. While most Lembeh sites offer frogfish and nudibranchs as headline attractions, Jahir has built a specific reputation for rhinopias and ambon scorpionfish — two of the most visually extraordinary and sought-after species in all of Indo-Pacific muck diving.
+Jahir is a highly regarded muck dive site in the northern reaches of the Lembeh Strait, North Sulawesi, Indonesia. The site is named after the local Lembeh guide who first discovered it. While most Lembeh sites offer frogfish and nudibranchs as headline attractions, Jahir has built a specific reputation for scorpionfish diversity — including ambon scorpionfish, devil scorpionfish, and the occasional rhinopias — alongside an excellent variety of frogfish species and octopus.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Jahir runs along a sloping black volcanic sand bottom with scattered rubble, low
 
 ## Marine Life
 
-Jahir is the premier site in Lembeh Strait for rhinopias scorpionfish — the weedy and lacy rhinopias species that are so bizarre and flamboyant they look more like a creature from science fiction than a fish. Their cryptic colouration against rubble and sponge makes them virtually invisible until a guide places their pointer directly beside one. Ambon scorpionfish (Pteroidichthys amboinensis) — the small, hairy scorpionfish that appears to be covered in algal fronds — are also documented here, and devil scorpionfish lurk in the rubble. Beyond the scorpionfish family, Jahir produces frogfish (including hairy frogfish), various ghost pipefish, nudibranchs across multiple families, and mantis shrimp. The deeper reaches of the slope occasionally yield hairy octopus and stargazers buried in the sand.
+Jahir delivers excellent scorpionfish diversity. Ambon scorpionfish (Pteroidichthys amboinensis) — the small, hairy scorpionfish that appears covered in algal fronds — are documented here, and devil scorpionfish lurk in the rubble. Rhinopias have been reported at Jahir and are among the target species guides search for here. Beyond the scorpionfish family, Jahir is noted for frogfish including giant, painted, and hairy varieties. Multiple octopus species — including mimic, flamboyant cuttlefish, and mantis shrimp — are confirmed. Seahorses, ghost pipefish, and nudibranchs are regular sightings throughout the slope. Night dives at Jahir are recommended: starry night octopus, bobtail squid, and stargazers emerge after dark, and it is one of the most popular night dive sites in the strait alongside Nudi Falls. Coral patches begin at 5 metres with the sandy slope continuing to 28 metres.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Jahir's depth pushes to 28 meters, placing it at the more demanding end of inter
 Jahir is among the top scorpionfish photography sites in the world. Rhinopias are among the most photogenic subjects in macro diving — their elaborate skin texture, brilliant colour variants (red, yellow, purple specimens are all documented in Lembeh), and habit of sitting motionless make them exceptional portrait subjects. A 100mm macro lens at close range captures remarkable skin texture detail. Ambon scorpionfish require supermacro technique due to their small size and intricate surface structure. Shoot rhinopias at eye level, with strobes angled to minimise shadows in the skin extensions.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Infinite Blue Dive Travel – 15 Best Dive Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Tropilogy – Lembeh Dive Sites](https://www.tropilogy.com/article/top-dive-sites-and-beyond-diving-in-lembeh-strait/), [Solitude World – Top Muck Diving Sites Lembeh](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [Dive The World – Lembeh Strait Dive Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php). Last updated 2026-06-12.*

@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Admiralty Islands
 
-Admiralty Islands is a dramatic pinnacle diving destination featuring volcanic formations with 25+ dive sites, located 15 minutes north of Lord Howe Island.
+Admiralty Islands is a group of volcanic formations 15 minutes north of Lord Howe Island, hosting over 30 individual dive sites across pinnacles, walls, boulder fields, and caves at 5–40 metres.
 
 ## Overview
 
-Admiralty Islands offer a diverse range of pinnacle and reef diving with towering formations, hidden caves, and prolific marine life. This group of volcanic formations hosts around 25 dive sites scattered around the atolls, making it one of the most extensive dive areas near Lord Howe Island. Depths range from 15 to 40 meters, catering to recreational and experienced divers. Features include large pinnacles, coral reefs, large schools of fish, beautiful hard and soft coral fields, and excellent visibility.
+The Admiralty Islands lie just off the northeastern tip of Lord Howe Island and represent the most extensive dive area in the region. Over 30 dive sites are scattered among the individual islets — Sugar Loaf, Noddy, Roach, Rupert's Reef, Ryans, and No-Name Island among them — offering a wide range of terrain including towering pinnacles, steep walls, flat reef plateaus, boulder-strewn bommies, and hidden caves. Crystal-clear water, vibrant hard and soft coral gardens, and prolific fish life make the Admiralty Islands a highlight of any Lord Howe Island diving trip. Depths range from 5 to 40 metres, suiting all levels though most sites are intermediate and above. Surface intervals are sometimes taken at Ned's Beach for snorkelling.
 
 ## Site Information
 
-- **Location**: 15 minutes north of Lord Howe Island (group of volcanic formations)
+- **Location**: Off the northeastern tip of Lord Howe Island, approximately 15 minutes by boat
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Special Note**: ~25 dive sites scattered around the atolls
+- **Special Note**: Over 30 individual dive sites across the island group
 
 ## Marine Life
 
-The Admiralty Islands host large schools of fish, vibrant hard and soft coral gardens, and diverse reef fish. The pinnacle structures attract pelagic visitors and larger species. The rich ecosystem supports one of Australia's best diving spots.
+Confirmed species across the Admiralty Islands sites include large black cod (reported up to 180kg), gorgonia (sea fans), soft corals, black coral trees on vertical walls, unicorn fish, trevally, blue angelfish, tasselled scorpionfish, moray eels, Sydney octopus, conspicuous angelfish, stingrays, and peacock-tail anemone shrimp. Specific sites like Rupert's Reef host resident green turtles, painted crayfish, squat lobsters, saddled rock cod, and purple and orange bryozoans. Nudibranchs are abundant across the group — nearly one-third of nudibranch species identified by Neville Coleman were discovered in the Lord Howe area.
 
 ## Dive Profile
 
-Diving at Admiralty Islands varies dramatically depending on which specific site you choose. The group features towering pinnacles, coral walls, boulder fields, and hidden caves. Depths range from 15 to 40 meters. Most activity occurs between 15-30 meters. Explore the variety of underwater landscapes including large pinnacles and dramatic formations.
+The Admiralty Islands offer dramatically varied dive profiles depending on which site is selected. Shallower sites begin at 5 metres; deep pinnacles extend to 40 metres. Most productive diving is between 15 and 30 metres. Tenth of June (covered separately) is among the most popular individual sites. The varied topography — from flat reef traverses to vertical wall dives — means successive dives feel distinctly different. Most sites are within 15 minutes of the island by boat.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Lord Howe Island Tourism](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [DivePlanIt – Admiralty Islands](https://www.diveplanit.com/dive-site/admiralty-islands-lord-howe/), [Pro Dive Lord Howe Island](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Scott Portelli Photography](https://www.scottportelli.com/articles/undiscovered-island/). Last updated 2026-06-12.*

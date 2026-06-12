@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## North Bay Dropoff
 
-North Bay Dropoff is a spectacular intermediate wall dive just north of the main island, featuring a dramatic vertical wall dropping to 25 meters.
+North Bay Dropoff is a wall dive on the northern coast of Lord Howe Island, part of the island's fringing reef system with volcanic cave formations and depths reaching 25 metres.
 
 ## Overview
 
-North Bay Dropoff offers excellent wall diving along the northern coast of Lord Howe Island with a dramatic vertical drop and good marine life encounters. The site is accessible for intermediate divers with wall diving experience and provides a different diving perspective compared to the lagoon and distant site options.
+North Bay Dropoff lies along the northern coastline of Lord Howe Island, within the broader zone described by Pro Dive as "North Head to Fishy Point." This section of reef is characterised by volcanic formations with cave systems including the Blow Hole cave, which penetrates approximately 100 metres into the island. The wall drops from shallow reef to around 25 metres, with encrusting corals on the wall face and schools of pelagic fish in the water column. The site offers a different experience from the Admiralty Islands — close to the main island and sheltered from the prevailing swell depending on wind direction.
 
 ## Site Information
 
@@ -26,10 +26,15 @@ North Bay Dropoff offers excellent wall diving along the northern coast of Lord 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
+- **Special Note**: Blow Hole cave nearby penetrates ~100m into the island (cave diving not included in standard dives)
 
 ## Marine Life
 
-Wall diving at North Bay hosts reef fish and marine life adapted to vertical structures. The wall ecosystem supports a variety of species at different depths, with pelagic visitors in the blue water beyond the wall.
+The northern fringing reef supports schools of kingfish, trevally, and encrusting corals. Pro Dive's description of the broader northern reef zone notes varied fish life attracted to the volcanic formations. No site-specific species list has been independently confirmed for North Bay Dropoff specifically — the marine life described reflects the broader northern reef habitat.
+
+## Dive Profile
+
+The wall begins in shallow water and descends to approximately 25 metres. Divers follow the wall face, exploring crevices and ledges. The Blow Hole cave is a landmark feature along the northern coast (standard dives do not enter the cave system). Intermediate certification and wall diving experience are recommended given the depth and navigation.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Pro Dive Lord Howe Island](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Lord Howe Island Tourism](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [DivePlanIt – Lord Howe Island](https://www.diveplanit.com/australia/lord-howe-island). Last updated 2026-06-12.*
