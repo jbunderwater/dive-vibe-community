@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "la-paz-sea-of-cortez",
-    "lembeh-strait",
-    "lombok",
-    "lord-howe-island",
-    "los-cabos",
-    "madagascar",
     "malaysia",
     "maldives",
     "malta-and-gozo",
@@ -174,7 +168,13 @@
     "jordan-aqaba",
     "kenya-coast",
     "koh-tao",
-    "komodo-national-park"
+    "komodo-national-park",
+    "la-paz-sea-of-cortez",
+    "lembeh-strait",
+    "lombok",
+    "lord-howe-island",
+    "los-cabos",
+    "madagascar"
   ],
   "history": [
     {
@@ -1019,6 +1019,83 @@
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/88",
       "errors": [],
       "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
+    },
+    {
+      "date": "2026-06-13",
+      "slugs": [
+        "la-paz-sea-of-cortez",
+        "lembeh-strait",
+        "lombok",
+        "lord-howe-island",
+        "los-cabos",
+        "madagascar"
+      ],
+      "summary": {
+        "sites_total": 74,
+        "sites_validated_today": 30,
+        "sites_re_audited": 74,
+        "hallucinations_removed": 20,
+        "marine_life_stripped": 24,
+        "wreck_conflicts_flagged": 3,
+        "sites_unresolved": 8,
+        "by_destination": {
+          "la-paz-sea-of-cortez": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0
+          },
+          "lembeh-strait": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0
+          },
+          "lombok": {
+            "sites_total": 25,
+            "sites_validated_today": 19,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5
+          },
+          "lord-howe-island": {
+            "sites_total": 8,
+            "sites_validated_today": 7,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1
+          },
+          "los-cabos": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0
+          },
+          "madagascar": {
+            "sites_total": 4,
+            "sites_validated_today": 4,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0
+          }
+        }
+      },
+      "pr_url": null
     }
   ]
 }
