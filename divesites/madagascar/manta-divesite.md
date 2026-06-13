@@ -3,9 +3,9 @@ name: Manta divesite
 lat: -13.3683279
 lng: 48.0627584
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 21
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 6943571813
 addedBy: osm_import
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Manta divesite
 
-Manta divesite is a wall dive site in Madagascar, Africa.
+Manta divesite (also known as Manta Point) is a reef cleaning station in open water off Nosy Be, where manta rays gather to be serviced by cleaner wrasse on a sandy bottom studded with scattered coral formations.
 
 ## Overview
 
-Manta Point is Nosy Be's crown jewel dive, a cleaning station over scattered coral blocks and a sandy bottom at 18–21 metres where manta rays with wingspans up to 7 metres glide in to be serviced by wrasse. Sightings peak between October and December when planktonic productivity is highest, though mantas are present year-round, and mobula rays are also frequent visitors to the station.
+Manta divesite sits approximately 16 km from Nosy Be — about 35 minutes by speedboat — in open water. The site consists of a sandy plateau at around 18–21 metres punctuated by small coral heads and reef formations. Manta rays are drawn here to cleaning stations, where wrasse remove parasites; mobula rays are also regularly sighted. Manta frequency is variable year to year and does not follow a strictly defined season, though productivity in the surrounding water column influences visits. The site is categorised as reef rather than wall: there is no significant drop-off, and the diving is conducted over a broad sandy bottom with scattered coral growth. Gentle conditions make this accessible to intermediate divers, though an open-water location means conditions can change.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Madagascar, Africa (Nosy Be area, ~16 km offshore)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 21 meters
+
+## Marine Life
+
+Manta rays and mobula rays are the primary attraction; local operators confirm both species are sighted at the cleaning station. Wrasse are present as the cleaning agents. No additional site-specific species lists are attributed to this site without source confirmation.
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Scuba Nosy Be — Dive Sites](https://scubanosybe.com/en/sites-de-plongee/), [Aqua Diving Madagascar — Diving Spots](https://www.aquamadagascar.com/en/diving-spot/), [Ulysse Explorer — Scuba Diving Nosy Be](https://www.ulyssexplorer.com/en/scuba-diving-nosy-be/). Last updated 2026-06-13.*

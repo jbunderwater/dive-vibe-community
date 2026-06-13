@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Jahir
 
-Jahir is a highly regarded muck dive site in the northern reaches of the Lembeh Strait, North Sulawesi, Indonesia, known above all for its scorpionfish diversity. While most Lembeh sites offer frogfish and nudibranchs as headline attractions, Jahir has built a specific reputation for rhinopias and ambon scorpionfish — two of the most visually extraordinary and sought-after species in all of Indo-Pacific muck diving.
+Jahir is a highly regarded muck dive site in the northern reaches of the Lembeh Strait, North Sulawesi, Indonesia. The site is named after the local diver who first discovered it. Jahir is known for a rich diversity of scorpionfish species and for producing mimic octopus, ghost pipefish, and flamboyant cuttlefish alongside the standard muck complement.
 
 ## Overview
 
@@ -32,11 +32,11 @@ Jahir runs along a sloping black volcanic sand bottom with scattered rubble, low
 
 ## Marine Life
 
-Jahir is the premier site in Lembeh Strait for rhinopias scorpionfish — the weedy and lacy rhinopias species that are so bizarre and flamboyant they look more like a creature from science fiction than a fish. Their cryptic colouration against rubble and sponge makes them virtually invisible until a guide places their pointer directly beside one. Ambon scorpionfish (Pteroidichthys amboinensis) — the small, hairy scorpionfish that appears to be covered in algal fronds — are also documented here, and devil scorpionfish lurk in the rubble. Beyond the scorpionfish family, Jahir produces frogfish (including hairy frogfish), various ghost pipefish, nudibranchs across multiple families, and mantis shrimp. The deeper reaches of the slope occasionally yield hairy octopus and stargazers buried in the sand.
+Jahir is documented for Ambon scorpionfish, painted frogfish, hairy frogfish, seahorses, purple heart urchins, zebra crabs, moray eels, and stargazers (particularly active at night). Mimic octopus and ornate ghost pipefish are confirmed here by multiple sources. Rhinopias scorpionfish are found throughout the Lembeh Strait and are sought at many sites including Jahir, though sightings are not guaranteed at any individual site — ask your guide about recent rhinopias activity before the dive. The coral patches starting at 5 metres add habitat variety to the otherwise sandy slope.
 
 ## Dive Profile
 
-Head to the deeper end of the site first — around 22–28 meters — where rhinopias are most commonly encountered on the rubble and sponge patches. Spend time here before ascending gradually through the mid-slope zone between 15 and 22 meters, where ambon scorpionfish and frogfish are most active. Work back up to the shallower sections for the safety stop, exploring the upper slope where nudibranchs and small critters concentrate. The depth profile rewards solid dive planning: descend deep first, ascend slowly.
+The coral patches begin at 5 metres and a black sand slope extends to 28 metres. Work from shallow coral patches down through the sand slope, searching rubble and coral blocks for scorpionfish, frogfish, and ghost pipefish. Night dives are particularly productive for stargazers and other nocturnal species. The depth allows generous bottom time in the 5–20 metre range before pushing deeper.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Access by banca boat. Back roll or giant stride entry. Follow your guide closely
 
 ## Tips and Recommendations
 
-- Rhinopias sightings are not guaranteed on every dive — they are resident but mobile; if one was found yesterday it is often in the same area today, and guides track their positions
-- Brief your guide explicitly on rhinopias and ambon scorpionfish as target species before descending
-- Spend at least 5–10 minutes with any rhinopias found — they are docile, allow close approach, and reward patient photography
-- The deeper profile here demands careful air and no-decompression limit management; plan to begin ascending with 100 bar remaining
-- Guides at Jahir have very sharp eyes for the camouflaged species this site is known for — watch where they point before you look or you will miss the subject entirely
+- Jahir is excellent for night dives — stargazers are among the highlighted nocturnal species here
+- Ask your guide specifically about rhinopias activity before the dive; sightings are not guaranteed and guides track recent locations
+- The scorpionfish diversity at this site rewards slow, methodical searching of coral blocks and rubble rather than moving quickly across open sand
+- The deeper profile (to 28 m) demands careful air management; plan to begin ascending with 100 bar remaining
+- Brief your guide on mimic octopus and ornate ghost pipefish as secondary targets in addition to scorpionfish
 
 ## Safety Considerations
 
-Jahir's depth pushes to 28 meters, placing it at the more demanding end of intermediate recreational diving. Monitor your no-decompression limits and air supply carefully. Do not approach or touch any scorpionfish — their dorsal spines are venomous. Rhinopias, while visually spectacular, are armed and should be admired from a respectful distance. Standard Lembeh precautions apply: no touching sand or rubble, careful buoyancy, SMB carried at all times.
+Jahir's depth pushes to 28 metres, placing it at the more demanding end of intermediate recreational diving. Monitor your no-decompression limits and air supply carefully. Do not approach or touch any scorpionfish — their dorsal spines are venomous. Standard Lembeh precautions apply: no touching sand or rubble, careful buoyancy, SMB carried at all times.
 
 ## Photography
 
-Jahir is among the top scorpionfish photography sites in the world. Rhinopias are among the most photogenic subjects in macro diving — their elaborate skin texture, brilliant colour variants (red, yellow, purple specimens are all documented in Lembeh), and habit of sitting motionless make them exceptional portrait subjects. A 100mm macro lens at close range captures remarkable skin texture detail. Ambon scorpionfish require supermacro technique due to their small size and intricate surface structure. Shoot rhinopias at eye level, with strobes angled to minimise shadows in the skin extensions.
+Jahir's scorpionfish diversity makes it a strong macro photography site. Ambon scorpionfish require supermacro technique due to their small size and intricate surface structure. Zebra crabs on purple heart urchins are distinctive subjects unique to this site's character. If rhinopias are present, a 100mm macro at close range captures the elaborate skin texture detail these fish are known for; shoot at eye level with strobes angled to minimise shadows.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive the World – Lembeh Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Tropilogy – Lembeh Dive Sites](https://www.tropilogy.com/article/top-dive-sites-and-beyond-diving-in-lembeh-strait/), [Solitude World – Lembeh Macro Sites](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [Lembeh Resort – Rhinopias](https://www.lembehresort.com/dive-center/critters-lembeh-strait-paddle-flap-scorpionfish-rhinopias-eschmeyeri/). Last updated 2026-06-13.*

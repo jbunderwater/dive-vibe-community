@@ -3,7 +3,7 @@
     "name": "Los Islotes",
     "lat": 24.5977,
     "lon": -110.401,
-    "depth": 26,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, Mapcarta, PADI"
+      "validation_source": "cortezclub.com,lapazdivers.com,tosea.net,padi.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Depth corrected from 26m to 18m per multiple independent sources (PADI, Cortez Club, La Paz Divers, DiversInnMX). 26m was not confirmed by any source. Population 600 confirmed by TOSEA research."
     }
   },
   {
@@ -26,7 +28,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "padi.com,wikipedia.org,cortezclub.com,cantamar.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Three pinnacle tops at 16m, 25m, 21m (confirmed Wikipedia Marisla Seamount article). Hammerhead species confirmed as scalloped hammerhead by multiple sources. 40m max working depth confirmed as Advanced."
     }
   },
   {
@@ -41,7 +45,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "Zentacle, DiversInnMX, diveinlapaz.com"
+      "validation_source": "padi.com,dan.org,cortezclub.com,diversinnmx.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Depth 12m (35-40ft) consistent across sources. Marine life re-audited: coral hawkfish and damselfish confirmed at site by DAN and UWPhotoGuide. Garden eels in surrounding sand confirmed."
     }
   },
   {
@@ -56,7 +62,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX, ScubaBoard"
+      "validation_source": "math.ucr.edu,bajadiving.com,padi.com,veronikasadventure.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Wreck history re-audited. Vessel dimensions 320ft x 50ft confirmed by UCR primary source. 12-foot gash claim removed (not in primary source). Hurricane Liza Sept 30 1976 confirmed. All core facts hold. LST origin and ferry route confirmed."
     }
   },
   {
@@ -71,7 +79,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, diveinlapaz.com, thedivegurus.com"
+      "validation_source": "diveinlapaz.com,cortezclub.com,thedivegurus.com,bajadiving.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Site type wall confirmed. 35m max depth consistent. Marine life re-audited: stonefish claim removed (not site-specific). Sea fan and rock fish coverage confirmed by multiple operators."
     }
   },
   {
@@ -86,7 +96,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, cabotrek.com, diveinlapaz.com"
+      "validation_source": "cortezclub.com,cabotrek.com,lapazdivers.com,padi.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Depth 25m (80ft) confirmed by Baja Diving and Cortez Club. PADI lists 27m max. Manta season corrected to mid-June through October per Cabo Private Guide and La Paz Divers. Unverified '15-year hiatus' claim removed. Sea lion colony ~40 confirmed."
     }
   },
   {
@@ -101,7 +113,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "padi.com,cortezclub.com,yatezzitos.com,veronikasadventure.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Depth 15-16m confirmed. Coral restoration figures (7,500 colonies + 5,000 nursery) confirmed by Yatezzitos and Power Traveller. Sea lion colony 40-50 non-breeding animals confirmed."
     }
   },
   {
@@ -116,7 +130,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, ScubaBoard, DiversInnMX"
+      "validation_source": "caboprivateguide.com,padi.com,mexico.greatestdivesites.com,veronikasadventure.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Wreck history re-audited against 4 independent sources. Single vessel confirmed (Cortez Club reference to two vessels conflates Fang Ming with C-59, a separate 2004 wreck). Capture April 1995 and sinking Nov 18 1999 confirmed by 3+ sources. Length ~56m (180ft) consistent. 'First intentional artificial reef in Latin America' confirmed by multiple sources. Green sea turtles, angelfish, groupers confirmed at site."
     }
   },
   {
@@ -131,7 +147,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX"
+      "validation_source": "nautilusliveaboards.com,uwphotographyguide.com,scubaboard.com,cortezclub.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Site primarily liveaboard. Hammerheads confirmed by ScubaBoard trip reports (Oct 2023 at 124ft/38m). Sea lion colony on island confirmed by Nautilus liveaboard report. Mobula ray season claim for May-July not directly confirmed at this specific site - phrasing softened to 'regional'. 28m working depth retained as conservative figure; deeper dives to 38m+ are possible."
     }
   },
   {
@@ -146,7 +164,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "getamap.net, bajadiving.com"
+      "validation_source": "bajadiving.com,cabotrek.com,diversinnmx.com",
+      "last_qa_date": "2026-06-13",
+      "qa_notes": "Identified as 'La Punta Norte' on Baja Diving site. Depth 18m (60ft) confirmed by Baja Diving and DiversInnMX. Marine life re-audited: sea turtles, barracuda, moray eels, sergeant majors confirmed. Pelagic visitors (hammerheads, tuna, wahoo) noted as occasional per Baja Diving and Cabo Private Guide."
     }
   }
 ]

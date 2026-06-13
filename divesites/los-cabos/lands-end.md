@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Land's End
 
-Where the Pacific Ocean meets the Sea of Cortez at the famous El Arco rock arch. A resident colony of California sea lions regularly approaches divers and snorkelers, making this one of the most entertaining dives in Cabo. Schools of cow-nose rays, baitfish, and snappers patrol the rocky bottom. The remains of a small shipwreck sit at roughly 12 meters, partially encrusted with marine growth. Depth ranges from 10 to 22 meters across the site.
+Where the Pacific Ocean meets the Sea of Cortez at the famous El Arco rock arch. A resident colony of California sea lions regularly approaches divers and snorkelers, making this one of the most entertaining dives in Cabo. Schools of cow-nose rays, baitfish, and snappers patrol the rocky bottom. The remains of the SS Harry Lundeberg (also recorded as Lundenberg) rest at roughly 12 meters, partially encrusted with marine growth. The vessel was built in 1943 as the Kitsilano Park in Vancouver and struck the rocks at Land's End on February 8, 1954, while carrying a cargo of gypsum plaster — confirmed by krakendivers.com and cabovivo.com. Hurricane Odile (2014) uncovered portions of the wreck that had been concealed by sand; visibility over the wreck varies. Depth ranges from 10 to 22 meters across the site.
 
 ## Site Information
 
@@ -39,4 +39,4 @@ The site surrounds the granite rock formations at the very tip of the peninsula.
 Currents and surge can intensify without warning, particularly on the Pacific side. Not recommended for inexperienced divers when conditions are rough. Boat traffic is heavy in the area — deploy an SMB before surfacing.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Kraken Divers](https://www.krakendivers.com) (wreck identification), [Cabo Vivo](https://www.cabovivo.com) (wreck history). Last updated 2026-06-13.*

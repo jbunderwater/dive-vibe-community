@@ -2,10 +2,10 @@
 name: Meno Corner
 lat: -8.3588705
 lng: 116.0625884
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
-siteType: drift
+siteType: reef
 ref: null
 osmId: 2395669754
 addedBy: osm_import
@@ -13,50 +13,31 @@ addedBy: osm_import
 
 ## Meno Corner
 
-The northeastern tip of Gili Meno — a turtle-rich pinnacle and slope where sea turtles gather in the surrounding sea grass and coral.
+A patch reef and gently sloping valley on the northeast side of Gili Meno — calm conditions and reliable turtle encounters make it suitable for all levels.
 
 ## Overview
 
-Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, all sides covered in corals. This is the main turtle habitat area on Gili Meno, where green and hawksbill turtles congregate in the sea grass beds and on the reef slope. A notable bonus is the nearby Bounty Wreck (Meno Wreck), sitting just off the coast and covered in soft coral. Together, these two adjacent sites make Gili Meno one of the standout dive destinations in the Lombok/Gili Islands area.
+Meno Corner is located at the northeast side of Gili Meno. Manta Dive Gili Air describes it as a "patch reef with gently sloping valley" with "small coral bommies at the edges surrounded by white sand." The site "nearly always has calm conditions even when it is rough elsewhere," making it one of the most reliable dives in the Gili Islands. The deeper section offers "a perfect slope dropping deep dotted with bommies" to approximately 30 meters. Manta Dive Gili Air lists it as suitable for Try Scuba Diving and Open Water courses.
+
+Note: Some operators use "Meno Corner" and "Turtle Heaven" for overlapping or adjacent areas on the northeast tip of Gili Meno. The site is distinct from the primary drift sites on the island's north and west sides.
 
 ## Site Information
 
-- **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
-- **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate; can be strong on the corner
+- **Location**: Northeast Gili Meno, Gili Islands / Lombok
+- **Entry Type**: Boat dive (approximately 10 minutes from dive center)
+- **Site Type**: Reef (slope with patch reef)
+- **Difficulty Level**: Beginner (all levels)
+- **Maximum Depth**: 30 meters
+- **Current**: Calm — noted as one of the sheltered sites in the Gili Islands
 - **Best Time**: May to October
 
 ## Marine Life
 
-Green and hawksbill turtles in numbers — among the best turtle encounters in the entire Gili Islands. The pinnacle hosts reef fish typical of the Gili Islands — parrotfish, triggerfish, sweetlips, and moray eels. Reef sharks are occasionally seen on the deeper pinnacle sections. Blue-spotted stingrays on sandy patches.
-
-## Dive Profile
-
-Descend to the slope at 10–15 m and follow it to the pinnacle at 20–30 m. Spend time on the sea grass and reef patches searching for turtles before the pinnacle. Ascend via the shallower reef sections and complete a 3-minute safety stop.
-
-## Entry and Exit
-
-Boat from Gili Meno or Lombok operators. The corner has variable current — follow your guide's entry timing recommendation. SMB for drift ascent.
-
-## Tips and Recommendations
-
-- Combine Meno Corner and Bounty Wreck in the same diving day for a comprehensive Gili Meno experience
-- Move slowly across the sea grass patches — turtles are often camouflaged among the blades
-- Best dived early in the morning when turtles are most active on the reef
-- The pinnacle drops to 30 m and is worth a deeper visit for advanced divers
-- Accessible from Lombok mainland as part of a Gili Islands day trip
+Green sea turtles grazing on sponges in shallow coral fields are the primary attraction, confirmed by Manta Dive Gili Air. Eagle rays and spotted eagle rays are noted. Additional species: stonefish, scorpionfish, lionfish, Spanish mackerel, and dogtooth tuna.
 
 ## Safety Considerations
 
-Current at the corner can be strong, particularly on spring tides. Stay close to the pinnacle for reference and do not let the current carry you away from it. Always carry an SMB. Turtles should not be approached from above.
-
-## Photography
-
-Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
+Calm conditions make this one of the more accessible sites in the Gilis. The deeper slope extends to 30 meters — stay within certification depth limits. Standard boat dive precautions apply.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Meno Corner](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-corner-all-levels), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Site type corrected from drift to reef/slope per manta-dive-giliair.com operator description. Last updated 2026-06-13.*

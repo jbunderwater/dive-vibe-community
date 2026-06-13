@@ -5,18 +5,19 @@
     "lon": 48.0195595,
     "osm_id": 6943550642,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 50,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shark Point",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,tropical-diving.com,scubago.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -25,8 +26,8 @@
     "lon": 48.0627584,
     "osm_id": 6943571813,
     "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 21,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -34,8 +35,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,aquamadagascar.com,ulyssexplorer.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -44,17 +46,18 @@
     "lon": 48.0866988,
     "osm_id": 6943571814,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Rosado",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,aquamadagascar.com,tropical-diving.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -63,7 +66,7 @@
     "lon": 48.0994665,
     "osm_id": 6943573745,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 33,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -72,8 +75,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "madablu.com,tropical-diving.com,scubanosybe.com",
+      "last_qa_date": "2026-06-13"
     }
   }
 ]

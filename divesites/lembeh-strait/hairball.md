@@ -3,7 +3,7 @@ name: Hairball
 lat: 1.4667
 lng: 125.2333
 difficulty: Intermediate
-maxDepth: 29
+maxDepth: 28
 entryType: boat
 siteType: muck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Hairball
 
-Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and arguably the site that best encapsulates everything Lembeh is famous for. The name comes from the hairy frogfish found here in reliable numbers, though the site's real claim to fame is the extraordinary concentration of rare and bizarre critters packed into a single sandy slope.
+Hairball is one of the most celebrated muck diving sites in Lembeh Strait, North Sulawesi, Indonesia — and consistently ranked among the top four most-dived sites in the strait. The name is said to derive from two combined sources: the hairy frogfish that are found here reliably, and the algae growth on the slope that resembles feline hairballs. The site's real distinction is that its position on a point means converging currents deliver more nutrients than most nearby sites, making the sandy slope exceptionally productive for macro life.
 
 ## Overview
 
@@ -25,14 +25,14 @@ Hairball runs along a gently sloping black volcanic sand bottom scattered with s
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 29 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Usually mild; occasionally light drift
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Hairball delivers one of the densest concentrations of rare critters in the Strait. Hairy frogfish — the namesake species — are found here in multiple colour phases, often resting motionless among algae-covered rubble. Mimic octopus and wonderpus are regular sightings, emerging from sandy burrows to hunt in the open. Flamboyant cuttlefish patrol the shallower areas of the slope, flashing their extraordinary colour patterns as they stalk prey across the sand. Blue-ringed octopus, one of the most venomous animals in the ocean, are spotted with surprising regularity. Coconut octopus, robust ghost pipefish, and a rotating cast of nudibranchs complete the critter list. Expert local guides ("spotters") know every centimetre of this site and are essential for finding the smallest subjects.
+Hairball delivers one of the densest concentrations of rare critters in the strait. Multiple operators and databases confirm hairy frogfish as the namesake and headline species, found in multiple colour phases resting motionless on algae-covered rubble. Ambon scorpionfish, seahorses, and coconut octopus are documented at this site. Snake eels, moray eels, dragonets, various frogfish species (warty, Randall's, painted in addition to hairy), stargazers (particularly on night dives), and cuttlefish are confirmed by Lembeh Resort's own site page. Flamboyant cuttlefish are reported here. The site is described as having no corals — only sand, algae, and sponges — with all critters adapted to that habitat. Expert local guides are essential for locating the most cryptic subjects.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Hairball is a straightforward muck dive with no significant hazards beyond stand
 Hairball is a supermacro photographer's dream. Hairy frogfish are ideal for portrait shots — find one, frame carefully, and take your time. Flamboyant cuttlefish reward patience with extraordinary colour-change sequences. Wonderpus and mimic octopus offer dynamic movement shots as they hunt. Shoot with a 100mm macro or wet dioptre for the smallest subjects. Early morning dives often have the best light penetration and the most active critters.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort – Hairball](https://www.lembehresort.com/divesites/hairball), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive the World – Lembeh Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Solitude World – Lembeh Macro Sites](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [Asia Dive Site – Hairball](https://www.asiadivesite.com/indonesia-dive-sites/lembeh-strait/hairball.php). Last updated 2026-06-13.*

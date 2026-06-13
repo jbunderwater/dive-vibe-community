@@ -2,10 +2,10 @@
 name: Turtle Point
 lat: -8.3427036
 lng: 116.0437832
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 6750981689
 addedBy: osm_import
@@ -13,50 +13,32 @@ addedBy: osm_import
 
 ## Turtle Point
 
-A pinnacle on Gili Trawangan's northeast side where green and hawksbill turtles gather in numbers — accessible from Lombok as a day trip.
+An underwater pinnacle on the northeast side of Gili Meno — also known as Turtle Heaven — where green and hawksbill turtles congregate in large numbers.
 
 ## Overview
 
-Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle drops from 10 m to 35 m and is used by both green and hawksbill turtles as a feeding and resting area. Multiple turtle encounters in a single dive — sometimes 10 or more — are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip, making it one of the most achievable bucket-list dives in the Lombok area for visiting divers.
+Turtle Point (also known as Turtle Heaven) is a large underwater pinnacle on the northeast side of Gili Meno, accessible from Lombok as a day trip. The pinnacle rises from depth to a shallowest point of approximately 10 meters and descends to 35 meters. Multiple operators describe the site as one of the best places in the Gili Islands for sea turtle encounters, with both green and hawksbill turtles present. The upper sections of the pinnacle are accessible to beginner divers, while the deeper sections to 35 meters require Advanced certification.
 
 ## Site Information
 
-- **Location**: Northeast Gili Trawangan, accessible from Lombok
+- **Location**: Northeast Gili Meno, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Pinnacle
+- **Difficulty Level**: Intermediate (upper sections beginner-accessible; 35m max requires Advanced)
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate; variable on the pinnacle
 - **Best Time**: May to October
 
 ## Marine Life
 
-Green and hawksbill turtles in substantial numbers — a standout site in the Gili Islands for turtle density. Reef sharks on the deeper pinnacle sections. Reef fish diversity throughout. Nudibranchs and cleaner shrimps on the coral surface. Barracuda and trevally in the blue water.
+Green and hawksbill turtles are consistently reported at this site. Clownfish in anemones, moray eels, and reef fish are noted by local operators. Additional species confirmed by trawangandive.com include cuttlefish and scorpionfish.
 
-## Dive Profile
+## Site Information
 
-Descend the mooring line to the pinnacle and begin exploring the upper sections at 10–18 m where turtles are most concentrated. Advanced divers can explore deeper pinnacle sections. Ascend slowly to the pinnacle top for the safety stop.
-
-## Entry and Exit
-
-Boat from Lombok or Gili Trawangan operators. Descent on mooring line. SMB for open water ascent.
-
-## Tips and Recommendations
-
-- One of the highest-value day trip sites accessible from Lombok
-- Move very slowly along the pinnacle face — turtles stay if not startled
-- Multiple turtle encounters are almost guaranteed on most dives
-- Combine with Trawangan Wall for a full northeast and northwest Gili Trawangan day
-- Accessible to beginner Open Water divers in the upper pinnacle sections
+Boat entry. Mooring available. The upper pinnacle section (10–18 m) is calm and accessible to Open Water divers. Deeper sections require Advanced certification. Always carry an SMB.
 
 ## Safety Considerations
 
-Variable current on the pinnacle. Beginners should stay on the upper sections in calmer water. Do not descend beyond certification depth. Do not touch or chase turtles. Always carry an SMB.
-
-## Photography
-
-Multiple turtles together in one frame. Turtle eye-level portraits with pinnacle coral background. Wide-angle captures the pinnacle scale with turtles and reef sharks in context.
+The pinnacle extends to 35 meters — divers without Advanced certification must not descend beyond their limit of 18 meters (OW) or 30 meters (AOW). Variable current on the pinnacle. Always carry an SMB.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Manta Dive – Turtle Heaven](https://manta-dive.com/news-and-blog/exploring-the-dive-site-turtle-heaven/), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/). Last updated 2026-06-13.*

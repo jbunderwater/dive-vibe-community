@@ -5,7 +5,7 @@ lng: 159.0667
 difficulty: Beginner
 maxDepth: 8
 entryType: boat
-siteType: cave
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,27 +13,30 @@ addedBy: osm_import
 
 ## Erscott's Hole
 
-Erscott's Hole is a shallow lagoon cave dive site with exceptional visibility and abundant fish life, located just 5 minutes from the boatshed inside the protected lagoon.
+Erscott's Hole is a sheltered seabed depression inside Lord Howe Island's lagoon, five minutes by boat from the dive shed, noted for consistently excellent visibility and a resident population of tame fish conditioned to daily visitor encounters.
 
 ## Overview
 
-Erscott's Hole is a popular beginner-friendly cave dive within the lagoon, known for consistently excellent visibility and diverse marine life. The shallow depth and protected lagoon location make it diveable in nearly all weather conditions, making it a reliable choice for photographers and newer divers. Amazing fish life and easy conditions make this a must-do site.
+Erscott's Hole is one of three named lagoon depressions at Lord Howe Island (alongside Comets Hole and Sylph's Hole). Protected within a marine sanctuary area, it sits in an otherwise shallow lagoon and offers a maximum depth of around 8 metres (some sources cite 6 metres for the main shallowest sections). The site is virtually always diveable regardless of ocean conditions outside the lagoon, making it a go-to option in poor weather. Fish at the site are notably tame — a result of regular conditioning by daily glass-bottom boat tours. A luxuriant garden of staghorn coral dominates the upper sections of the hole.
+
+Note: The site is classified as a reef depression rather than a true penetration cave; no overhead environment requiring cave certification.
 
 ## Site Information
 
-- **Location**: Inside Lord Howe Island lagoon
+- **Location**: Inside Lord Howe Island lagoon, 5-minute boat ride from the boatshed
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
+- **Conditions**: Sheltered; excellent visibility; minimal current; diveable in nearly all weather
 
 ## Marine Life
 
-Erscott's Hole hosts a diverse mix of reef fish including Bluefish, Double Header Wrasse, Spangled Emperors, and Neon Damsels. The calm, shallow environment attracts numerous fish species seeking shelter in the cave formations.
+Confirmed species at Erscott's Hole include Bluefish (capable of rapid colour change from dark green to sky blue), Double Header Wrasse, Spangled Emperors, and Neon Damsels. The lordhoweisland.info official dive guide additionally lists Coleman's Pygmy Seahorse, Foster's Hawkfish, Marlin Spike Auger Shells, Spotted Snake Eel, and Beaked Leatherjacket. Galapagos Whaler Sharks regularly patrol the outer lagoon near the hole.
 
 ## Dive Profile
 
-The site offers shallow diving in a cave and cavern environment. Maximum depth is approximately 8 meters. The cave shelters diverse fish life adapted to the protected conditions. Begin in the shallower sections and explore the cave formations. The shallow depth allows for extended bottom time.
+Maximum depth is approximately 8 metres. The site centres on the depression, with a surrounding garden of staghorn coral. Extended bottom time is easily achievable given the shallow depth. Best approached by descending into the depression and exploring outward along the coral rim. No overhead environment; open water throughout.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Spacifica Travel — Snorkelling and Diving Lord Howe Island](https://spacificatravel.com/post/snorkelling-diving-lord-howe-island-a-guide-to-the-worlds-southernmost-coral-reef__466), [Lord Howe Island Australia — Erscott's Hole](https://lordhoweisland-australia.com/lord-howe-island-attractions/lord-howe-island-erscotts-hole/), [Mudgee Dive and Travel — Lord Howe Island](http://www.mudgeediveandtravel.com/LORD-HOWE-ISLAND.php). Last updated 2026-06-13.*

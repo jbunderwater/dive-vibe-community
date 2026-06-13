@@ -13,8 +13,8 @@
       "name": "NAD Lembeh",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, diveworldwide.com, lembehresort.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "nad-lembeh.com,lembehresort.com,starfish.ch,dive-the-world.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -23,7 +23,7 @@
     "lon": 125.2333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 29,
+    "depth": 28,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -31,8 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/hairball, solitude.world, nad-lembeh.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "lembehresort.com,starfish.ch,dive-the-world.com,solitude.world,asiadivesite.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -49,8 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, lembehresort.com, infinitebluedivetravel.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,dive-the-world.com,solitude.world,nad-lembeh.com,lembehresort.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nadlembehresort.wordpress.com, lembehresort.com, zubludiving.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,dive-the-world.com,solitude.world,nad-lembeh.com,lembehresort.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -85,8 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/tk3, zubludiving.com, infinitebluedivetravel.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,dive-the-world.com,solitude.world,nad-lembeh.com,lembehresort.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -103,8 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/nudi-falls, nad-lembeh.com, solitude.world",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "dive-the-world.com,starfish.ch,solitude.world,tropilogy.com,insidescuba.online",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -121,8 +121,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "starfish.ch, zubludiving.com, blog.padi.com, dive-the-world.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "dive-the-world.com,starfish.ch,tropilogy.com,asiadivesite.com,twofishdivers.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -139,8 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com, tropilogy.com, zubludiving.com, solitude.world",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,dive-the-world.com,tropilogy.com,solitude.world,lembehresort.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -157,8 +157,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "starfish.ch, lembehresort.com, zubludiving.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,nad-lembeh.com,lembehresort.com,dive-the-world.com,diversiondivetravel.com.au",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -167,7 +167,7 @@
     "lon": 125.2667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 20,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -175,14 +175,50 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com/divesites/aer-bajo, starfish.ch, zubludiving.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "dive-the-world.com,starfish.ch,indonesiadivedirectory.com,scubadiverlife.com,lembehresort.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
     "name": "Nudi Retreat",
     "lat": 1.485,
     "lon": 125.2533,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "lembehresort.com,dive-the-world.com,starfish.ch,indonesia-tourism.com,solitude.world",
+      "last_qa_date": "2026-06-13"
+    }
+  },
+  {
+    "name": "Angel's Window",
+    "lat": 1.4633,
+    "lon": 125.22,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 32,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "lembehresort.com,indonesia-tourism.com,starfish.ch,originaldiving.com,twofishdivers.com",
+      "last_qa_date": "2026-06-13"
+    }
+  },
+  {
+    "name": "Retak Larry",
+    "lat": 1.48,
+    "lon": 125.245,
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
@@ -193,44 +229,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com, solitude.world, diversiondivetravel.com.au, zubludiving.com",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
-    "name": "Angel's Window",
-    "lat": 1.4633,
-    "lon": 125.22,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 32,
-    "site_type": "muck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "lembehresort.com/divesites/angels-window, nad-lembeh.com, infinitebluedivetravel.com, starfish.ch",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
-    "name": "Retak Larry",
-    "lat": 1.48,
-    "lon": 125.245,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 25,
-    "site_type": "muck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "zubludiving.com, lembehresort.com, dive-the-world.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "starfish.ch,dive-the-world.com,dan.org,wetpixel.com,nadlembehresort.wordpress.com",
+      "last_qa_date": "2026-06-13"
     }
   }
 ]

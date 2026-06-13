@@ -3,7 +3,7 @@ name: Aer Bajo
 lat: 1.5
 lng: 125.2667
 difficulty: Beginner
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Aer Bajo
 
-Aer Bajo — meaning "low water" in Indonesian — is a muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. The name likely reflects the site's position at a point of tidal influence, where shallower water conditions and seasonal current patterns create a productive sandy habitat. It is one of the more accessible sites in the northern strait, rated beginner-friendly and offering good species variety across a manageable depth range.
+Aer Bajo — meaning "Sea Gypsy" in the local Bitung dialect — is a muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. There are three Aer Bajo sites in the area, each beginning with a shallow sandy flat at 4–6 metres before dropping to a gentle sand slope. The site is beginner-friendly and produces a reliable variety of muck critters across a manageable depth range.
 
 ## Overview
 
-The site presents the characteristic Lembeh muck profile: volcanic black sand sloping gently to a maximum of 25 meters, with the most productive critter zones concentrated in the 8–18 meter range. The substrate is primarily open sand interspersed with low rubble patches and scattered debris. Currents are generally light. Visibility runs 8–15 meters. Water temperature is stable at 26–29°C year-round.
+Each Aer Bajo site begins with a shallow sandy flat at 4–6 metres, then slopes gently to a maximum of around 20 metres where the bottom gradually flattens out. The substrate is primarily open sand interspersed with rubble patches — classic Lembeh muck habitat. Currents are generally light. Visibility runs 8–15 metres. Water temperature is stable at 26–29°C year-round.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ The site presents the characteristic Lembeh muck profile: volcanic black sand sl
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light; occasionally moderate with tidal influence
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Aer Bajo is a consistent producer of seahorses, with both thorny seahorses and spotted seahorses documented across the sandy and rubble sections of the slope. Pipefish — including the ornate ghost pipefish and banded pipefish — are regularly sighted near seagrass patches and low algal growth. The sandy expanse of the slope provides habitat for sand-dwelling species including garden eels retreating into their burrows, and the occasional ribbon eel displaying from its burrow opening. Frogfish occupy rubble patches, and nudibranchs are found across the full depth range. Octopus, including both coconut and long-armed octopus species, hunt across the open sand.
+Aer Bajo is known for coconut octopus and numerous other octopus species across the sandy and rubble sections of the slope. Mimic octopus and hairy frogfish are documented at this site. Seahorses are regularly found, as are ghost pipefish and crustaceans including mantis shrimp. The open sandy areas provide habitat for sand-dwelling species. As with all Lembeh sites, species composition varies by season and with tidal and nutrient conditions.
 
 ## Dive Profile
 
-Work the slope between 8 and 20 meters, paying attention to seagrass patches and low algal growth as seahorse habitats, and to the rubble-sand interfaces for frogfish and nudibranchs. The site's beginner rating reflects the manageable depth, minimal current, and straightforward topography. Beginners will find this an excellent site for developing muck diving techniques — slow movement, precise buoyancy, and detailed observation — without the added challenges of current or depth.
+Work the slope between the shallow sandy flat (4–6 m) down to about 20 metres, concentrating on rubble-sand transitions where frogfish and octopus are most active. The site's beginner rating reflects the manageable depth, minimal current, and straightforward topography. Beginners will find this an excellent site for developing muck diving techniques — slow movement, precise buoyancy, and detailed observation — without the added challenges of current or depth.
 
 ## Entry and Exit
 
@@ -44,11 +44,10 @@ Access by banca boat. Entry via back roll or giant stride. Navigation follows th
 
 ## Tips and Recommendations
 
-- Seahorses are among the top targets at this site — brief your guide on your preferences before the dive; they will navigate to the areas of highest seahorse density
 - Aer Bajo is an excellent site for beginner divers to develop their muck diving eye — the relatively open sand habitat makes it easier to spot movement than the dense rubble zones at other Lembeh sites
+- Ask your guide specifically about coconut octopus and hairy frogfish — these are documented at this site
 - The site is suited to a relaxed, exploratory pace — there is no need to rush, and slower divers typically find more critters than those moving quickly
 - Tidal timing can influence conditions — ask the dive operator about optimal tidal windows for the calmest conditions
-- Garden eels in the deeper sandy sections retreat rapidly when approached — hover high above the slope and observe them from 3–4 meters to avoid startling them before you can photograph them
 
 ## Safety Considerations
 
@@ -56,7 +55,7 @@ Aer Bajo is one of the most beginner-accessible sites in the northern Lembeh Str
 
 ## Photography
 
-Aer Bajo's open sandy habitat offers clean backgrounds for seahorse and pipefish photography — a challenge at more rubble-heavy sites where backgrounds can be cluttered. Thorny seahorses gripping low algal growth, shot from eye level with a 100mm macro lens, provide elegant portrait subjects with minimal background distraction. Garden eels in the sand are a unique supermacro opportunity if approached with patience. Octopus moving across open sand are excellent behavioural subjects for video footage.
+Aer Bajo's open sandy habitat offers clean backgrounds for octopus and frogfish photography. Coconut octopus carrying shells across the open sand provide excellent behavioural sequences. The relatively flat, open substrate allows photographers to position themselves without fighting current or depth pressure.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Dive the World – Lembeh Strait Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Indonesia Dive Directory – Aer Bajo](https://www.indonesiadivedirectory.com/en/dive-areas/lembeh/aer-perang), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Scuba Diver Life – Top Lembeh Sites](https://scubadiverlife.com/top-dive-sites-lembeh-critter-capital-dive-world/), [Lembeh Resort](https://www.lembehresort.com/). Last updated 2026-06-13.*

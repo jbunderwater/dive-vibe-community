@@ -2,8 +2,8 @@
 name: Shark Point
 lat: -13.3233766
 lng: 48.0195595
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 50
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a wall dive site in Madagascar, Africa.
+Shark Point is an advanced wall dive site approximately 21 km from Nosy Be, known for consistent shark encounters on a drop-off that descends from 18 m to beyond 50 m.
 
 ## Overview
 
-Shark Point is one of Nosy Be's signature drop-off dives, with the wall starting at 18–22 metres and drawing in grey reef sharks, white-tip reef sharks, and the occasional hammerhead alongside schools of bench snapper and trevally. The site is best dived on a rising tide when visibility improves and the sharks are most active, and it is accessible to Level 1 certified divers under those conditions.
+Shark Point is one of Nosy Be's most exposed and demanding dive sites, situated well offshore in open water with reliable visibility. The site is characterised by a drop-off that begins around 18 metres and falls sharply to depths beyond 50 metres. The combination of distance from shore, significant depth, and strong tidal influence makes this an Advanced-level dive. Multiple sources confirm sightings of blacktip reef sharks, white-tip reef sharks, and grey reef sharks at this site, with occasional hammerhead sharks also reported. Pelagic species including wahoo and yellowfin tuna are regularly seen. Diving is best conducted on the right tidal phase for visibility and shark activity; local operators advise checking conditions before committing to the journey.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Madagascar, Africa (Nosy Be area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 50 meters
+
+## Marine Life
+
+Multiple operator sources confirm shark encounters at this site: blacktip reef sharks, white-tip reef sharks, and grey reef sharks are regularly reported. Hammerhead sharks are an occasional sighting. Pelagic fish including wahoo and yellowfin tuna are documented. No site-specific species list beyond those confirmed by local operators is included here.
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Scuba Nosy Be — Dive Sites](https://scubanosybe.com/en/sites-de-plongee/), [Tropical Diving — Nosy Be Dive Sites](https://tropical-diving.com/en/nosy-be-dive-sites/), [Scubago — Shark Point Madagascar](https://www.scubago.com/en/explore/divesite/shark-point-madagascar-299862). Last updated 2026-06-13.*

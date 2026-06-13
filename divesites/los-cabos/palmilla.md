@@ -19,7 +19,7 @@ Two reef systems blended with coral canyons near the eastern end of the Corridor
 
 - **Location**: The Corridor, near San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters
@@ -39,4 +39,4 @@ Start on one reef system, cross the sandy channel, and explore the second. The c
 Calm, shallow site suitable for all levels. Mild current possible. The dual reef structure provides natural shelter.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-13.*

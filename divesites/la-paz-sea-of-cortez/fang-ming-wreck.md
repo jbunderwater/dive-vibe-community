@@ -29,7 +29,7 @@ The Fang Ming was a Chinese fishing vessel later converted to a cargo ship. In A
 
 ## Wreck History
 
-The Fang Ming's capture in April 1995 led to a human-trafficking case and left the Mexican government with an unwanted vessel. The Seawatch organization, led by La Paz dive community members, coordinated the permitting, cleanup (including fuel and hazardous material removal), and structural modifications over four years. The sinking on November 18, 1999 was a landmark event — the first intentional artificial reef wreck in all of Latin America. Two independent sources confirm both the capture date (April 1995) and the sinking date (November 1999).
+The Fang Ming's capture in April 1995 led to a human-trafficking case and left the Mexican government with an unwanted vessel. The Seawatch organization, led by La Paz dive community members, coordinated the permitting, cleanup (including fuel and hazardous material removal), and structural modifications over four years. The sinking on November 18, 1999 was a landmark event — the first intentional artificial reef wreck in all of Latin America. Four independent sources confirm the capture date (April 1995), sinking date (November 18, 1999), vessel length (~56 meters / 180 feet), and the single-vessel nature of the wreck. Note: the Cortez Club website references "two vessels (56m and 36m)" at this location, which conflates the Fang Ming with the C-59 (ARM Cadete Francisco Márquez), a separate Mexican Navy minesweeper scuttled in 2004 approximately two nautical miles away near La Paz; the C-59 is a distinct dive site.
 
 ## Marine Life
 
@@ -55,4 +55,4 @@ Boat access from La Paz (approximately 45–60 minutes to the west side of Espí
 Standard intermediate-level wreck precautions apply. The hull's openings are modified for diver access, but interior navigation still requires a dive light and situational awareness. No special advanced training is required for exterior dives.
 
 ---
-*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Divers Guide — Fang Ming Wreck](https://www.divers-guide.com/en/fang-ming-wreck), [PADI Dive Site — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/). Last updated 2026-05-17.*
+*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [PADI — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/), [Greatest Dive Sites — Fang Ming](https://mexico.greatestdivesites.com/baja_california/la_paz/chinese_wreck_fang_ming), [Veronika's Adventure — Fang Ming Wreck Dive](https://powertraveller.com/la-paz-fang-ming-wreck-dive/). Last updated 2026-06-13.*

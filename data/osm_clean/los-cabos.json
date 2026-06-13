@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, padi.com, scubadiving.com"
+      "validation_source": "divecabo.com, krakendivers.com, cabovivo.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com, divecabo.com, scubadiving.com"
+      "validation_source": "divecabo.com, diveninjaexpeditions.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -41,22 +43,24 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, scubadiving.com, caboprivateguide.com"
+      "validation_source": "divecabo.com, caboprivateguide.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
     "name": "Neptune's Finger",
     "lat": 22.8785,
     "lon": -109.892,
-    "depth": 33,
-    "site_type": "wall",
+    "depth": 37,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com, loscabosguide.com, diveninjaexpeditions.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -64,14 +68,15 @@
     "lat": 22.881,
     "lon": -109.896,
     "depth": 27,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Beginner to Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com, diveninjaexpeditions.com, deeperblue.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -81,12 +86,13 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Beginner to Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, caboprivateguide.com"
+      "validation_source": "divecabo.com, padi.com, caboprivateguide.com, diveninjaexpeditions.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -94,29 +100,31 @@
     "lat": 22.92,
     "lon": -109.835,
     "depth": 30,
-    "site_type": "pinnacle",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Intermediate to Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com, cabosanlucastours.net, caboprivateguide.com, bajadiveguide.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
     "name": "Santa Maria Bay",
     "lat": 22.9295,
     "lon": -109.8148,
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "boat or shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com, divecabo.com, caboprivateguide.com"
+      "validation_source": "divecabo.com, visitloscabos.travel, caboprivateguide.com, sandinmysuitcase.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -125,13 +133,14 @@
     "lon": -109.8096,
     "depth": 18,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
+    "entry_type": "boat or shore",
+    "difficulty": "Beginner to Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, caboprivateguide.com"
+      "validation_source": "divecabo.com, caboprivateguide.com, bajadiveguide.com, bluewaterdivetravel.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -141,12 +150,13 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Beginner to Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, cabosanlucastours.net"
+      "validation_source": "divecabo.com, cabosanlucastours.net, caboprivateguide.com, scubaboard.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -161,7 +171,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "eastcapeexplorers.com, divecabo.com"
+      "validation_source": "divecabo.com, eastcapeexplorers.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -176,7 +187,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "eastcapeexplorers.com"
+      "validation_source": "divecabo.com, eastcapeexplorers.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -191,7 +203,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divecabo.com, scubadiving.com, inthebite.com"
+      "validation_source": "divegordobanks.com, divecabo.com, cabosanlucastours.net",
+      "last_qa_date": "2026-06-13"
     }
   }
 ]

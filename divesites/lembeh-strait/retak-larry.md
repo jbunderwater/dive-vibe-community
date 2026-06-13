@@ -3,7 +3,7 @@ name: Retak Larry
 lat: 1.48
 lng: 125.245
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Retak Larry
 
-Retak Larry is a dedicated octopus site in the Lembeh Strait, North Sulawesi, Indonesia — and in a location filled with sites named for habitats or specific species, this one is named after a person. "Retak Larry" is widely understood to honour Larry, a diver associated with early exploration of the site. Whatever the exact origin, the site has built a strong reputation as one of the best places in the strait to find multiple octopus species on a single dive, with the mimic octopus being the signature attraction.
+Retak Larry is a dedicated octopus site in the Lembeh Strait, North Sulawesi, Indonesia. The name has a specific and well-documented origin: "retak" is the Indonesian word for "crack," and the site was humorously named by local guides after Larry Smith — the American diver who pioneered recreational diving in Lembeh Strait in the mid-1990s — playing on the word. Larry Smith took the joke with good humour. The site has since built a strong reputation entirely on its own merits as one of the best places in the strait to find multiple octopus species on a single dive.
 
 ## Overview
 
@@ -25,18 +25,18 @@ The site runs along a sloping black volcanic sand bottom to 25 meters, with scat
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Retak Larry is one of the most reliable sites in the Lembeh Strait for the trio of charismatic octopus species that define Lembeh's reputation. The mimic octopus (Thaumoctopus mimicus) — famous for imitating lionfish, flatfish, and sea snakes to deter predators — is found hunting in the open sand, a behaviour that can be observed at length when it occurs. Wonderpus (Wunderpus photogenicus), with its striking white-spotted orange-brown pattern, is another prized sighting, distinguishable from the mimic by its distinctive markings. Blue-ringed octopus (Hapalochlaena species) — among the most venomous animals on earth despite their small size — are found in the rubble zones. Coconut octopus complete the octopus count. Beyond octopus, frogfish are found on rubble patches, nudibranchs are scattered throughout, and the site occasionally produces ghost pipefish and mantis shrimp.
+Retak Larry is documented as one of the reliable Lembeh sites for wonderpus (Wunderpus photogenicus), with its striking white-spotted orange-brown pattern, and for hairy frogfish and coconut octopus. Seahorses, ornate ghost pipefish, and peacock mantis shrimp are also noted by operators who run this site. Blue-ringed octopus are present in the rubble zones, as they are across Lembeh generally. The mimic octopus is present in the broader TK/Retak Larry area, though its sighting at any individual site varies with conditions and season — ask your guide about recent sightings before the dive rather than relying on any fixed expectation.
 
 ## Dive Profile
 
-Work the slope between 10 and 22 meters, dividing time between the open sand areas where mimic and wonderpus hunt, and the rubble zones where blue-ringed octopus shelter. The guide will know the active den locations and recent hunting patterns for resident octopus. Follow their movement direction on the slope — spotting a mimic octopus hunting in the open is one of the high points of any Lembeh trip, and guides will navigate the dive to maximise the opportunity. Reserve time for the mid-slope rubble zones where blue-ringed octopus are most commonly found.
+Work the slope between the shallow end down to about 18–20 metres, dividing time between open sand areas and rubble zones. The guide will know recent den locations and active hunting grounds. Wonderpus and hairy frogfish are daytime subjects — brief your guide on your primary targets before descent. Reserve time for the rubble zones where blue-ringed octopus and peacock mantis shrimp are most commonly found.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Access by banca boat. Back roll or giant stride entry. Follow your guide closely
 
 ## Tips and Recommendations
 
-- The mimic octopus is diurnal and most active on daytime dives — this is not a night dive site for its headline species
-- When a mimic octopus is found hunting in the open, resist the urge to approach closely — moving too fast will trigger it to retreat to a burrow, ending the sighting; hover at 1–2 meters and observe
-- Wonderpus versus mimic identification: wonderpus has a distinct spotted pattern with white-outlined brown patches and longer arms; mimic is more uniform brown with white stripes; ask your guide to confirm which species you're looking at
-- Blue-ringed octopus are one of the most dangerously venomous animals encountered in diving — the blue rings only become vivid when the animal is agitated; never attempt to handle one or bring it to the surface
+- Wonderpus sightings are the headline target at this site — brief your guide explicitly; ask whether they have been active recently
+- Wonderpus versus mimic octopus identification: wonderpus has a distinct spotted pattern with white-outlined brown patches and proportionally longer arms; ask your guide to confirm which species you are observing
+- Blue-ringed octopus are one of the most dangerously venomous animals encountered in diving — the blue rings only become vivid when the animal is agitated; never attempt to handle one
 - This site is excellent for video — octopus behaviour sequences are among the most compelling subjects in underwater videography
+- The depth cap of around 20 metres gives generous bottom time for slow, methodical observation
 
 ## Safety Considerations
 
-Blue-ringed octopus are a genuine hazard at Retak Larry and the reason the site warrants intermediate rather than beginner difficulty. Their venom causes paralysis and can be fatal — no antivenom exists. They are small (3–6 cm body) and cryptic. Never touch, pick up, or place hands near any octopus at this site. If a blue-ringed octopus is found, observe from a respectful distance and do not block its retreat path. Standard Lembeh buoyancy and silt precautions apply. Carry an SMB.
+Blue-ringed octopus are present at Retak Larry as they are at all Lembeh muck sites. Their venom causes paralysis and can be fatal — no antivenom exists. They are small and cryptic. Never touch, pick up, or place hands near any octopus regardless of size. If a blue-ringed octopus is found, observe from a respectful distance and do not block its retreat path. Standard Lembeh buoyancy and silt precautions apply. Carry an SMB.
 
 ## Photography
 
-Retak Larry is a behaviour photographer's site. Mimic octopus impersonating various animals — particularly the flatfish impression where it spreads its arms symmetrically and undulates across the sand — is one of the most sought-after sequences in muck diving photography. Video is strongly recommended for capturing the full behaviour. For stills, a 100mm macro allows frame-filling shots of stationary individuals, while a 60mm allows more context in the frame when photographing the full hunting posture. Wonderpus patterns are best captured under supplemental strobe light, which brings out the vivid orange-white contrast. Blue-ringed octopus shots showing the iridescent blue rings require the animal to be in a threat-display posture — photograph from distance and never provoke the display intentionally.
+Retak Larry is a behaviour photographer's site. Wonderpus patterns are best captured under supplemental strobe light, which brings out the vivid orange-white contrast of their markings. Hairy frogfish positioned against algae-covered rubble reward close macro work. Video is strongly recommended for any octopus behavioural sequences. Blue-ringed octopus shots showing the iridescent blue rings should be taken from distance — never provoke the display intentionally.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive the World – Lembeh Muck Guide](https://www.dive-the-world.com/newsletter-200603-muck-diving-in-lembeh.php), [DAN Alert Diver – Back to Lembeh](https://dan.org/alert-diver/article/back-to-lembeh/), [Wetpixel – Larry Smith](https://wetpixel.com/articles/larry-smith), [NAD-Lembeh WordPress – Mimic Octopus](https://nadlembehresort.wordpress.com/2012/03/02/creature-feature-mimic-octopus/). Last updated 2026-06-13.*

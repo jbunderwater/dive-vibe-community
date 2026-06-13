@@ -2,8 +2,8 @@
 name: Rosado
 lat: -13.3931342
 lng: 48.0866988
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 19
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Rosado
 
-Rosado is a reef dive site in Madagascar, Africa.
+Rosado (also referred to as Rosario or Rosario Bank by local operators) is a shallow reef plateau off Nosy Be, known for dense schools of fish, gorgonian sea fans, and macro life in easy, gentle conditions.
 
 ## Overview
 
-Rosado is a reef dive site in the waters off Nosy Be, northwestern Madagascar, an archipelago renowned for over 400 coral species and marine fauna often endemic to Malagasy waters. The site features healthy hard and soft coral formations with gorgonian sea fans, attracting reef sharks, stingrays, schools of snappers and barracudas, and a rich assortment of nudibranchs and other macro life. Diving conditions are best from April to December with visibility of 15-30 meters and warm water temperatures of 25-30°C, with the possibility of whale shark encounters from September through December.
+Rosado is a shallow reef plateau at 14–19 metres — one of the most accessible sites in the Nosy Be area. Local operators describe it as an easy reef and gentle drift dive with excellent fish concentration: large schools of fish characterise the site, and individual macro creatures including scorpionfish, leaffish, stonefish, crocodilefish, and nudibranchs are documented by multiple operators. Beautiful fan corals and gorgonian formations are present across the plateau. Conditions are calm enough for beginner divers. The site name appears in OSM as "Rosado" and across local dive operators as "Rosario" or "Rosario Bank" — these names refer to the same location; the bank is reportedly named after an Italian diver, Rosario, who first documented it.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Madagascar, Africa (Nosy Be area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 19 meters
+
+## Marine Life
+
+Multiple operator sources confirm the following at this specific site: scorpionfish, leaffish (scorpion leaffish), stonefish, crocodilefish, nudibranchs, and large schools of reef fish. Gorgonian sea fans are documented across the plateau. Occasional manta ray, mobula ray, or eagle ray visits are noted by some operators, though not guaranteed. No regional species list (whale sharks, reef sharks, barracuda) is attributed to this site without site-specific confirmation.
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Scuba Nosy Be — Dive Sites](https://scubanosybe.com/en/sites-de-plongee/), [Aqua Diving Madagascar — Diving Spots](https://www.aquamadagascar.com/en/diving-spot/), [Tropical Diving — Nosy Be Dive Sites](https://tropical-diving.com/en/nosy-be-dive-sites/). Last updated 2026-06-13.*

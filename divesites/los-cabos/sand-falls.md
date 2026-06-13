@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Sand Falls
 
-Featured in Jacques Cousteau's television series, Sand Falls is one of the most unique underwater features in the world. Streams of sand cascade down a chute and over the edge of a submarine canyon that drops to over 365 meters. The visual effect resembles an underwater waterfall. The site sits near Pelican Rock at the canyon rim, with the sand rivers beginning around 27 meters and the main viewing depth at 30-40 meters.
+One of the most unique underwater features in the world. Streams of sand cascade down a chute and over the edge of the submarine San Lucas Canyon, which extends to depths well beyond recreational diving limits. Jacques Cousteau is documented as having dived and filmed the San Lucas Canyon sandfalls; several sources attribute their wider fame to his television series. The visual effect resembles an underwater waterfall. The site sits near Pelican Rock at the canyon rim, with the sand rivers beginning around 27 meters and the main viewing depth at 30–40 meters.
 
 ## Site Information
 
@@ -28,7 +28,7 @@ Featured in Jacques Cousteau's television series, Sand Falls is one of the most 
 
 ## Marine Life
 
-The sandy canyon edge attracts garden eels and jawfish. Larger species cruise the blue water off the wall, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, sea fans, and groupers.
+The sandy canyon edge attracts garden eels and jawfish. Larger species cruise the blue water off the canyon rim, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, sea fans, and groupers.
 
 ## Dive Profile
 
@@ -36,7 +36,7 @@ This is a deep dive requiring Advanced certification and good air management. De
 
 ## Safety Considerations
 
-Depth is the primary hazard. The canyon drops to over 365 meters and narcosis can impair judgment at these depths. Strong currents can develop along the canyon edge. This site is not suitable for inexperienced divers. Carry an SMB and dive computer, and agree on maximum depth and turn pressure before descending.
+Depth is the primary hazard. The San Lucas Canyon extends to depths well beyond recreational limits; narcosis can impair judgment at the deeper sections of this site. Strong currents can develop along the canyon edge. This site is not suitable for inexperienced divers. Carry an SMB and dive computer, and agree on maximum depth and turn pressure before descending.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com), [ScubaBoard](https://www.scubaboard.com). Last updated 2026-06-13.*

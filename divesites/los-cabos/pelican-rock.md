@@ -39,4 +39,4 @@ Enter from the boat on the bay side of the pinnacle. Explore the shallow reef an
 The bay provides excellent shelter, making this one of the calmest dive sites in the area. Watch depth near the canyon edge — the bottom drops away steeply. Boat traffic within the bay requires an SMB on ascent.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Manta Cabo](https://www.mantacabo.com). Last updated 2026-06-13.*

@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,wikipedia.org,howeadivers.com.au,reefbuilders.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -23,14 +24,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 8,
-    "site_type": "cave",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,spacificatravel.com,lordhoweisland-australia.com,mudgeediveandtravel.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -41,13 +43,14 @@
     "osm_type": null,
     "depth": 7,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,spacificatravel.com,mudgeediveandtravel.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -56,15 +59,16 @@
     "lon": 159.0583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,howeadivers.com.au,mudgeediveandtravel.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,howeadivers.com.au,mudgeediveandtravel.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -90,7 +95,7 @@
     "lon": 159.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 36,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -98,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,mudgeediveandtravel.com,diveplanit.com",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -114,8 +120,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-13"
     }
   },
   {
@@ -132,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,spacificatravel.com,mudgeediveandtravel.com",
+      "last_qa_date": "2026-06-13"
     }
   }
 ]

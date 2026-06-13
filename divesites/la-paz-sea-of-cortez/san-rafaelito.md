@@ -23,7 +23,7 @@ San Rafaelito is a small rocky islet located north of La Paz, close to Pichiling
 
 - **Location**: North of La Paz Bay, near Pichilingue, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
@@ -50,4 +50,4 @@ Short boat ride from La Paz (approximately 20–30 minutes from the marina area)
 Depth and conditions are manageable for beginner divers. Being inside La Paz Bay means protection from ocean swell. Boat traffic in the Pichilingue area warrants use of a dive flag and awareness of surface conditions on ascent.
 
 ---
-*Sources: [PADI Dive Site — San Rafaelito Lighthouse / Lobos Rock](https://www.padi.com/dive-site/mexico/san-rafaelito-lighthouse-lobos-rock/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Yatezzitos — San Rafaelito La Paz](https://yatezzitos.com/en/san-rafaelito-la-paz/), [La Paz Explorer — Dive Sites in La Paz](https://lapazexplorer.com/dive-sites-in-la-paz/). Last updated 2026-05-17.*
+*Sources: [PADI — San Rafaelito Lighthouse / Lobos Rock](https://www.padi.com/dive-site/mexico/san-rafaelito-lighthouse-lobos-rock/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Yatezzitos — San Rafaelito La Paz](https://yatezzitos.com/en/san-rafaelito-la-paz/), [Veronika's Adventure — San Rafaelito Dive Site](https://veronikasadventure.com/la-paz-san-rafaelito-dive-site/). Last updated 2026-06-13.*

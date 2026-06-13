@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nudi Falls
 
-Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, Nudi Falls earns its name from the extraordinary density and variety of nudibranch species found along its sloping volcanic sand and rubble bottom. Experienced nudibranch hunters and underwater macro photographers consider this a must-dive site on any Lembeh trip.
+Nudi Falls is consistently cited as the most nudibranch-rich site in the Lembeh Strait — and in a location already regarded as the global epicentre of nudibranch diversity, that is a meaningful distinction. Located on the mainland side of the strait in North Sulawesi, Indonesia, the site takes its name from the phenomenon of diver exhaust bubbles dislodging nudibranchs from the wall above, causing them to drift downward. It is one of the three most-dived sites in the strait, alongside Nudi Retreat and Hairball.
 
 ## Overview
 
-The site presents a sloping black sand bottom interspersed with rubble patches, sponges, and small coral growth down to 25 meters. This variety of microhabitats supports an unusually wide range of nudibranch families. The water here in the northern strait can carry slightly more current than the southern sites, though conditions are generally manageable for intermediate divers. Visibility runs 8–15 meters. Water temperature averages 26–29°C year-round.
+Nudi Falls is more topographically complex than Lembeh's pure muck sites. The dive begins on a small vertical rock wall in very shallow water — from as little as 1 metre — that descends to around 15–20 metres, transitioning to a sandy slope and then a lively rubble section with soft corals extending to 25 metres. This combination of miniature wall, sand slope, and soft coral rubble habitat produces an unusually wide range of species. The water here can carry slightly more current than the sheltered southern sites. Visibility runs 8–15 metres. Water temperature averages 26–29°C year-round.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ The site presents a sloping black sand bottom interspersed with rubble patches, 
 
 ## Marine Life
 
-Nudi Falls hosts a remarkable diversity of opisthobranch molluscs. Chromodorids are abundant and visually striking — the bold white, purple, and red patterns of Chromodoris annae, Chromodoris kuniei, and Hypselodoris species are regularly photographed here. Aeolid nudibranchs with their flowing cerata — including Flabellina and Pteraeolidia species — are found on hydroid patches. Phyllidiids patrol the sponge surfaces. Beyond nudibranchs, Nudi Falls produces cuttlefish in multiple species, octopus — including the broadclub cuttlefish laying eggs in crevices — and various ghost pipefish. Frogfish are present throughout the site, and the deeper rubble areas harbour mantis shrimp and small scorpionfish.
+Nudi Falls is most prominently known for its nudibranchs — multiple sources cite it as the consistently most nudibranch-diverse site in the strait. The site is also documented as a location for pygmy seahorses, rhinopias scorpionfish (confirmed at this site by Starfish.ch and Tropilogy reports), robust ghost pipefish, wonderpus, frogfish, and mantis shrimp. Multiple observers report pygmy seahorses on gorgonian fans at the site. The wall section hosts spindle cowries and flame file shells. The range of species reflects the habitat variety — wall, sand slope, and rubble each contribute distinct communities. Specific chromodorid and aeolid nudibranch species names are not included here as site-specific species confirmation changes seasonally; species diversity is high but fluid.
 
 ## Dive Profile
 
-Descend to the mid-slope around 15–18 meters and work the sponge and rubble zones systematically. Nudibranch density is highest in the areas where sponge growth concentrates — these animals feed on specific sponge species and their distribution follows the food source. Work upslope slowly, spending extended time at each rubble-sponge interface. The shallower zones above 12 meters typically show the highest density of aeolids on hydroid colonies. Reserve enough air for a thorough safety stop in the productive 5-meter zone.
+Begin on the miniature wall in the shallows — as shallow as 1 metre — and work down the wall face to 15–20 metres. Then transition to the sandy slope and the deeper rubble and soft coral zone. The wall section is where nudibranch density is typically highest; the deeper rubble harbours rhinopias and frogfish. Work back upslope slowly for a productive safety stop on the shallow wall, which continues to yield nudibranch sightings throughout the ascent.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Intermediate difficulty is warranted by the mild current potential in the northe
 Nudi Falls is arguably the finest pure nudibranch photography site in Southeast Asia. Chromodorids against dark sand create high-contrast, striking images with minimal post-processing. Aeolids in profile against backlit water columns are classic supermacro subjects. Wet dioptre attachments (+5 or +10 close-up lenses) allow extreme magnification of gill plumes and rhinophores. A focus light is essential for consistent colour rendition. Allow one full dive per genus family to do justice to the variety here.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive the World – Lembeh Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Solitude World – Lembeh Macro Sites](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [Tropilogy – Lembeh Dive Sites](https://www.tropilogy.com/article/top-dive-sites-and-beyond-diving-in-lembeh-strait/), [Inside Scuba – Nudi Falls](https://insidescuba.online/p/lembeh-macro-dive-site-nudi-falls). Last updated 2026-06-13.*

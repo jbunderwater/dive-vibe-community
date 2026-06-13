@@ -29,7 +29,7 @@ Located within Espiritu Santo National Park along the northern section of Isla E
 
 ## Marine Life
 
-The wall surface is decorated with sea fans, sponges, and encrusting corals. Fish life on the wall includes cabrilla, grouper, Panama graysby, snapper, octopus, king angelfish, parrotfish, and several moray eel species. Stonefish have been documented on Espíritu Santo walls. In the open water off the face of the wall, passing mantas, sea lions from Los Islotes, and dolphin pods are possible. The wall's depth range and varied structure support higher diversity than comparable shallow reef sites.
+The wall surface is decorated with sea fans, sponges, and encrusting corals. Fish life on the wall includes cabrilla, grouper, snapper, octopus, king angelfish, parrotfish, and moray eels. In the open water off the face of the wall, passing mantas, sea lions from Los Islotes, and dolphin pods are possible. The wall's depth range and varied structure support higher diversity than comparable shallow reef sites.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ Boat access from La Paz (approximately 45–60 minutes). Espiritu Santo National
 The wall's depth reaches Advanced-level territory — narcosis can be a factor below 30 m. Currents along the wall can push divers away from the structure; maintain a close swimming position relative to the wall for reference. A surface marker buoy is essential for open-water pick-up after drift sections.
 
 ---
-*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [The Dive Gurus — Espiritu Santo dive sites](https://www.thedivegurus.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/). Last updated 2026-05-17.*
+*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [The Dive Gurus — Espiritu Santo dive sites](https://www.thedivegurus.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/). Last updated 2026-06-13.*

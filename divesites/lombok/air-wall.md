@@ -3,7 +3,7 @@ name: Air Wall
 lat: -8.3528396
 lng: 116.0738278
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,29 @@ addedBy: osm_import
 
 ## Air Wall
 
-Gili Air's signature wall dive on the island's eastern side — rare gorgonian sea fans, bumphead parrotfish, and a vertical drop to 30 m.
+A wall dive between Gili Air and Gili Meno, descending from 8 meters to approximately 28 meters with moray eels, anemones, and hawksbill turtles.
 
 ## Overview
 
-Air Wall runs along the eastern side of Gili Air and drops vertically from 5 m to 30 m, offering one of the most scenic wall dives accessible from Lombok and the Gili Islands. The wall is notable for hosting rare gorgonian sea fans — an impressive sight given the proximity to the more heavily visited sections of the Gilis. The dive starts on a sandy slope that transitions to coral bommies and ridges where bumphead parrotfish are regularly sighted. The current sweeps along the wall creating the conditions for larger fish to congregate, and the combination of colourful wall corals and pelagic action makes this one of the standout sites on Gili Air.
+Air Wall runs between Gili Air and Gili Meno. Oceans 5 Dive describes it as a wall descending from 8 meters to 30 meters. Blue Marlin Dive records an average depth of 18 meters and maximum of 28 meters. Marine life confirmed by Oceans 5 Dive includes blue-spotted stingrays, turtles, and pygmy seahorses; Blue Marlin Dive adds moray eels, anemones, clownfish, octopus, angelfish, lionfish, triggerfish, sweetlips, and hawksbill turtles. The site is intermediate-level, with consistent current along the wall face.
 
 ## Site Information
 
-- **Location**: East side of Gili Air, Gili Islands / Lombok
+- **Location**: Between Gili Air and Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15–25 m
+- **Maximum Depth**: 28 meters
 - **Current**: Moderate; consistent along the wall
 - **Best Time**: May to October
 
 ## Marine Life
 
-Bumphead parrotfish follow the wall in schools — an impressive and unusual sighting at Gili Air. Rare gorgonian sea fans throughout the wall face. Reef sharks and barracuda on the outer sections. Turtles feed along the reef crest. Moray eels and groupers inhabit wall crevices. Nudibranchs on the coral rubble and sandy ledges.
-
-## Dive Profile
-
-Descend to the wall at 10–15 m and follow it south, staying between 15–22 m to observe the gorgonian fans and reef. Watch the slope transition at the start of the dive for bumphead parrotfish before the wall section begins. Ascend gradually and complete a safety stop in the shallower coral zone.
-
-## Entry and Exit
-
-Boat from Gili Air (short transit). Entry via back roll or giant stride. Current along the wall is manageable for intermediate divers. SMB for drift ascent.
-
-## Tips and Recommendations
-
-- Arrive early to maximise the chance of bumphead parrotfish before they move to other feeding areas
-- Scan the gorgonian fans carefully for pygmy seahorses — they have been reported here
-- Combine with a Gili Air Biorock dive and the Gili Air harbour macro site for a comprehensive Gili Air day
-- On neap tides, this site is more accessible for less experienced intermediate divers
-- The mandarin fish in Gili Air harbour is worth a separate dusk/dawn dive visit
+Confirmed by local operators: hawksbill turtles, blue-spotted stingrays, moray eels, anemones with clownfish, octopus, angelfish, lionfish, triggerfish, sweetlips (Blue Marlin Dive). Pygmy seahorses confirmed by Oceans 5 Dive.
 
 ## Safety Considerations
 
-Current can increase on the wall's open eastern face. Stay alert to depth on the wall sections where the drop is significant. Always carry an SMB. Reef sharks are non-aggressive but maintain respectful distance.
-
-## Photography
-
-Rare gorgonian sea fans suit wide-angle close-focus with strobes. Bumphead parrotfish schools require wide-angle and fast shutter speeds. Turtles on the reef crest in natural shallow light make excellent wide-angle subjects.
+Current is consistent and can increase on the open wall face. Always carry an SMB. Stay within certification depth limits on the wall descent.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/). Last updated 2026-06-13.*

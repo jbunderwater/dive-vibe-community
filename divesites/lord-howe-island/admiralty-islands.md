@@ -13,28 +13,32 @@ addedBy: osm_import
 
 ## Admiralty Islands
 
-Admiralty Islands is a dramatic pinnacle diving destination featuring volcanic formations with 25+ dive sites, located 15 minutes north of Lord Howe Island.
+The Admiralty Islands is a group of volcanic formations 15 minutes north of Lord Howe Island, hosting over 25 named dive sites across steep walls, towering pinnacles, boulder fields, lava tubes, and swim-throughs at depths of 15–40 metres.
 
 ## Overview
 
-Admiralty Islands offer a diverse range of pinnacle and reef diving with towering formations, hidden caves, and prolific marine life. This group of volcanic formations hosts around 25 dive sites scattered around the atolls, making it one of the most extensive dive areas near Lord Howe Island. Depths range from 15 to 40 meters, catering to recreational and experienced divers. Features include large pinnacles, coral reefs, large schools of fish, beautiful hard and soft coral fields, and excellent visibility.
+Located just 15 minutes by boat from Lord Howe Island, the Admiralty Islands is the most extensive dive area in the Lord Howe Island Group. The formations represent the relict barrier reef of the ancient Lord Howe volcanic system, and the terrain is diverse: steep drop-off walls, flat reef plateaux, large pinnacles and bommies, boulders and ridges, hidden caves, and lava tubes. Depths range from 5 metres on the shallowest sections to 40 metres on the deeper reef slopes.
+
+Named sites within the Admiralty Islands group include: Noddy Island (wall dive, 10–20m), Rupert's Reef (rocky pinnacle, 12–24m), Sugarloaf Island (5–16m, soft corals), Tenth of June Bombora (vertical pinnacle, 7–18m), Tenth of June Deep (plateau with wall and tunnels, 20–30m), Flat Rock (12–24m), The Eye of Roach (channel reef, 17m max), North Rock (18–35m, amphitheatre and tunnels), and others. The Admiralty Islands entry in this database represents the broader complex; Tenth of June is also listed separately given its prominence as a specific named site.
+
+The area is noted particularly for nudibranch diversity and encounters with rare angelfish species during the summer months when the Coral Sea current brings tropical fish life.
 
 ## Site Information
 
-- **Location**: 15 minutes north of Lord Howe Island (group of volcanic formations)
+- **Location**: 15 minutes by boat north of Lord Howe Island
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Special Note**: ~25 dive sites scattered around the atolls
+- **Named sub-sites**: 25+ including Noddy, Rupert's, Sugarloaf, Tenth of June, Flat Rock, The Eye of Roach, North Rock
 
 ## Marine Life
 
-The Admiralty Islands host large schools of fish, vibrant hard and soft coral gardens, and diverse reef fish. The pinnacle structures attract pelagic visitors and larger species. The rich ecosystem supports one of Australia's best diving spots.
+Confirmed species across the Admiralty Islands complex include Double-header Wrasse, Tasselled Scorpionfish, Moray Eels, Sydney Octopus, Conspicuous Angelfish, Stingrays, and Peacock-tail Anemone Shrimp. Noddy Island hosts Grey Morays, Kingfish, Blue Drummers, Galapagos Sharks, Halfbanded Angelfish, and Conspicuous Angelfish. Rupert's Reef hosts Splendid Hawkfish, Lord Howe Butterflyfish, Double-header Wrasse, McCulloch's Anemonefish, Cook's Scorpionfish, Painted Morwongs, Lionfish, and Galapagos Shark. North Rock features Fusiliers, Sweepers, Trevally, Amberjack, Triggerfish, Black Cod, and sharks. Large pelagic fish increase in summer months when the Coral Sea current dominates.
 
 ## Dive Profile
 
-Diving at Admiralty Islands varies dramatically depending on which specific site you choose. The group features towering pinnacles, coral walls, boulder fields, and hidden caves. Depths range from 15 to 40 meters. Most activity occurs between 15-30 meters. Explore the variety of underwater landscapes including large pinnacles and dramatic formations.
+Site selection within the Admiralty Islands depends on conditions and diver experience. Shallower sites like Sugarloaf (5–16m) suit beginners; Tenth of June Deep (20–30m), Flat Rock (12–24m), and North Rock (18–35m) require intermediate to advanced experience. The pinnacle formations allow circumnavigation routes. Visibility is typically 20–30 metres. Most sites are within 10 minutes of each other by surface, allowing operators to tailor the dive plan to conditions on the day.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Lord Howe Island Official Diving Guide — Admiralty Islands](https://lordhoweisland.info/natural-attractions/natural-treasures/admiralty-islands/), [DivePlanit — Admiralty Islands Lord Howe](https://www.diveplanit.com/dive-site/admiralty-islands-lord-howe/), [Howea Divers — Dive Sites](https://www.howeadivers.com.au/dive-sites/), [Mudgee Dive and Travel — Lord Howe Island](http://www.mudgeediveandtravel.com/LORD-HOWE-ISLAND.php). Last updated 2026-06-13.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## El Salinar Shipwreck
 
-A mysterious shipwreck of unknown origin split into three large sections resting on a sandy bottom near San Jose del Cabo. The wreck has been thoroughly colonized by marine life and coral growth, creating an artificial reef teeming with fish. The shallow depth of 12 meters maximum and calm conditions make it accessible to all certification levels. The wreck sections and surrounding sand offer good macro photography subjects.
+An unidentified shipwreck — no vessel name or sinking history has been established in publicly available records. The wreck lies in three sections on a sandy bottom near San Jose del Cabo. Marine life and coral growth have colonized the structure, creating an artificial reef habitat. The shallow depth of 12 meters maximum and calm conditions make it accessible to beginner and intermediate divers. The wreck sections and surrounding sand offer good macro photography subjects.
 
 ## Site Information
 
@@ -39,4 +39,4 @@ Visit each of the three wreck sections in sequence, starting with the largest. T
 Shallow, calm site with minimal hazards. The wreck's corroded metal can have sharp edges — maintain neutral buoyancy and avoid contact. No penetration should be attempted.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-13.*

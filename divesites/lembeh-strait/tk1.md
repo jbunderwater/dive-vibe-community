@@ -32,7 +32,7 @@ The site presents a classic Lembeh muck profile: a gently sloping black volcanic
 
 ## Marine Life
 
-TK1 is particularly well-regarded for ornate ghost pipefish, which drift near feather stars and black-sand patches in a range of colour morphs — black, red, and spotted individuals are all regularly found here. Seahorses, including both thorny and Bargibant's pygmy seahorses (on fan corals), are consistent sightings. Nudibranchs are abundant and diverse, with chromodorids, phyllidiids, and aeolids all present across the slope. Frogfish occupy rubble patches and encrusted debris in multiple colour phases. Ribbon eels are occasionally spotted retreating into sand burrows, and juvenile fish of various species shelter in the low-profile rubble throughout the site.
+The TK sites as a group are historically significant as the first documented location of mimic octopus observations in the Lembeh Strait (noted by Starfish.ch and regional diving records). TK1 is documented for sea moths (Pegasus), flying gurnards, leaf scorpionfish, giant and painted frogfish, ribbon eels, snowflake moray eels, and nudibranchs. Mandarinfish have been observed at TK1, and Banggai cardinalfish and white devil scorpionfish are cited by Dive the World. Species composition varies significantly by season; the specific species list above reflects confirmed operator and researcher records rather than an exhaustive account.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ TK1 is one of the most accessible and low-hazard sites in Lembeh. The main consi
 TK1 is an ideal introductory macro photography site. Ornate ghost pipefish are among the most photogenic subjects in Lembeh — the intricate fin detail and cryptic colouration reward patient close-up work with a 100mm macro lens. Seahorse portraits are a staple. The site's gentle slope allows photographers to position themselves without fighting current or depth pressure. Shooting supermacro is possible here with wet dioptre attachments for the smallest nudibranch species.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive the World – Lembeh Sites](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Solitude World – Lembeh Macro Sites](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [NAD-Lembeh Resort](https://www.nad-lembeh.com/blog/category/dive-sites-2/), [Lembeh Resort](https://www.lembehresort.com/). Last updated 2026-06-13.*

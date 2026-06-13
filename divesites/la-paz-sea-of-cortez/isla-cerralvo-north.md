@@ -17,19 +17,19 @@ Isla Cerralvo North is a reef dive site on the remote northern reaches of Isla C
 
 ## Overview
 
-Isla Cerralvo is a remote island in the southern Sea of Cortez, southeast of La Paz. Its northern diving area is less trafficked than the popular Espíritu Santo sites closer to the city, offering a quieter experience with productive reef communities shaped by the channel currents that sweep the island. The northern tip vicinity is close to the La Reynita/La Reyna site cluster — rocky formations with sea fans, brain corals, and garden eels. Intermediate divers with current experience will find good diversity at a comfortable depth range.
+Isla Cerralvo is a remote island in the southern Sea of Cortez, southeast of La Paz. Its northern diving area — also known locally as "La Punta Norte" — is less trafficked than the popular Espíritu Santo sites closer to the city, offering a quieter experience with a maze-like reef teeming with marine life. The northern point area features coral heads, rocky structures, and sandy margins shaped by channel currents that sweep the island. Intermediate divers with current experience will find good diversity at a comfortable depth range, with maximum depth around 18 meters (60 feet).
 
 ## Site Information
 
 - **Location**: Northern end of Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-The northern Cerralvo reefs feature large groupers, sea fans (gorgonians), and brain corals as documented reef residents. Conger/garden eels inhabit the sandy areas adjacent to the reef. Snappers, cabrilla, jacks, and barracuda school at the site. The Underwater Photography Guide notes that La Reyna (the northernmost Cerralvo islet) can have currents that keep visibility excellent and attract bait balls and schools of jacks. Giant Pacific manta rays have been documented at La Reina/La Reyna immediately north of this area in season.
+The northern Cerralvo reef features sea turtles, Mexican barracuda, moray eels, and sergeant major fish as documented reef residents, confirmed by Baja Diving and DiversInnMX. Large groupers, sea fans (gorgonians), and brain corals are also present on the reef structure. Sandy margins adjacent to the reef host conger/garden eels. Pelagic visitors including tuna, wahoo, dorado, hammerhead sharks, and yellowtail are occasionally sighted per Baja Diving. Giant Pacific manta rays visit the La Reina islet immediately north of this area in season (mid-June through October).
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ Longer boat ride from La Paz than the Espíritu Santo sites — approximately 1.
 The crossing from La Paz is longer and more exposed than Espíritu Santo routes. Check weather and sea state before departure. Currents can be moderate to strong; current experience is necessary. Bring sufficient hydration for the crossing.
 
 ---
-*Sources: [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Cabo Trek — Cerralvo Island and La Reina](https://cabotrek.com/diving/cerralvo-island-and-la-reina/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Baja Diving — Isla Cerralvo](https://bajadiving.com/isla-cerralvo/). Last updated 2026-05-17.*
+*Sources: [Baja Diving — Isla Cerralvo](https://bajadiving.com/isla-cerralvo/), [DiversInnMX — Dive Locations](https://diversinnmx.com/dive-locations/), [Cabo Private Guide — Cerralvo Island](https://www.caboprivateguide.com/scuba-diving/la-ventana/jacques-cousteau-island). Last updated 2026-06-13.*
