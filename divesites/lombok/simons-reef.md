@@ -23,7 +23,7 @@ Simon's Reef sits northeast of Gili Meno and consists of a series of coral bommi
 
 - **Location**: Northeast Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (seamounts/bommies)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Current**: Strong; channelling

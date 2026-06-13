@@ -22,10 +22,10 @@ This entry could not be validated as a genuine dive site. The name "Lombok Dive"
 ## Site Information
 
 - **Location**: Unconfirmed — listed coordinates are near southwest Gili Trawangan
-- **Entry Type**: Boat dive (unconfirmed)
-- **Site Type**: Unconfirmed
-- **Difficulty Level**: Unconfirmed
-- **Maximum Depth**: Unconfirmed
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Safety Considerations
 

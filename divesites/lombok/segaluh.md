@@ -22,10 +22,10 @@ Segaluh appears in OSM data attributed to a Gili Islands "Diveschool Notice Boar
 ## Site Information
 
 - **Location**: Listed as north Lombok coast area (unconfirmed)
-- **Entry Type**: Boat dive (unconfirmed)
-- **Site Type**: Reef (unconfirmed)
-- **Difficulty Level**: Intermediate (unconfirmed)
-- **Maximum Depth**: 25 meters (unconfirmed)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Safety Considerations
 
