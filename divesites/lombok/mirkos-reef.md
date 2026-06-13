@@ -2,7 +2,7 @@
 name: Mirkos Reef
 lat: -8.3510773
 lng: 116.0657213
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Mirkos Reef is a dive site in the waters around Gili Air, known as part of the b
 - **Location**: Waters near Gili Air and Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–22 m
 - **Current**: Moderate
@@ -58,5 +58,4 @@ Currents are moderate and manageable for intermediate divers. The deeper section
 
 Reef fish diversity suits fish portrait work. Turtles on the reef crest. Deeper sections with larger sea fans suit wide-angle with strobes.
 
----
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on OSM source data (Gili Islands Diveschool Notice Board). No site-specific operator sources found for "Mirkos Reef" by name. Difficulty corrected to Advanced — 35m depth exceeds Open Water certification limit (30m). Last updated 2026-06-13.*

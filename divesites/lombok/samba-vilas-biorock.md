@@ -58,5 +58,4 @@ Do not touch the metal frame. Maintain buoyancy. Lionfish venomous. Low-voltage 
 
 Abstract geometry of steel frame with growing coral. Multiple structure comparison shots showing different colonisation stages. Fish portraits against the coral-encrusted background.
 
----
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Gili Dive Sites (BioRocks)](https://www.bluemarlindive.com/gili_dive_sites/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Biorock cluster existence confirmed; individual structure name (Samba Vilas) from OSM data. Last updated 2026-06-13.*

@@ -2,8 +2,8 @@
 name: Meno Slope
 lat: -8.3517823
 lng: 116.0500957
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,29 @@ addedBy: osm_import
 
 ## Meno Slope
 
-A gentle sloping reef on the south side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
+A beginner-friendly sloping reef on the west side of Gili Meno — featuring an underwater lovers statue at 3 m, plus bumphead parrotfish, eagle rays, and resident sea turtles.
 
 ## Overview
 
-Meno Slope is a gently inclining reef on the southern side of Gili Meno, offering a more relaxed alternative to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 30 m and features a good mix of hard and soft coral formations with healthy fish populations. The moderate conditions make it a comfortable intermediate dive, and turtles are regularly sighted grazing along the reef crest. The site works well as a second or third dive of the day when a more relaxed dive profile is desired.
+Meno Slope is a sloping reef on the west side of Gili Meno, south of Meno Wall. Manta Dive Gili Air lists it as "All Levels" with a depth range of 5–28 m. A distinctive feature confirmed by PADI, Manta Dive Gili Air, and Trawangan Stingray Divers is an underwater lovers statue (sometimes called "the Lovers") at approximately 3 m depth, which has become encrusted and serves as a critter-spotting focal point. Conditions are generally mild, making this one of the most accessible sites in the Gili Islands. The variety of marine life extends well beyond what beginner sites typically offer — bumphead parrotfish, eagle rays, and giant frogfish have all been confirmed here.
 
 ## Site Information
 
-- **Location**: South side of Gili Meno, Gili Islands / Lombok
+- **Location**: West Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–22 m
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 28 meters
 - **Current**: Mild to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
-
-## Dive Profile
-
-Descend to 20–25 m and explore the deeper coral formations before ascending the slope. The most productive zone for fish life is 8–18 m. Spend time on the reef crest in the shallows for turtle encounters. Complete a 3-minute safety stop before the ascent.
-
-## Entry and Exit
-
-Boat from Gili Meno or Lombok operators. Entry via back roll. Mild current. SMB recommended.
-
-## Tips and Recommendations
-
-- Works well as a relaxed afternoon dive contrasting with stronger current morning dives
-- Search the reef crest shallows carefully for turtle activity
-- Combine with Meno Corner and Bounty Wreck for a comprehensive Gili Meno diving day
-- The deeper sections at 25–30 m are worth exploring for larger groupers and occasional sharks
-- Accessible to intermediate Open Water divers in the main 8–20 m zone
+Confirmed: green sea turtles (Oceans 5, Manta Dive), hawksbill turtles, snapper schools, puffer fish, batfish (Oceans 5 Dive). Blacktip reef sharks, eagle rays, barracuda, bumphead parrotfish, giant frogfish (Manta Dive Gili Air). Blue-ringed octopus reported at this site. The underwater lovers statue at 3 m provides an artificial habitat for encrusting life.
 
 ## Safety Considerations
 
-Currents are generally mild but can increase at depth on the outer slope. Maintain depth awareness as the slope continues deeper than recreational limits. Lionfish in coral overhangs — observe without touching. Always carry an SMB.
-
-## Photography
-
-Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
+Mild current. Blue-ringed octopus can be present — do not touch any small octopus at this site. Maintain buoyancy above coral. Always carry an SMB.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Meno Slope](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-slope-all-levels), [PADI – Gili Islands Dive Sites](https://padi.com/), [Trawangan Stingray Divers](https://trawanganstingraydivers.com/), [Oceans 5 Dive – Gili Dive Sites](https://oceans5dive.com/dive-sites/). Underwater statue at 3m confirmed by 3 independent sources. Depth corrected to 28m per Manta Dive (5-28m). Last updated 2026-06-13.*

@@ -2,8 +2,8 @@
 name: Meno Wall
 lat: -8.3452031
 lng: 116.0498999
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,31 @@ addedBy: osm_import
 
 ## Meno Wall
 
-A steep soft coral wall between Gili Trawangan and Gili Meno — one of the Gili Islands' best night dive sites and an excellent drift for intermediate divers.
+A steep wall on the northwest side of Gili Meno — one of the Gili Islands' best night dive sites, with bumphead parrotfish in open water, pygmy seahorses on fan corals, and a spectacular after-dark crustacean display.
 
 ## Overview
 
-Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descending from 5 m to over 22 m on a steep face covered in soft corals and sea fans. The drift current carries divers at a relaxed pace along the wall, with turtles, reef sharks, and batfish appearing regularly from the blue. Night dives here are exceptional — the crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, and nocturnal reef fish become the main attraction. Pygmy seahorses and bamboo sharks have been found in the wall's crevices. This is one of the most consistently good sites in the Gili Islands / Lombok dive zone.
+Meno Wall runs along the northwest side of Gili Meno, descending from approximately 5 m to 30 m on a near-vertical face colonised by soft corals, gorgonian fans, and a dense cast of reef species. Gili Divers describes it as a two-section structure — an upper wall at 10–13 m and a lower wall at 14–24 m, continuing deeper to 30 m per PADI. Night diving is strongly confirmed by four or more operators (Trawangan Dive, PADI, Blue Marlin, Oceans 5) as one of the Gili Islands' premier after-dark experiences: Spanish dancer nudibranchs, lobsters, shrimps, crabs, and prawns emerge throughout the wall. Bumphead parrotfish have been confirmed in open water alongside the wall by Manta Dive. Pygmy seahorses are confirmed on fan corals by PADI.
 
 ## Site Information
 
-- **Location**: Channel between Gili Trawangan and Gili Meno, Gili Islands / Lombok
+- **Location**: Northwest Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate; carries divers along the wall comfortably
-- **Best Time**: May to October
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Current**: Moderate; can drift along wall
+- **Best Time**: May to October; night dives year-round
 
 ## Marine Life
 
-Turtles cruise the wall face at all depths. Reef sharks are seen passing in the blue. Bamboo sharks rest in wall crevices. Pygmy seahorses inhabit soft coral colonies. At night: lobsters, shrimps, crabs, and nocturnal reef fish emerge throughout the wall. Nudibranchs are abundant on the soft coral and gorgonian fan structures.
+Confirmed: moray eels, lionfish, scorpionfish, Spanish dancers, crabs, lobsters, prawns, nudibranchs, decorator crabs, red army shrimp, squid. Hawksbill and green turtles along the wall (Blue Marlin Dive, Oceans 5). Bumphead parrotfish in open water (Manta Dive Gili Air). Pygmy seahorses on fan corals (PADI). At night: crustacean and nudibranch activity increases significantly — one of the top night dive sites in the Gili Islands.
 
-## Dive Profile
-
-Descend to 15–20 m on the wall and begin drifting. Follow the wall face upward progressively as the dive continues. Concentrate on the 5–15 m zone during the final third of the dive where turtle and fish density peaks. Complete a 3-minute safety stop in shallow water above the wall.
-
-## Entry and Exit
-
-Boat from Gili Trawangan, Gili Meno, or Lombok mainland operators. Always drifted — enter upstream, pickup downstream. SMB mandatory.
-
-## Tips and Recommendations
-
-- Night dives here are among the best in the Gili Islands — book with an operator who runs night boat trips
-- The comfortable drift pace suits both novice and experienced divers
-- Check wall crevices for bamboo sharks resting during day dives
-- Combine with the Bounty Wreck for a complete Gili Meno diving day
-- Soft coral density peaks between 8–18 m — ideal photography depth range
+Note: Bamboo sharks have been reported by one source (dpmdiving.com) but are not confirmed by Manta Dive, PADI, Oceans 5, or Trawangan Dive. Treat as an unverified claim.
 
 ## Safety Considerations
 
-Drift current can accelerate occasionally. Ascend to the shallower wall if current becomes too strong. Always carry an SMB. Night dives require each diver to carry a primary light and a backup. Be aware of boat traffic in the channel especially at night.
-
-## Photography
-
-Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Pygmy seahorses require macro lens and patience to locate in gorgonian polyps.
+Night dives require each diver to carry a primary and backup light. Be aware of boat traffic in the channel at night. Current can increase along the wall. Never rest hands on the wall surface — scorpionfish are present. Always carry an SMB.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [PADI – Diving in Gili Islands](https://padi.com/), [Blue Marlin Dive – Gili Dive Sites](https://bluemarlindive.com/gili_dive_sites/), [Oceans 5 Dive – Gili Dive Sites](https://oceans5dive.com/dive-sites/), [Trawangan Dive – Gili Dive Sites](https://trawangandive.com/), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/), [Gili Divers – Dive Sites](https://gilidivers.com/). Depth corrected to 30m per PADI; bamboo shark claim unconfirmed by majority of operators. Last updated 2026-06-13.*

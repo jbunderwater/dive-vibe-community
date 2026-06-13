@@ -23,8 +23,8 @@ Turtle Point (also known as Turtle Heaven) is a large underwater pinnacle on the
 
 - **Location**: Northeast Gili Meno, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate (upper sections beginner-accessible; 35m max requires Advanced)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Best Time**: May to October
 

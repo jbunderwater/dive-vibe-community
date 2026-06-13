@@ -2,10 +2,10 @@
 name: Manta Point
 lat: -8.363335
 lng: 116.0265987
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 25
 entryType: boat
-siteType: drift
+siteType: reef
 ref: null
 osmId: 2395669753
 addedBy: osm_import
@@ -13,50 +13,29 @@ addedBy: osm_import
 
 ## Manta Point
 
-A southern Gili Islands drift site where reef manta rays seasonally visit — turtles and reef sharks accompany the gentle drift through healthy coral.
+A gentle fringing reef on the south/southwest side of Gili Trawangan — also known as Sunset Reef — where reef manta rays seasonally "fly by" over healthy coral.
 
 ## Overview
 
-Manta Point is south of the Gili Islands chain, in the deeper channel waters where reef manta rays are occasionally encountered. Unlike the highly reliable manta sites at Nusa Penida, sightings here are seasonal and less predictable, making the quality of the coral reef diving itself the primary draw. The gentle drift current carries divers through the site at a comfortable pace, and turtles, reef sharks, and the full suite of Gili Islands reef species are reliably present. The site is accessible from Lombok's northwest coast operators.
+Manta Point (also referred to as Sunset Reef by Manta Dive Gili Air) is a gentle sloping fringing reef on the south/southwest side of Gili Trawangan. This is not a drift site — Manta Dive Gili Air describes it as a "gentle slope" and JTG Travel notes it as a "current-free cove." The depth range of 5–25 m makes it accessible to all levels. Reef manta rays can appear seasonally — Manta Dive notes they "can fly by" — but sightings are not reliably predictable. The best window is approximately April–October during the dry season, though this varies by year. Turtles and standard Gili Islands reef species are the consistent draw regardless of manta presence.
 
 ## Site Information
 
-- **Location**: South of Gili Islands, near Lombok
+- **Location**: South/southwest Gili Trawangan, Gili Islands / Lombok (also called Sunset Reef)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
-- **Best Time**: May to October (mantas most likely in season)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
+- **Current**: Mild; not a drift site
+- **Best Time**: April to October (mantas most likely during dry season)
 
 ## Marine Life
 
-Reef manta rays are possible seasonal visitors — encounter rates are variable. Resident green and hawksbill turtles. Reef sharks on the outer sections. Blue-spotted stingrays on sandy patches. Reef fish diversity typical of the Gili Islands: triggerfish, sweetlips, parrotfish, and wrasse.
-
-## Dive Profile
-
-Enter upstream and drift through the reef gently. Scan both the reef and open water for manta rays — they can appear at any depth. Spend time in the middle sections of the site where turtles and reef fish are most active. Complete a safety stop before ascending. Drift pickup by boat.
-
-## Entry and Exit
-
-Boat from Lombok northwest coast or Gili Islands operators. Drift entry. SMB for pickup.
-
-## Tips and Recommendations
-
-- Treat manta sightings as a welcome bonus rather than a guaranteed occurrence at this site
-- The reef and turtle encounters make this worth diving regardless of manta activity
-- Check with your operator for recent manta sightings in the area before specifically requesting this site
-- Accessible as part of a broader Lombok/Gili Islands multi-day dive itinerary
-- Combine with Air Wall or Bounty Wreck for a diverse Lombok diving day
+Reef manta rays are seasonal visitors — encounter rates are variable and unpredictable. Resident green and hawksbill turtles. Reef fish diversity typical of the Gili Islands: triggerfish, sweetlips, parrotfish, and wrasse on the fringing reef.
 
 ## Safety Considerations
 
-Standard drift dive precautions apply. Current is moderate. Maintain SMB carry. Manta rays require 3 m minimum distance and should not be touched.
-
-## Photography
-
-Manta rays in shallow, bright water produce excellent natural light shots. Turtle portraits in the drift reef suit wide-angle. Open water shots with mantas require wide angle and clear conditions.
+Conditions are generally calm. Treat any manta encounter with minimum 3 m distance — do not touch or chase. Always carry an SMB. Standard buoyancy care above coral.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/), [Trawangan Dive – Gili Dive Sites](https://trawangandive.com/). Site type corrected from drift to reef per Manta Dive ("gentle slope", "fringing reef") and JTG Travel ("current-free cove"). Location: south/southwest Gili Trawangan. Last updated 2026-06-13.*

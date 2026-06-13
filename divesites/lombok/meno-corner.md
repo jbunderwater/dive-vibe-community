@@ -24,9 +24,9 @@ Note: Some operators use "Meno Corner" and "Turtle Heaven" for overlapping or ad
 ## Site Information
 
 - **Location**: Northeast Gili Meno, Gili Islands / Lombok
-- **Entry Type**: Boat dive (approximately 10 minutes from dive center)
-- **Site Type**: Reef (slope with patch reef)
-- **Difficulty Level**: Beginner (all levels)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Current**: Calm — noted as one of the sheltered sites in the Gili Islands
 - **Best Time**: May to October

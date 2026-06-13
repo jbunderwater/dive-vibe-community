@@ -14,9 +14,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "oceans5dive.com,bluemarlindive.com,manta-dive-giliair.com",
+      "validation_source": "divecentralgili.com,manta-dive-giliair.com,trawanganstingraydivers.com,bluemarlindive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Wall confirmed by multiple sources. oceans5dive.com: wall from 8m to 30m between Gili Air and Gili Meno; bluemarlindive.com: 18m avg, 28m max. Depth updated to 28m per bluemarlindive.com. Fabricated marine life (bumphead parrotfish, rare gorgonians, pygmy seahorses) stripped from markdown — no site-specific source confirms these at Air Wall specifically."
+      "notes": "QA 2026-06-13: Wall confirmed by multiple sources. Location: WEST/SOUTHWEST of Gili Air (NOT east — Divessi.com east-side claim appears to be an error; all other operators say southwest/west). oceans5dive.com: wall from 8m to 30m. bluemarlindive.com: 18m avg, 28m max. Depth updated to 28m. Bumphead parrotfish REMOVED — only 1 source (Divessi, which also has wrong location) claims this; no other operator confirms bumpheads at Air Wall. Confirmed: gorgonian sea fans (3 sources: Manta Dive, Trawangan Stingray, Divessi), sea turtles, nudibranchs, pygmy seahorses (Manta Dive), wire coral gobies, orangutan crabs."
     }
   },
   {
@@ -34,9 +34,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divecentralgili.com,trawangandive.com,terumbudivers.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Vessel was a pontoon/floating pier for Gili Meno jetty construction. Sank in 2001 storm, not \"developing a hole\". Lies 8-18m depth. Sources: divecentralgili.com, trawangandive.com, terumbudivers.com confirm storm sinking."
+      "validation_source": "divecentralgili.com,manta-dive-giliair.com,padi.com,bluemarlindive.com",
+      "last_qa_date": "2026-06-13",
+      "notes": "QA 2026-06-13: Vessel was a floating dock/pontoon associated with the former Bounty Resort — NOT a construction pontoon for a jetty. Location: southwest side of Gili Meno (confirmed by majority of operators). Sinking date disputed — 1999, 2001, and 2003 all cited; do not state definitively. Storm cause supported by 2+ sources; bombing claim (Oceans 5 only) not included. Depth: top 6-9m, bottom 17-18m. Confirmed marine life: scorpionfish (4 sources), frogfish (4 sources), drummer fish (3 sources), sweetlips (2 sources), sea turtles (4 sources). Pygmy seahorses: low confidence — only 2 sources (Oceans 5, Gili Divers); hedge as occasionally reported."
     }
   },
   {
@@ -45,7 +45,7 @@
     "lon": 116.0462579,
     "osm_id": 2395669748,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -56,7 +56,7 @@
       "validated": "true",
       "validation_source": "trawangandive.com,oceans5dive.com,bluemarlindive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Confirmed as Advanced pinnacle/seamount. trawangandive.com: 16-30m, Advanced OW+. oceans5dive.com: sea mounds with garden eels, depth 30m. bluemarlindive.com: Turbo (deep/shallow) 22m avg, 32m max. Marine life: batfish, red-tooth triggerfish, snapper, blue-spotted rays, sharks, pygmy seahorses, nudibranchs confirmed by trawangandive.com."
+      "notes": "QA 2026-06-13: Confirmed as Advanced pinnacle/seamount (sea mounds/coral mounds rising from sandy bottom). Location: NORTH/NORTHEAST of Gili Trawangan (not specifically in the channel). Depth corrected to 35m — Manta Dive says 18-35m, multiple others agree (previous 30m too conservative). Nitrox strongly recommended. Marine life confirmed: batfish, bumphead parrotfish, spotted eagle rays, white/blacktip reef sharks, pygmy seahorses, green turtles, garden eels, gorgonian sea fans."
     }
   },
   {
@@ -74,9 +74,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "false",
-      "validation_source": "",
+      "validation_source": "bluemarlindive.com,giliairdive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: site_type updated from reef to muck — the site name and description indicate a macro/muck diving focus (frogfish on sandy substrate). No 3-source validation found for specific site details beyond the name. Remains unvalidated."
+      "notes": "QA 2026-06-13: site_type updated from reef to muck — confirmed as macro/muck-style sandy and rubble site by multiple sources. Frogfish species list (warty, giant, hairy) REMOVED — no source confirms all three at this specific site. Only 'clown frogfish' (Blue Marlin Gili Air) and 'multiple frogfish species' (Gili Air Divers) confirmed. Coordinates flagged: OSM note says 'Location might have to be checked with GPS' — coordinate accuracy uncertain."
     }
   },
   {
@@ -107,18 +107,18 @@
     "lon": 116.0255805,
     "osm_id": 2395669751,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jack Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
+      "validated": "true",
+      "validation_source": "manta-dive-giliair.com,gilimeno-divers.com,divinediversgili.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Drift type plausible for west Gili Trawangan headland but no specific 3-source validation found for this site name. Remains unvalidated."
+      "notes": "QA 2026-06-13: Location corrected to NORTH/NORTHEAST of Gili Trawangan (NOT west). Confirmed marine life: large schools of big-eye trevallies (Manta Dive), trevally/jacks (Divine Divers, Gili Meno Divers). site_type: drift (confirmed as current/drift-dependent site). Difficulty corrected to Advanced — 24-40m range, strong currents require Advanced certification."
     }
   },
   {
@@ -136,9 +136,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "bluemarlindive.com,trawangandive.com,oceans5dive.com",
+      "validation_source": "bluemarlindive.com,manta-dive-giliair.com,trawangandive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Also known as Takat Malang. bluemarlindive.com: 20m avg, 40m max, large coral heads with overhangs and swim-throughs. trawangandive.com lists as one of top advanced sites. Site type updated from reef to pinnacle (large rock/coral formations — Takats). Depth 40m confirmed, Advanced difficulty confirmed."
+      "notes": "QA 2026-06-13: Also known as Takat Malang. bluemarlindive.com: 20m avg, 40m max, large coral heads with overhangs and swim-throughs; 'massive gorgonian fans hang off the walls'; ~10 major Takats confirmed. trawangandive.com lists as one of top advanced sites. Pygmy seahorse claim REMOVED — confirmed at Simons Reef specifically, not Takat Malang. Gorgonian sea fans: CONFIRMED (Blue Marlin, Next Level Scuba). Site type: pinnacle (large rock/coral Takat formations). Depth 40m confirmed, Advanced difficulty confirmed."
     }
   },
   {
@@ -147,18 +147,18 @@
     "lon": 116.0265987,
     "osm_id": 2395669753,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "drift",
+    "depth": 25,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Manta Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
+      "validated": "true",
+      "validation_source": "manta-dive-giliair.com,trawangandive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: No 3-source validation found for this specific site as 'Manta Point' near Lombok. Possible confusion with other sites. Manta sightings referenced in Sunset Reef (trawangandive.com) and general south channel — seasonal. Remains unvalidated."
+      "notes": "QA 2026-06-13: site_type corrected from drift to reef — Manta Dive describes as 'gentle slope', 'fringing reef that slopes gradually'; JTG Travel: 'current-free cove'. NOT a drift site. Location: south/southwest of Gili Trawangan (also called Sunset Reef by Manta Dive). Depth corrected to 25m (5-25m range). Difficulty corrected to Beginner/All levels per gentle slope nature. Seasonal mantas confirmed but not reliably — 'can fly by' (Manta Dive). Best approximately April-October but disputed."
     }
   },
   {
@@ -178,7 +178,7 @@
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,oceans5dive.com,trawangandive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Corrected site_type from drift to reef. manta-dive-giliair.com describes as 'patch reef with gently sloping valley,' 'calm conditions even when rough elsewhere' — not a drift site. Oceans5dive.com confirms slope. Depth corrected to 30m (max per manta-dive-giliair.com). Difficulty set to Beginner — manta-dive-giliair.com explicitly lists as suitable for Try Scuba Diving and OW courses."
+      "notes": "QA 2026-06-13: site_type confirmed as reef (slope with bommies) — NOT pinnacle. Topography: 'gently sloping valley with small coral bommies' (Manta Dive Gili Air). NOTE: 'pinnacle from 9m to 30m' belongs to Turtle Heaven, not Meno Corner. Location: a protected, calm site (different exposure from northeast tip — that's Turtle Heaven). Depth 5-30m slope. Marine life confirmed: green and hawksbill turtles, eagle rays, Spanish mackerel, scorpionfish, lionfish. Difficulty: All levels (calm conditions per manta-dive-giliair.com)."
     }
   },
   {
@@ -187,7 +187,7 @@
     "lon": 116.0500957,
     "osm_id": 2395669755,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -196,9 +196,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "manta-dive-giliair.com,oceans5dive.com,divessi.com",
+      "validation_source": "manta-dive-giliair.com,padi.com,trawanganstingraydivers.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Confirmed as sloping reef. manta-dive-giliair.com: Meno Slope All Levels. oceans5dive.com: west Gili Meno, max 20m, hawksbill/green turtles, snapper, puffer, batfish. divessi.com lists site. Depth corrected to 20m (oceans5dive.com). Difficulty set to Beginner per manta-dive-giliair.com 'All Levels' classification."
+      "notes": "QA 2026-06-13: Location corrected to WEST side of Gili Meno (NOT south) — multiple sources say 'west side' or 'south of Meno Wall' which puts it on the west. Depth corrected to 28m (5-28m range, per PADI and Manta Dive). Special feature: underwater lovers statue at 3m depth confirmed by PADI, Manta Dive, Trawangan Stingray Divers. Marine life: green turtles, blacktip reef sharks, eagle rays, barracuda, bumphead parrotfish, giant frogfish (Manta Dive), blue-ringed octopus. Difficulty: Beginner/All levels (calm conditions)."
     }
   },
   {
@@ -207,7 +207,7 @@
     "lon": 116.0498999,
     "osm_id": 2395669756,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -216,9 +216,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "bluemarlindive.com,oceans5dive.com,gilidivers.com",
+      "validation_source": "bluemarlindive.com,oceans5dive.com,padi.com,trawangandive.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Wall confirmed. bluemarlindive.com: avg 14m, max 22m, steeply sloping with near-vertical section; moray eels, lionfish, turtles. oceans5dive.com: north-west Gili Meno, max 25m, excellent night dive, Spanish dancers, crabs, lobsters, prawns, scorpionfish. gilidivers.com: two-wall structure, 10-13m and 14-24m. Difficulty set to Beginner per 'All Levels' across operators. Depth updated to 25m (oceans5dive.com max)."
+      "notes": "QA 2026-06-13: Wall confirmed. Location: northwest side of Gili Meno. Depth corrected to 30m (PADI says 30m, Oceans 5 says 25m; previous 22m too conservative). Bamboo sharks: UNVERIFIED — only dpmdiving.com mentions this, not confirmed by Manta Dive, PADI, Oceans 5, Trawangan Dive — removed from description. Pygmy seahorses: confirmed by PADI on fan coral. Night diving: STRONGLY CONFIRMED by 4+ sources (Trawangan Dive, PADI, Blue Marlin, Oceans 5). Bumphead parrotfish: confirmed in open water (Manta Dive). Difficulty: Beginner per 'All Levels' across operators."
     }
   },
   {
@@ -289,7 +289,7 @@
     "lon": 116.065643,
     "osm_id": 2395669760,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -298,9 +298,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "bluemarlindive.com,oceans5dive.com,trawangandive.com",
+      "validation_source": "manta-dive-giliair.com,bluemarlindive.com,padi.com",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: Confirmed as advanced deep reef. bluemarlindive.com: series of 8 seamounts, 25m avg, 40m max, pygmy seahorse. oceans5dive.com: north-east Gili Meno, 30m max, varied corals with sandy bottom between sea mounds. trawangandive.com: Advanced OW+. Depth updated to 40m (bluemarlindive.com). Advanced confirmed."
+      "notes": "QA 2026-06-13: Confirmed as advanced deep reef. Depth corrected to 35m — Manta Dive says 18-35m, Blue Marlin says 40m, most sources agree on 35m as max practical depth. Pygmy seahorses: CONFIRMED here (Manta Dive, Diversion Dive Travel) — keep this claim. Gorgonian sea fans confirmed by multiple sources. Note: pygmy seahorses belong at Simons Reef specifically, NOT Takat Malang (previous entry had them at wrong site)."
     }
   },
   {
@@ -320,7 +320,7 @@
       "validated": "false",
       "validation_source": "",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: No 3-source validation found for this site by name. Remains unvalidated."
+      "notes": "QA 2026-06-13: Site cannot be confirmed in any accessible English-language dive source. OSM source was 'Diveschool Notice Board' (unverifiable). Zero mentions in any dive operator or forum source. All marine life claims in existing description are fabricated generic text. Description should not present any species or conditions as site-specific fact."
     }
   },
   {
@@ -340,7 +340,7 @@
       "validated": "false",
       "validation_source": "",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: No 3-source validation found for this site by name. Remains unvalidated."
+      "notes": "QA 2026-06-13: Zero mentions under this name in any accessible source. May correspond to Teluk Nara / Magic Pier area but unconfirmed. Seahorse claim (borrowed from Mentigi Bay) STRIPPED — no site-specific source confirms seahorses at Teluk NBoro specifically. All marine life claims should not be presented as site-specific fact."
     }
   },
   {
@@ -382,7 +382,7 @@
       "validated": "false",
       "validation_source": "",
       "last_qa_date": "2026-06-13",
-      "notes": "QA 2026-06-13: No 3-source validation found for this site by name. Remains unvalidated."
+      "notes": "QA 2026-06-13: FLAGGED AS COMMERCIAL BUSINESS. 'Lombok Dive' is the name of a dive company (lombok-dive.com), not a dive site. This entry is misclassified. Should be removed or treated as invalid. No site-specific content should be presented as factual."
     }
   },
   {

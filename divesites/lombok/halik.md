@@ -3,7 +3,7 @@ name: Halik
 lat: -8.336235
 lng: 116.038308
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: drift
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Halik
 
-A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, eagle rays, and good shark activity — accessible from Lombok operators.
+A drift reef on the northwest side of Gili Trawangan with ridges, canyons, barrel sponges, eagle rays, and reef sharks — depth range 6 to 40 meters.
 
 ## Overview
 
-Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
+Halik Reef is on the northwest side of Gili Trawangan. Blue Marlin Dive records two sections: a shallow section (15m avg, 22m max) and a deeper section (30m avg, 40m max) with bommies and gorgonian fans. Oceans 5 Dive describes a "steep slope with a network of gullies, excellent for drift diving." Gili Divers confirms large bommies, barrel sponges, eagle rays, turtles, moray eels, cuttlefish, ribbon eels, and baby whitetip reef sharks. The site is dived as a drift; intermediate divers access the shallower sections while advanced divers can reach the deeper 40-meter gorgonian zone.
 
 ## Site Information
 
@@ -25,38 +25,17 @@ Halik Reef runs along the northwest side of Gili Trawangan and is dived as a dri
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
+- **Maximum Depth**: 40 meters
+- **Current**: Moderate to strong drift
 - **Best Time**: May to October
 
 ## Marine Life
 
-Eagle rays in mid-water are a defining feature of this reef. White and blacktip reef sharks. Schools of snapper and giant trevally. Giant barrel sponges hosting shrimps and small fish. Extensive anemone fields with clownfish. Lionfish in overhangs. Turtles throughout.
-
-## Dive Profile
-
-Enter upstream of the reef and drift with the current. Stay at 10–20 m for the best combination of reef features and pelagic sightings. The barrel sponge zone at 6–10 m rewards a shallower drift. Ascend progressively with the current and complete the safety stop drifting in the upper water column.
-
-## Entry and Exit
-
-Boat from Lombok or Gili Trawangan operators. Drift entry and pickup. SMB mandatory.
-
-## Tips and Recommendations
-
-- Day trips from Lombok to the Gili Islands often include Halik as one of the featured sites
-- The giant barrel sponges at 6–10 m are worth slowing down to examine carefully
-- Eagle ray sightings are common enough to plan on them rather than hope for them
-- Accessible to intermediate Open Water divers in the 10–18 m range
-- Combine with Shark Point or Turtle Point for a full northwest Gili Trawangan day
+Confirmed by multiple operators: eagle rays (Trawangan Dive), bumphead parrotfish at full moon (Trawangan Dive), giant trevally, snapper schools, reef sharks, barrel sponges, turtles, cuttlefish, ribbon eels, moray eels (Gili Divers). Lion fish in overhangs. Anemones with clownfish.
 
 ## Safety Considerations
 
-Drift current is always running. Do not fight against it. Be prepared to surface away from the boat and use SMB for pickup. Reef sharks are non-aggressive. Always carry an SMB.
-
-## Photography
-
-Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
+Drift current is always running. Use SMB for pickup. Do not exceed certification depth on deeper gorgonian sections. Always carry an SMB.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Last updated 2026-06-13.*

@@ -2,8 +2,8 @@
 name: Jack Point
 lat: -8.337684
 lng: 116.0255805
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: drift
 ref: null
@@ -13,50 +13,29 @@ addedBy: osm_import
 
 ## Jack Point
 
-Gili Trawangan's western drift dive where jackfish schools and reef sharks congregate at the current-swept central headland.
+An Advanced drift dive on the north/northeast side of Gili Trawangan — strong current concentrates large schools of big-eye trevally and jacks at the point.
 
 ## Overview
 
-Jack Point is at the central western coastline of Gili Trawangan, where the drift currents from north and south converge at the point, creating dense fish aggregations — particularly of jackfish (trevally) that circle the headland in large schools. Divers approach at depth and ascend to observe the schools before being carried around the point. Blue-spotted stingrays, cuttlefish, chromis, and colourful reef fish inhabit the reef flats above the point in the shallows. The site can be dived at three depth levels — deep, midwater, and shallow — making it flexible for different experience levels. Accessible to Lombok day-trip boats.
+Jack Point is located on the north/northeast side of Gili Trawangan, where strong current sweeps past the headland and concentrates large schools of big-eye trevally (jacks) — giving the site its name. Manta Dive Gili Air confirms large schools of big-eye trevallies as the signature species. Divine Divers and Gili Meno Divers also confirm trevally/jacks as the primary draw. The site requires Advanced certification due to the depth range of 24–40 m and strong, current-driven conditions. Entry is timed to current and requires close boat coordination for pickup.
 
 ## Site Information
 
-- **Location**: West Gili Trawangan, accessible from Lombok
+- **Location**: North/northeast Gili Trawangan, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Strong at the point; drift conditions
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Current**: Strong; current-dependent site
 - **Best Time**: May to October
 
 ## Marine Life
 
-Dense schools of jackfish and bigeye trevally at the point. Reef sharks cruise the current-swept headland. Blue-spotted stingrays on sandy patches. Cuttlefish in the shallows. Chromis, basslets, and reef fish in the upper reef zone at 5–12 m.
-
-## Dive Profile
-
-Approach the point from upstream at 15–20 m. Observe the jackfish schools concentrated at the tip. Ascend via the upper reef flats in the shallows before being carried around the point. Drift carefully — being swept around the point into open water should be avoided if possible.
-
-## Entry and Exit
-
-Boat from Lombok or Gili Trawangan operators. Drift entry. Close boat coordination required for pickup. SMB essential.
-
-## Tips and Recommendations
-
-- Time entry for moderate current — too strong and the point cannot be approached safely
-- The shallow 5–12 m section around the headland is the most accessible drift option
-- Cuttlefish encounters at 3–8 m in the shallows are a highlight of the upper section
-- Accessible from Lombok as part of a full-day Gili Islands dive trip
-- Neap tides significantly reduce the current intensity at the point
+Large schools of big-eye trevallies confirmed by Manta Dive Gili Air. Trevally and jack schools confirmed by Divine Divers and Gili Meno Divers. Strong current typically concentrates pelagic schooling fish above and around the point.
 
 ## Safety Considerations
 
-Strong current at the headland can sweep divers into open water. Plan to end the dive before the point tip and surface in the shallower reef area. Always carry an SMB. Coordinate the pickup point with the boat crew before descending.
-
-## Photography
-
-Jackfish school density at the point produces compelling wide-angle images. Cuttlefish in the shallows are approachable portrait subjects. Reef shark silhouettes against the open water suit wide-angle.
+Advanced Open Water certification required. Strong current — always coordinate pickup with the boat before descending. Do not descend beyond planned depth. SMB mandatory for drift ascent.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/), [Divine Divers Gili](https://divinediversgili.com/), [Gili Meno Divers](https://gilimeno-divers.com/). Location corrected to north/northeast Gili Trawangan per operator consensus. Difficulty: Advanced (24-40m, strong currents). Last updated 2026-06-13.*

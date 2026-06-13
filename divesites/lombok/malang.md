@@ -5,7 +5,7 @@ lng: 116.0701857
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 2395669752
 addedBy: osm_import
@@ -23,7 +23,7 @@ Takat Malang (Malang) lies north of the Gili Islands and consists of a collectio
 
 - **Location**: North of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m
@@ -32,7 +32,9 @@ Takat Malang (Malang) lies north of the Gili Islands and consists of a collectio
 
 ## Marine Life
 
-Very large gorgonian sea fans hosting pygmy seahorses. Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Schooling reef fish throughout the Takat overhangs. Barracuda and trevally in the blue water. Turtles on the upper plateau sections at 15–20 m.
+Very large gorgonian sea fans confirmed by Blue Marlin Dive — described as "massive gorgonian fans hang off the walls." Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Schooling reef fish throughout the Takat overhangs. Barracuda and trevally in the blue water. Turtles on the upper plateau sections at 15–20 m.
+
+Note: Pygmy seahorses are not confirmed at Takat Malang — they have been confirmed at Simon's Reef (Manta Dive Gili Air, Diversion Dive Travel). Do not attribute pygmy seahorses to this site without an independent source.
 
 ## Dive Profile
 
@@ -46,7 +48,7 @@ Boat from Lombok or Gili Islands operators. Entry based on current conditions. A
 
 - Advanced Open Water certified minimum; best with technical diving experience for the 40 m sections
 - One of the top five advanced dives in the Lombok/Gili Islands region
-- Examine gorgonian fans on each Takat for pygmy seahorses — patience required
+- Examine gorgonian fans closely for any seahorses — though pygmy seahorses are not confirmed at this specific site, the gorgonian habitat is appropriate
 - Plan no-decompression limits carefully when spending time at 30–40 m
 - Combine with Simon's Reef for a full north Gili Islands advanced day
 
@@ -59,4 +61,4 @@ The 40 m maximum depth requires advanced certification and careful gas managemen
 Large gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels suit wide-angle with natural light. The Takat overhangs with soft coral suit strobe-lit wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Blue Marlin Dive – Gili Dive Sites](https://bluemarlindive.com/gili_dive_sites/), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/), [Trawangan Dive – Gili Dive Sites](https://trawangandive.com/dive-sites-gili-islands/). ~10 major Takats and massive gorgonian fans confirmed by Blue Marlin Dive. Pygmy seahorse claim removed — confirmed at Simons Reef, not Takat Malang. Last updated 2026-06-13.*

@@ -23,9 +23,9 @@ Shark Point is on the northwest side of Gili Trawangan, where sandy bottom trans
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced (wreck at 28m requires Advanced certification; canyons deeper)
-- **Maximum Depth**: 28 meters (wreck); canyons deeper per some operators
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Current**: Strong; wreck accessible only in moderate current
 - **Best Time**: May to October
 

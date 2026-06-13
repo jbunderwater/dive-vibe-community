@@ -13,50 +13,23 @@ addedBy: osm_import
 
 ## Lombok Dive
 
-A reef site in the southern Gili Islands accessible from Lombok — diverse coral gardens with resident turtles and macro critters.
+**Data quality notice:** "Lombok Dive" is the name of a dive company (lombok-dive.com), not a confirmed dive site. This entry was imported from OSM and has been flagged as a probable commercial business misclassified as a dive site. All marine life and site descriptions below are unverified and should not be treated as factual.
 
 ## Overview
 
-Lombok Dive is a reef site in the waters south of the Gili Islands, accessible from Lombok's northwest coast as well as Gili Air operators. The site offers a tropical coral reef experience with coral gardens, sandy channels, and the marine diversity characteristic of the Gili Islands' Coral Triangle position. The location between Lombok and Gili Air makes it a convenient stop for multi-site dive days. Turtles are regularly encountered, and the sandy patches host macro critters including ghost pipefish and seahorses.
+This entry could not be validated as a genuine dive site. The name "Lombok Dive" corresponds to a dive operator (lombok-dive.com) active in the Gili Islands / Lombok area. No operator listing, dive database, or forum source names "Lombok Dive" as a specific site location. Verification with local operators is required before this entry is used.
 
 ## Site Information
 
-- **Location**: South Gili Islands area, Lombok
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–20 m
-- **Current**: Moderate
-- **Best Time**: May to October
-
-## Marine Life
-
-Turtles grazing on the reef crest. Cuttlefish and octopus over sandy patches. Ghost pipefish in sparse algae. Reef sharks occasionally sighted. Clownfish in anemones, moray eels, parrotfish, and reef fish. Nudibranchs in the coral rubble zones.
-
-## Dive Profile
-
-Descend to 8–15 m and explore the coral gardens. Move slowly over sandy patches between bommies. Follow the slope to 20 m before ascending. Complete a 3-minute safety stop at 5 m.
-
-## Entry and Exit
-
-Boat from Lombok northwest coast or Gili Air. Moderate current. SMB for ascent.
-
-## Tips and Recommendations
-
-- An accessible site from Lombok that avoids the longer boat trip to Gili Trawangan
-- Move slowly over sandy patches for ghost pipefish and cuttlefish encounters
-- Combine with Air Wall and Bounty Wreck for a varied Lombok day trip
-- The reef is suitable for intermediate Open Water divers
-- Afternoon dives when boats head back can provide a quieter experience
+- **Location**: Unconfirmed — listed coordinates are near southwest Gili Trawangan
+- **Entry Type**: Boat dive (unconfirmed)
+- **Site Type**: Unconfirmed
+- **Difficulty Level**: Unconfirmed
+- **Maximum Depth**: Unconfirmed
 
 ## Safety Considerations
 
-Standard reef dive precautions. Currents are moderate. Lionfish in overhangs. Maintain buoyancy above coral. Always carry an SMB.
-
-## Photography
-
-Cuttlefish and octopus over sandy substrate. Turtle portraits in natural light. Ghost pipefish require macro close-up. Clownfish in anemones for accessible portrait subjects.
+This site has not been independently verified. Do not dive based solely on this entry — confirm with local operators first.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Data quality flag: "Lombok Dive" is a dive company name (lombok-dive.com), not a confirmed dive site. Entry flagged as probable commercial business misclassification. No site-specific sources found. Last updated 2026-06-13.*

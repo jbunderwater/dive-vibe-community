@@ -13,29 +13,29 @@ addedBy: osm_import
 
 ## Air Wall
 
-A wall dive between Gili Air and Gili Meno, descending from 8 meters to approximately 28 meters with moray eels, anemones, and hawksbill turtles.
+A wall dive on the west/southwest side of Gili Air, descending from 8 meters to approximately 28–30 meters with gorgonian sea fans, sea turtles, and diverse reef fish.
 
 ## Overview
 
-Air Wall runs between Gili Air and Gili Meno. Oceans 5 Dive describes it as a wall descending from 8 meters to 30 meters. Blue Marlin Dive records an average depth of 18 meters and maximum of 28 meters. Marine life confirmed by Oceans 5 Dive includes blue-spotted stingrays, turtles, and pygmy seahorses; Blue Marlin Dive adds moray eels, anemones, clownfish, octopus, angelfish, lionfish, triggerfish, sweetlips, and hawksbill turtles. The site is intermediate-level, with consistent current along the wall face.
+Air Wall runs along the west/southwest side of Gili Air. The wall descends from approximately 8 meters to 28–30 meters on a face densely decorated with gorgonian sea fans, soft corals, and wire corals. Manta Dive Gili Air, Trawangan Stingray Divers, and Blue Marlin Dive all confirm the site on the west/southwest side of Gili Air; one source (Divessi) suggests an east-side location, which appears to be an error inconsistent with all other operators. The current runs consistently along the wall face, making this an intermediate-level wall dive. Pygmy seahorses have been confirmed by Manta Dive on the gorgonian fans, and wire coral gobies and orangutan crabs are found in the wire and soft coral structures.
 
 ## Site Information
 
-- **Location**: Between Gili Air and Gili Meno, Gili Islands / Lombok
+- **Location**: West/southwest Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Current**: Moderate; consistent along the wall
+- **Current**: Moderate; consistent along the wall face
 - **Best Time**: May to October
 
 ## Marine Life
 
-Confirmed by local operators: hawksbill turtles, blue-spotted stingrays, moray eels, anemones with clownfish, octopus, angelfish, lionfish, triggerfish, sweetlips (Blue Marlin Dive). Pygmy seahorses confirmed by Oceans 5 Dive.
+Gorgonian sea fans confirmed by three operators (Manta Dive, Trawangan Stingray Divers, Divessi). Hawksbill and green sea turtles on the wall. Nudibranchs throughout the soft coral growth. Pygmy seahorses confirmed by Manta Dive on the gorgonian fans. Wire coral gobies and orangutan crabs in wire and soft coral. Moray eels, angelfish, lionfish, triggerfish, octopus, and sweetlips confirmed by Blue Marlin Dive.
 
 ## Safety Considerations
 
-Current is consistent and can increase on the open wall face. Always carry an SMB. Stay within certification depth limits on the wall descent.
+Current is consistent along the open wall face and can increase. Always carry an SMB. Stay within certification depth limits on the descent.
 
 ---
-*Sources: [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/). Last updated 2026-06-13.*
+*Sources: [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites/), [Blue Marlin Dive – Gili Dive Sites](https://bluemarlindive.com/gili_dive_sites/), [Trawangan Stingray Divers](https://trawanganstingraydivers.com/), [Oceans 5 Dive – Gili Dive Sites](https://oceans5dive.com/dive-sites/). Location: west/southwest Gili Air per majority operator consensus; one source (Divessi) incorrectly places site on the east side. Last updated 2026-06-13.*
