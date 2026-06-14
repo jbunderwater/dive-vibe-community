@@ -4,11 +4,11 @@ addedBy: osm_import
 
 ## Lombok
 
-Muck diving, vibrant coral reefs, and potential hammerhead encounters.
+Reef, wall, and drift diving across the Gili Islands — world-class turtle encounters, daily reef shark sightings, and Biorock coral restoration.
 
 ## Description
 
-Lombok is a premier diving destination in the Asia region, offering diverse dive sites with depths ranging from 18 to 30 meters. Lombok is particularly known for muck diving, coral reefs, hammerhead encounters at Belongas Bay. Notable sites include Belongas Bay, Magnet, The Playground. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Lombok is a premier diving destination in Southeast Asia, known primarily for the Gili Islands (Gili Trawangan, Gili Meno, and Gili Air) which offer over 25 named dive sites. The Gili Islands sit in the Lombok Strait between Lombok and Bali, in the heart of the Coral Triangle. Diving is characterised by healthy coral reefs, consistent drift diving, and exceptionally high turtle and reef shark density. Water temperatures average 27–30°C year-round. Visibility is typically 15–25 m. The Gili Islands are also home to one of the world's largest Biorock coral restoration programs, with over 150 structures supporting reef recovery since 2004. Best diving conditions run from May to October (dry season).
 
 ### Diving Opportunities
 
@@ -33,10 +33,10 @@ Lombok is a premier diving destination in the Asia region, offering diverse dive
 
 ## Additional Information
 
-- **Best Time to Visit**: October to April (varies by location). Diving is possible year-round.
+- **Best Time to Visit**: May to October (dry season) for best conditions; diving is possible year-round.
 - **Currency**: Indonesian Rupiah (IDR)
 - **Language**: Indonesian (Bahasa)
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*

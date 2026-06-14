@@ -23,9 +23,9 @@ Simon's Reef (also written Simons Reef) lies north of Gili Meno. The site consis
 
 - **Location**: North of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (sea mounds / takats)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30–40 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong; channelling through sea mound system
 - **Best Time**: May to October

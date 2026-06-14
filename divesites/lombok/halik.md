@@ -24,8 +24,8 @@ Halik Reef runs approximately 1 km along the north to northwest side of Gili Tra
 - **Location**: North to northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate (main reef 6–20 m); Advanced (Deep Halik to 40 m)
-- **Maximum Depth**: 20 meters (main dive); 40 meters (Deep Halik)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Gentle to moderate; increases at spring tides
 - **Best Time**: May to October

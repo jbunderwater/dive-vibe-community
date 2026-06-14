@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Bale Sampan Biorock
 
-A Biorock coral restoration structure on Gili Trawangan's east coast — accessible from Lombok day-trip boats and part of the Gili Eco Trust's reef restoration network.
+A Biorock coral restoration structure on Gili Trawangan's east coast — part of the Gili Eco Trust network initiated in 2004.
 
 ## Overview
 
-Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the Gili Eco Trust's ongoing reef restoration program that started in 2004. The low-voltage electrical current stimulates coral growth and improves bleaching survival rates. The Gili Islands Biorock network has grown to include well over 150 structures — one of the largest Biorock projects in the world. The structure is accessible from Lombok day-trip boats visiting the Gili Islands and is often included as a conservation-focused dive on multi-site itineraries. The east coast location provides sheltered diving with calm conditions and clear water.
+Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock structures that collectively form one of the world's largest Biorock restoration projects. The Gili Islands Biorock program began in 2004 and had grown to over 110 structures by 2016, with more than 180 by recent counts. The low-voltage electrical current stimulates coral growth 2–6 times faster than normal and improved bleaching survival rates significantly during the 2016 El Niño event (over 75% coral survival on Biorock structures vs. up to 40% loss on natural reefs). The structure is accessible from Lombok day-trip boats visiting the Gili Islands and is often included as a conservation-focused dive on multi-site itineraries.
+
+**Note:** The earlier claim of "more than 120 frames placed since 2006" is inaccurate — the program started in 2004, had 63 structures by 2010, and reached 110+ by 2016. The "world's second-largest" ranking was also unverified and has been removed.
 
 ## Site Information
 
@@ -32,7 +34,9 @@ Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock s
 
 ## Marine Life
 
-Lionfish, batfish, pufferfish, and sweetlips shelter in the structure. Turtles cruise past the east coast Biorock cluster. Reef fish communities establish on the coral-covered frame. Cleaner shrimps and nudibranchs in coral crevices.
+Lionfish, batfish, pufferfish, sweetlips, and trumpetfish shelter in the structure. Turtles cruise past the east coast Biorock cluster. Reef fish communities establish on the coral-covered frame. Cleaner shrimps and nudibranchs in coral crevices.
+
+Regional Coral Triangle species diversity applies to the broader east coast reef.
 
 ## Dive Profile
 
@@ -40,23 +44,11 @@ Descend to the Biorock structure. Circle and examine the coral growth and reside
 
 ## Entry and Exit
 
-Boat from Lombok or Gili Trawangan. Short transit from Lombok's northwest coast. Calm east coast conditions. Entry via back roll.
-
-## Tips and Recommendations
-
-- Include this dive when doing a Lombok day trip to Gili Trawangan
-- The Biorock story is worth knowing — ask your operator about the conservation program
-- Multiple Biorock structures can be visited in a single dive
-- Combine with natural reef sites like Turtle Point for a conservation-natural contrast day
-- Night dives on the Biorock cluster reveal nocturnal species active on the structures
+Boat from Lombok or Gili Trawangan. Short transit. Calm east coast conditions. Entry via back roll.
 
 ## Safety Considerations
 
-Do not touch the metal frame — sharp edges possible. Maintain buoyancy near the coral-covered structure. Lionfish on the frame are venomous. Low-voltage current is completely safe.
-
-## Photography
-
-The artificial reef geometry with growing coral creates unique subjects. Fish portraits against the coral-covered frame. Conservation documentation shots showing reef restoration progress.
+Do not touch the metal frame — sharp edges possible. Maintain buoyancy near the coral-covered structure. Lionfish venomous. The low-voltage current is safe for all divers.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Blue Marlin Dive – Gili Dive Sites (BioRocks)](https://www.bluemarlindive.com/gili_dive_sites/), [Gili Divers – Bio Rocks](https://www.gilidivers.com/fun-dives/dive-sites). Note: Bale Sampan Biorock as an individually named site does not appear in operator dive site listings; the east coast Biorock cluster is confirmed collectively. Last updated 2026-06-14.*

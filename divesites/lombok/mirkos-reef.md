@@ -23,8 +23,8 @@ Mirkos Reef (Mirko's Reef) lies between Gili Air and Gili Meno, approximately 15
 
 - **Location**: Between Gili Air and Gili Meno, Gili Islands / Lombok (15 minutes by boat)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (deep ridges)
-- **Difficulty Level**: Intermediate to Advanced
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–22 m
 - **Current**: Moderate
@@ -58,4 +58,4 @@ The deeper ridge sections require Advanced certification. Currents are moderate 
 Giant frogfish portraits on their sponge background are the signature shot. Turtle portraits on the 12 m reef top in natural light. Ridge scenes with sea fans suit wide-angle with strobes.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Mirkos Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [SSI Dive Guide – Mirko's Reef](https://www.divessi.com/en/mydiveguide/divesite/106692), [Scubago – Mirkos Reef](https://www.scubago.com/en/explore/divesite/mirkos-reef-106692). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Mirko's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [Divezone – Mirko's Reef](https://divezone.net/diving/gili-islands-lombok), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*

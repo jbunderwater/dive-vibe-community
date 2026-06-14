@@ -13,50 +13,26 @@ addedBy: osm_import
 
 ## Lombok Dive
 
-A reef site in the southern Gili Islands accessible from Lombok — diverse coral gardens with resident turtles and macro critters.
+A reef site in the waters west of Gili Trawangan — no site-specific sources were found to independently verify this as a named dive site.
 
 ## Overview
 
-Lombok Dive is a reef site in the waters south of the Gili Islands, accessible from Lombok's northwest coast as well as Gili Air operators. The site offers a tropical coral reef experience with coral gardens, sandy channels, and the marine diversity characteristic of the Gili Islands' Coral Triangle position. The location between Lombok and Gili Air makes it a convenient stop for multi-site dive days. Turtles are regularly encountered, and the sandy patches host macro critters including ghost pipefish and seahorses.
+"Lombok Dive" is listed in OSM data from the Gili Islands area. The coordinate (latitude -8.3476, longitude 116.0284) places this site in the waters west of Gili Trawangan, which corresponds to the approach area for Shark Point or Manta Point. No major dive operator lists a site named "Lombok Dive" at this position. The name may refer to a generic access point or a locally named section of reef in this area that has not been independently documented.
+
+The western approach to Gili Trawangan in this area generally features coral reef with turtles, cuttlefish, and reef fish.
 
 ## Site Information
 
-- **Location**: South Gili Islands area, Lombok
+- **Location**: Waters west of Gili Trawangan, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–20 m
-- **Current**: Moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Turtles grazing on the reef crest. Cuttlefish and octopus over sandy patches. Ghost pipefish in sparse algae. Reef sharks occasionally sighted. Clownfish in anemones, moray eels, parrotfish, and reef fish. Nudibranchs in the coral rubble zones.
-
-## Dive Profile
-
-Descend to 8–15 m and explore the coral gardens. Move slowly over sandy patches between bommies. Follow the slope to 20 m before ascending. Complete a 3-minute safety stop at 5 m.
-
-## Entry and Exit
-
-Boat from Lombok northwest coast or Gili Air. Moderate current. SMB for ascent.
-
-## Tips and Recommendations
-
-- An accessible site from Lombok that avoids the longer boat trip to Gili Trawangan
-- Move slowly over sandy patches for ghost pipefish and cuttlefish encounters
-- Combine with Air Wall and Bounty Wreck for a varied Lombok day trip
-- The reef is suitable for intermediate Open Water divers
-- Afternoon dives when boats head back can provide a quieter experience
-
-## Safety Considerations
-
-Standard reef dive precautions. Currents are moderate. Lionfish in overhangs. Maintain buoyancy above coral. Always carry an SMB.
-
-## Photography
-
-Cuttlefish and octopus over sandy substrate. Turtle portraits in natural light. Ghost pipefish require macro close-up. Clownfish in anemones for accessible portrait subjects.
+Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of a site named "Lombok Dive."
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*
+*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for "Lombok Dive" as a named dive site. Last updated 2026-06-14.*

@@ -17,7 +17,7 @@ A Biorock reef restoration structure on Gili Trawangan's east coast — part of 
 
 ## Overview
 
-Samba Vilas Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the world's second-largest Biorock reef restoration project initiated in 2006. The structure uses low-voltage electrical stimulation to promote coral growth and has become a thriving habitat. From Lombok, divers can visit the east coast Biorock cluster as part of a multi-site Gili Trawangan day trip. Each structure in the cluster has developed slightly different fish and coral communities as the reef matures.
+Samba Vilas Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the Gili Eco Trust's reef restoration program that started in 2004. The structure uses low-voltage electrical stimulation to promote coral growth and has become a thriving habitat. From Lombok, divers can visit the east coast Biorock cluster as part of a multi-site Gili Trawangan day trip. Each structure in the cluster has developed slightly different fish and coral communities as the reef matures.
 
 ## Site Information
 

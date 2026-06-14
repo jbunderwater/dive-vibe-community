@@ -24,8 +24,8 @@ Shark Point is on the northwest or west side of Gili Trawangan, where a coral re
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate (Glenn Nusa wreck requires Advanced)
-- **Maximum Depth**: 25–28 meters (Glenn Nusa: 28 m)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Strong; susceptible to current and wave conditions
 - **Best Time**: May to October

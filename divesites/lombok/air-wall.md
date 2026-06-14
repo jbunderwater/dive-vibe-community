@@ -24,8 +24,8 @@ Air Wall drops vertically from 5 m to around 24–32 m, offering one of the most
 - **Location**: Gili Air (exact side disputed: southwest per manta-dive-giliair.com, northwest per terumbudivers.com, east per starfish.ch)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate (Beginner to Advanced sections available)
-- **Maximum Depth**: 24–32 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate to swift; suitable for drift diving
 - **Best Time**: May to October

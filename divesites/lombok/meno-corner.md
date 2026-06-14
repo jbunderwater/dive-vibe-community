@@ -2,7 +2,7 @@
 name: Meno Corner
 lat: -8.3588705
 lng: 116.0625884
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Meno Corner
 
-The northeastern tip of Gili Meno — also called Turtle Heaven by some operators — where a slope leads to a coral pinnacle and sea turtles gather in the surrounding sea grass and reef.
+The northeastern tip of Gili Meno — also called Turtle Heaven by some operators — where a gently sloping valley with small coral bommies shelters sea turtles and diverse marine life in calm conditions suitable from beginner level.
 
 ## Overview
 
-Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. Some local operators call this site Turtle Heaven or The Pinnacle. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, with corals covering all sides. Green and hawksbill turtles congregate in the sea grass beds and on the reef slope. Moray eels, fusiliers, and typical Gili Islands reef fish are reliably present. The pinnacle's deeper sections reward advanced divers. The nearby Bounty Wreck lies just off the coast, and together these two sites make Gili Meno one of the standout dive destinations in the Lombok / Gili Islands area.
+Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. Some local operators call this site Turtle Heaven or The Pinnacle. The site features a gently sloping valley with small coral bommies descending from 5 m to around 30 m — not a pinnacle structure, but a gradual, calm slope through mixed hard and soft corals. Conditions are typically calm, making it accessible for beginners through advanced divers. Green and hawksbill turtles congregate in the sea grass beds and on the reef slope. Stonefish, scorpionfish, lionfish, and eagle rays are confirmed at this site. Moray eels, fusiliers, and typical Gili Islands reef fish are reliably present. The nearby Bounty Wreck lies just off the coast, and together these two sites make Gili Meno one of the standout dive destinations in the Lombok / Gili Islands area.
 
-**Note on site type:** The previous "drift" classification was inaccurate — this is a slope and pinnacle reef site. Corrected to "reef."
+**Note on site type:** The previous "drift" classification was inaccurate — this is a slope reef site. Corrected to "reef."
 
 ## Site Information
 
 - **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (slope and pinnacle)
-- **Difficulty Level**: Intermediate (entry level for upper sections)
-- **Maximum Depth**: 20–30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; can be strong on the corner
 - **Best Time**: May to October
@@ -63,4 +63,4 @@ Current at the corner can be strong, particularly on spring tides. Stay close to
 Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
 
 ---
-*Sources: [SSI Dive Guide – Turtle Heaven](https://www.divessi.com/en/mydiveguide/divesite/67523), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Divezone.net – regional dive sites](https://divezone.net/divesite/meno-wall). Site is described by multiple sources as a slope-to-pinnacle reef at the northeast tip of Gili Meno known locally as Turtle Heaven or The Pinnacle. Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Meno Corner](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-corner-all-levels), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*

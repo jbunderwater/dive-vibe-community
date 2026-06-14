@@ -25,7 +25,7 @@ Frog Fish Point (also listed by some sources as the Gili Air Harbour area or Han
 
 - **Location**: East of Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (macro/critter dive)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m

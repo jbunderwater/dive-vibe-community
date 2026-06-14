@@ -23,18 +23,16 @@ Meno Slope is a gently inclining reef on the western to southern side of Gili Me
 
 - **Location**: West/south side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (slope)
-- **Difficulty Level**: Intermediate (all levels)
-- **Maximum Depth**: 20–30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–22 m
 - **Current**: Mild to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Hawksbill and green turtles confirmed among coral bommies. Blue-striped snappers confirmed. Reef sharks occasionally present. Hard and soft coral coverage supports diverse reef fish typical of the Gili Islands.
-
-Regional Coral Triangle species diversity applies. Broader species list for Gili Meno area includes clownfish, lionfish, and moray eels, but site-specific confirmation for Meno Slope as a named site was not found for individual species beyond turtles and snappers.
+Hawksbill and green turtles confirmed among coral bommies. Blue-striped snappers confirmed. Reef sharks occasionally present. Scorpionfish, moray eels, nudibranchs, and frogfish on the reef structure. Rhinopias (a rare and striking scorpionfish relative) reported at this site. Leaf scorpionfish and stonefish also documented. Eagle rays on sandy sections. Hard and soft coral coverage supports diverse reef fish typical of the Gili Islands.
 
 ## Dive Profile
 
@@ -60,4 +58,4 @@ Currents are generally mild but can increase at depth on the outer slope. Mainta
 Turtles in the shallow reef with natural light. Blue-striped snapper schools. The gentle slope gradient allows careful composition without fighting current.
 
 ---
-*Sources: [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Oceans 5 Dive – Gili Dive Sites](https://www.oceans5dive.com/dive-sites/), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/). Last updated 2026-06-14.*
+*Sources: [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*

@@ -25,7 +25,7 @@ The reef runs from approximately 6 m with barrel sponges down through gorgonian-
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (part of the Halik reef system)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m

@@ -23,9 +23,9 @@ Takat Malang (Malang) lies just north of Gili Air, approximately 15 minutes by b
 
 - **Location**: North of Gili Air, Gili Islands / Lombok (approximately 15 minutes by boat)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (ridge system)
-- **Difficulty Level**: Advanced (Intermediate on good-conditions days for upper sections)
-- **Maximum Depth**: 35–40 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong
 - **Best Time**: May to October

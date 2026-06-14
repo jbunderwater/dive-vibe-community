@@ -24,7 +24,7 @@ Meno Wall runs along the northwest side of Gili Meno, featuring two distinct wal
 - **Location**: Northwest side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate (all levels per multiple operators)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20 m and above
 - **Current**: Highly variable — can be none or very strong
@@ -32,7 +32,7 @@ Meno Wall runs along the northwest side of Gili Meno, featuring two distinct wal
 
 ## Marine Life
 
-Hawksbill, green, and leatherback turtles in large numbers — a standout site for turtle encounters. Moray eels, lionfish, scorpionfish, and grouper in wall crevices and overhangs. Bannerfish, batfish, triggerfish, and fusiliers throughout. Bumphead parrotfish occasionally visible off the wall in open water. Night diving reveals lobsters, shrimps, crabs, and Spanish dancer nudibranchs. Small fish, nudibranchs, and porcelain crabs in the wall's micro-habitats.
+Hawksbill, green, and leatherback turtles in large numbers — a standout site for turtle encounters. Moray eels, lionfish, scorpionfish, pipefish, and grouper in wall crevices and overhangs. Sponges, nudibranchs, and decorator crabs on the wall face. Bannerfish, batfish, triggerfish, sweetlips, snappers, angelfish, and fusiliers throughout. Bumphead parrotfish confirmed, visible in the blue off the wall. Night diving is excellent — red shrimps, squid, lobsters, crabs, and Spanish dancer nudibranchs emerge after dark.
 
 Bamboo sharks at this site are not confirmed by any reviewed source. Pygmy seahorses are not confirmed at this site by reviewed sources.
 
@@ -60,4 +60,4 @@ Current can accelerate suddenly and is unpredictable. Ascend to the shallower wa
 Night dive photography reveals fully coloured lobsters, shrimps, and Spanish dancers. Day dives suit wide-angle for the soft coral wall and passing turtles. Macro lens for nudibranchs and wall crevice detail.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Meno Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-wall-all-levels), [Divezone.net – Meno Wall](https://divezone.net/divesite/meno-wall), [PADI – Gili Meno Wall](https://www.padi.com/dive-site/indonesia/gili-meno-wall/). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Meno Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-wall-all-levels), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-06-14.*

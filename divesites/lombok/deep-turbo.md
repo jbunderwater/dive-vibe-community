@@ -23,9 +23,9 @@ Deep Turbo is a sea mound (pinnacle) north of Gili Trawangan, reserved for advan
 
 - **Location**: North of Gili Trawangan, on a sea mound
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/sea mound
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30–35 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong; always present; medium current days optimal
 - **Best Time**: May to October

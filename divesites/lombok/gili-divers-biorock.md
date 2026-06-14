@@ -17,7 +17,7 @@ A Biorock coral restoration structure supported by the Gili Divers operation —
 
 ## Overview
 
-Gili Divers Biorock is maintained by the Gili Divers operation and forms part of the broader Gili Eco Trust Biorock network on the east coast of Gili Trawangan. Since 2006, these structures have used low-voltage electrical current to stimulate accelerated limestone mineral accretion on steel frames, creating the substrate that encourages accelerated coral colonisation. The structure is accessible from Lombok as part of a Gili Islands day trip and showcases the conservation efforts that have contributed to increased marine biodiversity around the Gili Islands.
+Gili Divers Biorock is maintained by the Gili Divers operation and forms part of the broader Gili Eco Trust Biorock network on the east coast of Gili Trawangan. Since 2004, these structures have used low-voltage electrical current to stimulate accelerated limestone mineral accretion on steel frames, creating the substrate that encourages accelerated coral colonisation. The structure is accessible from Lombok as part of a Gili Islands day trip and showcases the conservation efforts that have contributed to increased marine biodiversity around the Gili Islands.
 
 ## Site Information
 

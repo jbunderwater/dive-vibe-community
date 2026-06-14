@@ -24,7 +24,7 @@ The Bounty Wreck lies on the western or southwestern side of Gili Meno. The pont
 - **Location**: West/southwest side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (accessible to all certified divers)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Mild to moderate

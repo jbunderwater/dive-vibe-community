@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Turtle Point
 
-A large underwater pinnacle north of Gili Meno where green and hawksbill turtles gather in numbers — accessible to all diver levels in the upper sections.
+A large underwater pinnacle north of Gili Meno where green and hawksbill turtles gather in exceptional numbers — an intermediate-level site with a maximum depth of 35 m.
 
 ## Overview
 
@@ -25,8 +25,8 @@ Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater 
 
 - **Location**: North of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (pinnacle)
-- **Difficulty Level**: Intermediate (max depth 35 m exceeds Beginner limits; upper sections accessible to confident intermediates)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; variable on the pinnacle

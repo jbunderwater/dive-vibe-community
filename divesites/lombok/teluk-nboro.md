@@ -13,50 +13,36 @@ addedBy: osm_import
 
 ## Teluk NBoro
 
-A bay dive on Lombok's northwest coast — a relaxed reef with seahorse populations and muck-style sandy slope for macro enthusiasts.
+A bay dive on Lombok's northwest coast — likely the Teluk Nara/Naro muck dive area known for seahorses, ghost pipefish, and macro life.
 
 ## Overview
 
-Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately 25 minutes by boat from the Gili Islands. The site sits in a sheltered bay with a sandy slope and scattered coral development, making it a relaxed dive that appeals particularly to macro photographers and divers interested in critter hunting rather than current-driven pelagic action. The nearby Mentigi Bay area on the Lombok coast is famous for seahorse populations, and Teluk NBoro shares similar substrate characteristics, with the potential for seahorses, pipefish, and ghost pipefish in the rubble and sand zones.
+Teluk NBoro is listed in OSM data sourced from a local Diveschool Notice Board. The coordinate (latitude -8.4042, longitude 116.0591) places this south of the Gili Islands on Lombok's northwest coast, consistent with the Teluk Nara / Teluk Naro bay area near the Gili Islands ferry jetty. "NBoro" may be a spelling variant of "Naro" or "Nara." Teluk Nara is documented as a muck dive site on the west side of Lombok — also called "Magic Pier" — known for seahorses, ghost pipefish, nudibranchs, octopus, and cuttlefish. Visibility can be lower than the Gili Islands due to the bay conditions. No dive operator lists a site specifically named "Teluk NBoro."
+
+No site-specific sources were found using the name "Teluk NBoro." The description below reflects general knowledge of the Teluk Nara area.
 
 ## Site Information
 
-- **Location**: Teluk Naro, northwest Lombok coast
+- **Location**: Teluk Nara/Naro bay, northwest Lombok coast
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–18 m
+- **Typical Visibility**: 10–18 m (can be lower in the bay)
 - **Current**: Generally mild inside the bay
 - **Best Time**: May to October
 
 ## Marine Life
 
-Seahorses are occasionally found in the sandy rubble zone. Pipefish and ghost pipefish among sparse coral growth. Blue-spotted stingrays on the sandy bottom. Nudibranchs throughout the rubble. The bay fringe reef hosts typical reef fish — butterflyfish, parrotfish, and moray eels.
+Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of a site named "Teluk NBoro." The Teluk Nara area generally features seahorses, ghost pipefish, nudibranchs, octopus, and cuttlefish based on regional muck diving documentation for the nearby bay.
 
 ## Dive Profile
 
-Descend to the sandy slope and move slowly searching the substrate. Focus on rubble patches, sparse coral fragments, and any algae growth where critters seek cover. The bay fringe reef at 10–18 m adds reef fish variety. Total dive time 50–60 minutes.
+Descend to the sandy slope and move slowly searching the substrate for critters. Focus on rubble patches, sparse coral fragments, and algae growth. Extended dive time typically available at these depths.
 
 ## Entry and Exit
 
-Boat from Gili Islands or Lombok northwest coast. Short transit from Gili Air (approximately 25 minutes). Entry via back roll. Calm conditions.
-
-## Tips and Recommendations
-
-- Primarily a macro site — a dedicated macro camera setup maximises the experience
-- Move extremely slowly and methodically across the sandy substrate
-- Ask your guide about current seahorse and ghost pipefish locations before the dive
-- Combine with Frog Fish Point for a full macro dive day from Lombok or Gili Air
-- Night dives reveal octopus, mantis shrimps, and crabs active on the sandy bottom
-
-## Safety Considerations
-
-Mild currents but standard buoyancy care essential above the sandy substrate. Do not stir the sand — visibility collapses and critters are disturbed. Stingrays partially buried in the sand can sting if disturbed. Maintain awareness of depth on the outer slope.
-
-## Photography
-
-Seahorse portraits on their natural substrate are the highlight subject. Ghost pipefish camouflage against surrounding material — macro lens essential. Stingrays on sand suit wide-angle close-focus for environmental context.
+Boat from Gili Islands or Lombok northwest coast. Short transit. Entry via back roll. Generally calm conditions in the bay.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for the name "Teluk NBoro." Coordinate is consistent with the Teluk Nara muck dive area. Last updated 2026-06-14.*

@@ -23,7 +23,7 @@ Manta Point (also known as Sunset Reef by some operators) is on the south side o
 
 - **Location**: South side of Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing reef (some drift possible)
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
