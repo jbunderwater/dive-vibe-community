@@ -23,7 +23,7 @@ Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater 
 
 ## Site Information
 
-- **Location**: North of Gili Meno, Gili Islands / Lombok
+- **Location**: North side of Gili Meno (also called Turtle Heaven or Turtle City) — note: OSM coordinates may not match this commonly identified location
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -62,4 +62,4 @@ Variable current on the pinnacle. Intermediate divers should stay on the upper s
 Multiple turtles together in one frame are achievable. Turtle portraits with pinnacle coral background. Hard and soft coral coverage provides excellent context for wide-angle shots.
 
 ---
-*Sources: [Manta Dive – Turtle Heaven site page](https://manta-dive.com/news-and-blog/exploring-the-dive-site-turtle-heaven/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI – Turtle City/Heaven](https://www.padi.com/dive-site/indonesia/turtle-city-heaven/). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-06-14. Note: OSM coordinates may not match the commonly identified Turtle Heaven location at north Gili Meno.*
