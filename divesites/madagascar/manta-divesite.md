@@ -3,9 +3,9 @@ name: Manta divesite
 lat: -13.3683279
 lng: 48.0627584
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 21
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 6943571813
 addedBy: osm_import
@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Manta divesite
 
-Manta divesite is a wall dive site in Madagascar, Africa.
+Manta divesite (Manta Point) is a cleaning station on a sandy plateau approximately 16 kilometres from Nosy Be, where oceanic manta rays (Mobula birostris) visit scattered coral blocks to be groomed by wrasse.
 
 ## Overview
 
-Manta Point is Nosy Be's crown jewel dive, a cleaning station over scattered coral blocks and a sandy bottom at 18–21 metres where manta rays with wingspans up to 7 metres glide in to be serviced by wrasse. Sightings peak between October and December when planktonic productivity is highest, though mantas are present year-round, and mobula rays are also frequent visitors to the station.
+The site consists of a sandy seabed at 18–21 metres, dotted with small coral heads and blocks that host the cleaner wrasse responsible for the manta visits. When mantas are present, they circle low over the coral structures in a characteristic gliding pattern, allowing divers to observe at close range.
+
+Manta frequency is highly variable from year to year — local operators note periods of near-daily encounters alternating with weeks of absence. October through December is commonly cited as a productive period linked to planktonic blooms, though other operators report good sightings as early as April and as late as November. There is no firmly established season; local operators recommend going frequently and returning when rays are spotted. Mobula rays are also confirmed at this site.
+
+Manta rays at this site belong to the oceanic manta species (Mobula birostris), which as a species can reach wingspans of up to 7 metres, though typical sighting sizes vary. No site-specific wingspan measurements from Nosy Be have been published.
+
+The site is not a wall dive — it is an open sandy plateau with low coral relief, suitable for confident intermediate divers.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Nosy Be, northwest Madagascar (approximately 16 km offshore, 35 min by speedboat)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 21 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [Island Stays](https://www.islandstays.co.za/post/scuba-diving-at-nosy-be-madagascar), [Baleine Randeau Madagascar](https://baleinesrandeau.com/en/espece/manta-ray/), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Last updated 2026-06-14.*

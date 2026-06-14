@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Pelican Rock
 
-The most iconic dive site in Cabo San Lucas. A large pinnacle covered in purple sea fans rises above the surface inside the protected bay, with the reef sloping down to a deep canyon. Calm, sheltered conditions make it suitable for all levels. The shallows serve as a nursery for juvenile fish, while moray eels and pufferfish inhabit the rocky ledges. Depths range from 5 to 27 meters depending on how far toward the canyon edge you venture.
+The most frequently dived site in Cabo San Lucas, located approximately 300 feet offshore on the bay side of Land's End. A sloping reef wall drops from about 6 meters to 27 meters before meeting the canyon edge where the Sand Falls occur. The sheltered bay position keeps conditions calm even when the Pacific side is rough. Sea fans cover the slopes, and the site is known for macro life at shallower depths alongside larger species patrolling the deeper reef.
 
 ## Site Information
 
-- **Location**: Cabo San Lucas Marine Park, inside the bay
+- **Location**: Cabo San Lucas Marine Park, inside the bay, approximately 5 minutes from the marina
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-25 meters
+- **Typical Visibility**: 10–25 meters
 - **Current**: Minimal — protected within the bay
-- **Best Time**: Year-round; calmest June to October
+- **Best Time**: Year-round; September to November for best visibility
 
 ## Marine Life
 
-Purple and orange sea fans dominate the pinnacle. Green moray eels, guineafowl pufferfish, and Cortez angelfish are resident. The shallow coral areas act as a nursery for juvenile grunts, wrasses, and damselfish. Spotted eagle rays and sea turtles pass through regularly. Look for octopus in the rocky crevices.
+Green moray eels, guineafowl pufferfish, Cortez angelfish, Mexican goatfish, and scorpionfish are resident. Whitetip reef sharks rest under ledges, particularly in warmer months. Spotted eagle rays and mobula rays pass through. The shallow coral areas shelter juvenile fish — grunts, wrasses, and damselfish. Octopus inhabit the rocky crevices. Nudibranchs and small crustaceans are found on the rocky substrate.
 
 ## Dive Profile
 
-Enter from the boat on the bay side of the pinnacle. Explore the shallow reef and sea fan garden first, then descend along the slope toward the canyon edge for more advanced terrain. The deeper sections near the canyon are better suited to intermediate divers. The site is close to Sand Falls, and experienced divers sometimes combine both in one dive.
+Enter from the boat on the bay side of the rock. Explore the shallow reef and sea fan slopes first (6–15 m), then descend along the wall toward the canyon edge for more advanced terrain. The Sand Falls cascade over the canyon rim at 27 meters and are visible from the edge. The site links naturally with the Sand Falls dive for experienced divers. For beginners, stay on the reef slope above 20 meters.
 
 ## Safety Considerations
 
-The bay provides excellent shelter, making this one of the calmest dive sites in the area. Watch depth near the canyon edge — the bottom drops away steeply. Boat traffic within the bay requires an SMB on ascent.
+The bay provides excellent shelter, making this one of the calmest sites in the marine park. Watch depth near the canyon edge — the bottom drops sharply beyond 27 meters. Boat traffic within the bay requires an SMB on ascent.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Dive Baja](https://www.divebaja.mx/blog/exploring-the-best-dive-sites-in-cabo-san-lucas-a-guide-to-the-cabo-san-lucas-marine-park), [Scuba Diver Life](https://scubadiverlife.com/diving-cabo-san-lucas-marine-park/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos). Last updated 2026-06-14.*

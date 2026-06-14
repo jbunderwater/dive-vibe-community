@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Mirkos Reef
 
-A coral-rich reef dive in the waters between Gili Meno and the Lombok coast with diverse fish life and a deeper section for experienced divers.
+A coral ridge system between Gili Air and Gili Meno — also called Secret Reef — with giant frogfish, whitetip reef sharks, large turtles, and pristine coral gardens to 35 m.
 
 ## Overview
 
-Mirkos Reef is a dive site in the waters around Gili Air, known as part of the broader collection of coral-rich Gili Islands dive sites. The reef features coral formations with diverse tropical reef fish and extends to 35 m at its deepest sections, though the productive zone for marine life is concentrated between 10–25 m. The site suits intermediate divers for the main reef and offers extended depth options for advanced divers wanting to explore the deeper coral formations. It is accessible as a day trip from Lombok.
+Mirkos Reef (Mirko's Reef) lies between Gili Air and Gili Meno, approximately 15 minutes by boat from Gili Air operators. The site is named after a diver called Mirkos, and a large M statue has been placed there. Some operators call this site Secret Reef due to its pristine corals. Deep ridges come together like fingers extending from 35 m to 18 m, covered in sea fans, sponges, acropora antler, and soft corals. The flat reef top at 12 m is home to large green sea turtles and rainbow-coloured soft corals. Giant frogfish camouflaged among sponges are a signature species at this site. Whitetip reef sharks cruise the ridges. Schooling fusiliers and snappers fill the mid-water.
 
 ## Site Information
 
-- **Location**: Waters near Gili Air and Gili Meno, Gili Islands / Lombok
+- **Location**: Between Gili Air and Gili Meno, Gili Islands / Lombok (15 minutes by boat)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -32,31 +32,30 @@ Mirkos Reef is a dive site in the waters around Gili Air, known as part of the b
 
 ## Marine Life
 
-Reef fish typical of the Gili Islands' coral triangle position — parrotfish, surgeonfish, triggerfish, butterflyfish, and wrasse. Turtles on the reef crest. Moray eels and grouper at depth. Reef sharks are occasionally sighted on the outer sections. Nudibranchs and cleaner shrimps in the coral rubble.
+Giant frogfish camouflaged among sponges — a distinctive and confirmed species at this site. Whitetip reef sharks cruising the ridges. Large green sea turtles on the flat 12 m reef top. Blue-spotted ribbon-tailed rays under coral overhangs. Schooling fusiliers and snappers. Map pufferfish, yellow trumpetfish, and long-nosed butterflyfish in the shallows. Sea fans, sponges, acropora antler, and soft corals.
 
 ## Dive Profile
 
-Descend to the productive reef zone at 10–20 m and explore the coral formations. Advanced divers can extend to 25–35 m to examine the deeper structure. Ascend gradually along the reef slope and complete a standard safety stop.
+Descend to the ridge system at 15–25 m and explore the finger formations. Advanced divers can extend to 35 m on the deeper ridge faces. The flat reef top at 12 m provides an excellent end-of-dive zone for turtles and safety stop. Ascend gradually along the reef.
 
 ## Entry and Exit
 
-Boat from Gili Islands or Lombok operators. Entry via back roll. Moderate current. SMB recommended for ascent.
+Boat from Gili Air or Gili Meno operators. Moderate current. SMB recommended for ascent.
 
 ## Tips and Recommendations
 
-- Pair with nearby Gili Air sites for a comprehensive east coast dive day
-- The deeper sections are worth visiting for larger grouper and occasional shark encounters
-- Accessible from Lombok day-trip boats as a mid-point between Gili Air and Gili Meno
-- Search coral rubble zones carefully for nudibranchs and cleaner shrimps
-- Works well as an afternoon dive after more demanding morning sites
+- Search sponge growths carefully for giant frogfish — their camouflage is exceptional
+- The 12 m reef top with turtles is accessible for intermediate divers
+- Also known as Secret Reef by some local operators
+- Works well as part of a Gili Air east side dive day paired with Air Wall
 
 ## Safety Considerations
 
-Currents are moderate and manageable for intermediate divers. The deeper sections should only be dived by those certified to the appropriate depth. Maintain buoyancy above coral heads. Always carry an SMB.
+The deeper ridge sections require Advanced certification. Currents are moderate and manageable for intermediate divers on the reef top and upper ridges. Maintain buoyancy above coral. Always carry an SMB.
 
 ## Photography
 
-Reef fish diversity suits fish portrait work. Turtles on the reef crest. Deeper sections with larger sea fans suit wide-angle with strobes.
+Giant frogfish portraits on their sponge background are the signature shot. Turtle portraits on the 12 m reef top in natural light. Ridge scenes with sea fans suit wide-angle with strobes.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Mirko's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [Divezone – Mirko's Reef](https://divezone.net/diving/gili-islands-lombok), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*

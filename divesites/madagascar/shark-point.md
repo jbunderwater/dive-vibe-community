@@ -2,8 +2,8 @@
 name: Shark Point
 lat: -13.3233766
 lng: 48.0195595
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a wall dive site in Madagascar, Africa.
+Shark Point is an oceanic wall dive approximately 21 kilometres offshore from Nosy Be, falling from around 18 metres at the top of the drop-off into deep water along the Mozambique Channel.
 
 ## Overview
 
-Shark Point is one of Nosy Be's signature drop-off dives, with the wall starting at 18–22 metres and drawing in grey reef sharks, white-tip reef sharks, and the occasional hammerhead alongside schools of bench snapper and trevally. The site is best dived on a rising tide when visibility improves and the sharks are most active, and it is accessible to Level 1 certified divers under those conditions.
+Shark Point is one of Nosy Be's most demanding and rewarding dives — a true pelagic wall exposed to open ocean conditions. The drop-off begins at roughly 18 metres and descends steeply beyond 50 metres, though most dive profiles stay in the 25–40 metre range where the shark action is most concentrated.
+
+The site is reliably productive for grey reef sharks and whitetip reef sharks, which patrol the wall face alongside large schools of snappers and fusiliers. Wahoo and yellowfin tuna are common in the blue water off the edge. Hammerhead sharks are occasionally sighted, though sightings are not guaranteed. Whale sharks and manta rays visit seasonally. Humpback whales pass through on migration (July–November).
+
+Conditions are current-dependent. One local source notes the site is accessible to entry-level certified divers at the shallower end of the wall on a rising tide, but the full site profile — deep, open-ocean, with strong pelagic current potential — places this firmly in the Advanced category for most dives.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Nosy Be, northwest Madagascar (approximately 21 km offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*
+*Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Last updated 2026-06-14.*

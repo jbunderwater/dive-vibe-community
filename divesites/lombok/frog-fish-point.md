@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Frog Fish Point
 
-A macro diving speciality site near Gili Air — warty, giant, and hairy frogfish species among the signature finds on the sandy reef substrate.
+A macro diving site near Gili Air — frogfish, ghost pipefish, scorpionfish, and nudibranchs on a coral block in 5–18 m.
 
 ## Overview
 
-Frog Fish Point is a dedicated macro dive site in the Gili Air area, renowned for the diversity of frogfish species encountered in its sandy reef substrate and rubble zones. Warty frogfish, giant frogfish, and hairy frogfish have all been recorded here, along with the seahorses, pipefish, ghost pipefish, and nudibranchs typical of Gili Air's harbour and macro sites. The site is a complementary dive to the more current-driven sites in the Gili Islands, providing a calmer, focused macro experience.
+Frog Fish Point (also listed by some sources as the Gili Air Harbour area or Hans Reef / Frog Fish Point) is a dedicated macro dive site near Gili Air. The coordinate (longitude 116.0886) places this east of Gili Air, consistent with starfish.ch's listing of "Gili Air Harbour/Frogfish Point" as a sandy area with a coral block on the east side of the island. The site features a large coral block from 5 m to 18 m and is known for frogfish, ghost pipefish, scorpionfish, shrimps, and nudibranchs. It is a complementary dive to the current-driven sites in the Gili Islands, providing a calmer, focused macro experience.
+
+**Note on species diversity:** Three distinct frogfish species (warty, giant, hairy) are listed in some aggregator sources, but the site-specific sources reviewed confirm only "frogfish" without species distinction. Species diversity at this site is not independently verified to the level of three named species.
 
 ## Site Information
 
-- **Location**: Near Gili Air, Gili Islands / Lombok
+- **Location**: East of Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -32,31 +34,32 @@ Frog Fish Point is a dedicated macro dive site in the Gili Air area, renowned fo
 
 ## Marine Life
 
-Multiple frogfish species — warty, giant, and hairy. Seahorses and pipefish in sparse algae and rubble zones. Ghost pipefish among debris. Nudibranchs throughout the rubble. Mantis shrimps at burrow entrances. The Gili Air harbour area nearby is famous for the mandarin fish, seen at dawn or dusk. Blue-spotted stingrays on the sand.
+Frogfish on the coral block. Ghost pipefish among sparse coral and algae. Scorpionfish in rubble and on the coral block surface. Shrimps and nudibranchs throughout. Blue-spotted stingrays on the sandy areas. Seahorses may be present (the harbour area of Gili Air is noted for seahorse sightings by regional sources).
+
+Regional Coral Triangle species diversity applies to the broader marine community. Site-specific species lists beyond the critter highlights above are not independently confirmed.
 
 ## Dive Profile
 
-Descend to the sandy substrate at 10–20 m and move extremely slowly across the site. The guide will typically locate known frogfish positions in advance. Examine each piece of rubble, sparse coral fragment, and algae tuft systematically. A full 55-minute dive is easily spent searching this site thoroughly.
+Descend to the coral block and sandy substrate. Move extremely slowly across the site searching for frogfish and ghost pipefish. A guide who knows known frogfish positions adds significant value. Total dive time 50–60 minutes.
 
 ## Entry and Exit
 
-Boat from Gili Air (very short transit). Entry via back roll or giant stride. Minimal current. Return to mooring or beach.
+Boat from Gili Air (short transit). Minimal current. Entry via back roll or giant stride.
 
 ## Tips and Recommendations
 
-- Ask your guide specifically about current frogfish locations before the dive — they are pre-scouted
 - Move extremely slowly — frogfish are spotted by shape irregularity, not colour
-- The Gili Air harbour mandarin fish display is worth a separate dawn or dusk dive
-- A dedicated macro camera setup rewards with detailed frogfish portraits
+- Ask your guide specifically about current frogfish locations before the dive
 - Combine with Air Wall for a varied Gili Air diving day
+- A dedicated macro camera setup maximises the experience
 
 ## Safety Considerations
 
-Maintain positive buoyancy above the sand at all times — stonefish and scorpionfish can be present on muck sites. Do not stir the sandy substrate — visibility collapses instantly and critters are disturbed. Standard macro site precautions apply.
+Maintain positive buoyancy above the sand at all times — stonefish and scorpionfish can be present. Do not stir the sandy substrate — visibility collapses and critters are disturbed.
 
 ## Photography
 
-Frogfish in their full cryptic context are the priority subject. Each colour morph of frogfish presents a different photographic challenge. Ghost pipefish and seahorses suit 100mm macro lens. Nudibranchs reward macro with diopter for the most detail.
+Frogfish in their full cryptic context. Ghost pipefish suit 100 mm macro lens. Nudibranchs reward macro with diopter for detail. Scorpionfish portraits on the coral block surface.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html), [Diversion Dive Travel – Frogfish Point](https://www.diversiondivetravel.com.au/g708/diving_frogfish_point.html), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*

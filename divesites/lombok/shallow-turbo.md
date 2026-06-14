@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-The accessible beginner version of the Turbo dive series — a gentle reef drift in the Gili Islands channel with turtles and reef fish.
+The shallower version of the Turbo dive area northeast of Gili Trawangan — a beginner-accessible reef with turtles and reef fish in the 6–18 m range.
 
 ## Overview
 
-Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, providing an introduction to drift diving for newly certified Open Water divers. The current-driven reef experience produces fish aggregations typical of the channel — turtles, reef sharks, snapper schools, and clownfish in anemones are regular sightings. The shallow depth profile allows extended bottom time and a relaxed diving pace suitable for building confidence with drift conditions before progressing to more exposed offshore sites. Accessible as a day trip from Lombok.
+Shallow Turbo is the shallower section of the Turbo dive system northeast of Gili Trawangan, providing an introduction to this area for newly certified Open Water divers. The shallow depth profile (6–18 m) allows extended bottom time and a relaxed diving pace. The site name appears in OSM data sourced from a local Diveschool Notice Board and is listed by some local operators as a distinct beginner site from the deeper Deep Turbo. However, this site is not listed as a named site by most major operator dive site pages, which typically list only "Turbo" and "Deep Turbo" as distinct sites in this area.
+
+Turtles, snapper schools, and clownfish in anemones are typical of this reef section based on the broader Turbo dive area character.
 
 ## Site Information
 
-- **Location**: Gili Islands channel, accessible from Lombok
+- **Location**: Northeast Gili Trawangan area
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,31 +34,19 @@ Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, provid
 
 ## Marine Life
 
-Turtles reliably sighted on the upper reef. Reef sharks occasionally cruise the outer sections. Snapper and fusilier schools in the current. Clownfish in anemones throughout the reef. Cuttlefish hover near coral heads. Moray eels in crevices.
+Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of Shallow Turbo as a distinct named site. The Turbo area generally features turtles on the upper reef, reef sharks occasionally on the outer sections, snapper and fusilier schools, and clownfish in anemones based on Deep Turbo and related site descriptions.
 
 ## Dive Profile
 
-Descend to 10–18 m and drift gently with the current along the reef slope. Spend time at the coral formations between 6–15 m for the best turtle and fish encounters. Ascend gradually. Complete a 3-minute safety stop before the drift boat pickup.
+Descend to 10–18 m and explore the shallow reef slope. Current conditions are more manageable than Deep Turbo. Extended bottom time available at this depth. Complete a 3-minute safety stop before pickup.
 
 ## Entry and Exit
 
 Boat from Lombok or Gili Islands operators. Gentle drift. SMB essential for drift pickup.
 
-## Tips and Recommendations
-
-- Ideal for first drift dive experience before progressing to deeper sites
-- Turtles are the reliable highlight accessible to beginner divers throughout
-- Accessible from Lombok mainland as a day trip to the Gili Islands
-- Neap tides make the current very manageable even for anxious beginners
-- Combine with Meno Wall or Turtle Point for a two-site Gili Islands day
-
 ## Safety Considerations
 
-Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Reef sharks are non-aggressive. Always dive with a buddy.
-
-## Photography
-
-Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones at close range. Natural light in 6–15 m provides vivid coral colour without strobe.
+Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Always dive with a buddy.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Dive Central Gili](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air). Last updated 2026-06-14.*

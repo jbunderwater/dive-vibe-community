@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Manta Point
 
-A southern Gili Islands drift site where reef manta rays seasonally visit — turtles and reef sharks accompany the gentle drift through healthy coral.
+A southern Gili Trawangan fringing reef — also called Sunset Reef — where reef manta rays seasonally visit alongside turtles, reef sharks, and diverse hard and soft corals.
 
 ## Overview
 
-Manta Point is south of the Gili Islands chain, in the deeper channel waters where reef manta rays are occasionally encountered. Unlike the highly reliable manta sites at Nusa Penida, sightings here are seasonal and less predictable, making the quality of the coral reef diving itself the primary draw. The gentle drift current carries divers through the site at a comfortable pace, and turtles, reef sharks, and the full suite of Gili Islands reef species are reliably present. The site is accessible from Lombok's northwest coast operators.
+Manta Point (also known as Sunset Reef by some operators) is on the south side of Gili Trawangan, in a relatively sheltered section with good hard and soft coral cover interspersed with bommies and large table corals. There is rarely strong current, making it accessible to intermediate divers. Reef manta rays visit seasonally when plankton is abundant — the most cited season is the rainy season, though sources conflict: terumbudivers.com reports April–November as the prime period; Blue Marlin reports December–March for Sunset Reef. Reef sharks rest in deeper coral areas at 18–24 m. Turtles, octopus, cuttlefish, and reef fish are reliably present regardless of manta activity.
 
 ## Site Information
 
-- **Location**: South of Gili Islands, near Lombok
+- **Location**: South side of Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
-- **Best Time**: May to October (mantas most likely in season)
+- **Current**: Rarely strong; generally gentle
+- **Best Time**: May to October; manta rays seasonal (rainy season — exact months vary by source)
 
 ## Marine Life
 
-Reef manta rays are possible seasonal visitors — encounter rates are variable. Resident green and hawksbill turtles. Reef sharks on the outer sections. Blue-spotted stingrays on sandy patches. Reef fish diversity typical of the Gili Islands: triggerfish, sweetlips, parrotfish, and wrasse.
+Reef manta rays — seasonal visitors when plankton conditions are favourable. Encounter rates are variable and seasonal timing is not consistent across independent sources. Green and hawksbill turtles. Whitetip reef sharks resting in deeper coral areas. Octopus, cuttlefish, and peacock mantis shrimp. Schools of oriental sweetlips and batfish. Staghorn and table corals. Lined snappers.
+
+Regional Coral Triangle species diversity applies to the broader reef community.
 
 ## Dive Profile
 
-Enter upstream and drift through the reef gently. Scan both the reef and open water for manta rays — they can appear at any depth. Spend time in the middle sections of the site where turtles and reef fish are most active. Complete a safety stop before ascending. Drift pickup by boat.
+Enter and explore the fringing reef at 5–20 m. Scan both the reef and open water for manta rays. Spend time in mid-section where turtles and reef fish are most active. Complete a safety stop before ascending.
 
 ## Entry and Exit
 
-Boat from Lombok northwest coast or Gili Islands operators. Drift entry. SMB for pickup.
+Boat from Lombok northwest coast or Gili Islands operators. Generally gentle current. SMB for pickup.
 
 ## Tips and Recommendations
 
-- Treat manta sightings as a welcome bonus rather than a guaranteed occurrence at this site
-- The reef and turtle encounters make this worth diving regardless of manta activity
-- Check with your operator for recent manta sightings in the area before specifically requesting this site
-- Accessible as part of a broader Lombok/Gili Islands multi-day dive itinerary
-- Combine with Air Wall or Bounty Wreck for a diverse Lombok diving day
+- Treat manta sightings as a welcome bonus — the reef and turtle encounters make this worth diving regardless
+- Check with your operator for recent manta activity before specifically requesting this site
+- The sheltered conditions make it accessible to intermediate divers on almost all days
+- Combine with Shark Point or Halik for a varied Gili Trawangan dive day
 
 ## Safety Considerations
 
-Standard drift dive precautions apply. Current is moderate. Maintain SMB carry. Manta rays require 3 m minimum distance and should not be touched.
+Gentle conditions generally, but standard dive precautions apply. Maintain SMB carry. Manta rays require 3 m minimum distance and must not be touched.
 
 ## Photography
 
-Manta rays in shallow, bright water produce excellent natural light shots. Turtle portraits in the drift reef suit wide-angle. Open water shots with mantas require wide angle and clear conditions.
+Manta rays in shallow, bright water suit wide-angle natural light shots. Turtle portraits on table coral reef. Staghorn coral fields with natural light at 5–15 m.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Dive SSI – Manta Point Gili Trawangan](https://www.divessi.com/en/mydiveguide/divesite/manta-point-gili-trawagan-dive-sunset-reef-bay-pt-t-is-lombok-indonesia-116747), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*

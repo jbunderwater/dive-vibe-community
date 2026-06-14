@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## Fang Ming Wreck
 
-The Fang Ming is an intentionally-sunk Chinese fishing vessel that has become one of Latin America's greatest artificial reef dive attractions.
+The Fang Ming is an intentionally-sunk Chinese vessel that became the first artificial reef wreck in Latin America and is now a productive dive site on the west side of Isla Espíritu Santo.
 
 ## Overview
 
-The Fang Ming was a Chinese fishing vessel later converted to a cargo ship. In April 1995 it was intercepted by the Mexican Navy while on an illegal mission to smuggle 88 men and 7 women (Chinese nationals) into the United States. Rather than scrapping the confiscated vessel, members of the local Seawatch diving organization saw an opportunity: they secured permits, cleared potential hazards from the hull, and widened openings for diver access. On November 18, 1999, the Fang Ming was deliberately sunk on the west side of Isla Espíritu Santo — becoming the first vessel intentionally scuttled as an artificial reef in Latin America. Measuring approximately 180 feet (55 meters) in length, it rests at a maximum depth of 72 feet (22 meters), outside navigation channels and sheltered from prevailing winds and swells. After more than 25 years on the seafloor, the wreck is very well preserved and fully integrated into the Espiritu Santo National Park's no-fishing zone.
+The Fang Ming was a Chinese fishing vessel later converted to a cargo ship. On April 18, 1995 it was intercepted by the Mexican Navy while attempting to smuggle 88 men and 7 women (Chinese nationals) into the United States — the migrants were found in severely overcrowded, unsanitary conditions. The vessel was confiscated; the migrants were ultimately deported. After the government had no further use for the ship, members of the local Seawatch diving organization secured permits, cleared potential hazards from the hull, and widened openings for diver access. On November 18, 1999, the Fang Ming was deliberately sunk on the west side of Isla Espíritu Santo near Isla Ballena — becoming the first vessel intentionally scuttled as an artificial reef in Latin America. Multiple independent sources confirm both the length (55–56 meters) and the sinking date (November 18, 1999). The wreck rests at a maximum depth of 22 meters (72 feet), outside navigation channels and sheltered from prevailing winds and swells.
+
+**Depth note:** One source (divers-guide.com) lists the site depth as 16 m; the majority of sources including Cabo Private Guide, DAN Alert Diver, Cortez Club, and PADI consistently give 22 m (72 ft) as the maximum depth, with the deck at approximately 14 m. The 22 m figure is used here.
+
+After more than 25 years on the seafloor, the wreck is well integrated into the Espiritu Santo National Park's no-fishing zone.
 
 ## Site Information
 
@@ -29,11 +33,11 @@ The Fang Ming was a Chinese fishing vessel later converted to a cargo ship. In A
 
 ## Wreck History
 
-The Fang Ming's capture in April 1995 led to a human-trafficking case and left the Mexican government with an unwanted vessel. The Seawatch organization, led by La Paz dive community members, coordinated the permitting, cleanup (including fuel and hazardous material removal), and structural modifications over four years. The sinking on November 18, 1999 was a landmark event — the first intentional artificial reef wreck in all of Latin America. Two independent sources confirm both the capture date (April 1995) and the sinking date (November 1999).
+The Fang Ming's seizure in April 1995 left the Mexican government with an unwanted vessel. The Seawatch organization, led by La Paz dive community members, coordinated the permitting, cleanup (including fuel and hazardous material removal), and structural modifications over four years. The sinking on November 18, 1999 was documented as the first intentional artificial reef wreck in all of Latin America. Key facts confirmed by two or more independent sources: seizure date April 18, 1995; 88 men and 7 women found aboard; vessel length 55–56 meters; sinking date November 18, 1999; maximum depth 22 meters.
 
 ## Marine Life
 
-Green sea turtles are a signature encounter at the Fang Ming, often tucked into sheltered nooks on the hull. The wreck is also home to angelfish, parrotfish, groupers, snappers, and large schools of reef fish that use the structure as habitat. Soft corals and encrusting growth now cover much of the hull surface. Sea lions occasionally visit. The protected national park status means no fishing pressure on the wreck ecosystem.
+Green sea turtles are a signature encounter at the Fang Ming, often tucked into sheltered nooks on the hull (confirmed by DAN Alert Diver and Cabo Private Guide). The wreck is home to angelfish, parrotfish, groupers, snappers, and large schools of reef fish. Soft corals and encrusting growth cover much of the hull surface. Black coral has been reported on the structure. Sea lions occasionally visit. The protected national park status means no fishing pressure on the wreck ecosystem.
 
 ## Dive Profile
 
@@ -52,7 +56,7 @@ Boat access from La Paz (approximately 45–60 minutes to the west side of Espí
 
 ## Safety Considerations
 
-Standard intermediate-level wreck precautions apply. The hull's openings are modified for diver access, but interior navigation still requires a dive light and situational awareness. No special advanced training is required for exterior dives.
+Standard intermediate-level wreck precautions apply. The hull's openings are modified for diver access, but interior navigation still requires a dive light and situational awareness. Wreck penetration carries inherent risks — appropriate training and a buddy are required for interior dives.
 
 ---
-*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Divers Guide — Fang Ming Wreck](https://www.divers-guide.com/en/fang-ming-wreck), [PADI Dive Site — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/). Last updated 2026-05-17.*
+*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Divers Guide — Fang Ming Wreck](https://www.divers-guide.com/en/fang-ming-wreck), [PADI Dive Site — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/). Last updated 2026-06-14.*

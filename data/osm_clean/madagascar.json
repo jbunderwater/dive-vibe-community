@@ -5,18 +5,19 @@
     "lon": 48.0195595,
     "osm_id": 6943550642,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shark Point",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,madagascat.co.za,primemedia.international,tropical-diving.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -25,8 +26,8 @@
     "lon": 48.0627584,
     "osm_id": 6943571813,
     "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 21,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -34,8 +35,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,islandstays.co.za,baleinesrandeau.com,tropical-diving.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -44,17 +46,19 @@
     "lon": 48.0866988,
     "osm_id": 6943571814,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Rosado",
+      "osm_name_note": "Likely a corrupted OSM entry for 'Rosario' — every local operator lists this site as Rosario, not Rosado. Name retained as-is to preserve OSM ID integrity.",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "validated": "true",
+      "validation_source": "scubanosybe.com,madagascat.co.za,tropical-diving.com,sakalavdiving.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -63,7 +67,7 @@
     "lon": 48.0994665,
     "osm_id": 6943573745,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -72,8 +76,10 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "web_research"
+      "wreck_component": "true",
+      "validated": "true",
+      "validation_source": "madablu.com,travelssmart.blogspot.com,spotmydive.com",
+      "last_qa_date": "2026-06-14"
     }
   }
 ]

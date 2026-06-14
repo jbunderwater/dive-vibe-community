@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Malang
 
-Also known as Takat Malang — a collection of large rock formations north of the Gili Islands with gorgonian sea fans, schooling fish, and depths to 40 m for technical and advanced divers.
+Also known as Takat Malang — a long winding reef system north of Gili Air with stunning coral gardens, barrel sponges, gorgonian sea fans, and depths to 40 m.
 
 ## Overview
 
-Takat Malang (Malang) lies north of the Gili Islands and consists of a collection of large rock formations (Takats) arranged on a sloping bed, beginning with a plateau at 15 m. About 10 major Takats make up the site, each sculpted with overhangs, outcrops, and swim-throughs. The structures are covered in soft and hard coral varieties including very large gorgonian sea fans and table corals. The maximum depth of 40 m places this firmly in the advanced and technical diver category. Sandy bottom passages between Takats are excellent for blue-spotted stingrays and garden eels.
+Takat Malang (Malang) lies just north of Gili Air, approximately 15 minutes by boat. The name means "bent reef" in Indonesian, describing the long, winding reef system. The reef top sits at only 10 m and descends along ridges and undulating valleys separated by white sand to depths of 35–40 m. Colourful sea fans, rainbow soft corals, and giant barrel sponges dominate the deeper ridges. Sandy bottom passages between ridges support blue-spotted stingrays and garden eels. Schooling snappers, fusiliers, anemone fish, and triggerfish are found throughout. Turtles graze the upper sections. Some operator descriptions reference 10 coral heads with overhangs, outcrops, and swim-throughs; others describe a single winding ridge system — topography may vary by entry point.
 
 ## Site Information
 
-- **Location**: North of Gili Islands, Lombok region
+- **Location**: North of Gili Air, Gili Islands / Lombok (approximately 15 minutes by boat)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
@@ -32,31 +32,32 @@ Takat Malang (Malang) lies north of the Gili Islands and consists of a collectio
 
 ## Marine Life
 
-Very large gorgonian sea fans hosting pygmy seahorses. Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Schooling reef fish throughout the Takat overhangs. Barracuda and trevally in the blue water. Turtles on the upper plateau sections at 15–20 m.
+Giant barrel sponges and gorgonian sea fans on the deeper ridges. Blue-spotted stingrays on the sandy bottom between ridges. Garden eels in sandy patches. Schooling snappers, fusiliers, anemone fish, and triggerfish throughout. Green and hawksbill turtles on the upper sections at 10–15 m.
+
+Regional Coral Triangle species diversity applies. Pygmy seahorses in gorgonian fans are sometimes listed for this area but are not specifically confirmed by the site-specific operator page reviewed.
 
 ## Dive Profile
 
-Descend to the initial plateau at 15 m and systematically explore each Takat. The overhangs at 20–30 m are the most productive zone. Experienced divers may explore to 40 m on the deeper Takat faces. Ascend via the plateau to the shallower Takat tops for the safety stop.
+Descend along the ridge to 20–30 m and navigate the undulating valleys. The 10 m reef top provides an accessible start and safety stop zone. Advanced divers can explore the deeper faces at 35–40 m. Ascend via the ridge to the shallower zone for the safety stop.
 
 ## Entry and Exit
 
-Boat from Lombok or Gili Islands operators. Entry based on current conditions. Advanced buoyancy required for the complex topography. SMB essential.
+Boat from Gili Islands operators. Entry based on current conditions. Advanced buoyancy required for the complex ridge topography. SMB essential.
 
 ## Tips and Recommendations
 
-- Advanced Open Water certified minimum; best with technical diving experience for the 40 m sections
-- One of the top five advanced dives in the Lombok/Gili Islands region
-- Examine gorgonian fans on each Takat for pygmy seahorses — patience required
-- Plan no-decompression limits carefully when spending time at 30–40 m
-- Combine with Simon's Reef for a full north Gili Islands advanced day
+- Advanced Open Water certified minimum for the deeper ridge faces
+- The reef top at 10 m allows an accessible introduction before descending
+- Combine with Simon's Reef for a full advanced north Gili area day
+- Nitrox is useful for managing no-decompression limits at 30–40 m
 
 ## Safety Considerations
 
-The 40 m maximum depth requires advanced certification and careful gas management. Do not exceed planned depth limits on the Takat faces. Strong current possible between Takats. Always carry an SMB. Ascent planning from 40 m requires a minimum 3-minute stop at 5 m and longer if any decompression obligation.
+Depth requires advanced certification and careful gas management. Strong current possible between ridges. Do not exceed planned depth. Always carry an SMB. Ascent planning from 40 m requires careful decompression stop management.
 
 ## Photography
 
-Large gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels suit wide-angle with natural light. The Takat overhangs with soft coral suit strobe-lit wide-angle.
+Giant gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels. The ridge system with soft coral suits strobe-lit wide-angle.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Takat Malang](https://manta-dive-giliair.com/gili-islands-dive-sites/malang-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*

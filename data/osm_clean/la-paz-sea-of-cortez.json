@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, Mapcarta, PADI"
+      "validation_source": "tosea.net,cortezclub.com,lapazdivers.com,dan.org",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "en.wikipedia.org,padi.com,tours.clubcantamar.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "Zentacle, DiversInnMX, diveinlapaz.com"
+      "validation_source": "padi.com,dan.org,cortezclub.com,math.ucr.edu",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -56,7 +59,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX, ScubaBoard"
+      "validation_source": "math.ucr.edu,padi.com,bajadiving.com,dan.org",
+      "last_qa_date": "2026-06-14",
+      "qa_note": "Sinking year conflict: PADI cites June 19 1975; UCR primary account cites June 1976. Both documented in description."
     }
   },
   {
@@ -71,14 +76,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, diveinlapaz.com, thedivegurus.com"
+      "validation_source": "diveinlapaz.com,cortezclub.com,bajadiving.com,dan.org",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
     "name": "La Reina",
     "lat": 24.4153,
     "lon": -109.975,
-    "depth": 25,
+    "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -86,14 +92,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX, cabotrek.com, diveinlapaz.com"
+      "validation_source": "cortezclub.com,cabotrek.com,caboprivateguide.com,dan.org",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
     "name": "San Rafaelito",
     "lat": 24.2983,
     "lon": -110.3459,
-    "depth": 15,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -101,7 +108,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, DiversInnMX"
+      "validation_source": "thecabosun.com,padi.com,cortezclub.com,seaofcortez.guide",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -116,7 +124,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "PADI, ScubaBoard, DiversInnMX"
+      "validation_source": "caboprivateguide.com,divers-guide.com,dan.org,padi.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -131,7 +140,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "DiversInnMX"
+      "validation_source": "nautilusliveaboards.com,uwphotographyguide.com,cortezclub.com",
+      "last_qa_date": "2026-06-14",
+      "qa_note": "Only 3 sources identified; specific depth data not confirmed by independent sources — 28m retained from prior validation."
     }
   },
   {
@@ -146,7 +157,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "getamap.net, bajadiving.com"
+      "validation_source": "bajadiving.com,cortezclub.com,cabotrek.com",
+      "last_qa_date": "2026-06-14"
     }
   }
 ]

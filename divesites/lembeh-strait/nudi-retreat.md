@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nudi Retreat
 
-Nudi Retreat is a nudibranch-focused muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. Situated in close proximity to its companion site Nudi Falls, Nudi Retreat presents a somewhat different character — a shallower profile capping at 20 meters — and a species composition that complements rather than duplicates what divers see at Nudi Falls. Operators frequently pair the two sites on the same day, allowing divers to compare and contrast the nudibranch communities of two distinct microhabitats.
+Nudi Retreat is a nudibranch-focused muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. Situated in close proximity to its companion site Nudi Falls, Nudi Retreat is set in a small protected cove with an adjacent soft coral wall — giving it both muck-slope and structural elements. It presents a somewhat different character from Nudi Falls, with a shallower profile capping at 20 metres and a species composition that complements rather than duplicates what divers see at Nudi Falls. Operators frequently pair the two sites on the same day.
 
 ## Overview
 
-Nudi Retreat's slightly shallower profile and different substrate composition — tending toward more hydroid-covered rubble and low-profile sponge communities than the deeper reaches of Nudi Falls — supports a different nudibranch assemblage. The reduced maximum depth also means extended bottom times, making this a good site for methodical, slow-paced macro exploration. Visibility is 8–15 meters; currents are light to moderate. Water temperature is stable at 26–29°C.
+Nudi Retreat's small cove setting and adjacent soft coral wall create a different nudibranch assemblage than the exposed wall at Nudi Falls. The hydroid-covered rubble patches and low-profile sponge communities support aeolid nudibranchs in good density. The shallow maximum depth (20 metres) means extended bottom times, making this a good site for methodical, slow-paced macro exploration. Visibility is 8–15 metres; currents are light to moderate. Water temperature is stable at 26–29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Nudi Retreat's slightly shallower profile and different substrate composition �
 
 ## Marine Life
 
-Nudi Retreat is particularly productive for aeolid nudibranchs, which prey on hydroids — the hydroid-covered rubble patches at this site provide exactly the feeding habitat these species require. Flabellina, Pteraeolidia, and various unidentified aeolid species are documented in good numbers. Dorid nudibranchs feeding on sponge growth add chromatic variety — Glossodoris, Hypselodoris, and Nembrotha species all appear regularly. Beyond nudibranchs, cuttlefish are frequently spotted hunting small shrimp near the rubble, and various frogfish species occupy positions among encrusted debris. Ghost pipefish have been found at this site, and the sandy inter-rubble zones produce mantis shrimp, sand-dwelling gobies with their commensal shrimps, and occasional juvenile fish sheltering in crevices.
+Nudi Retreat is particularly productive for aeolid nudibranchs, which prey on hydroids — the hydroid-covered rubble patches at this site provide the feeding habitat these species require. Various aeolid species are documented in good numbers. Dorid nudibranchs feeding on sponge growth add chromatic variety. Confirmed additional species at this site include: Pegasus sea moths, Coleman shrimps, blue-ringed octopus, flamboyant cuttlefish, scorpionfish, anemonefish, and boxer crabs (per starfish.ch and dive-the-world.com). Cuttlefish are frequently spotted hunting near the rubble, and frogfish species occupy positions among encrusted debris. The sandy inter-rubble zones produce mantis shrimp and sand-dwelling gobies with commensal shrimps. No species are attributed beyond what sources have specifically confirmed at this site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Intermediate difficulty is appropriate due to mild current potential and the nee
 The hydroid habitat at Nudi Retreat creates distinctive photographic backdrops — aeolid nudibranchs photographed against the branching hydroid structure produce complex, layered images that differ from the clean-sand shots typical of other Lembeh sites. Supermacro with a dioptre attachment reveals extraordinary detail in the gill plumes and preference markings of aeolid species. A diffused strobe or ring flash reduces harsh shadows in the intricate hydroid structure. The shallower depth improves ambient light availability throughout the dive.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/destination/indonesia/sulawesi/lembeh-strait), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh). Last updated 2026-06-14.*

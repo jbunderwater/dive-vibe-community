@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## Salvatierra Wreck
 
-The Salvatierra is a historic ferry wreck famous for causing the discovery of Swanee Reef and now serving as a thriving artificial reef in the San Lorenzo Channel.
+The Salvatierra is a historic ferry wreck — an ex-U.S. Navy World War II LST — that sank after striking Swanee Rock in the San Lorenzo Channel and now serves as a thriving artificial reef.
 
 ## Overview
 
-The Salvatierra was a cargo ferry — an ex-U.S. Navy World War II LST (Landing Ship, Tank) — that sank in June 1976 after striking Swanee Rock (also written Suwanee Rock) in the San Lorenzo Channel at night. The collision tore a 12-foot gash in the engine room, disabling the vessel, which then drifted and sank in approximately 18–19 meters (60 feet) of water. The ship was carrying highly flammable cargo — gasoline, jet fuel, butane, and diesel fuel — so no passengers were aboard on this particular voyage. In late September 1976, Hurricane Liza struck La Paz with winds reaching 120 mph, rolling the Salvatierra onto its bottom and tearing the entire deck housing away. The hull remained approximately 70% intact, with both propellers exposed and cargo trucks still visible — their tires reported to remain inflated. The wreck subsequently became a de facto artificial reef and is now one of La Paz's most visited dive sites. Swanee Rock, the hazard that sank her, was later fitted with a warning light and is now the dive site known as Swanee Reef.
+The Salvatierra was a cargo ferry built on the hull of a converted LST (Landing Ship, Tank) originally used during World War II. It operated a route between La Paz and Topolobampo, measuring 320 feet (97 m) in length and 50 feet across (confirmed by the UCR primary account). On its final voyage, the ship was carrying a highly combustible cargo of gasoline, jet fuel, butane, and diesel fuel — no passengers were aboard. It struck Swanee Rock (Suwanee Rock) in the San Lorenzo Channel at night, tearing a gash in the engine room that disabled the vessel. All 22 truck drivers and the entire crew made it to safety before the ship sank to the sandy bottom in approximately 60 feet (18–19 m) of water.
+
+**Date of sinking: Sources conflict.** The UCR primary first-person account states the collision occurred in June 1976, with Hurricane Liza (September 30, 1976) subsequently rolling the hull and stripping the deck superstructure. PADI's database lists June 19, 1975. No third source has resolved this discrepancy; both dates are documented here. The June 1976 date aligns with the Hurricane Liza timeline and is corroborated by Baja Diving and DAN Alert Diver.
+
+The wreck subsequently became a de facto artificial reef and is now one of La Paz's most visited dive sites. Swanee Rock, the hazard that sank her, was later fitted with a warning light and is now the dive site known as Swanee Reef.
 
 ## Site Information
 
@@ -29,11 +33,11 @@ The Salvatierra was a cargo ferry — an ex-U.S. Navy World War II LST (Landing 
 
 ## Wreck History
 
-Two independent historical sources confirm the key facts: the Salvatierra struck Swanee Rock in June 1976 while carrying flammable cargo; Hurricane Liza (September 30, 1976) subsequently rolled the hull and stripped the deck superstructure. The ex-Navy LST origin is documented at [math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html] and corroborated by Baja Diving and DAN Alert Diver.
+The Salvatierra was built on a converted WWII LST originally used to transport shipyard workers across Chesapeake Bay (per the UCR account). It later served the La Paz–Topolobampo cargo ferry route. After striking Swanee Rock with its combustible cargo aboard, the vessel sank to the sandy bottom. Hurricane Liza (September 30, 1976, winds reaching 120 mph) subsequently rolled the hull onto its bottom and tore the entire deck housing away. The hull remained approximately 70% intact, with both propellers exposed and cargo trucks still visible — their tires reported to remain inflated. **Sinking date: UCR primary account gives June 1976; PADI database gives June 19, 1975. Sources cannot be reconciled at this time.**
 
 ## Marine Life
 
-The wreck is encrusted with yellow and black soft corals, hydroids, and sponges providing habitat for triggerfish, angelfish, moray eels, snappers, grunts, and sea turtles. Schools of tropical fish congregate around the hull structure. Sea lions occasionally visit the site. Cargo trucks visible in the hold and the exposed propeller shafts are distinctive photographic features.
+The wreck is encrusted with yellow and black soft corals (documented inside the cabins by DAN Alert Diver), hydroids, and sponges providing habitat for triggerfish, angelfish, moray eels, snappers, yellow snapper, silver grunts, and sea turtles. Schools of tropical fish congregate around the hull structure. Cargo trucks visible in the hold and the exposed propeller shafts are distinctive photographic features.
 
 ## Dive Profile
 
@@ -52,7 +56,7 @@ Boat access from La Paz (approximately 45–60 minutes). Multiple La Paz operato
 
 ## Safety Considerations
 
-The San Lorenzo Channel carries tidal currents that can increase during tide changes. Dive with a local guide familiar with timing. A surface marker buoy is recommended. Penetration of the cargo hold is possible but requires a torch and appropriate training.
+The San Lorenzo Channel carries tidal currents that can increase during tide changes. Dive with a local guide familiar with timing. A surface marker buoy is recommended. Penetration of the cargo hold requires a torch and appropriate training.
 
 ---
-*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-05-17.*
+*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-06-14.*

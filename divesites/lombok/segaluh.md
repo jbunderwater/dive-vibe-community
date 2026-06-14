@@ -13,50 +13,26 @@ addedBy: osm_import
 
 ## Segaluh
 
-A reef site near Lombok's northeast coast with coral formations and diverse reef fish in a less-visited area beyond the main Gili Islands dive circuit.
+A reef site east of the Gili Islands near Lombok's north coast — no site-specific sources were found to independently verify this site.
 
 ## Overview
 
-Segaluh is a reef site in the northeast area beyond the main Gili Islands chain, lying in the waters closer to Lombok's north coast. The site is less frequented than the core Gili Islands sites, which contributes to healthy corals and more undisturbed fish behaviour. The reef features typical Indonesian tropical coral formations at 10–25 m with a range of reef fish, occasional turtles, and the biodiversity characteristic of Coral Triangle waters. It is accessible from Lombok operators as a day trip to this less-visited section of the region.
+Segaluh is listed in OSM data sourced from a local Diveschool Notice Board in the Gili Islands area. The coordinate (longitude 116.0982787) places this site notably east of the Gili Islands, closer to the northwest coast of Lombok. No dive operators or published dive site databases were found that list "Segaluh" as a named dive site during this QA pass. The site may be a local name used by a specific school or operator but is not corroborated by independent sources.
+
+The broader Lombok northwest coast area has documented reef diving — the Malimbu area (starfish.ch) includes a wall dive and coral blocks at 5–35 m with leaffish, moray eels, and stingrays. Whether Segaluh corresponds to one of these sites is not confirmed.
 
 ## Site Information
 
-- **Location**: North Lombok coast / east of Gili Islands
+- **Location**: East of Gili Islands, near Lombok northwest coast
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 m
-- **Current**: Moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Reef fish diversity typical of the region — parrotfish, triggerfish, surgeonfish, butterflyfish. Turtles graze the reef crest. Moray eels and grouper at depth. Reef sharks occasionally sighted on the outer slope. Nudibranchs and cleaner shrimps in the rubble zones.
-
-## Dive Profile
-
-Descend to the reef at 10–15 m and follow the slope to 25 m. Most of the productive reef life is concentrated between 8–18 m. Ascend gradually and complete a 3-minute safety stop.
-
-## Entry and Exit
-
-Boat from Lombok operators. Moderate current. Entry via back roll. SMB for ascent.
-
-## Tips and Recommendations
-
-- The less-visited character means more relaxed encounters with reef inhabitants
-- Combine with Teluk NBoro for a Lombok coastal dive day
-- A good site for advancing divers practicing coral reef navigation
-- The quieter conditions make this a good site for underwater photography practice
-- Ask local operators about recent specific sightings
-
-## Safety Considerations
-
-Standard intermediate reef precautions. Currents are moderate. Maintain buoyancy above coral. Always carry an SMB.
-
-## Photography
-
-Fish portraits benefit from the undisturbed nature of the reef — subjects are less wary. Turtle encounters with natural light. Nudibranchs in coral rubble for macro work.
+Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*

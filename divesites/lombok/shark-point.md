@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shark Point
 
-The northwest tip of Gili Trawangan — blacktip and whitetip reef sharks, a sunken tugboat, and some of the most productive shallow turtle habitat in the Gili Islands.
+The northwest tip of Gili Trawangan — blacktip and whitetip reef sharks, an intentionally sunk tugboat, and productive turtle habitat in the shallows.
 
 ## Overview
 
-Shark Point is the northwest headland of Gili Trawangan, where deep ridges and canyons meet the shallow inshore reefs and sea grass. Blacktip and whitetip reef sharks cruise the canyon systems at depth, while the shallower zone at 5–12 m supports impressive numbers of green turtles resting in the sea grass and coral bommies. A tugboat (Glenn Nusa) was intentionally sunk near the canyons and has become home to school fish and a resident reef shark. Accessible as a day trip from Lombok, this is considered one of the premier dive sites in the entire Gili Islands area.
+Shark Point is on the northwest or west side of Gili Trawangan, where a coral reef plateau at 10 m slopes to 18 m and gives way to rolling valleys running parallel to the shoreline that extend to 30 m and beyond. Blacktip and whitetip reef sharks cruise the deeper sections, while the shallower zone supports large numbers of green turtles. The Glenn Nusa, a 29 m tugboat intentionally sunk in February 2016 with big openings to allow penetration diving, lies upright on the sandy bottom between Halik and Shark Point at a maximum depth of 28 m, with the ship's chimney top at 21 m. The wreck has become home to batfish, snapper schools, blue-spotted stingrays, pipefish, leaf scorpionfish, nudibranchs, and whitetip reef sharks. Accessible as a day trip from Lombok, Shark Point is one of the premier dives in the Gili Islands area.
 
 ## Site Information
 
@@ -27,36 +27,36 @@ Shark Point is the northwest headland of Gili Trawangan, where deep ridges and c
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 m
-- **Current**: Strong; always a drift dive
+- **Current**: Strong; susceptible to current and wave conditions
 - **Best Time**: May to October
 
 ## Marine Life
 
-Blacktip and whitetip reef sharks in the canyon systems. Green turtles in large numbers on the shallow reef at 5–12 m. The Glenn Nusa tugboat wreck hosts schools of black snappers and sweetlips. Humpback snapper schools fill the canyon heads. Schools of jackfish at the headland.
+Blacktip and whitetip reef sharks in the deeper valley sections. Green turtles in large numbers on the shallow reef plateau at 10–18 m. The Glenn Nusa tugboat wreck hosts batfish, snapper schools, whitetip reef sharks, blue-spotted stingrays, pipefish, leaf scorpionfish, and nudibranchs. Humpback snapper, trevally, barracuda, anemone fish, ribbon eels, octopus, scorpionfish, and sea fans on the broader reef.
 
 ## Dive Profile
 
-Begin on the deep ridges at 20–25 m and ascend progressively through the canyon systems. Visit the Glenn Nusa wreck if conditions allow. Ascend to the shallow turtle zone at 5–12 m for the final portion of the dive before completing the safety stop.
+Begin on the reef plateau at 10–18 m and observe the turtle and reef shark activity. Advanced divers can descend the rolling valleys to 28 m to visit the Glenn Nusa wreck. Ascend to the shallow turtle zone at 10–18 m for the final portion of the dive before completing the safety stop.
 
 ## Entry and Exit
 
-Boat from Lombok or Gili Trawangan. Always a drift — enter upstream, pickup downstream. SMB essential.
+Boat from Lombok or Gili Trawangan. Conditions variable — site is susceptible to current and waves. SMB essential.
 
 ## Tips and Recommendations
 
-- Accessible from Lombok as a highlight day trip to Gili Trawangan
-- The 5–12 m turtle zone is an outstanding shallow experience capping a deep dive
-- Ask about the Glenn Nusa wreck location from your operator
-- Intermediate divers should focus on the shallower canyon sections; advanced divers can explore the deeper ridges
-- Dive on neap tides for more manageable current at the canyon entry
+- The Glenn Nusa wreck was intentionally sunk in February 2016 specifically to create an artificial reef — ask your operator about current conditions before attempting it
+- Penetration of the wreck requires wreck diving training and equipment
+- The shallow 10–18 m turtle zone is an outstanding experience accessible to intermediate divers
+- Intermediate divers should focus on the shallow plateau sections; advanced divers can explore the valley and wreck systems
+- Dive on neap tides for more manageable current
 
 ## Safety Considerations
 
-Strong current is always present. Do not attempt the deep canyons without Advanced Open Water certification. Always carry an SMB. Coordinate pickup point with the boat before descent.
+The site is susceptible to strong current and waves. Do not attempt the Glenn Nusa at 28 m without Advanced Open Water certification. Wreck penetration requires proper training. Always carry an SMB. Coordinate pickup point with the boat before descent.
 
 ## Photography
 
-Reef sharks at rest on canyon slopes are the signature photograph. Schools of black snappers around the Glenn Nusa wreck suit wide-angle. Turtle portraits in the shallow sea grass zone with natural light.
+Reef sharks at rest on the valley slopes. Turtles in the shallow plateau with natural light. The Glenn Nusa wreck suits wide-angle with strobes to capture the tugboat structure with marine life.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Terumbu Divers – Shark Point & Glenn Nusa](https://terumbudivers.com/sharks-lombok-gili-islands-diving/), [Dive Central Gili – Glenn Nusa](https://www.divecentralgili.com/blog/2822016). Last updated 2026-06-14.*

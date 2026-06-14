@@ -3,7 +3,7 @@ name: Ball's Pyramid
 lat: -31.7544
 lng: 159.2494
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 26
 entryType: boat
 siteType: wall
 ref: null
@@ -13,28 +13,28 @@ addedBy: osm_import
 
 ## Ball's Pyramid
 
-Ball's Pyramid is the world's tallest sea stack and Lord Howe Island's premier advanced wall dive site, located 26 kilometers offshore.
+Ball's Pyramid is the world's tallest sea stack — a monolithic volcanic pinnacle rising 562 metres from the ocean surface — and Lord Howe Island's most celebrated advanced dive site, located approximately 23 km southeast of the island.
 
 ## Overview
 
-Ball's Pyramid is an iconic advanced dive site featuring dramatic vertical walls and drift diving with exceptional pelagic fish activity. This site is only for experienced divers (Advanced or Deep certification required) and offers stunning encounters with large schools of fish and rare endemic species found nowhere else on Earth. Located 26km south of Lord Howe Island, trips are scheduled based on weather conditions and diver numbers.
+Dives at Ball's Pyramid are conducted around the base of the pinnacle, with two main areas: Observatory Rock and Sunken Rock (also called South East Rock). The site offers drift dives, cave diving through boulder-strewn gutters, and wall-following dives. Maximum depth reaches approximately 26 metres (top of submerged structures begins around 5 m). Visibility is typically 30–45 metres. Because trips depend on favourable weather and minimum diver numbers, Ball's Pyramid cannot be pre-booked — guests express interest on-island and are called if conditions allow. Advanced certification is required.
 
 ## Site Information
 
-- **Location**: Ball's Pyramid, 26km south of Lord Howe Island
+- **Location**: Approximately 23 km southeast of Lord Howe Island (50-minute boat ride)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Special Note**: Boat access weather-dependent; trips scheduled on availability
+- **Maximum Depth**: 26 meters
+- **Special Note**: Weather-dependent; trips organised on-island when conditions allow. Advanced or Deep certification required.
 
 ## Marine Life
 
-Ball's Pyramid is famous for hosting the endemic Ballina Angelfish—the world's rarest angelfish that is normally only found below 100 meters depth. Divers here encounter endless schools of pelagic fish including large schools of trevally and kingfish. Additional sightings include rays, sharks, fanning coral gardens, and diverse reef fish attracted to the rich ecosystem.
+Ball's Pyramid is one of only a handful of sites in the world where the Ballina Angelfish (*Genicanthus sp.*) can be observed by recreational scuba divers. This deep-water species is rarely seen at scuba depths, but at Sunken Rock the fish appear on ledge formations accessible to recreational divers. Schools of Galapagos sharks aggregate around the site — up to 60 individuals have been reported at the 5-metre safety stop. Other regular sightings include schools of Violet Sweep, Amberjack, Kingfish, Silver Drummer, Rainbow Runners, and Trevally. Large pelagic visitors such as Marlin, dolphins, and Wahoo appear seasonally. Slipper and painted rock lobsters shelter in the cave systems, with sea whips and black coral covering deeper sections of the wall.
 
 ## Dive Profile
 
-Dives at Ball's Pyramid vary between drift dives, cave dives, and wall-following dives. Most activity occurs between 10-25 meters. The site offers dramatic coral walls with fanning soft corals and constant pelagic fish action. Careful depth management and current awareness are essential. Many dives focus on the upper portions of the wall and surrounding pinnacles.
+Two main dive sites: **Observatory Rock** features a massive cave housing spiny and slipper lobsters, gutters filled with boulders, and walls covered in pelagic fish. **Sunken Rock** drops from 12 m to 36 m with bommies, gutters, and ledges where the Ballina Angelfish has been confirmed. Currents are variable and require zigzag navigation along the formations. The upper sections (5–15 m) see the densest fish aggregations; wall sections are most dramatic between 15–26 m. Free-water safety stops are common given the open-ocean setting.
 
 ---
-*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Lord Howe Island — lordhoweisland.info](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Ball's Pyramid — diveplanit.com](https://www.diveplanit.com/dive-site/balls-pyramid-lord-howe/), [Pro Dive Lord Howe — prodive.com.au](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Ball's Pyramid — Dive Lord Howe](https://divelordhowe.com/balls-pyramid/). Last updated 2026-06-14.*
