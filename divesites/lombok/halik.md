@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Halik
 
-A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, eagle rays, and good shark activity — accessible from Lombok operators.
+A 1 km drift reef running along the north to northwest side of Gili Trawangan — eagle rays, reef sharks, giant barrel sponges, and seasonal bumphead parrotfish.
 
 ## Overview
 
-Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
+Halik Reef runs approximately 1 km along the north to northwest side of Gili Trawangan, starting at around 6 m with enormous barrel sponges and gorgonian sea fans. A 3 m drop covered with coral leads to a varied reef system with anemone fields, gorgonian fans, and coral bommies. The consistent current makes this an ideal drift dive. Eagle rays and white and blacktip reef sharks are regularly encountered, along with large numbers of anemone fish (clownfish), schools of snapper and giant trevally, and turtles throughout. During full moons, bumphead parrotfish school at this site in large numbers. Deep Halik extends to 40 m with coral ridges and canyons for advanced divers. Note: Halik and Trawangan Wall describe overlapping sections of the same northwest Gili Trawangan reef — local operators consistently use the name Halik.
 
 ## Site Information
 
-- **Location**: Northwest Gili Trawangan, accessible from Lombok
+- **Location**: North to northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Intermediate (main reef 6–20 m); Advanced (Deep Halik to 40 m)
+- **Maximum Depth**: 20 meters (main dive); 40 meters (Deep Halik)
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
+- **Current**: Gentle to moderate; increases at spring tides
 - **Best Time**: May to October
 
 ## Marine Life
 
-Eagle rays in mid-water are a defining feature of this reef. White and blacktip reef sharks. Schools of snapper and giant trevally. Giant barrel sponges hosting shrimps and small fish. Extensive anemone fields with clownfish. Lionfish in overhangs. Turtles throughout.
+Eagle rays in mid-water are a regular and distinctive sighting. White and blacktip reef sharks on the outer reef. Schools of giant trevally hunting in the current. Large anemone fields with clownfish. Schools of snapper and fusiliers. Turtles throughout the reef. Lionfish in overhangs. Giant barrel sponges at 6–10 m. Bumphead parrotfish schooling in large numbers during full moons (seasonal, conditional sighting).
 
 ## Dive Profile
 
@@ -46,9 +46,9 @@ Boat from Lombok or Gili Trawangan operators. Drift entry and pickup. SMB mandat
 
 - Day trips from Lombok to the Gili Islands often include Halik as one of the featured sites
 - The giant barrel sponges at 6–10 m are worth slowing down to examine carefully
-- Eagle ray sightings are common enough to plan on them rather than hope for them
-- Accessible to intermediate Open Water divers in the 10–18 m range
-- Combine with Shark Point or Turtle Point for a full northwest Gili Trawangan day
+- Eagle ray sightings are common — plan on them as a regular feature
+- During full moons, bumphead parrotfish school here in large numbers
+- Deep Halik to 40 m is available for advanced divers with proper certification
 
 ## Safety Considerations
 
@@ -56,7 +56,7 @@ Drift current is always running. Do not fight against it. Be prepared to surface
 
 ## Photography
 
-Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
+Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large colourful anemones suit close-focus wide-angle compositions. Bumphead parrotfish schools on full moon dives require wide-angle and fast shutter.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Dive Central Gili – Halik blog](https://www.divecentralgili.com/blog/diveingilitrawangan), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Manta Dive Center Gili Air – dive site pages](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*

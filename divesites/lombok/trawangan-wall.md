@@ -13,17 +13,19 @@ addedBy: osm_import
 
 ## Trawangan Wall
 
-Also known as Halik Reef — a northwest Gili Trawangan drift wall with giant barrel sponges, eagle rays, and reef sharks for intermediate divers.
+A section of the northwest Gili Trawangan reef — this name is not consistently used by local operators, who list this area as part of Halik Reef.
 
 ## Overview
 
-Trawangan Wall (Halik Reef) runs along the northwest side of Gili Trawangan, starting at 6 m with enormous barrel sponges and gorgonian sea fans and extending down through ridges and canyons. The consistent current makes this an ideal drift dive where eagle rays, white and blacktip reef sharks, giant trevally, and schools of snapper are frequently encountered. Large anemone fields with clownfish are found throughout the upper reef sections. The site is dived from both Gili Trawangan and Lombok mainland operators as part of the broader Gili Islands dive circuit.
+Trawangan Wall describes the wall/drop-off sections of the northwest coast of Gili Trawangan. Local operators — including Dive Central Gili, Blue Marlin, Manta Dive, and Gili Divers — consistently list this reef system under the name Halik (or Deep Halik for the advanced sections). The coordinate for this OSM entry (116.0436) places it on the west face of Gili Trawangan, in the same area as Halik. It is possible that "Trawangan Wall" refers to the steeper wall sections of the Halik reef system, distinguished from the shallower drift sections, but this distinction does not appear in operator site listings. Divers visiting this location should expect the same conditions described for Halik.
+
+The reef runs from approximately 6 m with barrel sponges down through gorgonian-covered sections to 20–22 m on the wall face. Eagle rays, white and blacktip reef sharks, giant trevally, anemone fields, and turtles are the typical marine life.
 
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive (part of the Halik reef system)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m
@@ -32,31 +34,21 @@ Trawangan Wall (Halik Reef) runs along the northwest side of Gili Trawangan, sta
 
 ## Marine Life
 
-Eagle rays in mid-water — a regular and distinctive sighting. Blacktip and whitetip reef sharks on the outer reef. Giant trevally hunting in the current. Large anemone fields with clownfish. Schools of snapper and fusiliers. Lionfish in overhangs. Giant barrel sponges at 6–10 m are a prominent habitat feature. Turtles throughout.
+Eagle rays in mid-water. Blacktip and whitetip reef sharks. Giant trevally. Large anemone fields with clownfish. Schools of snapper and fusiliers. Giant barrel sponges at 6–10 m. Turtles throughout.
+
+Regional Coral Triangle species diversity applies. See also: Halik, which describes the same reef system in operator site listings.
 
 ## Dive Profile
 
-Descend at the upstream end and drift with the current along the northwest wall. Stay at 15–22 m to observe the gorgonians and reef sharks. Watch the mid-water for eagle rays. Ascend progressively toward the anemone zone at 6–10 m and complete the safety stop drifting with the current.
+Descend at the upstream end and drift with the current along the northwest wall. Stay at 15–22 m to observe the gorgonians and reef sharks. Ascend progressively toward the anemone zone at 6–10 m and complete the safety stop drifting with the current.
 
 ## Entry and Exit
 
 Boat from Gili Trawangan or Lombok operators. Drift pickup. Always carry an SMB.
 
-## Tips and Recommendations
-
-- Position at 20–22 m to maximise eagle ray and shark sightings in the open water
-- The giant barrel sponges are a landmark worth pausing to examine — host small fish communities
-- Accessible from Lombok as a day trip for divers staying on the mainland
-- Neap tides produce more manageable current for less experienced intermediate divers
-- Pair with Shark Point for a full northwest Gili Trawangan experience
-
 ## Safety Considerations
 
-Current is consistent and stronger on spring tides. Do not attempt the deep canyon sections below 25 m without Advanced certification. Eagle rays and reef sharks are non-aggressive. Always carry an SMB.
-
-## Photography
-
-Eagle ray silhouettes against blue water are the most sought-after image. Giant barrel sponge cross-sections with divers for scale. Clownfish in large anemones suit close-focus wide-angle.
+Current is consistent and stronger on spring tides. Eagle rays and reef sharks are non-aggressive. Always carry an SMB.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Note: "Trawangan Wall" as a named dive site does not appear in published local operator dive site listings, which consistently use the name "Halik" for this reef. This entry describes the same northwest Gili Trawangan wall system. Sources: [Dive Central Gili – Halik blog](https://www.divecentralgili.com/blog/diveingilitrawangan), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Manta Dive Center Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*

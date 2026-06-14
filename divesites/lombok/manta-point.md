@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Manta Point
 
-A southern Gili Islands drift site where reef manta rays seasonally visit — turtles and reef sharks accompany the gentle drift through healthy coral.
+A site south of Gili Trawangan, between Trawangan and Gili Meno, where reef manta rays seasonally visit a gentle reef slope — turtles and reef sharks are reliably present.
 
 ## Overview
 
-Manta Point is south of the Gili Islands chain, in the deeper channel waters where reef manta rays are occasionally encountered. Unlike the highly reliable manta sites at Nusa Penida, sightings here are seasonal and less predictable, making the quality of the coral reef diving itself the primary draw. The gentle drift current carries divers through the site at a comfortable pace, and turtles, reef sharks, and the full suite of Gili Islands reef species are reliably present. The site is accessible from Lombok's northwest coast operators.
+Manta Point lies south of Gili Trawangan, between Trawangan and Gili Meno, on a gently sloping reef rather than a strict drift channel. Reef manta rays visit seasonally — best chances are March through May, with February and June also offering good encounters; mantas can be seen sporadically year-round. Unlike the highly reliable manta sites at Nusa Penida, sightings here are less predictable, making the quality of the reef diving itself the primary draw. Turtles, reef sharks, and the full suite of Gili Islands reef species are reliably present. The site is accessible from Lombok's northwest coast operators.
 
 ## Site Information
 
-- **Location**: South of Gili Islands, near Lombok
+- **Location**: South of Gili Trawangan, between Trawangan and Gili Meno
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Reef slope (with occasional drift current)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate drift
-- **Best Time**: May to October (mantas most likely in season)
+- **Current**: Generally mild; moderate on occasion
+- **Best Time**: March–May (peak manta season); mantas possible year-round
 
 ## Marine Life
 
@@ -59,4 +59,4 @@ Standard drift dive precautions apply. Current is moderate. Maintain SMB carry. 
 Manta rays in shallow, bright water produce excellent natural light shots. Turtle portraits in the drift reef suit wide-angle. Open water shots with mantas require wide angle and clear conditions.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Manta Dive Gili Air – Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Dive SSI – Manta Point Gili Trawangan](https://www.divessi.com/en/mydiveguide/divesite/manta-point-gili-trawagan-dive-sunset-reef-bay-pt-t-is-lombok-indonesia-116747), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
