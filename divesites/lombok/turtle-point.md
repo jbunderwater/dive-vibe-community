@@ -2,7 +2,7 @@
 name: Turtle Point
 lat: -8.3427036
 lng: 116.0437832
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 35
 entryType: boat
 siteType: reef
@@ -17,14 +17,16 @@ A large underwater pinnacle north of Gili Meno where green and hawksbill turtles
 
 ## Overview
 
-Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle north of Gili Meno that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle rises from 35 m to 10 m at its shallowest and is used by both green and hawksbill turtles as a feeding and resting area. Beginners dive the 10–18 m sections comfortably while advanced divers can explore to 35 m. Multiple turtle encounters in a single dive are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip. Note: the Beginner difficulty rating reflects the accessible upper sections; the full pinnacle drop to 35 m is only for Advanced certified divers.
+Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle north of Gili Meno that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle rises from 35 m to 10 m at its shallowest and is used by both green and hawksbill turtles as a feeding and resting area. With a maximum depth of 35 m, Intermediate certification is the appropriate minimum — the full pinnacle profile exceeds Beginner limits. Multiple turtle encounters in a single dive are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip.
+
+**Note on location:** The OSM coordinate (116.0438) places this on/near the east coast of Gili Trawangan, but most operator sources describe Turtle Heaven/Turtle Point at the north or northeast of Gili Meno. GPS position should be verified with local operators.
 
 ## Site Information
 
 - **Location**: North of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef (pinnacle)
-- **Difficulty Level**: Beginner (upper sections 10–18 m); Advanced (full pinnacle to 35 m)
+- **Difficulty Level**: Intermediate (max depth 35 m exceeds Beginner limits; upper sections accessible to confident intermediates)
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; variable on the pinnacle
@@ -48,12 +50,12 @@ Boat from Lombok or Gili Trawangan operators. 10–15 minute transit. Descent on
 
 - Move very slowly along the pinnacle face — turtles stay if not startled
 - Multiple turtle encounters are common at this site
-- Beginners stay in the accessible 10–18 m zone; Advanced divers explore the deeper sections
+- Intermediate divers can access the upper sections to 18–22 m; Advanced divers explore the full pinnacle to 35 m
 - Combine with Meno Wall or Bounty Wreck for a Gili Meno diving day
 
 ## Safety Considerations
 
-Variable current on the pinnacle. Beginners must stay on the upper sections in calmer water and not exceed certification depth. Do not touch or chase turtles. Always carry an SMB.
+Variable current on the pinnacle. Intermediate divers should stay on the upper sections in calmer water and not exceed certification depth. The full pinnacle to 35 m requires Advanced certification. Do not touch or chase turtles. Always carry an SMB.
 
 ## Photography
 

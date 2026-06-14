@@ -21,7 +21,7 @@ Deep Turbo is a sea mound (pinnacle) north of Gili Trawangan, reserved for advan
 
 ## Site Information
 
-- **Location**: North of Gili Trawangan, offshore channel
+- **Location**: North of Gili Trawangan, on a sea mound
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/sea mound
 - **Difficulty Level**: Advanced
@@ -59,4 +59,4 @@ Strong current is the primary hazard. Be prepared to abort if conditions exceed 
 Bumphead parrotfish schools suit wide-angle and fast shutter speeds. Eagle rays in current against blue water. Pygmy seahorses on gorgonian fans require dedicated macro lens. Reef sharks with schooling fish in context.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*

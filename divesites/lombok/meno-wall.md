@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Meno Wall
 
-A steep coral wall on the west side of Gili Meno — one of the Gili Islands' best night dive sites and outstanding for turtles and macro life.
+A two-section coral wall on the northwest side of Gili Meno — one of the Gili Islands' best night dive sites, outstanding for turtles, bumphead parrotfish, and macro life.
 
 ## Overview
 

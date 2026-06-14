@@ -21,20 +21,18 @@ Air Wall drops vertically from 5 m to around 24–32 m, offering one of the most
 
 ## Site Information
 
-- **Location**: East side of Gili Air, Gili Islands / Lombok
+- **Location**: Gili Air (exact side disputed: southwest per manta-dive-giliair.com, northwest per terumbudivers.com, east per starfish.ch)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate (Beginner to Advanced sections available)
-- **Maximum Depth**: 22–24 meters
+- **Maximum Depth**: 24–32 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate to swift; suitable for drift diving
 - **Best Time**: May to October
 
 ## Marine Life
 
-Gorgonian sea fans and sea whips are a defining feature of the wall. Pygmy seahorses confirmed in the sea fans. Nudibranchs, octopus, and crustaceans in wall crevices. Banded pipefish, wire coral gobies, and juvenile sweetlips in the coral formations. Sea turtles, anemone fish, triggerfish, angelfish, and butterflyfish throughout. White-tipped reef sharks possible at depth.
-
-Regional Coral Triangle species diversity applies to broader fish community. Bumphead parrotfish are not confirmed as a regular sighting specific to this site.
+Gorgonian sea fans, sea whips, and soft corals are defining features of the wall. Pygmy seahorses confirmed among the sea fans. Nudibranchs, octopus, and crustaceans in wall crevices and overhangs. Banded pipefish, wire coral gobies, wire coral shrimps, painted lobsters, orangutan crabs, and juvenile sweetlips in the coral formations. Sea turtles, anemone fish, triggerfish, angelfish, and butterflyfish throughout. Whitetip reef sharks cruise the deeper sections. Note: bumphead parrotfish are NOT confirmed at this specific site — they are documented at Halik, not Air Wall.
 
 ## Dive Profile
 
@@ -60,4 +58,4 @@ Current can be swift on the wall's open eastern face. Stay alert to depth on the
 Gorgonian sea fans suit wide-angle close-focus with strobes. Pygmy seahorses on sea fan polyps require dedicated macro lens. Turtles on the reef crest in natural shallow light make excellent wide-angle subjects.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Air Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/air-wall-all-levels), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Air Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/air-wall-all-levels), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Divezone – Air Wall](https://divezone.net/divesite/air-wall), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*

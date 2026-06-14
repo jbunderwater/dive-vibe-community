@@ -32,7 +32,7 @@ Meno Slope is a gently inclining reef on the southern side of Gili Meno, offerin
 
 ## Marine Life
 
-Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
+Green and hawksbill turtles regularly seen on the reef crest. Scorpionfish well-camouflaged on the substrate. Moray eels in coral crevices. Grouper at depth. Nudibranchs and cleaner shrimps in the rubble zones. Leaf scorpionfish and stonefish present — look carefully on sandy areas. Eagle rays occasionally passing. Rhinopias (weedy scorpionfish) have been reported here — a rare and prized find. Frogfish among the rubble.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are generally mild but can increase at depth on the outer slope. Mainta
 Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Sources: [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – Meno Slope](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-slope-all-levels). Last updated 2026-06-14.*

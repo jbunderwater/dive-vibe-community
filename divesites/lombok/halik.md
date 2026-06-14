@@ -59,4 +59,4 @@ Drift current is always running. Do not fight against it. Be prepared to surface
 Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large colourful anemones suit close-focus wide-angle compositions. Bumphead parrotfish schools on full moon dives require wide-angle and fast shutter.
 
 ---
-*Sources: [Dive Central Gili – Halik blog](https://www.divecentralgili.com/blog/diveingilitrawangan), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Manta Dive Center Gili Air – dive site pages](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Halik](https://manta-dive-giliair.com/gili-islands-dive-sites/halik-all-levels), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Dive Central Gili – Halik](https://www.divecentralgili.com/blog/diveingilitrawangan). Last updated 2026-06-14.*

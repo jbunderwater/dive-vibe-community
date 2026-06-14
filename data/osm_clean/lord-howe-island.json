@@ -5,7 +5,7 @@
     "lon": 159.2494,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 26,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au,divelordhowe.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -23,14 +24,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 8,
-    "site_type": "cave",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,spacificatravel.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -56,15 +59,16 @@
     "lon": 159.0583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "prodive.com.au,diveplanit.com,adrex.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -73,7 +77,7 @@
     "lon": 159.0333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -90,7 +95,7 @@
     "lon": 159.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 36,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -98,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lordhoweisland.info,prodive.com.au,diveplanit.com",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -114,8 +120,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-06-14"
     }
   },
   {
@@ -132,7 +138,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "spacificatravel.com,lordhoweisland.info,pinetrees.com.au",
+      "last_qa_date": "2026-06-14"
     }
   }
 ]
