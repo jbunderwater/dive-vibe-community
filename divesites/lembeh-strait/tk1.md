@@ -32,7 +32,7 @@ The site presents a classic Lembeh muck profile: a gently sloping black volcanic
 
 ## Marine Life
 
-TK1 is particularly well-regarded for ornate ghost pipefish, which drift near feather stars and black-sand patches in a range of colour morphs — black, red, and spotted individuals are all regularly found here. Seahorses, including both thorny and Bargibant's pygmy seahorses (on fan corals), are consistent sightings. Nudibranchs are abundant and diverse, with chromodorids, phyllidiids, and aeolids all present across the slope. Frogfish occupy rubble patches and encrusted debris in multiple colour phases. Ribbon eels are occasionally spotted retreating into sand burrows, and juvenile fish of various species shelter in the low-profile rubble throughout the site.
+TK1 is particularly well-regarded for ornate ghost pipefish, which drift near feather stars and black-sand patches in a range of colour morphs — black, red, and spotted individuals are all regularly found here. Seahorses are consistent sightings, and dive-the-world.com notes mandarinfish (sea moths and dragonets) at the Teluk Kambahu area. Nudibranchs are abundant and diverse across the slope. Frogfish occupy rubble patches and encrusted debris in multiple colour phases. Scorpionfish and flying gurnards are documented at TK1. Ribbon eels are occasionally spotted retreating into sand burrows, and coconut octopus carrying shells are regularly found in the rubble zones. Banggai cardinalfish, which are endemic to the Banggai Archipelago but have been introduced to Lembeh through the aquarium trade, are also documented in the area.
 
 ## Dive Profile
 
