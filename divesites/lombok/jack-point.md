@@ -63,4 +63,4 @@ Deep site with strong currents and weather dependency. Do not exceed planned dep
 Schools of big-eye trevally and snappers against the ridge suit wide-angle. Reef sharks in mid-water against the blue. Eagle ray silhouettes in strong current.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Villa Almarik – Advanced Dives Gili Trawangan](https://www.almarik-lombok.com/news/advanced-dives-around-gili-trawangan/), [SSI Dive Guide](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Villa Almarik – Advanced Dives Around Gili Trawangan](https://www.almarik-lombok.com/news/advanced-dives-around-gili-trawangan/). Last updated 2026-06-14.*

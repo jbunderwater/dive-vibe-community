@@ -47,4 +47,4 @@ Descend to the structure and systematically explore it. Visit multiple nearby Bi
 Do not touch the metal frame. Maintain buoyancy. Lionfish venomous. The low-voltage current is safe for divers and marine life. Keep fins clear of growing coral on the frame.
 
 ---
-*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Blue Marlin Dive – Gili Dive Sites (BioRocks)](https://www.bluemarlindive.com/gili_dive_sites/), [Gili Divers – Bio Rocks](https://www.gilidivers.com/fun-dives/dive-sites). Note: Samba Vilas Biorock as an individually named site does not appear in operator dive site listings; the east coast Biorock cluster is confirmed collectively. Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*

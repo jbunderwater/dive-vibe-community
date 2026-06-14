@@ -35,4 +35,4 @@ The broader Lombok northwest coast area has documented reef diving — the Malim
 Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification.
 
 ---
-*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for Segaluh. Origin: OSM Diveschool Notice Board only. Last updated 2026-06-14.*
+*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*

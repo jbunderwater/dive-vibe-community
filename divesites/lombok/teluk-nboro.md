@@ -45,4 +45,4 @@ Descend to the sandy slope and move slowly searching the substrate for critters.
 Boat from Gili Islands or Lombok northwest coast. Short transit. Entry via back roll. Generally calm conditions in the bay.
 
 ---
-*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for the name "Teluk NBoro." Coordinate is consistent with the Teluk Nara muck dive area. Last updated 2026-06-14.*
+*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*

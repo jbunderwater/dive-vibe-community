@@ -35,4 +35,4 @@ The western approach to Gili Trawangan in this area generally features coral ree
 Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of a site named "Lombok Dive."
 
 ---
-*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for "Lombok Dive" as a named dive site. Last updated 2026-06-14.*
+*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*
