@@ -17,11 +17,11 @@ A two-section coral wall on the northwest side of Gili Meno — one of the Gili 
 
 ## Overview
 
-Meno Wall runs along the western side of Gili Meno, descending from 5 m through two steep wall sections separated by a sandy slope, reaching 22–25 m. Current varies greatly — from non-existent to some of the strongest in the Gilis — making the site suitable for drift diving when current is running. Hawksbill, green, and leatherback turtles are present in large numbers and the site is sometimes called Turtle Heaven by local operators. Night dives here are excellent — crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, and Spanish dancer nudibranchs become the main attraction. The wall is covered in soft corals and anemones, with moray eels, lionfish, scorpionfish, grouper, and bumphead parrotfish (visible in the blue water off the wall) regularly encountered. This is a macro photographer's favourite among Gili Meno sites.
+Meno Wall runs along the northwest side of Gili Meno, featuring two distinct wall sections: the first from 10–13 m, followed by a sandy ledge, then a second wall from 14–24 m. Current varies greatly — from non-existent to some of the strongest in the Gilis — making the site suitable for drift diving when current is running. Hawksbill, green, and leatherback turtles are present in large numbers and the site is sometimes called Turtle Heaven by local operators. Night dives here are excellent — crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, and Spanish dancer nudibranchs become the main attraction. The wall is covered in soft corals and anemones, with moray eels, lionfish, scorpionfish, grouper, and bumphead parrotfish (visible in the blue water off the wall) regularly encountered. This is a macro photographer's favourite among Gili Meno sites.
 
 ## Site Information
 
-- **Location**: West side of Gili Meno, Gili Islands / Lombok
+- **Location**: Northwest side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate (all levels per multiple operators)

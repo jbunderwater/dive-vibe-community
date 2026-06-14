@@ -59,4 +59,4 @@ Standard reef dive precautions. Currents are moderate. Lionfish in overhangs. Ma
 Cuttlefish and octopus over sandy substrate. Turtle portraits in natural light. Ghost pipefish require macro close-up. Clownfish in anemones for accessible portrait subjects.
 
 ---
-*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*

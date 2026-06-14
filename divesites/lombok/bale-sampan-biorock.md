@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bale Sampan Biorock
 
-A Biorock coral restoration structure on Gili Trawangan's east coast — accessible from Lombok day-trip boats and part of the world's second-largest Biorock project.
+A Biorock coral restoration structure on Gili Trawangan's east coast — accessible from Lombok day-trip boats and part of the Gili Eco Trust's reef restoration network.
 
 ## Overview
 
-Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the extensive network of more than 120 frames placed in the Gili Islands waters since 2006. The low-voltage electrical current stimulates coral growth five times faster than normal and improves bleaching survival rates. The structure is accessible from Lombok day-trip boats visiting the Gili Islands and is often included as a conservation-focused dive on multi-site itineraries. The east coast location provides sheltered diving with calm conditions and clear water.
+Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the Gili Eco Trust's ongoing reef restoration program that started in 2004. The low-voltage electrical current stimulates coral growth and improves bleaching survival rates. The Gili Islands Biorock network has grown to include well over 150 structures — one of the largest Biorock projects in the world. The structure is accessible from Lombok day-trip boats visiting the Gili Islands and is often included as a conservation-focused dive on multi-site itineraries. The east coast location provides sheltered diving with calm conditions and clear water.
 
 ## Site Information
 

@@ -60,4 +60,4 @@ Gentle conditions generally, but standard dive precautions apply. Maintain SMB c
 Manta rays in shallow, bright water suit wide-angle natural light shots. Turtle portraits on table coral reef. Staghorn coral fields with natural light at 5–15 m.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Sunset Reef/Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Terumbu Divers – Manta Rays in Gili Islands](https://terumbudivers.com/manta-ray-in-gili-islands-lombok-indonesia/). Note: manta ray season timing conflicts between sources. Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Dive SSI – Manta Point Gili Trawangan](https://www.divessi.com/en/mydiveguide/divesite/manta-point-gili-trawagan-dive-sunset-reef-bay-pt-t-is-lombok-indonesia-116747), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
