@@ -5,7 +5,7 @@ lng: 125.22
 difficulty: Intermediate
 maxDepth: 32
 entryType: boat
-siteType: muck
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Angel's Window
 
-Angel's Window is one of the most topographically distinctive muck diving sites in the Lembeh Strait, North Sulawesi, Indonesia. Unlike the purely flat sand slope sites that define most of the strait's diving, Angel's Window features a natural rock arch or window formation that gives the site its name and introduces reef-like structural elements into an otherwise muck-dominated environment. This hybrid character — muck sand slope combined with gorgonian-colonised rock structure — makes it one of the most varied dives in Lembeh.
+Angel's Window is a twin-peaked coral pinnacle off the north coast of Lembeh Island in the Lembeh Strait, North Sulawesi, Indonesia. The two peaks rise to within a metre of the surface, and a large cave at depth creates the "window" that gives the site its name — early morning sunlight shining through the cave opening inspired the description. This makes it one of the very few hard-structure sites in Lembeh and a sharp contrast to the black sand muck diving that characterises the rest of the strait.
 
 ## Overview
 
-The site descends to 32 meters, making it the deepest of the commonly dived Lembeh sites and the one that most demands careful dive planning. The upper portion of the dive involves the characteristic volcanic black sand slope, while the arch feature and associated rock structure at depth supports gorgonian sea fans and encrusted growth. This structural complexity adds species not typically found at pure muck sites. Visibility runs 8–15 meters. Currents are light to moderate. Water temperature averages 26–29°C year-round.
+The pinnacle's two peaks create complex topography: one side presents a coral slope that levels out onto a sand flat at about 15 metres; the other side drops as a wall to a shelf at 8 metres, then a plateau, then another drop-off reaching 20–32 metres. The cave swim-through runs through the deep end of the pinnacle at roughly 24–25 metres, exiting at up to 32 metres. The cave walls are heavily colonised by crinoids and featherstars, and the swim-through is suitable only for divers with excellent buoyancy control who can guarantee contact-free penetration. Visibility runs 8–15 metres; currents are light to moderate. Water temperature averages 26–29°C year-round.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, North Sulawesi, Indonesia
+- **Location**: Lembeh Strait, North Sulawesi, Indonesia (north coast of Lembeh Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Pinnacle with cave swim-through
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 8–15 meters (25–50 feet)
+- **Maximum Depth**: 32 metres (cave exit); pinnacle peaks within 1 m of surface
+- **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-The gorgonian sea fans at Angel's Window host pygmy seahorses — the site is one of the more reliable Lembeh locations for both Hippocampus bargibanti and H. denise species. Nudibranchs are abundant throughout the site across multiple families, with species diversity reflecting the mixed habitat. The rock arch and associated structural growth attract species that prefer hard substrate: lionfish and other scorpionfish species shelter in crevices, small reef fish including hawkfish perch on fan coral branches, and various shrimp and crab species colonise the encrusted surfaces. The surrounding muck slope delivers the standard Lembeh muck complement: frogfish, ghost pipefish, mantis shrimp, octopus, and sand-dwelling gobies with their commensal shrimps.
+Angel's Window is one of the more reliable sites in the northern Lembeh Strait for pygmy seahorses — four species have been documented here: Hippocampus bargibanti, H. denise, H. pontohi, and H. severnsi on the gorgonian sea fans. Leaf scorpionfish are found on the pinnacle structure. Schooling fish use the pinnacle as a reference point. Various nudibranchs colonise the encrusted surfaces. The surrounding sand and rubble areas at the pinnacle base produce muck-diving critters including octopus, cuttlefish, and frogfish, giving the site a genuinely hybrid character. No site-specific marine life data was available beyond these confirmed sightings.
 
 ## Dive Profile
 
-This is a dive that benefits from a structured approach due to its depth. Descend directly to the arch feature and the deeper fan coral zones around 25–32 meters, and spend the first portion of the dive working the structural elements where pygmy seahorses and structural species are found. Then ascend to the mid-slope (15–22 meters) for classic muck diving, and finish in the shallower zones above 12 meters. Monitor air and no-decompression limits carefully — the 32-meter maximum means NDL limits will restrict bottom time at the arch, so prioritise time there first.
+Descend directly to the cave at depth (24–32 metres) to work the gorgonian fans for pygmy seahorses and explore the cave mouth (swim-through is optional and requires solid buoyancy). Ascend to the wall on the deeper side, then transition to the coral slope, working back up through decreasing depth. Finish the dive on the pinnacle's shallower side and the surrounding sand flat for muck critters. Monitor no-decompression limits carefully — the 32-metre maximum means NDL limits will restrict bottom time at depth.
 
 ## Entry and Exit
 
-Access by banca boat. Back roll or giant stride entry. The guide descends to the arch first; follow closely as the window formation is the navigational anchor for the dive. Surface with SMB deployed — particularly important at this site given the deeper profile and longer ascent time required.
+Access by banca boat; the resort describes a 20-minute boat ride. The pinnacle peaks are close to the surface, so entry is straightforward and the site is easy to locate. The guide descends first to find the cave and the gorgonian fans. Surface with SMB deployed — particularly important given the deeper profile and mandatory 3–5 minute safety stop.
 
 ## Tips and Recommendations
 
-- Brief your guide explicitly on pygmy seahorse as a target before descending; without a guide to find them on the specific gorgonian fans, they are effectively impossible to locate
-- The arch formation itself is a photographic landmark — spend time framing compositions through the window before moving on to the muck slope
-- At 32 meters maximum depth, no-decompression limits on a standard recreational dive computer will restrict bottom time at the deepest zone to around 20–25 minutes on a first dive; plan accordingly
-- Angel's Window rewards divers who start deep and finish shallow — do not spend too long on the sand slope first or you will run out of NDL before reaching the arch
-- The hybrid muck-reef character makes this an excellent final dive of a Lembeh trip for divers who want to sample something different after days of pure sand-slope muck diving
+- Brief your guide for pygmy seahorses on the gorgonians before descending; without a guide finding the specific fan corals that host resident animals, they are effectively invisible
+- The cave swim-through should only be attempted by divers confident they can pass through without touching the crinoid-covered walls; a flooded-out diver will damage the structure
+- Angel's Window is unusual for Lembeh in being primarily a structural/pinnacle dive — a wide-angle lens is justified here alongside macro
+- At 32 metres maximum depth with a cave at 24–25 metres, plan the dive deep-first and ascend slowly; do not spend time on the sand flat before the cave or you will use NDL budget at the least interesting part of the dive
+- The site is 20 minutes by boat — combine with a nearby muck site rather than treating it as a day-trip destination on its own
 
 ## Safety Considerations
 
-The 32-meter depth makes this the most demanding site described here and requires solid intermediate dive skills. Monitor no-decompression limits carefully, particularly if this is a second or third dive of the day. Ascend slowly from depth and complete a 3–5 minute safety stop at 5 meters without exception. Lionfish and scorpionfish in the structural zones are venomous — maintain distance and do not reach into crevices. Carry an SMB for signalling on a longer ascent.
+The cave swim-through requires confirmed buoyancy competence; crinoids and featherstars on the walls are fragile and provide no handhold. Do not enter the cave unless you are certain of contact-free passage. Monitor no-decompression limits at depth. Lionfish and scorpionfish shelter in structural crevices — do not reach into cracks. Carry an SMB and complete a mandatory safety stop; the deeper exit profile makes this non-negotiable. Currents can be moderate on the wall side.
 
 ## Photography
 
-Angel's Window offers the widest photographic range of any site in this collection. The arch formation allows close-focus wide-angle compositions framing divers or the structural silhouette against the water column above. The gorgonian zones call for supermacro technique for pygmy seahorses. The muck slope provides all the standard macro subjects. Photographers with a single lens choice should use a 100mm macro — the pygmy seahorse sightings at the arch justify the supermacro setup, and it covers the muck slope subjects effectively. A second dive with a wide-angle lens for the arch itself is worth planning for photographers who want to do the site justice.
+Angel's Window offers the widest photographic range of any site described here. The cave mouth, with ambient light filtering through from the far end, is one of the few opportunities for wide-angle architectural photography in the Lembeh Strait. Pygmy seahorses demand supermacro technique with dioptre attachments — Pontohi pygmy seahorses in particular are tiny (under 1.5 cm) and require extreme patience. The pinnacle silhouette against the open water column can be framed from below for dramatic structural shots. Leaf scorpionfish against encrusted rock are classic macro subjects.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*
+*Sources: [Lembeh Resort – Angel's Window](https://www.lembehresort.com/divesites/angels-window), [NAD-Lembeh – Angel's Window](https://www.nad-lembeh.com/blog/dive-sites-2/lembeh-divesites-angels-window/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Original Diving – Angel's Window](https://www.originaldiving.com/far-east/indonesia/dive-northern-sulawesi/angels-window-dive-site), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-06-14.*
