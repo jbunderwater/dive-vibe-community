@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Air Wall
 
-Gili Air's signature wall dive on the island's eastern side — rare gorgonian sea fans, pygmy seahorses, and a vertical drop to 24 m.
+Gili Air's signature wall dive — gorgonian sea fans, pygmy seahorses, nudibranchs, and a vertical drop to 24–32 m. Note: sources conflict on which side of Gili Air (southwest, northwest, or east) the wall lies.
 
 ## Overview
 
-Air Wall runs along the eastern side of Gili Air and drops vertically from 5 m to around 24 m, offering one of the most scenic wall dives accessible from Lombok and the Gili Islands. The wall is notable for hosting rare gorgonian sea fans and sea whips, with pygmy seahorses confirmed among the sea fans. A swift current can run along the wall, making it suitable for drift diving and concentrating fish life. The dive starts on a sandy slope transitioning to coral bommies before the wall face begins. Overhangs provide shelter for nudibranchs, octopus, crustaceans, banded pipefish, juvenile sweetlips, and wire coral gobies. Turtles, anemone fish, triggerfish, angelfish, and butterflyfish are regularly encountered throughout.
+Air Wall drops vertically from 5 m to around 24–32 m, offering one of the most scenic wall dives accessible from Lombok and the Gili Islands. Sources differ on its precise position — manta-dive-giliair.com describes it as the southwest side of Gili Air, terumbudivers.com says northwest, and starfish.ch places it on the eastern side. The wall is notable for gorgonian sea fans and sea whips, with pygmy seahorses confirmed among the sea fans. A swift current can run along the wall, making it suitable for drift diving and concentrating fish life. The dive starts on a sandy slope transitioning to coral bommies before the wall face begins. Overhangs and crevices shelter nudibranchs, octopus, crustaceans, banded pipefish, juvenile sweetlips, wire coral gobies, wire coral shrimps, painted lobsters, and orangutan crabs. Turtles, anemone fish, triggerfish, angelfish, and butterflyfish are regularly encountered throughout, and whitetip reef sharks cruise the deeper sections.
 
 ## Site Information
 
