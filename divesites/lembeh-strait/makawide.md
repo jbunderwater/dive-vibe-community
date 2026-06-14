@@ -23,9 +23,9 @@ The Makawide slope descends gradually to 24–29 metres (sources give varying ma
 
 - **Location**: Lembeh Strait, North Sulawesi, Indonesia (named after the nearby village of Makawide)
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive with coral patches
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24–29 metres (varies by area)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions

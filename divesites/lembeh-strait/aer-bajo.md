@@ -25,7 +25,7 @@ Aer Bajo presents classic Lembeh muck: volcanic black sand and rubble slope on t
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 metres
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light; well-sheltered; minimal tidal influence
 - **Best Time**: Year-round; excellent for night dives

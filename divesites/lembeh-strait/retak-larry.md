@@ -25,7 +25,7 @@ Retak Larry runs along a sand and rubble muck slope on the Bitung side of the st
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18–20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Very light; well-sheltered site
 - **Best Time**: Year-round; daytime for mimic octopus; night dives for nocturnal species

@@ -23,9 +23,9 @@ The pinnacle's two peaks create complex topography: one side presents a coral sl
 
 - **Location**: Lembeh Strait, North Sulawesi, Indonesia (north coast of Lembeh Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with cave swim-through
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 metres (cave exit); pinnacle peaks within 1 m of surface
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions

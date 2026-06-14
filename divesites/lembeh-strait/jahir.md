@@ -25,7 +25,7 @@ Jahir runs along a sloping black volcanic sand bottom with scattered coral block
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 metres (sources report 28–30 m; slope may continue deeper)
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light; occasionally moderate
 - **Best Time**: Year-round; October to May for calmest conditions

@@ -25,7 +25,7 @@ Hairball runs along a gently sloping black volcanic sand bottom scattered with s
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 metres
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Usually mild; occasionally light drift due to the site's exposed point position
 - **Best Time**: Year-round; October to May for calmest conditions

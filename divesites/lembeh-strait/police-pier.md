@@ -22,10 +22,10 @@ The site is dominated by sandy black volcanic bottom ranging 5–15 metres in de
 ## Site Information
 
 - **Location**: Lembeh Strait, North Sulawesi, Indonesia
-- **Entry Type**: Boat dive (shore entry reported by some operators)
-- **Site Type**: Muck dive (pier and sandy slope)
+- **Entry Type**: Boat dive
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Minimal; well-sheltered
 - **Best Time**: Year-round; night dives are the highlight

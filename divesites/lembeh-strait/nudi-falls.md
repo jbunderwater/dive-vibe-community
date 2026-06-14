@@ -23,9 +23,9 @@ The site's defining feature is the vertical rock wall, which is encrusted with a
 
 - **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with sand slope below
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 metres
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light to moderate; occasionally stronger
 - **Best Time**: Year-round; October to May for calmest seas
