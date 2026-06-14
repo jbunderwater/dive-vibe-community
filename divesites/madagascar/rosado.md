@@ -27,9 +27,9 @@ Whale sharks visit the broader Nosy Be area during October and November, and thi
 
 - **Location**: Nosy Be, northwest Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef plateau (gorgonian-rich)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 19 metres
+- **Maximum Depth**: 19 meters
 
 ---
 *Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Sakalav Diving Nosy Be](https://sakalavdiving.com/GB-scuba-diving.htm). Last updated 2026-06-14.*

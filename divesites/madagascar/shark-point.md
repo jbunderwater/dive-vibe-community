@@ -27,9 +27,9 @@ Conditions are current-dependent. One local source notes the site is accessible 
 
 - **Location**: Nosy Be, northwest Madagascar (approximately 21 km offshore)
 - **Entry Type**: Boat dive
-- **Site Type**: Oceanic wall / drop-off
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 metres (wall top at ~18 m; wall continues to 50 m+)
+- **Maximum Depth**: 35 meters
 
 ---
 *Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Last updated 2026-06-14.*

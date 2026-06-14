@@ -17,9 +17,9 @@ A large underwater pinnacle north of Gili Meno where green and hawksbill turtles
 
 ## Overview
 
-Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle north of Gili Meno that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle rises from 35 m to 10 m at its shallowest and is used by both green and hawksbill turtles as a feeding and resting area. With a maximum depth of 35 m, Intermediate certification is the appropriate minimum — the full pinnacle profile exceeds Beginner limits. Multiple turtle encounters in a single dive are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip.
+Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle at the north side of Gili Meno that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle rises from 35 m to 10 m at its shallowest and is used by both green and hawksbill turtles as a feeding and resting area. With a maximum depth of 35 m, Intermediate certification is the appropriate minimum — the full pinnacle profile exceeds Beginner limits. Multiple turtle encounters in a single dive are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip.
 
-**Note on location:** The OSM coordinate (116.0438) places this on/near the east coast of Gili Trawangan, but most operator sources describe Turtle Heaven/Turtle Point at the north or northeast of Gili Meno. GPS position should be verified with local operators.
+**Note on location:** OSM coordinates place this entry near the east coast of Gili Trawangan, but multiple dive operators (trawangandive.com, gilidivers.com, terumbudivers.com) identify Turtle Heaven/Turtle Point at the north side of Gili Meno. The commonly identified Turtle Heaven location at north Gili Meno may differ from the OSM coordinate. GPS verification with local operators is recommended.
 
 ## Site Information
 

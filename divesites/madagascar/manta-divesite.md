@@ -29,9 +29,9 @@ The site is not a wall dive — it is an open sandy plateau with low coral relie
 
 - **Location**: Nosy Be, northwest Madagascar (approximately 16 km offshore, 35 min by speedboat)
 - **Entry Type**: Boat dive
-- **Site Type**: Sandy reef plateau / cleaning station
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 metres
+- **Maximum Depth**: 21 meters
 
 ---
 *Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [Island Stays](https://www.islandstays.co.za/post/scuba-diving-at-nosy-be-madagascar), [Baleine Randeau Madagascar](https://baleinesrandeau.com/en/espece/manta-ray/), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Last updated 2026-06-14.*
