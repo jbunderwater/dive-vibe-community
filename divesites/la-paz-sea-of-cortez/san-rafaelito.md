@@ -23,7 +23,7 @@ San Rafaelito is a small rocky islet located north of La Paz, close to Pichiling
 
 - **Location**: North of La Paz Bay, near Pichilingue, Sea of Cortez
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 

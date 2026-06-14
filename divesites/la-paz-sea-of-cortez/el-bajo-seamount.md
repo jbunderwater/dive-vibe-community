@@ -23,7 +23,7 @@ El Bajo is a group of three isolated underwater pinnacles within Espiritu Santo 
 
 - **Location**: Espiritu Santo National Park, approximately 8 miles (13 km) north-northeast of La Paz
 - **Entry Type**: Boat dive
-- **Site Type**: Seamount / pinnacle
+- **Site Type**: Seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 
