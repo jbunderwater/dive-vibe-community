@@ -23,9 +23,9 @@ Malabar is not a single site but a cluster of related reef systems, including Ma
 
 - **Location**: Northern face of Lord Howe Island
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with archways, swim-throughs, and ledges
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 metres
+- **Maximum Depth**: 21 meters
 
 ## Marine Life
 

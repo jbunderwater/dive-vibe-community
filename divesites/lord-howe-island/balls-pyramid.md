@@ -23,9 +23,9 @@ Dives at Ball's Pyramid are conducted around the base of the pinnacle, with two 
 
 - **Location**: Approximately 23 km southeast of Lord Howe Island (50-minute boat ride)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / pinnacle with cave systems
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 metres
+- **Maximum Depth**: 26 meters
 - **Special Note**: Weather-dependent; trips organised on-island when conditions allow. Advanced or Deep certification required.
 
 ## Marine Life

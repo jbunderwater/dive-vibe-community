@@ -23,9 +23,9 @@ Tenth of June exists in two dive modes often treated as separate sites: the **Bo
 
 - **Location**: Admiralty Islets, approximately 15 minutes north of Lord Howe Island
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with deep plateau and swim-throughs
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 36 metres
+- **Maximum Depth**: 36 meters
 - **Special Note**: Two variants — Tenth of June Bombora (7–18 m, suitable for Intermediate) and Tenth of June Deep (20–36 m, Advanced)
 
 ## Marine Life

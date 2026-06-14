@@ -23,9 +23,9 @@ Located just minutes from the boatshed within the shelter of the lagoon, Comets 
 
 - **Location**: Within Lord Howe Island lagoon (house reef), minutes from the boatshed
 - **Entry Type**: Shore entry
-- **Site Type**: Freshwater-formed lagoon reef hole
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7 metres
+- **Maximum Depth**: 7 meters
 - **Coral Wall**: 3–4 metre high coral reef wall surrounding the hole
 
 ## Marine Life

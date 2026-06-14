@@ -23,9 +23,9 @@ North Bay is primarily known as a snorkelling and freediving location centred on
 
 - **Location**: North Bay, northern coast of Lord Howe Island
 - **Entry Type**: Boat dive
-- **Site Type**: Wall (unverified — see Overview)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres (unverified)
+- **Maximum Depth**: 25 meters
 - **Note**: Validation pending — no site-specific scuba sources found as of 2026-06-14
 
 ## Marine Life

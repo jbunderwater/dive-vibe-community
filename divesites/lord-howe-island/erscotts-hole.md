@@ -23,9 +23,9 @@ Erscott's Hole sits within the protected lagoon, surrounded by an otherwise very
 
 - **Location**: Inside Lord Howe Island lagoon, 5-minute boat ride from the boatshed
 - **Entry Type**: Boat dive
-- **Site Type**: Lagoon reef hole
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 metres
+- **Maximum Depth**: 8 meters
 
 ## Marine Life
 

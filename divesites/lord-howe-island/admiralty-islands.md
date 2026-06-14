@@ -23,9 +23,9 @@ The Admiralty Islands group — which includes Sugarloaf, Noddy, Ruperts, Ryans,
 
 - **Location**: Approximately 15 minutes north of Lord Howe Island by boat
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle / varied terrain (walls, bommies, ridges, caves)
-- **Difficulty Level**: Intermediate (some sites Advanced)
-- **Maximum Depth**: 35 metres (varies by specific site)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
 - **Special Note**: Approximately 25 individually named dive sites across the island group
 
 ## Marine Life
