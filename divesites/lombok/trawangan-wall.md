@@ -17,13 +17,15 @@ A section of the northwest Gili Trawangan reef — this name is not consistently
 
 ## Overview
 
-Trawangan Wall describes the wall/drop-off sections of the northwest coast of Gili Trawangan. Local operators — including Dive Central Gili, Blue Marlin, Manta Dive, and Gili Divers — consistently list this reef system under the name Halik (or Deep Halik for the advanced sections). The coordinate for this OSM entry (116.0436) places it on the west face of Gili Trawangan, in the same area as Halik. It is possible that "Trawangan Wall" refers to the steeper wall sections of the Halik reef system, distinguished from the shallower drift sections, but this distinction does not appear in operator site listings. Divers visiting this location should expect the same conditions described for Halik.
+Trawangan Wall is listed in OSM data under coordinates (lat -8.3466, lon 116.0436), which places it on the east coast of Gili Trawangan — near the cluster of Biorock structures — rather than on the northwest wall commonly associated with Halik. This is an important distinction: if the coordinates are accurate, "Trawangan Wall" refers to the protected east coast of Gili Trawangan, a gentler dive compared to the current-swept northwest side. The northwest wall is consistently listed by local operators as Halik or Deep Halik, not Trawangan Wall.
 
-The reef runs from approximately 6 m with barrel sponges down through gorgonian-covered sections to 20–22 m on the wall face. Eagle rays, white and blacktip reef sharks, giant trevally, anemone fields, and turtles are the typical marine life.
+The east coast location near the Biorock structures would feature calmer conditions, shallower depths, and reef structures growing on the sandy slope in the 5–22 m range. If this is correct, the site character differs significantly from the pelagic-rich northwest wall.
+
+**Note:** "Trawangan Wall" as a named site does not appear consistently in local operator listings. Whether this refers to the east coast Biorock area or a section of the northwest Halik reef is unresolved. The OSM coordinates place it firmly on the east coast, near the Biorock cluster.
 
 ## Site Information
 
-- **Location**: Northwest Gili Trawangan, accessible from Lombok
+- **Location**: East coast of Gili Trawangan (OSM coordinates), near the Biorock cluster — distinct from the northwest Halik/Trawangan Wall area referenced by most operators
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
