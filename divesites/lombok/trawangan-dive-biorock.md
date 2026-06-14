@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Trawangan Dive Biorock
 
-The Trawangan Dive operation's flagship Biorock structure on Gili Trawangan's house reef — a conservation education centerpiece accessible from Lombok.
+A Biorock coral restoration structure associated with the Trawangan Dive operation on Gili Trawangan's east coast.
 
 ## Overview
 
-Trawangan Dive Biorock is the coral restoration structure operated by Trawangan Dive, one of the most conservation-active dive operators in the Gili Islands. Supported by the Gili Eco Trust, this structure has been developing for years as part of the Biorock network that has transformed the reef ecology of the Gili Islands. The structure offers Biorock specialty course activities including coral gardening, monitoring, and maintenance. Accessible from Lombok as part of a Gili Islands day trip.
+Trawangan Dive Biorock is named after Trawangan Dive, a dive operator active in the Gili Islands conservation scene. It is part of the east coast Gili Trawangan Biorock cluster supported by the Gili Eco Trust. The Biorock program began in 2004 and grew to over 110 structures by 2016, creating one of the world's largest Biorock restoration sites. Each structure uses low-voltage electrical current to accelerate coral growth and improve bleaching resilience.
+
+As a named individual dive site, "Trawangan Dive Biorock" does not appear in published operator site listings, which list the east coast structures collectively as "BioRocks." The Biorock specialty course and coral gardening activities are associated with conservation-active operators in the Gili Islands.
 
 ## Site Information
 
-- **Location**: East coast Gili Trawangan (house reef), accessible from Lombok
+- **Location**: East coast Gili Trawangan (house reef area), accessible from Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,31 +34,13 @@ Trawangan Dive Biorock is the coral restoration structure operated by Trawangan 
 
 ## Marine Life
 
-A maturing artificial reef community including lionfish, batfish, pufferfish, and sweetlips. Turtles visit regularly. Cuttlefish are sometimes seen near the structure. Nudibranchs and cleaner shrimps on the coral crevices.
+A maturing artificial reef community including lionfish, batfish, pufferfish, sweetlips, and trumpetfish. Turtles visit regularly. Nudibranchs and cleaner shrimps on the coral crevices.
 
-## Dive Profile
-
-Descend to the Biorock structure and circle it systematically. Extend the dive to the adjacent natural house reef. Total dive 40–55 minutes. Standard safety stop.
-
-## Entry and Exit
-
-Boat from Lombok or direct from Trawangan Dive's Gili Trawangan location. Calm east coast conditions. Accessible as a shore dive for those based at the dive centre.
-
-## Tips and Recommendations
-
-- The Biorock speciality course at Trawangan Dive provides hands-on reef restoration participation
-- Include in a Lombok day trip to understand the conservation efforts behind the Gili Islands' reef health
-- Night dives on the house reef add a different wildlife perspective to the Biorock visit
-- The structure is close enough to the beach for snorkelling in the shallows
-- Multiple east coast structures can be combined in a single dive starting here
+Regional Coral Triangle species diversity applies to the broader east coast reef. Cuttlefish mentioned in some sources for the east coast Gili Trawangan area.
 
 ## Safety Considerations
 
-Standard Biorock structure precautions. Do not touch the frame. Maintain buoyancy. Lionfish present and venomous. Low-voltage current is safe.
-
-## Photography
-
-Conservation documentation photography. Fish communities in the reef-covered structure. Macro on encrusting coral growth details.
+Do not touch the metal frame. Maintain buoyancy. Lionfish present and venomous. Low-voltage current is safe for divers.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust), [Blue Marlin Dive – Gili Dive Sites (BioRocks)](https://www.bluemarlindive.com/gili_dive_sites/), [Gili Divers – Bio Rocks](https://www.gilidivers.com/fun-dives/dive-sites). Note: Trawangan Dive Biorock as an individually named site does not appear in operator dive site listings. Last updated 2026-06-14.*

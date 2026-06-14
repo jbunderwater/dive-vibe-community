@@ -60,4 +60,4 @@ Depth requires advanced certification and careful gas management. Strong current
 Giant gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels. The ridge system with soft coral suits strobe-lit wide-angle.
 
 ---
-*Sources: [Manta Dive Center Gili Air – Takat Malang](https://manta-dive-giliair.com/gili-islands-dive-sites/malang-reef-advanced-and-above), [Blue Marlin Dive – Gili Dive Sites](https://www.bluemarlindive.com/gili_dive_sites/), [Starfish.ch – Lombok dive sites](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Takat Malang](https://manta-dive-giliair.com/gili-islands-dive-sites/malang-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*
