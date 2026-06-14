@@ -19,7 +19,7 @@ Named for a large rock formation whose profile resembles a surfacing whale. Loca
 
 - **Location**: Start of the Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / rocky reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 meters

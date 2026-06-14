@@ -62,4 +62,4 @@ Maintain positive buoyancy above the sand at all times — stonefish and scorpio
 Frogfish in their full cryptic context. Ghost pipefish suit 100 mm macro lens. Nudibranchs reward macro with diopter for detail. Scorpionfish portraits on the coral block surface.
 
 ---
-*Sources: [Starfish.ch – Lombok and Gili Islands dive sites](https://www.starfish.ch/dive/Lombok.html), [SSI Dive Guide – Frogfish Point](https://www.divessi.com/en/mydiveguide/divesite/frogfish-point-indonesia-77894), [Manta Dive – Gili Dive Sites overview](https://manta-dive.com/diving-the-gilis/gili-dive-sites/). Last updated 2026-06-14.*
+*Sources: [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html), [Diversion Dive Travel – Frogfish Point](https://www.diversiondivetravel.com.au/g708/diving_frogfish_point.html), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*

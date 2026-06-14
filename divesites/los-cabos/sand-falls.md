@@ -19,7 +19,7 @@ One of the most unusual underwater features in the world — rivers of sand casc
 
 - **Location**: Cabo San Lucas Marine Park, canyon edge near Pelican Rock
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (submarine canyon rim)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (can drop to 10–15 meters after swell)

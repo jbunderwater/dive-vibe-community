@@ -18,10 +18,10 @@ A steep rocky pinnacle rising above the bay surface, capping a dramatic wall tha
 ## Site Information
 
 - **Location**: Cabo San Lucas Marine Park
-- **Entry Type**: Boat dive (approximately 6 minutes from the marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate (Advanced for deep sections below 30 m)
-- **Maximum Depth**: 33 meters (wall continues deeper)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 10–25 meters
 - **Current**: Mild to moderate
 - **Best Time**: September to November

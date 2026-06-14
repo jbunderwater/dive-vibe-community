@@ -19,7 +19,7 @@ One of the most popular reef sites along the Corridor, known for relatively heal
 
 - **Location**: The Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (finger reefs with sand channels)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 meters

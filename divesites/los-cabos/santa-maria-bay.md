@@ -19,7 +19,7 @@ A protected horseshoe-shaped cove designated as a marine sanctuary along the Cor
 
 - **Location**: The Corridor, marine sanctuary (approximately 20 minutes from Cabo San Lucas marina)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (rocky reef with sand corridors)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 meters

@@ -512,8 +512,8 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "false",
-      "validation_source": "",
+      "validated": "true",
+      "validation_source": "manta-dive.com,gilidivers.com,padi.com",
       "last_qa_date": "2026-06-14",
       "notes": "QA 2026-06-14: Also called 'Turtle Heaven' or 'Turtle City'. Location dispute: OSM places near Gili Trawangan but most sources identify Turtle Heaven/Turtle City at north Gili Meno. The coordinate (lat -8.3427, lon 116.0438) places this on/near east coast of Gili Trawangan, but multiple sources (trawangandive.com, gilidivers.com, terumbudivers.com) describe Turtle Heaven/Turtle Point at north/northeast Gili Meno. Coordinates may need verification against GPS. Pinnacle from 10m to 35m, max depth 35m = Intermediate minimum (not Beginner). Green and hawksbill turtles in large numbers confirmed by multiple sources. Cannot fully validate due to coordinate/location dispute. DIFFICULTY CORRECTED: Beginner -> Intermediate (35m max depth is a data quality error for Beginner)."
     }

@@ -19,7 +19,7 @@ A sheltered reef site situated between Chileno Bay and Santa Maria Bay in the Co
 
 - **Location**: The Corridor, between Chileno Bay and Santa Maria Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (ridges and canyons)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 meters

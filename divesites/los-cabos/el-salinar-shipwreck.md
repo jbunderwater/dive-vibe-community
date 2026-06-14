@@ -20,8 +20,8 @@ A shipwreck of unidentified origin resting in three large sections on a sandy bo
 - **Location**: Near San Jose del Cabo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner to Intermediate
-- **Maximum Depth**: 12 meters (approximately 40 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Usually light
 - **Best Time**: Year-round

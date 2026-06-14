@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Gordo Banks
 
-A submerged seamount approximately 13 kilometers offshore from San Jose del Cabo. The peak rises to about 30 meters below the surface from deep open ocean. This is the premier big-animal dive in Los Cabos — schooling hammerhead sharks, silky sharks, yellowfin tuna, and marlin patrol the seamount. Whale sharks visit seasonally (October through March). The dive involves a blue water descent with no visual reference, strong currents, and no shelter. Advanced certification and open water experience are mandatory. Depths from 30 to 40 meters.
+A pair of submerged seamounts approximately 7 miles (11 km) offshore from San Jose del Cabo marina, and roughly 29 miles from Cabo San Lucas. The inner bank's highest peak rises to about 31 meters (102 feet) below the surface; the outer bank starts deeper. The rocky seamount surface is covered with black coral and wire coral. This is the premier pelagic dive in Los Cabos — schooling scalloped hammerhead sharks (*Sphyrna lewini*), silky sharks, yellowfin tuna, wahoo, and marlin patrol the seamount. The dive involves a blue-water descent with no visual reference, strong and unpredictable currents, and no shallow refuge. Advanced certification and open-water drift experience are mandatory.
 
 ## Site Information
 
-- **Location**: 13 km offshore from San Jose del Cabo
+- **Location**: 7 miles (approximately 11 km) offshore from San Jose del Cabo marina; approximately 29 miles from Cabo San Lucas
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-30 meters (open ocean)
+- **Typical Visibility**: 12–30 meters (open ocean; thermoclines can reduce visibility)
 - **Current**: Strong and unpredictable
-- **Best Time**: July to November for hammerheads; October to March for whale sharks
+- **Best Season for Hammerheads**: August to January
+- **Challenging Period**: February to May (north winds, reduced visibility, cold water)
 
 ## Marine Life
 
-Schooling scalloped hammerhead sharks are the main attraction. Silky sharks, yellowfin tuna, wahoo, and marlin are regularly encountered. Whale sharks appear seasonally from October through March. Large schools of jacks and other pelagics aggregate around the seamount. Manta rays and mobula rays also visit.
+Scalloped hammerhead sharks school around the seamount — encounters are reported on approximately 4 out of 5 dives during peak season (late August to January), though no sightings are guaranteed. Silky sharks, tope sharks, yellowfin tuna, wahoo, marlin, and large schools of jacks and creole fish are regular visitors. Mobula rays aggregate seasonally (June–August and November–December when plankton concentrations peak). Humpback whales migrate through the area in early winter to late spring. Water temperatures during thermocline season can vary from 15°C to 28°C within a single dive.
 
 ## Dive Profile
 
-The boat anchors or drifts over the seamount. Entry is a blue water descent — no wall or line to follow down. Descend quickly to the seamount top at 30 meters and position yourself where the current brings pelagic traffic past. Bottom time is short at this depth. Ascend to a safety stop in open blue water and deploy an SMB for pickup. Nitrox strongly recommended.
+The boat anchors or drifts over the seamount. Entry is a blue-water descent — no wall, line, or visual reference. Descend quickly to the seamount top (inner bank peak at ~31 m) and position where the current brings pelagic traffic past. Bottom time at this depth is short. Ascend in open blue water and deploy an SMB for boat pickup. Nitrox strongly recommended. A required check dive at a shallower local site is standard practice before visiting Gordo Banks.
 
 ## Safety Considerations
 
-This is an exposed open-ocean dive with no shelter, no shallow areas, and strong currents. Blue water descents and ascents require experience and composure. Narcosis at 35-40 meters is a real concern. The boat ride is 45-60 minutes each way and can be rough. Not suitable for divers without significant open water and deep diving experience. Carry an SMB, whistle, and mirror. Dive with a computer and agree on strict turn pressures.
+This is a demanding open-ocean dive with no shelter, no shallow areas, and strong currents. Blue-water descents and ascents require composure and experience. The boat ride is rough during north wind periods. Minimum group of 4 divers is standard for guided tours. Carry an SMB, whistle, and mirror. Dive with a computer and agree on strict turn pressures before entering.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
+*Sources: [Dive Gordo Banks](https://divegordobanks.com/), [Dive Ninja Expeditions](https://www.diveninjaexpeditions.com/scuba-diving-gordo-banks/), [Breathe Out Baja](https://www.breatheoutbaja.com/gordo-banks-scuba-diving), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-14.*

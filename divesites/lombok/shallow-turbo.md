@@ -49,4 +49,4 @@ Boat from Lombok or Gili Islands operators. Gentle drift. SMB essential for drif
 Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Always dive with a buddy.
 
 ---
-*Description based on regional diving knowledge and general Lombok/Gili Islands sources. No site-specific sources confirmed for Shallow Turbo as a distinct named site — it is likely the shallow section of the broader Turbo dive area. Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Dive Central Gili](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air). Last updated 2026-06-14.*

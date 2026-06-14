@@ -18,8 +18,8 @@ The most sheltered site in the Cabo San Lucas Marine Park, located inside the ba
 ## Site Information
 
 - **Location**: Cabo San Lucas Marine Park, inside the bay
-- **Entry Type**: Boat dive (approximately 4 minutes from the marina)
-- **Site Type**: Wall dive (sloping reef with boulder field and cliff)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10–20 meters

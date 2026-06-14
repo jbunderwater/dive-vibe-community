@@ -19,8 +19,8 @@ The most frequently dived site in Cabo San Lucas, located approximately 300 feet
 
 - **Location**: Cabo San Lucas Marine Park, inside the bay, approximately 5 minutes from the marina
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (sloping reef to canyon edge)
-- **Difficulty Level**: Beginner (deeper canyon sections Intermediate)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10–25 meters
 - **Current**: Minimal — protected within the bay
