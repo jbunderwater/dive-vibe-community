@@ -13,18 +13,18 @@ addedBy: osm_import
 
 # Patrol Boat P33
 
-An East German-built patrol boat scuttled in 2021 as an artificial reef at Marsaskala — shore accessible at 24 metres but deteriorating rapidly.
+A former East German Navy Bremse-class patrol boat scuttled in July 2021 as an artificial reef at Zonqor Point, Marsaskala — recreational depth at 20–24 metres, but deteriorating rapidly.
 
 ## Overview
 
-Patrol Boat P33 is a Bremse-class patrol boat (23 metres long, 5-metre beam) built in East Germany in 1971–72. Commissioned by the East German Navy, the vessel was sold to Malta in 1992 following German reunification and served with the Armed Forces of Malta Maritime Squadron until decommissioned in 2005.
+Patrol Boat P33 is a Bremse-class patrol boat (23 metres long) built in East Germany and commissioned into the East German Navy in 1972. Following German reunification in 1990, the vessel was sold to Malta in 1992 together with her sister ship P-32 and two Kondor-class minesweepers (including P-31, already a popular dive site off Comino). The AFM Maritime Squadron operated P-33 until she was decommissioned in 2005.
 
-She was deliberately scuttled on 31 July 2021 at Zonqor Point, Marsaskala, as an artificial reef, positioned between the tugboat wrecks St Michael and Number 10. The wreck sits upright with a slight starboard tilt at 20–24 metres depth. Small penetration opportunities exist and fish life is already abundant. However, reports indicate the wreck is **disintegrating rapidly** — significant deterioration was noted within the first year post-scuttling. The site is shore accessible.
+She was deliberately scuttled on 31 July 2021 at Zonqor Point, Marsaskala, as part of a €250,000 Maltese government investment in the diving sector. The wreck was positioned between the existing tugboat wrecks St Michael and Number 10 (also known as Melita). The wreck sits upright with a slight starboard tilt at 20–24 metres depth. Fish life colonised the structure quickly. However, the wreck has been reported as **deteriorating rapidly** — significant structural degradation was noted within the first year post-scuttling. The site is shore accessible.
 
 ## Site Information
 
 - **Location**: Zonqor Point, Marsaskala, east Malta
-- **Entry Type**: Boat dive
+- **Entry Type**: Boat dive (also shore accessible)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
@@ -34,11 +34,11 @@ She was deliberately scuttled on 31 July 2021 at Zonqor Point, Marsaskala, as an
 
 ## Marine Life
 
-Despite its youth, the wreck has attracted abundant fish life. Schools of bream and damselfish congregate around the hull. The nearby tugboat wrecks create a multi-wreck artificial reef ecosystem.
+Despite its youth, the wreck has attracted abundant fish life. Schools of bream and damselfish congregate around the hull. The nearby tugboat wrecks St Michael and Number 10 (Melita) create a multi-wreck ecosystem. No site-specific marine life surveys are documented beyond dive operator observations.
 
 ## Dive Profile
 
-Enter from shore at Zonqor Point and swim to the wreck at 20–24 metres. The compact 23-metre vessel can be circumnavigated quickly. Explore the slight starboard tilt and any remaining penetration opportunities. The adjacent tugboat wrecks St Michael and Number 10 can be visited on the same dive.
+Enter from shore at Zonqor Point or by boat and descend to 20–24 metres. The compact 23-metre vessel can be circumnavigated quickly. Explore the slight starboard tilt and any remaining penetration opportunities — note that rapid deterioration may have altered the structure significantly. The adjacent tugboat wrecks can be visited on the same dive.
 
 ## Entry and Exit
 
@@ -46,19 +46,19 @@ Shore accessible from Zonqor Point, Marsaskala. Also available by boat. The shor
 
 ## Tips and Recommendations
 
-- Three wrecks in proximity — P33 sits between tugboats St Michael and Number 10
-- The wreck is deteriorating rapidly — features may change between visits
-- Shore accessible — no boat needed
-- Advanced Open Water level sufficient at 24 metres
-- This is NOT a WWII vessel — built 1971 in East Germany
+- Three wrecks in proximity — P-33 sits between tugboats St Michael and Number 10 (Melita)
+- The wreck is deteriorating rapidly — features and penetration opportunities may have changed since early reports
+- Shore accessible — no boat required
+- This is NOT a WWII vessel — built 1972 in East Germany, decommissioned by Malta 2005, scuttled 2021
+- Sister ship P-31 (at Comino) is a long-established and well-known dive site
 
 ## Safety Considerations
 
-Intermediate to Advanced Open Water certification for 24-metre depth. The wreck's rapid deterioration means structural integrity should not be assumed — avoid contact with weakened metal. Carry an SMB for surface identification.
+Intermediate to Advanced Open Water certification appropriate for 24-metre depth. The wreck's rapid deterioration means structural integrity should not be assumed — avoid unnecessary contact with weakened metal. Carry an SMB for surface identification.
 
 ## Photography
 
-The wreck's compact size allows full-vessel shots with a wide-angle lens. The deterioration process is itself a photographic subject — document changes over time. The multi-wreck scene with adjacent tugboats provides unusual composition opportunities.
+The wreck's compact size allows full-vessel shots with a wide-angle lens. The ongoing deterioration process is itself a photographic documentary subject. The multi-wreck scene with adjacent tugboats provides unusual composition opportunities.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DIVE Magazine](https://divemagazine.com), [Divers Guide](https://www.divers-guide.com). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/p33-marsaskala/en), [DIVE Magazine](https://divemagazine.com/scuba-diving-news/malta-new-p33-patrol-boat-wreck-dive), [Divers Guide](https://www.divers-guide.com/en/p33-patrol-boat). Last updated 2026-06-15.*

@@ -296,7 +296,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org, maltadives.com, seashelldivingmalta.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -506,7 +507,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "maltadives.com, divewise.com.mt, nds-malta.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -522,7 +524,7 @@
     "tags": {
       "historic": "wreck",
       "name": "MV Xlendi",
-      "scuba_diving:depth": "42",
+      "scuba_diving:depth": "25",
       "scuba_diving:maxdepth": "44",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
@@ -534,7 +536,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "maltadives.com, divemalta.com, gozodive.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -550,7 +553,7 @@
     "tags": {
       "historic": "wreck",
       "name": "MV Cominoland",
-      "scuba_diving:depth": "35",
+      "scuba_diving:depth": "32",
       "scuba_diving:maxdepth": "41",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
@@ -562,7 +565,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "maltadives.com, nds-malta.com, divemalta.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -675,8 +679,8 @@
     "tags": {
       "historic": "wreck",
       "name": "MT Hephaestus",
-      "note": "Oil tanker scuttled August 2022. For experienced/technical divers. Range 35-47m. Dangerous elements removed; large entry holes cut.",
-      "scuba_diving:depth": "35",
+      "note": "Oil tanker (595 GRT) built 1965, scuttled 29 Aug 2022. Rests upright. Deck at approximately 40m; max depth ~47m.",
+      "scuba_diving:depth": "40",
       "scuba_diving:maxdepth": "47",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
@@ -688,7 +692,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org, xray-mag.com, divinginfo.mt",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -862,14 +867,17 @@
     "name": "HMS Stubborn",
     "lat": 35.982533,
     "lon": 14.446167,
-    "depth": 55,
+    "depth": 57,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "HMS Stubborn",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, aquarium.com.mt, maltadives.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -883,7 +891,10 @@
     "tags": {
       "name": "Beaufighter",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "shearwater.com, maltadives.com, divesystemsmalta.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1093,7 +1104,10 @@
     "tags": {
       "name": "HMS Russell",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, heritagemalta.mt, maltadives.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1625,7 +1639,10 @@
     "tags": {
       "name": "Blenheim Bomber",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, underwatermalta.org, padi.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1639,7 +1656,10 @@
     "tags": {
       "name": "B24 Liberator",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "divinginfo.mt, underwatermalta.org, heritagemalta.mt",
+      "last_qa_date": "2026-06-15"
     }
   },
   {

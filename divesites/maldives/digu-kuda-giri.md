@@ -30,15 +30,11 @@ The sandy seabed around the wreck holds additional life — garden eels, gobies 
 
 ### Marine Life
 
-- Glassfish and lionfish
-- Moray eels and scorpionfish
-- Garden eels and gobies with shrimp
-- Blue-spotted stingrays
-- Corals and sponges encrusting the hull
+No site-specific marine life records were found for Digu Kuda Giri. The site name suggests a small reef formation ("kuda giri" = small reef head) that may include a wreck component, but no independent source confirms vessel identity, sinking history, or specific species observed here.
 
 ### Practical Notes
 
-A relaxed wreck dive suitable for intermediate divers. Good for a second dive when morning kandu dives have been completed. Visibility typically 15–20 m. Boat access from South Malé Atoll resorts.
+A wreck site in South Malé Atoll suitable for intermediate divers. Vessel identity and sinking history not confirmed by independent sources consulted. Visibility typically 15–20 m. Boat access from South Malé Atoll resorts.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on site type designation. No site-specific sources for Digu Kuda Giri found. Last updated 2026-06-15.*
