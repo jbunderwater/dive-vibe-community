@@ -23,7 +23,7 @@ Moofushi Island sits in South Ari Atoll's whale shark territory, and the outer r
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -45,4 +45,4 @@ Napoleon wrasse, white-tip reef sharks, eagle rays, turtles, parrotfish, grouper
 Moofushi Island Resort in South Ari Atoll is reached by seaplane (30 minutes) from Malé or by speedboat. Dive trips to the outer reef run daily from the resort.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

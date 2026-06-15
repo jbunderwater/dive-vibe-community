@@ -31,4 +31,4 @@ Thilas in the Maldives concentrate marine life in a way few other reef structure
 Pinnacle dives require confident buoyancy control — the open-water setting means there is no easy shallowing option if depth discipline lapses. Circumnavigating the pinnacle on a single dive is achievable with careful gas management. A reef hook kept ready allows divers to hold position on the current-exposed side without exertion, maximising shark observation time. Wide-angle photography capturing the full pinnacle silhouette against the blue works best around midday when light penetration is optimal.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

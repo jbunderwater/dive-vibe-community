@@ -25,7 +25,7 @@ House reefs in the Maldives are the fringing reefs that surround resort islands,
 - **Entry Type**: Boat dive
 - **Depth**: Up to 12m
 - **Difficulty**: Beginner
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles, parrotfish, triggerfish, angelfish, blue-lined snapper, group
 Perfect for first dives, refresher dives, and night diving. The shallow depth allows extended bottom times — ideal for slow, observational diving. At night, bring a torch and take your time on the sand patches beside the reef for critter encounters.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

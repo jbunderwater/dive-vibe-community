@@ -5,7 +5,7 @@ lng: 14.356835
 difficulty: Beginner
 maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: beach
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Mellieħa Bay is Malta's largest sandy beach, used primarily as a training area 
 
 - **Location**: Mellieħa Bay, north Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Beach dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

@@ -13,36 +13,25 @@ addedBy: osm_import
 
 ## Keyodhoo Shipwreck
 
-The Keyodhoo Shipwreck is a deliberately sunk or accidentally grounded vessel near Keyodhoo Island in Vaavu Atoll (Felidhe Atoll), now serving as an artificial reef and one of the more accessible wreck dives in this less-visited atoll.
+The Keyodhoo Shipwreck is a vessel of unknown origin — speculated to be Indonesian — that came to rest in the shallow lagoon of Keyodhoo in Vaavu Atoll after a storm in 2015. As of early 2025, the wreck has moved significantly: strong currents and rains flipped it and it subsequently drifted off the reef, and as of 2025 it is reported to be drifting northwest through the atoll.
 
 ## Overview
 
-Vaavu Atoll lies southeast of South Male Atoll and sees far fewer divers than its more famous neighbours, giving the Keyodhoo wreck a sense of discovery and solitude. The wreck rests at depth with its deepest sections touching 35 metres, while the upper superstructure rises to around 15–20 metres. The hull is progressively colonised by encrusting corals, hydroids, and sponges, and the nooks and recesses of the structure shelter lionfish, scorpionfish, moray eels, and resting nurse sharks. Schools of glassfish have taken up residence inside open holds and around the bridge area, creating atmospheric silhouettes when lit from above. Grey reef sharks patrol the surrounding sandy seabed, attracted by the wreck's role as an artificial reef aggregating baitfish. Visibility in Vaavu Atoll regularly exceeds 25 metres in clear season. Water temperature averages 27–29°C.
+The Keyodhoo Shipwreck attracted attention as an easily accessible, photogenic wreck in the less-visited Vaavu Atoll. The vessel's identity has never been confirmed — the vessel was speculated to be Indonesian based on its general construction, but no documentation has been produced. It came to rest in Keyodhoo's shallow lagoon after a 2015 storm, sitting at a dramatic angle with its mast above water. Over the following years, table corals, clownfish, and anemones colonised the hull, and schools of fish used the structure as shelter.
+
+**NOTE (as of 2025):** In early 2025, the wreck was reported to have flipped upside-down and drifted off the reef following storm activity, and is reportedly moving through the atoll carried by currents. Its current position and accessibility as a dive site are unknown as of June 2026. Divers should check with local operators for current status before travelling specifically to dive this site.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Keyodhoo lagoon, Vaavu Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Depth**: Up to 35m
-- **Difficulty**: Advanced
+- **Depth**: Historically shallow lagoon (exact depth variable by orientation)
+- **Difficulty**: Advanced (given uncertainty of current state)
 - **Site Type**: Wreck dive
 
-## Marine Life
+## Marine Life (Historical, Pre-2025)
 
-Nurse sharks, grey reef sharks, moray eels, lionfish, scorpionfish, glassfish schools, grouper, and progressive coral and sponge colonisation on the hull.
-
-## Diving Conditions
-
-| Condition | Details |
-|-----------|---------|
-| Visibility | 20–30m |
-| Current | Light to moderate |
-| Water Temp | 27–29°C |
-| Best Season | December–April |
-
-## Tips for Divers
-
-Advanced certification and wreck diving experience is recommended given the depth of the lower hull. Penetration into enclosed spaces should only be attempted by divers with specific wreck penetration training and appropriate equipment. The upper structure and exterior exploration offer plenty of interest without penetration. Carry a torch for investigating the shadowed sections.
+Table corals, clownfish, sea anemones, and schools of fish were confirmed at this site when it was stable. Grey reef sharks were not specifically confirmed at this site.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Visit Maldives Keyodhoo Shipwreck](https://visitmaldives.com/en/experience/keyodhoo-shipwreck-the-sunken-treasure-at-vaavu), [Maldives Insider Vaavu Shipwreck](https://maldives.net.mv/63053/vaavu-shipwreck-story-in-motion/), [Edition.mv Vaavu shipwreck drifts](https://edition.mv/news/42858). Last updated 2026-06-15.*

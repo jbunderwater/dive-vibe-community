@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Fairey Swordfish
 
-A WWII British biplane torpedo bomber discovered in 2017 at 70 metres off Sliema — an iconic aircraft type synonymous with the attack on the Bismarck.
+A WWII British biplane torpedo bomber discovered in June 2017 at 70 metres off Sliema — one of only around 13 surviving Fairey Swordfish airframes in the world, making this wreck globally significant.
 
 ## Overview
 
-The Fairey Swordfish is a single-engine biplane torpedo bomber (length ~11m, wingspan 14m) lost in 1943 after engine problems shortly after takeoff from Hal Far airfield. The crew of two survived; the aircraft sank and remained undiscovered until June 2017. It was opened to divers on 1 May 2019.
+The Fairey Swordfish is a single-engine biplane torpedo bomber lost in April 1943 after engine failure shortly after takeoff from Hal Far airfield. The two-person crew ditched the aircraft and survived — they were rescued from the sea by off-duty RAF personnel from the Kalafrana sailing club who happened to be sailing nearby. The aircraft sank and remained undiscovered until June 2017, when technical divers located it during survey work off the Sliema coast.
 
-Located approximately 5 km off Sliema's coast in north-east Malta at ~70 metres depth on a sandy seabed, the metal frame structure is relatively intact with visible wings and tail. The fabric covering has deteriorated over the decades, leaving the skeletal framework exposed. The radial engine retains its three-bladed propeller. Colourful sponges cover the structure and scorpionfish inhabit the wreck. Heritage Malta manages the site.
+Located approximately 5 km off Sliema's coast in north-east Malta at 70 metres depth on a sandy seabed, the metal framework remains relatively intact in a flattened position — consistent with a controlled ditching. The original fabric covering has deteriorated completely over the decades, leaving the steel skeleton exposed. The radial engine retains its three-bladed propeller and cowling, all of which have survived intact. Colourful sponges have colonised the metal framework, and scorpionfish inhabit the structure. Heritage Malta has managed the site since 1 May 2019.
 
 ## Site Information
 
-- **Location**: Off Sliema coast, NE Malta
+- **Location**: Off Sliema coast, NE Malta (~5 km offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -34,23 +34,23 @@ Located approximately 5 km off Sliema's coast in north-east Malta at ~70 metres 
 
 ## Marine Life
 
-Colourful sponges have colonised the metal framework. Scorpionfish inhabit the structure. The wreck provides a small but productive habitat on the otherwise featureless sandy bottom.
+Colourful sponges have colonised the metal framework. Scorpionfish inhabit the structure. The wreck provides a small but productive habitat on the otherwise featureless sandy bottom. No site-specific marine life surveys are documented beyond these observations.
 
 ## Dive Profile
 
-Technical descent via shotline to 70 metres. The biplane's skeletal framework — stripped of fabric covering — reveals the engineering of this iconic aircraft type. Locate the radial engine with its three-bladed propeller, then follow the wing and tail structures. Bottom time is severely limited. Plan decompression accordingly.
+Technical descent via shotline to 70 metres. The biplane's skeletal framework — stripped of fabric covering — reveals the engineering of this iconic aircraft type. Locate the radial engine with its three-bladed propeller and cowling, then follow the wing and tail structures. Bottom time is severely limited at this depth. Plan decompression accordingly.
 
 ## Entry and Exit
 
-Boat dive only. Heritage Malta permit required. The site is approximately 5 km offshore from Sliema. Technical diving qualifications required.
+Boat dive only. Heritage Malta permit required — must be arranged through an approved dive centre registered with Heritage Malta's Underwater Cultural Heritage Unit. Technical diving qualifications required.
 
 ## Tips and Recommendations
 
-- Heritage Malta permit required
-- The fabric covering is gone — you're seeing the metal skeleton of the airframe
-- The Swordfish type is famous for crippling the Bismarck and attacking Taranto harbour
-- The three-bladed propeller on the radial engine is the most recognisable feature
-- Colourful sponge growth adds life to the skeletal framework
+- Heritage Malta permit required — arrange in advance through an approved operator
+- The fabric covering is entirely gone — only the steel skeleton remains, plus intact engine/propeller/cowling
+- Only around 13 complete Fairey Swordfish remain worldwide, making this underwater specimen globally significant
+- The type is famous for crippling the Bismarck and the Taranto harbour raid — this aircraft was performing a local Malta training/liaison flight
+- The flattened position on the seabed reflects the controlled ditching rather than a violent crash
 
 ## Safety Considerations
 
@@ -58,7 +58,7 @@ Technical dive at 70 metres requiring trimix and decompression planning. Heritag
 
 ## Photography
 
-The skeletal biplane framework draped in colourful sponges is highly photogenic. The propeller is the signature shot. The exposed metal structure reveals engineering details usually hidden beneath fabric covering — a unique photographic opportunity.
+The skeletal biplane framework draped in colourful sponges is highly photogenic. The intact propeller and cowling are the signature shot. The exposed metal structure reveals engineering details usually hidden beneath fabric covering — a unique photographic opportunity.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Heritage Malta](https://heritagemalta.mt). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/faireyswordfish/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/fairy-swordfish/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-06-15.*

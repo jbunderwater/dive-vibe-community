@@ -25,7 +25,7 @@ Positioned on the western flank of the island, Housereef West is sheltered from 
 - **Entry Type**: Boat dive
 - **Depth**: Up to 12m
 - **Difficulty**: Beginner
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Octopus, reef squid, parrotfish, triggerfish, anthias, moray eels, and hawksbill
 Particularly recommended for evening and night dives when the site comes alive with octopus and squid activity. Bring a torch and move slowly along the reef base — night-time critters are easily startled and will retreat if approached too quickly.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

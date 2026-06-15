@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, eagle rays, Napoleon wrasse, sweetlips, 
 Descend straight to the base of the pinnacle (25–30 m) to begin with the sharks before ascending through the coral zone. The soft corals are most colourful on the faces that receive the strongest current. Safety stops on the summit plateau are highly rewarding due to the fish density there.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

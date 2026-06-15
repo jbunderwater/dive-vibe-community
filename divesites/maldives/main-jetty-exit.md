@@ -23,7 +23,7 @@ The main jetty exit dive is a straightforward shore entry from a jetty into the 
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-20 meters (33-65 feet)
@@ -45,4 +45,4 @@ Parrotfish, surgeonfish, wrasse, triggerfish, moray eels, pufferfish, coral grou
 The site is accessed directly from the jetty at the associated island or resort in North Malé Atoll. Specific access arrangements are through the local dive operator.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

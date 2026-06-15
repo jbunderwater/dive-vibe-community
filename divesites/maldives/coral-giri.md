@@ -41,4 +41,4 @@ Schools of glassfish periodically engulf the giri, and lionfish hunt methodicall
 A calm, sheltered site well suited to a relaxed pace. Ideal as an afternoon or second dive. Suitable for intermediate divers. Visibility typically 15–25 m. Boat access from South Malé Atoll resorts.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ Positioned close to Exits 1 and 2 in this tightly grouped cluster, Exit 10 acces
 
 - **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Napoleon wrasse, schools of fusiliers and bannerfish, grey reef sharks, moray ee
 As the final exit in the series, this site benefits from knowing the full circuit route — confirm the planned exit point with your divemaster before entering. If the current reverses during the dive, this exit or one of the adjacent numbered points will be selected as the appropriate egress. The Napoleon wrasse encountered here are often habituated to divers and will approach closely.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -25,7 +25,7 @@ Small sandbank islets and their surrounding reefs are among the Maldives' most c
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles (common, potential nesting site), Napoleon wrasse, grouper, pa
 Snorkelling from the sandbank and transitioning to a reef dive makes this a versatile site for groups of mixed ability. Approach turtles slowly from the side, not from above, to observe without disturbing their natural behaviour. The reef crest is ideal for extended safety stops.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

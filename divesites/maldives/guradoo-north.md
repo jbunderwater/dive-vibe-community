@@ -25,7 +25,7 @@ The northern reef of Guradoo forms a sloping coral garden that descends from the
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Nurse sharks, blue-spotted stingrays, eagle rays, Napoleon wrasse, anthias, swee
 Spend time on the upper slope exploring the coral gardens before dropping to the sandy areas at depth for nurse shark and stingray encounters. The site is suitable for coral photography and wide-angle reef shooting.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ Anchor Reef (Gozo) is a submerged rocky ledge between Reqqa Point and Double Arc
 
 - **Location**: Between Reqqa Point and Double Arch, north coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters

@@ -41,4 +41,4 @@ The shallower reef top rewards a slower pace, with moray eels, triggerfish, and 
 The exposed position means conditions can be rougher than sheltered lagoon sites. Best dived in settled weather. Current can be strong on the out-reef corner — dive on the incoming tide for optimal conditions. Visibility typically 15–30 m on the outer reef.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

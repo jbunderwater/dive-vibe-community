@@ -4,8 +4,8 @@ lat: 36.017731
 lng: 14.2866895
 difficulty: Intermediate
 maxDepth: 20
-entryType: boat
-siteType: reef
+entryType: shore
+siteType: wall
 ref: null
 osmId: 4159831405
 addedBy: osm_import
@@ -22,8 +22,8 @@ Xatt l-Aħmar Reef (Red Bay) is the reef portion of Gozo's second most popular d
 ## Site Information
 
 - **Location**: Xatt l-Aħmar (Red Bay), south coast Gozo
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

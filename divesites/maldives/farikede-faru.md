@@ -23,7 +23,7 @@ Situated at the southern extreme of the Maldivian archipelago near Addu or Huvad
 
 - **Location**: Southern Maldives (Addu/Huvadhoo Atoll area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters
@@ -38,4 +38,4 @@ Thresher sharks (cleaning station behaviour), oceanic manta rays, whale sharks, 
 Early morning (first light) dives offer the best chance of thresher shark encounters at the cleaning stations. Descend quickly to 25-35 meters along the wall and position yourself calmly near a known cleaning station — patience and stillness are critical, as thrashers are shy and will abort the cleaning if divers approach aggressively. The outer blue water beyond the wall edge is where whale sharks and mantas are spotted. This site requires strong buoyancy control and experience managing deep dives in current.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -30,15 +30,11 @@ Moray eels occupy gaps and recesses in the metal structure, and scorpionfish use
 
 ### Marine Life
 
-- Moray eels and scorpionfish
-- Glassfish schools and hunting lionfish
-- Trevally and tuna (occasional)
-- Grouper and sweetlips
-- Corals and sponges encrusting the hull
+No site-specific marine life records were found for Bolifushi Wreck beyond general wreck fish community patterns. The destination's regional fauna (moray eels, lionfish, scorpionfish, glassfish, grouper) apply to wreck sites in this area, but no source confirms specific species at Bolifushi by name.
 
 ### Practical Notes
 
-A well-established wreck site suitable for intermediate divers. Penetration of interior spaces requires proper wreck diving training and equipment. Visibility typically 15–20 m. Boat access from North Malé Atoll resorts.
+A wreck site in North Malé Atoll suitable for intermediate divers. Penetration of interior spaces requires proper wreck diving training and equipment. Visibility typically 15–20 m. Boat access from North Malé Atoll resorts. Vessel identity and sinking history not confirmed by independent sources — no vessel name, tonnage, or sinking date found in dive databases or maritime records consulted.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources for Bolifushi Wreck found beyond OSM tagging. Last updated 2026-06-15.*

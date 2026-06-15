@@ -2,9 +2,9 @@
 name: Il-Bajja tax-Xwejni
 lat: 36.0791713
 lng: 14.2480852
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
-entryType: boat
+entryType: shore
 siteType: beach
 ref: null
 osmId: 322591289
@@ -22,9 +22,9 @@ The dive takes place along the rocky limestone coastline of the bay, descending 
 ## Site Information
 
 - **Location**: Northwest Gozo, Malta
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Generally calm inside bay

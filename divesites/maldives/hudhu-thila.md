@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, Napoleon wrasse, large grouper, batfish 
 Circumnavigate the pinnacle at depth first to maximise shark and ray encounters, then work your way up the structure to spend the safety stop exploring the coral-rich summit. Current direction varies — check with the boat crew which face will be most productive on the day.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

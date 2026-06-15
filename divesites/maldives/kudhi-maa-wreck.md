@@ -3,7 +3,7 @@ name: Kudhi Maa Wreck
 lat: 3.5907967
 lng: 72.8827411
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,36 +13,36 @@ addedBy: osm_import
 
 ## Kudhi Maa Wreck
 
-The Kudhi Maa Wreck is a shallow artificial wreck in South Ari Atoll that has become a vibrant artificial reef — its accessible depth of 20 metres makes it one of the most diver-friendly wreck sites in the region.
+The Kudhi Maa (Kudhimaa) is a 52-metre steel vessel deliberately sunk in 1998 off the island of Machchafushi in South Ari Atoll, close to the Centara Grand Island Resort house reef.
 
 ## Overview
 
-The Kudhi Maa (the name referencing a local vessel) rests upright on a sandy floor at around 18–20 metres, with the upper sections of the hull rising to around 10 metres. The shallower depth compared to most Maldivian wrecks means longer bottom times, better natural light penetration, and more comfortable conditions for divers of all levels above basic intermediate. In the years since sinking, the hull has been progressively colonised: encrusting corals and sponges cover large sections of the superstructure, and hydroids and sea fans have taken hold on the railings and fittings. Lionfish and scorpionfish lurk in the shadowed recesses, while moray eels occupy every suitable crack and pipe. Schools of glassfish swarm through the open holds, creating dramatic silhouettes. Grey reef sharks circle the wreck perimeter attracted by the resident baitfish population, and nurse sharks are often found resting on the sandy floor beside the hull. Visibility averages 15–20 metres. Water temperature is 27–29°C.
+The vessel was specially prepared before sinking in 1998 to create an artificial reef dive site for South Ari Atoll. It now sits upright with its masts rising to within 10 metres of the surface and the deepest sections at 30 metres — not the shallower depth sometimes cited in secondary sources. The hull has been well colonised since 1998: stonefish and lionfish occupy the top deck around 20 metres, alongside batfish, glassfish, and surgeonfish. Around the wreck, trevally hunt, and nurse sharks and stingrays are sometimes found on the seabed. Sources note occasional manta rays and reef sharks in the vicinity, though these are not confirmed to be wreck-specific sightings. Visibility in South Ari Atoll is typically 20–30 metres.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Ari Atoll, Maldives (off Machchafushi / Centara Grand Island)
 - **Entry Type**: Boat dive
-- **Depth**: Up to 20m
+- **Depth**: Masts from 10 m; maximum 30 m
 - **Difficulty**: Intermediate
 - **Site Type**: Wreck dive
 
 ## Marine Life
 
-Nurse sharks, grey reef sharks, lionfish, scorpionfish, moray eels, glassfish schools, grouper, and rich encrusting coral and sponge colonisation on the hull.
+Lionfish and stonefish on the top deck (~20 m), batfish, glassfish, surgeonfish, grouper, trevally, nurse sharks, stingrays. No site-specific records of whale sharks or manta rays resting on the wreck itself — those species may pass through the broader area.
 
 ## Diving Conditions
 
 | Condition | Details |
 |-----------|---------|
-| Visibility | 15–20m |
-| Current | Light |
+| Visibility | 20–30m |
+| Current | Light to moderate |
 | Water Temp | 27–29°C |
 | Best Season | Year-round |
 
 ## Tips for Divers
 
-The shallow depth allows two full wreck circuits on a single tank — plan your air consumption carefully and enjoy the extra bottom time. A torch is useful for illuminating the colourful encrusting growth inside the hull openings and checking recesses for moray eels and scorpionfish. Entry and exit from the wreck should only be undertaken with appropriate wreck penetration training.
+Bring a torch — the shadowed recesses of the top deck host the most interesting macro life. Penetration into enclosed spaces requires wreck diving training and is not without risk. The adjacent Machchafushi house reef can be included in the same dive on shallow sections.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Visit Maldives Shipwrecks](https://visitmaldives.com/en/experience/shipwrecks-and-sunken-treasures), [Maldives Online Guide Kudhimaa Wreck](https://www.maldivesonlineguide.com/dive-sites-maldives/south-ari-atoll/kudhimaa-wreck-machchafushi-south-ari-atoll), [ZuBlu South Ari Atoll](https://www.zubludiving.com/articles/zublu-insights/south-ari-atoll-best-dive-sites). Last updated 2026-06-15.*

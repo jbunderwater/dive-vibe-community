@@ -23,7 +23,7 @@ Sirens is a shallow reef close to shore in St. Paul's Bay, used primarily as a t
 
 - **Location**: St. Paul's Bay, Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

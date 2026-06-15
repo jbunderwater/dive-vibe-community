@@ -23,7 +23,7 @@ Tuna Farm (Qawra) offers a unique diving experience inside large circular net pe
 
 - **Location**: Offshore, Qawra area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 meters

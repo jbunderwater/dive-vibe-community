@@ -23,7 +23,7 @@ Located in the southern reaches of South Malé Atoll, Lang Giri is a classic Mal
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -45,4 +45,4 @@ White-tip reef sharks, nurse sharks, stingrays, garden eels, parrotfish, surgeon
 Lang Giri is reached by boat from dive operators based in South Malé Atoll or from Malé, approximately 30–60 minutes depending on the departure point.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

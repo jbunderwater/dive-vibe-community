@@ -2,8 +2,8 @@
 name: San Dimitri Point
 lat: 36.074728
 lng: 14.185227
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -24,8 +24,8 @@ San Dimitri Point (Tirxa) is a wall dive site beneath 80-metre-high cliffs on Go
 - **Location**: San Dimitri Point, NW corner Gozo
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October

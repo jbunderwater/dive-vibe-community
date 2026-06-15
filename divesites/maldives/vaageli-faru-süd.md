@@ -31,7 +31,7 @@ The top of the reef structure begins at approximately 10 metres, with terraces d
 
 - **Location**: Kaafu Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 

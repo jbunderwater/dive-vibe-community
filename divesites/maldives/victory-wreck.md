@@ -3,7 +3,7 @@ name: Victory Wreck
 lat: 4.1798982
 lng: 73.52538
 difficulty: Advanced
-maxDepth: 38
+maxDepth: 37
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,24 +13,26 @@ addedBy: osm_import
 
 ## Victory Wreck
 
-The Victory Wreck is one of the most famous dive sites in the Maldives — a 95-metre cargo ship that sank in Male harbour in 1981 after a collision, coming to rest on its side in 35–38 metres of water just minutes from the capital. Its large scale, dramatic listing posture, and the sheer diversity of marine life that has colonised the hull make it an iconic Maldivian wreck dive.
+The Victory Wreck — officially the MV Maldive Victory — is one of the most dived wrecks in the Maldives, an 83-metre cargo ship that ran onto the reef southwest of Hulhule on 13 February 1981 and now rests upright at 37 metres in North Male Atoll. It was designated a Protected Area in 2021.
+
+### Background
+
+The Maldive Victory (formerly named Malatian until 1971) was a cargo vessel carrying goods from Singapore when, on the night of 13 February 1981, it struck the reef southwest of Hulhule in North Male Atoll. All 30 crew and seven passengers were rescued before the ship sank. Sources vary on the vessel's length — most cite 83 metres, though figures of 80 m and 110 m also appear in different publications; the 83 m figure is supported by the Maldives Environment Ministry's protected-area designation. The wreck was designated a Protected Area on 13 February 2021 under Category 7 (Protected Area with Sustainable Use), covering 4.75 hectares. A 2019 biodiversity survey recorded 18 coral genera and 46 fish species on the wreck.
 
 ### Site Conditions
 
-- **Depth range**: 15–38 m
-- **Typical visibility**: 15–25 m (harbour location can affect clarity)
-- **Currents**: Light to moderate; influenced by tidal movement in the harbour approaches
-- **Best season**: Year-round accessible; November–April for clearest water
+- **Depth range**: 15–37 m (superstructure at mid-water; seabed at 37 m)
+- **Typical visibility**: 15–25 m (proximity to harbour approach channel can affect clarity)
+- **Currents**: Light to moderate; influenced by tidal movement
+- **Best season**: November–April for best visibility
 
 ### What to Expect
 
-The Victory lies on its port side, creating a vertiginous perspective as divers descend the near-vertical deck railing to reach the seabed. The hull is encrusted with luxuriant growth — soft corals, sponges, and feather stars blanket every surface, providing habitat for an extraordinary range of fish life. Lionfish perch motionless in doorways and portholes, while large grouper claim ownership of the holds. Schools of batfish hover in formation over the hull, and glassfish fill the interior spaces with shimmering clouds. Barracuda school in the water column above the wreck, and grey reef sharks patrol the deeper sections alongside blue-spotted ribbontail rays on the sandy bottom. Moray eels occupy every crevice, and sea turtles rest on the most comfortable ledges of the listing deck.
-
-The wreck's size means a single dive cannot cover it all — the bow, midships, stern, and interior sections each reward multiple visits. Penetration divers can access the holds, engine room, and accommodation areas, all of which retain structural integrity and are well-documented by the local dive community.
+The Victory rests upright on the seabed at 37 metres, with the upper superstructure accessible from around 15 metres. The hull is densely colonised with coral growth: a 2019 survey documented 18 coral genera along with 46 fish species including dusky batfish, yellowback fusiliers, groupers, and sea turtles. The wreck's large scale means a single dive covers only part of the structure — the bow, midships section, bridge, and stern each reward separate dives. Penetration into the holds and accommodation areas requires specific wreck diving training and appropriate lighting; silt disturbance reduces visibility rapidly inside the hull.
 
 ### Tips for Divers
 
-Advanced certification is required for the deeper sections of the wreck, which touch 38 metres at the sandy seabed alongside the hull. Nitrox enriched air is recommended for extended bottom time on the shallower sections without decompression obligation. Penetration requires torches and wreck-diving qualification — the interior is dark and silt disturbance can rapidly reduce visibility inside the holds. The wreck is popular with dive centres from Male and can be busy on weekends; weekday morning dives give the most peaceful experience. Photographers will need wide-angle capability to capture the scale of the hull, while macro shooters will find endless subjects in the encrusted details.
+Advanced certification is required for the full depth of the wreck (37 m to seabed). Nitrox extends bottom time on the shallower superstructure sections. Penetration is for trained wreck divers only — interior exploration is never without risk regardless of structural integrity. The wreck is popular with Male-based dive centres and can be busy on weekends.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Maldives Environment Ministry Protected Areas](https://protectedareas.environment.gov.mv/en/protected-areas/maldives-victory-wreck), [Divedesk Maldives](https://www.divedesk.mv/post/maldive-victory-wreck), [Divernet](https://divernet.com/scuba-news/maldives-victory-wreck-damaged-but-diveable/). Last updated 2026-06-15.*

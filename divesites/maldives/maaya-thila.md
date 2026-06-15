@@ -3,7 +3,7 @@ name: Maaya Thila
 lat: 4.0913626
 lng: 72.8619718
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,37 +13,37 @@ addedBy: osm_import
 
 ## Maaya Thila
 
-Maaya Thila is one of North Ari Atoll's most celebrated protected dive sites — a steep-sided underwater pinnacle swept by strong tidal currents that draw grey reef sharks in numbers rarely seen elsewhere in the Maldives, making it a benchmark site for advanced pinnacle diving.
+Maaya Thila is an isolated submerged pinnacle in North Ari Atoll and a Protected Marine Area since 27 September 1995 — one of the Maldives' most famous night dives, celebrated above all for its resident whitetip reef shark population.
 
 ## Overview
 
-Maaya Thila is a Protected Marine Area and consistently appears on lists of the Maldives' best dive sites. The pinnacle rises from around 35 metres to a summit at 6 metres and is covered in soft and hard coral growth, but the defining experience is the shark aggregation that forms when current flows. Grey reef sharks accumulate along the upcurrent face in groups of ten to thirty or more during the right tidal conditions, circling mid-water in mesmerising formations. White-tip reef sharks rest in the sandy hollows deeper on the pinnacle, while napoleon wrasse and large grouper hold station around the structure. Schooling fish — fusiliers, jacks, and snappers — swarm above the pinnacle creating a dynamic underwater scene. Strong, surging current is the rule rather than the exception, and only divers with proven current management skills should attempt this site.
+The pinnacle covers roughly 1,024 hectares of protected zone, with the reef summit at around 7–12 metres and the walls dropping to over 30 metres. Multiple small overhangs, cavities, and ledges ring the perimeter. Whitetip reef sharks are almost always present, circling the reef in dozens — they are the definitive wildlife encounter at this site. Grey reef sharks are also common, and both species become highly active hunters at night when lit by dive lights. The site is renowned as one of the best night dives in the Maldives specifically because of whitetip hunting behaviour. Stonefish, moray eels, turtles, and octopus are also confirmed at the site on night dives. Currents are unstable and unpredictable; this is not a site for novice divers. The Maldives Environment Ministry confirmed grey reef sharks and whitetip reef sharks in its Protected Area designation.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Ari Atoll (Alifu Alifu), Maldives — Protected Marine Area since 27 September 1995
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Strong to very strong, unpredictable surges
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 metres (can be reduced by plankton blooms)
+- **Current**: Strong and unpredictable; surges common
 
 ## Marine Life
 
-Grey reef sharks (often in large aggregations), white-tip reef sharks, napoleon wrasse, large grouper, schools of jacks and fusiliers, eagle rays, turtles, and dense soft coral and sea fan growth on the pinnacle walls.
+Whitetip reef sharks (resident and numerous — the primary species), grey reef sharks, stonefish, moray eels, turtles, octopus. Napoleon wrasse and grouper reported by dive operators. No site-specific confirmed records of hammerheads or whale sharks at this site.
 
 ## Diving Tips
 
-- The shark aggregation is best on the upcurrent face at 15–25 metres — position yourself there during the first part of the dive.
-- Grip the reef (carefully, on bare rock only) or use a reef hook to hold position against the current while watching the sharks.
-- Reef hooks are strongly recommended — confirm your operator supplies them.
-- Divers without prior kandu and strong-current Maldivian experience should build up to this site with gentler thilas first.
-- Visibility can be reduced by plankton blooms that attract the shark aggregations — embrace this as part of the experience.
+- Night diving is the premier experience here — whitetip sharks become active hunters after dark.
+- Reef hooks are strongly recommended for day dives when current runs; confirm your operator supplies them.
+- Position on the sheltered side of the pinnacle for shark viewing — do not chase or crowd the animals.
+- Currents are unpredictable and surging; strong buoyancy skills and current-diving experience are required.
+- This site requires Advanced Open Water or equivalent certification minimum.
 
 ## Getting There
 
-Maaya Thila is in North Ari Atoll, accessed by seaplane (25 minutes) or speedboat (approximately 2 hours) from Malé. Most Ari Atoll resorts and liveaboards include it as a featured dive.
+Maaya Thila is in North Ari Atoll, accessible by seaplane from Malé (approximately 25 minutes) or speedboat (approximately 2 hours). Most North Ari Atoll liveaboards and resorts list it as a signature dive.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Maldives Environment Ministry Protected Areas](https://protectedareas.environment.gov.mv/en/protected-areas/mayaa-thila), [Away Lands Maaya Thila Night Dive Guide](https://www.awaylands.com/story/maaya-thila-night-diving-in-the-maldives-a-complete-guide-for-liveaboard-divers/), [Scuba Diving Earth Maaya Thila](https://maldivesexclusive.com/stories/scuba-diving-at-maaya-thila-maldives). Last updated 2026-06-15.*

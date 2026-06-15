@@ -23,7 +23,7 @@ Ellaidhoo's house reef wraps around the island and drops through a shallow terra
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Hawksbill and green turtles, moray eels, blue-spotted stingrays, octopus, parrot
 The house reef is accessible directly from the beach or by short boat transfer to the outer slope. Early morning dives are particularly rewarding for turtle encounters. The inner lagoon section is perfect for night dives with fluorescent coral and hunting lionfish. Strong current is rarely encountered here, making this an ideal first dive in the Maldives.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

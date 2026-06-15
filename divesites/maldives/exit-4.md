@@ -23,7 +23,7 @@ Exit 4's position slightly offset from the main exit cluster (1, 2, 7, 8, 9, 10)
 
 - **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Hawksbill turtles, large parrotfish, garden eels, razorfish, grey reef sharks, m
 This exit is used when tidal conditions direct the drift toward the western section of the circuit. A standalone dive here is rewarding for its relative quietness compared to the clustered exits. Budget time to explore the sandy bottom at depth for sand-dwelling species before ascending the wall.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ The "Outside" designation refers to the outer atoll-facing slope of Finolhu isla
 
 - **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -31,11 +31,11 @@ The "Outside" designation refers to the outer atoll-facing slope of Finolhu isla
 
 ## Marine Life
 
-Eagle rays, hawksbill turtles, Napoleon wrasse, grey reef sharks, schools of fusiliers, snappers, surgeonfish, moorish idols, and diverse hard coral coverage. Occasional manta rays in season (November-April).
+Whitetip reef sharks confirmed at this site (Diverland Embudu operator). Stingrays and occasional manta rays or whale sharks also noted by the resident operator. The surrounding South Male Atoll regional fauna — eagle rays, turtles, fusiliers — may be present but are not specifically confirmed at this site.
 
 ## Tips for Divers
 
 This site is well-suited as a morning dive before the stronger tidal currents build at the nearby channel. The outer slope receives the most current, while the reef crest and inner slope offer sheltered alternatives if conditions are active. Combining with Embudu Kandu is a popular two-tank programme offered by local operators.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Diverland Embudu Dive Sites](https://www.diverland.com/en/tauchplaetzeemudu). No additional site-specific independent sources found. Last updated 2026-06-15.*

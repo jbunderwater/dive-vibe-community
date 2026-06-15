@@ -23,7 +23,7 @@ The dive site extends along the limestone reef fringing the Crystal Lagoon ancho
 
 - **Location**: Comino Island, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

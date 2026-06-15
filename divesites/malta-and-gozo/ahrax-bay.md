@@ -5,7 +5,7 @@ lng: 14.366201
 difficulty: Intermediate
 maxDepth: 20
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Ahrax Bay at L'Ahrax Point features a rock canyon leading to an underwater cave 
 
 - **Location**: L'Ahrax Point, north Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

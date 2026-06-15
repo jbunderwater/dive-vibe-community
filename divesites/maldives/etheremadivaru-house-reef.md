@@ -23,7 +23,7 @@ The reef wraps around the island with a distinctive wall character despite its s
 
 - **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Nudibranchs, flatworms, ghost pipefish, seahorses, frogfish (occasional), hawksb
 Bring a macro lens or close-up wet dioptre for the best photography opportunities. Move slowly along the wall and look carefully into crevices and on the undersides of overhangs for the most rewarding critter finds. The site is excellent for night dives, when the wall becomes active with hunting invertebrates and the encrusting growth fluoresces beautifully under blue light.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

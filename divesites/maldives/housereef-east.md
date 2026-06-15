@@ -25,7 +25,7 @@ The eastern exposure of this house reef benefits from the morning sun, which ill
 - **Entry Type**: Boat dive
 - **Depth**: Up to 12m
 - **Difficulty**: Beginner
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles, bluestripe snapper, triggerfish, damselfish, chromis, flounde
 Best dived in the morning when the eastern sun angle provides the clearest light for photography. The sandy bottom beside the reef base is worth investigating slowly — small critters often go unnoticed by divers who stay solely on the reef structure.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

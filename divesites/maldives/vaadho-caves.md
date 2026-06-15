@@ -31,4 +31,4 @@ The cave entrances are wide and light-filled, allowing ambient-light navigation 
 Advanced certification is required for penetrating the deeper sections of the cave system where natural light is absent. Divers must carry a primary torch and know their air consumption carefully before entering — always maintain the rule of thirds for penetration. Buoyancy precision is paramount to avoid disturbing the silty bottom inside the caves. The outer reef at the cave entrances can be dived independently as a wall dive if the caves are outside a diver's experience level.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

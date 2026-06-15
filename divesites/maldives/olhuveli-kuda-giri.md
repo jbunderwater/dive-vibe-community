@@ -23,7 +23,7 @@ Kuda Giri (meaning "small giri") near Olhuveli is a relatively modest coral stru
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -45,4 +45,4 @@ Nurse sharks, white-tip reef sharks, parrotfish, surgeonfish, moray eels, puffer
 Olhuveli Island is in South Malé Atoll, approximately 45 minutes by speedboat from Malé or accessible from the nearby resort.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

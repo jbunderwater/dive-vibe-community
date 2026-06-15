@@ -25,7 +25,7 @@ Located in the relatively sheltered interior of South Male Atoll, Ihi Reef is a 
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles, Napoleon wrasse, grouper, moray eels, whitetip reef sharks, a
 A good site for beginners stepping up from house reef dives, or intermediate divers seeking an unhurried exploration dive. The shallow crest is excellent for safety stops and offers some of the best fish density on the reef.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

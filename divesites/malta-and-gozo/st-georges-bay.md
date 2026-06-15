@@ -23,7 +23,7 @@ St. George's Bay is a Blue Flag certified beach in the St. Julian's/Paceville ar
 
 - **Location**: St. Julian's/Paceville, NE Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 meters

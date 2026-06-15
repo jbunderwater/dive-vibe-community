@@ -3,7 +3,7 @@ name: HMS Stubborn
 lat: 35.982533
 lng: 14.446167
 difficulty: Advanced
-maxDepth: 55
+maxDepth: 57
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,48 +17,49 @@ A WWII S-class submarine scuttled as a sonar target in 1946 — Malta's only sub
 
 ## Overview
 
-HMS Stubborn (pennant P238) was an S-class British submarine (Third Group) built by Cammell Laird & Co, Birkenhead, launched 11 November 1942. At 66 metres long with a beam of 7.16 metres, she displaced 814–872 tons surfaced. Armed with six forward and one aft torpedo tubes (13 torpedoes), a 3-inch gun, 20mm cannon, and machine guns, she served with distinction during the war — sinking the German merchant vessel Makki Faulbaum in February 1944, then transferring to the Pacific where she sank the Japanese patrol vessel No.2 (ex-destroyer Nadakaze) in the Java Sea.
+HMS Stubborn (pennant P238) was an S-class British submarine built by Cammell Laird & Co., Birkenhead. Launched 11 November 1942, the vessel measured 217 feet (66 m) in length with a 23 ft 6 in (7.16 m) beam and displaced 814–872 tons surfaced and 990 tons submerged. Armament included six forward 21-inch (533 mm) torpedo tubes, one aft torpedo tube (13 torpedoes total), a 3-inch gun forward of the conning tower, and a 20 mm Oerlikon cannon.
 
-After the war, HMS Stubborn was deliberately scuttled by the Royal Navy on 30 April 1946 as an ASDIC (sonar) training target. Propellers and armaments were removed before scuttling. She lies approximately 3 km north-east of Qawra Point at 56–57 metres depth, fairly upright on a sandy bottom with a slight starboard tilt. The conning tower is intact with open hatches, and torpedo tubes are visible at the bow. As the only submarine wreck at accessible technical diving depths in Malta (others exceed 100 metres), HMS Stubborn is a prized destination for technical divers.
+HMS Stubborn served in European and Pacific theatres during World War II. In February 1944 she sank the German merchant vessel Makki Faulbaum; she also damaged the Felix D. off Norway. Transferring to the Pacific, she sank a Japanese patrol vessel (formerly the destroyer Nadakaze) in the Java Sea.
+
+After the war, HMS Stubborn was deliberately scuttled by the Royal Navy on 30 April 1946 as an ASDIC (sonar) training target. Instruments, armaments, and periscopes were removed before scuttling, training naval officers to listen on sonar devices to detect the presence of submarines. The wreck lies approximately 3 nautical miles north-east of St Paul's Bay, resting upright at 57 metres depth on a sandy seabed.
 
 ## Site Information
 
-- **Location**: ~3 km NE of Qawra Point / St. Paul's Bay
+- **Location**: ~3 nautical miles NE of St Paul's Bay, Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 55 meters
+- **Maximum Depth**: 57 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Variable
 - **Best Time**: May to October
 
 ## Marine Life
 
-The hydrodynamic submarine hull supports limited external marine life compared to more complex wreck structures. Some sponge growth and encrustation on the hull. The sandy bottom surroundings are relatively barren.
+No site-specific marine life reports found. The wider Malta/Gozo waters support grouper, moray eels, octopus, bream, barracuda, and Mediterranean corals.
 
 ## Dive Profile
 
-Descend to the submarine at 56–57 metres. Orient to the conning tower amidships — the open hatches allow a view inside. Move forward to the bow to inspect the six torpedo tubes. The 66-metre length allows a full circuit within bottom time constraints. Note the slight starboard tilt and the missing propellers (removed before scuttling).
+Descend to the submarine at 57 metres. The conning tower amidships is the primary orientation point. The six forward torpedo tubes are visible at the bow. The 66-metre length allows a full exterior circuit within bottom time constraints at this depth. Note the missing propellers and armaments (removed before scuttling) and the slight tilt.
 
 ## Entry and Exit
 
-Boat dive only from St. Paul's Bay or Buġibba operators. The site is approximately 3 km offshore. Technical diving qualifications required.
+Boat dive only from St. Paul's Bay or Buġibba operators. The site is approximately 3 nautical miles offshore. Technical diving qualifications are required.
 
 ## Tips and Recommendations
 
-- Malta's only submarine wreck at diveable technical depths — all others exceed 100m
-- Propellers were removed before scuttling — don't expect to see them
-- The conning tower with open hatches is the highlight feature
-- The torpedo tubes at the bow are clearly visible
-- She sank two enemy vessels during the war — Germany and Japan
+- Malta's only submarine wreck at diveable technical depths
+- Propellers and armaments were removed before scuttling
+- The conning tower is the key orientation feature
+- The vessel served in both the European and Pacific theatres during WWII
 
 ## Safety Considerations
 
-Technical dive at 56–57 metres requiring trimix or appropriate gas mixtures. The submarine hull is relatively bare — maintain orientation using the conning tower. Carry SMB and appropriate decompression gases.
+Technical dive at 57 metres requiring trimix or appropriate gas mixtures. Carry SMB and appropriate decompression gases. Technical diving qualifications mandatory.
 
 ## Photography
 
-The classic submarine silhouette is the signature shot — shoot from below to silhouette against ambient light. The conning tower with open hatches provides detail opportunities. The bow torpedo tubes make a dramatic close-up subject.
+The classic submarine silhouette is the signature shot — shoot from below to silhouette against ambient light. The conning tower and bow torpedo tubes provide close-up subjects.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Wikipedia](https://en.wikipedia.org/wiki/HMS_Stubborn), [Underwater Malta](https://underwatermalta.org), [Aquarium Malta](https://aquarium.com.mt). Last updated 2026-04-10.*
+*Sources: [Wikipedia — HMS Stubborn (P238)](https://en.wikipedia.org/wiki/HMS_Stubborn_(P238)), [Malta National Aquarium — HMS Stubborn](https://www.aquarium.com.mt/the-aquarium/maltese-history/hms-stubborn-p238/), [MaltaDives — HMS Stubborn](https://maltadives.com/sites/hmsstubborn/en). Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ Fortizza Reef is part of the Sliema House Reef complex, featuring caverns, tunne
 
 - **Location**: Sliema promenade, Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–30 meters

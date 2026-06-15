@@ -23,7 +23,7 @@ Marsalforn Bay on Gozo's north coast is a shallow training and night dive site d
 
 - **Location**: Marsalforn, north coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 meters

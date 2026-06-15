@@ -2,7 +2,7 @@
 name: Bottleneck Cave (Dive Site)
 lat: 36.0830993
 lng: 14.2351266
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ The cave is accessed through a narrow bottleneck entrance — the feature that g
 - **Location**: Northwest Gozo, Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Generally calm inside; exposed coast outside

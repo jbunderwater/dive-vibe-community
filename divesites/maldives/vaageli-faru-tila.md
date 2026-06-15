@@ -31,4 +31,4 @@ The pinnacle's summit is carpeted with branching and encrusting corals alive wit
 As a standalone pinnacle, the tila requires confident open-water buoyancy and awareness of surge effects on the exposed summit. Divers can spend the entire dive circumnavigating the pinnacle on a gradual descent-and-ascent loop. The shallow summit makes a rewarding extended safety stop. The site is best combined with Vaageli Tila, Vaageli Corner, or the Vaageli Faru wall dives for a comprehensive day on the reef complex.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

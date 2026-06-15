@@ -23,7 +23,7 @@ Jesus of Qawra (Kristu tal-Baħħara / Statue of Christ) is a 3-metre-tall concr
 
 - **Location**: Qawra Point, NE Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 meters

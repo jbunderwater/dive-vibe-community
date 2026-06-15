@@ -45,4 +45,4 @@ Grey reef sharks, white-tip reef sharks, eagle rays, blue and purple soft corals
 Maalhos Thila is accessed by boat from resorts in North Ari Atoll or by liveaboard operating in Ari Atoll. Nearest resort access is from Maalhos Island area. Ari Atoll is reached by seaplane (25 minutes) or speedboat (2 hours) from Malé.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

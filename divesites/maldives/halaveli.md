@@ -5,7 +5,7 @@ lng: 72.9116389
 difficulty: Intermediate
 maxDepth: 28
 entryType: boat
-siteType: pinnacle
+siteType: wreck
 ref: null
 osmId: 663869881
 addedBy: osm_import
@@ -13,36 +13,36 @@ addedBy: osm_import
 
 ## Halaveli
 
-Halaveli is a popular coral pinnacle dive near Halaveli Island in North Ari Atoll, known for its relaxed intermediate-level conditions, diverse reef fish communities, and resident turtle population.
+The Halaveli Wreck is a 40-metre cargo vessel — also known as the "Highly 18" — deliberately sunk in 1991 by Halaveli Dive Centre to create an artificial reef in North Ari Atoll.
 
 ## Overview
 
-The Halaveli thila rises from around 28 metres to just below the surface, forming a broad-topped pinnacle with multiple coral spurs and gullies to explore. The summit is a rich coral garden — brain corals, massive Porites heads, and encrusting formations — alive with anthias, damselfish, and butterflyfish. Descending the flanks, larger fish take over: grouper and Napoleon wrasse patrol the mid-depths, moray eels emerge from crevices, and hawksbill turtles are frequently observed resting on the deeper ledges. Grey reef sharks and whitetip reef sharks circle the base of the pinnacle, particularly during tidal flow. The site is often used as a second or third dive of the day given its manageable depth and reliable wildlife encounters. Visibility averages 15–25 metres. Water temperature holds at 27–29°C.
+The vessel was intentionally capsized and now rests upright on sand about 20 metres from the reef. The deck lies at 21 metres and the seabed at 28 metres, making it accessible at intermediate level. Since sinking in 1991, the hull has been progressively colonised by encrusting life. The wreck is home to resident moray eels and mackerel; turtles are regularly encountered in and around the structure. At night, barracuda, turtles, and arrays of reef fish emerge. The site is considered accessible for all levels of certified divers, with no penetration skills required to enjoy the exterior.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Ari Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Depth**: Up to 28m
+- **Depth**: Deck at 21 m; seabed at 28 m
 - **Difficulty**: Intermediate
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Wreck dive
 
 ## Marine Life
 
-Hawksbill turtles, grey reef sharks, whitetip reef sharks, Napoleon wrasse, grouper, moray eels, anthias, damselfish, butterflyfish, and occasional eagle rays.
+Moray eels, turtles, mackerel, grouper, barracuda (especially at night), reef fish. No site-specific records of grey reef sharks or eagle rays at this site — regional species may be present but are not confirmed here by name.
 
 ## Diving Conditions
 
 | Condition | Details |
 |-----------|---------|
 | Visibility | 15–25m |
-| Current | Light to moderate |
+| Current | Light |
 | Water Temp | 27–29°C |
 | Best Season | Year-round |
 
 ## Tips for Divers
 
-Spend time on the summit in the shallows for the safety stop — the coral here is particularly photogenic and the small reef fish are approachable. Turtles are most commonly seen on the eastern flank. The site can be dived in either direction around the pinnacle depending on current.
+The shallow deck at 21 m allows comfortable bottom time. A torch is useful for illuminating the interior. The wreck sits 20 m from the reef, so finishing the dive on the adjacent reef is a natural extension. Penetration into the vessel requires appropriate wreck diving training.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Duikersgids Halaveli Wreck](https://www.duikersgids.nl/en/halaveli-wreck), [Werner Lau Diving Centers](https://www.wernerlau.com/en/diving-maldives/bathala-en/blog/halaveli-wreck/), [Divescover Halaveli Wreck](https://divescover.com/dive-site/halaveli-wreck/24335). Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ The name madivaru signals that this reef sits along a manta ray cleaning and fee
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -45,4 +45,4 @@ Manta rays (seasonal, October–April peak), eagle rays, turtles, white-tip reef
 Rangali Island and South Ari Atoll are accessible by seaplane from Malé (approximately 30 minutes). The Conrad Rangali Island resort (now Hilton) is the primary access point, though liveaboards also regularly visit.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

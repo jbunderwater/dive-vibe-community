@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, eagle rays, barracuda, bigeye trevally, 
 Dive on an incoming tide for the best shark and pelagic encounters at the channel mouth. Advanced buoyancy control is essential — sudden downcurrents can occur near the corner. Agree on a drift pick-up plan with the boat before entering. A surface marker buoy (SMB) is mandatory.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

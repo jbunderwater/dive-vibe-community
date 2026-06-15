@@ -23,7 +23,7 @@ Faru in Dhivehi means the outer reef — the atoll's perimeter reef facing the o
 
 - **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Napoleon wrasse, grey reef sharks, schools of fusiliers and barracuda, big-eye t
 This site pairs well with the manta station at Emmadi Giri for a two-tank programme. The outer slope is the most productive section — stay at 15-20 meters on the outer face for shark and Napoleon wrasse encounters. The reef crest provides a good safety stop area with snorkellable depth for boat pick-up in calm conditions.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

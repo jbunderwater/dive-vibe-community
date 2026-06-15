@@ -23,7 +23,7 @@ The pairing of Exits 5 and 6 mirrors that of Exits 1 and 2 — two adjacent moor
 
 - **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Whip corals and sea fans (well-developed), hunting trevally, tuna, parrotfish at
 The zone between these two exits is worth spending extra time on for the soft coral density and cleaning station activity. Approach the cleaning stations slowly and hover at a respectful distance to watch undisturbed fish behaviour. The current eddies around the reef feature at depth can make buoyancy more dynamic here than at the simpler sloping exits on either side.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

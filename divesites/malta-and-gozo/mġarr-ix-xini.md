@@ -2,10 +2,10 @@
 name: Mġarr ix-Xini
 lat: 36.0177654
 lng: 14.2728799
-difficulty: Intermediate
-maxDepth: 20
-entryType: boat
-siteType: beach
+difficulty: Beginner
+maxDepth: 17
+entryType: shore
+siteType: reef
 ref: null
 osmId: 4159831407
 addedBy: osm_import
@@ -22,10 +22,10 @@ Mġarr ix-Xini ('harbour of galleons') is a protected inlet on Gozo's south coas
 ## Site Information
 
 - **Location**: Mġarr ix-Xini, south coast Gozo
-- **Entry Type**: Boat dive
-- **Site Type**: Beach dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October

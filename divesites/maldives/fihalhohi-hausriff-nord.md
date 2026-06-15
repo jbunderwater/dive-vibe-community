@@ -23,7 +23,7 @@ Fihalhohi Island's house reef is divided into distinct sections by local dive op
 
 - **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15-25 meters
@@ -38,4 +38,4 @@ Hawksbill turtles, large parrotfish, surgeonfish, grouper, bannerfish, pufferfis
 The north section is the go-to recommendation for first dives in the Maldives at this resort, offering calm conditions and reliable turtle encounters in a forgiving depth range. Night dives here are excellent — the reef transforms with active octopus and shrimp visible in torchlight. Connect southward along the reef for a longer circuit to the main Hausriff section.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

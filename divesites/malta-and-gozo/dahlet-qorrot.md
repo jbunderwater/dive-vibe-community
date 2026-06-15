@@ -23,7 +23,7 @@ Dahlet Qorrot is a small inlet nestled between the northern cliffs of Gozo near 
 
 - **Location**: Dahlet Qorrot, near Nadur, east coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20–40 meters (avg 30m)

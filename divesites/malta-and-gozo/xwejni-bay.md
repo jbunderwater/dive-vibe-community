@@ -2,9 +2,9 @@
 name: Xwejni Bay
 lat: 36.078825
 lng: 14.2476036
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 13624763580
@@ -22,9 +22,9 @@ Xwejni Bay on Gozo's north coast is the access point for several famous dive sit
 ## Site Information
 
 - **Location**: Xwejni Bay, north coast Gozo
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate

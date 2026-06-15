@@ -23,7 +23,7 @@ The reef descends over limestone steps and boulders to approximately 20 metres, 
 
 - **Location**: Southwest Comino, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters

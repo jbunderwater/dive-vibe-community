@@ -41,4 +41,4 @@ The upper sections of the thila have good hard coral coverage, with chromis and 
 Best dived with knowledge of the current direction to plan a drift along the length of the thila. Intermediate-level current experience recommended. Visibility typically 15–25 m. Boat access from South Malé Atoll resorts.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

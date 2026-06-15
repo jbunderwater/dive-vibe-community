@@ -3,7 +3,7 @@ name: Miyaru Kandu
 lat: 3.5996409
 lng: 73.5042226
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 31
 entryType: boat
 siteType: drift
 ref: null
@@ -13,36 +13,37 @@ addedBy: osm_import
 
 ## Miyaru Kandu
 
-Miyaru Kandu — "Shark Channel" in Dhivehi — is a powerful tidal channel in South Malé Atoll that lives up to its name, delivering some of the most concentrated grey reef shark encounters in the atoll as currents drive divers past walls crowded with predatory fish.
+Miyaru Kandu — "Shark Channel" in Dhivehi — is a wide tidal channel north of Alimatha island in Vaavu Atoll (Felidhoo Atoll), approximately 120 minutes from Male by speedboat, known for concentrated grey reef shark and whitetip reef shark encounters.
 
 ## Overview
 
-Miyaru Kandu is a classic Maldivian kandu experience, where tidal flow accelerates through the channel cut and pushes divers along walls stacked with sea fans, soft corals, and overhangs that shelter dense concentrations of fish. Grey reef sharks are the headline act, gathering in groups on the upcurrent face at the channel mouth as the current brings plankton-rich water in from the open ocean. White-tip reef sharks patrol the walls and rest in sandy hollows deeper in the channel, while schools of jacks and trevally course through the water column in pursuit of smaller fish. The current on strong days is intense and requires confident buoyancy management; beginners should build experience on gentler sites before attempting this channel.
+Miyaru Kandu is approximately 150 metres wide with sloping corners to the north and south, dropping to a sandy channel bottom at around 29–31 metres with midnight coral. Incoming tides push through the channel and generate the current that concentrates predators. Multiple sources confirm large schools of grey reef sharks (sometimes 20–50 individuals) and whitetip reef sharks, tuna, and Napoleon wrasse. Scalloped hammerheads have been reported at this site on some dives during the right conditions, though encounters are not guaranteed. Current speeds of 3–4 knots are typical; on strong current days this site demands expert-level drift skills. Visibility typically reaches 20–35 metres.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Vaavu Atoll (Felidhoo Atoll), Maldives — north of Alimatha island
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Strong, tidal — timing essential
+- **Maximum Depth**: 31 meters
+- **Typical Visibility**: 20–35 metres
+- **Current**: Strong to very strong (3–4 knots typical), tidal
 
 ## Marine Life
 
-Grey reef sharks (often in groups), white-tip reef sharks, schools of jacks and trevally, fusiliers, napoleon wrasse, eagle rays, sea fans, and soft corals on the channel walls.
+Grey reef sharks (schools confirmed, 20–50 individuals reported), whitetip reef sharks, tuna, Napoleon wrasse, giant trevally. Scalloped hammerheads reported on some dives — not a guaranteed encounter. Channel floor has midnight coral formations on sandy bottom.
 
 ## Diving Tips
 
-- Dive on an incoming tide for the best shark concentrations at the ocean-facing channel entrance.
-- Use the channel wall as a windbreak and a reference — do not allow yourself to be swept into blue water.
-- Reef hooks are useful on strong current days; confirm with your operator.
-- Advanced certification and prior drift dive experience are required; this is not a site for first-time drift divers in the Maldives.
+- Dive on an incoming tide for best shark concentrations at the ocean-facing channel entrance.
+- The channel is about 150 m wide — stay oriented to the sloping walls on entry.
+- Reef hooks are strongly recommended; confirm with your operator.
+- Advanced Open Water minimum; 50+ logged dives and prior drift experience recommended by local operators.
+- A surface marker buoy (SMB) is mandatory for the drift exit.
 
 ## Getting There
 
-Miyaru Kandu is in South Malé Atoll, reached by boat from resorts in the area or from Malé, approximately 30–90 minutes depending on departure point.
+Miyaru Kandu is in Vaavu Atoll, approximately 120 minutes from Male by speedboat or accessible by liveaboard. Alimatha Island Resort is the closest base.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Maldivestour.guide Miyaru Kandu](https://maldivestour.guide/diving/miyaru-kandu-maldives.html), [ZuBlu Vaavu Atoll](https://www.zubludiving.com/destination/maldives/central-atolls/vaavu-atoll), [Emperor Divers Southern Shark Adventure](https://www.emperordivers.com/liveaboard-itinerary/southern-shark-adventure/). Last updated 2026-06-15.*

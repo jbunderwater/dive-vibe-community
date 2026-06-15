@@ -23,7 +23,7 @@ The "five rocks" are a cluster of separate coral bommies and rock formations ris
 
 - **Location**: Central-Southern Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Schooling reef fish (fusiliers, snapper, surgeonfish), moray eels, grouper, gard
 Plan to circumnavigate all five structures during the dive, exploring the sandy channels between them as well as the rocks themselves. Bring a torch for the tunnels and overhangs — the shadow zones between the rocks often contain the most concentrated critter life. The sandy base is worth a slow pass for sand-dwelling species. The formation lends itself to a circular route finishing on the largest central rock for the safety stop.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

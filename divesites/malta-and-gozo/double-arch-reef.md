@@ -2,9 +2,9 @@
 name: Double Arch Reef
 lat: 36.0817379
 lng: 14.2465145
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
-entryType: boat
+entryType: shore
 siteType: wall
 ref: null
 osmId: 384933337
@@ -22,9 +22,9 @@ The site features a wall descending to approximately 30 metres, interrupted by t
 ## Site Information
 
 - **Location**: Northwest Gozo, Malta
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Variable; exposed coast position

@@ -45,4 +45,4 @@ Reef manta rays (up to 5–7 at once at the cleaning station), eagle rays, grey 
 Approach the cleaning station slowly and hover at the same depth as the mantas — do not ascend into their space or chase them. Fin movements should be minimal to avoid disturbing the cleaning behaviour. The current can pick up quickly once past the station; be prepared to signal the boat early for a drift pick-up. Carry an SMB.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for manta cleaning station kandu dives in North Ari Atoll. OSM description tag notes 5–7 mantas observed simultaneously. No site-specific third-party source for Gangehi North Kandu found. Last updated 2026-06-15.*

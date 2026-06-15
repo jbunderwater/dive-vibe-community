@@ -31,4 +31,4 @@ Tiger sharks are the defining attraction at this site — typically large adults
 Dive briefings from local guides are essential before entering the water — tiger shark behaviour at this site is influenced by feeding history and diver conduct protocols. Divers should refrain from sudden movements and maintain a kneeling or stationary posture on the reef during sightings. Keeping hands in or close to the body and avoiding shiny jewellery reduces the risk of investigative bites. This is an intermediate-rated site on depth but warrants experienced, calm divers given the nature of the encounters.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*
