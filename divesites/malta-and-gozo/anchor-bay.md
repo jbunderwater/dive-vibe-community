@@ -5,7 +5,7 @@ lng: 14.340259
 difficulty: Beginner
 maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Anchor Bay is a small inlet between two cliffs on Malta's north-west coast, famo
 
 - **Location**: Anchor Bay, NW Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

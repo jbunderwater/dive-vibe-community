@@ -4,7 +4,7 @@ lat: 36.0106363
 lng: 14.3262397
 difficulty: Beginner
 maxDepth: 12
-entryType: shore
+entryType: boat
 siteType: cave
 ref: null
 osmId: 4159831393
@@ -22,7 +22,7 @@ The Blue Lagoon Tunnel is part of the Comino dive site complex near the famous B
 ## Site Information
 
 - **Location**: Blue Lagoon, Comino
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters

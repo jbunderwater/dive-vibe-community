@@ -2,10 +2,10 @@
 name: Big Bear-Little Bear
 lat: 36.0515249
 lng: 14.1880935
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
-entryType: boat
-siteType: reef
+entryType: shore
+siteType: cave
 ref: null
 osmId: 384942080
 addedBy: osm_import
@@ -22,9 +22,9 @@ The two rock formations — "Big Bear" (the larger) and "Little Bear" (the small
 ## Site Information
 
 - **Location**: West Gozo, Malta
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Variable; exposed west-facing coast

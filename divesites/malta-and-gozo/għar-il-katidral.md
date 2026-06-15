@@ -4,7 +4,7 @@ lat: 36.0810848
 lng: 14.2300776
 difficulty: Intermediate
 maxDepth: 20
-entryType: boat
+entryType: both
 siteType: cave
 ref: null
 osmId: 384935638
@@ -22,7 +22,7 @@ Għar il-Katidral (Cathedral Cave) in Ghasri Valley on Gozo's west coast feature
 ## Site Information
 
 - **Location**: Ghasri Valley, west coast Gozo
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore or boat entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters

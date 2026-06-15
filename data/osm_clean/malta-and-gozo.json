@@ -7,8 +7,8 @@
     "osm_type": "node",
     "depth": 20,
     "site_type": "beach",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Il-Bajja tax-Xwejni",
       "name:en": "Xwejni Bay",
@@ -17,8 +17,10 @@
       "wikidata": "Q3571076",
       "wikipedia": "en:Xwejni Bay",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "maltadives.com,blueholediving.com,divers-guide.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 15
   },
   {
     "name": "Santa Marija Point",
@@ -35,7 +37,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -46,15 +49,17 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Double Arch Reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "gozodive.com,divebluewaters.com,atlantisgozo.com,maltadives.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 35
   },
   {
     "name": "Calypso Cave",
@@ -72,7 +77,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -91,8 +97,11 @@
       "natural": "cliff",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "alertdiver.eu,seashelldivingmalta.com,gozodive.com",
+      "last_qa_date": "2026-06-15",
+      "validation_notes": "Largest cave on Gozo ~100-130m long. Air pocket inside but gas quality unverified. Technical chimney exits at 57m."
+    },
+    "maxDepth": 28
   },
   {
     "name": "Għar il-Katidral",
@@ -102,7 +111,7 @@
     "osm_type": "node",
     "depth": 20,
     "site_type": "cave",
-    "entry_type": "boat",
+    "entry_type": "both",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Għar il-Katidral",
@@ -111,7 +120,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "gozoaquasports.com,blueholediving.com,atlantisgozo.com,padi.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -131,7 +141,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -149,7 +160,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -159,15 +171,16 @@
     "osm_id": 384942080,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Big Bear-Little Bear",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "maltadives.com,divesystemsmalta.com,tdisdi.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -178,15 +191,17 @@
     "osm_type": "node",
     "depth": 20,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "The Washing Machine",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "maltadives.com,ritualdive.com,gozodive.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 10
   },
   {
     "name": "Um El Faroud",
@@ -208,7 +223,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -229,7 +245,8 @@
       "scuba_diving:maxdepth": "70",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "gozodive.com,divers-guide.com,divemalta.com,atlantisgozo.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -254,7 +271,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -273,7 +291,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -315,8 +334,10 @@
       "natural": "cave",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "padi.com,private-scuba.com,divers-guide.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 16
   },
   {
     "name": "Crystal Lagoon (Dive Site)",
@@ -333,7 +354,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -344,15 +366,17 @@
     "osm_type": "node",
     "depth": 12,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Blue Lagoon Tunnel Dive Site",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "divemalta.com,paradisediving.com,gozodive.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 8
   },
   {
     "name": "Lantern Point West Dive Site",
@@ -369,7 +393,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -387,7 +412,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -405,7 +431,8 @@
       "natural": "arch",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -423,7 +450,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -441,7 +469,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -480,7 +509,8 @@
       "scuba_diving:depth": "30",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -577,16 +607,18 @@
     "osm_id": 4159831405,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
+    "site_type": "wall",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Xatt l-Aħmar Reef",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "maltadives.com,divers-guide.com,divebluewaters.com,ritualdive.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 35
   },
   {
     "name": "Ta' Ċenċ Dive Site",
@@ -603,7 +635,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -642,7 +675,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -665,7 +699,8 @@
       "wreck:depth": "22",
       "wreck:length": "100",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -715,7 +750,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -727,15 +763,18 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Bottleneck Cave (Dive Site)",
       "natural": "cave",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "maltadives.com,thescubadirectory.com,indepthmag.com",
+      "last_qa_date": "2026-06-15",
+      "validation_notes": "Technical/cave dive only: entrance at 37m, bottom 58m. Not recreational."
+    },
+    "maxDepth": 37
   },
   {
     "name": "Xwejni Bay",
@@ -745,15 +784,17 @@
     "osm_type": "node",
     "depth": 20,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Xwejni Bay",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "maltadives.com,blueholediving.com,divers-guide.com",
+      "last_qa_date": "2026-06-15"
+    },
+    "maxDepth": 15
   },
   {
     "name": "Qbajjar Reef",
@@ -770,7 +811,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "web_research",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -807,7 +849,8 @@
     "tags": {
       "name": "Coral Gardens",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -821,21 +864,8 @@
     "tags": {
       "name": "Fortizza Reef",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
-  },
-  {
-    "name": "Sliema House Reef",
-    "lat": 35.906363,
-    "lon": 14.509184,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Sliema House Reef",
-      "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -849,7 +879,8 @@
     "tags": {
       "name": "South Reef",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -863,7 +894,8 @@
     "tags": {
       "name": "Blue Grotto",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -922,14 +954,18 @@
     "lat": 35.996849,
     "lon": 14.366201,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ahrax Bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,calypsosac.org,divewise.com.mt",
+      "validated": "true"
+    },
+    "maxDepth": 18
   },
   {
     "name": "The Canyon",
@@ -937,13 +973,17 @@
     "lon": 14.407786,
     "depth": 20,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "The Canyon",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "divers-guide.com",
+      "validated": "true"
+    },
+    "maxDepth": 18
   },
   {
     "name": "Carolita",
@@ -956,7 +996,8 @@
     "tags": {
       "name": "Carolita",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -964,13 +1005,16 @@
     "lat": 35.960023,
     "lon": 14.340259,
     "depth": 12,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "name": "Anchor Bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,nds-malta.com,seashelldivingmalta.com",
+      "validated": "true"
     }
   },
   {
@@ -984,8 +1028,13 @@
     "tags": {
       "name": "Jesus of Qawra",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,diveboat.mt,padi.com,seashelldivingmalta.com",
+      "validated": "true",
+      "validation_notes": "Statue relocated from St Pauls Island to Qawra Point 17 May 2000. Anchor nearby 17th c. ~30m from MV Imperial Eagle."
+    },
+    "maxDepth": 35
   },
   {
     "name": "Dragonara cave",
@@ -998,7 +1047,8 @@
     "tags": {
       "name": "Dragonara cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1006,13 +1056,16 @@
     "lat": 35.97722,
     "lon": 14.356835,
     "depth": 12,
-    "site_type": "reef",
+    "site_type": "beach",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "name": "Mellieha bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "zentacle.com,manawa.com,maltadives.com",
+      "validated": "true"
     }
   },
   {
@@ -1020,14 +1073,19 @@
     "lat": 35.987903,
     "lon": 14.327728,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Madonna",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,cirkewwamarinepark.mt",
+      "validated": "true",
+      "validation_notes": "Statue placed Nov 1987 by Amphibians Diving Club. Located in Susie's Pool area of Cirkewwa, not the main reef wall."
+    },
+    "maxDepth": 18
   },
   {
     "name": "Ghar Lapsi",
@@ -1040,7 +1098,8 @@
     "tags": {
       "name": "Ghar Lapsi",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1086,7 +1145,8 @@
     "tags": {
       "name": "Inland Sea",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1146,14 +1206,18 @@
     "lat": 36.0192,
     "lon": 14.2898,
     "depth": 30,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Xatt I-Ahmar",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,divers-guide.com,divebluewaters.com,ritualdive.com",
+      "validated": "true"
+    },
+    "maxDepth": 35
   },
   {
     "name": "Sanap Cliffs",
@@ -1166,7 +1230,8 @@
     "tags": {
       "name": "Sanap Cliffs",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1180,7 +1245,8 @@
     "tags": {
       "name": "Dawra Tas-Sanap",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1194,7 +1260,8 @@
     "tags": {
       "name": "Gozo chamber",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1208,7 +1275,8 @@
     "tags": {
       "name": "Ulysses Cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1222,7 +1290,8 @@
     "tags": {
       "name": "Zurziep Reef",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1236,8 +1305,13 @@
     "tags": {
       "name": "Whale Cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "maltadives.com,divinginfo.mt",
+      "validated": "true",
+      "validation_notes": "Open crack cave (not true overhead): surface accessible throughout. Also known as Ghar in-Niexef / Audrey's Crack."
+    },
+    "maxDepth": 40
   },
   {
     "name": "Tal-Barba Cave",
@@ -1250,7 +1324,8 @@
     "tags": {
       "name": "Tal-Barba Cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1264,7 +1339,8 @@
     "tags": {
       "name": "Wied ir-Raheb",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1278,7 +1354,8 @@
     "tags": {
       "name": "Ta'Camma caves",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1292,7 +1369,8 @@
     "tags": {
       "name": "Halq Hamiem",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1306,7 +1384,8 @@
     "tags": {
       "name": "Hekka Point",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1320,7 +1399,8 @@
     "tags": {
       "name": "Tac-Cawla Caves",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1334,7 +1414,8 @@
     "tags": {
       "name": "Wied il-Mielah",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1348,7 +1429,8 @@
     "tags": {
       "name": "Il-Margun",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1362,7 +1444,8 @@
     "tags": {
       "name": "Forna Point",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1376,7 +1459,8 @@
     "tags": {
       "name": "Anchor reef (Gozo)",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1390,7 +1474,8 @@
     "tags": {
       "name": "Submarine cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1404,7 +1489,8 @@
     "tags": {
       "name": "Scotscraig",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1418,7 +1504,8 @@
     "tags": {
       "name": "Dornier Wal XI",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1449,7 +1536,8 @@
     "tags": {
       "name": "West Reef/Caves",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1457,13 +1545,17 @@
     "lat": 35.7868,
     "lon": 14.409,
     "depth": 70,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Filfla",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "divesystemsmalta.com,divers-guide.com,maltadives.com,oceanatik.com",
+      "validated": "true",
+      "validation_notes": "Permit required from Malta Ministry of Environment. UXO on seabed from RAF/RN target practice pre-1971 — do not touch anything."
     }
   },
   {
@@ -1477,7 +1569,8 @@
     "tags": {
       "name": "Scorpion Cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1491,7 +1584,8 @@
     "tags": {
       "name": "Ghar Lapsi cavern",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1539,7 +1633,8 @@
     "tags": {
       "name": "Phoenician Shipwreck",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1622,7 +1717,8 @@
     "tags": {
       "name": "Schnellboot S-31",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1636,7 +1732,8 @@
     "tags": {
       "name": "Victorian Guns",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1650,7 +1747,8 @@
     "tags": {
       "name": "Xlighter 127",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1715,7 +1813,8 @@
     "tags": {
       "name": "Tac-Cawla Rocks",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1729,7 +1828,8 @@
     "tags": {
       "name": "Rdum il-Qawwi",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1743,7 +1843,8 @@
     "tags": {
       "name": "Devil's Reef",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1757,7 +1858,8 @@
     "tags": {
       "name": "Smugglers Cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1771,7 +1873,8 @@
     "tags": {
       "name": "Sirens",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1785,7 +1888,8 @@
     "tags": {
       "name": "Fra Ben cave",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1799,7 +1903,8 @@
     "tags": {
       "name": "MV Imperial Eagle",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1847,7 +1952,8 @@
     "tags": {
       "name": "Wied Bassasa",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1878,7 +1984,8 @@
     "tags": {
       "name": "Tuna farm.",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1892,7 +1999,8 @@
     "tags": {
       "name": "Tuna Farm",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1906,7 +2014,8 @@
     "tags": {
       "name": "Għar Ħarq Ħamiem",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1920,7 +2029,8 @@
     "tags": {
       "name": "Anchor reef (Comino)",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1934,7 +2044,8 @@
     "tags": {
       "name": "Marsalforn Bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1948,7 +2059,10 @@
     "tags": {
       "name": "Xemxija Bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "false",
+      "last_qa_date": "2026-06-15",
+      "validation_notes": "Not listed in any Malta dive operator database. May be geographic scrape, not a formal named dive site."
     }
   },
   {
@@ -1962,7 +2076,10 @@
     "tags": {
       "name": "San Georges Bay",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "false",
+      "last_qa_date": "2026-06-15",
+      "validation_notes": "Not listed in any Malta dive operator database. May be geographic scrape, not a formal named dive site."
     }
   },
   {
@@ -1976,7 +2093,8 @@
     "tags": {
       "name": "Zonqor Point Wreck's",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1990,7 +2108,8 @@
     "tags": {
       "name": "Dhalet Qorrot",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15"
     }
   }
 ]

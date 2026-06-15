@@ -2,10 +2,10 @@
 name: Madonna
 lat: 35.987903
 lng: 14.327728
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ The Madonna dive site features an underwater statue of the Holy Mary placed in a
 
 - **Location**: Cirkewwa, north Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Light to moderate

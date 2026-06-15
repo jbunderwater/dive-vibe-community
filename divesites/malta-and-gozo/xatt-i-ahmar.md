@@ -2,10 +2,10 @@
 name: Xatt I-Ahmar
 lat: 36.0192
 lng: 14.2898
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,8 +25,8 @@ The bay is also the starting point for Gozo's famous scuttled wrecks (MV Karwela
 
 - **Location**: Xatt l-Aħmar (Red Bay), south coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Light
