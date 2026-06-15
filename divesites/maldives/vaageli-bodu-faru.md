@@ -31,4 +31,4 @@ The outer slope descends through a broad band of healthy mixed coral at 10–18 
 The large footprint of the reef allows two very different dives — a deeper profile along the outer slope and a separate shallow reef top exploration. For groups with mixed experience levels, the gentler upper section is accessible to beginners while more experienced divers can explore the deeper reef. Tidal timing is flexible here compared to the channel sites in the Vaageli cluster.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

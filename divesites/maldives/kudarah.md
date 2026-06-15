@@ -25,7 +25,7 @@ The reef surrounding Kudarah island slopes from the shallows to around 30 metres
 - **Entry Type**: Boat dive
 - **Depth**: Up to 30m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Grey reef sharks, hawksbill turtles, Napoleon wrasse, large grouper, eagle rays,
 The large table coral formations on the upper reef are a standout feature — take time to observe the fish communities that shelter beneath each coral table. Plan the dive to visit the deeper sections first for shark encounters, then work up through the coral gardens.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -45,4 +45,4 @@ Grey reef sharks, white-tip reef sharks, eagle rays, schools of jacks, fusiliers
 Lhohi Bodu Kandu is accessed by dive boat from resorts and live-aboards operating in South Malé Atoll, typically 30–60 minutes by dhoni from Malé.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

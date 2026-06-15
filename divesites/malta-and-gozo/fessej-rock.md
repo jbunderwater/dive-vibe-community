@@ -2,10 +2,10 @@
 name: Fessej Rock
 lat: 36.0154267
 lng: 14.2757498
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 4159831400
 addedBy: osm_import
@@ -23,9 +23,9 @@ The rock rises from the sandy bottom at 18–20 metres to within a few metres of
 
 - **Location**: Comino Channel, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Light to moderate; channel position
 - **Best Time**: April to November

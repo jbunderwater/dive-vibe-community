@@ -3,7 +3,7 @@ name: Victory Wreck
 lat: 4.1798982
 lng: 73.52538
 difficulty: Advanced
-maxDepth: 38
+maxDepth: 37
 entryType: boat
 siteType: wreck
 ref: null

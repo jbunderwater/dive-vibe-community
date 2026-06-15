@@ -23,7 +23,7 @@ Located in Addu Atoll near the equator, Maa Neyru sits on the outer reef structu
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -45,4 +45,4 @@ Nudibranchs, flatworms, cleaner shrimp, stingrays, garden eels, sea fans, reef f
 Maa Neyru is reached by boat from Gan or Hithadhoo in Addu Atoll, accessed via domestic flight from Malé to Gan Airport (approximately 1.5 hours).
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

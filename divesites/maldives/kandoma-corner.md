@@ -25,7 +25,7 @@ Corner dives are among the most productive in the Maldives, and Kandoma Corner c
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Grey reef sharks, eagle rays, Napoleon wrasse, squirrelfish, lobsters, grouper, 
 Position yourself at the corner point at mid-depth (12–15 m) and wait — the sharks and rays will come to you. Avoid chasing fish and instead use the reef geometry to your advantage, staying close to the coral while the current brings the action past. Combine with Kandoma Beru for a full outer reef experience.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

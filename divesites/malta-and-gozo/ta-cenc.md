@@ -4,7 +4,7 @@ lat: 36.0131
 lng: 14.2574
 difficulty: Advanced
 maxDepth: 30
-entryType: shore
+entryType: boat
 siteType: wall
 ref: null
 osmId: null
@@ -24,7 +24,7 @@ A small platform at 8 metres serves as a reference point and safety stop area. A
 ## Site Information
 
 - **Location**: South coast Gozo, near Mġarr ix-Xini
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters

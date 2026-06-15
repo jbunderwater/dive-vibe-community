@@ -31,4 +31,4 @@ The outer wall is immediately more dramatic than the lagoon-facing sites, droppi
 A reef hook is highly recommended for the outer exposure — strong current pulses can arrive unexpectedly during tidal shifts. Divers should establish a negative entry to reach depth quickly before ascending current sweeps them over the reef. The site rewards those who can hold position in the current and simply observe the stream of pelagic life passing through.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

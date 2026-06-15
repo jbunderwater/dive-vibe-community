@@ -23,7 +23,7 @@ The "Exit" designations in this cluster mark the end-points of drift dives or th
 
 - **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Grey reef sharks, parrotfish, surgeonfish schools, moray eels, grouper, anthias,
 If using this as a drift exit, ascend the reef slope and wait for the boat at the mooring while monitoring current and SMB. As a standalone dive, enter at depth and work the outer reef face before finishing on the coral crest. Adjacent numbered exits in this cluster offer similar conditions and can be combined on a two-tank programme.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

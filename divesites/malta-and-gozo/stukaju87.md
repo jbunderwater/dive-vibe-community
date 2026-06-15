@@ -28,8 +28,8 @@ The specific crash date, pilot identity, and mission details for this particular
 - **Location**: Off NE coast, Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Extreme Technical)
-- **Maximum Depth**: 100+ meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 100 meters
 - **Typical Visibility**: Variable at depth
 - **Current**: Variable
 - **Best Time**: May to October

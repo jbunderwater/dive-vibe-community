@@ -27,7 +27,7 @@ The Keyodhoo Shipwreck attracted attention as an easily accessible, photogenic w
 - **Entry Type**: Boat dive
 - **Depth**: Historically shallow lagoon (exact depth variable by orientation)
 - **Difficulty**: Advanced (given uncertainty of current state)
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 
 ## Marine Life (Historical, Pre-2025)
 

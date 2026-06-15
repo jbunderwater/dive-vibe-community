@@ -3,7 +3,7 @@ name: Miyaru Kandu
 lat: 3.5996409
 lng: 73.5042226
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 31
 entryType: boat
 siteType: drift
 ref: null
@@ -25,7 +25,7 @@ Miyaru Kandu is approximately 150 metres wide with sloping corners to the north 
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30–31 metres
+- **Maximum Depth**: 31 meters
 - **Typical Visibility**: 20–35 metres
 - **Current**: Strong to very strong (3–4 knots typical), tidal
 

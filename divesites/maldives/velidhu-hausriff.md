@@ -31,4 +31,4 @@ The house reef wraps around the island's shoreline, offering a variety of terrai
 Shore entry from the resort beach or jetty makes this a flexible, easy-access dive at any time of day. The shallow profile and mild conditions are ideal for newly certified divers completing their first open-water dives post-certification. Night diving is particularly rewarding and is easily arranged through the resort dive centre. The house reef also provides a good snorkelling experience for non-divers in the resort's shallow lagoon zone.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

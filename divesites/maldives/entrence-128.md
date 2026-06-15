@@ -23,7 +23,7 @@ Positioned slightly north of Entrence 110 along the same outer reef alignment, E
 
 - **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Nurse sharks, moray eels, garden eels, grey reef sharks, schools of anthias and 
 Start the dive along the deeper wall section before working up to the shallower reef crest for the safety stop. This site and the adjacent numbered entries (110, 155, Base) are often combined in a two-tank format by Male day-trip operators. Check current direction on descent — the sheltered wall face will be on the down-current side.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

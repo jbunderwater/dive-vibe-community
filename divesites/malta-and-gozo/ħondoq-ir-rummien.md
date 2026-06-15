@@ -3,7 +3,7 @@ name: Ħondoq ir-Rummien
 lat: 36.0279462
 lng: 14.3220821
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 12
 entryType: shore
 siteType: beach
 ref: null
@@ -25,7 +25,7 @@ A Blue Flag beach with crystal-clear water — baby rays, flying gurnards, and s
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–40 meters (exceptional)
 - **Current**: Light to moderate
 - **Best Time**: May to October

@@ -25,7 +25,7 @@ In Maldivian diving terminology, a giri is a coral head or dome that rises from 
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles, Napoleon wrasse, nurse sharks, blue-spotted stingrays, barrac
 Circle the giri at depth first, then work upward to the dome for the safety stop. The glassfish aggregations on the shallower part of the structure can be very dense and make excellent macro and wide-angle subjects. Check the sandy surround for stingrays and nurse sharks before ascending.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

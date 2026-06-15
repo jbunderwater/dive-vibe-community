@@ -25,7 +25,7 @@ Sitting on the outer edge of South Male Atoll, Guradoo South Outside faces the o
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, tuna, rainbow runners, hawksbill turtles
 Check current direction before entering — the exposed southern position means surge and downcurrents are possible on the outer wall. The best shark encounters are typically at the reef corner where the current deflects. Stay close to the wall to avoid being swept off the reef.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

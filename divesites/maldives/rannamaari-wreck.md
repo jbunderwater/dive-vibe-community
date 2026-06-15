@@ -2,8 +2,8 @@
 name: Rannamaari Wreck
 lat: 4.3055288
 lng: 73.4166647
-difficulty: Advanced
-maxDepth: 42
+difficulty: Intermediate
+maxDepth: 26
 entryType: boat
 siteType: wreck
 ref: null

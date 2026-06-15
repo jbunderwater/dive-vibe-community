@@ -24,7 +24,7 @@ Tug 2 was scuttled on 20 June 2013 as an artificial diving reef, positioned upri
 ## Site Information
 
 - **Location**: ~250 m off Exiles, Sliema
-- **Entry Type**: Boat dive (also shore accessible)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters

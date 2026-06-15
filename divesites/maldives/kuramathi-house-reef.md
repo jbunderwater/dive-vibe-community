@@ -23,7 +23,7 @@ Stretching along the island's outer edge in Rasdhoo Atoll, the Kuramathi house r
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -45,4 +45,4 @@ Nurse sharks, white-tip reef sharks, moray eels, lionfish, pufferfish, batfish, 
 Kuramathi Island Resort is reached by a 45-minute speedboat transfer from Velana International Airport or via a short domestic flight to Rasdhoo. The house reef is accessed directly by the resort dive centre.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

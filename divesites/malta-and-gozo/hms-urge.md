@@ -28,7 +28,7 @@ HMS Urge is a designated **war grave** under Maltese, British, and international
 - **Location**: ~2 miles off Malta's coast (Grand Harbour approach area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Extreme Technical (NOT recreational; NOT a regular public dive site)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 130 meters
 - **Typical Visibility**: Variable at depth
 - **Current**: Variable

@@ -31,4 +31,4 @@ The reef wall on the east side of Veligandu slopes steeply from a shallow crest 
 Divers visiting Rasdhoo Atoll primarily for hammerheads typically combine a dawn dive at Madivaru Corner with a mid-morning dive at Veligandu East before conditions deteriorate. The site's calmer, less crowded character compared to Madivaru Corner makes it a more relaxed experience. Strong oceanic swell can make the entry and exit from the boat more dynamic on the exposed east face during the southwest monsoon.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

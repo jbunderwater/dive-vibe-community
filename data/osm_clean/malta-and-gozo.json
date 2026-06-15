@@ -450,16 +450,17 @@
     "lon": 14.2757498,
     "osm_id": 4159831400,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Fessej Rock",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "atlantisgozo.com,diveboat.mt,divers-guide.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -611,17 +612,18 @@
     "lon": 14.2728799,
     "osm_id": 4159831407,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "beach",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 17,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Mġarr ix-Xini",
       "natural": "beach",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "gozodive.com,maltadives.com,atlantisgozo.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -777,7 +779,7 @@
     "lon": 14.3220821,
     "osm_id": 23738627,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 12,
     "site_type": "beach",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -790,7 +792,8 @@
       "wikidata": "Q8080010",
       "wikipedia": "en:Ħondoq ir-Rummien",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divers-guide.com,atlantisgozo.com,divebluewaters.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -908,7 +911,10 @@
     "tags": {
       "name": "HMS Hellespont",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, seashelldivingmalta.com, divewise.com.mt, blackandwhitediving.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1043,40 +1049,30 @@
     "lon": 14.2574,
     "depth": 30,
     "site_type": "wall",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Ta Cenc",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "atlantisgozo.com,visitgozo.com,gozodive.com"
     }
   },
   {
     "name": "San Dimitri Point",
     "lat": 36.074728,
     "lon": 14.185227,
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "San Dimitri Point",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
-    }
-  },
-  {
-    "name": "Mgarr-ix-Xini",
-    "lat": 36.019913,
-    "lon": 14.271798,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Mgarr-ix-Xini",
-      "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-06-15",
+      "validation_source": "visitgozo.com,atlantisgozo.com,maltadives.com"
     }
   },
   {
@@ -1121,7 +1117,11 @@
     "tags": {
       "name": "Captain Morgan Small World",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "false",
+      "validation_source": "divers-guide.com, divesystemsmalta.com",
+      "validation_notes": "UNRESOLVED: Only 2 independent sources found. Vessel scuttling date, dimensions, and precise location unconfirmed. Insufficient sources for full validation.",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1135,7 +1135,10 @@
     "tags": {
       "name": "HMS Southwold bow",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, en.wikipedia.org, divemagazine.com, heritagemalta.mt",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1429,7 +1432,10 @@
     "tags": {
       "name": "Patrol Boat P33",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, divemagazine.com, divers-guide.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1499,7 +1505,10 @@
     "tags": {
       "name": "Spitfire",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "key.aero, heritagemalta.mt, underwatermalta.org",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1512,6 +1521,9 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Tower wreck",
+      "validated": "true",
+      "validation_source": "underwatermalta.org, heritagemalta.mt, divinginfo.mt",
+      "last_qa_date": "2026-06-15",
       "sport": "scuba_diving",
       "source": "external_csv_import"
     }
@@ -1541,7 +1553,10 @@
     "tags": {
       "name": "Junkers JU88",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, underwatermalta.org, divemagazine.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1555,7 +1570,10 @@
     "tags": {
       "name": "Stuka–Ju87",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "underwatermalta.org, nationalgeographic.com, divemagazine.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1569,7 +1587,10 @@
     "tags": {
       "name": "Fairey Swordfish",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, underwatermalta.org, divemagazine.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1583,7 +1604,11 @@
     "tags": {
       "name": "HMS Urge",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, bsac.com, underwatermalta.org, divernet.com",
+      "validation_notes": "War grave at 130m. NOT a recreational dive. No regular public dive access. Expedition-only.",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1673,7 +1698,10 @@
     "tags": {
       "name": "Douglas A-1 Skyraider",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, underwatermalta.org, usni.org",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1785,7 +1813,10 @@
     "tags": {
       "name": "HMS St. Angelo",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, divesystemsmalta.com, techwise.com.mt, maltagc70.wordpress.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1799,7 +1830,10 @@
     "tags": {
       "name": "HMS Trusty Star",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, divemagazine.com, divesystemsmalta.com, heritagemalta.mt",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1827,7 +1861,10 @@
     "tags": {
       "name": "Tug 2",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "validated": "true",
+      "validation_source": "maltadives.com, divewise.com.mt, divers-guide.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {

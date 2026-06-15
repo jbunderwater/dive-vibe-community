@@ -41,4 +41,4 @@ Currents are generally mild but can pick up depending on tide and season. During
 Best dived from a day boat operating out of South Ari Atoll resorts. Visibility is typically 15–25 m, with conditions improving during the dry northeast monsoon season (November–April). Suitable for intermediate divers comfortable with open-water reef dives.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

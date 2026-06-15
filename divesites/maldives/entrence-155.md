@@ -23,7 +23,7 @@ Entrence 155 is one of the outermost numbered entry positions in this cluster, p
 
 - **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Eagle rays, big-eye trevally, lionfish, glass fish, grey reef sharks, soft coral
 The outer face of Entrence 155 can experience stronger current than the nearby base and 110 sites, so check conditions before committing to the exposed wall. If current is running, working the sheltered down-current face is productive and more comfortable. Combine with a deeper pelagic pass at 20-25 meters on entry for the best chance of eagle ray encounters.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

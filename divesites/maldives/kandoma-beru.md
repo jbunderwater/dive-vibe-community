@@ -25,7 +25,7 @@ Beru (outer ocean side) dives in the Maldives typically mean exposure to the ful
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Grey reef sharks, hawksbill turtles, Napoleon wrasse, large parrotfish, snapper 
 The exposed outer position gives this site excellent visibility compared to more sheltered inner reef dives. Time the dive for slack current or gentle incoming tide for the most comfortable dive and best shark encounters on the wall.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

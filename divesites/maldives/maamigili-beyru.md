@@ -23,7 +23,7 @@ Maamigili Beyru runs along the outer face of the South Ari Atoll reef system nea
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -45,4 +45,4 @@ White-tip reef sharks, turtles, eagle rays, sweetlips, grouper, glassfish, moray
 Maamigili Island (also known as Dhigurah area) in South Ari Atoll is reached by seaplane or speedboat from Malé. Numerous dive operations on the island run trips to the beyru and whale shark zones.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ Exit 8 sits in the heart of the northern exit cluster alongside Exits 7, 9, and 
 
 - **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Napoleon wrasse, whitetip reef sharks, garden eels, anemonefish, butterflyfish, 
 Work the sandy channels at mid-depth for the best Napoleon wrasse encounters, and descend to the sandy base for the whitetip sharks resting during the day. The staghorn fields on the crest are a highlight for wide-angle photography. As with all exits in this cluster, confirm the planned exit strategy with your divemaster before diving.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

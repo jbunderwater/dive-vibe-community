@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, nurse sharks, blue-spotted stingrays, ga
 Enter at the channel corner on an incoming tide for the best shark encounters. The manageable current makes this a good site for practising drift technique before tackling larger channels in Male Atoll. An SMB should still be carried for the drift exit.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -31,4 +31,4 @@ Grey reef sharks are the headline attraction, typically congregating in groups o
 Currents at the exposed tip can be significant during mid-tide; reef hooks are useful for maintaining position on the point without exhausting gas supply. The calmer, sheltered side of the corner offers a complete contrast — light currents and good coral cover for a gentler second half to the dive. Best dived on incoming current when the nutrient-laden water pushes the sharks into an active, feeding posture.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

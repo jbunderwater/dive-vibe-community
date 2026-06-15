@@ -28,7 +28,7 @@ The wreck was discovered in September 2016 and opened to divers on 1 May 2019 (m
 - **Location**: ~3 km off Fort St. Elmo, Valletta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Extreme Technical)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 90 meters
 - **Typical Visibility**: Variable at depth
 - **Current**: Variable

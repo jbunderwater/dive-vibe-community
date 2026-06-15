@@ -23,7 +23,7 @@ The house reef at Pineapple Island — a small resort island in South Ari Atoll 
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -45,4 +45,4 @@ Sea turtles, parrotfish, triggerfish, butterflyfish, juvenile reef fish, moray e
 Pineapple Island is a resort island in South Ari Atoll, accessible by seaplane from Malé (approximately 30 minutes). The house reef is accessed directly from the resort.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

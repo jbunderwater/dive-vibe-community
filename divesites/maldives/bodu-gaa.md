@@ -41,4 +41,4 @@ Given the atoll's fame for manta rays, chance encounters are not uncommon on div
 Baa Atoll requires a domestic flight or speedboat connection from Malé. Best accessed via Baa Atoll liveaboards or island resorts. Manta season peaks May–November. Visibility typically 15–25 m.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -24,7 +24,7 @@ She was deliberately scuttled on 31 July 2021 at Zonqor Point, Marsaskala, as pa
 ## Site Information
 
 - **Location**: Zonqor Point, Marsaskala, east Malta
-- **Entry Type**: Boat dive (also shore accessible)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters

@@ -28,7 +28,7 @@ The loss occurred during the build-up period to Operation Husky — the Allied i
 - **Location**: Off Gozo coast
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Technical)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Variable

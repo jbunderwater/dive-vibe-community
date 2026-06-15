@@ -25,7 +25,7 @@ Mushimasmingili Thila is a very wide submerged reef situated between the islands
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–40 metres
 - **Current**: Strong; can be very strong on outer faces
 

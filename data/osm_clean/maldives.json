@@ -13,7 +13,8 @@
       "name": "Divebase",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -30,7 +31,8 @@
       "name": "Exit 1 and 2",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -47,7 +49,8 @@
       "name": "Exit 10",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -64,7 +67,8 @@
       "name": "Exit 9",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -81,7 +85,8 @@
       "name": "Exit 8",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -98,7 +103,8 @@
       "name": "Exit 7",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -115,7 +121,8 @@
       "name": "Exit 5 + 6",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -132,7 +139,8 @@
       "name": "Exit 4",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -142,7 +150,7 @@
     "osm_id": 663869881,
     "osm_type": "node",
     "depth": 28,
-    "site_type": "pinnacle",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -155,7 +163,8 @@
       "tourism": "attraction",
       "wreck:date_sunk": "1991",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "duikersgids.nl,wernerlau.com,divescover.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -172,7 +181,8 @@
       "name": "HimendhooThila West",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -189,7 +199,8 @@
       "name": "Fish Head",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "scubadivingearth.com,maldivestour.guide,divebooker.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -206,7 +217,8 @@
       "name": "Velidhu Hausriff",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -226,7 +238,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -245,7 +258,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -265,7 +279,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -285,7 +300,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -305,7 +321,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -325,7 +342,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -345,7 +363,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -365,7 +384,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -385,7 +405,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -405,7 +426,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -425,7 +447,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -445,7 +468,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -465,7 +489,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -485,7 +510,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -505,7 +531,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -525,7 +552,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -545,7 +573,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -565,7 +594,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -585,7 +615,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -605,7 +636,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -625,7 +657,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -645,7 +678,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -665,7 +699,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -685,7 +720,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -705,7 +741,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -725,7 +762,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -745,7 +783,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -765,7 +804,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -785,7 +825,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -805,7 +846,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -825,7 +867,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -845,11 +888,12 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
-    "name": "Vaageli Faru S\u00fcd",
+    "name": "Vaageli Faru Süd",
     "lat": 3.947749,
     "lon": 73.353433,
     "osm_id": 663869919,
@@ -859,13 +903,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Vaageli Faru S\u00fcd",
+      "name": "Vaageli Faru Süd",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -885,7 +930,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -905,7 +951,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -925,7 +972,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -945,7 +993,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -965,7 +1014,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -985,7 +1035,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1005,7 +1056,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1025,7 +1077,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1045,7 +1098,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1065,7 +1119,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1085,7 +1140,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1105,7 +1161,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1125,7 +1182,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1145,7 +1203,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1165,7 +1224,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1185,7 +1245,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1205,7 +1266,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1225,7 +1287,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1245,7 +1308,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1265,7 +1329,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1285,7 +1350,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1305,7 +1371,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1325,7 +1392,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1345,7 +1413,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1366,7 +1435,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1386,7 +1456,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1406,7 +1477,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1426,7 +1498,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1446,7 +1519,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1455,7 +1529,7 @@
     "lon": 73.5338869,
     "osm_id": 663869950,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 32,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1466,7 +1540,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "diverland.com,wannadive.net,zubludiving.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1486,7 +1561,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "diverland.com,wannadive.net",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1505,7 +1581,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1526,7 +1603,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1544,7 +1622,8 @@
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1562,7 +1641,8 @@
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1579,7 +1659,8 @@
       "name": "Entrence 155",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1596,7 +1677,8 @@
       "name": "Entrence 110",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1613,7 +1695,8 @@
       "name": "Entrence 128",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1633,7 +1716,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1653,7 +1737,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1673,7 +1758,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "maldives-magazine.com,zubludiving.com,infinitebluedivetravel.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1693,7 +1779,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "diverland.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1712,7 +1799,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1731,7 +1819,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1749,7 +1838,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1770,7 +1860,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1779,21 +1870,22 @@
     "lon": 73.5042226,
     "osm_id": 7151743385,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 31,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Channel dive with reef sharks",
+      "description": "Shark Channel in Vaavu Atoll. Grey reef sharks, whitetip reef sharks, tuna. 150m wide channel, 3-4 knot currents.",
       "name": "Miyaru Kandu",
       "natural": "reef",
       "scuba_diving:current": "3",
-      "scuba_diving:depth": "30",
+      "scuba_diving:depth": "31",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "maldivestour.guide,zubludiving.com,emperordivers.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1813,7 +1905,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1822,7 +1915,7 @@
     "lon": 72.8827411,
     "osm_id": 7156015385,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1832,7 +1925,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "visitmaldives.com,maldivesonlineguide.com,zubludiving.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1851,7 +1945,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1871,7 +1966,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1890,7 +1986,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1910,7 +2007,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1929,7 +2027,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1939,11 +2038,11 @@
     "osm_id": 8584208531,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "description": "Very polular dive site with gray reef sharks and school of eagle rays",
+      "description": "Famous early-morning hammerhead shark dive. Wall drops steeply. Best Dec-Mar.",
       "name": "Rasdhoo Madivaru Corner",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
@@ -1951,7 +2050,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "dive-the-world.com,rasdhoodivers.com,zubludiving.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1971,7 +2071,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -1991,7 +2092,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2011,7 +2113,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2032,7 +2135,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2052,7 +2156,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2073,7 +2178,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2093,7 +2199,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2113,7 +2220,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2133,7 +2241,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2142,19 +2251,20 @@
     "lon": 72.8619718,
     "osm_id": 8584458555,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "One of the most popular diving site in atoll. Water is not clear",
+      "description": "Protected Marine Area since 1995. Famous night dive; whitetip and grey reef sharks.",
       "name": "Maaya Thila",
       "natural": "reef",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "protectedareas.environment.gov.mv,awaylands.com,maldivesexclusive.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2176,7 +2286,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2197,7 +2308,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2217,7 +2329,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2237,7 +2350,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2257,7 +2371,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2277,7 +2392,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2297,7 +2413,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2318,7 +2435,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2342,7 +2460,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2364,7 +2483,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2385,7 +2505,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2407,7 +2528,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2429,7 +2551,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2451,7 +2574,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2472,7 +2596,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2492,7 +2617,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2512,7 +2638,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2532,7 +2659,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2552,7 +2680,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2572,7 +2701,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2592,7 +2722,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2612,7 +2743,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2633,7 +2765,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern"
+      "validation_source": "pattern",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2654,7 +2787,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "perplexity",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2663,7 +2797,7 @@
     "lon": 73.52538,
     "osm_id": 11300291678,
     "osm_type": "node",
-    "depth": 38,
+    "depth": 37,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -2672,11 +2806,12 @@
       "name": "Victory Wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "1981-02-23",
+      "wreck:date_sunk": "1981-02-13",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "protectedareas.environment.gov.mv,divedesk.mv,divernet.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2685,10 +2820,10 @@
     "lon": 73.4166647,
     "osm_id": 11300299755,
     "osm_type": "node",
-    "depth": 42,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Rannamaari Wreck",
@@ -2697,7 +2832,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "pros-blog.padi.com,visitmaldives.com,dhawa.com",
+      "last_qa_date": "2026-06-15"
     }
   },
   {
@@ -2721,8 +2857,10 @@
       "wreck:date_sunk": "2015",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
+      "note": "As of early 2025 this wreck drifted off the reef and is no longer in a fixed location. Verify with local operators before diving.",
       "validated": true,
-      "validation_source": "perplexity"
+      "validation_source": "visitmaldives.com,maldives.net.mv,edition.mv",
+      "last_qa_date": "2026-06-15"
     }
   }
 ]

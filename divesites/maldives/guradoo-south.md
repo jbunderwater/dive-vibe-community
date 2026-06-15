@@ -25,7 +25,7 @@ Protected from the full force of oceanic swells, Guradoo South offers a more rel
 - **Entry Type**: Boat dive
 - **Depth**: Up to 25m
 - **Difficulty**: Intermediate
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 
 ## Marine Life
 
@@ -45,4 +45,4 @@ Hawksbill turtles, Napoleon wrasse, blue-spotted stingrays, garden eels, fusilie
 An ideal site for underwater photography thanks to calm conditions and plentiful subjects. Pair this dive with Guradoo South Outside on the same day to experience the contrast between the sheltered inner reef and the exposed outer face.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

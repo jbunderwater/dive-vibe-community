@@ -45,4 +45,4 @@ Nurse sharks, eagle rays, anthias, butterflyfish, moorish idols, fusiliers, parr
 Maaya Lagoon is in North Ari Atoll, reached by seaplane (25 minutes) or speedboat (2 hours) from Malé. Most resorts and liveaboards in Ari Atoll include this site on multi-dive excursions.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

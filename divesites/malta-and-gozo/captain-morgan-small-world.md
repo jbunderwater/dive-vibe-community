@@ -28,7 +28,7 @@ Resting at 103 metres depth in open sea, this is one of Malta's deepest intentio
 - **Location**: Open sea, Malta (precise location not publicly documented)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Extreme Technical)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 103 meters
 - **Typical Visibility**: Variable at depth
 - **Current**: Variable

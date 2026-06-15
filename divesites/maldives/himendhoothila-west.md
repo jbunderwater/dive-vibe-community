@@ -45,4 +45,4 @@ Grey reef sharks, whitetip reef sharks, nurse sharks, eagle rays, snapper school
 Begin the dive on the deeper western wall where the current is strongest and sharks are most active, then work upward to the summit for the safety stop. Pair with the eastern face if time and air allow for a complete circuit of the pinnacle.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

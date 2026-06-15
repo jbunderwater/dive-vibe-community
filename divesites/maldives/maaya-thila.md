@@ -3,7 +3,7 @@ name: Maaya Thila
 lat: 4.0913626
 lng: 72.8619718
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ The pinnacle covers roughly 1,024 hectares of protected zone, with the reef summ
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30+ metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 metres (can be reduced by plankton blooms)
 - **Current**: Strong and unpredictable; surges common
 

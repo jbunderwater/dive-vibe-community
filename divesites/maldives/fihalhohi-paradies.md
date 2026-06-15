@@ -23,7 +23,7 @@ The "Paradies" site accesses the outer atoll-facing slope of the Fihalhohi reef 
 
 - **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Grey reef sharks, eagle rays, big-eye trevally, Napoleon wrasse, sea fans and wh
 Descend directly to the wall section at 15-22 meters on entry to explore the sea fans and intercept passing sharks and rays. The outer edge of the reef crest at around 8-10 meters is a good position to observe pelagics above, especially trevally schools. Current management is more important here than on the house reef — follow your divemaster's guidance on timing and positioning to make the most of the site without being swept past key features.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

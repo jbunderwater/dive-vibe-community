@@ -38,4 +38,4 @@ Grey reef sharks, whitetip reef sharks, eagle rays, Napoleon wrasse, schools of 
 Circumnavigate the thila at depth first, spending time on the current-facing walls for the best soft coral and pelagic views, then ascend to the shallower faces for the fish-life density and safety stop. Keep an eye on the blue water above and beyond the pinnacle edge for eagle rays and sharks crossing between faces. The site is best dived with at least a gentle current running to animate the soft corals and bring in pelagics.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ The "base" designation marks this as the operational reference point for the num
 
 - **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -38,4 +38,4 @@ Hawksbill turtles, large grouper, blue-spotted stingrays, garden eels, moray eel
 This site makes an excellent base for divers new to the North Male reef system, as the fish life is approachable and the topography is clear. Combine a descent to the sandy base (25 m) with a leisurely ascent through the coral gardens for a well-rounded 50-60 minute dive. The mooring is typically the busiest of the cluster, so earlier morning dives offer more peaceful conditions.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

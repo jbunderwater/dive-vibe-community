@@ -3,7 +3,7 @@ name: Embudu Channel / Embudu Express
 lat: 4.0874002
 lng: 73.5338869
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 32
 entryType: boat
 siteType: drift
 ref: null
@@ -23,9 +23,9 @@ The "Express" name refers specifically to the high-speed current conditions when
 
 - **Location**: South Male Atoll, Maldives (15 minutes by boat from Embudu Village)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive (Protected Marine Area)
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30–32 metres
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10–30 metres
 - **Current**: Up to 5–6 knots on strong incoming tide
 

@@ -38,4 +38,4 @@ Glassfish (silversides) in dense clouds, nurse sharks, guitarfish, encrusting sp
 Maintain impeccable buoyancy throughout this dive — fin kicks that disturb the sandy cave floor will immediately destroy visibility inside the passages. Enter slowly and hover at neutrally buoyant height to avoid the silt. A torch is essential for appreciating the encrusting organisms on cave walls and ceilings. Do not penetrate beyond the ambient light zone unless you hold a cave diving certification. The glassfish clouds are most spectacular at the cavern mouths in natural light — position yourself at the cave entrance facing inward for the best silhouette and backlit images.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

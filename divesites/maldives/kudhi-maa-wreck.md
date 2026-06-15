@@ -3,7 +3,7 @@ name: Kudhi Maa Wreck
 lat: 3.5907967
 lng: 72.8827411
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The vessel was specially prepared before sinking in 1998 to create an artificial
 - **Entry Type**: Boat dive
 - **Depth**: Masts from 10 m; maximum 30 m
 - **Difficulty**: Intermediate
-- **Site Type**: Wreck (deliberately sunk 1998)
+- **Site Type**: Wreck dive
 
 ## Marine Life
 

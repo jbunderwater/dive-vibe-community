@@ -41,4 +41,4 @@ Hammerhead sharks have been recorded in the area, particularly during cooler wat
 Site conditions vary by tidal direction — a gentle incoming current from the open ocean side brings the best visibility and activity. Visibility typically 15–25 m. Boat access from South Ari Atoll resorts. Suitable for intermediate divers.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*

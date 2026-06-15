@@ -26,8 +26,8 @@ The wreck lies in two sections separated by approximately 300 metres. The bow se
 - **Location**: ~1.5 miles from Marsaskala, east Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Technical)
-- **Maximum Depth**: 68–70 meters (bow); 72 meters (stern)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 68 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Variable
 - **Best Time**: May to October

@@ -2,10 +2,10 @@
 name: Rasdhoo Madivaru Corner
 lat: 4.2642509
 lng: 72.999492
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 8584208531
 addedBy: osm_import

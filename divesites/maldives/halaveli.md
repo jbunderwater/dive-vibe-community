@@ -25,7 +25,7 @@ The vessel was intentionally capsized and now rests upright on sand about 20 met
 - **Entry Type**: Boat dive
 - **Depth**: Deck at 21 m; seabed at 28 m
 - **Difficulty**: Intermediate
-- **Site Type**: Wreck (deliberately sunk 1991)
+- **Site Type**: Wreck dive
 
 ## Marine Life
 

@@ -28,7 +28,7 @@ The wreck lies approximately 1.5 km off the Grand Harbour entrance at 54 metres 
 - **Location**: ~1.5 km off Grand Harbour entrance, Valletta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Technical)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 54 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Variable; active shipping channel
