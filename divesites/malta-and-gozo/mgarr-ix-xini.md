@@ -23,7 +23,7 @@ Mġarr ix-Xini (meaning 'harbour of galleons') is a protected inlet on Gozo's so
 
 - **Location**: Mġarr ix-Xini, south coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

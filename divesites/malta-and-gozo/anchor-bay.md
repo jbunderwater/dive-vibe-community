@@ -23,7 +23,7 @@ Anchor Bay is a small inlet between two cliffs on Malta's north-west coast, famo
 
 - **Location**: Anchor Bay, NW Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 meters

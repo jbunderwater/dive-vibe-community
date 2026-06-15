@@ -23,7 +23,7 @@ The Washing Machine is a dive site in the Malta/Gozo area known for its challeng
 
 - **Location**: Malta/Gozo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters

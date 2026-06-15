@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Junkers JU88
 
-A WWII German twin-engine bomber at 106 metres off Marsaskala — the deeper and better-preserved of Malta's two Ju 88 wrecks.
+A WWII German twin-engine bomber at 106 metres northwest of Marsaskala — the deeper of Malta's two known Ju 88 wrecks, sitting upright and almost intact.
 
 ## Overview
 
-This Junkers Ju 88 is a German twin-engine all-metal bomber (~15 metres long, 20-metre wingspan) resting at 106 metres depth off Marsaskala on Malta's east coast. It is the deeper of two Ju 88 wrecks found in Maltese waters (the other lies at 55 metres off Baħar iċ-Ċagħaq).
+This Junkers Ju 88 is a German twin-engine all-metal medium bomber resting at 106 metres depth on a sandy seabed approximately 3.75 nautical miles northwest of Marsaskala on Malta's east coast. It is the deeper of two Ju 88 wrecks in Maltese waters — the other (known as the JU88 North) lies inverted at 55 metres off Baħar iċ-Ċagħaq on the northeast coast.
 
-The aircraft sits upright on a sandy seabed in almost intact condition, suggesting a controlled ditching. Some damage to the nose section and possible combat damage to the tail are visible. The wreck was discovered in 2019 via remote sensing and opened to divers on 1 August 2020. Heritage Malta manages the site and considers it the better-preserved of the two Ju 88 wrecks. Lobsters and rockfish inhabit the structure.
+The aircraft sits upright in almost intact condition, suggesting it was ditched rather than shot down in a high-speed dive. Some damage is visible to the nose section and possibly to the tail. The specific loss date, crew fate, and circumstances of loss have not been confirmed from historical records. The wreck was discovered in 2019 via remote sensing and was opened to divers on 1 August 2020. Heritage Malta manages the site.
 
 ## Site Information
 
-- **Location**: Off Marsaskala, east Malta
+- **Location**: Northwest of Marsaskala, east Malta (~3.75 nm offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -34,23 +34,22 @@ The aircraft sits upright on a sandy seabed in almost intact condition, suggesti
 
 ## Marine Life
 
-Lobsters and rockfish inhabit the aircraft structure. The intact airframe provides shelter on the otherwise featureless sandy seabed.
+The intact airframe provides some shelter on the otherwise featureless sandy seabed. No site-specific marine life reports are documented for this wreck. The wider Malta/Gozo waters support grouper, moray eels, octopus, bream, barracuda, and Mediterranean corals.
 
 ## Dive Profile
 
-Extreme technical dive at 106 metres. The upright, largely intact aircraft can be surveyed from nose to tail within very limited bottom time. Note the nose damage and possible tail combat damage. The almost-complete condition is remarkable for a WWII aircraft wreck.
+Extreme technical dive at 106 metres. The upright, largely intact aircraft can be surveyed from nose to tail within very limited bottom time. The nose and tail damage are visible. The almost-complete condition is remarkable for a WWII aircraft wreck at this depth.
 
 ## Entry and Exit
 
-Boat dive only. Heritage Malta permit required. Technical diving qualifications with deep trimix or CCR experience mandatory.
+Boat dive only. Heritage Malta permit required — must be arranged through a dive centre approved and registered with Heritage Malta's Underwater Cultural Heritage Unit. Technical diving qualifications with deep trimix or CCR experience mandatory.
 
 ## Tips and Recommendations
 
 - Heritage Malta permit required — arrange in advance
-- This is rated as the better-preserved of Malta's two Ju 88 wrecks
-- The aircraft sits upright — evidence of a controlled ditching
-- Note the nose and tail damage — possibly combat-related
-- Malta has a second Ju 88 at 55m off Baħar iċ-Ċagħaq for comparison
+- The upright position suggests a controlled ditching rather than a combat crash
+- Malta has a second Ju 88 (the "North") at 55m off Baħar iċ-Ċagħaq — inverted but more accessible
+- The specific pilot identity and mission remain unconfirmed
 
 ## Safety Considerations
 
@@ -61,4 +60,4 @@ Extreme technical dive at 106 metres. CCR or heavy trimix mandatory. Heritage Ma
 The almost-intact upright aircraft is an extraordinary photographic subject at extreme depth. The complete wing and engine configuration is clearly identifiable. Requires very powerful lighting at 106 metres.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Underwater Malta](https://underwatermalta.org). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com — JU88 South](https://maltadives.com/sites/junkersju88south/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-06-15.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # B24 Liberator
 
-A WWII American heavy bomber discovered in 2015 off Marsaxlokk — classified as a war grave with one crew member still missing.
+A WWII American heavy bomber discovered in 2015 off Marsaxlokk — classified as a war grave with one crew member originally unaccounted for.
 
 ## Overview
 
-The B-24 Liberator (serial number 42-40112) is a Consolidated Aircraft four-engine heavy bomber that crashed on 6 May 1943 during a bombing mission from Libya to Italy. After sustaining anti-aircraft damage and engine problems, the crew attempted to return to Malta but could not land at Luqa airfield. The pilot ditched the aircraft off Benghisa Point with the undercarriage lowered; it struck the water and flipped over. Nine of ten crew survived, but one crew member was never recovered — the wreck is classified as a **war grave**.
+The B-24D Liberator (serial number 42-40112, code letter U) belonged to the 343rd Bombardment Squadron of the United States Army Air Force, based in the Middle East Theatre. On 6 May 1943, the aircraft took off at 05:30 GMT from Lete on a mission targeting shipping in Reggio Calabria harbour, Italy. The aircraft experienced mechanical failures en route — including a prop governor malfunction and supercharger runaway — and the crew jettisoned bombs. Navigating toward Malta, the crew drew anti-aircraft fire over Sicily, which damaged the hydraulic systems and rudder cable and wounded five crew members. Unable to land at Luqa airfield despite multiple attempts, the ten-man crew ditched the aircraft off Benghisa Point, Marsaxlokk Bay, at approximately 11:30 GMT. The aircraft struck the water, flipped over, and floated briefly inverted before sinking. Nine of the ten crew were rescued by RAF Air Sea Rescue. The fate of Sergeant Newman was not established at the time.
 
-Located approximately 1.5 km off Marsaxlokk in south-east Malta at 55–60 metres depth, the wreck was discovered in 2015 via remote sensing and opened to divers on 1 August 2020 under Heritage Malta management. The aircraft sits upright on a sandy seabed with the wing structure well preserved and partly covered in corals. Two of four engines still have propellers in place. The nose section is destroyed and the cockpit torn open, while the tail section is broken and lying beneath the fuselage. Cockpit controls remain visible.
+The wreck was discovered in 2015 via side-scan sonar remote sensing survey and opened to divers on 1 August 2020 under Heritage Malta management. The aircraft rests approximately 1.5 km south-west of Marsaxlokk at 55 metres depth on a sandy seabed. Both wings, four engine nacelles, and the fuselage are largely intact. In 2018–2019 the US Defence Prisoner of War and Missing in Action Accounting Agency (DPAA) supported excavation of the site; the remains of the missing crew member Sergeant Irving R. Newman were identified in August 2023. The wreck remains designated as a war grave.
 
 ## Site Information
 
-- **Location**: Benghisa Point, Marsaxlokk, SE Malta
+- **Location**: ~1.5 km south-west of Marsaxlokk, SE Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -34,31 +34,27 @@ Located approximately 1.5 km off Marsaxlokk in south-east Malta at 55–60 metre
 
 ## Marine Life
 
-Coral growth has colonised the wing structures over decades. The wreck attracts small fish seeking shelter in the airframe. The sandy seabed around the aircraft supports limited additional marine life.
+No site-specific marine life reports found. The wider Malta/Gozo waters support grouper, moray eels, octopus, bream, barracuda, and Mediterranean corals.
 
 ## Dive Profile
 
-Descend via shotline to the aircraft at 55–60 metres. Orient to the wing section first — the best-preserved part of the wreck. Locate the two engines retaining propellers, then move to the destroyed nose and open cockpit where controls are visible. The broken tail section lies under the fuselage. Bottom time is severely limited at this depth — plan decompression accordingly.
+Descend via shotline to the aircraft at approximately 55 metres. The wing structure with four engine nacelles is the primary subject — both wings and the main fuselage are largely intact. Bottom time is severely limited at this depth — plan decompression accordingly.
 
 ## Entry and Exit
 
-Boat dive only. Heritage Malta permit is required. The site is approximately 1.5 km offshore from Marsaxlokk. Technical diving qualifications required.
+Boat dive only. Heritage Malta permit is required — arrange in advance. Technical diving qualifications are required for 55-metre depth.
 
 ## Tips and Recommendations
 
-- Heritage Malta permit required before diving — arrange in advance
-- This is a war grave — treat with appropriate respect
-- The cockpit controls are a compelling feature but the nose is badly damaged
-- The wing structure with coral growth is the best-preserved section
-- Plan for significant decompression at 55–60 metres
+- Heritage Malta permit required before diving — must be pre-booked
+- This is a designated war grave — treat with appropriate respect
+- No artefact disturbance or wreck penetration permitted
+- The remains of the missing crew member (Sgt Irving R. Newman) were identified in August 2023 by DPAA
+- Plan for significant decompression at 55 metres
 
 ## Safety Considerations
 
-Technical dive requiring trimix qualifications and appropriate gas planning for 55–60 metres. Heritage Malta permit mandatory. This is a classified war grave — one crew member was never recovered. No artefact removal permitted. Currents can be present.
-
-## Photography
-
-The coral-encrusted wing structure makes the best wide-angle subject. The open cockpit with visible controls provides a haunting detail shot. Use powerful strobes — natural light is limited at 55+ metres.
+Technical dive requiring appropriate qualifications and gas planning for 55-metre depth. Heritage Malta permit mandatory. This is a classified war grave — no artefact removal permitted. Currents can be present.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Heritage Malta](https://heritagemalta.mt), [PADI Malta](https://www.padi.com/dive-sites/malta/). Last updated 2026-04-10.*
+*Sources: [divinginfo.mt — Liberator B24-D 42-40112](https://www.divinginfo.mt/liberator-b24-d-code-u-42-40112/), [underwatermalta.org — B24 Liberator](https://underwatermalta.org/discover/b24-liberator/), [Heritage Malta — B24 Liberator](https://heritagemalta.mt/explore/b24-liberator/). Last updated 2026-06-15.*

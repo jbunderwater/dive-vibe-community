@@ -23,7 +23,7 @@ Għar Lapsi is a rocky inlet on Malta's south coast near Siġġiewi featuring mu
 
 - **Location**: Għar Lapsi, south coast Malta (Siġġiewi)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

@@ -23,7 +23,7 @@ Qbajjar Reef is a reef dive site off Gozo's north coast near Marsalforn. The ree
 
 - **Location**: Near Marsalforn, north coast Gozo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters

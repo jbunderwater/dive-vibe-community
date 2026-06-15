@@ -23,7 +23,7 @@ The Canyon is a natural underwater canyon formation near the Marfa/Qawra area wi
 
 - **Location**: Marfa/Qawra area, north Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters

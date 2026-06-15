@@ -27,7 +27,7 @@ Filfla was formerly used as a British military bombing target — **unexploded o
 
 - **Location**: Filfla island, 5 km south of Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 15–30 meters

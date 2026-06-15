@@ -23,7 +23,7 @@ Tuna Farm (Comino) offers the same unique experience as the Qawra tuna pens — 
 
 - **Location**: Offshore, Comino channel
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 meters

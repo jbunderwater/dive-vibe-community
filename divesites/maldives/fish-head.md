@@ -13,29 +13,29 @@ addedBy: osm_import
 
 ## Fish Head
 
-Fish Head — known locally as Mushimasmingili Thila — is one of the most celebrated dive sites in the Maldives and one of the world's great shark dives, located in North Ari Atoll and protected as part of the Ari Atoll Marine Protected Area.
+Fish Head — locally Mushimasmingili Thila — is one of the Maldives' most storied shark dives, a protected submerged pinnacle in North Ari Atoll that rises from around 40 metres to within 10 metres of the surface.
 
 ## Overview
 
-Fish Head is a large submerged thila rising from around 40 meters to within 10 meters of the surface, situated in the interior of North Ari Atoll where it receives strong tidal currents from multiple directions. The pinnacle earned its reputation as a shark dive of global significance through its resident population of grey reef sharks — on any given dive, 20 to 50 individuals may be encountered, circling the pinnacle in organised formations and resting in the overhangs and ledges that pit the deeper wall faces. The thila's protected status under the Maldivian Marine Protected Area network means the sharks are unafraid of divers and approachable to remarkable distances. Beyond sharks, the pinnacle hosts schools of big-eye trevally in rotating columns, Napoleon wrasse, and dense anthias clouds on the current-facing walls. The deeper sections below 30 meters have impressive sea fan growth and black coral, and eagle rays pass through regularly. Fish Head is typically dived as a blue-water pinnacle dive with a controlled descent — the sheer scale and shark activity make it one of the most viscerally memorable dives in the Indian Ocean.
+Mushimasmingili Thila is a very wide submerged reef situated between the islands of Mandhoo and Maamigili in North Ari Atoll, protected as a Marine Park. The southeastern corner of the thila is locally called Fish Head and has historically been the focal point for shark encounters. Grey reef sharks and whitetip reef sharks are reliably present; the site was formerly known for particularly large grey reef shark aggregations, though current reports note that sightings vary by season, luck, and current conditions — encounters are not guaranteed on any single dive. The pinnacle receives strong tidal currents from multiple directions, which drive the ecology. The deeper sections below 30 metres feature sea fans and additional reef structure. The site is dived Advanced level due to current strength and depth.
 
 ## Site Information
 
-- **Location**: North Ari Atoll, Maldives (Mushimasmingili Thila MPA)
+- **Location**: North Ari Atoll, Maldives (Mushimasmingili Thila Marine Park)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-40 meters
-- **Current**: Strong; can be very strong on the outer faces
+- **Maximum Depth**: 40 metres
+- **Typical Visibility**: 15–40 metres
+- **Current**: Strong; can be very strong on outer faces
 
 ## Marine Life
 
-Grey reef sharks (20-50 individuals consistently), big-eye trevally schools, Napoleon wrasse, eagle rays, anthias, sea fans and black coral below 30 meters, grouper, and occasional hammerheads and whale sharks.
+Grey reef sharks and whitetip reef sharks (both confirmed at site; numbers vary by season and conditions), big-eye trevally, Napoleon wrasse, anthias, grouper, eagle rays. Sea fans and black coral documented on deeper sections. Historical records note large grey reef shark aggregations; current operator reports suggest sightings depend on conditions.
 
 ## Tips for Divers
 
-Descend the mooring line quickly to the top of the thila to orient before the current carries you off. Position on the sheltered down-current face for the best shark viewing — the grey reefs stack here in the current shadow. Maintain neutral buoyancy strictly and avoid hanging in the water column above the pinnacle, which can scatter the shark schools. Strong Advanced certification and current diving experience is essential. The site is best dived early morning when shark activity is highest.
+Descend quickly to the top of the thila to orient in the current before being swept off. Position on the sheltered down-current face for best shark viewing. Maintain strict neutral buoyancy. Advanced certification and confirmed current-diving experience are essential. Current can be very strong on the outer faces.
 
 ---
-*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Earth Fish Head Guide](https://www.scubadivingearth.com/fish-head-mushimasmingili-thila-north-ari-atoll-maldives/), [Maldivestour.guide Fish Head](https://maldivestour.guide/diving/fish-head-maldives.html), [Divebooker Fish Head](https://divebooker.com/mushi-mas-mingili-thila-baz13807). Last updated 2026-06-15.*

@@ -23,7 +23,7 @@ Xemxija Bay is a small sheltered bay within the St. Paul's Bay area on Malta's n
 
 - **Location**: Xemxija, St. Paul's Bay, north Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10–20 meters

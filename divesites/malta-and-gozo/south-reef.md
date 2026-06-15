@@ -23,7 +23,7 @@ South Reef is located on Malta's south coast near Żurrieq. The site does not ap
 
 - **Location**: Near Żurrieq, south coast Malta
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters
