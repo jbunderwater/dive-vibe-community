@@ -17,15 +17,15 @@ Trou aux Biches Reef is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Trou aux Biches on Mauritius' northern coast is the island's most popular diving hub, with an extensive barrier reef about one kilometre offshore offering more than 25 sites accessible in very short boat rides. The outer reef and drop-offs host guitar sharks, hawksbill turtles, eagle rays, nurse sharks, and colourful reef fish including ribbon eels and leaf fish, while the nearby Stella Maru wreck anchors the area as one of the best all-round dive destinations on the island. The combination of calm west-coast conditions, varied topography including wrecks, drop-offs, and shallow coral gardens, and year-round accessibility makes this the benchmark choice for both beginner and experienced divers visiting Mauritius.
+Trou aux Biches on Mauritius' northern coast is one of the island's main diving hubs, with a barrier reef approximately one kilometre offshore providing access to numerous dive sites in short boat rides. The reef itself is a shallow site (commonly dived at 10–12 metres) with a coral garden featuring hard corals that were significantly degraded but have been recovering since around 2018. The broader Trou aux Biches area is also the base for the Stella Maru wreck dive, as well as deeper sites including the Silver Star and Waterlily wrecks. Common marine life at the reef includes Moorish idols, convict tangs, whitetail dascyllus, various moray eels, peacock mantis shrimp, and sea turtles. Guitar sharks (wobbegong-type) have been reported in the area by some sources, though this is not confirmed specifically at this reef site.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Trou aux Biches, northern Mauritius
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Sources: [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Snorkeling Report - Trou-aux-Biches](https://www.snorkeling-report.com/spot/snorkeling-trou-aux-biches/), [My Base Diving Mauritius - Explore the Underworld](https://mybasedivingmauritius.com/explore-the-underworld/). Last updated 2026-06-16.*

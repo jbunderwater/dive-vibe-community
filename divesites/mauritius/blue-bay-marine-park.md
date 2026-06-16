@@ -17,15 +17,15 @@ Blue Bay Marine Park is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Blue Bay Marine Park is a 353-hectare protected lagoon on the southeast coast of Mauritius, designated a Ramsar Wetland site in 2008 and home to 38 coral species including a massive brain coral estimated to be over 1,000 years old with a five-metre diameter. The average depth is just 2–3 metres in the lagoon, making it exceptional for snorkelling, with 72 documented fish species including butterflyfish, parrotfish, and surgeonfish, plus resident green turtles and occasional moray eels and octopuses. The most pristine sections can only be accessed by guided boat tour, and strict no-touch rules protect the ancient coral formations.
+Blue Bay Marine Park is a 353-hectare protected lagoon on the southeast coast of Mauritius, declared a national park in October 1997 and granted Marine Park status in 2000. On 31 January 2008 it was designated a Wetland of International Importance under the Ramsar Convention. The park contains 38 coral species across 28 genera and 15 families, and hosts more than 72 documented fish species. Depths in the lagoon are typically 1–5 metres, making it ideal for snorkelling and beginner diving. The park's signature feature is an ancient brain coral (Lobophyllia sp.) estimated to be over 1,000 years old with a diameter of approximately 5 metres. Sea turtle sightings — both hawksbill and green — are reported in the area. The most pristine sections can only be accessed by guided boat tour, and strict no-touch rules protect the coral formations.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Blue Bay, southeast Mauritius
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Blue Bay Marine Park](https://en.wikipedia.org/wiki/Blue_Bay_Marine_Park), [Ramsar Sites Information Service - Blue Bay](https://rsis.ramsar.org/ris/1744), [Snorkeling Report - Blue Bay Marine Park](https://www.snorkeling-report.com/spot/snorkeling-blue-bay-mauritius/), [Mauritius Now - Blue Bay Marine Park](https://mauritiusnow.com/blog/things-to-do/blue-bay-marine-park/). Last updated 2026-06-16.*

@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Hoi Siong No. 6 Wreck
 
-Hoi Siong No. 6 Wreck is a historic wreck dive in Mauritius, Africa.
+Hoi Siong No. 6 Wreck is a wreck dive site in Mauritius, Africa.
 
 ## Overview
 
-The Hoi Siong No. 6 is a former fishing vessel deliberately sunk in 2003 as an artificial reef off Île aux Bénitiers in Le Morne, a collaborative project between the Mauritius Marine Conservation Society and the Mauritius Oceanographic Institute. The 44-metre hull now sits upright on a sandy bottom at 27–29 metres, completely encrusted in corals and sponges, and is home to barracuda, tuna, lionfish, and butterflyfish. A small opening on the right-hand side of the wreck can be explored by divers, and the site is accessible to all certification levels given its relatively sheltered position.
+The Hoi Siong No. 6 is a former fishing vessel deliberately sunk in 2003 as an artificial reef off the southwest coast of Mauritius near Le Morne, in a collaborative project involving the Mauritius Marine Conservation Society and the Mauritius Scuba Diving Association. The wreck sits at 28–29 metres depth and has accumulated coral growth over the years, providing habitat for barracuda, tuna, lionfish, butterflyfish, surgeon fish, and schools of goatfish. The site is located in relatively sheltered waters near Île aux Bénitiers.
+
+**Note on vessel details:** The vessel length is cited as approximately 27 metres in some sources. The specific organisations involved are confirmed as the Mauritius Marine Conservation Society and the Mauritius Scuba Diving Association; the involvement of the Mauritius Oceanographic Institute is mentioned in some sources but not independently confirmed in others. No verified tonnage or vessel origin information is available.
+
+**Note on interior:** One source (mauritiusguidedtours.com) states the wheelhouse is intact and accessible, but this could not be verified against local operator sources. Wreck penetration requires appropriate training and equipment.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Le Morne / Île aux Bénitiers area, Mauritius
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Sources: [Wannadive.net - Hoi Siong Wreck](https://www.wannadive.net/spot/Africa/Mauritius/Hoi_Siong_Wreck/index.html), [Holidify - Scuba Diving in Mauritius](https://www.holidify.com/pages/scuba-diving-in-mauritius-783.html), [Tropical Warehouse - Best Dive Sites Mauritius](https://tropicalwarehouse.co.uk/blog/2021/03/best-dive-sites-in-mauritius/), [Africa Tour Operators - Diving in Mauritius](https://www.africatouroperators.org/mauritius/diving-in-mauritius/). Last updated 2026-06-16.*

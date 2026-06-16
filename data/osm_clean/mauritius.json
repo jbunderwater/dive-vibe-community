@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com, scubaspotadvisor.com, scubasnap.app"
+      "validation_source": "mauritiusnow.com, diveseaurchin.com, mybasedivingmauritius.com, mauritiusexplored.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, divespiritmauritius.com"
+      "validation_source": "divespiritmauritius.com, thediveglobe.com, dododivers.com, tropicalwarehouse.co.uk",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com (Coral Garden nearby), padi.com"
+      "validation_source": "prodivemauritius.com, snorkeling-report.com, mybasedivingmauritius.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "mauritiusexplored.com, ramsar.org, wikipedia.org"
+      "validation_source": "wikipedia.org, rsis.ramsar.org, snorkeling-report.com, mauritiusnow.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -71,14 +75,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com, divescover.com, wannadive.net"
+      "validation_source": "prodivemauritius.com, dansa.org, thediveglobe.com, divespiritmauritius.com, mauritiusattractions.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Colorado Point",
     "lat": -20.4392,
     "lon": 57.7487,
-    "depth": 30,
+    "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com"
+      "validation_source": "padi.com, scubaworld-mauritius.com, mauritiusexplored.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -100,9 +106,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "padi.com (Flic en Flac area bounds), scubasnap.app",
-      "coordinate_note": "Placed in Flic en Flac offshore reef area based on PADI region bounds"
+      "validated": "false",
+      "validation_note": "No source uses the name 'Flic en Flac Pass' as a named dive site. Local dive operators list Cathedral, Rempart Serpent, Aquarium, Big Rock, Canyon for this area. This may be a fabricated or conflated site name. Only 1-2 aggregate databases (padi.com region page, scubasnap.app) reference it, not local operators.",
+      "validation_source": "padi.com, scubasnap.app",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -117,7 +124,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "diveboard.com"
+      "validation_source": "mybasedivingmauritius.com, lonelyplanet.com, mauritiusexplored.com, diveboard.com, diveseaurchin.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -132,7 +140,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "deepblu.com"
+      "validation_source": "wannadive.net, holidify.com, tropicalwarehouse.co.uk, africatouroperators.org",
+      "last_qa_date": "2026-06-16"
     }
   }
 ]
