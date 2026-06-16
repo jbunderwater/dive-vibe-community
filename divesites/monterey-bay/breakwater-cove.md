@@ -2,8 +2,8 @@
 name: Breakwater Cove
 lat: 36.614
 lng: -121.895
-difficulty: Beginner
-maxDepth: 18
+difficulty: Intermediate
+maxDepth: 15
 entryType: shore
 siteType: kelp
 ref: null
@@ -25,8 +25,8 @@ Located just south of Cannery Row, Breakwater Cove is Monterey's most popular te
 - **Location**: San Carlos Beach Park, South of Cannery Row
 - **Entry Type**: Shore entry
 - **Site Type**: Kelp
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-15 meters (15-50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Minimal, well-protected entry
@@ -61,10 +61,5 @@ Monterey Bay's year-round water temperature of 50-55°F requires proper thermal 
 
 Monitor water temperature and thermal protection carefully. The kelp canopy can disorient inexperienced divers—stay near structures or use compass bearings. Watch for boat traffic along the breakwater and maintain awareness of surge conditions. Always use a surface marker buoy (SMB). Buddy contact is essential in kelp.
 
-- **Validation Source**: Perplexity research, local dive operators
-
 ---
-*Breakwater Cove has been thoroughly researched and validated against local dive conditions and marine reports. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Scuba Board — San Carlos Beach](https://montereyscubaboard.com/monterey-dive-sites/san-carlos-beach/), [OpenDiveSites — Breakwater Cove](https://opendivesites.org/Breakwater_Cove), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-06-16.*

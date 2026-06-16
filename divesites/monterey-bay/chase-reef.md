@@ -3,7 +3,7 @@ name: Chase Reef
 lat: 36.617
 lng: -121.905
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -24,9 +24,9 @@ Chase Reef is located offshore from the northern tip of the Monterey Peninsula b
 
 - **Location**: Offshore from Coral Street Beach, Pacific Grove (36°38.045′ N, 121°55.135′ W)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Moderate, watch for thick kelp and surge
@@ -88,14 +88,5 @@ Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm 
 
 Always deploy an SMB on ascent for boat crew awareness. Maintain buddy contact throughout, particularly when navigating kelp. Watch for current changes. Follow the dive operator's briefing for descent and ascent procedures. Only dive on days with suitable conditions for the boat—sea state and visibility matter.
 
-## Additional Resources
-
-- **Monterey Breakwater**: Boat launch point
-- **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity research, California Diving News, dive guides
-
 ---
-*Chase Reef is a solid intermediate boat dive with healthy invertebrate populations. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [California Diving News — Chase Reef](https://cadivingnews.com/dive-spots/chase-reef/), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-06-16.*

@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tofoscuba.com,scubamozambique.com,mozambique.co.za,liquiddiveadventures.com,peri-peridivers.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -22,7 +23,7 @@
     "lon": 35.6,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tofoscuba.com,accommodationmozambique.co.za,mozambique.co.za,liquiddiveadventures.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 35.5917,
     "osm_id": null,
     "osm_type": null,
-    "depth": 14,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tofoscuba.com,liquiddiveadventures.com,mozambique.co.za",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "tofoscuba.com,reefbuilders.com,mozambique.co.za,liquiddiveadventures.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -73,7 +77,7 @@
     "lon": 35.5875,
     "osm_id": null,
     "osm_type": null,
-    "depth": 16,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -81,7 +85,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "mozambique.co.za,xray-mag.com,scubatravel.co.uk",
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Coordinates -23.8417/35.5875 place this site near Tofo, but Doodles is a well-documented reef at Ponta do Ouro (~-26.8, 32.9). Coordinate mismatch retained from curated data — requires correction."
     }
   },
   {
@@ -97,8 +103,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "mozambiquetravel.com,mozambique.co.za,padi.com",
+      "last_qa_date": "2026-06-16",
+      "qa_note": "COORDINATE/NAME CONFLICT: 'Two Mile Reef' is documented in multiple sources as a reef in the Bazaruto Archipelago between Benguerra and Bazaruto Islands (~-21.8, 35.5), NOT at Ponta do Ouro. Current coordinates (-26.8333, 32.9) place this site at Ponta do Ouro where no site named 'Two Mile Reef' is confirmed. Ragged-tooth shark claim in existing description is unverified. Site cannot be validated until name/location conflict is resolved."
     }
   },
   {
@@ -107,7 +115,7 @@
     "lon": 32.8833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -115,7 +123,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "xray-mag.com,padi.com,mozambique.co.za,scubatravel.co.uk",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -132,7 +141,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "xray-mag.com,mozambique.co.za,scubago.com,scubatravel.co.uk",
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Some sources describe Bass City as having a sunken fishing trawler forming an artificial reef element alongside the natural rocky reef. Site type kept as 'reef' since the primary character is rocky reef with potato bass aggregations, but the wreck element exists."
     }
   },
   {
@@ -141,7 +152,7 @@
     "lon": 35.5167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -149,7 +160,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "mozambiquetravel.com,mozambique.co.za,padi.com,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -165,8 +177,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "mozambique.co.za,padi.com",
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Insufficient site-specific sources. One source mentions San Sebastian in the context of walls, caves, and overhangs suitable for Open Water divers near Bazaruto — which conflicts with the Tofo coordinates here. Could not find 3 independent sources confirming this specific site at these coordinates."
     }
   },
   {
@@ -175,7 +189,7 @@
     "lon": 35.5333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 14,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -183,7 +197,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveguinjata.com,scubago.com,accommodationmozambique.co.za",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -199,8 +214,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "mozambique.co.za,originaldiving.com",
+      "last_qa_date": "2026-06-16",
+      "qa_note": "No source confirms a site specifically named 'Quirimbas Reef'. The Quirimbas Archipelago has many named sites (Zala Bank, Rush Hour, Medjumbe walls, Neptune's Arm, etc.) but none called 'Quirimbas Reef'. This appears to be a generic curated placeholder name. Additionally, one major operator (Original Diving) notes northern Mozambique is 'off limits' due to security concerns. Cannot validate with fewer than 3 sources for this specific site name."
     }
   }
 ]

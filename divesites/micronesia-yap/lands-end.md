@@ -13,7 +13,10 @@ addedBy: osm_import
 
 # Land's End
 
-A wild, current-swept point where reef systems converge and big pelagics gather -- grey reef sharks, eagle rays, and tuna in unpredictable open-ocean conditions
+A curated entry for the southwestern outer reef of Yap — possibly corresponding to "End of the Land" in the visityap.com database, a near-vertical wall with soft corals and crinoids
+
+## QA Note (2026-06-16)
+"Land's End" as an exact name does not appear in Manta Ray Bay Resort's published site list or visityap.com dive database. However, visityap.com lists "End of the Land" as a site with a "near-vertical wall to ocean floor with soft corals and crinoids above 60ft" — this may be the same site under a slightly different name. The description below is retained with this uncertainty noted. This entry remains unresolved.
 
 ## Overview
 Land's End marks the outermost point of Yap's reef system, where the reef terminates and open ocean begins. This is where currents from multiple directions converge, creating upwellings that concentrate plankton and attract large pelagic species. The diving here is exhilarating and unpredictable -- grey reef sharks gather in numbers, eagle rays pass in formation, and yellowfin tuna blast through in pursuit of baitfish. The exposed location means conditions can change rapidly, with currents strengthening or shifting direction mid-dive. This is Yap's most adventurous dive site, reserved for experienced divers comfortable in challenging open-water conditions.
@@ -51,4 +54,4 @@ Land's End is Yap's most demanding dive site. Currents are strong, unpredictable
 Wide-angle is the only viable option. The subject matter -- sharks, rays, tuna -- demands fast shutter speeds (1/250 or higher) and the ability to shoot quickly as animals pass. Stabilizing in current is the main challenge, so a reef hook frees both hands for camera work. Ambient light exposures with the deep blue water background produce dramatic images. Strobes are useful for filling in color on passing marine life but keep recycle time short for rapid-fire shooting. Some of Yap's most dramatic shark images come from Land's End on high-current days.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. "Land's End" not confirmed as a named site in primary Yap dive operator listings. Possibly corresponds to "End of the Land" on visityap.com (near-vertical wall with soft corals/crinoids). Last updated 2026-06-16.*

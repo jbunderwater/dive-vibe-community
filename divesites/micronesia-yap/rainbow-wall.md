@@ -13,7 +13,10 @@ addedBy: osm_import
 
 # Rainbow Wall
 
-A deep, color-saturated wall dive where vibrant soft corals in every hue justify the name, with grey reef sharks and eagle rays in the blue
+A curated entry for a wall dive in Yap's southwestern outer reef — note that "Rainbow Reef" is a confirmed site but is a very different inshore mandarin fish site; "Rainbow Wall" is unconfirmed
+
+## QA Note (2026-06-16)
+IMPORTANT: "Rainbow Reef" is a confirmed, well-documented Yap dive site — but it is a shallow (3-10m) inshore reef near O'Keefe's Island famous for the world's largest mandarinfish population. It is NOT a wall dive. "Rainbow Wall" as a distinct deep wall dive site does not appear in Manta Ray Bay Resort's published dive site listings or visityap.com. The name and description below may conflate these two different sites. This entry is marked unresolved until a primary source confirms "Rainbow Wall" as a named wall dive site in Yap.
 
 ## Overview
 Rainbow Wall is one of Yap's deepest recreational wall dives, reaching 35 meters along a sheer face blanketed in soft corals of extraordinary color variety. The wall earns its name from the rainbow of hues on display -- reds, oranges, yellows, purples, and pinks all represented in the dense soft coral growth. At depth, where these colors are invisible to the naked eye, a torch or strobe reveals the full spectrum in stunning fashion. Grey reef sharks are ever-present along the wall edge, eagle rays glide past in the blue water, and the dramatic topography includes overhangs, crevices, and buttress formations. Strong currents are common, making this a site for experienced divers.
@@ -51,4 +54,4 @@ The 35-meter depth demands respect. Nitrogen narcosis can affect judgment at thi
 Rainbow Wall is a color photographer's dream -- but only with artificial light. At depth, the human eye sees only blues and greys, so strobes are essential to bring out the vivid soft coral colors. Wide-angle with dual strobes positioned for even coverage is the standard setup. Shoot close to your subjects to minimize backscatter and maximize color saturation. Upward angles along the wall with a shark silhouette create dramatic compositions. For the deepest sections, boost strobe power and shoot at shorter distances. The excellent visibility allows creative negative-space compositions with the deep blue water.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found confirming "Rainbow Wall" as a named dive site in Yap. Caution: "Rainbow Reef" is a different, confirmed site (shallow inshore mandarin fish site, 3-10m) not a wall dive. Last updated 2026-06-16.*

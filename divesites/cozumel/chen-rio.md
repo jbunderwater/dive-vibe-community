@@ -3,8 +3,8 @@ name: Chen Rio
 lat: 20.3467894
 lng: -86.8947828
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
+maxDepth: 18
+entryType: shore
 siteType: reef
 ref: null
 osmId: 663869359
@@ -21,33 +21,33 @@ Chen Rio sits on Cozumel's windward eastern coast, which faces directly into the
 
 ## Site Information
 
-- **Location**: East coast (windward), Cozumel, Quintana Roo, Mexico
-- **Entry Type**: Boat dive
+- **Location**: East coast (windward), Cozumel, Quintana Roo, Mexico (shore entry)
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet; can vary with sea conditions)
 - **Current**: Variable and can be strong — eastward-facing coast exposed to Caribbean swell
 - **Best Time**: April to June when Caribbean swell is at its minimum; assess conditions on the day
 
 ## Marine Life
 
-The eastern reefs see species that rarely visit the calmer leeward side. Greater amberjack and bar jacks sweep through the area in fast-moving schools. Larger pelagic species — including occasional passing cobia and the Atlantic sailfish in season — have been reported by experienced local operators. The reef structure itself hosts all the standard Caribbean species, but in larger, less-habituated populations due to reduced dive traffic. Hawksbill turtles are present on both coasts. Nurse sharks and spotted moray eels occupy the deeper reef crevices. The invertebrate community on the exposed surfaces has exceptional sponge variety.
+The eastern reefs have lower diver pressure than the leeward sites, which benefits the marine life populations. Standard Caribbean reef species are present. Sources provide limited specific marine life detail for Chen Rio beyond what would be typical of a sheltered east-coast bay. No specific species confirmed at this exact site beyond the general east-coast character.
 
 ## Dive Profile
 
-Diving Chen Rio requires careful current and swell assessment from the boat before entering. When conditions allow, the dive follows the reef contours in whatever direction offers the most shelter from the dominant swell. Depth rarely needs to exceed 15 meters; staying in the mid-water avoids both the surge near the surface and the silting in the deeper channels. Bottom time decisions should be conservative and always deferring to the conditions. This is not a site to explore on solo basis or without an experienced local guide.
+Diving Chen Rio requires careful current and swell assessment from shore before entering. The natural bay formed by the rocky rim provides a sheltered area; the dive stays within the protected interior to ~18m, with a drop-off to deeper water on the outside of the rim. Staying in the mid-water avoids both the surge near the surface and the silting in the deeper channels. Bottom time decisions should be conservative and always deferring to conditions. This is not a site to explore solo or on a first east-coast dive.
 
 ## Entry and Exit
 
-The longest boat journey of the Cozumel circuit from San Miguel — approximately 40–50 minutes around the island's southern tip. Entry and exit are weather-dependent; the boat captain makes the final call. Only reputable operators with eastern-coast experience should be trusted to assess conditions here.
+Chen Rio is a shore dive accessed from the coastal road on Cozumel's east side. A natural rocky rim creates a sheltered pool; entry is into this protected bay area. Exit through the same entry point. Conditions must be assessed on arrival — if surf is breaking significantly over the rocky rim or undertow is present, the dive should not be attempted. Restaurants at the beach make this a convenient stop on an east-coast day trip.
 
 ## Tips
 
-- Only attempt Chen Rio with an operator who regularly works the east coast and knows the site intimately
-- Be prepared for the dive to be cancelled or replaced — eastern conditions change quickly
-- The remoteness and pristine nature of the east coast reef is the reward for its unpredictability
-- Intermediate certification and current-diving experience are genuine prerequisites here
+- Assess conditions from shore before gearing up — if swell is breaking heavily into the bay, postpone
+- The dive works best on calm mornings during April–June; avoid in winter swell season
+- Combining Chen Rio with a stop at the Chen Rio beach restaurant makes for a full east-coast day
+- Intermediate certification and shore-dive experience in variable conditions are genuine prerequisites here
 - The dive may be less than 30 minutes if conditions deteriorate — manage expectations and enjoy what is offered
 
 ## Safety
@@ -59,4 +59,4 @@ This is the most weather-dependent of Cozumel's standard sites. Surge creates ri
 The eastern reefs' pristine state rewards photographers with wide-angle images of undisturbed coral formations. The more intense light penetration on the east-facing coast creates dramatic morning photography opportunities. Surge makes macro shooting challenging — stick to wide-angle here and use fast shutter speeds to freeze the movement caused by swell. Pelagic fish action in the open water above the reef is worth having your camera ready throughout the dive.
 
 ---
-*Description based on regional diving characteristics and east coast character. Source consulted: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html). Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/). Corrections from previous version: entry type changed from boat to shore (confirmed shore dive); depth corrected from 20m to 18m (60ft). Fewer than 3 independent sources; not fully validated. Last updated 2026-06-16.*

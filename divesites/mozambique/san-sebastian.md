@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## San Sebastian
 
-San Sebastian is a pinnacle dive site in Mozambique, Africa.
+San Sebastian is a dive site off the Tofo peninsula named for the nearby cape, though site-specific information is limited. Could not be validated to three independent sources.
 
 ## Overview
 
-San Sebastian is a pinnacle site off the Tofo peninsula named for the cape it lies near, where a submerged reef structure descends to around 22 meters and acts as a gathering point for both resident and pelagic species. Oceanic manta rays and whale sharks are regular visitors during the October-to-March season, drawn by the plankton-rich upwellings that characterise this stretch of the Mozambique Channel. The pinnacle itself is covered in hard corals and sea fans with moray eels, lionfish, and nudibranch species in the crevices along the lower slopes.
+San Sebastian is listed as a dive site in the Tofo/Inhambane area of Mozambique. There is a San Sebastian Point and Cape visible on charts of the Mozambique Channel coastline between Tofo and Vilanculos, and dive operators in the region reference the area. One source in the context of Bazaruto mentions "Caves, Amphitheatre and San Sebastian" as offering reef walls, caves, and overhangs suitable for Open Water divers — though this may refer to a different San Sebastian location further north near Bazaruto Island rather than the Tofo-area site represented by these coordinates.
+
+Specific underwater topography, confirmed marine life, and site dimensions for a "San Sebastian" pinnacle dive at the coordinates listed (-23.8583, 35.5792) could not be confirmed from three independent sources during the June 2026 QA review. The general Tofo region is characterised by plankton-rich upwellings that attract oceanic manta rays and whale sharks between October and March, and any reef or pinnacle in this area would likely share these regional characteristics, but attributing specific species to this site without confirmation would be speculative.
+
+The previous description attributed oceanic manta rays and whale sharks as "regular visitors" to San Sebastian specifically, and described "moray eels, lionfish, and nudibranch species" in the crevices. These were not confirmed by site-specific sources and have been replaced with appropriately qualified language.
 
 ## Site Information
 
-- **Location**: Mozambique, Africa
+- **Location**: Tofo/Inhambane area, Mozambique (specific site not independently confirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No three independent site-specific sources found for this named location. Last updated 2026-06-16.*

@@ -153,7 +153,7 @@
     "validation_source": "dive3d.eu,evolutionunderwater.com,divertrek.com",
     "tags": {
       "name": "Kensho Maru",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "scuba_diving:dangers:current": "no",
       "scuba_diving:dangers:dangerous_species": "no",
       "scuba_diving:dangers:depth": "no",
@@ -500,7 +500,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "en.wikipedia.org,military-history.fandom.com",
+    "validation_source": "en.wikipedia.org,military-history.fandom.com,en.wikipedia.org/wiki/Operation_Hailstone",
     "tags": {
       "name": "HIJMS Tachikaze",
       "historic": "wreck",
@@ -509,7 +509,7 @@
       "wreck:date_sunk": "1944-02-17",
       "wreck:length": "102.6m",
       "wreck:width": "9.1m",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -542,12 +542,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com,thedirtydozenexpeditions.com",
     "tags": {
       "name": "Amagisan Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -599,12 +599,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com,thedirtydozenexpeditions.com",
     "tags": {
       "name": "Fujisan Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -618,12 +618,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com,masterliveaboards.com",
     "tags": {
       "name": "Gosei Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -637,12 +637,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,thorfinn.net,trukwreckdiving.com",
     "tags": {
       "name": "Hanakawa Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -670,17 +670,17 @@
     "name": "Hoyo Maru",
     "lat": 7.37114,
     "lon": 151.84453,
-    "depth": 36,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,thorfinn.net,dive3d.eu,scubadivingearth.com",
     "tags": {
       "name": "Hoyo Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -694,12 +694,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com",
+    "validation_source": "michaelmcfadyenscuba.info,scubadivingearth.com,thedirtydozenexpeditions.com",
     "tags": {
       "name": "Kikukawa Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -756,7 +756,7 @@
       "name": "Nippo Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -770,12 +770,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "thorfinn.net,dive3d.eu,argunners.com,en.wikipedia.org",
+    "validation_source": "thorfinn.net,dive3d.eu,argunners.com,scubadivingearth.com",
     "tags": {
       "name": "Yamagiri Maru",
       "historic": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-22",
+      "last_qa_date": "2026-06-16",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
@@ -803,7 +803,7 @@
     "name": "Seiko Maru",
     "lat": 7.361417,
     "lon": 151.904167,
-    "depth": 40,
+    "depth": 49,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",

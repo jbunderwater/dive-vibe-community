@@ -17,7 +17,9 @@ Stella Maru Wreck is a historic wreck dive in Mauritius, Africa.
 
 ## Overview
 
-The Stella Maru is a 44-metre Japanese trawler sunk in December 1987 to create one of Mauritius' first artificial reefs off the Trou aux Biches coast in the north of the island. She was originally sunk on her side but a major cyclone in 2002 righted her, and she now sits upright on the sandy bottom at 25–26 metres, remarkably intact and blanketed in soft corals with a resident giant frogfish, huge moray eels in the bulkheads, and whip coral gobies and nudibranchs throughout. A small interior passage can be explored, and the bow makes an ideal subject for wide-angle underwater photography.
+The Stella Maru is a Japanese fishing trawler approximately 42–44 metres long, deliberately sunk in December 1987 by the Mauritius Conservation Society to create an artificial reef off the Trou aux Biches coast in the north of the island. She was originally sunk on her side, but a major cyclone in 2002 righted her onto the sandy bottom where she now sits upright at 18–26 metres depth, remarkably intact. The wreck is colonised with soft corals and is home to giant moray eels in the bulkheads, scorpionfish, frogfish, porcupinefish, and triggerfish. A resident giant moray eel is habituated to divers. The wreck's distinctive profile makes it a popular subject for underwater photography.
+
+**Note on vessel length:** Sources report the length as either 42 metres (mauritiusattractions.com) or 44 metres (thediveglobe.com). Tonnage has not been confirmed in any available source and is not stated here.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ The Stella Maru is a 44-metre Japanese trawler sunk in December 1987 to create o
 - **Maximum Depth**: 26 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Sources: [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [DAN Southern Africa - Wrecks of Northern Mauritius](https://www.dansa.org/blog/2022/12/04/the-wrecks-of-northern-mauritius), [The Dive Globe - Stella Maru](https://www.thediveglobe.com/app/en/dive/stella-maru-wreck-mauritius), [Dive Spirit Mauritius - Stella Maru](https://divespiritmauritius.com/en/stella-maru/), [Mauritius Attractions - Wreck Diving](https://mauritiusattractions.com/wrecks-diving-mauritius-dives-package-special-dives-p-228.html). Last updated 2026-06-16.*

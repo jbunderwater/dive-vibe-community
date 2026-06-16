@@ -64,4 +64,4 @@ The bright, shallow, clear water at Punta Dalila is excellent for natural-light 
 - **Last Updated**: 2026-03-28
 
 ---
-*Description based on regional diving characteristics and limited source data. Sources consulted: [Divescover — Punta Dalila](https://divescover.com/dive-site/punta-dalila/25401), [Wannadive — Punta Dalila](https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Punta_Dalila/index.html). Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*
+*Sources: [Divescover — Punta Dalila](https://divescover.com/dive-site/punta-dalila/25401), [Wannadive — Punta Dalila](https://www.wannadive.net/spot/Central_America/Mexico/Yucatan/Cozumel_Isalnd/Punta_Dalila/index.html), [Zentacle — Punta Dalila](https://www.zentacle.com/Beach/3235/punta-dalila), [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/). Confirmed: western leeward reef, boat entry, beginner-friendly, ~15m (50ft) max depth, sea turtles and nurse sharks. Last updated 2026-06-16.*

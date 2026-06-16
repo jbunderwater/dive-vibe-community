@@ -3,7 +3,7 @@ name: Metridium Fields
 lat: 36.611
 lng: -121.896
 difficulty: Intermediate
-maxDepth: 16
+maxDepth: 18
 entryType: shore
 siteType: reef
 ref: null
@@ -24,9 +24,9 @@ While located at the same beach as the often-crowded Breakwater, Metridium Field
 
 - **Location**: San Carlos Beach, South of Cannery Row (same entry as Breakwater)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5-15 meters (15-50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Moderate, generally manageable
@@ -34,7 +34,7 @@ While located at the same beach as the often-crowded Breakwater, Metridium Field
 
 ## Marine Life and Features
 
-The defining feature is the dense coverage of giant white metridium anemones that create an otherworldly underwater garden. These anemones are photographic subjects unlike anything else in Monterey. Beyond the metridiums, expect to find rockfish, lingcod, harbor seals, colorful nudibranchs, bright red strawberry anemones, orange and yellow sponges, and kelp bass. The rocky substrate provides countless crevices for small marine life.
+The defining feature is the dense coverage of giant white metridium anemones — pure white, 60-centimeter-tall plume anemones covering low-profile rocky outcrops. These create an otherworldly underwater garden unique in Monterey. Beyond the metridiums, sources confirm rockfish, juvenile wolf eels, nudibranchs (sea lemons, clown dorids, hermissendas), swell sharks in rock crevices, and clusters of orange sunflower sea stars. A small school of surfperch is often present near the anemone fields.
 
 ## Dive Profile
 
@@ -61,10 +61,5 @@ Monterey's 50-55°F water year-round demands proper thermal protection. Wear 5-7
 
 Maintain awareness of the current, which can increase with depth. Monitor your air consumption on intermediate dives—the cold water increases air density effects. Stay near the pipe and rocky structures to avoid disorientation. Always use an SMB on ascent. Buddy contact is essential, particularly when distracted by photography.
 
-- **Validation Source**: Perplexity research, local dive guides
-
 ---
-*Metridium Fields has been thoroughly researched and validated against local diving conditions. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Scuba Board — Metridium Fields](https://montereyscubaboard.com/monterey-dive-sites/metridium-fields/), [OpenDiveSites — Metridium Fields](https://opendivesites.org/Metridium_Fields), [ScubaBoard — Metridium Fields](https://scubaboard.com/community/threads/metridium-fields.569053/). Last updated 2026-06-16.*

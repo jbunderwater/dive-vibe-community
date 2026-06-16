@@ -16,12 +16,12 @@ addedBy: osm_import
 A gentle, shallow reef ideal for beginners and checkout dives, with garden eels on the sand flats and surprisingly good macro life in the coral rubble
 
 ## Overview
-Slow and Easy lives up to its name -- a calm, shallow reef that provides a relaxed introduction to Yap's underwater world. At just 10 meters maximum depth with typically light currents, this is the go-to site for checkout dives, refresher dives, and newer divers building confidence before tackling Yap's manta channels and walls. But do not dismiss it as merely a training site. The sandy flats are home to colonies of garden eels that sway in the gentle current, the coral rubble harbors excellent macro life, and the overall reef health reflects Yap's well-preserved marine environment. Many experienced divers return here for a relaxed final dive of the day.
+Slow and Easy is located approximately 10 minutes from Manta Ray Bay Resort and is Yap's primary macro photography site. DAN Alert Diver describes it as "a gentle sand slope punctuated by hard-coral bommies" — an accurate summary of the site's character. The rubble patch that forms the main feature of the dive hosts confirmed populations of pipefish, ghost pipefish, multiple nudibranch species, symbiotic gobies paired with burrowing shrimps, and a large white mantis shrimp. Ikelite's Yap guide highlights the site specifically for shrimp gobies and prawns. A resident hawksbill turtle is described as sometimes very curious. The dive course between buoys covers barely 50 meters, yet experienced divers can spend 100 minutes or more exploring the concentrated critter life.
 
 ## Site Information
 - **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -29,7 +29,7 @@ Slow and Easy lives up to its name -- a calm, shallow reef that provides a relax
 - **Best Time**: Year-round
 
 ## Marine Life
-Garden eels are the signature residents, their colonies stretching across the sand flats with dozens of individuals swaying in unison and retreating into their burrows as divers approach. The coral rubble and patch reef areas host nudibranchs, flatworms, commensal shrimp on sea cucumbers, and juvenile fish using the coral for shelter. Blue-spotted stingrays rest on the sand. Anemones with resident anemonefish are scattered across the reef. Schools of goatfish forage over the sand, and longnose filefish hover near branching coral. Occasional hawksbill turtles pass through, and small reef octopus can be found hiding in coral rubble at night.
+Confirmed species at Slow and Easy: pipefish, ghost pipefish, nudibranchs (multiple species), symbiotic gobies and burrowing shrimps, a large white mantis shrimp (resident in a tennis-ball-sized burrow), and whip coral shrimp. A resident hawksbill turtle is well-known at this site. Garden eels are described as present on the sand flats by DAN. Small reef octopus have been reported at night. Blue-spotted stingrays may occur on the sand. Ikelite specifically identifies shrimp gobies and prawns as the signature macro subjects here.
 
 ## Dive Profile
 A straightforward reef dive at 5-10 meters. Descend to the sand at 8-10 meters and explore the garden eel colonies, then work through the patch reef and rubble areas at shallower depths. The flat, open topography makes navigation easy. Extended bottom times of 60-70 minutes are standard at these depths. The site works well for skills practice due to the sandy bottom and calm conditions. Safety stop is barely necessary at these depths but good practice for newer divers.
@@ -51,4 +51,4 @@ This is Yap's safest dive site. Shallow depths, light currents, and calm conditi
 Macro is the primary discipline here. A 60mm or 100mm macro lens captures the garden eels, nudibranchs, and small reef creatures effectively. Approach garden eels with extreme patience for natural, undisturbed poses. The shallow depth and good light make natural-light photography viable. Wide-angle reef scenes work in the morning with good ambient light. For night dive photography, a torch with a red filter helps locate subjects without disturbing them. The calm conditions allow deliberate, precise macro compositions that are impossible at current-swept sites.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia), [DAN Alert Diver - Yap](https://dan.org/alert-diver/article/yap/), [Scubago/DiveSI - Slow and Easy](https://www.scubago.com/en/explore/destination/yap-9749759). Last updated 2026-06-16.*

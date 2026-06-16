@@ -30,7 +30,7 @@ Located within Point Lobos State Reserve, Bluefish Wall is accessed from Whalers
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Moderate, variable
-- **Access Restrictions**: Maximum 15 buddy pairs per day; diving permits required; $10 diver registration + $10 car + $5 boat launch fee
+- **Access Restrictions**: Maximum 10 buddy teams per day; advance reservations required; $20/pair weekday, $30/pair weekend + $10 vehicle entry fee
 - **Best Time**: Year-round on permit availability
 
 ## Marine Life and Features
@@ -44,17 +44,17 @@ Enter at Whalers Cove ramp and navigate to the wall section heading west. The bo
 ## Entry and Exit: Point Lobos Access
 
 All divers must:
-- Enter through Point Lobos State Reserve main entrance ($10/car)
-- Register with reserve staff ($10/diver)
+- Enter through Point Lobos State Reserve main entrance ($10/vehicle)
+- Hold a valid dive permit reservation ($20/pair weekday, $30/pair weekend+holiday)
 - Enter and exit at Whalers Cove launch ramp only
-- Comply with maximum 15 buddy pairs per day limit
-- Obtain diving permits (conditions may vary by season)
+- Comply with maximum 10 buddy teams per day limit
+- Present valid SCUBA certification cards at registration
 
 Entry conditions at Whalers Cove are typically straightforward with a ramp providing easy water access.
 
 ## Tips and Recommendations
 
-- Book permits well in advance during summer months—daily limit of 15 buddy pairs fills quickly
+- Book permits well in advance—daily limit of 10 buddy teams fills quickly, especially on weekends
 - Bring macro and wide-angle cameras—fish fearlessness and hydrocoral diversity demand multiple lenses
 - The wall's vertical nature and fish abundance make this one of Monterey's must-dive sites
 - Winter dives offer nesting fish behavior and potential gray whale sightings
@@ -71,11 +71,6 @@ Comply strictly with Point Lobos access restrictions. Always use an SMB on ascen
 ## Additional Resources
 
 - **Point Lobos Diving Info**: https://www.parks.ca.gov/?page_id=28353
-- **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity research, California Diving News
 
 ---
-*Bluefish Wall is a premier Monterey diving destination. This page has been thoroughly researched and validated. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board — Point Lobos](https://montereyscubaboard.com/monterey-dive-sites/point-lobos/), [California Diving News — Bluefish Wall](https://cadivingnews.com/dive-spots/point-lobos-state-reserve-bluefish-wall/). Last updated 2026-06-16.*

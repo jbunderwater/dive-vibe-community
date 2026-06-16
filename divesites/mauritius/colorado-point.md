@@ -3,7 +3,7 @@ name: Colorado Point
 lat: -20.4392
 lng: 57.7487
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: cave
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Colorado Point
 
-Colorado Point is a cave dive site in Mauritius, Africa.
+Colorado Point is a cave and canyon dive site in Mauritius, Africa.
 
 ## Overview
 
-Colorado is a cave and canyon dive in the south of Mauritius, where a 400-metre-long canyon system drops to a staggering 40 metres before passing through a tunnel that bends and exits via a crevice, then continues under an arch through a narrow gorge. The lava-formed tunnels and arches are typical of Mauritius' volcanic geology and draw parrotfish and groupers to the darker sections while the canyon walls host sea fans and encrusting corals. This is one of the more technically demanding dives on the island, best suited to experienced divers comfortable with overhead environments and significant depth.
+Colorado is a canyon and cave dive in the south of Mauritius, located 500–600 metres behind the barrier reef. The dive descends into a 400-metre-long canyon system that reaches around 33–35 metres, then continues through a tunnel that bends before exiting via a crevice, and returns through a narrow gorge beneath an arch into a forest of sea fans. The site is rated a 5-star dive by local operators for its unusual underwater architecture. Because of the depth and overhead environment, it is suitable only for experienced divers with advanced certification.
+
+**Note on depth:** The PADI dive site page lists maximum depth as 30 metres (98 ft), while Scuba World Diving Mauritius lists 35 metres and divebooker.com cites an average of 33 metres and maximum of 40 metres. The depth recorded here (35m) represents the consensus of local operator sources.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: South, Mauritius
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Sources: [PADI - Colorado Dive Site](https://www.padi.com/dive-site/republic-of-mauritius/colorado/), [Scuba World Diving Mauritius - Out Lagoon Dive](https://scubaworld-mauritius.com/out-lagoon-dive/), [Mauritius Explored - Best Diving Spots](https://www.mauritiusexplored.com/blog/best-diving-spots-in-mauritius). Last updated 2026-06-16.*

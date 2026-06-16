@@ -17,15 +17,17 @@ Flic en Flac Pass is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Flic en Flac Pass is a channel dive on the west coast of Mauritius, the island's richest area for marine biodiversity, with depths ranging from 14 to 25 meters through a passage of cavities and overhangs. When current is running, the pass makes for an exciting drift dive, though Open Water divers can stay on top of the plateau in calmer conditions. The west coast waters host colorful butterflyfish, soldierfish, lionfish, giant lobsters, scorpionfish, stonefish, and barracudas, with visibility typically 20-30 meters and water temperatures between 25-30°C depending on season.
+The Flic en Flac area on the west coast of Mauritius is known for varied diving including caves, reefs, and wrecks. Local dive operators serving this area list numerous named sites (Cathedral, Rempart Serpent, Aquarium, Big Rock, Canyon, Rempart Canon, TUG II, KeiSei 113) but do not document a site specifically named "Flic en Flac Pass" in their dive site listings. The west coast waters in this area host lionfish, stonefish, scorpionfish, groupers, moray eels, and reef fish, with visibility typically 15–30 metres and water temperatures of 25–30°C depending on season. Divers comfortable with current can drift the natural passages in the reef.
+
+**Data quality note:** No local dive operator or primary source could be found that uses the name "Flic en Flac Pass" as a distinct named dive site. This entry's validated status has been set to false pending identification of a local-operator source that confirms this as a named site.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Flic en Flac, Mauritius
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
 
 ---
-*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Flic en Flac west coast. No source-confirmed site named "Flic en Flac Pass" was found. Last updated 2026-06-16.*

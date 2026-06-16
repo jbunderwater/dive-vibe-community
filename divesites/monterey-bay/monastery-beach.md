@@ -3,7 +3,7 @@ name: Monastery Beach
 lat: 36.524
 lng: -121.928
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 27
 entryType: shore
 siteType: wall
 ref: null
@@ -26,7 +26,7 @@ Located along Highway 1 just south of Carmel-by-the-Sea, Monastery Beach is name
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-80 feet (6-24 meters) on good days
 - **Water Temperature**: 10-13°C (50-55°F) — requires 7mm wetsuit or drysuit
 - **Current**: Moderate to strong variable
@@ -35,7 +35,7 @@ Located along Highway 1 just south of Carmel-by-the-Sea, Monastery Beach is name
 
 ## Marine Life and Features
 
-The wall is covered with colorful encrusting marine life, including bright pink and purple hydrocoral—some of the largest and best-preserved hydrocoral specimens in Central California. Lingcod, cabezon (especially nesting in winter), rockfish, wolf eels, and nudibranchs are common. Cold inflows bring hundreds of brightly-colored egg-yolk jellyfish and additional nudibranch species. Distant boat dives at this site have recorded sea otters, harbor seals, and deep-water species in deeper water.
+The wall is covered with colorful encrusting marine life. Lingcod, cabezon (especially nesting in winter), rockfish, wolf eels, and nudibranchs are common on the upper wall at 25–40 meters. The site provides access to the beginning of the Monterey Submarine Canyon, with depths dropping precipitously just offshore. No site-specific sources confirmed sea otter or harbor seal sightings at this site specifically; those species are common in the broader Monterey Bay.
 
 ## Dive Profile
 
@@ -67,10 +67,5 @@ Monterey's 50-55°F water at 40 meters demands a 7mm wetsuit or drysuit. At 40+ 
 
 This site carries genuine risk from the shore break, cold water, and depth. Divers have died here—approach with extreme respect for conditions. Never dive Monastery Beach on days with any appreciable swell. Always use an SMB on ascent. Buddy separation at depth or in the surf zone can be fatal. This is a site for advanced, experienced cold-water divers only.
 
-- **Validation Source**: Perplexity research, California Diving News, dive accident databases
-
 ---
-*Monastery Beach is a world-class but serious dive site. This page has been thoroughly researched against local conditions and accident reports. Dive safely. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Diving Mortuary Beach](https://scubaboard.com/community/threads/diving-mortuary-beach-i-e-monastery-beach.569126/), [OpenDiveSites — Monastery Beach](https://opendivesites.org/Monastery_Beach), [California Diving News — North Monastery Beach](https://cadivingnews.com/dive-spots/montereys-north-monastery-beach/). Last updated 2026-06-16.*

@@ -3,7 +3,7 @@ name: Mill Channel new cleaning station
 lat: 9.6015185
 lng: 138.1366048
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 5
 entryType: boat
 siteType: drift
 ref: null
@@ -13,20 +13,20 @@ addedBy: osm_import
 
 # Mill Channel new cleaning station
 
-A shallower manta ray cleaning station in Yap's famous Mill Channel, offering reliable close encounters with reef mantas at just 10 meters
+A very shallow manta ray cleaning station further inside the lagoon in Yap's Mi'l Channel, offering extended bottom time with reef mantas at around 5 meters
 
 ## Overview
-The Mill Channel new cleaning station was discovered in the early 2000s and quickly became one of the most popular manta encounter sites in Yap. Located in the shallower portion of Mill Channel, this station features several coral bommies where oceanic manta rays arrive to be cleaned by small wrasse fish. At only 10 meters depth, it is significantly more accessible than the original cleaning station deeper in the channel. Divers kneel on the sandy bottom and watch as mantas glide in overhead, sometimes approaching within arm's reach. Yap's manta encounters are year-round, though December through April tends to see the highest concentrations.
+The new cleaning station in Mi'l Channel is positioned further inside the lagoon than the original site, with coral bommies where reef manta rays (Mobula alfredi) arrive to be cleaned by bicolored cleaner wrasses and butterflyfish. At approximately 5 meters depth, this station is accessible to snorkelers as well as divers, and the shallow depth allows bottom times that can exceed an hour. The trade-off compared to the old station is reduced visibility — the lagoon water is less clear than the ocean-flushed outer reef site — though diving toward the top of an incoming tide improves conditions considerably. Yap's manta population numbers over 100 resident individuals, and encounters are possible year-round; December through April tends to see the highest manta concentrations in Mi'l Channel.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: Mi'l Channel, Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Mild to moderate (tidal dependent)
-- **Best Time**: Year-round; December to April for peak manta activity
+- **Maximum Depth**: 5 meters
+- **Typical Visibility**: 9-18 meters (30-60 feet; lower than old station due to lagoon position)
+- **Current**: Mild to moderate (tidal dependent; best on incoming tide)
+- **Best Time**: Year-round; December to April for peak manta activity in Mi'l Channel
 
 ## Marine Life
 The star attraction is the resident population of reef manta rays (Mobula alfredi), which visit the cleaning station throughout the year. Mantas hover over the coral heads while cleaner wrasses pick parasites from their skin, gills, and mouths. Individual mantas can be identified by their unique belly spot patterns, and Yap's population includes many well-known individuals tracked over decades. Beyond mantas, the channel hosts grey reef sharks, whitetip reef sharks, barracuda, and schools of jacks. The coral bommies themselves shelter butterflyfish, angelfish, and anemonefish.
@@ -51,4 +51,4 @@ Currents in Mill Channel are tidal and can increase suddenly. Listen carefully t
 This is one of the world's premier manta photography locations. Wide-angle lenses (10-17mm fisheye or 10-24mm rectilinear) are essential. No strobes or flash are permitted -- rely on natural light and shoot upward to silhouette mantas against the surface. The shallow depth means excellent ambient light in the mornings. Video shooters will find the predictable manta approaches ideal for steady, close-range footage. Patience and a low profile yield the best results.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Manta Ray Bay Resort - Manta Diving](https://mantaray.com/experiences/manta-diving/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [UW Photography Guide - Yap](https://www.uwphotographyguide.com/underwater-photo-dispatch-from-yap). Last updated 2026-06-16.*

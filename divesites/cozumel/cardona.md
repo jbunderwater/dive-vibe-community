@@ -3,7 +3,7 @@ name: Cardona
 lat: 20.342695
 lng: -87.043991
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 14
 entryType: shore
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ One of Cozumel's few accessible shore dive sites — a sheltered patch reef perf
 
 ## Overview
 
-Cardona is exceptional among Cozumel dive sites for being accessible from shore without a boat, making it a practical option for independent divers, training scenarios, and multiple short dives in a single day. The site is located along the central leeward coast where the water is shallow and protected. The reef consists of scattered coral formations — brain corals, star corals, and small sea fans — on a sandy substrate that reaches a maximum of 12 meters. Without the current typical of offshore Cozumel diving, conditions are calm enough for genuine beginners and students. The lack of current also means marine life is more stationary and predictable for observation.
+Cardona is exceptional among Cozumel dive sites for being accessible from shore without a boat, making it a practical option for independent divers, training scenarios, and multiple short dives in a single day. The site is located along the central leeward coast where the water is shallow and protected. The reef consists of scattered coral formations — brain corals, star corals, and small sea fans — on a sandy substrate that reaches a maximum of approximately 14 meters. Without the current typical of offshore Cozumel diving, conditions are calm enough for genuine beginners and students. The lack of current also means marine life is more stationary and predictable for observation.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Cardona is exceptional among Cozumel dive sites for being accessible from shore 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10–25 meters (30–80 feet; can be reduced after storms)
 - **Current**: Minimal — sheltered inshore position
 - **Best Time**: Year-round; less dependent on weather than offshore sites
 
 ## Marine Life
 
-The protected, calmer conditions at Cardona have allowed an interesting complement of species that prefer still water over the current-adapted fauna of the outer reefs. Banded butterflyfish and foureye butterflyfish are common around the coral heads. Caribbean spiny lobsters are present in good numbers in the crevices. Spotted trunkfish and cowfish are regularly seen in the sandy areas. Caribbean reef squid and occasional cuttlefish-like Caribbean responses to divers make this site photogenic. Yellowtail snapper and blue tangs patrol the reef. The sandy bottom supports southern stingrays and the occasional peacock flounder, perfectly camouflaged against the substrate.
+Confirmed at Cardona by multiple sources: Caribbean spiny lobsters in the crevices, splendid toadfish (*Sanopus splendidus*, the Cozumel endemic) under ledges and in holes — the low-profile reef structure with its many crevasses is a reliable habitat for them. Spotted moray eels are common. Nurse sharks rest in crevices and can be spotted by looking through holes from the top of the reef or under overhanging ledges. Elkhorn corals, schools of reef fish, and sea turtles round out the confirmed species list. The calm, current-free conditions make resident species unusually approachable.
 
 ## Dive Profile
 
-Entry from a specific access point along the shore road or from a designated beach entry, wading through the shallows to swimming depth. The reef begins at 3–5 meters and extends to the 12-meter maximum. Navigation follows the scattered coral heads from one to the next in a circuit pattern. The absence of current means out-and-back or circular routes are both practical. Extended bottom times of 60–80 minutes are comfortable at this depth.
+Entry from a specific access point along the shore road or from a designated beach entry, wading through the shallows to swimming depth. The reef begins at 3–5 meters and extends to the 14-meter maximum. Navigation follows the scattered coral heads from one to the next in a circuit pattern. The absence of current means out-and-back or circular routes are both practical. Extended bottom times of 60–80 minutes are comfortable at this depth.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Shore diving requires heightened personal responsibility without a boat crew or 
 The calm, current-free water at Cardona is outstanding for macro photography where camera stability is critical. Peacock flounder camouflage is a compelling subject against the sandy substrate. Trunkfish and cowfish portraits in clear, calm water can be made with a 60mm or 100mm macro lens. Natural light is very good in the morning shallows. Night diving adds octopus, sleeping parrotfish, and hunting lionfish to the photographic menu.
 
 ---
-*Description based on limited source data. Sources consulted: [Scuba Diving Cozumel — Cardona](https://scuba-diving-cozumel.com/cardona/), [DiveBuddy — Cardona Reef](http://www.divebuddy.com/divesite/2057/cardona-reef-mexico/). Named after Mexican film director René Cardona who filmed underwater scenes here in 1957. Fewer than 3 independent site-specific sources found; not fully validated. Last updated 2026-05-23.*
+*Sources: [Scuba Diving Cozumel — Cardona](https://scuba-diving-cozumel.com/cardona/), [DiveBuddy — Cardona Reef](http://www.divebuddy.com/divesite/2057/cardona-reef-mexico/), [Living Underwater — Cozumel Dive Sites](https://living-underwater.com/cozumel-dive-sites), [Scuba XOC — Cozumel Dive Sites](https://www.scubaxoc.com/?section=diveSites). Named after Mexican film director René Cardona who filmed underwater scenes for 'Un Mundo Nuevo' here in 1957. Max depth corrected from 12m to 14m (45ft). Last updated 2026-06-16.*

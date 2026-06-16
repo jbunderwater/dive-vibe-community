@@ -13,7 +13,10 @@ addedBy: osm_import
 
 # Sunrise Reef
 
-A healthy, light-drenched reef best dived in the early morning when the rising sun illuminates vibrant coral gardens and bustling fish life
+A curated entry for a reef dive in Yap's eastern outer reef area — no independent sources confirm this as a named dive site
+
+## QA Note (2026-06-16)
+"Sunrise Reef" does not appear in Manta Ray Bay Resort's published dive site listings (mantaray.com/sites/) or on visityap.com's dive site database. It is possible this is a locally used name not captured in published sources, but it cannot be validated from available web sources. The description below is based on the general character of Yap's reef diving and should not be treated as site-specific validated content.
 
 ## Overview
 Sunrise Reef earns its name from the spectacular early-morning light that floods this east-facing reef, creating a warm glow across the coral gardens during the first dive of the day. The site features an expansive area of healthy hard coral -- staghorn, table, and massive Porites formations -- interspersed with sandy patches and small coral bommies. It offers a relaxed, unhurried diving experience focused on reef ecology and fish diversity rather than big-animal encounters. For divers looking for a contrast to Yap's high-adrenaline manta and shark dives, Sunrise Reef delivers a peaceful, visually rich experience.
@@ -21,7 +24,7 @@ Sunrise Reef earns its name from the spectacular early-morning light that floods
 ## Site Information
 - **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -51,4 +54,4 @@ Sunrise Reef is one of Yap's more benign dive sites. Currents are typically ligh
 The early-morning light is the defining feature for photography. The low sun angle creates warm tones and long shadows across the coral gardens, ideal for wide-angle reef scenes. Sunburst shots through Snell's window are particularly effective in the clear, shallow water. Macro photographers will find nudibranchs, Christmas tree worms, and cleaner shrimp as reliable subjects. Overunder (split) shots work well in the calm surface conditions. The reef provides a consistently photogenic backdrop without requiring a specific "money shot" -- the beauty is in the overall scene.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found confirming "Sunrise Reef" as a named dive site in Yap. Not listed in mantaray.com or visityap.com dive site databases. Last updated 2026-06-16.*

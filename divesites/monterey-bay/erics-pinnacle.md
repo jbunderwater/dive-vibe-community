@@ -3,8 +3,8 @@ name: Eric's Pinnacle
 lat: 36.612
 lng: -121.898
 difficulty: Intermediate
-maxDepth: 20
-entryType: shore
+maxDepth: 17
+entryType: boat
 siteType: pinnacle
 ref: null
 osmId: null
@@ -22,11 +22,11 @@ Eric's Pinnacle is a distinctive pinnacle discovered by Eric Minard while seekin
 
 ## Site Information
 
-- **Location**: Offshore of Otter Cove, Pacific Grove (36° 38.044′ N, 121° 55.101′ W)
-- **Entry Type**: Shore entry
+- **Location**: Offshore of Otter Cove, Pacific Grove (approximately 36.634°N, 121.918°W per OpenDiveSites)
+- **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Minimal, calm and relaxed diving
@@ -35,15 +35,15 @@ Eric's Pinnacle is a distinctive pinnacle discovered by Eric Minard while seekin
 
 ## Marine Life and Features
 
-The pinnacle's defining feature is its colorful cape of bright red strawberry anemones covering the top and sides. The anemone coverage creates a jeweled appearance best appreciated close-up. The pinnacle is covered in Corynactis californica—a specific type of coral anemone creating dense polyp coverage. The exceptional diversity of photogenic fish species makes this a photographer's dream. Both beginners and advanced divers can appreciate the diversity of life in this small geographic area.
+The pinnacle's defining feature is dense coverage of Corynactis californica (club-tipped anemones, often called strawberry anemones) that carpet the upper slopes. Sources confirm blacksmith fish, halfmoons, opaleye, sheephead, and calico bass as typical residents. The base has crabs, anemones, and invertebrates. The pinnacle is described as the most massive in inner Monterey Bay, with many side spires and deep cracks. Note: this site does not have a shore entry — boat or kayak access from Otter Cove is required.
 
 ## Dive Profile
 
-Boats typically drop anchor near the pinnacle. Descend to the base (10-15 meters) and explore upward along the rock faces. The pinnacle begins at 20 meters and rises to approximately 10 meters depth, creating dramatic vertical structures. The strawberry anemones are most abundant on the pinnacle's upper slopes. Ascend along the rock structure maintaining buoyancy control. The pinnacle is small enough to allow multiple complete circumnavigations during a single dive.
+Boats anchor near the pinnacle; the top is visible at approximately 6 meters. Descend to the base at 17 meters and work upward along the rock faces, circling the spires. The pinnacle's vertical faces and numerous crevices provide structure throughout the dive. Multiple complete circumnavigations are possible in a single dive given the compact footprint.
 
 ## Entry and Exit
 
-This site is primarily accessed by boat. Boats launch from Monterey Breakwater or between Fisherman's Wharf and Wharf #2. The dive site is approximately 1/2 mile offshore. Shore entry from Otter Cove is possible but involves a longer surface swim. Boat access is strongly recommended.
+Accessed by boat from Monterey Breakwater or between Fisherman's Wharf and Wharf #2. Kayak access from Otter Cove is also common. Shore entry from Otter Cove involves a long surface swim to an area with boat traffic; boat or kayak is strongly preferred.
 
 ## Tips and Recommendations
 
@@ -62,14 +62,5 @@ Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm 
 
 Always use an SMB on ascent despite the isolated nature of the pinnacle. Maintain buddy contact throughout the dive—the pinnacle is small and easily circumnavigated together. Watch for boat traffic when ascending near the surface. The calm conditions and reasonable depth make this a safer intermediate dive choice compared to wall dives or technical sites.
 
-## Additional Resources
-
-- **Boat Launch Info**: Monterey Breakwater or Fisherman's Wharf
-- **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity research, California Diving News, dive guides
-
 ---
-*Eric's Pinnacle is a beloved Monterey dive destination known for photography and calm conditions. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [California Diving News — Eric's Pinnacle](https://cadivingnews.com/dive-spots/monterey-bays-erics-pinnacle/), [OpenDiveSites — Eric's Pinnacle](https://opendivesites.org/Eric's_Pinnacle), [Pacific Scuba Divers — Local Popular Dive Sites](https://pacificscubadivers.com/local-popular-dive-sites). Last updated 2026-06-16.*

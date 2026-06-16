@@ -2,8 +2,8 @@
 name: Otter Cove
 lat: 36.633
 lng: -121.925
-difficulty: Beginner
-maxDepth: 14
+difficulty: Intermediate
+maxDepth: 15
 entryType: shore
 siteType: kelp
 ref: null
@@ -25,8 +25,8 @@ Located at Ocean View Boulevard and Sea Palm Avenue in Pacific Grove, about 1/4 
 - **Location**: Ocean View Boulevard and Sea Palm Avenue, Pacific Grove
 - **Entry Type**: Shore entry
 - **Site Type**: Kelp
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-15 meters (15-50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Minimal to moderate
@@ -82,10 +82,5 @@ Monterey's 50-55°F water requires 5mm+ thermal protection even at these shallow
 
 - **Tide Information**: Check local tide tables before diving
 - **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity research, local dive guides, California Diving News
-
 ---
-*Otter Cove is a peaceful, rewarding kelp dive offering escape from crowded Monterey sites. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Scuba Board — Otter Cove](https://montereyscubaboard.com/monterey-dive-sites/otter-cove/), [California Diving News — Otter Cove](https://cadivingnews.com/dive-spots/montereys-otter-cove/), [OpenDiveSites — Otter Cove](https://opendivesites.org/Otter_Cove). Last updated 2026-06-16.*
