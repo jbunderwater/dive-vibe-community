@@ -21,7 +21,7 @@ The old cleaning station in Mi'l Channel is where Yap's manta diving reputation 
 ## Site Information
 - **Location**: Mi'l Channel, Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive / cleaning station
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-27 meters (50-90 feet; clearer than new station due to proximity to outer reef)

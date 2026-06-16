@@ -21,9 +21,9 @@ A curated entry representing manta encounter diving in Yap's sheltered waters; t
 ## Site Information
 - **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Unverified — possibly represents general bay area diving
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (approximate; based on regional character)
+- **Maximum Depth**: 12 meters
 - **Status**: Unresolved — no independent source confirms this as a named dive site
 
 ## Notes for Researchers

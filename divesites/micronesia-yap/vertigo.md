@@ -21,9 +21,9 @@ Vertigo is located on the west coast of Yap, south of Mi'l Channel, approximatel
 ## Site Information
 - **Location**: West coast of Yap, south of Mi'l Channel, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive / shark dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (working depth; wall drops beyond 60 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 30+ meters (100+ feet)
 - **Current**: Moderate to strong
 - **Best Time**: Year-round; shark feeding dives available on request

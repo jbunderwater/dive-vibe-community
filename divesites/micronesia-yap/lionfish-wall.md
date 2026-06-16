@@ -23,7 +23,7 @@ Lionfish Wall occupies the extreme southern tip of Yap's fringing reef, jutting 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (130 feet; slopes to 60m+ beyond)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-45 meters (70-150 feet)
 - **Current**: 0-3 km/h; can be strong at the exposed tip
 - **Best Time**: Year-round

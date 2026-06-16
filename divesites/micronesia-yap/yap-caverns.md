@@ -21,7 +21,7 @@ Yap Caverns is located at the southernmost tip of Yap island where the outer ree
 ## Site Information
 - **Location**: Southernmost tip of Yap island, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern with wall sections
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 12-30 meters (40-100 feet)

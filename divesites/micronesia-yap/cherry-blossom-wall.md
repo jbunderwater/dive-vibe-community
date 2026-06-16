@@ -3,7 +3,7 @@ name: Cherry Blossom Wall
 lat: 9.53
 lng: 138.105
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 45
 entryType: boat
 siteType: wall
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 # Cherry Blossom Wall
 
-A beautifully colorful wall named for its pink soft corals resembling cherry blossoms, with reef sharks, turtles, and outstanding photography potential
+A vertical wall at Nimpal Inlet's entrance on the western side of Yap, notable for pink and purple soft corals at 18 meters and one of the few Yap sites with black coral and deep-water sea fans below 36 meters
 
 ## Overview
-Cherry Blossom Wall takes its poetic name from the profusion of delicate pink soft corals that blanket sections of the wall face, giving the appearance of cherry trees in bloom. This is one of Yap's most photogenic dive sites, with exceptional coral coverage in pinks, purples, and reds creating a garden-like atmosphere along the vertical wall. The conditions here tend to be more moderate than Yap's more exposed wall sites, making it accessible to intermediate divers while still delivering the dramatic wall diving experience Yap is known for. Reef sharks and hawksbill turtles are reliable sightings.
+Cherry Blossom Wall is a vertical wall on the western side of Yap, located at the entrance to Nimpal Inlet. Mantaray.com notes that "the shallow entrance to the inlet prevents entry by boats seeking a sheltered surface interval," making access planning important. The wall descends from a reef top at approximately 10 meters to depths exceeding 80 meters. The distinctive pink and purple soft corals that give the site its name are found just over the wall edge at around 18 meters. Below 36 meters, this is described as "one of the few places on Yap's reef that black coral and deep water sea fans can be found." Light currents are typical (0-3 km/h), making this more accessible than Yap's current-swept outer points.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: Nimpal Inlet entrance, western side of Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 25-40 meters (80-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 45 meters
+- **Typical Visibility**: 18-30 meters (60-100 feet)
+- **Current**: Light (0-3 km/h)
 - **Best Time**: Year-round
 
 ## Marine Life
-The pink soft corals that give this wall its name create a distinctive habitat. Grey reef sharks and blacktip reef sharks patrol the wall edge, generally in smaller numbers than at more current-swept sites. Hawksbill sea turtles are frequently seen grazing on sponges along the wall. Schools of pyramid butterflyfish hover above the reef crest. The wall hosts gorgonian fans, wire corals with their resident gobies, and clusters of crinoids in yellows and reds. Moray eels peer from wall crevices, and whitetip reef sharks rest on ledges. The reef top above the wall has healthy table coral and large heads of Porites coral with Christmas tree worms.
+Grey reef sharks and blacktip reef sharks patrol the wall top at around 10 meters. Multiple species of crinoids are confirmed throughout the wall. Schools of unicornfish have been reported here. The pink and purple soft corals at 18 meters and the black coral and deep-water sea fans below 36 meters are the distinctive biological features of this site. Pelagic species appear when conditions allow monitoring of "the blue side of the dive." Note: hawksbill turtles, gorgonian fans, and Christmas tree worms are not specifically confirmed at Cherry Blossom Wall by primary sources — attributing them to this site without confirmation would be speculative.
 
 ## Dive Profile
 Drop from the boat to the reef top at around 5 meters, then descend along the wall face to a comfortable depth of 15-22 meters. The current here is typically lighter than other Yap walls, allowing more time to explore individual coral formations. Drift gently along the wall, ascending gradually over the dive. The densest soft coral coverage is between 12-18 meters. Finish on the reef top for your safety stop among the hard coral gardens.
@@ -51,4 +51,4 @@ This is one of Yap's more forgiving wall dives, with typically lighter currents 
 Cherry Blossom Wall is a photographer's paradise. The pink soft corals provide extraordinary natural compositions that require minimal arrangement. Wide-angle lenses capture the wall gardens in their full splendor -- shoot slightly upward to catch the soft corals against the blue water background. Dual strobes are essential to render the pinks and purples accurately, as these colors are lost to blue water absorption within a few meters. Macro shooters will find excellent subjects among the soft coral branches and on the wire corals. The calmer conditions here allow more precise composition than at current-swept walls.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Manta Ray Bay Resort - Cherry Blossom Wall](https://mantaray.com/sites/cherry-blossom-wall/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Underwater Australasia - Yap](https://underwater.com.au/article/id/7790-yap-micronesia-not-just-a-place-for-manta-rays/). Last updated 2026-06-16.*

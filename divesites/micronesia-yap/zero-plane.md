@@ -23,7 +23,7 @@ The "Zero plane" wreck is a World War II-era Japanese military aircraft lying in
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters (body at ~3m, tail at ~10m)
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: Variable (shallow lagoon water)
 - **Current**: Light
 - **Best Time**: Year-round; morning for best light penetration

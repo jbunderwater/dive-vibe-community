@@ -23,7 +23,7 @@ Gilman Wall (spelled "Gilmaan Wall" on mantaray.com) extends northwest from Yap 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters (working depths 6-28m recommended)
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 18-30 meters (60-100 feet)
 - **Current**: Light (0-3 km/h)
 - **Best Time**: Year-round
@@ -32,23 +32,22 @@ Gilman Wall (spelled "Gilmaan Wall" on mantaray.com) extends northwest from Yap 
 Squirrelfish, snappers, groupers, and large schools of small anthias are the confirmed fish life for this site. Lionfish appear in crevices. Clown triggerfish are occasionally seen near the wall base. Large brown Porite coral heads with tube worms and daisy corals dominate the structure. Note: mandarin fish and pygmy seahorses are NOT confirmed at Gilman Wall by primary sources — mandarin fish in Yap are associated with Rainbow Reef near O'Keefe's Island. No source consulted during this QA confirms gorgonian sea fans or black coral as dominant features here (those are more associated with Yap's other walls).
 
 ## Dive Profile
-Descend to the wall edge at around 10 meters and drift along the face at 18-28 meters. The deepest sections hold some of the largest sea fans. Plan for 30-35 minutes at depth before ascending to the reef top. For mandarin fish, time your dive for the final 30 minutes before sunset and spend the last portion of the dive hovering over the rubble area at 3-5 meters. This requires careful air planning to budget enough for an extended shallow phase.
+Descend to the wall edge and work along the face at 6-28 meters. The Porite coral formations and yellow soft coral ledges are most prominent around the 21-meter mark. The gentle current (typically 0-2 mph) allows unhurried exploration of individual coral formations. Ascend along the wall and finish on the reef top. Mantaray.com notes a two-tank or three-tank trip is possible when combined with Yap Caverns.
 
 ## Entry and Exit
 Boat access from Colonia. Giant stride entry, sometimes negative in current. The boat follows divers along the wall. SMB deployment during ascent for boat pickup on the reef top side.
 
 ## Tips and Recommendations
-- Request a late-afternoon dive specifically for the mandarin fish experience at dusk -- operators know the timing
-- Inspect the largest gorgonian fans closely for pygmy seahorses, which are smaller than a fingernail
-- Use Nitrox to extend your bottom time at depth where the best coral growth is found
-- Bring a good torch to reveal the true colors of the soft corals and black coral at depth
-- On the wall, look out into the blue periodically for passing sharks and eagle rays rather than staying focused only on the wall face
+- Use Nitrox to extend your bottom time at the deeper sections where yellow soft coral ledges are most prominent
+- Bring a good torch to reveal the true colors of the soft corals and tube worms at depth
+- The site pairs naturally with Yap Caverns for a combined two-tank or three-tank southern reef day trip
+- Look for clown triggerfish near the base of the wall — they are confirmed here and make excellent photographic subjects
 
 ## Safety Considerations
-The 28-meter depth and potential for strong currents make this an advanced dive. Depth management is critical along the wall. Currents can push divers deeper or sweep them off the wall -- carry a reef hook and be prepared to use it. The mandarin fish portion is shallow and safe, but arriving at the rubble zone with low air after a deep wall section is a real risk. Plan your gas carefully and consider a two-phase dive profile.
+The depth range to 45 meters and potential for moderate currents make this an advanced dive. Depth management is critical along the wall. Currents can push divers deeper or sweep them off the wall — carry a reef hook and be prepared to use it. The lighter currents here compared to Lionfish Wall and Land's End reduce the hazard, but depth creep on a vertical wall requires constant attention.
 
 ## Photography
-Gilman Wall is a world-class underwater photography site with two distinct opportunities. For the wall, wide-angle with dual strobes is essential to illuminate the massive sea fans and soft corals. Shoot upward along the wall with a shark or diver silhouette for scale. For mandarin fish, switch to macro (100mm) with a single strobe or video light. The mandarin fish display happens in very low light, requiring patience, a steady hand, and fast autofocus. Many photographers dive Gilman twice -- once for the wall, once for the mandarins.
+Gilman Wall suits both wide-angle and macro approaches. Wide-angle with dual strobes works well to illuminate the large Porite coral formations and anthias schools. Macro shooters will find tube worms, lionfish, and clown triggerfish as subjects. The lighter currents here compared to more exposed Yap walls allow more stable compositions than at Lionfish Wall or Land's End. Morning ambient light illuminates the upper wall sections effectively.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Manta Ray Bay Resort - Gilmaan Wall](https://mantaray.com/sites/gilmaan-wall/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [TechDiveTravels - Yap Dive Sites](https://techdivetravels.com/top-destinations/dive-sites-in-yap/). Last updated 2026-06-16.*

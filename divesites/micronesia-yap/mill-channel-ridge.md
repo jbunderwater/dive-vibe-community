@@ -21,7 +21,7 @@ The Ridge in Mi'l Channel — known formally as Tzimoulis Ridge — is a coral f
 ## Site Information
 - **Location**: Mi'l Channel (Tzimoulis Ridge), Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive / cleaning station
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 9-27 meters (30-90 feet; variable with tidal conditions)

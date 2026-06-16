@@ -21,7 +21,7 @@ The new cleaning station in Mi'l Channel is positioned further inside the lagoon
 ## Site Information
 - **Location**: Mi'l Channel, Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive / cleaning station
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 9-18 meters (30-60 feet; lower than old station due to lagoon position)
