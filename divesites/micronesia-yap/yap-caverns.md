@@ -3,7 +3,7 @@ name: Yap Caverns
 lat: 9.5
 lng: 138.08
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -13,20 +13,20 @@ addedBy: osm_import
 
 # Yap Caverns
 
-A series of dramatic swim-throughs and caverns with shafts of light, resting sharks, and rich macro life hiding in the crevices
+A network of caverns, pinnacles, chasms, and swim-throughs at the southernmost tip of Yap, described by Manta Ray Bay Resort as offering the strongest biodiversity of any single dive site in Yap
 
 ## Overview
-Yap Caverns is a labyrinth of interconnected caverns, overhangs, and swim-throughs carved into the reef structure. The site provides a striking contrast to Yap's open-water manta and wall dives. Sunlight penetrates through openings above, creating dramatic light beams that illuminate the cavern interiors -- particularly stunning in the late morning when the sun angle is high. Whitetip reef sharks are regularly found resting inside the larger chambers, and the sheltered environment hosts prolific macro life. The caverns are open-topped and navigable without cave diving certification, though comfort in overhead environments is important.
+Yap Caverns is located at the southernmost tip of Yap island where the outer reef structure has collapsed into deep water, creating honeycombed coral walls with narrow chasms, chimneys, and cavern passages accessible to recreational divers. Rock pinnacles rise from a white sand bottom, and skylights in the cavern roof admit light beams into the deeper sections. The depth range is 3-30 meters, providing a mix of shallow cavern exploration and deeper wall sections. The site is described as offering "the strongest diversity at any single dive site" in Yap — an amphitheater of macro subjects at every depth level alongside larger visitors. The currents are generally minimal, making this a good complement to the current-dependent channel dives.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: Southernmost tip of Yap island, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/cavern with wall sections
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Light to moderate
-- **Best Time**: Year-round; late morning for best light effects
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 12-30 meters (40-100 feet)
+- **Current**: Usually none
+- **Best Time**: Year-round; late morning for best light effects in caverns
 
 ## Marine Life
 Whitetip reef sharks are the marquee residents, often found resting on the sandy floors of the larger cavern chambers. Lionfish are abundant throughout the site, perching on ledges and in crevices, particularly the striking red lionfish. Large moray eels -- green and whitemouth -- peer from holes in the cavern walls. The crevices shelter a wealth of macro life including cleaner shrimp, squat lobsters, nudibranchs, and flatworms. Glassy sweepers congregate in dense schools inside the darker chambers, parting as divers swim through. Outside the cavern structure, the surrounding reef supports healthy hard coral and schools of fusiliers and anthias.

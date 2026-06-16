@@ -3,7 +3,7 @@ name: Vertigo
 lat: 9.5929632
 lng: 138.1125339
 difficulty: Advanced
-maxDepth: 22
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 # Vertigo
 
-Yap's signature wall dive, named for the dizzying vertical drop-off that plunges into the abyss with grey reef sharks, eagle rays, and vibrant gorgonian fans
+Yap's premier shark dive on a hard coral wall that plunges from 5 meters to over 60 meters, where grey reef sharks and blacktip reef sharks gather in numbers that can reach 10 to 40 per dive
 
 ## Overview
-Vertigo is widely considered Yap's most dramatic wall dive and one of the finest in Micronesia. The site earns its name from the sheer, vertigo-inducing vertical drop-off that falls away into deep blue nothingness. The wall face is adorned with massive gorgonian sea fans, soft corals, and sponges, creating a living tapestry of color against the deep blue backdrop. Grey reef sharks patrol the wall edge in numbers, and eagle rays are frequent visitors. Strong currents are possible, making this a site for experienced divers comfortable with exposed conditions.
+Vertigo is located on the west coast of Yap, south of Mi'l Channel, approximately 25-35 minutes from Manta Ray Bay Resort. The wall drops from the reef top at around 5 meters to beyond 60 meters, with consistently over 30 meters visibility. Yap Divers has operated a shark feeding program at this site for over 25 years; during the feed, more than 15 grey reef sharks and blacktip reef sharks converge on the balcony — a platform of dead hard coral — while divers sit still and watch. On non-feeding dives, both shark species are naturally present along the wall edge in impressive numbers. DAN Alert Diver describes the wall as "a pretty hard-coral wall laden with crinoids and small sponges." This site delivers the most adrenaline-intense diving in Yap.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: West coast of Yap, south of Mi'l Channel, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive / shark dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 25-45 meters (80-150 feet)
+- **Maximum Depth**: 40 meters (working depth; wall drops beyond 60 meters)
+- **Typical Visibility**: 30+ meters (100+ feet)
 - **Current**: Moderate to strong
-- **Best Time**: Year-round; calmest conditions October to May
+- **Best Time**: Year-round; shark feeding dives available on request
 
 ## Marine Life
-Grey reef sharks are the signature species here, often seen in groups of five to ten cruising the wall edge and blue water. Eagle rays glide past periodically, sometimes in formation. Yellowfin tuna and dogtooth tuna hunt along the drop-off. The wall face hosts large gorgonian sea fans that can reach two meters across, along with black coral bushes, soft coral trees, and barrel sponges. Whitetip reef sharks rest on ledges. Napoleon wrasse, bumphead parrotfish, and hawksbill turtles add to the big-animal encounters. Macro life in the wall crevices includes nudibranchs, flatworms, and decorator crabs.
+Grey reef sharks and blacktip reef sharks are the signature species, with 10-40 individuals per dive recorded. The sharks cruise the wall edge and converge in numbers during feeding operations. The hard coral wall is covered in crinoids and small sponges, with groupers, snappers, and moray eels in the crevices. Whitetip reef sharks also occur here. Note: sources do not confirm eagle rays, Napoleon wrasse, bumphead parrotfish, or hawksbill turtles as regular sightings specifically at Vertigo — those species are associated with other Yap sites.
 
 ## Dive Profile
-Descend from the boat to the reef top at approximately 5-8 meters, then move to the wall edge. The drop-off is immediate and dramatic -- the wall falls vertically far beyond recreational limits. Most diving is conducted between 15-22 meters along the wall face. Drift along the wall with the current, keeping the wall on your right or left depending on conditions. Ascend along the wall face and finish with a safety stop on the reef top.
+Descend to the reef top at approximately 5 meters and move to the wall edge. The wall drops vertically beyond 60 meters. During the shark feeding dives, divers take positions on a balcony of dead hard coral while the divemaster introduces the bait — sharks converge quickly. Working depth during most dives is 15-40 meters along the wall face. Ascend along the wall face and finish with a safety stop on the reef top.
 
 ## Entry and Exit
 Boat access from Colonia, approximately 20 minutes. Negative entry may be required in current. The boat follows divers along the wall. Deploy SMB during safety stop for pickup on the reef flat side of the wall.
@@ -51,4 +51,4 @@ Strong currents are common and can change direction. The vertical wall creates a
 Vertigo is a world-class wide-angle photography site. The wall drop-off provides dramatic negative-space compositions with sharks silhouetted against deep blue water. Gorgonian fans backlit by ambient light make stunning foreground subjects. Strobe power is important to bring out the colors of the soft corals at depth. For sharks, preset your camera settings and be ready -- encounters happen fast. The excellent visibility allows for longer working distances with wide-angle lenses.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Manta Ray Bay Resort - Vertigo Shark Diving](https://mantaray.com/vertigo-shark-diving/), [DAN Alert Diver - Yap](https://dan.org/alert-diver/article/yap/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php). Last updated 2026-06-16.*
