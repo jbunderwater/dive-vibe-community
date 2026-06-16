@@ -81,13 +81,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "divescover.com,wannadive.net",
+    "validated": true,
+    "validation_source": "divescover.com,wannadive.net,zentacle.com,colemanconcierge.com",
     "tags": {
       "name": "Punta Dalila",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Fewer than 3 independent sources confirmed site-specific details. Depth and type are plausible but unvalidated."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Western leeward reef. Confirmed boat entry, beginner-friendly, ~15m (50ft) max depth. Multiple sources confirm gentle current, reef type, good sea turtle and nurse shark sightings. Validated with 4 sources."
     }
   },
   {
@@ -132,17 +132,17 @@
     "lon": -87.043991,
     "osm_id": 663869335,
     "osm_type": "node",
-    "depth": 12,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "scuba-diving-cozumel.com,divebuddy.com",
+    "validated": true,
+    "validation_source": "scuba-diving-cozumel.com,divebuddy.com,living-underwater.com,scubaxoc.com",
     "tags": {
       "name": "Cardona",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Shore dive confirmed. Named after Mexican film director Rene Cardona. Fewer than 3 independent sources with site-specific depth data."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Shore dive confirmed. Low-profile broad flat reef full of holes and crevasses; ~14m (45ft) max depth (corrected from 12m). Named after Mexican film director René Cardona who filmed 'Un Mundo Nuevo' here in 1957. Splendid toadfish, nurse sharks, lobsters, crabs, spotted morays confirmed by multiple sources. Good night dive site. Validated with 4 sources."
     }
   },
   {
@@ -244,17 +244,17 @@
     "lon": -86.974983,
     "osm_id": 663869357,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "",
+    "validation_source": "colemanconcierge.com,living-underwater.com",
     "tags": {
       "name": "El Islote",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "No site-specific sources found confirming El Islote as distinct dive site. Coordinates place it on Cozumel's east coast. Site exists per OSM but no independent dive source confirmed. Validated status removed."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "Southeast Cozumel near Punta Celarain lighthouse. Large patch coral island with broad ridges of pristine hard and soft coral separated by sandy channels. Advanced dive with strong current and depth 60-130ft (18-40m); our 24m (80ft) max is within confirmed range. Depth corrected from 20m to 24m; difficulty upgraded from Intermediate to Advanced. Only 2 sources found — not yet validated to 3-source standard."
     }
   },
   {
@@ -282,17 +282,17 @@
     "lon": -86.8947828,
     "osm_id": 663869359,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": false,
-    "validation_source": "reefsofcozumel.com",
+    "validation_source": "reefsofcozumel.com,colemanconcierge.com",
     "tags": {
       "name": "Chen Rio",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "East coast site. Fewer than 3 independent sources with site-specific details. Reef type and intermediate difficulty consistent with east coast character."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "CORRECTION: Chen Rio is a SHORE dive (not boat). East coast site with sheltered natural bay protected by rocky rim. Small bay inside the reef sheltered from surf; drop-off to deeper water on outside. Max depth ~18m (60ft). Maya name means 'stone mouth'. Entry type corrected from boat to shore. Only 2 sources found — not yet validated to 3-source standard."
     }
   },
   {
@@ -301,17 +301,17 @@
     "lon": -86.911125,
     "osm_id": 663869361,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 11,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": false,
-    "validation_source": "",
+    "validation_source": "colemanconcierge.com,cozumelmexico.net",
     "tags": {
       "name": "El Mirador",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "No site-specific sources found. Coordinates place this on Cozumel's east coast. Validated status removed — cannot confirm with 3 independent sources."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "CORRECTIONS: Shore dive (not boat). Max depth ~11m (35ft) per colemanconcierge.com (corrected from 22m). East coast location with multiple small bays; rocky seascape with natural bridges and tide pools. Dangerous undertow can be present. Intermediate difficulty due to variable surf and undertow. Depth and entry type corrected. Only 2 sources found — not validated to 3-source standard."
     }
   },
   {
@@ -323,14 +323,14 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,colemanconcierge.com,living-underwater.com,tripadvisor.com",
     "tags": {
       "name": "San Juan Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Coordinates on north-northeast coast. No site-specific dive sources found confirming this as a distinct named dive site. Validated status removed."
+      "last_qa_date": "2026-06-16",
+      "qa_note": "CORRECTION: Difficulty upgraded from Intermediate to Advanced. North end of Cozumel outside the marine park; extremely strong and unpredictable currents — operators rate as Advanced/Expert. Features finger corals, lettuce coral, barrel sponges, ledges with French grunts, schoolmasters, moray eels, nurse sharks, turtles, eagle rays. Depth 40-60ft (12-18m) confirmed. Often second dive after Barracuda or Cantarel. Risk of separation from group and drift past island noted by multiple sources. Validated with 5 sources."
     }
   },
   {
