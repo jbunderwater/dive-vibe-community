@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Bass City Ponta
 
-Bass City Ponta is a reef dive site in Mozambique, Africa.
+Bass City at Ponta do Ouro earns its name from extraordinary concentrations of potato bass (giant grouper) that congregate on a rocky reef system at 16–22 metres, within the Ponta do Ouro Partial Marine Reserve.
 
 ## Overview
 
-Bass City earns its name from the extraordinary concentrations of potato bass (giant grouper) that congregate on this reef at Ponta do Ouro, where large specimens regularly exceed one metre in length and show little fear of divers. The site's rocky reef structure descends to around 22 meters over a mix of coral-encrusted boulders and sandy gullies that potato bass share with resident moray eels, hawksbill turtles, and clouds of reef fish. Ragged-tooth sharks also frequent the area during winter months, adding to Bass City's reputation as one of the most reliably action-packed dives on the Mozambique coast.
+Bass City is a rocky reef dive with algae-covered outcrops sitting inside Mozambique's Ponta do Ouro Partial Marine Reserve. The depth range is 16–22 metres (some sources cite up to 25 m), and the site is recommended for advanced divers due to current conditions and the confidence required for encounters with large fish.
+
+The reef's primary attraction is its potato bass population — large grouper specimens are resident and notably unbothered by divers. Confirmed additional species include lionfish, juvenile boxfish, harlequin shrimp, leopard sharks, blue-spotted stingrays, marble electric rays, moray eels, and frogfish. The site hosts cleaning stations.
+
+Some sources describe an element of Bass City as featuring the remains of a sunken fishing trawler that has become an artificial reef, adding structural complexity to the rocky bottom. This is noted in at least one operator source but is not consistently described across all sources — the dominant character of the site is natural rocky reef, and the grouper aggregations are the primary draw.
+
+The previous description attributed ragged-tooth sharks to Bass City. There is no source-confirmed record of ragged-tooth sharks at this specific site. Ragged-tooth shark aggregations are well-documented at Aliwal Shoal and Protea Banks in South Africa but not at Ponta do Ouro. This claim has been removed.
 
 ## Site Information
 
-- **Location**: Mozambique, Africa
+- **Location**: Ponta do Ouro, Maputo Province, Mozambique (inside Ponta do Ouro Partial Marine Reserve)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef (with possible artificial reef element)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 22 metres
 
 ---
-*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [Scubago — Ponta do Ouro](https://www.scubago.com/en/explore/destination/ponta-do-ouro-9752898), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*

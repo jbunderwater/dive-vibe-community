@@ -3,7 +3,7 @@ name: Pinnacles Ponta
 lat: -26.85
 lng: 32.8833
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Pinnacles Ponta
 
-Pinnacles Ponta is a pinnacle dive site in Mozambique, Africa.
+The Pinnacles at Ponta do Ouro is one of southern Mozambique's premier advanced dive sites, a deep reef structure 3.5 km offshore rising from the seafloor to 29 metres, renowned for year-round shark encounters including bull sharks, hammerheads, and tiger sharks.
 
 ## Overview
 
-Pinnacles Ponta is a cluster of submerged coral pinnacles off Ponta do Ouro in southern Mozambique, rising from sandy substrate to around 12 meters beneath the surface, creating complex topography draped in sea fans, soft corals, and encrusting sponges down to 35 meters. Resident potato bass and grouper hold station around the pinnacle bases, while ragged-tooth sharks (sand tigers) are regularly spotted resting in the deeper gullies between October and March during their annual aggregation at Ponta. Strong currents sweep past the structures and bring in nutrient-rich water that supports the dense invertebrate life coating every surface.
+The Pinnacles rise from the seafloor at 50 metres to around 29 metres beneath the surface, with dives typically reaching 28–40 metres. The site sits in strong, unpredictable current conditions and is strictly for experienced drift divers. One veteran diver reported diving the site over 30 times across three weeks, emphasising that reading the current is central to the experience — boats sometimes position 5 km away to let divers drift naturally over the structure.
+
+The Pinnacles is noted for unbaited shark encounters with up to 19 documented shark species in the broader Ponta do Ouro area. Species confirmed at or near the Pinnacles include bull sharks (Zambezi sharks), hammerhead sharks, and tiger sharks. Great potato bass and large game fish are resident. Manta rays have been documented visiting cleaning stations on the structure. Palette surgeonfish, rays, and schools of pelagic fish round out the marine life.
+
+**Correction from prior version:** The previous description attributed ragged-tooth sharks (sand tigers) as a primary feature, citing "October to March annual aggregation." Ragged-tooth shark aggregations are well documented at South African sites (Aliwal Shoal, Protea Banks) but are not confirmed as a defining feature of the Pinnacles at Ponta do Ouro specifically. Operator sites and X-Ray Mag's feature on Ponta do Ouro describe bull sharks, hammerheads, and tiger sharks rather than ragged-tooth sharks. This claim has been removed.
 
 ## Site Information
 
-- **Location**: Mozambique, Africa
+- **Location**: Ponta do Ouro, Maputo Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle (deep drift)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 metres (operational depth range 28–40 m)
 
 ---
-*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [PADI — Diving Ponta do Ouro](https://www.padi.com/diving-in/mozambique/ponta-do-ouro/), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*

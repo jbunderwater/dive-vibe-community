@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Sherwood Forest
 
-Sherwood Forest is a pinnacle dive site in Mozambique, Africa.
+Sherwood Forest is a pinnacle site south of Giants Castle at Tofo, named for the dense thickets of green tree coral that cover the main rock dome and attract one of the most active cleaning stations in Mozambique.
 
 ## Overview
 
-Sherwood Forest is a distinctive pinnacle site near Tofo known for its dense thickets of black coral "trees" and sea fans that give the site its name, covering the submerged rocky structures from around 15 meters down to 30 meters in a forest-like canopy of branching organisms. Whale sharks and manta rays cruise past the site regularly, and the pinnacles shelter large aggregations of snapper, fusiliers, and batfish that orbit the structure in the current. The site sits in an area of strong seasonal upwelling, meaning nutrient levels are high, invertebrate life is exceptionally rich, and encounters with megafauna are reliably frequent.
+Sherwood Forest lies 3.5 km from the Tofo dive base, a 5-minute boat ride. The site spans 23–30 metres depth, centred on a main dome of rock draped in massive specimens of green tree coral (a branching colonial soft coral) reaching over 3 metres in height — the "forest" from which the site takes its name. The coral growth supports a large resident cleaning station that draws thousands of golden anthia, purple lyretail, and cleaner wrasse to operate it.
+
+**Note on previous description:** The earlier version of this page described "black coral trees." This is inaccurate. Multiple sources — Tofo Scuba, Reef Builders, and Peri-Peri Divers — consistently describe the characteristic coral here as green tree coral, not black coral.
+
+Confirmed marine life at Sherwood Forest includes giant manta rays visiting the cleaning station, eagle rays, blotched fantail rays, smalleye stingrays, and mobula rays. A resident potato grouper known locally as "Robin Hood" is a long-term fixture. Schools of blue-line snappers, humpback snappers, and masked bannerfish pairs populate the water column around the pinnacle. Whale sharks are occasional visitors in the area during the October–March season, though not a guaranteed sighting at this specific site. Nitrox (32%) is recommended given the depth; bottom time on air is approximately 24 minutes.
 
 ## Site Information
 
-- **Location**: Mozambique, Africa
+- **Location**: Tofo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle with cleaning station
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30 metres
 
 ---
-*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*
+*Sources: [Tofo Scuba — Sherwood](https://www.tofoscuba.com/sherwood), [Reef Builders — Sherwood Forest Dive Site](https://reefbuilders.com/2016/06/27/sherwood-forest-dive-site-tofo-mozambique/), [Mozambique.co.za — Tofo Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-zavora-tofo-barra.html), [Liquid Dive Adventures — Tofo Sites](https://www.liquiddiveadventures.com/dive-sites-tofo). Last updated 2026-06-16.*
