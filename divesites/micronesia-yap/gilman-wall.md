@@ -13,23 +13,23 @@ addedBy: osm_import
 
 # Gilman Wall
 
-One of Yap's finest wall dives with enormous sea fans, black coral forests, grey reef sharks on patrol, and mandarin fish at dusk in the rubble zone above
+A vertical wall extending northwest from Yap Caverns with large Porite coral formations, yellow soft coral under ledges, and dense schools of anthias, squirrelfish, and snappers
 
 ## Overview
-Gilman Wall is frequently cited as one of the best wall dives in all of Micronesia. The wall drops steeply from a shallow reef top and is blanketed with massive gorgonian sea fans -- some exceeding two meters across -- along with groves of black coral trees and vibrant soft corals in reds, oranges, and purples. Grey reef sharks patrol the wall edge in groups, and the sheer density of healthy coral growth sets this wall apart from others in the region. An added bonus is the rubble zone at the top of the wall where mandarin fish emerge at dusk for their mating dance, making a late-afternoon dive here doubly rewarding.
+Gilman Wall (spelled "Gilmaan Wall" on mantaray.com) extends northwest from Yap Caverns along the outer reef. The wall features large brown Porite coral formations with colorful tube worms, daisy corals, and yellow soft coral blanketing ledges at approximately 21 meters depth. The depth range of 6-45 meters means there is diving for intermediate and advanced levels on the same site. Manta Ray Bay Resort confirms abundant squirrelfish, snappers, groupers, and large schools of small anthias. Lionfish are present throughout. The site is part of the southern outer reef, a productive area due to consistent nutrient flow.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: Northwestern extension from Yap Caverns, Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 25-40 meters (80-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: Year-round; late afternoon for mandarin fish
+- **Maximum Depth**: 45 meters (working depths 6-28m recommended)
+- **Typical Visibility**: 18-30 meters (60-100 feet)
+- **Current**: Light (0-3 km/h)
+- **Best Time**: Year-round
 
 ## Marine Life
-The wall is a showcase of healthy coral growth. Enormous gorgonian sea fans in yellow, orange, and red are the backdrop for longnose hawkfish and pygmy seahorses (look carefully on the largest fans). Black coral trees reach outward from the wall, their branches home to tiny gobies. Grey reef sharks are the dominant predators, usually seen in groups of three to eight cruising the wall edge. Eagle rays pass through periodically. The reef top supports dense hard coral growth with schools of anthias, surgeonfish, and unicornfish. The rubble zone at the wall's crown is home to mandarin fish (Synchiropus splendidus), which emerge just before sunset in a brief mating display that attracts dedicated macro photographers.
+Squirrelfish, snappers, groupers, and large schools of small anthias are the confirmed fish life for this site. Lionfish appear in crevices. Clown triggerfish are occasionally seen near the wall base. Large brown Porite coral heads with tube worms and daisy corals dominate the structure. Note: mandarin fish and pygmy seahorses are NOT confirmed at Gilman Wall by primary sources — mandarin fish in Yap are associated with Rainbow Reef near O'Keefe's Island. No source consulted during this QA confirms gorgonian sea fans or black coral as dominant features here (those are more associated with Yap's other walls).
 
 ## Dive Profile
 Descend to the wall edge at around 10 meters and drift along the face at 18-28 meters. The deepest sections hold some of the largest sea fans. Plan for 30-35 minutes at depth before ascending to the reef top. For mandarin fish, time your dive for the final 30 minutes before sunset and spend the last portion of the dive hovering over the rubble area at 3-5 meters. This requires careful air planning to budget enough for an extended shallow phase.

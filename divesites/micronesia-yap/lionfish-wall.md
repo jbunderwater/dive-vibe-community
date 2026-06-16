@@ -3,7 +3,7 @@ name: Lionfish Wall
 lat: 9.51
 lng: 138.09
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 # Lionfish Wall
 
-A dramatic vertical wall named for its extraordinary concentration of lionfish, with grey reef sharks patrolling the drop-off and vibrant sea fan gardens
+A world-class vertical wall at the extreme southern tip of Yap's fringing reef, carpeted in soft daisy corals and crinoids, with lionfish throughout and pelagics drawn by converging currents
 
 ## Overview
-Lionfish Wall is one of Yap's premier wall dives, earning its name from the remarkable number of lionfish that inhabit the wall face at every depth. The wall drops vertically from a reef top at around 5 meters, plunging well beyond recreational limits. Large gorgonian sea fans and soft coral trees decorate the wall, creating a colorful canvas against the deep blue water. Grey reef sharks are regular visitors along the wall edge, and the combination of macro and wide-angle subjects makes this site a favorite among underwater photographers. Currents can be strong, requiring solid diving skills.
+Lionfish Wall occupies the extreme southern tip of Yap's fringing reef, jutting out into open water where currents converge. The wall drops vertically to 40 meters (130 feet), then slopes to a ledge beyond 60 meters, before disappearing into the abyss. Manta Ray Bay Resort describes this as "one of the premier wall dives in the world." The consistent nutrient flow from converging currents has produced exceptionally lush coral and fish populations. The entire wall face is carpeted with soft daisy corals punctuated by brightly colored crinoids — a distinctive appearance that sets it apart from Yap's other walls. Lionfish inhabit crevices throughout the wall at every depth. Currents can be strong at this exposed tip.
 
 ## Site Information
-- **Location**: Yap, Federated States of Micronesia
+- **Location**: Southern tip of Yap's fringing reef, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 25-40 meters (80-130 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 40 meters (130 feet; slopes to 60m+ beyond)
+- **Typical Visibility**: 20-45 meters (70-150 feet)
+- **Current**: 0-3 km/h; can be strong at the exposed tip
 - **Best Time**: Year-round
 
 ## Marine Life
-Lionfish are everywhere on this wall -- red lionfish perch on ledges, tuck into crevices, and hover upside-down under overhangs, often in groups of five or more at a single outcrop. Grey reef sharks cruise the wall edge, sometimes approaching closely to investigate divers. Large sea fans host longnose hawkfish, and black coral trees shelter small gobies. Scorpionfish blend into the wall face. Napoleon wrasse are occasional visitors. The reef top above the wall has healthy table and staghorn corals with schools of anthias and damselfish. Hawksbill turtles graze on sponges along the wall.
+Lionfish inhabit the wall crevices throughout. The wall edge at the reef top supports dense schools of orange and yellow Bartlett's Fairy Basslets — a distinctive and confirmed feature of this site. Off the wall where opposing currents meet, pelagic visitors are attracted: mantas, eagle rays, sea turtles, grey reef sharks, and large tuna have all been confirmed here. Camouflaged leaf fish appear on the upper reef edge. The soft daisy corals and crinoids provide the structural complexity that supports the overall fish life. Note: large gorgonian sea fans and hawksbill turtles grazing on sponges are not specifically confirmed at Lionfish Wall by primary sources — those features are associated with other Yap wall dives.
 
 ## Dive Profile
 Descend from the reef top to the wall edge and drift along the wall face at 15-25 meters. The wall is essentially vertical, so depth control requires constant attention. Most of the best marine life and coral growth is concentrated between 12-22 meters. Work your way along the wall with the current, ascending gradually. Finish with a safety stop on the reef top where the coral gardens provide additional interest.
@@ -51,4 +51,4 @@ Strong currents are the primary hazard. The wall's vertical nature combined with
 Lionfish Wall offers dual photographic personalities. Macro shooters will find endless lionfish portrait opportunities, with the fish often holding still for extended compositions. A 60mm or 100mm macro lens captures the intricate fin detail and coloring. Wide-angle photographers should focus on the sea fan gardens with sharks or divers for scale, and wall-edge compositions with the deep blue beyond. Dual-strobe setups help bring out the wall's colors at depth. Morning light illuminating the wall face from the east creates the best ambient conditions.
 
 ---
-*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*
+*Sources: [Manta Ray Bay Resort - Lionfish Wall](https://mantaray.com/sites/lionfish-wall/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving). Last updated 2026-06-16.*
