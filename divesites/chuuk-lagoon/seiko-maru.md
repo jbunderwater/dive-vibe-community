@@ -3,7 +3,7 @@ name: Seiko Maru
 lat: 7.361417
 lng: 151.904167
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 49
 entryType: boat
 siteType: wreck
 ref: null
@@ -27,7 +27,7 @@ The Seiko Maru's holds contain a varied military cargo, highlighted by torpedoes
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 49 meters (bridge ~30 meters, keel at 49 meters)
+- **Maximum Depth**: 49 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Generally mild inside the lagoon
 - **Best Time**: Year-round; December to April offers calmest conditions
@@ -62,4 +62,4 @@ The Seiko Maru is a war grave -- removing any artifacts is strictly illegal unde
 The Seiko Maru's upright torpedoes are her most compelling photographic subjects -- their vertical stance in the holds creates powerful, unusual compositions. A diver positioned beside a torpedo provides essential scale. The bridge at 30 meters receives moderate ambient light and supports atmospheric superstructure compositions. The engine room interior rewards careful lighting with strobes. Powerful strobes are essential at depth to restore color across the wreck. The upright position and clear layout make pre-planning compositions feasible, allowing efficient use of limited bottom time.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Seiko Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822), [trukwreckdiving.com - Seiko Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/29-seiko-maru), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Seiko Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822), [trukwreckdiving.com - Seiko Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/29-seiko-maru), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-05-22. Correction 2026-06-16: maxDepth corrected from 40m to 49m (bridge ~30m, keel ~49m) per multiple sources; JSON depth also updated.*
