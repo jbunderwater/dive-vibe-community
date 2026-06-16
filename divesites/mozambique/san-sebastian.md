@@ -27,9 +27,9 @@ The previous description attributed oceanic manta rays and whale sharks as "regu
 
 - **Location**: Tofo/Inhambane area, Mozambique (specific site not independently confirmed)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle (unconfirmed)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 metres (unconfirmed)
+- **Maximum Depth**: 22 meters
 
 ---
 *Description based on regional diving characteristics. No three independent site-specific sources found for this named location. Last updated 2026-06-16.*

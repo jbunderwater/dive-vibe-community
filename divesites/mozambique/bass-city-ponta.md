@@ -29,9 +29,9 @@ The previous description attributed ragged-tooth sharks to Bass City. There is n
 
 - **Location**: Ponta do Ouro, Maputo Province, Mozambique (inside Ponta do Ouro Partial Marine Reserve)
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef (with possible artificial reef element)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 metres
+- **Maximum Depth**: 22 meters
 
 ---
 *Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [Scubago — Ponta do Ouro](https://www.scubago.com/en/explore/destination/ponta-do-ouro-9752898), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*

@@ -29,9 +29,9 @@ The previous description's claim that Guinjata Bay Reef itself offers "access to
 
 - **Location**: Guinjata Bay, Jangamo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (inshore)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 21 metres
+- **Maximum Depth**: 21 meters
 
 ---
 *Sources: [Guinjata Dive Centre — Dive Sites](https://www.diveguinjata.com/pages/dive-sites/), [Scubago — Guinjata Bay](https://www.scubago.com/en/explore/destination/guinjata-bay-9752893), [Accommodation Mozambique — Guinjata Bay](https://www.accommodationmozambique.co.za/inhambane/guinjata-bay/). Last updated 2026-06-16.*

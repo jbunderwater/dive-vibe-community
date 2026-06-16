@@ -29,9 +29,9 @@ Some sources mention a sunken fishing trawler in the Ponta do Ouro area that has
 
 - **Location**: Ponta do Ouro, Maputo Province, Mozambique (coordinates require correction — see note)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral/rock reef
-- **Difficulty Level**: Beginner (Open Water+)
-- **Maximum Depth**: 18 metres
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 
 ---
 *Sources: [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [X-Ray Mag — Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*

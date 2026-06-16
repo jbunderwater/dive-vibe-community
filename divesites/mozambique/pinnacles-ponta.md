@@ -27,9 +27,9 @@ The Pinnacles is noted for unbaited shark encounters with up to 19 documented sh
 
 - **Location**: Ponta do Ouro, Maputo Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle (deep drift)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres (operational depth range 28–40 m)
+- **Maximum Depth**: 40 meters
 
 ---
 *Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [PADI — Diving Ponta do Ouro](https://www.padi.com/diving-in/mozambique/ponta-do-ouro/), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*

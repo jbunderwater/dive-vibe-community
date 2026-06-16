@@ -29,9 +29,9 @@ The site is also used as a night dive location, where the reef takes on a differ
 
 - **Location**: Tofo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (cleaning station)
-- **Difficulty Level**: Beginner (Open Water+)
-- **Maximum Depth**: 15 metres
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
 ---
 *Sources: [Tofo Scuba — The Salon](https://www.tofoscuba.com/salon), [Liquid Dive Adventures — Tofo Sites](https://www.liquiddiveadventures.com/dive-sites-tofo), [Mozambique.co.za — Tofo Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-zavora-tofo-barra.html). Last updated 2026-06-16.*

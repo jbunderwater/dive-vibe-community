@@ -27,9 +27,9 @@ The existing description attributing Zambezi sharks and hammerheads to this site
 
 - **Location**: Tofo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (drift)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 
 ---
 *Sources: [Tofo Scuba — Giants Castle](https://www.tofoscuba.com/giants), [Accommodation Mozambique — Giants Castle Dive Site](https://www.accommodationmozambique.co.za/scuba-diving-mozambique/manta-coast-dive-sites/giants-castle-dive-site/), [Mozambique.co.za — Tofo Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-zavora-tofo-barra.html), [Liquid Dive Adventures — Tofo](https://www.liquiddiveadventures.com/dive-sites-tofo). Last updated 2026-06-16.*

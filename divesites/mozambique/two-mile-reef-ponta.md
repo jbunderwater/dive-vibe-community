@@ -29,9 +29,9 @@ This entry requires resolution: either the coordinates should be corrected to th
 
 - **Location**: Coordinates indicate Ponta do Ouro area — but see data warning above
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (all levels at Bazaruto version)
-- **Maximum Depth**: 18–22 metres (Bazaruto version confirmed)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 
 ---
 *Sources: [Mozambique Travel — Bazaruto Diving](https://www.mozambiquetravel.com/blog/bazaruto-diving), [Mozambique.co.za — Bazaruto Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-vilanculos-bazaruto.html), [PADI — Two Mile Reef](https://www.padi.com/dive-site/mozambique/two-mile-reef/). Last updated 2026-06-16.*

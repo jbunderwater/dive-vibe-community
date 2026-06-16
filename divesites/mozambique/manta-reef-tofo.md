@@ -27,9 +27,9 @@ The dive is classified Advanced by local operators due to the depth and the poss
 
 - **Location**: Tofo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with cleaning stations
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 metres
+- **Maximum Depth**: 26 meters
 
 ---
 *Sources: [Tofo Scuba](https://www.tofoscuba.com/dive-sites), [Scuba Mozambique — Manta Ray Diving](https://scubamozambique.com/manta-ray-diving-mozambique/), [Mozambique.co.za — Tofo Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-zavora-tofo-barra.html), [Liquid Dive Adventures — Tofo Sites](https://www.liquiddiveadventures.com/dive-sites-tofo), [IndoPacific Images — Tofo Dive Sites](https://indopacificimages.com/southern-africa/scuba-diving-southern-africa/diving-tofo-in-southern-mozambique/diving-mozambique-tofo-dive-sites/). Last updated 2026-06-16.*

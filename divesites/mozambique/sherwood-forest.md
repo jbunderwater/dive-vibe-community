@@ -27,9 +27,9 @@ Confirmed marine life at Sherwood Forest includes giant manta rays visiting the 
 
 - **Location**: Tofo, Inhambane Province, Mozambique
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with cleaning station
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [Tofo Scuba — Sherwood](https://www.tofoscuba.com/sherwood), [Reef Builders — Sherwood Forest Dive Site](https://reefbuilders.com/2016/06/27/sherwood-forest-dive-site-tofo-mozambique/), [Mozambique.co.za — Tofo Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-zavora-tofo-barra.html), [Liquid Dive Adventures — Tofo Sites](https://www.liquiddiveadventures.com/dive-sites-tofo). Last updated 2026-06-16.*
