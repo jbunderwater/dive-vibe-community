@@ -130,13 +130,7 @@ Divers trained in Monterey Bay typically feel well-prepared for diving worldwide
 
 ## Additional Resources
 
-- **Monterey Bay National Marine Sanctuary**: Regulations and ecological information
-- **Local Dive Operators**: Established Monterey operators (Bamboo Reef, Dive Central, others)
-- **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity research, local dive guides, scientific literature
+- **Monterey Bay National Marine Sanctuary**: https://montereybay.noaa.gov
 
 ---
-*Monterey Bay is a world-class diving destination defined by cold-water excellence and exceptional biodiversity. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [California Diving News](https://cadivingnews.com/). Last updated 2026-06-16.*

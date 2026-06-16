@@ -2,8 +2,8 @@
 name: McAbee Beach
 lat: 36.618
 lng: -121.9
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 14
 entryType: shore
 siteType: kelp
 ref: null
@@ -25,8 +25,8 @@ Located on Cannery Row between Hoffman and Prescott Streets in Monterey, McAbee 
 - **Location**: Cannery Row, Monterey (between Hoffman and Prescott Streets)
 - **Entry Type**: Shore entry
 - **Site Type**: Kelp
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 5-15 meters (15-50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Minimal, well-protected entry
@@ -36,7 +36,7 @@ Located on Cannery Row between Hoffman and Prescott Streets in Monterey, McAbee 
 
 ## Marine Life and Features
 
-The site features a large kelp bed just minutes from shore with diverse marine life including rockfish, halibut, hermit crabs, kelp bass, giant jellyfish, rubber lip surfperch, black-eye gobies, and sailfin sculpins. The site's defining feature is the network of old sardine-pumping pipelines running from shore to approximately 40 feet, which were used to pump sardines from offshore fishing boats to the canneries. Rockfish now hide in the pipes with halibut in the nearby sand—a fascinating historical and ecological feature.
+The site features a large kelp bed just minutes from shore with diverse marine life. Harbor seals are frequently encountered, often in groups of 3–4 near the 9-meter mark. Juvenile wolf eels, metridium anemones, nudibranchs, and various rockfish inhabit the rocky reef areas. The sandy sections support flatfish. The site's historical feature is the network of old sardine-pumping pipelines running from shore to approximately 12 meters, which were used during Monterey's canning era to move sardines from fishing boats to the canneries. Rusted rebar in the shallows on the El Torito side is a hazard when sand shifts.
 
 ## Dive Profile
 
@@ -75,10 +75,5 @@ The pipeline system represents Monterey's sardine fishing heritage. During the p
 
 Monitor your air consumption carefully—kelp diving increases air density effects. Always use an SMB on ascent. Maintain buddy contact, especially in the kelp. Watch for unexpected current changes. The easy entry conditions and shallow depth make this an excellent site for building cold-water diving confidence.
 
-- **Validation Source**: Perplexity research, local dive guides, California Diving News
-
 ---
-*McAbee Beach is an accessible Monterey diving alternative with historical significance. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Scuba Board — McAbee Beach](https://montereyscubaboard.com/monterey-dive-sites/mcabee-beach/), [California Diving News — McAbee Beach](https://cadivingnews.com/dive-spots/history-healthy-kelp-forest-enjoying-montereys-mcabee-beach-2/), [OpenDiveSites — McAbee Beach](https://opendivesites.org/McAbee_Beach). Last updated 2026-06-16.*

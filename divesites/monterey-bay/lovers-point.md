@@ -2,8 +2,8 @@
 name: Lovers Point
 lat: 36.625
 lng: -121.915
-difficulty: Beginner
-maxDepth: 21
+difficulty: Intermediate
+maxDepth: 15
 entryType: shore
 siteType: pinnacle
 ref: null
@@ -25,9 +25,9 @@ Located in Pacific Grove along Ocean View Boulevard, Lovers Point is a dual-entr
 - **Location**: Pacific Grove, Ocean View Boulevard (36.625°N, 121.915°W)
 - **Entry Type**: Shore entry
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 21 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet), can reach 40 feet on best days
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 5–15 meters (15–50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Parking**: Free on Ocean View Boulevard (2-hour limit) or small parking lot
 - **Entry Points**: East side (protected from swell, beginner-friendly), West side (more exposed, rougher)
@@ -84,10 +84,5 @@ From May 1 through September 30, the east side is closed to diving on Fridays th
 
 Monitor conditions before entering—west side can be rough in swell. Always use an SMB on ascent. Buddy contact is essential, particularly when focused on octopus hunting. The shallow depths and protected east-side option make this an excellent choice for safer, more comfortable Monterey diving.
 
-- **Validation Source**: Perplexity research, California Diving News, local dive guides
-
 ---
-*Lovers Point is a versatile, welcoming Monterey dive destination suitable for all skill levels. Updated 2026-03-16.*
-
----
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Scuba Board — Lovers Cove](https://montereyscubaboard.com/monterey-dive-sites/lovers-cove/), [California Diving News — Lovers Point](https://cadivingnews.com/dive-spots/lovers-point/), [ScubaBoard — Lovers Point Monterey](https://scubaboard.com/community/threads/lovers-point-monterey.28570/). Last updated 2026-06-16.*

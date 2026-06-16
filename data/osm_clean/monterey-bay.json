@@ -14,7 +14,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -33,59 +34,63 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Breakwater Cove",
     "lat": 36.614,
     "lon": -121.895,
-    "depth": 18,
+    "depth": 15,
     "site_type": "kelp",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "montereyscubaboard.com,opendivesites.org,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "McAbee Beach",
     "lat": 36.618,
     "lon": -121.9,
-    "depth": 15,
+    "depth": 14,
     "site_type": "kelp",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "montereyscubaboard.com,cadivingnews.com,opendivesites.org",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Lovers Point",
     "lat": 36.625,
     "lon": -121.915,
-    "depth": 21,
+    "depth": 15,
     "site_type": "pinnacle",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "montereyscubaboard.com,cadivingnews.com,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Point Lobos - Bluefish Cove",
     "lat": 36.52,
     "lon": -121.942,
-    "depth": 35,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -93,14 +98,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Point Lobos - Whalers Cove",
     "lat": 36.519,
     "lon": -121.938,
-    "depth": 21,
+    "depth": 24,
     "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -108,14 +114,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "parks.ca.gov,montereyscubaboard.com,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Monastery Beach",
     "lat": 36.524,
     "lon": -121.928,
-    "depth": 40,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
@@ -123,7 +130,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "scubaboard.com,opendivesites.org,cadivingnews.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
@@ -138,44 +146,47 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "scubaboard.com,cadivingnews.com,montereyscubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Otter Cove",
     "lat": 36.633,
     "lon": -121.925,
-    "depth": 14,
+    "depth": 15,
     "site_type": "kelp",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity_research"
-    }
-  },
-  {
-    "name": "Eric's Pinnacle",
-    "lat": 36.612,
-    "lon": -121.898,
-    "depth": 20,
-    "site_type": "pinnacle",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "montereyscubaboard.com,cadivingnews.com,opendivesites.org",
+      "last_qa_date": "2026-06-16"
+    }
+  },
+  {
+    "name": "Eric's Pinnacle",
+    "lat": 36.612,
+    "lon": -121.898,
+    "depth": 17,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "cadivingnews.com,opendivesites.org,pacificscubadivers.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Metridium Fields",
     "lat": 36.611,
     "lon": -121.896,
-    "depth": 16,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -183,14 +194,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "montereyscubaboard.com,opendivesites.org,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Chase Reef",
     "lat": 36.617,
     "lon": -121.905,
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -198,14 +210,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "cadivingnews.com,montereyscubaboard.com,scubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   },
   {
     "name": "Aumentos Pinnacle",
     "lat": 36.616,
     "lon": -121.902,
-    "depth": 40,
+    "depth": 26,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -213,7 +226,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity_research"
+      "validation_source": "cadivingnews.com,opendivesites.org,montereyscubaboard.com",
+      "last_qa_date": "2026-06-16"
     }
   }
 ]
