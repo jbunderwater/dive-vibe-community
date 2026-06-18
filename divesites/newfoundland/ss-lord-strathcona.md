@@ -17,7 +17,7 @@ SS Lord Strathcona is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-The SS Lord Strathcona was an ore carrier sunk by U-513 during the first Bell Island U-boat attack on September 5, 1942, alongside the SS Saganaga — together representing the only enemy submarine attacks on North American soil in World War II. She rests at 37 meters in Conception Bay, her massive hull lying on the seabed with iron-ore cargo still visible in the holds, preserved by the cold, dark waters of the North Atlantic. The depth and Newfoundland's demanding water conditions make this an advanced dive, rewarding those with drysuit experience and a tolerance for near-zero temperatures with an extraordinarily evocative piece of wartime history.
+The SS Lord Strathcona was an ore carrier sunk by U-513 during the first Bell Island U-boat attack on September 5, 1942, alongside the SS Saganaga — part of what Parks Canada recognizes as the only direct enemy action against a working North American community during World War II. She rests at 37 meters in Conception Bay, her massive hull lying on the seabed with iron-ore cargo still visible in the holds, preserved by the cold, dark waters of the North Atlantic. The depth and Newfoundland's demanding water conditions make this an advanced dive, rewarding those with drysuit experience and a tolerance for near-zero temperatures with an extraordinarily evocative piece of wartime history.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The SS Lord Strathcona was a 7,335-gross-ton steam ore carrier built in 1915 by 
 
 ## Marine Life
 
-White, orange, and gold plumose anemones cover virtually every surface of the Lord Strathcona's superstructure, creating a vivid display that has been likened to a tropical coral reef in press accounts. Lumpfish — including bright red breeding males in season — are regularly encountered on the wreck, as are cunner, Atlantic cod, flatfish, and shorthorn sculpin. Pink lion's mane jellyfish (*Cyanea capillata*) float among the ship's cranes. The 4.7-inch stern deck gun is blanketed in a thick coating of sea anemones. Nudibranchs (*Coryphella verrucosa*) and basket stars have been photographed on the encrusted hull.
+White, orange, and gold plumose anemones cover virtually every surface of the Lord Strathcona's superstructure, creating a vivid display that has been likened to a tropical coral reef in press accounts. Lumpfish — including bright red breeding males in season — are regularly encountered on the wreck, as are cunner, Atlantic cod, flatfish, and shorthorn sculpin. Pink lion's mane jellyfish (*Cyanea capillata*) float among the ship's cranes. The 4.7-inch stern deck gun is blanketed in a thick coating of sea anemones. Nudibranchs (*Coryphella verrucosa*) have been photographed on the encrusted hull.
 
 ## Dive Profile
 
