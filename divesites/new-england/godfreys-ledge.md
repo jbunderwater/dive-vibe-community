@@ -23,7 +23,7 @@ Godfrey's Ledge is a submerged rocky ledge in the New Hampshire seacoast waters,
 
 - **Location**: New Hampshire seacoast / approaches to Isles of Shoals
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 meters (Gulf of Maine; variable with season and weather)
@@ -62,7 +62,7 @@ The combination of kelp canopy, rocky ledge, and abundant sea urchins creates a 
 ## Additional Resources
 
 - **Charter Access**: Portsmouth Scuba, Rye, NH; Isles of Shoals area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wreckhunter.net — New Hampshire Wrecks](https://wreckhunter.net/mawrecks.htm), [NOAA Coast Pilot — Gulf of Maine](https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1.pdf). No site-specific dive documentation found. Description based on regional diving characteristics. Last updated 2026-06-18.*

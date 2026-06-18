@@ -17,7 +17,7 @@ A 1917-built Gloucester beam trawler that foundered in 1955 and now rests among 
 
 ## Overview
 
-The fishing vessel *California* was an 82-ton wooden Boston beam trawler built in 1917, owned by Matteo Logrande and home-ported in Gloucester, Massachusetts. She foundered on September 15, 1955, settling between the Little Salvages and the Dry Salvages off Rockport — a string of rocky outcrops a mile east of Avery's Ledge. The wreck lies alongside the west side of a large rock located between the two Salvages groups, at a maximum depth of 20 metres. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site, allowing recreational diving without a permit. The nearby Dry Salvages host a year-round colony of harbor and gray seals, making this one of the few New England wreck dives with predictable seal encounters.
+The fishing vessel *California* was a 104.1-foot wooden Boston beam trawler of 82 gross tons, built in 1917 in Boston, Massachusetts, powered by a 171-horsepower diesel engine. She was owned by Matteo Logrande and home-ported in Gloucester. She foundered on September 15, 1955, settling between the Little Salvages and the Dry Salvages off Rockport at coordinates 42°40'25"N, 70°34'19"W. The wreck lies alongside the west side of a large rock between the two Salvages groups, at a maximum depth of approximately 20 metres. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site. The nearby Dry Salvages rock colony is documented as year-round harbor and gray seal habitat.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The fishing vessel *California* was an 82-ton wooden Boston beam trawler built i
 
 ## Marine Life
 
-Harbor seals and gray seals from the Dry Salvages colony are the star attraction — they frequently approach divers with curiosity and will circle at close range. Tautog (blackfish) are resident on the wreck structure and surrounding rocks. Pollock and Atlantic mackerel school above the wreck. American lobsters inhabit the wooden structure and surrounding crevices — the Dry Salvages area is known for excellent lobstering. Cunner hover around the wreck's remaining timbers. Nudibranchs cling to encrusting bryozoans on the wreck. Green and purple sea urchins colonize the rocky substrate adjacent to the wreck.
+The Dry Salvages rock formation adjacent to the wreck is documented as a year-round harbor and gray seal colony; seals from this colony are reported to visit divers in the area. No other marine life has been confirmed at this specific wreck site from independent sources. The Dry Salvages and Little Salvages area generally supports typical Cape Ann cold-water reef species on the rocky substrate, but these cannot be attributed specifically to the California wreck without confirmed reports. Regional typical species for Cape Ann rocky reef habitat would include tautog, lobster, and cunner, but source confirmation for the California site is lacking.
 
 ## Dive Profile
 
@@ -66,4 +66,4 @@ Seal encounters are the premier photographic experience here — wide-angle shot
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Mass.gov BUAR — California](https://www.mass.gov/info-details/california), [MWDC — California](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html), [Wreckhunter.net — Massachusetts Wrecks](https://wreckhunter.net/mawrecks.htm). Last updated 2026-06-18.*

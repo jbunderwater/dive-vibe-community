@@ -57,4 +57,4 @@ Access requires a dive boat from Poum or a liveaboard -- this is an extremely re
 The tunnel is an overhead environment -- maintain visual contact with the exit light throughout. The 32-meter exit depth requires careful gas management. Current through the pass is moderate but consistent -- stay with the group. The remote location means medical facilities are far away; dive conservatively.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Caledonia Tourism](https://www.newcaledonia.travel/destination/west-coast/best-things-to-do-in-poum-koumac/), [ScubaGo — New Caledonia](https://www.scubago.com/en/explore/destination/new-caledonia-9749638). Note: Site details are primarily sourced from McFadyen. No independent operator pages found for this remote northern site during QA. Marine life claims (turtles, tuna, trevally, grouper, gorgonian forest) are sourced from McFadyen's firsthand dive log. Last updated 2026-06-18.*

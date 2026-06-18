@@ -23,7 +23,7 @@ Avery Ledge lies immediately west of the Dry Salvages and California wreck site 
 
 - **Location**: Off Rockport, Massachusetts, adjacent to the Dry Salvages
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–12 meters (15–40 feet)
@@ -62,7 +62,7 @@ The ledge's rocky topography provides excellent wide-angle subjects — crevice 
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers, Gloucester, MA
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight) (references Avery Ledge area), [MWDC — Cape Ann Wrecks](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html). No site-specific dive documentation found for Avery Ledge itself. Description based on regional Cape Ann diving characteristics. Last updated 2026-06-18.*

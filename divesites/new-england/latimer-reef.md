@@ -23,7 +23,7 @@ Latimer Reef lies in the southwestern corner of Rhode Island Sound at the easter
 
 - **Location**: Eastern Fisher's Island Sound, Watch Hill area, Rhode Island/Connecticut
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–12 meters (variable)
@@ -63,7 +63,7 @@ Tautog portraits are the premier subject at Latimer Reef — the fish are less p
 
 - **Historical Reference**: Latimer Reef Lighthouse (established 1884); U.S. Lighthouse Service records
 - **Charter Access**: Westerly RI; Noank and Stonington CT area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Latimer Reef Light](https://en.wikipedia.org/wiki/Latimer_Reef_Light), [Rhode Island Lighthouse History — Latimer Reef](http://rhodeislandlighthousehistory.info/brenton_reef_lights_history.html), [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef). Last updated 2026-06-18.*

@@ -23,7 +23,7 @@ Minots Ledge is inseparable from the history of the Minot's Ledge Lighthouse, wh
 
 - **Location**: Outer Cohasset/Scituate, South Shore, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–10 meters (variable)
@@ -63,7 +63,7 @@ The Minot's Ledge Lighthouse tower (completed 1860) visible through the surface 
 
 - **Historical Reference**: Minot's Ledge Lighthouse — U.S. Lighthouse Society; Edward Rowe Snow, *The Lighthouses of New England*
 - **Charter Access**: Scituate and Cohasset area dive charter operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Minot's Ledge Lighthouse](https://en.wikipedia.org/wiki/Minot%27s_Ledge_Lighthouse), [US Lighthouse Society — Minot's Ledge](https://uslhs.org). Lighthouse history confirmed; no site-specific dive documentation found for Minots Ledge as a named scuba site. Last updated 2026-06-18.*

@@ -37,7 +37,7 @@ The Shalom, traveling rapidly through the fog with a malfunctioning radar, struc
 
 ## Marine Life
 
-Decades of marine growth have converted the stern section into a high-profile reef that is heavily encrusted with sea anemones, hydroids, encrusting sponges, and blue mussels. Large schools of black sea bass, tautog (blackfish), pollock, and ling congregate around and above the structure. Monkfish (goosefish) are commonly reported resting on the seafloor around the wreck. American lobsters shelter beneath the stern overhang and in the cut end of the hull. Cunner are present throughout the mussel-covered surfaces at intermediate depths.
+Decades of marine growth have converted the stern section into a high-profile reef that is heavily encrusted with sea anemones, hydroids, encrusting sponges, and blue mussels. Large schools of black sea bass, tautog (blackfish), pollock, and ling congregate around and above the structure — all confirmed by The Fisherman's site-specific dive reporting. American lobsters shelter beneath the stern overhang and in the cut end of the hull. Angler fish (goosefish) have been reported on the seafloor around the wreck; other generic northeast reef species are present but not individually confirmed to this site from available sources.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ Charter boats depart from Manasquan Inlet and Point Pleasant Beach. Operators in
 - Water temperature during the collision rescue operations was recorded at 3–5°C; winter/early spring diving requires drysuit
 
 ---
-*Sources: [Wikipedia — SS Shalom](https://en.wikipedia.org/wiki/SS_Shalom), [The Fisherman](https://www.thefisherman.com/hot-spot/the-stolt-dagali-wreck-new-jersey/), [X-Ray Mag](https://xray-mag.com/content/shipwrecks-collision-new-york-new-jersey-coasts), [NJ Maritime Museum](https://njmaritimemuseum.org/rescuing-the-crew-of-stolt-dagali/), [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/stolt-dagali/), [NJCDC Memorial Wreck Program](https://scubanj.org/Memorial%20Wreck%20Program.html). Last updated 2026-05-17.*
+*Sources: [Wikipedia — SS Shalom](https://en.wikipedia.org/wiki/SS_Shalom), [The Fisherman](https://www.thefisherman.com/hot-spot/the-stolt-dagali-wreck-new-jersey/), [X-Ray Mag](https://xray-mag.com/content/shipwrecks-collision-new-york-new-jersey-coasts), [NJ Maritime Museum](https://njmaritimemuseum.org/rescuing-the-crew-of-stolt-dagali/), [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/stolt-dagali/), [NJCDC Memorial Wreck Program](https://scubanj.org/Memorial%20Wreck%20Program.html). Last updated 2026-06-18.*

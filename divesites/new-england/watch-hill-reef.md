@@ -23,7 +23,7 @@ Watch Hill Reef lies at the southwestern tip of Rhode Island, adjacent to Watch 
 
 - **Location**: Watch Hill, Westerly, Rhode Island (southwestern RI tip)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 5–12 meters (variable with tidal state)
@@ -63,7 +63,7 @@ Tautog on kelp-draped rocky reef are the signature subject. The historic Watch H
 
 - **Historical Reference**: Watch Hill Lighthouse history; Rhode Island Historical Preservation and Heritage Commission wreck records
 - **Charter Access**: Westerly, RI area dive operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). No site-specific dive documentation found for Watch Hill Reef as a named scuba site. Last updated 2026-06-18.*

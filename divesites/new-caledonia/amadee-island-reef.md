@@ -25,7 +25,7 @@ The reef around Amadee Island is protected as a Marine Protected Area, and the c
 
 - **Location**: Amadee Island, south of Noumea, New Caledonia (UNESCO lagoon)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-20 meters
@@ -35,7 +35,7 @@ The reef around Amadee Island is protected as a Marine Protected Area, and the c
 
 ## Marine Life
 
-Sea turtles are frequently encountered on the reef. Banded sea snakes are abundant around the island. The protected reef supports over 200 species of fish and 80 species of coral. Clownfish in anemones, butterflyfish, parrotfish, and wrasses are common throughout. The Marine Protected Area status has allowed fish populations to flourish.
+Sea turtles are frequently encountered on the reef. Banded sea snakes are abundant around the island. Clownfish in anemones, butterflyfish, parrotfish, and wrasses are common throughout. The Marine Protected Area status has allowed fish populations to flourish. The broader New Caledonia lagoon (a UNESCO World Heritage site) is noted for high coral diversity, but no independently verified species count for this specific reef site was found.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access by dive boat or day-trip boat from Noumea (approximately 40 minutes). The
 A gentle site with minimal hazards. Sea snakes are venomous but docile; do not handle them. Currents are generally mild inside the lagoon. Boat traffic from tourist vessels is possible -- deploy an SMB during ascent and stay aware of surface activity.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Solo Passport - Diving in Amedee Island](https://solopassport.com/diving-in-amedee-island/), [New Caledonia Tourism](https://au.newcaledonia.travel/destination/noumea/amedee-lighthouse/). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Caledonia Tourism — Amedee Lighthouse](https://au.newcaledonia.travel/destination/noumea/amedee-lighthouse/), [Snorkeling Report — Ilot Amedee](https://www.snorkeling-report.com/spot/snorkeling-ilot-amedee-new-caledonia/). Note: Species count claims ("200+ fish species, 80 coral species") removed — not confirmed by any authoritative source during QA. These figures may refer to the broader lagoon ecosystem rather than this specific site. Last updated 2026-06-18.*

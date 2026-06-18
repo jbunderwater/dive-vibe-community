@@ -8,12 +8,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,newcaledonia.travel",
     "tags": {
       "name": "Gorgonia Valley",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -25,12 +26,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,newcaledonia.co.nz",
     "tags": {
       "name": "Oupere Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -42,29 +44,33 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "newcaledonia.travel,justgottadive.com,newcaledonia.co.nz",
     "tags": {
       "name": "Devils Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18",
+      "qa_note": "Water is freshwater per New Caledonia Tourism official site and multiple sources. McFadyen description 'nominally fresh (actually saline)' contradicts official sources and is not supported by other independent accounts."
     }
   },
   {
     "name": "Boulari Pass",
     "lat": -22.48,
     "lon": 166.45,
-    "depth": 21,
+    "depth": 26,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "newcaledonia-diving.com,michaelmcfadyenscuba.info,scubadiverlife.com",
     "tags": {
       "name": "Boulari Pass",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18",
+      "qa_note": "Depth corrected from 21m to 26m (newcaledonia-diving.com max 26m; scubadiverlife.com reports 30m/98ft max). Shark feeding was banned by New Caledonia government in 2012 per newcaledonia-diving.com."
     }
   },
   {
@@ -76,12 +82,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,newcaledonia-diving.com,michaelmcfadyenscuba.info",
     "tags": {
       "name": "La Dieppoise",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18",
+      "qa_note": "Vessel was HMCS Chaleur (not HMCS Chaleur Bay). McFadyen page uses incorrect name. Confirmed by Wikipedia (HMCS Chaleur MCB 144), Military History Fandom Wiki. Length 46m / 390 tons displacement / scuttled 19 Jan 1988 confirmed across multiple sources."
     }
   },
   {
@@ -93,12 +101,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,scubago.com",
     "tags": {
       "name": "False Pass",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -110,12 +119,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,scubago.com",
     "tags": {
       "name": "Les Pitons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18",
+      "qa_note": "Prior QA flagged potential misclassification as cave (may be pinnacle/wall). Insufficient independent sources found to confirm correction. Site_type left as 'cave' pending further research. McFadyen description mentions caves, tunnels, and surrounding reef walls. Depth of 30m not independently confirmed."
     }
   },
   {
@@ -127,12 +138,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,au.newcaledonia.travel,snorkeling-report.com",
     "tags": {
       "name": "Amadee Island Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18",
+      "qa_note": "Species count claim '200+ fish species, 80 coral species' removed from markdown. Not confirmed by any authoritative source found during QA."
     }
   }
 ]

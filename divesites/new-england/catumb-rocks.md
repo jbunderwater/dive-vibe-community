@@ -23,7 +23,7 @@ Catumb Rocks lies in the Watch Hill area at the southwestern corner of Rhode Isl
 
 - **Location**: Watch Hill area, southwestern Rhode Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 meters (variable with tidal state)
@@ -63,7 +63,7 @@ Rocky reef subjects at 15 metres require strobes for accurate color. Tautog port
 
 - **Charter Access**: Watch Hill and Westerly RI; Stonington/Mystic CT area operators
 - **Historical Reference**: Watch Hill wreck records — Rhode Island Historical Preservation and Heritage Commission
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). Geographic feature confirmed; not documented as a named scuba dive site. Last updated 2026-06-18.*

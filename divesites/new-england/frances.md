@@ -66,4 +66,4 @@ Exposed wreck timbers in the surf zone — partially buried in sand, worn smooth
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional outer Cape Cod maritime characteristics and OSM data. No site-specific sources confirming the Frances wreck location or dive access were found. Massachusetts BUAR maintains wreck records but specific records for this site were not retrieved. Last updated 2026-06-18.*

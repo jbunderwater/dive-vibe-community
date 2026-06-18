@@ -23,7 +23,7 @@ The Clump is a rocky reef feature in mid-Narragansett Bay at coordinates placing
 
 - **Location**: Mid-Narragansett Bay, Rhode Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 4–10 meters (better than upper bay; variable)
@@ -62,7 +62,7 @@ Mid-bay visibility allows wider angle approaches than upper bay sites. Tautog po
 ## Additional Resources
 
 - **Charter Access**: Providence area dive charters; Newport and Narragansett RI operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*

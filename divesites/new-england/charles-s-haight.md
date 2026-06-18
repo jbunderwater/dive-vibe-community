@@ -17,7 +17,7 @@ A WWII Liberty Ship wrecked in 1946 on the Flat Ground inside the Dry Salvages o
 
 ## Overview
 
-The Charles S. Haight was a 422-foot Liberty Ship built in 1944 in Brunswick, Georgia, by the J.A. Jones Construction Co. She was one of over 2,700 Liberty Ships constructed during World War II. On the night of April 2, 1946, the Haight was returning in ballast from Newport, England, to New York. With poor visibility, rough seas, and no radar, she was driven inshore by southeasterly winds and grounded on the Flat Ground inside the Dry Salvages — 1.5 miles east of Rockport. Despite salvage attempts, the Haight was reduced by winter storms until only vestiges of the hull remain. Today the most recognizable feature is the large triple-expansion steam engine, visible at low tide and diveable at high tide. The scattered steel beams and plates at the site are marked by Red Nun "2." The site is managed by Massachusetts BUAR as an Exempted Site.
+The Charles S. Haight was a Liberty Ship built in 1944 in Brunswick, Georgia, by the J.A. Jones Construction Company. Standard Liberty ships measured 441.5 feet in length with a beam of 56 feet 10.75 inches and approximately 7,176 gross tons. She was one of over 2,700 Liberty Ships constructed during World War II. On the night of April 2, 1946, the Haight was returning in ballast from Newport, England, to New York. With poor visibility, rough seas, and no radar, she was driven inshore by southeasterly winds and grounded on the Flat Ground inside the Dry Salvages — 1.5 miles east of Rockport. Despite salvage attempts, the Haight was reduced by winter storms until only vestiges of the hull remain. Today the most recognizable feature is the large triple-expansion steam engine, visible at low tide and diveable at high tide. The scattered steel beams and plates at the site are marked by Red Nun "2." The site is managed by Massachusetts BUAR as an Exempted Site.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Charles S. Haight was a 422-foot Liberty Ship built in 1944 in Brunswick, Ge
 
 ## Marine Life
 
-The remaining engine block and scattered steel provide hard substrate for anemones, bryozoans, and encrusting sponges. Tautog hold position on the steel wreckage. American lobsters inhabit the cavities under scattered plates and beams. Cunner hover in loose groups around the engine structure. Schools of pollock patrol above the site. Sea ravens and winter flounder rest on the sandy bottom adjacent to the wreck debris. By late summer, thick algae mat covers the steel, making rock and wreck difficult to distinguish.
+No site-specific marine life has been confirmed from independent sources at the Charles S. Haight wreck. The Rockport/Dry Salvages area in general supports typical Cape Ann cold-water species. Multiple sources confirm the wreck's most prominent feature is the triple-expansion steam engine block, which remains visible and provides the principal diving interest on the site. The dense algae mat that covers the steel by late summer (documented by Cape Ann local sources) is a notable characteristic of the site's seasonal character.
 
 ## Dive Profile
 
@@ -66,4 +66,4 @@ The engine block is the primary photographic subject — wide-angle with a diver
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight), [Wikipedia — SS Charles S. Haight](https://en.wikipedia.org/wiki/SS_Charles_S._Haight), [Harbormasters.org — Rockport Liberty Ship](http://www.harbormasters.org/rockport/libertyship/haight.shtml). Last updated 2026-06-18.*

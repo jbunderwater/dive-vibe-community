@@ -5,7 +5,7 @@ lng: -74.1833
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,17 +23,17 @@ The Axel Carlson Reef is one of New Jersey's developed artificial reef sites, si
 
 - **Location**: Approximately 2.1 miles off Point Pleasant Beach / Bay Head (Mantoloking area), New Jersey
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 
 ## Marine Life
 
-The rock, reef balls, and sunken vessels support blue mussels, barnacles, sea anemones, and tubularian hydroids that form the base of the food web. Black sea bass and tautog (blackfish) shelter under overhangs and in the crevices formed by the reef material throughout the warmer months, and are among the primary targets for both divers and anglers. Cunner (bergall) are found working the mussel-covered surfaces. American lobster — some reaching impressive size — shelter beneath the larger rock piles and vessel structures. Summer flounder (fluke) and scup are also present seasonally. The site typically takes several years for new structures to achieve full marine colonization, but established sections of the Axel Carlson Reef now show mature encrustation throughout.
+The rock, reef balls, and sunken vessels support blue mussels, barnacles, sea anemones, and tubularian hydroids that form the base of the food web. Black sea bass and tautog (blackfish) shelter under overhangs and in the crevices formed by the reef material throughout the warmer months, and are among the primary targets for both divers and anglers. American lobster — some reaching impressive size — shelter beneath the larger rock piles and vessel structures. Summer flounder (fluke) and scup are also present seasonally. The site typically takes several years for new structures to achieve full marine colonization, but established sections of the Axel Carlson Reef now show mature encrustation throughout. Other northeast reef species are present but individual species accounts have not been confirmed from site-specific reports for this location.
 
 ## Dive Profile
 
-Depth ranges from 71 to 80 feet (22–24 meters) depending on location within the reef. Average visibility is approximately 20–25 feet, though the silty mud bottom can reduce visibility significantly when disturbed by surge or current. The wreck sections — particularly the Veronica M tugboat (built 1950, sunk 2004 as reef) and the Carrabassett dragger — provide the most structured diving, while the rock-pile sections offer habitat exploration. The Veronica M rises approximately 25 feet off the bottom. No exceptional currents are typical at this inshore site.
+Depth ranges from 71 to 80 feet (22–24 meters) depending on location within the reef. Average visibility is approximately 20–25 feet, though the silty mud bottom can reduce visibility significantly when disturbed by surge or current. The wreck sections — particularly the Veronica M tugboat (a 110-foot former McAllister tug, originally named Captain Bill, sunk November 10, 2004 as reef, renamed Veronica M in honor of local diver Herb Segars' wife) and the Carrabassett dragger (NJScuba.net lists this as 90 feet; the National Fisherman's account of her final voyage gives the vessel as 82 feet — the discrepancy is unresolved) — provide the most structured diving, while the rock-pile sections offer habitat exploration. Sources describing a structure rising 25 feet off the bottom appear to refer to an earlier (2000-era) tug sunk at the reef; the Veronica M's specific relief height has not been independently confirmed. No exceptional currents are typical at this inshore site.
 
 ## Entry and Exit
 
@@ -41,7 +41,7 @@ Charter boats depart from Manasquan Inlet and Point Pleasant Beach — the reef 
 
 ## Tips and Recommendations
 
-- The Veronica M tugboat and Carrabassett dragger are the most structured and visually rewarding sections; confirm the anchor target with the captain
+- The Veronica M (ex-Captain Bill) tugboat and Carrabassett dragger are the most structured and visually rewarding sections; confirm the anchor target with the captain
 - The silty bottom is easily disturbed — maintain good buoyancy control and avoid fin kicks near the bottom
 - Lobster diving is productive in the established rock sections
 - Visibility is typically better in the morning before boat traffic and surge stir the bottom
@@ -54,4 +54,4 @@ Charter boats depart from Manasquan Inlet and Point Pleasant Beach — the reef 
 - The reef material includes sharp metal and concrete; protect hands and exposed skin
 
 ---
-*Sources: [njscuba.net — Axel Carlson Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [National Fisherman — Carrabassett](https://www.nationalfisherman.com/northeast/the-final-journey-of-the-ma-fishing-vessel-carrabassett), [NJ DEP Axel Carlson Reef data](https://dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf). Last updated 2026-05-17.*
+*Sources: [njscuba.net — Axel Carlson Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [National Fisherman — Carrabassett](https://www.nationalfisherman.com/northeast/the-final-journey-of-the-ma-fishing-vessel-carrabassett), [NJ DEP Axel Carlson Reef data](https://dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf), [Veronica M Tugboat — gotosnapshot.com](https://www.gotosnapshot.com/veronica-m.html). Last updated 2026-06-18.*

@@ -23,7 +23,7 @@ Abbot Rock is a submerged ledge system in the outer reaches of Salem Sound, nort
 
 - **Location**: Salem Sound, Marblehead, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-12 meters
@@ -60,4 +60,4 @@ Abbot Rock is exposed to open ocean conditions. Swells from the northeast can cr
 Rocky ledge crevices offer excellent macro subjects: nudibranchs on hydroid colonies, lobster antennae protruding from rocky dens, and sea ravens displaying elaborate pectoral fin detail. Wide-angle shots of ledge topography work well in the 8-12 meter zone when visibility exceeds 8 meters. Natural light is best 10:00-14:00 on calm days.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*

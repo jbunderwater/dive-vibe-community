@@ -17,9 +17,9 @@ A former naval hydrographic research vessel scuttled off the Tutukaka Coast in 1
 
 ## Overview
 
-HMNZS Tui began her career as the USNS Charles H Davis, an American hydrographic research vessel working for a university before being leased to the United States Navy. She was subsequently transferred to the Royal New Zealand Navy, where she served as HMNZS Tui conducting naval hydrographic survey work. During her service, the vessel was sent to Mururoa to observe the last series of French nuclear bomb tests in the Pacific.
+HMNZS Tui began her career as the USNS Charles H. Davis (T-AGOR-5), a Conrad-class oceanographic research vessel built by the Christy Corporation in Sturgeon Bay, Wisconsin. She was laid down on 15 June 1961, launched 30 June 1962, and commissioned into the US Navy on 25 January 1963. At 63.7 meters long, 11.4 meters beam, and 4.7 meters draft, she displaced 1,200 tons standard. She was transferred to the Royal New Zealand Navy on 11 September 1970, where she served as HMNZS Tui conducting naval hydrographic survey work. During her service, the vessel was dispatched to Mururoa to observe France's final series of nuclear tests in the South Pacific, where she served as an unofficial mothership to the international protest fleet.
 
-After decommissioning, the Tui was gifted to the Tutukaka Coast Promotions group following lengthy negotiations. She was prepared for her new role as a dive attraction and deliberately sunk off Tutukaka on 20 February 1999. The wreck now rests at approximately 32 meters and has broken into three main sections, rapidly becoming part of the surrounding reef ecosystem.
+After decommissioning in 1997, the Tui was gifted to the Tutukaka Coast Promotions group following lengthy negotiations. She was prepared for her new role as a dive attraction and deliberately sunk off Tutukaka on 20 February 1999, approximately 2 kilometres from Tutukaka Heads. The wreck now rests at approximately 32 meters and has broken into three main sections, rapidly becoming part of the surrounding reef ecosystem.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Access is by dive boat from Tutukaka marina (a short ride to the wreck site). En
 Divers require Advanced Open Water certification and a minimum of 35 logged dives. At 32 meters, bottom time on air is limited -- plan gas management carefully. The wreck's fragmented structure means loose metal edges exist; maintain good buoyancy and avoid contact with the hull. Do not attempt internal penetration without wreck diving certification. Carry a torch for illuminating interior sections.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive! Tutukaka](https://diving.co.nz/), [Wikipedia - HMNZS Tui (1970)](https://en.wikipedia.org/wiki/HMNZS_Tui_(1970)), [First Light Travel - Twin Wrecks](https://www.firstlighttravel.com/nz-diving/dive-sites/hmnzs-tui). Last updated 2026-06-18.*

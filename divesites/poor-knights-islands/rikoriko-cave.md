@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rikoriko Cave
 
-The world's largest sea cave in the southern hemisphere, Rikoriko is a massive underwater cavern measuring 130 meters long, 80 meters wide, and 35 meters deep. The cave is accessible to intermediate divers and offers a unique geological and biological experience. Water clarity inside the cave is exceptional thanks to sponges that naturally filter the water.
+Rikoriko is an enormous sea cave on Aorangi Island, claimed to be the largest sea cave in the world by volume (221,494 cubic metres). It measures approximately 130 meters long and 80 meters wide, with the cave ceiling rising 35 meters above the water surface. The water portion of the cave extends about 26 meters below sea level at the entrance. The cave is accessible to intermediate divers and offers a unique geological and biological experience. Water clarity inside the cave is exceptional thanks to sponges that naturally filter the water.
 
 ## Overview
 
-Rikoriko Cave is an iconic dive at the Poor Knights Islands. The entrance begins at approximately 8-10 meters, with the cave becoming progressively shallower as you penetrate toward the back (7-8m). The cave interior varies from 8 to 35 meters at its deepest point near the entrance. Unlike narrow squeeze-type caves, Rikoriko is spacious and open, with high ceilings that allow comfortable exploration for intermediate divers carrying proper lighting.
+Rikoriko Cave is an iconic dive at the Poor Knights Islands, located on Aorangi Island. The water depth at the cave entrance is approximately 20-26 meters; as you penetrate toward the back (shallower interior), depth reduces to 7-8 meters. The cave was formed approximately 10,000-15 million years ago (sources disagree) by volcanic activity. Unlike narrow squeeze-type caves, Rikoriko is spacious and open, with high ceilings that allow comfortable exploration for intermediate divers carrying proper lighting. A sperm whale skeleton (approximately 15 meters long) washed into the cave in 2009/2010 and remains as a notable feature.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ Rikoriko Cave is an iconic dive at the Poor Knights Islands. The entrance begins
 
 ## Marine Life
 
-The cave environment hosts species adapted to low-light conditions: hydroids, bryozoans, fragile sponges, and anemones coat the cave walls. Fish shelter inside the cave as a sleepover, with schools of blue maomao hugging the southern wall in the darker sections. Look for moray eels, slipper lobsters, and small crustaceans seeking protection in the overhangs. Outside the cave entrance, larger pelagic fish congregate.
+The cave environment hosts species adapted to low-light conditions: hydroids, bryozoans, fragile sponges, and anemones coat the cave walls. Deep-water sponge species appear at 12 meters inside the cave due to limited light penetration. Fish shelter inside the cave, with moray eels, slipper lobsters, bullrays, and small crustaceans seeking protection in the overhangs. The sperm whale skeleton on the cave floor is a notable feature. Outside the cave entrance, larger pelagic fish congregate.
 
 ## Dive Profile
 

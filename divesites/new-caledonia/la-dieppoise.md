@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # La Dieppoise
 
-A former French Navy minesweeper (ex-HMCS Chaleur Bay), 46 meters long, scuttled on 19 January 1988 near Amadee Island. Sitting upright with the ship's wheel still in place, she offers easy interior exploration at accessible depths -- rear deck at 22 meters, front deck at 18 meters, flybridge at 15 meters.
+A former French Navy minesweeper (ex-HMCS Chaleur), 46 meters long, scuttled on 19 January 1988 near Amadee Island. Sitting upright with the ship's wheel still in place, she offers easy interior exploration at accessible depths -- rear deck at 22 meters, front deck at 18 meters, flybridge at 15 meters.
 
 ## Overview
 
-La Dieppoise was originally HMCS Chaleur Bay, a Canadian-built minesweeper that was later transferred to the French Navy. After decommissioning, the 46-meter vessel was deliberately scuttled on 19 January 1988 near Amadee Island south of Noumea to create an artificial reef and dive attraction.
+La Dieppoise was originally HMCS Chaleur (MCB 144), a Canadian-built Bay-class minesweeper constructed by Port Arthur Shipbuilding in Ontario. Laid down in 1951 and launched in 1952, the vessel served briefly in the Royal Canadian Navy before being transferred to the French Navy on 9 October 1954, where it was renamed La Dieppoise and commissioned on 13 November 1954. After serving in French Pacific waters and later as a patrol vessel based in Noumea from 1976, the 46-meter, 390-ton vessel was decommissioned in 1987. Described as the last wooden minesweeper in French service, she was deliberately scuttled on 19 January 1988 near Amadee Island south of Noumea to create an artificial reef and dive attraction. The original scuttling date of 12 January was postponed due to Cyclone Anne.
 
 The wreck sits upright on the sandy bottom, remarkably intact after more than three decades underwater. The ship's wheel remains in place on the bridge -- one of the most photographed features of the wreck. The depth profile is very diver-friendly: the rear deck sits at 22 meters, the front deck at 18 meters, and the flybridge at just 15 meters, making the upper sections accessible to less experienced divers.
 
@@ -37,7 +37,7 @@ The wreck has attracted many large fish to the area, and the interior spaces are
 
 ## Marine Life
 
-The upright wreck structure has attracted many large fish species to take up residence. The interior spaces shelter schools of fish. The hull surfaces support coral and sponge growth after more than three decades of colonization.
+The upright wreck structure has attracted large fish species including trevally schools that hunt through the superstructure, coral trout, and occasional turtles and eagle rays. Nudibranchs colonize the interior surfaces. The hull supports established coral and sponge growth after more than three decades of colonization. Banded sea snakes are also encountered in the vicinity.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by dive boat from Noumea -- approximately 40 minutes to the Amadee Island
 While the interior is spacious and well-lit, it remains an overhead environment. Do not penetrate beyond sight of natural light without wreck diving certification and appropriate equipment. The maximum depth of 26 meters to the sand is moderate but requires proper gas management. Maintain good buoyancy to avoid disturbing silt inside the wreck.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Wikipedia — HMCS Chaleur (MCB 144)](https://en.wikipedia.org/wiki/HMCS_Chaleur_(MCB_144)), [New Caledonia Diving — La Dieppoise](https://newcaledonia-diving.com/fundive/Wrecks/Dieppoise/dieppoiseUk.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=506). Note: McFadyen's site incorrectly names the vessel "HMCS Chaleur Bay." The correct name is HMCS Chaleur (MCB 144), confirmed by Wikipedia and the vessel's Wikipedia disambiguation page. Last updated 2026-06-18.*

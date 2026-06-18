@@ -15,8 +15,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination."
+      "validation_source": "mass.gov,wreckhunter.net,trusteesofservations.org",
+      "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -36,9 +37,10 @@
       "surface": "unpaved",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species."
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -47,10 +49,10 @@
     "lon": -70.9432337,
     "osm_id": 6566512233,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Wanderer",
@@ -59,8 +61,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Wreck site off Rhode Island. Cold water, temperate conditions."
+      "validation_source": "wreckhunter.net,vineyardgazette.com,wbur.org",
+      "notes": "Last whaling bark to depart New Bedford, 116ft wooden bark built 1878. Grounded August 26, 1924 on Middle Ground shoal west side of Cuttyhunk Island. Completely broken up, only small artifacts remain among rocks. Maximum depth 20 feet (6m). Easy dive.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -69,10 +72,10 @@
     "lon": -70.0428526,
     "osm_id": 7918973462,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "no",
       "historic": "wreck",
@@ -87,8 +90,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "WWII-era wreck marked as dangerous. Limited access."
+      "validation_source": "wikipedia.org,mass.gov,south-wellfleet.com",
+      "notes": "WWII Liberty ship scuttled April 25, 1945 as target for Navy air-to-surface missile testing. Hulk submerged in 1996 storm. Lies in ~6-8m off Eastham MA. OSM tags 'access:no'. Site has unexploded ordnance \u2014 diving not recommended without official clearance.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -108,9 +112,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life."
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -134,9 +139,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Fully submerged rock ledge off Cape Ann. Tautog habitat with rocky structures."
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "Fully submerged rock ledge off Cape Ann. Tautog habitat with rocky structures.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -159,8 +165,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "T2 tanker broke in half during nor'easter off Monomoy Island. Scattered hull sections in 30-40 feet water. Cold water, strong currents in slack tide."
+      "validation_source": "wikipedia.org,mass.gov,newenglandhistoricalsociety.com",
+      "notes": "504-foot Type T2-SE-A1 tanker built 1942 in Portland Oregon. Broke in two February 18, 1952 in nor'easter. Stern grounded off Monomoy Island at 41\u00b035'10\"N 69\u00b057'45\"W. Bow grounded on Pollock Rip Shoal. Famous Finest Hours Coast Guard rescue. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -181,9 +188,10 @@
       "wreck:type": "ship",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest."
+      "validated": false,
+      "validation_source": "mass.gov,wreckhunter.net",
+      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -206,8 +214,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Auxiliary cruiser sunk 1908, Buzzards Bay. Scattered hull sections, anchor hawse and rudderpost identifiable. 55 feet depth, 5 feet visibility, swift currents."
+      "validation_source": "wikipedia.org,mass.gov,navsource.org",
+      "notes": "USS Yankee (1892), 406-foot iron auxiliary cruiser, 6,225 ton displacement, built Newport News Shipbuilding 1892. Originally Southern Pacific passenger liner El Norte. Grounded Spindle Rock near Hen and Chickens lightship September 23, 1908, sank December 4, 1908 while under tow to New Bedford. 3 miles east of Round Hill Point. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -216,7 +225,7 @@
     "lon": -70.5745277,
     "osm_id": 12077564743,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -231,8 +240,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "US Navy minesweeper ran aground on Graves Ledge, destroyed 1963. Historic wreck site."
+      "validation_source": "wikipedia.org,mwdc.org,mass.gov",
+      "notes": "WWII wooden minesweeper (136ft, 270 tons displacement), built 1943 by Al Larson Boat Building. Grounded Little Salvages off Rockport September 21, 1963. Destroyed by explosives September 28, 1963 (NOT fire). Wreck in ~20 feet water. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -253,8 +263,9 @@
       "wreck:date_sunk": "15 September 1955",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic wreck off Graves Ledge near USS Grouse. Cold water wreck site."
+      "validation_source": "mass.gov,wikipedia.org,mwdc.org",
+      "notes": "Boston beam trawler, 104.1ft length, 82 GRT, built 1917 in Boston MA, owned by Matteo Logrande, Gloucester. Foundered September 15, 1955 between Little Salvages and Dry Salvages. Massachusetts BUAR Exempted Site. Seal colony on nearby Dry Salvages.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -275,8 +286,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site."
+      "validation_source": "wikipedia.org,mass.gov,harbormasters.org",
+      "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -294,9 +306,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Rocky reef, temperate waters"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "Rocky reef, temperate waters",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -315,9 +328,10 @@
       "note": "Submerged at high tide.",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -345,9 +359,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -371,9 +386,10 @@
       "source_ref": "survey",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -401,9 +417,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -427,9 +444,10 @@
       "source": "osm_extended",
       "tidal": "no",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -439,7 +457,7 @@
     "osm_id": 441445427,
     "osm_type": "way",
     "depth": 18,
-    "site_type": "wreck",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -456,8 +474,9 @@
       "surface": "rock",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -485,9 +504,10 @@
       "start_date": "1883",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -511,9 +531,10 @@
       "tidal": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -536,9 +557,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -565,9 +587,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -590,9 +613,10 @@
       "source": "osm_extended",
       "tidal": "no",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -618,9 +642,10 @@
       "wikidata": "Q4840869",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -638,9 +663,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -658,9 +684,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -680,9 +707,10 @@
       "seamark:type": "sea_area",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -700,9 +728,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -720,9 +749,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -740,9 +770,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -760,9 +791,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -780,9 +812,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -800,9 +833,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -820,9 +854,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -840,9 +875,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -860,9 +896,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -880,9 +917,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -900,9 +938,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -920,9 +959,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -943,9 +983,10 @@
       "note": "island not visible on any imagery, only at some places",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -967,9 +1008,10 @@
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -991,9 +1033,10 @@
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -1024,9 +1067,10 @@
       "start_date": "1765",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -1053,8 +1097,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Fall River Line freight steamship, Brayton Point Somerset MA. Visible at low tide on Mount Hope Bay, shallow water access."
+      "validation_source": "wikipedia.org,wreckhunter.net,mass.gov",
+      "notes": "Freight sidepaddle steamship, 292 feet length, built 1892 Chelsea MA by Montgomery & Howard. Served Fall River Line. Grounded Somerset MA (Brayton Point) 1930s, abandoned. Wreck visible at low tide on Mount Hope Bay at 41\u00b042'35.48\"N 71\u00b010'42.58\"W.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -1064,7 +1109,7 @@
     "osm_id": 1304349266,
     "osm_type": "way",
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1076,8 +1121,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validation_source": "wikipedia.org,uri.edu,providenceriverboat.com",
+      "notes": "Rhode Island's largest ship graveyard \u2014 33-acre shoal in the Providence River with 29 confirmed wrecks. Named for local term for eelgrass. Marine Protected Area since 2018 with restricted access enforced by RI DEM. Not accessible to recreational divers. Boat tours via Providence River Boat Company.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -1098,9 +1144,10 @@
       "wikidata": "Q31828706",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": false,
+      "validation_source": "wreckhunter.net,mass.gov",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -1119,8 +1166,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "perplexity",
-      "notes": "LV39 Lightship wreck, 180 feet depth. Advanced dive only. Wooden vessel, upright position with 20-25 feet relief. Accessible to lower decks."
+      "validation_source": "northernatlanticdive.com,rhodeislandlighthousehistory.info,nedeepwrecks.com",
+      "notes": "LV-39 lightship, wooden vessel 119ft 6in length, 387 gross tons, built ~1875. Stationed at Brenton Reef 1897-1935. Struck by USS Iowa August 1905. Sank 1975 while under tow to Beverly MA. First dived July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Rests upright with port list at 180 feet (55m). 20-25ft relief. Technical dive only.",
+      "last_qa_date": "2026-06-18"
     }
   }
 ]
