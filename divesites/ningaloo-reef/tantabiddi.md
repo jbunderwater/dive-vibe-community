@@ -3,8 +3,8 @@ name: Tantabiddi
 lat: -21.9167
 lng: 113.9667
 difficulty: Beginner
-maxDepth: 10
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,19 +13,24 @@ addedBy: osm_import
 
 ## Tantabiddi
 
-Tantabiddi is a reef dive site in Ningaloo Reef, Oceania.
+Tantabiddi is primarily the main boat ramp and launch point for outer reef dive trips on the western side of Ningaloo Marine Park, serving as the gateway to a cluster of reef dive sites within Cape Range National Park.
 
 ## Overview
 
-Tantabiddi is the main boat ramp and reef access point on the outer northern section of Ningaloo Marine Park, used as the departure point for whale shark tours from March through July when the aggregation is at its peak. The reef at Tantabiddi itself features a shallow channel through the reef crest leading to coral bommies and sandy channels where sea turtles, reef sharks, and rays are regularly encountered on standard dive trips. The Tantabiddi reef passage has historically provided some of the most reliable big-animal encounters at Ningaloo, with manta rays seasonally feeding in the current-swept channel.
+The Tantabiddi boat ramp provides access to several named outer reef sites — including Nick's Lumps, Floats, and Three Fins — at maximum depths around 15 metres, where reef sharks, turtles, and large potato cod are regularly encountered. Inner reef snorkel moorings within the Tantabiddi Sanctuary Zone (The Staghorns, The Bombies) offer very shallow diving at 1.5–3.5 metres over staghorn and boulder coral formations.
+
+The Tantabiddi reef passage has historically been one of the most reliable areas for seasonal big-animal encounters: manta rays feed in the current-swept outer reef channel, and the area is a key departure zone for whale shark tours running March through July when aggregations peak in the surrounding open water.
+
+The sanctuary zone itself is a no-take area within Cape Range National Park, supporting strong reef fish populations across its coral bommies and rubble-and-coral channels.
 
 ## Site Information
 
-- **Location**: Ningaloo Reef, Oceania
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Cape Range National Park, Ningaloo Reef, Western Australia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 15 meters
+- **Seasonal Highlights**: Whale shark tours (March–July); manta rays (year-round, peak mid-year)
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Explore Parks WA — Tantabiddi Boat Ramp](https://exploreparks.dbca.wa.gov.au/site/tantabiddi-boat-ramp), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Dive Ningaloo — Westside](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-westside/). Last updated 2026-06-18.*

@@ -17,7 +17,7 @@ One of the most frequently dived arches at Poor Knights Islands, Middle Arch is 
 
 ## Overview
 
-Middle Arch is a gem of an arch dive, accessible to intermediate divers and offering excellent opportunities for longer exploration. The arch is often a nice sheltered spot for boat anchoring, making it a frequent Poor Knights destination. Like Northern Arch, it cuts through a point but at a much shallower depth. The arch is colourful with encrusting organisms and normally experiences less current than Northern Arch, making it an excellent choice for moderate conditions or divers building experience on Poor Knights arches.
+Middle Arch is a gem of an arch dive, accessible to intermediate divers and offering excellent opportunities for longer exploration. The arch is large enough for a boat to pass through and is often used as an anchorage point between dive sites, making it a frequent Poor Knights destination. Like Northern Arch, it cuts through a point but at a much shallower depth, with deeper passages at 19-23 meters near Cleaner Fish Bay. The arch is colourful with encrusting organisms and normally experiences less current than Northern Arch, making it an excellent choice for moderate conditions or divers building experience on Poor Knights arches.
 
 ## Site Information
 
@@ -72,4 +72,4 @@ Boat entry via giant stride directly to the arch area. Your guide will indicate 
 The shallow depth and colourful walls create excellent wide-angle opportunities. The combination of fish schools and encrusting organisms provides macro subjects. Sponges and anemones are particularly photogenic. The arch framing distant fish is a classic composition. The shallow depth allows longer exploration time for finding perfect shots. Consider a macro lens for detailed wall work and a wide-angle lens for arch-and-fish compositions.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*

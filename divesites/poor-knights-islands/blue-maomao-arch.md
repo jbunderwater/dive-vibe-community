@@ -17,7 +17,7 @@ The most famous and iconic arch at the Poor Knights Islands, Blue Maomao Arch is
 
 ## Overview
 
-Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cuts through a rocky point, creating a spectacular natural corridor. The site is famous for the dense schools of blue maomao (blue fish with distinctive markings) that congregate here, often accompanied by pink maomao and larger pelagic fish like kingfish, snapper, and giant trevally. The entrance to the arch is at approximately 10 meters, with shoals of blue maomao visible from the outer approach all the way through the passage.
+Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cuts through a rocky point, creating a spectacular natural corridor. The site is famous for the dense schools of blue maomao that congregate here, often accompanied by pink maomao and larger pelagic fish like kingfish, snapper, and giant trevally. The arch is accessible from both sides -- one entry under a boulder, one through a rock staircase -- with the shallowest section at approximately 6-7 meters, dropping to around 16-17 meters at the deepest point. Light streams through the cave openings at certain times of day, creating dramatic illumination effects.
 
 ## Site Information
 
@@ -45,7 +45,7 @@ The concentration of fish life is unmatched at Poor Knights.
 
 ## Dive Profile
 
-Begin your descent at the boat drop-off to the arch entrance (10m). Approach the arch carefully, as fish may scatter when startled. Once inside the arch passage, prepare for an overwhelming display of fish life. The blue maomao school is so dense that they create a bioluminescent-like effect when light refracts through them. Work your way through the arch, looking for larger fish in the blue water just outside. The arch widens and narrows creating scenic passages. Maximum depth for the main dive is 18 meters, with pleasant safety stop time available at 5 meters.
+The arch is accessible from both sides at 6-7 meters depth, with the deepest point of the passage at approximately 16-17 meters. Approach the arch carefully, as fish may scatter when startled. Once inside the arch passage, prepare for an overwhelming display of fish life. Work your way through the arch, looking for larger fish in the blue water just outside. The arch widens and narrows creating scenic passages. Maximum depth for the main dive is 18 meters, with pleasant safety stop time available at 5 meters.
 
 ## Entry and Exit
 
@@ -73,4 +73,4 @@ Boat entry via giant stride to the arch entrance. Your guide will advise on curr
 This is the premier photographic dive at Poor Knights. Fish schools create stunning wide-angle compositions. Telephoto lenses capture individual fish within the school. Backlighting creates silhouettes of fish against lighter water. The best photography occurs in the first part of the dive when fish are most dense. Neutral buoyancy is essential for steady wide-angle shots. Consider a second camera body for close-up work on smaller species.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Go Frame the World - Diving Poor Knights](https://goframetheworld.com/diving-the-poor-knights/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/). Last updated 2026-06-18.*

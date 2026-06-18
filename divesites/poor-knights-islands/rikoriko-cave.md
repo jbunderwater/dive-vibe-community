@@ -38,7 +38,7 @@ The cave environment hosts species adapted to low-light conditions: hydroids, br
 
 ## Dive Profile
 
-Begin at the boat anchor point and descend to the cave entrance (8-10m). The cave penetrates approximately 130 meters into the rock with the shallowest section at the back (7-8m). As you enter and progress, the ceiling comes down but stays comfortably high. The bottom becomes barren sand toward the back, but the walls are extraordinarily rich. Light does not penetrate to the back sections, making a good dive torch essential. Plan to explore the entrance and visible interior sections (20-30m) rather than attempting a full penetration.
+Enter the cave by boat or descend from the surface to the cave entrance (approximately 20-26m at the entrance). The cave penetrates approximately 130 meters into the rock, with depth becoming shallower toward the back (7-8m). As you enter and progress, the ceiling rises dramatically -- the cave is open and spacious throughout. The bottom becomes barren sand toward the back, but the walls are extraordinarily rich. Light does not penetrate to the back sections, making a good dive torch essential. Plan to explore the entrance and visible interior sections rather than attempting a full penetration. The whale skeleton on the floor is a major highlight.
 
 ## Entry and Exit
 
@@ -69,4 +69,4 @@ Boat entry via giant stride directly to the cave entrance. Your guide will discu
 The cave entrance framed by volcanic rock is iconic. Wide-angle shots of the cave mouth with divers silhouetted are striking. Inside, macro photography of small creatures and sponges is rewarding. Torch light creates interesting shadow compositions. Best photography in morning light when sun angle illuminates the entrance area.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Poor Knights Islands](https://en.wikipedia.org/wiki/Poor_Knights_Islands), [Michael McFadyen - Riko Riko Cave](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=789), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Showcaves - Rikoriko Cave](https://www.showcaves.com/english/nz/caves/RikoRiko.html), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*

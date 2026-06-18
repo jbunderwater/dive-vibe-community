@@ -40,4 +40,4 @@ Boat dive operated from Saint-Pierre. The Club Nautique Saint-Pierrais organises
 Cold water (drysuit recommended year-round), variable visibility, and the remote North Atlantic setting are the principal hazards. Divers should ensure they are diving with a qualified local operator familiar with the specific site conditions around Saint-Pierre.
 
 ---
-*Sources: [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/). No site-specific published source for Le Muscadin was located; marine life and dive profile generalised from Saint-Pierre and Miquelon regional diving characteristics. Last updated 2026-05-20.*
+*Sources: [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/), [OpenStreetMap way 1317164200](https://www.openstreetmap.org/way/1317164200). No site-specific published source for Le Muscadin was located; marine life and dive profile generalised from Saint-Pierre and Miquelon regional diving characteristics. Last updated 2026-06-18.*

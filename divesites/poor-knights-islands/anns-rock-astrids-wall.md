@@ -78,4 +78,4 @@ Wall dives offer diverse photographic opportunities:
 - **Light and shadow**: The interplay of light and shadow along the wall creates compelling depth
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [battleface - Diving in New Zealand](https://www.battleface.com/blog/diving-in-new-zealand/). Last updated 2026-06-18.*
