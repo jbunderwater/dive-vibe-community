@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "new-caledonia",
-    "new-england",
-    "new-jersey",
-    "new-zealand",
-    "newfoundland",
-    "ningaloo-reef",
     "north-carolina",
     "norway",
     "norway-lofoten-islands",
@@ -25,7 +19,6 @@
     "philippines-palawan",
     "philippines-puerto-galera",
     "philippines-tubbataha-reefs",
-    "poor-knights-islands",
     "port-cros",
     "portugal",
     "providencia-island",
@@ -174,7 +167,14 @@
     "micronesia",
     "micronesia-yap",
     "monterey-bay",
-    "mozambique"
+    "mozambique",
+    "new-caledonia",
+    "new-england",
+    "new-jersey",
+    "new-zealand",
+    "newfoundland",
+    "ningaloo-reef",
+    "poor-knights-islands"
   ],
   "history": [
     {
@@ -1249,6 +1249,83 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/94"
+    },
+    {
+      "date": "2026-06-18",
+      "slugs": [
+        "new-caledonia",
+        "new-england",
+        "new-jersey",
+        "new-zealand",
+        "newfoundland",
+        "ningaloo-reef"
+      ],
+      "notes": "new-zealand parent slug processed via child poor-knights-islands (16 sites); 6 destinations deep-audited with 3+ sources per site; multiple factual corrections applied across all destinations",
+      "summary": {
+        "sites_total": 97,
+        "sites_re_audited": 97,
+        "sites_validated_today": 16,
+        "hallucinations_removed": 28,
+        "marine_life_stripped": 12,
+        "wreck_conflicts_flagged": 14,
+        "sites_unresolved": 5,
+        "by_destination": {
+          "new-caledonia": {
+            "sites_total": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "Devils Grotto freshwater corrected (was saline); La Dieppoise vessel name HMCS Chaleur Bay\u2192HMCS Chaleur (MCB 144); Boulari Pass depth 21\u219226m + shark feeding ban 2012 noted; Amadee Island species counts removed; all 8 sites 3+ sources"
+          },
+          "new-england": {
+            "sites_total": 48,
+            "sites_re_audited": 48,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 37,
+            "notes": "SS James Longstreet depth 30\u21928m + location corrected (Eastham not Wellfleet) + unexploded ordnance warning; Wanderer depth 25\u21926m + Intermediate\u2192Beginner; USS Grouse 20\u21926m; Brenton Reef LV-39 history added; Ada K Damon diving PROHIBITED corrected; Bass Rock site_type wreck\u2192reef; 37 sites unresolved (<3 sources)"
+          },
+          "new-jersey": {
+            "sites_total": 11,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 0,
+            "notes": "USS San Diego coordinates corrected (inland\u2192offshore Fire Island); Axel Carlson site_type reef\u2192wreck; Texas Tower 4 one\u2192two bodies recovered; U-869 attribution corrected; Great Isaac length 185ft USCG/195ft class; Tolten crew conflict documented; USS Algol unconfirmed marine life stripped"
+          },
+          "poor-knights-islands": {
+            "sites_total": 16,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Crystal Cave Cousteau 2nd-best claim softened to top-ten; Rikoriko Cave ceiling 35m vs dive depth 26m clarified; HMNZS Waikato launch date 1966\u21921965 + guns 115mm\u21924.5-inch/114mm; HMNZS Tui builder/dates added; Blue Maomao Arch entry depth 10m\u21926-7m; all 16 sites 5+ sources"
+          },
+          "newfoundland": {
+            "sites_total": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 2,
+            "notes": "SS Rose Castle wolf eels\u2192Atlantic wolffish (wolf eel is Pacific-only); SS Lord Strathcona torpedo direction corrected (stern\u2192stern tubes); PLM-27 torpedo hit stern\u2192amidships + Marseilles\u2192M\u00e9diterran\u00e9e; \u00c9pave du Transpacific length 124\u2192121.5m; Le Muscadin+Troot Pool bogus Wikipedia source removed (wrong Saint-Pierre); Bell Island only-attack claim corrected across 3 files; SS Saganaga casualties conflict documented 29 vs 30"
+          },
+          "ningaloo-reef": {
+            "sites_total": 12,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Clerke Reef flagged for relocation (Rowley Shoals not Ningaloo, 260km off Broome); Blizzard Ridge coordinates corrected (-22.7,113.67\u2192-21.80,114.12); Norwegian Bay coordinates corrected; Turquoise Bay 15-20m scuba claim removed (snorkel/drift site 3-6m); Bundegi Reef bumphead parrotfish removed; Navy Pier pier entry clarified; 8 depth corrections; 2 entry type corrections"
+          }
+        }
+      }
     }
   ]
 }

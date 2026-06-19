@@ -57,4 +57,4 @@ Access by dive boat from Isle of Pines operators. Entry by giant stride near the
 The cave and tunnel system contains overhead environments. While multiple openings provide natural light and exit points, divers should maintain awareness of their position and nearest exit at all times. The tight squeezes require good buoyancy control and body awareness -- avoid forcing through any passage that feels too narrow. Carry a torch with backup. Avoid stirring up sediment with careless fin kicks.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=498), [New Caledonia Tourism](https://www.newcaledonia.travel/activities/heavenly-lagoon/diving/), [New Caledonia NZ](https://www.newcaledonia.co.nz/things-to-do-in-isle-of-pines/). Note: No site-specific marine life reports with confirmed species were found for Oupere Grotto. Marine life section reflects general cave/arch habitat characteristics. Last updated 2026-06-18.*

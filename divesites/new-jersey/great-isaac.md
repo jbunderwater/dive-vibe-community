@@ -17,7 +17,7 @@ Great Isaac is a historic US Navy tugboat wreck approximately 12 miles off Barne
 
 ## Overview
 
-The Great Isaac was a V4-M-A1 class ocean-going tugboat built in 1943 for the US Navy, measuring 185 feet in length. She served during the D-Day invasion at Normandy, towing concrete breakwater sections, and her captain received a Bronze Star for meritorious duty under fire. Less than three years later, on the foggy evening of April 16, 1947, the Great Isaac was struck by the Norwegian freighter Bandeirante and sank in 90 feet (27 meters) of water, 12 miles off Barnegat Light. No lives were lost. The wreck now lies on her port side, partially buried in sand, and is consistently ranked among the most popular intermediate-to-advanced wreck dives on the New Jersey coast.
+The Great Isaac was a V4-M-A1 class ocean-going tugboat built in 1943 for the US Navy. Her USCG-registered length was 185 feet (56.4 m) — the class overall length was 195 feet per Wikipedia — and she displaced 1,117 gross register tons with a crew of 27. She served during the D-Day invasion at Normandy, towing concrete breakwater sections. NJ dive site sources report her captain received a Bronze Star for meritorious duty under fire, though no primary military record has been located to independently confirm this. Less than three years later, on the foggy evening of April 16, 1947, the Great Isaac was struck by the Norwegian freighter Bandeirante and sank in 90 feet (27 meters) of water, 12 miles off Barnegat Light. No lives were lost. The wreck now lies on her port side, partially buried in sand, and is consistently ranked among the most popular intermediate-to-advanced wreck dives on the New Jersey coast.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Great Isaac was a V4-M-A1 class ocean-going tugboat built in 1943 for the US
 
 ## Wreck History
 
-The Great Isaac (hull #409) was built in 1943 by General Ship of East Boston, Massachusetts, for the United States Navy as a fleet ocean tug (V4-M-A1 class). She measured 185 by 37 feet and displaced 1,117 gross tons with a crew of 27. The Great Isaac participated in the June 1944 Normandy landings, towing floating concrete sections used to construct the artificial breakwaters (Mulberry harbors / gooseberries) that protected the Allied landing beaches. Her captain was awarded a Bronze Star for meritorious duty under fire.
+The Great Isaac (hull #409) was built in 1943 by General Ship of East Boston, Massachusetts, for the United States Navy as a fleet ocean tug (V4-M-A1 class). Her USCG-registered length was 185.5 feet (the V4-M-A1 class length overall was 195 feet per Wikipedia; most dive sources cite 185 feet, matching the vessel-specific Coast Guard documentation). She displaced 1,117 gross register tons with a crew of 27 — the class displacement was approximately 1,613 long tons. V4-M-A1 tugs were among the largest and most powerful ocean-going tugs of their era. The Great Isaac participated in the June 1944 Normandy landings, towing floating concrete sections used to construct the artificial breakwaters (Mulberry harbors / gooseberries) that protected the Allied landing beaches. Her captain was awarded a Bronze Star for meritorious duty under fire.
 
 On April 16, 1947, in foggy conditions off the New Jersey coast, the Great Isaac was struck by the Norwegian freighter Bandeirante. The collision gashed the engine room six feet deep. The tug sank in 90 feet of water 12 miles off Barnegat Light. There were no casualties.
 
@@ -64,4 +64,4 @@ Charter boats depart from Barnegat Light and Point Pleasant Beach. Atlantic Dive
 - Visibility is highly variable (3–15 meters typical); be prepared for limited-visibility navigation
 
 ---
-*Sources: [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/barnegat-chart/great-isaac/), [NJ Monthly](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/), [NJ Shipwreck Series](https://www.newjerseyshipwreckseries.com/?page_id=195), [Atlantic Divers](https://atlanticdivers.com/charters/great-isaac). Last updated 2026-05-17.*
+*Sources: [njscuba.net — Great Isaac](https://njscuba.net/dive-sites/new-jersey-dive-sites/barnegat-chart/great-isaac/), [NJ Monthly — Shipwreck Diving](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/), [NJ Shipwreck Series](https://www.newjerseyshipwreckseries.com/?page_id=195), [Atlantic Divers](https://atlanticdivers.com/charters/great-isaac), [Tugboat Information Database](http://www.tugboatinformation.com/tug.cfm?id=6245). Last updated 2026-06-18.*

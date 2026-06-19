@@ -5,7 +5,7 @@ lng: -71.3932944
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 1304349266
 addedBy: osm_import
@@ -13,56 +13,32 @@ addedBy: osm_import
 
 # Green Jacket Shoal
 
-A rocky shoal in the upper Providence River/Upper Narragansett Bay area of Rhode Island, accessible from the Providence metropolitan area.
+Rhode Island's largest ship graveyard — a 33-acre shoal in the Providence River containing 29 confirmed wrecks, now a Marine Protected Area. Not currently accessible to recreational divers.
 
 ## Overview
 
-Green Jacket Shoal lies in the upper Providence River or lower Providence metropolitan area at the head of Narragansett Bay, at coordinates suggesting a position in the upper bay north of Providence. This is an unusual location for recreational scuba — the upper bay is significantly influenced by Providence River freshwater input, industrial history, and shallower depths compared to the more open lower bay and Rhode Island Sound sites. At 18 metres maximum depth, this represents one of the deeper features in the upper bay system. The name "Green Jacket Shoal" evokes 18th-century maritime nomenclature, though the specific origin is unclear. Upper Narragansett Bay diving is less common than lower bay sites but offers an accessible, locally interesting alternative for Providence-area divers.
+Green Jacket Shoal is a historically significant 33-acre shoal in the Providence River between Providence and East Providence, Rhode Island. Its name comes from the thick green eelgrass (called "green jacket" locally) that once covered the shoal, first documented on an 1865 U.S. Coast Survey chart.
 
-## Site Information
+University of Rhode Island marine archaeologist David Robinson identified the site as Rhode Island's largest ship graveyard, with 29 confirmed wrecks including: two sidewheel steamboats — the 182-foot *Bay Queen* (operated 1865–1902) and the 193-foot *Mount Hope*; 17 scow barges; 4 sailing ships; 3 harbor steamers; and other vessels. Wood and pilings from wrecks are visible above the waterline at low tide.
 
-- **Location**: Upper Narragansett Bay / Providence River area, Rhode Island
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 3–8 meters (upper bay visibility is typically lower than lower bay)
-- **Current**: Moderate; upper bay tidal current
-- **Water Temperature**: 8–22°C depending on season
-- **Best Time**: June to October
+In 2018, the Rhode Island Coastal Resources Management Council (CRMC) designated Green Jacket Shoal a Marine Protected Area. A restricted perimeter is enforced by RI DEM, State Police, and the East Providence harbormaster. **The site is not accessible to recreational divers.** The Providence River Boat Company offers surface boat tours of the area.
 
-## Marine Life
+The 18-metre depth in the OSM data reflects the adjacent Providence River channel, not the shoal itself, which is very shallow with structural remains exposed at low tide.
 
-Upper Narragansett Bay species. Tautog resident on rocky structures. Striped bass are plentiful in the upper bay in warmer months — the Providence area is well known for striper fishing. Bluefish pass through seasonally. American lobsters in deeper crevices. Cunner around hard substrate. Winter flounder common on surrounding sand/mud. Sea urchins on rocky sections. The upper bay ecology is less diverse than open sound reefs but can offer good encounters with large stripers.
+## Access Warning
 
-## Dive Profile
+This site is a Marine Protected Area (since 2018) with actively enforced access restrictions. Do not attempt to dive here without official clearance from the Rhode Island CRMC and relevant authorities.
 
-Boat access from Providence area launch sites. Descend to rocky shoal at 12–18 metres. Navigate the shoal perimeter. Upper bay visibility tends to be lower than lower bay — dive light recommended. Plan around bay slack tide. Complete a 3-minute safety stop at 5 metres.
+## Historical Significance
 
-## Entry and Exit
-
-Boat charter or private boat required. Providence metropolitan area provides multiple launch facilities. Local operators familiar with upper bay navigation are recommended. Anchor in sand adjacent to shoal. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- Upper bay visibility is typically lower than Rhode Island Sound sites — set expectations accordingly
-- Striped bass hunting the Providence River tidal current are an accessible encounter in summer months
-- The upper bay sediment history means visibility can be affected by recent rain or storm disturbance
-- 7mm wetsuit or drysuit recommended throughout the season
-- Plan around bay slack tide
-
-## Safety Considerations
-
-Upper bay tidal current can be moderate at peak flow. Reduced visibility in the upper bay requires close buddy contact. Cold water below thermocline. Deploy SMB before surfacing. Upper bay boat traffic from Providence Harbor approach routes should be considered.
-
-## Photography
-
-Lower visibility in the upper bay limits photographic range. Close-focus subjects — tautog portraits, encrusting organisms, lobster in crevices — are the practical approach. Strobe lighting essential.
+Green Jacket Shoal represents a largely unknown chapter of Rhode Island's maritime history — the accumulated losses of Providence River commercial traffic over several centuries. URI's ongoing archaeological research has documented the site's extent using remote sensing, and analysis of the vessel types and timbers continues. The site offers a unique window into the working watercraft of 19th-century Narragansett Bay commerce.
 
 ## Additional Resources
 
-- **Charter Access**: Providence area dive charters and boat launch facilities
-- **Last Updated**: 2026-03-28
+- **Research**: URI Graduate School of Oceanography — David Robinson, marine archaeologist
+- **Boat Tours**: [Providence River Boat Company — Green Jacket Shoal Tour](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/)
+- **MPA Authority**: Rhode Island CRMC
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Green Jacket Shoal](https://en.wikipedia.org/wiki/Green_Jacket_Shoal), [URI News — Rhode Island's Largest Ship Graveyard](https://www.uri.edu/news/2016/03/uri-graduate-school-of-oceanography-marine-archaeologist-uncovers-rhode-islands-largest-ship-graveyard/), [Providence River Boat Company](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/). Last updated 2026-06-18.*

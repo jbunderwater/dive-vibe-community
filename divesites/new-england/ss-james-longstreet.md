@@ -2,8 +2,8 @@
 name: SS James Longstreet
 lat: 41.8310725
 lng: -70.0428526
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 8
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,57 +13,38 @@ addedBy: osm_import
 
 # SS James Longstreet
 
-A WWII Liberty ship scuttled in Cape Cod Bay as a military target vessel in 1945 — now resting at 30 metres off Wellfleet.
+A WWII Liberty ship scuttled in Cape Cod Bay as a guided-weapons test target in 1945 — now in just 6–8 metres of water off Eastham, but access is restricted due to unexploded ordnance.
 
 ## Overview
 
-The SS James Longstreet was a standard WWII Liberty ship, one of thousands built in American shipyards to supply the Allied war effort. After the war, rather than being broken up or sold, she was deliberately scuttled on April 25, 1945, in Cape Cod Bay off Wellfleet as a stationary target for U.S. Army Air Forces bombing and gunnery practice. Aircraft based at nearby Chatham and Otis Army Air Field used her rusting hulk for training runs. The vessel took considerable punishment before sinking to the bottom at approximately 30 metres depth. The wreck today lies roughly 4 miles off Wellfleet's outer arm on Cape Cod, accessible only by boat. Her long steel hull is broken and scattered in places from the bombing, but the main structural sections remain identifiable. The site is a rare example of a deliberately sacrificed Liberty ship preserved in New England waters.
+The SS James Longstreet was a Liberty ship launched October 31, 1942 by Todd Houston Shipbuilding Corporation in Houston, Texas. At 441 feet 6 inches long (135m) with a 57-foot beam and 7,000 tons deadweight capacity, she served briefly as a merchant vessel before being damaged in a 1943 grounding and declared a total loss. The Navy acquired her in June 1944 and converted her into a stationary weapons test platform. She was deliberately scuttled on April 25, 1945, on New Found Shoal in Cape Cod Bay — not off Wellfleet but approximately 3.5 nautical miles off **Eastham, Massachusetts** — to serve as a target for Project Dove, a heat-seeking bomb program developed with Polaroid Corporation, and subsequent air-to-surface missile testing that continued until 1970.
+
+For decades the hulk remained largely above water, becoming "one of the most-photographed objects in Cape Cod Bay." In April 1996, waves from a severe snowstorm finally submerged the remains into deeper water. The wreck now lies in just **20 to 25 feet (6–8 metres)** of water — far shallower than previously reported. The OSM data marks access as "no," and the site is not recommended for recreational diving due to **unexploded ordnance** from decades of weapons testing. The wreck remains a hazard to navigation.
 
 ## Site Information
 
-- **Location**: Cape Cod Bay, off Wellfleet, Massachusetts
+- **Location**: New Found Shoal, Cape Cod Bay, approximately 3.5 nautical miles off Eastham, Massachusetts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5–12 meters (15–40 feet)
-- **Current**: Variable; tidal state affects Cape Cod Bay significantly
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 8 meters
+- **Access**: Restricted — unexploded ordnance present; diving not recommended without official clearance
+- **Current**: Variable tidal current in Cape Cod Bay
 - **Water Temperature**: 8–20°C depending on season
-- **Best Time**: June to October
 
-## Marine Life
+## Access Warning
 
-The steel hull sections support a productive cold-water community. Tautog are resident on the wreck structure, particularly around enclosed sections and hull breaks. American lobsters occupy the dark recesses beneath hull plates and in the broken lower sections. Pollock school in midwater above the wreck, sometimes in impressive numbers. Cunner hover around the encrusted surfaces. Sea ravens rest motionless on the sandy bottom adjacent to the debris. Striped bass cruise through in summer. Encrusting hydroids, anemones, and bryozoans blanket the steel surfaces.
+This site is marked "access: no" in maritime databases and is not recommended for recreational diving. Unexploded ordnance from decades of US Navy weapons testing (1945–1970) remains a documented hazard at this location. Do not dive this site without verifying current access status with the Massachusetts Board of Underwater Archaeological Resources (BUAR) and relevant federal authorities.
 
-## Dive Profile
+## Historical Significance
 
-Boat access required from Wellfleet, Provincetown, or Chatham. The wreck lies at 28–30 metres with some structural relief above the bottom. The most intact sections offer the best navigation references; the bombed sections create a more scattered debris field. Plan the dive to cover the main hull sections while monitoring depth — the 30-metre maximum depth limits no-stop time. Ascend with 80 bar/1,200 psi in reserve and complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Cape Cod Bay charters from Wellfleet or Provincetown harbor can access the site in reasonable weather. The outer Cape exposed position means sea conditions can deteriorate quickly with afternoon southwesterly winds. Deploy SMB before ascending from depth. Anchor carefully to avoid further damage to the wreck.
-
-## Tips and Recommendations
-
-- The wreck's 30-metre depth pushes recreational no-decompression limits — plan conservatively and monitor NDL carefully
-- Bring a dive light to examine the underside of hull plates and crevices where lobsters shelter
-- Bombed sections provide interesting texture for photography — the damage is part of the story
-- Combine with diving off Wellfleet or other outer Cape sites for a productive day
-- Summer weekends bring boat traffic on Cape Cod Bay — deploy SMB well before surfacing
-
-## Safety Considerations
-
-Cold water year-round below thermocline — 7mm wetsuit or drysuit recommended. The 30-metre depth leaves limited margin for extended bottom times on recreational equipment. Cape Cod Bay tidal currents vary with position and tidal state; the outer bay can run stronger than expected. Deploy SMB clearly before surfacing. Monitor weather — the outer Cape is exposed to sea conditions from multiple directions.
-
-## Photography
-
-The bombed and broken hull sections create compelling wide-angle documentary images — the story of deliberate military destruction is written in the structure. Close-focus shots of encrusting anemones and bryozoans on weathered steel read well with strobes at depth. Pollock schooling in midwater above the hull offer blue-water wide-angle opportunities.
+The SS James Longstreet represents a unique chapter in Cold War weapons development — her hull was sacrificed to help develop guided munitions technology. The Polaroid Corporation's heat-seeking bomb program (Project Dove) was among the earliest guided weapons programs in US history, and the Longstreet was central to its sea trials. The wreck's remains are visible at extreme low tides and continue to be a navigational landmark in Cape Cod Bay.
 
 ## Additional Resources
 
-- **Historical Reference**: Cape Cod Times archive; U.S. Army Air Forces WWII training records
-- **Charter Access**: Wellfleet and Provincetown area dive charters
-- **Last Updated**: 2026-03-28
+- **Historical Reference**: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet); [South Wellfleet, MA history](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/)
+- **Management**: Massachusetts BUAR; contact before any dive attempt
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet), [South Wellfleet Historical Blog](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/), [Mass.gov BUAR](https://www.mass.gov/info-details/james-longstreet). Last updated 2026-06-18.*

@@ -23,7 +23,7 @@ Derby Powderhouse Wharf takes its name from the Derby family, specifically Elias
 
 - **Location**: Salem Sound / Marblehead area, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 4–10 meters (Salem Sound; variable)
@@ -63,7 +63,7 @@ The contrast between angular constructed stone and the organic overgrowth of 200
 
 - **Historical Reference**: Elias Hasket Derby and Salem maritime history — Peabody Essex Museum archives
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Derby Wharf](https://en.wikipedia.org/wiki/Derby_Wharf), [NPS Salem Maritime NHS](https://www.nps.gov/sama/index.htm). Note: "Derby Powderhouse Wharf" as listed cannot be verified in NRHP records or NPS documentation; the closest verified feature is Derby Wharf (established 1762, NRHP-listed). No dive documentation found. Last updated 2026-06-18.*

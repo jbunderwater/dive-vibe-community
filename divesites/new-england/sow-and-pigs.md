@@ -23,7 +23,7 @@ Sow and Pigs is a classic New England navigational hazard name — a "sow" (larg
 
 - **Location**: Off Plum Island / western Newburyport approach, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 3–8 meters (10–26 feet)
@@ -62,7 +62,7 @@ The named rock cluster lends itself to wide-angle portraits showing the central 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*

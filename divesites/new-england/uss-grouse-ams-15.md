@@ -3,7 +3,7 @@ name: USS Grouse (AMS-15)
 lat: 42.6735381
 lng: -70.5745277
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 6
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # USS Grouse (AMS-15)
 
-A WWII wooden minesweeper that grounded on the Little Salvages off Rockport in 1963 and was destroyed by fire — her scattered remains rest near the California wreck.
+A WWII wooden minesweeper that grounded on the Little Salvages off Rockport in September 1963 and was destroyed by Navy explosives — her scattered remains rest in about 6 metres of water near the California wreck.
 
 ## Overview
 
-USS Grouse (AMS-15), formerly YMS-321, was a wooden auxiliary motor minesweeper built in 1942 in Terminal Island, California. She served in the Pacific during WWII and later as a Naval Reserve training vessel based at Portsmouth, New Hampshire. In the early hours of September 21, 1963, Grouse was on a training mission when she struck the Little Salvages — a string of sharp submerged shoals off Rockport, Massachusetts — at high water. Despite five separate tow attempts, the Navy was unable to free the grounded ship. On September 28, 1963, the Navy announced plans to burn the vessel in place. The fire was allowed to burn until the tide extinguished it. The wooden hull's remains and the vessel's metal fittings and machinery now rest at approximately 20 metres near the Dry Salvages area. The site is managed by Massachusetts BUAR as an Exempted Site.
+USS Grouse (AMS-15), formerly YMS-321, was a 136-foot wooden auxiliary motor minesweeper built at Al Larson Boat Building on Terminal Island, California. She was laid down August 29, 1942, launched February 20, 1943, and completed October 25, 1943, with a displacement of 270 tons. She served in the Pacific during WWII and later as a Naval Reserve training vessel based at Portsmouth, New Hampshire. Around 2 AM on September 21, 1963, Grouse was on a training mission when she struck the Little Salvages — a string of sharp submerged shoals off Rockport, Massachusetts — at high water. As the tide fell the ship was left high and dry; 30 mph winds forced a helicopter evacuation of the remaining 11 crewmen. All tow attempts failed. On September 28, 1963, the Navy destroyed the vessel with **explosives** (not fire as sometimes reported). Her name was struck from the Naval Vessel Register the same day. The wreck's remains lie in approximately 6 metres (20 feet) of water near the Little Salvages. The site is managed by Massachusetts BUAR as an Exempted Site.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ USS Grouse (AMS-15), formerly YMS-321, was a wooden auxiliary motor minesweeper 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 5–10 meters (15–30 feet)
 - **Current**: Moderate; plan around slack tide
 - **Water Temperature**: 7–20°C depending on season
@@ -33,11 +33,11 @@ USS Grouse (AMS-15), formerly YMS-321, was a wooden auxiliary motor minesweeper 
 
 ## Marine Life
 
-The wreck debris and surrounding rocky substrate support a productive cold-water community. Tautog are resident throughout the site. American lobsters inhabit the remains of the hull and the rocky crevices around the site. Harbor seals from the nearby Dry Salvages colony visit this area regularly. Pollock and Atlantic mackerel patrol mid-water above the wreck. Cunner hover over the metal remains. Sea urchins colonize the harder surfaces. Nudibranchs and encrusting bryozoans cover the metal fittings.
+No site-specific marine life reports have been confirmed for the USS Grouse wreck itself. The surrounding Little Salvages area supports typical Cape Ann cold-water species, and the nearby Dry Salvages rock colony is known to host harbor and gray seals that range through the area. The Massachusetts BUAR site listing documents the wreck's location and condition but does not include marine life survey data. Regional Cape Ann species (tautog, lobster, cunner, pollock) would be expected on the rocky substrate, but cannot be specifically attributed to this site without confirmed sources.
 
 ## Dive Profile
 
-Access via boat charter from Rockport or Cape Ann area. The site lies near the California wreck, making the two a natural pairing on a multi-site charter. Descend to the wreck remains at 15–20 metres. The wooden hull has largely deteriorated, but metal machinery, fittings, and scattered debris are identifiable. Navigate the debris field and explore the adjacent rocky ledge. Plan slack tide windows carefully. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
+Access via boat charter from Rockport or Cape Ann area. The site lies near the California wreck, making the two a natural pairing on a multi-site charter. Maximum depth at the wreck site is approximately 6 metres (20 feet) — this is a shallow, near-surface dive. The wooden hull is entirely gone; Navy explosives and decades of wave action have left scattered metal debris, fittings, and machinery fragments. Navigate the debris field and explore the adjacent rocky ledge. Plan around slack tide. Safety stop at 3 metres is appropriate for this depth.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Boat charter required from Cape Ann area operators. The Little Salvages area is 
 ## Tips and Recommendations
 
 - Best combined with the California wreck nearby for a productive two-wreck Cape Ann charter
-- The fire and deliberate destruction of the Grouse makes her remains less intact than wrecks that sank intact — expect scattered debris rather than defined hull structure
+- The deliberate destruction of the Grouse by Navy explosives makes her remains less intact than wrecks that sank whole — expect scattered debris rather than defined hull structure
 - Harbor seal encounters are possible given proximity to the Dry Salvages
 - Ask your charter captain for the most current information on wreck condition and current patterns
 
@@ -62,7 +62,7 @@ The scattered metal debris provides close-focus subjects with strobe lighting �
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Historical Reference**: MWDC (Massachusetts Wreck Divers Club)
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — USS Grouse (AMS-15)](https://en.wikipedia.org/wiki/USS_Grouse_(AMS-15)), [MWDC — USS Grouse](https://www.mwdc.org/Shipwrecks/ussgrouse.html), [Mass.gov BUAR — USS Grouse](https://www.mass.gov/info-details/uss-grouse). Last updated 2026-06-18.*

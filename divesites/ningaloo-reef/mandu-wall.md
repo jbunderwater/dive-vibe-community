@@ -13,19 +13,24 @@ addedBy: osm_import
 
 ## Mandu Wall
 
-Mandu Wall is a wall dive site in Ningaloo Reef, Oceania.
+Mandu Wall is a wall dive on the outer edge of Ningaloo Reef in the southern section of Cape Range National Park, near the Mandu Creek area, where the reef drops steeply toward the Indian Ocean.
 
 ## Overview
 
-Mandu Wall drops from the outer edge of Ningaloo Reef near the Mandu Creek area, descending steeply through coral-covered formations into deeper water patrolled by grey reef sharks, trevally, and occasional hammerheads. The wall face carries healthy hard and soft coral growth with sea fans and sponges in the deeper sections, and the outer reef position means strong current is common, driving the pelagic fish activity that makes this one of Ningaloo's more exciting advanced dive sites. Visibility on the outer wall typically runs 20-30 meters, with the deep blue opening to the Indian Ocean on the seaward side.
+Mandu Wall is part of a cluster of wall and deep reef sites along the outer western edge of Ningaloo — alongside sites such as Hole in the Wall, Milyering Wall (which reaches approximately 27 metres), and the Colosseum — where the reef structure is dissected by crevices, ledges, and caves. Hard coral formations at the shallower sections give way to deeper walls with soft coral and sponge growth.
+
+The outer reef position means significant current is common at these sites, which drives pelagic fish activity along the wall face. Turtles, grey reef sharks, trevally, and schooling pelagic fish are regularly encountered, and huge potato cod and rankin cod patrol the deeper ledges. Parrotfish, damselfish, butterflyfish, and angelfish populate the hard coral sections. Manta rays visit the area from approximately mid-May, and humpback whales are occasionally sighted by divers from June through November.
+
+No local operator published a specific page for Mandu Wall during this research. The site is listed on DiveAdvisor and referenced in regional guides; the description reflects the documented character of outer reef wall sites in the Mandu Creek area.
 
 ## Site Information
 
-- **Location**: Ningaloo Reef, Oceania
+- **Location**: Ningaloo Marine Park, Cape Range National Park, Western Australia (Mandu Creek area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
+- **Currents**: Current common on outer reef face; dive timing matters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [DiveAdvisor — Mandu Wall](https://diveadvisor.com/australia/mandu-wall), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Whale Shark Tours — Scuba Diving](https://www.whalesharktours.com.au/scuba-diving/). Last updated 2026-06-18.*

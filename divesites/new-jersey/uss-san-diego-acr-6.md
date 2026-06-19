@@ -1,7 +1,7 @@
 ---
 name: USS San Diego (ACR-6)
-lat: 40.44
-lng: -73.5667
+lat: 40.55
+lng: -73.008
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
@@ -33,7 +33,7 @@ USS California (later renamed USS San Diego) was laid down on May 7, 1902, launc
 
 On July 19, 1918, bound from Portsmouth, New Hampshire to New York City, San Diego struck a mine at 11:05 a.m. adjacent to the port engine room. German submarine U-156 had laid the minefield in the area. The explosion caused rapid flooding; the ship capsized and sank in approximately 28 minutes. Captain Harley H. Christy's order to abandon ship 15 minutes after the initial explosion saved all but six of the 1,183-man crew. Six men were lost: two killed by the initial explosion, one trapped in the crow's nest, one struck by a falling smokestack, and one crushed by a falling life raft.
 
-A 2018 U.S. Navy investigation, conducted by Mobile Diving and Salvage Unit 2 through four site visits and dive operations since 2016, confirmed that San Diego was definitively sunk by a mine deployed by U-156 — ruling out earlier theories of torpedo attack or sabotage. The investigation was reported by USNI News in December 2018. The wreck is listed at coordinates 40.5501°N 73.0078°W and added to the National Register of Historic Places on February 17, 1998.
+A 2018 U.S. Navy investigation, conducted by Mobile Diving and Salvage Unit 2 through four site visits and dive operations since 2016, confirmed that San Diego was definitively sunk by a mine deployed by U-156 — ruling out earlier theories of torpedo attack or sabotage. The investigation was reported by USNI News in December 2018. The wreck is listed on the National Register of Historic Places (added February 17, 1998) at coordinates 40°33′N 73°00′W (approximately 40.550°N, 73.008°W), confirmed by Wikipedia and Shipwreck World GPS records. Note: the wreck lies in New York waters, off Fire Island; njscuba.net lists it under "New York Dive Sites," though it is commonly accessed from NJ charter boats.
 
 ## Marine Life
 
@@ -52,4 +52,4 @@ All access is by boat charter. The wreck lies approximately 13.5 miles south of 
 The inverted orientation creates overhead-environment conditions throughout — divers exploring beneath the hull edges are in a true overhead environment requiring appropriate training, lighting, and gas reserves. Cold North Atlantic water (typical temperatures 5–13°C / 40–55°F) demands a 7mm wetsuit or drysuit. The hull sections are beginning to collapse after more than a century underwater, creating risk of shifting structure. PADI's equipment recommendations include a knife, torch, and SMB as minimum equipment. More scuba divers have died at this wreck over the decades than crew members were lost in the original sinking — treat it with respect and plan conservatively.
 
 ---
-*Sources: [USS California/San Diego — Wikipedia](https://en.wikipedia.org/wiki/USS_California_(ACR-6)), [San Diego (ACR-6) Wreck Site — Naval History and Heritage Command](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/san-diego-cruiser-6.html), [Investigation Confirms USS San Diego Sunk by U-boat Mine — USNI News](https://news.usni.org/2018/12/11/investigation-confirms-wwi-cruiser-uss-san-diego-sunk-u-boat-mine), [Wreck of the USS San Diego — PADI](https://www.padi.com/dive-site/united-states-of-america-usa/wreck-of-the-uss-san-diego/), [Shipwrecks of War NY-NJ — X-Ray Magazine](https://xray-mag.com/content/shipwrecks-war-new-york-new-jersey). Last updated 2026-05-17.*
+*Sources: [USS California/San Diego — Wikipedia](https://en.wikipedia.org/wiki/USS_California_(ACR-6)), [San Diego (ACR-6) Wreck Site — Naval History and Heritage Command](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/san-diego-cruiser-6.html), [Investigation Confirms USS San Diego Sunk by U-boat Mine — USNI News](https://news.usni.org/2018/12/11/investigation-confirms-wwi-cruiser-uss-san-diego-sunk-u-boat-mine), [Wreck of the USS San Diego — PADI](https://www.padi.com/dive-site/united-states-of-america-usa/wreck-of-the-uss-san-diego/), [Shipwreck World GPS Coordinates](https://www.shipwreckworld.com/maps/uss-san-diego-ca-6), [Shipwrecks of War NY-NJ — X-Ray Magazine](https://xray-mag.com/content/shipwrecks-war-new-york-new-jersey). Last updated 2026-06-18.*

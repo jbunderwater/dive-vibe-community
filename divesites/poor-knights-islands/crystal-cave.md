@@ -17,7 +17,7 @@ A cave and swim-through dive at the Poor Knights Islands, part of the volcanic i
 
 ## Overview
 
-Crystal Cave is one of the many cave and swim-through formations at the Poor Knights Islands, formed by millions of years of wave erosion cutting into the volcanic rock. The Poor Knights -- located 23 kilometres off New Zealand's Tutukaka Coast and washed by the warm East Auckland Current from the Coral Sea -- are consistently ranked among the world's top ten dive locations, with Jacques Cousteau himself endorsing this reputation.
+Crystal Cave is one of the many cave and swim-through formations at the Poor Knights Islands, formed by millions of years of wave erosion cutting into the volcanic rock. The Poor Knights -- located 23 kilometres off New Zealand's Tutukaka Coast and washed by the warm East Auckland Current from the Coral Sea -- are consistently ranked among the world's top ten dive locations; Jacques Cousteau reportedly listed them among his top ten favourite dive sites worldwide.
 
 The cave system features passages that allow divers to swim through sections of the island's rocky substrate, with ambient light filtering through openings to create atmospheric lighting effects. The walls inside the caves are covered in sponge gardens, encrusting invertebrates, and jewel anemones that thrive in the low-light, current-fed environment. Outside the cave entrances, the surrounding reef teems with the fish life for which the Poor Knights are famous.
 
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes each way).
 While the swim-throughs at the Poor Knights are generally open and well-lit, they are still overhead environments. Maintain visual contact with exit points at all times. Avoid stirring up silt with careless fin kicks. Currents around the islands can be variable -- follow your dive guide's briefing on entry and exit points. Water temperature can drop below 18 degrees C outside summer, so adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/). Last updated 2026-06-18.*

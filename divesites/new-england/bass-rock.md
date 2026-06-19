@@ -5,7 +5,7 @@ lng: -70.7835881
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
-siteType: wreck
+siteType: reef
 ref: null
 osmId: 441445427
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Bass Rock
 
-A submerged rocky outcrop and associated wreck debris off Crane Beach, Ipswich, Massachusetts, near the mouth of the Essex River.
+A submerged tidal rocky outcrop off Crane Beach, Ipswich, Massachusetts — a navigation hazard in the approaches to Ipswich Bay.
 
 ## Overview
 
-Bass Rock is a submerged ledge system located off Crane Beach near the mouth of the Essex River at the northern approach to Ipswich Bay. The coordinates place this site in the nearshore waters between Crane Beach and the open Gulf of Maine approach — a stretch of coast that has claimed numerous vessels over the centuries given its combination of submerged ledges, tidal currents from the Essex and Ipswich Rivers, and exposure to northeast storm swells. The site is classified as a wreck, suggesting wreck debris is present on or around the rocky structure. At 18 metres maximum depth, the site offers typical New England ledge diving combined with the wreck component. This is the same general area as the Ada K. Damon intertidal wreck at Crane Beach, and the two sites can be combined on a charter trip.
+Bass Rock is a tidal rocky outcrop located off Crane Beach near Ipswich, Massachusetts, in the northern approaches to Ipswich Bay. OSM data classifies it as a natural reef (reef=rock) with tidal exposure characteristics, not a wreck site. No wreck is documented at this specific location in any source found. At maximum depth of approximately 18 metres, it is a typical New England rocky ledge feature in the Gulf of Maine. No site-specific dive documentation has been found for Bass Rock as a named scuba destination.
 
 ## Site Information
 
 - **Location**: Off Crane Beach, Ipswich, Massachusetts (northern Ipswich Bay)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 4–10 meters (variable with tidal state)
@@ -33,11 +33,11 @@ Bass Rock is a submerged ledge system located off Crane Beach near the mouth of 
 
 ## Marine Life
 
-The combination of rocky ledge and wreck debris creates varied habitat. Tautog hold position on the harder structure and wreck pieces. American lobsters inhabit crevices in both the ledge and wreck debris. Pollock school in mid-water above the site. Cunner cluster around the encrusted metal and rock surfaces. Northern sea ravens rest motionless on the flat sand areas surrounding the rock. Winter flounder and sand dabs are common on the sandy patches adjacent to the structure. Striped bass hunt the area in late summer.
+No site-specific marine life has been confirmed from independent sources. The regional Gulf of Maine cold-water rocky reef fauna applies to this area (Ipswich Bay), but no species have been confirmed specifically at Bass Rock by any dive report or survey. No site-specific dive documentation exists for this location.
 
 ## Dive Profile
 
-Access via boat charter from Gloucester or Ipswich/Essex area. Descend to the rocky ledge structure at 12–18 metres and navigate the perimeter to locate wreck debris. The combination of ledge topography and scattered wreck material means the most productive dive strategy involves working the ledge edges where both reef species and wreck debris concentrate. Plan dives around slack tide to minimize current from the Essex River. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
+Boat access from Gloucester or Ipswich/Essex area. Descend to the rocky ledge structure at 12–18 metres and navigate the ledge perimeter. Plan dives around slack tide to minimize tidal current from the Essex and Ipswich rivers. No site-specific dive documentation was found for Bass Rock — diving conditions are typical of the Ipswich Bay rocky ledge environment. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -46,10 +46,8 @@ Boat charter required from Cape Ann or North Shore operators. Local knowledge of
 ## Tips and Recommendations
 
 - Plan dives around slack tide — the Essex River tidal flow creates directional currents here
-- Bring a dive light to investigate ledge crevices and wreck cavities where lobsters shelter
-- The wreck debris may include material from multiple vessels lost on this navigation hazard over the centuries
-- Combine with a visit to the Ada K. Damon intertidal site on Crane Beach for a full maritime archaeology day
 - 7mm wetsuit or drysuit recommended year-round in the Gulf of Maine
+- This site has no confirmed dive documentation — verify current conditions with a local Cape Ann operator before planning a trip
 
 ## Safety Considerations
 
@@ -57,12 +55,12 @@ Tidal current from the Essex River can be strong and directional near the river 
 
 ## Photography
 
-The combination of ledge topography and wreck debris provides varied photographic subjects. Close-focus shots of encrusting organisms on weathered metal fragments reward patient photographers. Tautog portraits against the rocky substrate are achievable with a patient approach.
+Rocky ledge topography provides subjects typical of Gulf of Maine reef diving. No site-specific photographic documentation has been found for Bass Rock.
 
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers (Gloucester); North Shore dive charters
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*

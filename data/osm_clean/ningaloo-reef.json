@@ -5,7 +5,7 @@
     "lon": 114.1578,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningaloo.com.au,scubaboard.com,divezone.net",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -22,15 +23,16 @@
     "lon": 114.15,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningaloo.com.au,ningaloowhalesharks.com,techdivetravels.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 113.9881,
     "osm_id": null,
     "osm_type": null,
-    "depth": 5,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,thediveglobe.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -56,7 +59,7 @@
     "lon": 114.1833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 3,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "snorkelspots.com,ultimatewatersports.com.au,trailswa.com.au",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -73,15 +77,16 @@
     "lon": 113.9667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "exploreparks.dbca.wa.gov.au,aussiemarineadventures.com.au,diveningaloo.com.au",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -90,7 +95,7 @@
     "lon": 113.95,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 3,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -98,13 +103,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "thelifeofpy.com,snorkelspots.com,drinkteatravel.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
     "name": "Blizzard Ridge",
-    "lat": -22.7,
-    "lon": 113.6667,
+    "lat": -21.8008,
+    "lon": 114.1237,
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
@@ -115,24 +121,27 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "padi.com,diveningaloo.com.au,scubadiving.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
     "name": "Clerke Reef",
-    "lat": -22.65,
-    "lon": 113.7333,
+    "lat": -17.2833,
+    "lon": 119.35,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "liveaboard.com,wikipedia.org,exploreparks.dbca.wa.gov.au",
+      "qa_note": "Clerke Reef is part of the Rowley Shoals, located ~260km west of Broome, NOT part of Ningaloo Reef. This site is misplaced in this destination dataset. Rowley Shoals coordinates used (-17.28, 119.35). Recommend moving to a rowley-shoals destination.",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -149,7 +158,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveadvisor.com,aussiemarineadventures.com.au,whalesharktours.com.au",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -161,21 +171,22 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningaloo.com.au,moniqueliveslife.com,exmouthresort.net.au",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
     "name": "Norwegian Bay",
-    "lat": -21.85,
-    "lon": 114.1667,
+    "lat": -22.6064,
+    "lon": 113.6744,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 4,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -183,7 +194,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "sailningaloo.com.au,divingwawrecks.com,shipwreckswa.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -192,7 +204,7 @@
     "lon": 113.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 4,
+    "depth": 3,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -200,7 +212,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,australiascoralcoast.com",
+      "last_qa_date": "2026-06-18"
     }
   }
 ]

@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, indepthmag.com/for-whom-the-bell-tolls",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, uboat.net/allies/merchants/ship/2356.html, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
     "tags": {
       "access": "yes",
       "depth": "35m",
@@ -23,7 +23,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -37,7 +37,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, bostonsearovers.com/summer-intern/newfoundland-wrecks-the-plm-27",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/plm27.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
     "tags": {
       "access": "yes",
       "depth": "25m",
@@ -50,7 +50,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -64,7 +64,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, wrecksandreefs.com/saganaga.htm",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/saganaga.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
     "tags": {
       "access": "yes",
       "depth": "30m",
@@ -77,7 +77,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -91,7 +91,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, wrecksandreefs.com/l_strahc.htm",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/l_strahc.htm, uboat.net/allies/merchants/ship/2123.html, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
     "tags": {
       "access": "yes",
       "depth": "30m",
@@ -104,7 +104,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -118,14 +118,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "pm.geoview.info/troot_pool, wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org",
+    "validation_source": "openstreetmap.org, spm-tourisme.fr/club-nautique-saint-pierrais",
     "tags": {
       "historic": "wreck",
       "name": "Troot Pool",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -139,14 +139,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "hiddennewfoundland.ca/ss-ilex-shipwreck, alamy.com stock photo confirms wreck sits in shallow water near Fermeuse — partially above waterline, shore accessible",
+    "validation_source": "hiddennewfoundland.ca/ss-ilex-shipwreck, tripadvisor.com/Attraction_Review-g1913562-d26365214",
     "tags": {
       "historic": "wreck",
       "name": "S.S. Ilex",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -160,7 +160,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "thescubanews.com/2025/03/13/about-the-msc-baltic-iii, gcaptain.com — grounded Feb 2025 near Wild Cove, Bay of Islands; active 2-nautical-mile exclusion zone, NOT currently diveable",
+    "validation_source": "cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract, gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised, maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii",
     "tags": {
       "access": "yes",
       "fixme": "Add area once imagery gets updated. Should be here per images, released by Canadian Coast Guard and Copernicus sat imagery.",
@@ -173,8 +173,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of March 2026",
-      "last_qa_date": "2026-05-20"
+      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of June 2026",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -188,7 +188,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/SS_Kyle, atlasobscura.com/places/ss-kyle — 220ft steamship grounded 1967 in Harbour Grace harbor mud flats, partially submerged, shore accessible",
+    "validation_source": "en.wikipedia.org/wiki/SS_Kyle, sskyle.org/history, hrgrace.ca/tourism-heritage/attractions/ss-kyle",
     "tags": {
       "building": "ship",
       "historic": "wreck",
@@ -202,7 +202,7 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -216,14 +216,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org, maritimemuseum.novascotia.ca",
+    "validation_source": "openstreetmap.org, spm-tourisme.fr/club-nautique-saint-pierrais",
     "tags": {
       "historic": "wreck",
       "name": "Le Muscadin",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -237,7 +237,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "wikipedia.org/wiki/Transpacific_(ships), evendo.com Transpacific Shipwreck — 398ft German cargo ship grounded 1971 on Ile-aux-Marins, Saint Pierre and Miquelon; wreck broke into three sections, central section in shallow water",
+    "validation_source": "vos.noaa.gov/MWL/fall_03/transpacific.shtml, thehoworths.com/2015/08/wreck-of-the-transpacific, evendo.com/locations/saint-pierre-and-miquelon/ile-aux-marins/attraction/transpacific-shipwreck",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -249,7 +249,7 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-18"
     }
   }
 ]

@@ -23,7 +23,7 @@ Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state juncti
 
 - **Location**: Fisher's Island Sound / southwestern Rhode Island Sound area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 5–12 meters (variable)
@@ -61,7 +61,7 @@ Tautog portraits on kelp-draped rock are the signature subject. Natural light at
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Noank, Stonington, and Mystic CT area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-18
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*

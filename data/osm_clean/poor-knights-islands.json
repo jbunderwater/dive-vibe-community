@@ -16,7 +16,8 @@
       "scuba_diving:mindepth": "6",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -35,7 +36,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -51,7 +53,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikipedia.org, divenow.co.nz, michaelmcfadyenscuba.info, showcaves.com, newzealand.com",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -67,7 +70,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, divenow.co.nz, battleface.com, newzealand.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -82,7 +86,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, divenow.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -97,7 +102,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, divenow.co.nz, goframetheworld.com, newzealand.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -112,7 +118,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -127,7 +134,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -143,7 +151,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -159,7 +168,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -174,7 +184,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -186,12 +197,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, diving.co.nz, nzgeo.com",
     "tags": {
       "name": "Crystal Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -203,12 +215,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org",
     "tags": {
       "name": "HMNZS Tui",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -220,12 +233,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org",
     "tags": {
       "name": "HMNZS Waikato",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -237,12 +251,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, nzgeo.com, newzealand.com",
     "tags": {
       "name": "Oculina Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   },
   {
@@ -254,12 +269,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, seafriends.org.nz, rosscattell.net",
     "tags": {
       "name": "Trevors Rock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-18"
     }
   }
 ]

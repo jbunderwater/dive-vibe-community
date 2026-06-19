@@ -17,7 +17,11 @@ The scattered remains of a 406-foot Spanish-American War auxiliary cruiser that 
 
 ## Overview
 
-The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally built as a civilian vessel and converted for naval service during the Spanish-American War of 1898. After the war she served as a training ship for Naval Reserve forces. On December 5, 1908, while being towed to New Bedford for maintenance, the Yankee ran aground on a ledge in Buzzards Bay. After five tow attempts failed to free her, she broke up and sank in approximately 17 metres of water roughly 3 miles east of Round Hill Point in South Dartmouth, Massachusetts. The wreck is managed by Massachusetts BUAR as an Exempted Site, allowing recreational diving without a permit. Hull remains are spread across the bottom with low profile, though some sections rise up to 3 metres off the seabed. The anchor hawse pipe marks the bow position; the rudderpost identifies the stern. Large sections of iron plating lie flat, creating a dispersed but clearly identifiable debris field.
+The USS Yankee was a 406-foot iron auxiliary cruiser, displacing 6,225 long tons, built at Newport News Shipbuilding in 1892. Originally the Southern Pacific Railroad passenger liner *El Norte*, she was purchased by the Navy in 1898 for service in the Spanish-American War. After the war she served as a Naval Reserve training vessel.
+
+On September 23, 1908, while on training exercises, the Yankee grounded on Spindle Rock near the Hen and Chickens lightship in Buzzards Bay. Dense fog compounded by smoke from nearby forest fires had obscured visibility. The Arbuckle Wrecking Company refloated her on December 4, 1908 after patching with cement bags under an $85,000 salvage contract, but while under tow to New Bedford, her air compressor compartment was accidentally flooded and she sank in Buzzards Bay — sources place the sinking on December 4 or December 5 (an overnight event). She lies approximately 3 miles east of Round Hill Point, South Dartmouth, in about 17 metres (55 feet) of water.
+
+The wreck was subsequently dynamited as a navigation hazard (by September 1920) and salvage operations removed boilers and major equipment. The site name "Yankee Exempt Site" refers to its Massachusetts BUAR **Exempted Shipwreck designation** — meaning it is freely accessible to recreational divers **without a permit**. "Exempt" in this context means open access, not restricted access. Hull remains are described as flattened on the muddy bottom with low relief; the anchor hawse pipe marks the bow and the rudderpost identifies the stern.
 
 ## Site Information
 
@@ -33,7 +37,7 @@ The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally bu
 
 ## Marine Life
 
-The iron hull plating and scattered debris provide hard substrate in an otherwise silty bay environment. Tautog patrol the larger structural pieces. Striped bass cruise through in warmer months. Pollock school in mid-water above the debris field. American lobsters shelter beneath the overhanging hull sections. Encrusting bryozoans, hydroids, and anemones cover the older iron surfaces. Cunner hover around the metal edges.
+No site-specific marine life has been confirmed for the USS Yankee wreck in any source found. The wreck is heavily salvaged, dynamited, and described as "flattened on a muddy bottom" (ScubaBoard reports), conditions that typically support encrusting organisms and mobile species but are poorly documented here. Regional cold-water Buzzards Bay species (tautog, lobster, cunner) would be expected on any remaining hard substrate, but cannot be specifically attributed to this site without confirmed reports.
 
 ## Dive Profile
 
@@ -66,4 +70,4 @@ Low visibility limits photographic range but the large iron hull sections and pl
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — USS Yankee (1892)](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [Mass.gov BUAR — USS Yankee](https://www.mass.gov/info-details/uss-yankee), [NavSource — USS Yankee](https://www.navsource.org/archives/04/yankee/yankee.htm). Last updated 2026-06-18.*

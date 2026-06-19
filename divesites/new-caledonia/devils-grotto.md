@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # Devils Grotto
 
-A landlocked saline limestone cave on the Isle of Pines with crystal-clear water, stalactites, stalagmites, chandeliers hanging from the ceiling, and a dramatic shaft of natural light penetrating through a hole above. Maximum depth just 6 meters.
+A landlocked freshwater limestone cave on the Isle of Pines with crystal-clear water, stalactites, stalagmites, chandelier formations hanging from the ceiling, and a dramatic shaft of natural light penetrating through a hole above. Maximum depth just 6 meters.
 
 ## Overview
 
-Devils Grotto is a unique dive experience on the Isle of Pines -- not an ocean dive but a landlocked cave filled with saline water. Despite appearing to be a freshwater sinkhole, the water is actually saline, connected to the ocean through underground passages in the limestone karst.
+Devils Grotto (known locally as Grotte de la Troisième) is a unique dive experience on the Isle of Pines — not an ocean dive, but a landlocked cave containing a freshwater pool. The cave is a solution cave formed in limestone, with no demonstrated ocean connection. The New Caledonia Tourism authority describes the cave as containing fresh water.
 
-The cave features spectacular geological formations: stalactites hang from the ceiling, stalagmites rise from the floor, and delicate chandelier-like formations dangle above the water's surface. The highlight is a natural shaft of light that penetrates through an opening in the cave ceiling, illuminating the clear water below and creating an almost mystical atmosphere. The water clarity inside the cave is exceptional -- far clearer than any open-water dive site -- as there is no wave action, current, or sediment to reduce visibility.
+The cave features spectacular geological formations: stalactites hang from the ceiling, stalagmites rise from the floor, and delicate chandelier-like calcite formations dangle above the water's surface. The highlight is a natural shaft of light that penetrates through an opening in the cave ceiling, illuminating the clear water below and creating an almost mystical atmosphere. The water clarity inside the cave is exceptional — far clearer than any open-water dive site — as there is no wave action, current, or sediment to reduce visibility. Visibility can be degraded for up to 48 hours if silt is disturbed, so careful buoyancy is essential.
 
-At just 6 meters maximum depth, this is a shallow dive or snorkel that is accessible to divers of all levels. However, the enclosed cave environment gives it an Intermediate rating.
+At just 6 meters maximum depth, this is a shallow dive accessible to divers of all levels. However, the enclosed cave environment gives it an Intermediate rating. Dives are typically guided by Kunie Scuba Centre, the Isle of Pines dive operator.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ At just 6 meters maximum depth, this is a shallow dive or snorkel that is access
 
 ## Marine Life
 
-As a landlocked cave, marine life is minimal compared to reef sites. The interest here is entirely geological -- the stalactites, stalagmites, and chandelier formations are the attraction. Some small fish and crustaceans may be present, having entered through the underground connections.
+As a landlocked freshwater cave, marine life is minimal compared to reef sites. The interest here is entirely geological — the stalactites, stalagmites, and chandelier formations are the attraction. No site-specific marine life reports were found for this cave. Any freshwater organisms present are incidental to the cave's geological interest.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Shore entry into the cave pool. The approach to the cave requires a walk through
 Despite the shallow depth, this is a cave environment. Maintain awareness of the ceiling and walls. Do not touch the formations -- stalactites and stalagmites are extremely fragile and form over thousands of years. The still water means any silt disturbance will reduce visibility dramatically and take a long time to clear. Buoyancy control is critical in this confined space.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [New Caledonia Tourism](https://www.newcaledonia.travel/destination/the-islands/must-see-and-do-on-isle-of-pines/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-grotto-new-caledonias-isle-pines-amazing-experience-not-miss), [New Caledonia NZ](https://www.newcaledonia.co.nz/things-to-do-in-isle-of-pines/). Note: Michael McFadyen's site describes the water as "nominally fresh (actually saline)," which conflicts with the New Caledonia Tourism authority and multiple other sources that describe the cave pool as freshwater. The ocean-connection claim is not confirmed by independent sources and has been removed. Last updated 2026-06-18.*

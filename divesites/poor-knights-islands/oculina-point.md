@@ -25,7 +25,7 @@ The Poor Knights Islands are perched on the edge of the continental shelf, 23 ki
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). When dri
 Currents at the point are variable -- follow the dive guide's assessment and be prepared for changing conditions. The wall drops into deeper water, so monitor depth carefully to avoid exceeding planned limits. Water temperature in the Poor Knights can be cool, particularly outside summer months; adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-06-18.*

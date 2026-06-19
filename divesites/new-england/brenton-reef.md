@@ -17,7 +17,7 @@ The historic LV-39 lightship wreck off Newport, Rhode Island — a deep cold-wat
 
 ## Overview
 
-The LV-39 was a 119-foot (36-metre) wooden lightship built in 1875 with a 60-year career that included assignments at Vineyard Sound, Five Fathom Bank, and finally the Brenton Reef station off Newport, Rhode Island (1897–1935). Her history includes a notable collision with the battleship USS Iowa in 1905. After retirement in 1935, she served variously as a restaurant and as a Coast Guard Auxiliary clubhouse vessel before sinking under tow in the 1970s while en route to Beverly, Massachusetts. The wreck was first dived in 2004 and rests upright with a port list at 55 metres. This is a deep technical dive that requires trimix or advanced technical certification and extensive cold-water wreck diving experience. The site is located off Brenton Point, Newport, Rhode Island, at the entrance to Narragansett Bay.
+The LV-39 was a 119-foot 6-inch (36.4-metre) wooden lightship of 387 gross tons, built approximately 1875. Her confirmed station assignments were: Vineyard Sound MA (1875–1876), Five Fathom Bank NJ (1876–1877), Relief MA (1877–1897), Relief NY (1897), and Brenton Reef RI (1897–1935) — a total career of approximately 60 years. In August 1905 she was struck by the battleship USS Iowa, which carried away part of her stem and damaged head stays; no lives were lost. After retirement in 1935 her post-service history is not fully documented in surviving records, and sources conflict on whether she served as a restaurant, a clubhouse vessel, or some other purpose. She sank in 1975 while under tow to a shipyard in Beverly, Massachusetts. The wreck was first dived on July 5, 2004 by Bob Foster, David Caldwell, and Heather Knowles. She rests upright with a port list at 55 metres (180 feet), providing approximately 6–7 metres (20–25 feet) of relief. This is a deep technical dive requiring trimix or advanced technical certification and extensive cold-water wreck diving experience.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ The LV-39 was a 119-foot (36-metre) wooden lightship built in 1875 with a 60-yea
 
 ## Marine Life
 
-At 55 metres in cold Rhode Island waters, biological diversity is limited but present. Encrusting sponges, hydroids, and anemones colonize the wreck's exterior. Deep-water rock crabs inhabit the hull. Cod and pollock are occasionally seen in the water column above the wreck. The wreck structure itself provides the main visual interest rather than biological diversity.
+No site-specific marine life reports have been found for this wreck. The Northern Atlantic Dive Expeditions site listing for the LV-39 does not include marine life observations. At 55 metres in cold Rhode Island waters, biological diversity is present but no species can be attributed to this specific site without confirmed reports. The wreck structure itself — hull, deck, and penetrable lower decks — is the primary draw rather than biological diversity.
 
 ## Dive Profile
 
@@ -67,4 +67,4 @@ Technical wreck photography at 55 metres requires advanced skills and technical 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Northern Atlantic Dive Expeditions — Brenton Reef](https://northernatlanticdive.com/shipwrecks/brenton-reef/), [Rhode Island Lighthouse History — LV-39](http://rhodeislandlighthousehistory.info/brenton_reef_lightship_lv-39.html), [New England Deep Wrecks — LV-39](https://www.nedeepwrecks.com/lv39). Last updated 2026-06-18.*
