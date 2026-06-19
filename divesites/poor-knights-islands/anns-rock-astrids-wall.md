@@ -2,8 +2,8 @@
 name: Ann's Rock / Astrid's Wall
 lat: -35.4473675
 lng: 174.7337301
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ann's Rock / Astrid's Wall
 
-Ann's Rock is a popular and accessible Poor Knights wall dive where small boats can anchor directly on the rock. Divers can swim with or against the currents depending on conditions, offering flexibility in dive planning. The site offers good wall structure with marine growth and fish life, making it a reliable intermediate-level wall dive at Poor Knights.
+Ann's Rock is a single rock pinnacle beside a steep wall in the northern quarter of the Poor Knights Islands. Small boats can anchor directly on the rock, from where divers can swim with or against the current depending on conditions. The sheer walls drop beyond 40 metres and the site is accessible only in calm seas, making it an advanced dive.
 
 ## Overview
 
@@ -21,15 +21,16 @@ Ann's Rock is a wall dive featuring a dramatic vertical structure at a moderate 
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Northern quarter, Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters (sheer walls; depths greater beyond recreational limits)
 - **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Variable; often present—key feature of the site
-- **Best Time**: Year-round, especially in good visibility periods (May-Sept)
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
+- **Current**: Variable; often present — key feature of the site
+- **Access Conditions**: Calm seas only; site can be inaccessible in swells
+- **Best Time**: May to September for best visibility
 
 ## Marine Life
 
@@ -78,4 +79,4 @@ Wall dives offer diverse photographic opportunities:
 - **Light and shadow**: The interplay of light and shadow along the wall creates compelling depth
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Seafriends - Northern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-06-19.*

@@ -17,7 +17,7 @@ Blizzard Ridge is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Blizzard Ridge is a coral ridge at Lighthouse Bay that earned its name from the blizzard-like swirls of schooling reef fish that engulf divers on calm days. The ridge features numerous crevices, caves, and overhangs at 12-15 metres depth, sheltering reef sharks, giant moray eels, large groupers, olive-headed sea snakes, and whitetip reef sharks. Located within the Ningaloo sanctuary zone where fishing and anchoring are prohibited, the site also hosts leopard sharks, porcupine rays, and seasonal visits from manta rays and whale sharks.
+Blizzard Ridge is a coral ridge at Lighthouse Bay, approximately 1 km from Vlamingh Head Lighthouse on the northern tip of North West Cape. The site gets its name from two conditions: on rough days sand stirs up creating blizzard-like visibility; on calm days the sheer density of schooling reef fish creates the same effect. The ridge runs along a sandy bottom at 12-15 metres depth with crevices, caves, and overhangs. Confirmed marine life includes olive-headed sea snakes, rock cod, white-tip reef sharks, wobbegong sharks, porcupine rays, giant moray eels, large groupers, leopard sharks, turtles, and nudibranchs. Manta rays visit occasionally. Grey nurse sharks are not confirmed at this site — they are associated with Navy Pier (in winter) rather than Lighthouse Bay. The site is in a sanctuary zone where fishing and anchoring are prohibited.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Blizzard Ridge is a coral ridge at Lighthouse Bay that earned its name from the 
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [PADI — Blizzard Ridge Lighthouse Bay](https://www.padi.com/dive-site/australia/blizzard-ridge-lighthouse-bay-ningaloo-reef/), [Ningaloo Whale Sharks — Lighthouse Bay](https://www.ningaloowhalesharks.com/lighthouse-bay-ningaloo-reef/), [Monique Lives Life — Diving Blizzard Ridge](https://moniqueliveslife.com/2017/05/18/diving-blizzard-ridge-at-lighthouse-bay-exmouth/), [ScubaDiving.com — Five Incredible Dives Ningaloo](https://www.scubadiving.com/five-incredible-dives-on-ningaloo-reef-australias-overlooked-treasure). Last updated 2026-06-19.*

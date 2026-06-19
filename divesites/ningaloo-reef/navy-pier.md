@@ -17,7 +17,7 @@ Navy Pier is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Navy Pier is rated among the top 10 shore dives in the world, located at a fully operational military facility just 14 kilometres from Exmouth. Closed to public fishing for over 50 years, the 300-metre pier has accumulated an extraordinary density of marine life in shallow water to 12 metres, including grey nurse sharks, wobbegongs, a resident 2-metre Queensland grouper, schooling barracuda, lionfish, and sea turtles. Visibility is typically low at 3-10 metres, but the sheer abundance of over 200 fish species more than compensates.
+Navy Pier is rated among the top 10 shore dives in the world, located at a fully operational military facility approximately 14 kilometres north of Exmouth on the gulf side of North West Cape. The pier extends 110 metres from shore and is 300 metres long. Closed to public fishing for over 50 years, it has accumulated an extraordinary density of marine life in water to around 15 metres, including wobbegong sharks, a resident Queensland grouper known locally as the "BFG" (Big Friendly Grouper), schooling barracuda, lionfish, sea snakes, moray eels, scorpionfish, frogfish, nudibranchs, and over 200 species of fish. Grey nurse sharks visit in winter (cooler months) only — they are not present year-round. Visibility is typically 3-10 metres depending on tides. Access is restricted to one licensed dive operator and requires advance booking; divers under 18 need prior Department of Defence clearance.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Navy Pier is rated among the top 10 shore dives in the world, located at a fully
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Dive Ningaloo — Navy Pier](https://www.diveningaloo.com.au/scuba-diving-tours/the-exmouth-navy-pier/), [Ningaloo Whale Sharks — Navy Pier](https://www.ningaloowhalesharks.com/navy-pier/), [Aussie Marine Adventures — Navy Pier](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-2-exmouth-navy-pier/). Last updated 2026-06-19.*

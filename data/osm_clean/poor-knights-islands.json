@@ -16,7 +16,8 @@
       "scuba_diving:mindepth": "6",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divenow.co.nz, padi.com, ianskipworth.com",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -25,17 +26,19 @@
     "lon": 174.7337301,
     "osm_id": 8070483249,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Ann's Rock / Astrid's Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, wikivoyage.org",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 25m to 40m+ per seafriends.org.nz northern quarter guide. Difficulty upgraded from Intermediate to Advanced — steep sheer walls, accessible only in calm seas."
     }
   },
   {
@@ -51,14 +54,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, scubaboard.com, divenow.co.nz",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Northern Arch",
     "lat": -35.45,
     "lon": 174.73,
-    "depth": 50,
+    "depth": 40,
     "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
@@ -67,14 +71,16 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, divehq.co.nz, ianskipworth.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 50m to 40m (arch base at 36-40m per seafriends.org.nz and divehq.co.nz). Site has recorded fatalities — classified Advanced."
     }
   },
   {
     "name": "Middle Arch",
     "lat": -35.46,
     "lon": 174.732,
-    "depth": 15,
+    "depth": 16,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -82,37 +88,43 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, divehq.co.nz, michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 15m to 16m per divehq.co.nz (arch base at 16m). Bay behind arch drops to 80m but recreational limit is arch area."
     }
   },
   {
     "name": "Blue Maomao Arch",
     "lat": -35.465,
     "lon": 174.728,
-    "depth": 18,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divenow.co.nz, padi.com, seafriends.org.nz",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 18m to 15m (arch is 6-15m per divenow.co.nz and padi.com). Difficulty corrected from Intermediate to Beginner — shallow arch open to surface, accessible to snorkelers and Open Water divers."
     }
   },
   {
     "name": "Cream Garden",
     "lat": -35.475,
     "lon": 174.74,
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, divehq.co.nz, ianskipworth.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Site type corrected from reef to wall (vertical wall with cold upwelling per seafriends.org.nz). Depth corrected from 22m to 30m recreational limit — site extends to 60-73m for technical divers but recreational diving is at shallower sections."
     }
   },
   {
@@ -127,14 +139,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikivoyage.org, diving.co.nz",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Tie Dye Arch",
     "lat": -35.458,
     "lon": 174.72,
-    "depth": 18,
+    "depth": 24,
     "minDepth": 10,
     "site_type": "cave",
     "entry_type": "boat",
@@ -143,7 +156,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "michaelmcfadyenscuba.info, wikivoyage.org",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 18m to 24m per michaelmcfadyenscuba.info (Y-shaped cave 18-24m)."
     }
   },
   {
@@ -159,14 +174,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, wikivoyage.org, scubaboard.com",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Wild Beast Point",
     "lat": -35.445,
     "lon": 174.715,
-    "depth": 24,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -174,7 +190,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "seafriends.org.nz, nzgeo.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 24m to 40m per seafriends.org.nz (40-70m, with diving down to 30m recreational limit along spectacular wall). Site exposed to strong currents and bronze whaler sharks."
     }
   },
   {
@@ -186,46 +204,51 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, diving.co.nz, nzgeo.com",
     "tags": {
       "name": "Crystal Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "HMNZS Tui",
     "lat": -35.476,
     "lon": 174.735,
-    "depth": 33,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "wikipedia.org, nzdiving.co.nz, michaelmcfadyenscuba.info",
     "tags": {
       "name": "HMNZS Tui",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "GEOGRAPHIC WARNING: This wreck is physically located 2km north of Tutukaka Heads (approx -34.98, 174.54), NOT at the Poor Knights Islands. Coordinates in this record are placeholders within destination bounds. The wreck is commonly marketed alongside Poor Knights trips by Dive! Tutukaka operators but is a separate dive site. Depth corrected from 33m to 32m per Wikipedia and nzdiving.co.nz."
     }
   },
   {
     "name": "HMNZS Waikato",
     "lat": -35.475,
     "lon": 174.74,
-    "depth": 28,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "wikipedia.org, nzdiving.co.nz, divenow.co.nz, padi.com",
     "tags": {
       "name": "HMNZS Waikato",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "GEOGRAPHIC WARNING: This wreck is physically located off Ngunguru Bay near Tutukaka (actual coordinates -35.6451, 174.5506 per PADI), NOT at the Poor Knights Islands. Coordinates in this record are placeholders within destination bounds. The wreck is commonly bundled with Poor Knights trips by local operators but is a separate dive site. Depth range is 12m (shallowest) to 30-32m (deepest), corrected from listed 28m max."
     }
   },
   {
@@ -233,33 +256,37 @@
     "lat": -35.451,
     "lon": 174.733,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info, nzgeo.com",
     "tags": {
       "name": "Oculina Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Site type corrected from reef to wall — named for Oculina virgosa ivory coral, features a wall/drift dive character per ianskipworth.com and nzgeo.com. Depth 25m confirmed for recreational diving; deep walls extend to 75m for technical divers."
     }
   },
   {
     "name": "Trevors Rock",
     "lat": -35.46,
     "lon": 174.73,
-    "depth": 30,
+    "depth": 19,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "padi.com, wikivoyage.org",
     "tags": {
       "name": "Trevors Rock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 30m to 19m per PADI dive site listing (3-19m across multiple pinnacles). Difficulty corrected from Intermediate to Beginner — shallow multi-level site with arch, kelp, and sand at 19m max. Named after champion diver Trev Zenovitch."
     }
   }
 ]

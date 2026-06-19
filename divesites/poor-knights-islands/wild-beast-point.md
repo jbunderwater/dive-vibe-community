@@ -3,7 +3,7 @@ name: Wild Beast Point
 lat: -35.445
 lng: 174.715
 difficulty: Advanced
-maxDepth: 24
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Wild Beast Point
 
-Wild Beast Point is an advanced wall dive offering a dramatic vertical structure and challenging conditions. The site's name suggests dynamic and unpredictable conditions—it's a serious Poor Knights dive suitable for experienced divers comfortable with current, depth, and demanding conditions. The wall offers excellent marine life viewing and photography for divers with the skills to manage the dive.
+Wild Beast Point is an advanced wall dive at the northernmost tip of the Poor Knights Islands. The name reportedly comes from bronze whaler sharks that would approach divers here. The kelp-covered platform on the western side drops into a steep wall with depths reaching 40 metres and beyond. Strong currents and an exposed location make this a serious dive requiring advanced skills and experience.
 
 ## Overview
 
@@ -25,7 +25,7 @@ Wild Beast Point is an aptly-named advanced wall dive site. The dramatic vertica
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 40 meters (recreational limit; wall continues deeper)
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
 - **Current**: Often strong; a defining characteristic of the site
@@ -33,14 +33,7 @@ Wild Beast Point is an aptly-named advanced wall dive site. The dramatic vertica
 
 ## Marine Life
 
-The wall structure and current support excellent marine life:
-- Large kingfish, snapper, and giant trevally hunting in the blue
-- Schooling blue maomao and pink maomao
-- Short-tailed stingrays
-- Hard and soft corals covering the wall
-- Sponges and anemones
-- Moray eels and nudibranchs in crevices
-- Larger pelagic visitors
+The strong currents at Wild Beast Point attract pelagic species. Bronze whaler sharks have historically been a feature of this site, particularly in summer when they investigate divers at the promontory. Shoals of fish concentrate in the nourishing current off the point. The wall itself supports sponges, anemones, and moray eels in crevices. The adjacent Maomao Bay provides shelter with large boulders rising to 40 metres and schooling fish.
 
 ## Dive Profile
 
@@ -86,4 +79,4 @@ Advanced photographers will find excellent opportunities despite challenging con
 - Consider shooting during the first part of the dive when air and attention are freshest
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Seafriends - Northern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [New Zealand Geographic - Poor Knights](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-06-19.*

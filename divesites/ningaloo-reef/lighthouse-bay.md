@@ -17,7 +17,7 @@ Lighthouse Bay is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Lighthouse Bay is the main dive hub on the northern tip of the Ningaloo peninsula, sheltering multiple named sites — including The Labyrinth, Blizzard Ridge, and Turquoise Bay — all within easy reach by boat or short snorkel from the beach. The bay's sandy channels and coral gardens sit inside a sanctuary zone where fishing is banned, and the resulting fish life is notably abundant, with trevally, parrotfish, and reef sharks patrolling openly. Between March and July, whale sharks are aggregated in these northern waters and most tour departures for whale shark encounters leave from the Lighthouse Bay area.
+Lighthouse Bay is a dive hub on the northern tip of the Ningaloo peninsula, just north of Vlamingh Head Lighthouse, sheltering several named dive sites including The Labyrinth, Blizzard Ridge, and Gullivers. The bay sits inside a sanctuary zone where fishing, spearing, and anchoring are prohibited; boats moor to installed buoys. Depths across the bay reach around 14 metres. The fish life is notably abundant, with trevally, parrotfish, reef sharks, wobbegong sharks, white-tip reef sharks, sea snakes, leopard sharks, and sea turtles all commonly encountered. Turquoise Bay is a separate site approximately 14 km to the south and is not within easy reach of Lighthouse Bay. Whale shark tours (season March–July) depart from Tantabiddi boat ramp, not from Lighthouse Bay.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Lighthouse Bay is the main dive hub on the northern tip of the Ningaloo peninsul
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Lighthouse Bay](https://www.ningaloowhalesharks.com/lighthouse-bay-ningaloo-reef/), [Aussie Marine Adventures — Lighthouse Bay](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-1-lighthouse-bay/). Last updated 2026-06-19.*

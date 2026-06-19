@@ -17,7 +17,7 @@ Bundegi Reef is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Bundegi Reef sits in the sheltered waters of Exmouth Gulf at the northern end of Ningaloo Marine Park, forming one of the most accessible snorkel and dive reefs along this stretch of coast. The fringing reef is home to sea turtles, bumphead parrotfish, and schools of reef fish in the shallow coral gardens, while leopard sharks and cowtail rays are frequently encountered resting on the sandy patches between coral heads. Being inside the gulf rather than on the exposed outer reef, Bundegi offers calm, reliable conditions year-round that make it well suited to beginners and families.
+Bundegi Reef sits in the sheltered waters of Exmouth Gulf at the northern end of Ningaloo Marine Park. The reef features large plate coral bommies with overhangs, healthy staghorn coral, and is noted for one of the highest coral recruitment rates in the region. Reaching the reef requires a 250-500 metre swim from shore through a boat channel approximately 8 metres deep, which makes this site more demanding than typical beginner reefs. Confirmed marine life includes sea turtles (year-round), reef sharks, angelfish, damselfish, lionfish, coral trout, blue stripe snapper, estuary cod, anemone fish, stingrays, and occasional dugongs grazing on seagrass between shore and reef. "Bumphead parrotfish" and "cowtail rays" as distinct species are not confirmed at this site by current sources — parrotfish and rays generally are present. Best snorkelled at high tide.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Bundegi Reef sits in the sheltered waters of Exmouth Gulf at the northern end of
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Snorkel Spots — Bundegi Beach](https://snorkelspots.com/bundegi-beach-snorkel/), [Perth Is OK — Snorkelling Exmouth](https://perthisok.com/explore/a-comprehensive-guide-to-snorkelling-off-the-beach-around-exmouth/), [Marine Species in Exmouth — Three Islands Whale Shark Dive](https://www.whalesharkdive.com/blog/marine-species-in-exmouth/). Last updated 2026-06-19.*

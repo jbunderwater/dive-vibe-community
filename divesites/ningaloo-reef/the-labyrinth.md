@@ -17,7 +17,7 @@ The Labyrinth is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of the Ningaloo peninsula, featuring a maze of limestone craters, swim-throughs, and channels that create one of the most interesting underwater topographies on the reef. Green turtles rest inside the caves and use a cleaning station here, while pufferfish, porcupinefish, crayfish, and octopus inhabit the passages. In season, whale sharks, humpback whales, leopard sharks, and dugongs pass through this sanctuary zone where fishing is prohibited.
+The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of Ningaloo peninsula, just north of Vlamingh Head Lighthouse. It features a maze of limestone formations — craters, swim-throughs, and channels — at depths of 12-18 metres. Green sea turtles (and occasionally loggerheads or hawksbills) use a cleaning station here. Confirmed marine life includes leopard sharks, dugongs, pufferfish, porcupinefish, crayfish, and octopus. Whale sharks and humpback whales pass through the sanctuary zone seasonally (whale sharks March–July; humpbacks approximately June–October). The site is within a no-take sanctuary zone where fishing and anchoring are prohibited; dive operators moor to buoys.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of the 
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Lighthouse Bay](https://www.ningaloowhalesharks.com/exmouth-diving/lighthouse-bay-ningaloo-reef/), [Voyatlas — Dive Ningaloo Top 5 Sites](https://voyatlas.com/explore/posts/8-dive-ningaloo.html). Last updated 2026-06-19.*

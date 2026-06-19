@@ -26,10 +26,10 @@ The lighthouse tower has been privately owned since 2014 (purchased at auction).
 ## Site Information
 
 - **Location**: Off Cohasset/Scituate, South Shore Massachusetts — 15 miles southeast of Boston
-- **Entry Type**: Boat dive (private boat required; no commercial charter access documented)
-- **Site Type**: Rocky ledge with historic wreck debris
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: ~20 metres (5 to 65 ft range across the full ledge system)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Reported excellent — one first-hand account states starfish visible from the surface at 8m depth
 - **Current**: Mild and consistent (per 2002 ScubaBoard account); exposed outer position means conditions vary with weather
 - **Water Temperature**: 7–20°C depending on season

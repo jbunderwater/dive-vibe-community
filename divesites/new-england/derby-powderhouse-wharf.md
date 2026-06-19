@@ -13,57 +13,47 @@ addedBy: osm_import
 
 # Derby Powderhouse Wharf
 
-The submerged remains of a historic Salem-area wharf associated with the Elias Hasket Derby maritime trading empire, now colonized as an artificial reef.
+A submerged stone pier ruin in Salem Harbor, Massachusetts, associated with the colonial maritime heritage of Salem — documented in OSM as a navigational obstruction but not established as a recreational dive site.
 
 ## Overview
 
-Derby Powderhouse Wharf takes its name from the Derby family, specifically Elias Hasket Derby (1739–1799), who was colonial New England's most successful merchant and reputedly America's first millionaire. The Derby family's maritime trading enterprise out of Salem was central to the development of New England commerce in the late 18th century — their ships traded to the East Indies, China, and across the Atlantic. Powderhouse wharves were associated with the storage and loading of gunpowder for ships. The submerged wharf remains in the Salem Sound/Marblehead area now sit at approximately 14 metres depth, the stone and timber construction long since transformed into an artificial reef. This combination of significant maritime historical heritage and productive reef ecology makes the site one of the more characterful dives in the Salem area.
+Derby Powderhouse Wharf is listed in OpenStreetMap as a submerged stone feature (reef=stone) in Salem Harbor, Massachusetts, with tags indicating historic maritime heritage, pier ruins (ruins=pier), and a start date of 1765. The coordinates (42.526°N, 70.872°W) place it in Salem Harbor between Derby Wharf and Winter Island.
+
+Salem once had more than 50 active wharves along its waterfront; only a handful survive above water today (Derby Wharf, Central Wharf, Hatch's Wharf, Tucker Wharf). The submerged stone and timber remnants of the others are present throughout the harbor. The OSM entry most likely represents one of these lost wharf foundations — a stone-crib-construction pier ruin beneath Salem Harbor. The "Powderhouse" name may reference a gunpowder storage structure associated with colonial privateering operations; Elias Hasket Derby (1739–1799) did outfit privateers from Salem wharves during the Revolutionary War.
+
+**Important note regarding heritage designation:** The OSM attribution of NRHP reference 94000335 to this entry is an error — NRHP #94000335 is the Winter Island Historic District and Archeological District in Salem (listed April 14, 1994), not a separate "Derby Powderhouse Wharf." The MACRIS reference SAL.931 is a Massachusetts Historical Commission catalog number for a structure within Salem's broader maritime heritage inventory; the specific structure it refers to in this context is not independently confirmed.
+
+This site is **not a recognized recreational dive site.** No dive operator, charter service, dive directory, or diver forum thread lists it as a diving destination. The name "Derby Powderhouse Wharf" does not appear in any recreational diving record found in research conducted June 2026.
 
 ## Site Information
 
-- **Location**: Salem Sound / Marblehead area, Massachusetts
+- **Location**: Salem Harbor, Massachusetts
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 4–10 meters (Salem Sound; variable)
-- **Current**: Moderate tidal current in Salem Sound
+- **Typical Visibility**: Very low — Salem Harbor is a working harbor with typically poor visibility
+- **Current**: Moderate tidal current in Salem Harbor
 - **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
 
-## Marine Life
+## Research Findings
 
-Salem Sound cold-water species. The wharf remains provide dense artificial habitat. Tautog hold territory on the stone and timber structure. American lobsters inhabit the crevices between submerged stone blocks and timber piles. Cunner hover in loose groups around the encrusted surfaces. Pollock school above the site. Sea urchins colonize harder surfaces. Winter flounder rest on adjacent muddy-sandy bottom. Encrusting sponges, anemones, and bryozoans cover the wharf structure throughout.
+Extensive research (June 2026) found no recreational dive documentation for this site:
 
-## Dive Profile
+- **iDive New England** lists only Halfway Rock (boat dive) as a Salem-associated dive site; no Salem Harbor interior structures appear
+- **K1 Charters** (Salem-based scuba operator) lists sites from Bakers Island to Saturday Night Ledge; no harbor structures
+- **North Shore Frogmen** (founded Salem 1957, oldest dive club in the US) does not list any harbor wharf ruin as a named dive site
+- **ScubaBoard** Salem area threads discuss Salem Willows, Winter Island shoreline, and offshore boat sites; no wharf ruin dives mentioned
+- Salem Harbormaster confirms diving is permitted in Salem Harbor except in channels, but no specific guidance on wharf ruins
 
-Boat access from Marblehead Harbor, Beverly, or Salem area operators. Descend to wharf remains at 8–14 metres. The submerged wharf likely presents as linear or angular structural remains — stone blocks, timber pile stubs, and scattered building material — distinct from natural ledge. Navigate the structural perimeter. The historical context rewards a slow, investigative approach. Plan around Salem Sound tidal state. Complete a 3-minute safety stop at 5 metres.
+The previous description of this site as a productive reef with tautog, lobster, and pollock was not sourced from any site-specific research and has been removed per anti-hallucination policy.
 
-## Entry and Exit
+## If You Dive Here
 
-Boat charter required from Marblehead or Beverly Harbor. Salem Sound boat traffic includes commercial vessels approaching Salem Harbor — deploy SMB clearly before ascending. Anchor in sand adjacent to structure. Return to boat on SMB.
-
-## Tips and Recommendations
-
-- Research the Derby family and Salem's maritime golden age before diving — the historical context transforms the experience
-- The wharf remains present as constructed human geometry rather than natural reef — notice the difference in texture and form
-- Combine with Abbot Rock and Middle Ground for a Salem Sound multi-site day
-- 7mm wetsuit or drysuit required
-- Marblehead area divers know this site well — local operators can provide current condition information
-
-## Safety Considerations
-
-Salem Sound moderate tidal current. Boat traffic from Salem Harbor approach. Cold water throughout the year. Irregular wharf structure requires attention to buoyancy. Deploy SMB before surfacing.
-
-## Photography
-
-The contrast between angular constructed stone and the organic overgrowth of 200+ years of marine colonization creates compelling macro imagery. Wide shots capturing the linear wharf structure against the sandy bottom convey the historical scale. Lobster portraits in wharf stone crevices are accessible subjects.
-
-## Additional Resources
-
-- **Historical Reference**: [Derby Wharf — History of Massachusetts Blog](https://historyofmassachusetts.org/derby-wharf-salem/); [Salem Maritime National Historic Site — NPS](https://www.nps.gov/sama/)
-- **Charter Access**: Marblehead, Beverly, and Salem area dive operators; [K1 Charters, Salem MA](https://www.k1charters.com/)
-- **Last Updated**: 2026-06-19
+Salem Harbor diving is permitted (outside channels) with a required dive flag. The submerged stone structure would be accessible by boat from Marblehead or Beverly area. However:
+- Harbor visibility is typically very low (Salem is a working commercial harbor)
+- Boat traffic from Salem Harbor commercial approaches is significant
+- The structure's exact extent and condition are not documented in any available source
 
 ---
-*Derby Wharf history confirmed by [History of Massachusetts Blog - Derby Wharf](https://historyofmassachusetts.org/derby-wharf-salem/) and [Salem Maritime National Historic Site - NPS](https://www.nps.gov/sama/). No site-specific recreational dive reports found for this submerged structure. The NRHP-listed wharf remains are at the interface of Salem Sound and the Salem waterfront. Last updated 2026-06-19.*
+*Description based on OSM data, NPS historical records for Salem Maritime National Historic Site, and regional diving characteristics. The NRHP attribution in OSM (ref:nrhp 94000335 = Winter Island Historic District) appears to be an error. No site-specific dive reports found. Sources: [NPS: Salem Maritime NHS — Historic Wharves](https://www.nps.gov/sama/learn/historyculture/wharves.htm), [NPS: Derby Wharf](https://www.nps.gov/places/derby-wharf.htm), [Wikipedia: Winter Island (Salem MA, NRHP 94000335)](https://en.wikipedia.org/wiki/Winter_Island), [Salem Harbormaster](https://salemma.gov/harbormaster). Last updated 2026-06-19.*

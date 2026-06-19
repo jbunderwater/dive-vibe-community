@@ -17,7 +17,7 @@ Clerke Reef is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Clerke Reef is part of the remote Rowley Shoals chain, rising from 390 metres depth approximately 260 kilometres off Broome in Western Australia. The atoll features spectacular wall diving along outer reef sections with visibility regularly reaching 50 metres, where divers encounter grey reef sharks, giant potato cod, Maori wrasse, and over 230 coral species. The sheltered lagoon harbours calm, shallow dive sites like The Aquarium and Blue Lagoon, while advanced sites such as Jimmy Goes to China offer dramatic 40-metre walls patrolled by sharks and pelagics.
+**Note: Clerke Reef is part of the Rowley Shoals Marine Park, not Ningaloo Marine Park.** It is located at approximately 17.3°S, 119.35°E — roughly 300 km west of Broome, more than 400 km from Ningaloo Reef. It is accessed only by liveaboard from Broome during the September–December season. This site has been incorrectly placed within the Ningaloo Reef destination; its coordinates in the database (-22.65, 113.73) are fictional and do not correspond to Clerke Reef's actual location. Clerke Reef is an outstanding atoll dive with wall dives to 40 metres, strong tidal drift channels, visibility of 30-60 metres, and confirmed marine life including grey reef sharks, silvertip sharks, potato cod, dogtooth tuna, giant trevally, and manta rays. However, these facts belong to a Rowley Shoals entry, not a Ningaloo entry. This record requires reassignment or removal from the Ningaloo Reef destination.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Clerke Reef is part of the remote Rowley Shoals chain, rising from 390 metres de
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Scuba Down Under — Clerke Reef](https://scubadownunder.com/dive-sites/clerke-reef), [Rowley Shoals Marine Park — DBCA](https://www.dbca.wa.gov.au/management/plans/rowley-shoals-marine-park), [LiveAboard.com — Clerke Reef](https://www.liveaboard.com/diving/australia/clerke-reef). Re-audit note: this site does not belong in the Ningaloo Reef destination. Last updated 2026-06-19.*

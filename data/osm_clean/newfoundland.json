@@ -10,20 +10,21 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, indepthmag.com/for-whom-the-bell-tolls",
+    "validation_source": "uboat.net,communitystories.ca,heritage.nf.ca,wrecksandreefs.com,scubadiverlife.com",
     "tags": {
       "access": "yes",
-      "depth": "35m",
+      "depth": "48m",
       "historic": "wreck",
       "leisure": "divespot",
       "name": "SS Rose Castle",
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "1942",
+      "wreck:date_sunk": "1942-11-02",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Casualty count conflict: named individual list (communitystories.ca) gives 24; uboat.net gives 23; Wikipedia and secondary sources give 28. Named count (24) most reliable. Tonnage 7803 GRT confirmed via uboat.net. Builder Short Bros Ltd, Pallion, Sunderland confirmed. Attack time conflict: 3:34 AM local vs 07:03-07:06 UTC confirmed. All core facts verified against 3+ independent sources."
     }
   },
   {
@@ -37,20 +38,21 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, bostonsearovers.com/summer-intern/newfoundland-wrecks-the-plm-27",
+    "validation_source": "uboat.net,communitystories.ca,wrecksandreefs.com,scubadiverlife.com,heritage.nf.ca",
     "tags": {
       "access": "yes",
-      "depth": "25m",
+      "depth": "30m",
       "historic": "wreck",
       "leisure": "divespot",
       "name": "PM-27",
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "1942",
+      "wreck:date_sunk": "1942-11-02",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "12 killed confirmed by named individual list (communitystories.ca). uboat.net lists 7 dead (49 crew) — this undercounts by excluding some personnel categories; named list of 12 is authoritative. Tonnage 5633 GRT per uboat.net. Built July 1922 by Sir Raylton Dixon & Co Ltd, Middlesbrough. Torpedo hit amidships (not stern as previously stated). Previous markdown error on torpedo hit location corrected."
     }
   },
   {
@@ -64,7 +66,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, wrecksandreefs.com/saganaga.htm",
+    "validation_source": "uboat.net,veterans.gc.ca,communitystories.ca,heritage.nf.ca,wrecksandreefs.com",
     "tags": {
       "access": "yes",
       "depth": "30m",
@@ -74,10 +76,11 @@
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "1942",
+      "wreck:date_sunk": "1942-09-05",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "29 killed confirmed across multiple sources (25 British MN, 1 Canadian, 3 RN DEMS gunners). Builder confirmed: Harland and Wolff, launched 6 March 1935. Owner: South Georgia Company Ltd (Christian Salvesen & Co), Leith, Scotland — corrected from Edinburgh in previous version. Attack time: 11:45-11:46 NL time per U-513 logbook and Veterans Affairs Canada. Previous 'Glasgow' builder attribution corrected to Harland and Wolff."
     }
   },
   {
@@ -91,20 +94,21 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, divebuddies4life.com/canadian-splash-wrecked-in-newfoundland, wrecksandreefs.com/l_strahc.htm",
+    "validation_source": "uboat.net,communitystories.ca,heritage.nf.ca,wrecksandreefs.com,scubadiverlife.com",
     "tags": {
       "access": "yes",
-      "depth": "30m",
+      "depth": "37m",
       "historic": "wreck",
       "leisure": "divespot",
       "name": "SS Lord Strathcona",
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "1942",
+      "wreck:date_sunk": "1942-09-05",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "7335 GRT confirmed via uboat.net. Builder William Doxford & Sons Ltd, Sunderland, 1915 confirmed. Owner Dominion Shipping Co Ltd, Montreal confirmed. Zero casualties confirmed — all 44 crew rescued. Landing location: uboat.net says 'Lana Bay', community stories say 'Lance Cove' — conflict noted in markdown."
     }
   },
   {
@@ -117,15 +121,16 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "pm.geoview.info/troot_pool, wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org",
+    "validated": "false",
+    "validation_source": "",
     "tags": {
       "historic": "wreck",
       "name": "Troot Pool",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "No independent source found confirming vessel identity, depth, or dive characteristics. OSM record only. Vessel name, history, and dive site status unconfirmed. Not validated. Marked validated=false pending source discovery."
     }
   },
   {
@@ -139,14 +144,15 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "hiddennewfoundland.ca/ss-ilex-shipwreck, alamy.com stock photo confirms wreck sits in shallow water near Fermeuse — partially above waterline, shore accessible",
+    "validation_source": "hiddennewfoundland.ca,downhomelife.com,tripadvisor.com",
     "tags": {
       "historic": "wreck",
       "name": "S.S. Ilex",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "694 tons confirmed. Owner: Wareham and Sons, Spencer's Cove, Placentia Bay NL confirmed. Fire date October 27 1948 confirmed. Cargo salt fish to Kingston Jamaica confirmed. Shore-accessible, 5m depth confirmed. Chief engineer backdraft incident confirmed. Previous markdown incorrectly stated owner location as 'Spencer's Cove, Newfoundland' without noting Placentia Bay — corrected."
     }
   },
   {
@@ -160,7 +166,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "thescubanews.com/2025/03/13/about-the-msc-baltic-iii, gcaptain.com — grounded Feb 2025 near Wild Cove, Bay of Islands; active 2-nautical-mile exclusion zone, NOT currently diveable",
+    "validation_source": "cbc.ca,gcaptain.com,maritime-executive.com",
     "tags": {
       "access": "yes",
       "fixme": "Add area once imagery gets updated. Should be here per images, released by Canadian Coast Guard and Copernicus sat imagery.",
@@ -173,8 +179,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of March 2026",
-      "last_qa_date": "2026-05-20"
+      "note": "Grounded Feb 2025 at Cedar Cove/Wild Cove, Bay of Islands. As of mid-2026, vessel too damaged to tow; being broken apart in place and removed by truck. NOT a dive site and not expected to become one.",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Status updated June 2026: vessel being dismantled in place at Cedar Cove. Bulk fuel removed. ~63 containers remain. Resolve Marine contractor. Exclusion zone still active."
     }
   },
   {
@@ -188,7 +195,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/SS_Kyle, atlasobscura.com/places/ss-kyle — 220ft steamship grounded 1967 in Harbour Grace harbor mud flats, partially submerged, shore accessible",
+    "validation_source": "en.wikipedia.org,sskyle.org,hrgrace.ca,thescubanews.com",
     "tags": {
       "building": "ship",
       "historic": "wreck",
@@ -202,7 +209,8 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "220ft (67m) length, 1055 GRT confirmed via Wikipedia and sskyle.org. Built Swan Hunter, Wallsend, launched April 7 1913 confirmed. Grounded Feb 4 1967 Harbour Grace confirmed. Shore dive in 6m confirmed. All key facts independently verified."
     }
   },
   {
@@ -213,17 +221,18 @@
     "osm_type": "way",
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor, openstreetmap.org, maritimemuseum.novascotia.ca",
+    "validated": "false",
+    "validation_source": "la1ere.franceinfo.fr",
     "tags": {
       "historic": "wreck",
       "name": "Le Muscadin",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "MAJOR CORRECTION: Le Muscadin is a wooden fishing/cargo vessel intentionally beached at the entrance to Miquelon village in 2011. It is a shoreside landmark, NOT a confirmed underwater dive site. Built 1967 in Bonavista NL as 'Prudence Ann'. Operated as herring fisher then sand transport. Beached intentionally 2011 by Allen-Mahe company. No published dive source found confirming this as an active recreational dive site. Depth field set to null; entry_type changed from boat to shore. Validated=false."
     }
   },
   {
@@ -237,7 +246,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "wikipedia.org/wiki/Transpacific_(ships), evendo.com Transpacific Shipwreck — 398ft German cargo ship grounded 1971 on Ile-aux-Marins, Saint Pierre and Miquelon; wreck broke into three sections, central section in shallow water",
+    "validation_source": "vos.noaa.gov,thehoworths.com,commons.wikimedia.org,saintpierreetmiquelon.net",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -249,7 +258,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "3865 GRT confirmed via NOAA Mariners Weather Log. Length 398ft 9in (~121m) per NOAA — slightly less than 124m stated in markdown; both are approximations of the same figure. Built 1954 Lubeck Germany confirmed. Operator: Poseidon Shipping Line confirmed. Grounding May 18 1971 confirmed. 11 passengers aboard confirmed. Cargo (aluminium, logs, juke boxes, lawn mowers) confirmed. No casualties confirmed. Builder name 'Flender Werke' not independently confirmed by 2nd source — flagged as unconfirmed in markdown."
     }
   }
 ]

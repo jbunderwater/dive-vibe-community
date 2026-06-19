@@ -48,4 +48,4 @@ The Kyle is exceptionally photogenic — the rusty superstructure rising above t
 The extreme shallowness — maximum 6 m — makes depth-related pressure issues minimal, but surge in exposed conditions is the principal hazard. The collapsed internal structure above the waterline is unsafe to enter or board. Cold water still requires appropriate exposure protection; a wetsuit at minimum, drysuit preferred.
 
 ---
-*Sources: [SS Kyle History - sskyle.org](https://sskyle.org/history/), [Wikipedia - SS Kyle](https://en.wikipedia.org/wiki/SS_Kyle), [Town of Harbour Grace - SS Kyle](https://www.hrgrace.ca/tourism-heritage/attractions/ss-kyle/), [The Scuba News - Maritime History SS Kyle](https://www.thescubanews.com/2022/03/17/maritime-history-ss-kyle-in-newfoundland/). Last updated 2026-05-20.*
+*Sources: [SS Kyle History - sskyle.org](https://sskyle.org/history/), [Wikipedia - SS Kyle](https://en.wikipedia.org/wiki/SS_Kyle), [Town of Harbour Grace - SS Kyle](https://www.hrgrace.ca/tourism-heritage/attractions/ss-kyle/), [The Scuba News - Maritime History SS Kyle](https://www.thescubanews.com/2022/03/17/maritime-history-ss-kyle-in-newfoundland/). Last updated 2026-06-19.*

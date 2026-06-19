@@ -29,7 +29,7 @@ The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters 
 
 ## Wreck History
 
-The S.S. Ilex was a 694-ton vessel operated by Wareham and Sons of Spencer's Cove, Newfoundland. On October 27, 1948, she departed St. John's bound for Kingston, Jamaica, with a cargo of salt fish. An approaching storm forced the ship to seek refuge in Fermeuse Harbour. A fire broke out in the engine room, originating from the ignition of fuel in the ship's oil-fired boilers; the chief engineer narrowly survived an initial backdraft explosion. The entire crew escaped by lifeboat before the vessel was fully engulfed in flames. The Ilex was declared a total loss and was left where she burned, on the rocky shores of Kingman's Cove, Fermeuse Harbour. The hulk has not been formally developed as a tourist site.
+The S.S. Ilex was a 694-ton vessel owned by Wareham and Sons of Spencer's Cove, Placentia Bay, Newfoundland. On October 27, 1948, she departed St. John's bound for Kingston, Jamaica, with a cargo of salt fish. An approaching storm forced the ship to seek refuge in Fermeuse Harbour. After the vessel was secured at the wharf in Kingman's Cove, a fire broke out in the engine room, originating from the ignition of fuel in the ship's oil-fired boilers; the chief engineer narrowly survived an initial backdraft explosion. The entire crew escaped by lifeboat before the vessel was fully engulfed in flames. The Ilex was declared a total loss and was left where she burned. As much cargo as possible was subsequently salvaged; the hulk rests on a steep slant at Kingman's Cove, her rusty hull partially above the waterline, within Fermeuse Harbour on the southern Avalon Peninsula.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ The best viewing point for the above-water portion is from across the harbour on
 Surge over rocky substrate is the primary hazard given the intertidal exposure. Cold Atlantic water requires adequate exposure protection. The rusting hull has sharp edges. The site is remote — the nearest services are in Fermeuse or Trepassey — so divers should be self-sufficient with safety equipment including a surface marker buoy.
 
 ---
-*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-05-20.*
+*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [Down Home Life - The Day the Ilex Burned](https://www.downhomelife.com/article.php?id=1755), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-06-19.*

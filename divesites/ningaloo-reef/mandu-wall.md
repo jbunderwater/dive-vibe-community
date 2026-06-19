@@ -17,7 +17,7 @@ Mandu Wall is a wall dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Mandu Wall drops from the outer edge of Ningaloo Reef near the Mandu Creek area, descending steeply through coral-covered formations into deeper water patrolled by grey reef sharks, trevally, and occasional hammerheads. The wall face carries healthy hard and soft coral growth with sea fans and sponges in the deeper sections, and the outer reef position means strong current is common, driving the pelagic fish activity that makes this one of Ningaloo's more exciting advanced dive sites. Visibility on the outer wall typically runs 20-30 meters, with the deep blue opening to the Indian Ocean on the seaward side.
+Mandu Wall is a wall dive site on the outer edge of Ningaloo Reef near the Mandu Sanctuary Zone, within the Cape Range National Park area. The wall descends steeply with hard and soft coral growth including sea fans and sponges in deeper sections. Grey reef sharks and trevally are reported in the broader Ningaloo area for wall dives of this type. Hammerhead sharks are mentioned in regional Ningaloo descriptions but are not specifically confirmed at Mandu Wall by current operator sources. The site is a boat dive accessible from Exmouth or Coral Bay. Ningaloo Reef's waters support diverse marine life, but site-specific marine life reports for Mandu Wall specifically were limited in available sources; the nearby Mandu Pinnacles (a related site, max depth 18m) features spur-and-groove coral channels and schools of convict surgeonfish. Visibility is generally good on outer reef wall sections at Ningaloo.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Mandu Wall drops from the outer edge of Ningaloo Reef near the Mandu Creek area,
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Dive Ningaloo Liveaboard — 7 Night itinerary](https://www.diveningalooliveaboard.com.au/7-night-ningaloo-liveaboard/), [Exmouth Scuba Diving — Whale Shark Tours](https://www.whalesharktours.com.au/scuba-diving/), [DAN Alert Diver — Ningaloo Reef](https://dan.org/alert-diver/article/ningaloo-reef/). No site-specific marine life sources confirmed for Mandu Wall alone. Last updated 2026-06-19.*

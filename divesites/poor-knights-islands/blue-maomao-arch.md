@@ -2,8 +2,8 @@
 name: Blue Maomao Arch
 lat: -35.465
 lng: 174.728
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: cave
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Blue Maomao Arch
 
-The most famous and iconic arch at the Poor Knights Islands, Blue Maomao Arch is legendary for its extraordinary fish life. The arch is often home to such dense schools of blue maomao that they block out the sunlight, creating an unforgettable diving experience. This is the signature Poor Knights dive site offering excellent marine life viewing and photography opportunities.
+The most famous and iconic arch at the Poor Knights Islands, Blue Maomao Arch is legendary for its extraordinary fish life. The arch is often home to such dense schools of blue maomao that they block out the sunlight, creating an unforgettable diving experience. The arch is shallow — ranging from 6 to 15 metres — and open to the surface, making it accessible to snorkellers and Open Water certified divers as well as more experienced divers.
 
 ## Overview
 
@@ -21,31 +21,29 @@ Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cut
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Archway Island, Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters (excellent for fish viewing)
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
-- **Current**: Can be present; the nutrient-rich current feeds the abundant fish life
-- **Best Time**: September to February for calmest conditions
+- **Site Type**: Cave/arch (open to surface throughout)
+- **Difficulty Level**: Beginner (suitable for Open Water divers and snorkellers)
+- **Maximum Depth**: 15 meters (eastern end/Labrid Channel side); arch itself is 6-8 metres
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 16-22°C (cooler in winter, warmer Nov-March)
+- **Current**: Can be present when adequate current flows; feeds the abundant fish life
+- **Best Time**: Year-round; summer months may bring tropical species such as manta rays and turtles
 
 ## Marine Life
 
 Blue Maomao Arch is world-renowned for its fish schools. Divers encounter:
-- Dense schools of blue maomao (the arch's namesake) thick enough to reduce visibility and block sunlight
-- Pink maomao swimming in equally impressive numbers
-- Large kingfish, snapper, and giant trevally cruising the outer waters
-- Short-tailed stingrays gliding through warmer months
-- Moray eels and nudibranchs sheltering in crevices
-- Hard corals, sponges, and hydroids covering the arch walls
-
-The concentration of fish life is unmatched at Poor Knights.
+- Dense schools of blue maomao (the arch's namesake) thick enough to block sunlight at the arch entrance
+- Two-spot demoiselles forming large shoals on the opposing wall to the blue maomao school
+- Sweep fish, snapper, and pigfish within the arch
+- Speckled moray eel and toadstool grouper recorded at this site
+- Scorpionfish, nudibranchs, and weedfish in surrounding areas
+- Stingray and octopus reported on the far side of the arch
 
 ## Dive Profile
 
-Begin your descent at the boat drop-off to the arch entrance (10m). Approach the arch carefully, as fish may scatter when startled. Once inside the arch passage, prepare for an overwhelming display of fish life. The blue maomao school is so dense that they create a bioluminescent-like effect when light refracts through them. Work your way through the arch, looking for larger fish in the blue water just outside. The arch widens and narrows creating scenic passages. Maximum depth for the main dive is 18 meters, with pleasant safety stop time available at 5 meters.
+The arch features two distinct ends: the western end opens onto a kelpy plateau with a rock window that creates light beam effects at certain times of day; the eastern end opens into the Labrid Channel at approximately 15 metres. Approach the arch carefully as fish may scatter when startled. Once inside, one wall typically hosts the dense blue maomao school while the opposing wall displays two-spot demoiselles. The arch is open to the surface throughout, so there is no overhead environment concern for most of the dive. Maximum depth for the main dive is 15 metres, with an easy ascent to the surface.
 
 ## Entry and Exit
 
@@ -73,4 +71,4 @@ Boat entry via giant stride to the arch entrance. Your guide will advise on curr
 This is the premier photographic dive at Poor Knights. Fish schools create stunning wide-angle compositions. Telephoto lenses capture individual fish within the school. Backlighting creates silhouettes of fish against lighter water. The best photography occurs in the first part of the dive when fish are most dense. Neutral buoyancy is essential for steady wide-angle shots. Consider a second camera body for close-up work on smaller species.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Dive Now - Blue Mao Mao Arch](https://divenow.co.nz/blue-mao-mao-arch-_-poor-knights/), [PADI Dive Site - Blue Maomao Arch](https://www.padi.com/dive-site/new-zealand/blue-maomao-arch/), [Seafriends - Southern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/squart.htm), [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-06-19.*

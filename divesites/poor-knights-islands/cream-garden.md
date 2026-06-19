@@ -3,9 +3,9 @@ name: Cream Garden
 lat: -35.475
 lng: 174.74
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Cream Garden
 
-Cream Garden is an intermediate reef dive offering healthy coral and encrusting organism growth in a reliably calm location. The site features moderate depths (22m maximum) and abundant reef life, making it an excellent choice for building Poor Knights experience or for photographers seeking detailed reef work. The site is popular for its consistent conditions and diverse marine life in a manageable depth range.
+Cream Garden is a well-sheltered wall dive site suitable for all levels, featuring a vertical wall adorned with gorgonian sea fans, organ-pipe sponges, and encrusting marine life. The anchorage is considered one of the best at the Poor Knights Islands. The site descends steeply — recreational diving is generally conducted to 30 metres, though the wall continues significantly deeper for technical divers.
 
 ## Overview
 
@@ -23,9 +23,9 @@ Cream Garden is a reef dive featuring healthy coral and sponge growth with excel
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 30 meters (recreational; wall extends deeper for technical divers)
 - **Typical Visibility**: 15-30 meters (good for reef work)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
 - **Current**: Mild to variable
@@ -33,15 +33,11 @@ Cream Garden is a reef dive featuring healthy coral and sponge growth with excel
 
 ## Marine Life
 
-Cream Garden supports excellent reef biodiversity:
-- Healthy hard coral and soft coral growth
-- Abundant sponges (cream-coloured and other varieties)
-- Anemones and hydroids
-- Kingfish, snapper, and giant trevally
-- Schooling blue maomao and pink maomao
-- Short-tailed stingrays (warmer months)
-- Moray eels and nudibranchs
-- Small reef fish and invertebrates
+Cream Garden features a vertical wall with notable invertebrate life:
+- Gorgonian sea fans on the wall structure
+- Organ-pipe sponges colonising the deeper sections
+- Cold upwelling at depth attracts bronze whaler sharks and kingfish
+- Abundant sponges and encrusting life throughout
 
 ## Dive Profile
 

@@ -13,56 +13,43 @@ addedBy: osm_import
 
 # The Clump
 
-A rocky reef cluster in mid-Narragansett Bay, Rhode Island, a productive cold-water dive within range of Providence and Newport.
+A rocky bottom feature in the West Passage of Narragansett Bay, Rhode Island, entered in OSM as a natural reef. Not documented as a recreational dive site in available sources.
 
 ## Overview
 
-The Clump is a rocky reef feature in mid-Narragansett Bay at coordinates placing it centrally between the Providence metropolitan area and the bay's mouth at Newport. Narragansett Bay divides into East and West passages, with The Clump's position suggesting it sits in or near the main bay channel. The informal name "The Clump" describes a cluster of rocky features rather than an extended ledge — a compact group of rocky structures rising from the bay floor. Mid-Narragansett Bay diving at 14 metres offers better visibility than the upper bay while remaining more sheltered than the exposed Rhode Island Sound sites at the bay mouth. The site is well positioned for both Providence-area and Newport-area dive operators.
+"The Clump" is the informal name for a rocky feature in the West Passage of Narragansett Bay at approximately 41.550°N, 71.420°W — a position in the mid-West Passage between Conanicut Island (Jamestown) to the east and the Narragansett/South Kingstown shoreline to the west. The 14m depth is consistent with West Passage depths in this area.
+
+The name suggests a local or informal designation — likely used by fishermen, lobstermen, or local boat divers to describe a concentrated cluster of rocky bottom structure (a "clump") distinct from the surrounding bay floor. This type of informal naming is common for features known to local communities but not formally charted.
+
+Extensive research (June 2026) found no recreational dive documentation for this site:
+
+- **ScubaBoard**: Multiple Rhode Island diving threads (RI dive sites, shore dives in/near RI, Newport RI sites, SE Connecticut and RI diving) contain no mention of "The Clump"
+- **iDive New England Rhode Island**: Does not list this site
+- **Zentacle Rhode Island**: Does not list this site
+- **Giant Stride Dive Shop** (RI): Does not list this site
+- **Sea Turtle Dive Charters** (RI): Does not list this site
+- Rhode Island's documented dive sites in the West Passage area include Fort Wetherill and Beavertail (on Conanicut Island), both to the south of this position
+
+The site is geographically plausible as a rocky reef feature in the West Passage, and the West Passage is dived, but "The Clump" by name has not been found in any accessible online source as a recreational dive site. It may be known only to a small number of local boat divers and has not entered the wider diving community's documented record.
 
 ## Site Information
 
-- **Location**: Mid-Narragansett Bay, Rhode Island
+- **Location**: West Passage, Narragansett Bay, Rhode Island
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 4–10 meters (better than upper bay; variable)
-- **Current**: Moderate Narragansett Bay tidal current
+- **Typical Visibility**: Variable; Narragansett Bay West Passage typical range 3–10 metres
+- **Current**: Moderate West Passage tidal current
 - **Water Temperature**: 8–22°C depending on season
-- **Best Time**: June to October
 
 ## Marine Life
 
-Mid-Narragansett Bay cold-water reef species. Tautog are well established on the rocky structures — Narragansett Bay is known as excellent tautog habitat throughout. Striped bass hunt the bay in warmer months. Bluefish pass through seasonally. American lobsters inhabit crevices in the rocky cluster. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock faces. Winter flounder on adjacent sandy areas. Narragansett Bay supports a productive food web thanks to its moderate nutrient levels and tidal flushing.
+Cold-water temperate species typical of the Narragansett Bay West Passage inhabit rocky bottom features in this region. No site-specific marine life surveys have been documented for The Clump. The bay is well-known as productive tautog habitat throughout.
 
-## Dive Profile
+## Research Note
 
-Boat access from Providence area or Newport area operators. Descend to rocky cluster at 8–14 metres. Navigate the cluster perimeter — the compact nature of the site means the entire feature can be circumnavigated in a single dive. Plan around Narragansett Bay slack tide. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Mid-bay location is accessible from both north (Providence) and south (Newport) operators. Anchor in sand adjacent to the rock cluster. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- Narragansett Bay tautog are reliable — the bay is one of the best tautog grounds in southern New England
-- Mid-bay position provides better visibility than upper bay sites while being more sheltered than sound sites
-- Combine with other Narragansett Bay sites for a productive full-day dive trip
-- 7mm wetsuit or drysuit recommended throughout the season
-- Plan around slack tide for the bay's moderate current
-
-## Safety Considerations
-
-Moderate Narragansett Bay tidal current at peak flow. Narragansett Bay has significant boat traffic, particularly in summer. Deploy SMB clearly before surfacing. Cold water below thermocline.
-
-## Photography
-
-Mid-bay visibility allows wider angle approaches than upper bay sites. Tautog portraits and rocky reef subjects are primary. Strobes recommended for color accuracy at 14 metres.
-
-## Additional Resources
-
-- **Charter Access**: Providence area dive charters; Newport and Narragansett RI operators
-- **Last Updated**: 2026-06-19
+The previous description of this site as "mid-Narragansett Bay" was geographically imprecise — coordinates confirm West Passage position. All generic marine life attributions in the previous version have been removed as they were not sourced from any site-specific research.
 
 ---
-*No site-specific sources found for The Clump. Description based on Narragansett Bay regional diving characteristics and OSM geographic data. Sources checked: [iDive New England — Rhode Island](https://www.idivenewengland.com/dive-sites/ri), [ScubaBoard — Newport RI dive sites](https://scubaboard.com/community/threads/newport-ri-sites.2085/), [Scuba Diving magazine — Rhode Island](https://www.scubadiving.com/where-to-go-scuba-diving-in-rhode-island). Last updated 2026-06-19.*
+*Description based on geographic data and regional diving characteristics of the Narragansett Bay West Passage. No site-specific dive reports found. Sources consulted: [ScubaBoard RI dive threads](https://scubaboard.com/community/threads/rhode-island-dive-sites.48301/), [iDive New England RI](https://www.idivenewengland.com/dive-sites/ri), [Zentacle RI](https://www.zentacle.com/loc/us/ri). Last updated 2026-06-19.*

@@ -3,7 +3,7 @@ name: HMNZS Tui
 lat: -35.476
 lng: 174.735
 difficulty: Intermediate
-maxDepth: 33
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,21 +13,23 @@ addedBy: osm_import
 
 # HMNZS Tui
 
-A former naval hydrographic research vessel scuttled off the Tutukaka Coast in 1999, now broken into three sections at 32 meters and rapidly becoming part of the reef. Famous for large schools of golden snapper and delicate Jason's nudibranchs on her hull.
+A former Conrad-class oceanographic research vessel scuttled 2 kilometres north of Tutukaka Heads on 20 February 1999, now resting in three sections at approximately 32 meters depth. The wreck is dived as part of twin-wreck day trips from Tutukaka and is located near the Tutukaka Coast — not within the Poor Knights Islands Marine Reserve.
+
+> **Note on location**: The HMNZS Tui lies approximately 2 km north of Tutukaka Heads, not at the Poor Knights Islands (23 km offshore). It is commonly combined with Poor Knights trips by Tutukaka-based operators but is a separate dive site.
 
 ## Overview
 
-HMNZS Tui began her career as the USNS Charles H Davis, an American hydrographic research vessel working for a university before being leased to the United States Navy. She was subsequently transferred to the Royal New Zealand Navy, where she served as HMNZS Tui conducting naval hydrographic survey work. During her service, the vessel was sent to Mururoa to observe the last series of French nuclear bomb tests in the Pacific.
+HMNZS Tui began her career as USNS Charles H. Davis (T-AGOR-5), a Conrad-class oceanographic research ship built by Christy Corporation at Sturgeon Bay, Wisconsin, and commissioned into the US Navy on 25 January 1963. The 63.7-metre vessel was designed for acoustic experiments, gravity studies, and deep-ocean floor research. She was transferred to the Royal New Zealand Navy and recommissioned as HMNZS Tui on 11 September 1970, serving as an oceanographic survey ship until her decommissioning in 1997.
 
-After decommissioning, the Tui was gifted to the Tutukaka Coast Promotions group following lengthy negotiations. She was prepared for her new role as a dive attraction and deliberately sunk off Tutukaka on 20 February 1999. The wreck now rests at approximately 32 meters and has broken into three main sections, rapidly becoming part of the surrounding reef ecosystem.
+After decommissioning, the Tui was gifted to the Tutukaka Coast Promotions group following lengthy negotiations. She was prepared for her new role as a dive attraction — with hazardous items removed and dangerous spaces sealed — and deliberately sunk on 20 February 1999. The wreck now rests at approximately 32 metres and has broken into three main sections, which are rapidly becoming part of the surrounding reef ecosystem.
 
 ## Site Information
 
-- **Location**: Off Tutukaka Coast, Northland, New Zealand
+- **Location**: 2 km north of Tutukaka Heads, Northland, New Zealand (not at Poor Knights Islands)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 33 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-25 meters
 - **Water Temperature**: 17-22 degrees C
 - **Current**: Variable
@@ -35,25 +37,19 @@ After decommissioning, the Tui was gifted to the Tutukaka Coast Promotions group
 
 ## Marine Life
 
-The Tui is renowned for large schools of golden snapper that congregate around and within her broken hull sections. Jason's nudibranchs -- delicate, branching nudibranchs -- are found on the hydroid trees that now cover the hull plating. Schools of fish weave through the metal corridors of the wreck, and the fragmented structure creates habitat niches for a variety of reef species.
+The Tui's hull sections provide shelter for reef fish and are colonised by hydroids. Jason's nudibranchs have been recorded on the hydroid growth covering the hull plating. The fragmented structure creates habitat niches for a variety of reef species.
 
 ## Dive Profile
 
-Descend the mooring line to the wreck at approximately 32 meters. The three main sections can be explored in sequence, with the wreck structure providing shelter from current. The fragmentation of the hull means there are numerous openings and passages to look through, though formal penetration requires wreck diving qualification. Work your way around the exterior, checking the hydroid-covered hull for nudibranchs and watching for snapper schools in the surrounding water. Ascend the mooring line with time for a safety stop.
+Descend the mooring line to the wreck at approximately 32 metres. The three main sections can be explored in sequence, with the wreck structure providing some shelter from current. The fragmentation of the hull means numerous openings and passages are visible, though internal penetration requires wreck diving certification. Work around the exterior, checking hydroid-covered hull sections for nudibranchs. Ascend the mooring line with time for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from Tutukaka marina (a short ride to the wreck site). Entry by giant stride. The wreck is in a more sheltered location than the HMNZS Waikato, so conditions are generally calmer.
-
-## Tips and Recommendations
-
-- Look closely at the hydroid trees growing on the hull for the beautiful Jason's nudibranchs -- a macro lens is essential
-- The golden snapper schools are best observed by hovering quietly at a distance and letting the fish approach
-- Combining this dive with the nearby HMNZS Waikato on a twin-wreck day trip is a popular option
+Access is by dive boat from Tutukaka marina (a short ride to the wreck site, approximately 2 km). Entry by giant stride. The wreck is in a relatively sheltered location compared to the HMNZS Waikato.
 
 ## Safety Considerations
 
-Divers require Advanced Open Water certification and a minimum of 35 logged dives. At 32 meters, bottom time on air is limited -- plan gas management carefully. The wreck's fragmented structure means loose metal edges exist; maintain good buoyancy and avoid contact with the hull. Do not attempt internal penetration without wreck diving certification. Carry a torch for illuminating interior sections.
+At 32 metres, bottom time on air is limited — plan gas management carefully. The wreck's fragmented structure includes loose metal edges; maintain good buoyancy and avoid contact with the hull. Do not attempt internal penetration without wreck diving certification. Carry a torch for illuminating interior sections.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-04-08.*
+*Sources: [HMNZS Tui (1970) - Wikipedia](https://en.wikipedia.org/wiki/HMNZS_Tui_(1970)), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [First Light Travel - HMNZS Tui](https://www.firstlighttravel.com/nz-diving/dive-sites/hmnzs-tui), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-06-19.*

@@ -17,7 +17,7 @@ Norwegian Bay is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Norwegian Bay is a remote section of Ningaloo Reef accessible only by live-aboard or extended boat trip from Coral Bay, offering some of the least-dived coral gardens on the entire reef system. The fringing reef here is in exceptional condition due to minimal visitor pressure, with large table corals, healthy bommies, and abundant reef fish across shallow gardens that rarely see more than a handful of divers in a season. Manta rays, turtles, and dugongs are all regularly encountered in this stretch of the park, and the sense of isolation reinforces how undisturbed this coastline remains.
+Norwegian Bay is a remote coastal area on Ningaloo Station, historically significant as the site of a shore-based whaling station that operated from 1915 to 1957. The bay lies on the inside of the reef, accessible from the water by boat. Offshore wrecks at this location include the SS Fin, The Zvir, and the SS Perth, making it potentially of interest to wreck divers, though dive access details and conditions are not documented by current operator sources. Ningaloo Reef's waters in this region support diverse marine life, but no site-specific dive reports, species lists, or operator tours were found for Norwegian Bay as a named scuba dive site. The "Manta rays, turtles, and dugongs regularly encountered" claim is not corroborated by any site-specific source for this location.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Norwegian Bay is a remote section of Ningaloo Reef accessible only by live-aboar
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*
+*Sources: [Diving WA Wrecks — Norwegian Bay Whaling Station](https://www.divingwawrecks.com/norwegian-bay-whaling-station). No site-specific dive reports found for Norwegian Bay as a scuba dive site. Last updated 2026-06-19.*
