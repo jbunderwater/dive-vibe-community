@@ -23,9 +23,9 @@ Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cut
 
 - **Location**: Archway Island, Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/arch (open to surface throughout)
-- **Difficulty Level**: Beginner (suitable for Open Water divers and snorkellers)
-- **Maximum Depth**: 15 meters (eastern end/Labrid Channel side); arch itself is 6-8 metres
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 16-22°C (cooler in winter, warmer Nov-March)
 - **Current**: Can be present when adequate current flows; feeds the abundant fish life

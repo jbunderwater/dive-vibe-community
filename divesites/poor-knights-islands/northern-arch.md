@@ -25,7 +25,7 @@ Northern Arch is a dramatic geological feature: a nearly vertical parallel cleft
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (arch base at 36-40m; surrounding bay deeper)
+- **Maximum Depth**: 40 meters
 - **Minimum Depth**: 15 meters (arch entrance)
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)

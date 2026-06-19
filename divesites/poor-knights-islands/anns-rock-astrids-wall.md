@@ -25,7 +25,7 @@ Ann's Rock is a wall dive featuring a dramatic vertical structure at a moderate 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (sheer walls; depths greater beyond recreational limits)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Variable; often present — key feature of the site

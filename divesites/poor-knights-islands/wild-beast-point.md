@@ -25,7 +25,7 @@ Wild Beast Point is an aptly-named advanced wall dive site. The dramatic vertica
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (recreational limit; wall continues deeper)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
 - **Current**: Often strong; a defining characteristic of the site

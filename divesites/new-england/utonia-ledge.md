@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Utonia Ledge
 
-A named rocky ledge in the South Shore ledge system west of Scituate, Massachusetts, part of the Boston Harbor southern approaches reef cluster.
+A named rocky ledge in the South Shore ledge system west of Scituate, Massachusetts, part of the Boston Harbor southern approaches reef cluster. Not documented as a named recreational dive site.
 
 ## Overview
 
-Utonia Ledge sits in the mid-portion of the South Shore ledge cluster, between the Harding-Martin-Tewksbury group to the northwest and the Davis-Enos-Tobias group to the southeast. The name Utonia is unusual for a Massachusetts ledge — it may derive from "Utica" or another classical/colonial place name that was applied by an early surveyor or local tradition. The ledge sits at approximately 18 metres maximum depth in the same character of Massachusetts Bay reef diving as all the surrounding named ledges. Scituate and Cohasset-area operators can access this site along with adjacent ledges on a multi-site charter.
+Utonia Ledge sits in the mid-portion of the South Shore ledge cluster, between the Harding-Martin-Tewksbury group to the northwest and the Davis-Enos-Tobias group to the southeast. The name Utonia is unusual for a Massachusetts ledge — it may derive from a classical or colonial place name applied by an early surveyor or local tradition. The ledge sits at approximately 18 metres maximum depth in the same character of Massachusetts Bay reef diving as all the surrounding named ledges.
+
+Extensive research (June 2026) found no recreational dive documentation for Utonia Ledge by name. The ledge does not appear in Boston SCUBA, iDive New England, South Shore Divers, or ScubaBoard South Shore dive site listings. The South Shore ledge cluster's confirmed recreational sites (Martin Ledge, Tewksbury Rock, Harding Ledge, Three-and-One-Half Fathom Ledge) are documented by name; Utonia does not appear alongside them in any operator or forum source found.
 
 ## Site Information
 
@@ -26,42 +28,17 @@ Utonia Ledge sits in the mid-portion of the South Shore ledge cluster, between t
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5–10 meters (variable)
+- **Typical Visibility**: Variable; typical of outer South Shore Massachusetts Bay approaches
 - **Current**: Moderate tidal current
 - **Water Temperature**: 7–20°C depending on season
-- **Best Time**: June to October
 
 ## Marine Life
 
-Tautog resident on ledge rock. American lobsters in crevices throughout the system. Cunner around encrusted surfaces. Pollock in midwater. Sea urchins on open rock faces. Winter flounder on adjacent sandy areas. Anemones, hydroids, and bryozoans on shaded surfaces.
-
-## Dive Profile
-
-Boat access from Cohasset or Scituate operators. Descend to 12–18 metres and navigate ledge perimeter. Central position in the South Shore ledge cluster makes this a natural pairing with either the western ledges (Harding, Martin) or the eastern ones (Davis, Enos, Tobias). Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- The central ledge cluster position makes this a versatile addition to South Shore multi-ledge days
-- Lobsters at the sand-rock interface; tautog on ledge faces
-- 7mm wetsuit or drysuit required
-- Plan around slack tide
+Cold-water temperate species typical of the South Shore Massachusetts Bay outer approaches inhabit similar rocky ledge habitat in this region. No site-specific marine life surveys have been documented for Utonia Ledge.
 
 ## Safety Considerations
 
 Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before surfacing.
 
-## Photography
-
-Strobes needed at 18 metres. Rocky ledge and encrusting organism subjects.
-
-## Additional Resources
-
-- **Charter Access**: Cohasset and Scituate area dive charter operators
-- **Last Updated**: 2026-06-19
-
 ---
-*Description based on regional diving characteristics and nautical chart data. No site-specific dive reports found for Utonia Ledge. Last updated 2026-06-19.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Sources checked: [Boston SCUBA](https://bostonscuba.com/dive-charters/dive-sites/), [iDive New England](https://www.idivenewengland.com/dive-sites/ma), [ScubaBoard Boston Harbor threads](https://scubaboard.com/community/threads/best-dive-sites-in-near-boston-harbor.80794/). Last updated 2026-06-19.*

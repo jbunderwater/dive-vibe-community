@@ -25,7 +25,7 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters (arch base; bay on western side drops to 80m)
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-30 meters (good for wide-angle photography)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Mild to moderate (much less than Northern Arch)

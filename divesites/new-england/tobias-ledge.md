@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Tobias Ledge
 
-A named rocky ledge in the South Shore cluster near Scituate, Massachusetts, offering productive cold-water lobster and reef diving.
+A named rocky ledge in the South Shore cluster near Scituate, Massachusetts. Not documented as a named recreational dive site.
 
 ## Overview
 
-Tobias Ledge is part of the tight cluster of named submerged ledges south of Boston Harbor in the Scituate area, sitting near Davis Ledge, Enos Ledge, and Mikes Ledge. The name Tobias has colonial-era New England origins, likely commemorating an early settler, fisherman, or a historical incident associated with the ledge. Like the other named ledges in this cluster, Tobias provides the characteristic South Shore cold-water reef diving experience: rocky ledge at 12–18 metres, productive lobster habitat, and the tautog-pollock-cunner community of Massachusetts Bay. Scituate-based dive charters frequently run multi-site trips covering several of these clustered ledges in a single day.
+Tobias Ledge is part of the tight cluster of named submerged ledges south of Boston Harbor in the Scituate area, sitting near Davis Ledge, Enos Ledge, and Mikes Ledge. The name Tobias has colonial-era New England origins, likely commemorating an early settler, fisherman, or a historical incident associated with the ledge. Like the other named ledges in this cluster, Tobias sits at approximately 18 metres maximum depth in the characteristic South Shore outer bay reef terrain.
+
+Extensive research (June 2026) found no recreational dive documentation for Tobias Ledge by name. The ledge does not appear in Boston SCUBA, iDive New England, South Shore Divers, ScubaBoard South Shore threads, or any dive directory checked. The South Shore ledge cluster's confirmed recreational sites (Martin Ledge, Tewksbury Rock, Harding Ledge, Three-and-One-Half Fathom Ledge) are all documented by name; Tobias does not appear alongside them in any source found.
 
 ## Site Information
 
@@ -26,42 +28,17 @@ Tobias Ledge is part of the tight cluster of named submerged ledges south of Bos
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5–10 meters (variable)
+- **Typical Visibility**: Variable; typical of outer South Shore Massachusetts Bay approaches
 - **Current**: Moderate tidal current
 - **Water Temperature**: 7–20°C depending on season
-- **Best Time**: June to October
 
 ## Marine Life
 
-Rocky ledge community of the Scituate area. Tautog resident on ledge structure. American lobsters in crevices. Cunner around encrusted surfaces. Pollock above the ledge. Sea urchins on exposed rock. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
-
-## Dive Profile
-
-Boat access from Scituate. Descend to ledge at 12–18 metres. Explore ledge perimeter and crevice faces. Pairs naturally with Davis and Enos Ledges on a multi-site South Shore charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- Combine with Davis and Enos Ledges for an efficient Scituate-area multi-ledge day
-- Lobsters at the sand-rock interface at ledge base are the primary target
-- 7mm wetsuit or drysuit required
-- Plan dives around slack tide
+Cold-water temperate species typical of the South Shore Massachusetts Bay outer approaches inhabit similar rocky ledge habitat in this region. No site-specific marine life surveys have been documented for Tobias Ledge.
 
 ## Safety Considerations
 
 Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before surfacing.
 
-## Photography
-
-Strobes needed at 18 metres. Ledge face portraits and lobster crevice shots.
-
-## Additional Resources
-
-- **Charter Access**: Scituate and South Shore dive charter operators
-- **Last Updated**: 2026-06-19
-
 ---
-*Description based on regional diving characteristics and nautical chart data. No site-specific dive reports found for Tobias Ledge. Last updated 2026-06-19.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Sources checked: [Boston SCUBA](https://bostonscuba.com/dive-charters/dive-sites/), [iDive New England](https://www.idivenewengland.com/dive-sites/ma), [ScubaBoard Boston Harbor threads](https://scubaboard.com/community/threads/best-dive-sites-in-near-boston-harbor.80794/). Last updated 2026-06-19.*

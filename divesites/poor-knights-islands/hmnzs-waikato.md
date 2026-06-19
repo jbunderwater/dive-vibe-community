@@ -31,7 +31,7 @@ The wreck now lies at approximately 45 degrees to the sand, broken into two sect
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (deepest sections reach 32m)
+- **Maximum Depth**: 30 meters
 - **Minimum Depth**: 12 meters (shallowest wreck surface)
 - **Typical Visibility**: 8-30 meters
 - **Water Temperature**: 17-22 degrees C

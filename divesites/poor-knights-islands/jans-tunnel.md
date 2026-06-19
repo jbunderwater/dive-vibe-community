@@ -79,4 +79,4 @@ The dark tunnel sections offer low-light photography challenges and rewards:
 - **Penetration perspective**: Wide-angle looking back toward the entrance shows tunnel perspective
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Seafriends - Southern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/squart.htm), [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [ScubaBoard - Poor Knights](https://scubaboard.com/community/threads/poor-knights-islands-nz.39059/). Last updated 2026-06-19.*

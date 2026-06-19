@@ -2,48 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "hawaii",
-    "hawaii-big-island",
-    "hawaii-kauai",
-    "hawaii-maui",
-    "hawaii-oahu",
-    "honduras",
-    "iceland",
-    "india",
-    "indonesia",
-    "israel",
-    "italy",
-    "jamaica",
-    "japan",
-    "jordan",
-    "jordan-aqaba",
-    "kenya-coast",
-    "koh-tao",
-    "komodo-national-park",
-    "la-paz-sea-of-cortez",
-    "lembeh-strait",
-    "lombok",
-    "lord-howe-island",
-    "los-cabos",
-    "madagascar",
-    "malaysia",
-    "maldives",
-    "malta-and-gozo",
-    "manado-bunaken",
-    "marshall-islands",
-    "martinique",
-    "mauritius",
-    "mexico",
-    "micronesia",
-    "micronesia-yap",
-    "monterey-bay",
-    "mozambique",
-    "new-caledonia",
-    "new-england",
-    "new-jersey",
-    "new-zealand",
-    "newfoundland",
-    "ningaloo-reef",
     "north-carolina",
     "norway",
     "norway-lofoten-islands",
@@ -174,7 +132,49 @@
     "grenada",
     "guadeloupe",
     "guam",
-    "halmahera"
+    "halmahera",
+    "hawaii",
+    "hawaii-big-island",
+    "hawaii-kauai",
+    "hawaii-maui",
+    "hawaii-oahu",
+    "honduras",
+    "iceland",
+    "india",
+    "indonesia",
+    "israel",
+    "italy",
+    "jamaica",
+    "japan",
+    "jordan",
+    "jordan-aqaba",
+    "kenya-coast",
+    "koh-tao",
+    "komodo-national-park",
+    "la-paz-sea-of-cortez",
+    "lembeh-strait",
+    "lombok",
+    "lord-howe-island",
+    "los-cabos",
+    "madagascar",
+    "malaysia",
+    "maldives",
+    "malta-and-gozo",
+    "manado-bunaken",
+    "marshall-islands",
+    "martinique",
+    "mauritius",
+    "mexico",
+    "micronesia",
+    "micronesia-yap",
+    "monterey-bay",
+    "mozambique",
+    "new-caledonia",
+    "new-england",
+    "new-jersey",
+    "new-zealand",
+    "newfoundland",
+    "ningaloo-reef"
   ],
   "history": [
     {
@@ -898,6 +898,444 @@
         "unresolved": 17
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/84"
+    },
+    {
+      "date": "2026-06-06",
+      "slugs": [
+        "hawaii",
+        "hawaii-big-island",
+        "hawaii-kauai",
+        "hawaii-maui",
+        "hawaii-oahu",
+        "honduras"
+      ],
+      "summary": {
+        "note": "hawaii and honduras are isGroup parent slugs with no own data; 4 data slugs processed",
+        "sites_total": 47,
+        "sites_re_audited": 47,
+        "sites_validated_today": 43,
+        "sites_unresolved": 4,
+        "hallucinations_removed": "multiple (Corsair date, Mahi identity, depth errors feet-as-meters, 600+ species claims, manta species)",
+        "marine_life_stripped": "multiple across all 4 destinations",
+        "wreck_conflicts_flagged": 5,
+        "type_corrections": "Kohala Coast wall\u2192cave, General Store reef\u2192wreck, Brenneckes Ledge reef\u2192wall, Sharks Cove reef\u2192cave, Enenue wall\u2192reef",
+        "depth_corrections": "Kauai: 4 sites (75-130m \u2192 realistic); Maui: 8 sites (all 25m placeholder); Oahu: 4 sites (feet-as-meters errors)",
+        "difficulty_corrections": "Puako Reef Beginner\u2192Intermediate, Brenneckes Ledge Intermediate\u2192Advanced, Honokohau Harbor Beginner\u2192Intermediate, Electric Beach Beginner\u2192Intermediate",
+        "status": "complete"
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/85"
+    },
+    {
+      "date": "2026-06-08",
+      "slugs": [
+        "iceland",
+        "india",
+        "indonesia",
+        "israel",
+        "italy",
+        "jamaica"
+      ],
+      "summary": {
+        "sites_total": 525,
+        "sites_re_audited": 525,
+        "sites_validated_today": 282,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 15,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 182,
+        "notes": "italy sub-destinations: sardinia + ustica; india sub-destination: andaman-islands; iceland sub-destination: silfra-fissure"
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/86"
+    },
+    {
+      "date": "2026-06-10",
+      "slugs": [
+        "japan",
+        "jordan",
+        "jordan-aqaba",
+        "kenya-coast",
+        "koh-tao",
+        "komodo-national-park"
+      ],
+      "summary": {
+        "sites_total": 90,
+        "sites_validated_today": 74,
+        "sites_re_audited": 90,
+        "hallucinations_removed": 18,
+        "marine_life_stripped": 15,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 10,
+        "by_destination": {
+          "japan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive sites; child okinawa remains in queue"
+          },
+          "jordan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive sites; child jordan-aqaba processed today"
+          },
+          "jordan-aqaba": {
+            "sites_total": 15,
+            "sites_validated_today": 15,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 3,
+            "notes": "Cedar Pride length 74m vs 80m + tonnage conflict documented; Soufa/Yatouche/UMM flagged with Israeli coordinates \u2014 likely scraped from Israeli Eilat side of border; Gorgon 1 two-fans corrected; Tank service dates removed"
+          },
+          "kenya-coast": {
+            "sites_total": 10,
+            "sites_validated_today": 9,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Mtwapa Creek reef\u2192drift, depth 15\u219223m, Intermediate\u2192Advanced; MV Dania length 77\u219275m (Wikipedia) + scuttling date conflict Oct 25 vs 27 2002; Tewa Caves grouper weight 363kg\u2192200kg; Sita Reef unresolved (no independent sources); Shimoni Caves whale shark claim removed"
+          },
+          "koh-tao": {
+            "sites_total": 17,
+            "sites_validated_today": 17,
+            "sites_re_audited": 17,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "HTMS Sattakut: all 3 Pacific campaigns named, US hull LCI(M)-739 vs LCI(L)-736 conflict documented, build date early 1944; Chumpon Pinnacle 35\u219240m + Intermediate\u2192Advanced; distance corrected 5km\u219212km northwest of Koh Tao; Japanese Garden pinktail triggerfish added (only Koh Tao site), turtles downgraded to occasional; Pottery depth 18\u219212m; Buoyancy miniature shipwreck claim removed (concrete sculptures confirmed)"
+          },
+          "komodo-national-park": {
+            "sites_total": 43,
+            "sites_validated_today": 30,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "CRITICAL: Crystal Bay description was fabricated from Nusa Penida Crystal Bay 400km away \u2014 full rewrite; Mawan mandarin fish wrong site (mandarin fish at Wainilu); 7 type corrections; 5 depth corrections; 4 difficulty corrections incl Bonsai Intermediate\u2192Advanced; Big Nose/Gaja Rock/Loh Sera/Payong/Seraya Kecil/Padar Bay unresolved"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/88",
+      "errors": [],
+      "notes": "japan and jordan are isGroup parent slugs; jordan-aqaba has 3 sites with Israeli coordinates flagged for data review; komodo Crystal Bay was fully fabricated from a different location 400km away"
+    },
+    {
+      "date": "2026-06-14",
+      "slugs": [
+        "la-paz-sea-of-cortez",
+        "lembeh-strait",
+        "lombok",
+        "lord-howe-island",
+        "los-cabos",
+        "madagascar"
+      ],
+      "summary": {
+        "sites_total": 73,
+        "sites_validated_today": 60,
+        "sites_re_audited": 73,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 14,
+        "wreck_conflicts_flagged": 4,
+        "sites_unresolved": 8,
+        "by_destination": {
+          "la-paz-sea-of-cortez": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "La Paz Salvatierra sinking date conflict documented (PADI 1975 vs operator sources 1976); Fang Ming depth 16m\u219222m (bajadiving.com vs divers-guide.com); La Reina depth 25m\u219226m; San Rafaelito depth 15m\u219216m; manta group size claim 8+ mantas flagged as unverified marketing; 3+ source domains per site"
+          },
+          "lembeh-strait": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Angel's Window reclassified muck\u2192pinnacle (cave swim-through); Nudi Falls reclassified muck\u2192wall (mini-wall); Retak Larry depth 25m\u219220m; Aer Bajo depth 25m\u219222m; name origins corrected: Hairball (not hairy frogfish), Retak Larry (Larry Smith wardrobe malfunction, not 'crack in rock'), Jahir (named after local guide, not 'early exploration'); WWII Zero Fighter description corrected to Mitsubishi A6M"
+          },
+          "lombok": {
+            "sites_total": 25,
+            "sites_validated_today": 20,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5,
+            "notes": "Jack Point difficulty Intermediate\u2192Advanced; Meno Corner difficulty Intermediate\u2192Beginner + drift\u2192reef; Shallow Turbo validated; all 5 Biorock sites validated; Turtle Point location dispute flagged (coordinates don't match operator descriptions), validated=false; Bounty sinking date conflict 1999 vs 2001 vs 2003 documented; Air Wall reclassification and bumphead parrotfish removed; Segaluh/Teluk NBoro/Trawangan Wall/Lombok Dive/Turtle Point unresolved"
+          },
+          "lord-howe-island": {
+            "sites_total": 8,
+            "sites_validated_today": 7,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "Erscott's Hole reclassified cave\u2192reef (not a true cave, a rocky crevice); Malabar Reef depth 18m\u219221m; Tenth of June depth 30m\u219236m; Admiralty Islands depth 40m\u219235m; Ball's Pyramid depth corrections; Malabar Rock unresolved (no site-specific sources)"
+          },
+          "los-cabos": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "Harry Lundeberg wreck at Land's End correctly identified (441ft/134m cargo ship, sank Feb 8 1954, exposed by Hurricane Odile 2014); Sand Falls discoverer corrected: Scripps Institution oceanographer Francis P. Shepard 1959 (not Cousteau); Gordo Banks seamount peak corrected to 31m/102ft; Whale Shark seasonality corrected Nov-May (not year-round); 3 hallucinated 'small fishing vessel' wrecks removed; 3+ source domains per site"
+          },
+          "madagascar": {
+            "sites_total": 4,
+            "sites_validated_today": 4,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "Shark Point depth 20m\u219235m + difficulty Intermediate\u2192Advanced; Manta divesite reclassified wall\u2192reef + depth 30m\u219221m; Rosado site name flagged (probably Banco Rosario, no sources confirm 'Rosado'); Rosado and Ranobe Reef unresolved"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/92",
+      "errors": []
+    },
+    {
+      "date": "2026-06-15",
+      "slugs": [
+        "malaysia",
+        "maldives",
+        "malta-and-gozo",
+        "manado-bunaken",
+        "marshall-islands",
+        "martinique"
+      ],
+      "summary": {
+        "sites_total": 258,
+        "sites_validated_today": 56,
+        "sites_re_audited": 256,
+        "hallucinations_removed": 20,
+        "marine_life_stripped": 14,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 126,
+        "by_destination": {
+          "malaysia": {
+            "sites_total": 0,
+            "sites_validated_today": 0,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Rate-limited before any research could complete. Deferred to next cycle."
+          },
+          "maldives": {
+            "sites_total": 137,
+            "sites_validated_today": 13,
+            "sites_re_audited": 137,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 124,
+            "notes": "last_qa_date 2026-06-15 added to all 137 sites. Victory Wreck orientation corrected (upright not port-side; 83m confirmed vs 95m false figure). Halaveli site_type pinnacle\u2192wreck (per OSM wreck tags). Kudhi Maa depth 20\u219230m. Rannamaari depth 42\u219226m + Advanced\u2192Intermediate. Miyaru Kandu atoll corrected South Male\u2192Vaavu. Keyodhoo warning: wreck drifted off reef early 2025, coordinates unreliable. 124 sites: generic attribution replaced with honest 'no site-specific sources found'. MV Xlendi orientation CRITICAL FIX: lies on starboard side (capsized), not upright. MV Karwela location: Xatt l-Ahmar Gozo (not North Malta)."
+          },
+          "malta-and-gozo": {
+            "sites_total": 119,
+            "sites_validated_today": 43,
+            "sites_re_audited": 119,
+            "hallucinations_removed": 14,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 2,
+            "notes": "119 sites (was 121: removed Mgarr-ix-Xini CSV duplicate + Sliema House Reef alias). 81 JSON field corrections. Critical entry_type fixes: Big Bear\u2192shore, Washing Machine\u2192shore, Xwejni Bay\u2192shore, Xatt l-Ahmar\u2192shore, Canyon\u2192boat, Blue Lagoon Tunnel\u2192boat. Bottleneck Cave depth 20\u219237m (technical 37-58m, NOT recreational). Alex Cave depth 20\u219216m. Jesus of Qawra depth 25\u219235m. Site types: Filfla reef\u2192wall, Madonna reef\u2192cave, Anchor Bay reef\u2192cave, Ahrax Bay reef\u2192cave, Mellieha reef\u2192beach. HMD Trusty Star designation corrected (not HMS). HMS Urge: NOT a recreational dive site \u2014 war grave/expedition only. Tower wreck opening date corrected Aug 2023 (not 2024). Douglas Skyraider + HMS Russell NOT WWII (1947 peacetime + WWI 1916). Sliema House Reef removed (alias). Xemxija Bay + St George Bay flagged unverified. Spitfire conflicts: pilot name conflict unresolved. 2 Junkers JU88 wrecks (North 55m + South 106m)."
+          },
+          "manado-bunaken": {
+            "sites_total": 0,
+            "sites_validated_today": 0,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
+          },
+          "marshall-islands": {
+            "sites_total": 0,
+            "sites_validated_today": 0,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
+          },
+          "martinique": {
+            "sites_total": 0,
+            "sites_validated_today": 0,
+            "sites_re_audited": 0,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/93",
+      "errors": [
+        "malaysia: rate-limited before research could begin",
+        "manado-bunaken: not dispatched (first batch rate-limited)",
+        "marshall-islands: not dispatched (first batch rate-limited)",
+        "martinique: not dispatched (first batch rate-limited)"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "slugs": [
+        "mauritius",
+        "mexico",
+        "micronesia",
+        "micronesia-yap",
+        "monterey-bay",
+        "mozambique"
+      ],
+      "summary": {
+        "mauritius": {
+          "sites_total": 9,
+          "sites_validated": 8,
+          "hallucinations_removed": 4,
+          "marine_life_stripped": 4,
+          "wreck_conflicts": 2,
+          "unresolved": 1
+        },
+        "mexico": {
+          "note": "group slug \u2014 child destinations already processed (Cozumel corrections applied)",
+          "sites_total": 87,
+          "corrections": 6
+        },
+        "micronesia": {
+          "note": "group slug \u2014 Chuuk Lagoon child processed",
+          "sites_total": 25,
+          "validated": 25,
+          "wreck_conflicts": 5
+        },
+        "micronesia-yap": {
+          "sites_total": 15,
+          "sites_validated": 11,
+          "hallucinations_removed": 3,
+          "marine_life_stripped": 5,
+          "depth_corrections": 8,
+          "unresolved": 4
+        },
+        "monterey-bay": {
+          "sites_total": 14,
+          "sites_validated": 14,
+          "hallucinations_removed": 7,
+          "marine_life_stripped": 5,
+          "difficulty_corrections": 4,
+          "depth_corrections": 4
+        },
+        "mozambique": {
+          "sites_total": 12,
+          "sites_validated": 9,
+          "hallucinations_removed": 6,
+          "marine_life_stripped": 7,
+          "wreck_conflicts": 1,
+          "unresolved": 3
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/94"
+    },
+    {
+      "date": "2026-06-19",
+      "slugs": [
+        "new-caledonia",
+        "new-england",
+        "new-jersey",
+        "new-zealand",
+        "newfoundland",
+        "ningaloo-reef"
+      ],
+      "summary": {
+        "sites_total": 105,
+        "sites_validated_today": 52,
+        "sites_re_audited": 100,
+        "hallucinations_removed": 23,
+        "marine_life_stripped": 38,
+        "wreck_conflicts_flagged": 14,
+        "sites_unresolved": 31,
+        "by_destination": {
+          "new-caledonia": {
+            "sites_total": 8,
+            "sites_validated_today": 6,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "La Dieppoise ship name corrected (HMCS Chaleur Bay \u2192 HMCS Chaleur MCB 144); Boulari Pass shark feeding removed (banned 2012); Devils Grotto corrected saline \u2192 freshwater; Les Pitons depth 30\u219221m + cave\u2192pinnacle; Oupere Grotto and False Pass: <3 independent sources"
+          },
+          "new-england": {
+            "sites_total": 48,
+            "sites_validated_today": 0,
+            "sites_re_audited": 48,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 25,
+            "notes": "SS James Longstreet CRITICAL: DIVING PROHIBITED (unexploded ordnance) + Navy not Army Air Forces + depth 30\u21928m; Wanderer depth 25\u21926m; Charles S. Haight 21\u21929m; Ada K. Damon date Dec 25\u219226 1909; Bass Rock site_type wreck\u2192reef; Green Jacket Shoal NOT a dive site (MPA 2018); 10+ Hampton/NH rocky sites marked needs_review (not documented dive sites); 20+ sites had fabricated marine life stripped"
+          },
+          "new-jersey": {
+            "sites_total": 11,
+            "sites_validated_today": 10,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 1,
+            "notes": "5 coordinate corrections (USS Algol, Tolten, USS San Diego, Texas Tower #4, Mohawk); Stolt Dagali stern length 140/142/145ft conflict documented; Mohawk casualties 45 vs 47 documented; Texas Tower bodies 1 vs 2 documented; Great Isaac build year 1943 vs 1944 documented; Artificial Reef Site 15 unresolved (name not in NJ DEP list)"
+          },
+          "new-zealand": {
+            "sites_total": 0,
+            "notes": "group slug; child poor-knights-islands processed instead"
+          },
+          "poor-knights-islands": {
+            "sites_total": 16,
+            "sites_validated_today": 16,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "HMNZS Tui and Waikato coordinates outside destination bounds (near Tutukaka, not Poor Knights) \u2014 documented in qa_notes; 10 depth corrections; 3 difficulty corrections (Ann's Rock Intermediate\u2192Advanced, Blue Maomao Arch Intermediate\u2192Beginner, Trevors Rock Intermediate\u2192Beginner); Oculina Point and Cream Garden reef\u2192wall; bioluminescence hallucination removed; Waikato 115mm guns corrected to 4.5-inch/114mm"
+          },
+          "newfoundland": {
+            "sites_total": 10,
+            "sites_validated_today": 8,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 2,
+            "notes": "Le Muscadin CRITICAL: not a dive site \u2014 beached vessel since 2011; MSC Baltic III: still surface vessel being demolished in place (June 2026); Rose Castle casualties 28\u219224 (3-way source conflict documented); PLM-27 torpedo hit stern\u2192amidships + builder/owner corrected; Saganaga builder Glasgow\u2192Harland & Wolff, city Edinburgh\u2192Leith; Troot Pool: unverified (no sources found)"
+          },
+          "ningaloo-reef": {
+            "sites_total": 12,
+            "sites_validated_today": 12,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 12,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "CRITICAL: Clerke Reef is in Rowley Shoals (400km away) not Ningaloo \u2014 flagged for removal/reassignment; Blizzard Ridge coordinates corrected (~100km off); Turquoise Bay corrected to primarily snorkeling not scuba; Lighthouse Bay whale shark tour departure corrected; Navy Pier grey nurse sharks winter-only (not year-round); Bundegi Reef unconfirmed species stripped; 8 depth corrections across 8 sites"
+          }
+        }
+      },
+      "pr_url": null
     }
   ]
 }

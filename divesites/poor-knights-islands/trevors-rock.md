@@ -27,7 +27,7 @@ The site accommodates divers of varying experience levels. The pitted rock surfa
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 19 meters (deepest pinnacle; many areas 3-15m)
+- **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 18-23 degrees C
 - **Current**: Variable

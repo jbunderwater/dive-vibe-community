@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes each way).
 While the swim-throughs at the Poor Knights are generally open and well-lit, they are still overhead environments. Maintain visual contact with exit points at all times. Avoid stirring up silt with careless fin kicks. Currents around the islands can be variable -- follow your dive guide's briefing on entry and exit points. Water temperature can drop below 18 degrees C outside summer, so adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-06-19.*

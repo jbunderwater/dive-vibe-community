@@ -25,7 +25,7 @@ Cream Garden is a reef dive featuring healthy coral and sponge growth with excel
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (recreational; wall extends deeper for technical divers)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 meters (good for reef work)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
 - **Current**: Mild to variable

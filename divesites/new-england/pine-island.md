@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Pine Island
 
-A submerged rocky feature in Buzzards Bay, Massachusetts, whose island top is barely visible or submerged depending on tidal state.
+A submerged rocky feature in Buzzards Bay, Massachusetts, barely visible or fully submerged depending on tidal state. Not established as a documented recreational dive site.
 
 ## Overview
 
-Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates placing it in the eastern approaches to Buzzards Bay between the Elizabeth Islands and the mainland coast near Wareham/Marion. The original OSM note on this feature states "island not visible on any imagery, only at some places" — suggesting a feature that is partially exposed at very low water but largely or entirely submerged. Buzzards Bay is a broad, shallow body of water between the Massachusetts mainland and the upper arm of Cape Cod, influenced by significant tidal flow through the Cape Cod Canal at the north end and through Vineyard Sound at the south. Rocky features like Pine Island at 15 metres depth provide the only hard substrate relief in an otherwise sandy bay floor.
+Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates placing it in the eastern approaches to Buzzards Bay. The original OSM note on this feature states "island not visible on any imagery, only at some places" — suggesting a feature that is partially exposed at very low water but largely or entirely submerged. Buzzards Bay is a broad, shallow body of water between the Massachusetts mainland and the upper arm of Cape Cod, influenced by significant tidal flow through the Cape Cod Canal at the north end and through Vineyard Sound at the south. Rocky features like Pine Island at 15 metres depth provide hard substrate relief in an otherwise sandy bay floor.
+
+Extensive research (June 2026) found no recreational dive documentation for Pine Island, Buzzards Bay by name. The site does not appear in Buzzards Bay Dive Center site listings, ScubaBoard Massachusetts threads, or dive directories. Buzzards Bay Dive Center (New Bedford) confirms the broader bay area is dived but does not list Pine Island as a named destination.
 
 ## Site Information
 
@@ -26,43 +28,17 @@ Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates pl
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 3–8 meters (Buzzards Bay visibility varies significantly)
+- **Typical Visibility**: Variable; Buzzards Bay visibility varies significantly with season and weather
 - **Current**: Moderate; Buzzards Bay tidal flow
 - **Water Temperature**: 8–22°C depending on season
-- **Best Time**: June to October
 
 ## Marine Life
 
-Buzzards Bay cold-water reef species. Tautog are resident on rocky structures. Striped bass are abundant in Buzzards Bay in warmer months — the bay is a significant striper habitat. American lobsters inhabit crevices in the rocky substrate. Sea bass present in summer. Cunner around encrusted surfaces. Winter flounder common on the sandy bay floor adjacent to the rock. Bluefish appear seasonally.
-
-## Dive Profile
-
-Boat access from Marion, Wareham, or other eastern Buzzards Bay launch points. Descend to rocky feature at 10–15 metres. The rocky relief against the otherwise sandy bay floor creates concentrated marine life. Plan around Buzzards Bay tidal state. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat required. Buzzards Bay boat launch facilities at Marion or Wareham provide convenient access. The tidal-marginal nature of the island means boat navigation requires checking the chart carefully for current depth. Anchor in sand adjacent to rock. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- Buzzards Bay visibility varies significantly — July-August can produce excellent visibility; spring and fall after rain are often poor
-- Striped bass hunting the bay are a highlight in summer months
-- The isolated rocky feature in an otherwise sandy bay attracts concentrated marine life — productive even at modest size
-- 7mm wetsuit recommended for Buzzards Bay cold water
-- Plan around tidal state — Buzzards Bay current is moderate but directional
+Cold-water temperate species typical of Buzzards Bay and southeastern Massachusetts inhabit similar rocky reef habitat in this region. No site-specific marine life surveys have been documented for Pine Island, Buzzards Bay.
 
 ## Safety Considerations
 
-Buzzards Bay tidal current from both Cape Cod Canal and Vineyard Sound flows. Cold water below thermocline. Buzzards Bay has significant summer boat traffic — deploy SMB clearly before surfacing.
-
-## Photography
-
-The isolated rock relief in a sandy bay setting creates an interesting wide-angle context. Tautog and striped bass subjects. Natural light at 15 metres is adequate in clear conditions.
-
-## Additional Resources
-
-- **Charter Access**: Marion, Wareham, and eastern Buzzards Bay boat operators
-- **Last Updated**: 2026-06-19
+Buzzards Bay tidal current flows from both Cape Cod Canal and Vineyard Sound directions. Cold water below thermocline. Buzzards Bay has significant summer boat traffic — deploy SMB clearly before surfacing.
 
 ---
-*Description based on regional diving characteristics. No site-specific dive reports found for Pine Island, Buzzards Bay. Last updated 2026-06-19.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found for Pine Island, Buzzards Bay. Sources checked: [Buzzards Bay Dive Center](https://www.buzzardsbaydivers.com/), [ScubaBoard Massachusetts threads](https://scubaboard.com/community/forums/northeast-usa/), [iDive New England — MA sites](https://www.idivenewengland.com/dive-sites/ma). Last updated 2026-06-19.*

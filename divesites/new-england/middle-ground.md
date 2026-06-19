@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Middle Ground
 
-A rocky shoal in Salem Sound between Marblehead and Beverly, Massachusetts, offering accessible cold-water reef diving in the heart of Salem Sound.
+A named rocky shoal in Salem Sound between Marblehead and Beverly, Massachusetts. Not documented as a named recreational dive site.
 
 ## Overview
 
-Middle Ground is a named rocky shoal in Salem Sound, sitting roughly in the middle of the navigable water between Marblehead to the south and Beverly Harbor to the north. "Middle Ground" is a common term in New England maritime charts for a shoal that sits in a channel or sound, creating a navigation hazard for vessels trying to transit the area. Salem Sound is the body of water between the South Shore of Massachusetts's North Shore and the open Gulf of Maine, bordered by Marblehead to the south, Beverly and Salem to the west, and Gloucester to the north. Middle Ground at 14 metres sits at the transitional zone between the busy harbor approaches and the outer sound, providing reef habitat in the midst of one of the North Shore's most active maritime zones.
+Middle Ground is a named rocky shoal in Salem Sound, sitting roughly in the middle of the navigable water between Marblehead to the south and Beverly Harbor to the north. "Middle Ground" is a common term in New England maritime charts for a shoal that sits in a channel or sound, creating a navigation hazard for vessels trying to transit the area. The feature sits at 14 metres maximum depth in the heart of Salem Sound.
+
+Extensive research (June 2026) found no recreational dive documentation for Middle Ground by name. The site does not appear in K1 Charters' Salem-area site listings, iDive New England Massachusetts pages, North Shore Frogmen records, or ScubaBoard North Shore threads. Salem Harbormaster confirms diving is permitted in Salem Sound waters outside channels, but no dive operator or diver forum lists Middle Ground as a named dive destination. Note: a previous iteration of this page incorrectly suggested pairing Middle Ground with Derby Powderhouse Wharf — that site is also not a documented recreational dive site.
 
 ## Site Information
 
@@ -26,42 +28,17 @@ Middle Ground is a named rocky shoal in Salem Sound, sitting roughly in the midd
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 4–10 meters (Salem Sound; variable with plankton season)
+- **Typical Visibility**: Variable; Salem Sound plankton and tidal mixing affect visibility seasonally
 - **Current**: Moderate tidal current; Salem Sound tidal exchange
 - **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
 
 ## Marine Life
 
-Salem Sound cold-water reef community. Tautog are the dominant fish species. American lobsters inhabit the shoal's crevices. Cunner cluster around encrusted surfaces. Pollock school in midwater — the sound supports good pollock populations. Sea urchins on open rock faces. Winter flounder and sand dabs on adjacent sandy areas. Northern sea ravens rest on the bottom. Hydroids, anemones, and bryozoans encrust shaded surfaces throughout.
-
-## Dive Profile
-
-Boat access from Marblehead Harbor or Beverly Harbor. Descend to rocky shoal at 8–14 metres. Navigate the shoal perimeter. The shoal's central sound position means it's accessible from multiple directions. Combine with Abbot Rock and Derby Powderhouse Wharf for a Salem Sound multi-site day. Plan around Salem Sound tidal state. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter from Marblehead or Beverly area. The shoal's position in the main Salem Sound creates boat traffic considerations — this is a heavily used maritime area. Anchor in sand adjacent to the shoal. Deploy SMB clearly before ascending.
-
-## Tips and Recommendations
-
-- The central Salem Sound position makes this a versatile pairing with both Marblehead and Beverly area sites
-- Salem Sound plankton bloom in spring reduces visibility — midsummer through early fall produces the clearest water
-- 7mm wetsuit or drysuit required throughout the season
-- Plan around Salem Sound tidal state for best conditions
+Cold-water temperate species typical of Salem Sound and the western Gulf of Maine approach inhabit similar rocky shoal habitat in this region. No site-specific marine life surveys have been documented for Middle Ground.
 
 ## Safety Considerations
 
 Salem Sound boat traffic is significant — Marblehead and Beverly are busy harbors. Deploy SMB clearly before surfacing. Moderate tidal current. Cold water throughout the year.
 
-## Photography
-
-Rocky shoal subjects at 14 metres with strobe lighting. Tautog and pollock portraits in the middle sound water column. Encrusting organisms on the shoal rock faces.
-
-## Additional Resources
-
-- **Charter Access**: Marblehead and Beverly area dive operators; [K1 Charters, Salem MA](https://www.k1charters.com/)
-- **Last Updated**: 2026-06-19
-
 ---
-*Description based on regional diving characteristics. [Salem Harbormaster - Scuba Diving Rules](https://www.salemma.gov/harbormaster) confirms diving is permitted in Salem Sound waters. No site-specific dive reports found for Middle Ground. Last updated 2026-06-19.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Sources checked: [K1 Charters](https://www.k1charters.com/), [iDive New England — MA dive sites](https://www.idivenewengland.com/dive-sites/ma), [Salem Harbormaster](https://www.salemma.gov/harbormaster), [ScubaBoard North Shore threads](https://scubaboard.com/community/forums/northeast-usa/). Last updated 2026-06-19.*
