@@ -2,8 +2,8 @@
 name: Trevors Rock
 lat: -35.46
 lng: 174.73
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 19
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,17 +17,17 @@ A rocky pinnacle at the Poor Knights Islands named after champion diver Trev Zen
 
 ## Overview
 
-Trevors Rock (also written Trevor's Rock or Trev's Rock) is a pinnacle formation at the Poor Knights Islands, named after Trev Zenovitch, a champion diver who was among the pioneers exploring these waters. The rock features a pitted surface that creates numerous refuges for a high variety of species, with walls beginning at around 20 meters depth and reaching the sand at 30 meters.
+Trevors Rock (also written Trevor's Rock or Trev's Rock) is a multi-level dive site at the Poor Knights Islands, named after champion diver Trev Zenovitch. The site features a shallow sand and rock area plus three separate pinnacles descending to progressively greater depths: the shallowest at 10 metres, the middle at 12-14 metres, and the deepest at 15-19 metres. A shallow archway called "El Torito arch" is suitable for snorkellers and beginners.
 
-Boats anchor on the shallow side in approximately 10 meters of water, giving access to both the shallow kelp-lit upper sections and the deeper wall. The pinnacle's varied topography -- walls, gullies, and passages through kelp -- provides diverse habitats in a compact area. The site is also noted as an excellent location for night diving, including deep night dives.
+The site accommodates divers of varying experience levels. The pitted rock surfaces create refuges for a variety of species. The site is also noted as an excellent location for night diving.
 
 ## Site Information
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 19 meters (deepest pinnacle; many areas 3-15m)
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 18-23 degrees C
 - **Current**: Variable
@@ -35,11 +35,11 @@ Boats anchor on the shallow side in approximately 10 meters of water, giving acc
 
 ## Marine Life
 
-Trevors Rock is noted as an excellent location for observing wrasses (labrids) and triplefins, along with the typical kelp forest inhabitants visible in the cathedral-lit shallow water areas. Eagle rays and long-tailed stingrays cruise the deeper water around the pinnacle. Moray eels shelter in the pitted rock surfaces, and scorpionfish hide among the kelp. Soft corals colonise shaded sections of the wall. Nudibranchs are found on the rocky surfaces throughout.
+Trevors Rock is noted as an excellent location for observing wrasses (labrids) and triplefins. A resident grey moray named "Marshall" has been reported at this site by local operators. A green turtle has been recorded as a recurring resident. Schooling koheru are common. Eagle rays and long-tailed stingrays cruise deeper areas. Moray eels shelter in the pitted rock surfaces, and scorpionfish hide among the kelp.
 
 ## Dive Profile
 
-Descend the anchor line to approximately 10 meters on the shallow side of the pinnacle. From here, explore downward along the walls and gullies to the sand at 30 meters, where eagle rays and stingrays are most likely to be encountered. The pitted rock surfaces reward close inspection for small critters. Work your way back up through the kelp passages in the shallows, where light filtering through the kelp canopy creates atmospheric conditions. The shallow top of the pinnacle provides an excellent safety stop area.
+The shallow sand and rock area at 3-12 metres is a good starting point and includes the El Torito arch, suitable for snorkellers. From here, divers can progress to the three pinnacles (10m, 12-14m, 15-19m) in sequence. The pitted rock surfaces reward close inspection for small critters. Kelp passages in the shallows create atmospheric light conditions. The site is multi-level and allows extended exploration without depth pressure.
 
 ## Entry and Exit
 
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). The boat
 Currents around the pinnacle can be variable -- follow the dive guide's briefing. The wall drops to 30 meters, so monitor depth carefully. The kelp passages in the shallows can create mild entanglement risk -- maintain good buoyancy and avoid swimming into dense kelp. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Seafriends - Poor Knights Diving](https://www.seafriends.org.nz/issues/res/pk/msquart.htm), [Ross Cattell - Diving the Poor Knights Islands](https://rosscattell.net/diving/poor-knights/poor-knights.htm). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site - Trevor's Rocks](https://www.padi.com/dive-site/new-zealand/trevors-rocks/), [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-06-19.*
