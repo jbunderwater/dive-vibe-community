@@ -17,7 +17,9 @@ The historic LV-39 lightship wreck off Newport, Rhode Island — a deep cold-wat
 
 ## Overview
 
-The LV-39 was a 119-foot (36-metre) wooden lightship built in 1875 with a 60-year career that included assignments at Vineyard Sound, Five Fathom Bank, and finally the Brenton Reef station off Newport, Rhode Island (1897–1935). Her history includes a notable collision with the battleship USS Iowa in 1905. After retirement in 1935, she served variously as a restaurant and as a Coast Guard Auxiliary clubhouse vessel before sinking under tow in the 1970s while en route to Beverly, Massachusetts. The wreck was first dived in 2004 and rests upright with a port list at 55 metres. This is a deep technical dive that requires trimix or advanced technical certification and extensive cold-water wreck diving experience. The site is located off Brenton Point, Newport, Rhode Island, at the entrance to Narragansett Bay.
+The LV-39 was a 119.6-foot (36-metre) wooden lightship built in 1875 by David Carll in Pelham, New York, from white oak and locust wood. She was the first lightship equipped with a steam fog whistle. Her career spanned 60 years and included assignments at Vineyard Sound, MA (1875–76), Five Fathom Bank, NJ (1876–77), and various relief stations before a permanent assignment at the Brenton Reef station off Newport, Rhode Island (1897–1935). In August 1905, the battleship USS Iowa struck the LV-39, carrying away part of her bow stem and causing significant damage; no lives were lost. A submarine bell was installed in 1911.
+
+After decommissioning in 1935, the vessel served as a floating restaurant in Gloucester and later as the USCG Auxiliary Lightship Flotilla 1504 clubhouse. By the early 1970s she had become derelict at the Peninsula Yacht Club in Boston. Refloated for a planned tow to a Beverly, Massachusetts shipyard, she took on water and sank en route in May 1974. The wreck was discovered on July 5, 2004 by Bob Foster, David Caldwell, and Heather Knowles. It rests upright with a list of at least 45 degrees to port in 55 metres (180 feet) of water with 6–7 metres of vertical relief. Interior penetration to the lower decks is possible for properly trained technical divers. This is a deep technical dive that requires trimix or equivalent advanced technical certification and extensive cold-water wreck experience.
 
 ## Site Information
 
@@ -34,11 +36,11 @@ The LV-39 was a 119-foot (36-metre) wooden lightship built in 1875 with a 60-yea
 
 ## Marine Life
 
-At 55 metres in cold Rhode Island waters, biological diversity is limited but present. Encrusting sponges, hydroids, and anemones colonize the wreck's exterior. Deep-water rock crabs inhabit the hull. Cod and pollock are occasionally seen in the water column above the wreck. The wreck structure itself provides the main visual interest rather than biological diversity.
+At 55 metres in cold Rhode Island waters, no site-specific marine life surveys have been published for the LV-39 wreck. The wreck structure itself provides the primary visual interest. Notable interior artifacts include dishes (from the vessel's restaurant era), copper fire extinguishers, and remaining portholes documented by early dive teams. Both the bow and stern areas are entangled in dragger nets, which pose entanglement hazards.
 
 ## Dive Profile
 
-This dive exceeds recreational limits significantly. Technical divers descend to the wreck at 55 metres. Interior penetration is possible for divers with proper technical training. The wreck provides approximately 6 metres of vertical relief, with the deck accessible at 50 metres and the hull keel at 55 metres. Multiple decompression stops are required: significant stops between 30 and 9 metres, with extended stops at 6 and 3 metres for 30–60+ minutes total decompression time. Total dive time including decompression: 90–150 minutes depending on bottom time and gas plan. Rebreather divers have more bottom time flexibility.
+This dive significantly exceeds recreational limits. Technical divers descend to the wreck at 55 metres (180 feet). The vessel rests upright with approximately 6–7 metres of vertical relief; the starboard rail (high side due to the 45-degree port list) is accessible at around 48–50 metres. Interior penetration to the lower decks is possible for divers with proper technical training — the interior is completely open with minimal obstructions. Both bow and stern sections are entangled in dragger nets; approach with care. Multiple decompression stops are required, with extended stops at 6 and 3 metres for 30–60+ minutes total decompression time. Rebreather divers have more bottom time flexibility.
 
 ## Entry and Exit
 
@@ -63,8 +65,7 @@ Technical wreck photography at 55 metres requires advanced skills and technical 
 ## Additional Resources
 
 - **Charter Access**: Northern Atlantic Dive Expeditions (NADE)
-- **Historical Reference**: Rhode Island Historical Society; Brenton Reef Light, Wikipedia
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Brenton Reef Lightship LV-39 — Northern Atlantic Dive Expeditions](https://northernatlanticdive.com/shipwrecks/brenton-reef/), [LV-39 Brenton Reef Lightship — Shipwrecks of New England](https://www.nedeepwrecks.com/lv39), [The Lightships of Rhode Island — Small State Big History](http://smallstatebighistory.com/the-lightships-of-rhode-island-1853-1962/), [Shipwrecks of Massachusetts Technical Diving — NAUI](https://www.naui.org/shipwrecks-of-massachusetts-a-divers-journey-through-technical-diving/), [Brenton Reef Lightship 10/14 — ScubaBoard](https://scubaboard.com/community/threads/brenton-reef-lightship-10-14.162818/). Last updated 2026-06-19.*

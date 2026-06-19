@@ -3,9 +3,9 @@ name: Les Pitons
 lat: -20.24
 lng: 164.01
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 21
 entryType: boat
-siteType: cave
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,9 +25,9 @@ The remote northern location, 410 kilometres from Noumea, means this site sees m
 
 - **Location**: Near Poum, northern tip of Grande Terre, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters
 - **Water Temperature**: 22-27 degrees C
 - **Current**: Generally mild in the protected bays
@@ -35,11 +35,11 @@ The remote northern location, 410 kilometres from Noumea, means this site sees m
 
 ## Marine Life
 
-The caves and tunnels shelter a variety of reef species. The good coral condition supports diverse fish communities including butterflyfish, angelfish, and groupers. The protected bays within the reef structure concentrate fish life. The pristine, rarely dived conditions mean larger and less wary fish than around more popular dive areas.
+The Poum area's remote northern lagoon supports healthy reef ecosystems. Independent sources confirm reef sharks (including blacktip sharks) in this zone. No site-specific species surveys have been published for Les Pitons itself; the general Poum area fauna applies.
 
 ## Dive Profile
 
-Enter the water near the pinnacle formations and navigate through the caves, tunnels, and bays. The maximum depth reaches approximately 30 meters in some of the deeper passages. The enclosed bays provide sheltered areas to observe fish life. Navigate through the narrow tunnel exits to move between different sections of the reef. The multiple passages and bays allow for extended exploration -- it is easy to spend an entire dive discovering new routes through the formation.
+Enter the water near the pinnacle formations. Independent sources describe Les Pitons as a drift-character site with maximum depth of 20-21 meters, frequented by sharks. The specific layout of caves, tunnels, and passages described in older sources has not been independently confirmed; dive the site as a pinnacle/pass with attention to current direction. The multiple formations allow for extended exploration in excellent visibility (30m+ reported for the northern lagoon).
 
 ## Entry and Exit
 
@@ -54,7 +54,7 @@ Access requires a dive boat from Poum or a liveaboard -- this is an extremely re
 
 ## Safety Considerations
 
-The caves and tunnels create overhead environments. While the passages generally have visible exit points, maintain awareness of your position and nearest exit throughout. Some tunnels are narrow -- maintain good buoyancy and avoid forcing through tight spaces. The 30-meter maximum depth requires appropriate gas management. The remote location means medical facilities are distant; dive conservatively.
+The remote location means medical facilities are distant; dive conservatively. Maximum depth is 20-21 meters. If overhead environments are encountered, maintain awareness of exit points at all times. Current can be a factor in passes and channels in this area.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Vvanat.fr - Plongée Nouvelle-Calédonie](https://vvanat.fr/blog/plongee-nouvelle-caledonie/), [New Caledonia Tourism](https://www.newcaledonia.travel), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Depth 20-21m per independent sources (vvanat.fr, newcaledonia.travel); cave/tunnel layout not independently confirmed. Last updated 2026-06-19.*

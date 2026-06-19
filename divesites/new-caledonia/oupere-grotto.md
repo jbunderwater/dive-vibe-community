@@ -57,4 +57,4 @@ Access by dive boat from Isle of Pines operators. Entry by giant stride near the
 The cave and tunnel system contains overhead environments. While multiple openings provide natural light and exit points, divers should maintain awareness of their position and nearest exit at all times. The tight squeezes require good buoyancy control and body awareness -- avoid forcing through any passage that feels too narrow. Carry a torch with backup. Avoid stirring up sediment with careless fin kicks.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). No additional site-specific sources found beyond McFadyen's original descriptions. Last updated 2026-06-19.*

@@ -1,7 +1,7 @@
 ---
 name: USS San Diego (ACR-6)
-lat: 40.44
-lng: -73.5667
+lat: 40.55
+lng: -73.008
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
@@ -52,4 +52,4 @@ All access is by boat charter. The wreck lies approximately 13.5 miles south of 
 The inverted orientation creates overhead-environment conditions throughout — divers exploring beneath the hull edges are in a true overhead environment requiring appropriate training, lighting, and gas reserves. Cold North Atlantic water (typical temperatures 5–13°C / 40–55°F) demands a 7mm wetsuit or drysuit. The hull sections are beginning to collapse after more than a century underwater, creating risk of shifting structure. PADI's equipment recommendations include a knife, torch, and SMB as minimum equipment. More scuba divers have died at this wreck over the decades than crew members were lost in the original sinking — treat it with respect and plan conservatively.
 
 ---
-*Sources: [USS California/San Diego — Wikipedia](https://en.wikipedia.org/wiki/USS_California_(ACR-6)), [San Diego (ACR-6) Wreck Site — Naval History and Heritage Command](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/san-diego-cruiser-6.html), [Investigation Confirms USS San Diego Sunk by U-boat Mine — USNI News](https://news.usni.org/2018/12/11/investigation-confirms-wwi-cruiser-uss-san-diego-sunk-u-boat-mine), [Wreck of the USS San Diego — PADI](https://www.padi.com/dive-site/united-states-of-america-usa/wreck-of-the-uss-san-diego/), [Shipwrecks of War NY-NJ — X-Ray Magazine](https://xray-mag.com/content/shipwrecks-war-new-york-new-jersey). Last updated 2026-05-17.*
+*Sources: [USS California/San Diego — Wikipedia](https://en.wikipedia.org/wiki/USS_California_(ACR-6)), [San Diego (ACR-6) Wreck Site — Naval History and Heritage Command](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/san-diego-cruiser-6.html), [Investigation Confirms USS San Diego Sunk by U-boat Mine — USNI News](https://news.usni.org/2018/12/11/investigation-confirms-wwi-cruiser-uss-san-diego-sunk-u-boat-mine), [Wreck of the USS San Diego — PADI](https://www.padi.com/dive-site/united-states-of-america-usa/wreck-of-the-uss-san-diego/), [Shipwrecks of War NY-NJ — X-Ray Magazine](https://xray-mag.com/content/shipwrecks-war-new-york-new-jersey). Last updated 2026-06-19.*

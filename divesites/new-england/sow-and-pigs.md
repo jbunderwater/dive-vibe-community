@@ -13,56 +13,29 @@ addedBy: osm_import
 
 # Sow and Pigs
 
-A traditional New England navigational hazard name for a rocky cluster off the Plum Island coast, now a productive shallow reef dive.
+A tidal rock cluster in the Hampton/Seabrook NH coastal zone charted as a navigational hazard. No dive-specific documentation found.
 
 ## Overview
 
-Sow and Pigs is a classic New England navigational hazard name — a "sow" (large central rock) surrounded by "pigs" (smaller flanking rocks). This naming convention appears on charts throughout New England and reflects the practical maritime tradition of describing dangerous rocky shoals with memorable names. This particular Sow and Pigs sits off the northern Massachusetts coast near Plum Island, at the western end of the reef cluster that includes Gangway Rocks and Half Tide Rocks. Generations of Newburyport-area fishermen and sailors have known these rocks as a hazard to avoid; for modern divers, the same rocks at 10 metres provide the shallow cold-water reef diving typical of the northern Massachusetts coast.
+Sow and Pigs is a cluster of tidal rocks at lat 42.815, lon -70.865 (Hampton/Seabrook NH coastal zone, western approach to Plum Island Sound). The naming convention is a traditional New England maritime practice: a "sow" (central larger rock) surrounded by "pigs" (smaller flanking rocks). The same name is used for numerous hazard clusters along the New England coast; the best-known dive site sharing this name is Sow and Pigs Reef off Cuttyhunk Island near Martha's Vineyard — that site is unrelated to this Hampton-area cluster. This site is charted as tidal (`tidal=yes`, `seamark:rock:water_level=covers`).
+
+This site has been researched against five dive-operator and directory sources: iDive New England, Portsmouth Scuba, Zentacle, Boston SCUBA, and ScubaBoard. None list this cluster as a recreational dive destination. The Hampton NH coastal zone is characterised by predominantly sandy bottom without documented offshore reef dive sites.
+
+**This site is not currently documented as a recreational dive site.** The tidal rocks exist as charted nautical hazards, but no operator, guide, or diver forum has documented dives here.
 
 ## Site Information
 
-- **Location**: Off Plum Island / western Newburyport approach, northern Massachusetts
+- **Location**: Hampton/Seabrook NH coastal zone (western Plum Island Sound approaches)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **Note**: Unrelated to Sow and Pigs Reef (Cuttyhunk/Martha's Vineyard area), which is a documented dive site
+- **Current Status**: Tidal (covers at high water); charted navigational hazard
 
 ## Marine Life
 
-The central larger rock (the "sow") and surrounding smaller rocks provide varied habitat. Tautog hold territory on the larger structures. American lobsters inhabit crevices between the central and flanking rocks — the gaps between the "sow" and "pigs" provide classic lobster shelter. Cunner hover around kelp-draped surfaces. Sea urchins are present on exposed rock faces. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on surrounding sand. Anemones and bryozoans encrust shaded surfaces year-round.
-
-## Dive Profile
-
-Boat access from Newburyport or Cape Ann. Descend to the rock cluster at 8–10 metres. The central larger rock provides a natural navigation reference. Work from the central feature outward to the smaller flanking rocks, then explore the sand-rock interfaces where lobsters concentrate. Pair with Gangway Rocks and Half Tide Rocks for a productive multi-site day. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. The name itself signals the navigation risk — a local captain who knows the approach is important. Anchor in sand well clear of the rocks. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- The traditional navigational significance of the site's name is worth researching before the dive
-- The gaps between the central "sow" rock and the surrounding "pigs" often shelter lobsters
-- Western end of the northern Massachusetts reef cluster — combine with Gangway Rocks for a two-site day
-- 7mm wetsuit or drysuit required year-round
-- Plan around slack tide
-
-## Safety Considerations
-
-Cold water year-round. The multiple rock features create navigation hazards for boats — approach with a knowledgeable captain. Moderate tidal current. Deploy SMB before surfacing.
-
-## Photography
-
-The named rock cluster lends itself to wide-angle portraits showing the central "sow" with smaller rocks in the background. Natural light at 10 metres is excellent in summer. Tautog holding territory on the rock faces are compelling subjects.
-
-## Additional Resources
-
-- **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-03-28
+This site lies in the Hampton/Seabrook NH coastal zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

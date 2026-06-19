@@ -1,7 +1,7 @@
 ---
 name: Mohawk
-lat: 40.115
-lng: -73.8833
+lat: 40.017
+lng: -73.917
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat
@@ -17,7 +17,7 @@ Mohawk is a historic wreck dive approximately eight miles off Manasquan Inlet, N
 
 ## Overview
 
-The SS Mohawk was a 387-foot (118 m) steel-hulled passenger liner that sank on January 24, 1935, after a collision with the Norwegian cargo ship Talisman off Sea Girt, New Jersey, killing 45 people. The wreck now lies in about 80 feet (24 meters) of water and is one of the most frequently dived wrecks in the Monmouth County coastal area. Demolition work by the Army Corps of Engineers and wire-dragging operations subsequently scattered the wreck over a wide area; it now covers several acres of seabed and "more resembles an underwater junkyard than a ship," with a vast jumble of hull plates and twisted metal. The dispersed structure provides extensive habitat for marine life, and the wreck remains a popular destination for lobster divers and spearfishers.
+The SS Mohawk was a 387-foot (118 m) steel-hulled passenger liner that sank on January 24, 1935, after a collision with the Norwegian cargo ship Talisman off Sea Girt, New Jersey. Sources report either 45 or 47 deaths: the Monmouth County Timeline and multiple contemporary newspaper accounts cite 45 killed, while Wikipedia states 47 (16 passengers and 31 crew). The discrepancy is unresolved; 45 is the more commonly cited figure in regional historical sources. The wreck now lies in about 80 feet (24 meters) of water and is one of the most frequently dived wrecks in the Monmouth County coastal area. Demolition work by the Army Corps of Engineers and wire-dragging operations subsequently scattered the wreck over a wide area; it now covers several acres of seabed and "more resembles an underwater junkyard than a ship," with a vast jumble of hull plates and twisted metal. The dispersed structure provides extensive habitat for marine life, and the wreck remains a popular destination for lobster divers and spearfishers.
 
 ## Site Information
 
@@ -29,9 +29,9 @@ The SS Mohawk was a 387-foot (118 m) steel-hulled passenger liner that sank on J
 
 ## Wreck History
 
-The SS Mohawk was built by Newport News Shipbuilding & Drydock Co. (yard number 287) and launched in October 1925. She measured 387 feet 5 inches in length with a beam of 54 feet 3 inches, registered at 5,896 gross tons. The ship operated on the New York to Jacksonville, Florida route for the Ward Line / Clyde Steamship Company.
+The SS Mohawk was built by Newport News Shipbuilding & Drydock Co. (yard number 287) and launched in October 1925. She measured 387 feet 5 inches in length with a beam of 54 feet 3 inches, registered at 5,896 gross tons. The ship operated coastal routes between New York and southeastern U.S. ports and the Caribbean. She was originally operated by the Clyde Steamship Company, later by Clyde-Mallory Lines, and at the time of her sinking was operated by Agwilines Inc. on the evening of January 24, 1935, she had departed New York bound for Havana, Cuba.
 
-On the evening of January 24, 1935, several miles south of Sea Girt Light approximately six miles offshore, the Mohawk's automatic steering gear failed. Confusion between bridge orders and the steering engine room caused the ship to execute a hard turn to port at full speed, directly into the path of the Norwegian freighter Talisman. The collision killed 45 people, including Captain Joseph Wood and nearly all of the ship's officers. The Mohawk carried 160 passengers at the time.
+On the evening of January 24, 1935, several miles south of Sea Girt Light approximately six miles offshore, the Mohawk's automatic steering gear failed. Confusion between bridge orders and the steering engine room caused the ship to execute a hard turn to port at full speed, directly into the path of the Norwegian freighter Talisman. The collision killed 45 to 47 people (sources conflict: Monmouth Timeline cites 45; Wikipedia reports 47 — 16 passengers and 31 crew), including Captain Joseph Wood and nearly all of the ship's officers. The Mohawk carried 160 passengers at the time.
 
 In July 1935, the Army Corps of Engineers removed the wreck's fuel oil. Over eight tons of dynamite was subsequently used to demolish the wreck, and wire-dragging operations ripped the superstructure apart to achieve the required navigational clearance of 50 feet.
 
@@ -65,4 +65,4 @@ Charter boats depart from Manasquan Inlet and nearby Point Pleasant Beach. Opera
 - Strong currents can develop at this offshore site; confirm conditions with the captain before descent
 
 ---
-*Sources: [Wikipedia — SS Mohawk (1925)](https://en.wikipedia.org/wiki/SS_Mohawk_(1925)), [Monmouth Timeline](https://monmouthtimeline.org/timeline/ss-mohawk/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [njscuba.net Mohawk page](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/mohawk/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — SS Mohawk (1925)](https://en.wikipedia.org/wiki/SS_Mohawk_(1925)), [Monmouth Timeline](https://monmouthtimeline.org/timeline/ss-mohawk/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [njscuba.net Mohawk page](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/mohawk/). **Note on death count:** Monmouth Timeline and contemporary records cite 45; Wikipedia reports 47 (16 passengers + 31 crew). Conflict unresolved. Last updated 2026-06-19.*

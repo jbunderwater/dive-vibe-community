@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Perch Island
 
-A small island and surrounding reef in the Watch Hill/Fisher's Island Sound area, offering cold-water reef diving near the Rhode Island/Connecticut border.
+A small island and surrounding reef in the Watch Hill/Fisher's Island Sound area of southwestern Rhode Island.
 
 ## Overview
 
-Perch Island is a small island feature in the Watch Hill/Stonington area at the southwestern corner of Rhode Island, where the coast turns toward Fisher's Island Sound and the Connecticut shore. The island and its surrounding rocky reef sit at approximately 15 metres maximum depth in the sound, adjacent to the Watch Hill reef cluster that includes Watch Hill Reef, Catumb Rocks, and Latimer Reef. The name "Perch Island" in this context likely reflects colonial-era perch fishing (white perch and yellow perch are New England freshwater species, but the name may reflect early freshwater fishing traditions near the many adjacent ponds and rivers, or perching birds). The rocky reef surrounding the island provides the standard Fisher's Island Sound cold-water reef diving character.
+Perch Island is a small island feature in the Watch Hill/Stonington area at the southwestern corner of Rhode Island, confirmed as a geographic feature in OpenStreetMap and the GNIS (Geographic Names Information System, feature ID 209713). Its coordinates place it in the northeastern part of the Watch Hill reef cluster, adjacent to sites including Watch Hill Reef, Catumb Rocks, and Latimer Reef. The island and its surrounding rocky reef sit at approximately 15 metres maximum depth in the sound. Perch Island does not appear in ScubaBoard threads, regional diving guides, or dive operator site listings consulted during research, though its geographic character as a small island with surrounding rocky reef is consistent with the cold-water reef diving typical of this area.
 
 ## Site Information
 
 - **Location**: Watch Hill/Stonington area, southwestern Rhode Island Sound
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 meters (variable)
@@ -33,7 +33,7 @@ Perch Island is a small island feature in the Watch Hill/Stonington area at the 
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the primary reef fish species. Striped bass hunt the area in warmer months. Bluefish pass through seasonally. American lobsters inhabit deeper crevices. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock. Encrusting sponges and anemones on shaded rock faces.
+Cold-water temperate species typical of the Watch Hill area inhabit rocky reef habitat in this region. No site-specific marine life surveys have been documented for Perch Island.
 
 ## Dive Profile
 
@@ -41,12 +41,12 @@ Boat access from Westerly RI or Stonington/Noank CT. Descend to rocky reef at 10
 
 ## Entry and Exit
 
-Boat charter required. Anchor in sand adjacent to reef. The island provides a surface reference and windbreak for the boat. Deploy SMB before ascending.
+Boat charter required. Anchor in sand adjacent to reef. The island provides a surface reference and windbreak for the boat in certain conditions. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
 - Combine with Watch Hill Reef, Catumb Rocks, and Cormorant Reef for a productive southwestern Rhode Island multi-site day
-- The island's presence means less open-water exposure than some nearby sites — can be more sheltered in certain wind directions
+- The island's presence may provide some shelter from certain wind directions compared to more exposed nearby sites
 - 7mm wetsuit or drysuit recommended throughout the season
 - Plan around slack tide
 
@@ -56,12 +56,12 @@ Fisher's Island Sound tidal currents. Cold water below thermocline. Deploy SMB b
 
 ## Photography
 
-Tautog subjects and rocky reef encrusting organisms at 15 metres. Strobes needed for color accuracy.
+Rocky reef at 15 metres. Strobes needed for color accuracy.
 
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Stonington and Noank CT area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features (GNIS feature ID 209713) and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

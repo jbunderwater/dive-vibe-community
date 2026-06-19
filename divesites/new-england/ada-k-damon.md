@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Ada K. Damon
 
-The remains of a wooden coastal schooner lost in a Christmas storm in 1909, exposed in the intertidal zone at Crane Beach, Ipswich.
+The remains of a fishing schooner converted to a sand hauler, lost on December 26, 1909, during the Great Christmas Snowstorm, exposed in the intertidal zone at Steep Hill Beach on Crane Beach, Ipswich.
 
 ## Overview
 
-The Ada K. Damon was a small wooden coastal schooner wrecked on December 25, 1909, during a severe winter storm. She grounded at Crane Beach in Ipswich, Massachusetts, at the base of Steep Hill at the southern end of the beach. Unable to free herself, the vessel was abandoned and gradually buried by the shifting sands of this barrier beach system. Today the wreck is accessible only at low tide, when the sand retreats sufficiently to expose the flattened wooden hull ribs, planking, and structural fasteners just at or below the water line. The site is managed as an archaeological resource within the Crane Estate property, owned by the Trustees of Reservations. This is an unusual archaeological site rather than a conventional scuba wreck — the maximum depth of 2 metres means the site is experienced primarily by wading and snorkeling rather than diving.
+The Ada K. Damon was an 84-foot double-masted fishing schooner, built in 1875 by H.A. Burnham in Essex, Massachusetts, measuring 84 feet in length with a 23.3-foot beam and weighing 94 tons. Originally a Grand Banks fishing vessel, she was converted to a sand-hauling schooner in 1909 by her owner, Captain A.K. Brewster, who had sold his Maine farm to invest in the vessel. On December 26, 1909 — during the severe Great Christmas Snowstorm — on her very first sand-hauling voyage, her anchor chain parted in strong winds and intense seas west of Plum Island. She was driven ashore and grounded on Steep Hill Beach at the southern end of Crane Beach in Ipswich, Massachusetts. All five crew members survived. Unable to free the vessel, Captain Brewster ultimately abandoned her as a total loss.
+
+The wreck has been periodically buried and re-exposed by shifting sands over more than 115 years. Hurricane Teddy in September 2020 broke apart the previously intact hull, scattering timbers along the beach. The Commonwealth of Massachusetts holds title to the wreck under BUAR (Board of Underwater Archaeological Resources), which has designated it a "sentinel site" for monitoring how coastal resources change due to natural processes and climate impacts. The Trustees of Reservations manage the Crane Beach property. This is an archaeological site rather than a conventional scuba wreck — the maximum depth of 2 metres means the site is experienced primarily by wading and snorkeling rather than diving.
 
 ## Site Information
 
@@ -33,7 +35,7 @@ The Ada K. Damon was a small wooden coastal schooner wrecked on December 25, 190
 
 ## Marine Life
 
-The shallow intertidal and subtidal zone around the wreck supports typical New England estuarine species. Mummichog and juvenile striped bass patrol the shallows around the exposed timbers. Green crabs pick at the wreck debris. Hermit crabs inhabit empty periwinkle shells among the hull planking. Winter flounder rest on the sandy bottom adjacent to the wreck in spring. Blue mussels attach to exposed hull fasteners. The wreck timbers themselves host encrusting organisms including barnacles and tiny anemones in the lower portions that remain wet through most of the tidal cycle.
+The shallow intertidal and subtidal zone at Crane Beach supports typical New England estuarine species characteristic of this beach type. No site-specific species surveys of the Ada K. Damon wreck area have been published; the marine life noted below reflects the general Crane Beach intertidal environment. Barnacles and blue mussels colonize any hard substrate. Green crabs, hermit crabs, and periwinkles are present throughout the intertidal zone. The wreck timbers, when exposed, provide hard substrate in an otherwise sandy environment.
 
 ## Dive Profile
 
@@ -62,9 +64,8 @@ The exposed hull timbers, partially silted and encrusted, make excellent documen
 
 ## Additional Resources
 
-- **Management**: Trustees of Reservations (Crane Estate, Ipswich)
-- **Historical Reference**: Essex County maritime records; Massachusetts BUAR wreck database
-- **Last Updated**: 2026-03-28
+- **Management**: Trustees of Reservations (Crane Estate, Ipswich); Massachusetts BUAR (Commonwealth holds title, BUAR "sentinel site" designation)
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Ada K. Damon — Wikipedia](https://en.wikipedia.org/wiki/Ada_K._Damon), [Shifting Sands & Shipwrecks: Ada K. Damon — The Trustees of Reservations](https://thetrustees.org/content/shifting-sands-and-shipwrecks/), [Wreck of the Ada K. Damon — Historic Ipswich](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/), [Century-Old Shipwreck Unearthed — Salem News](https://www.salemnews.com/news/local_news/unearthing-the-ada-k-damon/article_842e2922-6e91-5f54-9c9d-374bc3fe8dbe.html). Last updated 2026-06-19.*

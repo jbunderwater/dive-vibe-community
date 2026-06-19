@@ -13,48 +13,50 @@ addedBy: osm_import
 
 # Amadee Island Reef
 
-The reef surrounding Amadee Island and its iconic 56-meter lighthouse south of Noumea. A beginner-friendly site in the UNESCO-listed lagoon with colourful coral, abundant tropical fish, sea snakes, and sea turtles. Located in a Marine Protected Area.
+The reef surrounding Amadee Island and its iconic 56-meter iron lighthouse south of Noumea. A beginner-friendly site in the UNESCO-listed lagoon with colourful coral including yellow and blue branched corals, green sea turtles feeding on seagrass beds near the jetty, and occasional whitetip reef sharks on the outer reef. One of 10 dive sites in the Amadee Island area.
 
 ## Overview
 
-Amadee Island (Ilot Amedee) is a small islet -- just 400 meters long and 270 meters wide -- located approximately 40 minutes by boat south of Noumea. The island is dominated by the Amedee Lighthouse, a 56-meter iron structure inaugurated on 15 November 1865 that is the sole remaining metal lighthouse in France. The surrounding reef sits within the New Caledonia lagoon, a UNESCO World Heritage site.
+Amadee Island (Ilot Amedee) is a small islet approximately 24 km (40 minutes by boat) south of Noumea. The island is dominated by the Amedee Lighthouse, a 56-meter prefabricated iron structure inaugurated on 15 November 1865 -- described as the sole surviving all-metal lighthouse in France. The surrounding reef sits within New Caledonia's UNESCO World Heritage-listed lagoon.
 
-The reef around Amadee Island is protected as a Marine Protected Area, and the calm, shallow conditions make it one of the most accessible dive sites near Noumea. The coral formations are colourful and well-maintained within the protected zone, and the diversity of tropical fish is high. Sea snakes are abundant around the island, and sea turtles are frequently encountered. The site is popular for both scuba diving and snorkelling, with glass-bottom boats also operating in the area.
+Amadee Island is home to the Amedee Diving Club, described as the first dive operator to open in New Caledonia. There are 10 dive sites within 20 minutes of the island, ranging from the beginner-accessible reef to the La Dieppoise wreck at 26 meters. The reef dive itself is considered best for divers seeking turtle encounters and colourful coral in calm, clear water.
+
+Green sea turtles are the headline attraction, particularly near the jetty where seagrass beds at 0.8-2 meters depth draw turtles to feed during the day. These feeding turtles are often accompanied by sharksuckers and small trevallies. The broader reef supports yellow and blue branched corals and a high diversity of tropical fish, with whitetip reef sharks occasionally seen on the deeper outer reef sections.
 
 ## Site Information
 
-- **Location**: Amadee Island, south of Noumea, New Caledonia (UNESCO lagoon)
+- **Location**: Amadee Island (Ilot Amedee), 24 km south of Noumea, New Caledonia (UNESCO lagoon)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters
-- **Water Temperature**: 22-27 degrees C (24 degrees C typical)
+- **Typical Visibility**: 15-20 meters (30-40 m in cool season April-November)
+- **Water Temperature**: 22-27 degrees C
 - **Current**: Generally mild inside the lagoon
-- **Best Time**: October to April (warmest water)
+- **Best Time**: Year-round; April to November for best visibility
 
 ## Marine Life
 
-Sea turtles are frequently encountered on the reef. Banded sea snakes are abundant around the island. The protected reef supports over 200 species of fish and 80 species of coral. Clownfish in anemones, butterflyfish, parrotfish, and wrasses are common throughout. The Marine Protected Area status has allowed fish populations to flourish.
+Green sea turtles are the signature encounter, feeding on seagrass beds near the jetty at 0.8-2 meters -- often accompanied by sharksuckers (remora) and trevallies. Whitetip reef sharks are occasionally seen on the deeper sections of the outer reef. Yellow and blue branched corals cover much of the seafloor. The surrounding reef supports a typical Indo-Pacific reef fish community including parrotfish, wrasse, butterflyfish, and clownfish in anemones.
 
 ## Dive Profile
 
-The reef extends around the island at depths from 3-20 meters, with the most developed coral and fish life in the 5-15 meter range. Navigate along the reef edge, exploring the coral formations and watching for turtles and sea snakes. The shallow maximum depth allows extended bottom times and relaxed exploration. The site can be dived from multiple entry points around the island.
+The reef extends around the island from very shallow (under 1 meter at the jetty seagrass beds) to approximately 20 meters at the reef edge. Begin near the jetty area for the best turtle encounter probability, where turtles feed on the seagrass during the day. Move to the reef wall for deeper coral exploration at 10-20 meters. The calm lagoon conditions allow relaxed exploration at any depth.
 
 ## Entry and Exit
 
-Access by dive boat or day-trip boat from Noumea (approximately 40 minutes). The island also receives tourist boats with snorkelling programs. Entry by giant stride from the dive boat.
+Access by dive boat or catamaran day-trip from Noumea (approximately 40 minutes). The island receives both dive boats and tourist day-trip vessels. Entry by giant stride from the dive boat. Multiple entry points around the island are used depending on conditions.
 
 ## Tips and Recommendations
 
-- The sea snakes are photogenic but maintain a respectful distance; they are venomous though not aggressive
-- Turtles are regularly seen -- approach slowly and they will often continue feeding undisturbed
-- The shallow, calm conditions make this an excellent site for underwater photography beginners
-- Combine with a visit to the lighthouse -- the 247 steps to the top offer panoramic views of the lagoon
+- Check the seagrass beds near the jetty at 0.8-2 meters depth -- this is the most reliable location for green turtle encounters
+- Approach turtles slowly and from the side; avoid approaching from above or directly in front
+- The 10 dive sites in the Amadee Island area make this an excellent full day of diving -- combine with La Dieppoise wreck and Boulari Pass
+- The lighthouse's 247 steps reward climbers with panoramic lagoon views
 
 ## Safety Considerations
 
-A gentle site with minimal hazards. Sea snakes are venomous but docile; do not handle them. Currents are generally mild inside the lagoon. Boat traffic from tourist vessels is possible -- deploy an SMB during ascent and stay aware of surface activity.
+A gentle site with minimal hazards. Currents are generally mild inside the lagoon. Boat and catamaran traffic from tourist vessels operating in the area -- deploy an SMB during ascent and stay aware of surface activity before surfacing.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Solo Passport - Diving in Amedee Island](https://solopassport.com/diving-in-amedee-island/), [New Caledonia Tourism](https://au.newcaledonia.travel/destination/noumea/amedee-lighthouse/). Last updated 2026-04-08.*
+*Sources: [Snorkeling Report - Ilot Amedee](https://www.snorkeling-report.com/spot/snorkeling-ilot-amedee-new-caledonia/), [Scuba Diver Life - Best Diving in New Caledonia](https://scubadiverlife.com/best-diving-new-caledonia/), [Sud Tourism New Caledonia](https://www.sudtourisme.nc/en/let-yourself-be-guided/be-inspired/lagoon-side/diving-spots-and-snorkelling/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-06-19.*

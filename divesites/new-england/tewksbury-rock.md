@@ -3,7 +3,7 @@ name: Tewksbury Rock
 lat: 42.3451997
 lng: -70.8690155
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Tewksbury Rock is a named rocky feature in the waters off Hull and Cohasset on M
 
 - **Location**: Off Hull/Cohasset, western South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 5–10 meters (variable)
 - **Current**: Moderate tidal current
 - **Water Temperature**: 7–20°C depending on season
@@ -61,7 +61,7 @@ At 15 metres, natural light penetrates better than at 18m. Wide-angle reef portr
 ## Additional Resources
 
 - **Charter Access**: Hull and Cohasset area dive operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and nautical chart data. No site-specific dive reports found for Tewksbury Rock. Last updated 2026-06-19.*

@@ -3,7 +3,7 @@ name: Harding Ledge
 lat: 42.304912
 lng: -70.8476973
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Harding Ledge lies in the waters south of Boston Harbor off the Hull/Cohasset co
 
 - **Location**: Off Hull/Cohasset, South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–10 meters (variable)
 - **Current**: Moderate tidal current
 - **Water Temperature**: 7–20°C depending on season
@@ -61,7 +61,7 @@ Strobes needed at 18 metres for color correction. Ledge face portraits with encr
 ## Additional Resources
 
 - **Charter Access**: Hull and Scituate area dive charter operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and nautical chart data. No site-specific dive reports found for Harding Ledge. Last updated 2026-06-19.*

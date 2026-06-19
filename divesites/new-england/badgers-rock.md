@@ -13,56 +13,29 @@ addedBy: osm_import
 
 # Badgers Rock
 
-A shallow rocky reef in the Plum Island Sound area off northern Massachusetts, accessible by boat for cold-water New England reef diving.
+A tidal rock obstruction in the Hampton/Seabrook NH coastal zone charted as a navigational hazard (foul ground). No dive-specific documentation found.
 
 ## Overview
 
-Badgers Rock is a submerged rocky outcrop in the nearshore waters off northern Massachusetts, in the vicinity of Plum Island Sound and the Merrimack River approach. The site sits at coordinates in the northern reaches of Ipswich Bay, where numerous submerged ledges and rocks break the otherwise sandy shallow bottom. At just 10 metres maximum depth, this is a shallow-water reef typical of the northern Massachusetts coast — predominantly rocky substrate covered with encrusting organisms and kelp, sheltering the characteristic Gulf of Maine cold-water species. The site is best suited for newer divers building experience in New England conditions, or experienced divers who appreciate the biological richness of shallow rocky reefs.
+Badgers Rock is a tidal rock at lat 42.820, lon -70.823 (Hampton/Seabrook NH coastal zone, Plum Island/Merrimack River approach area). It is recorded in the USGS Geographic Names Information System as feature ID 613629 and has a Wikidata entry (Q4840869), confirming its status as a well-established named geographic locality. OSM classifies it as `seamark:obstruction:category=foul_ground` and `seamark:rock:water_level=covers` (tidal). It sits within the cluster of named tidal rocks including Lunts Rock, Black Rocks, Half Tide Rocks, and Sow and Pigs.
+
+This site has been researched against five dive-operator and directory sources: iDive New England, Portsmouth Scuba, Zentacle, Boston SCUBA, and ScubaBoard. None list this site as a recreational dive destination. The wider Hampton NH coastal zone is characterised by predominantly sandy bottom without documented offshore reef dive sites.
+
+**This site is not currently documented as a recreational dive site.** The tidal rock exists as a charted nautical hazard, but no operator, guide, or diver forum has documented dives here.
 
 ## Site Information
 
-- **Location**: Northern Ipswich Bay / Plum Island Sound area, northern Massachusetts
+- **Location**: Hampton/Seabrook NH coastal zone (Plum Island/Merrimack approach)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **GNIS Feature ID**: 613629 | **Wikidata**: Q4840869
+- **Current Status**: Tidal (covers at high water); charted navigational hazard
 
 ## Marine Life
 
-The rocky substrate supports the classic northern Massachusetts reef community. Tautog are resident on the harder structures. American lobsters inhabit dark crevices throughout the ledge system. Cunner school around encrusted surfaces. Pollock and Atlantic mackerel patrol in midwater above the reef. Sea urchins carpet areas of exposed rock. Encrusting red and pink coralline algae, hydroids, and anemones cover shaded surfaces. Winter flounder rest on adjacent sandy patches.
-
-## Dive Profile
-
-Access via boat charter from Newburyport, Plum Island, or Cape Ann area operators. Descend to the rocky bottom at 8–10 metres and navigate the rock edges and crevice faces. The shallow depth allows extended bottom time — plan 45–60 minutes exploring the ledge perimeter. Plan around slack tide to avoid the tidal current common in northern Massachusetts nearshore waters. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. The shoal-studded northern Massachusetts nearshore requires local knowledge. Anchor in sand adjacent to the rock. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- The shallow depth (10m max) allows generous bottom time — explore slowly and thoroughly
-- Bring a dive light for crevice investigation; lobsters shelter in the darkest recesses
-- Water temperature on this exposed coast drops to near freezing in winter — 7mm wetsuit or drysuit essential
-- Tidal current is the main challenge — plan around slack water
-- Combine with other northern Massachusetts reef sites for a productive multi-site day
-
-## Safety Considerations
-
-Cold water throughout the year requires adequate thermal protection. Moderate tidal current is typical — plan dives around slack. The shallow, rocky nearshore requires a knowledgeable local captain. Deploy SMB before surfacing.
-
-## Photography
-
-At 10 metres, natural light is excellent on clear days. Wide-angle reef portraits with abundant natural light are achievable in peak visibility. Macro subjects on encrusted rock surfaces — nudibranchs, anemone polyps, and bryozoan colonies — reward close-focus work.
-
-## Additional Resources
-
-- **Charter Access**: Newburyport or Cape Ann area dive charters
-- **Last Updated**: 2026-03-28
+This site lies in the Hampton/Seabrook NH and northern Massachusetts coastal zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features, USGS GNIS data (feature 613629), Wikidata (Q4840869), and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

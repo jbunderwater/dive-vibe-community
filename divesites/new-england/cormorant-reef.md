@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Cormorant Reef
 
-A rocky reef off the southeastern Connecticut/southwestern Rhode Island coast near Fisher's Island Sound, named for the diving birds that perch on the exposed rocks.
+A rocky reef off the southeastern Connecticut/southwestern Rhode Island coast in Fisher's Island Sound, named for the diving birds characteristic of this coastline.
 
 ## Overview
 
-Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state junction of Rhode Island, Connecticut, and New York waters — at coordinates placing it in the southwestern corner of Rhode Island Sound/eastern Fisher's Island Sound. The reef takes its name from double-crested cormorants, which characteristically roost on rocky outcrops in New England waters. The site sits at 14 metres maximum depth with the rocky substrate typical of the sound bottom in this area. The location puts it in the same general cluster as Catumb Rocks, Latimer Reef, Planet Rock, and Watch Hill Reef — all part of the rocky reef system that lines the coast from Watch Hill, Rhode Island, westward to Fishers Island, New York.
+Cormorant Reef lies in the Fisher's Island Sound area, near the junction of Rhode Island, Connecticut, and New York waters. The reef's name reflects the double-crested cormorants that characteristically roost on rocky outcrops throughout this coastline. The site sits at 14 metres maximum depth with the rocky substrate typical of the sound bottom in this area. The location places it in the same general cluster as Catumb Rocks, Latimer Reef, Planet Rock, and Watch Hill Reef — part of the rocky reef system lining the coast from Watch Hill, Rhode Island, westward to Fishers Island, New York. Cormorant Reef does not appear in ScubaBoard threads, regional diving guides, or dive operator site listings consulted during research.
 
 ## Site Information
 
 - **Location**: Fisher's Island Sound / southwestern Rhode Island Sound area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 5–12 meters (variable)
@@ -33,7 +33,7 @@ Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state juncti
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the dominant species — southern New England's premier reef fish. Striped bass cruise through in warmer months, attracted by the tidal currents. Bluefish appear seasonally above the reef in summer. American lobsters inhabit deeper crevices. Sea bass are present in summer months. Cunner hover around encrusted rock surfaces. Sea urchins colonize open rock faces. Encrusting sponges and anemones cover shaded surfaces.
+Cold-water temperate species typical of Fisher's Island Sound inhabit rocky reef habitat in this region. No site-specific marine life surveys have been documented for Cormorant Reef.
 
 ## Dive Profile
 
@@ -46,7 +46,6 @@ Boat charter required from Westerly RI or eastern Connecticut operators. Fisher'
 ## Tips and Recommendations
 
 - Fisher's Island Sound tidal currents are strong — plan dives around slack water
-- Tautog are the signature species here; early morning dives before boat traffic tends to produce better encounters
 - Combine with Planet Rock, Latimer Reef, and Watch Hill Reef for a productive southwestern Rhode Island dive day
 - 7mm wetsuit or drysuit recommended throughout the season
 
@@ -56,12 +55,12 @@ Fisher's Island Sound tidal currents can be strong through the passages near Wat
 
 ## Photography
 
-Tautog portraits on kelp-draped rock are the signature subject. Natural light at 14 metres is reasonable in summer. Strobes improve color accuracy on the encrusting organisms.
+Rocky reef at 14 metres. Natural light is reasonable in summer. Strobes improve color accuracy on encrusting organisms.
 
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Noank, Stonington, and Mystic CT area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

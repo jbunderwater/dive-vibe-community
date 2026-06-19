@@ -3,7 +3,7 @@ name: California
 lat: 42.6736209
 lng: -70.5723291
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 15
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,57 +13,59 @@ addedBy: osm_import
 
 # California
 
-A 1917-built Gloucester beam trawler that foundered in 1955 and now rests among the Dry Salvages off Rockport, Massachusetts, alongside a resident harbor seal colony.
+A 1917-built Gloucester beam trawler that foundered in 1955 and now rests between the Little Salvages and the Dry Salvages off Rockport, Massachusetts.
 
 ## Overview
 
-The fishing vessel *California* was an 82-ton wooden Boston beam trawler built in 1917, owned by Matteo Logrande and home-ported in Gloucester, Massachusetts. She foundered on September 15, 1955, settling between the Little Salvages and the Dry Salvages off Rockport — a string of rocky outcrops a mile east of Avery's Ledge. The wreck lies alongside the west side of a large rock located between the two Salvages groups, at a maximum depth of 20 metres. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site, allowing recreational diving without a permit. The nearby Dry Salvages host a year-round colony of harbor and gray seals, making this one of the few New England wreck dives with predictable seal encounters.
+The fishing vessel *California* was a wooden Boston beam trawler measuring 104.1 feet in length, 15 feet in beam, and 8.1 feet in depth (draft), with a gross tonnage of 82 tons and diesel propulsion of 171 horsepower. She was built in 1917 in Boston, Massachusetts. Her home port was Gloucester, Massachusetts. The vessel's former registry name was *Salvatore & Rosalie* (first appearing in the registry in 1932).
+
+The *California* foundered on September 15, 1955, and came to rest between the Little Salvages and the Dry Salvages off Rockport — a position alongside the west side of a large rock that breaks at low water, approximately one mile east of Avery's Ledge. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site, allowing recreational diving without a permit.
+
+The nearby Dry Salvages host a year-round colony of harbor and gray seals. The iDive New England listing for the Dry Salvages area confirms seals are present and "friendly" and "curious" toward divers, frequently approaching closely.
+
+**Location note**: The OSM data previously referenced "Graves Ledge" as the location — this is incorrect. The California and USS Grouse are located at the Dry/Little Salvages off Rockport, not Graves Ledge.
 
 ## Site Information
 
-- **Location**: Little Salvages / Dry Salvages, off Rockport, Massachusetts
+- **Location**: Between Little Salvages and Dry Salvages, off Rockport, Massachusetts (approx. 42° 40' 25" N, 70° 34' 19" W)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5–12 meters (15–40 feet)
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 5–12 metres (15–40 feet)
 - **Current**: Moderate tidal current; plan around slack
 - **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Harbor seals and gray seals from the Dry Salvages colony are the star attraction — they frequently approach divers with curiosity and will circle at close range. Tautog (blackfish) are resident on the wreck structure and surrounding rocks. Pollock and Atlantic mackerel school above the wreck. American lobsters inhabit the wooden structure and surrounding crevices — the Dry Salvages area is known for excellent lobstering. Cunner hover around the wreck's remaining timbers. Nudibranchs cling to encrusting bryozoans on the wreck. Green and purple sea urchins colonize the rocky substrate adjacent to the wreck.
+Harbor seals and gray seals from the Dry Salvages colony are confirmed at the Dry Salvages area by iDive New England and East Coast Divers, described as curious and frequently approaching divers. The area is also noted for lobster diving opportunities. No other marine life has been confirmed at this specific wreck site by sources reviewed.
 
 ## Dive Profile
 
-Access via boat charter from Rockport or Gloucester. Descend to the rocky bottom at 15–20 metres adjacent to the Salvages. The California's wooden structure has deteriorated significantly over the decades — hull timbers, frames, and scattered structural debris mark the site. Navigate the perimeter of the wreck before exploring the adjacent rocky reef. Seals often appear mid-dive from above or the side. Ascend with 60+ bar/900 psi in reserve for a 3-minute safety stop at 5 metres.
+Access via boat charter from Rockport or Gloucester. The wooden structure has deteriorated significantly over the decades. Descend to the rocky bottom adjacent to the Salvages. Navigate the wreck perimeter and explore the adjacent rocky reef. Seals may appear mid-dive. Ascend with adequate reserve for a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Boat access required via Cape Ann charter operators. The Dry Salvages area requires a knowledgeable local captain due to the submerged rocks and variable current. Anchor or moor in a clear area — reference the navigational marker near the site. Deploy SMB before ascending from depth.
+Boat access required via Cape Ann charter operators. The Dry Salvages area requires a knowledgeable local captain due to the submerged rocks and variable current. The California and USS Grouse wrecks are close enough to combine on a single charter trip. Deploy SMB before ascending from depth.
 
 ## Tips and Recommendations
 
-- Visit with Cape Ann Divers for the best local knowledge of the Dry Salvages area
-- Seals are most active and curious in summer; they may approach very closely — maintain a calm demeanor and avoid chasing them
-- The adjacent Dry Salvages rock formations are worth a reef swim, offering additional lobster and fish sightings
-- Bring a dive light to examine the remaining wooden hull timbers
+- Best combined with the USS Grouse wreck for a two-wreck Cape Ann charter
+- Seals are the premier wildlife experience — maintain a calm demeanor and avoid chasing them
+- The adjacent Dry Salvages rock formations are worth exploring for additional marine life
+- A competent local captain familiar with the Salvages is essential
 
 ## Safety Considerations
 
-The Dry Salvages area has submerged rocks that create navigation hazards for the boat — a local captain is essential. Tidal current can be strong between the rock outcrops. Water is cold year-round below 5 metres — a 7mm wetsuit or drysuit is recommended. Deploy SMB clearly before surfacing away from the anchor.
-
-## Photography
-
-Seal encounters are the premier photographic experience here — wide-angle shots with a seal's face filling the frame are achievable with patience. The wooden hull timbers photographed with a torch against the rocky bottom create atmospheric wreck images. Macro subjects on the bryozoan-encrusted timbers include nudibranchs and hydroids.
+The Dry Salvages area has submerged rocks creating navigation hazards for the boat — a local captain is non-negotiable. Tidal current can be strong between the rock outcrops. Cold water year-round below 5 metres — 7mm wetsuit or drysuit recommended. Deploy SMB clearly before surfacing.
 
 ## Additional Resources
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Charter Access**: Cape Ann Divers, Gloucester; Rockport-area charter operators
-- **Coordinates**: Latitude 42° 40' 25" N; Longitude 70° 34' 19" W
-- **Last Updated**: 2026-03-28
+- **Coordinates**: 42° 40' 25" N / 70° 34' 19" W
+- **Last QA Date**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Massachusetts BUAR — California wreck details](https://www.mass.gov/info-details/california), [iDive New England — Dry Salvages](https://www.idivenewengland.com/dive-sites/ma/dry-salvages). Only 2 site-specific sources found — needs_review status. Last updated 2026-06-19.*

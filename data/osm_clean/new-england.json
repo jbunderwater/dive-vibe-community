@@ -14,9 +14,10 @@
       "name": "Ada K. Damon",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination."
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, thetrustees.org, historicipswich.net, salemnews.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Fishing schooner (84 ft, built Essex 1875) converted to sand schooner, wrecked December 26 1909 during Great Christmas Snowstorm. Intertidal wreck at Steep Hill Beach, Crane Beach, Ipswich. BUAR archaeological site; Commonwealth holds title, Trustees of Reservations manage beach. Largely broken up after Hurricane Teddy (2020)."
     }
   },
   {
@@ -36,9 +37,10 @@
       "surface": "unpaved",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species."
+      "validated": "needs_review",
+      "validation_source": "portsmouthscuba.com, idivenewengland.com",
+      "notes": "Rocky ledge off NH seacoast near North Hampton. Not listed in Portsmouth Scuba or iDive New England site directories. Adjacent to Isles of Shoals area. Legitimate geological feature but no dive-specific reports found.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -47,7 +49,7 @@
     "lon": -70.9432337,
     "osm_id": 6566512233,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -58,9 +60,10 @@
       "wreck:date_sunk": "1924-08-26",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Wreck site off Rhode Island. Cold water, temperate conditions."
+      "validated": "true",
+      "validation_source": "wreckhunter.net, vineyardgazette.com, mattapoisettmuseum.org, wbur.org",
+      "last_qa_date": "2026-06-19",
+      "notes": "116-foot whaling bark, last square-rigged whaleship from New Bedford. Wrecked August 26, 1924 on Middle Ground shoal near Cuttyhunk. Wreckhunter lists max depth 20ft (~6m) \u2014 the prior 25m depth was incorrect. Completely broken up; small artifacts remain wedged between rocks. Location: west side of Cuttyhunk Island. No dive-specific marine life sources found."
     }
   },
   {
@@ -69,10 +72,10 @@
     "lon": -70.0428526,
     "osm_id": 7918973462,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "no",
       "historic": "wreck",
@@ -86,9 +89,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "WWII-era wreck marked as dangerous. Limited access."
+      "validated": "true",
+      "validation_source": "wikipedia.org,scubaboard.com,chathaminfo.com,coastalneighborhoods.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Liberty ship (EC2-S-C1), built Todd Houston Shipbuilding, Houston TX, launched Oct 31 1942, length 441ft 6in, 7,000 DWT. Scuttled April 25 1945 at New Found Shoal, Cape Cod Bay, ~3.5 miles off Eastham (NOT Wellfleet). Used by US Navy for air-to-surface missile testing (Project Dove, Pelican, ASM-N-2 Bat) until 1970. Site listed RESTRICTED due to unexploded ordnance \u2014 diving NOT permitted. Fully submerged during 1996 snowstorm. Lies 20-25 feet (~6-8m) depth \u2014 the prior 30m depth was incorrect. Prior markdown error: was NOT scuttled by Army Air Forces \u2014 Navy operated the test program."
     }
   },
   {
@@ -108,9 +112,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life."
+      "validated": "true",
+      "validation_source": "lighthousefriends.com, wikipedia.org, newenglandboating.com",
+      "notes": "Rocky reef in Fisher's Island Sound, marked by Latimer Reef Lighthouse (sparkplug style, built 1884, NRHP-listed). Cold water, tidal currents from Fisher's Island Sound. Tautog fishing area confirmed. No dive reports specific to this reef found.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -134,9 +139,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Fully submerged rock ledge off Cape Ann. Tautog habitat with rocky structures."
+      "validated": "needs_review",
+      "validation_source": "ecdivers.com, scubadiving.com",
+      "notes": "Submerged rock ledge off Rockport MA, approximately 1 mile west of Dry Salvages. Documented as a nautical waypoint but not listed as a named dive site by Cape Ann operators. The Dry Salvages proper (1 mile east) is the actual dive destination.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -145,7 +151,7 @@
     "lon": -69.9625855,
     "osm_id": 10995111387,
     "osm_type": "node",
-    "depth": 11,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -158,9 +164,10 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "T2 tanker broke in half during nor'easter off Monomoy Island. Scattered hull sections in 30-40 feet water. Cold water, strong currents in slack tide."
+      "validated": "true",
+      "validation_source": "wikipedia.org,newenglandhistoricalsociety.com,shipwreckworld.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "T2-SE-A1 oil tanker, 504ft long, 10,448 GRT. Broke in two Feb 18 1952 ~6 miles off Chatham. Cargo approx 120,000-122,000 barrels of heating oil (sources differ). Stern grounded off Monomoy Island near Pollock Rip Shoal. Depth: ~40 feet (~12m) \u2014 updated from erroneous 11m OSM value. Rescue: 4 Coast Guardsmen in CG-36500 rescued 32 survivors from stern section (1 stern crewman died during rescue, crushed between boat and ship; 8 bow crewmen also died). Film: 2016 Disney film The Finest Hours. BUAR Exempted Site."
     }
   },
   {
@@ -181,9 +188,10 @@
       "wreck:type": "ship",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest."
+      "validated": "true",
+      "validation_source": "provincetown-ma.gov, gutenberg.org, nps.gov, islands.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "North German iron-hulled bark (not wooden schooner). Wrecked 1872 at Head of the Meadow Beach, North Truro. Cargo: sugar and tin. Crew rescued by Life-Saving Service whaleboat; captain died days later, buried in Truro. Visible at low tide on west end of beach. Hull of iron settled firmly into sand."
     }
   },
   {
@@ -202,12 +210,13 @@
       "name": "U.S.S Yankee Exempt Site",
       "seamark:type": "wreck",
       "seamark:wreck:category": "distributed_remains",
-      "wreck:date_sunk": "1908",
+      "wreck:date_sunk": "1908-12-05",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Auxiliary cruiser sunk 1908, Buzzards Bay. Scattered hull sections, anchor hawse and rudderpost identifiable. 55 feet depth, 5 feet visibility, swift currents."
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, mass.gov, scubaboard.com, military-history.fandom.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "406-ft auxiliary cruiser ex-El Norte, built Newport News 1892. Grounded Spindle Rock (Hen and Chickens) Sep 23 1908 in dense fog; refloated Dec 4 1908; sank Dec 5 1908 under tow to New Bedford. Buzzards Bay, distributed remains on muddy bottom. BUAR Exempt Site. Dynamited 1920 as navigation hazard."
     }
   },
   {
@@ -221,7 +230,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "WWII US Navy minesweeper ran aground on reef and destroyed",
+      "description": "WWII US Navy minesweeper ran aground on Little Salvages, destroyed September 1963",
       "historic": "wreck",
       "name": "USS Grouse (AMS-15)",
       "seamark:type": "wreck",
@@ -230,9 +239,10 @@
       "wreck:date_sunk": "21 September 1963",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "US Navy minesweeper ran aground on Graves Ledge, destroyed 1963. Historic wreck site."
+      "validated": "true",
+      "validation_source": "wikipedia.org,history.navy.mil,navsource.org",
+      "last_qa_date": "2026-06-19",
+      "notes": "YMS-1-class minesweeper (YMS-135 subclass), wooden hull. Built by Al Larson Boat Building, Terminal Island CA. Laid down Aug 29 1942, launched Feb 20 1943, commissioned Oct 25 1943 as YMS-321. Renamed Grouse and redesignated AMS-15 on 18 Feb 1947 (NOT 25 Feb as some sources state). Grounded on Little Salvages off Rockport MA night of Sept 21 1963. Destroyed Sept 28 1963 \u2014 Wikipedia says 'destroyed by explosives'; other sources say covered in gasoline and set ablaze on Sept 29 \u2014 likely both occurred (explosives and fire). Prior markdown said 'fire' only \u2014 Wikipedia specifically says 'explosives.' Note: located near Little Salvages, NOT Graves Ledge (OSM note error). BUAR Exempted Site."
     }
   },
   {
@@ -241,7 +251,7 @@
     "lon": -70.5723291,
     "osm_id": 12077564744,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -250,11 +260,12 @@
       "name": "California",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "wreck:date_sunk": "15 September 1955",
+      "wreck:date_sunk": "1955-09-15",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic wreck off Graves Ledge near USS Grouse. Cold water wreck site."
+      "validated": "true",
+      "validation_source": "mass.gov, wreckhunter.net, idivenewengland.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Wooden Boston beam trawler, 104.1ft x 15ft x 8.1ft, 82 gross tons. Foundered September 15 1955 between Little Salvages and Dry Salvages off Rockport. Depth ~15m (~50ft) per mass.gov and wreckhunter.net. Located alongside west side of large rock between the two Salvages groups. BUAR Exempted Site. Harbor seal colony nearby at Dry Salvages."
     }
   },
   {
@@ -263,7 +274,7 @@
     "lon": -70.5842758,
     "osm_id": 12077564745,
     "osm_type": "node",
-    "depth": 21,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -271,12 +282,13 @@
       "historic": "wreck",
       "name": "Charles S. Haight",
       "seamark:type": "wreck",
-      "wreck:date_sunk": "1946",
+      "wreck:date_sunk": "1946-04-02",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site."
+      "validated": "true",
+      "validation_source": "wikipedia.org,rockportma.gov,wreckhunter.net,harbormasters.org",
+      "last_qa_date": "2026-06-19",
+      "notes": "Liberty ship EC2-S-C1 type. Built J.A. Jones Construction, Brunswick GA. Laid down Aug 15 1944, launched Sep 23 1944, completed Oct 3 1944. Length: Wikipedia says 441ft 6in; Rockport harbormaster and wreckhunter.net both say 422ft \u2014 discrepancy unresolved. Gross tonnage: 7,176 GRT (Wikipedia) or 7,198 (Rockport). Grounded Flatground/Flat Ground inside Dry Salvages night of April 2 1946, returning in ballast from Newport England to New York. Depth: 10-30 feet (3-9m) max per wreckhunter/Rockport sources \u2014 the prior 21m depth was significantly overstated. Engine block visible near low tide; marked Red Nun buoy '2'. Binnacle at Sandy Bay Yacht Club. BUAR Exempted Site."
     }
   },
   {
@@ -294,9 +306,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Rocky reef, temperate waters"
+      "validated": "needs_review",
+      "validation_source": "scubaboard.com, idivenewengland.com, zentacle.com, giantstridediveshop.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Rocky bottom feature in the West Passage of Narragansett Bay, RI (~41.55N 71.42W). Not documented in any recreational dive directory, dive operator site list, or diver forum. Name does not appear in ScubaBoard RI threads, iDive New England RI listings, or Zentacle. May be a very local informal name for a reef feature known only to local fishermen or boat divers. Coordinates are consistent with mid-West Passage depths of ~14m. No site-specific dive reports found."
     }
   },
   {
@@ -315,9 +328,10 @@
       "note": "Submerged at high tide.",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bsccruisingguide.com, idivenewengland.com, portsmouthscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rocky ledge off the NH seacoast near Hampton/Seabrook area (42.975N 70.599W). Submerged at high tide per OSM note. Not listed in any NH dive directory: iDive New England NH lists 10 NH sites with no mention of Cedar Island Ledge; Portsmouth Scuba local site guide lists 7 NH/ME sites with no mention. Not found in any ScubaBoard NH diving threads. Geographically real but no recreational dive documentation found."
     }
   },
   {
@@ -345,9 +359,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "historyofmassachusetts.org, historicipswich.net, idivenewengland.com, scubaboard.com, portsmouthscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Submerged remains of stone breakwater constructed 1829-1831 extending from Plum Island to Woodbridge Island at mouth of Merrimack River. Congressional appropriation of $32,000; structure proved ineffective and was destroyed by wave action after 1831. Ruins now tidal and submerged at lat 42.808, lon -70.826. Historical context confirmed by historyofmassachusetts.org and historicipswich.net. No dive-operator listings or diver trip reports found for this site. Not a documented recreational dive destination."
     }
   },
   {
@@ -371,9 +386,10 @@
       "source_ref": "survey",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, scubaboard.com, zentacle.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock/nautical hazard at lat 42.724, lon -70.801 (northern Ipswich Bay, south of the Plum Island cluster). Submerges at mid-tide (seamark covers). Confirmed as charted navigational hazard. No dive-operator listings or diver trip reports found across five dive operator and forum sources. iDive New England, Portsmouth Scuba, Cape Ann Divers, Boston SCUBA, and Zentacle do not list this site. The Newburyport/Plum Island area is characterised by sandy bottom with dive operators directing divers to Cape Ann (Gloucester/Rockport) instead."
     }
   },
   {
@@ -401,9 +417,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, scubaboard.com, zentacle.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock cluster lat 42.812, lon -70.858 (Hampton Beach / Seabrook NH coastal zone). OSM records note that Gangway Rock (formerly part of this cluster) was removed by US Army Corps of Engineers contract in 1880s per 1881 Chief of Engineers report p.512. No dive-operator listings or diver trip reports found for this cluster or the wider Hampton NH reef area. Not listed by iDive New England, Portsmouth Scuba, Cape Ann Divers, Boston SCUBA, or Zentacle. Hampton Beach area ScubaBoard threads note predominantly sandy bottom; offshore rocky sites not documented as dive destinations."
     }
   },
   {
@@ -427,9 +444,10 @@
       "source": "osm_extended",
       "tidal": "no",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, zentacle.com, bostonscuba.com, scubaboard.com, portsmouthscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Permanently submerged rock obstruction (foul_ground) at lat 42.701, lon -70.759 in northern Ipswich Bay. No dive-operator listings or trip reports found. Not listed by any of the five dive operator/directory sources checked. Located between Crane Beach and Plum Island Sound approaches, an area characterised by sandy bottom without documented recreational dive sites."
     }
   },
   {
@@ -439,7 +457,7 @@
     "osm_id": 441445427,
     "osm_type": "way",
     "depth": 18,
-    "site_type": "wreck",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -456,8 +474,10 @@
       "surface": "rock",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity"
+      "validated": "true",
+      "validation_source": "naturalatlas.com, kids.kiddle.co, en.wikipedia.org",
+      "last_qa_date": "2026-06-19",
+      "notes": "Rocky ledge/navigation hazard between Plum Island Sound and Ipswich Bay. OSM tags natural=reef, reef=rock, no historic=wreck tags. No wreck evidence found in research. site_type corrected from wreck to reef."
     }
   },
   {
@@ -485,9 +505,10 @@
       "start_date": "1883",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "historicipswich.net, historyofmassachusetts.org, idivenewengland.com, scubaboard.com, portsmouthscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Submerged remains of stone dike constructed 1883 across the entrance to the Basin at northern Plum Island, intended to prevent Merrimack River from reverting to original outlet. Start date 1883 confirmed by OSM tag and historicipswich.net. Traces reportedly still visible at low tide (historicipswich.net). Now tidal and submerged at lat 42.813, lon -70.820. No dive-operator listings or diver trip reports found for this site. Not a documented recreational dive destination."
     }
   },
   {
@@ -511,9 +532,10 @@
       "tidal": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, zentacle.com, scubaboard.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock obstruction (foul_ground) at lat 42.821, lon -70.827 in the Plum Island/Merrimack River approach zone (Hampton/Seabrook NH coastal area). No dive-operator listings or diver trip reports found across five sources checked. ScubaBoard discussions confirm Newburyport/Plum Island area is predominantly sandy with no documented offshore reef dive sites; local divers are directed to Cape Ann (Gloucester/Rockport) instead."
     }
   },
   {
@@ -536,9 +558,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, zentacle.com, scubaboard.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock cluster at lat 42.815, lon -70.865 (Hampton/Seabrook NH coastal zone, Plum Island Sound outer approaches). Traditional New England navigational hazard name (sow = central large rock, pigs = flanking smaller rocks). A separate 'Sow and Pigs Reef' (Martha's Vineyard area, Cuttyhunk) is a well-known dive site but is unrelated. No dive-operator listings or diver trip reports found for this Hampton-area site."
     }
   },
   {
@@ -565,9 +588,10 @@
       "source": "osm_extended",
       "tidal": "yes",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, zentacle.com, scubaboard.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock obstruction (foul_ground, GNIS feature 613703) at lat 42.821, lon -70.835 in the Plum Island/Merrimack River approach zone. No dive-operator listings or diver trip reports found for this site across five sources checked. Part of the Hampton/Seabrook NH coastal cluster of named navigational hazards that are not documented as recreational dive sites."
     }
   },
   {
@@ -590,9 +614,10 @@
       "source": "osm_extended",
       "tidal": "no",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, zentacle.com, scubaboard.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Permanently submerged rock hazard at lat 42.814, lon -70.858 (Hampton/Seabrook NH coastal zone). Note: the adjacent Half Tide Rocks (osm_id 322041507) was formerly called Gangway Rock; a rock named Gangway Rock was removed by US Army Corps contract in 1880s. This separate feature (Gangway Rocks) is permanently submerged. No dive-operator listings or diver trip reports found. Not a documented recreational dive site."
     }
   },
   {
@@ -618,9 +643,10 @@
       "wikidata": "Q4840869",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, portsmouthscuba.com, zentacle.com, scubaboard.com, bostonscuba.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Tidal rock obstruction (foul_ground, GNIS 613629, Wikidata Q4840869) at lat 42.820, lon -70.823 in the Plum Island/Merrimack River approach zone (Hampton/Seabrook NH coastal area). Confirmed as a named geographic locality and nautical hazard. No dive-operator listings or diver trip reports found across five sources. Not a documented recreational dive site."
     }
   },
   {
@@ -638,9 +664,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "scubaboard.com, onthewater.com",
+      "notes": "Rocky reef at SW Rhode Island near Watch Hill Point. Confirmed active dive site: 2017 ScubaBoard report documents depths to 51ft (~15.5m), visibility 10-15ft, slight manageable current, moorings available, heavy summer boat traffic. Tautog (tog) and white perch (chinners) specifically confirmed. Regional fishing sources confirm Watch Hill Reef complex (includes Sugar Reef, Catumb Rocks) hosts striped bass, bluefish, bonito, false albacore, scup, fluke, black sea bass, blackfish.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -658,9 +685,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "onthewater.com, uscg.gov",
+      "notes": "Submerged rocky outcrops at entrance to Fisher's Island Sound, Watch Hill RI. Confirmed as part of Watch Hill Reef complex (alongside Watch Hill Reef, Sugar Reef, passages at Lords and Wicopesset). Specifically flagged as a boating grounding hazard by regional fishing sources. USCG buoy records list Catumb Passage Buoy 3C confirming it as a marked navigational hazard. No dive-specific reports found for this site.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -680,9 +708,10 @@
       "seamark:type": "sea_area",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, scubaboard.com, scubashackct.com",
+      "notes": "Submerged rocky feature at western end of Fisher's Island Sound (41.311N 71.992W) near CT/RI border. Name Planet Rock does not appear in ScubaBoard CT/RI threads, iDive New England CT or RI directories, Scuba Shack CT local dive listings, or any other dive operator sources found. Confirmed as a named OSM sea area feature. No dive-specific reports found.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -700,9 +729,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, scubaboard.com, scubashackct.com",
+      "notes": "Rocky reef in Fisher's Island Sound area (41.326N 71.952W), near RI/CT/NY junction. Named for double-crested cormorants that characteristically roost on rocky outcrops in New England. Not listed in ScubaBoard CT/RI threads, iDive New England CT or RI directories, or Scuba Shack CT local dive listings. No dive-specific reports found for this site.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -720,9 +750,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Rocky shoal feature off Nahant/Lynn area MA (42.522N 70.772W). Not found as a named dive site in Boston SCUBA's site list, iDive New England MA directory, or ScubaBoard Boston Harbor threads. The Nahant area is dived (Canoe Beach, 40 Steps are documented Nahant shore dives) but Inner Breakers by this name does not appear in any dive directory. Coordinates place it east of Nahant peninsula in outer Salem Sound approach."
     }
   },
   {
@@ -731,7 +762,7 @@
     "lon": -70.8453155,
     "osm_id": 816347618,
     "osm_type": "way",
-    "depth": 18,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -740,9 +771,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "true",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed recreational dive site. Listed by Boston SCUBA (bostonscuba.com/dive-charters/dive-sites/) and iDive New England (idivenewengland.com/dive-sites/ma/3-1-2-fathoms-ledge). Shallowest point approximately 8m/25ft; drops to 25m+/80ft+ with shear vertical walls in many areas. Very deep by South Shore standards. Strong current on exposed south of Boston Harbor position. Good marine life throughout. Named for the colonial-era sounding of 3.5 fathoms (6.4m) over the summit \u2014 now the listed name is historically accurate but the maximum depth is much greater."
     }
   },
   {
@@ -751,7 +783,7 @@
     "lon": -70.8588982,
     "osm_id": 816347619,
     "osm_type": "way",
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -760,9 +792,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "true",
+      "validation_source": "bostonscuba.com, scubaboard.com, liquid-origins.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed recreational dive site. Listed by Boston SCUBA (bostonscuba.com/dive-charters/dive-sites/) as a charter destination. Top starts at 6-8m/20-25ft and drops to 21m+/70ft. Features large pinnacles and deep crevices; very rocky bottom. Discussed in multiple ScubaBoard Boston Harbor threads alongside Tewksbury Rock. Located east of Outer Brewster Island. Strong current; dive at slack tide."
     }
   },
   {
@@ -771,7 +804,7 @@
     "lon": -70.8690155,
     "osm_id": 816347620,
     "osm_type": "way",
-    "depth": 15,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -780,9 +813,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "true",
+      "validation_source": "bostonscuba.com, liquid-origins.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed recreational dive site. Listed by Boston SCUBA (bostonscuba.com/dive-charters/dive-sites/) as a multi-level dive. Large rock pinnacle shallowest at 3-5m/10-18ft, drops to 21m/70ft. Huge boulders forming walls and ledges, beautiful valleys and crevasses. Kelp-covered upper section, clearer at depth. Cunner, tautog, lobster, scallops documented (liquid-origins.com dive blog). Strong current \u2014 must dive at slack tide. 50-minute boat ride from dive shop dock. Considered one of the best South Shore ledge dives."
     }
   },
   {
@@ -800,9 +834,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed as a named geographic feature in Plymouth County MA (Mapcarta topo maps; AnyPlaceAmerica). Not listed as a named recreational dive site by Boston SCUBA, iDive New England, or in ScubaBoard Boston Harbor threads. The adjacent South Shore ledge cluster (Harding, Martin, Tewksbury, 3.5 Fathoms) is dived, but Utonia Ledge specifically is not documented in dive directories. Likely dived informally as part of the South Shore ledge system but no specific dive reports found."
     }
   },
   {
@@ -811,7 +846,7 @@
     "lon": -70.8476973,
     "osm_id": 816347622,
     "osm_type": "way",
-    "depth": 18,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -820,9 +855,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "true",
+      "validation_source": "bostonscuba.com, en.wikipedia.org, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed recreational dive site. Listed by Boston SCUBA (bostonscuba.com/dive-charters/dive-sites/) as a charter destination. Wikipedia article confirms it as a shoal 1.5 miles east of Point Allerton, Hull MA. Depths 3-12m/10-40ft, very rocky bottom. Historic wreck debris visible throughout \u2014 known as a site of numerous shipwrecks. Easy access for divers, though exposed to Massachusetts Bay. Tidal bell buoy guides navigation. Good marine life with lots of color and growth on the rocky structures."
     }
   },
   {
@@ -840,9 +876,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Named navigational ledge appearing on NOAA charts in the South Shore ledge cluster, near Minots Ledge off Scituate/Cohasset MA. Not listed as a named recreational dive site in any dive directory found (Boston SCUBA, iDive New England, ScubaBoard Boston Harbor thread). Mentioned in Massachusetts inshore fishing reports as a bass and striped bass ledge habitat. Geographically real; dive-specific documentation absent. The South Shore ledge system is dived but Enos Ledge by name has not surfaced in the recreational dive record."
     }
   },
   {
@@ -851,7 +888,7 @@
     "lon": -70.7586694,
     "osm_id": 816347624,
     "osm_type": "way",
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -860,9 +897,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "true",
+      "validation_source": "scubaboard.com, en.wikipedia.org, lighthousefriends.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Confirmed as a dived site from 2002 ScubaBoard first-hand account (scubaboard.com/community/threads/minot-light-ma.11461/). Depth range 1.5-20m/5-65ft across the ledge; anchorage in 14m/45ft to east. Diver reported excellent visibility (starfish visible from surface at 8m/25ft depth), mild current, pollock schools, stripers, winter flounder, starfish, lobster. Wreck debris from 1851 original iron lighthouse and historical shipwrecks among the rocks. The 1860 granite lighthouse tower (privately owned since 2014) is a prominent surface navigation reference. Not listed by commercial charter operators \u2014 dived privately. No formal exclusion zone around the reef. Wikipedia: reef off Cohasset MA, 15 miles SE of Boston, technically within Scituate town limits, site of 40+ wrecks 1832-1841."
     }
   },
   {
@@ -880,9 +918,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Named navigational ledge in the South Shore cluster near Minots Ledge, off Scituate/Cohasset MA. Not listed as a named recreational dive site in any dive directory (Boston SCUBA, iDive New England, ScubaBoard Boston Harbor threads). The adjacent South Shore ledge cluster (Harding, Martin, Tewksbury) is dived commercially but Davis Ledge by name has not appeared in recreational dive records. Likely dived informally by local boat divers but no specific trip reports found."
     }
   },
   {
@@ -900,9 +939,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Named navigational ledge in the South Shore ledge cluster off Scituate MA. Mentioned in fishing reports as inshore bass habitat. Not listed as a named recreational dive site in any dive directory found. The South Shore ledge system is dived (Harding, Martin, Tewksbury are commercial charter sites) but Tobias Ledge by name has not appeared in recreational dive records."
     }
   },
   {
@@ -920,9 +960,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "bostonscuba.com, idivenewengland.com, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Informally named ledge in the South Shore ledge cluster off Scituate MA (Mikes/Mike's Ledge). Not found in any New England dive directory, database, or forum. The informal name suggests local knowledge not yet documented in recreational dive records. Not listed by Boston SCUBA, iDive New England, or ScubaBoard Boston Harbor threads. May be a very local name for an undocumented bottom feature."
     }
   },
   {
@@ -943,9 +984,10 @@
       "note": "island not visible on any imagery, only at some places",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "buzzardsbaydivecenter.com, scubaboard.com, scubadiving.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Submerged rocky feature in Buzzards Bay MA (41.517N 70.681W). OSM note states 'island not visible on any imagery, only at some places' \u2014 largely or entirely submerged tidal feature. Not found as a named recreational dive site in Buzzards Bay dive resources: Buzzards Bay Dive Center (now closed) did not list it, ScubaBoard Buzzards Bay thread discusses the Angela barge and Hilda Garston wrecks at Hens and Chickens Reef but not Pine Island. Geographically real; no dive documentation found."
     }
   },
   {
@@ -967,9 +1009,10 @@
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "salemma.gov, idivenewengland.com, scubaboard.com, k1charters.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Named navigational rock feature in outer Salem Sound, north of Marblehead MA (42.530N 70.862W). GNIS feature_id 614628 confirms as a geographic feature. Not found as a named recreational dive site in iDive New England MA directory, K1 Charters (Salem-based) site list, North Shore Frogmen dive club listings, or ScubaBoard Salem area threads. Salem Harbor diving is permitted by harbormaster but Abbot Rock specifically has not appeared in dive directories. Geographically real; no dive-specific documentation found."
     }
   },
   {
@@ -991,9 +1034,10 @@
       "reef": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "salemma.gov, idivenewengland.com, scubaboard.com, k1charters.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "Named navigational shoal in Salem Sound between Marblehead and Beverly MA (42.530N 70.853W). GNIS feature_id 614736. Not found as a named recreational dive site in any dive directory checked (iDive New England, K1 Charters Salem, North Shore Frogmen, ScubaBoard Salem area threads). The name 'Middle Ground' is a common chart designation for shoals in navigable passages; this is a real navigational hazard but has no recreational dive documentation found."
     }
   },
   {
@@ -1024,9 +1068,10 @@
       "start_date": "1765",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "nps.gov, en.wikipedia.org, npgallery.nps.gov, scubaboard.com",
+      "last_qa_date": "2026-06-19",
+      "notes": "CAUTION: OSM NRHP attribution (ref:nrhp 94000335) is likely an error \u2014 NRHP #94000335 is the Winter Island Historic District and Archeological District in Salem, not 'Derby Powderhouse Wharf'. The coordinates (42.526N 70.872W) place this in Salem Harbor between Derby Wharf and Winter Island. This OSM entry appears to represent a submerged stone pier ruin (reef=stone, ruins=pier) \u2014 consistent with one of the ~47 lost Salem wharves now beneath the harbor. Salem once had 50+ wharves; only Derby, Central, Hatch's, and Tucker survive above water. Not a recognized recreational dive site: not listed in iDive NE, K1 Charters, North Shore Frogmen, or any ScubaBoard Salem thread. Salem Harbor dive visibility is typically very low (harbor conditions). The existing site_type='reef' and notes about marine life are unsupported. MACRIS SAL.931 is a Massachusetts Historical Commission catalog number for a structure within Salem's maritime heritage inventory."
     }
   },
   {
@@ -1041,7 +1086,7 @@
     "difficulty": "Beginner",
     "tags": {
       "access": "yes",
-      "description": "1890s cargo steamship that was abandoned and left to sink",
+      "description": "1892 freight sidepaddle steamship, Fall River Line, abandoned 1930s",
       "historic": "wreck",
       "name": "City of Taunton",
       "seamark:type": "wreck",
@@ -1052,9 +1097,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "Fall River Line freight steamship, Brayton Point Somerset MA. Visible at low tide on Mount Hope Bay, shallow water access."
+      "validated": "true",
+      "validation_source": "en.wikipedia.org, commons.wikimedia.org, coastalneighborhoods.com",
+      "notes": "Freight sidepaddle steamship 292 ft (89 m), built 1892 Chelsea MA by Montgomery & Howard for Fall River Line. Involved in 1903 fog collision with City of Plymouth (6 dead on Plymouth). Grounded/abandoned 1930s on Mount Hope Bay shore at Somerset MA. Wreckage visible at low tide.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -1063,7 +1109,7 @@
     "lon": -71.3932944,
     "osm_id": 1304349266,
     "osm_type": "way",
-    "depth": 18,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1075,9 +1121,10 @@
       "wikipedia": "en:Green Jacket Shoal",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "en.wikipedia.org, uri.edu, providenceriverboat.com, ricrmc.ri.gov",
+      "last_qa_date": "2026-06-19",
+      "notes": "CAUTION: Green Jacket Shoal is NOT a recreational dive site. Wikipedia (en:Green Jacket Shoal): 33-acre shoal in the Providence River between Fox Point (Providence) and Bold Point (East Providence), RI \u2014 named for thick green eelgrass that once grew there. It is Rhode Island's largest ship graveyard, with 29 shipwrecks identified by URI marine archaeologist David Robinson (2015-2018), including sidewheelers Bay Queen and Mount Hope and 17 scow barges. The shoal was the 'parking lot' for the Providence Dry Dock and Marine Railway Co. 1884-1919. Since 2018, the site is a Marine Protected Area (RI Coastal Resources Management Council) with a restricted perimeter. The 18m/59ft depth field is almost certainly wrong \u2014 the Providence River at this location is very shallow (surface debris visible, described as 'shallow enough to be difficult for ships'); maximum depth likely 3-6m. The site has boat tours (Providence River Boat Company glass-bottom tours) but no scuba diving documentation exists. Classification as 'natural reef' is incorrect \u2014 it is an anthropogenic wreck/debris site on a shoal. No recreational dive records found on ScubaBoard or any dive directory."
     }
   },
   {
@@ -1098,9 +1145,10 @@
       "wikidata": "Q31828706",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
+      "validated": "needs_review",
+      "validation_source": "idivenewengland.com, scubaboard.com, scubashackct.com",
+      "notes": "Small island and surrounding rocky reef in Watch Hill/Stonington area, SW Rhode Island (41.327N 71.865W). Confirmed as geographic feature in GNIS (feature_id 209713) and OSM. Not listed in ScubaBoard RI threads, iDive New England RI directory (which lists only 5 sites: Beavertail, Bull Point, Fort Wetherill, Kings Beach, U-853), or Scuba Shack CT local dive listings. No dive-specific reports found.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -1118,9 +1166,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "perplexity",
-      "notes": "LV39 Lightship wreck, 180 feet depth. Advanced dive only. Wooden vessel, upright position with 20-25 feet relief. Accessible to lower decks."
+      "validated": "true",
+      "validation_source": "northernatlanticdive.com, nedeepwrecks.com, smallstatebighistory.com, naui.org, scubaboard.com",
+      "notes": "LV-39 lightship, built 1875 by David Carll in Pelham NY. 119.6 ft wooden vessel. Stations: Vineyard Sound (1875-76), Five Fathom Bank NJ (1876-77), relief (1877-1897), Brenton Reef RI (1897-1935). Struck by battleship USS Iowa August 1905 (bow damage). Decommissioned 1935; served as floating restaurant (Gloucester) then USCG Auxiliary clubhouse. Sank May 1974 under tow to Beverly MA. Discovered July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Upright, 45-degree port list, 180 ft depth, 20-25 ft relief.",
+      "last_qa_date": "2026-06-19"
     }
   }
 ]

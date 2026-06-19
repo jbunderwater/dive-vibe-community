@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # City of Taunton
 
-The abandoned hull of an 1890s Fall River Line freight steamship, visible at low tide on the western shore of Mount Hope Bay in Somerset, Massachusetts.
+The abandoned hull of an 1892 Fall River Line freight sidepaddle steamship (292 feet / 89 metres long), visible at low tide on the western shore of Mount Hope Bay in Somerset, Massachusetts.
 
 ## Overview
 
-The *City of Taunton* was a freight steamship built in 1892, one of the vessels that served the Fall River Line — the legendary overnight steamship route that connected Providence, Rhode Island, to New York City via Fall River, Massachusetts. The Fall River Line operated from the 1840s until 1937 and was famous for its lavish sidewheel steamers, but the *City of Taunton* was a working freight vessel in this fleet. The ship was abandoned circa 1930 and left to settle on the western shore of Mount Hope Bay at Brayton Point in Somerset, Massachusetts. Mount Hope Bay is a tidal arm at the head of Narragansett Bay. The wreck is visible at low tide, making it one of the few New England wreck sites that requires almost no diving equipment to experience. At just 4 metres maximum depth, this is primarily an archaeological and historical visit site rather than a conventional scuba dive.
+The *City of Taunton* was a 292-foot (89-metre) freight sidepaddle steamship built in 1892 at Chelsea, Massachusetts, by the Montgomery & Howard shipyard. She served the Fall River Line — the overnight steamship service connecting Providence, Rhode Island, to New York City via Fall River — as a working cargo vessel, distinct from the Line's famous ornate passenger sidewheelers. The Fall River Line operated from the 1840s until 1937.
+
+In March 1903, the *City of Taunton* was involved in a collision with the *City of Plymouth* in thick fog, killing six people aboard the Plymouth. The Taunton sustained damage but was towed to New London and repaired. She continued in service until the 1930s, when she was grounded and abandoned at Somerset, Massachusetts, on the western shore of Mount Hope Bay at what is now the Brayton Point area. Mount Hope Bay is a tidal arm at the head of Narragansett Bay. The wreck is visible at low tide, with hull ribs and ironwork still identifiable in photographs taken as recently as 2010. At just 4 metres maximum depth, this is primarily an archaeological and historical visit site rather than a conventional scuba dive.
 
 ## Site Information
 
@@ -33,7 +35,7 @@ The *City of Taunton* was a freight steamship built in 1892, one of the vessels 
 
 ## Marine Life
 
-Shallow upper bay estuarine species. Juvenile striped bass patrol the shallows around the wreck structure in summer. Green crabs pick at the wreck debris. Mummichog and Atlantic silverside school in the tidal shallows. Juvenile bluefish appear in warm months. The wreck provides the only hard substrate for some distance in the otherwise soft-bottom bay — mussels attach to exposed hull sections, and barnacles colonize any higher structure.
+Shallow Mount Hope Bay estuarine habitat. No site-specific species surveys of the City of Taunton wreck have been published. The wreck provides the only hard substrate for some distance in the otherwise soft-bottom bay. Mussels and barnacles are typical colonizers of exposed metal structure in this brackish tidal environment. General shallow-water bay species (green crabs, mummichog, Atlantic silverside) are characteristic of the area but have not been specifically documented at the wreck.
 
 ## Dive Profile
 
@@ -61,8 +63,8 @@ The exposed wooden hull ribs and ironwork in natural low-tide light provide docu
 
 ## Additional Resources
 
-- **Historical Reference**: Fall River Line maritime history — Fall River Historical Society; Old Colony History Museum, Taunton
-- **Last Updated**: 2026-03-28
+- **Historical Reference**: Fall River Historical Society; Old Colony History Museum, Taunton
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [City of Taunton (ship) — Wikipedia](https://en.wikipedia.org/wiki/City_of_Taunton_(ship)), [City of Taunton — Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:City_of_Taunton_(ship,_1892)), [Cape Cod Shipwrecks — Coastal Neighborhoods](https://www.coastalneighborhoods.com/blog/cape-cod-shipwrecks/). Last updated 2026-06-19.*

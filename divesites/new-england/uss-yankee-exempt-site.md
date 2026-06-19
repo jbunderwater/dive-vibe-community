@@ -13,11 +13,15 @@ addedBy: osm_import
 
 # U.S.S. Yankee (Exempt Site)
 
-The scattered remains of a 406-foot Spanish-American War auxiliary cruiser that foundered under tow in Buzzards Bay in 1908.
+The scattered remains of a 406-foot Spanish-American War auxiliary cruiser that sank under tow in Buzzards Bay on December 5, 1908, after grounding on Spindle Rock near Hen and Chickens Reef.
 
 ## Overview
 
-The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally built as a civilian vessel and converted for naval service during the Spanish-American War of 1898. After the war she served as a training ship for Naval Reserve forces. On December 5, 1908, while being towed to New Bedford for maintenance, the Yankee ran aground on a ledge in Buzzards Bay. After five tow attempts failed to free her, she broke up and sank in approximately 17 metres of water roughly 3 miles east of Round Hill Point in South Dartmouth, Massachusetts. The wreck is managed by Massachusetts BUAR as an Exempted Site, allowing recreational diving without a permit. Hull remains are spread across the bottom with low profile, though some sections rise up to 3 metres off the seabed. The anchor hawse pipe marks the bow position; the rudderpost identifies the stern. Large sections of iron plating lie flat, creating a dispersed but clearly identifiable debris field.
+The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally built as a civilian steamship (*El Norte*, launched June 14, 1892 at Newport News Shipbuilding, 6,225 tons displacement). The Navy acquired and commissioned her as USS Yankee on April 14, 1898 for service in the Spanish-American War, during which she engaged shore batteries off Santiago, participated in the Guantanamo Bay cable-cutting operation, and conducted blockade operations off Cuba. After the war she served as a Naval Reserve training ship.
+
+On September 23, 1908, while on a training cruise in dense fog compounded by smoke from shore fires, Yankee ran aground on Spindle Rock near the Hen and Chickens lightship in Buzzards Bay. Salvage teams refloated her on December 4, 1908, but she sank the following day — December 5, 1908 — while under tow to New Bedford. The wreck was subsequently dynamited in 1920 as a hazard to navigation. What remains are scattered hull sections on a muddy bay bottom.
+
+The wreck is managed by Massachusetts BUAR as an Exempted Site, allowing recreational diving without a permit. Hull remains are distributed across the bottom with a low profile typical of a dynamited wreck. Divers report the wreck is "flattened out on a muddy bottom" with typically poor visibility. The anchor hawse pipe marks the bow position; the rudderpost identifies the stern.
 
 ## Site Information
 
@@ -33,7 +37,7 @@ The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally bu
 
 ## Marine Life
 
-The iron hull plating and scattered debris provide hard substrate in an otherwise silty bay environment. Tautog patrol the larger structural pieces. Striped bass cruise through in warmer months. Pollock school in mid-water above the debris field. American lobsters shelter beneath the overhanging hull sections. Encrusting bryozoans, hydroids, and anemones cover the older iron surfaces. Cunner hover around the metal edges.
+The scattered iron hull debris provides hard substrate in an otherwise silty Buzzards Bay environment. No site-specific species surveys have been published for the Yankee wreck site. Tautog, cunner, and American lobster are typical species found on similar iron wreck debris in southern New England bay environments, but their presence at this specific site has not been confirmed in available sources.
 
 ## Dive Profile
 
@@ -61,9 +65,8 @@ Low visibility limits photographic range but the large iron hull sections and pl
 
 ## Additional Resources
 
-- **Management**: Massachusetts BUAR (Exempted Site)
-- **Historical Reference**: New Bedford Standard-Times archive; Naval History and Heritage Command
-- **Last Updated**: 2026-03-28
+- **Management**: Massachusetts BUAR (Exempted Site — no permit required for recreational diving)
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [USS Yankee (1892) — Wikipedia](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [USS Yankee — Mass.gov / BUAR](https://www.mass.gov/info-details/uss-yankee), [USS Yankee Aground — Westport Historical Society](https://wpthistory.org/2003/10/uss_yankee_aground_on_hens_and_chickens_reef_as_seen_from_horseneck_beach/), [Diving Buzzards Bay — ScubaBoard](https://scubaboard.com/community/threads/diving-buzzards-bay.184354/). Last updated 2026-06-19.*

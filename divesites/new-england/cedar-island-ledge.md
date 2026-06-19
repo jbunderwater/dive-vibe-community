@@ -17,13 +17,15 @@ A submerged rocky ledge off the New Hampshire seacoast, submerged at high tide a
 
 ## Overview
 
-Cedar Island Ledge lies in the New Hampshire seacoast waters at approximately 42.97°N, 70.60°W — a position near the Isles of Shoals and the outer reaches of the NH/Maine coast approach. The original data notes this feature is "submerged at high tide" — a classic New England tidal ledge, exposed at low water and covered at high tide. The site sits at 15 metres maximum depth in the cold Gulf of Maine water north of Cape Ann. New Hampshire has a short coastline (only about 29 km) but the offshore waters include the productive rocky reef zone associated with the Isles of Shoals archipelago, which supports some of the best cold-water diving in northern New England. Cedar Island Ledge is accessible from Portsmouth NH or Rye NH boat launch facilities.
+Cedar Island Ledge lies in the New Hampshire seacoast waters at approximately 42.97°N, 70.60°W — a position near the Isles of Shoals and the outer reaches of the NH/Maine coast approach. The original data notes this feature is "submerged at high tide" — a classic New England tidal ledge, exposed at low water and covered at high tide. The site sits at 15 metres maximum depth in the cold Gulf of Maine water north of Cape Ann. New Hampshire has a short coastline (only about 29 km) but the offshore waters include the productive rocky reef zone associated with the Isles of Shoals archipelago, which supports some of the best cold-water diving in northern New England.
+
+The ledge has a documented maritime history: on the night of January 15, 1813, a vessel struck Cedar Island Ledge just a few hundred yards from Sam Haley's home on Star Island. Historical accounts suggest coins have been recovered by scuba divers from the sea floor around Cedar Island Ledge, washed in from this incident. The ledge is also noted as unmarked — mariners' guides describe it as lying "to the north of Cedar Island, off the direct course," requiring careful navigation. Cedar Island Ledge is accessible from Portsmouth NH or Rye NH boat launch facilities.
 
 ## Site Information
 
 - **Location**: New Hampshire seacoast / Isles of Shoals area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 meters (Gulf of Maine cold water typically clear)
@@ -62,7 +64,8 @@ Excellent natural light at 15 metres in the clear Gulf of Maine water on calm da
 ## Additional Resources
 
 - **Charter Access**: Portsmouth Scuba and Rye NH area boat operators
-- **Last Updated**: 2026-03-28
+- **Historical Note**: Unmarked ledge; documented maritime incident January 15, 1813 (coins reportedly recovered by divers from this ledge per [Isles of Shoals cruising guide](https://bsccruisingguide.com/isles-of-shoals/))
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Sources: [Boston Sailing Center Cruising Guide — Isles of Shoals](https://bsccruisingguide.com/isles-of-shoals/), [iDive New England — NH Dive Sites](https://www.idivenewengland.com/dive-sites/nh), [Portsmouth Scuba — Local Dive Sites](https://portsmouthscuba.com/guide-dives-and-local-diving-sites). Last updated 2026-06-19.*

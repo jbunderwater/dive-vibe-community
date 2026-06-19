@@ -8,7 +8,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "newcaledonia.travel, diveplanit.com, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Gorgonia Valley",
       "sport": "scuba_diving",
@@ -42,24 +42,25 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "sudtourisme.nc,michaelmcfadyenscuba.info,newcaledonia.travel,outdooractive.com",
     "tags": {
       "name": "Devils Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Boulari Pass",
     "lat": -22.48,
     "lon": 166.45,
-    "depth": 21,
+    "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "sharkrayareas.org, earthdive.com, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Boulari Pass",
       "sport": "scuba_diving",
@@ -76,7 +77,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "newcaledonia-diving.com, en.wikipedia.org, michaelmcfadyenscuba.info",
     "tags": {
       "name": "La Dieppoise",
       "sport": "scuba_diving",
@@ -105,17 +106,18 @@
     "name": "Les Pitons",
     "lat": -20.24,
     "lon": 164.01,
-    "depth": 30,
-    "site_type": "cave",
+    "depth": 21,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": "needs_review",
+    "validation_source": "vvanat.fr,newcaledonia.travel",
     "tags": {
       "name": "Les Pitons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -127,7 +129,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "snorkeling-report.com, scubadiverlife.com, sudtourisme.nc, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Amadee Island Reef",
       "sport": "scuba_diving",

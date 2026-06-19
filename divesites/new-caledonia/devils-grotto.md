@@ -13,50 +13,52 @@ addedBy: osm_import
 
 # Devils Grotto
 
-A landlocked saline limestone cave on the Isle of Pines with crystal-clear water, stalactites, stalagmites, chandeliers hanging from the ceiling, and a dramatic shaft of natural light penetrating through a hole above. Maximum depth just 6 meters.
+A landlocked limestone cave on the Isle of Pines, known locally as Grotte de la Troisieme (The Third Cave), with crystal-clear freshwater. Features stalactites, stalagmites, chandelier formations, and a dramatic shaft of natural light. Maximum depth just 6 meters. Diving requires minimum N2 certification with 50+ logged dives.
 
 ## Overview
 
-Devils Grotto is a unique dive experience on the Isle of Pines -- not an ocean dive but a landlocked cave filled with saline water. Despite appearing to be a freshwater sinkhole, the water is actually saline, connected to the ocean through underground passages in the limestone karst.
+Devils Grotto -- known locally as Grotte de la Troisieme (The Third Cave) and located near the Kere tribe on Route de l'Aerorodrome on the Isle of Pines -- is a unique dive experience. This is not an ocean dive but a landlocked limestone cave filled with freshwater. (One source notes the water may have minor salinity due to underground karst connections, but official New Caledonia tourism sources and the Sud Tourism office consistently describe it as a freshwater cave.)
 
-The cave features spectacular geological formations: stalactites hang from the ceiling, stalagmites rise from the floor, and delicate chandelier-like formations dangle above the water's surface. The highlight is a natural shaft of light that penetrates through an opening in the cave ceiling, illuminating the clear water below and creating an almost mystical atmosphere. The water clarity inside the cave is exceptional -- far clearer than any open-water dive site -- as there is no wave action, current, or sediment to reduce visibility.
+Access requires driving a narrow track through dense forest (parking for just 2-3 cars) followed by a walk across rugged terrain in closed shoes. The cave itself is accessed from above, where a natural opening admits a shaft of sunlight that illuminates the water and formations below.
 
-At just 6 meters maximum depth, this is a shallow dive or snorkel that is accessible to divers of all levels. However, the enclosed cave environment gives it an Intermediate rating.
+Inside the cave, stalactites hang from the ceiling, stalagmites rise from the floor, and delicate chandelier-like formations dangle above. The water clarity is exceptional -- no wave action, current, or sediment -- making this an extraordinary underwater photography environment despite the minimal depth.
+
+Despite its shallow maximum depth of 6 meters, the cave dive is restricted to experienced divers: minimum N2 certification with more than 50 dives logged is required. Diving is arranged exclusively through Kunié Scuba Center (12,500 XPF per dive). Entry is free for non-diving visitors with an optional donation.
 
 ## Site Information
 
-- **Location**: Isle of Pines (Ile des Pins), New Caledonia
+- **Location**: Near Kere tribe, Route de l'Aerorodrome, Isle of Pines (Ile des Pins), New Caledonia
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: Crystal clear (unlimited within the cave)
+- **Typical Visibility**: Crystal clear (unlimited within the cave when undisturbed)
 - **Water Temperature**: 22-25 degrees C
 - **Current**: None
-- **Best Time**: Year-round; best when sun angle creates the light shaft (midday)
+- **Best Time**: Year-round; midday for best light shaft; avoid wet weather (reduces visibility)
 
 ## Marine Life
 
-As a landlocked cave, marine life is minimal compared to reef sites. The interest here is entirely geological -- the stalactites, stalagmites, and chandelier formations are the attraction. Some small fish and crustaceans may be present, having entered through the underground connections.
+As a landlocked cave, marine life is minimal. The interest is entirely geological -- the stalactites, stalagmites, and chandelier formations are the attraction. The cave also hosts native bulimes (terrestrial snails) in the surrounding leaf litter near the entrance, though these are above the waterline.
 
 ## Dive Profile
 
-Enter the cave pool from the shore. The maximum depth is only 6 meters, so extended bottom time is possible. Swim through the cave, examining the formations on the ceiling and floor. Position yourself beneath the light shaft for the signature experience -- sunlight streaming through the ceiling opening into the crystal water. The cave is not large, so a single dive can cover the entire space with time to spare.
+Enter the cave pool from the shore access point. The maximum depth is 6 meters, allowing extended bottom time. Navigate through the cave, examining the formations on the ceiling and floor. Position yourself beneath the light shaft for the signature experience -- sunlight streaming through the ceiling opening into the crystal-clear freshwater. The cave can be covered in a single dive with time remaining.
 
 ## Entry and Exit
 
-Shore entry into the cave pool. The approach to the cave requires a walk through the Isle of Pines bush. Entry is straightforward from the cave edge.
+Drive a narrow forest track to the small parking area (2-3 cars), then walk across rugged terrain in closed shoes to the cave entrance. Diving arranged through Kunié Scuba Center, who guide divers in. Entry is shore-based, stepping into the cave pool.
 
 ## Tips and Recommendations
 
-- Visit at midday when the sun angle creates the best light shaft through the ceiling opening
-- An underwater camera is essential -- the light effects are extraordinary and unique
-- The crystal clarity and still water make this an exceptional photography environment
-- The stalactite and stalagmite formations reward close inspection
+- Visit at midday when the sun angle creates the most dramatic light shaft through the ceiling opening
+- An underwater camera is essential -- the still, clear water and light shaft create extraordinary photography conditions
+- Do not touch the formations -- stalactites and stalagmites form over thousands of years and are extremely fragile
+- Wet weather reduces visibility inside the cave -- check conditions before booking
 
 ## Safety Considerations
 
-Despite the shallow depth, this is a cave environment. Maintain awareness of the ceiling and walls. Do not touch the formations -- stalactites and stalagmites are extremely fragile and form over thousands of years. The still water means any silt disturbance will reduce visibility dramatically and take a long time to clear. Buoyancy control is critical in this confined space.
+Despite the shallow depth, this is a true cave environment with overhead restriction. The minimum experience requirement (N2 + 50 dives) reflects the seriousness of the setting. Buoyancy control is critical -- any fin contact with the bottom will raise silt and immediately destroy visibility, which can take hours to clear in still water. Dive only with Kunié Scuba Center guides.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Sud Tourism New Caledonia - Grotte de la Troisieme](https://www.sudtourisme.nc/en/plan-your-trip/what-to-do-in-the-southern-province/culture-and-heritage/grotte-de-la-troisieme-ile-des-pins-en-2785801/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-06-19.*

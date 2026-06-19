@@ -13,55 +13,28 @@ addedBy: osm_import
 
 # Bar Rock
 
-A submerged rocky bar in the northern approaches to Ipswich Bay, Massachusetts, offering shallow cold-water reef diving.
+A permanently submerged rock obstruction in northern Ipswich Bay, Massachusetts, charted as foul ground. No dive-specific documentation found.
 
 ## Overview
 
-Bar Rock is a submerged rocky shoal in the northern Ipswich Bay area off the Massachusetts North Shore, between Crane Beach and the Plum Island Sound approaches. The site name — a common New England navigational term for a submerged bar or ridge of rock — reflects the nature of the feature: a low-lying rocky structure that breaks the otherwise sandy bay floor. At 10 metres maximum depth this is a classic shallow-water New England reef site, characterized by bedrock and boulder substrate, encrusting cold-water invertebrate communities, and the hardy fish species that define Gulf of Maine reef ecology. The proximity to Crane Beach and the nearby Bass Rock and Ada K. Damon sites makes this a useful addition to a North Shore dive charter.
+Bar Rock is a permanently submerged rock at lat 42.701, lon -70.759 in northern Ipswich Bay, Massachusetts — geographically south of the Hampton/Seabrook NH cluster and north of the Cape Ann peninsula. OSM classifies it as `seamark:obstruction:category=foul_ground`, `seamark:rock:water_level=submerged`, and `tidal=no`, indicating it does not dry or cover but remains permanently below the surface. It is recorded as a named geographic locality (`place=locality`).
+
+This site has been researched against five dive-operator and directory sources: iDive New England, Boston SCUBA, Zentacle, Portsmouth Scuba, and ScubaBoard. None list Bar Rock as a recreational dive destination. The northern Ipswich Bay area between Crane Beach and Plum Island Sound is predominantly sandy; no offshore reef sites in this zone appear in any dive operator catalogue or forum discussion.
+
+**This site is not currently documented as a recreational dive site.** The submerged rock exists as a charted navigational obstruction, but no operator, guide, or diver forum has documented dives here.
 
 ## Site Information
 
-- **Location**: Northern Ipswich Bay, off Ipswich/Essex area, Massachusetts
+- **Location**: Northern Ipswich Bay, Massachusetts (between Crane Beach and Plum Island Sound)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current; variable with Essex River tidal state
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **Current Status**: Permanently submerged; charted foul ground
 
 ## Marine Life
 
-The rocky bar substrate supports the typical northern Massachusetts cold-water reef community. American lobsters shelter in the deepest rock crevices. Tautog patrol the ledge edges. Cunner hover around encrusted surfaces and rocky overhangs. Sea urchins are common on exposed rock faces. Winter flounder rest on sandy patches flanking the rock. Atlantic mackerel school in midwater above the reef in summer. Pollock cruise above the structure.
-
-## Dive Profile
-
-Boat access from Cape Ann or North Shore operators. Descend to the rock structure at 5–10 metres. Navigate the perimeter, working from the shallowest section to the deeper edges where the rock meets the sand. The shallow depth allows 45–60 minutes of bottom time. Plan around slack tide to manage the tidal current from the Essex River system. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Local knowledge of the northern Ipswich Bay approach is important — scattered submerged rocks and variable currents characterize this area. Anchor in sand adjacent to the bar. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- Combine with other Ipswich Bay sites — the Bass Rock wreck site and Crane Beach intertidal wreck are nearby
-- The shallow depth makes this an excellent site for divers still building comfort in New England cold water
-- Tidal influence from the Essex River makes current predictable — consult local tide tables
-- Bring a torch for crevice inspection
-
-## Safety Considerations
-
-Cold water throughout the year — 7mm wetsuit or drysuit required. Tidal current can be significant depending on tidal state. Rocky bottom presents navigation hazards for boats. Deploy SMB before surfacing.
-
-## Photography
-
-Excellent natural light at 10 metres on clear days. Wide shots of rocky reef with good ambient light are achievable in peak summer visibility. Macro subjects on encrusted rock surfaces include nudibranchs, hydroids, and coralline algae growth.
-
-## Additional Resources
-
-- **Charter Access**: Cape Ann Divers, Gloucester; North Shore dive charters
-- **Last Updated**: 2026-03-28
+This site lies in the northern Ipswich Bay zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

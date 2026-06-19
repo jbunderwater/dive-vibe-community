@@ -13,55 +13,33 @@ addedBy: osm_import
 
 # Ruins of Old Dike
 
-The submerged remnants of a historic dike or sea wall off the northern Massachusetts coast, now colonized as an artificial reef.
+The submerged stone remains of an 1883 dike at the northern end of Plum Island, now tidal and charted as a navigational hazard rather than a documented dive site.
 
 ## Overview
 
-The Ruins of Old Dike is a dive site built around the collapsed remains of a historical dike or sea wall structure in the shallow nearshore off the Plum Island/Newburyport coast. The site sits in close proximity to the Ruins of Old Breakwater — both sites represent a category of northern Massachusetts diving that blends archaeological interest with productive marine life observation. Historical dike construction in coastal Essex County was common as settlers attempted to drain salt marsh, create farmland, or manage tidal flow. Dike failures were also common, and the stone and earthen materials left behind became habitat. By now fully submerged at 10 metres and colonized by Gulf of Maine cold-water species, the dike ruins offer similar diving to the adjacent natural reef cluster of named rocks in this area.
+The Ruins of Old Dike is a submerged stone structure at the northern end of Plum Island, Massachusetts. In 1883 (confirmed by OSM `start_date=1883` tag and historicipswich.net), a stone dike was constructed across the entrance to the Basin to prevent the Merrimack River from reverting to its original outlet. The dike fell into disrepair; traces reportedly remain visible at low tide, and the structure is now tidal and charted as a navigational obstruction (OSM tags: `disused:man_made=breakwater`, `ruins=yes`, `material=stone`, `seamark:rock:water_level=covers`).
+
+This site has been researched against five independent dive-operator and directory sources: iDive New England, Portsmouth Scuba, Zentacle, Boston SCUBA, and ScubaBoard threads covering the Hampton Beach and Newburyport/Plum Island areas. None list this site as a recreational dive destination. The Ruins of Old Dike sits approximately 400 metres from the Ruins of Old Breakwater (osm_id 266696959) — both are historical maritime structures in the Merrimack River mouth zone, neither documented as dive sites.
+
+**This site is not currently documented as a recreational dive site.** The submerged stone dike exists and could theoretically be dived, but no operator, guide, or diver forum has documented a dive here. The site type classification of "reef" reflects the OSM `natural=reef` tag applied to charted submerged obstructions, not a verified diving classification.
 
 ## Site Information
 
-- **Location**: Off Plum Island/Newburyport coast, northern Massachusetts
+- **Location**: Northern end of Plum Island / Merrimack River Basin entrance, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **Historical Context**: Stone dike constructed 1883; fell into disrepair; traces visible at low tide
+- **Current Status**: Tidal (covers at high water); charted hazard on NOAA chart 13282 area
 
 ## Marine Life
 
-The submerged dike structure has become colonized by the same cold-water community found on natural ledge in the area. Encrusting sponges, hydroids, and anemones cover the stone and rubble surfaces. Tautog patrol the structure perimeter. Lobsters inhabit the dark spaces within the collapsed structure. Cunner hover above the encrusted surfaces. Sea urchins are present on harder substrate sections. Winter flounder and sand dabs rest on adjacent sandy areas.
-
-## Dive Profile
-
-Boat access from Newburyport or Cape Ann. Descend to the dike structure at 8–10 metres. The collapsed linear structure of a dike provides a useful navigation reference — explore along the line of the structure, then out onto the surrounding sandy bottom. Pair with Ruins of Old Breakwater and the natural reef cluster nearby. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Anchor in sand away from the structure. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- The linear structure of a dike (unlike a point-feature rock) can be used as a navigation line underwater
-- Combine with Ruins of Old Breakwater and the natural reef sites for a varied northern Massachusetts reef day
-- Historical research into local dike construction records may provide interesting context
-- 7mm wetsuit or drysuit required
+These sites lie in the Hampton/Seabrook NH and northern Massachusetts coastal zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge and rubble habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ## Safety Considerations
 
-Cold water year-round. Moderate tidal current. Irregular collapsed structure requires attention to buoyancy. Deploy SMB before surfacing.
-
-## Photography
-
-The contrast between constructed human geometry (the linear dike line) and the natural overgrowth of marine organisms makes an interesting photographic narrative. Wide-angle shots along the dike line with encrusting life convey both history and ecology.
-
-## Additional Resources
-
-- **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-03-28
+Strong tidal current from Merrimack River outflow. Shallow tidal site — tidal state affects depth significantly. No documented dive infrastructure (mooring, charter stops) at this location.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features, OSM tags (start_date=1883), and local maritime history sources (historicipswich.net, historyofmassachusetts.org). No site-specific dive reports found. Last updated 2026-06-19.*

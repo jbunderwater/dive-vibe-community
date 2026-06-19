@@ -17,7 +17,7 @@ Stolt Dagali is a Norwegian tanker wreck approximately 18 miles east of Point Pl
 
 ## Overview
 
-The Stolt Dagali was a 582-foot (177 m) Norwegian motor tanker, 12,723 gross tons, that was cut in half by the Israeli cruise ship SS Shalom on Thanksgiving night, November 26, 1964, approximately 18 miles off Manasquan Inlet. Nineteen of the tanker's 44 crew members died when the Shalom's bow sliced through the Stolt Dagali's port side in dense fog at around 2:00 a.m., shearing off the stern section, which sank within seconds. The 145-foot stern section now rests in 130 feet (40 m) of water, with its highest point at approximately 65 feet — one of New Jersey's most dramatic and productive wreck dives. The New Jersey Council of Diving Clubs has designated the Stolt Dagali as its Memorial Wreck.
+The Stolt Dagali was a 582-foot (177 m) Norwegian motor tanker, 12,723 gross tons, that was cut in half by the Israeli cruise ship SS Shalom on Thanksgiving night, November 26, 1964, approximately 18 miles off Manasquan Inlet. Nineteen of the tanker's 44 crew members died when the Shalom's bow sliced through the Stolt Dagali's port side in dense fog at around 2:00 a.m., shearing off the stern section, which sank within seconds. The stern section — variously reported as 140 to 145 feet in length across sources — now rests in 130 feet (40 m) of water, with its highest point at approximately 65 feet — one of New Jersey's most dramatic and productive wreck dives. The New Jersey Council of Diving Clubs has designated the Stolt Dagali as its Memorial Wreck.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Stolt Dagali was a 582-foot (177 m) Norwegian motor tanker, 12,723 gross ton
 
 ## Wreck History
 
-The Stolt Dagali was a Norwegian-flagged motor tanker built in 1955 in Denmark. On Thanksgiving night 1964, she was transporting vegetable and coconut oil from Philadelphia to Newark, New Jersey, when she encountered the outbound SS Shalom — a 629-foot (192 m), 25,320-GRT Israeli passenger liner carrying 616 passengers bound for the Caribbean — in thick fog approximately 50 miles from New York Harbor.
+The Stolt Dagali was a Norwegian-flagged motor tanker built in 1955 by Burmeister & Wain shipbuilders in Denmark. On Thanksgiving night 1964, she was transporting vegetable and coconut oil from Philadelphia to Newark, New Jersey, when she encountered the outbound SS Shalom — a 629-foot (192 m), 25,320-GRT Israeli passenger liner carrying 616 passengers bound for the Caribbean — in thick fog approximately 50 miles from New York Harbor.
 
 The Shalom, traveling rapidly through the fog with a malfunctioning radar, struck the Stolt Dagali's port side at approximately 2:00 a.m., slicing the tanker cleanly in half. The 145-foot stern section sank immediately, killing 19 crew members who were asleep in the stern quarters. The bow section remained afloat due to intact watertight compartments and was towed to New York; it was later fitted with a new stern and continued in service. The maritime inquiry found both vessels at fault, with the majority of blame on the Shalom for failure to maintain a proper lookout and for operating with a malfunctioning radar.
 
@@ -64,4 +64,4 @@ Charter boats depart from Manasquan Inlet and Point Pleasant Beach. Operators in
 - Water temperature during the collision rescue operations was recorded at 3–5°C; winter/early spring diving requires drysuit
 
 ---
-*Sources: [Wikipedia — SS Shalom](https://en.wikipedia.org/wiki/SS_Shalom), [The Fisherman](https://www.thefisherman.com/hot-spot/the-stolt-dagali-wreck-new-jersey/), [X-Ray Mag](https://xray-mag.com/content/shipwrecks-collision-new-york-new-jersey-coasts), [NJ Maritime Museum](https://njmaritimemuseum.org/rescuing-the-crew-of-stolt-dagali/), [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/stolt-dagali/), [NJCDC Memorial Wreck Program](https://scubanj.org/Memorial%20Wreck%20Program.html). Last updated 2026-05-17.*
+*Sources: [Wikipedia — SS Shalom](https://en.wikipedia.org/wiki/SS_Shalom), [The Fisherman](https://www.thefisherman.com/hot-spot/the-stolt-dagali-wreck-new-jersey/), [X-Ray Mag](https://xray-mag.com/content/shipwrecks-collision-new-york-new-jersey-coasts), [NJ Maritime Museum](https://njmaritimemuseum.org/rescuing-the-crew-of-stolt-dagali/), [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/stolt-dagali/), [NJCDC Memorial Wreck Program](https://scubanj.org/Memorial%20Wreck%20Program.html), [Ocean Liners Magazine — Shalom Sinks a Freighter](https://oceanlinersmagazine.com/2020/11/26/shalom-sinks-freighter/). Last updated 2026-06-19.*

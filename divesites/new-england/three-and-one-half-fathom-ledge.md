@@ -3,7 +3,7 @@ name: Three and One-half Fathom Ledge
 lat: 42.3534381
 lng: -70.8453155
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Three and One-half Fathom Ledge takes its name directly from the depth of water 
 
 - **Location**: Off Cohasset/Hull, western South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 meters (variable)
 - **Current**: Moderate tidal current
 - **Water Temperature**: 7–20°C depending on season
@@ -61,7 +61,7 @@ The shallow ledge top receives excellent natural light. Wide-angle reef portrait
 ## Additional Resources
 
 - **Charter Access**: Hull, Cohasset, and Scituate area dive operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and NOAA nautical chart data. No site-specific dive reports found for Three and One-half Fathom Ledge. Last updated 2026-06-19.*

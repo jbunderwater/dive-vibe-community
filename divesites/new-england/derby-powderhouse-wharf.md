@@ -23,7 +23,7 @@ Derby Powderhouse Wharf takes its name from the Derby family, specifically Elias
 
 - **Location**: Salem Sound / Marblehead area, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 4–10 meters (Salem Sound; variable)
@@ -61,9 +61,9 @@ The contrast between angular constructed stone and the organic overgrowth of 200
 
 ## Additional Resources
 
-- **Historical Reference**: Elias Hasket Derby and Salem maritime history — Peabody Essex Museum archives
-- **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-03-28
+- **Historical Reference**: [Derby Wharf — History of Massachusetts Blog](https://historyofmassachusetts.org/derby-wharf-salem/); [Salem Maritime National Historic Site — NPS](https://www.nps.gov/sama/)
+- **Charter Access**: Marblehead, Beverly, and Salem area dive operators; [K1 Charters, Salem MA](https://www.k1charters.com/)
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Derby Wharf history confirmed by [History of Massachusetts Blog - Derby Wharf](https://historyofmassachusetts.org/derby-wharf-salem/) and [Salem Maritime National Historic Site - NPS](https://www.nps.gov/sama/). No site-specific recreational dive reports found for this submerged structure. The NRHP-listed wharf remains are at the interface of Salem Sound and the Salem waterfront. Last updated 2026-06-19.*

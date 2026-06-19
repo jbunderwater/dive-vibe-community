@@ -13,57 +13,57 @@ addedBy: osm_import
 
 # Watch Hill Reef
 
-A rocky reef at the southwestern tip of Rhode Island near the historic Watch Hill Lighthouse, in one of New England's most shipwreck-dense coastal zones.
+A rocky reef at the southwestern tip of Rhode Island near the historic Watch Hill Lighthouse, part of a complex of reefs and passages at the entrance to Fisher's Island Sound.
 
 ## Overview
 
-Watch Hill Reef lies at the southwestern tip of Rhode Island, adjacent to Watch Hill Point and its historic Watch Hill Lighthouse (established 1745, current tower from 1857). The reef and surrounding shoals off Watch Hill have been a maritime hazard for centuries — over 49 vessels have been recorded wrecked in this area as ships miscalculated the dangerous shoals at the entrance to Fisher's Island Sound. The reef sits at 14 metres maximum depth, accessible from the Watch Hill or Westerly area. The combination of rocky reef habitat, strong tidal currents carrying nutrients from the sound, and the historical wreck debris that may be scattered through the area makes Watch Hill Reef one of the more interesting dive sites in southwestern Rhode Island.
+Watch Hill Reef lies at the southwestern tip of Rhode Island, adjacent to Watch Hill Point. The reef is part of the Watch Hill Reef complex — a system of rocky shoals, reefs, and tidal passages stretching from Watch Hill to Fishers Island that includes Watch Hill Reef, Sugar Reef, Catumb Rocks, and the passages at Lords and Wicopesset. This coastline has an exceptional maritime history — the hazardous shoals at the entrance to Fisher's Island Sound have caused numerous vessel losses over the centuries. The reef sits at approximately 14 metres maximum depth. A 2017 ScubaBoard dive report from Watch Hill Reef confirms the site as an active scuba destination, reporting depths to 51 feet, visibility of 10–15 feet with some suspended particles, a slight current that was manageable, heavy boat traffic at the surface, and moorings available for dive boats. The same report noted abundant fish activity and specifically confirmed tautog (blackfish) and white perch in the area.
 
 ## Site Information
 
 - **Location**: Watch Hill, Westerly, Rhode Island (southwestern RI tip)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 5–12 meters (variable with tidal state)
+- **Typical Visibility**: 3–12 meters (10–15 feet typical per dive report; variable with tidal state)
 - **Current**: Moderate to strong; Watch Hill tidal passage currents
 - **Water Temperature**: 8–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Southern Rhode Island cold-water reef community. Tautog are abundant in this area — Watch Hill's rocky reefs are among the better tautog grounds in Rhode Island. Striped bass are present in good numbers in the tidal current zone adjacent to Watch Hill Point, particularly in summer. Bluefish appear seasonally. American lobsters inhabit crevices in the deeper ledge sections. Sea bass are present in warmer months. Cunner hover around encrusted rock. Sea urchins colonize open surfaces. The nutrient-rich tidal flow supports dense invertebrate growth on the reef.
+A 2017 ScubaBoard report from this site confirms abundant fish activity at Watch Hill Reef, specifically noting tautog (blackfish/tog) and white perch (chinners). Striped bass, bluefish, black sea bass, scup, and fluke are confirmed by regional fishing sources in the Watch Hill Reef complex, consistent with the strong tidal currents that attract feeding fish. No comprehensive site-specific dive surveys documenting invertebrate or benthic species have been found.
 
 ## Dive Profile
 
-Boat access from Watch Hill or Westerly harbor. Descend to rocky reef at 8–14 metres and navigate the perimeter. The proximity to Watch Hill Point means the reef experiences significant tidal current — plan around slack water for a comfortable dive. The reef topography varies from shallow rocky faces near the point to deeper ledge sections toward the sound. Complete a 3-minute safety stop at 5 metres.
+Boat access from Watch Hill or Westerly harbor. Moorings are available at this site. Descend to rocky reef at 8–14 metres and navigate the perimeter. The proximity to Watch Hill Point means the reef experiences significant tidal current — plan around slack water for a comfortable dive. A slight current was reported as manageable in one dive report, but tidal conditions vary significantly. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Boat charter required from Westerly, RI. Watch Hill tidal currents are among the strongest in Rhode Island Sound — time your dive carefully around slack water. The current can exceed 2 knots at peak flow through the Watch Hill passage. Anchor in sand adjacent to reef. Deploy SMB before ascending.
+Boat charter required from Westerly, RI. Watch Hill tidal currents are among the strongest in this area — time your dive carefully around slack water. Moorings are available at the site. Deploy SMB before ascending. Be aware of heavy surface boat traffic, especially in summer.
 
 ## Tips and Recommendations
 
 - Plan dives strictly around Watch Hill slack tide — the passage current can be very strong
-- The historical record of 49+ wrecks in the Watch Hill area means scattered debris may be present on and around the reef
-- Striped bass hunting the tidal current near Watch Hill Point are accessible in summer months
+- Moorings are available at the site — no need to anchor in the rocky bottom
+- Tautog and white perch (chinners) are confirmed at this site by dive reports
 - The Watch Hill Lighthouse (1857) is a surface landmark — visible from the dive site
 - Combine with Catumb Rocks, Perch Island, and Latimer Reef for a full southwestern Rhode Island dive day
 
 ## Safety Considerations
 
-Watch Hill tidal currents are significant — never dive against a running current here. The passage between Fisher's Island Sound and Rhode Island Sound creates strong and sometimes unpredictable flow. Cold water below thermocline — 7mm wetsuit or drysuit recommended. Deploy SMB clearly before surfacing in the boat traffic area near Watch Hill.
+Watch Hill tidal currents are significant — never dive against a running current here. The passage between Fisher's Island Sound and Rhode Island Sound creates strong and sometimes unpredictable flow. Cold water below thermocline — 7mm wetsuit or drysuit recommended. Heavy boat traffic in summer — deploy SMB clearly before surfacing.
 
 ## Photography
 
-Tautog on kelp-draped rocky reef are the signature subject. The historic Watch Hill Lighthouse visible above the surface on shallow sections creates a distinctive setting. Strobes needed for accurate color at 14 metres.
+Rocky reef at 14 metres with confirmed tautog. Natural light is reasonable in summer months. Strobes needed for accurate color on encrusting organisms.
 
 ## Additional Resources
 
 - **Historical Reference**: Watch Hill Lighthouse history; Rhode Island Historical Preservation and Heritage Commission wreck records
 - **Charter Access**: Westerly, RI area dive operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Dive site confirmed active by a ScubaBoard report ([Onondaga wreck, Watch Hill Reef thread](https://scubaboard.com/community/threads/onondaga-wreck-watch-hill-reef-westerly-ri.552691/), 2017). Marine life in the broader Watch Hill Reef complex confirmed by fishing sources ([On The Water - C-MAP Featured Hotspot: Watch Hill Reef](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef)). Last updated 2026-06-19.*

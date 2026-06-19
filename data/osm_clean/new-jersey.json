@@ -10,14 +10,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/u-869, Wikipedia, Shadow Divers book",
+    "validation_source": "en.wikipedia.org/wiki/German_submarine_U-869, johnchatterton.com/final-report-on-u869, xray-mag.com, monmouthtimeline.org/timeline/the-tragic-mystery-of-u-869",
     "tags": {
       "historic": "wreck",
       "name": "U-869 (Wrack)",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -31,7 +32,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "Wikipedia/Tices_shoal, njscuba.net, visitnj.org",
+    "validation_source": "en.wikipedia.org/wiki/Tices_shoal, whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal, waterwayguide.com/anchorage/2-1327/island-beach-tices-shoal",
     "tags": {
       "name": "Tices Shoal",
       "natural": "reef",
@@ -39,22 +40,25 @@
       "wikipedia": "en:Tices shoal",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Shallow Barnegat Bay shoal used mainly for snorkeling and boating; max depth ~3m"
+      "note": "Shallow Barnegat Bay shoal used mainly for snorkeling and boating; max depth ~3m",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "USS Algol (AKA-54)",
-    "lat": 39.7692,
-    "lon": -73.4736,
-    "depth": 45,
+    "lat": 40.1269,
+    "lon": -73.6564,
+    "depth": 43,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/uss-algol-aka-54, ScubaBoard, Zentacle",
+    "validation_source": "en.wikipedia.org/wiki/USS_Algol_(AKA-54), navsource.org/archives/10/02/02054, njscuba.net/artificial-reefs/new-jersey-reefs/shark-river-reef/uss-algol-aka-54, scubaboard.com/community/threads/uss-algol-shark-river-reef-off-nj.548427",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates corrected 2026-06-19: previous 39.7692/-73.4736 was wrong. Actual position 40°07'37\"N 73°39'23\"W per Wikipedia and latitude.to. Depth corrected from 45m to 43m (sand at 140ft=42.7m per njscuba; superstructure top ~21m).",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -66,70 +70,79 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/stolt-dagali, leisurepro.com/stolt-dagali, ScubaBoard",
+    "validation_source": "en.wikipedia.org/wiki/SS_Shalom, njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/stolt-dagali, njmaritimemuseum.org/rescuing-the-crew-of-stolt-dagali, scubanj.org/Memorial_Wreck_Program, thefisherman.com/hot-spot/the-stolt-dagali-wreck-new-jersey",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Mohawk",
-    "lat": 40.115,
-    "lon": -73.8833,
+    "lat": 40.017,
+    "lon": -73.917,
     "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "njscuba.net/mohawk",
+    "validation_source": "en.wikipedia.org/wiki/SS_Mohawk_(1925), monmouthtimeline.org/timeline/ss-mohawk, njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/mohawk, dan.org/alert-diver/article/new-jersey-the-underwater-garden-state",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates corrected 2026-06-19: previous 40.115/-73.8833 was wrong. Wikipedia gives 40°01'N 73°55'W = 40.017°N 73.917°W. Casualty count conflict: Wikipedia 47 (31 crew + 16 passengers); Monmouth Timeline says 45; NYT 1935 reported 33 dead 13 missing. Not resolved — markdown flags this.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Tolten",
-    "lat": 39.4833,
-    "lon": -73.8833,
-    "depth": 29,
+    "lat": 40.167,
+    "lon": -73.833,
+    "depth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/tolten, aquaexplorers.com/tolten, ScubaBoard",
+    "validation_source": "en.wikipedia.org/wiki/SS_Tolten, scubaboard.com/community/threads/tolten-wreck-dive-trip-report-5-24-15.507432, atlanticdivers.com/charters/tolten, njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/tolten",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates corrected 2026-06-19: previous 39.4833/-73.8833 was badly wrong (~0.7° south of actual position). Wikipedia gives 40°10'N 73°50'W = 40.167°N 73.833°W. Depth corrected from 29m to 28m (90ft reported by dive sources = 27.4m; 28m used as reasonable conversion). Crew count from Wikipedia: 27 total, 26 died (1 survivor), not 28 crew as stated elsewhere.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "USS San Diego (ACR-6)",
-    "lat": 40.44,
-    "lon": -73.5667,
+    "lat": 40.55,
+    "lon": -73.008,
     "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/uss-san-diego, PADI dive site listing, history.navy.mil",
+    "validation_source": "en.wikipedia.org/wiki/USS_California_(ACR-6), history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/san-diego-cruiser-6, news.usni.org/2018/12/11/investigation-confirms-wwi-cruiser-uss-san-diego-sunk-u-boat-mine, padi.com/dive-site/united-states-of-america-usa/wreck-of-the-uss-san-diego, shipwreckworld.com/maps/uss-san-diego-ca-6",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates corrected 2026-06-19: previous 40.44/-73.5667 was wrong. Actual position 40°33'N 73°00'W per Wikipedia (40°33'0.36\"N 73°0'28.39\"W per shipwreckworld.com). Wreck is off Fire Island, NY — listed on Long Island dive charts by njscuba.net, not central NJ charts.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Texas Tower #4",
-    "lat": 39.75,
-    "lon": -73.0,
-    "depth": 55,
+    "lat": 39.8,
+    "lon": -72.667,
+    "depth": 56,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/texas-tower, Wikipedia/Texas_Tower_4",
+    "validation_source": "en.wikipedia.org/wiki/Texas_Tower_4, newenglandhistoricalsociety.com/the-tragedy-of-texas-tower-no-4, thefisherman.com/hot-spot/texas-tower-4-nj, latitude.to/articles-by-country/us/united-states/56127/texas-tower-4",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates corrected 2026-06-19: previous 39.75/-73.0 was wrong. Wikipedia gives 39°48'N 72°40'W = 39.800°N 72.667°W, confirmed by latitude.to. Depth corrected from 55m to 56m per Wikipedia (185ft = 56.4m). Casualties correction: Wikipedia states only 2 bodies were recovered, not 1 as stated in prior description.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -140,27 +153,30 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "njscuba.net/cape-may-reef, nj.gov DEP reef guide",
+    "validated": "false",
+    "validation_source": "dep.nj.gov/njfw/fishing/marine/artificial-reef-program, fffnj.com/fgw/reefloc.html",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Coordinates correspond to Cape May Artificial Reef area; NJ has 14 official reef sites, no numbered Site 15 exists. Depth range 50-75 ft at Cape May reef."
+      "note": "DATA QUALITY FLAG: 'Artificial Reef Site 15' does not correspond to any official NJ DEP designation. NJ has exactly 14 named artificial reef sites confirmed via fffnj.com/fgw/reefloc.html (Sandy Hook, Sea Girt, Garden State North, Garden State South, Little Egg, Atlantic City, Great Egg, Ocean City, Shark River, Axel Carlson, Barnegat Light, Wildwood, Deepwater, Cape May). Nearest to coordinates 39.1917N/74.3583W is Ocean City Reef (39°09.872'N, 74°34.028'W). Validated=false — site name and identity require resolution against official reef charts before diving.",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
     "name": "Axel Carlson",
     "lat": 39.4167,
     "lon": -74.1833,
-    "depth": 22,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "njscuba.net/axel-carlson-reef",
+    "validation_source": "njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef, dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf, dan.org/alert-diver/article/new-jersey-the-underwater-garden-state, divebuddy.com/divesite/4115/axel-carlson-artificial-reef-veronica-m-nj",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "COORDINATE REVIEW NEEDED: Axel Carlson Reef is 4.4 nm SE of Manasquan Inlet (approximately 40.08°N, 73.85°W range) per search results; recorded coordinates 39.4167/-74.1833 place this site south of Long Beach Island, NJ which is inconsistent with its known location off the Monmouth County coast. Coordinates should be re-sourced against NJ DEP reef chart. Depth corrected from 22m to 24m per njscuba data (66-80ft range; 24m = 80ft max).",
+      "last_qa_date": "2026-06-19"
     }
   },
   {
@@ -172,10 +188,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net/great-isaac, NJ Monthly/shipwreck-diving",
+    "validation_source": "tugboatinformation.com/tug.cfm?id=6245, njmonthly.com/articles/jersey-shore/shipwreck-diving, newjerseyshipwreckseries.com/?page_id=195, atlanticdivers.com/charters/great-isaac",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-06-19"
     }
   }
 ]

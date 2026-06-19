@@ -25,7 +25,7 @@ New Jersey's artificial reef program, administered by the NJ DEP Division of Fis
 
 - **Location**: Southern New Jersey coast, Ocean City / Great Egg area (exact site identity unverified)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
@@ -55,6 +55,6 @@ Charter boats depart from Ocean City, Somers Point, or Atlantic City-area marina
 - Current flows across flat sandy bottom can be stronger than expected at offshore reef sites
 
 ---
-*Sources: [NJ DEP Artificial Reef Program](https://dep.nj.gov/njfw/fishing/marine/artificial-reef-program/), [NJ Artificial Reef Site Locations](https://www.fffnj.com/fgw/reefloc.html), [NJ DEP Reef Guide](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf). Last updated 2026-05-17.*
+*Sources: [NJ DEP Artificial Reef Program](https://dep.nj.gov/njfw/fishing/marine/artificial-reef-program/), [NJ Artificial Reef Site Locations](https://www.fffnj.com/fgw/reefloc.html), [NJ DEP Reef Guide](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf). Last updated 2026-06-19.*
 
 *Note: No site-specific source for "Artificial Reef Site 15" was found. Site identity and description are based on the NJ DEP artificial reef program documentation for the Ocean City and Great Egg reef areas nearest to the recorded coordinates.*

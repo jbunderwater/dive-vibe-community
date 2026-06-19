@@ -23,7 +23,7 @@ Tices Shoal is a shallow sandbar in the middle of Barnegat Bay, long famous as a
 
 - **Location**: New Jersey Shore, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3 meters
 
@@ -44,4 +44,4 @@ Boat access from Barnegat Bay. The shoal is located near Island Beach State Park
 Boat traffic is the primary hazard — Tices Shoal is one of the most heavily visited spots in Barnegat Bay on summer weekends. Divers and snorkelers must display a dive flag and be vigilant about surface boat activity. Check for clinging jellyfish advisories from the New Jersey DEP before entering the water in summer.
 
 ---
-*Sources: [Tices Shoal — Wikipedia](https://en.wikipedia.org/wiki/Tices_shoal), [Dangerous Jellyfish near Tices Shoal — WHYY](https://whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal/), [Barnegat Charter Fishing](https://barnegatcharterfishing.com/). Last updated 2026-05-17.*
+*Sources: [Tices Shoal — Wikipedia](https://en.wikipedia.org/wiki/Tices_shoal), [Dangerous Jellyfish near Tices Shoal — WHYY](https://whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal/), [Barnegat Charter Fishing](https://barnegatcharterfishing.com/), [Island Beach / Tices Shoal Anchorage — Waterway Guide](https://www.waterwayguide.com/anchorage/2-1327/island-beach-tices-shoal). Last updated 2026-06-19.*

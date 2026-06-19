@@ -17,13 +17,13 @@ A submerged rocky feature at the western edge of Fisher's Island Sound, near the
 
 ## Overview
 
-Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef cluster — the coordinates place it near the western approach to Fisher's Island Sound, where the sound opens toward Long Island Sound. This position puts it at the outer edge of the Rhode Island Sound reef sites, toward the Fisher's Island/Stonington area. "Planet Rock" is an unusual name for a New England marine feature — it may derive from a vessel's name, a historical incident, or an informal naming convention of local divers or fishermen. The rocky substrate at 15 metres depth provides the cold-water reef diving typical of the sound, with the added interest of its position at the convergence of multiple water body approaches.
+Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef cluster — the coordinates place it near the western approach to Fisher's Island Sound, where the sound opens toward Long Island Sound. This position puts it at the outer edge of the Rhode Island Sound reef sites, toward the Fisher's Island/Stonington area. The name "Planet Rock" does not appear in dive operator listings, ScubaBoard threads, or regional diving guides consulted during research. The rocky substrate at 15 metres depth provides the cold-water reef habitat typical of the sound, but no dive-specific sources for this named feature have been located.
 
 ## Site Information
 
 - **Location**: Western Fisher's Island Sound, near Connecticut/Rhode Island border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 meters (variable)
@@ -33,11 +33,11 @@ Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef
 
 ## Marine Life
 
-Western Fisher's Island Sound cold-water reef species. Tautog are the dominant reef fish — well established in this rocky habitat. Striped bass hunt the area in season. Bluefish appear above the reef in summer. American lobsters in deeper crevices. Sea bass in warmer months. Cunner hover around encrusted surfaces. Sea urchins on open rock faces. Encrusting sponges and anemones on shaded surfaces.
+Cold-water temperate species typical of western Fisher's Island Sound inhabit rocky reef habitat in this region. No site-specific marine life surveys have been documented for Planet Rock.
 
 ## Dive Profile
 
-Boat access from Stonington CT or Westerly RI. Descend to rocky reef at 10–15 metres. Navigate rock perimeter. Plan around slack tide — the convergence of Fisher's Island Sound and Long Island Sound currents creates variable flow patterns. Complete a 3-minute safety stop at 5 metres.
+Boat access from Stonington CT or Westerly RI. Descend to rocky reef at 10–15 metres. Plan around slack tide — the convergence of Fisher's Island Sound and Long Island Sound currents creates variable flow patterns. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -47,7 +47,6 @@ Boat charter required. Stonington CT operators are closest to this site. Anchor 
 
 - Western position in the Fisher's Island Sound cluster — Stonington CT is the most convenient base
 - Combine with Cormorant Reef and Latimer Reef for a Fisher's Island Sound multi-site day
-- Tautog are the primary target; approach ledge faces slowly and quietly
 - 7mm wetsuit or drysuit recommended throughout the season
 
 ## Safety Considerations
@@ -56,12 +55,12 @@ Tidal currents from both Fisher's Island Sound and Long Island Sound influence t
 
 ## Photography
 
-Tautog on kelp-draped rock are the signature subjects. Strobes needed at 15 metres for color accuracy.
+Rocky reef at 15 metres. Strobes needed for color accuracy.
 
 ## Additional Resources
 
 - **Charter Access**: Stonington and Noank CT; Westerly RI area operators
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

@@ -13,55 +13,29 @@ addedBy: osm_import
 
 # Half Tide Rocks
 
-A cluster of tidal rocks off the Plum Island/northern Massachusetts coast, part of the productive reef complex in this area.
+A cluster of tidal rocks in the Hampton/Seabrook NH coastal zone charted as a navigational hazard. No dive-specific documentation found.
 
 ## Overview
 
-Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth and the Gulf of Maine cold-water ecology make this a productive dive for lobster, tautog, and invertebrate observation.
+Half Tide Rocks is a cluster of tidal rocks at lat 42.812, lon -70.858 (Hampton/Seabrook NH coastal area). The OSM record notes that this group formerly contained a rock called Gangway Rock, which was removed under a US Army Corps of Engineers contract in the 1880s, as documented in the 1881 Report of the Chief of Engineers U.S. Army, Part 1, page 512. Some modern charts still label this cluster as "Gangway Rock." The rocks are tidal (submerge at high water) and are charted as a navigational hazard (`hazard=yes`, `seamark:rock:water_level=covers`).
+
+This site has been researched against five dive-operator and directory sources: iDive New England, Portsmouth Scuba, Zentacle, Boston SCUBA, and ScubaBoard discussions covering the Hampton Beach and Newburyport/Plum Island areas. None list this cluster as a recreational dive destination. Hampton Beach ScubaBoard threads confirm predominantly sandy coastal bottom; the nearest documented rocky reef diving is Seal Rocks (Rye NH) further north, and Cape Ann (Gloucester/Rockport) to the south.
+
+**This site is not currently documented as a recreational dive site.** The tidal rocks exist as charted nautical hazards, but no operator, guide, or diver forum has documented dives here.
 
 ## Site Information
 
-- **Location**: Off Plum Island / Newburyport coast, northern Massachusetts
+- **Location**: Hampton/Seabrook NH coastal zone (outer approaches to Plum Island Sound)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current; Merrimack River influence
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **Historical Note**: Gangway Rock (formerly part of this cluster) was removed by US Army Corps contract, 1880s
+- **Current Status**: Tidal (covers at high water); charted navigational hazard
 
 ## Marine Life
 
-Typical northern Massachusetts cold-water reef community. American lobsters den in the crevices between boulder clusters. Tautog are the dominant fish species on the rocks. Cunner school around kelp-draped surfaces. Sea urchins carpet the exposed rock faces. Pollock and Atlantic mackerel pass through above the reef. Encrusting sponges, anemones, and bryozoans cover shaded rock throughout the season.
-
-## Dive Profile
-
-Boat access from Newburyport, Plum Island, or Cape Ann. Descend to 8–10 metres and navigate the rock cluster. Given the multiple named features in this area, a single charter can productively visit two or three sites. Plan dives around slack water to manage the Merrimack tidal influence. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Local knowledge essential for navigating the shoal waters of the Plum Island/Merrimack area. Anchor in sand adjacent to the rocks. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- This site pairs well with the nearby named rocks — combine Gangway Rocks, Black Rocks, and Badgers Rock on a single charter
-- Inspect all boulder bases and crevices for lobsters
-- Merrimack outflow can cloud visibility after heavy rain — check recent conditions
-- 7mm wetsuit or drysuit required
-
-## Safety Considerations
-
-Cold water year-round. Merrimack River tidal outflow can create directional current. Rocky substrate is a boat navigation hazard. Deploy SMB before surfacing.
-
-## Photography
-
-Good natural light at 10 metres. Rocky reef and kelp subjects work well in ambient light. Lobster portraits in crevices are the signature close-focus subject.
-
-## Additional Resources
-
-- **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-03-28
+This site lies in the Hampton/Seabrook NH coastal zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features, OSM data (including historical note referencing 1881 Chief of Engineers Report), and regional diving characteristics. No site-specific dive reports found. Last updated 2026-06-19.*

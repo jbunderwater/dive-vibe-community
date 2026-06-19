@@ -13,55 +13,33 @@ addedBy: osm_import
 
 # Ruins of Old Breakwater
 
-The submerged stone remains of a 19th-century breakwater off the northern Massachusetts coast, now colonized by cold-water marine life.
+The submerged stone remains of a failed 19th-century breakwater at the mouth of the Merrimack River, now tidal and charted as a navigational hazard rather than a documented dive site.
 
 ## Overview
 
-The Ruins of Old Breakwater is a site of both historical and biological interest — the collapsed remains of what was once a constructed stone breakwater, now lying scattered on the seafloor at approximately 10 metres depth. The site sits in the Plum Island/Newburyport area, adjacent to the cluster of named natural reef features including Badgers Rock, Black Rocks, and Lunts Rock. Nineteenth-century breakwater construction in northern Massachusetts was common as port towns sought to protect their harbors and anchorages from northeast storm surge. When such structures failed or were abandoned, the stone rubble created instant artificial reef habitat — the large scattered blocks and cut stone provide the same crevice habitat as natural ledge, and the northern Massachusetts cold-water species have colonized them thoroughly. After decades of marine growth, the ruins are now more reef than ruins.
+The Ruins of Old Breakwater is a submerged structure in the Plum Island/Newburyport area at the entrance to the Merrimack River. Between 1829 and 1831, Congress appropriated $32,000 for the construction of a stone breakwater extending from Plum Island to Woodbridge Island, intended to increase the depth of water at the river bar. The project proved ineffective, and the structure was subsequently destroyed by wave action. Its remains — stone rubble lying at approximately 10 metres depth — are now charted as a tidal navigational hazard (OSM tags: `disused:man_made=breakwater`, `ruins=yes`, `seamark:rock:water_level=covers`).
+
+This site has been researched against five independent dive-operator and directory sources: iDive New England, Portsmouth Scuba, Zentacle, Boston SCUBA, and ScubaBoard threads covering the Hampton Beach and Newburyport/Plum Island areas. None list this site as a recreational dive destination. ScubaBoard discussions confirm that the Newburyport and Plum Island area is characterised by predominantly sandy bottom with limited offshore rocky structure, and local divers are directed to Cape Ann (Gloucester/Rockport), approximately 20–30 minutes south, for reef diving.
+
+**This site is not currently documented as a recreational dive site.** The submerged ruins exist and could theoretically be dived, but no operator, guide, or diver forum has documented a dive here. The site type classification of "reef" reflects the OSM `natural=reef` tag applied to charted submerged obstructions, not a verified diving classification.
 
 ## Site Information
 
-- **Location**: Off Plum Island/Newburyport coast, northern Massachusetts
+- **Location**: Mouth of Merrimack River / Plum Island Sound, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 3–8 meters (10–26 feet)
-- **Current**: Moderate tidal current
-- **Water Temperature**: 5–20°C depending on season
-- **Best Time**: June to October
+- **Historical Context**: Stone breakwater constructed 1829–1831; destroyed by wave action thereafter
+- **Current Status**: Tidal (covers at high water); charted hazard on NOAA chart 13282 area
 
 ## Marine Life
 
-The scattered stone blocks and cut granite of the old breakwater have been thoroughly colonized. Encrusting sponges, anemones, and bryozoans cover most hard surfaces. Tautog hold territory on the larger block faces. American lobsters inhabit the dark spaces between the tumbled stone. Cunner school around the rubble. Sea urchins are present on open stone surfaces. Winter flounder rest on the sandy areas between the stone scatter. Pollock cruise above.
-
-## Dive Profile
-
-Boat access from Newburyport or Cape Ann area. Descend to the scattered stone at 8–10 metres. Navigate the rubble field — the larger individual blocks provide the best wildlife concentrations. The rubble's irregular profile means some relief even at the shallower sections. Pair with the nearby natural reef sites for a productive multi-site day. Complete a 3-minute safety stop at 5 metres.
-
-## Entry and Exit
-
-Boat charter required. Local knowledge of the northern Massachusetts nearshore is important. Anchor in sand clear of the rubble field. Deploy SMB before ascending.
-
-## Tips and Recommendations
-
-- The artificial reef nature of the site means dense colonization on every stone surface — explore slowly
-- Large cut-granite blocks can provide more shelter than natural rounded boulders — check all gaps
-- Historical curiosity: the original breakwater structure is worth researching in local historical archives
-- Combine with the natural reef cluster nearby for a varied two-site day
+These sites lie in the Hampton/Seabrook NH and northern Massachusetts coastal zone. Cold-water temperate species typical of the Gulf of Maine (tautog, Atlantic lobster, pollock, cunner) inhabit similar rocky ledge and rubble habitat in this region, but no site-specific marine life surveys have been documented for this site.
 
 ## Safety Considerations
 
-Cold water year-round — 7mm wetsuit or drysuit required. Moderate tidal current near peak flow. The irregular rubble creates some entanglement potential — maintain buoyancy and avoid snagging on protruding structures. Deploy SMB before surfacing.
-
-## Photography
-
-Heavily encrusted stone creates excellent macro subjects. The juxtaposition of cut stone (clearly human-made) with dense marine growth conveys the passage of time effectively. Wide-angle shots of rubble fields with encrusting life work well in the 10-metre natural light.
-
-## Additional Resources
-
-- **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-03-28
+Strong tidal current from Merrimack River outflow. Shallow tidal site — tidal state affects depth significantly. No documented dive infrastructure (mooring, charter stops) at this location.
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Description based on nautical chart features, OSM tags, and local maritime history sources (historyofmassachusetts.org, historicipswich.net). No site-specific dive reports found. Last updated 2026-06-19.*

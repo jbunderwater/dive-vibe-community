@@ -1,9 +1,9 @@
 ---
 name: USS Algol (AKA-54)
-lat: 39.7692
-lng: -73.4736
+lat: 40.1269
+lng: -73.6564
 difficulty: Advanced
-maxDepth: 45
+maxDepth: 43
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The USS Algol (AKA-54) was a 459-foot Andromeda-class attack cargo ship that ser
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
+- **Maximum Depth**: 43 meters
 
 ## Wreck History
 
@@ -50,4 +50,4 @@ All access is by boat charter. The Shark River Reef is reached from Manasquan In
 At 43 meters maximum depth this is an advanced dive requiring proper gas planning. Penetration of the cargo holds and superstructure is possible and was prepared for before sinking (hatches removed, clear egress routes), but still requires a dive light, redundant gas, and wreck penetration training. Navigating the interior is disorienting — divers have reported uncertainty about their position even with charts of the wreck's different cargo hold configurations. Cold water (7mm wetsuit or drysuit recommended) and depth combine to limit bottom time. The wreck's massive scale can tempt divers to extend bottom time beyond safe limits.
 
 ---
-*Sources: [USS Algol AKA-54 — Wikipedia](https://en.wikipedia.org/wiki/USS_Algol_(AKA-54)), [NavSource — AKA-54 Algol](https://www.navsource.org/archives/10/02/02054.htm), [USS Algol — Shark River Reef off NJ — ScubaBoard](https://scubaboard.com/community/threads/uss-algol-shark-river-reef-off-nj.548427/), [Shark River Artificial Reef — NJ Scuba Diving](https://njscuba.net/artificial-reefs/new-jersey-reefs/shark-river-reef/). Last updated 2026-05-17.*
+*Sources: [USS Algol AKA-54 — Wikipedia](https://en.wikipedia.org/wiki/USS_Algol_(AKA-54)), [NavSource — AKA-54 Algol](https://www.navsource.org/archives/10/02/02054.htm), [USS Algol — Shark River Reef off NJ — ScubaBoard](https://scubaboard.com/community/threads/uss-algol-shark-river-reef-off-nj.548427/), [Shark River Artificial Reef — NJ Scuba Diving](https://njscuba.net/artificial-reefs/new-jersey-reefs/shark-river-reef/). Last updated 2026-06-19.*

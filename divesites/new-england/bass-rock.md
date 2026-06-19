@@ -5,7 +5,7 @@ lng: -70.7835881
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
-siteType: wreck
+siteType: reef
 ref: null
 osmId: 441445427
 addedBy: osm_import
@@ -13,17 +13,19 @@ addedBy: osm_import
 
 # Bass Rock
 
-A submerged rocky outcrop and associated wreck debris off Crane Beach, Ipswich, Massachusetts, near the mouth of the Essex River.
+A submerged rocky ledge (navigation hazard) between Plum Island Sound and Ipswich Bay, off Crane Beach, Ipswich, Massachusetts, near the mouth of the Essex River.
 
 ## Overview
 
-Bass Rock is a submerged ledge system located off Crane Beach near the mouth of the Essex River at the northern approach to Ipswich Bay. The coordinates place this site in the nearshore waters between Crane Beach and the open Gulf of Maine approach — a stretch of coast that has claimed numerous vessels over the centuries given its combination of submerged ledges, tidal currents from the Essex and Ipswich Rivers, and exposure to northeast storm swells. The site is classified as a wreck, suggesting wreck debris is present on or around the rocky structure. At 18 metres maximum depth, the site offers typical New England ledge diving combined with the wreck component. This is the same general area as the Ada K. Damon intertidal wreck at Crane Beach, and the two sites can be combined on a charter trip.
+Bass Rock is a small bare rock and submerged ledge system located between Plum Island Sound and Ipswich Bay, just south of Sandy Point at the northern tip of Plum Island. The rock is identified as a navigation hazard on nautical charts and is named after the striped bass that frequent the surrounding waters seasonally (May–October). OSM data for this site carries tags of natural=reef, reef=rock, seamark:type=rock, and seamark:rock:water_level=covers — consistent with a submerged/awash rocky ledge, not a wreck. No wreck-specific tags, no historic=wreck designation, and no published dive reports or records of wreck debris at this site were found in research. The site_type has been corrected from "wreck" to "reef" accordingly.
+
+At up to 18 metres maximum depth, Bass Rock offers typical New England rocky ledge diving in a high-current, cold-water environment. The combination of tidal flow from the Essex River mouth and exposure to Ipswich Bay creates a productive if challenging diving environment. This site is near the Ada K. Damon intertidal wreck at Crane Beach.
 
 ## Site Information
 
 - **Location**: Off Crane Beach, Ipswich, Massachusetts (northern Ipswich Bay)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 4–10 meters (variable with tidal state)
@@ -33,11 +35,11 @@ Bass Rock is a submerged ledge system located off Crane Beach near the mouth of 
 
 ## Marine Life
 
-The combination of rocky ledge and wreck debris creates varied habitat. Tautog hold position on the harder structure and wreck pieces. American lobsters inhabit crevices in both the ledge and wreck debris. Pollock school in mid-water above the site. Cunner cluster around the encrusted metal and rock surfaces. Northern sea ravens rest motionless on the flat sand areas surrounding the rock. Winter flounder and sand dabs are common on the sandy patches adjacent to the structure. Striped bass hunt the area in late summer.
+The rocky ledge provides hard substrate in an area of tidal current and cold water. Tautog, cunner, and American lobster are typical of similar rocky ledge sites in the Ipswich Bay and Cape Ann area. Striped bass are documented as seasonally abundant in the Bass Rock area (May–October). No site-specific species surveys of Bass Rock as a dive site have been published; no wreck debris habitat has been confirmed at this location.
 
 ## Dive Profile
 
-Access via boat charter from Gloucester or Ipswich/Essex area. Descend to the rocky ledge structure at 12–18 metres and navigate the perimeter to locate wreck debris. The combination of ledge topography and scattered wreck material means the most productive dive strategy involves working the ledge edges where both reef species and wreck debris concentrate. Plan dives around slack tide to minimize current from the Essex River. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
+Access via boat charter from Gloucester or Ipswich/Essex area. Descend to the rocky ledge structure at 12–18 metres and navigate the ledge perimeter. Plan dives around slack tide to minimize current from the Essex River and Plum Island Sound. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -45,10 +47,9 @@ Boat charter required from Cape Ann or North Shore operators. Local knowledge of
 
 ## Tips and Recommendations
 
-- Plan dives around slack tide — the Essex River tidal flow creates directional currents here
-- Bring a dive light to investigate ledge crevices and wreck cavities where lobsters shelter
-- The wreck debris may include material from multiple vessels lost on this navigation hazard over the centuries
-- Combine with a visit to the Ada K. Damon intertidal site on Crane Beach for a full maritime archaeology day
+- Plan dives around slack tide — the Essex River and Plum Island Sound tidal flow creates directional currents here
+- Bring a dive light to investigate ledge crevices where lobsters shelter
+- Combine with a visit to the Ada K. Damon intertidal wreck site at nearby Crane Beach for a varied day
 - 7mm wetsuit or drysuit recommended year-round in the Gulf of Maine
 
 ## Safety Considerations
@@ -57,12 +58,12 @@ Tidal current from the Essex River can be strong and directional near the river 
 
 ## Photography
 
-The combination of ledge topography and wreck debris provides varied photographic subjects. Close-focus shots of encrusting organisms on weathered metal fragments reward patient photographers. Tautog portraits against the rocky substrate are achievable with a patient approach.
+Rocky ledge topography with encrusting organisms on the hard substrate provides photographic subjects typical of New England cold-water rocky reefs. Tautog portraits against the rocky substrate are achievable with a patient approach. Striped bass schooling in the current are a seasonal subject.
 
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers (Gloucester); North Shore dive charters
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-06-19
 
 ---
-*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*
+*Note: Site type corrected from "wreck" to "reef" based on QA review (2026-06-19). OSM data shows natural=reef, reef=rock tags; no historic=wreck tag; no wreck evidence found in research. Sources: [Bass Rock — Natural Atlas](https://naturalatlas.com/rock-hazards/bass-rock-1847233), [Bass Rock (Ipswich) — Kiddle Encyclopedia](https://kids.kiddle.co/Bass_Rock_(Ipswich,_Essex_County,_Massachusetts)). No dive-specific sources found for this site.*

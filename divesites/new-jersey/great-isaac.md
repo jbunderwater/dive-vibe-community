@@ -29,7 +29,7 @@ The Great Isaac was a V4-M-A1 class ocean-going tugboat built in 1943 for the US
 
 ## Wreck History
 
-The Great Isaac (hull #409) was built in 1943 by General Ship of East Boston, Massachusetts, for the United States Navy as a fleet ocean tug (V4-M-A1 class). She measured 185 by 37 feet and displaced 1,117 gross tons with a crew of 27. The Great Isaac participated in the June 1944 Normandy landings, towing floating concrete sections used to construct the artificial breakwaters (Mulberry harbors / gooseberries) that protected the Allied landing beaches. Her captain was awarded a Bronze Star for meritorious duty under fire.
+The Great Isaac (hull #409) was built by General Ship of East Boston, Massachusetts, for the United States Navy as a fleet ocean tug (V4-M-A1 class). Her build year is recorded as 1943 by tugboatinformation.com and the NJ shipwreck series, while the MARAD vessel history database records 1944; the discrepancy is unresolved. She measured approximately 185 feet in length by 37 feet beam and registered 1,117 gross tons with a crew of approximately 27. The Great Isaac participated in the June 1944 Normandy landings, towing floating concrete sections used to construct the artificial breakwaters (Mulberry harbors / gooseberries) that protected the Allied landing beaches. Her captain was awarded a Bronze Star for meritorious duty under fire.
 
 On April 16, 1947, in foggy conditions off the New Jersey coast, the Great Isaac was struck by the Norwegian freighter Bandeirante. The collision gashed the engine room six feet deep. The tug sank in 90 feet of water 12 miles off Barnegat Light. There were no casualties.
 
@@ -64,4 +64,4 @@ Charter boats depart from Barnegat Light and Point Pleasant Beach. Atlantic Dive
 - Visibility is highly variable (3–15 meters typical); be prepared for limited-visibility navigation
 
 ---
-*Sources: [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/barnegat-chart/great-isaac/), [NJ Monthly](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/), [NJ Shipwreck Series](https://www.newjerseyshipwreckseries.com/?page_id=195), [Atlantic Divers](https://atlanticdivers.com/charters/great-isaac). Last updated 2026-05-17.*
+*Sources: [njscuba.net](https://njscuba.net/dive-sites/new-jersey-dive-sites/barnegat-chart/great-isaac/), [NJ Monthly](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/), [NJ Shipwreck Series](https://www.newjerseyshipwreckseries.com/?page_id=195), [Atlantic Divers](https://atlanticdivers.com/charters/great-isaac), [Tugboat Information Database](http://www.tugboatinformation.com/tug.cfm?id=6245), [MARAD Vessel History — Great Isaac](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/8323). **Note:** Build year recorded as 1943 (tugboatinformation.com, NJ Shipwreck Series) vs 1944 (MARAD). Conflict unresolved. Last updated 2026-06-19.*

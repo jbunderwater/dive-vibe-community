@@ -3,7 +3,7 @@ name: Axel Carlson
 lat: 39.4167
 lng: -74.1833
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ The Axel Carlson Reef is one of New Jersey's developed artificial reef sites, si
 
 - **Location**: Approximately 2.1 miles off Point Pleasant Beach / Bay Head (Mantoloking area), New Jersey
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 24 meters
 
 ## Marine Life
 
@@ -54,4 +54,6 @@ Charter boats depart from Manasquan Inlet and Point Pleasant Beach — the reef 
 - The reef material includes sharp metal and concrete; protect hands and exposed skin
 
 ---
-*Sources: [njscuba.net — Axel Carlson Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [National Fisherman — Carrabassett](https://www.nationalfisherman.com/northeast/the-final-journey-of-the-ma-fishing-vessel-carrabassett), [NJ DEP Axel Carlson Reef data](https://dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf). Last updated 2026-05-17.*
+*Sources: [njscuba.net — Axel Carlson Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [National Fisherman — Carrabassett](https://www.nationalfisherman.com/northeast/the-final-journey-of-the-ma-fishing-vessel-carrabassett), [NJ DEP Axel Carlson Reef data](https://dep.nj.gov/njfw/wp-content/uploads/njfw/Axel-Carlson-Reef.pdf), [The Fisherman — Scouting Axel Carlson Reef](https://www.thefisherman.com/article/bdv-spotlight-scouting-axel-carlson-reef/). Last updated 2026-06-19.*
+
+*Coordinate note: Recorded coordinates (39.4167°N, 74.1833°W) place this site south of Long Beach Island, which is inconsistent with the reef's confirmed location 4.4 nm SE of Manasquan Inlet (approximately 40.0°N, 73.85°W). GPS coordinates should be verified against NJ DEP official reef chart before use for navigation.*
