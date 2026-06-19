@@ -3,7 +3,7 @@ name: Northern Arch
 lat: -35.45
 lng: 174.73
 difficulty: Advanced
-maxDepth: 50
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Northern Arch
 
-Located at the northern end of Puketuaho Island, Northern Arch is regarded as the most spectacular and dramatic arch at the Poor Knights Islands. The arch cuts through a rocky point at a location susceptible to strong currents, which create nutrient-rich conditions that support exceptional marine life. With its base at 38 meters and apex potentially breaking the surface, this is a challenging and rewarding deep arch dive.
+Located at the northern end of the Poor Knights Islands, Northern Arch is regarded as one of the finest dives at the Poor Knights and requires respect and experience. The arch is described as a strictly parallel cleft through a rocky promontory, approximately 6-8 metres wide and 40 metres tall, with a base at 36-40 metres. Unpredictable currents and recorded fatalities place this firmly in the Advanced category.
 
 ## Overview
 
-Northern Arch is an impressive geologic feature creating a deep, narrow arch passage. The structure rises from 50 meters or deeper on either side to a base of 38 meters in the middle, with the top of the arch potentially reaching the surface. The location at the northern end and on the tip of Te Araara Point ensures constant current—exactly what makes this site spectacular. Dense schools of pink maomao and blue maomao swarm the arch in coordinated masses.
+Northern Arch is a dramatic geological feature: a nearly vertical parallel cleft cut through a rocky promontory. The base of the arch sits at 36-40 metres depth, with the top rising toward the surface. The location ensures consistent, sometimes strong currents — which create nutrient-rich conditions supporting exceptional marine life but also requiring careful dive planning. A memorial plaque for diver John Catton is located at the site. Dense schools of pink maomao and blue maomao swarm the arch when conditions allow.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Northern Arch is an impressive geologic feature creating a deep, narrow arch pas
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters
+- **Maximum Depth**: 40 meters (arch base at 36-40m; surrounding bay deeper)
 - **Minimum Depth**: 15 meters (arch entrance)
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
@@ -34,13 +34,12 @@ Northern Arch is an impressive geologic feature creating a deep, narrow arch pas
 
 ## Marine Life
 
-Northern Arch is famous for its swarming fish life adapted to strong currents:
-- Massive schools of pink maomao
-- Equally impressive schools of blue maomao
+Northern Arch is famous for its fish life in the current-swept archway:
+- Massive schools of pink maomao and blue maomao
 - Large kingfish and snapper hunting in the blue water
-- Giant trevally
-- Colourful sponges, anemones, hydroids, bryozoans, and algae covering the arch walls
-- Occasional larger pelagic visitors
+- Short-tailed stingrays, which use this area for mating in late February to March
+- Colourful sponges, anemones, and encrusting life covering the arch walls
+- Bronze whaler sharks in summer months
 
 ## Dive Profile
 
@@ -79,4 +78,4 @@ Boat entry via giant stride. Your guide will brief on current direction, depth h
 Wide-angle shots of the arch structure with fish schools are striking. The interplay of current and fish creates dynamic compositions. Macro photography of wall-encrusting organisms is possible. Position yourself carefully in the current to maintain stable shooting position. Best photography occurs at 25-35m where fish life is dense but light is still strong.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Seafriends - Northern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Dive HQ - Poor Knights Islands](https://divehq.co.nz/blog/the-poor-knights-islands/), [Ian Skipworth - Poor Knights Deep Dive Sites](https://ianskipworth.com/suig/deepknights.html). Last updated 2026-06-19.*

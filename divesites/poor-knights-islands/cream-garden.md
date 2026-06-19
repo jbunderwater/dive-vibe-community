@@ -76,4 +76,4 @@ Cream Garden offers excellent photographic diversity:
 - The moderate depth and calm conditions allow relaxed, thoughtful photography approach
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Seafriends - Northern Quarter Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Dive HQ - Poor Knights Islands](https://divehq.co.nz/blog/the-poor-knights-islands/), [Ian Skipworth - Poor Knights Deep Dive Sites](https://ianskipworth.com/suig/deepknights.html). Last updated 2026-06-19.*
