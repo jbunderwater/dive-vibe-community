@@ -3,7 +3,7 @@ name: Turquoise Bay
 lat: -22.0264
 lng: 113.9881
 difficulty: Beginner
-maxDepth: 5
+maxDepth: 8
 entryType: shore
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Turquoise Bay is a well-known beach and snorkel site within Cape Range National 
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 meters
+- **Maximum Depth**: 8 meters
 
 ---
 *Sources: [Explore Parks WA — Turquoise Bay](https://exploreparks.dbca.wa.gov.au/site/turquoise-bay), [Australia's Coral Coast — Turquoise Bay](https://www.australiascoralcoast.com/see-do/national-parks/cape-range-national-park/turquoise-bay), [Snorkel Spots — Turquoise Bay Drift](https://snorkelspots.com/turquoise-bay-drift-snorkel/). Last updated 2026-06-19.*

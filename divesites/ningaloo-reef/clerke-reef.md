@@ -23,7 +23,7 @@ Clerke Reef is a reef dive site in Ningaloo Reef, Oceania.
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

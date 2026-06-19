@@ -23,7 +23,7 @@ Norwegian Bay is a remote coastal area on Ningaloo Station, historically signifi
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

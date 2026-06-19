@@ -23,7 +23,7 @@ Bundegi Reef sits in the sheltered waters of Exmouth Gulf at the northern end of
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 

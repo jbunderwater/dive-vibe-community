@@ -23,7 +23,7 @@ Tantabiddi is the main boat ramp and reef access point on the outer northern sec
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

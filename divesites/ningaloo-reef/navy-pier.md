@@ -3,7 +3,7 @@ name: Navy Pier
 lat: -21.8097
 lng: 114.1578
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Navy Pier is rated among the top 10 shore dives in the world, located at a fully
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 15 meters
 
 ---
 *Sources: [Dive Ningaloo — Navy Pier](https://www.diveningaloo.com.au/scuba-diving-tours/the-exmouth-navy-pier/), [Ningaloo Whale Sharks — Navy Pier](https://www.ningaloowhalesharks.com/navy-pier/), [Aussie Marine Adventures — Navy Pier](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-2-exmouth-navy-pier/). Last updated 2026-06-19.*

@@ -23,7 +23,7 @@ The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of Ning
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 

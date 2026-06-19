@@ -3,7 +3,7 @@ name: Lighthouse Bay
 lat: -21.8833
 lng: 114.15
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 14
 entryType: shore
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Lighthouse Bay is a dive hub on the northern tip of the Ningaloo peninsula, just
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 14 meters
 
 ---
 *Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Lighthouse Bay](https://www.ningaloowhalesharks.com/lighthouse-bay-ningaloo-reef/), [Aussie Marine Adventures — Lighthouse Bay](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-1-lighthouse-bay/). Last updated 2026-06-19.*

@@ -5,7 +5,7 @@
     "lon": 114.1578,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -13,13 +13,34 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningaloo.com.au, ningaloowhalesharks.com, aussiemarineadventures.com.au",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 12m to 15m (multiple sources confirm ~15m max). Grey nurse sharks corrected to winter-only. Description updated to clarify restricted access via licensed operator only."
     }
   },
   {
     "name": "Lighthouse Bay",
     "lat": -21.8833,
     "lon": 114.15,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "diveningaloo.com.au, ningaloowhalesharks.com, aussiemarineadventures.com.au",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Removed false claim that whale shark tours depart from Lighthouse Bay; they depart from Tantabiddi boat ramp. Turquoise Bay is not 'within easy reach' — it is ~14km south. Depth updated from 8m to 14m (bay max per sources)."
+    }
+  },
+  {
+    "name": "Turquoise Bay",
+    "lat": -22.0264,
+    "lon": 113.9881,
     "osm_id": null,
     "osm_type": null,
     "depth": 8,
@@ -30,24 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
-    }
-  },
-  {
-    "name": "Turquoise Bay",
-    "lat": -22.0264,
-    "lon": 113.9881,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 5,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "exploreparks.dbca.wa.gov.au, australiascoralcoast.com, snorkelspots.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth updated from 5m to 8m (sources say 5-8m). Removed unsourced claim of '15-20m scuba depth' for deeper bommies. Primarily a snorkel destination; scuba-specific details unsupported."
     }
   },
   {
@@ -64,7 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "snorkelspots.com, perthisok.com, whalesharkdive.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Removed 'bumphead parrotfish' (not confirmed at this site specifically) and 'cowtail rays' (only rays/stingrays confirmed). Note: requires 250-500m channel swim so entry difficulty is higher than 'Beginner' suggests; difficulty left as Beginner per operator ratings but noted in description."
     }
   },
   {
@@ -81,7 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "viewningaloo.com.au, snorkelspots.com, australiascoralcoast.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Removed unsupported claim of manta rays 'seasonally feeding in the current-swept channel' (only mentioned as possible seasonal visitors to reef edge generally). Whale shark tour departure confirmed as Tantabiddi boat ramp. Marine life updated to confirmed species only."
     }
   },
   {
@@ -90,7 +100,7 @@
     "lon": 113.95,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -98,13 +108,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "thelifeofpy.com, ningaloocentre.com.au",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 10m to 5m (sources confirm 1-5m). Removed unconfirmed species: 'wobbegong sharks' and 'thick-lipped wrasse' not confirmed at Lakeside specifically. Removed overstated 'almost guaranteed' turtle claim."
     }
   },
   {
     "name": "Blizzard Ridge",
-    "lat": -22.7,
-    "lon": 113.6667,
+    "lat": -21.8008,
+    "lon": 114.1237,
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
@@ -115,7 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "padi.com, ningaloowhalesharks.com, moniqueliveslife.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Coordinates corrected from (-22.7, 113.6667) to (-21.8008, 114.1237) per PADI dive site data — previous coords were ~100km too far south. Removed 'grey nurse sharks' (only confirmed at Navy Pier in winter, not at Blizzard Ridge). Marine life updated to confirmed species."
     }
   },
   {
@@ -131,8 +145,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "scubadownunder.com, dbca.wa.gov.au, liveaboard.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "CRITICAL: Clerke Reef is NOT in Ningaloo Marine Park. It is part of Rowley Shoals Marine Park, located at approximately -17.3S, 119.35E — roughly 300km west of Broome. Current coordinates (-22.65, 113.7333) are fictional. The site is liveaboard-only from Broome, season September-December. This record must be removed from ningaloo-reef or reassigned to a Rowley Shoals destination. Validated downgraded to false."
     }
   },
   {
@@ -149,7 +165,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningalooliveaboard.com.au, whalesharktours.com.au, dan.org",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Removed 'hammerhead sharks' — mentioned for Ningaloo generally but not confirmed at Mandu Wall specifically. Site-specific sources for Mandu Wall are limited; description updated to reflect this. Wall type confirmed."
     }
   },
   {
@@ -166,7 +184,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "diveningaloo.com.au, ningaloowhalesharks.com, voyatlas.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Marine life confirmed: turtle cleaning station, leopard sharks, dugongs, pufferfish, porcupinefish, crayfish, octopus, seasonal whale sharks and humpbacks. Whale shark season correctly noted as March-July. Humpback season approximately June-October."
     }
   },
   {
@@ -183,7 +203,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "divingwawrecks.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Site confirmed as real location on Ningaloo Station with historical whaling station and three offshore wrecks (SS Fin, The Zvir, SS Perth). However, no dive operator tours or site-specific marine life reports found. Marine life claims removed. Site may be better classified as wreck dive. Validated kept true for location but description is largely unverified."
     }
   },
   {
@@ -192,7 +214,7 @@
     "lon": 113.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 4,
+    "depth": 3,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -200,7 +222,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "snorkelspots.com, australiascoralcoast.com, thelifeofpy.com",
+      "last_qa_date": "2026-06-19",
+      "qa_notes": "Depth corrected from 4m to 3m (sources confirm 1-3m). Removed false claim of 'loggerhead turtles' (only 'turtles' confirmed). Removed false claim of 'entry directly off the beach' — actual entry is over a rocky ledge at high tide only (min 1.2m tide required). Removed 'south of Coral Bay' location error — site is in Cape Range NP, ~65km south of Exmouth and north of Coral Bay."
     }
   }
 ]

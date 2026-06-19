@@ -3,7 +3,7 @@ name: Middle Arch
 lat: -35.46
 lng: 174.732
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 16
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 16 meters (arch base; bay on western side drops to 80m)
 - **Typical Visibility**: 15-30 meters (good for wide-angle photography)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Mild to moderate (much less than Northern Arch)
@@ -36,10 +36,10 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 Middle Arch features colourful wall life combined with good fish viewing:
 - Shoals of blue maomao and pink maomao
 - Kingfish, snapper, and giant trevally
-- Colourful sponges, anemones, hydroids, bryozoans, and algae covering the arch and surrounding walls
-- Short-tailed stingrays (in warmer months)
-- Moray eels and smaller fish species
-- Hardy corals and encrusting life creating a garden effect
+- Colourful sponges, anemones, and encrusting life covering the arch walls
+- "Bernie's Cave" — a submerged cave within the arch containing an air bubble; fish swim upside-down at its ceiling
+- Black angelfish have been recorded protecting eggs inside the arch structure
+- Nudibranchs and macro life on the encrusted walls
 
 ## Dive Profile
 

@@ -3,7 +3,7 @@ name: Lakeside
 lat: -21.9333
 lng: 113.95
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 5
 entryType: shore
 siteType: reef
 ref: null
@@ -23,9 +23,9 @@ Lakeside is a sheltered snorkel and beginner dive site within a sanctuary zone o
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 5 meters
 
 ---
 *Sources: [The Life of Py — Lakeside Sanctuary](https://www.thelifeofpy.com/lakeside-sanctuary), [Ningaloo Centre — Snorkelling](https://www.ningaloocentre.com.au/visitor-centre/things-to-do-see/snorkelling.aspx). Last updated 2026-06-19.*

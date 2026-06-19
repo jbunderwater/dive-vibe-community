@@ -23,7 +23,7 @@ Blizzard Ridge is a coral ridge at Lighthouse Bay, approximately 1 km from Vlami
 
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
