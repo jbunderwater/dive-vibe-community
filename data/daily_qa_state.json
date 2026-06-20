@@ -1338,6 +1338,7 @@
         "oman"
       ],
       "notes": "norway has no data files (osm_clean/norway.json + divesites/norway/ missing) — needs scraping before next QA pass. Snoopy Island and Dibba Rock flagged as UAE Fujairah (OSM boundary errors in oman dataset).",
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/97",
       "summary": {
         "sites_total": 150,
         "sites_validated_today": 105,
