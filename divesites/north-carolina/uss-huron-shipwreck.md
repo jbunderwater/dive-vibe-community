@@ -29,7 +29,7 @@ The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nag
 
 ## Marine Life
 
-The iron hull and exposed machinery — including the boilers, cannonball storage racks, propeller, and rudder — provide habitat for sheepshead, black sea bass, tautog, and Atlantic spadefish. Flounder work the sandy bottom around the wreck. The nearshore Atlantic surf zone environment supports a typical Outer Banks coastal fish community. The wreck's shallow depth and proximity to shore make it accessible to snorkelers as well as divers.
+The iron hull and exposed machinery — including the boilers, cannonball storage racks, propeller, and rudder — provide structural habitat typical of North Carolina's nearshore Atlantic environment. No published dive survey documents specific species at the USS Huron wreck. Species characteristic of similar NC nearshore wreck habitat at this depth (9 m / 30 ft) include sheepshead, black sea bass, and tautog, but no site-specific marine life source was found to confirm their presence here. The wreck's shallow depth and proximity to shore make it accessible to snorkelers as well as divers.
 
 ## Wreck History
 
@@ -56,4 +56,4 @@ The buoys are only deployed in summer — check with local dive shops for exact 
 Open-ocean surf conditions can change rapidly on the Outer Banks — always check surf forecasts before entering. The wreck sits in the Atlantic surf zone; surge can be strong even in apparently calm conditions. Use a dive flag visible to boat traffic. The 250-yard swim to the wreck in surf requires good swimming fitness; do not attempt in rough conditions. Artifact collection is prohibited under state and federal law — the site is a legally protected Historic Shipwreck Preserve.
 
 ---
-*Sources: [NC Archaeology — USS Huron Historic Shipwreck Preserve](https://archaeology.ncdcr.gov/uab/heritage-dive-sites/huron), [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/), [NCpedia — USS Huron](https://www.ncpedia.org/uss-huron). Last updated 2026-06-20.*
