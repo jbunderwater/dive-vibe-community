@@ -29,7 +29,7 @@ The SS Richmond was formerly the Confederate blockade runner Blenheim — a Brit
 
 ## Marine Life
 
-The very shallow inshore setting hosts sheepshead and black sea bass picking invertebrates from the exposed iron machinery. The steeple engine and paddle wheel shaft emerging from the water are the most distinctive visible features. Blue crabs are abundant in the inshore sound environment.
+No published dive survey documents specific species at the SS Richmond wreck. The very shallow inshore setting (3–5 m) in a sheltered sound-side environment is typical habitat for North Carolina inshore species such as sheepshead, black sea bass, and blue crabs around exposed iron machinery. The steeple engine and paddle wheel shaft emerging from the water are the most distinctive visible features.
 
 ## Wreck History
 
@@ -52,4 +52,4 @@ Shore access via Ramp 23 near Salvo on Hatteras Island; drive north on the beach
 The very shallow depth (3–5 m) and protected sound-side location make this one of the most accessible dives on the Outer Banks. Boat traffic in the sound requires a dive flag. Check beach driving conditions before visiting — soft sand sections require 4WD and appropriate tire pressure reduction.
 
 ---
-*Sources: [OBX4Sale — Shipwreck Secrets of Salvo: The True Story of the SS Richmond](https://obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond/), [Civil War Traveler — Shipwrecks off North Carolina: SS Richmond](https://civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental/), [Dive Hatteras — Cape Hatteras Beach Wrecks](https://www.divehatteras.com/beach%20wrecks.html). Last updated 2026-05-17.*
+*Sources: [OBX4Sale — Shipwreck Secrets of Salvo: The True Story of the SS Richmond](https://obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond/), [Civil War Traveler — Shipwrecks off North Carolina: SS Richmond](https://civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental/), [Dive Hatteras — Cape Hatteras Beach Wrecks](https://www.divehatteras.com/beach%20wrecks.html). Last updated 2026-06-20.*

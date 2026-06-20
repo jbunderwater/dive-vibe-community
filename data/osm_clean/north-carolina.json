@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov,olympusdiving.com,scubadiving.com",
+    "validation_source": "monitor.noaa.gov,uboat.net,olympusdiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Paposse (Wrack)",
@@ -110,7 +110,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "olympusdiving.com,wikipedia.org,discoverydiving.com",
+    "validation_source": "wikipedia.org,discoverydiving.com,evolutionunderwater.com",
     "tags": {
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
@@ -152,7 +152,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "wikipedia.org,archaeology.ncdcr.gov,dncr.nc.gov",
+    "validation_source": "wikipedia.org,dncr.nc.gov,outerbankscoastallife.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -212,7 +212,7 @@
       "protection_title": "National Oceanic and Atmosspheric Administration",
       "ref:nrhp": "15000421",
       "seamark:type": "wreck",
-      "wreck:date_sunk": "1942-05-12",
+      "wreck:date_sunk": "1942-05-11",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "last_qa_date": "2026-06-20"
@@ -297,7 +297,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "wikipedia.org,navsource.org,history.navy.mil",
+    "validation_source": "wikipedia.org,navsource.org,ibiblio.org",
     "tags": {
       "access": "yes",
       "description": "Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935",

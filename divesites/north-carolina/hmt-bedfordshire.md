@@ -25,7 +25,7 @@ The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead Ci
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

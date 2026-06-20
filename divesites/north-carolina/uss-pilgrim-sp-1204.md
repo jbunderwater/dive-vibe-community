@@ -29,7 +29,7 @@ The USS Pilgrim (SP-1204) was an 1893 racing yacht built to challenge for the Am
 
 ## Marine Life
 
-The shallow, sheltered conditions of this estuarine wreck support typical North Carolina inshore species including sheepshead, black sea bass, tautog, and spadefish congregating around the hull remnants. Flounder and Atlantic croaker patrol the sandy bottom alongside the structure, and blue crabs and small invertebrates colonise the encrusted ironwork. The protected near-shore environment also attracts juvenile fish species using the wreck as nursery habitat.
+No published dive survey documents species at the USS Pilgrim wreck specifically. The shallow, sheltered estuarine habitat at 6 m depth near Harkers Island is typical of North Carolina inshore waters where species such as sheepshead, black sea bass, and blue crabs occupy submerged structure — but these are habitat-typical species, not site-confirmed observations. The fragmented hull provides some structure but is a low-profile site.
 
 ## Wreck History
 
@@ -52,4 +52,4 @@ Shore entry near Harkers Island. Exact access point should be confirmed with loc
 The very shallow depth (6 m) and protected location make this one of the least demanding wreck dives in the area. Boat traffic in the inshore waterways requires a dive flag. Concrete fill may be present throughout the hull -- exercise caution when exploring interior spaces.
 
 ---
-*Sources: [Wikipedia -- USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource -- Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm). Last updated 2026-05-17.*
+*Sources: [Wikipedia — USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource — Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm), [Naval History and Heritage Command — Pilgrim (SP-1204)](https://www.ibiblio.org/hyperwar/USN/ships/dafs/SP/sp1204.html). Last updated 2026-06-20.*

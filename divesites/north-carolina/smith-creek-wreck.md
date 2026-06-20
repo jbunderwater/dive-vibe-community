@@ -17,7 +17,7 @@ Smith Creek Wreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The Smith Creek Wreck is a boat-access dive site in the estuarine waters of eastern North Carolina near the confluence of Smith Creek and the Neuse River, lying in approximately 25 metres in the sheltered inland waterway environment well away from the open Atlantic. Visibility in this Sound-adjacent setting is characteristically low compared to the offshore Graveyard of the Atlantic sites — typically just a few metres due to tannin-stained freshwater mixing and silt — but the wreck provides structural habitat for flounder, black sea bass, spadefish, and crustaceans common to North Carolina's inshore waters. The site appeals to local divers seeking an accessible freshwater-influenced wreck dive without the long offshore boat ride required by the better-known coastal wrecks.
+The Smith Creek Wreck is a boat-access dive site in the estuarine waters of eastern North Carolina near the confluence of Smith Creek and the Neuse River. The wreck is classified as a dangerous submerged obstruction by OSM seamark data, with an estimated maximum depth of 20 metres — significantly less than the 25 metres cited in some earlier descriptions. Visibility in this Sound-adjacent setting is characteristically low compared to the offshore Graveyard of the Atlantic sites due to tannin-stained freshwater mixing and silt. The vessel's identity has not been confirmed through the NC Underwater Archaeology Branch's public records or any other publicly available source; no dive operator is known to serve this site commercially.
 
 ## Site Information
 
@@ -29,15 +29,15 @@ The Smith Creek Wreck is a boat-access dive site in the estuarine waters of east
 
 ## Marine Life
 
-The brackish, tannin-influenced estuarine environment hosts inshore species typical of the Neuse River system: flounder, black sea bass, sheepshead, and Atlantic croaker are the most commonly encountered fish around submerged structure. Blue crabs and small crustaceans colonise encrusted hull surfaces. Visibility is limited by suspended sediment and freshwater mixing, so encounters are at close range.
+No published dive report or species survey was found for this site. The brackish, tannin-influenced estuarine environment is typical of the Neuse River system, where inshore species such as flounder, black sea bass, and blue crabs occupy submerged structure. These are regional habitat-typical species; their presence at this specific wreck has not been confirmed by any source and should not be assumed.
 
 ## Site Note
 
-The identity of this wreck is not confirmed in available public sources. No site-specific vessel history could be verified through the NC Underwater Archaeology Branch's public records, NOAA Monitor Sanctuary shipwreck list, or nc-wreckdiving.com. The Smith Creek confluence with the Neuse River historically had steamboat traffic, and submerged hull remains consistent with a 19th-century steamboat may be present. Divers should contact the NC Underwater Archaeology Branch (archaeology.ncdcr.gov) for any available site-specific information before visiting.
+**Validation status: UNRESOLVED.** The identity of this wreck has not been confirmed through the NC Underwater Archaeology Branch's public records, NOAA Monitor Sanctuary shipwreck list, nc-wreckdiving.com, or any other publicly available source. This site was previously tagged as validated based solely on a Perplexity AI query, which does not constitute independent source verification. That validated tag has been removed. The OSM seamark data classifies this as a dangerous submerged wreck; the vessel identity and history remain unknown. Contact the NC Underwater Archaeology Branch (archaeology.ncdcr.gov) for any confirmed site information before visiting.
 
 ## Dive Profile
 
-Located in the estuarine waters near Smith Creek's confluence with the Neuse River, in approximately 25 m of water in a sheltered inland waterway setting. Visibility is typically low (a few metres) due to tannin staining and silt. This is an inshore dive far removed from the Gulf Stream conditions of the offshore wreck sites.
+Located in the estuarine waters near Smith Creek's confluence with the Neuse River. OSM seamark data indicates maximum depth of approximately 20 m (the 25 m figure cited in earlier data lacks a verifiable source). Visibility is typically very low due to tannin staining and silt. This is an inshore dive far removed from the Gulf Stream conditions of the offshore wreck sites.
 
 ## Entry and Exit
 
@@ -48,4 +48,4 @@ Boat access required. No charter services specifically advertising this site wer
 Estuarine visibility is characteristically very low — maintain close buddy contact throughout the dive. The sheltered inland waterway location means currents are less severe than offshore sites, but local tidal currents in the Neuse River system still require attention. Research the site identity through official channels before planning a visit.
 
 ---
-*Description based on regional diving characteristics and geographic context. No site-specific verified sources found. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-05-17.*
+*Description based on geographic context and OSM seamark data only. No site-specific sources found — vessel identity unconfirmed, no dive operator sources located. Previously marked validated based on a Perplexity AI query; validation status revoked. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-06-20.*
