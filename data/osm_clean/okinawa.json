@@ -256,8 +256,8 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
+      "validated": "true",
+      "validation_source": "aqua-life.biz,en.marinediving.com,gobies.net",
       "last_qa_date": "2026-06-20"
     }
   },
@@ -384,8 +384,8 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "sport": "scuba_diving",
-      "validated": "false",
-      "validation_source": "",
+      "validated": "true",
+      "validation_source": "divingpoint.net,en.marinediving.com,seasir.com",
       "last_qa_date": "2026-06-20"
     }
   },
