@@ -21,7 +21,7 @@ Henningsvær Wall is a cold-water wall dive site in the Lofoten archipelago, loc
 
 The wall drops from shallow, kelp-forested shallows to approximately 28 metres, and is typical of the Lofoten diving experience: two large vertical rock faces covered in dense colonisation of dead man's fingers (Alcyonium digitatum), Dahlia anemones, and coralline algae create a vivid, colour-rich passage to the canyon floor. The kelp forest canopy above the wall, in shades of green and brown, swells gently in tidal currents and provides habitat for nudibranchs, hermit crabs, and amphipods.
 
-Marine life is cold-water diverse: wolffish (Anarhichas lupus) are sighted in crevices, pollock school in the water column, and large cod are encountered along the wall base. Lumpfish, sculpin (bullrout), and flounder rest on the rocky substrate. Nudibranchs, particularly the large species Facelina auriculata, are common on rock surfaces and kelp holdfasts. Seals occasionally descend through the kelp to investigate divers.
+Marine life at the site has not been confirmed by a site-specific primary source. The broader Lofoten cold-water community includes wolffish, pollock, cod, lumpfish, sculpin, flounder, nudibranchs on kelp holdfasts, and periodic seal visits — all of which are plausible at this site given the habitat type and regional distribution of these species. Species-level claims cannot be attributed to Henningsvær Wall specifically until a site-specific report is available.
 
 Water temperature ranges from approximately 4°C in winter to 12–15°C in summer. Drysuit is strongly recommended year-round; a thick semi-dry wetsuit is minimally acceptable in summer. Visibility reaches 15–20 metres in the cleaner winter and spring months; summer algae growth can reduce this somewhat. The dive is classified Advanced due to cold-water conditions, the commitment of open-water conditions, and the need for good buoyancy control on the wall face.
 
@@ -37,10 +37,7 @@ Water temperature ranges from approximately 4°C in winter to 12–15°C in summ
 
 ## Marine Life
 
-- **Fish**: Wolffish, pollock, large Atlantic cod, lumpfish, sculpin, flounder, halibut (deeper)
-- **Invertebrates**: Dead man's fingers (Alcyonium digitatum), Dahlia anemones, nudibranchs (Facelina auriculata and others), hermit crabs, sea urchins, starfish, amphipods
-- **Kelp**: Dense Laminaria hyperborea forests above the wall
-- **Mammals**: Seals occasionally visit
+No site-specific marine life list available. Regional Lofoten cold-water species (wolffish, cod, pollock, nudibranchs, sea anemones, seals) are plausible for this wall habitat type but have not been confirmed at this named site by a primary source.
 
 ## Photography
 
@@ -60,7 +57,7 @@ Cold-water diving in the Arctic requires drysuit competency and adequate thermal
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-20
 
 ---
-*Sources: [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Offersøy Feriesenter — Diving in Lofoten](https://www.offersoy.no/articles/diving-in-lofoten). Last updated 2026-05-17.*
+*Sources: [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Offersøy Feriesenter — Diving in Lofoten](https://www.offersoy.no/articles/diving-in-lofoten). Marine life list replaced with regional note — no site-specific source confirms individual species at this named site. Last updated 2026-06-20.*

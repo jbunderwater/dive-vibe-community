@@ -10,12 +10,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/papoose.html, olympusdiving.com/papoose, scubadiving.com top 10 NC wrecks",
+    "validation_source": "monitor.noaa.gov,olympusdiving.com,scubadiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Paposse (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -29,12 +30,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-576.html, NOAA Ocean Exploration - war grave at 690ft/210m, not a recreational dive",
+    "validation_source": "monitor.noaa.gov,wikipedia.org,sanctuaries.noaa.gov",
     "tags": {
       "historic": "wreck",
       "name": "U-576 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -43,17 +45,18 @@
     "lon": -75.13,
     "osm_id": 663869496,
     "osm_type": "node",
-    "depth": 34,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-85.html, naui.org/north-carolina-wreck-diving, scubadiverlife.com U-85",
+    "validation_source": "monitor.noaa.gov,wikipedia.org,uboat.net",
     "tags": {
       "historic": "wreck",
       "name": "U-85 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -67,12 +70,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-352.html, scubadiving.com/history-north-carolina-u-352-shipwreck, underwaterjournal.com",
+    "validation_source": "olympusdiving.com,wikipedia.org,discoverydiving.com",
     "tags": {
       "historic": "wreck",
       "name": "U-352 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -86,12 +90,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "divebuddy.com/divesite/1204/indra-ar-330, outrageousdiving.com/indra-dive-site, discoverydiving.com/diving/dive-sites",
+    "validation_source": "wikipedia.org,discoverydiving.com,nc-wreckdiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Indra (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -105,12 +110,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "outrageousdiving.com/aeolus-dive-site, scubadiving.com top 10 NC wrecks, tdisdi.com/5-best-wreck-dives-in-north-carolina",
+    "validation_source": "olympusdiving.com,wikipedia.org,discoverydiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -124,14 +130,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiving.com/travel/south/queen-annes-revenge, justgottadive.com/queen-annes-revenge, deeperblue.com NC best wrecks",
+    "validation_source": "wikipedia.org,qaronline.org,britannica.com",
     "tags": {
       "historic": "wreck",
       "name": "Queen Anne's Revenge Shipwreck",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1718",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -145,7 +152,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "archaeology.ncdcr.gov/uab/heritage-dive-sites/huron, divebuddy.com/divesite/1893/uss-huron, obxguides.com/uss-huron-shipwreck",
+    "validation_source": "wikipedia.org,archaeology.ncdcr.gov,dncr.nc.gov",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -159,7 +166,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -178,9 +186,7 @@
       "seamark:wreck:category": "dangerous",
       "seamark:wreck:water_level": "submerged",
       "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "addedBy": "extended_overpass"
     },
     "depth_max": 20
   },
@@ -190,12 +196,12 @@
     "lon": -76.4526936,
     "osm_id": 8733515573,
     "osm_type": "node",
-    "depth": 32,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/bedfordshire.html, nc-wreckdiving.com/WRECKS/BEDFORD, scubadiverlife.com HMT Bedfordshire",
+    "validation_source": "monitor.noaa.gov,wikipedia.org,discoverydiving.com",
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
@@ -208,7 +214,8 @@
       "seamark:type": "wreck",
       "wreck:date_sunk": "1942-05-12",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -222,7 +229,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "outerbanks.org/blog/5-shipwrecks-you-can-visit, divehatteras.com/beach-wrecks, nps.gov/submerged/parks/caha.html",
+    "validation_source": "obx4sale.com,divehatteras.com,nps.gov",
     "tags": {
       "description": "The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.",
       "historic": "wreck",
@@ -231,7 +238,8 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -245,7 +253,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/uss_monitor.html, scubadiving.com/diving-monitor-national-marine-sanctuary, scubadiverlife.com USS Monitor",
+    "validation_source": "monitor.noaa.gov,wikipedia.org,scubadiving.com",
     "tags": {
       "historic": "wreck",
       "name": "USS Monitor",
@@ -254,7 +262,8 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -264,16 +273,17 @@
     "osm_id": 671198207,
     "osm_type": "way",
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "divein.com/diving/destination/diving-in-north-carolina, getmyboat.com/scuba-diving-in-north-carolina, southeastasiadiving.com/blog/north-carolina",
+    "validation_source": "wikipedia.org,nps.gov,coastalreview.org",
     "tags": {
       "name": "Diamond Shoals",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -287,7 +297,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204), discoverydiving.com/diving/dive-sites - scuttled as breakwater 1935 in shallow Beaufort harbor",
+    "validation_source": "wikipedia.org,navsource.org,history.navy.mil",
     "tags": {
       "access": "yes",
       "description": "Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935",
@@ -299,7 +309,8 @@
       "wikipedia": "en:USS Pilgrim (SP-1204)",
       "wreck:date_sunk": "1935",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-20"
     }
   }
 ]

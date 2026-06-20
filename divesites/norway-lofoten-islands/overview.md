@@ -14,7 +14,7 @@ Norway Lofoten Islands is a premier Arctic diving destination in northern Norway
 
 - **Kelp Forest Diving**: Signature lush Tangle Kelp (Laminaria hyperborean) forests from 2-18 meters create underwater woodlands with exceptional marine life
 - **Wall Diving**: Multiple dramatic vertical walls from 8-32 meters offering advanced wall diving with Arctic ecosystems
-- **Wreck Diving**: Two historic wrecks—MS Hamburg (WWII era, 22m) and D/S General Suworow (1919, 18m)—both in exceptional condition due to cold preservation
+- **Wreck Diving**: Two historic wrecks—MS Hamburg (WWII era, 18m) and D/S General Suworow (1919, 18m)—accessible from Lofoten operators; cold water slows biological degradation of wreck structures
 - **Shore Diving**: Accessible shore entries at protected locations, ideal for building cold-water skills
 - **Boat Diving**: Professional operators guide safe access to exposed wall sites and wreck locations
 
@@ -36,9 +36,10 @@ Norway Lofoten Islands is a premier Arctic diving destination in northern Norway
 
 ## Diving by Difficulty Level
 
-- **Beginner**: Å Shore Dive, Svolvær Harbor, Stamsund Kelp Forest (10-15m, shore-based, calm conditions)
-- **Intermediate**: Ballstad Reef, Kabelvåg Shore, Reine Bay, MS Hamburg (12-22m, protected or short boat access)
-- **Advanced**: Nusfjord Wall, Henningsvær Wall, Maelstrom Wall, D/S General Suworow (18-32m, wall diving, currents)
+All Lofoten diving requires cold-water drysuit experience (minimum Intermediate certification). No sites are rated Beginner due to sub-10°C water temperatures year-round.
+
+- **Intermediate**: Å Shore Dive, Svolvær Harbor, Stamsund Kelp Forest, Ballstad Reef, Kabelvåg Shore, Reine Bay, MS Hamburg, Nusfjord Wall (10-20m, shore-based or short boat access, protected conditions)
+- **Advanced**: Henningsvær Wall, Maelstrom Wall, D/S General Suworow (18-32m, wall diving, open water exposure, strong currents)
 
 ## Essential Information
 
@@ -50,4 +51,4 @@ Norway Lofoten Islands is a premier Arctic diving destination in northern Norway
 - **Safety**: Always dive within certification limits. Dive with buddy system. Carry safety sausage. Respect Arctic weather and currents. Verify nearest decompression chamber: Tromsø (approximately 350km). Plan conservative dive profiles for cold-water exposure.
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). Difficulty levels corrected 2026-06-20: all sites minimum Intermediate per cold-water Arctic policy. Last updated 2026-06-20.*

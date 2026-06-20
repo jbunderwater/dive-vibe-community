@@ -29,7 +29,7 @@ No specific historical claims, marine life attributions, or depth figures are st
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (unconfirmed; depth conflict exists between OSM record and earlier site descriptions)
+- **Maximum Depth**: 18 meters
 
 ## Additional Resources
 

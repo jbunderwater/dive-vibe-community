@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Maelstrom Wall
 
-Maelstrom Wall is a wall dive site in Norway Lofoten Islands, Europe.
+Maelstrom Wall is a curated dive entry representing wall diving near the Moskstraumen tidal system in the southern Lofoten Islands.
 
 ## Overview
 
-Maelstrom Wall sits near the Moskstraumen — one of the strongest tidal current systems in the world — on the western tip of the Lofoten chain, where tidal exchange between the Norwegian Sea and the outer fjords creates exceptional nutrient delivery to a sheer underwater wall. The current drives enormous abundance: the wall face is plastered in anemone colonies, soft corals, and sponges, and cod, saithe, and halibut aggregate in the current-fed water column. This is an advanced dive requiring expert timing at slack water, with conditions reverting to unswimmable within minutes of the tidal turn.
+The Moskstraumen (also spelled Moskenstraumen) is one of the strongest tidal current systems in the world, forming between Moskenesøya and the island of Mosken at the southern tip of the Lofoten archipelago. Tidal currents can reach up to 10.7 knots (20 km/h), creating conditions that are simultaneously dangerous and productive — the powerful tidal exchange delivers nutrients that support dense communities of cold-water invertebrates on the surrounding underwater topography.
+
+Diving in this system is confirmed as a real activity: Zentacle lists the Moskstraumen as a dive site accessible by boat, with a maximum depth of approximately 20 metres (the 32 m figure in our database is an estimate and should be treated as approximate). Dive reports consistently emphasise that a local guide and surface buoy are mandatory, and that the site is only safely diveable at precise slack water windows. The characterisation as an Advanced dive reflects the genuine risk of rapid current onset and the exposed, boat-only access.
+
+No site-specific marine life lists have been attributed to this entry. The description of current-driven invertebrate abundance is based on the general character of strong-current wall dive sites at this latitude, consistent with X-Ray Mag and Scuba Diver Life accounts of Lofoten diving.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Near Moskenesøya/Mosken, southern Lofoten Islands, Nordland, Norway
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Moskstraumen](https://en.wikipedia.org/wiki/Moskstraumen), [Zentacle — Moskstraumen dive site](https://www.zentacle.com/Beach/11749/moskstraumen), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway). Depth estimate should be confirmed with local operators before diving. Last updated 2026-06-20.*

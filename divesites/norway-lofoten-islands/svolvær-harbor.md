@@ -21,7 +21,7 @@ Svolvær is the largest town and administrative centre of the Lofoten Islands, s
 
 The dive is shallow — maximum 15 metres — and conducted in the protected waters of the harbour and adjacent coastline. The harbour bottom is rocky reef with kelp and sand, and the sheltered nature of the site means minimal current. Visibility is typically reasonable for a harbour environment, benefiting from Lofoten's notably clean and nutrient-rich coastal waters. The surrounding fjords and islands are influenced by the North Atlantic Current and Gulf Stream, which keep water temperatures mild for the latitude year-round.
 
-Typical species in Svolvær harbour reflect the broader Lofoten cold-water community: pollock and saithe school in the mid-water; Atlantic cod visit from deeper water; crabs, sea urchins, and anemones colonise the rocky bottom. The harbour setting means some diver encounters with ropes, moorings, and jetty structures, which themselves accumulate encrusting life and provide habitat for wrasse and small rockfish. Lofoten Diving (based in Ballstad) also operates wreck diving excursions from Svolvær to nearby wrecks including the SS Ramø and SS Hamburg.
+No site-specific marine life source was found for Svolvær harbour shore diving. The harbour environment — rocky reef, kelp, and jetty structures — is consistent with regional Lofoten species (pollock, saithe, cod, crabs, anemones), and harbour structures typically attract encrusting invertebrates and small rockfish. However, none of these have been confirmed at this named site by a primary source. The harbour setting means divers may encounter ropes, moorings, and jetty structures. Lofoten Diving (based in Ballstad) also operates wreck diving excursions from Svolvær to nearby wrecks including the SS Ramø and SS Hamburg.
 
 ## Dive Profile
 
@@ -35,9 +35,7 @@ Typical species in Svolvær harbour reflect the broader Lofoten cold-water commu
 
 ## Marine Life
 
-- **Fish**: Pollock, saithe, Atlantic cod, wrasse, small rockfish, sculpin
-- **Invertebrates**: Shore crabs, sea urchins, sea anemones, dead man's fingers, nudibranchs
-- **Kelp**: Laminaria forest on rocky areas adjacent to harbour
+No site-specific species list available for Svolvær Harbour shore diving. Regional Lofoten cold-water harbour habitat species (pollock, saithe, cod, crabs, anemones, nudibranchs, encrusting life on structures) are plausible but have not been confirmed at this named site by a primary source.
 
 ## Safety
 
@@ -47,7 +45,7 @@ Cold water year-round. Shore entry in a working harbour requires awareness of ve
 
 - **Location**: Svolvær, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

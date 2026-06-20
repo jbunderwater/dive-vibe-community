@@ -21,7 +21,7 @@ Kabelvåg Shore is a cold-water shore dive site near the historic town of Kabelv
 
 The maximum depth is approximately 12 metres, placing this site firmly in shallow-reef territory. The bottom is a mix of rocky substrate and kelp forest, with sand patches in the shallower sections. Laminaria kelp forests characterise the upper zone from near the surface down to the light limit, and the rocky walls and boulders below support dense communities of sea anemones, dead man's fingers (Alcyonium digitatum), and coralline algae. The shallowness makes it suitable for intermediate divers and those new to cold-water diving in Lofoten.
 
-Typical species include saithe (coalfish), pollock, cod, crabs, and sea anemones. Nudibranchs are found on kelp holdfasts and rock surfaces. The shallow depth allows extended bottom time despite cold-water thermal drain. Water temperature ranges from approximately 4°C in winter to 10–13°C in summer. Drysuit is strongly recommended; the site is listed as accessible for guided diving experiences.
+No site-specific marine life source was found for Kabelvåg Shore. Shallow rocky reef with kelp forest in Lofoten is likely to support saithe, pollock, cod, crabs, sea anemones, and nudibranchs on kelp holdfasts — all characteristic of this habitat type in the region — but these have not been confirmed at this specific named site by a primary source. The shallow depth allows extended bottom time despite cold-water thermal drain. Water temperature ranges from approximately 4°C in winter to 10–13°C in summer. Drysuit is strongly recommended; the site is listed as accessible for guided diving experiences.
 
 Kabelvåg is also a gateway to deeper offshore diving through local operators: the surrounding Austnesfjorden and outer coast have more demanding wall and drift dives for Advanced divers.
 
@@ -37,9 +37,7 @@ Kabelvåg is also a gateway to deeper offshore diving through local operators: t
 
 ## Marine Life
 
-- **Fish**: Saithe (coalfish), pollock, Atlantic cod, lumpfish, flounder, sculpin
-- **Invertebrates**: Sea anemones, dead man's fingers (Alcyonium digitatum), crabs, sea urchins, nudibranchs
-- **Kelp**: Laminaria hyperborea forest canopy throughout
+No site-specific species list available. Regional Lofoten cold-water species expected for shallow rocky reef habitat (saithe, pollock, cod, crabs, anemones, nudibranchs on kelp) have not been confirmed at this named site by a primary source.
 
 ## Safety
 
@@ -49,13 +47,13 @@ Cold water requires proper thermal protection. Shore entry on rocky Norwegian co
 
 - **Location**: Kabelvåg, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-20
 
 ---
-*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Offersøy Feriesenter — Diving in Lofoten](https://www.offersoy.no/articles/diving-in-lofoten). No site-specific sources for Kabelvåg Shore were located; description reflects Lofoten regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [ScubaBoard — Norway Diving Lofoten Islands trip report](https://scubaboard.com/community/threads/norway-diving-lofoten-islands-and-saltstraumen-trip-report.637399/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Kabelvåg Shore were located; marine life list replaced with regional note. Last updated 2026-06-20.*
