@@ -3,7 +3,7 @@ name: L字アーチ
 lat: 24.8666616
 lng: 125.163257
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## L字アーチ (L Arch)
 
-Described as having the most dynamic topography on Irabu Island. A large L-shaped hollow and arch formation sits at roughly 20 metres, with the seabed beneath dropping to 35 metres. Giant trevally are almost always present under the arch.
+Described as having the most dynamic topography on Irabu Island. A large L-shaped hollow and arch formation sits at roughly 20 metres, with the seabed beneath dropping to 40 metres. Giant trevally are frequently present under the arch.
 
 ## Overview
 
@@ -25,22 +25,22 @@ L Arch delivers Irabu Island's most dramatic underwater scenery. The main featur
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 metres
 - **Current**: Variable
 - **Best Time**: Year-round; wind-dependent
 
 ## Marine Life
 
-Giant trevally are the signature residents, almost always present under the arch. Occasional sightings of manta rays, Napoleon wrasse, sea turtles, whitetip reef sharks, and dogtooth tuna. The cave system harbours anemonefish, shrimp, and crabs. Anthias cloud the arch ceilings.
+Giant trevally are frequently present under the arch -- confirmed by Aquatic Adventure Miyako and other operators. Occasional sightings of manta rays, Napoleon wrasse, sea turtles, whitetip reef sharks, and dogtooth tuna are reported at this site. Triggerfish, morays, fusiliers, snappers, gobies, soldierfish, lobsters, and crabs inhabit the arch and cave system. Anthias populate the arch ceilings.
 
 ## Dive Profile
 
-Descend to the reef and follow it to the L-shaped arch at 20 metres. Drop below the arch to observe the trevally at 25-35 metres (brief excursion due to depth). Explore the connecting cave system if time permits, then ascend along the reef for safety stop.
+Descend to the reef and follow it to the L-shaped arch at 20 metres. Drop below the arch to observe the trevally at 25-40 metres (brief excursion due to depth). Explore the connecting cave system if time permits, then ascend along the reef for safety stop.
 
 ## Safety Considerations
 
-AOW certification required. The 35-metre depth under the arch demands good gas management. The dynamic topography requires confident buoyancy control. Current can affect the site.
+AOW certification required. The 40-metre depth under the arch demands good gas management. The dynamic topography requires confident buoyancy control. Current can affect the site.
 
 ## Photography
 

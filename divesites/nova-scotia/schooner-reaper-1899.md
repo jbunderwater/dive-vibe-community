@@ -13,36 +13,34 @@ addedBy: osm_import
 
 ## Schooner Reaper (1899)
 
-The Schooner Reaper is a late 19th-century wooden schooner wreck situated near the Schooner Gertrude de Costa in the Shubenacadie Channel. At 26 meters depth, this historic wooden vessel remains well-preserved in the cold Atlantic environment. The site exemplifies Nova Scotia's age of sail heritage and offers excellent wreck exploration opportunities for advanced divers experienced in currents and cold water.
+The Schooner *Reaper* was a small wooden sailing vessel that struck a shoal between the Red Buoy and Ives Point near McNabs Island, Halifax, around 1899. Historical records indicate she was bound to Sheet Harbour from Halifax; passengers and their winter provisions were lost with the vessel. At 26 metres, the wreck rests in outer Halifax Harbour near the McNabs Island area.
+
+**Location note:** The coordinates (44.6254°N, 63.5427°W) place this site in outer Halifax Harbour near McNabs Island, not the Shubenacadie Channel.
 
 ## Overview
 
-Schooner Reaper (1899) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Schooner *Reaper* (1899) is a wooden sailing vessel that ran aground near McNabs Island in Halifax Harbour. The specific cargo, passenger count, and details beyond the general account above are not confirmed from sources found in this survey. No dive-specific descriptions of this wreck as a dive site were found in available sources.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Outer Halifax Harbour, near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+The schooner *Reaper*, a small coastal vessel, struck a shoal between the Red Buoy and Ives Point (near McNabs Island, Halifax Harbour) around 1899 while en route from Halifax to Sheet Harbour. Passengers and their winter provisions were reportedly lost. The vessel was wooden-hulled, typical of 19th-century Nova Scotia coastal schooners. No further details on tonnage, crew complement, or cause beyond the grounding have been confirmed.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+*Description based on regional diving characteristics. No site-specific marine life reports were found for this wreck.*
 
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+Boat access only within Halifax Harbour. Contact local Halifax dive operators. No dedicated charter service for this specific site was identified.
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Halifax County Nova Scotia GenWeb — Historical records](https://sites.rootsweb.com/~nshalifa/Ch9.html), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/). Vessel-specific sources are limited; description is based on available historical records. Last updated 2026-06-20.*

@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Dibba Rock Reef
 
-Dibba Rock Reef is a reef dive site in Oman, Middle East.
+Dibba Rock Reef is a coral reef dive site accessible from Dibba on the southern edge of the Musandam Peninsula, offering beginner-friendly diving with caves, drop-offs, and healthy reef life.
 
 ## Overview
 
-Dibba Rock Reef sits on the Oman side of the bay near the town of Dibba at the southern end of the Musandam Peninsula, where the rocky reef slopes to 18 metres and is draped in green and purple whip corals, raspberry corals, and brain coral formations typical of this corner of the Gulf of Oman. Hawksbill and green turtles are regular residents along the reef, joined by clownfish, parrotfish, butterflyfish, and occasional spotted eagle rays and blacktip reef sharks, with visibility often reaching 20 to 30 metres in the calm winter months. The site is accessible from dive operators based on both the UAE and Oman sides of the bay, making it one of the most convenient reef dives in the region.
+Dibba Rock lies off the coast of Dibba — a town divided between Oman (Dibba Al-Baya) and two UAE emirates — and is accessed by a short boat ride of approximately 10 to 15 minutes. The reef features caves and drop-offs alongside colourful coral gardens at depths suitable for all experience levels. Visibility regularly exceeds 20 to 30 metres during the best diving months of October to April. Clownfish, parrotfish, butterflyfish, and various ray species are among the marine life reported at the site. Hawksbill turtles are documented residents. The reef is renowned among beginners and underwater photographers for its clear conditions and accessible topography. The Dibba area serves as an entry point to Musandam diving for operators based on both the Omani and UAE sides of the bay.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Dibba, Musandam, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [Visit Musandam - Dibba Rock](https://visitmusandam.com/dibba-rock/), [Freestyle Divers - Musandam Top 10 Dive Sites](https://freestyledivers.me/musandam-top-10-dive-sites-series/), [Wikivoyage - Dibba (Musandam Peninsula)](https://en.wikivoyage.org/wiki/Dibba_(Musandam_Peninsula)). Last updated 2026-06-20.*
