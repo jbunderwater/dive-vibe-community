@@ -41,19 +41,19 @@ Typical species in Svolvær harbour reflect the broader Lofoten cold-water commu
 
 ## Safety
 
-Cold water year-round. Shore entry in a working harbour requires awareness of vessel traffic. Drysuit recommended. Suitable for beginner divers under supervision.
+Cold water year-round. Shore entry in a working harbour requires awareness of vessel traffic. Drysuit is required. Despite the shallow depth, this is a cold-water destination (minimum Intermediate certification) — sub-10°C water demands thermal control skills and drysuit experience not appropriate for absolute beginners.
 
 ## Site Information
 
 - **Location**: Svolvær, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-20
 
 ---
-*Sources: [Lofoten Diving — Svolvær wreck diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Svolvær Harbor shore diving were located; description reflects Lofoten regional harbour diving characteristics. Last updated 2026-05-17.*
+*Sources: [Lofoten Diving — Svolvær wreck diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Svolvær Harbor shore diving were located; description reflects Lofoten regional harbour diving characteristics. Difficulty corrected from Beginner to Intermediate (cold-water minimum policy). Last updated 2026-06-20.*
