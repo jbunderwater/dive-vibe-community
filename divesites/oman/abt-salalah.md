@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## ABT Salalah
 
-ABT Salalah is a historic wreck dive in Oman, Middle East.
+ABT Salalah is a wreck dive site in the Salalah area of Oman's Dhofar region. The vessel identity, sinking date, dimensions, and history have not been confirmed by independent sources.
 
 ## Overview
 
-ABT Salalah is a wreck dive operated by ABT Divers in the Salalah area of Oman's Dhofar region, where the Mirbat coastline hosts multiple submerged vessel remains that have become productive artificial reefs in 15 to 25 metres of water. The structure is colonised by the dense schools of schooling grunts, sweetlips, and sweepers typical of Mirbat wrecks, which form thick swarms completely unfazed by divers, alongside moray eels, groupers, and lionfish in the metal recesses. The site is accessible from October to May between the annual khareef monsoon seasons, when the Dhofar coast offers some of the most unusual diving in Oman — reef fish, kelp forests, dolphins, and even humpback whales in the surrounding waters.
+ABT Salalah appears in OSM data as a named dive site near Salalah city (distinct from the Mirbat cluster of dive sites approximately 70 km to the east). The site is named after ABT Divers, the primary dive operator in the Salalah area, which suggests it may be a wreck either discovered or frequently visited by that operator. No independent source has been found to confirm the vessel's name as a ship, its type, dimensions, build date, or cause of sinking. The Salalah coast hosts multiple unidentified wrecks — the known named examples near Mirbat being the China Wreck and the Marriott Wreck — and this site may represent a separately located vessel or a local operator designation for a wreck not otherwise documented. The depth of 25 metres remains unverified by independent sources. The general marine character of Salalah wrecks includes dense schools of sweetlips, grunts, and sweepers that colonise submerged structures, with moray eels, groupers, and lionfish in the metalwork. The diving season is October to May.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Salalah, Dhofar, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 25 meters (unverified)
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources for ABT Salalah wreck found. Vessel identity, history, and depth are unverified. Last updated 2026-06-20.*

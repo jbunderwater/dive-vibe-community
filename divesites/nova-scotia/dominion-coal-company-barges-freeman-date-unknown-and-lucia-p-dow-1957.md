@@ -13,36 +13,34 @@ addedBy: osm_import
 
 ## Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
 
-Two coal barges comprise this dual-wreck site in the Shubenacadie Channel at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
+Two barges operated by the Dominion Coal Company rest in outer Halifax Harbour at approximately 22 metres: the *Freeman* (date of loss unknown) and the *Lucia P. Dow* (lost 1957). These coal barges reflect Nova Scotia's industrial heritage — the Dominion Coal Company was a major Cape Breton coal mining and shipping concern. Both hulls rest in proximity. No dive-specific descriptions of this multi-barge site were found in available dive operator or forum sources.
+
+**Location note:** The coordinates (44.6046°N, 63.5125°W) place this site in outer Halifax Harbour near McNabs Island / Dartmouth, not the Shubenacadie Channel.
 
 ## Overview
 
-Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Two Dominion Coal Company barges — the *Freeman* (date unknown) and the *Lucia P. Dow* (1957) — form a dual-hull wreck site in outer Halifax Harbour at approximately 22 metres. The site represents the industrial coal transport heritage of 20th-century Nova Scotia. No dive operator descriptions were found for these specific wrecks.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Outer Halifax Harbour, near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+Both barges were operated by the Dominion Coal Company, which was headquartered in Cape Breton and was one of the largest industrial firms in early 20th-century Nova Scotia. The *Freeman*'s date of loss is not recorded in available sources. The *Lucia P. Dow* was lost in 1957. Their individual dimensions and the circumstances of their coming to rest at these coordinates are not confirmed in sources found. Coal barges of this era were flat-bottomed steel or wood hulls designed for bulk cargo movement.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+*Description based on regional diving characteristics. No site-specific marine life reports were found for this wreck.*
 
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+Boat access only within Halifax Harbour. Contact local Halifax dive operators for current access. No dedicated charter service for this specific site was identified.
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/). No dive-specific sources were found. Description is minimally factual. Last updated 2026-06-20.*

@@ -14,7 +14,8 @@
       "name:en": "Sunabe",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "fluidlevitation.com,sunkisseddivers.com,divers7okinawa.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -31,7 +32,8 @@
       "name": "Middle Book",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,visitishigaki.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -47,8 +49,9 @@
     "tags": {
       "name": "Ukon Denchi",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -70,7 +73,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingpoint.net,miyako-aquaticadventure.com,sunisland-miyako.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -91,7 +95,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,divingpoint.net,bigholiday-miyakojima.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -112,7 +117,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "miyako-aquaticadventure.com,en.marinediving.com,bigholiday-miyakojima.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -121,7 +127,7 @@
     "lon": 125.163257,
     "osm_id": 9280279110,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -133,7 +139,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,oki-raku.net",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -155,7 +162,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,en.marinediving.com,sunisland-miyako.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -164,7 +172,7 @@
     "lon": 125.1367128,
     "osm_id": 9280303156,
     "osm_type": "node",
-    "depth": 37,
+    "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -176,7 +184,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,en.marinediving.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -185,7 +194,7 @@
     "lon": 125.1350391,
     "osm_id": 9280303157,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -198,7 +207,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,showcaves.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -207,7 +217,7 @@
     "lon": 127.289473,
     "osm_id": 11333126061,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -220,10 +230,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,visitokinawajapan.com,diver-online.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -245,10 +255,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -273,10 +283,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -285,7 +295,7 @@
     "lon": 127.2803828,
     "osm_id": 11333126064,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -298,10 +308,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,visitokinawajapan.com,aqua-life.biz",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -323,10 +333,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -348,10 +358,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -373,10 +383,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -400,10 +410,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,divingpoint.net",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -425,10 +435,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "snorkeling-report.com,britadventures.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -450,10 +460,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -475,10 +485,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -500,10 +510,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -512,7 +522,7 @@
     "lon": 127.2928487,
     "osm_id": 11333164774,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -525,10 +535,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "visitokinawajapan.com,seasir.com,sunkisseddivers.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -550,10 +560,10 @@
       "seamark:buoy_special_purpose:shape": "barrel",
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20"
     }
   }
 ]

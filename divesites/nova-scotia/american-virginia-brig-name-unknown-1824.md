@@ -13,36 +13,34 @@ addedBy: osm_import
 
 ## American (Virginia) brig, name unknown (1824)
 
-This early 19th-century American sailing vessel wreck represents one of the oldest documented wrecks in Nova Scotia, dating to 1824. Located at 30 meters in the Shubenacadie Channel, the wooden ship remains offer exceptional historical value and excellent preservation in the cold Atlantic water. The site is significant for maritime archaeology and the study of early American sailing vessels. Advanced training required.
+An early 19th-century American brig from Virginia, whose name has not been established, wrecked in the Halifax Harbour area in 1824. This is among the older documented wrecks in Halifax Harbour's shipwreck records. The vessel's cargo, circumstances of loss, crew, and precise dimensions are not confirmed in sources found in this survey. The designation "Virginia brig" likely indicates the vessel's state of registration. The wreck rests at approximately 30 metres in outer Halifax Harbour.
+
+**Location note:** The site coordinates (44.6057°N, 63.5277°W) place this in outer Halifax Harbour near McNabs Island / Dartmouth, not the Shubenacadie Channel.
 
 ## Overview
 
-American (Virginia) brig, name unknown (1824) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+A name-unknown American brig from 1824 rests at approximately 30 metres in outer Halifax Harbour. This is one of the older wrecks documented in Halifax Harbour's records. No dive-specific descriptions were found for this site. Wooden remains from a vessel of this age, after two centuries on the seabed, may be largely obscured by sediment and marine growth.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Outer Halifax Harbour, near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+A brigantine registered in Virginia (United States) wrecked in the Halifax Harbour area in 1824. The vessel's name is not recorded in available sources. Specific circumstances of the sinking, cargo, crew losses, and dimensions are unknown. The site may hold archaeological interest given its age. No dive operator descriptions of this site were found.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+*Description based on regional diving characteristics. No site-specific marine life reports were found for this wreck.*
 
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+Boat access only. Contact local Halifax dive operators for current access logistics. No dedicated charter service for this specific site was identified.
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/). No vessel-history sources with sufficient detail were found. Description is minimally factual. Last updated 2026-06-20.*

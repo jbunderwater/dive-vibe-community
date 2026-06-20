@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## The Wall
 
-The Wall is a wall dive site in Oman, Middle East.
+The Wall is a dive site near Mirbat in Oman's Dhofar region. No site-specific sources were found to confirm its name, exact character, or marine life during this QA pass.
 
 ## Overview
 
-The Wall is a vertical reef structure near Mirbat in Oman's Dhofar region, descending to around 24 metres along a colourful rocky face colonised by the Arabian angelfish, batfish, shoaling snappers, and large moray eels characteristic of the Salalah diving area. The site is operated out of Salalah by ABT Divers and sits near Flamingo Beach along the coastline southeast of Mirbat, where the Indo-Pacific character of the marine life makes southern Oman distinct from the Gulf of Oman diving further north. Turtles, stingrays, and cuttlefish are regular encounters along the wall, and the site is available from October to May between the annual khareef monsoon seasons.
+The Wall is listed in the Mirbat area of Oman's Dhofar coast near Salalah, where dive operations run from October to May between the annual khareef monsoon seasons. The Mirbat coastline hosts a variety of dive sites including wall formations, shallow wrecks, and reef bays, operated primarily from shore. Wall-type dives in the Salalah area typically descend rocky cliff faces to 20–25 metres, with moray eels, torpedo rays, cuttlefish, and turtles among the marine life documented across the region. No independently sourced description, depth confirmation, or species list specific to a site named "The Wall" near Mirbat has been found — the name may be a local designation not yet widely documented online.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Mirbat, Dhofar, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 24 meters (unverified)
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found for a dive site named "The Wall" near Mirbat. Depth and entry type are unverified. Last updated 2026-06-20.*

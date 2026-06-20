@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## MV Fosdyke Trader
 
-The MV Fosdyke Trader is a small 1944-built Empire-class coastal freighter (43 m / 142 ft, 411 GRT) that grounded on the south coast of Seal Island, Nova Scotia on November 17, 1991, while operating under the name *Mon Ami*. All five crew were rescued after deliberately beaching the vessel in deteriorating gale conditions. The hull has since settled on the exposed rocky shoreline of Seal Island, which sits at the entrance to the Bay of Fundy approximately 35 km southwest of Yarmouth. Seal Island itself is a remote, wave-battered bird sanctuary with no permanent population, making this one of the more remote wreck dives in Nova Scotia.
+The MV Fosdyke Trader is a small 1944-built Empire F-type coaster (43 m / 142 ft, 411 GRT) that grounded on the south coast of Seal Island, Nova Scotia on November 17, 1991, while operating under the name *Mon Ami*. All five crew were rescued after deliberately beaching the vessel in deteriorating gale conditions. The hull has since settled on the exposed rocky shoreline of Seal Island, which sits at the entrance to the Bay of Fundy approximately 35 km southwest of Yarmouth. Seal Island itself is a remote, wave-battered bird sanctuary with no permanent population, making this one of the more remote wreck dives in Nova Scotia.
 
 **Important:** At the time of the wreck the vessel had been sold by Fosdyke Trader Ltd and was registered under the name *Mon Ami* in Tennessee. Some sources still use the original name.
 
@@ -47,4 +47,4 @@ Boat access only from Yarmouth or Clark's Harbour (approximately 35 km). The isl
 The extreme remoteness and exposure of Seal Island makes this a serious undertaking. Rescue services are distant; carry a full emergency kit aboard the boat. Bay of Fundy tidal cycles generate significant current in the surrounding waters. Cold Atlantic water (4–12°C) requires a drysuit. The exposed coastline requires a capable offshore vessel.
 
 ---
-*Sources: [Wikipedia — MV Fosdyke Trader](https://en.wikipedia.org/wiki/MV_Fosdyke_Trader), [Ships Nostalgia — Athenic / Fosdyke Trader](https://www.shipsnostalgia.com/threads/s-s-athenic-m-v-fosdyke-trader.38800/), [Wikipedia — List of shipwrecks of Canada](https://en.wikipedia.org/wiki/List_of_shipwrecks_of_Canada). Last updated 2026-05-20.*
+*Sources: [Wikipedia — MV Fosdyke Trader](https://en.wikipedia.org/wiki/MV_Fosdyke_Trader), [Ships Nostalgia — Athenic / Fosdyke Trader](https://www.shipsnostalgia.com/threads/s-s-athenic-m-v-fosdyke-trader.38800/), [Wikipedia — List of shipwrecks of Canada](https://en.wikipedia.org/wiki/List_of_shipwrecks_of_Canada). Last updated 2026-06-20.*

@@ -2,10 +2,10 @@
 name: Aquarium
 lat: 16.9462204
 lng: 54.8045232
-difficulty: Intermediate
-maxDepth: 24
-entryType: boat
-siteType: wall
+difficulty: Beginner
+maxDepth: 15
+entryType: shore
+siteType: reef
 ref: null
 osmId: 306050015
 addedBy: osm_import
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a wall dive site in Oman, Middle East.
+Aquarium is a sheltered reef bay dive near Mirbat in Oman's Dhofar region, named for the sheer abundance of fish life in its clear, calm waters.
 
 ## Overview
 
-Aquarium is widely considered the jewel of Mirbat diving near Salalah, named for the sheer density of marine life — shoals of snapper, Arabian angelfish, emperor angelfish, batfish, and anemonefish are so abundant they make the site feel like a giant fish tank the moment you descend. The reef is structured around huge colourful table corals spreading over a large area at 8 to 18 metres, with hundreds of shrimp gobies dotting the sandy channels between coral heads and some of the largest moray eels in the region hiding in deeper crevices. Situated slightly offshore, Aquarium benefits from cleaner water and exceptional visibility compared to the bay sites, with turtles, stingrays, cuttlefish, and occasional leopard sharks completing the experience from October to May.
+Aquarium sits in a small, sheltered bay along the Mirbat coastline with a narrow entrance protected by a rocky outcrop, making it one of the most popular shore dives in the Salalah area. The site features beds of soft orange leather coral together with table corals and large coral banks at depths of 5 to 15 metres, with sandy channels between coral heads populated by squirrelfish, soldierfish, large schools of snapper, fusiliers, goatfish, and sweepers. Torpedo rays and bluespotted rays are regularly encountered along the sandy bottom, with moray eels occupying the deeper crevices and turtles passing through the bay. The sheltered geometry and easy shore access make this a reliable site throughout the October to May dive season.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Location**: Mirbat, Dhofar, Oman
+- **Entry Type**: Shore dive
+- **Site Type**: Coral reef / sheltered bay
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [Regal Diving - Salalah & Mirbat](https://www.regal-diving.co.uk/salalah-mirbat), [PADI Pros - Diving in Salalah](https://pros-blog.padi.com/diving-in-salalah-oman/), [Beautiful Salalah - Scuba Diving](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/). Last updated 2026-06-20.*

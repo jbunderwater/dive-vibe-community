@@ -13,8 +13,10 @@
       "diving:entry": "yes",
       "name": "The Wall",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "No site-specific source found confirming 'The Wall' as a named dive site near Mirbat. Wall type and 24m depth are plausible for the Salalah coast but unverified. Cannot reach 3-source threshold."
     }
   },
   {
@@ -23,16 +25,18 @@
     "lon": 54.8045232,
     "osm_id": 306050015,
     "osm_type": "node",
-    "depth": 24,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "regal-diving.co.uk,pros-blog.padi.com,beautifulsalalah.com",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "Site type corrected reef (not wall). Depth corrected to 15m max (not 24m). Entry corrected to shore (not boat). All confirmed by multiple sources. Description updated with verified site-specific details."
     }
   },
   {
@@ -41,16 +45,18 @@
     "lon": 54.707109,
     "osm_id": 306050042,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 8,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "China Wreck (direction 150deg)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "jessicaundfelix.de,regal-diving.co.uk,pros-blog.padi.com",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "Depth corrected to 8m max (not 25m; confirmed 3.5-7.5m avg, max ~8m). Entry corrected to shore (not boat). Difficulty corrected to Beginner (shallow shore dive). 'Steam-powered' and '150-year-old' claims unverified — vessel identity unknown. 'Porcelain cargo' mentioned in one source but dive-specific sources do not confirm. Description rewritten with verified facts only."
     }
   },
   {
@@ -66,8 +72,10 @@
     "tags": {
       "name": "ABT Salalah",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "No independent sources confirm a wreck named 'ABT Salalah'. Known Mirbat wrecks are 'China Wreck' and 'Marriott Wreck'. Vessel identity, dimensions, sinking cause are completely unverified. Description contained 'kelp forests' claim which is post-monsoon only (dive season is Oct-May when kelp is absent). Description rewritten to remove unverifiable claims."
     }
   },
   {
@@ -84,8 +92,10 @@
       "diving:entry": "yes",
       "name": "Flamingo Beach: Side Entry",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "No source specifically names 'Flamingo Beach Side Entry' as a distinct dive site. 'Leatherback turtles' removed — leatherbacks are open-ocean animals not typically seen at reef sites. General Mirbat reef character is accurate. Cannot reach 3-source threshold for site-specific validation."
     }
   },
   {
@@ -102,8 +112,10 @@
       "diving:entry": "yes",
       "name": "Flamingo Beach: New Entry",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "No source specifically names 'Flamingo Beach New Entry' as a distinct dive site. 'Leatherback turtles' removed. General Mirbat reef character is accurate. Cannot reach 3-source threshold for site-specific validation."
     }
   },
   {
@@ -120,8 +132,10 @@
       "diving:entry": "yes",
       "name": "Flamingo Beach: Beach Entry",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "No source specifically names 'Flamingo Beach Beach Entry' as a distinct dive site. 'Leatherback turtles' removed. General Mirbat reef character is accurate. Cannot reach 3-source threshold for site-specific validation."
     }
   },
   {
@@ -132,14 +146,16 @@
     "osm_type": "node",
     "depth": 15,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
+    "entry_type": "both",
+    "difficulty": "Intermediate",
     "tags": {
       "diving:entry": "yes",
       "name": "Eagle Bay",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "padi.com,pros-blog.padi.com,beautifulsalalah.com",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "Wreck type confirmed (old wreck at ~8m on seabed). Depth confirmed 5-15m range. Entry corrected to 'both' (shore or 15-min boat). Difficulty corrected to Intermediate — PADI page notes 'Advanced and experienced divers' due to strong/unpredictable currents and downwellings. Previous 'Beginner' rating was incorrect. Description rewritten with verified facts."
     }
   },
   {
@@ -159,7 +175,9 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "visitmusandam.com,freestyledivers.me,en.wikivoyage.org",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "Reef type confirmed. Beginner/all-levels confirmed. The reef is accessed from Dibba which straddles the Oman-UAE border (Dibba Al-Baya is the Omani portion). Coordinates (25.60, 56.35) are consistent with Dibba area. 'Raspberry corals' and 'blacktip reef sharks' claims removed — not confirmed by site-specific sources. Description updated with verified details."
     }
   },
   {
@@ -168,10 +186,10 @@
     "lon": 56.3640027,
     "osm_id": 3357593,
     "osm_type": "relation",
-    "depth": 24,
+    "depth": 8,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "boundary": "protected_area",
       "name": "Snoopy Island Reef",
@@ -179,8 +197,9 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "web_research",
-      "note": "Located in UAE (Fujairah), not Oman. Coordinate error in OSM data."
+      "validation_source": "wikipedia.org,padi.com,moccae.gov.ae",
+      "last_qa_date": "2026-06-20",
+      "qa_notes": "LOCATION CONFIRMED UAE (not Oman). Wikipedia coordinates 25°29'32\"N 56°21'51\"E confirm Al Aqah, Fujairah, UAE. Depth corrected to 8m max (not 24m). Entry corrected to shore (not boat). Difficulty corrected to Beginner (not Advanced). Previous Advanced rating was wrong. Site should be considered for removal from Oman dataset as it is in UAE."
     }
   }
 ]
