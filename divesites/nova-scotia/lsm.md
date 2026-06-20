@@ -43,4 +43,4 @@ Regional marine life in the Bay of Fundy / Musquash Estuary includes Atlantic he
 Bay of Fundy tidal flows require timed slack-water dives. Cold water year-round (4–12°C) requires a drysuit. Musquash Estuary is a federal Marine Protected Area; consult DFO regulations before diving. The vessel's exact structural condition is unknown — exercise caution.
 
 ---
-*Sources: [Wikipedia — USS LSM-56](https://en.wikipedia.org/wiki/USS_LSM-56), [Wikipedia — Landing Ship Medium](https://en.wikipedia.org/wiki/Landing_Ship_Medium). Last updated 2026-05-20.*
+*Sources: [Wikipedia — USS LSM-56](https://en.wikipedia.org/wiki/USS_LSM-56), [Wikipedia — Landing Ship Medium](https://en.wikipedia.org/wiki/Landing_Ship_Medium). Last updated 2026-06-20.*

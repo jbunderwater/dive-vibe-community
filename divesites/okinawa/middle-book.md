@@ -23,7 +23,7 @@ Middle Book (ミドルブック) is a reef feature in the Yaeyama Islands, the s
 
 - **Location**: Yaeyama Islands (Ishigaki area), Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -62,7 +62,6 @@ Manta ray photography is the defining challenge at Ishigaki. Wide-angle lenses (
 
 - **Ishigaki dive operators**: Multiple shops running daily manta circuits
 - **Manta ray research**: Ishigaki-jima hosts active manta research programs at the Kabira Bay research station
-- **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*
+*Sources: [Marine Diving Web - Ishigaki](https://en.marinediving.com/area/okinawa/ishigaki/), [Visit Ishigaki - Scuba Diving](https://visitishigaki.com/sights-activities/scuba-diving/), [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/). Note: Middle Book as a specific named site could not be independently verified from 3 primary dive-operator sources; the name appears in Marine Diving Japan as "Taketomi Island middle book" but without detailed description. Last updated 2026-06-20.*

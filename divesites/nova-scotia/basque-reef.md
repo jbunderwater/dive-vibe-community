@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Basque Reef
 
-Named after the historic Basque fishing grounds that operated in these waters, Basque Reef sits in 35-40 meters at the continental shelf edge. This offshore site features exposed rocky structures, strong currents, and rich Atlantic marine life including Atlantic wolffish, halibut, and deep-water species. The site represents centuries of maritime history in these productive waters. Advanced training and extensive cold-water experience required.
+Basque Reef is an offshore rocky reef in Cape Breton Straits / Northumberland Strait waters at approximately 36 metres. The reef name may reflect the historic Basque fishing presence in Atlantic Canada, but this connection has not been confirmed in sources found for this survey. The site sits in deep offshore waters with strong currents and is accessible by boat only. No dive operator descriptions of this specific site were found.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Basque Reef is a reef dive site in Nova Scotia, North America. Cold Atlantic wat
 
 ## Marine Life
 
-Regional marine life in Nova Scotia waters includes Atlantic wolffish, cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Kelp beds are common in shallower rocky areas. No site-specific species reports were found for this site.
+*Description based on regional diving characteristics of offshore Cape Breton rocky reefs. No site-specific species reports were found for Basque Reef.*
 
 ## Entry and Exit
 
@@ -45,4 +45,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-20.*

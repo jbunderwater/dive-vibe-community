@@ -23,7 +23,7 @@ In the Sekisei Lagoon area of the Yaeyama Islands, known for manta ray encounter
 
 - **Location**: Taketomi South / Sekisei Lagoon, Yaeyama Islands, Okinawa Prefecture, Japan, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 metres
@@ -35,4 +35,4 @@ In the Sekisei Lagoon area of the Yaeyama Islands, known for manta ray encounter
 The Taketomi South / Sekisei Lagoon area is generally characterised by white sand with scattered coral bommies, schooling fish, and macro life. Specific marine life for this site cannot be confirmed without local operator verification.
 
 ---
-*Sources: *This site could not be verified through online research in either English or Japanese. The name does not appear on major Ishigaki dive operator websites (Marine Diving Web, SEA-TRIP, Dive House Manta, Marine House JAM). Description based on area characteristics only. Requires local operator verification.*. Last updated 2026-04-05.*
+*This site could not be verified through online research in either English or Japanese. The name does not appear on major Ishigaki or Yaeyama dive operator websites. Research conducted 2026-06-20 using Marine Diving Web, Marine Diving Japan, Visit Ishigaki, and Japanese-language searches found no match for "Ukon Denchi" or "右近電池" as a dive site. Description based on area (Sekisei Lagoon / Taketomi area) characteristics only. Requires local operator verification. Last updated 2026-06-20.*

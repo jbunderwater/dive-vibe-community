@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## W字アーチ (W Arch)
 
-A shallow, beginner-friendly topographical site on Irabu Island featuring twin arches at the reef edge. The main arch forms a heart shape when viewed from below at certain angles, making this one of Miyako's most-photographed dive sites.
+A shallow, beginner-friendly topographical site on Irabu Island featuring twin arches at the reef edge. Aquatic Adventure lists it as the most famous dive site in the Irabu area. The main arch forms a heart shape when viewed from below at certain angles, making this one of Miyako's most-photographed dive sites.
 
 ## Overview
 
@@ -47,4 +47,4 @@ Suitable for Open Water divers. Moderate current is possible. The arches are ope
 The heart-shaped arch silhouette is the signature wide-angle shot -- position below and shoot up against the blue. Macro opportunities in the rear cave. Morning light produces the best colours through the arches.
 
 ---
-*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Visit Okinawa - Miyako Diving](https://visitokinawajapan.com/discover/dive-sites-okinawa/miyako-diving/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Marine Diving Web - Miyako](https://en.marinediving.com/area/okinawa/miyako/), [BigHoliday - Cave Diving Guide](https://bigholiday-miyakojima.com/en/29321). Last updated 2026-06-20.*

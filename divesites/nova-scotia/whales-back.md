@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Whales Back
 
-Whales Back is a distinctive whale-back-shaped rocky formation at 13-17 meters in the Bay of Fundy area offering moderate intermediate diving. The site features interesting topography, stable conditions, and good visibility. Tidal currents reflect Bay of Funday dynamics.
+Whales Back is a distinctive whale-back-shaped rocky formation at 13-17 meters in the Bay of Fundy area offering moderate intermediate diving. The site features interesting topography, stable conditions, and good visibility. Tidal currents reflect Bay of Fundy dynamics.
 
 ## Overview
 
@@ -45,4 +45,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-20.*

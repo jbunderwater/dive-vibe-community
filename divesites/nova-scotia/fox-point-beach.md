@@ -22,7 +22,7 @@ Fox Point Beach is a beach dive in St. Margaret's Bay (Hubbards area), offering 
 ## Site Information
 
 - **Location**: Fox Point, St. Margaret's Bay, Hubbards area, Nova Scotia
-- **Entry Type**: Shore entry (sandy beach)
+- **Entry Type**: Shore entry
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters

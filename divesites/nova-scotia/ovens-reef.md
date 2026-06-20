@@ -22,7 +22,7 @@ Ovens Reef sits near The Ovens Natural Park on the South Shore of Nova Scotia, a
 ## Site Information
 
 - **Location**: Rose Bay, Lunenburg County, Nova Scotia (near The Ovens Natural Park)
-- **Entry Type**: Boat dive (reef) / Shore entry available at adjacent Ovens Point
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
