@@ -47,4 +47,4 @@ AOW certification required. The 40-metre depth under the arch demands good gas m
 Wide-angle captures the arch scale with trevally silhouetted against the blue. The L-shape itself is best photographed from the side at a distance. Macro opportunities in the Warp Hole cave section.
 
 ---
-*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Oki-Raku - Miyako Dive Spots](https://oki-raku.net/diving/miyako/diving_spot/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Oki-Raku - Miyako Dive Spots](https://oki-raku.net/diving/miyako/diving_spot/), [BigHoliday - Cave Diving Guide](https://bigholiday-miyakojima.com/en/29321). Last updated 2026-06-20.*

@@ -32,7 +32,7 @@ W Arch is the gentlest introduction to Miyako-jima's famous topographical diving
 
 ## Marine Life
 
-Longnose hawkfish perch in the arch crevices. Shrimp, crabs, and nudibranchs populate the small cave behind the arches. The surrounding reef hosts anthias, butterflyfish, and damselfish. Moray eels are common in the rock holes.
+Inside the cave behind the arches, confirmed sightings include Flame file shells (noble file clams), Rock cleaner shrimp, Blackstripe sweepers, and Blotcheye soldierfish (Marine Diving Web, BigHoliday). Gold-lined sea bream are also reported. Longnose hawkfish, shrimp, crabs, and nudibranchs are found in crevices. The surrounding reef hosts anthias and damselfish.
 
 ## Dive Profile
 

@@ -25,7 +25,7 @@ ABT Salalah appears in OSM data as a named dive site near Salalah city (distinct
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (unverified)
+- **Maximum Depth**: 25 meters
 
 ---
 *Description based on regional diving characteristics. No site-specific sources for ABT Salalah wreck found. Vessel identity, history, and depth are unverified. Last updated 2026-06-20.*

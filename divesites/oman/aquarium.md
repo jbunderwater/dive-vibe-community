@@ -22,8 +22,8 @@ Aquarium sits in a small, sheltered bay along the Mirbat coastline with a narrow
 ## Site Information
 
 - **Location**: Mirbat, Dhofar, Oman
-- **Entry Type**: Shore dive
-- **Site Type**: Coral reef / sheltered bay
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

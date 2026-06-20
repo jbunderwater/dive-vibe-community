@@ -13,32 +13,36 @@ addedBy: osm_import
 
 ## Fox Point Beach
 
-Fox Point Beach is one of Nova Scotia's few sandy shore-entry dive sites, suitable for beginners in sheltered diving areas at 10-15 meters. The site offers calm conditions during favorable weather and good visibility. An accessible training location for beginner divers and those practicing shore entry techniques.
+Fox Point Beach is a sandy shore-entry dive site in St. Margaret's Bay near Hubbards, Nova Scotia, one of the area's most accessible training and recreational dive sites. The beach offers direct walk-in entry from parking with a gently sloping sandy bottom. Maximum depth is 10–12 metres. Divers heading left along the rocky wall find better marine life, while the main sandy area slopes gradually to depth. East Coast Scuba & Watersports lists this as one of their primary training and recreational sites.
 
 ## Overview
 
-Fox Point Beach is a beach dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Fox Point Beach is a beach dive in St. Margaret's Bay (Hubbards area), offering easy shore entry across a sandy beach. The site is suitable for training dives and relaxed recreational diving. The left side of the dive area (near a rocky wall) offers the best marine life encounters, while the right side is mostly open sand. Visibility averages 3–6 metres (10–20 ft), improving in calmer weather. Surge and currents are generally minimal. Water temperature ranges from 1°C in winter to 15°C in late summer; a drysuit is recommended outside July–August.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
-- **Entry Type**: Shore entry
+- **Location**: Fox Point, St. Margaret's Bay, Hubbards area, Nova Scotia
+- **Entry Type**: Shore entry (sandy beach)
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 1–15°C (winter–summer)
 
 ## Marine Life
 
-Regional marine life in Nova Scotia waters includes Atlantic wolffish, cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Kelp beds are common in shallower rocky areas. No site-specific species reports were found for this site.
+Lobsters and crabs are found along the rocky left-side wall. Flounder and sea perch inhabit the sandy bottom. Moon snails, sand dollars, and hermit crabs are common. Jellyfish are abundant in mid-July. Occasional squid and wolffish sightings have been reported. Kelp covers shallower rocky sections on the left.
+
+## Entry and Exit
+
+Direct beach entry from the parking area — no long walk required. The beach is sandy with a few scattered rocks. Divers can park directly at the site. Surge is minimal except in swell or wind conditions. Exit on the same sandy slope used for entry.
 
 ## Tips and Recommendations
 
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Head left for better marine life; right is mostly sand
+- Dive in calm sea conditions for best visibility
+- Cold Atlantic water (1–15°C) requires a drysuit or thick wetsuit outside peak summer
+- Birchy Head, a more advanced site, is located 4.5 km away for a second dive
+- Jellyfish are abundant mid-July — plan accordingly
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [East Coast Scuba & Watersports — Fox Point Beach Dive Site](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Wannadive — Fox Point Beach](https://www.wannadive.net/spot/North_America/Canada/Nova_Scotia/Fox_Point_Beach/index.html). Last updated 2026-06-20.*

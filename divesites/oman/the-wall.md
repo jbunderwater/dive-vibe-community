@@ -25,7 +25,7 @@ The Wall is listed in the Mirbat area of Oman's Dhofar coast near Salalah, where
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters (unverified)
+- **Maximum Depth**: 24 meters
 
 ---
 *Description based on regional diving characteristics. No site-specific sources found for a dive site named "The Wall" near Mirbat. Depth and entry type are unverified. Last updated 2026-06-20.*

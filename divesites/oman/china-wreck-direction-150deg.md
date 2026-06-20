@@ -22,7 +22,7 @@ The China Wreck lies approximately 100 metres from the beach at Mirbat, scattere
 ## Site Information
 
 - **Location**: Mirbat, Dhofar, Oman
-- **Entry Type**: Shore dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters

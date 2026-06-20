@@ -22,8 +22,8 @@ Eagle Bay is named after eagles that nest in the rocky cliff face alongside the 
 ## Site Information
 
 - **Location**: Mirbat, Dhofar, Oman
-- **Entry Type**: Shore or boat dive
-- **Site Type**: Wreck dive (wreck within bay reef)
+- **Entry Type**: Shore or boat entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

@@ -13,36 +13,35 @@ addedBy: osm_import
 
 ## Metahead Bank
 
-Metahead Bank is an offshore rocky bank at 35-40 meters featuring exposed reef structure and strong Atlantic currents. This pelagic dive site attracts large Atlantic wolffish, halibut, and occasional harbor seal encounters. The bank represents typical offshore Nova Scotia diving with dramatic topography, cold water (4-15°C depending on season), and excellent visibility during optimal conditions. A true deep-water, advanced-only site.
+Metahead Bank is an offshore rocky reef bank in Halifax-area waters at approximately 35–40 metres. No dive operator or forum descriptions of this specific site were found in this survey. The bank is an OSM-sourced natural reef feature. At this depth in Nova Scotia's cold, clear Atlantic water, rocky banks of this type typically support kelp on the upper sections and transition to encrusting invertebrate communities at depth. Offshore boat conditions in this area can be challenging.
 
 ## Overview
 
-Metahead Bank is a reef dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Metahead Bank is a deep offshore reef site in Nova Scotia waters, boat-accessible only. Cold Atlantic water (4–15°C) and open-ocean exposure make this an advanced-only site. No site-specific dive descriptions were found; the following reflects general characteristics of offshore NS rocky banks at this depth range.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Off Halifax, Nova Scotia (offshore bank)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+*Description based on regional diving characteristics of offshore Nova Scotia rocky banks. No site-specific species reports were found for Metahead Bank.*
 
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Boat access only. No dedicated dive charter service for this specific site was identified. Contact local Halifax dive operators for availability.
 
 ## Tips and Recommendations
 
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Cold water at depth (4–8°C) requires a drysuit with adequate undersuit
+- Open ocean conditions — check sea state before departure; a surface marker buoy (SMB) is essential
+- Strong offshore currents may be present; plan entry/exit relative to current direction
+- Carry a dive light for deeper sections
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-20.*
