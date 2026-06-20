@@ -2,7 +2,7 @@
 name: Svolvær Harbor
 lat: 68.234
 lng: 14.568
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: shore
 siteType: reef

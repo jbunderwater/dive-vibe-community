@@ -5,7 +5,7 @@
     "lon": 14.534333,
     "osm_id": 663871180,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -15,8 +15,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "wreck_year": "1941"
+      "validation_source": "museumnord.no,wikipedia.org,lofoten.com",
+      "wreck_year": "1941",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -36,8 +37,10 @@
       "wreck:date_sunk": "1919-08-05",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-20",
+      "qa_note": "Wreck confirmed by OSM data and YouTube dive video, but vessel history (tonnage, length, sinking cause) could not be verified across 2+ independent sources. Depth in JSON (18m) conflicts with markdown (40m). Requires archival research via Norwegian maritime records before marking validated."
     }
   },
   {
@@ -52,22 +55,24 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com,lofoten-diving.no,scubadiverlife.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
     "name": "Nusfjord Wall",
     "lat": 68.035,
     "lon": 13.35,
-    "depth": 22,
+    "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com,visitlofoten.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -82,7 +87,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "scubaboard.com,xray-mag.com,visitlofoten.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -97,7 +103,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com,scubadiverlife.com,visitlofoten.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -107,12 +114,13 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lofoten-diving.no,scubadiverlife.com,visitlofoten.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -127,7 +135,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com,scubadiverlife.com,lofoten-diving.no",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -137,12 +146,13 @@
     "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "visitlofoten.com,lofoten-diving.no,scubadiverlife.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -157,7 +167,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,xray-mag.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-20"
     }
   },
   {
@@ -167,12 +178,13 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lofoten-diving.no,scubadiverlife.com,visitlofoten.com",
+      "last_qa_date": "2026-06-20"
     }
   }
 ]
