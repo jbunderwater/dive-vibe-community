@@ -3,7 +3,7 @@ name: HMT Bedfordshire
 lat: 34.3141877
 lng: -76.4526936
 difficulty: Intermediate
-maxDepth: 32
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ HMT Bedfordshire is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead City on antisubmarine patrol when U-558 fired two torpedoes at her in the early morning hours of 11 May 1942, sinking her instantly with all 37 crew — her only survivor was a stoker detained ashore the night before. The 162-foot wreck rests in 32 metres about 25 miles southeast of Beaufort Inlet, broken into three sections spread across the sand, with six depth charges still visible and Gulf Stream visibility commonly reaching 40–70 feet in summer. Designated a WWII War Memorial by Great Britain and listed on the National Register of Historic Places, the site carries a solemn character — the four crew members who washed ashore on Ocracoke are still honoured in an annual US Coast Guard ceremony at the British Cemetery there.
+The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead City on antisubmarine patrol when U-558 fired two torpedoes at her in the early morning hours of 11 May 1942, sinking her instantly with all 37 crew — her only survivor was a stoker detained ashore the night before. The 162-foot wreck rests in approximately 30 metres (100 ft) about 25 miles southeast of Beaufort Inlet, broken into three sections spread across the sand, with six depth charges still visible and Gulf Stream visibility commonly reaching 40–70 feet in summer. Designated a WWII War Memorial by Great Britain and listed on the National Register of Historic Places, the site carries a solemn character — the six crew members who washed ashore are still honoured — four are buried at the British Cemetery on Ocracoke Island, one on Hatteras Island, and one (Seaman Alfred Dryden) at Creeds, Virginia — with an annual commemorative ceremony at Ocracoke on 11 May.
 
 ## Site Information
 
