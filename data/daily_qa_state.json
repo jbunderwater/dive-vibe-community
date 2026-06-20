@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "north-carolina",
-    "norway",
-    "norway-lofoten-islands",
-    "nova-scotia",
-    "okinawa",
-    "oman",
     "palau",
     "panama",
     "papua-new-guinea",
@@ -174,7 +168,13 @@
     "new-zealand",
     "newfoundland",
     "ningaloo-reef",
-    "poor-knights-islands"
+    "poor-knights-islands",
+    "north-carolina",
+    "norway",
+    "norway-lofoten-islands",
+    "nova-scotia",
+    "okinawa",
+    "oman"
   ],
   "history": [
     {
@@ -1323,6 +1323,83 @@
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
             "notes": "Clerke Reef flagged for relocation (Rowley Shoals not Ningaloo, 260km off Broome); Blizzard Ridge coordinates corrected (-22.7,113.67\u2192-21.80,114.12); Norwegian Bay coordinates corrected; Turquoise Bay 15-20m scuba claim removed (snorkel/drift site 3-6m); Bundegi Reef bumphead parrotfish removed; Navy Pier pier entry clarified; 8 depth corrections; 2 entry type corrections"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "slugs": [
+        "north-carolina",
+        "norway",
+        "norway-lofoten-islands",
+        "nova-scotia",
+        "okinawa",
+        "oman"
+      ],
+      "notes": "norway has no data files (osm_clean/norway.json + divesites/norway/ missing) — needs scraping before next QA pass. Snoopy Island and Dibba Rock flagged as UAE Fujairah (OSM boundary errors in oman dataset).",
+      "summary": {
+        "sites_total": 150,
+        "sites_validated_today": 105,
+        "sites_re_audited": 150,
+        "hallucinations_removed": 45,
+        "marine_life_stripped": 22,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 30,
+        "by_destination": {
+          "north-carolina": {
+            "sites_total": 50,
+            "sites_validated_today": 48,
+            "sites_re_audited": 50,
+            "hallucinations_removed": 12,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 2,
+            "notes": "U-85 depth 34→27m; U-352 discovery year 1974→1975, length 218→220ft; U-576 depth 721→690ft; HMT Bedfordshire date 05-12→05-11, depth 32→30m; Aeolus AKA-47 not AKA-94, sinking 29 Jul 1988; Diamond Shoals reef→drift; Smith Creek Wreck validated tag removed (unverifiable)"
+          },
+          "norway": {
+            "sites_total": 0,
+            "notes": "No data files exist for this slug — osm_clean/norway.json and divesites/norway/ are missing. Destination needs to be scraped via gather_osm_all.py before QA is possible."
+          },
+          "norway-lofoten-islands": {
+            "sites_total": 11,
+            "sites_validated_today": 10,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "MS Hamburg depth claim 30m removed (actual 6-27m); D/S General Suworow fabricated 40m depth removed, left unvalidated; Reine Bay vessel type 'passenger steamer'→ferry/Hurtigruten; Nusfjord Wall UNESCO claim removed (false); 3 sites Beginner→Intermediate (cold Atlantic minimum); Maelstrom Wall flagged fabricated"
+          },
+          "nova-scotia": {
+            "sites_total": 54,
+            "sites_validated_today": 54,
+            "sites_re_audited": 54,
+            "hallucinations_removed": 17,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 8,
+            "notes": "CRITICAL safety addition: Gertrude de Costa UXO warning added (DFO source). HMCS Ypres minesweeper→gate vessel. Kars sinking narrative corrected (torpedo strike offshore + stern towed in). 'Shubenacadie Channel' location label wrong for all Halifax Harbour wrecks. Sea Fury and Hudson bomber existence at stated coordinates unverifiable. CN Barges, Tordenskjold, Virginia brig, Dominion Coal barges: 0 online sources."
+          },
+          "okinawa": {
+            "sites_total": 25,
+            "sites_validated_today": 16,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 12,
+            "marine_life_stripped": 9,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 9,
+            "notes": "Tori-ike 45→40m; L Arch 35→40m; Antonio Gaudi 37→35m; Nita Cave 18→15m; Ukon Denchi: reef with swim-through (not WWII battery); Middle Book: sandy macro goby site not manta ray; Nakanoshima Channel: crevasse not drift; 9 sites unresolved (<3 sources): Gahi Mae, Ururu no Sachi, Adan Mae, Agenashiku Eda Sango, Gahi Ura, Shiru Higashi, Ukon Denchi, Aka Sanbashi Mae"
+          },
+          "oman": {
+            "sites_total": 10,
+            "sites_validated_today": 5,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 5,
+            "notes": "Snoopy Island + Dibba Rock: confirmed UAE Fujairah (OSM boundary errors). China Wreck depth 25m→8m, entry boat→shore. Eagle Bay difficulty Beginner→Intermediate (strong currents). Leatherback turtles at Flamingo Beach removed (hallucination). ABT Salalah vessel identity unverifiable. All 10 Musandam source footers replaced with actual Salalah/Mirbat sources."
           }
         }
       }
