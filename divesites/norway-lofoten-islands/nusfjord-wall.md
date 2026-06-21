@@ -28,4 +28,4 @@ Nusfjord Wall descends from one of Lofoten's best-preserved historic fishing vil
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). Note: X-Ray Mag confirms an anemone wall ("Shit Wall") near Nusfjord diving to ~20 m; no site-specific sources found under the name "Nusfjord Wall". Description reflects Lofoten wall diving characteristics. Last updated 2026-06-21.*

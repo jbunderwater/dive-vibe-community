@@ -2,7 +2,7 @@
 name: USS Huron Shipwreck
 lat: 35.9769451
 lng: -75.6309881
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 9
 entryType: shore
 siteType: wreck
@@ -24,18 +24,18 @@ The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nag
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
 
 ## Marine Life
 
-The iron hull and exposed machinery — including the boilers, cannonball storage racks, propeller, and rudder — provide habitat for sheepshead, black sea bass, tautog, and Atlantic spadefish. Flounder work the sandy bottom around the wreck. The nearshore Atlantic surf zone environment supports a typical Outer Banks coastal fish community. The wreck's shallow depth and proximity to shore make it accessible to snorkelers as well as divers.
+The iron hull and exposed machinery — including the boilers, cannonball storage racks, propeller, and rudder — provide habitat for sheepshead, black sea bass, and Atlantic spadefish. Flounder work the sandy bottom around the wreck. The nearshore Atlantic surf zone environment supports a typical Outer Banks coastal fish community. The wreck's shallow depth and proximity to shore make it accessible to snorkelers as well as divers.
 
 ## Wreck History
 
-USS Huron was an iron-hulled Alert-class gunboat, 175 ft (53 m) long, displacing 1,020 long tons, built by John Roach & Sons in Chester, Pennsylvania and commissioned on 15 November 1875. She was en route from Hampton Roads, Virginia to Havana, Cuba when Commander George P. Ryan chose to navigate close inshore to avoid the adverse Gulf Stream current rather than following the standard offshore route.
+USS Huron was an iron-hulled Alert-class gunboat built by John Roach & Sons in Chester, Pennsylvania and commissioned on 15 November 1875. Her length is reported differently across sources: Wikipedia records 175 ft (53 m), while her class documentation gives 199 ft 9 in LOA — this conflict is unresolved. She displaced approximately 1,020 long tons. She was en route from Hampton Roads, Virginia to Havana, Cuba when Commander George P. Ryan chose to navigate close inshore to avoid the adverse Gulf Stream current rather than following the standard offshore route.
 
-In heavy weather and dense fog, the Huron ran aground 250 yards off Nags Head at approximately 1:30 am on 24 November 1877. Despite being only 200 yards from the beach, the heavy surf, strong current, and cold water prevented most of the crew from swimming ashore. The nearest US Lifesaving Service station was two miles away but closed for the season until December. Of 132 aboard, 98 officers and men perished; 34 survived. The disaster directly prompted Congress to fund expansion and year-round staffing of US Lifesaving Service stations along the North Carolina coast.
+In heavy weather and dense fog, the Huron ran aground 250 yards off Nags Head at approximately 1:30 am on 24 November 1877. Despite being only 200 yards from the beach, the heavy surf, strong current, and cold water prevented most of the crew from swimming ashore. The nearest US Lifesaving Service station was two miles away but closed for the season until December. Crew figures conflict across sources: most accounts record 132 aboard with 98 lost and 34 surviving; the NC DNCR 2023 source records 134 aboard with 98 lost and 36 surviving. The disaster directly prompted Congress to fund expansion and year-round staffing of US Lifesaving Service stations along the North Carolina coast.
 
 The wreck was listed on the National Register of Historic Places on 15 November 1991 and designated North Carolina's first Historic Shipwreck Preserve by the NC Department of Cultural Resources. Artifact collection is strictly prohibited.
 
@@ -56,4 +56,4 @@ The buoys are only deployed in summer — check with local dive shops for exact 
 Open-ocean surf conditions can change rapidly on the Outer Banks — always check surf forecasts before entering. The wreck sits in the Atlantic surf zone; surge can be strong even in apparently calm conditions. Use a dive flag visible to boat traffic. The 250-yard swim to the wreck in surf requires good swimming fitness; do not attempt in rough conditions. Artifact collection is prohibited under state and federal law — the site is a legally protected Historic Shipwreck Preserve.
 
 ---
-*Sources: [NC Archaeology — USS Huron Historic Shipwreck Preserve](https://archaeology.ncdcr.gov/uab/heritage-dive-sites/huron), [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/). Last updated 2026-05-17.*
+*Sources: [NC Archaeology — USS Huron Historic Shipwreck Preserve](https://archaeology.ncdcr.gov/uab/heritage-dive-sites/huron), [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/). Last updated 2026-06-21.*

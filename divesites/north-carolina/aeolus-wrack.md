@@ -33,7 +33,7 @@ Sand tiger sharks are the defining feature — the cable storage compartments ar
 
 ## Wreck History
 
-The Aeolus (ARC-3) was a 409-ft US Navy cable repair ship, originally commissioned in June 1945 as the attack cargo ship USS Turandot (AKA-94). After serving in the Pacific theater's final months transporting troops and cargo, she was decommissioned in 1947. Reoutfitted as a cable repair ship and recommissioned as USNS Aeolus in 1955, she served until her transfer to North Carolina's artificial reef program. She was deliberately sunk in August 1988, approximately 22 miles south of Beaufort Inlet in 110 ft (33.5 m) of water. Hurricanes in 1996 broke the hull into three major sections, partially righting some portions and creating the multi-level configuration divers encounter today.
+The Aeolus (ARC-3) was a US Navy cable repair ship, originally commissioned in 1945 as the attack cargo ship USS Turandot (AKA-47). After serving in the Pacific theater's final months transporting troops and cargo, she was decommissioned in 1947. Reoutfitted as a cable repair ship and recommissioned as USNS Aeolus in 1955, she served until her transfer to North Carolina's artificial reef program. She was deliberately sunk in 1988, approximately 22 miles south of Beaufort Inlet in 110 ft (33.5 m) of water. Sources conflict on exact length (reported variously as 409–441 ft) and on the exact sinking date; these figures are unresolved. Hurricanes in 1996 broke the hull into three major sections, partially righting some portions and creating the multi-level configuration divers encounter today.
 
 ## Dive Profile
 

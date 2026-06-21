@@ -2,10 +2,10 @@
 name: Svolvær Harbor
 lat: 68.234
 lng: 14.568
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Svolvær Harbor
 
-Svolvær Harbor is a shore reef dive site in the Lofoten Islands, Norway.
+Svolvær Harbor is a shore dive site in the Lofoten Islands, Norway, known as a base for wreck diving in the harbour area.
 
 ## Overview
 
@@ -41,19 +41,19 @@ Typical species in Svolvær harbour reflect the broader Lofoten cold-water commu
 
 ## Safety
 
-Cold water year-round. Shore entry in a working harbour requires awareness of vessel traffic. Drysuit recommended. Suitable for beginner divers under supervision.
+Cold water year-round (4–15°C). Shore entry in a working harbour requires awareness of vessel traffic. Drysuit required. Cold-water conditions in Lofoten require a minimum of Intermediate certification and drysuit diving experience; this is not a beginner site despite the shallow depth.
 
 ## Site Information
 
 - **Location**: Svolvær, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-21
 
 ---
-*Sources: [Lofoten Diving — Svolvær wreck diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Svolvær Harbor shore diving were located; description reflects Lofoten regional harbour diving characteristics. Last updated 2026-05-17.*
+*Sources: [X-Ray Mag — Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Svolvær Harbor shore diving were located; description reflects Lofoten regional harbour diving characteristics. Difficulty upgraded from Beginner to Intermediate per cold-water policy. Last updated 2026-06-21.*

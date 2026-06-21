@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## CN Barges (3), c. 1941
 
-Three Canadian National Railway barges dating to approximately 1941 form this interesting multi-wreck site in the Shubenacadie Channel at 24 meters depth. The barges offer both external exploration and limited penetration opportunities. The site is significant to Nova Scotia's industrial maritime history and provides excellent opportunities to observe how multiple vessels interact on the seafloor. Expect moderate-to-strong currents.
+Three Canadian National Railway barges dating to approximately 1941 form this interesting multi-wreck site in the Halifax Harbour (outer channel, near McNabs Island) at 24 meters depth. The barges offer both external exploration and limited penetration opportunities. The site is significant to Nova Scotia's industrial maritime history and provides excellent opportunities to observe how multiple vessels interact on the seafloor. Expect moderate-to-strong currents.
 
 ## Overview
 

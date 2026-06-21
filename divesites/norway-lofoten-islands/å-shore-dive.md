@@ -2,7 +2,7 @@
 name: Å Shore Dive
 lat: 67.878
 lng: 12.98
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 10
 entryType: shore
 siteType: reef
@@ -19,7 +19,7 @@ addedBy: osm_import
 
 Å (pronounced "Aw") is the southernmost village in Lofoten and one of Norway's most-visited fishing communities, known for its preserved 18th and 19th century rorbuer (fishing cabins). The shore dive here is at the very end of European Route E10, one of the most scenic roads in Norway. Diving from Å places you at the outermost edge of the archipelago, where Atlantic waters mix with the coastal shallows around small islands and skerries.
 
-The maximum depth of 10 metres makes this a suitable site for beginners to cold-water diving and certified divers building experience in Norwegian conditions. The bottom consists of rocky reef, kelp beds, and sand patches in a sheltered harbour or adjacent coastal setting. Laminaria kelp forest dominates the shallow zone, and the kelp canopy provides habitat for a variety of cold-water species: small pollock and saithe school in the open water, while crabs, sea urchins, and sea anemones occupy the rocky substrate beneath. Nudibranchs can be found on kelp holdfasts.
+The maximum depth of 10 metres is shallow, but cold-water conditions in Lofoten (4–10°C year-round, requiring drysuit) mean this site requires a minimum of Intermediate certification with drysuit diving experience. It is appropriate for intermediate divers building experience in Norwegian conditions, not for beginners without cold-water drysuit training. The bottom consists of rocky reef, kelp beds, and sand patches in a sheltered harbour or adjacent coastal setting. Laminaria kelp forest dominates the shallow zone, and the kelp canopy provides habitat for a variety of cold-water species: small pollock and saithe school in the open water, while crabs, sea urchins, and sea anemones occupy the rocky substrate beneath. Nudibranchs can be found on kelp holdfasts.
 
 The primary limitation is depth — at 10 metres, bottom time is generous but the site does not offer the dramatic wall or deeper wreck experiences found at other Lofoten sites. Its value lies in accessibility for beginners, the picturesque setting, and the genuinely wild Atlantic character of the location. Water temperature is 4–10°C depending on season; drysuit is strongly recommended year-round.
 
@@ -47,13 +47,13 @@ Cold water and remote location require appropriate preparation. Drysuit is recom
 
 - **Location**: Å, Moskenes, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-21
 
 ---
-*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). No site-specific sources for Å Shore Dive were located; description reflects Lofoten regional shore diving characteristics. Last updated 2026-05-17.*
+*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). No site-specific sources for Å Shore Dive were located; description reflects Lofoten regional shore diving characteristics. Difficulty upgraded from Beginner to Intermediate per cold-water policy. Last updated 2026-06-21.*

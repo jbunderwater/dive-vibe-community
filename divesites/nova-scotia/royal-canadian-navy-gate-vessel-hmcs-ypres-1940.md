@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Royal Canadian Navy gate vessel HMCS Ypres (1940)
 
-HMCS Ypres was a Royal Canadian Navy minesweeper sunk in 1940, representing important Canadian naval heritage. The 27-meter wreck in the Shubenacadie Channel offers exploration of a significant warship with historical importance. The site features good structural integrity and attracts Atlantic marine life. Cold water and currents require advanced training and experience.
+HMCS Ypres was a Royal Canadian Navy minesweeper sunk in 1940, representing important Canadian naval heritage. The 27-meter wreck in the Halifax Harbour (outer channel, near McNabs Island) offers exploration of a significant warship with historical importance. The site features good structural integrity and attracts Atlantic marine life. Cold water and currents require advanced training and experience.
 
 ## Overview
 

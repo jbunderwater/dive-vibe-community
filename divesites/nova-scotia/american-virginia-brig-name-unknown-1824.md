@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## American (Virginia) brig, name unknown (1824)
 
-This early 19th-century American sailing vessel wreck represents one of the oldest documented wrecks in Nova Scotia, dating to 1824. Located at 30 meters in the Shubenacadie Channel, the wooden ship remains offer exceptional historical value and excellent preservation in the cold Atlantic water. The site is significant for maritime archaeology and the study of early American sailing vessels. Advanced training required.
+This early 19th-century American sailing vessel wreck represents one of the oldest documented wrecks in Nova Scotia, dating to 1824. Located at 30 meters in the Halifax Harbour (outer channel, near McNabs Island), the wooden ship remains offer exceptional historical value and excellent preservation in the cold Atlantic water. The site is significant for maritime archaeology and the study of early American sailing vessels. Advanced training required.
 
 ## Overview
 

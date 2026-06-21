@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Schooner Gertrude de Costa (1950)
 
-The Schooner Gertrude de Costa is a 20th-century wooden schooner wreck located in the Shubenacadie Channel at approximately 28 meters depth. The historic wooden vessel rests in cold Atlantic water characterized by strong tidal currents and variable visibility. The wreck offers exploration of wooden shipbuilding techniques and is part of Nova Scotia's rich maritime heritage. Strong current management is essential at this site.
+The Schooner Gertrude de Costa is a 20th-century wooden schooner wreck located in the Halifax Harbour (outer channel, near McNabs Island) at approximately 28 meters depth. The historic wooden vessel rests in cold Atlantic water characterized by strong tidal currents and variable visibility. The wreck offers exploration of wooden shipbuilding techniques and is part of Nova Scotia's rich maritime heritage. Strong current management is essential at this site.
 
 ## Overview
 

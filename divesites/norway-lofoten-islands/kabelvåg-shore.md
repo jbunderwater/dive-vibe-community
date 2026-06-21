@@ -49,13 +49,13 @@ Cold water requires proper thermal protection. Shore entry on rocky Norwegian co
 
 - **Location**: Kabelvåg, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-21
 
 ---
-*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Offersøy Feriesenter — Diving in Lofoten](https://www.offersoy.no/articles/diving-in-lofoten). No site-specific sources for Kabelvåg Shore were located; description reflects Lofoten regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Kabelvåg Shore were located; description reflects Lofoten regional diving characteristics. Last updated 2026-06-21.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
 
-Two coal barges comprise this dual-wreck site in the Shubenacadie Channel at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
+Two coal barges comprise this dual-wreck site in the Halifax Harbour (outer channel, near McNabs Island) at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
 
 ## Overview
 

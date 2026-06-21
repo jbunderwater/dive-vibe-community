@@ -4,7 +4,7 @@ lat: 16.95053
 lng: 54.8188777
 difficulty: Beginner
 maxDepth: 15
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 306100677
@@ -22,10 +22,13 @@ Flamingo Beach: Side Entry is an alternative approach to the Flamingo Beach reef
 ## Site Information
 
 - **Location**: Oman, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
+- **Season**: October to May (khareef monsoon closes the coast June–September)
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [PADI Pros - Diving in Salalah Oman](https://pros-blog.padi.com/diving-in-salalah-oman/), [Beautiful Salalah - Scuba Diving in Salalah](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/), [Salalah Oman 22 - Scuba Diving in Salalah](https://salalahoman22.com/st_tour/scuba-diving-in-salalah/). Last updated 2026-06-21.*
+
+> **QA correction (2026-06-21):** Entry type corrected from boat to shore — all Mirbat dive sites are shore-accessible per PADI Pros and multiple operator sources.

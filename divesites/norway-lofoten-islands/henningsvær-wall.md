@@ -60,7 +60,7 @@ Cold-water diving in the Arctic requires drysuit competency and adequate thermal
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-21
 
 ---
-*Sources: [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Offersøy Feriesenter — Diving in Lofoten](https://www.offersoy.no/articles/diving-in-lofoten). Last updated 2026-05-17.*
+*Sources: [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). No site-specific published sources found under the name "Henningsvær Wall"; description reflects confirmed Lofoten wall diving characteristics. Last updated 2026-06-21.*

@@ -2,10 +2,10 @@
 name: Aquarium
 lat: 16.9462204
 lng: 54.8045232
-difficulty: Intermediate
-maxDepth: 24
-entryType: boat
-siteType: wall
+difficulty: Beginner
+maxDepth: 15
+entryType: shore
+siteType: reef
 ref: null
 osmId: 306050015
 addedBy: osm_import
@@ -13,19 +13,32 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a wall dive site in Oman, Middle East.
+Aquarium is a shallow coral reef site at Mirbat in southern Oman, named for the density of marine life that fills its table coral gardens.
 
 ## Overview
 
-Aquarium is widely considered the jewel of Mirbat diving near Salalah, named for the sheer density of marine life — shoals of snapper, Arabian angelfish, emperor angelfish, batfish, and anemonefish are so abundant they make the site feel like a giant fish tank the moment you descend. The reef is structured around huge colourful table corals spreading over a large area at 8 to 18 metres, with hundreds of shrimp gobies dotting the sandy channels between coral heads and some of the largest moray eels in the region hiding in deeper crevices. Situated slightly offshore, Aquarium benefits from cleaner water and exceptional visibility compared to the bay sites, with turtles, stingrays, cuttlefish, and occasional leopard sharks completing the experience from October to May.
+Aquarium is one of the three main shore dive sites along the Mirbat coastline in Oman's Dhofar region, accessible by 4x4 from Salalah and entered directly from the beach. The site is characterised by large table corals spreading over a wide area with sandy channels between the coral heads, at depths of 5 to 15 metres. Every nook holds shrimps, crabs, and small reef fish — a justification for the aquarium name.
+
+The shallow depth and calm conditions make it suitable for all certification levels. Confirmed marine life includes shrimp gobies on the sandy channels, moray eels, clownfish, crabs, shrimps, nudibranchs, flatworms, octopuses, stonefish, rays, turtles, and barracudas. The Indo-Pacific character of the marine life is unusual for the Arabian Peninsula. Available October to May.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Location**: Mirbat coast, Dhofar, southern Oman
+- **Entry Type**: Shore entry
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Season**: October to May (khareef monsoon closes the coast June–September)
+
+## Marine Life
+
+Confirmed at this site: shrimp gobies (in high numbers on sandy channels), moray eels, clownfish, nudibranchs, flatworms, octopuses, stonefish, rays, turtles, and barracudas. The Indo-Pacific reef community is distinctive for the Arabian Peninsula.
+
+## Dive Profile
+
+Shore entry. Explore the table coral gardens at 5–15 metres, weaving between sandy channels. The shallow depth and compact reef layout allow thorough coverage in a single dive. Check sandy areas for gobies and macro life.
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [PADI Pros - Diving in Salalah Oman](https://pros-blog.padi.com/diving-in-salalah-oman/), [Salalah Oman 22 - Scuba Diving in Salalah](https://salalahoman22.com/st_tour/scuba-diving-in-salalah/), [Beautiful Salalah - Scuba Diving in Salalah](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/). Last updated 2026-06-21.*
+
+> **QA correction (2026-06-21):** Previous version incorrectly classified Aquarium as a wall dive at 24m Intermediate. Multiple sources confirm this is a shallow shore-accessible reef with table corals and sandy channels, max ~15m, beginner difficulty. Site_type corrected to reef, entry_type to shore, depth to 15m, difficulty to Beginner. Marine life stripped: "Arabian angelfish," "emperor angelfish," and "leopard sharks" were not confirmed at this specific site by any source. Note: a different "Aquarium" site exists near Hasikiyah Island in the Hallaniyat archipelago — that is a separate unrelated site visited by liveaboards.

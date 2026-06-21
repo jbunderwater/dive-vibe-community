@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## Sea Fury fighter bomber plane (1952)
 
-The Sea Fury is a military fighter-bomber aircraft that sank in 1952, creating a unique aircraft dive experience at 25 meters in the Shubenacadie Channel. Fuselage sections and aircraft components provide distinctive photographic subjects and interesting wreck structure exploration. Cold water and tidal currents require advanced training and experience. This site appeals to aviation archaeology enthusiasts.
+The Sea Fury is a military fighter-bomber aircraft that sank in 1952, creating a unique aircraft dive experience at 25 meters in the Halifax Harbour (outer channel, near McNabs Island). Fuselage sections and aircraft components provide distinctive photographic subjects and interesting wreck structure exploration. Cold water and tidal currents require advanced training and experience. This site appeals to aviation archaeology enthusiasts.
+
+## SITE STATUS: Unconfirmed as a Dive Site
+
+> **QA Note (2026-06-21):** A Royal Canadian Navy Hawker Sea Fury FB.11 (serial VX692, 881 Squadron) ditched on 10 September 1952 — this is confirmed in the CASPIR (Canadian aviation) database. However, the exact ditching location within Halifax-area waters is not recorded in any publicly accessible source. No Nova Scotia dive operator, dive guide, or dive forum lists a Sea Fury as a named dive site near Halifax. The coordinates here appear to be derived from a chart obstruction marker or position estimate, not a confirmed dive survey. This entry is retained for reference but should not be treated as a confirmed dive destination.
 
 ## Overview
 
-Sea Fury fighter bomber plane (1952) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+A Hawker Sea Fury FB.11 (serial VX692) of the Royal Canadian Navy ditched on 10 September 1952. The RCN operated Sea Furies from HMCS Shearwater in Dartmouth, Nova Scotia, 1948–1956. No recreational dive operator in Nova Scotia lists a Sea Fury aircraft as a named dive site, and no dive accounts, dive logs, or trip reports referencing this site were found.
 
 ## Site Information
 
@@ -45,4 +49,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [CASPIR — Sea Fury VX692](https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200001486), [SilverHawkAuthor — Canadian Warplanes: Hawker Sea Fury](https://www.silverhawkauthor.com/post/canadian-warplanes-5-hawker-sea-fury). Accident confirmed; ditching location and dive site status unverified. No dive operator lists this as a dive site. Last updated 2026-06-21.*

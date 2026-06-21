@@ -3,7 +3,7 @@ name: Smith Creek Wreck
 lat: 35.5137624
 lng: -76.4868808
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: null
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,39 +13,23 @@ addedBy: osm_import
 
 ## Smith Creek Wreck
 
-Smith Creek Wreck is a historic wreck dive in North Carolina, North America.
+Smith Creek Wreck is listed in OSM as a navigation seamark (wreck hazard) near Pamlico Sound in eastern North Carolina.
 
-## Overview
+## SITE STATUS: Not an Established Dive Site
 
-The Smith Creek Wreck is a boat-access dive site in the estuarine waters of eastern North Carolina near the confluence of Smith Creek and the Neuse River, lying in approximately 25 metres in the sheltered inland waterway environment well away from the open Atlantic. Visibility in this Sound-adjacent setting is characteristically low compared to the offshore Graveyard of the Atlantic sites — typically just a few metres due to tannin-stained freshwater mixing and silt — but the wreck provides structural habitat for flounder, black sea bass, spadefish, and crustaceans common to North Carolina's inshore waters. The site appeals to local divers seeking an accessible freshwater-influenced wreck dive without the long offshore boat ride required by the better-known coastal wrecks.
+> **QA Note (2026-06-21):** Research found no evidence that Smith Creek Wreck is an active or established recreational dive site. It appears in OSM as a `seamark:type=wreck` with `seamark:wreck:category=dangerous` — a navigation hazard marker, not a diver-reported site. No dive operator in North Carolina lists it in their dive site inventories, and no diver accounts, dive logs, or trip reports referencing this site were found in any source.
+>
+> Additionally, the previously recorded depth of 25 m is physically impossible. Pamlico Sound has a maximum depth of approximately 7.9 m (26 ft); a 25 m depth at this location cannot exist.
+>
+> This entry is retained for reference but should not be treated as a confirmed dive destination. Contact the NC Underwater Archaeology Branch (archaeology.ncdcr.gov) for information on whether any documented wreck exists at these coordinates.
 
 ## Site Information
 
-- **Location**: North Carolina, North America
+- **Location**: Near Smith Creek / Pamlico Sound, eastern North Carolina
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-
-## Marine Life
-
-The brackish, tannin-influenced estuarine environment hosts inshore species typical of the Neuse River system: flounder, black sea bass, sheepshead, and Atlantic croaker are the most commonly encountered fish around submerged structure. Blue crabs and small crustaceans colonise encrusted hull surfaces. Visibility is limited by suspended sediment and freshwater mixing, so encounters are at close range.
-
-## Site Note
-
-The identity of this wreck is not confirmed in available public sources. No site-specific vessel history could be verified through the NC Underwater Archaeology Branch's public records, NOAA Monitor Sanctuary shipwreck list, or nc-wreckdiving.com. The Smith Creek confluence with the Neuse River historically had steamboat traffic, and submerged hull remains consistent with a 19th-century steamboat may be present. Divers should contact the NC Underwater Archaeology Branch (archaeology.ncdcr.gov) for any available site-specific information before visiting.
-
-## Dive Profile
-
-Located in the estuarine waters near Smith Creek's confluence with the Neuse River, in approximately 25 m of water in a sheltered inland waterway setting. Visibility is typically low (a few metres) due to tannin staining and silt. This is an inshore dive far removed from the Gulf Stream conditions of the offshore wreck sites.
-
-## Entry and Exit
-
-Boat access required. No charter services specifically advertising this site were found in available sources. Local dive shops in the New Bern area may be able to advise on access. Contact the NC Underwater Archaeology Branch for current site information.
-
-## Safety Considerations
-
-Estuarine visibility is characteristically very low — maintain close buddy contact throughout the dive. The sheltered inland waterway location means currents are less severe than offshore sites, but local tidal currents in the Neuse River system still require attention. Research the site identity through official channels before planning a visit.
+- **Maximum Depth**: Unknown (Pamlico Sound maximum approximately 7.9 m)
 
 ---
-*Description based on regional diving characteristics and geographic context. No site-specific verified sources found. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-05-17.*
+*No site-specific sources found. OSM source is a navigation seamark (wreck hazard marker), not a dive site report. Depth of 25 m previously recorded is impossible given Pamlico Sound bathymetry. Last updated 2026-06-21.*

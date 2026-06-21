@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Norwegian barque Tordenskjold (1879)
 
-The Norwegian barque Tordenskjold is a 19th-century sailing ship wreck that exemplifies Scandinavian maritime heritage in Nova Scotia waters. Sunk in 1879, the vessel rests at 29 meters in the Shubenacadie Channel with excellent preservation of wooden structures. The wreck offers outstanding exploration of wooden shipbuilding and mid-Atlantic sailing techniques. Strong currents require advanced experience.
+The Norwegian barque Tordenskjold (also rendered "Tordem Skjold" in historical Halifax records) ran aground at Maugher's Beach on the west side of McNabs Island while tacking into Halifax Harbour. The date is disputed across three sources.
+
+> **QA Note (2026-06-21):** The wreck date "1879" in the site name is NOT confirmed by any independently retrieved source. The Nova Scotia open government Marine Heritage Shipwrecks Database records the event as **May 15, 1885**. The Nova Scotia Lighthouse Preservation Society (Maugher Beach Lighthouse history) gives **1872**. HalifaxCountyNSGenWeb (Hewitt Histories) gives an undated reference consistent with either date. The 1879 date has no identified source. The cause of grounding is consistently reported: the vessel was bound in with ballast, and the lighthouse at Maugher's Beach took the wind from her sails during a tack, leaving her unable to complete the manoeuvre. The crew escaped without difficulty. The vessel's build date, dimensions, and tonnage are unconfirmed in any accessible source.
 
 ## Overview
 
-Norwegian barque Tordenskjold (1879) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+A Norwegian barque named Tordenskjold (anglicised as "Tordem Skjold" in Halifax accounts) stranded at Maugher's Beach on the west side of McNabs Island while tacking into Halifax Harbour. The cause was a navigation hazard: the lighthouse structure at Maugher's Beach blocked the wind from her sails mid-tack, leaving her unable to complete the manoeuvre. The crew escaped without difficulty. A ship's quarter name board reading "Tordem Skjold" was kept as a memento at the lighthouse for many years.
 
 ## Site Information
 
@@ -45,4 +47,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Open Data — Marine Heritage Shipwrecks Database](https://data.novascotia.ca/Arts-Culture-and-History/Marine-Heritage-Shipwrecks-Database/rq3a-h5hk) (records date as May 15, 1885), [Nova Scotia Lighthouse Preservation Society — Maugher Beach Lighthouse](https://www.nslps.com/about-ns-lighthouses/lighthouse-lists?c=maugher-beach-lighthouse) (gives 1872), [HalifaxCountyNSGenWeb — Hewitt Histories](https://sites.rootsweb.com/~nshalifa/Ch9.html). Date of wrecking is disputed (1872, 1879, or 1885 depending on source); 1879 in the site name is unconfirmed. Last updated 2026-06-21.*

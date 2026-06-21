@@ -18,7 +18,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Basque Reef",
@@ -39,7 +42,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Margarets Reef",
@@ -60,7 +66,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Cape Wolfe Rock",
@@ -81,7 +90,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Little Rock",
@@ -102,7 +114,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Jerrys Rock",
@@ -123,7 +138,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Picard Reef",
@@ -144,7 +162,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Boughton Ledge",
@@ -165,7 +186,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Long Bar",
@@ -186,7 +210,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Bald Reef",
@@ -207,7 +234,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Crow Reef",
@@ -228,7 +258,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "The Reef",
@@ -249,7 +282,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Bald Rock Reef",
@@ -270,7 +306,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Lucas Ledge",
@@ -291,7 +330,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Weavers Ledge",
@@ -312,7 +354,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Shag Reef",
@@ -333,7 +378,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Steering Reef",
@@ -354,7 +402,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Warrior Reef",
@@ -375,7 +426,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "McAulays Reef",
@@ -396,7 +450,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Caribou Reef",
@@ -417,7 +474,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "East End Reef",
@@ -438,7 +498,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Jollimore Reef",
@@ -459,7 +522,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Rocky Ledge",
@@ -480,7 +546,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Pugwash Reef",
@@ -501,7 +570,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Schooner Gertrude de Costa (1950)",
@@ -522,7 +594,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Schooner Reaper (1899)",
@@ -543,7 +618,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "CN Barges (3), c. 1941",
@@ -564,7 +642,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "British tanker Kars (1942)",
@@ -585,7 +666,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Sea Fury fighter bomber plane (1952)",
@@ -606,7 +690,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Hudson bomber plane (1944)",
@@ -627,7 +714,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "American (Virginia) brig, name unknown (1824)",
@@ -648,7 +738,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Norwegian barque Tordenskjold (1879)",
@@ -669,7 +762,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Royal Canadian Navy gate vessel HMCS Ypres (1940)",
@@ -690,7 +786,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)",
@@ -712,7 +811,10 @@
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Wellesly Rock",
@@ -735,7 +837,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-03-16",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Lone Rock",
@@ -756,7 +861,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Marco Polo",
@@ -784,7 +892,10 @@
       "validation_source": "wikipedia.org,resortmunicipalitypei.com,pc.gc.ca",
       "validation_date": "2026-03-16",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Big Ledge",
@@ -806,7 +917,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Little Ledge",
@@ -828,7 +942,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Inchcape Rock",
@@ -851,7 +968,10 @@
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20",
       "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Gull Ledge",
@@ -873,7 +993,10 @@
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20",
       "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Whales Back",
@@ -894,7 +1017,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Mathesons Rock",
@@ -916,7 +1042,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Beaver Tail",
@@ -938,7 +1067,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Round Reef",
@@ -959,7 +1091,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Fox Point Beach",
@@ -984,7 +1119,10 @@
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20",
       "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Ovens Reef",
@@ -1006,7 +1144,10 @@
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20",
       "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Western Reef",
@@ -1027,7 +1168,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Chicken Rocks",
@@ -1049,7 +1193,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Young Ledge",
@@ -1070,7 +1217,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "Southwest Ledge",
@@ -1091,7 +1241,10 @@
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
       "last_qa_date": "2026-05-20"
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "USS LSM-56",
@@ -1121,7 +1274,10 @@
       "validation_date": "2026-03-16",
       "last_qa_date": "2026-05-20",
       "note": "QA 2026-05-20: Located in Musquash Estuary NB not Passamaquoddy Bay. Length is 62m (203ft) not 92m. In NB federal MPA."
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "LSM-[??]",
@@ -1148,7 +1304,10 @@
       "validation_date": "2026-03-16",
       "last_qa_date": "2026-05-20",
       "note": "QA 2026-05-20: Located in Musquash Estuary NB. Identity unconfirmed. Capsized in place per Wikipedia."
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   },
   {
     "name": "MV Fosdyke Trader",
@@ -1179,6 +1338,9 @@
       "validation_date": "2026-03-16",
       "last_qa_date": "2026-05-20",
       "note": "QA 2026-05-20: Ship was operating as Mon Ami at time of wreck. Intentionally beached on Seal Island NS Nov 17 1991. All crew rescued. 411 GRT, 43m length."
-    }
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "east-coast-scuba.com, nsshipwrecks.ca, bio-oa.ca"
   }
 ]

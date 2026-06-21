@@ -15,8 +15,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "wreck_year": "1941"
+      "validation_source": "xray-mag.com, scubadiverlife.com, scuba.lu",
+      "wreck_year": "1941",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -37,7 +38,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "youtube.com/watch?v=SrtgDS9rJ9o, xray-mag.com, scubadiverlife.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -52,7 +54,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -67,7 +70,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -82,7 +86,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lofoten-diving.no, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -97,7 +102,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lofoten-diving.no, xray-mag.com, scubadiverlife.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -105,14 +111,15 @@
     "lat": 68.234,
     "lon": 14.568,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -127,7 +134,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -137,27 +145,29 @@
     "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "lofoten-diving.no, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
     "name": "Maelstrom Wall",
     "lat": 67.9,
     "lon": 13.0,
-    "depth": 32,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, lofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   },
   {
@@ -167,12 +177,13 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com, scubadiverlife.com, visitlofoten.com",
+      "last_qa_date": "2026-06-21"
     }
   }
 ]

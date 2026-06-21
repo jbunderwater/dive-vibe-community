@@ -3,7 +3,7 @@ name: HMT Bedfordshire
 lat: 34.3141877
 lng: -76.4526936
 difficulty: Intermediate
-maxDepth: 32
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead Ci
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

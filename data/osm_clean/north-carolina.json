@@ -11,6 +11,7 @@
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/papoose.html, olympusdiving.com/papoose, scubadiving.com top 10 NC wrecks",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "Paposse (Wrack)",
@@ -30,6 +31,7 @@
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/u-576.html, NOAA Ocean Exploration - war grave at 690ft/210m, not a recreational dive",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "U-576 (Wrack)",
@@ -43,12 +45,13 @@
     "lon": -75.13,
     "osm_id": 663869496,
     "osm_type": "node",
-    "depth": 34,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/u-85.html, naui.org/north-carolina-wreck-diving, scubadiverlife.com U-85",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "U-85 (Wrack)",
@@ -68,6 +71,7 @@
     "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/u-352.html, scubadiving.com/history-north-carolina-u-352-shipwreck, underwaterjournal.com",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "U-352 (Wrack)",
@@ -87,6 +91,7 @@
     "difficulty": "Beginner",
     "validated": "true",
     "validation_source": "divebuddy.com/divesite/1204/indra-ar-330, outrageousdiving.com/indra-dive-site, discoverydiving.com/diving/dive-sites",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "Indra (Wrack)",
@@ -106,6 +111,7 @@
     "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "outrageousdiving.com/aeolus-dive-site, scubadiving.com top 10 NC wrecks, tdisdi.com/5-best-wreck-dives-in-north-carolina",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
@@ -125,6 +131,7 @@
     "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "scubadiving.com/travel/south/queen-annes-revenge, justgottadive.com/queen-annes-revenge, deeperblue.com NC best wrecks",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "Queen Anne's Revenge Shipwreck",
@@ -143,9 +150,10 @@
     "depth": 9,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "archaeology.ncdcr.gov/uab/heritage-dive-sites/huron, divebuddy.com/divesite/1893/uss-huron, obxguides.com/uss-huron-shipwreck",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -172,6 +180,7 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "seamark:name": "Smith Creek Wreck",
       "seamark:type": "wreck",
@@ -190,12 +199,13 @@
     "lon": -76.4526936,
     "osm_id": 8733515573,
     "osm_type": "node",
-    "depth": 32,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/bedfordshire.html, nc-wreckdiving.com/WRECKS/BEDFORD, scubadiverlife.com HMT Bedfordshire",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
@@ -223,8 +233,9 @@
     "difficulty": "Beginner",
     "validated": "true",
     "validation_source": "outerbanks.org/blog/5-shipwrecks-you-can-visit, divehatteras.com/beach-wrecks, nps.gov/submerged/parks/caha.html",
+    "last_qa_date": "2026-06-21",
     "tags": {
-      "description": "The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.",
+      "description": "The SS Richmond was formerly the blockade runner Blenheim, built in 1848 in Glasgow, Scotland.",
       "historic": "wreck",
       "name": "SS Richmond Shipwreck",
       "seamark:type": "wreck",
@@ -246,6 +257,7 @@
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "monitor.noaa.gov/shipwrecks/uss_monitor.html, scubadiving.com/diving-monitor-national-marine-sanctuary, scubadiverlife.com USS Monitor",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "historic": "wreck",
       "name": "USS Monitor",
@@ -269,6 +281,7 @@
     "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "divein.com/diving/destination/diving-in-north-carolina, getmyboat.com/scuba-diving-in-north-carolina, southeastasiadiving.com/blog/north-carolina",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "name": "Diamond Shoals",
       "natural": "reef",
@@ -288,6 +301,7 @@
     "difficulty": "Beginner",
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204), discoverydiving.com/diving/dive-sites - scuttled as breakwater 1935 in shallow Beaufort harbor",
+    "last_qa_date": "2026-06-21",
     "tags": {
       "access": "yes",
       "description": "Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935",

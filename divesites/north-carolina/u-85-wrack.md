@@ -3,7 +3,7 @@ name: U-85 (Wrack)
 lat: 35.55
 lng: -75.13
 difficulty: Advanced
-maxDepth: 34
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ U-85 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 34 metres, 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility, and its enigma machine — recovered by divers — now resides at the Graveyard of the Atlantic Museum in Hatteras, while the sub's hatch is displayed at Cape Hatteras Lighthouse.
+U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 27 metres (90 ft), 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility, and its enigma machine — recovered by divers — now resides at the Graveyard of the Atlantic Museum in Hatteras, while the sub's hatch is displayed at Cape Hatteras Lighthouse.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34 meters
+- **Maximum Depth**: 27 meters
 
 ## Marine Life
 

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Schooner Reaper (1899)
 
-The Schooner Reaper is a late 19th-century wooden schooner wreck situated near the Schooner Gertrude de Costa in the Shubenacadie Channel. At 26 meters depth, this historic wooden vessel remains well-preserved in the cold Atlantic environment. The site exemplifies Nova Scotia's age of sail heritage and offers excellent wreck exploration opportunities for advanced divers experienced in currents and cold water.
+The Schooner Reaper is a late 19th-century wooden schooner wreck situated near the Schooner Gertrude de Costa in the Halifax Harbour (outer channel, near McNabs Island). At 26 meters depth, this historic wooden vessel remains well-preserved in the cold Atlantic environment. The site exemplifies Nova Scotia's age of sail heritage and offers excellent wreck exploration opportunities for advanced divers experienced in currents and cold water.
 
 ## Overview
 

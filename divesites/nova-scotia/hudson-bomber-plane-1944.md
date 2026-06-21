@@ -13,11 +13,15 @@ addedBy: osm_import
 
 ## Hudson bomber plane (1944)
 
-A WWII-era Hudson bomber aircraft sunk in 1944 rests at 23 meters in the Shubenacadie Channel. This accessible aircraft wreck provides exploration of military aviation history in a cold Atlantic environment. The fuselage and components remain visible, offering unique dive experiences and photography opportunities. Strong tidal currents are characteristic of this location.
+A WWII-era Hudson bomber aircraft sunk in 1944 rests at 23 meters in the Halifax Harbour (outer channel, near McNabs Island). This accessible aircraft wreck provides exploration of military aviation history in a cold Atlantic environment. The fuselage and components remain visible, offering unique dive experiences and photography opportunities. Strong tidal currents are characteristic of this location.
+
+## SITE STATUS: Unconfirmed — Dive Site Status Not Established
+
+> **QA Note (2026-06-21):** The closest confirmed incident is a Lockheed Hudson Mk.I (serial 759, No. 11 Bomber Reconnaissance Squadron, RCAF) that "dove into the sea" at Eastern Passage, Nova Scotia on 15 July 1940 — both crew were killed. The "1944" date in the site name does not match this confirmed event. No salvage record was found for the 1940 crash. No Nova Scotia dive operator, dive guide, or dive forum lists a Hudson bomber as a named dive site near Halifax. The coordinates here appear to be derived from a chart obstruction marker or position estimate. This entry is retained for reference but should not be treated as a confirmed dive destination.
 
 ## Overview
 
-Hudson bomber plane (1944) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+RCAF Lockheed Hudson aircraft operated extensively from RCAF Station Dartmouth during World War II, conducting anti-submarine patrols over Halifax harbour approaches. The closest confirmed water crash is Hudson 759 (15 July 1940, Eastern Passage). No recreational dive operator in Nova Scotia lists a Hudson bomber as a named dive site.
 
 ## Site Information
 
@@ -45,4 +49,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [CASPIR — Hudson Mk.I 759 (1940)](https://caspir.warplane.com/), [SilverHawkAuthor — Canadian Warplanes: Lockheed Hudson](https://www.silverhawkauthor.com/post/canadian-warplanes-3-lockheed-hudson), [captainstevens.com — Hudson BW453 (1943)](https://captainstevens.com/lockheed-hudson-iii-bw453-j/). No confirmed 1944 water crash found; no dive operator lists this as a dive site. Last updated 2026-06-21.*

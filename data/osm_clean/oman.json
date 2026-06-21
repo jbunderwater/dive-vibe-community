@@ -7,15 +7,19 @@
     "osm_type": "node",
     "depth": 24,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "diving:entry": "yes",
       "name": "The Wall",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "pros-blog.padi.com,regal-diving.co.uk,beautifulsalalah.com",
+      "last_qa_date": "2026-06-21"
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Aquarium",
@@ -23,17 +27,22 @@
     "lon": 54.8045232,
     "osm_id": 306050015,
     "osm_type": "node",
-    "depth": 24,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "salalahoman22.com,pros-blog.padi.com,beautifulsalalah.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "Reclassified from wall to reef: site is a shallow coral garden with table corals and sandy channels, max ~15m. Shore accessible. The Aquarium at Hallaniyat (liveaboard site) is a different dive site."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "China Wreck (direction 150deg)",
@@ -41,17 +50,22 @@
     "lon": 54.707109,
     "osm_id": 306050042,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "China Wreck (direction 150deg)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "beautifulsalalah.com,regal-diving.co.uk,salalahoman22.com,muscatdaily.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "Depth corrected from 25m to ~12m (sources report 5-12m). Entry corrected to shore (100m from shore). Difficulty corrected to Beginner (shallow, shore access). Historical description in previous markdown was fabricated: '150-year-old steam-powered vessel' claim unverified; 'Portuguese steamship' origin unconfirmed. Vessel is unidentified. The Kiva/Kheva (1893 pilgrim ship) documented by Ministry is a separate wreck. Difficulty changed from Intermediate."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "ABT Salalah",
@@ -66,9 +80,13 @@
     "tags": {
       "name": "ABT Salalah",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validated": "false",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "UNRESOLVED: 'ABT Salalah' is the name of the dive operator (ABT Divers, Salalah), not a vessel name. No independently documented wreck by this name found. This may be a local operator name for the Marriott Wreck, or the Eftalqout/Aftalqout stranded ship near Salalah port, or another unnamed vessel. Cannot confirm vessel name, tonnage, sinking date, or cause from any sources. Marked unvalidated pending identification. Previous description fabricated marine life details not confirmed at this specific site."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "false",
+    "validation_source": "abtdivers.com - vessel identity unresolved; \"ABT Salalah\" is an operator name not a vessel name"
   },
   {
     "name": "Flamingo Beach: Side Entry",
@@ -78,15 +96,20 @@
     "osm_type": "node",
     "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: Side Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "pros-blog.padi.com,beautifulsalalah.com,salalahoman22.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "Entry corrected to shore (all Mirbat sites are shore-accessible per multiple sources). Reef classification confirmed."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Flamingo Beach: New Entry",
@@ -96,15 +119,20 @@
     "osm_type": "node",
     "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: New Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "pros-blog.padi.com,beautifulsalalah.com,salalahoman22.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "Entry corrected to shore. Reef classification confirmed. 'Leatherback turtle' claim stripped from previous markdown - no source confirms leatherbacks at this specific site."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Flamingo Beach: Beach Entry",
@@ -114,15 +142,19 @@
     "osm_type": "node",
     "depth": 15,
     "site_type": "reef",
-    "entry_type": "beach",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: Beach Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "pros-blog.padi.com,beautifulsalalah.com,salalahoman22.com",
+      "last_qa_date": "2026-06-21"
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Eagle Bay",
@@ -131,16 +163,21 @@
     "osm_id": 306112631,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "wreck",
-    "entry_type": "boat",
+    "site_type": "reef",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Eagle Bay",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "pros-blog.padi.com,beautifulsalalah.com,salalahoman22.com,padi.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "RECLASSIFIED from wreck to reef. Eagle Bay is a sheltered bay with sandy patch, coral bank on south side, and rocky outcrops on north side at 5-15m. Shore access. No wreck present. Named for eagles nesting in nearby rock face. Multiple independent sources confirm reef/bay character."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Dibba Rock Reef",
@@ -148,7 +185,7 @@
     "lon": 56.3508923,
     "osm_id": 3357581,
     "osm_type": "relation",
-    "depth": 18,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -159,8 +196,13 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "web_research"
-    }
+      "validation_source": "freestyledivers.me,visitmusandam.com,divers-guide.com",
+      "last_qa_date": "2026-06-21",
+      "qa_note": "Depth corrected from 18m to 16m (reef descends 7-16m). Beginner confirmed. Marine life corrected: removed blacktip reef sharks and spotted eagle rays as site-specific claims - sources confirm clownfish, parrotfish, turtles, moray eels, rays generally but shark species are regional. Note: site is on boundary of Oman/UAE border area near Dibba town; coordinates appear to be within Oman's territory per OSM data."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   },
   {
     "name": "Snoopy Island Reef",
@@ -168,10 +210,10 @@
     "lon": 56.3640027,
     "osm_id": 3357593,
     "osm_type": "relation",
-    "depth": 24,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
+    "entry_type": "both",
+    "difficulty": "Beginner",
     "tags": {
       "boundary": "protected_area",
       "name": "Snoopy Island Reef",
@@ -179,8 +221,12 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "web_research",
-      "note": "Located in UAE (Fujairah), not Oman. Coordinate error in OSM data."
-    }
+      "validation_source": "padi.com,freestyledivers.me,nemodivingcenter.com",
+      "last_qa_date": "2026-06-21",
+      "note": "Located in UAE (Fujairah), not Oman. Coordinate error in OSM data. Difficulty corrected from Advanced to Beginner: main Snoopy Island reef (5-15m) is beginner-friendly. The nearby 'Snoopy Deep Reef' at 24m requires Advanced certification - that is a separate site. Shore and boat access both possible."
+    },
+    "last_qa_date": "2026-06-21",
+    "validated": "true",
+    "validation_source": "abtdivers.com, scubaboard.com, omandive.com"
   }
 ]
