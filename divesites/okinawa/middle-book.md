@@ -3,66 +3,48 @@ name: Middle Book
 lat: 24.290812
 lng: 124.0955032
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 605500472
 addedBy: osm_import
 ---
 
-# Middle Book
+## Middle Book (ミドルブック)
 
-A reef formation in the Yaeyama Islands near Ishigaki, one of the nodes in a renowned manta ray cleaning station network that draws divers from around Japan.
+A classic sand and rubble macro site south of Taketomi Island, named after Japanese instructor Mr. Nakamoto ("naka" = middle, "moto" = origin). Known among Ishigaki dive operators for its resident shrimp gobies and the photogenic symbiotic pairings of hi-fin red-banded gobies with their snapping shrimp partners.
 
 ## Overview
 
-Middle Book (ミドルブック) is a reef feature in the Yaeyama Islands, the southernmost island group of Okinawa Prefecture, centred around Ishigaki-jima. The Yaeyama Islands are world-famous for manta ray encounters — the Sekisei Lagoon area and surrounding reefs host large populations of oceanic and reef manta rays that visit predictable cleaning stations. Middle Book is positioned within this manta encounter zone and is one of several reef features that form the mosaic of dive sites accessed from Ishigaki. The shallow maximum depth of 20 meters allows extended bottom time for manta observation, and the site's reef character supports a broader community of subtropical Yaeyama species alongside the headline manta encounters.
+Middle Book (ミドルブック) sits in the Yaeyama Islands near the southern tip of Taketomi Island in one of the most biodiverse marine environments in Japan. Unlike the famous manta ray cleaning stations at Kabira Ishizaki on Ishigaki's northwest coast, this site is a dedicated macro and muck site -- white sandy bottom with scattered Porites coral bommies (locally called "potato roots" for their bulbous shape) at depths of 3-15 metres. The site has a calm, sheltered character ideal for patient macro photography and extended 70-90-minute dives. Multiple dive operators in the Ishigaki area include Middle Book in their regular rotation specifically for goby enthusiasts and photographers who want to slow down and look for small subjects.
 
 ## Site Information
 
-- **Location**: Yaeyama Islands (Ishigaki area), Okinawa Prefecture, Japan
+- **Location**: South of Taketomi Island, Yaeyama Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sand/muck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Moderate; manta cleaning stations require some current
-- **Best Time**: October to April for manta ray season peak; year-round but best in winter months when manta populations are highest
+- **Maximum Depth**: 15 meters (typical working depth 10-15m)
+- **Typical Visibility**: 15-30 metres
+- **Current**: Generally mild
+- **Best Time**: Year-round; calmest in summer
 
 ## Marine Life
 
-Manta rays are the defining wildlife at Ishigaki-area sites. Reef mantas (*Mobula alfredi*) use the cleaning stations on these reefs throughout much of the year, with peak activity in autumn and winter. Mantas circle slowly over the reef while cleaner wrasse remove parasites — divers observe from a distance on the sandy floor without disturbing the behaviour. Beyond mantas, the reef supports hawksbill turtles, large parrotfish, and various snapper species. Spotted eagle rays are sometimes present. The reef surface hosts dense communities of anthias and chromis.
+Yasha gobies (Stonogobiops yasha) and hi-fin red-banded gobies (Stonogobiops nematodes) are the defining subjects, photographed at burrow entrances alongside their resident partner snapping shrimp. Garden eels populate sandy open areas. Scalefin anthias, damselfish, and small cardinalfish are resident around the coral bommies. Cuttlefish visit seasonally. The site's patient, low-traffic character means critters are undisturbed and reliably found at their burrow entrances.
 
 ## Dive Profile
 
-The dive strategy at manta cleaning station sites is to position quietly on the reef at 15–20 meters, facing the cleaning station, and wait with minimal movement. Approaching or chasing mantas causes them to leave; patient, non-threatening positioning produces the best encounters. Divers may wait 20–40 minutes at the station. The surrounding reef can be explored on the way to and from the station. Bottom time of 45–60 minutes is typical.
+Descend from the boat to the sandy bottom at 10-15 metres. Identify shrimp goby burrows in open sand patches and approach slowly -- these fish are skittish and retreat when startled. Work systematically around coral heads examining the sand at their bases. The shallow depth permits dives of 70-90 minutes, allowing thorough coverage at a slow pace. Ascend gradually and perform a safety stop in the 3-5 metre range.
 
 ## Entry and Exit
 
-Boat access from Ishigaki-jima pier. Multiple operators run daily manta diving trips to the Ishigaki manta circuit. Ishigaki Airport receives direct flights from Tokyo, Osaka, and other major Japanese cities, making it the most accessible of Okinawa's outer island dive hubs.
-
-## Tips
-
-- Kneel or hover motionlessly at the cleaning station rather than hovering above the manta's flight path
-- Mantas are sensitive to exhaled bubbles rising toward them — position to the side of the station rather than directly below
-- Operators brief specifically on manta encounter protocols — follow them precisely for both ethical and viewing effectiveness
-- Multiple dives at different manta sites on the same day maximise encounter probability; Ishigaki's circuit includes several cleaning stations
-- Winter months (October to March) have the most consistent manta presence — plan accordingly if mantas are the primary goal
-
-## Safety
-
-At a manta cleaning station, the main discipline is behavioural: never touch mantas, never approach closer than operator guidelines specify, and never block the manta's path to the surface. Buoyancy must be excellent — contact with the reef while waiting damages the coral and disturbs the cleaning station activity. Current varies; when it strengthens, grip the reef edge gently (with a bare finger on rock, not coral) to maintain position without drifting.
+Boat access from Ishigaki-jima. Multiple operators run day trips to the Taketomi Island area that include Middle Book in multi-site itineraries. Note: the famous manta ray cleaning stations are located at Kabira Ishizaki (Manta Scramble, Manta City) on Ishigaki's northwest coast, approximately 20 kilometres from this site -- they are separate dives typically requiring a dedicated manta-focused day trip.
 
 ## Photography
 
-Manta ray photography is the defining challenge at Ishigaki. Wide-angle lenses (10–17mm fisheye) capture the manta's full wingspan against the blue water backdrop. Shoot from slightly below the manta to show the wing planform against the surface light. Use continuous burst mode — mantas circle unpredictably and window of opportunity moments are brief. Natural light is usually preferable to strobes at cleaning station depths.
-
-## Additional Resources
-
-- **Ishigaki dive operators**: Multiple shops running daily manta circuits
-- **Manta ray research**: Ishigaki-jima hosts active manta research programs at the Kabira Bay research station
-- **Last Updated**: 2026-03-28
+A classic macro site. Use a 60mm or 100mm macro lens for shrimp gobies. Approach obliquely and descend slowly to avoid triggering retreat behaviour. The white sand provides clean, bright backgrounds. Wide-angle is less relevant here; the subjects are small and patient approach is rewarded with excellent close-focus frames.
 
 ---
-*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*
+*Sources: [Marine Diving Web - Ishigaki](https://en.marinediving.com/area/okinawa/ishigaki/), [EZDive Magazine - Ishigaki](https://www.ezdivemag.com/en/ishigaki-one-little-kingdom/), [Lokomaikai Diving - Point Map](https://lokomaikai.com/diving_map/). Last updated 2026-06-22.*
