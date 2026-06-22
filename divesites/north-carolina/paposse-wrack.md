@@ -17,7 +17,7 @@ Paposse (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-foot petroleum tanker torpedoed by U-124 on 19 March 1942 while carrying 65,000 barrels of heating oil — she now lies upside down in 38 metres about 36 nautical miles from shore, close enough to the Gulf Stream that visibility of 100 feet is achievable. The inverted hull creates dramatic swim-through opportunities beneath the massive structure, and the site is heavily trafficked by sand tiger sharks drawn to the wreck's dark underside; turtles, jacks, and stingrays round out the offshore marine community. The three-hour boat ride from Morehead City keeps the site relatively uncrowded despite its fame as one of North Carolina's great wreck dives.
+The wreck commonly called "Papoose" by divers is the W.E. Hutton — a 412-foot petroleum tanker torpedoed by U-124 on 18–19 March 1942, now lying upside down in approximately 38 metres (125 feet) about 36–38 nautical miles south of Morehead City. The Gulf Stream influence means visibility can reach 100 feet on good days. The inverted hull creates dramatic swim-through opportunities, and the site is known for sand tiger sharks drawn to the dark underside of the hull. The offshore distance and depth make this an Advanced dive requiring a charter from Morehead City or Beaufort.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-fo
 
 ## Marine Life
 
-Discovery Diving lists this wreck at 70 ft depth with typical visibility 30–40 ft and water temperature 76–82°F. The anchor, engine, rudder, and boilers are visible on the seabed and attract the inshore community of sheepshead, black sea bass, and amberjack typical of North Carolina wreck sites at this depth range.
+Sand tiger sharks are commonly reported at the W.E. Hutton site, drawn to the inverted hull's underside. Amberjack, jacks, and sea turtles are noted by local operators. Olympus Dive Center — which charters to this site — lists it as one of North Carolina's premier shark-encounter dives. No site-specific scientific marine life survey was found; species accounts above are sourced from dive operator trip reports.
 
 ## Wreck History — IDENTITY DISPUTED / CORRECTED
 
@@ -37,9 +37,9 @@ Discovery Diving lists this wreck at 70 ft depth with typical visibility 30–40
 
 The confusion originated with a 1943 US Coast Guard Gentian survey that incorrectly assigned wreck identities in the Cape Lookout area. For decades, divers believed this site was the tanker SS Papoose. In 2008, working with local divers and avocational researchers, NOAA re-identified the wrecks. The sites originally labelled as Mirlo, Papoose, W.E. Hutton, and San Delfino were reassigned as San Delfino, W.E. Hutton, Ario, and Papoose respectively.
 
-**The actual W.E. Hutton:** A steel tanker built in 1920 (435 ft, 7,076 GRT), originally named Portola Plumas and later purchased by Pure Oil Steamship Company. On 19 March 1942 she was struck by two torpedoes from German U-124 while carrying 65,000 barrels of heating oil from Texas to Pennsylvania. Of 36 crew, 23 survived and 13 died. NOAA multibeam sonar surveys in 2016 confirmed the hull identity. The wreck lies in approximately 125 ft of water (per NOAA), though Discovery Diving lists the dive site at 70 ft — sources vary and the site appears to have partial relief rising significantly above the seafloor.
+**The actual W.E. Hutton:** A steel tanker (412 ft long, 5,939 GRT), torpedoed by U-124 on 18–19 March 1942. The wreck lies approximately inverted in about 120–125 ft (37–38 m) of water, confirmed by NOAA multibeam sonar surveys. The site is 36–38 nautical miles south of Morehead City and served by Olympus Dive Center and other Morehead City/Beaufort charters.
 
-**The actual Papoose:** A different tanker torpedoed by U-124 on 18 March 1942 (one day earlier), now confirmed to lie in approximately 200 ft of water northeast of Cape Hatteras — well beyond recreational diving limits.
+**The actual Papoose:** A different tanker (412 ft, 5,939 GRT) torpedoed by U-124 on 18 March 1942, now confirmed by NOAA to lie in approximately 200 ft of water northeast of Cape Hatteras — well beyond recreational diving limits. Of 34 crew, 32 survived.
 
 ## Dive Profile
 
