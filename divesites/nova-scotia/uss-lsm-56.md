@@ -15,7 +15,7 @@ addedBy: osm_import
 
 **Location note:** This wreck is located in the **Musquash Estuary, New Brunswick** (not Nova Scotia or Passamaquoddy Bay, despite the Nova Scotia dataset listing). The OSM coordinates (45.1931°N, 66.2717°W) place this site in the Saint John area of New Brunswick, near the Musquash Estuary.
 
-USS LSM-56 was a US Navy Landing Ship Medium (LSM) — 203 ft 6 in (62 m) long, displacing 520 tons light — decommissioned in 1946 and sold as surplus in 1947 to the St. John Tugboat Company of New Brunswick. Scrapping operations were begun around 1960 but abandoned partway through, leaving the hull at the Musquash Estuary where it remains. The vessel is visible at low tide and has become a point of interest for local divers and kayakers. A companion unidentified LSM and the USS LSM-46 are located nearby.
+USS LSM-56 was a US Navy Landing Ship Medium (LSM) — 203 ft 6 in (62 m) long, displacing 520 tons light — decommissioned in 1946 and sold as surplus in 1947 to the St. John Tugboat Company of New Brunswick. The vessel was put out of service around 1960 (the exact abandonment date is unknown per the UNB Maritime Heritage Project), with scrapping abandoned mid-process, leaving the hull at the Musquash Estuary where it remains. The UNB database describes "two beached hulks" and "one submerged craft" at this location; which of these is LSM-56 specifically is not confirmed in sources consulted. A companion unidentified LSM and the USS LSM-46 are located nearby.
 
 ## Overview
 

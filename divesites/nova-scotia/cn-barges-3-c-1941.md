@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## CN Barges (3), c. 1941
 
-Three Canadian National Railway barges dating to approximately 1941 form this interesting multi-wreck site in the Shubenacadie Channel at 24 meters depth. The barges offer both external exploration and limited penetration opportunities. The site is significant to Nova Scotia's industrial maritime history and provides excellent opportunities to observe how multiple vessels interact on the seafloor. Expect moderate-to-strong currents.
+Three barges associated with CN (likely Canadian National Railway or Canadian National Steamships) are recorded as lying at approximately 24 meters in Halifax Harbour (coordinates near McNabs Island). The Bedford Institute of Oceanography's Halifax Harbour shipwrecks database documents multiple barges in Bedford Basin and Halifax Harbour from the WWII era, consistent with this entry. No dive operator (East Coast Scuba, Torpedo Rays) currently lists these barges as active dive sites; no named individual records for these vessels were found in online databases.
 
-## Overview
-
-CN Barges (3), c. 1941 is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**Previous versions described these as "in the Shubenacadie Channel" — the coordinates (44.6239°N, 63.5393°W) place this in Halifax Harbour near McNabs Island/South End Container Terminal area.**
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+Three barges dated to approximately 1941. "CN" most likely refers to Canadian National Railway, which operated marine services including cargo barges. Halifax Harbour saw significant industrial and military maritime activity during WWII. Individual barge names, dimensions, and circumstances of loss are not confirmed in accessible online records. Verification would require consulting the Maritime Museum of the Atlantic or the Bedford Institute shipwrecks database directly.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Cold Atlantic water (4–15°C) requires a drysuit
+- Halifax Harbour has vessel traffic; use a dive flag and SMB
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Description based on OSM data and regional Halifax Harbour context. No dive-specific sources found. Consult [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database) for historical verification. Last updated 2026-06-22.*
