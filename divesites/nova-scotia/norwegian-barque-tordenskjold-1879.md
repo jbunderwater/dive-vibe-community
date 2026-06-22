@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## Norwegian barque Tordenskjold (1879)
 
-The Norwegian barque Tordenskjold is a 19th-century sailing ship wreck that exemplifies Scandinavian maritime heritage in Nova Scotia waters. Sunk in 1879, the vessel rests at 29 meters in the Shubenacadie Channel with excellent preservation of wooden structures. The wreck offers outstanding exploration of wooden shipbuilding and mid-Atlantic sailing techniques. Strong currents require advanced experience.
+**Verification status: UNCONFIRMED.** No independent source was found confirming a Norwegian merchant barque named Tordenskjold wrecked in Nova Scotia in 1879. The name "Tordenskjold" (honoring Norwegian/Danish admiral Peder Tordenskjold, 1690–1720) was used for multiple vessels, but none connect to a Nova Scotia merchant barque loss in 1879 in any accessible database (Wikipedia List of Shipwrecks 1879, East Coast Scuba, nsshipwrecks.ca, Nova Scotia government shipwreck CSV). The Maritime Museum of the Atlantic "On the Rocks" database (5,000+ Nova Scotia shipwrecks) no longer provides accessible individual record pages online; verification would require direct access to the Maritime Museum or Nova Scotia Archives.
 
-## Overview
-
-Norwegian barque Tordenskjold (1879) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Norwegian barque traffic to Halifax was historically common in the 1870s, and such a wreck is plausible. The coordinates (44.6052°N, 63.5288°W) place this in Halifax Harbour near McNabs Island. However, in the absence of independent source confirmation, the vessel name, date, nationality, and vessel type should all be treated as unverified.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour near McNabs Island, Nova Scotia (coordinates unconfirmed as dive site)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 29 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Maximum Depth**: 29 meters (unconfirmed)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+Unverified. No independent source was found confirming the vessel name, nationality, rig type, build date, or sinking circumstances. This entry originates from OSM data. To verify, consult the Maritime Museum of the Atlantic (https://maritimemuseum.novascotia.ca/research/shipwreck-database) or the Nova Scotia Archives shipwrecks collection (https://archives.novascotia.ca/shipwrecks/).
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Unverified dive site — verify with local Nova Scotia operators before planning a dive
+- Cold Atlantic water (4–15°C) requires a drysuit
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*No independent sources confirming this vessel or dive site were found. For verification, consult [Maritime Museum of the Atlantic — Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database) or [Nova Scotia Archives Shipwrecks](https://archives.novascotia.ca/shipwrecks/). Last updated 2026-06-22.*
