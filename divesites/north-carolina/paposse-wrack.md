@@ -43,19 +43,19 @@ The confusion originated with a 1943 US Coast Guard Gentian survey that incorrec
 
 ## Dive Profile
 
-Discovery Diving lists the site at 65–70 ft depth with 30–40 ft typical visibility. The wreck has limited relief with the anchor, engine, rudder, and boilers as the most prominent structures. This is a novice-to-intermediate site given the shallower depth compared to the deep offshore wrecks. The site lies approximately 13.8 miles from Beaufort Inlet.
+The W.E. Hutton lies inverted in approximately 120–125 ft (37–38 m) of water, about 36–38 nautical miles south of Morehead City. The inverted hull provides extensive swim-through territory. Gulf Stream proximity means visibility can reach 60–100 ft on good days. This is a deep recreational dive requiring Nitrox or careful air management. Charter boats from Morehead City and Beaufort serve this site — typical round-trip transit is 2–3 hours.
 
 ## Entry and Exit
 
-Charter access from Beaufort or Morehead City. Discovery Diving serves this site and lists it as a novice-intermediate dive. Approximately 13.8 miles from Beaufort Inlet — significantly closer inshore than the deep offshore wrecks.
+Charter access only from Morehead City or Beaufort. Olympus Dive Center (Morehead City) runs regular charters to this site. No shore access is possible given the 36–38 mile offshore position.
 
 ## Tips and Recommendations
 
-Understand before diving that the "Papoose" name is a historical misnomer — you are diving the W.E. Hutton. The site offers a good introduction to North Carolina wreck diving at a shallower, more accessible depth than the famous offshore sites. Discovery Diving offers good briefings on the site's corrected identity.
+Understand before diving that the "Papoose" name is a historical misnomer — you are diving the W.E. Hutton. This is a deep offshore dive; Nitrox certification and advanced dive planning are strongly recommended. Confirm current conditions with the charter operator before booking — sea state at this offshore distance can cancel charters.
 
 ## Safety Considerations
 
-The shallower depth (70 ft) makes this more forgiving than the deep offshore wrecks, though offshore North Carolina conditions still require appropriate planning and charter experience. Currents can run in the open water between Beaufort Inlet and the site.
+At 120–125 ft this site approaches the recreational diving limit — Nitrox is recommended to extend safe bottom time. The offshore location (36–38 miles from Beaufort Inlet) means weather and sea conditions can change rapidly. Always follow charter operator guidance on dive planning for this site.
 
 ---
-*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [NOAA Monitor Sanctuary — W.E. Hutton](https://monitor.noaa.gov/shipwrecks/hutton.html), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Scuba Diver Life — Preserving W.E. Hutton](https://scubadiverlife.com/preserving-americas-underwater-battlefield-w-e-hutton/). Last updated 2026-05-17.*
+*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [NOAA Monitor Sanctuary — W.E. Hutton](https://monitor.noaa.gov/shipwrecks/hutton.html), [Olympus Dive Center — Papoose (aka WE Hutton)](https://olympusdiving.com/papoose), [NC Wreck Diving — Papoose](http://www.nc-wreckdiving.com/WRECKS/PAPOOSE/PAPOOSE.HTML). Last updated 2026-06-22.*
