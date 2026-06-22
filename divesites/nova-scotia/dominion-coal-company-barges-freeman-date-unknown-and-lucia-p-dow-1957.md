@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
 
-Two coal barges comprise this dual-wreck site in the Shubenacadie Channel at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
+Two barges associated with the Dominion Coal Company lie at approximately 22 meters in Halifax Harbour. The coordinates (44.6045°N, 63.5124°W) place this site near McNabs Island — not in the Shubenacadie Channel as previously described. No independent source confirming the individual barge names (Freeman, Lucia P. Dow), the 1957 sinking date for the Lucia P. Dow, or the dive depth was found in accessible databases. No dive operator currently lists these as active dive sites.
 
-## Overview
-
-Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**Previous versions described these as "in the Shubenacadie Channel" — the coordinates place this in Halifax Harbour near McNabs Island.**
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Maximum Depth**: 22 meters (unconfirmed)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+The Dominion Coal Company operated collieries throughout Cape Breton and used barges to transport coal to Halifax and other ports. A barge named "Freeman" (date of loss unknown) and another named "Lucia P. Dow" (1957) are recorded in this OSM entry. Individual vessel details, dimensions, and confirmed circumstances of loss are not documented in accessible sources. Verification would require the Maritime Museum of the Atlantic shipwreck database or Nova Scotia Archives.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Cold Atlantic water (4–15°C) requires a drysuit
+- Halifax Harbour has vessel traffic; use a dive flag and SMB
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Description based on OSM data. No dive-specific or historical sources confirmed. Consult [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database) for verification. Last updated 2026-06-22.*
