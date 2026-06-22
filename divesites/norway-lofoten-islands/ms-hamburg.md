@@ -29,7 +29,7 @@ Note: The wreck's exact length has not been independently verified to two source
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Wreck Year**: 1941
 
 ---

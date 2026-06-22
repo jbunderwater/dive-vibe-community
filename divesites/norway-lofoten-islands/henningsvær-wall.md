@@ -31,7 +31,7 @@ Water temperature ranges from approximately 4°C in winter to 12–15°C in summ
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 metres
+- **Maximum Depth**: 28 meters
 
 ---
 *No site-specific sources for Henningsvær Wall were located. Description reflects Lofoten regional wall diving characteristics. Sources consulted: [X-Ray Mag — Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Lofoten Diving](https://lofoten-diving.no/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). Last updated 2026-06-22.*

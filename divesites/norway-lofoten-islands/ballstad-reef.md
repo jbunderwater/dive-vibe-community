@@ -25,9 +25,9 @@ Water temperature ranges from approximately 4°C in winter to 12–14°C in summ
 
 - **Location**: Ballstad, Vestvågøy, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / canyon
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 
 ---
 *Sources: [X-Ray Mag — Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Lofoten Diving](https://lofoten-diving.no/). Last updated 2026-06-22.*

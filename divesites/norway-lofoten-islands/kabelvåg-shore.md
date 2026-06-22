@@ -31,7 +31,7 @@ Kabelvåg is also a gateway to deeper offshore diving through local operators: t
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 
 ---
 *No site-specific sources for Kabelvåg Shore were located. Description reflects Lofoten regional cold-water reef characteristics. Sources consulted: [Lofoten Diving](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). Last updated 2026-06-22.*

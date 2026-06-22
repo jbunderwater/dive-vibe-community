@@ -31,7 +31,7 @@ For the shore dive itself: the harbour bottom is rocky reef with kelp and sand. 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 
 ---
 *No site-specific sources for Svolvær Harbor shore diving were located. Description reflects Lofoten regional harbour diving characteristics. Sources consulted: [X-Ray Mag — Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). Last updated 2026-06-22.*

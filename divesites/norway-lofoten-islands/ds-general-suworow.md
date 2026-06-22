@@ -27,7 +27,7 @@ No historical claims about this vessel are made here pending verification from a
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres (per OSM data; unverified against independent sources)
+- **Maximum Depth**: 18 meters
 
 ---
 *No site-specific written sources were located for D/S General Suworow. The OSM entry (node 11673361278) records wreck:date_sunk as 1919-08-05. A YouTube video confirms diving activity at this site but provides no vessel history. Last updated 2026-06-22.*

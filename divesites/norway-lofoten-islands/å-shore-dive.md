@@ -2,7 +2,7 @@
 name: Å Shore Dive
 lat: 67.878
 lng: 12.98
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 10
 entryType: shore
 siteType: reef
@@ -17,43 +17,21 @@ addedBy: osm_import
 
 ## Overview
 
-Å (pronounced "Aw") is the southernmost village in Lofoten and one of Norway's most-visited fishing communities, known for its preserved 18th and 19th century rorbuer (fishing cabins). The shore dive here is at the very end of European Route E10, one of the most scenic roads in Norway. Diving from Å places you at the outermost edge of the archipelago, where Atlantic waters mix with the coastal shallows around small islands and skerries.
+Å (pronounced "Aw") is the southernmost village in Lofoten and one of Norway's most-visited fishing communities. The shore dive here is at the very end of European Route E10. The maximum depth of 10 metres makes this a shallow site; however, it is cold Arctic water year-round and is not suitable for beginner divers without cold-water experience.
 
-The maximum depth of 10 metres makes this a suitable site for beginners to cold-water diving and certified divers building experience in Norwegian conditions. The bottom consists of rocky reef, kelp beds, and sand patches in a sheltered harbour or adjacent coastal setting. Laminaria kelp forest dominates the shallow zone, and the kelp canopy provides habitat for a variety of cold-water species: small pollock and saithe school in the open water, while crabs, sea urchins, and sea anemones occupy the rocky substrate beneath. Nudibranchs can be found on kelp holdfasts.
+No site-specific sources confirming conditions or marine life at Å Shore Dive were located during research. The description below reflects general characteristics of the Å/Moskenesøya coastal environment.
 
-The primary limitation is depth — at 10 metres, bottom time is generous but the site does not offer the dramatic wall or deeper wreck experiences found at other Lofoten sites. Its value lies in accessibility for beginners, the picturesque setting, and the genuinely wild Atlantic character of the location. Water temperature is 4–10°C depending on season; drysuit is strongly recommended year-round.
+The bottom is rocky reef and kelp beds typical of this part of Lofoten. Laminaria kelp forest dominates the shallow zone. Species typical of Lofoten shallow reef (pollock, saithe, small cod, shore crabs, sea urchins, anemones) are likely present. Water temperature is 4–10°C depending on season; drysuit is strongly recommended year-round. Shore entry on rocky Atlantic coastline requires appropriate footwear and care.
 
-## Dive Profile
-
-- **Entry**: Shore entry
-- **Depth range**: 0–10 m
-- **Bottom composition**: Kelp reef, rocky substrate, sand
-- **Conditions**: Generally sheltered; mild current; wave exposure possible in bad weather
-- **Water temperature**: 4°C (winter) to 10°C (summer)
-- **Visibility**: 10–20 m; better in winter and spring
-- **Thermal protection**: Drysuit strongly recommended
-
-## Marine Life
-
-- **Fish**: Pollock, saithe, small cod, lumpfish
-- **Invertebrates**: Shore crabs, sea urchins, Dahlia anemones, dead man's fingers, nudibranchs on kelp
-- **Kelp**: Dense Laminaria hyperborea forest throughout
-
-## Safety
-
-Cold water and remote location require appropriate preparation. Drysuit is recommended. Entry/exit on rocky Norwegian shoreline requires appropriate footwear and care.
+The site's value lies in its accessibility and the genuinely wild Atlantic character of the location rather than dramatic topography.
 
 ## Site Information
 
 - **Location**: Å, Moskenes, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
-
 ---
-*Sources: [Lofoten Diving — dive operations](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). No site-specific sources for Å Shore Dive were located; description reflects Lofoten regional shore diving characteristics. Last updated 2026-05-17.*
+*No site-specific sources for Å Shore Dive were located. Description reflects Lofoten regional shore diving characteristics. Sources consulted: [Lofoten Diving](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). Last updated 2026-06-22.*
