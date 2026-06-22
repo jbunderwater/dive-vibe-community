@@ -14,7 +14,8 @@
       "name:en": "Sunabe",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "fluidlevitation.com,livefordiving.com,scubaboard.com,sunkisseddivers.com,divers7okinawa.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -23,15 +24,16 @@
     "lon": 124.0955032,
     "osm_id": 605500472,
     "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Middle Book",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,ezdivemag.com,lokomaikai.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -47,8 +49,9 @@
     "tags": {
       "name": "Ukon Denchi",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -57,10 +60,10 @@
     "lon": 125.1794846,
     "osm_id": 9280279106,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 18,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "ハナダイの根",
       "name:en": "Hanadainone",
@@ -70,7 +73,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingpoint.net,miyako-aquaticadventure.com,bigholiday-miyakojima.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -91,7 +95,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,divingpoint.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -112,7 +117,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,divingpoint.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -124,7 +130,7 @@
     "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "L字アーチ",
       "name:en": "L-Achi",
@@ -133,7 +139,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,divingpoint.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -155,7 +162,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,divingpoint.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -176,7 +184,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,divingpoint.net,bigholiday-miyakojima.com,marea-miyako.jp",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -185,7 +194,7 @@
     "lon": 125.1350391,
     "osm_id": 9280303157,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -198,7 +207,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "miyako-aquaticadventure.com,bigholiday-miyakojima.com,divessi.com,gltjp.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -223,7 +233,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,visitokinawajapan.com,uw360.asia",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -248,7 +259,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -276,7 +288,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -301,7 +314,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,visitokinawajapan.com,gobies.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -326,7 +340,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingpoint.net,gobies.net,en.marinediving.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -351,7 +366,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "4travel.jp,gobies.net,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -376,7 +392,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingpoint.net,en.marinediving.com,gobies.net",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -403,7 +420,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingpoint.net,gobies.net,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -428,7 +446,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "en.marinediving.com,gobies.net,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -453,7 +472,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -478,7 +498,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -503,7 +524,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -528,7 +550,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "visitokinawajapan.com,uw360.asia,en.marinediving.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -553,7 +576,8 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "gobies.net,en.marinediving.com,visitokinawajapan.com",
+      "last_qa_date": "2026-06-22"
     }
   }
 ]

@@ -25,7 +25,7 @@ One noted ScubaBoard comment references local diving lore of "that elusive Hudso
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 23 meters (unconfirmed)
+- **Maximum Depth**: 23 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History

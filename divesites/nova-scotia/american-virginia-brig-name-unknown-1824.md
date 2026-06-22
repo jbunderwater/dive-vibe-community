@@ -23,7 +23,7 @@ An American brig wrecked in Nova Scotia in 1824 is historically plausible — th
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (unconfirmed)
+- **Maximum Depth**: 30 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History

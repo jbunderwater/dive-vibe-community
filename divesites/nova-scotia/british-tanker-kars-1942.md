@@ -27,7 +27,7 @@ The Kars was an 8,888 GRT British motor tanker built in 1939 by Blythswood Shipb
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters (per OSM; unconfirmed by dive operator)
+- **Maximum Depth**: 28 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Marine Life

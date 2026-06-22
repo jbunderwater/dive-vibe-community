@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Pugwash Reef
 
-Pugwash Reef is a shallow-moderate reef at 15-20 meters in the Northumberland Strait, offering excellent entry-level intermediate diving. The site features harbor seal habitat, stable conditions, and good visibility. An ideal location for intermediate divers building Atlantic experience.
+Pugwash Reef is a submerged reef feature at approximately 18 meters in the Northumberland Strait off Pugwash, Cumberland County, Nova Scotia. The site is documented in OSM nautical data. No dive operator, ScubaBoard, or dive site aggregator lists Pugwash Reef as an active recreational dive site. The Northumberland Strait between Nova Scotia and Prince Edward Island is generally shallower and warmer than the open Atlantic coast, but no specific dive community documentation was found for this location.
+
+**The previous description claimed the site "features harbor seal habitat" — this was unconfirmed and has been removed.**
 
 ## Overview
 
-Pugwash Reef is a reef dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Pugwash Reef is a reef dive site in the Northumberland Strait, Nova Scotia. The strait's waters are typically warmer than the open Atlantic (summer surface temperatures reaching 18–20°C) but still require appropriate thermal protection at depth.
 
 ## Site Information
 

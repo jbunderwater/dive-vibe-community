@@ -23,7 +23,7 @@ The "1952" date in the site name, the claim that it is a dive site at 25 meters,
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History

@@ -23,7 +23,7 @@ Two barges associated with the Dominion Coal Company lie at approximately 22 met
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters (unconfirmed)
+- **Maximum Depth**: 22 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History

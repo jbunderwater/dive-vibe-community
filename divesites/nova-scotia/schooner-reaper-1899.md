@@ -23,7 +23,7 @@ No dive operator (East Coast Scuba, Torpedo Rays) lists the Schooner Reaper as a
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 meters (unconfirmed)
+- **Maximum Depth**: 26 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History

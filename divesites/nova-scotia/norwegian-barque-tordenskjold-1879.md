@@ -23,7 +23,7 @@ Norwegian barque traffic to Halifax was historically common in the 1870s, and su
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 29 meters (unconfirmed)
+- **Maximum Depth**: 29 meters
 - **Water Temperature**: 4–15°C (winter–summer)
 
 ## Wreck History
