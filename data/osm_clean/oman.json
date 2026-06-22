@@ -14,7 +14,8 @@
       "name": "The Wall",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "regal-diving.co.uk, pros-blog.padi.com, beautifulsalalah.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -24,15 +25,16 @@
     "osm_id": 306050015,
     "osm_type": "node",
     "depth": 24,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "bluewaterdivetravel.com, offbeatenwaves.com, pros-blog.padi.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -43,14 +45,15 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "China Wreck (direction 150deg)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "beautifulsalalah.com, pros-blog.padi.com, regal-diving.co.uk",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -66,8 +69,10 @@
     "tags": {
       "name": "ABT Salalah",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "pros-blog.padi.com, beautifulsalalah.com",
+      "last_qa_date": "2026-06-22",
+      "note": "Vessel name, build date, and sinking history unverified across 2+ independent sources. Site likely refers to a wreck near Salalah associated with ABT Divers operations but specific vessel identification not confirmed."
     }
   },
   {
@@ -85,7 +90,8 @@
       "name": "Flamingo Beach: Side Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "pros-blog.padi.com, beautifulsalalah.com, regal-diving.co.uk",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -103,7 +109,8 @@
       "name": "Flamingo Beach: New Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "pros-blog.padi.com, beautifulsalalah.com, regal-diving.co.uk",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -121,7 +128,8 @@
       "name": "Flamingo Beach: Beach Entry",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "pros-blog.padi.com, beautifulsalalah.com, regal-diving.co.uk",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -131,7 +139,7 @@
     "osm_id": 306112631,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "wreck",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -139,7 +147,8 @@
       "name": "Eagle Bay",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "pros-blog.padi.com, beautifulsalalah.com, abtdivers.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -148,7 +157,7 @@
     "lon": 56.3508923,
     "osm_id": 3357581,
     "osm_type": "relation",
-    "depth": 18,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -159,7 +168,8 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "visitmusandam.com, divers-guide.com, scubaboard.com",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -168,19 +178,20 @@
     "lon": 56.3640027,
     "osm_id": 3357593,
     "osm_type": "relation",
-    "depth": 24,
+    "depth": 7,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "boundary": "protected_area",
       "name": "Snoopy Island Reef",
       "name:en": "Snoopy Island Reef",
       "sport": "scuba_diving",
       "type": "multipolygon",
-      "validated": "true",
-      "validation_source": "web_research",
-      "note": "Located in UAE (Fujairah), not Oman. Coordinate error in OSM data."
+      "validated": "false",
+      "validation_source": "padi.com, wikipedia.org, visitmusandam.com",
+      "last_qa_date": "2026-06-22",
+      "note": "Located in UAE (Fujairah/Al Aqah), not Oman. Coordinate error in OSM data. Confirmed UAE territory by PADI, Wikipedia, and multiple UAE tourism sources. Difficulty corrected from Advanced to Beginner (max depth ~7m). The Advanced/24m entry may refer to the nearby Snoopy Deep Reef artificial reef, a separate site."
     }
   }
 ]
