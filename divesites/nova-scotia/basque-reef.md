@@ -13,36 +13,28 @@ addedBy: osm_import
 
 ## Basque Reef
 
-Named after the historic Basque fishing grounds that operated in these waters, Basque Reef sits in 35-40 meters at the continental shelf edge. This offshore site features exposed rocky structures, strong currents, and rich Atlantic marine life including Atlantic wolffish, halibut, and deep-water species. The site represents centuries of maritime history in these productive waters. Advanced training and extensive cold-water experience required.
+Basque Reef is a submerged reef feature in Cape Breton waters at approximately 36 meters, documented in OSM nautical data. The reef name and location (45.576°N, 60.643°W — near Judique, Inverness County, Cape Breton) are consistent with the Chedabucto Bay / northern Cape Breton coast area. No dive operator, ScubaBoard post, or dive site aggregator lists Basque Reef as an active recreational dive site; it appears to be a named navigational hazard from nautical charts rather than a confirmed dive destination.
 
-## Overview
-
-Basque Reef is a reef dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**The previous description claimed the reef was "named after the historic Basque fishing grounds" — this connection to Basque fishing history is unconfirmed and has been removed.**
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Cape Breton coast near Judique, Inverness County, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
 
 ## Marine Life
 
-Regional marine life in Nova Scotia waters includes Atlantic wolffish, cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Kelp beds are common in shallower rocky areas. No site-specific species reports were found for this site.
-
-## Entry and Exit
-
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+No site-specific species reports were found for this site. Regional species in Cape Breton waters include Atlantic cod, Atlantic wolffish, rock crab, lobster, and green sea urchin.
 
 ## Tips and Recommendations
 
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Cold Atlantic water (4–15°C) requires a drysuit
+- Offshore site: check sea conditions carefully; this area is exposed to the open Atlantic
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Description based on OSM data (osmId: 1238036783). No site-specific sources found. Last updated 2026-06-22.*
