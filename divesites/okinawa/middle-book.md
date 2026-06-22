@@ -23,9 +23,9 @@ Middle Book (ミドルブック) sits in the Yaeyama Islands near the southern t
 
 - **Location**: South of Taketomi Island, Yaeyama Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Sand/muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (typical working depth 10-15m)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Generally mild
 - **Best Time**: Year-round; calmest in summer

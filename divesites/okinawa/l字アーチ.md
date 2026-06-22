@@ -2,7 +2,7 @@
 name: L字アーチ
 lat: 24.8666616
 lng: 125.163257
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ L Arch delivers Irabu Island's most dramatic underwater scenery. The main featur
 - **Location**: Irabu Island, Miyako-jima, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 metres
 - **Current**: Variable
@@ -32,7 +32,7 @@ L Arch delivers Irabu Island's most dramatic underwater scenery. The main featur
 
 ## Marine Life
 
-Giant trevally are the signature residents, almost always present under the arch. Occasional sightings of manta rays, Napoleon wrasse, sea turtles, whitetip reef sharks, and dogtooth tuna. The cave system harbours anemonefish, shrimp, and crabs. Anthias cloud the arch ceilings.
+Giant trevally (rounin-aji) are the reliable residents, almost always circling under the arch. In early summer, dense schools of glassy sweepers (kinme-modoki) concentrate in the arch cavity. The adjacent Warp Hole cave harbours ornate spiny lobsters, red soldierfish, and crabs. Occasional sightings of whitetip reef sharks, dogtooth tuna, Napoleon wrasse, sea turtles, and eagle rays. Anthias cloud the arch ceilings.
 
 ## Dive Profile
 
@@ -40,11 +40,11 @@ Descend to the reef and follow it to the L-shaped arch at 20 metres. Drop below 
 
 ## Safety Considerations
 
-AOW certification required. The 35-metre depth under the arch demands good gas management. The dynamic topography requires confident buoyancy control. Current can affect the site.
+Advanced Open Water certification required; some operators require 50+ logged dives. The full dive range of 5-40m with the arch section at 35m demands excellent gas management. Strong current is possible. The complex topography requires confident buoyancy control. Advanced classification is appropriate -- this is among Irabu's most demanding sites.
 
 ## Photography
 
 Wide-angle captures the arch scale with trevally silhouetted against the blue. The L-shape itself is best photographed from the side at a distance. Macro opportunities in the Warp Hole cave section.
 
 ---
-*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Oki-Raku - Miyako Dive Spots](https://oki-raku.net/diving/miyako/diving_spot/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [BIGHOLIDAY - Irabu Island](https://bigholiday-miyakojima.com/en/diving/point/irabujima), [Marine Diving Web - Miyako](https://en.marinediving.com/area/okinawa/miyako/). Last updated 2026-06-22.*

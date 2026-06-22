@@ -11,9 +11,9 @@ osmId: 9280279109
 addedBy: osm_import
 ---
 
-## W字アーチ (W Arch)
+## W字アーチ (W Arch / Double Arch)
 
-A shallow, beginner-friendly topographical site on Irabu Island featuring twin arches at the reef edge. The main arch forms a heart shape when viewed from below at certain angles, making this one of Miyako's most-photographed dive sites.
+A shallow, beginner-friendly topographical site on Irabu Island featuring twin adjacent arches. Also called "Double Arch" by some local operators. The main arch frames a heart-shaped opening against the blue water when viewed from below -- one of Miyako's most-photographed dive sites and the standard beginner introduction to Irabu's topographic diving.
 
 ## Overview
 
@@ -32,7 +32,7 @@ W Arch is the gentlest introduction to Miyako-jima's famous topographical diving
 
 ## Marine Life
 
-Longnose hawkfish perch in the arch crevices. Shrimp, crabs, and nudibranchs populate the small cave behind the arches. The surrounding reef hosts anthias, butterflyfish, and damselfish. Moray eels are common in the rock holes.
+Large schools of red soldierfish (akamatsukasa) inhabit the interior cavern behind the arches. Slipper lobsters and ornate spiny lobsters are found in crevices. Flame file shells, cleaner shrimp, and devil scorpionfish occupy the cavern walls. Nudibranchs line the arch walls. The surrounding reef hosts anthias and damselfish.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ Suitable for Open Water divers. Moderate current is possible. The arches are ope
 The heart-shaped arch silhouette is the signature wide-angle shot -- position below and shoot up against the blue. Macro opportunities in the rear cave. Morning light produces the best colours through the arches.
 
 ---
-*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Visit Okinawa - Miyako Diving](https://visitokinawajapan.com/discover/dive-sites-okinawa/miyako-diving/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [BIGHOLIDAY - Irabu Island](https://bigholiday-miyakojima.com/en/diving/point/irabujima), [Marine Diving Web - Miyako](https://en.marinediving.com/area/okinawa/miyako/). Last updated 2026-06-22.*

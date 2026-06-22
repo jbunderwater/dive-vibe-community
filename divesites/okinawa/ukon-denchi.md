@@ -25,9 +25,9 @@ Coordinates place the site in the Sekisei Lagoon area south of Taketomi Island -
 
 - **Location**: South Taketomi Island area, Yaeyama Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (unconfirmed)
-- **Difficulty Level**: Intermediate (unconfirmed)
-- **Maximum Depth**: 20 meters (unconfirmed)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Validation Status
 
