@@ -153,11 +153,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "archaeology.ncdcr.gov/uab/heritage-dive-sites/huron, divebuddy.com/divesite/1893/uss-huron, obxguides.com/uss-huron-shipwreck",
+    "validation_source": "archaeology.ncdcr.gov,en.wikipedia.org,dncr.nc.gov,outerbankscoastallife.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
       "name": "USS Huron Shipwreck",
+      "last_qa_date": "2026-06-22",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "ship": "yes",
@@ -187,8 +188,10 @@
       "seamark:wreck:water_level": "submerged",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-06-22",
+      "qa_note": "Vessel identity unconfirmed. Prior validation_source was 'perplexity' (not acceptable). No site-specific sources found. Contact NC Underwater Archaeology Branch for confirmed site data."
     },
     "depth_max": 20
   },
@@ -203,9 +206,10 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/bedfordshire.html, nc-wreckdiving.com/WRECKS/BEDFORD, scubadiverlife.com HMT Bedfordshire",
+    "validation_source": "monitor.noaa.gov,en.wikipedia.org,nc-wreckdiving.com,scubadiverlife.com",
     "tags": {
       "heritage": "2",
+      "last_qa_date": "2026-06-22",
       "heritage:operator": "nrhp",
       "historic": "maritime",
       "name": "HMT Bedfordshire",
@@ -230,9 +234,10 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "outerbanks.org/blog/5-shipwrecks-you-can-visit, divehatteras.com/beach-wrecks, nps.gov/submerged/parks/caha.html",
+    "validation_source": "obx4sale.com,civilwartraveler.blog,divehatteras.com,en.wikipedia.org",
     "tags": {
       "description": "The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.",
+      "last_qa_date": "2026-06-22",
       "historic": "wreck",
       "name": "SS Richmond Shipwreck",
       "seamark:type": "wreck",
@@ -253,10 +258,11 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/uss_monitor.html, scubadiving.com/diving-monitor-national-marine-sanctuary, scubadiverlife.com USS Monitor",
+    "validation_source": "monitor.noaa.gov,en.wikipedia.org,scubadiving.com,scubadiverlife.com",
     "tags": {
       "historic": "wreck",
       "name": "USS Monitor",
+      "last_qa_date": "2026-06-22",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1862-12-24",
       "wreck:visible_at_high_tide": "no",
@@ -276,9 +282,10 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "divein.com/diving/destination/diving-in-north-carolina, getmyboat.com/scuba-diving-in-north-carolina, southeastasiadiving.com/blog/north-carolina",
+    "validation_source": "en.wikipedia.org,nps.gov,xray-mag.com,coastalreview.org",
     "tags": {
       "name": "Diamond Shoals",
+      "last_qa_date": "2026-06-22",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -295,10 +302,11 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204), discoverydiving.com/diving/dive-sites - scuttled as breakwater 1935 in shallow Beaufort harbor",
+    "validation_source": "en.wikipedia.org,navsource.org,ncpedia.org",
     "tags": {
       "access": "yes",
       "description": "Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935",
+      "last_qa_date": "2026-06-22",
       "historic": "wreck",
       "name": "USS Pilgrim (SP-1204)",
       "seamark:type": "wreck",
