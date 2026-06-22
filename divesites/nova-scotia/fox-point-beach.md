@@ -13,32 +13,26 @@ addedBy: osm_import
 
 ## Fox Point Beach
 
-Fox Point Beach is one of Nova Scotia's few sandy shore-entry dive sites, suitable for beginners in sheltered diving areas at 10-15 meters. The site offers calm conditions during favorable weather and good visibility. An accessible training location for beginner divers and those practicing shore entry techniques.
-
-## Overview
-
-Fox Point Beach is a beach dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Fox Point Beach is a shore-entry dive site on Nova Scotia's South Shore, confirmed by East Coast Scuba as one of approximately 40 named shore dive sites they service in the province. The beach provides a sandy entry to a rocky and sandy seafloor with kelp beds in the shallower sections. It is one of the more accessible shore entry points in the Mahone Bay area and is suitable for intermediate divers comfortable with cold Atlantic water. A nearby but distinct site, "Fox Point Anglican Church," also listed by East Coast Scuba, offers rocky granite diving with cunner, lobster, and flatfish at 50–100 ft (15–30 m).
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Fox Point, Lunenburg County, Nova Scotia (South Shore, Mahone Bay area)
 - **Entry Type**: Shore entry
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer, drysuit recommended)
 
 ## Marine Life
 
-Regional marine life in Nova Scotia waters includes Atlantic wolffish, cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Kelp beds are common in shallower rocky areas. No site-specific species reports were found for this site.
+No site-specific species reports were found for Fox Point Beach itself. Species confirmed at nearby comparable Nova Scotia South Shore dive sites include lobster, cunner, sculpin, flounder, sea ravens, rock crab, and green sea urchin. Kelp beds are common in shallower rocky areas throughout this coastline.
 
 ## Tips and Recommendations
 
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Cold Atlantic water (4–15°C) requires a drysuit or heavy wetsuit
+- Carry a surface marker buoy (SMB) for all open-water shore dives
+- Check conditions before entry — the South Shore is exposed to swell in southerly weather
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [East Coast Scuba & Watersports — Shore Dive Sites](https://www.eastcoastscuba.com/dive-sites). No site-specific marine life reports found. Last updated 2026-06-22.*

@@ -5,7 +5,7 @@ lng: 54.798294
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
-siteType: wreck
+siteType: reef
 ref: null
 osmId: 306112631
 addedBy: osm_import
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Eagle Bay
 
-Eagle Bay is a historic wreck dive in Oman, Middle East.
+Eagle Bay is a reef dive site near Mirbat in Oman's Dhofar region.
 
 ## Overview
 
-Eagle Bay is a beautiful sheltered bay near Mirbat in Oman's Dhofar region, about 70 kilometres from Salalah, featuring a large sandy patch in the centre flanked by a coral bank on the south and rocky outcrops to the north at depths of 5 to 15 metres. The site is one of the most reliable for turtle and eagle ray encounters in southern Oman, with large batfish and boxfish also common, while the coral gardens host the full range of Mirbat's Indo-Pacific residents including clownfish, moray eels, nudibranchs, and stonefish. The bay's sheltered geometry makes it suitable for all skill levels and is a favourite first dive of the day for operators running trips out of Salalah during the October to May season.
+Eagle Bay is a sheltered bay near Mirbat in southern Oman, approximately 70 kilometres from Salalah. The PADI Pros blog describes it as a beach diving location with shallow coral gardens supporting a wide range of Indo-Pacific marine life: nudibranchs, clownfish, octopuses, moray eels, stonefish, rays, turtles, and barracudas. Beautiful Salalah includes Eagle Bay among the named Mirbat dive sites, confirming it as one of the coastal reef sites accessible from shore operators. A GetYourGuide listing describes the bay as a sheltered site with depths of five to fifteen metres, characterised by coral and a very unique topography with large rock structures. Divers-guide.com notes an old wreck resting at approximately 8 metres within the bay, which has become an additional marine habitat feature alongside the reef; however, the site is primarily a reef dive rather than a wreck dive, with the wreck as a secondary feature.
+
+The bay gets its name from the eagles that historically nested on the rocky cliffs above. It is a favoured beginner site in the Mirbat area due to its sheltered conditions and limited currents. The dive season runs October through May outside the khareef monsoon.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Mirbat, Dhofar, Oman
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Reef (with shallow wreck feature at ~8 metres)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [PADI Pros - Diving in Salalah](https://pros-blog.padi.com/diving-in-salalah-oman/), [Beautiful Salalah - Scuba Diving](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/), [ABT Divers Salalah](https://www.abtdivers.com/). Last updated 2026-06-22.*
