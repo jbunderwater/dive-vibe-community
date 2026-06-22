@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "north-carolina",
-    "norway",
-    "norway-lofoten-islands",
-    "nova-scotia",
-    "okinawa",
-    "oman",
     "palau",
     "panama",
     "papua-new-guinea",
@@ -174,7 +168,13 @@
     "new-zealand",
     "newfoundland",
     "ningaloo-reef",
-    "poor-knights-islands"
+    "poor-knights-islands",
+    "north-carolina",
+    "norway",
+    "norway-lofoten-islands",
+    "nova-scotia",
+    "okinawa",
+    "oman"
   ],
   "history": [
     {
@@ -1326,6 +1326,64 @@
           }
         }
       }
+    },
+    {
+      "date": "2026-06-22",
+      "slugs": [
+        "north-carolina",
+        "norway",
+        "norway-lofoten-islands",
+        "nova-scotia",
+        "okinawa",
+        "oman"
+      ],
+      "summary": {
+        "north-carolina": {
+          "sites_total": 14,
+          "sites_re_audited": 13,
+          "hallucinations_removed": 6,
+          "marine_life_stripped": 5,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 1
+        },
+        "norway": {
+          "sites_total": 0,
+          "error": "No osm_clean file \u2014 destination not yet scraped; skipped"
+        },
+        "norway-lofoten-islands": {
+          "sites_total": 11,
+          "sites_re_audited": 11,
+          "hallucinations_removed": 5,
+          "marine_life_stripped": 6,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 6
+        },
+        "nova-scotia": {
+          "sites_total": 54,
+          "sites_re_audited": 54,
+          "hallucinations_removed": 12,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 3,
+          "sites_unresolved": 8
+        },
+        "okinawa": {
+          "sites_total": 24,
+          "sites_re_audited": 24,
+          "hallucinations_removed": 3,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 1
+        },
+        "oman": {
+          "sites_total": 10,
+          "sites_re_audited": 10,
+          "hallucinations_removed": 7,
+          "marine_life_stripped": 4,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 2
+        }
+      },
+      "pr_url": null
     }
   ]
 }
