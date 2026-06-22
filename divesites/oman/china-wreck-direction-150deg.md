@@ -26,7 +26,7 @@ The direction "150 degrees" in the site name is the compass bearing used to navi
 ## Site Information
 
 - **Location**: Mirbat, Dhofar, Oman
-- **Entry Type**: Beach dive
+- **Entry Type**: beach
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters

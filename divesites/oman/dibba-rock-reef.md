@@ -25,7 +25,7 @@ The site is known for its rich marine life despite relatively shallow depth, and
 
 - **Location**: Dibba, Musandam Governorate, Oman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

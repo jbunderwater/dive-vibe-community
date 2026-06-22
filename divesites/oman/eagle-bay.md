@@ -25,7 +25,7 @@ The bay gets its name from the eagles that historically nested on the rocky clif
 
 - **Location**: Mirbat, Dhofar, Oman
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (with shallow wreck feature at ~8 metres)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

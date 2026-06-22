@@ -22,8 +22,8 @@ Flamingo Beach is a dive area along the Mirbat coastline of southern Oman's Dhof
 ## Site Information
 
 - **Location**: Mirbat, Dhofar, Oman
-- **Entry Type**: Beach (shore entry)
-- **Site Type**: Coral reef
+- **Entry Type**: beach
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

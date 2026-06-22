@@ -25,7 +25,7 @@ Aquarium is a shallow coral garden dive site near Mirbat in southern Oman, named
 
 - **Location**: Mirbat, Dhofar, Oman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
 
