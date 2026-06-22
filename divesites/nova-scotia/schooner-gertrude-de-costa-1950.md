@@ -13,36 +13,35 @@ addedBy: osm_import
 
 ## Schooner Gertrude de Costa (1950)
 
-The Schooner Gertrude de Costa is a 20th-century wooden schooner wreck located in the Shubenacadie Channel at approximately 28 meters depth. The historic wooden vessel rests in cold Atlantic water characterized by strong tidal currents and variable visibility. The wreck offers exploration of wooden shipbuilding techniques and is part of Nova Scotia's rich maritime heritage. Strong current management is essential at this site.
+**SAFETY WARNING: The Bedford Institute of Oceanography's Halifax Harbour shipwrecks database notes unexploded ordnance of unknown origin on the deck of this wreck. Do not touch, move, or disturb any objects on this site.**
 
-## Overview
+The Gertrude de Costa was a knockabout two-masted auxiliary schooner built in 1950 in Yarmouth, Nova Scotia (Official Number 192256), measuring over 30 metres in length. On March 18, 1950, she sank after a collision with the oil tanker *Island Connector* in Halifax Harbour, near McNabs Island, south of the South End Container Terminal. Seven crew members went down with the vessel. The wreck rests at approximately 28 metres on the harbour floor, with both masts lying on the seabed adjacent to the hull. Divers have reported finding batteries, fire extinguishers, and an engine with gauge panel in the wreck interior.
 
-Schooner Gertrude de Costa (1950) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**Previous versions of this description incorrectly placed the wreck "in the Shubenacadie Channel." The confirmed location is Halifax Harbour near McNabs Island, off the South End Container Terminal.**
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour, near McNabs Island, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+The Gertrude de Costa was built in Yarmouth, Nova Scotia in 1950 — same year as her sinking. The knockabout schooner design (no bowsprit) was common in the Maritime provinces for fishing and coastal trade. She sank on March 18, 1950 following a collision with the tanker *Island Connector* in Halifax Harbour. Seven of her crew perished with the vessel.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this wreck. Cold-water species typical of Halifax Harbour include cunner, Atlantic cod, rock crab, green sea urchin, and cold-water anemones. Encrusting life colonizes submerged structure over time.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- **Unexploded ordnance of unknown origin has been reported on deck — do not touch or disturb any objects**
+- Cold Atlantic water (4–15°C) requires a drysuit
+- Halifax Harbour has vessel traffic; dive with a dive flag and surface marker buoy
+- Bring a dive light for wreck exploration
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Bedford Institute of Oceanography — Halifax Harbour Shipwrecks](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [ShipIndex.org — Gertrude de Costa](https://www.shipindex.org/ships/gertrude_de_costa), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/). Last updated 2026-06-22.*
