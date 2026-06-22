@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Flamingo Beach: Side Entry
 
-Flamingo Beach: Side Entry is a reef dive site in Oman, Middle East.
+Flamingo Beach: Side Entry is a reef dive site near Mirbat in Oman's Dhofar region.
 
 ## Overview
 
-Flamingo Beach: Side Entry is an alternative approach to the Flamingo Beach reef system along Oman's Mirbat coastline, giving access to the coral gardens from a different angle along the bay's rocky edges. The reef here follows the sheltered cove character typical of the Dhofar coast, with table corals and boulder formations at 5 to 15 metres supporting clownfish, moray eels, octopuses, and nudibranch species that reflect the site's Indo-Pacific marine community. Turtles and eagle rays are regular visitors, and the multiple entry options across Flamingo Bay allow divers to vary the route on repeat dives while based in Salalah.
+Flamingo Beach is a dive area along the Mirbat coastline of southern Oman's Dhofar region, approximately 70 kilometres east of Salalah, with multiple entry points giving access to shallow coral reef gardens. This side entry variant provides access to the reef system from a lateral approach. The PADI Pros blog lists Mirbat beach diving sites, which include shallow coral gardens and rocky outcrops at depths to 15 metres, with the marine life characteristic of the Dhofar coast: nudibranchs, clownfish, octopuses, moray eels, stonefish, and rays. The Regaldive guide describes the Mirbat area sites as featuring hard and brain corals, table corals, and schooling fish. Shore and near-shore boat diving in this area is suitable for all certification levels. Diving is available from October through May outside the khareef monsoon season.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Mirbat, Dhofar, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [PADI Pros - Diving in Salalah](https://pros-blog.padi.com/diving-in-salalah-oman/), [Beautiful Salalah - Scuba Diving](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/), [Regaldive - Salalah & Mirbat](https://www.regal-diving.co.uk/salalah-mirbat). No site-specific sources for "Flamingo Beach: Side Entry" as a named variant found. Last updated 2026-06-22.*
