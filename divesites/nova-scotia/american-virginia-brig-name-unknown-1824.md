@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## American (Virginia) brig, name unknown (1824)
 
-This early 19th-century American sailing vessel wreck represents one of the oldest documented wrecks in Nova Scotia, dating to 1824. Located at 30 meters in the Shubenacadie Channel, the wooden ship remains offer exceptional historical value and excellent preservation in the cold Atlantic water. The site is significant for maritime archaeology and the study of early American sailing vessels. Advanced training required.
+**Verification status: UNCONFIRMED.** No independent source was found confirming an unidentified American (Virginia) brig wrecked near Halifax in 1824 as a confirmed dive site. The coordinates (44.6057°N, 63.5277°W) place this in Halifax Harbour near McNabs Island. The Nova Scotia government open data shipwrecks CSV and publicly accessible portions of the Maritime Museum of the Atlantic database do not include this specific entry. The claim that this is "one of the oldest documented wrecks in Nova Scotia" appears in the earlier description without supporting citation and is not confirmed.
 
-## Overview
-
-American (Virginia) brig, name unknown (1824) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+An American brig wrecked in Nova Scotia in 1824 is historically plausible — there was significant trading traffic between the US Eastern Seaboard and Halifax in that era — but vessel nationality, home port (Virginia), rig type, and wreck location are all unverified from accessible sources.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour near McNabs Island, Nova Scotia (coordinates unconfirmed as dive site)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Maximum Depth**: 30 meters (unconfirmed)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+Unverified. Vessel name unknown. Nationality, rig type, and circumstances of loss are unconfirmed in accessible sources. To verify, consult the Maritime Museum of the Atlantic (https://maritimemuseum.novascotia.ca/research/shipwreck-database) or Nova Scotia Archives shipwrecks (https://archives.novascotia.ca/shipwrecks/).
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Unverified dive site — verify with local Nova Scotia operators before planning a dive
+- Cold Atlantic water (4–15°C) requires a drysuit
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*No independent sources confirming this vessel or dive site were found. For verification, consult [Maritime Museum of the Atlantic — Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database) or [Nova Scotia Archives Shipwrecks](https://archives.novascotia.ca/shipwrecks/). Last updated 2026-06-22.*
