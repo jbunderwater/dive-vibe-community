@@ -13,36 +13,34 @@ addedBy: osm_import
 
 ## Hudson bomber plane (1944)
 
-A WWII-era Hudson bomber aircraft sunk in 1944 rests at 23 meters in the Shubenacadie Channel. This accessible aircraft wreck provides exploration of military aviation history in a cold Atlantic environment. The fuselage and components remain visible, offering unique dive experiences and photography opportunities. Strong tidal currents are characteristic of this location.
+**Verification status: UNCONFIRMED.** No independent source was found confirming that a Lockheed Hudson aircraft sank in Halifax Harbour or Bedford Basin in 1944 and exists as an accessible dive site. RCAF No. 11 (BR) Squadron operated Lockheed Hudsons from RCAF Station Dartmouth (adjacent to Halifax) throughout WWII, and multiple RCAF Hudson accidents are documented for this period — but none confirmed as a water landing in Halifax Harbour. The coordinates (44.6232°N, 63.5260°W) place this in Bedford Basin, which is plausible for an aircraft from RCAF Dartmouth, but the claim is unverified. East Coast Scuba, nsshipwrecks.ca, and ScubaBoard do not list a Hudson bomber as a Nova Scotia dive site.
 
-## Overview
+One noted ScubaBoard comment references local diving lore of "that elusive Hudson bomber," suggesting the claim circulates in local dive community knowledge, but no confirmed discovery or documented dive is available in accessible sources.
 
-Hudson bomber plane (1944) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**Previous versions described this site as being "in the Shubenacadie Channel" — the coordinates are in Bedford Basin, which is distinct from the Shubenacadie Channel.**
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Bedford Basin area, Halifax, Nova Scotia (exact location unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 23 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Maximum Depth**: 23 meters (unconfirmed)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+The Lockheed Hudson was a twin-engine maritime patrol and bombing aircraft widely used by the RCAF during WWII. RCAF No. 11 (BR) Squadron operated from RCAF Station Dartmouth, flying anti-submarine patrols over the North Atlantic. Multiple RCAF Hudson accidents are documented in 1943–1945, including one on February 24, 1943 that crashed near Dartmouth (on land). A 1944 water landing in Bedford Basin is part of local diving lore but has not been confirmed from any archival, museum, or aviation safety database accessible online. Verification would require consulting the CASPIR database (Canadian Aircraft Serials Personnel Information Resource) or DND archives.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Unverified dive site — verify access and conditions with local Nova Scotia operators before planning a dive
+- Cold Atlantic water (4–15°C) requires a drysuit
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*No site-specific sources confirming this as a dive site were found. For RCAF accident records, consult the [CASPIR database](https://caspir.warplane.com/) or [DND Archives](https://www.canada.ca/en/department-national-defence/corporate/policies-standards/defence-administrative-orders-directives/1000-series/1000/1000-5-access-information-privacy.html). Last updated 2026-06-22.*
