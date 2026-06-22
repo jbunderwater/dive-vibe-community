@@ -13,36 +13,32 @@ addedBy: osm_import
 
 ## Sea Fury fighter bomber plane (1952)
 
-The Sea Fury is a military fighter-bomber aircraft that sank in 1952, creating a unique aircraft dive experience at 25 meters in the Shubenacadie Channel. Fuselage sections and aircraft components provide distinctive photographic subjects and interesting wreck structure exploration. Cold water and tidal currents require advanced training and experience. This site appeals to aviation archaeology enthusiasts.
+**Verification status: UNCONFIRMED.** No independent source was found confirming that a Hawker Sea Fury aircraft is sunk at this location in Halifax Harbour/Bedford Basin or that it is an accessible dive site. The Hawker Sea Fury FB.11 was operated by the Royal Canadian Navy at HMCS Shearwater (Dartmouth, NS) and multiple RCN Sea Furies were lost in accidents during the late 1940s–1950s. A 1953 mid-air collision near Fairview, Bedford Basin sent an Avenger (not a Sea Fury) into the water. East Coast Scuba, nsshipwrecks.ca, and ScubaBoard do not list a Sea Fury aircraft as a Nova Scotia dive site.
 
-## Overview
-
-Sea Fury fighter bomber plane (1952) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+The "1952" date in the site name, the claim that it is a dive site at 25 meters, and the location near McNabs Island are all unconfirmed in accessible sources. This entry should be treated with caution until verified against RCAF/RCN accident records (CASPIR database) or local dive operator knowledge.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour area, Nova Scotia (exact location unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Water Temperature**: 4-15°C (winter-summer)
+- **Maximum Depth**: 25 meters (unconfirmed)
+- **Water Temperature**: 4–15°C (winter–summer)
+
+## Wreck History
+
+The Hawker Sea Fury was a British-designed carrier-based fighter-bomber used by the Royal Canadian Navy from the late 1940s. The RCN operated 74 Sea Furies, based at HMCS Shearwater in Dartmouth, NS. Squadrons 870 and 871 flew Sea Furies from Shearwater. Multiple aircraft were lost in accidents during this period. A 1952 aircraft loss at this specific location has not been independently confirmed from accessible sources (including the Aviation Safety Network, Wikipedia military accidents lists, and the Canadian Aviation and Space Museum records). No site-specific dive history is documented.
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific species reports were found for this site.
 
-## Entry and Exit
+## Safety Considerations
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
-
-## Tips and Recommendations
-
-- Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Unverified dive site — verify access and conditions with local Nova Scotia operators before planning a dive
+- Cold Atlantic water (4–15°C) requires a drysuit
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*No site-specific sources found confirming this as a dive site. Closest documented event: 1953 mid-air collision near Fairview where an Avenger (not Sea Fury) entered Bedford Basin — see [Fairview Historical Society](https://fairviewhistoricalsociety.ca/plane-crash-in-fairview-1953/). For RCAF accident records, consult the [CASPIR database](https://caspir.warplane.com/) or [Aviation Safety Network](https://asn.flightsafety.org/). Last updated 2026-06-22.*
