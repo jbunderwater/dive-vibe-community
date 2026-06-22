@@ -10,12 +10,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/papoose.html, olympusdiving.com/papoose, scubadiving.com top 10 NC wrecks",
+    "validation_source": "monitor.noaa.gov,olympusdiving.com,nc-wreckdiving.com,discoverydiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Paposse (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -29,12 +30,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-576.html, NOAA Ocean Exploration - war grave at 690ft/210m, not a recreational dive",
+    "validation_source": "monitor.noaa.gov,en.wikipedia.org,sanctuaries.noaa.gov",
     "tags": {
       "historic": "wreck",
       "name": "U-576 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22",
+      "note": "War grave at ~220m depth — not a recreational dive site"
     }
   },
   {
@@ -43,17 +46,18 @@
     "lon": -75.13,
     "osm_id": 663869496,
     "osm_type": "node",
-    "depth": 34,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-85.html, naui.org/north-carolina-wreck-diving, scubadiverlife.com U-85",
+    "validation_source": "monitor.noaa.gov,en.wikipedia.org,scubadiverlife.com,naui.org",
     "tags": {
       "historic": "wreck",
       "name": "U-85 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -67,12 +71,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/u-352.html, scubadiving.com/history-north-carolina-u-352-shipwreck, underwaterjournal.com",
+    "validation_source": "monitor.noaa.gov,en.wikipedia.org,olympusdiving.com,scubadiving.com",
     "tags": {
       "historic": "wreck",
       "name": "U-352 (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -81,17 +86,18 @@
     "lon": -76.8516667,
     "osm_id": 663869498,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "divebuddy.com/divesite/1204/indra-ar-330, outrageousdiving.com/indra-dive-site, discoverydiving.com/diving/dive-sites",
+    "validation_source": "divebuddy.com,discoverydiving.com,en.wikipedia.org,nc-wreckdiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Indra (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -105,12 +111,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "outrageousdiving.com/aeolus-dive-site, scubadiving.com top 10 NC wrecks, tdisdi.com/5-best-wreck-dives-in-north-carolina",
+    "validation_source": "en.wikipedia.org,olympusdiving.com,discoverydiving.com,nc-wreckdiving.com",
     "tags": {
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
@@ -124,14 +131,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiving.com/travel/south/queen-annes-revenge, justgottadive.com/queen-annes-revenge, deeperblue.com NC best wrecks",
+    "validation_source": "qaronline.org,en.wikipedia.org,scubadiving.com,ancientnc.web.unc.edu",
     "tags": {
       "historic": "wreck",
       "name": "Queen Anne's Revenge Shipwreck",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1718",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-06-22"
     }
   },
   {
