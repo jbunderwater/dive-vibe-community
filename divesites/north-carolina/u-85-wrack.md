@@ -25,7 +25,7 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34 meters
+- **Maximum Depth**: 27 meters
 
 ## Marine Life
 

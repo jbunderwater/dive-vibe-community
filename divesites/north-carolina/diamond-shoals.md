@@ -23,7 +23,7 @@ Diamond Shoals is a series of constantly shifting sandbars extending 13 kilomete
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 
@@ -44,4 +44,4 @@ Charter access from Hatteras, NC. Dive Hatteras is the primary local dive operat
 Diamond Shoals is one of the most hydrodynamically complex environments in the western North Atlantic — strong, unpredictable currents from two major ocean current systems converge here. Conditions can deteriorate rapidly. This is an area for experienced divers only, always with an experienced local charter operator who monitors real-time conditions. The shoals are responsible for an estimated 600 shipwrecks — respect the conditions that created the Graveyard of the Atlantic.
 
 ---
-*Sources: [Wikipedia — Diamond Shoals](https://en.wikipedia.org/wiki/Diamond_Shoals), [NPS — Diving in Cape Hatteras National Seashore](https://www.nps.gov/submerged/parks/caha.html), [Coastal Review — Sand Tiger Sharks on NC Shipwrecks](https://coastalreview.org/2020/09/sand-tiger-sharks-call-nc-shipwrecks-home/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — Diamond Shoals](https://en.wikipedia.org/wiki/Diamond_Shoals), [NPS — Diving in Cape Hatteras National Seashore](https://www.nps.gov/submerged/parks/caha.html), [Coastal Review — Sand Tiger Sharks on NC Shipwrecks](https://coastalreview.org/2020/09/sand-tiger-sharks-call-nc-shipwrecks-home/), [X-Ray Mag — North Carolina's Diamond Shoals](https://xray-mag.com/content/north-carolinas-diamond-shoals). Last updated 2026-06-22.*

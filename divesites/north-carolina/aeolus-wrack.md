@@ -17,7 +17,7 @@ Aeolus (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The Aeolus was a 409-foot cable repair ship deliberately sunk as an artificial reef in 1988 off Morehead City; subsequent hurricanes split her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in 33 metres of Gulf Stream-influenced water. Sand tiger sharks adopted the cable storage compartments as a lounge, and during the 2012 season a dozen or more were resident at once, swimming at arm's length from divers amid a backdrop of frenzied jacks, barracudas, and dense grouper populations working the wreck's exterior. The three-hour boat ride from Morehead City is well worth it: the clear offshore water and reliable shark activity make the Aeolus one of North Carolina's benchmark wreck dives.
+The Aeolus was a 438-foot cable repair ship deliberately sunk on 29 July 1988 as an artificial reef off Morehead City; Hurricane Fran in 1996 broke her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in approximately 110 ft (33 m) of Gulf Stream-influenced water. Sand tiger sharks use the cable storage compartments as a resting area, and multiple individuals are routinely observed on single dives. Amberjack, sea bass, and barracuda are year-round residents. Charter access from Morehead City or Beaufort; approximately 22 miles offshore.
 
 ## Site Information
 
@@ -29,11 +29,11 @@ The Aeolus was a 409-foot cable repair ship deliberately sunk as an artificial r
 
 ## Marine Life
 
-Sand tiger sharks are the defining feature — the cable storage compartments are a known lounge area for multiple individuals, and during the 2012 season approximately a dozen sharks were resident simultaneously according to first-hand diver accounts. Jacks, barracudas, grouper, and tunnies (Atlantic bonito) are commonly reported by charter operators alongside the sharks. Discovery Diving lists visibility typically ranging 40–70 ft with water temperatures 75–80°F in summer.
+Sand tiger sharks are the defining feature — the cable storage compartments are a known resting area for multiple individuals. Amberjack, barracuda, and sea bass are consistently reported by charter operators. Discovery Diving lists visibility typically 40–70 ft with water temperatures 75–80°F in summer. The "dozen sharks" account referenced in some dive media is from single-trip diver reports; no systematic survey data was found. No site-specific scientific marine life survey was found; species accounts are sourced from local dive operator reports.
 
 ## Wreck History
 
-The Aeolus (ARC-3) was a 409-ft US Navy cable repair ship, originally commissioned in June 1945 as the attack cargo ship USS Turandot (AKA-94). After serving in the Pacific theater's final months transporting troops and cargo, she was decommissioned in 1947. Reoutfitted as a cable repair ship and recommissioned as USNS Aeolus in 1955, she served until her transfer to North Carolina's artificial reef program. She was deliberately sunk in August 1988, approximately 22 miles south of Beaufort Inlet in 110 ft (33.5 m) of water. Hurricanes in 1996 broke the hull into three major sections, partially righting some portions and creating the multi-level configuration divers encounter today.
+The Aeolus (ARC-3) was a 438-ft US Navy cable repair ship, originally commissioned as the attack cargo ship USS Turandot (AKA-47), built by Walsh-Kaiser Co., Inc. of Providence, Rhode Island. She was converted in 1954 into a cable repair ship to support the SOSUS installation programme, recommissioned as USNS Aeolus (T-ARC-3) under Military Sealift Command in 1973, and served in that role until 1985. She was deliberately sunk on 29 July 1988, approximately 22 miles south of Beaufort Inlet in approximately 110 ft (33 m) of water as part of North Carolina's artificial reef program. Hurricane Fran in September 1996 shifted and broke the hull into three major sections with scattered wreckage, creating the multi-level configuration divers encounter today.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ The Aeolus earns its "Club Aeolus" nickname for reliable shark encounters throug
 At 110 ft this is at the recreational depth limit; Nitrox is widely recommended by local operators. The site is 22 miles offshore — sea conditions on the open Atlantic off North Carolina can change rapidly, and charters may be scrubbed on short notice. Water temperature ranges from the low 60s°F (16°C) in winter to over 80°F (27°C) at the surface in summer. Thermoclines can cause sudden temperature drops at depth. Penetration of wreck sections requires appropriate training and equipment — do not enter confined spaces without overhead environment certification.
 
 ---
-*Sources: [Olympus Dive Center — Aeolus](https://olympusdiving.com/aeolus), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Evolution Underwater — NC Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Discover Wildlife — Aeolus shark ballroom](https://www.discoverwildlife.com/animal-facts/marine-animals/aeolus-north-carolina). Last updated 2026-05-17.*
+*Sources: [Wikipedia — USS Aeolus (ARC-3)](https://en.wikipedia.org/wiki/USS_Aeolus_(ARC-3)), [Olympus Dive Center — Aeolus](https://olympusdiving.com/aeolus), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Discover Wildlife — Aeolus shark ballroom](https://www.discoverwildlife.com/animal-facts/marine-animals/aeolus-north-carolina). Last updated 2026-06-22.*

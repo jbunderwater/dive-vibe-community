@@ -48,4 +48,4 @@ Boat access required. No charter services specifically advertising this site wer
 Estuarine visibility is characteristically very low — maintain close buddy contact throughout the dive. The sheltered inland waterway location means currents are less severe than offshore sites, but local tidal currents in the Neuse River system still require attention. Research the site identity through official channels before planning a visit.
 
 ---
-*Description based on regional diving characteristics and geographic context. No site-specific verified sources found. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-05-17.*
+*Description based on regional diving characteristics and geographic context. No site-specific verified sources found in this QA pass (2026-06-22). Prior "validation" via Perplexity is not an acceptable source. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-06-22.*
