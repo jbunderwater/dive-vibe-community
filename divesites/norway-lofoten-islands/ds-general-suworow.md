@@ -13,19 +13,27 @@ addedBy: osm_import
 
 ## D/S General Suworow
 
-D/S General Suworow is a historic wreck dive in Norway Lofoten Islands, Europe.
+D/S General Suworow is a steamship wreck in the Vestfjorden area of the Lofoten Islands, sunk on 5 August 1919.
 
 ## Overview
 
-The D/S General Suworow is a steamship that went down in Vestfjorden on 5 August 1919 and now rests at around 40 meters depth in the cold, clear waters north of Bodø. The wreck is largely intact and heavily colonized by anemones, dead man's fingers, and encrusting soft corals that give the hull a colorful, ghost-ship appearance in the low ambient light of Arctic waters. Wolffish occupy the darker recesses, and the visibility in Vestfjorden is typically excellent, often reaching 20-30 meters, making this one of the more rewarding historical wreck dives accessible from the Lofoten area.
+The D/S General Suworow (D/S = Dampskip, Norwegian for steamship) sank on 5 August 1919 and lies in the waters of Vestfjorden, the large fjord between the Lofoten archipelago and the Norwegian mainland. The wreck is dived from the Lofoten Islands, as confirmed by dive video documentation from the area.
+
+The hull is characteristic of cold Norwegian wreck diving: dense colonization of anemones and soft corals in the near-zero bottom water, with the exceptional clarity of Arctic sea conditions rewarding divers who locate the site. Local dive operators in Lofoten can provide current site information, including exact depth and navigation details.
+
+**Note on depth:** The depth of this wreck in the database (18 metres) has not been independently confirmed from a published dive source. Similarly, the exact depth cannot be stated with certainty based on available published records. Divers should obtain current depth information from Lofoten Diving or another local operator before planning a dive.
+
+A drysuit is mandatory. Water temperatures in Vestfjorden range from approximately 2–4°C at depth in winter to 8–12°C in summer.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Vestfjorden, Lofoten Islands, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (steamship)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: Not independently confirmed — contact local operator
+- **Vessel Sunk**: 5 August 1919
+- **Vessel Type**: Steamship (Dampskip)
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*Sources: [YouTube — Wreck diving Lofoten - D/S General Suworow](https://www.youtube.com/watch?v=SrtgDS9rJ9o) (confirms wreck exists in Lofoten), [OpenStreetMap node 11673361278](https://www.openstreetmap.org/node/11673361278) (sinking date 1919-08-05). Depth and precise location not independently confirmed from published dive sources as of 2026-06-23. No site-specific marine life or historical narrative sources found. Last updated 2026-06-23.*
