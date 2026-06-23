@@ -15,8 +15,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "wreck_year": "1941"
+      "validation_source": "xray-mag.com,scubadiverlife.com,wikipedia.org",
+      "wreck_year": "1941",
+      "last_qa_date": "2026-06-23"
     }
   },
   {
@@ -36,8 +37,10 @@
       "wreck:date_sunk": "1919-08-05",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "youtube.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Depth unconfirmed — JSON says 18m but only a YouTube video confirms this wreck exists. No independent depth source found. Geographic location in OSM (68.14N, 13.52E) places it in central Lofoten. Awaiting 2+ independent sources before re-validating."
     }
   },
   {
@@ -51,8 +54,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "xray-mag.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Ballstad area confirmed as dive hub (ScubaBoard, X-Ray Mag). No independent source specifically confirms a site named 'Ballstad Reef'. Named wrecks (Gudrun Gisladottir, SS Ramø, Hamburg) and canyon dives are documented near Ballstad, but not a reef by this exact name. Insufficient sources for validated=true."
     }
   },
   {
@@ -62,12 +67,13 @@
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "xray-mag.com,zentacle.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-23"
     }
   },
   {
@@ -81,8 +87,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "lofoten-diving.no,visitlofoten.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Shore diving near Kabelvåg is referenced regionally but no source specifically documents a site by this name. Difficulty upgraded from Intermediate (unchanged — was already Intermediate). Cold-water rule enforced."
     }
   },
   {
@@ -96,8 +104,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "xray-mag.com,scubadiverlife.com,lofoten-diving.no",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Henningsvær is confirmed as a dive site with local operator coverage (Lofoten Opplevelser). Wall diving character consistent with Lofoten regional pattern. No source specifically names 'Henningsvær Wall' by that name. Insufficient sources for validated=true."
     }
   },
   {
@@ -107,12 +117,14 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "xray-mag.com,scubadiverlife.com,visitlofoten.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Difficulty upgraded from Beginner to Intermediate — Norway cold-water minimum rule. Svolvær referenced as a base for operator-guided dives (X-Ray Mag notes MV Siw-Aina wreck in Svolvær harbour). No source specifically documents a shore dive named 'Svolvær Harbor'. Insufficient sources for validated=true."
     }
   },
   {
@@ -126,8 +138,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "xray-mag.com,zentacle.com,lofotenplanet.wordpress.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "MV Hadsel wreck near Reine is confirmed (X-Ray Mag: coastal passenger liner, sank January 1958, rests 37-46m deep on sandy bottom near Reine). However, 'Reine Bay' as a named reef site is not confirmed separately. The main documented dive near Reine is the MV Hadsel wreck which sits 37-46m — that would be Advanced. 'Reine Bay' as a shallower reef site is unverified. Insufficient sources for validated=true."
     }
   },
   {
@@ -137,12 +151,14 @@
     "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "lofoten-diving.no,visitlofoten.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Difficulty upgraded from Beginner to Intermediate — Norway cold-water minimum rule. Å is the southernmost Lofoten village; shore diving in the area is plausible but no source specifically documents this exact site. Insufficient sources for validated=true."
     }
   },
   {
@@ -156,8 +172,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "wikipedia.org,lofoten-diving.no,xray-mag.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Moskstraumen (Maelstrom) confirmed as extreme current system (Wikipedia). Diving near Moskstraumen would be Advanced/Expert. However, no source specifically names 'Maelstrom Wall' as a dive site offered by any operator. Insufficient sources for validated=true."
     }
   },
   {
@@ -167,12 +185,14 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "xray-mag.com,scubadiverlife.com,visitlofoten.com",
+      "last_qa_date": "2026-06-23",
+      "qa_note": "Difficulty upgraded from Beginner to Intermediate — Norway cold-water minimum rule. Kelp forest diving is a confirmed Lofoten characteristic (X-Ray Mag, Scuba Diver Life). No source specifically documents a site named 'Stamsund Kelp Forest'. Insufficient sources for validated=true."
     }
   }
 ]
