@@ -29,9 +29,9 @@ A drysuit is strongly recommended year-round; water temperatures range from 4–
 
 - **Location**: Svolvær Harbour, Austvågøya, Lofoten Islands, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Wreck Name**: Hamburg (factory ship / German)
 - **Sunk**: 4 March 1941, Operation Claymore
 

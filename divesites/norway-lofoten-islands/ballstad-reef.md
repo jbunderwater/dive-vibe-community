@@ -29,9 +29,9 @@ Marine life confirmed for the Ballstad dive area (X-Ray Mag, Scuba Diver Life, S
 
 - **Location**: Ballstad, Vestvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (Ballstad area; operator-named sites are canyon/wall type)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres (stated; the canyon sites go deeper)
+- **Maximum Depth**: 18 meters
 
 ---
 *Description based on Ballstad diving area characteristics. No site-specific source found for a site named "Ballstad Reef" specifically. Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [ScubaBoard — Norway Diving: Lofoten Islands and Saltstraumen Trip Report](https://scubaboard.com/community/threads/norway-diving-lofoten-islands-and-saltstraumen-trip-report.637399/). Last updated 2026-06-23.*

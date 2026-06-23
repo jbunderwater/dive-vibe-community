@@ -37,7 +37,7 @@ Norway's fjords and coastal waters host cold-water species typical of the North 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres (wall base; anemones dense from surface to ~20m)
+- **Maximum Depth**: 22 meters
 
 ---
 *Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway) (confirms wall type, anemone coverage, depth ~20m, nutrient mechanism), [Zentacle — Nusfjord](https://www.zentacle.com/Beach/10054/nusfjord) (confirms wall, 22m max, boat, intermediate), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/) (confirms Nusfjord as dive site, operator access). Last updated 2026-06-23.*

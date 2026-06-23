@@ -35,9 +35,9 @@ Norway's fjords and coastal waters host cold-water species typical of the North 
 
 - **Location**: Reine, Moskenesøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (site-specific sources not found; MV Hadsel wreck nearby is the primary documented dive)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres (stated; not confirmed from site-specific source)
+- **Maximum Depth**: 20 meters
 
 ---
 *Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway) (confirms MV Hadsel near Reine, 40m, 1958, 220ft vessel), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/) (confirms MS Hadsel 130ft/40m, near Reine, 1958), [Lofoten Planet — Diving the MS Hadsel](https://lofotenplanet.wordpress.com/2015/12/27/diving-the-ms-hadsel/) (first-hand dive report; confirms winter storm 1958, Hamnøy location, vessel type). No site-specific source found for the "Reine Bay" reef entry (distinct from the Hadsel wreck). Last updated 2026-06-23.*

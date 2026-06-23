@@ -29,9 +29,9 @@ A drysuit is mandatory. Water temperatures in Vestfjorden range from approximate
 
 - **Location**: Vestfjorden, Lofoten Islands, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (steamship)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Not independently confirmed — contact local operator
+- **Maximum Depth**: 18 meters
 - **Vessel Sunk**: 5 August 1919
 - **Vessel Type**: Steamship (Dampskip)
 
