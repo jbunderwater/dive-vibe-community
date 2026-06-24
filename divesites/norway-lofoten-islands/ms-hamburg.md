@@ -28,10 +28,10 @@ Water temperature is sub-10°C year-round; drysuit is essential.
 ## Site Information
 
 - **Location**: Svolvær harbour, Austvågøya, Lofoten Islands, Norway
-- **Entry Type**: Shore (harbour)
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres (seabed 22–25 m; upper structure from ~5 m)
+- **Maximum Depth**: 22 meters
 
 ---
 *Sources: [Zentacle — MS Hamburg Wreck](https://www.zentacle.com/Beach/8659/ms-hamburg-wreck), [Museum Nord — Factory Ship Hamburg](https://www.museumnord.no/en/stories/factory-ship-hamburg/), [Wikipedia — Operation Claymore](https://en.wikipedia.org/wiki/Operation_Claymore). Last updated 2026-06-24.*

@@ -27,7 +27,7 @@ The wall starts at the north end of the harbour face and drops steeply. Because 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 
 ---
 *Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Zentacle — Nusfjord](https://www.zentacle.com/Beach/10054/nusfjord). Last updated 2026-06-24.*

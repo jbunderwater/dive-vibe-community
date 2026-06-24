@@ -17,7 +17,7 @@ Aeolus (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The Aeolus was a 409-foot cable repair ship deliberately sunk as an artificial reef in 1988 off Morehead City; subsequent hurricanes split her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in 33 metres of Gulf Stream-influenced water. Sand tiger sharks adopted the cable storage compartments as a lounge, and during the 2012 season a dozen or more were resident at once, swimming at arm's length from divers amid a backdrop of frenzied jacks, barracudas, and dense grouper populations working the wreck's exterior. The three-hour boat ride from Morehead City is well worth it: the clear offshore water and reliable shark activity make the Aeolus one of North Carolina's benchmark wreck dives.
+The Aeolus was a 438-foot cable repair ship deliberately sunk as an artificial reef in 1988 off Morehead City; subsequent hurricanes split her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in 33 metres of Gulf Stream-influenced water. Sand tiger sharks adopted the cable storage compartments as a lounge, and during the 2012 season a dozen or more were resident at once, swimming at arm's length from divers amid a backdrop of frenzied jacks, barracudas, and dense grouper populations working the wreck's exterior. The three-hour boat ride from Morehead City is well worth it: the clear offshore water and reliable shark activity make the Aeolus one of North Carolina's benchmark wreck dives.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Sand tiger sharks are the defining feature — the cable storage compartments ar
 
 ## Wreck History
 
-The Aeolus (ARC-3) was a 409-ft US Navy cable repair ship, originally built as the attack cargo ship USS Turandot (AKA-47), an Artemis-class vessel constructed at Providence, Rhode Island. After serving as an attack cargo ship she was converted to a cable repair ship and redesignated ARC-3 in 1955, serving in that role until decommissioned. On 28 January 1987 she was transferred to the State of North Carolina, and on 29 July 1988 was deliberately sunk approximately 22 miles south of Beaufort Inlet in 110 ft (33.5 m) of water. Hurricane Fran in 1996 shifted the wreck and broke it into three major sections with scattered wreckage, creating the multi-level configuration divers encounter today.
+The Aeolus (ARC-3) was a 438-ft US Navy cable repair ship, originally built as the attack cargo ship USS Turandot (AKA-47), an Artemis-class vessel constructed at Providence, Rhode Island. After serving as an attack cargo ship she was converted to a cable repair ship and redesignated ARC-3 in 1955, serving in that role until decommissioned. On 28 January 1987 she was transferred to the State of North Carolina, and on 29 July 1988 was deliberately sunk approximately 22 miles south of Beaufort Inlet in 110 ft (33.5 m) of water. Hurricane Fran in 1996 shifted the wreck and broke it into three major sections with scattered wreckage, creating the multi-level configuration divers encounter today.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ The Aeolus earns its "Club Aeolus" nickname for reliable shark encounters throug
 At 110 ft this is at the recreational depth limit; Nitrox is widely recommended by local operators. The site is 22 miles offshore — sea conditions on the open Atlantic off North Carolina can change rapidly, and charters may be scrubbed on short notice. Water temperature ranges from the low 60s°F (16°C) in winter to over 80°F (27°C) at the surface in summer. Thermoclines can cause sudden temperature drops at depth. Penetration of wreck sections requires appropriate training and equipment — do not enter confined spaces without overhead environment certification.
 
 ---
-*Sources: [Olympus Dive Center — Aeolus](https://olympusdiving.com/aeolus), [Wikipedia — USS Aeolus (ARC-3)](https://en.wikipedia.org/wiki/USS_Aeolus_(ARC-3)), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Discover Wildlife — Aeolus shark ballroom](https://www.discoverwildlife.com/animal-facts/marine-animals/aeolus-north-carolina). Last updated 2026-06-24.*
+*Sources: [Olympus Dive Center — Aeolus](https://olympusdiving.com/aeolus), [Wikipedia — USS Aeolus (ARC-3)](https://en.wikipedia.org/wiki/USS_Aeolus_(ARC-3)), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Discover Wildlife — Aeolus shark ballroom](https://www.discoverwildlife.com/animal-facts/marine-animals/aeolus-north-carolina). Last updated 2026-06-24. QA reviewed 2026-06-24: corrected vessel length from 409 ft to 438 ft per Wikipedia.*

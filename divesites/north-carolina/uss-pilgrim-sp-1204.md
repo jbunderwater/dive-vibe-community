@@ -52,4 +52,4 @@ Shore entry near Harkers Island. Exact access point should be confirmed with loc
 The very shallow depth (6 m) and protected location make this one of the least demanding wreck dives in the area. Boat traffic in the inshore waterways requires a dive flag. Concrete fill may be present throughout the hull -- exercise caution when exploring interior spaces.
 
 ---
-*Sources: [Wikipedia -- USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource -- Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm). Last updated 2026-05-17.*
+*Sources: [Wikipedia -- USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource -- Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm). Last updated 2026-06-24.*

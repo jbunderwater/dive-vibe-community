@@ -13,36 +13,35 @@ addedBy: osm_import
 
 ## Schooner Gertrude de Costa (1950)
 
-The Schooner Gertrude de Costa is a 20th-century wooden schooner wreck located in the Shubenacadie Channel at approximately 28 meters depth. The historic wooden vessel rests in cold Atlantic water characterized by strong tidal currents and variable visibility. The wreck offers exploration of wooden shipbuilding techniques and is part of Nova Scotia's rich maritime heritage. Strong current management is essential at this site.
+The Gertrude de Costa was a wooden two-masted schooner measuring over 30 metres in length. In 1950 she was struck by the oil tanker *Island Connector* in Halifax Harbour and sank, killing seven crew members. She now lies off the South End Container Terminal area of Halifax Harbour with both masts lying adjacent to the hull on the seabed.
 
-## Overview
+**SAFETY WARNING: Unexploded ordnance has been found on the deck of the Gertrude de Costa.** The origin of this ordnance is unknown. Divers should not approach, touch, or disturb any objects on the wreck that could be munitions. The Fisheries and Oceans Canada (DFO) harbour survey specifically flags this hazard.
 
-Schooner Gertrude de Costa (1950) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+When explored by divers, the wreck has revealed relatively modern equipment including batteries, a fire extinguisher, and an engine with instrument gauges — consistent with mid-20th-century wooden motor schooner construction.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Off South End Container Terminal, Halifax Harbour, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
+## Safety Considerations
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+**Unexploded ordnance is present on the wreck.** Do not touch or disturb any objects that could be munitions. Halifax Harbour has busy commercial vessel traffic — follow Nova Scotia Underwater Council harbour diving protocols. Cold Atlantic water (4–15°C) requires a drysuit.
 
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by boat. Contact East Coast Scuba & Watersports (Bedford, NS) or Torpedo Rays Scuba Adventures (Halifax) for current access guidance and operator-led trips to this site.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Do not touch any objects on the wreck — unexploded ordnance present
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Bring a dive light for wreck exploration
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Fisheries & Oceans Canada — Shipwrecks of Halifax Harbour](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*

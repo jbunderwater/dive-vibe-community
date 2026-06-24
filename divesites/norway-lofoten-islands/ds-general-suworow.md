@@ -29,7 +29,7 @@ Divers interested in this site should contact local operators (Lofoten Diving, B
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 
 ---
 *Description based on OSM record only (wreck:date_sunk=1919-08-05). No independent dive operator or maritime history source for this vessel was located. Last updated 2026-06-24.*

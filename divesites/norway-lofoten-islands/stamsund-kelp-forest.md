@@ -2,7 +2,7 @@
 name: Stamsund Kelp Forest
 lat: 68.12
 lng: 13.85
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 14
 entryType: shore
 siteType: reef
@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Stamsund Kelp Forest
 
-Stamsund Kelp Forest is a reef dive site in Norway Lofoten Islands, Europe.
+Stamsund Kelp Forest is a shallow cold-water shore dive in Lofoten's kelp habitat near the fishing village of Stamsund on Vestvågøya.
 
 ## Overview
 
-The kelp forest off Stamsund grows in dense stands along the rocky shoreline of this Lofoten fishing village, with the towering sugar kelp canopy reaching the surface and creating a shaded, cathedral-like environment below. Cod, saithe, and edible crab move freely through the kelp stems, while tidepool gunnel, butterfish, and an assortment of nudibranchs inhabit the holdfasts and rock face beneath the canopy. This is one of the more beginner-friendly Lofoten sites, accessible by shore entry with moderate depths and strong natural interest for macro photographers working in the surge zone.
+Stamsund is a Hurtigruten port on the south coast of Vestvågøya, roughly midway along the Lofoten chain. The shoreline here features the dense Laminaria hyperborea kelp forests that characterise much of Lofoten's shallow coastline, growing from just below the surface to the light limit at around 15–20 metres.
+
+Diving within Lofoten's kelp forests is a documented activity, with X-Ray Mag specifically describing kelp macro diving outside Ballstad harbour as one of the highlights of the region. The kelp canopy creates a shaded, cathedral-like underwater environment, with kelp stems providing habitat for nudibranchs (including Facelina auriculata and Polycera quadrilineata), amphipods, hermit crabs, and blade shrimp. Cod, saithe, and edible crab move through the kelp, and lumpfish are occasionally found resting near holdfasts.
+
+The maximum depth of this entry is approximately 14 metres. The site is rated Intermediate due to cold-water conditions: water temperature is 2–10°C depending on season, requiring drysuit competency year-round. Shore entry on rocky Norwegian coastline requires appropriate footwear and cold-water diving experience. No dive operator or published source has been found that names a specific site as "Stamsund Kelp Forest"; this is a curated entry reflecting the general diving character of the Stamsund shoreline.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Stamsund, Vestvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*No site-specific sources for Stamsund Kelp Forest were found. Description reflects Lofoten regional kelp diving characteristics. Sources: [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway). Last updated 2026-06-24.*

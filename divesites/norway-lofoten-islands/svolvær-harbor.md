@@ -2,7 +2,7 @@
 name: Svolvær Harbor
 lat: 68.234
 lng: 14.568
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: shore
 siteType: reef
@@ -13,47 +13,23 @@ addedBy: osm_import
 
 ## Svolvær Harbor
 
-Svolvær Harbor is a shore reef dive site in the Lofoten Islands, Norway.
+Svolvær Harbor is a cold-water shore reef dive in the main harbour of Svolvær, the administrative centre of the Lofoten Islands.
 
 ## Overview
 
-Svolvær is the largest town and administrative centre of the Lofoten Islands, situated on Austvågøya island beneath the dramatic Svolværgeita mountain peaks. The harbour area offers a sheltered, accessible shore dive that serves as an introduction to cold-water diving in Lofoten, particularly for those based in Svolvær during a broader Lofoten visit.
+Svolvær sits on Austvågøya island beneath the dramatic Svolværgeita mountain peaks and serves as the main gateway town to the Lofoten archipelago. The harbour area offers a sheltered shore dive to approximately 15 metres in protected coastal water, reaching a rocky reef and kelp habitat typical of Lofoten inshore diving.
 
-The dive is shallow — maximum 15 metres — and conducted in the protected waters of the harbour and adjacent coastline. The harbour bottom is rocky reef with kelp and sand, and the sheltered nature of the site means minimal current. Visibility is typically reasonable for a harbour environment, benefiting from Lofoten's notably clean and nutrient-rich coastal waters. The surrounding fjords and islands are influenced by the North Atlantic Current and Gulf Stream, which keep water temperatures mild for the latitude year-round.
+The harbour bottom is a mix of rocky reef, kelp beds, and sand, with encrusting life on harbour structures — ropes, moorings, and jetty piles that accumulate dead man's fingers, anemones, and other sessile invertebrates. Pollock and saithe school in the mid-water; Atlantic cod visit from deeper water; and crabs, sea urchins, and anemones colonise the rocky bottom. The MS Siw-Aina, described as the shallowest and most accessible of the local wrecks, is accessible by boat from Svolvær and provides a complementary dive option for those based here.
 
-Typical species in Svolvær harbour reflect the broader Lofoten cold-water community: pollock and saithe school in the mid-water; Atlantic cod visit from deeper water; crabs, sea urchins, and anemones colonise the rocky bottom. The harbour setting means some diver encounters with ropes, moorings, and jetty structures, which themselves accumulate encrusting life and provide habitat for wrasse and small rockfish. Lofoten Diving (based in Ballstad) also operates wreck diving excursions from Svolvær to nearby wrecks including the SS Ramø and SS Hamburg.
-
-## Dive Profile
-
-- **Entry**: Shore entry from harbour area
-- **Depth range**: 2–15 m
-- **Bottom composition**: Rocky reef, kelp, harbour structures, sand
-- **Conditions**: Sheltered; minimal current
-- **Water temperature**: 4–6°C (winter) to 12–15°C (summer)
-- **Visibility**: 10–20 m typical; harbour visibility variable
-- **Thermal protection**: Drysuit recommended; semi-dry acceptable in summer
-
-## Marine Life
-
-- **Fish**: Pollock, saithe, Atlantic cod, wrasse, small rockfish, sculpin
-- **Invertebrates**: Shore crabs, sea urchins, sea anemones, dead man's fingers, nudibranchs
-- **Kelp**: Laminaria forest on rocky areas adjacent to harbour
-
-## Safety
-
-Cold water year-round. Shore entry in a working harbour requires awareness of vessel traffic. Drysuit recommended. Suitable for beginner divers under supervision.
+This site is rated Intermediate due to Lofoten's cold-water conditions: water temperature is 4–6°C in winter and 10–12°C in summer, requiring drysuit competency year-round. Experienced divers may find the depth modest, but the cold-water environment demands appropriate thermal protection and cold-water diving experience. Shore entry in a working harbour requires awareness of vessel traffic.
 
 ## Site Information
 
 - **Location**: Svolvær, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
-
 ---
-*Sources: [Lofoten Diving — Svolvær wreck diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/). No site-specific sources for Svolvær Harbor shore diving were located; description reflects Lofoten regional harbour diving characteristics. Last updated 2026-05-17.*
+*No site-specific sources for Svolvær Harbor shore diving were found. Description reflects Lofoten regional harbour diving characteristics. Sources: [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Lofoten Diving](https://lofoten-diving.no/), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway). Last updated 2026-06-24.*

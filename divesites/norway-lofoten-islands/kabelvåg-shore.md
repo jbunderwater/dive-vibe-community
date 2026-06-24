@@ -29,9 +29,9 @@ Lofoten Opplevelser operates guided dives from Henningsvær to the east; Lofoten
 
 - **Location**: Kabelvåg, Austvågøya, Lofoten Islands, Nordland, Norway
 - **Entry Type**: Shore entry
-- **Site Type**: Reef (kelp and rocky)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 
 ---
 *No site-specific sources for Kabelvåg Shore were found. Description reflects Lofoten regional cold-water diving characteristics. Sources: [Lofoten Diving](https://lofoten-diving.no/), [Visit Lofoten — Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/). Last updated 2026-06-24.*

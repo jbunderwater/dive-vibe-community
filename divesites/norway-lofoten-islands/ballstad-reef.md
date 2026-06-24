@@ -27,9 +27,9 @@ Drysuit is required year-round; water temperature is 2–6°C in winter and 8–
 
 - **Location**: Southwest of Ballstad, Vestvågøya, Lofoten Islands, Norway
 - **Entry Type**: Boat dive
-- **Site Type**: Wall and canyon
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 
 ---
 *Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Lofoten Diving](https://lofoten-diving.no/). Last updated 2026-06-24.*
