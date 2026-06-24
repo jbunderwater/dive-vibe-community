@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## Royal Canadian Navy gate vessel HMCS Ypres (1940)
 
-HMCS Ypres was a Royal Canadian Navy minesweeper sunk in 1940, representing important Canadian naval heritage. The 27-meter wreck in the Shubenacadie Channel offers exploration of a significant warship with historical importance. The site features good structural integrity and attracts Atlantic marine life. Cold water and currents require advanced training and experience.
+**Correction from previous description:** HMCS Ypres was not a minesweeper. She was a Battle-class naval trawler, launched July 16, 1917, and commissioned into the Royal Canadian Navy on November 10, 1917. In 1922 she was redesignated as a minesweeper, and by 1938 she was recommissioned again as Gate Vessel 1 — part of the Halifax harbour boom defence system that stretched a submarine net across the harbour entrance.
 
-## Overview
+On the night of May 12, 1940, the British battleship HMS Revenge was departing Halifax to escort two troop transports to the United Kingdom. A request was made to open the anti-submarine boom; Gate Vessel 1 (HMCS Ypres) reported the gate open at 2055 hours. At 2056, HMS Revenge struck the gate vessel, rolling her nearly onto her side and flooding her through upper deck openings. The trawler, still attached to the boom cable, was dragged roughly 500 yards before HMS Revenge stopped. HMCS Ypres sank at approximately 2125 hours. There were no fatalities — thirteen crew were collected by HMS Revenge and five more by the sister gate vessel HMCS Festubert.
 
-Royal Canadian Navy gate vessel HMCS Ypres (1940) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+The vessel measured 130 ft (40 m) in length, 23 ft 5 in beam, and displaced 320 long tons.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Halifax Harbour, Nova Scotia (harbour boom area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
-
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
-
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by boat. Contact local Halifax dive operators — East Coast Scuba & Watersports (Bedford) or Torpedo Rays Scuba Adventures (Halifax) — for current coordinates and access guidance. The Halifax harbour area has busy vessel traffic; follow Nova Scotia Underwater Council protocols for harbour diving.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Halifax Harbour diving requires awareness of vessel traffic and ferry routes
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Bring a dive light for wreck exploration
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Wikipedia — HMCS Ypres](https://en.wikipedia.org/wiki/HMCS_Ypres), [For Posterity's Sake — HMCS Ypres](https://www.forposterityssake.ca/Navy/HMCS_YPRES.htm), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*

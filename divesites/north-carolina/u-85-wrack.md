@@ -3,7 +3,7 @@ name: U-85 (Wrack)
 lat: 35.55
 lng: -75.13
 difficulty: Advanced
-maxDepth: 34
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ U-85 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 34 metres, 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility, and its enigma machine — recovered by divers — now resides at the Graveyard of the Atlantic Museum in Hatteras, while the sub's hatch is displayed at Cape Hatteras Lighthouse.
+U-85 holds the distinction of being the first German U-boat sunk by US naval forces off the American East Coast during WWII's Operation Drumbeat — a Type VIIB submarine sent to the bottom by the destroyer USS Roper on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 27 metres (90 ft), 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility. An Enigma machine recovered from the wreck by private divers is now displayed at the Graveyard of the Atlantic Museum in Hatteras, as is the submarine's hatch.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34 meters
+- **Maximum Depth**: 27 meters
 
 ## Marine Life
 
@@ -33,13 +33,13 @@ The exposed torpedo tubes and open hull sections provide structure that attracts
 
 ## Wreck History
 
-U-85 was a German Type VIIB submarine, 66.5 m long. She was the first enemy submarine sunk by a US Navy warship in World War II.
+U-85 was a German Type VIIB submarine, 66.5 m long. She was the first German U-boat sunk by US naval forces off the American East Coast in World War II — specifically the first U-boat loss of Operation Drumbeat (Paukenschlag), the German campaign targeting US coastal shipping. NOAA Monitor Sanctuary describes her as "the first German U-boat sunk by United States naval forces off the American East Coast."
 
 On the night of 13–14 April 1942, USS Roper (DD-147), a Wickes-class destroyer, detected U-85 on radar at a range of 2,700 yards near Bodie Island Light. U-85 attempted to flee on the surface and fired a stern torpedo that narrowly missed Roper. The destroyer closed to 700 yards, raked U-85 with machine gun fire, and scored a direct hit with her 3-inch/50 caliber gun aft of the conning tower. U-85 began sinking; USS Roper then dropped 11 depth charges. Multiple crew members were observed in the water but no rescue was attempted until daylight; by then all 46 crew had perished. 29 bodies were recovered and buried at Hampton National Cemetery in Virginia.
 
 The wreck rests on its starboard side with an approximately 80-degree list, 14 miles east of Oregon Inlet, in approximately 90 ft (27 m) of water. The bow's outer hull is absent, exposing the pressure hull and four forward torpedo tubes — some of which still contain visible torpedoes. Battle damage from Roper's guns is visible aft of the conning tower.
 
-**Note:** A recovered Enigma machine from this wreck is displayed at the Graveyard of the Atlantic Museum in Hatteras. The sub is a war grave; interior access is prohibited.
+**Note:** An Enigma machine recovered by private divers from this wreck is displayed at the Graveyard of the Atlantic Museum in Hatteras; the submarine's hatch is also displayed there. In 2003, the German government agreed to allow the Enigma machine to be displayed at the museum. The wreck is a war grave; interior access is prohibited.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ U-85 is an advanced dive given the strong, unpredictable currents common near Or
 Currents near Oregon Inlet are among the strongest in North Carolina coastal waters — always use a surface marker buoy (SMB) and follow charter operator guidance. This is a war grave; artifact removal and penetration are prohibited. Live torpedoes may still be present in the tubes — do not approach or disturb. Depth of 90 ft is manageable but currents make this an advanced dive. Water temperature varies dramatically with current direction; be prepared for thermoclines.
 
 ---
-*Sources: [NOAA Monitor Sanctuary — U-85](https://monitor.noaa.gov/shipwrecks/u-85.html), [Wikipedia — German submarine U-85 (1941)](https://en.wikipedia.org/wiki/German_submarine_U-85_(1941)), [Scuba Diver Life — Preserving U-85](https://scubadiverlife.com/preserving-americas-underwater-battlefield-u-85/), [Warfare History Network — Sinking of U-85](https://warfarehistorynetwork.com/article/the-sinking-of-unterseeboot-85/). Last updated 2026-05-17.*
+*Sources: [NOAA Monitor Sanctuary — U-85](https://monitor.noaa.gov/shipwrecks/u-85.html), [Wikipedia — German submarine U-85 (1941)](https://en.wikipedia.org/wiki/German_submarine_U-85_(1941)), [Scuba Diver Life — Preserving U-85](https://scubadiverlife.com/preserving-americas-underwater-battlefield-u-85/), [Warfare History Network — Sinking of U-85](https://warfarehistorynetwork.com/article/the-sinking-of-unterseeboot-85/). Last updated 2026-06-24.*

@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## American (Virginia) brig, name unknown (1824)
 
-This early 19th-century American sailing vessel wreck represents one of the oldest documented wrecks in Nova Scotia, dating to 1824. Located at 30 meters in the Shubenacadie Channel, the wooden ship remains offer exceptional historical value and excellent preservation in the cold Atlantic water. The site is significant for maritime archaeology and the study of early American sailing vessels. Advanced training required.
+This early 19th-century wreck is recorded in the Maritime Museum of the Atlantic's "On the Rocks" shipwreck database as an American brig of Virginia registry, wrecked in 1824 near Halifax. The vessel's name is not recorded. The OSM data places this site in the McNabs Island / southern Halifax Harbour area at coordinates 44.6057°N, 63.5277°W.
 
-## Overview
+**Verification status:** No named American brig wrecked near Halifax in 1824 could be identified in available public online records. The Maritime Museum's database (now redirecting to maritimemuseum.novascotia.ca with no direct record access) is the primary source for this entry. The "Virginia" designation in the site name refers to the state of registry, not the vessel name.
 
-American (Virginia) brig, name unknown (1824) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+The previous claim of "exceptional historical value and excellent preservation in the cold Atlantic water" is unsupported. After 200 years, a wooden brig hull would typically retain only structural timbers, iron fasteners, ballast stones, and possibly a few artefacts. No dive reports were found confirming the current condition of this site.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Near McNabs Island, Halifax Harbour, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
-
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
-
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by boat. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays (Dartmouth) for local guidance. Follow Nova Scotia Underwater Council harbour diving protocols.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Wooden structural remains may be limited after 200 years on the seabed
+- Archaeological wreck — do not remove or disturb any artefacts
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No vessel name or dive-specific sources found for this site. Last updated 2026-06-24.*

@@ -2,8 +2,8 @@
 name: Nusfjord Wall
 lat: 68.035
 lng: 13.35
-difficulty: Advanced
-maxDepth: 22
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Nusfjord Wall
 
-Nusfjord Wall is a wall dive site in Norway Lofoten Islands, Europe.
+Nusfjord Wall is a shallow anemone wall in one of Lofoten's most picturesque harbour settings, known informally to local divers as the "Shit Wall."
 
 ## Overview
 
-Nusfjord Wall descends from one of Lofoten's best-preserved historic fishing villages, a UNESCO-listed cluster of red and yellow rorbu cabins that sits directly above an underwater wall blanketed in Dahlia anemones and dead man's fingers soft corals. The wall drops steeply from a few meters depth and continues beyond 30 meters, with cold-water sponges, tube worms, and nudibranchs colonizing every surface in the near-zero-degree bottom water. Nusfjord's fjord setting gives the dive a dramatic character — towering granite peaks above the surface, an equally sheer wall below — with halibut and wolffish often found at the base.
+The wall sits directly across from Nusfjord harbour on Flakstadøya, beneath the cluster of red and yellow rorbu fishing cabins that make this one of Lofoten's most photographed villages. Hundreds of cormorants nest on the cliff face above the water, and the nutrient runoff from their guano feeds an extraordinary density of Dahlia anemones that carpet the wall from approximately half a metre below the surface to about 20 metres depth. X-Ray Mag's Lofoten dive guide describes the result as "a staggering kaleidoscope of colors" rivalling tropical reefs in vibrancy.
+
+The wall starts at the north end of the harbour face and drops steeply. Because the best marine life is in the upper 20 metres, this is a more accessible dive than Lofoten's deeper Advanced wall sites, and the density of macro subjects (nudibranchs, amphipods, small fish in the kelp canopy above the wall) makes it excellent for underwater photographers. Water temperature is 2–8°C; drysuit is required.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Nusfjord harbour, Flakstadøya, Lofoten Islands, Norway
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Zentacle — Nusfjord](https://www.zentacle.com/Beach/10054/nusfjord). Last updated 2026-06-24.*

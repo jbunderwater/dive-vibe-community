@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 24,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "reef",
     "ref": "",
     "osmId": 306050015
   },
@@ -40,8 +40,8 @@
     "filename": "abt-salalah.md",
     "lat": 17.0087552,
     "lng": 54.1517412,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
@@ -91,7 +91,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "wreck",
+    "siteType": "reef",
     "ref": "",
     "osmId": 306112631
   },
@@ -115,7 +115,7 @@
     "difficulty": "Advanced",
     "maxDepth": 24,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 3357593
   }

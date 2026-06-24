@@ -13,36 +13,31 @@ addedBy: osm_import
 
 ## Hudson bomber plane (1944)
 
-A WWII-era Hudson bomber aircraft sunk in 1944 rests at 23 meters in the Shubenacadie Channel. This accessible aircraft wreck provides exploration of military aviation history in a cold Atlantic environment. The fuselage and components remain visible, offering unique dive experiences and photography opportunities. Strong tidal currents are characteristic of this location.
+Aircraft wrecks described as "bomber plane wrecks from the 1940s and 50s" are confirmed at Timmins Cove on the east side of McNabs Island, across from CFB Shearwater — consistent with the OSM coordinates for this site (44.6233°N, 63.5260°W), which are very close to those of the adjacent Sea Fury site.
 
-## Overview
+**Aircraft type uncertainty:** The designation "Hudson bomber" requires caution. A Lockheed Hudson did crash near Dartmouth, NS on November 6, 1944 (crew of six, departed Torbay, crashed on night approach). However, research into a second WWII-era NS aircraft wreck (recovered in 2014 at Country Harbour) showed what had been reported as a Hudson was subsequently identified by the Atlantic Canada Aviation Museum as a **Vega Ventura** — a related but distinct aircraft type. Without access to accident records for this specific wreck, the type cannot be confirmed. The crash date (1944) and general area are consistent with WWII naval aviation activity at HMCS Shearwater.
 
-Hudson bomber plane (1944) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+The previous claim of "fuselage and components remain visible" is unverified.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Near McNabs Island / Timmins Cove, Halifax Harbour, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
-
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
-
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by boat to the McNabs Island area. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays (Dartmouth) for current information. Follow Nova Scotia Underwater Council harbour diving protocols.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Aircraft wrecks are historically significant — do not remove or disturb components
+- Halifax Harbour has significant vessel traffic; carry a surface marker buoy (SMB)
+- Bring a dive light for detailed exploration
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Nova Scotia Military History — Mystery On The Lake](https://madiganstories.com/mystery-on-the-lake/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type (Hudson vs. Ventura) and 1944 date not independently confirmed from public online records. Last updated 2026-06-24.*

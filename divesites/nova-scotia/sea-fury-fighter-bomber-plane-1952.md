@@ -13,36 +13,29 @@ addedBy: osm_import
 
 ## Sea Fury fighter bomber plane (1952)
 
-The Sea Fury is a military fighter-bomber aircraft that sank in 1952, creating a unique aircraft dive experience at 25 meters in the Shubenacadie Channel. Fuselage sections and aircraft components provide distinctive photographic subjects and interesting wreck structure exploration. Cold water and tidal currents require advanced training and experience. This site appeals to aviation archaeology enthusiasts.
+The Hawker Sea Fury was operated by the Royal Canadian Navy from 1948 to 1956, with 74 FB.11 aircraft serving Squadrons 870 and 871 at HMCS Shearwater (Dartmouth, NS) and aboard HMCS Magnificent. Aircraft wrecks described as "bomber plane wrecks from the 1940s and 50s" are confirmed at Timmins Cove on the east side of McNabs Island, across from CFB Shearwater — consistent with the OSM coordinates for this site (44.6219°N, 63.5227°W).
 
-## Overview
-
-Sea Fury fighter bomber plane (1952) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+**Verification note:** No public online source could be found that specifically identifies this site as a Hawker Sea Fury wreck from 1952, or confirms the exact aircraft type, serial number, or loss date. Multiple RCN Sea Fury losses are documented in military records, but none found in online sources match a 1952 Halifax harbour loss. The description of this as a "Sea Fury fighter bomber" may be accurate based on local club knowledge, but this could not be independently verified from public records. The previous claim of "fuselage sections and aircraft components remain visible" is also unverified.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Near McNabs Island / Timmins Cove, Halifax Harbour, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
-
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
-
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by boat to McNabs Island area. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays (Dartmouth, across from Shearwater) for current information on this site. Follow Nova Scotia Underwater Council harbour diving protocols.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Aircraft wrecks are historically significant — do not remove or disturb components
+- Halifax Harbour has significant vessel traffic; carry a surface marker buoy (SMB)
+- Bring a dive light for detailed exploration of aircraft structure
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Canadian Warplanes 5: Hawker Sea Fury RCN](https://silverhawkauthor.com/aviation/canadian-warplanes-5-hawker-sea-fury/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type and 1952 date not independently confirmed from public online records. Last updated 2026-06-24.*
