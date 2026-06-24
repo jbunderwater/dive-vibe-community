@@ -2,8 +2,8 @@
 name: Paposse (Wrack)
 lat: 34.1445
 lng: -76.652
-difficulty: Advanced
-maxDepth: 38
+difficulty: Intermediate
+maxDepth: 37
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Paposse (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-foot petroleum tanker torpedoed by U-124 on 19 March 1942 while carrying 65,000 barrels of heating oil — she now lies upside down in 38 metres about 36 nautical miles from shore, close enough to the Gulf Stream that visibility of 100 feet is achievable. The inverted hull creates dramatic swim-through opportunities beneath the massive structure, and the site is heavily trafficked by sand tiger sharks drawn to the wreck's dark underside; turtles, jacks, and stingrays round out the offshore marine community. The three-hour boat ride from Morehead City keeps the site relatively uncrowded despite its fame as one of North Carolina's great wreck dives.
+The Papoose (also referred to by some sources as the W.E. Hutton — see Wreck History below) is a 412-foot petroleum tanker torpedoed by U-124 on 18 March 1942, now lying upside down in approximately 120 feet (37 m) of water nearly 36 nautical miles off Morehead City. The site lies in clear Gulf Stream water where visibility of 100 feet is achievable. The inverted hull is home to 15–20 resident sand tiger sharks on a typical day, along with jacks and turtles. The offshore location keeps the site relatively uncrowded despite its fame as one of North Carolina's great intermediate wreck dives.
 
 ## Site Information
 
@@ -29,33 +29,31 @@ The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-fo
 
 ## Marine Life
 
-Discovery Diving lists this wreck at 70 ft depth with typical visibility 30–40 ft and water temperature 76–82°F. The anchor, engine, rudder, and boilers are visible on the seabed and attract the inshore community of sheepshead, black sea bass, and amberjack typical of North Carolina wreck sites at this depth range.
+Olympus Dive Center reports 15–20 resident sand tiger sharks on a typical day, drawn to the wreck's dark inverted hull. Jacks and sea turtles are common alongside the sharks. As an offshore Gulf Stream site, expect typical Atlantic warm-water fauna at this depth — amberjack, barracuda, and black sea bass around the exposed structure. Visibility typically 50–80 feet in summer.
 
-## Wreck History — IDENTITY DISPUTED / CORRECTED
+## Wreck History — Identity Note
 
-**Important note:** The wreck widely known to divers as the "Papoose" is now confirmed by NOAA to be the W.E. Hutton — a separate vessel. This is one of the most significant wreck misidentifications in US diving history.
+The dive site is universally known to local divers and operators as "Papoose." NOAA's Monitor Sanctuary page also uses the name Papoose for this site. Olympus Dive Center lists it as "Papoose (aka W.E. Hutton)." The two names are used interchangeably by local operators for this single dive site.
 
-The confusion originated with a 1943 US Coast Guard Gentian survey that incorrectly assigned wreck identities in the Cape Lookout area. For decades, divers believed this site was the tanker SS Papoose. In 2008, working with local divers and avocational researchers, NOAA re-identified the wrecks. The sites originally labelled as Mirlo, Papoose, W.E. Hutton, and San Delfino were reassigned as San Delfino, W.E. Hutton, Ario, and Papoose respectively.
+**The Papoose:** A 412-foot, 5,939 GRT petroleum tanker. On 18 March 1942 she was torpedoed by German submarine U-124 off Cape Hatteras. Two crew members were killed; 32 of 34 survived. The wreck rests upside down in approximately 120–125 feet of water.
 
-**The actual W.E. Hutton:** A steel tanker built in 1920 (435 ft, 7,076 GRT), originally named Portola Plumas and later purchased by Pure Oil Steamship Company. On 19 March 1942 she was struck by two torpedoes from German U-124 while carrying 65,000 barrels of heating oil from Texas to Pennsylvania. Of 36 crew, 23 survived and 13 died. NOAA multibeam sonar surveys in 2016 confirmed the hull identity. The wreck lies in approximately 125 ft of water (per NOAA), though Discovery Diving lists the dive site at 70 ft — sources vary and the site appears to have partial relief rising significantly above the seafloor.
-
-**The actual Papoose:** A different tanker torpedoed by U-124 on 18 March 1942 (one day earlier), now confirmed to lie in approximately 200 ft of water northeast of Cape Hatteras — well beyond recreational diving limits.
+**Historical confusion:** A 1943 US Coast Guard Gentian survey incorrectly assigned wreck identities in the Cape Lookout area, creating decades of confusion between this site and nearby wrecks (Mirlo, W.E. Hutton, San Delfino). NOAA subsequently worked with local researchers to re-identify the wrecks. The dive site long known as "Papoose" to local operators is recognised by NOAA as the actual Papoose.
 
 ## Dive Profile
 
-Discovery Diving lists the site at 65–70 ft depth with 30–40 ft typical visibility. The wreck has limited relief with the anchor, engine, rudder, and boilers as the most prominent structures. This is a novice-to-intermediate site given the shallower depth compared to the deep offshore wrecks. The site lies approximately 13.8 miles from Beaufort Inlet.
+The wreck lies inverted at approximately 120 feet (37 m), nearly 36 nautical miles from shore in Gulf Stream water. Maximum depth to the seabed is approximately 125 ft; the wreck rises off the bottom. Penetration is possible through the inverted hull into the boiler room area — certified wreck divers only. Bottom time at this depth is limited; nitrox is commonly used. Typical visibility 50–80 feet in summer months.
 
 ## Entry and Exit
 
-Charter access from Beaufort or Morehead City. Discovery Diving serves this site and lists it as a novice-intermediate dive. Approximately 13.8 miles from Beaufort Inlet — significantly closer inshore than the deep offshore wrecks.
+Charter access from Morehead City. Olympus Dive Center offers regular full-day charters to the Papoose. The 36-nautical-mile offshore location means a significant transit; full-day trips are required. No shore access is possible.
 
 ## Tips and Recommendations
 
-Understand before diving that the "Papoose" name is a historical misnomer — you are diving the W.E. Hutton. The site offers a good introduction to North Carolina wreck diving at a shallower, more accessible depth than the famous offshore sites. Discovery Diving offers good briefings on the site's corrected identity.
+The resident sand tiger shark population is the signature feature — on a good day 15–20 sharks patrol the inverted hull. For the best shark activity, dive June through September. Nitrox is strongly recommended for extended bottom time at 120 ft. Certified wreck divers may penetrate to the boiler room area; non-certified divers should remain outside the hull.
 
 ## Safety Considerations
 
-The shallower depth (70 ft) makes this more forgiving than the deep offshore wrecks, though offshore North Carolina conditions still require appropriate planning and charter experience. Currents can run in the open water between Beaufort Inlet and the site.
+At 120 ft this is at the recreational depth limit; nitrox is widely recommended. The 36-nautical-mile offshore location means sea conditions on the open Atlantic can change rapidly. Currents in Gulf Stream water can be significant. Always follow charter operator guidance, and be prepared for thermoclines separating warmer surface water from cooler deep water.
 
 ---
-*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [NOAA Monitor Sanctuary — W.E. Hutton](https://monitor.noaa.gov/shipwrecks/hutton.html), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Scuba Diver Life — Preserving W.E. Hutton](https://scubadiverlife.com/preserving-americas-underwater-battlefield-w-e-hutton/). Last updated 2026-05-17.*
+*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [Olympus Dive Center — Papoose](https://olympusdiving.com/papoose), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites). Last updated 2026-06-24.*

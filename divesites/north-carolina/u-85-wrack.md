@@ -17,7 +17,7 @@ U-85 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 34 metres, 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility, and its enigma machine — recovered by divers — now resides at the Graveyard of the Atlantic Museum in Hatteras, while the sub's hatch is displayed at Cape Hatteras Lighthouse.
+U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 34 metres, 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility. An Enigma machine recovered from the wreck by private divers is now displayed at the Graveyard of the Atlantic Museum in Hatteras, as is the submarine's hatch.
 
 ## Site Information
 
@@ -39,7 +39,7 @@ On the night of 13–14 April 1942, USS Roper (DD-147), a Wickes-class destroyer
 
 The wreck rests on its starboard side with an approximately 80-degree list, 14 miles east of Oregon Inlet, in approximately 90 ft (27 m) of water. The bow's outer hull is absent, exposing the pressure hull and four forward torpedo tubes — some of which still contain visible torpedoes. Battle damage from Roper's guns is visible aft of the conning tower.
 
-**Note:** A recovered Enigma machine from this wreck is displayed at the Graveyard of the Atlantic Museum in Hatteras. The sub is a war grave; interior access is prohibited.
+**Note:** An Enigma machine recovered by private divers from this wreck is displayed at the Graveyard of the Atlantic Museum in Hatteras; the submarine's hatch is also displayed there. In 2003, the German government agreed to allow the Enigma machine to be displayed at the museum. The wreck is a war grave; interior access is prohibited.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ U-85 is an advanced dive given the strong, unpredictable currents common near Or
 Currents near Oregon Inlet are among the strongest in North Carolina coastal waters — always use a surface marker buoy (SMB) and follow charter operator guidance. This is a war grave; artifact removal and penetration are prohibited. Live torpedoes may still be present in the tubes — do not approach or disturb. Depth of 90 ft is manageable but currents make this an advanced dive. Water temperature varies dramatically with current direction; be prepared for thermoclines.
 
 ---
-*Sources: [NOAA Monitor Sanctuary — U-85](https://monitor.noaa.gov/shipwrecks/u-85.html), [Wikipedia — German submarine U-85 (1941)](https://en.wikipedia.org/wiki/German_submarine_U-85_(1941)), [Scuba Diver Life — Preserving U-85](https://scubadiverlife.com/preserving-americas-underwater-battlefield-u-85/), [Warfare History Network — Sinking of U-85](https://warfarehistorynetwork.com/article/the-sinking-of-unterseeboot-85/). Last updated 2026-05-17.*
+*Sources: [NOAA Monitor Sanctuary — U-85](https://monitor.noaa.gov/shipwrecks/u-85.html), [Wikipedia — German submarine U-85 (1941)](https://en.wikipedia.org/wiki/German_submarine_U-85_(1941)), [Scuba Diver Life — Preserving U-85](https://scubadiverlife.com/preserving-americas-underwater-battlefield-u-85/), [Warfare History Network — Sinking of U-85](https://warfarehistorynetwork.com/article/the-sinking-of-unterseeboot-85/). Last updated 2026-06-24.*
