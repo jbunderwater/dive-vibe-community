@@ -25,7 +25,7 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters (90 feet)
+- **Maximum Depth**: 27 meters
 
 ## Marine Life
 
@@ -33,7 +33,7 @@ The exposed torpedo tubes and open hull sections provide structure that attracts
 
 ## Wreck History
 
-U-85 was a German Type VIIB submarine, 66.5 m long. She was the first enemy submarine sunk by a US Navy warship in World War II.
+U-85 was a German Type VIIB submarine, 66.5 m long. She was the first German U-boat sunk by US naval forces off the American East Coast in World War II — specifically the first U-boat loss of Operation Drumbeat (Paukenschlag), the German campaign targeting US coastal shipping. NOAA Monitor Sanctuary describes her as "the first German U-boat sunk by United States naval forces off the American East Coast."
 
 On the night of 13–14 April 1942, USS Roper (DD-147), a Wickes-class destroyer, detected U-85 on radar at a range of 2,700 yards near Bodie Island Light. U-85 attempted to flee on the surface and fired a stern torpedo that narrowly missed Roper. The destroyer closed to 700 yards, raked U-85 with machine gun fire, and scored a direct hit with her 3-inch/50 caliber gun aft of the conning tower. U-85 began sinking; USS Roper then dropped 11 depth charges. Multiple crew members were observed in the water but no rescue was attempted until daylight; by then all 46 crew had perished. 29 bodies were recovered and buried at Hampton National Cemetery in Virginia.
 

@@ -17,7 +17,7 @@ Aeolus (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The Aeolus was a 438-foot cable repair ship deliberately sunk as an artificial reef in 1988 off Morehead City; subsequent hurricanes split her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in 33 metres of Gulf Stream-influenced water. Sand tiger sharks adopted the cable storage compartments as a lounge, and during the 2012 season a dozen or more were resident at once, swimming at arm's length from divers amid a backdrop of frenzied jacks, barracudas, and dense grouper populations working the wreck's exterior. The three-hour boat ride from Morehead City is well worth it: the clear offshore water and reliable shark activity make the Aeolus one of North Carolina's benchmark wreck dives.
+The Aeolus was a 438-foot (134 m) cable repair ship deliberately sunk as an artificial reef in 1988 off Morehead City; subsequent hurricanes split her into three sections, creating what locals call "Club Aeolus" — a reliably shark-dense wreck lying in 33 metres of Gulf Stream-influenced water. Sand tiger sharks adopted the cable storage compartments as a lounge, and during the 2012 season a dozen or more were resident at once, swimming at arm's length from divers amid a backdrop of frenzied jacks, barracudas, and dense grouper populations working the wreck's exterior. The three-hour boat ride from Morehead City is well worth it: the clear offshore water and reliable shark activity make the Aeolus one of North Carolina's benchmark wreck dives.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: U-352 (Wrack)
 lat: 34.22767
 lng: -76.56597
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 34
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ U-352 is one of the most celebrated dive sites on the US East Coast — a 218-fo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 34 meters
 
 ## Marine Life
 

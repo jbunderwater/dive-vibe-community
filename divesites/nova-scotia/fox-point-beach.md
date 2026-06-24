@@ -13,16 +13,16 @@ addedBy: osm_import
 
 ## Fox Point Beach
 
-Fox Point Beach is one of Nova Scotia's few sandy shore-entry dive sites, suitable for beginners in sheltered diving areas at 10-15 meters. The site offers calm conditions during favorable weather and good visibility. An accessible training location for beginner divers and those practicing shore entry techniques.
+Fox Point Beach is a semi-sheltered sandy cove in St. Margaret's Bay, between Hubbards and Mill Cove, and one of the most accessible and beginner-friendly dive sites on the Nova Scotia coast. East Coast Scuba & Watersports uses it as a training site and lists it as suitable for Open Water divers. The cove is approximately 700 feet long with a river running through it midway from Fox Point Lake.
 
-## Overview
+The beach entry is very easy, starting on small pebbles and rocks with sand dollars and crabs in the first few feet, gradually transitioning to fine sand with scattered rocks and boulders. To the left of the entry, a rocky shoreline provides the richer diving with lobsters, kelp, and eel grass. The right side is mostly sandy bottom with flounder and flatfish. Sea perch, moon snails, jellyfish (abundant mid-July), and occasional squid are commonly reported. Wolffish have been spotted rarely. Schools of mackerel and pollock visit the cove in summer.
 
-Fox Point Beach is a beach dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Surge and currents are generally not a problem here. Westerly winds can produce sizeable waves, so check conditions before entry. Average visibility is 10–20 feet, weather-dependent.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
-- **Entry Type**: Shore entry
+- **Location**: Fox Point, St. Margaret's Bay, Nova Scotia (near Hubbards)
+- **Entry Type**: Shore entry (beach)
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
@@ -30,15 +30,18 @@ Fox Point Beach is a beach dive site in Nova Scotia, North America. Cold Atlanti
 
 ## Marine Life
 
-Regional marine life in Nova Scotia waters includes Atlantic wolffish, cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Kelp beds are common in shallower rocky areas. No site-specific species reports were found for this site.
+Confirmed at this site: lobsters, rock crabs, flounder, sea perch, sand dollars, moon snails, jellyfish (mid-summer peak), occasional squid, and rare wolffish. Eel grass and kelp beds line the left rocky shoreline. Seals and harbour porpoise have been observed in the cove chasing baitfish schools.
+
+## Entry and Exit
+
+Direct beach access with easy entry. Park at the beach and walk to water's edge. The left (north) side of the cove near the rocky shoreline provides the better diving. The site is family-friendly with a picnic area. 4.5 km from Birchy Head (more advanced site).
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
-- Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Check westerly wind forecast — can produce sizeable waves in the cove
+- Best diving on the left/north side near rocky shoreline
+- Dive light useful for crevice and rocky areas
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [East Coast Scuba & Watersports — Fox Point Beach](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Zentacle — Fox Point Beach](https://www.zentacle.com/Beach/10976/fox-point-beach). Last updated 2026-06-24.*

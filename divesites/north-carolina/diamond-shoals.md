@@ -23,7 +23,7 @@ Diamond Shoals is a series of constantly shifting sandbars extending 13 kilomete
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 
