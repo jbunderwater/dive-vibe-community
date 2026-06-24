@@ -2,7 +2,7 @@
 name: Paposse (Wrack)
 lat: 34.1445
 lng: -76.652
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 37
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ The Papoose (also referred to by some sources as the W.E. Hutton — see Wreck H
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 
 ## Marine Life

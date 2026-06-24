@@ -17,7 +17,7 @@ U-352 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-352 is one of the most celebrated dive sites on the US East Coast — a 218-foot German submarine sunk by the Coast Guard Cutter Icarus on 9 May 1942 and sitting upright with a 45-degree starboard list in 35 metres about 26 miles off Morehead City, the conning tower visible at 27 metres. The outer hull has deteriorated but the sub remains structurally intact, with the cracked bow exposing forward torpedo tubes and the deck gun still raised as it was on her last day above water; though the interior is a war grave and penetration is illegal, up to three large sand tiger sharks — up to 7 feet long — have been observed cruising along the hull. The wreck was featured on the History Channel and discovered in 1974 by the captain of Olympus Dive Center, which still runs charters from Morehead City today.
+U-352 is one of the most celebrated dive sites on the US East Coast — a 220-foot (67.1 m) German submarine sunk by the Coast Guard Cutter Icarus on 9 May 1942 and sitting upright with a 45-degree starboard list in 35 metres about 26 miles off Morehead City, the conning tower visible at 27 metres. The outer hull has deteriorated but the sub remains structurally intact, with the cracked bow exposing forward torpedo tubes and the deck gun still raised as it was on her last day above water; though the interior is a war grave and penetration is illegal, up to three large sand tiger sharks — up to 7 feet long — have been observed cruising along the hull. The wreck was discovered in 1975 by George Purifoy, founder of Olympus Dive Center, which still runs charters from Morehead City today.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ U-352 was a German Type VIIC submarine, 67.1 m (220 ft) in length, that operated
 
 ## Dive Profile
 
-Bottom depth is 110 ft (33.5 m); the conning tower rises to approximately 90 ft. The wreck is 218 ft long and sits nearly intact with a starboard list. Divers typically descend the mooring line to the conning tower area, then work fore and aft along the hull. The bow section exposes the pressure hull and forward torpedo tubes. Bottom time at this depth limits dives to approximately 20–30 minutes on air; nitrox extends bottom time. The site is visited on full-day charter trips by Olympus Dive Center and Discovery Diving, both operating from Morehead City/Beaufort, approximately 26–28 nautical miles offshore.
+Bottom depth is 110 ft (33.5 m); the conning tower rises to approximately 90 ft. The wreck is 220 ft (67.1 m) long and sits nearly intact with a starboard list. Divers typically descend the mooring line to the conning tower area, then work fore and aft along the hull. The bow section exposes the pressure hull and forward torpedo tubes. Bottom time at this depth limits dives to approximately 20–30 minutes on air; nitrox extends bottom time. The site is visited on full-day charter trips by Olympus Dive Center and Discovery Diving, both operating from Morehead City/Beaufort, approximately 26–28 nautical miles offshore.
 
 ## Entry and Exit
 

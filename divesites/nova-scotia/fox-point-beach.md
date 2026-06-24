@@ -22,7 +22,7 @@ Surge and currents are generally not a problem here. Westerly winds can produce 
 ## Site Information
 
 - **Location**: Fox Point, St. Margaret's Bay, Nova Scotia (near Hubbards)
-- **Entry Type**: Shore entry (beach)
+- **Entry Type**: Shore entry
 - **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters

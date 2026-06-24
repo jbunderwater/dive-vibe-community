@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
 
-Two coal barges comprise this dual-wreck site in the Shubenacadie Channel at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
+Two barges associated with the Dominion Coal Company lie in the southern Halifax Harbour area at 22 metres depth. The OSM coordinates (44.6046°N, 63.5125°W) place this site near McNabs Island in Halifax Harbour, not the Shubenacadie Channel as previously stated. The Freeman's sinking date is unknown; the Lucia P. Dow is dated 1957.
+
+No public online source was found that documents these specific barges as an active dive site or describes their current condition.
 
 ## Overview
 
-Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+Dominion Coal Company barges Freeman and Lucia P. Dow are a dual-wreck dive site in the Halifax Harbour area, Nova Scotia.
 
 ## Site Information
 
@@ -30,7 +32,7 @@ Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957) is a
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific marine life reports were found for this wreck. Cold-water invertebrate communities including rock crab, sea anemones, and cunner typically colonize submerged wreck structure over time in Nova Scotia waters.
 
 ## Entry and Exit
 
@@ -45,4 +47,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*

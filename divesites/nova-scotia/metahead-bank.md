@@ -13,36 +13,29 @@ addedBy: osm_import
 
 ## Metahead Bank
 
-Metahead Bank is an offshore rocky bank at 35-40 meters featuring exposed reef structure and strong Atlantic currents. This pelagic dive site attracts large Atlantic wolffish, halibut, and occasional harbor seal encounters. The bank represents typical offshore Nova Scotia diving with dramatic topography, cold water (4-15°C depending on season), and excellent visibility during optimal conditions. A true deep-water, advanced-only site.
+**Validation note:** Metahead Bank does not appear in any publicly accessible Nova Scotia dive site database, including East Coast Scuba & Watersports (40+ sites), Torpedo Rays, PADI Nova Scotia listings, Wannadive.net (52 NS sites), Zentacle (53 NS sites), or ScubaBoard Nova Scotia dive threads. The OSM node (44.4761°N, 63.5445°W) places this site offshore southeast of Halifax near the Western Passage / Sambro Head area. "Metahead" may refer to a navigational/fisheries bank designation rather than a named dive site. The specific marine life claims in the previous description (wolffish, halibut, harbour seals) were not source-confirmed.
 
-## Overview
-
-Metahead Bank is a reef dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+This site may be a valid geographic feature (rocky fishing bank) that is not yet documented as a recreational dive site in public sources. Local charter operators who run offshore reef trips in the Sambro Head / Chebucto Head area would be the best source for current accessibility.
 
 ## Site Information
 
-- **Location**: Nova Scotia, North America
+- **Location**: Offshore southeast of Halifax, near Sambro Head area, Nova Scotia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
 - **Water Temperature**: 4-15°C (winter-summer)
 
-## Marine Life
-
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
-
 ## Entry and Exit
 
-Access by boat. No dedicated dive charter service was identified for this site in available sources. Contact local Nova Scotia dive operators for current access information.
+Access by offshore charter boat. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays (Dartmouth) for current information on offshore reef diving in this area.
 
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Offshore site with Atlantic swells and potential strong currents
 - Carry a surface marker buoy (SMB)
-- Bring a dive light for any overhead or low-visibility environments
-
+- Confirm site coordinates with local operators before planning
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Description based on regional Nova Scotia diving characteristics. No site-specific sources found. This site name is not confirmed in any public dive site database. Last updated 2026-06-24.*

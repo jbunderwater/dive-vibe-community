@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## CN Barges (3), c. 1941
 
-Three Canadian National Railway barges dating to approximately 1941 form this interesting multi-wreck site in the Shubenacadie Channel at 24 meters depth. The barges offer both external exploration and limited penetration opportunities. The site is significant to Nova Scotia's industrial maritime history and provides excellent opportunities to observe how multiple vessels interact on the seafloor. Expect moderate-to-strong currents.
+Three barges associated with Canadian National Railway, dating to approximately 1941, lie in the southern Halifax Harbour area near McNabs Island at 24 metres depth. The OSM coordinates (44.6239°N, 63.5393°W) place this site in the Halifax Harbour approaches, not the Shubenacadie Channel as previously stated.
+
+**Verification status:** No public online source was found that specifically documents these three CN barges as an active dive site, confirms their current condition, or provides dive reports. The previous description's claims of "limited penetration opportunities" and "excellent opportunities to observe how multiple vessels interact on the seafloor" were not verified by any source.
 
 ## Overview
 
-CN Barges (3), c. 1941 is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+CN Barges (3), c. 1941 is a wreck dive site in the Halifax Harbour area, Nova Scotia.
 
 ## Site Information
 
@@ -30,7 +32,7 @@ CN Barges (3), c. 1941 is a wreck dive site in Nova Scotia, North America. Cold 
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific marine life reports were found for this wreck. Cold-water invertebrate communities including rock crab, sea anemones, and cunner typically colonize submerged wreck structure over time in Nova Scotia waters.
 
 ## Entry and Exit
 
@@ -45,4 +47,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*

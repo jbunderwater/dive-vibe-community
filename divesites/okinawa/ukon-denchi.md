@@ -23,7 +23,7 @@ In the Sekisei Lagoon area of the Yaeyama Islands, known for manta ray encounter
 
 - **Location**: Taketomi South / Sekisei Lagoon, Yaeyama Islands, Okinawa Prefecture, Japan, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 metres

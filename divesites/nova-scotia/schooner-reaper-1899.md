@@ -13,7 +13,9 @@ addedBy: osm_import
 
 ## Schooner Reaper (1899)
 
-The Schooner Reaper is a late 19th-century wooden schooner wreck situated near the Schooner Gertrude de Costa in the Shubenacadie Channel. At 26 meters depth, this historic wooden vessel remains well-preserved in the cold Atlantic environment. The site exemplifies Nova Scotia's age of sail heritage and offers excellent wreck exploration opportunities for advanced divers experienced in currents and cold water.
+The Reaper was a small wooden schooner wrecked in 1899 near Halifax. Historical records describe her as "a small vessel bound to Sheet Harbour from Halifax" that struck a shoal near the Halifax harbour area. The OSM coordinates (44.6254°N, 63.5427°W) place this site near McNabs Island in southern Halifax Harbour.
+
+The previous description's claims that this wreck "remains well-preserved" and sits "in the Shubenacadie Channel" are not source-confirmed. The Shubenacadie Channel reference is incorrect for these coordinates. After 125+ years, wooden structural preservation would typically be limited. No active dive site listings or dive reports were found for this specific wreck in any publicly accessible source.
 
 ## Overview
 
@@ -30,7 +32,7 @@ Schooner Reaper (1899) is a wreck dive site in Nova Scotia, North America. Cold 
 
 ## Marine Life
 
-Regional marine life in Nova Scotia cold Atlantic waters includes cunner, Atlantic cod, rock crab, green sea urchin, northern sea star, and cold-water anemones. Encrusting life typically colonizes submerged wreck structure over time. No site-specific species reports were found for this wreck.
+No site-specific marine life reports were found for this wreck. Cold-water invertebrate communities including rock crab, sea anemones, and cunner typically colonize submerged wreck structure over time in Nova Scotia waters.
 
 ## Entry and Exit
 
@@ -45,4 +47,4 @@ Access by boat. No dedicated dive charter service was identified for this site i
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-05-20.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*

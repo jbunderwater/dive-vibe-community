@@ -47,4 +47,4 @@ Boat access only from Yarmouth or Clark's Harbour (approximately 35 km). The isl
 The extreme remoteness and exposure of Seal Island makes this a serious undertaking. Rescue services are distant; carry a full emergency kit aboard the boat. Bay of Fundy tidal cycles generate significant current in the surrounding waters. Cold Atlantic water (4–12°C) requires a drysuit. The exposed coastline requires a capable offshore vessel.
 
 ---
-*Sources: [Wikipedia — MV Fosdyke Trader](https://en.wikipedia.org/wiki/MV_Fosdyke_Trader), [Ships Nostalgia — Athenic / Fosdyke Trader](https://www.shipsnostalgia.com/threads/s-s-athenic-m-v-fosdyke-trader.38800/), [Wikipedia — List of shipwrecks of Canada](https://en.wikipedia.org/wiki/List_of_shipwrecks_of_Canada). Last updated 2026-05-20.*
+*Sources: [Wikipedia — MV Fosdyke Trader](https://en.wikipedia.org/wiki/MV_Fosdyke_Trader), [Ships Nostalgia — Athenic / Fosdyke Trader](https://www.shipsnostalgia.com/threads/s-s-athenic-m-v-fosdyke-trader.38800/), [Wikipedia — List of shipwrecks of Canada](https://en.wikipedia.org/wiki/List_of_shipwrecks_of_Canada). Last updated 2026-06-24.*

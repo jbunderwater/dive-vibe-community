@@ -23,7 +23,7 @@ Middle Book sits within the Sekisei Lagoon, the reef-sheltered body of water bet
 
 - **Location**: Sekisei Lagoon (south of Taketomi Island), Yaeyama Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Sandy bottom / muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 meters

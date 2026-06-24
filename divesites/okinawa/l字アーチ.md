@@ -2,7 +2,7 @@
 name: L字アーチ
 lat: 24.8666616
 lng: 125.163257
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ L Arch delivers Irabu Island's most dramatic underwater scenery. The main featur
 - **Location**: Irabu Island, Miyako-jima, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 metres
 - **Current**: Variable
@@ -40,11 +40,11 @@ Descend to the reef and follow it to the L-shaped arch at 20 metres. Drop below 
 
 ## Safety Considerations
 
-AOW certification required. The 35-metre depth under the arch demands good gas management. The dynamic topography requires confident buoyancy control. Current can affect the site.
+AOW certification minimum; Japanese operators rate this 4-star difficulty, placing it firmly in the Advanced category. The 35m max depth demands careful gas management and narcosis awareness. The dynamic topography requires confident buoyancy control. Current can affect the site, and the connected cave system adds overhead navigation complexity.
 
 ## Photography
 
 Wide-angle captures the arch scale with trevally silhouetted against the blue. The L-shape itself is best photographed from the side at a distance. Macro opportunities in the Warp Hole cave section.
 
 ---
-*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Oki-Raku - Miyako Dive Spots](https://oki-raku.net/diving/miyako/diving_spot/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Emina Marine - L字アーチ](https://eminamarine-diving.net/archives/12731), [World Diving - Miyako L Arch](https://www.owd.jp/divingpoint/miyakojima/l-arch/). Difficulty upgraded to Advanced: rated ★★★★ (4-star) by multiple Japanese operators. Last updated 2026-06-24.*
