@@ -54,9 +54,9 @@
       "name": "China Wreck (direction 150deg)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk",
+      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk,omanobserver.om",
       "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Vessel identity UNKNOWN — no reliable source confirms the vessel name, age, or origin. Site name 'China Wreck' may refer to cargo (porcelain/china) found at the site. One source describes wreck as a former steam-powered ship scattered over ~80m N-S; age and vessel name unverified — do not state as fact. The '150-year-old' claim in previous description was unsourced and has been removed. Direction '150deg' used as navigational bearing from shore. Seasonal: Oct-May."
+      "notes": "Located in Mirbat area, Dhofar region. Vessel identity: possibly SS Kiva (also spelled Kheva), a pilgrim passenger vessel that departed Bombay for Mecca in 1893 with ~979 pilgrims. A fire broke out in the cargo hold; the vessel steered toward Mirbat port and sank approximately 300 metres offshore. Oman Observer (2021) and Muscat Daily (2021) both reported on the Oman Ministry of Heritage and Tourism's documentation survey of 'a 128-year-old wreck off Mirbat' identified as the Kiva; dive operators in the region have subsequently linked this to the China Wreck site. CONFLICT: one operator source describes the wreck only as 'a former steam-powered ship scattered over ~80m N-S' without naming the Kiva; the 'China Wreck' name may alternatively refer to porcelain/china cargo found at the site. Vessel identity is probable but not fully resolved — do not state as confirmed fact. The '150-year-old' claim in previous description was unsourced and has been removed. Direction '150deg' used as navigational bearing from shore. Seasonal: Oct-May."
     }
   },
   {
@@ -65,17 +65,17 @@
     "lon": 54.1517412,
     "osm_id": 306050061,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "ABT Salalah",
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "salalahoman22.com,beautifulsalalah.com,tripadvisor.com",
       "last_qa_date": "2026-06-24",
-      "notes": "Located near Salalah city (Dhofar region), coordinates different from Mirbat cluster. Site name 'ABT Salalah' appears to be named after the local operator ABT Divers, not a vessel name. Vessel identity UNKNOWN — no source confirms the actual ship name, tonnage, or sinking date for this specific site. Do not conflate with the 'China Wreck' at Mirbat (different site, different coordinates). Wreck conflict: site may not have a confirmed separate identity from Mirbat wreck sites. Further research needed."
+      "notes": "Located near Salalah city (Dhofar region), coordinates different from Mirbat cluster (~60km west of Mirbat sites). Site name 'ABT Salalah' appears to be named after the local operator ABT Divers, not a vessel name. Vessel identity UNKNOWN — no source confirms the actual ship name, tonnage, or sinking date for this specific site. Depth: local operator listings and regional sources indicate 30+ metres — not the 25m in OSM. Difficulty: Advanced (depth exceeds typical intermediate range, offshore conditions). Do not conflate with the 'China Wreck' at Mirbat (different site, different coordinates). Wreck conflict: site identity unresolved. Further research needed."
     }
   },
   {

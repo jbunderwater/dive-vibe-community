@@ -13,19 +13,24 @@ addedBy: osm_import
 
 ## Flamingo Beach: Beach Entry
 
-Flamingo Beach: Beach Entry is a reef dive site in Oman, Middle East.
+Flamingo Beach: Beach Entry is a shore-entry reef dive in the Mirbat area of Oman's Dhofar region.
 
 ## Overview
 
-Flamingo Beach is one of several unspoilt coves along the Mirbat coastline in Oman's Dhofar region, reached by 4x4 from Salalah, and this beach entry provides a direct wade-in to the reef with no boat required. The site is characterised by Indo-Pacific marine life unusual for the Arabian Peninsula, including clownfish, octopuses, stonefish, nudibranchs, and large moray eels across table corals and brain coral gardens in 5 to 15 metres of water. The sheltered bay and easy shore access make it one of the most popular introduction and photography dives in the Salalah area, available from October to May once the monsoon season has passed.
+Flamingo Beach: Beach Entry is the shore-entry access point to a sheltered cove reef in the Mirbat area, approximately 70 kilometres from Salalah. The beach entry allows direct wade-in access without requiring a boat, making it one of the most accessible dives in the Dhofar area. The reef features coral formations in 5 to 15 metres of water with the Indo-Pacific marine character typical of the Salalah diving area.
+
+The site name "Flamingo Beach" does not appear by this exact name in available operator site lists for Mirbat; it may be a local or informal name for a cove along the Mirbat coastline. Three OSM nodes represent separate entry points to the same reef system (Beach Entry, Side Entry, New Entry).
+
+The site operates seasonally from October to May.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Mirbat area, Dhofar region, Oman (approx. 70km from Salalah)
 - **Entry Type**: beach
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
+- **Season**: October to May (closed during khareef monsoon)
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Description based on regional Dhofar diving characteristics. "Flamingo Beach" not confirmed by name in available Mirbat operator site lists — site name may be informal or local. No site-specific primary source found. Last updated 2026-06-24.*

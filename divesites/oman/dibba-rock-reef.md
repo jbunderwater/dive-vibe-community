@@ -13,19 +13,24 @@ addedBy: osm_import
 
 ## Dibba Rock Reef
 
-Dibba Rock Reef is a reef dive site in Oman, Middle East.
+Dibba Rock Reef is a reef dive site on the Oman side of the Musandam Peninsula near Dibba.
 
 ## Overview
 
-Dibba Rock Reef sits on the Oman side of the bay near the town of Dibba at the southern end of the Musandam Peninsula, where the rocky reef slopes to 18 metres and is draped in green and purple whip corals, raspberry corals, and brain coral formations typical of this corner of the Gulf of Oman. Hawksbill and green turtles are regular residents along the reef, joined by clownfish, parrotfish, butterflyfish, and occasional spotted eagle rays and blacktip reef sharks, with visibility often reaching 20 to 30 metres in the calm winter months. The site is accessible from dive operators based on both the UAE and Oman sides of the bay, making it one of the most convenient reef dives in the region.
+Dibba Rock Reef lies off the coast of Dibba at the southern end of the Musandam Peninsula, on the Oman side of the UAE-Oman border. The site is approximately 10 to 15 minutes by boat from Dibba and is accessible from dive operators on both the UAE and Oman sides of the bay.
+
+The reef features a combination of walls, rocky slopes, and sandy areas with coral formations, and according to SSI's dive guide, the site reaches depths of up to 40 metres at its deepest, though 18 metres is the typical recreational range. The site's protected marine area status helps sustain diverse marine life including hawksbill turtles, clownfish, parrotfish, spotted eagle rays, and reef sharks. Visibility frequently exceeds 20 to 30 metres in calm winter conditions.
+
+There can be current at the site during strong tidal changes; divers should check conditions before entering. Despite the current potential, the site is considered beginner-friendly under normal conditions.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Dibba, southern Musandam Peninsula, Oman (near UAE border)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
+- **Best Season**: October to April
 
 ---
-*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*
+*Sources: [Visit Musandam - Dibba Rock](https://visitmusandam.com/dibba-rock/), [SSI Dive Guide - Dibba Rock](https://www.divessi.com/en/mydiveguide/divesite/99470), [Scuba Shade - Musandam Diving](https://www.scubashade.com/musandam-diving). Last updated 2026-06-24.*
