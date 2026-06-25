@@ -2,8 +2,8 @@
 name: Doljo Point
 lat: 9.6
 lng: 123.73
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,48 +13,48 @@ addedBy: osm_import
 
 # Doljo Point
 
-One of the most dramatic dive sites on Panglao Island -- a vertical wall plunging from a 5-meter reef top to over 60 meters at the quiet northwest tip of the island. Massive gorgonian sea fans the size of car doors, giant barrel sponges, and visibility regularly exceeding 30 meters. Sheltered from the southwest monsoon.
+A dramatic vertical wall at the northwest tip of Panglao Island, dropping from a sandy plateau at 5 meters to depths well beyond recreational limits. Massive gorgonian sea fans — some the size of a car door — and giant barrel sponges define the wall face between 15-30 meters. SM Divers requires Advanced Open Water certification minimum.
 
 ## Overview
 
-Doljo Point lies at the extreme northwestern tip of Panglao Island, offering some of the most dramatic underwater topography in the Visayas. The site features a reef top at just 5 meters that gives way to a vertical wall plunging to over 60 meters. The defining features are the massive gorgonian sea fans -- some the size of a car door -- and giant barrel sponges that have been growing for decades in the nutrient-rich currents.
+Doljo Point lies at the extreme northwestern tip of Panglao Island. The site features a sandy plateau at 5-12 meters that gives way abruptly to a sheer vertical wall plunging to over 60 meters. The defining features are the massive gorgonian sea fans — confirmed by SM Divers as "some of the largest in the Philippines," glowing pink, red, and orange under torchlight — and giant barrel sponges with giant frogfish sheltering inside.
 
-The northwest tip location provides a significant advantage: the point is geographically sheltered from the southwest monsoon winds. When waves are picking up at other dive sites around Panglao, Doljo Point often sits in the lee of the island with mirror-flat surface conditions. The water visibility here is often exceptional, regularly exceeding 30 meters.
+The northwest tip location provides a practical advantage: the point is sheltered from the southwest monsoon winds. When swell is up at other Panglao sites, Doljo Point often sits in calm lee conditions with visibility regularly exceeding 30 meters. The absence of a bottom reference on the open wall makes depth management the primary skill challenge — SM Divers requires Advanced Open Water certification minimum and emphasises "excellent buoyancy control mandatory."
 
 ## Site Information
 
 - **Location**: Northwest tip of Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Site Type**: Vertical wall
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters (recreational limit; wall continues to 60m+)
 - **Typical Visibility**: 30+ meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Variable; can be strong at the point
-- **Best Time**: Year-round (sheltered from SW monsoon)
+- **Best Time**: July-September (SW monsoon shelters this site); year-round otherwise
 
 ## Marine Life
 
-The defining marine life feature is the size of the organisms -- massive gorgonian sea fans and giant barrel sponges dominate the wall face. At the deep drop-off, experienced divers may encounter hammerhead sharks, manta rays, and whale sharks. The wall supports colourful soft corals, anthias, and the full range of tropical reef species. The pristine conditions and remote location mean fish are abundant and of notable size.
+The wall face between 15-30 meters hosts massive gorgonian sea fans, giant barrel sponges, and giant frogfish sheltering in the sponges. Additional confirmed species: nudibranchs (Chromodoris, Flabellina), ghost pipefish, schooling surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, and chevron barracuda. Hammerhead sharks and manta rays are not confirmed at this site.
 
 ## Dive Profile
 
-Drop from the 5-meter reef top over the wall edge. The wall is vertical to 30 meters and continues plunging to 60+ meters. The largest gorgonians and barrel sponges are concentrated between 15-30 meters. Drift along the wall face, stopping to admire the massive fan formations. The wall's vertical nature demands careful depth monitoring -- it is easy to drift deeper than planned. Return to the reef top for the safety stop, which hosts its own coral community.
+Begin on the sandy plateau at 5-12 meters, which hosts its own reef community. The wall edge falls away abruptly — drop over and drift along the vertical face. The largest gorgonians and barrel sponges are concentrated between 15-30 meters. The absence of a bottom reference makes depth monitoring critical; the temptation to follow the wall deeper is real and must be resisted. Set a firm depth limit before entry. Return to the plateau for the safety stop.
 
 ## Entry and Exit
 
-Access by dive boat from Alona Beach, heading around to the northwest tip of Panglao. Entry by giant stride. The sheltered lee-side location typically means calm entry conditions.
+Access by dive boat from Alona Beach, heading around to the northwest tip of Panglao. Entry by giant stride. The lee-side location typically provides calm surface conditions during the southwest monsoon.
 
 ## Tips and Recommendations
 
-- The massive gorgonians are the photographic highlight -- wide-angle with a diver model creates scale
-- The sheltered location makes this an excellent option when other sites are affected by swell
-- The wall drops far beyond recreational limits -- set a firm depth limit and stick to it
-- Morning dives often have the best visibility and light penetration on the wall
+- The massive gorgonians are the photographic highlight — wide-angle lens with a diver for scale
+- This is an excellent alternative when SW monsoon affects other Panglao sites
+- Set a firm depth limit before entering — the open wall makes it easy to drift deeper unnoticed
+- Check the barrel sponges carefully for giant frogfish
 
 ## Safety Considerations
 
-The wall drops to 60+ meters -- depth management is critical. Do not exceed your planned maximum depth, regardless of what you can see below. Currents at the point can be strong; be prepared for changing conditions. The remote northwest location means a longer boat ride to medical facilities.
+The vertical wall drops past 60 meters — depth management is the primary hazard. SM Divers explicitly requires Advanced Open Water minimum. Maintain depth discipline without a bottom reference. Currents at the point can be strong; follow the guide's assessment. The remote northwest location means a longer boat ride in the event of an incident.
 
 ---
-*Sources: [SM Divers Bohol - Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Diving Panglao - Doljo Point](https://www.divingpanglao.com/dive-sites/doljo), [Dive Scotty - Doljo Point](https://www.divescotty.com/scuba-diving/doljo-point.php). Last updated 2026-04-08.*
+*Sources: [SM Divers Bohol - Complete Guide to Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*

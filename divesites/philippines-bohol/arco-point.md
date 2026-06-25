@@ -13,33 +13,35 @@ addedBy: osm_import
 
 # Arco Point
 
-Also known as the "Hole in the Wall" -- one of Panglao's most famous dive sites featuring a natural archway swim-through in the reef wall. The cave-like opening enters at approximately 18 meters and exits at 8 meters, with cardinal fish, moray eels, scorpionfish, frogfish, and nudibranchs.
+Also known as the "Hole in the Wall" -- one of Panglao's most famous dive sites featuring a natural limestone archway swim-through. The tunnel entrance is in the shallows at approximately 8-9 meters; the passage descends to exit on the lower reef wall at around 18 meters. Calm, sheltered conditions and abundant macro life make this an excellent beginner dive.
 
 ## Overview
 
-Arco Point, also known as the "Hole in the Wall," is located at Libaong on Panglao Island, approximately 14 minutes by pump boat from shore. The site is famous for its unique rock formation -- a natural archway or cave-like opening in the reef wall that creates a dramatic swim-through.
+Arco Point, also known as the "Hole in the Wall," is located at Libaong on Panglao Island, approximately 14 minutes by pump boat from shore. The site is famous for a natural limestone archway cut through the reef wall, creating a dramatic swim-through that descends from shallow to deeper water.
 
-The swim-through enters at approximately 18 meters and exits at around 8 meters, making it accessible to Open Water certified divers. The walls inside the passage host cardinal fish, white-eyed moray eels, and black-finned snake eels, while the surrounding reef supports groupers, wrasses, butterflyfish, raggy scorpionfish, frogfish, and a variety of nudibranchs. Visibility ranges from 10-25 meters.
+The tunnel entrance is in the shallow reef at approximately 8-9 meters. The passage descends through the reef, with thousands of sweeper fish and cardinal fish parting as you pass through, before exiting on the lower reef wall at around 18 meters. The exit is the deeper end — looking back up through the hole from 18 meters, the arch frames the sunlit shallower reef above. This is the correct orientation: enter shallow, exit deep.
+
+The surrounding reef is a productive macro site. SM Divers describes it as "relatively sheltered" with a "slow pace" ideal for macro hunting. Conditions are calm with mild currents.
 
 ## Site Information
 
 - **Location**: Libaong, Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef with natural limestone swim-through
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters
 - **Water Temperature**: 26-30 degrees C
-- **Current**: Mild (0-3 on scale)
+- **Current**: Mild
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Inside the swim-through: cardinal fish swarm the passage, white-eyed moray eels and black-finned snake eels shelter in crevices. On the surrounding reef: raggy scorpionfish, groupers, wrasses, butterflyfish, frogfish (angler fish), lionfish, and colourful nudibranchs. The arch structure concentrates marine life, making it a productive site for both macro and wide-angle subjects.
+Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef. Blue-ring octopus is occasionally reported but not confirmed as a regular sighting.
 
 ## Dive Profile
 
-The dive begins at shallow depth and proceeds to the arch entrance at approximately 18 meters. Swim through the passage, ascending as you go, to exit at approximately 8 meters. The transition from the darker interior to the brighter exit creates a dramatic visual experience. After the swim-through, explore the surrounding reef slopes and coral gardens. The maximum reef depth is approximately 27 meters, but most of the interesting diving is in the 8-18 meter range around the arch.
+Enter the water and descend to the wall where the tunnel entrance opens at approximately 8-9 meters. Swim through the descending passage — sweeper fish and cardinal fish crowd the tunnel interior. Exit on the lower reef wall at approximately 18 meters. After the swim-through, explore the surrounding reef slopes and coral formations for macro life; the rubble slopes are particularly productive. Most interesting diving is in the 8-18 meter range around the arch.
 
 ## Entry and Exit
 
@@ -47,14 +49,14 @@ Access by pump boat from Panglao, approximately 14 minutes. Entry by giant strid
 
 ## Tips and Recommendations
 
-- The swim-through is the signature experience -- carry a torch to illuminate the moray eels and cardinal fish inside
-- The transition from dark to light at the exit makes for dramatic wide-angle photography
-- Check the reef around the arch carefully for frogfish -- they are well camouflaged
-- An excellent site for newer divers due to shallow depths and mild conditions
+- The swim-through descends: enter at ~8-9m shallow and exit at ~18m deeper
+- Carry a dive torch to illuminate the moray eels and cardinal fish inside the passage
+- The arch viewed from the 18m exit back toward the sunlit shallows is the signature wide-angle shot
+- Check the rubble slopes carefully for frogfish and nudibranchs — they are well camouflaged
 
 ## Safety Considerations
 
-The swim-through is an overhead environment, though short and with clearly visible exits. Maintain good buoyancy inside the passage to avoid contact with the walls. The gentle conditions and shallow depth make this one of the more accessible dive sites on Panglao.
+The swim-through is an overhead environment, though it is short and both ends are clearly visible throughout. Maintain good buoyancy inside the passage to avoid contact with the walls. The calm conditions and shallow entry make this one of the most accessible Panglao sites. The swim-through is optional — divers uncomfortable with overhead environments can dive the surrounding reef.
 
 ---
-*Sources: [Bohol Philippines - Arco Point](https://www.bohol-philippines.com/arco-point-dive-site.html), [Bohol Fun Divers - Arco Point](https://boholfundivers.com/arco-point-panglao-island-dive-spot/), [PADI - Arco Point](https://www.padi.com/dive-site/philippines/arco-point/). Last updated 2026-04-08.*
+*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*

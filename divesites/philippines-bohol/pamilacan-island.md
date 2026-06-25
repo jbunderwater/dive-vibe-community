@@ -2,7 +2,7 @@
 name: Pamilacan Island
 lat: 9.4917
 lng: 123.935
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: wall
@@ -13,48 +13,48 @@ addedBy: osm_import
 
 # Pamilacan Island
 
-A remote island 12 kilometres southeast of Panglao with steep sloping reefs, large hard and soft corals, and strong currents attracting pelagic species. Multiple dive sites including walls, coral shelves, and sandy slopes. Hawksbill turtles, barracuda schools, and rare macro life.
+Pamilacan Island offers multiple dive sites — Dakit-Dakit, South Pamilacan, Spanish Tower, Sanctuary, and North — with a mix of coral walls, sandy slopes, and drift conditions. Multiple operators recommend Advanced Open Water certification for the strong currents that characterise exposed sites like Dakit-Dakit and Spanish Tower.
 
 ## Overview
 
-Pamilacan Island is a remote island located approximately 12 kilometres southeast of Panglao Island, requiring a 45-60 minute boat ride from Alona Beach. The island's isolation and exposure to strong currents from the Bohol Sea attract both large pelagic species and an impressive array of smaller marine life.
+Pamilacan Island is located approximately 18 kilometres southeast of Panglao Island in the Bohol Sea, requiring a 45-60 minute boat ride from Alona Beach. Part of the Bohol Marine Triangle (BMT) conservation zone, the island offers five distinct dive sites with different characters and difficulty levels. The island is exposed to significant currents on its east and south sides, making drift diving experience essential for the more exposed sites.
 
-The island offers several dive sites -- including Dakit Dakit, Spanish Tower, and Sanctuary -- each providing different underwater terrain from coral shelves and walls to sandy slopes and strong-current drift conditions. The reef structure features large hard and soft corals that have grown to impressive sizes in the nutrient-rich currents. Hawksbill sea turtles are present year-round, schools of barracuda and jackfish patrol the deeper slopes, and the site is known for rare macro finds.
+The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South Pamilacan (5-30m, all levels) offer calmer conditions; Dakit-Dakit (10-25m) and Spanish Tower (10-35m) involve stronger currents and are better suited to experienced divers. Confirmed marine life across the island includes green sea turtles, fusiliers, snappers, jackfish, barracuda, trevally, nudibranchs, frogfish, and pygmy seahorses. Manta rays and eagle rays are noted as occasional visitors at Spanish Tower only, not as regular encounters.
 
 ## Site Information
 
-- **Location**: Pamilacan Island, 12 km SE of Panglao, Bohol, Philippines
+- **Location**: Pamilacan Island, ~18 km SE of Panglao, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall, slope, and coral garden (varies by site)
+- **Difficulty Level**: Advanced (Intermediate-Advanced Open Water recommended by multiple operators)
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 26-30 degrees C
-- **Current**: Often strong; drift diving common
+- **Current**: Moderate to strong at exposed sites (Dakit-Dakit, Spanish Tower); mild at Sanctuary
 - **Best Time**: March to June
 
 ## Marine Life
 
-Hawksbill sea turtles are encountered year-round. Schools of jackfish are common on the deeper slopes. Barracuda schools patrol the walls. The strong currents occasionally attract larger pelagic visitors. The reef supports both large coral formations and rare macro life including nudibranchs and unusual crustaceans. Colourful coral gardens line the walls and shelves.
+Confirmed across Pamilacan's dive sites: green sea turtles (year-round), fusiliers, snappers, jackfish (Dakit-Dakit), barracuda, trevally, nudibranchs (including the "Pikachu" nudibranch at Spanish Tower), frogfish, pygmy seahorses, pipefish, and garden eels. Stingrays and cuttlefish are seen at the North site. Manta rays and eagle rays are occasionally reported at Spanish Tower but are not guaranteed encounters.
 
 ## Dive Profile
 
-The specific profile depends on which of the island's dive sites is selected. Generally, the dive begins along a coral shelf at 5-10 meters, then descends along a wall or slope to 25-35 meters. The strong currents often make this a drift dive. The deeper slopes at Dakit Dakit are the best location for jackfish encounters. The shallower coral gardens at Spanish Tower and Sanctuary offer the best coral diversity.
+Dakit-Dakit (east side, 10-25m): Strong currents, exposed; jackfish schools on the deeper reef. Spanish Tower (10-35m): Named for a colonial-era watchtower; coral walls with drop-offs; stronger currents. Sanctuary (5-20m): Protected coral garden; calm; best for beginners and macro. South Pamilacan (5-30m): Sloping reef with mixed coral. North (10m+): Sandy patches and drop-offs; garden eels and cuttlefish.
 
 ## Entry and Exit
 
-Access by dive boat from Panglao Island (Alona Beach area), approximately 45-60 minutes. The long boat ride means this is typically a full-day trip with 2-3 dives. Entry by giant stride.
+Access by dive boat from Panglao Island (Alona Beach area), approximately 45-60 minutes. Full-day trip with 2-3 dives. Entry by giant stride. SMB and drift diving skills strongly recommended.
 
 ## Tips and Recommendations
 
-- The boat ride is long -- plan for a full-day trip with multiple dives
-- The currents at Pamilacan can be significant; prior drift diving experience is strongly recommended
-- Advanced Open Water certification is highly recommended for the conditions here
-- The combination of pelagics and macro makes this site rewarding for photographers with both lens types
+- Advanced Open Water certification is strongly recommended across multiple operators — currents at Dakit-Dakit and Spanish Tower can be strong
+- Start with Sanctuary or South Pamilacan to assess conditions before attempting exposed sites
+- SMB deployment is essential at drift sites — surface conditions may differ from depth
+- The long boat ride makes this a full-day commitment; bring food and sunscreen
 
 ## Safety Considerations
 
-Strong currents are common and can develop rapidly -- drift diving skills are essential. The remote location means a long surface interval return to medical facilities. Follow the dive guide's assessment of conditions; some sites may not be diveable in strong current periods. The 35-meter maximum depth requires careful gas management, especially in current.
+Moderate to strong currents at exposed sites (Dakit-Dakit, Spanish Tower) can intensify without warning. Drift diving experience and SMB proficiency are essential. The remote location means extended boat time back to shore. Follow the dive guide's current assessment before each dive.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [SM Divers Bohol - Pamilacan Island](https://www.smdiversbohol.com/exploring-the-underwater-beauty-of-pamilacan-island/), [Dive Scotty - Pamilacan Island](https://www.divescotty.com/scuba-diving/pamilacan-island.php). Last updated 2026-04-08.*
+*Sources: [SM Divers Bohol - Pamilacan Island Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/pamilacan-island-dive-sites/), [Valm Divers Bohol - Pamilacan Island Diving](https://www.valmdiversbohol.com/pamilacan-island-diving/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Last updated 2026-06-25.*
