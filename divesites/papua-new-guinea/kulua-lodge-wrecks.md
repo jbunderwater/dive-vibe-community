@@ -2,8 +2,8 @@
 name: Kulua Lodge Wrecks
 lat: -4.202222
 lng: 152.1055
-difficulty: Beginner
-maxDepth: 20
+difficulty: Intermediate
+maxDepth: 40
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ The Kulua Lodge Wrecks are a collection of six vessels lying off the beach near 
 - **Location**: Off Kulua Lodge beach, Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters (K1 trawler; shallower wrecks accessible from 10 meters)
 - **Typical Visibility**: 15-20 meters
 - **Current**: Mild to negligible
 - **Best Time**: Year-round

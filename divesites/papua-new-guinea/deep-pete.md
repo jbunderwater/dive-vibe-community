@@ -17,7 +17,7 @@ A WWII Mitsubishi F1M2 "Pete" biplane seaplane lying upside-down on a sandy bott
 
 ## Overview
 
-The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplane floatplane used by the Imperial Japanese Navy. This example rests inverted on a sandy bottom at 40 meters, approximately ten minutes by boat from Nusa Island Resort in Kavieng. The aircraft's engine was not running when it sank -- the propeller is unbent, suggesting a controlled ditching or sinking at anchor rather than a crash. Despite lying upside-down, the airframe is remarkably well-preserved, with the radio equipment, compass, and twin defensive guns still visible. The excellent visibility at this site -- typically 25 meters or more -- means the entire aircraft can be taken in from a short distance.
+The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplane floatplane used by the Imperial Japanese Navy. This example rests inverted on a sandy bottom at 40 meters, approximately ten minutes by boat from Nusa Island Resort in Kavieng. The aircraft's engine was not running when it sank -- the propeller is unbent, suggesting a controlled ditching or sinking at anchor rather than a crash. Despite lying upside-down, the airframe is remarkably well-preserved, with the radio equipment, compass, and two forward-firing fixed guns visible through the engine housing. The F1M2's original rear defensive gun is no longer present, having been lost after a storm. The excellent visibility at this site -- typically 25 meters or more -- means the entire aircraft can be taken in from a short distance.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The sandy bottom surrounding the aircraft is relatively sparse, which makes the 
 
 ## Dive Profile
 
-This is a deep air dive requiring careful gas management. Descend directly to the aircraft at 40 meters. Bottom time is strictly limited -- typically 10 to 12 minutes on air before decompression obligations begin. Use this time to examine the inverted airframe, noting the unbent propeller, the radio and compass equipment, and the twin guns. The inverted orientation means the cockpit area faces downward into the sand, limiting access, but the overall shape of the biplane is clearly recognizable. Begin your ascent with adequate reserves for a safety stop at 5 meters.
+This is a deep air dive requiring careful gas management. Descend directly to the aircraft at 40 meters. Bottom time is strictly limited -- typically 10 to 12 minutes on air before decompression obligations begin. Use this time to examine the inverted airframe, noting the unbent propeller, the radio and compass equipment near the engine, and the two forward-firing fixed guns visible through the engine housing. The inverted orientation means the cockpit area faces downward into the sand, limiting access, but the overall shape of the biplane is clearly recognizable. Begin your ascent with adequate reserves for a safety stop at 5 meters.
 
 ## Entry and Exit
 

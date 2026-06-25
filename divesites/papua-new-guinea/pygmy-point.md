@@ -5,7 +5,7 @@ lng: 151.914694
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Pygmy Point is a wall dive on the western side of horseshoe-shaped Reimera Reef 
 
 - **Location**: Reimera Reef (western side), Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25-30 meters

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Zero Fighter Rabaul
 
-The Zero Fighter is a remarkably intact WWII Japanese Mitsubishi A6M Zero aircraft resting on a sandy seabed near Rabaul, East New Britain Province, Papua New Guinea — one of the Pacific's most photogenic aircraft wrecks at recreational depth.
+The Zero Fighter is a remarkably intact WWII Japanese Mitsubishi A6M2 Zero aircraft resting upright on a sloping sandy bottom near Kokopo in Blanche Bay, East New Britain Province, Papua New Guinea — one of the most intact and accessible aircraft wrecks in the Rabaul region.
 
 ## Overview
 

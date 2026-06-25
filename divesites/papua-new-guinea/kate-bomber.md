@@ -3,7 +3,7 @@ name: Kate Bomber
 lat: -2.587167
 lng: 150.485194
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 12
 entryType: boat
 siteType: wreck
 ref: null
