@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Kate Bomber
 
-A fully intact WWII Nakajima B5N2 "Kate" torpedo bomber at 12 meters off Anelaua Island -- one of the best-preserved aviation wrecks in Papua New Guinea, with evidence of a controlled crash landing clearly visible.
+A substantially intact WWII Nakajima B5N2 "Kate" torpedo bomber at 12 meters off Anelaua Island -- one of the better-preserved aviation wrecks in Papua New Guinea, with evidence of a controlled crash landing clearly visible. The starboard tail section struck the reef and is collapsed, but the fuselage, wings, and key details remain accessible.
 
 ## Overview
 
-The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that struck the decisive blows at Pearl Harbor. This example lies at approximately 12 meters off Anelaua Island, roughly 33 kilometres west of Nusa Island Resort in Kavieng. The aircraft is fully intact and shows clear evidence of a controlled crash landing -- the flaps are extended and the engine was dead when it hit the water, suggesting the pilot ditched deliberately rather than crashing under fire. Three cockpits are visible, and the joystick and oxygen cylinders can be seen inside. The shallow depth and excellent preservation make this one of the most rewarding WWII aviation dives in the region.
+The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that struck the decisive blows at Pearl Harbor. This example lies at approximately 12 meters off Anelaua Island, roughly 33 kilometres west of Nusa Island Resort in Kavieng. The aircraft is substantially intact and shows clear evidence of a controlled crash landing -- the starboard wing flap is extended and the propeller is undamaged, indicating the engine had stopped when it hit the water, suggesting the pilot ditched deliberately rather than crashing under fire. The starboard tail section struck the reef on impact and is collapsed, but the fuselage and wings are largely preserved. The three tandem crew stations (pilot, navigator/bombardier, and radio-operator/gunner) under the aircraft's elongated canopy are accessible, and the pilot's joystick and three oxygen cylinders on the port side can be seen inside. The shallow depth and excellent preservation make this one of the most rewarding WWII aviation dives in the region.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that s
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 12-15 meters
 - **Current**: Generally mild
 - **Best Time**: Year-round; calmest conditions April to November

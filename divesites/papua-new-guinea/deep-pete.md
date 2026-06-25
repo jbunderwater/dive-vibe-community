@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately ten minutes away. 
 At 40 meters, this dive pushes the limits of recreational diving. No-decompression time on air is approximately 8-10 minutes. Monitor depth, time, and air supply continuously. Narcosis is a real consideration at this depth -- abort the dive if you or your buddy show signs. Always carry an SMB and adequate reserves for ascent. This site is not appropriate for inexperienced divers.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [diveplanit.com](https://www.diveplanit.com/dive-sites/deep-pete-kavieng/), [Wikipedia – Mitsubishi F1M](https://en.wikipedia.org/wiki/Mitsubishi_F1M). Last updated 2026-06-25.*
