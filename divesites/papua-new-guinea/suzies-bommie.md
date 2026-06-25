@@ -25,7 +25,7 @@ Suzies Bommie is widely regarded as the best dive site in the Port Moresby area.
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (bommie base; surrounding sandy slope extends deeper)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round

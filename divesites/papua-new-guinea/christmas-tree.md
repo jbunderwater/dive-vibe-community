@@ -25,7 +25,7 @@ Christmas Tree is located outside the barrier reef near Port Moresby, past Basil
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 55 meters (Mark's Ravine to 45 meters; wall continues beyond)
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 25 meters
 - **Current**: Moderate to strong
 - **Best Time**: Year-round; sea conditions may limit access

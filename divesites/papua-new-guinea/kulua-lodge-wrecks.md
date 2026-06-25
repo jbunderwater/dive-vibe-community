@@ -25,7 +25,7 @@ The Kulua Lodge Wrecks are a cluster of five vessels lying off the beach near Ku
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters (K1 trawler; shallower wrecks accessible from 10 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-20 meters
 - **Current**: Mild to negligible
 - **Best Time**: Year-round

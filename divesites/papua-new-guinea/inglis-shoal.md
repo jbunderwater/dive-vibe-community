@@ -3,7 +3,7 @@ name: Inglis Shoal
 lat: -5.3167
 lng: 150.4833
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 14
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters b
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate to strong (current-dependent)
 - **Best Time**: October to May
@@ -58,4 +58,4 @@ The shoal's open-water position means currents can be strong and unpredictable. 
 The shallow clear water of Inglis Shoal provides excellent natural light throughout the dive. Wide-angle shots of shark and trevally silhouettes against the bright surface are the signature images. The hard coral summit makes a beautiful foreground for fish portrait shots. Bring a dome port for the best results.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [DivePlanit – Inglis Shoal](https://www.diveplanit.com/), [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Last updated 2026-06-25.*

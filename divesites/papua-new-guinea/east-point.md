@@ -54,4 +54,4 @@ Access is by dive boat from Rabaul-based operators. Entry is by giant stride nea
 The wall drops to significant depth, so monitor your depth gauge carefully. Current is generally mild but can increase around the point. Carry an SMB for safety stops away from the reef. Stay within your depth limits and plan your gas management to allow a comfortable ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=714). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=714), [Always Dive – Rabaul Sites](https://www.allwaysdive.com.au/), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/). Last updated 2026-06-25.*

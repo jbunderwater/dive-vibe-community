@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately 40 minutes to Stef
 While the current provides the drift, it can vary in intensity during the dive. Maintain awareness of your position relative to the wall and your depth. Do not enter swim-throughs without clear exits visible. Carry an SMB, whistle, and mirror as standard signalling equipment. Stay with the group -- separation during a drift dive in current can be disorienting.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=727). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=727), [DAN Alert Diver – Kavieng Diving](https://www.alertdiver.com/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*

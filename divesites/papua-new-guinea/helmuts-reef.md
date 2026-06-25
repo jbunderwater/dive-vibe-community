@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately 40 minutes away at
 This site is strictly for advanced divers comfortable in strong, unpredictable currents. The current can change direction and intensity during a dive. Without a reef hook, divers risk being swept off the pinnacle and into open water. The depth drops rapidly beyond 40 meters on all sides. Abort the dive if current conditions exceed your comfort level -- there is no shelter. Always carry signalling devices and maintain visual contact with your buddy.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=725). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=725), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/), [DAN Alert Diver – Kavieng](https://www.alertdiver.com/). Last updated 2026-06-25.*

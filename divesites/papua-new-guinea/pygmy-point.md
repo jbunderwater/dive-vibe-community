@@ -3,7 +3,7 @@ name: Pygmy Point
 lat: -4.165
 lng: 151.914694
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Pygmy Point is a wall dive on the western side of horseshoe-shaped Reimera Reef 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 25-30 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round
@@ -55,4 +55,4 @@ Access is by dive boat from Rabaul-based operators. Entry is by giant stride nea
 This is a straightforward wall dive suitable for intermediate divers. Current is generally mild but can pick up around the point of the horseshoe reef. Monitor your depth along the wall. The main consideration is behavioural -- avoid damaging gorgonias while searching for pygmy seahorses. Maintain neutral buoyancy and keep your distance from the delicate sea fan branches.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=710). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=710), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/), [indopacificimages.com – Rabaul Area](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*

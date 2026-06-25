@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, a short ride south. Entry is by 
 This is a benign dive site suitable for all certification levels. Current is typically negligible. The shallow depth eliminates decompression concerns for any reasonable dive duration. Maintain good buoyancy to avoid contact with the fragile coral growth on the airframe. As with all WWII wrecks in Papua New Guinea, do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706), [Indopacific Images – Kavieng Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*
