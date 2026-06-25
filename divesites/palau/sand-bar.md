@@ -3,7 +3,7 @@ name: Sand Bar
 lat: 7.2707699
 lng: 134.2448368
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -20,10 +20,10 @@ Sand Bar sits at the mouth of German Channel — a passage artificially blasted 
 
 ## Site Information
 - **Location**: German Channel mouth, Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive (approximately 30 minutes from Koror)
-- **Site Type**: Coral reef / sand flat
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (sandy bottom deepens toward channel exterior)
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10–25 meters (30–80 feet)
 - **Current**: Light to moderate; incoming tide preferred for manta encounters
 - **Best Time**: November–May; peak December–March

@@ -56,4 +56,4 @@ Access is by dive boat from Madang-based operators, a short ride within the harb
 The wreck sits at 32 meters, limiting no-decompression time on air. The harbour location means visibility may be reduced. Night diving on a wreck at depth requires strong skills in buoyancy, navigation, and equipment management. Carry primary and backup torches. Penetration requires proper wreck diving training -- the interior spaces have low clearance and potential snag points. Do not touch or handle the flashlight fish.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=484). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=484), [underwaterasia.info](https://www.underwaterasia.info/), [ScubaBoard – PNG flashlight fish](https://www.scubaboard.com/). Last updated 2026-06-25.*

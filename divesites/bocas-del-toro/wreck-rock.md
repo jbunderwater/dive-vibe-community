@@ -43,4 +43,4 @@ No site-specific marine life information confirmed. The previously listed marine
 - Bocas del Toro dive operators: contact local operators to confirm whether "Wreck Rock" is a locally used site name
 
 ---
-*Description based on site coordinates only. No site-specific sources found. Last updated 2026-05-18.*
+*Description based on site coordinates only. One aggregated reference found via labugapanama.com describing an offshore rock formation at this location (0–20m, weather-dependent access), but no active dive operator confirms this site by name. Last updated 2026-06-25.*

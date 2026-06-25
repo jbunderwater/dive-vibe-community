@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Kulua Lodge Wrecks
 
-A series of six wrecks -- three large and three smaller -- scattered off Kulua Lodge beach near Rabaul, linked by guide lines and surrounded by hundreds of WWII artillery shell casings on the seabed.
+A cluster of five wrecks -- three large and two smaller -- scattered off Kulua Lodge beach near Rabaul, linked by guide lines and surrounded by what appear to be post-WWII artillery shell casings on the seabed.
 
 ## Overview
 
-The Kulua Lodge Wrecks are a collection of six vessels lying off the beach near Kulua Lodge in the Rabaul area of East New Britain Province. Three large wrecks form the main attractions: K1 is a steel trawler resting at 40+ meters; K2 is an oil barge approximately 50 meters long; and K3 is a 35-meter coastal freighter. Three smaller wrecks are interspersed between them. The seabed between the wrecks is littered with hundreds of WWII artillery shell casings -- a haunting reminder of the area's wartime history. Guide lines connect the wrecks, allowing divers to navigate between them on a single dive. The dive profile naturally ascends from 40 meters at the deepest wreck to approximately 10 meters at the shallowest, making gas management straightforward. Visibility ranges from 15 to 20 meters.
+The Kulua Lodge Wrecks are a cluster of five vessels lying off the beach near Kulua Lodge (also spelled "Kulau") in the Rabaul area of East New Britain Province. Three large wrecks form the main attractions: K1 is a steel trawler with its bow at 40+ meters on the sandy bottom; K2 is a large barge approximately 50 meters long; and K3 is a 35-meter coastal freighter. Two smaller wrecks (a small barge and a 6-meter runabout) lie near K1. The seabed between the wrecks is scattered with what appear to be artillery shell casings -- McFadyen speculates these were disposed of from the shore or a vessel after WWII, though this has not been independently confirmed. Guideline connections between wrecks allow divers to navigate the site on a single dive. Visibility ranges from 15 to 20 meters. Guide lines connect the wrecks, allowing divers to navigate between them on a single dive. The dive profile naturally ascends from 40 meters at the deepest wreck to approximately 10 meters at the shallowest, making gas management straightforward. Visibility ranges from 15 to 20 meters.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The cluster of wrecks creates a substantial artificial reef complex. Each vessel
 
 ## Dive Profile
 
-The dive follows the guide lines between wrecks, starting at the deepest (K1 steel trawler at 40+ meters) and ascending progressively to shallower wrecks. K2, the oil barge, is the largest at approximately 50 meters in length and offers the most extensive exploration. K3, the 35-meter coastal freighter, is the most compact. Between the wrecks, the sandy bottom is covered in WWII artillery shell casings -- take time to observe them as you transit. The natural ascent from 40 meters to approximately 10 meters over the course of the dive makes decompression management straightforward. Total dive time of 45-60 minutes is typical.
+The dive follows the guide lines between wrecks, starting at the deepest (K1 steel trawler bow at 40+ meters) and ascending progressively to shallower wrecks. K2, the large barge, is the most extensive structure and offers the most exploration. K3, the 35-meter coastal freighter, is the most compact. Between the wrecks, the sandy bottom has scattered shell casings -- take time to observe them as you transit, but note their origin is not definitively confirmed as WWII ordnance. The natural ascent from 40 meters to approximately 10 meters over the course of the dive makes decompression management straightforward. Total dive time of 45-60 minutes is typical.
 
 ## Entry and Exit
 
@@ -55,4 +55,4 @@ Access is by dive boat from Kulua Lodge or Rabaul-based operators, or potentiall
 The deepest wreck (K1) reaches 40+ meters, approaching the limit of recreational diving. Plan your deepest excursion first and ascend from there. The guide lines between wrecks should be followed to avoid disorientation on the sandy bottom. The WWII shell casings are ordnance -- observe from a distance and do not handle them. Wreck penetration requires proper training, equipment, and lights.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=711). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=711), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Last updated 2026-06-25.*

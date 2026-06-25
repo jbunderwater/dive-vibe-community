@@ -22,10 +22,10 @@ Note: Palau Dive Adventures describes this site as on the "southwestern" side of
 
 ## Site Information
 - **Location**: Southwestern Ngemelis Island, Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive (40–50 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18–30 meters (recreational range); wall drops to approximately 275 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate; stronger with tidal exchange
 - **Best Time**: Year-round; more sheltered than western wall sites

@@ -63,4 +63,4 @@ Rock formations can be disorienting in strong current — maintain clear visual 
 Year-round diving available. Hammerhead season (January–April) may bring occasional hammerhead passes through the area. Dry season (December–April) delivers calmest surface conditions. Rainy season (May–November) maintains excellent visibility with variable, often gentle currents.
 
 ---
-*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama). Last updated 2026-05-22.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama). Last updated 2026-06-25.*

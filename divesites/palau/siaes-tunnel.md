@@ -20,10 +20,10 @@ Siaes Tunnel is a natural passage carved through the reef on Palau's western bar
 
 ## Site Information
 - **Location**: Northwest of Ulong Island, western barrier reef, Palau, Micronesia
-- **Entry Type**: Boat dive (35–45 minute speedboat from Koror)
-- **Site Type**: Cave/tunnel
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (tunnel floor); tunnel entrance at approximately 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light inside tunnel; moderate to strong on outer wall
 - **Best Time**: Year-round; best light effects with overhead sun

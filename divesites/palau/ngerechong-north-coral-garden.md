@@ -13,42 +13,43 @@ addedBy: osm_import
 
 # Ngerechong North Coral Garden
 
-An exceptionally dense shallow coral garden in southern Palau, showcasing pristine hard coral coverage that rivals the best reef-top diving in Micronesia
+A shallow coral reef in southern Palau's Rock Islands offering pristine hard coral coverage in calm, protected conditions
 
 ## Overview
-Ngerechong North Coral Garden is a shallow reef dive on the northern side of Ngerechong Island in southern Palau. The site is renowned for the density and health of its hard coral coverage -- vast fields of staghorn, table, and branching corals extend across the reef top in an unbroken mosaic of color and texture. At a maximum depth of just 12 meters, the entire dive is bathed in natural light, illuminating the corals and their resident fish populations with vivid clarity. The site is protected from heavy wave action by its position among the southern Rock Islands, creating calm conditions ideal for snorkelers and beginning divers. Ngerechong North Coral Garden offers a striking contrast to Palau's dramatic walls and current-swept corners -- here the appeal is the sheer beauty and abundance of healthy reef, undisturbed and thriving. It is increasingly recognized as one of Palau's most impressive shallow reef dives.
+Ngerechong North Coral Garden is a shallow reef dive on the northern side of Ngerechong Island in the southern Rock Islands. The site is characterised by its hard coral coverage in a maximum depth of 12 meters, in calm conditions protected by the surrounding Rock Islands geography. The site is typically dived in combination with the nearby Ngerechong Drop-off, offering a contrasting reef-and-wall experience on the same trip.
+
+Note: Ngerechong North Coral Garden receives limited coverage in published dive sources compared to Palau's more famous sites. The description reflects what is confirmed by OSM dive data and regional operator descriptions. Specific claims about coral density rankings or exceptional species records have not been verified by three independent sources and are not included here.
 
 ## Site Information
 - **Location**: Ngerechong Island, Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: None to light
 - **Best Time**: Year-round; calm conditions in sheltered location
 
 ## Marine Life
-The dense coral coverage supports an extraordinary abundance of reef fish. Chromis, damselfish, and anthias swarm above the branching corals in shimmering clouds. Anemonefish occupy large carpet and magnificent anemones scattered across the reef. Schools of surgeonfish and parrotfish graze the coral surfaces. Hawksbill turtles are frequent visitors, feeding on sponges in the shallows. Coral groupers and peacock groupers hide among the larger coral formations. Giant clams are embedded in the reef. Butterflyfish pick at coral polyps. Wrasses, gobies, and blennies provide constant movement and color. Octopus hide in reef crevices. The healthy coral structure supports the full food chain from tiny invertebrates to visiting reef sharks.
+The shallow reef hosts typical Rock Islands reef fish populations: chromis, damselfish, anemonefish in resident anemones, surgeonfish, parrotfish, and butterflyfish. Hawksbill turtles visit the broader Ngerechong area. The coral structure supports the food chain from invertebrates to occasional visiting reef fish. Specific species claims beyond the above have not been confirmed by three independent sources at this site and are not listed.
 
 ## Dive Profile
-A straightforward, relaxed dive. Descend to the reef top at 3-5 meters and drift slowly over the coral garden, exploring the formations and their inhabitants. The reef slopes gently to a maximum of 12 meters. No navigational challenges -- simply follow the reef and enjoy. The shallow depth allows extended bottom times of 60-80 minutes or more. This is an excellent site for a second or third dive of the day, when conservative profiles are preferred. Snorkelers can enjoy much of the reef from the surface.
+A straightforward, relaxed dive. Descend to the reef top at 3–5 meters and drift slowly over the coral formations, exploring the structures and their inhabitants. The reef slopes gently to a maximum of 12 meters. The shallow depth allows extended bottom times of 60–80 minutes or more. Combine with Ngerechong Drop-off for a full site visit.
 
 ## Entry and Exit
 Boat dive from Koror (approximately 45 minutes to the southern Rock Islands). Entry by gentle giant stride into calm water. The boat anchors or holds position nearby. Exit back to the boat. No current or surface chop concerns in this sheltered location.
 
 ## Tips and Recommendations
-- Bring a macro lens or close-focus wide-angle to capture the coral detail and small reef life
-- Take your time and look closely at individual coral heads -- the diversity of life in and on them is remarkable
-- This is a perfect site for underwater photography beginners with calm conditions and abundant subjects
 - Combine with Ngerechong Drop-off on the same trip for contrasting reef and wall experiences
-- Snorkelers can enjoy this site from the surface -- consider bringing non-diving companions
+- Bring a macro lens or close-focus wide-angle to capture reef detail and small marine life
+- This is a suitable site for underwater photography beginners — calm conditions and abundant light
+- Snorkellers can enjoy much of the reef from the surface
 
 ## Safety Considerations
-This is one of Palau's safest dive sites. Shallow depth, calm conditions, and no current make it appropriate for all certification levels. The primary concern is protecting the pristine corals -- maintain good buoyancy at all times and avoid any contact with the reef. Staghorn and branching corals are particularly fragile. Wear adequate sun protection for the boat ride, as the southern Rock Islands are exposed. Remain hydrated between dives.
+This is one of Palau's safest dive sites. Shallow depth, calm conditions, and no current make it appropriate for all certification levels. The primary concern is protecting the corals — maintain good buoyancy and avoid any reef contact. Wear adequate sun protection for the boat ride in the southern Rock Islands.
 
 ## Photography
-Ngerechong North Coral Garden is a reef photographer's paradise. Wide-angle with a close-focus setup captures the scale and density of the coral garden, with colorful fish schools providing foreground interest. Natural light at this depth is excellent -- slow shutter speeds and small apertures work well for expansive reef scenes. Macro shooters will find anemonefish, nudibranchs, and crustaceans throughout. Shoot downward to capture the coral mosaic pattern, or low and along the reef to frame the fish schools against blue water. The calm conditions allow precise composition without fighting current.
+Wide-angle with a close-focus setup captures the reef formations with fish populations providing foreground interest. Natural light at this depth is excellent. Macro shooters will find anemonefish, nudibranchs, and crustaceans throughout. Calm conditions allow precise composition without fighting current.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-06-25.*

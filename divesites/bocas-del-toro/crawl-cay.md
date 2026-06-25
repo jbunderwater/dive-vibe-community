@@ -63,4 +63,4 @@ The sea sponge diversity at the reef provides strong close-focus subjects. Any b
 - La Buga and Bocas Dive Center offer regular guided dives here
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [ScubaBoard - Bocas del Toro Dive Sites](https://scubaboard.com/community/threads/bocas-del-toro-panama-dive-sites.627586/). Last updated 2026-05-18.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [ScubaBoard - Bocas del Toro Dive Sites](https://scubaboard.com/community/threads/bocas-del-toro-panama-dive-sites.627586/). Last updated 2026-06-25.*

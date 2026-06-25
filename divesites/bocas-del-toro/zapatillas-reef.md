@@ -63,4 +63,4 @@ The pristine coral, 200+ fish species diversity, and superior visibility create 
 - Bastimentos National Marine Park: permits and visitor information
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-05-18.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-06-25.*

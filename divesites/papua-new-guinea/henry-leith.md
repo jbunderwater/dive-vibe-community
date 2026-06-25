@@ -55,4 +55,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 This is a benign wreck dive suitable for all certification levels. The shallow depth eliminates decompression concerns for reasonable dive durations. Current is typically mild within the harbour. Maintain buoyancy control to avoid damaging the extensive coral growth on the wreck. The vessel is historic -- do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*

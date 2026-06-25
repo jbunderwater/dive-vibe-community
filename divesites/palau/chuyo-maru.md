@@ -24,10 +24,10 @@ The wreck sits upright with the deck at approximately 30 meters (90 feet) and th
 
 ## Site Information
 - **Location**: West Malakal Anchorage, Koror, Palau, Micronesia
-- **Entry Type**: Boat dive (5–20 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (keel); deck at 30 meters; forward tower at 12 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet); better on forward half of wreck
 - **Current**: Light to moderate
 - **Best Time**: Year-round; calm conditions preferred for deep wreck diving

@@ -20,10 +20,10 @@ New Drop-Off is a wall dive west of Ngemelis Island and German Channel, approxim
 
 ## Site Information
 - **Location**: West of Ngemelis Island and German Channel, Palau, Micronesia
-- **Entry Type**: Boat dive (40–50 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (recreational); wall drops far beyond
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate to strong at the corner; variable
 - **Best Time**: Year-round; calmer conditions typically November to May

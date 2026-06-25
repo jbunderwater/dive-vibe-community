@@ -22,10 +22,10 @@ The wreck rests in approximately 12–15 meters of water on a sandy bottom, abou
 
 ## Site Information
 - **Location**: Near Meyuns seaplane base, Koror, Palau, Micronesia
-- **Entry Type**: Boat dive (5–15 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12–15 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 18–30 meters (60–90 feet); best at high tide
 - **Current**: None to light; high tide recommended for best visibility
 - **Best Time**: Year-round; sheltered location

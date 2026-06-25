@@ -63,4 +63,4 @@ Tiger Rock offers wide-angle shark photography in clear water — the visibility
 - Seasonal access: confirm conditions with operator before booking — site is not always accessible
 
 ---
-*Sources: [Tribloo - Tiger Rock](https://www.tribloo.com/en/dive-sites/690/tiger-rock.html), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/), [Sol Bungalows - Scuba Diving Guide](https://solbungalowsbocas.com/scuba-diving-in-bocas-del-toro/). Last updated 2026-05-18.*
+*Sources: [Tribloo - Tiger Rock](https://www.tribloo.com/en/dive-sites/690/tiger-rock.html), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/), [Sol Bungalows - Scuba Diving Guide](https://solbungalowsbocas.com/scuba-diving-in-bocas-del-toro/). Last updated 2026-06-25.*

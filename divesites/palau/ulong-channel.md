@@ -20,10 +20,10 @@ Ulong Channel is a natural cut west of Ulong Island on Palau's western barrier r
 
 ## Site Information
 - **Location**: West of Ulong Island, Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive (30–40 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 13 meters (sandy channel bottom at typical recreational depth)
+- **Maximum Depth**: 13 meters
 - **Typical Visibility**: 15–29 meters (50–95 feet); best on incoming tide
 - **Current**: Strong to very strong, unpredictable; direction can reverse mid-dive
 - **Best Time**: Year-round; best on strong incoming tide; spawning aggregations April–July full moons

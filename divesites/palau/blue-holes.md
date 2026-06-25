@@ -22,10 +22,10 @@ At the north end of the cavern, at approximately 25–27 meters depth, a narrow 
 
 ## Site Information
 - **Location**: Northwest of Ngemelis Island, Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive (50–70 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate (cavern only); Advanced if continuing to outer wall
-- **Maximum Depth**: 40 meters (cavern floor)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 18–45 meters (60–150 feet)
 - **Current**: Light to none inside cavern; moderate to strong on outer wall
 - **Best Time**: Year-round; best light effects with overhead sun between 10am and 2pm

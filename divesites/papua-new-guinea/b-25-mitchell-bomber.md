@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # B-25 Mitchell Bomber
 
-WWII B-25D serial 41-30118, nicknamed "Green Dragon" -- shot down by anti-aircraft fire on 4 August 1943 while attacking Madang Airfield. Intact except for the missing port engine, with four nose guns still loaded with ammunition, an accessible cockpit, dorsal turret, and tail gun.
+WWII B-25D serial 41-30118, nicknamed "Green Dragon" -- shot down by anti-aircraft fire on 4 or 5 August 1943 (sources differ by one day) while attacking Madang Airfield. Port engine missing, with four nose guns and concretion-encrusted ammunition in place, an accessible cockpit, dorsal turret position, and open bomb bay.
 
 ## Overview
 
-This B-25D Mitchell medium bomber, serial number 41-30118 and nicknamed "Green Dragon," was shot down by Japanese anti-aircraft fire on 4 August 1943 during a low-level attack on Madang Airfield. The aircraft came down off Wangat Island, where it rests at 15-25 meters depth. The wreck is remarkably intact -- the port engine is missing (likely torn away by the anti-aircraft hit or on impact), but the rest of the airframe is well-preserved. Four nose-mounted machine guns are still in place, complete with ammunition. The cockpit is accessible and retains structural detail. The dorsal turret and tail gun positions are identifiable. A large gorgonian sea fan has grown between the distinctive twin tail fins, adding a striking natural contrast to the wartime metal. Visibility is typically 8-10 meters, more limited than open-water sites, which adds to the atmospheric quality of the dive.
+This B-25D Mitchell medium bomber, serial number 41-30118 and nicknamed "Green Dragon" (its final name after earlier identities "Elusive Lissie" and "Miss America"), was shot down by Japanese anti-aircraft fire on 4 or 5 August 1943 (Michael McFadyen's site gives 4 August; Pacific Wrecks and other sources give 5 August) during a low-level barge sweep and attack on Madang Airfield. The port engine was torn away by the anti-aircraft hit. Of the crew of seven, one man (S/Sgt Raymond Zimmerman) drowned in the crash; four crew members were captured and executed by Japanese forces on 31 August 1943; the remaining survivors including Major Williston Cox were held as POWs and liberated in 1945. The aircraft came down off Wangat Island (also spelled Wongat Island) and rests at 15-25 meters depth. The wreck is substantially intact -- the port engine is missing but the rest of the airframe is well-preserved. Four nose-mounted machine guns are still in place; the ammunition rounds are present but heavily encrusted with concretions. The cockpit is accessible and retains structural detail. The dorsal turret position is identifiable. Bombs remain in the open bomb bay. A large gorgonian sea fan has grown between the distinctive twin tail fins, adding a striking natural contrast to the wartime metal. Visibility is typically 8-10 meters, more limited than open-water sites.
 
 ## Site Information
 
@@ -55,4 +55,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 The ammunition in the nose guns is live ordnance -- observe from a close but safe distance and do not touch. Visibility is limited, making buddy contact and navigation important. A torch is essential. The moderate depth allows comfortable dive times without decompression concerns for most profiles. This is a WWII crash site -- treat it with appropriate respect and do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=369). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=369), [Pacific Wrecks](https://www.pacificwrecks.com/), [Argunners Magazine](https://www.argunners.com/), [DivePlanit](https://www.diveplanit.com/). Last updated 2026-06-25.*

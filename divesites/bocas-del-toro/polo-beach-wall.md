@@ -63,4 +63,4 @@ The cave architecture — passageways, swim-throughs, and chimney formations —
 - Best season: July–November for optimal visibility and conditions
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Tribloo - Polo Beach](https://www.tribloo.com/en/dive-sites/691/polo-beach.html), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/). Last updated 2026-05-18.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Tribloo - Polo Beach](https://www.tribloo.com/en/dive-sites/691/polo-beach.html), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/). Last updated 2026-06-25.*

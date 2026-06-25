@@ -63,4 +63,4 @@ The swim-throughs and cavern openings make stronger compositional subjects than 
 - Often the first full scuba experience for visitors to Bocas del Toro
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites). Last updated 2026-05-18.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-06-25.*

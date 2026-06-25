@@ -65,4 +65,4 @@ Current is always present and can be strong, particularly on spring tides. This 
 Wide-angle is the priority here. The barracuda schools make dramatic subjects when backlit against the surface or shot from below with the reef edge as backdrop. The Maori wrasse are habituated to divers and often approach closely, offering excellent portrait opportunities. Blacktip and whitetip sharks in the blue water beyond the reef edge reward patient photographers with clear backgrounds. The reef top at 3-5 meters provides good natural light for hard coral and clown triggerfish shots without strobes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=490). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=490), [DivePlanit Barracuda Point Madang](https://www.diveplanit.com/), [Niugini Dive Adventures](https://www.niuginidiveadventures.com/). Last updated 2026-06-25.*

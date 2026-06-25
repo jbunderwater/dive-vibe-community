@@ -20,10 +20,10 @@ Blue Corner is a submerged reef plateau jutting into open ocean southwest of Nge
 
 ## Site Information
 - **Location**: Southwest of Ngemelis Island, Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive (approximately 45 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (wall continues far beyond)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 16–40 meters depending on tide direction
 - **Current**: Strong to very strong, variable direction; can shift horizontally and vertically mid-dive
 - **Best Time**: Year-round; incoming current brings the best visibility and pelagic activity

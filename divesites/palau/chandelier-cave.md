@@ -3,7 +3,7 @@ name: Chandelier Cave
 lat: 7.3407011
 lng: 134.4506516
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 11
 entryType: boat
 siteType: cave
 ref: null
@@ -22,10 +22,10 @@ The maximum dive depth is approximately 11 meters (36 feet), with the entrance a
 
 ## Site Information
 - **Location**: Malakal Harbor, Rock Islands, Palau, Micronesia (less than 1 mile/1.6 km from Koror)
-- **Entry Type**: Boat dive (10 minutes from Koror)
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 11 meters (36 feet)
+- **Maximum Depth**: 11 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: None
 - **Best Time**: Year-round; sheltered location makes this an excellent bad-weather alternative

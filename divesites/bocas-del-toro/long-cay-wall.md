@@ -42,4 +42,4 @@ The previously listed marine life has been removed as it was AI-generated withou
 - Bocas del Toro dive operators: contact operators to confirm whether a wall dive at this location is offered and under what name
 
 ---
-*Description based on site coordinates only. No site-specific sources found for this name. Last updated 2026-05-18.*
+*Description based on site coordinates only. No site-specific sources found for this name. 2026-06-25 re-audit confirmed: zero results across all Bocas del Toro operator sites; the documented wall dive in this region is Manuel's Wall near Isla Solarte. Last updated 2026-06-25.*

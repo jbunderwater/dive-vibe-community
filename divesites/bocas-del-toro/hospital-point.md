@@ -63,4 +63,4 @@ The wall crevices and caverns provide good torch-lit subjects. The shallow coral
 - Night diving: Hospital Point is one of the recommended Bocas del Toro night dive sites
 
 ---
-*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm). Last updated 2026-05-18.*
+*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm). Last updated 2026-06-25.*

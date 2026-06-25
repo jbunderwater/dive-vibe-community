@@ -48,7 +48,7 @@ Access by boat from Rabaul dive operators. Giant stride or back roll entry. Desc
 - Do not attempt to enter the cockpit or fuselage — the Zero is a protected historical site and structural integrity varies
 - Approach slowly and from below — this allows the best views of the aircraft silhouette against ambient light and minimises disturbance to resident fish
 - An AOWD certification or equivalent is strongly recommended given the 30-meter depth
-- Combine with a Rabaul wall dive (Barracuda Point) or harbour dive for a full day of historical diving
+- Combine with another Rabaul or East New Britain wreck dive (Georges Wreck, Kulua Lodge Wrecks) for a full day of historical diving
 
 ## Safety Considerations
 
@@ -59,4 +59,4 @@ Depth (30 meters) approaches the recreational limit — monitor no-decompression
 The Zero Fighter is one of Papua New Guinea's most photographed WWII wrecks due to its intact condition, recognizable form, and accessible depth. Classic compositions include the full aircraft silhouette from the side or slightly below, the cockpit detail shot with torch illumination, and close-up macro shots of the encrusted engine cowling. A rectilinear wide-angle lens at the 16-20mm range captures the full aircraft. Natural light is adequate for ambient shots during morning dives; a torch or single strobe is needed for detail work.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Indopacific Images – Rabaul Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Tech Dive Travels – Rabaul](https://techdivetravels.com/), [underwaterasia.info](https://www.underwaterasia.info/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*

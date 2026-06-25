@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Montana Rusa
 
-Montana Rusa (Roller Coaster) is a deep oceanic pinnacle in the Contreras archipelago and one of Coiba's most demanding dive sites — named for the experience of riding its strong, shifting currents through dramatic underwater canyons and valleys between 14 and 42 meters.
+Montana Rusa (literally "Russian Mountain" in Spanish) is a deep oceanic pinnacle in the Contreras archipelago and one of Coiba's most demanding dive sites — divers nickname it "the roller coaster" for the experience of riding its strong, shifting currents through dramatic underwater canyons and valleys between 14 and 42 meters.
 
 ## Overview
 
-Montana Rusa faces both south and north, with the west side fully exposed to open Pacific swells and swell-driven surge. PADI's database confirms coordinates at 7.90661, -81.81673 (Gulf of Chiriquí) and depth from 14 meters (shallowest) to 42 meters (maximum). Panama Dive Center describes currents here as potentially very difficult; the site's Spanish name reflects the roller-coaster sensation divers experience as currents change direction and speed with depth.
+Montana Rusa faces both south and north, with the west side fully exposed to open Pacific swells and swell-driven surge. PADI's database confirms coordinates at 7.90661, -81.81673 (Gulf of Chiriquí) and depth from 14 meters (shallowest) to 42 meters (maximum). Panama Dive Center describes currents here as potentially very difficult; the site's name reflects the roller-coaster sensation divers experience as currents change direction and speed with depth. (Note: "Montana Rusa" is a common Spanish phrase for roller coaster, literally translating as "Russian Mountain" — a reference to the historical Russian sledding hills that gave rise to the roller coaster.)
 
 The site features pinnacle and canyon topography: divers descend to the reef top and navigate rock formations, crevices, and ridges where large schooling fish and multiple shark species concentrate. It is one of the few Coiba sites where hammerhead sharks are regularly encountered — typically in schools, particularly during the April–July hammerhead migration season through the Eastern Tropical Pacific. ScubaBoard trip reports confirm hammerhead sightings at Contreras-area sites including in September 2024.
 
@@ -73,4 +73,4 @@ April–July: Hammerhead migration peak. Primary hammerhead season across the Ea
 May–November: Generally easier conditions, warmer water, but hammerheads less predictable outside peak season.
 
 ---
-*Sources: [PADI - Montaña Rusa Dive Site](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [ScubaBoard - January 2026 Coiba Trip](https://scubaboard.com/community/threads/diving-in-panama-at-coiba-island-in-january-with-panama-dive-center.654201/). Last updated 2026-05-22.*
+*Sources: [PADI - Montaña Rusa Dive Site](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [ScubaBoard - January 2026 Coiba Trip](https://scubaboard.com/community/threads/diving-in-panama-at-coiba-island-in-january-with-panama-dive-center.654201/). Last updated 2026-06-25.*
