@@ -332,8 +332,10 @@
       "name": "Marine Protected Area",
       "sport": "scuba_diving",
       "tourism": "yes",
-      "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validated": "false",
+      "validation_source": "dive_operator_research",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "UNRESOLVED: 'Marine Protected Area' is not a named dive site per QA research — no dive operator or database lists a site by this name at Malapascua. OSM fixme tag already flagged 'name'. This entry is a protected area boundary, not a distinct dive site. Needs human review for removal or proper naming."
     }
   },
   {
@@ -351,8 +353,10 @@
       "fixme": "location approximate",
       "name": "Japanese Ship Wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validated": "false",
+      "validation_source": "dive_operator_research",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "WRECK CONFLICT: Research identifies a shallow WWII Japanese landing craft (3-7m depth, Beginner) near the Malapascua lighthouse also called 'Lighthouse Wreck / Japanese Wreck Marine Sanctuary'. Current JSON depth of 33m conflicts with this. May be conflating two different wrecks. OSM already flags 'location approximate'. Do not publish marine life or wreck history claims without verified sources. Needs human review to confirm which wreck this represents."
     }
   }
 ]

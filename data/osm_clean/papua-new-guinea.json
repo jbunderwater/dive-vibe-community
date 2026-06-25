@@ -5,15 +5,16 @@
     "lon": 150.5,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "indopacificimages.com,mvoceania.com,thediveglobe.com,liveaboard.com,diveplanit.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diversiondivetravel.com.au,walindiresort.com,mvoceania.com,mvfebrina.com,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 150.4833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 14,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveplanit.com,indopacificimages.com,walindiresort.com,mvfebrina.com,mvoceania.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -57,15 +60,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Canyon/passage dive site in remote Milne Bay with strong currents requiring Advanced skills. Exceptional biodiversity with schooling pelagic fish, sharks, and tuna. Depths 20-30m through narrow passage. World-class diving for experienced divers."
+      "validated": "false",
+      "validation_note": "Site name unverifiable — no independent dive source confirms a site called The Bottleneck in Milne Bay. Name is common globally. Coordinates and description are unconfirmed.",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -82,13 +85,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "indopacificimages.com,underwaterasia.info,justgottadive.com,divernet.com,padi.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "B-17 Black Jack Wreck",
-    "lat": -5.25,
-    "lon": 150.5333,
+    "lat": -9.6,
+    "lon": 149.8,
     "osm_id": null,
     "osm_type": null,
     "depth": 50,
@@ -99,7 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "pacificwrecks.com,michaelmcfadyenscuba.info,scubadiverlife.com,indopacificimages.com,xray-mag.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -115,9 +120,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Famous wall dive in Rabaul with dramatic vertical drop to 40m+. Exceptional barracuda and pelagic action. WWII aircraft and artifacts in area. Strong currents, requires Advanced training. World-class wall with stunning biodiversity."
+      "validated": "false",
+      "validation_note": "Site name unverifiable — no independent dive source confirms a site called Barracuda Point near Rabaul. Name is common globally (Sipadan, Curaçao, Milne Bay PNG). Coordinates and description are unconfirmed.",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -134,10 +139,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Large cargo ship wreck in Madang area, depths 25-35m. Significant structure with hold access and marine growth. Groupers, snappers, and tropical fish abundant. Requires Advanced training for deep wreck exploration in tropical waters."
-    },
-    "validation_source": "michaelmcfadyenscuba.info"
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-25"
+    }
   },
   {
     "name": "Planet Rock Madang",
@@ -145,7 +149,7 @@
     "lon": 145.7833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 36,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -153,7 +157,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "niuginidiveadventures.com,diveplanit.com,padi.com,underwaterasia.info,bestofpng.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -170,7 +175,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "indopacificimages.com,techdivetravels.com,underwaterasia.info,scubadiverlife.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -182,12 +188,13 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "indopacificimages.com,mvoceania.com,mvfebrina.com,walindiresort.com,diveplanit.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -196,15 +203,16 @@
     "lon": 150.5083,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diversiondivetravel.com.au,underwaterasia.info,indopacificimages.com,scubaboard.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -215,13 +223,14 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Aichi Jake Seaplane",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -232,13 +241,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Helmuts Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,dan.org",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -249,13 +259,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Matrix",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,dan.org,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -266,47 +277,50 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Deep Pete",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,diveplanit.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Kate Bomber",
     "lat": -2.587167,
     "lon": 150.485194,
-    "depth": 27,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Kate Bomber",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,ww2wrecks.com,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Numnumin Reef",
     "lat": -2.581667,
     "lon": 150.770139,
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Numnumin Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -317,30 +331,33 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Planet Hollywood",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,diversiondivetravel.com.au",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Dick",
     "lat": -4.370611,
     "lon": 151.974583,
-    "depth": 40,
-    "site_type": "wall",
+    "depth": 35,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Dick",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diveadventures.com.au,underwaterasia.info",
+      "last_qa_date": "2026-06-25",
+      "note": "Part of Tom, Dick and Harry reef complex near Cape Liguan, Rabaul. Reef structure (not wall). Coordinates place this in Rabaul area."
     }
   },
   {
@@ -351,13 +368,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "East Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,allwaysdive.com.au,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -368,13 +386,14 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Georges Wreck",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -385,47 +404,50 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Harrys Step Up",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Kulua Lodge Wrecks",
     "lat": -4.202222,
     "lon": 152.1055,
-    "depth": 20,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kulua Lodge Wrecks",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Pygmy Point",
     "lat": -4.165,
     "lon": 151.914694,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Pygmy Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -436,13 +458,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Sin Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -453,13 +476,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Wonder World",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -470,30 +494,32 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Douglas A-20 Havoc",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Suzies Bommie",
     "lat": -9.58139,
     "lon": 147.25889,
-    "depth": 45,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Suzies Bommie",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -504,13 +530,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "The Finger",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,loloata.com,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -521,30 +548,32 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "HMPNGS Aitape",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,en.wikipedia.org,navy.gov.au",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Christmas Tree",
     "lat": -9.56,
     "lon": 147.26,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 55,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Christmas Tree",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -555,13 +584,14 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "MV Coral Queen",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,scubaboard.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -572,13 +602,14 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Henry Leith",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -589,30 +620,32 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "B-25 Mitchell Bomber",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,argunners.com,diveplanit.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
     "name": "Barracuda Point Madang",
     "lat": -5.2,
     "lon": 145.78,
-    "depth": 40,
+    "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Barracuda Point Madang",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,niuginidiveadventures.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -623,13 +656,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Eel Garden Madang",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,niuginidiveadventures.com,diveplanit.com",
+      "last_qa_date": "2026-06-25"
     }
   },
   {
@@ -640,13 +674,14 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Di's Delight",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,prodivepng.com,indopacificimages.com",
+      "last_qa_date": "2026-06-25"
     }
   }
 ]

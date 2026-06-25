@@ -3,7 +3,7 @@ name: Barracuda Point Madang
 lat: -5.2
 lng: 145.78
 difficulty: Intermediate
-maxDepth: 40
+maxDepth: 30
 entryType: boat
 siteType: drift
 ref: null
@@ -27,7 +27,7 @@ The combination of reliable current, a healthy shallow reef top, and an impressi
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 30 meters
 - **Reef Top**: 3-5 meters
 - **Current**: Always present; direction varies with tide
 - **Best Time**: April to November (dry season), though diveable year-round
@@ -58,11 +58,11 @@ Access is by dive boat from Madang-based operators, with a short ride to Pig Isl
 
 ## Safety Considerations
 
-Current is always present and can be strong, particularly on spring tides. This site is not suitable for divers who are uncomfortable in current. The shallow reef top at 3-5 meters means swell can create surge near the surface -- maintain awareness when ascending. Stay with your buddy and the group, as separation in current can result in being carried away from the pickup area. Always carry an SMB, whistle, and ideally a signaling mirror. The maximum depth of 40 meters limits bottom time on air -- plan gas management conservatively.
+Current is always present and can be strong, particularly on spring tides. This site is not suitable for divers who are uncomfortable in current. The shallow reef top at 3-5 meters means swell can create surge near the surface -- maintain awareness when ascending. Stay with your buddy and the group, as separation in current can result in being carried away from the pickup area. Always carry an SMB, whistle, and ideally a signaling mirror. The maximum depth of 30 meters limits bottom time on air -- plan gas management conservatively.
 
 ## Photography
 
 Wide-angle is the priority here. The barracuda schools make dramatic subjects when backlit against the surface or shot from below with the reef edge as backdrop. The Maori wrasse are habituated to divers and often approach closely, offering excellent portrait opportunities. Blacktip and whitetip sharks in the blue water beyond the reef edge reward patient photographers with clear backgrounds. The reef top at 3-5 meters provides good natural light for hard coral and clown triggerfish shots without strobes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=490). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=490), [DivePlanit Barracuda Point Madang](https://www.diveplanit.com/), [Niugini Dive Adventures](https://www.niuginidiveadventures.com/). Last updated 2026-06-25.*

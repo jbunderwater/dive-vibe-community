@@ -23,7 +23,7 @@ Aphols Point is located on Maricaban Island, approximately 3 kilometres south of
 
 - **Location**: Maricaban Island, Anilao, Batangas, Philippines (3 km S of Buceo Anilao)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-20 meters
@@ -59,4 +59,4 @@ Currents can be variable around Maricaban Island -- follow your guide's briefing
 Aphols Point offers world-class macro photography. Pygmy seahorses on gorgonias are the ultimate prize -- a supermacro diopter and patience are required. Harlequin shrimps, white anglerfish, funeral jorunna nudibranchs, and orangutan crabs are all excellent subjects. A 60mm or 100mm macro lens covers most subjects. The variety of critters means you can fill an entire dive's worth of frames without moving far. A good focus light is essential for finding and illuminating subjects.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1045). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1045), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*

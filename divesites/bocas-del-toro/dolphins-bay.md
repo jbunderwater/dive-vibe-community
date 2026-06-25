@@ -55,4 +55,4 @@ Follow local regulations for dolphin interaction. Do not enter the water without
 - Best dolphin sightings: June–July
 
 ---
-*Description based on boat tour and dolphin watching sources. No site-specific scuba diving sources found. Sources: [Anywhere.com - Dolphin Bay](https://www.anywhere.com/panama/attractions/dolphin-bay-island), [Bocas.com - Dolphins Bay](https://www.bocas.com/ingles/bocascom-attractions-dolphinsbay-ing.html). Last updated 2026-05-18.*
+*Description based on dolphin watching and boat tour sources only. No scuba dive operator lists this as a dive site — 2026-06-25 re-audit confirmed this is a dolphin-watching area, not a documented dive destination. Sources: [Anywhere.com - Dolphin Bay](https://www.anywhere.com/panama/attractions/dolphin-bay-island), [Bocas.com - Dolphins Bay](https://www.bocas.com/ingles/bocascom-attractions-dolphinsbay-ing.html). Last updated 2026-06-25.*

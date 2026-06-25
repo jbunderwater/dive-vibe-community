@@ -25,7 +25,7 @@ The other main feature is the wreckage of a large catamaran resting on the sand 
 
 - **Location**: Passage between Pig Island and Massus Island, Madang Lagoon, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Current**: Gentle on outgoing tide
@@ -64,4 +64,4 @@ This is one of the easiest dives in the Madang area. Current through the passage
 Macro photography is the strength of this site. The garden eels make compelling subjects but require a patient, low-profile approach -- use a longer focal length macro lens if available to avoid getting too close. The catamaran wreck at 11-20 meters offers compact wide-angle compositions with fish life in and around the hull structure. Nudibranchs and flatworms on the wreck surfaces and coral rubble reward careful searching. Natural light is excellent at these shallow depths, reducing the need for powerful strobes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=491). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=491), [Niugini Dive Adventures – Madang Sites](https://www.niuginidiveadventures.com/dive-sites/), [DivePlanit – Eel Garden Madang](https://www.diveplanit.com/). Last updated 2026-06-25.*

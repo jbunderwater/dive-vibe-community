@@ -23,7 +23,7 @@ Ka-Osting / Bantigue is a coral reef slope running along the western side of Mal
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 

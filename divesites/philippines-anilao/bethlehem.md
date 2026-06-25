@@ -23,7 +23,7 @@ Bethlehem is a boat dive site located off Bethlehem village in the channel betwe
 
 - **Location**: Bethlehem village, between Maricaban and Caban Islands, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters
@@ -59,4 +59,4 @@ Bethlehem is a straightforward site with generally mild conditions and shallow d
 Macro photography is the primary focus at Bethlehem. Nudibranchs across the rubble areas and shrimps on fire urchins are the key subjects. The relatively shallow, calm conditions make this a good site for newer underwater photographers to practice macro techniques. A 60mm or 100mm macro lens is appropriate. The fire urchin shrimps are tiny, so a supermacro diopter can be useful.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1105). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1105), [Divescover – Anilao and Batangas](https://divescover.com/diving/philippines/luzon/anilao-and-batangas), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm). Last updated 2026-06-25.*

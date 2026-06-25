@@ -23,7 +23,7 @@ Sabang Bay West is a straightforward bay dive over a sandy bottom dotted with co
 
 - **Location**: Sabang Bay (western side), Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: ~10 meters

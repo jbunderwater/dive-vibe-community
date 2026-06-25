@@ -64,4 +64,4 @@ Mild to moderate conditions, but standard boat-dive safety applies. Scorpionfish
 Year-round diveable. Dry season (December–April) provides warmest water (29–30°C). Rainy season (May–November) is calmer overall with slightly cooler surface temperatures (24–27°C).
 
 ---
-*Sources: [DiveMasterAustin - Santa Cruz Coiba](https://divemasteraustin.com/dive-sites/santa-cruz-coiba), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/). Last updated 2026-05-22.*
+*Sources: [DiveMasterAustin - Santa Cruz Coiba](https://divemasteraustin.com/dive-sites/santa-cruz-coiba), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/). Last updated 2026-06-25.*

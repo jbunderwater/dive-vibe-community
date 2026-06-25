@@ -3,7 +3,7 @@ name: Suzies Bommie
 lat: -9.58139
 lng: 147.25889
 difficulty: Intermediate
-maxDepth: 45
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Suzies Bommie is widely regarded as the best dive site in the Port Moresby area.
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round
@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby or Bootless Bay-based operators, with a
 The bommie base exceeds 30 meters, so manage your depth and bottom time carefully if you descend to the base. Current is generally manageable but can increase. The open-water location means surface conditions may be rougher than inside the barrier reef. Carry an SMB for your safety stop.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=364). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=364), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [ProDive PNG](https://www.prodivepng.com/). Last updated 2026-06-25.*

@@ -68,4 +68,4 @@ December–April (dry season): Plankton upwelling reduces visibility in some are
 May–November (rainy season): Warmer surface water (27–29°C), clearer water, calmer seas. Excellent for reef photography and leisurely coral exploration.
 
 ---
-*Sources: [CoibaNationalPark.com - Bahia Damas Reef](http://www.coibanationalpark.com/bahia_damas_reef.html), [Tourism Panama - Coiba National Park](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/), [The Ark Divers - Scuba Diving Coiba](https://www.thearkdivers.com/dive). Last updated 2026-05-22.*
+*Sources: [CoibaNationalPark.com - Bahia Damas Reef](http://www.coibanationalpark.com/bahia_damas_reef.html), [Tourism Panama - Coiba National Park](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/), [The Ark Divers - Scuba Diving Coiba](https://www.thearkdivers.com/dive). Last updated 2026-06-25.*

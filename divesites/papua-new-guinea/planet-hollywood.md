@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort or Kavieng-based operators. The b
 The extremely strong and unpredictable currents are the primary hazard. Currents can change direction during a dive, potentially sweeping divers away from the wall into open water. Carry an SMB, whistle, and mirror. Maintain visual contact with your buddy at all times. The vertical wall drops to extreme depth -- monitor your depth gauge constantly. This site should only be attempted with experienced local guides who know the current patterns.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=723). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=723), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/). Last updated 2026-06-25.*

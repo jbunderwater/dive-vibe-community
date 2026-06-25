@@ -60,4 +60,4 @@ The exposed western face (Faro) requires reef-hook capability and strong current
 Year-round diveable. Peak pelagic activity (whale sharks, mantas, bull sharks) December–April during dry season upwelling. Rainy season brings warmer calmer conditions with strong reef fish activity.
 
 ---
-*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Diving Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-05-22.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Diving Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-06-25.*

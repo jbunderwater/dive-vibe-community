@@ -59,4 +59,4 @@ The volcanic hot springs produce heated water that can be surprisingly warm -- a
 Mainit Bubble Springs offers genuinely unique photographic opportunities. The volcanic bubbles rising from the sand create distinctive images found at very few dive sites worldwide. Wide-angle captures the bubble streams and wall structure effectively. On the wall, anglerfish and leaf fish are excellent macro subjects. Banded sea snakes in hunting posture make dramatic portrait images. The gorgonia-covered wall provides colourful reef-scape compositions. This site rewards photographers who bring both wide-angle and macro capability.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1047). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1047), [AnilaoDiving.com – Mainit Bubbles Point](https://www.anilaodiving.com/maiinit_bubbles.htm), [Blue Ribbon Divers – Bubbles Dive Site](https://blueribbondivers.com/video-bubbles-dive-site-anilao-dive-sites-guide/). Last updated 2026-06-25.*

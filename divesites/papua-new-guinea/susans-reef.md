@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Susan's Reef
 
-Susan's Reef is a beloved macro and reef dive in Kimbe Bay, West New Britain, Papua New Guinea, named after a diver who helped pioneer diving in the bay.
+Susan's Reef is a beloved macro and reef dive in Kimbe Bay, West New Britain, Papua New Guinea — a submerged ridge with a sheer wall on its eastern side and a sloping garden of hard corals on its western slope.
 
 ## Overview
 
-Susan's Reef is a compact coral structure in the sheltered waters of Kimbe Bay, rising from a sandy bottom to just below the surface. While modest in size compared to some of Kimbe Bay's larger pinnacles, it punches well above its weight for marine life density. The reef is festooned with enormous sea fans — gorgonians measuring over a meter across that angle out into the current — and colonies of bright soft corals that cover almost every hard surface. The site has developed a well-deserved reputation for pygmy seahorses: Hippocampus bargibanti is reliably found on the fans between 12 and 20 meters, and patient divers often spot two or three individuals on a single dive. Ghost pipefish hover near crinoids, nudibranchs of a dozen species browse the coral heads, and resident anemonefish colonies occupy nearly every anemone on the reef. For photographers chasing the miniature, Susan's Reef consistently delivers.
+Susan's Reef is a submerged ridge in the sheltered waters of Kimbe Bay, with a sheer wall on its eastern face and a gently sloping hard coral garden on the western slope. The ridge top sits at approximately 5 meters. The eastern wall is the site's defining feature: it is densely colonized by red whip gorgonians (Ellisella sp.) arranged in overlapping stands from about 15 to 22 meters, a display described by multiple operators as among the most photographed dive scenes in all of Papua New Guinea. These brilliant red sea whips, oriented to face the current, provide ideal habitat for long-nose hawkfish, which perch in characteristic fashion on the gorgonian branches. Three species of anemonefish occupy the anemone communities. Pygmy seahorses (Hippocampus bargibanti) are reliably found on sea fans, with patient divers often spotting multiple individuals on a single dive. Ghost pipefish hover near crinoids, nudibranchs of a dozen species browse the coral heads. For macro photographers, Susan's Reef is consistently one of Kimbe Bay's most rewarding sites.
 
 ## Site Information
 
 - **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -32,11 +32,11 @@ Susan's Reef is a compact coral structure in the sheltered waters of Kimbe Bay, 
 
 ## Marine Life
 
-Pygmy seahorses (Hippocampus bargibanti) on sea fans, ghost pipefish, ornate ghost pipefish, robust ghost pipefish, nudibranchs, flatworms, anemonefish (clownfish), hawkfish, frogfish occasionally reported. Larger visitors include Napoleon wrasse, whitetip reef sharks resting on the sand, and occasional eagle rays passing through the blue. Sea turtles are regularly sighted resting on the reef.
+Red whip gorgonians (Ellisella sp.) along the eastern wall are the signature feature. Resident long-nose hawkfish (Oxycirrhites typus) perch on the sea fans throughout the wall section. Pygmy seahorses (Hippocampus bargibanti) on gorgonian fans. Three species of anemonefish occupy anemone communities on the reef. Ghost pipefish, ornate ghost pipefish, robust ghost pipefish, nudibranchs, and flatworms reward patient macro searching. Larger visitors include Napoleon wrasse, whitetip reef sharks resting on sand, and occasional eagle rays in the blue.
 
 ## Dive Profile
 
-Descend to the reef base at 18-20 meters and work upward, spending most of the dive between 8 and 18 meters where sea fans are most prolific. Currents are typically gentle here compared to offshore pinnacle sites, making it an excellent site for extended bottom time and careful macro searching. A thorough dive takes 50-60 minutes with a comfortable air consumption rate.
+Descend to the ridge top at approximately 5 meters. Drop down the eastern wall where the red whip gorgonians begin at 15 meters and extend to around 22 meters — this is the primary area for pygmy seahorse and long-nose hawkfish hunting. A natural saddle at approximately 24 meters connects the eastern wall base to the western slope. Currents are typically gentle here compared to the offshore pinnacle sites, making it an excellent site for extended bottom time and careful macro searching. A thorough dive takes 50-60 minutes with a comfortable air consumption rate.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Currents are generally light at this site but can increase with tidal changes. T
 Susan's Reef is one of Kimbe Bay's best macro destinations. Pygmy seahorses on gorgonian fans, nudibranchs on soft coral, and ghost pipefish against crinoid backgrounds are all classic shots here. A 100mm macro lens with a single strobe is the standard setup. Wide-angle shots of the fan-covered reef faces at 15 meters are also rewarding.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Diversion Dive Travel – Susan's Reef](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kimbe-bay/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [underwaterasia.info – Kimbe Bay](https://www.underwaterasia.info/). Last updated 2026-06-25.*

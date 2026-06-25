@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Georges Wreck
 
-A WWII Japanese freighter -- possibly the 1,916-ton Toyo Maru -- sitting upright on a 40-degree slope just 20-30 meters from shore, with holds containing mines, cables, engine room skylights, and bow gorgonias.
+A WWII Japanese vessel sitting upright on a steep slope just meters from the Rabaul waterfront, with holds that may contain wartime ordnance and cables, engine room skylights, and gorgonian sea fans on the bow. The ship's identity is unconfirmed; researcher Fritz Herscheid (via Michael McFadyen's website) tentatively identifies it as the Toyo Maru, but this has not been independently verified.
 
 ## Overview
 
-Georges Wreck is a WWII Japanese freighter lying upright on a 40-degree slope near the Rabaul waterfront in East New Britain Province. The vessel is believed to be the 1,916-ton Toyo Maru, sunk in April 1943 by USAAF B-24 Liberator bombers during the Allied air campaign against the Japanese stronghold at Rabaul. The wreck is 60-66 meters long and sits remarkably close to shore, just 20-30 meters from the waterline. The depth range from 10 meters at the shallowest point to 55 meters at the stern makes it accessible across multiple experience levels, though the deeper sections require careful gas management. The holds contain wartime cargo including mines and cables, and the engine room skylights are accessible. Gorgonian sea fans have colonized the bow section, adding colour to the wreck.
+Georges Wreck is a WWII Japanese vessel lying upright on a steep slope near the Rabaul waterfront in East New Britain Province, named after George Tyers who discovered it around 1970. The ship's identity is unconfirmed: researcher Fritz Herscheid, writing via Michael McFadyen's dive website, tentatively identifies it as the Toyo Maru — a vessel of approximately 1,916 tons described as a cable layer — sunk in 1943 by Allied air attack during the campaign against Rabaul. Secondary sources alternatively describe it as a minesweeper, and the exact sinking date is uncertain (sources report either April or August 1943). This identification has not been independently verified. The wreck's length is estimated at 60-66 meters per the same single source. What is well-confirmed across multiple sources is the site's character: the bow sits at around 10-12 meters, the stern descends to approximately 55 meters, and the wreck is remarkably close to shore. The holds contain what appear to be wartime ordnance and cable-laying equipment. Gorgonian sea fans have colonized the bow section, adding colour to the wreck.
 
 ## Site Information
 
@@ -55,4 +55,4 @@ Access is by dive boat from Rabaul, a very short ride given the wreck's proximit
 The stern reaches 55 meters, which is beyond recreational diving limits. Plan a maximum depth appropriate to your certification and experience, and turn the dive before reaching uncomfortable depths. The wartime cargo includes mines -- maintain a safe distance and do not disturb any ordnance. The holds contain confined spaces that require wreck penetration training and proper equipment to enter safely. Monitor air supply carefully given the depth range.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=707). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=707), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Note: ship identity ("Toyo Maru") and sinking details are from a single researcher via McFadyen's site and have not been independently confirmed. Last updated 2026-06-25.*

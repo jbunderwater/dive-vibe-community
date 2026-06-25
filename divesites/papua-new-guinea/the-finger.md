@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby, transiting through or near Basilisk Pa
 Strong currents are possible, particularly around the tip of the finger and during tidal exchanges through Basilisk Passage. Monitor current conditions and do not push past the tip if the flow is strong. For night dives, maintain visual contact with your buddy and carry backup lighting. The western wall drops to significant depth -- monitor your depth gauge carefully on day dives. Deploy an SMB during ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=365). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=365), [Loloata Island Resort – Dive Sites](https://www.loloata.com/diving/), [indopacificimages.com – Port Moresby](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*

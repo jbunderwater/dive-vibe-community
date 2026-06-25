@@ -52,7 +52,7 @@ Outstanding macro photography destination. The variety of micro-habitats — san
 
 - **Location**: San Miguel Island, off Donsol, Sorsogon Province, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 

@@ -3,7 +3,7 @@ name: Twin Rocks
 lat: 13.693767
 lng: 120.886267
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,15 +17,15 @@ Twin Rocks is a classic Anilao reef dive site named for the two prominent rock f
 
 ## Overview
 
-The two rock formations that give the site its name create an underwater structure with sides and overhangs encrusted with coral, sponge, and other sessile organisms. The gap between the twin rocks forms a sheltered zone where current is reduced, allowing a distinct microhabitat to develop. Both the exposed outer faces and the sheltered interior of the twin rocks reward exploration, with different species distributions across these varying conditions. The maximum depth of 20 meters across the site encompasses the full range from the rock tops near the surface to the sandy substrate at their bases.
+The two rock formations that give the site its name create an underwater structure with sides and overhangs encrusted with coral, sponge, and other sessile organisms. The gap between the twin rocks forms a sheltered zone where current is reduced, allowing a distinct microhabitat to develop. Both the exposed outer faces and the sheltered interior of the twin rocks reward exploration, with different species distributions across these varying conditions. The maximum depth of 18 meters across the site encompasses the full range from the rock tops near the surface to the sandy substrate at their bases.
 
 ## Site Information
 
 - **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters
 - **Current**: Light in the gap; moderate on exposed faces
 - **Best Time**: October to May
@@ -59,4 +59,4 @@ Standard Anilao conditions apply. Light current at this site. Deploy SMB before 
 The twin rock structure provides compositional variety for both wide-angle and macro shooting. The interplay of light in the gap between the rocks creates interesting ambient-light conditions. Macro subjects on the rock faces and in the sheltered gap are the highlights.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Anilao](https://wannadive.net), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*

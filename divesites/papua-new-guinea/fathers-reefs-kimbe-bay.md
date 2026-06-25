@@ -2,8 +2,8 @@
 name: Fathers Reefs Kimbe Bay
 lat: -5.3
 lng: 150.5
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -24,8 +24,8 @@ Fathers Reefs consists of multiple coral pinnacles rising steeply from deep wate
 - **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May (dry season, calmer seas)
@@ -59,4 +59,4 @@ Currents can be strong and unpredictable around the pinnacles, especially on inc
 Fathers Reefs is one of Papua New Guinea's premier wide-angle subjects. Schools of trevally framed against soft coral pinnacles, shark silhouettes in the blue, and dense sea fan gardens all make for compelling images. Early morning light penetrates the pinnacle crests beautifully. For macro, work the sea fans at 12-18 meters with good torch light to coax out pygmy seahorses and nudibranchs.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Indopacific Images – Kimbe Bay Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [MV Oceania Kimbe Bay](https://www.mvoceania.com/), [The Dive Globe – Fathers Reefs](https://www.thediveglobe.com/), [Liveaboard.com – Kimbe Bay](https://www.liveaboard.com/), [DivePlanit – Kimbe Bay](https://www.diveplanit.com/). Last updated 2026-06-25.*

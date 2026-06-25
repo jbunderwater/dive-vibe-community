@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby operators. Entry is by giant stride. De
 The wreck sits at 30 meters, limiting no-decompression time on air. Plan your dive time carefully. Penetration is risky due to wires and cables inside the hull -- only attempt with proper wreck diving certification, redundant lights, and a guideline or clear exit strategy. The lower visibility means maintaining buddy contact requires extra attention. Carry an SMB and signal devices.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=355). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=355), [Wikipedia – HMAS Aitape](https://en.wikipedia.org/wiki/HMAS_Aitape_(P_84)), [Royal Australian Navy Sea Power Centre](https://www.navy.gov.au/hmas-aitape). Last updated 2026-06-25.*

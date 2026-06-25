@@ -23,7 +23,7 @@ Evo House Reef is the shallow fringing reef directly in front of Evolution Resor
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 

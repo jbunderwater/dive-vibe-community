@@ -3,7 +3,7 @@ name: Marine Sanctuary
 lat: 9.5167
 lng: 123.685
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,48 +13,48 @@ addedBy: osm_import
 
 # Marine Sanctuary
 
-The protected core of Balicasag Island's marine reserve, established in 1985. Known for large populations of green sea turtles and hawksbill turtles, plus jackfish schools and vibrant coral gardens. Calm conditions and shallow sections make it accessible for beginners.
+The protected core of Balicasag Island's marine reserve, established in 1985. Known for green and hawksbill sea turtles, schools of jackfish and barracuda, and vibrant coral gardens accessible from just 3 meters. A wall with caverns and overhangs extends to 35 meters.
 
 ## Overview
 
-The Marine Sanctuary is located within the most heavily protected zone of Balicasag Island's Marine Protected Area, established in 1985. This dedicated sanctuary zone on the island's western side was instrumental in Balicasag's reef recovery -- coral cover rebounded by more than 100% within the first ten years of protection.
+The Marine Sanctuary occupies the most heavily protected zone of Balicasag Island's Marine Protected Area (MPA), established in 1985. The site features a wall with caverns and overhangs that begins just 3 meters below the surface and drops to approximately 35 meters.
 
-The site is renowned for its large resident populations of green sea turtles and hawksbill turtles, which have thrived under decades of protection. Turtle encounters here are virtually guaranteed. Schools of jackfish and barracuda patrol the deeper sections, while the vibrant coral gardens in the shallows support a rich community of reef fish including clownfish, butterflyfish, and parrotfish.
+The site is known for its resident populations of green and hawksbill sea turtles, which are regularly seen throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. The shallow coral gardens beginning at 3 meters make this the most beginner-accessible site on Balicasag, with calm conditions in the protected zone. Surgeonfish, lionfish, triggerfish, and butterflyfish are commonly observed reef residents.
 
 ## Site Information
 
-- **Location**: Western side, Balicasag Island, Bohol, Philippines
+- **Location**: Balicasag Island, Bohol, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 26-30 degrees C
-- **Current**: Generally calm (protected zone)
+- **Current**: Generally mild in the protected zone; can increase on the outer wall
 - **Best Time**: Year-round; best visibility June to October
 
 ## Marine Life
 
-Green sea turtles and hawksbill turtles are present in large numbers and are the main attraction. Schools of jackfish and snapper cruise the deeper sections. Clownfish in anemones, butterflyfish, parrotfish, frogfish, and moray eels inhabit the reef structure. The long protection has resulted in high coral cover and correspondingly diverse fish populations.
+Green sea turtles and hawksbill turtles are regularly encountered throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. Surgeonfish, lionfish, and triggerfish are confirmed resident species. Clownfish in anemones, butterflyfish, and parrotfish inhabit the reef structure. The shallow coral gardens from 3-15 meters support high reef fish diversity.
 
 ## Dive Profile
 
-The reef starts in the shallows with vibrant coral gardens, then slopes to a wall that drops to 25-30 meters. Beginners can stay in the 5-15 meter range where turtle encounters are most frequent and coral is most colourful. Experienced divers can explore the deeper wall sections where pelagic species are more common. The calm conditions within the sanctuary zone make this a comfortable dive at all depths.
+The reef begins just 3 meters below the surface, making it one of the most accessible walls in Bohol. Beginners can stay in the 3-15 meter range where turtle encounters are frequent and coral is vibrant. The wall descends to approximately 35 meters with caverns and overhangs providing shelter for various species. Return to the shallows for the safety stop.
 
 ## Entry and Exit
 
-Access by dive boat from Panglao Island (Alona Beach area), approximately 30 minutes. Entry by giant stride. The 150-diver daily limit at Balicasag requires advance booking.
+Access by dive boat from Panglao Island (Alona Beach area), approximately 30 minutes. Entry by giant stride. The 150-diver daily limit at Balicasag requires advance booking at least 24 hours ahead.
 
 ## Tips and Recommendations
 
-- Turtle encounters are virtually guaranteed -- bring a camera but do not chase or touch the turtles
-- The shallow coral gardens are among the best preserved in the Visayas -- excellent for photography
-- This is the best site on Balicasag for newer divers, with calm conditions and abundant shallow marine life
-- Pair with a dive at Black Forest to see both sides of Balicasag's underwater character
+- Do not chase or touch the sea turtles — approach slowly and they will often continue feeding undisturbed
+- The shallow reef beginning at 3 meters is excellent for photography and snorkelling
+- This is the most accessible Balicasag site for newer divers
+- Pair with a dive at Black Forest (Advanced) or Diver's Heaven to see a full range of what Balicasag offers
 
 ## Safety Considerations
 
-The sanctuary zone generally has calmer conditions than other Balicasag sites. The wall drops to 30+ meters, so beginners should stay in the shallows. The 150-diver daily limit and advance booking requirement help manage site impact.
+The protected sanctuary zone generally has calmer conditions than exposed Balicasag sites. The wall drops to 35 meters — beginners should stay in the shallows and watch depth closely near the wall edge. The 150-diver daily limit requires advance booking.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-04-08.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-06-25.*

@@ -70,4 +70,4 @@ This is an advanced dive site. The maximum depth of 45 meters at the propeller s
 The MV Pacific Gas rewards both wide-angle and macro approaches. Wide-angle compositions of the bridge and bow with diver models work well in the 15-20 meter visibility -- strobes are essential to bring out the color of the coral growth at depth. The leaf scorpionfish on the bow winch is a macro highlight. Lionfish in doorways and under overhangs make reliable portrait subjects. The propeller at 45 meters is dramatic but the depth limits the time available for careful composition. The dense marine growth on railings and deck fittings provides texture and color throughout the shallower sections of the wreck.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=354). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=354), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*

@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Arthur's Rock
 
-Arthur's Rock is a reef dive site in Philippines Anilao, Asia.
+Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, with a gently sloping reef from the shallows down to 21 meters — one of Anilao's accessible reef sites, named after the owner of the resort nearby, known for macro life across its soft coral-covered outcrops.
 
 ## Overview
 
-Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, with a gently sloping reef from the shallows down to 21 meters where rocky outcroppings covered in soft corals and sponges shelter an impressive variety of Anilao's signature macro life. Blue-ringed octopus, frogfish, Ambon scorpionfish, pygmy seahorses, hairy squat lobsters, and harlequin shrimp have all been found here, and the adjacent Dead Palm muck area extends the critter hunting along the sand flats.
+Arthur's Rock is located off the coast of Anilao in Batangas and is one of the area's established marine sanctuaries. The site features a gentle slope with boulder formations, soft corals, feather stars, sponges, gorgonians, and whip corals from the surface down to approximately 21 meters. The slope is suitable for beginner divers while still offering the macro diversity that Anilao is famous for. The adjacent Dead Palm muck area extends the critter hunting into the surrounding sand flats for divers who wish to explore further.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Bagalangit, Mabini, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 21 meters
 
 ## Marine Life
 
-Arthur's Rock is one of Anilao's premier macro sanctuaries, famous for blue-ringed octopus, multiple frogfish species, and Ambon scorpionfish tucked among the soft coral-covered outcrops. Pygmy seahorses cling to gorgonians at mid-depth, harlequin shrimp and hairy squat lobsters work the rubble patches, and an impressive diversity of nudibranchs is scattered across the reef slope down to 21 meters. The adjacent sand flats extending toward the Dead Palm muck area yield ghost pipefish and additional critters for divers willing to wander.
+Arthur's Rock hosts soft corals, feather stars, sponges, gorgonians, and whip corals that shelter nudibranchs, small reef fish, groupers, snappers, and other typical Anilao reef species. Blue-ringed octopus are noted at this site particularly on night dives. Frogfish and harlequin shrimp are associated with the rubble and rocky substrate typical of the site. Nudibranchs in various species are present throughout. Turtles and barracuda are occasional visitors. Note: specific species claims in earlier versions of this file (Ambon scorpionfish, pygmy seahorses, hairy squat lobsters) have been removed pending site-specific sourcing — these are plausible Anilao species but were not confirmed in available sources for this specific location.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [Arthur's Place Dive Resort – Anilao](https://www.arthursplacediveresort.com/), [dive.site – Arthur's Rock](https://dive.site/explore/site/arthurs-rock-WPrQ), [Oceanstoalpines – Diving Anilao](https://oceanstoalpines.com/diving-anilao/). Last updated 2026-06-25.*

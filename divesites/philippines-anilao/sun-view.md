@@ -59,4 +59,4 @@ The pygmy seahorse gorgonias at 24 meters require careful gas management -- it i
 Sun View is a macro photography destination. Pygmy seahorses on gorgonias at 24 meters are the premier subject -- they require a dedicated macro lens (100mm preferred) and ideally a supermacro diopter. They are extremely small (less than 2 cm) and perfectly camouflaged against the gorgonia polyps. Patience, a good guide, and excellent buoyancy are essential. Nudibranchs across the slope are more accessible macro subjects. Octopus emerging from their dens and mantis shrimp in burrows provide additional targets for patient photographers.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1040). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1040), [Zentacle – Anilao Dive Sites](https://www.zentacle.com/loc/ph/calabarzon/batangas), [Wannadive – Anilao](https://wannadive.net). Last updated 2026-06-25.*

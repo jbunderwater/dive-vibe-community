@@ -13,42 +13,46 @@ addedBy: osm_import
 
 # Jake SeaPlane
 
-A remarkably intact WWII Japanese reconnaissance floatplane resting upright on a sandy bottom in just 12 meters, one of the Pacific's most photogenic and accessible wreck dives
+A remarkably preserved WWII Japanese reconnaissance floatplane resting upright on a sandy bottom in just 12–15 meters, one of the Pacific's most photogenic and accessible wreck dives
 
 ## Overview
-The Jake SeaPlane is the wreck of a Japanese Aichi E13A reconnaissance floatplane, known by its Allied code name "Jake," that was shot down during American air raids on Palau in March 1944. The aircraft sits upright on a white sandy bottom at just 12 meters depth, in calm protected water near the Rock Islands south of Koror. The wreck is remarkably intact -- the fuselage, wings, engine cowling, and pontoon struts are all clearly recognizable and heavily encrusted with hard and soft corals after eight decades underwater. The shallow depth, calm conditions, excellent visibility, and photogenic subject make this one of the most accessible and rewarding WWII wreck dives in the Pacific. It is a standard stop on day-boat and liveaboard itineraries and is suitable for divers of all experience levels, including recently certified Open Water divers.
+The Jake SeaPlane is the wreck of a Japanese Aichi E13A reconnaissance floatplane — known by its Allied code name "Jake" — that went down near the Meyuns seaplane base in Palau during World War II. The aircraft was discovered in 1994 by a local fisherman who spotted it from the surface and informed a local diving school. The exact cause of loss is not confirmed: the propeller blades are unbent, suggesting the engine was not running at the moment of water impact, which points to a non-combat loss such as an engine failure during takeoff or landing rather than being shot down. Sources do not agree on the specific circumstances.
+
+The wreck rests in approximately 12–15 meters of water on a sandy bottom, about 500 yards west of the Meyuns seaplane ramp and a short boat ride from most Koror dive shops. The fuselage and port wing remain largely recognizable after more than 80 years underwater; coral growth has effectively embedded the airframe into the reef. The tail section separated on impact and lies approximately 6 meters away, heavily obscured by coral. The starboard float sits detached from the main structure. The aircraft is 11.3 meters long with a 14.5-meter wingspan (confirmed against Wikipedia specifications for the Aichi E13A).
 
 ## Site Information
-- **Location**: Rock Islands, Palau, Micronesia
+- **Location**: Near Meyuns seaplane base, Koror, Palau, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: None to light
+- **Typical Visibility**: 18–30 meters (60–90 feet); best at high tide
+- **Current**: None to light; high tide recommended for best visibility
 - **Best Time**: Year-round; sheltered location
 
 ## Marine Life
-The wreck has become an artificial reef, with hard corals, soft corals, and sponges covering every surface. Anemonefish occupy anemones growing on the wings. Lionfish perch on the fuselage. Schools of cardinalfish hover around the cockpit area. Blue-spotted stingrays rest in the sand nearby. Small groupers and moray eels have taken up residence in gaps in the airframe. Nudibranchs, flatworms, and cleaner shrimp provide macro subjects on the coral-encrusted surfaces. The surrounding sandy bottom occasionally hosts passing whitetip reef sharks and sea turtles.
+Staghorn, lettuce, brain, and table corals have colonised the airframe, along with a variety of soft corals. Nudibranchs are found on the encrusted surfaces. Octopus occupy crevices in the airframe. Various reef fish inhabit the surrounding coral. The wreck functions as a small artificial reef within a broader coral formation. Note: sources do not confirm large pelagic species specifically at this site.
 
 ## Dive Profile
-A simple and relaxed dive. Descend to the sandy bottom at 12 meters and approach the aircraft. The wreck is compact -- roughly 12 meters long with a wingspan of about 15 meters -- so it can be thoroughly explored in a single dive with plenty of bottom time. Swim around the exterior, examining the engine, propeller area, cockpit, and pontoon attachment points. Do not penetrate the wreck. After exploring the plane, the surrounding sand and reef area can be explored for additional marine life. Safety stop at 5 meters over the sand flat. Total dive time can easily extend to 60 minutes or more given the shallow depth.
+A simple and relaxed dive. Descend to the sandy bottom at 12–15 meters and approach the aircraft. The fuselage and port wing are the most intact portions. The detached tail section lies a short distance away and can be found with a guide. Swim around the exterior, examining the engine bay, cockpit, and wing structures. The shallow depth allows extended bottom times of 60 minutes or more. Safety stop at 5 meters over the sand flat. Total dive time can easily extend to 60 minutes.
+
+**Important:** The wreck contains live World War II–era ammunition, including rounds and small ordnance in and around the cockpit. Do not touch, move, or disturb any ordnance — aged ammunition is unstable and can be hazardous.
 
 ## Entry and Exit
-Short boat ride from Koror (15-20 minutes). Entry by giant stride into calm, protected water. The wreck is visible from the surface on clear days. Exit by climbing back onto the boat, which typically anchors nearby. No current means the boat stays in position throughout the dive.
+Short boat ride from Koror (approximately 5–15 minutes). Entry by giant stride into calm, protected water. The wreck is visible from the surface in good visibility conditions. Exit by climbing back onto the boat, which typically anchors nearby. No significant current means the boat stays in position throughout the dive.
 
 ## Tips and Recommendations
-- Visit early morning for the best light angles illuminating the wreck from above
-- Bring a torch to peek into the cockpit area and illuminate coral-encrusted details
-- Take your time -- the shallow depth gives you extended bottom time to photograph every angle
-- This makes an excellent first dive of a Palau trip to check gear and acclimate
-- Combine with nearby Chandelier Cave for a memorable half-day of easy, shallow diving
+- Dive at high tide for the best visibility at this site
+- Visit early morning for the best overhead light illuminating the wreck
+- Bring a torch to examine the cockpit area and coral-encrusted details
+- The shallow depth gives you extended bottom time — take time to find the detached tail section with your guide
+- This is a WWII war grave — treat it with respect; do not remove any artifacts
 
 ## Safety Considerations
-This is one of Palau's safest and most straightforward dive sites. No current, shallow depth, and protected conditions make it appropriate for all certification levels. The wreck is a war grave and should be treated with respect -- do not remove any artifacts or disturb the structure. Avoid silting the sandy bottom near the wreck with careless finning, as this reduces visibility for other divers and photographers.
+One of Palau's most straightforward dive sites in terms of conditions: no current, shallow depth, and protected waters. The wreck is a war grave — do not remove artifacts or disturb the structure. Live ordnance is present; do not touch anything that could be ammunition. Avoid silting the sandy bottom near the wreck with careless finning.
 
 ## Photography
-The Jake SeaPlane is one of the most photographed wrecks in Micronesia. A wide-angle or fisheye lens captures the entire aircraft in frame from a moderate distance, and the clean sandy bottom provides a bright, uncluttered background. Natural light at 12 meters is excellent, though strobes bring out the vivid colors of the coral encrustation. Shoot from low angles to silhouette the wreck against the surface light. Macro opportunities are abundant on the coral-covered surfaces. A diver hovering near the wing provides compelling scale in wide-angle compositions.
+The wreck is one of the most photographed in Micronesia. Wide-angle captures the fuselage against the sandy bottom, and the clean white sand provides a bright, uncluttered background. Natural light at 12–15 meters is excellent. Strobes bring out the vivid colors of the coral encrustation. Macro opportunities are abundant on the coral-covered surfaces. Shoot from low angles to silhouette the wreck against the surface light.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*
+*Sources: [Fish N Fins Palau](https://fishnfins.com/index.php/fnf-mag-blogs/117-jake-sea-plane-palau), [Wrecked In My rEvo](https://wreckedinmyrevo.com/2022/04/13/jake-seaplane-palau-45-fsw/), [Discover Wildlife](https://www.discoverwildlife.com/animal-facts/marine-animals/jake-seaplane-palau), [Wikipedia – Aichi E13A](https://en.wikipedia.org/wiki/Aichi_E13A). Last updated 2026-06-25.*

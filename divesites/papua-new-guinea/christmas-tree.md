@@ -2,10 +2,10 @@
 name: Christmas Tree
 lat: -9.56
 lng: 147.26
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 55
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Christmas Tree is located outside the barrier reef near Port Moresby, past Basil
 
 - **Location**: Outside barrier reef past Basilisk Passage, Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 25 meters
 - **Current**: Moderate to strong
 - **Best Time**: Year-round; sea conditions may limit access
@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby, transiting past Basilisk Passage to th
 The wall drops well past 55 meters, and Mark's Ravine reaches 45 meters -- this is firmly advanced diving territory. No-decompression time is severely limited at these depths. Monitor depth, time, and gas supply constantly. Grey reef sharks are generally not aggressive but should be treated with respect. Current can be significant at the outer reef -- carry an SMB and signalling devices. The boat transit past the barrier reef means surface conditions may be challenging for boat re-entry.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=356). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=356). Note: A separate dive site called "Christmas Tree" exists in Bootless Bay (the MV Pai 2 wreck, scuttled 1982); this entry refers to the outer reef wall dive past Basilisk Passage documented by McFadyen. Last updated 2026-06-25.*

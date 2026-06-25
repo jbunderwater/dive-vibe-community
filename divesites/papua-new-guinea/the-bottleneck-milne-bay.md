@@ -5,7 +5,7 @@ lng: 150.6833
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ The Bottleneck takes its name from the narrow gap between two reef structures th
 
 - **Location**: Milne Bay, Milne Bay Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
@@ -59,4 +59,4 @@ Strong and variable currents are the primary hazard. The passage is narrow and t
 The Bottleneck rewards wide-angle shooters willing to work in strong current. Schools of fish compressed by the current make for dramatic images, and shark silhouettes at the channel entrance are the signature shot. Autofocus tracking is useful as subjects move fast — pre-set your exposure before descent. Secure all loose equipment carefully as the current can dislodge port covers and accessories.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*No site-specific sources found confirming a site called The Bottleneck in Milne Bay. The site name could not be verified across Indopacific Images, PADI, Tawali Resort, or ScubaBoard Milne Bay records. Known Milne Bay passage sites include The Washing Machine (China Strait) and Pelagic Point. Description is based on general Milne Bay current-dive characteristics. Field verification recommended. Last updated 2026-06-25.*

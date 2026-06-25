@@ -46,4 +46,5 @@ Descend from the mooring to the top of the main bommie at approximately 6 metres
 - Bring a wide-angle lens for the enormous gorgonia fans
 - The canyons between bommies provide shelter from current
 
-*Sources: [Michael McFadyen\'s Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=357). Last updated 2026-04-08.*
+---
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=357), [ProDive PNG – Bootless Bay Sites](https://www.prodivepng.com/), [Indopacific Images – Port Moresby](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*

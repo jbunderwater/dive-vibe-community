@@ -3,7 +3,7 @@ name: Planet Rock Madang
 lat: -5.2333
 lng: 145.7833
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 36
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Planet Rock sits in open water several kilometres from Madang Harbour, an isolat
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong (open water, tidal)
 - **Best Time**: May to November (dry season, best visibility)
@@ -59,4 +59,4 @@ Open-water currents are the primary concern. The site is exposed and conditions 
 Planet Rock is one of Papua New Guinea's best wide-angle subjects. The combination of clear water, abundant natural light, and dense schooling fish makes for exceptional photography. Barracuda and trevally tornadoes framed with a diver silhouette are the classic images. The sweetlips aggregations under overhangs reward a patient approach with extremely saturated colour shots. A fast wide-angle lens (f/4 or wider) handles the fast-moving school subjects well.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Niugini Dive Adventures – Planet Rock](https://www.niuginidiveadventures.com/dive-sites/), [DivePlanit – Planet Rock Madang](https://www.diveplanit.com/), [PADI Dive Site – Planet Rock](https://www.padi.com/), [underwaterasia.info – Madang](https://www.underwaterasia.info/), [bestofpng.com](https://www.bestofpng.com/). Last updated 2026-06-25.*

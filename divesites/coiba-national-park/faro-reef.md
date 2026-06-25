@@ -66,4 +66,4 @@ December–April (dry season): Strongest currents and peak plankton upwelling. B
 May–November (rainy season): Warmer water (27–29°C), calmer surface conditions, reduced but still active shark presence.
 
 ---
-*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Island Trip Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-05-22.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [ScubaBoard - Coiba Island Trip Report](https://scubaboard.com/community/threads/diving-report-about-coiba-island-panama.330598/). Last updated 2026-06-25.*

@@ -2,7 +2,7 @@
 name: Malayan Wreck
 lat: 8.875
 lng: 119.8917
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: liveaboard
 siteType: wreck
@@ -24,7 +24,7 @@ The Malayan Wreck rests on the southwest edge of Tubbataha's North Atoll, a frei
 - **Location**: Philippines Tubbataha Reefs, Asia
 - **Entry Type**: liveaboard
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ---

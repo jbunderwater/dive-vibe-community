@@ -23,7 +23,7 @@ Twin Reef is Port Barton's headline dive — two distinct parallel coral structu
 
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

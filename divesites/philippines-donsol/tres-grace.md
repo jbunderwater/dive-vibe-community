@@ -49,7 +49,7 @@ The soft coral garden is the primary photo subject. Wide-angle with strobe bring
 
 - **Location**: Northern San Miguel Island, Donsol area, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 

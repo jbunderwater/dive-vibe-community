@@ -2,7 +2,7 @@
 name: Christine's Reef Kimbe
 lat: -5.3083
 lng: 150.4917
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ Christine's Reef is a gently sloping coral garden in the sheltered waters of Kim
 
 - **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
@@ -59,4 +59,4 @@ Christine's Reef is one of Kimbe Bay's most beginner-friendly sites. Currents ar
 Christine's Reef works well for both wide-angle reef portraits and macro close-ups. Wide-angle compositions of the healthy staghorn thickets, with anthias clouds and natural light shafts, are beautiful and accessible even for beginner underwater photographers. Macro subjects — nudibranchs, anemonefish, cleaner shrimps — are abundant and approachable. Afternoon dives in particular offer warm, angled light on the upper reef structure that renders coral colour at its most vivid.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [DivePlanit – Kimbe Bay](https://www.diveplanit.com/). Last updated 2026-06-25.*

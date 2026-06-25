@@ -23,7 +23,7 @@ Harrys Step Up is a two-part dive in the Rabaul area of East New Britain Provinc
 
 - **Location**: Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25 meters
@@ -55,4 +55,4 @@ Access is by dive boat from Rabaul-based operators. Entry is by giant stride. De
 The channel crossing between the two reef sections requires awareness of your depth and current exposure. The maximum depth reaches 40 meters in the channel area, so gas management is important. Stay with your guide during the crossing. Current is generally manageable but can increase unexpectedly. Carry an SMB for safety stops.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=708). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=708), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/), [indopacificimages.com – Rabaul Area](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*

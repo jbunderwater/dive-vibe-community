@@ -60,4 +60,4 @@ Boat-only access. Special trip arrangements through operators such as Panama Div
 Deep drop-offs and exposed ocean position create challenging conditions. Only experienced advanced divers with demonstrated comfort in strong current and deep diving should attempt this site. Never dive alone. Comprehensive briefing from operator is mandatory.
 
 ---
-*Sources: [PADI - Jicaron and Jicarita Dive Site](https://www.padi.com/dive-site/panama/jicaron-and-jicarita/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [Panama Dive Center - Hammerheads and Jicaron](https://panamadivecenter.com/hammerheads-night-dives-and-jicaron/). Last updated 2026-05-22.*
+*Sources: [PADI - Jicaron and Jicarita Dive Site](https://www.padi.com/dive-site/panama/jicaron-and-jicarita/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [Panama Dive Center - Hammerheads and Jicaron](https://panamadivecenter.com/hammerheads-night-dives-and-jicaron/). Last updated 2026-06-25.*
