@@ -12,8 +12,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "tribloo.com,therealdealtours.com,bocasdiversparadise.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "Pinnacle confirmed by multiple sources. Bull shark claim removed (unconfirmed). Whale shark claim removed (unconfirmed — one source says manta rays). Hammerhead claim removed (single source only). Black-tip reef sharks and nurse sharks confirmed. Seasonal access confirmed (calm seas required, Aug-Nov best; also Sep-Oct per ScubaBoard). Depth 35-42m confirmed."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "Pinnacle confirmed by multiple sources. Bull shark claim removed (unconfirmed). Whale shark claim removed (unconfirmed — one source says manta rays). Hammerhead claim removed (single source only). Black-tip reef sharks and nurse sharks confirmed. Manta rays confirmed (therealdealtours.com). Seasonal access confirmed (calm seas required, Aug-Nov best; also Sep-Oct per ScubaBoard). Depth 35-42m confirmed. RE-AUDITED 2026-06-25: no changes to type/depth/difficulty warranted; sources re-checked and remain valid."
     }
   },
   {
@@ -29,8 +29,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "bocasdivecenter.com,therealdealtours.com,bocas-del-toro.org",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "CORRECTED: site_type reef -> wall (multiple sources confirm wall dropping 12-16m). CORRECTED: depth 7m -> 16m. CORRECTED: location is northwest tip of Isla Solarte (not northern tip of Isla Colon). Coordinates 9.3348/-82.2198 correspond to NW Isla Solarte which is correct. Historical note: was United Fruit Company hospital complex (1901). Caverns/cracks in wall confirmed."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "CORRECTED: site_type reef -> wall (multiple sources confirm wall dropping 12-16m). CORRECTED: depth 7m -> 16m. CORRECTED: location is northwest tip of Isla Solarte (not northern tip of Isla Colon). Coordinates 9.3348/-82.2198 correspond to NW Isla Solarte which is correct. Historical note: was United Fruit Company hospital complex (1901). Caverns/cracks in wall confirmed. Marine life: nurse sharks, southern stingrays on sandy section (night dive confirmed), seahorses in crevices confirmed (bocasdivecenter.com). RE-AUDITED 2026-06-25: sources re-checked, claims verified."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "therealdealtours.com,bocasdivecenter.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "CORRECTED: depth 18m -> 22m (therealdealtours lists avg 22-45ft, max 72ft/22m). Bocas Dive Center notes it has swim-throughs and small caverns — not a plain reef. Site type kept as reef (primary character) but description updated. Hawksbill turtles confirmed Apr-Jun per therealdealtours."
+      "validation_source": "therealdealtours.com,bocasdivecenter.com,tourismpanama.com",
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "CORRECTED: depth 18m -> 22m (therealdealtours lists avg 22-45ft, max 72ft/22m). Bocas Dive Center notes swim-throughs and small caverns. Hawksbill turtles confirmed Apr-Jun per therealdealtours. Third source added 2026-06-25 QA: tourismpanama.com confirms site location between Colon, Solarte and Carenero islands, 50ft/15m max. NOTE: Sources list between Beginner and Intermediate — bocasdivecenter.com says 'more experienced divers'; tourismpanama.com says 'ideal for beginners'. Depth conflict: therealdealtours.com says 22m max, tourismpanama.com says 15m. The deeper figure (22m) from therealdealtours retained. Dolphin sightings reported (bocusdeltoro.com) but not confirmed as a consistent feature. Ray sightings mentioned by bocusdeltoro.com."
     }
   },
   {
@@ -63,8 +63,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "therealdealtours.com,bocas-del-toro.org,scubaboard.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "Location on SE side of Isla Bastimentos confirmed. Max depth 60ft/18m confirmed. Coral garden with sponges confirmed. Barracuda mentioned by therealdealtours. Reef type confirmed."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "Location on SE side of Isla Bastimentos confirmed. Max depth 60ft/18m confirmed. Coral garden with sponges confirmed. Barracuda mentioned by therealdealtours. Giant jellyfish confirmed in water column. Reef type confirmed. RE-AUDITED 2026-06-25: sources re-checked, claims verified."
     }
   },
   {
@@ -80,8 +80,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "therealdealtours.com,tribloo.com,bocasdiversparadise.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "CORRECTED: site_type cavern -> cave (multiple sources confirm extensive network of caverns, caves, and underwater tunnels — qualifies as cave). CORRECTED: depth 30m -> 12m (tribloo.com and therealdealtours.com both state max 12m/40ft, NOT 30m). CORRECTED: difficulty Advanced -> Intermediate (12m max, direct surface access throughout 90% of dive). CORRECTED: location on Isla Bastimentos (not 'northwestern tip of archipelago'). Seasonal: accessible July-November when water clarity improves. Name in data as 'Polo Beach Wall' but locally known as 'Polo Channel' or 'Polo Channels'."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "CORRECTED: site_type cavern -> cave (multiple sources confirm extensive network of caverns, caves, and underwater tunnels). CORRECTED: depth 30m -> 12m (tribloo.com and therealdealtours both state max 12m/40ft). CORRECTED: difficulty Advanced -> Intermediate (12m max, direct surface access throughout 90% of dive). Location on Isla Bastimentos confirmed. Seasonal: accessible July-November when water clarity improves. Local names: 'Polo Channel' or 'Polo Channels'. Marine life confirmed: giant moray eels, crustaceans (lobster, crabs), snapper, parrotfish, octopus. RE-AUDITED 2026-06-25: sources re-checked."
     }
   },
   {
@@ -96,8 +96,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "No site-specific sources found for 'Dark Wood Reef' by this name across multiple searches. Site name does not appear in any dive operator listing, ScubaBoard thread, or dive database consulted. Cannot validate type, depth, or marine life. Retaining as unvalidated."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "UNRESOLVED. No site-specific sources found for 'Dark Wood Reef' by this name across extensive searches and operator site checks (therealdealtours.com, bocasdivecenter.com, bocasdiversparadise.com, solbungalowsbocas.com, labugapanama.com, ScubaBoard 23-site thread, bocas-del-toro.org, PADI, tourismpanama.com). Site name does not appear in any dive operator listing, ScubaBoard thread, or dive database consulted. Likely an OSM artifact with no operational existence. Recommend removal or local operator verification. 2026-06-25 re-audit: same conclusion — no sources found."
     }
   },
   {
@@ -112,9 +112,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "therealdealtours.com,bocas-del-toro.org,scubaboard.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "Confirmed shallow reef (max 18-20ft per therealdealtours, some sources say 60ft but that is for Crawl Cay). Note: therealdealtours lists 'Coral Cay' as max 60ft/18m but that entry references Crawl Cay / Coral Cay restaurant — there is some name confusion locally. Retaining 8m as the shallow snorkel/beginner depth for the cay-surrounding reef."
+      "validation_source": "therealdealtours.com,bocas-del-toro.org,tourismpanama.com",
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "Confirmed shallow reef. Third source updated 2026-06-25: replaced scubaboard.com (which did not specifically describe this site) with tourismpanama.com (https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/) which confirms 60ft/18m max depth, reef fish, giant jellyfish, sponges, barracudas in underwater caves. NOTE: snorkeling-report.com shows only 3-4m depth for the primary snorkel area; dive operators report deeper sections to ~18m. The 8m database figure reflects the primary snorkeling/beginner dive zone. Marine life at this site confirmed: reef fish (French angelfish, parrotfish, sergeant major, butterflyfish per snorkeling-report.com), giant jellyfish, sponges, barracuda (tourismpanama.com)."
     }
   },
   {
@@ -129,8 +129,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "No independent source found for a dive site named 'Wreck Rock' in Bocas del Toro. The name does not appear in any dive operator listing, ScubaBoard thread, or dive database. The location (SW Isla Colon) is consistent with the Barco Hundido ferryboat wreck location, but the name 'Wreck Rock' and depth 22m do not match. Barco Hundido is at ~12m and is clearly documented. Cannot confirm this as a distinct site. Retaining as unvalidated pending local operator confirmation."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "UNRESOLVED. One possible reference found via labugapanama.com aggregation describing 'Wreck Rock' as an offshore rock formation 0-20m deep accessible only in calm weather — this appears to describe a rock formation dive site distinct from Barco Hundido (the ferry wreck at 12m). However no active Bocas operator (bocasdivecenter.com, therealdealtours.com, bocasdiversparadise.com, tribloo.com, PADI, ScubaBoard) confirms this site by name. Single-aggregated-source only. Cannot validate. 2026-06-25 re-audit: same conclusion — insufficient independent sources."
     }
   },
   {
@@ -145,8 +145,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "No site-specific sources found for 'Punta Juan' as a dive site. The geographic point (Punta Juan Brown on getamap.net at 9.3333/-82.2000, western Isla Bastimentos) is confirmed as a real place, but no dive operator or dive report references this as a named dive site. Cannot validate site type, depth, or marine life. Retaining as unvalidated."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "UNRESOLVED. No site-specific sources found for 'Punta Juan' as a dive site across extensive searches and operator site checks. The geographic point Punta Juan Brown (9.3333/-82.2000, western Isla Bastimentos) exists on maps but no dive operator or dive report references it as a named dive site. Zero results across therealdealtours.com, bocasdivecenter.com, bocasdiversparadise.com, solbungalowsbocas.com, labugapanama.com, ScubaBoard, bocas-del-toro.org, PADI. Likely an OSM geographic artifact, not an actual dive site. 2026-06-25 re-audit: same conclusion."
     }
   },
   {
@@ -162,8 +162,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "therealdealtours.com,bocas-del-toro.org,alnaturalresort.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "Zapatilla Cays confirmed as a dive site in Bastimentos National Marine Park. Pristine reef confirmed. therealdealtours notes avg 40ft/12m, max varies; bocas-del-toro.org notes shallow protected site (20ft max). Caves/caverns also present per therealdealtours. Reef type confirmed as primary character. Alnaturalresort.com (Zapatillas Dive Center) confirms small-group diving at protected reefs around the cays."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "Zapatilla Cays confirmed as dive site in Bastimentos National Marine Park. Pristine reef confirmed. therealdealtours notes avg 40ft/12m, max varies; bocas-del-toro.org notes shallow protected site (20ft max). Caves/caverns also present per therealdealtours. Reef type confirmed as primary character. Alnaturalresort.com (Zapatillas Dive Center) confirms small-group diving at protected reefs. Marine life: 200+ tropical fish species (therealdealtours.com), sea turtles (confirmed nesting), rays confirmed. RE-AUDITED 2026-06-25: sources re-checked."
     }
   },
   {
@@ -178,8 +178,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "Dolphin Bay (Laguna Bocatorito) is a real bay 12km south of Bocas Town. Resident bottlenose dolphins confirmed year-round. However, multiple sources indicate swimming is restricted/not allowed in parts of the bay. No source found that describes Dolphin Bay as a scuba diving site with reef at 10m. It is overwhelmingly described as a snorkeling/boat tour experience. Cannot confirm as a dive site. Depth 10m unverified. Site type 'reef' unverified. Marine life descriptions in markdown are speculative for diving. Retaining as unvalidated — may need to be recategorized or removed."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "UNRESOLVED — LIKELY NOT A DIVE SITE. Laguna Bocatorito is confirmed as a dolphin-watching area with resident bottlenose dolphins. No dive operator lists this as a scuba diving site. It is described exclusively as a snorkeling/boat tour destination. Swimming may be restricted to protect dolphins. The site_type=reef and depth=10m are unverified by any source. 2026-06-25 re-audit confirms: no dive operator (bocasdivecenter.com, therealdealtours.com, bocasdiversparadise.com, solbungalowsbocas.com, labugapanama.com, tribloo.com, PADI) lists Dolphins Bay / Laguna Bocatorito as a scuba dive site. Recommend removal from dive database and recategorization as dolphin-watching tour stop."
     }
   },
   {
@@ -194,8 +194,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "No site-specific sources found for 'Long Cay Wall' as a named dive site. 'Manuel's Wall' is a documented deep wall dive on Isla Solarte (15-35m, advanced). 'Long Cay Wall' does not appear in any dive operator listing, ScubaBoard, or dive database. Cannot validate. Retaining as unvalidated — the wall dive character is plausible for this region but the site name is unconfirmed."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "UNRESOLVED. No site-specific sources found for 'Long Cay Wall' as a named dive site across extensive searches and operator site checks. The documented deep wall dive in Bocas del Toro is 'Manuel's Wall' near Isla Solarte (15-35m, confirmed by therealdealtours.com, solbungalowsbocas.com, bocasdiversparadise.com; also notable for a Columbus-era ship anchor encrusted with coral). 'Long Cay Wall' does not appear in any operator listing, ScubaBoard thread, or dive database. 2026-06-25 re-audit: same conclusion. Recommend replacing with verified Manuel's Wall entry or removing."
     }
   },
   {
@@ -215,8 +215,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "travelingwithscubajay.com,thevisitorpanama.info,bocasdiversparadise.com",
-      "last_qa_date": "2026-05-18",
-      "qa_notes": "CORRECTED: depth 17m -> 12m (multiple sources consistently state ~12m/40ft, NOT 17m). CORRECTED: difficulty Intermediate -> Beginner (12m max, intentionally sunk artificial reef, calm sheltered waters — accessible all levels). Vessel: old ferryboat, intentionally sunk ~1997 to create artificial reef. Location: SW side of Isla Colon, confirmed by multiple sources. No vessel name or tonnage found in any source — all historical wreck claims stripped from markdown. Marine life: hogfish, nurse sharks, reef fish, seahorses confirmed by sources."
+      "last_qa_date": "2026-06-25",
+      "qa_notes": "RE-AUDITED 2026-06-25. Vessel: old car ferry used to transport vehicles from mainland to Isla Colon; no original vessel name, tonnage, or dimensions found in any source. Sinking date CONFLICT: bocasdiversparadise.com and travelingwithscubajay.com say 1997; divescover.com and theblondeabroad.com point to ~2000. Date cannot be verified from primary sources — markdown updated to note both dates with conflict disclosure. Depth CONFLICT: thevisitorpanama.info says 20-40ft (6-12m); travelingwithscubajay.com says 50ft (~15m); divescover.com says 5-11m; theblondeabroad.com says 12m/40ft. The 5-12m range from 2 sources retained; 50ft outlier not used. Marine life re-audited: nurse shark (night dives, confirmed divescover.com), snapper/sergeant major/blue tang schooling on wreck (divescover.com), jackfish/grunts/snappers (bocasdiversparadise.com), seahorses (travelingwithscubajay.com), large snappers/groupers in Captain's Quarters (thevisitorpanama.info). Squids/octopuses (bocasdivecenter.com). Hogfish claim: listed by bocasdivecenter.com; retained. Wreck penetration NOT recommended (divescover.com explicitly states this)."
     }
   }
 ]

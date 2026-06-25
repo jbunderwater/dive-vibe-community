@@ -3,7 +3,7 @@ name: Barracuda Point Madang
 lat: -5.2
 lng: 145.78
 difficulty: Intermediate
-maxDepth: 40
+maxDepth: 30
 entryType: boat
 siteType: drift
 ref: null
@@ -27,7 +27,7 @@ The combination of reliable current, a healthy shallow reef top, and an impressi
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 30 meters
 - **Reef Top**: 3-5 meters
 - **Current**: Always present; direction varies with tide
 - **Best Time**: April to November (dry season), though diveable year-round

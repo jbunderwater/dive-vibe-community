@@ -13,21 +13,19 @@ addedBy: osm_import
 
 # Barco Hundido
 
-An old ferryboat deliberately sunk in 1997 on the southwest side of Isla Colón, now colonised by coral and serving as an accessible artificial reef in calm, sheltered Caribbean water.
+An old car ferry deliberately sunk on the southwest side of Isla Colón to create an artificial reef, now colonised by coral and serving as an accessible shallow wreck dive in calm, sheltered Caribbean water.
 
 ## Overview
 
-Barco Hundido — "sunken ship" in Spanish — is an intentionally sunk ferryboat lying on the sandy bottom at approximately 12 meters on the southwest side of Isla Colón, the main island of the Bocas del Toro archipelago. The vessel was deliberately sunk around 1997 to create an artificial reef and habitat for fish. Over the decades since, the wreck has been colonised by hard and soft corals, sponges, and encrusting organisms that have transformed it into a living reef structure.
+Barco Hundido — "sunken ship" in Spanish — is an intentionally sunk car ferry lying upright on the sandy bottom at approximately 5–12 meters on the southwest side of Isla Colón, the main island of the Bocas del Toro archipelago. The vessel was used to transport cars between the mainland and Isla Colón before being deliberately sunk to create an artificial reef and habitat for fish. Sources disagree on the sinking date: bocasdiversparadise.com and travelingwithscubajay.com state 1997, while other sources indicate approximately 2000; no primary record has been located to resolve the discrepancy. Over the intervening decades, the wreck has been colonised by hard and soft corals, sponges, and encrusting organisms that have transformed it into a living reef structure.
 
-The site is sheltered and accessible year-round. At 12 meters maximum depth, it is one of the most accessible wreck dives in Panama — suitable for beginner divers and those completing their Open Water certification. The wreck rests upright, making exterior navigation straightforward. The protected inner bay position means calm conditions are the norm and visibility is adequate at 12–18 meters.
-
-Note: the vessel name, tonnage, and other specific historical details are not confirmed in available sources beyond the identification as an old ferryboat sunk in approximately 1997.
+The site is sheltered and accessible year-round. The wreck rests upright, making exterior navigation straightforward. The protected inner bay position means calm conditions are the norm and visibility is typically adequate. Note: no vessel name, dimensions, or tonnage have been found in any source; the wreck's history is limited to its identification as an old car ferry sunk to create an artificial reef. Interior penetration is not recommended due to confined spaces and silt accumulation.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–12 m |
+| Depth Range | 5–12 m (sources vary; some report up to ~15 m) |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
@@ -37,7 +35,7 @@ Note: the vessel name, tonnage, and other specific historical details are not co
 
 ## Marine Life
 
-The wreck provides shelter for hogfish, large nurse sharks, and a variety of reef fish confirmed by multiple sources. Seahorses have been recorded in the wreck structure. Schools of jackfish, grunts, and snappers shelter around the hull. The encrusted exterior surfaces support Christmas tree worms and tube sponges.
+Confirmed species sighted at this wreck by multiple independent sources: a nurse shark regularly seen underneath the rear of the ship, especially on night dives; schools of snapper, sergeant major, blue tang, jackfish, and grunts schooling around the hull; large snappers and groupers in the Captain's Quarters section; seahorses recorded within the wreck structure; squids and octopuses documented by Bocas Dive Center. Hogfish are mentioned by Bocas Dive Center. The encrusted exterior surfaces support sponges and encrusting corals.
 
 ## Dive Profile
 

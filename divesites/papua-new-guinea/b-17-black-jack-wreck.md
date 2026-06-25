@@ -1,7 +1,7 @@
 ---
 name: B-17 Black Jack Wreck
-lat: -5.25
-lng: 150.5333
+lat: -9.6
+lng: 149.8
 difficulty: Advanced
 maxDepth: 50
 entryType: boat
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## B-17 Black Jack Wreck
 
-The B-17 "Black Jack" is one of the most intact and historically significant WWII aircraft wrecks in the world, lying on the seabed near Rabaul at 50 meters depth in Papua New Guinea.
+B-17F Flying Fortress serial 41-24521, nicknamed "Black Jack," rests on a flat sandy seabed at approximately 50 meters off Boga Boga village, Cape Vogel, Milne Bay Province — one of the most intact and historically significant WWII heavy bomber wrecks in the Pacific.
 
 ## Overview
 
-On July 11, 1943, B-17E Flying Fortress serial number 41-2429 — nicknamed "Black Jack" — was shot down during a mission out of Port Moresby over the waters near Rabaul, New Britain. The aircraft came to rest on a flat, sandy seabed at approximately 50 meters depth, where the cold, still conditions have preserved it in extraordinary condition for over 80 years. All four Wright Cyclone radial engines remain in place. The twin tail assembly is intact and recognizable from a distance. The bombardier's nose section, with its Plexiglas panels still partially surviving, allows a view into the forward compartment. The Norden bombsight has been documented on prior dives. Wing gun positions, the ball turret, and radio operator's section are all identifiable. The aircraft's fuselage retains its olive drab paint in patches. Coral encrustation is building steadily across the airframe, and the wreck now supports a reef community of its own — lionfish perch on the engines, glassfish swarm around the cockpit, and resident schools of batfish hover in the water column above. This is a technical dive by depth alone, placing it firmly in the advanced-to-technical category, but the reward is a dive site unlike almost any other in the world.
+On the night of 10-11 July 1943, B-17F serial 41-24521 — named "Black Jack" by pilot Kenneth McCullar after the last two digits of its serial number — departed 7-Mile Airdrome, Port Moresby, on a bombing mission against Japanese airfields at Rabaul. After successfully completing the mission, both right-wing engines failed during the return flight, and storm conditions further complicated the situation. With fuel exhausted and unable to cross the Owen Stanley Range back to Port Moresby, the crew ditched the aircraft at Boga Boga near Cape Vogel in Milne Bay Province. All ten crew members survived and were aided by local villagers. The aircraft was discovered in December 1986 by divers Rod Pearce, Bruce Johnson, and David Pennefather.
+
+The B-17F now rests at approximately 50 meters depth on a flat sandy seabed, largely intact. The nose section is crumpled from impact, and the propellers are twisted. The four Wright R-1820 Cyclone radial engines are present. Machine guns remain in their turret positions with ammunition. Coral and sponge growth is colonizing the airframe, and the wreck now supports a developing reef community.
+
+**Note on aircraft identity:** The serial number of this wreck is 41-24521 (a B-17F). An earlier database entry incorrectly listed serial 41-2429 (a B-17E), which is a completely different aircraft lost on 7 August 1942 — nearly a year earlier and under entirely different circumstances. These are two separate aircraft; only 41-24521 is the "Black Jack" that rests at Cape Vogel.
 
 ## Site Information
 
-- **Location**: Kimbe Bay area, West New Britain, Papua New Guinea
+- **Location**: Off Boga Boga village, Cape Vogel, Milne Bay Province, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Typical Visibility**: 20-35 meters
 - **Current**: Generally light at depth
-- **Best Time**: October to May
+- **Best Time**: Year-round; October to May typically calmer
 
 ## Marine Life
 
-The wreck hosts a developing reef community: lionfish roosting on the engines, schools of glassfish around the cockpit framing, batfish in the water column above, and a variety of coral and sponge growth beginning to colonize the airframe. Sea fans are establishing on the wing edges. Occasional whitetip reef sharks and grey reef sharks visit the site. The sandy bottom around the wreck supports flatfish and stingrays.
+The wreck hosts a developing reef community appropriate to its age and depth. Coral and sponge growth is colonizing the airframe surfaces. Fish life concentrates around the engines and fuselage structure. The sandy bottom surrounding the aircraft may host flatfish and other sand-dwelling species. Specific marine life reports for this site are limited; the depth and remote location mean it is rarely dived.
 
 ## Dive Profile
 
-This dive requires careful planning. At 50 meters on air, bottom time is strictly limited by no-decompression limits — most recreational divers have approximately 10-15 minutes at depth before mandatory decompression stops are required. Many operators conduct this dive on Nitrox 32 or offer it as a tech dive with decompression gas. Descend directly to the wreck and prioritize the most significant features — engines, nose, tail assembly — before beginning the ascent. Complete safety stop at 5 meters is non-negotiable. Divers without deep dive training or experience diving to 40+ meters regularly should not attempt this site.
+At 50 meters this is firmly at the edge of recreational diving and into technical territory. No-decompression time on air is approximately 10 minutes. Many divers who attempt this wreck do so on trimix or with stage cylinders and a planned decompression schedule. Descend directly to the wreck and prioritize the key features — engines, tail assembly, nose, gun turrets — before beginning the ascent. A thorough safety stop at 5 meters is non-negotiable.
 
 ## Entry and Exit
 
-Access by boat from operators based at Walindi Plantation Resort or other West New Britain dive operators. Giant stride entry. The site involves a potentially long surface swim to locate the wreck marker — stay close to the descent line. Deploy SMB on ascent.
+Access is by boat from Milne Bay Province operators. The site is in a remote location at Cape Vogel. Access is not straightforward and requires local knowledge. Confirm with operators about current dive access before planning a trip specifically for this site.
 
 ## Tips and Recommendations
 
-- Nitrox certification and a Nitrox fill are strongly recommended to extend bottom time and reduce narcosis risk
-- Brief exhaustively with your dive guide on the wreck layout before entering the water — bottom time is too precious to waste on navigation
-- Bring a dive light to illuminate the interior sections and read the instrument panel detail
-- Do not attempt penetration of the fuselage without proper wreck-penetration training and equipment
-- This is a historically protected site — do not touch, remove, or disturb any part of the aircraft or its contents
+- This is a remote, deep dive: confirm access and conditions thoroughly with a local Milne Bay operator before committing to this site specifically
+- Trimix or oxygen-enriched decompression gas is strongly recommended for maximum time at depth
+- Brief exhaustively with your dive guide on the wreck layout before entry — bottom time at 50 meters is precious
+- The wreck is a WWII crash site and protected heritage site — do not touch, remove, or disturb any part of the aircraft or its contents
+- Combine with other Milne Bay dives — Dinah's Beach muck diving, The Bottleneck — to make the most of the remote location
 
 ## Safety Considerations
 
-Depth (50 meters) is the overriding hazard. Nitrogen narcosis can be significant and affects divers differently — be aware of the signs and be prepared to ascend if impaired. No-decompression limits are short; exceed them and you face mandatory decompression stops that may exceed your gas supply if not planned in advance. The site is remote — evacuation in a medical emergency is complex. Only attempt this dive with a qualified operator who knows the site and can supervise the ascent.
-
-## Photography
-
-The B-17 Black Jack is one of the most photogenic aircraft wrecks in the Pacific. The intact tail section frames beautifully against the blue water above, and the radial engines encrusted with coral and inhabited by lionfish make compelling wide-angle subjects. Time is limited — set up your camera configuration before entry and know exactly which shots you want. A fisheye or ultra-wide lens best captures the full scale of the aircraft. A powerful torch is needed to illuminate engine nacelle interiors and cockpit sections.
+Depth (50 meters) is the overriding hazard. Narcosis is significant at this depth and affects divers differently. No-decompression limits are extremely short on air; exceeding them requires decompression gas that must be planned in advance. The site is in a remote location; evacuation in a medical emergency is complex and slow. Only attempt this dive with an experienced local operator who knows the site, with appropriate gas planning for the depth.
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*Sources: [Scuba Diver Life – Black Jack B-17](https://scubadiverlife.com/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [X-Ray Mag PNG Diving](https://www.x-ray-mag.com/), [Pacific Wrecks](https://www.pacificwrecks.com/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/). Last updated 2026-06-25.*

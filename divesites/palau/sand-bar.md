@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Sand Bar
 
-Palau's legendary manta ray cleaning station, where mantas queue up over a sandy bottom to be groomed by eager cleaner wrasses
+Palau's premier manta ray encounter site at the mouth of German Channel, where rays visit a cleaning station on a sandy plateau at 18–22 meters
 
 ## Overview
-Sand Bar, also known as German Channel, is Palau's premier manta ray encounter site and one of the most reliable places in the world to see oceanic mantas up close. The site sits at the mouth of German Channel, an artificial cut through the barrier reef originally dredged by German miners in the early 1900s to access phosphate deposits. The channel funnels nutrient-rich water over a sandy bottom studded with coral bommies, creating a natural cleaning station where manta rays line up to be serviced by cleaner wrasses. On a good day, five to ten mantas circle the station, hovering motionless over the coral heads while tiny wrasses pick parasites from their gills and skin. The site's sandy bottom at 15-25 meters and generally moderate conditions make this accessible to intermediate divers, though the real challenge is remaining calm and still as a three-meter manta glides overhead.
+Sand Bar sits at the mouth of German Channel — a passage artificially blasted through the coral reef by German colonists in 1908–1911 to shorten the phosphate transport route from Angaur Island to Koror. The channel cut created a passage that manta rays and other pelagics use as a shortcut through the reef. At the channel mouth, a sandy plateau at 18–22 meters depth with scattered rocky coral outcrops hosts a manta ray cleaning station, where cleaner wrasses service mantas that hover motionless over the coral heads. This is one of the most consistent manta ray sites in Palau. Peak manta activity runs from approximately November to May, with December through March typically the most productive months. Note: sources confirm manta rays visit this site but do not consistently specify whether these are reef mantas (*Mobula alfredi*) or oceanic mantas (*Mobula birostris*) — both have been referenced in the broader German Channel literature without clear attribution to individual dive reports.
 
 ## Site Information
-- **Location**: Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: German Channel mouth, Rock Islands, Palau, Micronesia
+- **Entry Type**: Boat dive (approximately 30 minutes from Koror)
+- **Site Type**: Coral reef / sand flat
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Light to moderate; best on incoming tide
-- **Best Time**: Year-round; peak manta season December to April
+- **Maximum Depth**: 25 meters (sandy bottom deepens toward channel exterior)
+- **Typical Visibility**: 10–25 meters (30–80 feet)
+- **Current**: Light to moderate; incoming tide preferred for manta encounters
+- **Best Time**: November–May; peak December–March
 
 ## Marine Life
-Manta rays are the headline attraction, with both reef mantas and oceanic mantas visiting the cleaning station. On peak days, divers may see five or more mantas circling simultaneously. The sandy bottom and coral bommies also attract grey reef sharks, whitetip reef sharks, and the occasional eagle ray. Stingrays and blue-spotted rays rest on the sand. Anemonefish inhabit the coral heads. Garden eels populate the sandy areas away from the cleaning station. Schools of fusiliers and jacks pass through the channel. Macro life on the coral bommies includes nudibranchs, flatworms, and mantis shrimp. Turtles are occasional visitors.
+Manta rays are the headline attraction, visiting the cleaning station where cleaner wrasses service them. Barracuda, lionfish, schooling black snapper, trevally, and hawksbill turtles are also documented at this site by multiple sources. Titan triggerfish patrol the reef outcrops. The sandy bottom and coral bommies support typical Rock Islands reef fish populations. Garden eels extend from the sandy areas away from the cleaning station. Note: specific species claims beyond those listed above were not confirmed at this specific site by three independent sources and have been removed from this description.
 
 ## Dive Profile
-The dive begins with a descent to the sandy bottom at 15-20 meters near the cleaning station coral heads. Divers settle on the sand (knees only, no fin movement) or hover just above the bottom and wait for the mantas to arrive. Patience is essential -- mantas may take time to appear, or they may already be circling on descent. After the manta encounter, divers can explore the surrounding reef and sand flats. Total bottom time is typically 50-65 minutes. Safety stop at 5 meters in the channel.
+Descend to the sandy bottom at 18–22 meters near the cleaning station coral heads. Divers settle on the sand (avoid kneeling directly on reef) or hover just above the bottom and wait for the mantas to arrive. Patience is essential — mantas may take time to appear, or may already be circling on descent. After the manta encounter, divers can explore the surrounding reef and sand flats before ascending. Total bottom time is typically 50–65 minutes. Safety stop at 5 meters in the channel.
 
 ## Entry and Exit
-Boat dive from Koror (approximately 30 minutes) or from liveaboards. Entry by giant stride into the channel. The boat typically anchors or holds position near the cleaning station. Exit is usually back to the anchored boat, though drift pickups may be necessary if current carries divers through the channel.
+Boat dive from Koror (approximately 30 minutes). Entry by giant stride into the channel. The boat typically anchors or holds position near the cleaning station. Exit is usually back to the anchored boat, though drift pickups may be necessary if current carries divers through the channel.
 
 ## Tips and Recommendations
-- Dive on an incoming tide for the best chance of manta encounters
-- Stay low and still near the cleaning station -- mantas will approach closely if divers are calm and quiet
+- Dive on an incoming tide for the best chance of manta encounters at the cleaning station
+- Stay low and still — mantas will approach closely if divers are calm and quiet
 - Never chase or reach toward the mantas, as this will drive them away from the station
+- Palau has strict marine interaction guidelines enforced by dive operators
 - Afternoon dives can be productive when morning boats have departed and the station is quieter
-- Bring a wide-angle lens -- you will regret having a macro setup when a manta hovers overhead
 
 ## Safety Considerations
-Currents through the channel can be stronger than expected, particularly on spring tides. The sandy bottom can reduce visibility when divers fin carelessly -- use gentle movements. Maintain a respectful distance from the mantas and never block their path to the cleaning station. Palau has strict manta interaction guidelines enforced by dive operators. This site is not deep or technical, but the current and the need for precise buoyancy near the cleaning corals require solid intermediate skills.
+Currents through the channel can be stronger than expected, particularly on spring tides. The sandy bottom can reduce visibility when divers fin carelessly near the bottom — use gentle, controlled movements. Maintain a respectful distance from the mantas and never block their path to the cleaning station. The current and the need for precise buoyancy near the cleaning corals require solid intermediate skills.
 
 ## Photography
-This is one of the world's best sites for manta ray photography. A wide-angle or fisheye lens is essential. Shoot upward as mantas pass overhead for dramatic belly shots against the blue water. If a manta hovers at the cleaning station, a close-focus wide-angle setup captures both the manta and the cleaner wrasses in frame. Patience yields the best shots -- stay in position and let the mantas come to you. Strobes help fill in shadows on overcast days but are not always necessary given the shallow depth and sandy bottom reflecting ambient light.
+A wide-angle or fisheye lens is essential for manta photography. Shoot upward as mantas pass overhead for dramatic belly shots against the blue water. If a manta hovers at the cleaning station, a close-focus wide-angle setup can capture both the manta and the cleaner wrasses in frame. Patience yields the best shots — stay in position and let the mantas come to you.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*
+*Sources: [Palau Dive Adventures – German Channel History](https://palaudiveadventures.com/german-channel-history/), [DivePlanit – German Wall Manta Cleaning Station](https://www.diveplanit.com/dive-site/german-wall-manta-cleaning-station/), [Must See Spots – German Channel Guide](https://www.mustseespots.com/palau/articles/diving-the-german-channel-palaus-premier-dive-site-guide/). Last updated 2026-06-25.*
