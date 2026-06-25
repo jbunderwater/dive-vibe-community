@@ -36,7 +36,7 @@ Decades of coral colonization have turned the Kate into a small artificial reef.
 
 ## Dive Profile
 
-The longer boat ride (approximately 33 km from Nusa Resort) is rewarded by an exceptional wreck. Descend to the aircraft at 12 meters. Begin at the nose to examine the engine and the evidence of a dead-stick landing -- note the extended flaps. Move along the fuselage, peering into each of the three cockpits where the joystick and oxygen cylinders are visible. The wings extend in both directions with their full span intact. The shallow depth allows extended bottom time of 45 to 60 minutes, giving ample opportunity to examine every detail of this remarkable aircraft.
+The longer boat ride (approximately 33 km from Nusa Resort) is rewarded by an exceptional wreck. Descend to the aircraft at 12 meters. Begin at the nose to examine the engine and the evidence of a dead-stick landing -- note the extended starboard flap and the undamaged propeller blades. Move along the fuselage, peering into the three tandem crew stations visible under the elongated canopy -- the pilot's joystick remains in the forward position and three small oxygen cylinders are visible on the port side. Note the collapsed starboard tail section where the aircraft struck the reef on impact. The wings extend in both directions largely intact. The shallow depth allows extended bottom time of 45 to 60 minutes, giving ample opportunity to examine every detail of this remarkable aircraft.
 
 ## Entry and Exit
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, a longer ride of approximately 4
 This is a straightforward shallow dive with no significant hazards. Current is typically negligible at the site. The shallow depth eliminates decompression concerns. Maintain buoyancy control to avoid damaging the coral growth on the airframe. Do not remove any artifacts -- all WWII wrecks in PNG are protected.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=705). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=705), [WW2 Wrecks](https://www.ww2wrecks.com/portfolio/nakajima-b5n-kate/), [Wikipedia – Nakajima B5N](https://en.wikipedia.org/wiki/Nakajima_B5N), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*

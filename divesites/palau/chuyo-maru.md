@@ -13,42 +13,48 @@ addedBy: osm_import
 
 # Chuyo Maru
 
-A large WWII Japanese cargo vessel sitting upright on the bottom at 40 meters, offering serious wreck penetration for experienced deep divers
+A WWII Japanese coastal freighter sitting upright on the sandy floor of West Malakal Anchorage at 40 meters, nicknamed the "Lionfish Wreck" for its exceptional density of lionfish
 
 ## Overview
-The Chuyo Maru is the wreck of an 89-meter Japanese freighter that was bombed by American aircraft during Operation Desecrate One on March 30-31, 1944, and sank on April 1, 1944. The ship sits upright on a sandy bottom with the deck at approximately 30 meters and the keel at 40 meters. After more than 80 years underwater, the wreck is well-preserved and heavily colonized by corals and sponges. The Chuyo Maru offers genuine wreck penetration opportunities -- cargo holds, engine room, and corridors are accessible to properly trained divers. This is one of the deeper and more demanding wreck dives in Palau's WWII wreck collection, requiring careful gas management and dive planning. It rewards those who make the effort with an atmospheric exploration of a large, intact wartime vessel in the warm, clear waters of the Rock Islands.
+The Chuyo Maru was a Japanese coastal freighter sunk during Operation Desecrate One, the American air raid on Palau in late March–early April 1944. The vessel was struck by 500-lb bombs dropped during the operation and sank on the evening of 1 April 1944. Though its position was recorded, the wreck was not salvaged after the war and was forgotten until April 1989, when wreck hunters Francis Toribiong and Klaus Lindemann rediscovered it.
+
+Sources provide slightly conflicting specifications. Fish N Fins Palau and the TracesOfWar database report the ship as approximately 285 feet (87 meters) long and 1,941 tons; the Wrecked In My rEvo dive log reports an overall length of approximately 295 feet (90 meters). Build year is reported as 1942 by one source and 1943 by another. The vessel was owned by Toyo Kisen Kaisha, Tokyo, and powered by a coal-burning quadruple-expansion steam engine. These discrepancies cannot be resolved without access to the original ship registry; we note them rather than choose one version.
+
+The wreck sits upright with the deck at approximately 30 meters (90 feet) and the keel at 40 meters (120 feet). The forward kingpost tower reaches to about 12 meters (35 feet) depth. Located in West Malakal Anchorage, it is a short boat ride from Koror dive shops — sources cite 5 to 20 minutes depending on operator.
 
 ## Site Information
-- **Location**: Rock Islands, Palau, Micronesia
-- **Entry Type**: Boat dive
+- **Location**: West Malakal Anchorage, Koror, Palau, Micronesia
+- **Entry Type**: Boat dive (5–20 minutes from Koror)
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 40 meters (keel); deck at 30 meters; forward tower at 12 meters
+- **Typical Visibility**: 15–30 meters (50–100 feet); better on forward half of wreck
 - **Current**: Light to moderate
 - **Best Time**: Year-round; calm conditions preferred for deep wreck diving
 
 ## Marine Life
-The wreck is a thriving artificial reef. Large gorgonian fans and soft corals grow from the railings and superstructure. Schools of glassy sweepers fill the cargo holds, creating shimmering clouds of silver when illuminated by torch light. Lionfish perch throughout the wreck. Groupers occupy the larger spaces and overhangs. Whitetip reef sharks rest near the hull base. Batfish school around the mast and rigging remnants. The surrounding sand is home to garden eels and blue-spotted stingrays. Barracuda and jacks patrol the water column above the wreck. Nudibranchs and encrusting invertebrates cover the hull surfaces.
+The Chuyo Maru earned the nickname "Lionfish Wreck" for the exceptionally high number of lionfish that inhabit the structure. Hard corals, black corals, spiral corals, and Cock's Comb oysters cover sections of the hull. Translucent shrimps inhabit the coral growths. Colorful tropical fish are abundant throughout the wreck. The stern gun and ammunition boxes are heavily encrusted with marine growth. Note: additional specific species claims in earlier versions of this page have been removed as they were not confirmed at this specific wreck by independent sources.
 
 ## Dive Profile
-This is a deep dive requiring careful planning. Descend along the mooring line or anchor line directly to the wreck. The mast and superstructure appear at around 18-20 meters, with the main deck at 30 meters and the sand at 40 meters. Most divers explore the exterior superstructure and upper deck in the 25-35 meter range. Penetration into the cargo holds and engine room should only be attempted by wreck-certified divers with proper equipment including redundant lights and gas supply. Bottom time at 40 meters is limited -- plan for 15-20 minutes at depth with appropriate ascent schedule. Nitrox is strongly recommended to extend bottom time and reduce decompression obligation.
+This is a deep dive requiring careful planning. The forward kingpost tower at 12 meters is visible on descent and serves as an orientation landmark. The main deck at 30 meters and the engine room — featuring a quadruple-expansion steam engine with skylights — are the primary features. The bow section has an anchor winch, cable coils, and two anchors on the port side of the deck. The bridge area has deteriorated but retains remnants of the brass compass and telegraph. Cargo holds are empty. The stern features a deck gun, four ammunition boxes, and two depth charge launchers. Plan for 15–20 minutes of bottom time at 30–40 meters with appropriate ascent schedule. Nitrox strongly recommended.
+
+Wreck penetration into the engine room and holds is possible for trained wreck divers. **Live ammunition is present on this wreck** — do not touch or disturb any ordnance.
 
 ## Entry and Exit
-Boat dive from Koror (approximately 20 minutes) or from liveaboards. Entry by giant stride with a direct descent along the mooring line to minimize surface current exposure. Exit by ascending along the line to the safety stop. The boat typically remains moored above the wreck.
+Boat dive from Koror (approximately 5–20 minutes depending on operator). Entry by giant stride with a direct descent along the mooring line to minimize surface current exposure. Exit by ascending along the line to the safety stop. The boat typically remains moored above the wreck.
 
 ## Tips and Recommendations
-- Use Nitrox (EANx32 or EANx36) to maximize bottom time and reduce deco obligation at depth
-- Carry a powerful primary torch and backup light for exploring the wreck interior
-- Study the wreck layout before the dive -- knowing the ship's structure helps you navigate efficiently with limited bottom time
-- The engine room is the most impressive penetration point but requires training and confidence
-- Plan the dive and dive the plan -- at 40 meters, gas runs out faster than you expect
+- Use Nitrox (EANx32 or EANx36) to maximize bottom time and reduce decompression obligation at depth
+- Carry a powerful primary torch and backup light for the interior sections
+- The forward kingpost tower is an excellent orientation point visible from 12m depth
+- Plan the dive and dive the plan — at 30–40 meters, gas runs out faster than you expect
+- Dive computers with appropriate gas settings are essential
 
 ## Safety Considerations
-This is a deep dive at the limits of recreational diving. A dive computer with appropriate gas settings is essential. Nitrox extends bottom time but introduces oxygen toxicity considerations at maximum depth. Wreck penetration adds overhead environment risks -- silt-out, entanglement, and disorientation are all possible. Never penetrate without wreck diving training, redundant lights, and a clear exit strategy. Monitor narcosis symptoms at depth. Carry a safety sausage and audible signaling device. A surface interval of at least two hours is recommended before any subsequent deep dives.
+This dive reaches recreational depth limits. Narcosis is a real factor at 40m. Wreck penetration adds overhead-environment risk — silt-out, entanglement, and disorientation are all possible without proper training. Never penetrate without wreck diving training, redundant lights, and a clear exit strategy. Live ordnance is present; never handle anything that could be ammunition. Carry a safety sausage and audible signaling device. A surface interval of at least two hours is recommended before any subsequent deep dive.
 
 ## Photography
-The Chuyo Maru offers dramatic wreck photography for those who can manage the depth and limited bottom time. Wide-angle captures the scale of the hull and superstructure. Position a diver near the bow or along the railing for compelling scale shots. Interior photography requires powerful lights and careful buoyancy to avoid silt. The schools of glassy sweepers in the cargo holds photograph beautifully when backlit by torch. Plan your shots in advance -- limited bottom time means you need to know what you want before you descend.
+Wide-angle captures the scale of the hull and superstructure. The lionfish congregating on the railings are photogenic subjects accessible throughout the depth range. Position a diver near the stern gun or along the railing for scale shots. Interior photography requires powerful lights and careful buoyancy to avoid silt. Plan shots in advance — limited bottom time at depth means knowing what you want before you descend.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*
+*Sources: [Fish N Fins Palau – Chuyo Maru](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/wreck-dives/136-chuyo-maru), [Wrecked In My rEvo](https://wreckedinmyrevo.com/2022/04/14/chuyo-maru-palau-120-fsw/), [Pete LePage Scuba](https://petelepage.com/scuba/sites/chuyo-maru/). Last updated 2026-06-25.*
