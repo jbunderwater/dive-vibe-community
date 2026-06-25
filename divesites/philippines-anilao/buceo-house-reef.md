@@ -60,4 +60,4 @@ Buceo House Reef is a straightforward shore dive with generally mild conditions,
 Buceo House Reef is a macro photographer's playground. The density and variety of subjects -- anglerfish, sea moths, nudibranchs, squat lobsters, mantis shrimp, and numerous shrimp species -- means you can fill dive after dive with different subjects. A 60mm or 100mm macro lens covers most critters. The unlimited shore access allows you to return with different lens setups and try different techniques. Sea moths are unusual and photogenic subjects. The various commensal shrimps on featherstars and sea whips are excellent supermacro targets. Night dives with a snoot or focus light add creative possibilities.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1039). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1039), [PADI – Buceo Anilao House Reef](https://www.padi.com/dive-site/philippines/buceo-anilao-house-reef/), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm). Last updated 2026-06-25.*

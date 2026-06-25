@@ -23,7 +23,7 @@ Agahuta is a boat dive site located approximately 5 kilometres east-southeast of
 
 - **Location**: Anilao, Batangas, Philippines (5 km ESE of Buceo Anilao Resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-20 meters
@@ -59,4 +59,4 @@ Currents can be variable at this site, so follow your guide's briefing on condit
 Agahuta is a versatile photography site. Macro subjects are the primary draw -- giant anglerfish, nudibranchs (dozens of species), featherstar shrimps, hairy squat lobsters, and juvenile ribbon eels. The thousands of redtoothed triggerfish provide an impressive wide-angle subject that is unusual for Anilao. A 60mm or 100mm macro lens handles most subjects, but consider a wide-angle option for the triggerfish schools if conditions allow.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1044). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1044), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*

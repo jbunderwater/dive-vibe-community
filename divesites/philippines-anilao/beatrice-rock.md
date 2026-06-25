@@ -2,7 +2,7 @@
 name: Beatrice Rock
 lat: 13.704867
 lng: 120.828833
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: reef
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Beatrice Rock
 
-Beatrice Rock is one of the established dive sites in Anilao, Batangas, offering a combination of reef structure and macro-rich substrate typical of the Verde Island Passage diving experience that has made this area famous in the global underwater photography community.
+Beatrice Rock is located on the northeast corner of Sombrero Island, offering a series of short drop-offs and channels from 5–27 meters — a current-swept site with strong biodiversity where Advanced certification is recommended due to the strength of currents that regularly develop here.
 
 ## Overview
 
-Anilao's dive sites are concentrated along the rocky coastline of the Calumpan Peninsula and surrounding waters in Batangas Bay, and Beatrice Rock is among the named rock formations that have developed into recognised diving destinations. The rock formation creates an underwater structure with encrusted surfaces and surrounding reef habitat extending to 27 meters at its deepest accessible point. The Verde Island Passage current influence means water quality and biodiversity are exceptional. The site's combination of structure, depth, and typical Anilao critter density makes it productive for both wide-angle and macro diving approaches.
+Beatrice Rock sits on the northeast corner of Sombrero Island, with one side featuring a mini wall and the other transitioning into a gradual slope or coral garden. The site has a series of short drop-offs with channels between them, descending from 5 meters to a maximum of 27 meters. Strong currents at Beatrice Rock have produced particularly dense hard coral growth, and the current exposure regularly brings in pelagic visitors. Multiple sources confirm that strong currents make this unsuitable for beginner divers — Advanced Open Water certification or equivalent drift diving experience is recommended. Average depth is approximately 14 meters.
 
 ## Site Information
 
-- **Location**: Anilao, Batangas, Philippines
+- **Location**: Northeast corner of Sombrero Island, Tingloy, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Light to moderate; can strengthen with tidal changes
+- **Typical Visibility**: 10–20 meters
+- **Current**: Light to strong; can be intense
 - **Best Time**: October to May
 
 ## Marine Life
 
-The rock formation's surface hosts dense nudibranch populations, which are the signature attraction of all Anilao dive sites. Flatworms glide across the rock faces. Frogfish in various colour forms sit camouflaged on sponge and coral growth. At depth, ghost pipefish and robust ghost pipefish are occasional sightings near featherstars. The reef surrounding the rock supports hawkfish, damselfish, and various wrasse. Seahorses inhabit algae-covered rubble zones around the rock base.
+The current-swept environment at Beatrice Rock supports outstanding biodiversity. Large barrel sponges, gorgonians, black corals, soft corals, anemones with clownfish, and hard corals cover the reef structure. Schools of thousands of anthias swarm the upper reef. Frogfish, lionfish, and various nudibranch species inhabit the reef surfaces. Triggerfish, snappers, surgeonfish, jacks, and tuna pass through on the current. Turtles are regular visitors. Blue-ringed octopus have been observed in crevices. During strong-current periods, rainbow runners, several species of rays, and occasionally whale shark have been reported in the wider area.
 
 ## Dive Profile
 
-Descend to the maximum depth and systematically work back up the rock surface toward the shallower sections. Anilao diving rewards a figure-eight or spiral pattern that covers all faces of the rock. Spend the maximum time in the 10–20 meter range where nudibranch diversity is typically highest. The 27-meter maximum allows exploration of the deeper sections while maintaining reasonable no-decompression limits.
+Descend to the deeper sections first, working the mini wall and channels. The site's multiple depth zones — from the 5-meter shallows down to 27 meters — require a planned dive profile that accounts for current direction. The average depth of 14 meters in the most productive zone allows reasonable bottom time. Follow your guide's current briefing carefully and be prepared to abort to shallower water if currents exceed expectations.
 
 ## Entry and Exit
 
-Access by banca from Anilao resort piers. Entry by giant stride; return by ladder. A dedicated divemaster guide is recommended for spotting Anilao's specialist critters, which require trained eyes to locate.
+Access by banca from Anilao-area resorts. Entry by giant stride; return by ladder. SMB essential for ascent given current exposure. Boat crew should be briefed on the drift pickup plan before entry.
 
 ## Tips and Recommendations
 
-- Diving with a local guide who knows the site significantly increases the number of species found
-- Look at the undersides of ledges and overhangs — many Anilao nudibranchs are on vertical or inverted surfaces
-- Ghost pipefish around featherstars are often missed by divers who don't know to look
-- The 27-meter depth means some Anilao photographers bring dive computers to manage multi-dive day limits carefully
-- Night dives at Beatrice Rock, if your resort offers them, reveal a completely different cast of species
+- Current assessment before entry is essential — conditions change with tidal cycles
+- The channels between the drop-offs provide some shelter from strong currents for critter hunting
+- Barrel sponges in the current-swept zones are large and photogenic — budget time for wide-angle shots
+- Multiple dive profiles are possible depending on current direction — discuss options with your guide
 
 ## Safety Considerations
 
-Standard Anilao precautions apply. Deploy SMB before surfacing. Be aware of boat traffic in the area. Depth to 27 meters requires attention to no-decompression limits on multi-dive days.
+Strong currents are the primary hazard at Beatrice Rock. Advanced diving experience or Advanced OWD certification is recommended. SMB deployment before surfacing is mandatory — currents can carry divers well away from the boat. Monitor depth carefully in the channels, as downcurrents are possible. Gas management must account for potential extended surface swims if currents carry divers off-site.
 
 ## Photography
 
-The rock's surface offers one of Anilao's classic macro scenarios: dense nudibranch populations on encrusted surfaces with excellent natural light in the shallower sections. Wide-angle shots of the rock structure and adjacent reef are possible. Bring both macro and wide-angle options.
+Beatrice Rock rewards both macro and wide-angle setups. The anthias clouds in the current on the upper reef are outstanding wide-angle subjects. Large barrel sponges provide classic tropical reef-scape compositions. Macro subjects include nudibranchs, frogfish, and lionfish across the coral surface. Blue-ringed octopus in crevices are a macro highlight for patient photographers.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [Asia Dive Site – Beatrice Rock](https://asiadivesite.com/philippines-dive-sites/anilao/beatrice-rock.php), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/). Last updated 2026-06-25.*

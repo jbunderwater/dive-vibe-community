@@ -23,7 +23,7 @@ Mainit Corner is centred on a large bommie that breaks the surface off the south
 
 - **Location**: S point of Mainit peninsula, Anilao, Batangas, Philippines (~600 m from resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-20 meters
@@ -59,4 +59,4 @@ Mainit Corner is a straightforward dive suitable for beginners. Currents are gen
 Mainit Corner excels for macro photography. The nembrotha nudibranchs are large enough to photograph easily with a 60mm macro lens and are often found in pairs or groups. Pygmy seahorses on the gorgonias require more patience and a 100mm macro or supermacro diopter. Harlequin shrimps are beautifully patterned macro subjects. The gorgonia-covered wall also provides colourful wide-angle compositions. The proximity to the resort makes it easy to return for multiple dives with different lens setups.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1046). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1046), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*

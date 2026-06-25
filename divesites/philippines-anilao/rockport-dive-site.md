@@ -23,7 +23,7 @@ The Calumpan Peninsula in Anilao, Batangas, is the heart of Philippine sport div
 
 - **Location**: Rockport, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters
@@ -32,7 +32,7 @@ The Calumpan Peninsula in Anilao, Batangas, is the heart of Philippine sport div
 
 ## Marine Life
 
-Anilao reef sites consistently deliver nudibranchs, frogfish, and a diverse community of reef fish. At Rockport Dive Site, hard coral formations support chromis, damselfish, and anthias populations. The reef substrate hosts the Anilao complement of macro critters including flatworms, nudibranchs, and ghost pipefish around crinoids. Hawksbill sea turtles are occasional visitors to reef sites in the area. Seahorses inhabit the rubble and algae margins of the reef.
+No site-specific marine life observations have been found for Rockport Dive Site. As a reef site in Anilao's Verde Island Passage waters, the regional fauna — nudibranchs, frogfish, reef fish communities, and occasional turtle sightings — likely applies, but no source confirms specific sightings at this location. Marine life information will be updated when site-specific sources are identified.
 
 ## Dive Profile
 
@@ -58,5 +58,4 @@ Standard Anilao precautions apply. Deploy SMB before surfacing. Manage no-decomp
 
 Reef fish portrait photography and nudibranch macro work are the primary subjects. Natural light in the 5–15 meter range is excellent for ambient-light photography. Strobe setups improve colour accuracy and critter visibility at depth.
 
----
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Description based on regional Anilao diving characteristics. No site-specific sources found for Rockport Dive Site. Dive site exists in OpenStreetMap but is not documented in available dive operator listings, ScubaBoard, or dive databases. Marine life claims above reflect general Anilao reef conditions, not site-specific observations. Last updated 2026-06-25.*

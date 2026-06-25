@@ -59,4 +59,4 @@ The 30-meter depth requires careful air and no-decompression limit management, e
 Rhinopias and deeper-water frogfish are the standout photography subjects at this site. A macro lens with strobe lighting is necessary for the lower ambient light at depth. Composition on featureless muck substrate challenges photographers to use lighting creatively to distinguish subjects from background.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [Wannadive – Anilao](https://wannadive.net), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Dive-The-World – Batangas Diving](https://www.dive-the-world.com/diving-sites-philippines-batangas.php). Last updated 2026-06-25.*

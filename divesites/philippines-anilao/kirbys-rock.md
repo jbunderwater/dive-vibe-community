@@ -3,7 +3,7 @@ name: Kirby's Rock
 lat: 13.690767
 lng: 120.843567
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,11 +25,11 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Kirby's Rock offers a dual character: the gorgonian- and whip-coral-draped wall harbours moray eels in crevices and clownfish in anemones on the rubble base, while the site's exposure to the Verde Island Passage brings in jacks and barracuda from open water. Crinoids in the current at the wall's upper edge shelter the pygmy seahorses and ghost pipefish that reward macro photographers, and multiple nudibranch species are distributed across the encrusted surfaces. Slack water is the best time to hunt for critters before the current picks up and shifts attention to the pelagic action.
+Kirby's Rock features two pinnacles with a canyon between them, all heavily adorned with hard and soft corals, gorgonians, crinoids, and sea fans. Golden pygmy seahorses on gorgonian branches have been documented. Thousands of Colochirus robustus sea cucumbers are a distinctive feature. Nudibranchs including multiple species inhabit the encrusted surfaces. Dragon shrimp are present on whip corals. Frogfish and anthias schools are confirmed at the site. The wall's exposure to the Verde Island Passage brings in occasional pelagics. Note: depth corrected to 5–80m+ per Blue Ribbon Divers source — recreational diving limited to the upper 30m; the wall continues to technical depths below.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [AnilaoDiving.com – Kirby's Rock](https://anilaodiving.com/kirbys.htm), [Blue Ribbon Divers – Kirby's Rock](https://blueribbondivers.com/dive-sites/philippines/luzon/batangas/anilao/kirbys/), [Scuba Diver Life – Kirby's Rock](https://scubadiverlife.com/kirbys-rock-anilao-philippines/). Last updated 2026-06-25.*

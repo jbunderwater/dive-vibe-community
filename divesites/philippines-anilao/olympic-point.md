@@ -59,4 +59,4 @@ The sandy slope can reduce visibility quickly if divers have poor buoyancy contr
 Olympic Point is an outstanding macro photography site. Hairy anglerfish are spectacular subjects -- their filamentous appendages create beautiful detail when lit with strobes. Spiny devilfish partially buried in sand are dramatic portrait subjects. Juvenile ribbon eels peering from burrows require patience but reward it with striking images. Mushroom coral pipefish are an ultimate macro challenge -- extremely small and requiring supermacro diopters. A 100mm macro lens is ideal for most subjects here.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1041). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1041), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*

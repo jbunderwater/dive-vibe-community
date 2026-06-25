@@ -23,7 +23,7 @@ Anilao is frequently called the "macro capital of the Philippines" and the birth
 
 - **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-20 meters
@@ -59,4 +59,4 @@ Shallow site with generally mild conditions. Standard Anilao precautions apply: 
 Anilao is one of the world's premier macro photography destinations, and Bahura represents this tradition well. Nudibranch portraits, frogfish close-ups, and reef fish images in excellent natural light are the primary subjects. Take extra batteries — you will want more dive time than a single tank provides.
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*Sources: [AnilaoDiving.com – Bahura](https://www.anilaodiving.com/bahura.htm), [Divezone – Anilao Batangas](https://divezone.net/diving/anilao-batangas), [PADI – Bahura Dive House Reef](https://www.padi.com/dive-site/philippines/bahura-dive-house-reef/). Last updated 2026-06-25.*
