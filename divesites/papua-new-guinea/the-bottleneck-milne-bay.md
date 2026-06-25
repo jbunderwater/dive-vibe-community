@@ -5,7 +5,7 @@ lng: 150.6833
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ The Bottleneck takes its name from the narrow gap between two reef structures th
 
 - **Location**: Milne Bay, Milne Bay Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift/channel dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
