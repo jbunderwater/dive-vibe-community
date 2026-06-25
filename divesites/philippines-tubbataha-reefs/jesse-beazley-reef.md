@@ -23,7 +23,7 @@ Jesse Beazley Reef sits alone in the Sulu Sea, a submerged circular atoll whose 
 
 - **Location**: Jesse Beazley Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters

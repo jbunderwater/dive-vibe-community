@@ -23,7 +23,7 @@ The Tubbataha North Atoll is a large coral structure enclosing a lagoon, and Ko-
 
 - **Location**: North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-35 meters

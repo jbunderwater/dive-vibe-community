@@ -23,7 +23,7 @@ Los Bamboos is a coral slope on the southern side of Malapascua named for the ba
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

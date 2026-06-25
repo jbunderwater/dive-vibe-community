@@ -23,7 +23,7 @@ Located on North Atoll in the Tubbataha Reefs Natural Park, Shark Airport sits o
 
 - **Location**: North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-40 meters

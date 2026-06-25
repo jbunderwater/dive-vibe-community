@@ -23,7 +23,7 @@ Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach R
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 

@@ -23,7 +23,7 @@ Deep Slope is a gently inclined coral reef running along the northern flank of M
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 

@@ -9,6 +9,8 @@ siteType: wreck
 ref: null
 osmId: 244536817
 addedBy: osm_import
+qa_status: unresolved
+qa_note: "Wreck identity conflict: research found a shallow WWII Japanese landing craft (3-7m, Beginner) near the Malapascua lighthouse (Lighthouse Wreck / Japanese Wreck Marine Sanctuary), but current depth entry is 33m which does not match. OSM already flags location as approximate. Marine life claims in description are unverified. Needs human review."
 ---
 
 ## Japanese Ship Wreck

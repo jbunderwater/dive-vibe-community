@@ -23,7 +23,7 @@ Malapascua Island hosts several marine protected areas, and this Coral Garden MP
 
 - **Location**: Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters

@@ -49,7 +49,7 @@ Advanced certification recommended given the Ticao Pass current environment. The
 
 - **Location**: Ticao Pass, near Ticao Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 

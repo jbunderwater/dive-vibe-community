@@ -23,7 +23,7 @@ Tubbataha Reefs Natural Park protects two large coral atolls and a smaller reef 
 
 - **Location**: Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters

@@ -23,7 +23,7 @@ Sitting in the protected waters around Port Barton, Fantastic Reef earns its nam
 
 - **Location**: Port Barton, northern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters

@@ -9,6 +9,8 @@ siteType: reef
 ref: null
 osmId: 244531732
 addedBy: osm_import
+qa_status: unresolved
+qa_note: "Not confirmed as a named dive site — OSM entry is a protected area boundary. No dive operator lists this as a distinct named site. Needs human review."
 ---
 
 ## Marine Protected Area
@@ -23,7 +25,7 @@ Malapascua's Marine Protected Area covers a section of reef off the island's nor
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

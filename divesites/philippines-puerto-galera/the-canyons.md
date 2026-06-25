@@ -23,7 +23,7 @@ The Canyons is widely considered Puerto Galera's premier dive site and carries a
 
 - **Location**: Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Drift / Canyon
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15-20 meters
