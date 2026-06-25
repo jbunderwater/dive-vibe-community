@@ -58,7 +58,7 @@ Access is by dive boat from Madang-based operators, with a short ride to Pig Isl
 
 ## Safety Considerations
 
-Current is always present and can be strong, particularly on spring tides. This site is not suitable for divers who are uncomfortable in current. The shallow reef top at 3-5 meters means swell can create surge near the surface -- maintain awareness when ascending. Stay with your buddy and the group, as separation in current can result in being carried away from the pickup area. Always carry an SMB, whistle, and ideally a signaling mirror. The maximum depth of 40 meters limits bottom time on air -- plan gas management conservatively.
+Current is always present and can be strong, particularly on spring tides. This site is not suitable for divers who are uncomfortable in current. The shallow reef top at 3-5 meters means swell can create surge near the surface -- maintain awareness when ascending. Stay with your buddy and the group, as separation in current can result in being carried away from the pickup area. Always carry an SMB, whistle, and ideally a signaling mirror. The maximum depth of 30 meters limits bottom time on air -- plan gas management conservatively.
 
 ## Photography
 

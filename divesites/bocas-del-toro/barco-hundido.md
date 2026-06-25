@@ -63,4 +63,4 @@ The wreck in warm, clear water makes for accessible wide-angle wreck photography
 - The wreck is in sheltered inner waters, accessible year-round
 
 ---
-*Sources: [Traveling with Scuba Jay - Panama Dive Guide](https://travelingwithscubajay.com/the-ultimate-guide-to-scuba-diving-in-panama/), [The Visitor Panama - The Old Wreck](http://www.thevisitorpanama.info/eng/2024/10/19/the-old-wreck-an-amazing-site-to-dive-in-the-bocas-del-toro-archipelago/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/). Last updated 2026-05-18.*
+*Sources: [Traveling with Scuba Jay - Panama Dive Guide](https://travelingwithscubajay.com/the-ultimate-guide-to-scuba-diving-in-panama/), [The Visitor Panama - The Old Wreck](http://www.thevisitorpanama.info/eng/2024/10/19/the-old-wreck-an-amazing-site-to-dive-in-the-bocas-del-toro-archipelago/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites). Last updated 2026-06-25.*
