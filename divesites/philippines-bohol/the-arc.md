@@ -27,7 +27,7 @@ The site is suitable for beginner and intermediate divers. Conditions are genera
 
 - **Location**: Libaong area, Panglao Island, Bohol, Philippines (near former Bohol Beach Club)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef and sandy slope
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters

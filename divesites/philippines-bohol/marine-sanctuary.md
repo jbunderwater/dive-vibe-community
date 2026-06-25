@@ -25,7 +25,7 @@ The site is known for its resident populations of green and hawksbill sea turtle
 
 - **Location**: Balicasag Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with caverns and overhangs
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters

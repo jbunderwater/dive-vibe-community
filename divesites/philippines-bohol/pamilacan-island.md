@@ -25,8 +25,8 @@ The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South
 
 - **Location**: Pamilacan Island, ~18 km SE of Panglao, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall, slope, and coral garden (varies by site)
-- **Difficulty Level**: Advanced (Intermediate-Advanced Open Water recommended by multiple operators)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 26-30 degrees C

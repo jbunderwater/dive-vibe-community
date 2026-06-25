@@ -27,7 +27,7 @@ The surrounding reef is a productive macro site. SM Divers describes it as "rela
 
 - **Location**: Libaong, Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with natural limestone swim-through
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters

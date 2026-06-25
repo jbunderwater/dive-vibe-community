@@ -24,7 +24,7 @@ The conditions are typically calm with little to no current, and visibility can 
 ## Site Information
 
 - **Location**: Off Alona Beach, Panglao Island, Bohol, Philippines
-- **Entry Type**: Boat dive (or swim from shore)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters

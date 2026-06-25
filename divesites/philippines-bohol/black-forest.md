@@ -27,9 +27,9 @@ Strong and variable currents are the defining hazard at Black Forest. SM Divers,
 
 - **Location**: Northeast side, Balicasag Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Slope and wall dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (black coral forest 35-45 m)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Variable; can be strong; drift diving required on some days
