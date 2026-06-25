@@ -21,7 +21,7 @@ The waters around Rabaul and Blanche Bay hold numerous aircraft from the intense
 
 ## Site Information
 
-- **Location**: Simpson Harbour area, Rabaul, East New Britain Province, Papua New Guinea
+- **Location**: Malapau village, southwest shore of Blanche Bay, near Kokopo, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
