@@ -8,12 +8,14 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com"
+      "validation_source": "dive-the-world.com, divebooker.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   },
   {
@@ -25,12 +27,14 @@
     "depth": 32,
     "site_type": "reef",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, searchable dive databases"
+      "validation_source": "dive-the-world.com, searchable dive databases",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   },
   {
@@ -47,7 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com"
+      "validation_source": "dive-the-world.com, divebooker.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
     }
   },
   {
@@ -59,12 +65,14 @@
     "depth": 35,
     "site_type": "reef",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "searchable dive databases, divessi.com"
+      "validation_source": "searchable dive databases, divessi.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   },
   {
@@ -76,12 +84,14 @@
     "depth": 20,
     "site_type": "wreck",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divebooker.com, solitude.world"
+      "validation_source": "divebooker.com, solitude.world",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy. Wreck history (WWII freighter claim) unverified — no confirmed ship name or build data from 2+ independent sources."
     }
   },
   {
@@ -93,12 +103,14 @@
     "depth": 35,
     "site_type": "wall",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "justgottadive.com, dive-the-world.com"
+      "validation_source": "justgottadive.com, dive-the-world.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   },
   {
@@ -110,12 +122,14 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, dive-the-world.com"
+      "validation_source": "divessi.com, dive-the-world.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   },
   {
@@ -132,7 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, divescover.com"
+      "validation_source": "divessi.com, divescover.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
     }
   },
   {
@@ -144,7 +160,7 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jesse Beazley Reef",
       "natural": "reef",
@@ -152,7 +168,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "solitude.world, divebooker.com"
+      "validation_source": "solitude.world, divebooker.com",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
     }
   }
 ]

@@ -2,7 +2,7 @@
 name: Black Rock
 lat: 8.8333
 lng: 119.85
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: liveaboard
 siteType: reef
@@ -24,7 +24,7 @@ Tubbataha Reefs Natural Park protects two large coral atolls and a smaller reef 
 - **Location**: Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters
 - **Current**: Variable; can be strong on exposed rock faces

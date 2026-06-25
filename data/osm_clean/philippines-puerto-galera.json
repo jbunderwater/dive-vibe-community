@@ -242,7 +242,7 @@
     "lat": 13.523407,
     "lon": 120.992139,
     "depth": 29,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
@@ -251,7 +251,9 @@
       "name": "The Canyons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-06-25",
+      "qa_note": "Corrected site_type from reef to drift: site is defined by strong currents sweeping through canyon formations; drift is the primary characteristic per Michael McFadyen's site description."
     }
   },
   {

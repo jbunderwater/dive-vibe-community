@@ -2,7 +2,7 @@
 name: Ko-ok
 lat: 8.8417
 lng: 119.8583
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: liveaboard
 siteType: reef
@@ -24,7 +24,7 @@ The Tubbataha North Atoll is a large coral structure enclosing a lagoon, and Ko-
 - **Location**: North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-35 meters
 - **Current**: Variable; wall current can be strong

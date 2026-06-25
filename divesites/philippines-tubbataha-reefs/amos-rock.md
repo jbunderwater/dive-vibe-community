@@ -2,7 +2,7 @@
 name: Amos Rock
 lat: 8.8667
 lng: 119.8833
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: liveaboard
 siteType: wall
@@ -24,7 +24,7 @@ Amos Rock is a North Atoll landmark — named for the midnight snappers that sch
 - **Location**: Philippines Tubbataha Reefs, Asia
 - **Entry Type**: liveaboard
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ## Marine Life

@@ -2,7 +2,7 @@
 name: Malayan Wreck
 lat: 8.875
 lng: 119.8917
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: liveaboard
 siteType: wreck

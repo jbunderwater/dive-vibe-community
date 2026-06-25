@@ -2,7 +2,7 @@
 name: Bird Islet Wall
 lat: 8.825
 lng: 119.8417
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: liveaboard
 siteType: wall
@@ -24,7 +24,7 @@ Bird Islet Wall drops off the northern edge of Tubbataha's North Atoll in a shee
 - **Location**: Philippines Tubbataha Reefs, Asia
 - **Entry Type**: liveaboard
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 
 ## Marine Life
