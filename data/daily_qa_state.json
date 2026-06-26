@@ -1500,7 +1500,7 @@
         "sites_unresolved": 12,
         "notes": "portugal skipped (group destination, no osm_clean data)"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/102"
     }
   ]
 }
