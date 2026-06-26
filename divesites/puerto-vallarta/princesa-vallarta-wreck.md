@@ -3,7 +3,7 @@ name: Princesa Vallarta Wreck
 lat: 20.549
 lng: -105.277
 difficulty: Advanced
-maxDepth: 38
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 # Princesa Vallarta Wreck
 
-Former 24-meter bay cruise vessel intentionally sunk in 2017 as an artificial reef — a penetrable wreck at 38 meters with nudibranchs, black coral, moray eels, and rays, surrounded by 10 additional sunken boats
+Former bay cruise vessel that ran aground in February 2017 and was intentionally sunk as an artificial reef on October 24, 2017 — a penetrable wreck at approximately 25-27 meters resting alongside 10-14 other sunken vessels including sailboats, pangas, and fishing boats
 
 ## Overview
 
-The Princesa Vallarta was a 24-meter passenger vessel that operated as a bay cruise boat in Puerto Vallarta for many years before being decommissioned and deliberately sunk in 2017 as an artificial reef project. The wreck now sits upright on a sandy bottom at 38 meters, making it one of the deeper recreational dives in the Banderas Bay area.
+The Princesa Vallarta was a passenger vessel that operated as a bay cruise boat in Puerto Vallarta before running aground outside the entrance of Marina Vallarta on February 16, 2017 during strong winds and rough seas. After authorities removed hazardous contaminants over several months, the vessel was intentionally sunk on October 24, 2017 as an artificial reef approximately 200 meters off the coast of Playas Gemelas.
 
-The intentional sinking was part of a larger artificial reef initiative — the Princesa Vallarta is accompanied by approximately 10-11 smaller sunken boats in the same area, creating an interconnected wreck field rather than a single isolated hull. This concentration of structure on an otherwise featureless sandy bottom has accelerated colonization; less than a decade after sinking, the Princesa Vallarta has developed significant marine growth on its surfaces. The wreck is penetrable, with the interior accessible to divers with proper training and equipment.
+The wreck is accompanied by 10-14 additional sunken vessels — including sailboats, pangas, fishing boats, and speedboats — creating an interconnected wreck field on an otherwise featureless sandy bottom. The Princesa Vallarta is penetrable, with interior accessible through large windows and doors, though penetration is not recommended without proper training. The bow faces west, and well-preserved propellers are among the notable structural features.
 
 ## Site Information
 
-- **Location**: Banderas Bay, near Puerto Vallarta
+- **Location**: Approximately 200 meters off Playas Gemelas, Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 38 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 22-28°C (72-82°F)
 - **Current**: Usually mild; check conditions
@@ -35,23 +35,23 @@ The intentional sinking was part of a larger artificial reef initiative — the 
 
 ## Marine Life
 
-Nudibranchs colonize the surfaces of the wreck in good numbers and are among the most photogenic subjects on the hull. Black coral has established itself on structural elements of the wreck — unusual at this depth for the Banderas Bay area. Moray eels occupy the interior and hull openings, with multiple individuals visible per dive. Rays — including stingrays and electric rays — rest on the sandy bottom around the wreck base and on the surrounding sandy flats adjacent to the smaller sunken boats. The structure provides shelter for tropical reef fish that would otherwise lack habitat on the flat sand bottom.
+Sea turtles — hawksbill, green, and olive ridley — inhabit the wreck field and are among the most consistent encounters here. Goliath groupers visit the site. Argus and jewel moray eels occupy the interior and hull openings. The structure provides shelter for tropical reef fish that would otherwise lack habitat on the flat sand bottom. The concentration of multiple sunken vessels has accelerated colonization; each auxiliary boat has developed its own resident community.
 
 ## Dive Profile
 
-The Princesa Vallarta sits at 38 meters — at the outer limit of recreational diving — which means bottom time at depth is limited. Most divers spend 10-15 minutes exploring the main wreck before ascending to the shallower auxiliary boats in the 15-25 meter range to extend bottom time. The wreck is upright and structurally intact, allowing exterior inspection of the hull, deck structures, and wheelhouse. Interior penetration is possible through multiple entry points but requires a dive torch and comfort with wreck penetration. Plan your dive so the deepest section comes first while air reserves are highest.
+The Princesa Vallarta sits at approximately 21-27 meters, with the high parts shallower and the sandy bottom section at around 27 meters. Most divers spend time exploring the main wreck before ascending to the shallower auxiliary boats in the 12-20 meter range to extend bottom time. The wreck is upright and structurally intact, allowing exterior inspection of the hull, deck, engine room, bow thrusters, and wheelhouse. Interior penetration is possible through large windows and doors but is not recommended — use a dive torch for exterior exploration of the hull details. Plan your dive so the deepest section comes first.
 
 ## Entry and Exit
 
-Access by dive boat from the Puerto Vallarta marina. Giant stride entry; ascent with SMB deployed from depth. The 38-meter main wreck is an Advanced-level dive; inexperienced divers should explore only the shallower auxiliary boats until comfortable with the depth.
+Access by dive boat from the Puerto Vallarta marina, approximately 15 minutes transit. Giant stride entry; ascent with SMB deployed from depth. Experienced divers can venture to the deepest sections; the shallower auxiliary boats are accessible to a broader range of certified divers.
 
 ## Tips and Recommendations
 
-- Bring a dive torch — the wreck interior and black coral show their best under artificial light
-- Plan for a short bottom time on the main wreck at 38m and budget your air for the ascent to the shallower boats
+- Bring a dive torch — the wreck interior and hull crevices reveal far more detail with artificial light
 - The auxiliary boats scattered around the site are worth exploring independently; each has developed its own micro-community
-- Nudibranchs are most concentrated on the sheltered sides of hull structures — work slowly along the surfaces
-- Advanced certification and recent deep-dive experience are recommended before attempting penetration of the main wreck
+- Sea turtles are among the most reliable encounters here — approach slowly and give them space
+- Interior penetration through windows and doors is not recommended per the site operator
+- Advanced certification and good buoyancy are recommended; the site attracts strong currents on occasion
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Banderas Scuba Republic – The Story of Princesa Vallarta](https://www.banderas-scuba.com/bebuilder-1333/), [PADI – Princesa Vallarta Shipwreck](https://www.padi.com/dive-site/mexico/princesa-vallarta-shipwreck/), [Vallarta Adventures – Private Princesa Wreck Dive](https://www.vallarta-adventures.com/en/tour/private-scuba-princesa-shipwreck), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*

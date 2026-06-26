@@ -28,4 +28,4 @@ Plage de la Fausse Monnaie ("Fake Money Cove") sits on Port-Cros's west coast, a
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-05-25.*
+*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*

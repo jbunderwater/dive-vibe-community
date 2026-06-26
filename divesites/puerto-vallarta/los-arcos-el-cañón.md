@@ -50,4 +50,4 @@ All dives by guided boat trip from Puerto Vallarta. Multiple operators run daily
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos). Last updated 2026-05-17.*
+*Sources: [Banderas Scuba Republic – Dive Sites Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*

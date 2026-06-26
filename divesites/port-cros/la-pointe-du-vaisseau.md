@@ -59,4 +59,4 @@ Although calmer than the Gabinière sites, the 35-metre maximum depth warrants c
 Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals sea spiders, nudibranchs, and coral polyp detail.
 
 ---
-*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-05-25.*
+*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Blake Island Reef
 
-A rocky reef off Blake Island State Park in central Puget Sound, offering accessible cold-water diving close to Seattle.
+A WDFW-installed artificial reef of recycled concrete off Blake Island State Park in central Puget Sound, positioned in current-rich water that has attracted thriving communities of rockfish and invertebrates.
 
 ## Overview
 
-Blake Island sits in central Puget Sound between Seattle and Bremerton, and its surrounding reef structure is one of the more accessible boat-dive destinations in the greater Seattle metro area. The reef consists of glacial boulders and rocky outcroppings covered in Pacific Northwest cold-water invertebrates — plumose anemones, tube worms, sponges, and nudibranchs. Water visibility ranges from 6–12 metres depending on tidal state and season. Blake Island itself is accessible only by boat as part of Blake Island State Park, and the reef is a popular stop for Puget Sound dive charters operating out of Seattle and Bremerton.
+Blake Island sits in central Puget Sound between Seattle and Bremerton. The dive site on the island's west side is a Washington Department of Fish & Wildlife artificial reef constructed from recycled concrete building materials — not a natural rocky reef. The reef components sit at 40–80 feet (12–24 metres) in waters with a notable tidal exchange, which delivers nutrients and oxygen to the dense fish and invertebrate communities that have colonised the concrete substrate. Blake Island itself is accessible only by boat; the island is a marine state park with no road access. Water visibility ranges from 6–12 metres. Dive slack before ebb for the most manageable conditions.
 
 ## Site Information
 
-- **Location**: Blake Island State Park, central Puget Sound, Washington
+- **Location**: West side of Blake Island State Park, central Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Artificial reef (WDFW recycled concrete installation)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 6–12 metres
@@ -33,7 +33,7 @@ Blake Island sits in central Puget Sound between Seattle and Bremerton, and its 
 
 ## Marine Life
 
-Blake Island Reef supports a classic central Puget Sound assemblage. Giant Pacific octopus are present in the deeper boulder fields, wolf eels occupy dens in the rock crevices, and lingcod stake out hunting positions on open rock surfaces. Multiple rockfish species (black, copper, and tiger) move through the water column. The reef's invertebrate cover includes large white plumose anemones, orange sea cucumbers, red urchins, and brittle stars. Dungeness crabs and Puget Sound king crabs forage across the sandy patches between rock formations. Harbour seals are commonly seen.
+The concrete rubble provides substantial structural habitat. Quillback, copper, and brown rockfish are resident throughout the site, along with lingcod and sculpin. Schools of striped seaperch and pile perch use the concrete edges as shelter. Giant Pacific octopus are present in the deeper sections. The reef surfaces carry a typical Pacific Northwest invertebrate layer: plumose anemones, encrusting sponges, nudibranchs, and tube worms. Dungeness crabs and Puget Sound king crabs forage around the reef margins. Harbour seals are commonly seen.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Water temperature requires dry suit or, at minimum, a 7mm wetsuit with hood and 
 The combination of plumose anemone walls, boulder fields, and resident octopus makes Blake Island Reef a productive photography site. Macro images of nudibranchs on encrusting sponges work well, as do wide-angle shots looking up through the kelp canopy. Strobes are essential for accurate colour rendition below 8 metres.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [UW SMEA — Artificial Reefs to the Rescue: Puget Sound's Success Stories](https://smea.uw.edu/currents/artificial-reefs-to-the-rescue-puget-sounds-success-stories-and-lessons-learned/), [OnBuoy — Blake Island Reef](https://www.onbuoy.com/l/64ee45db-5fdf-43e8-bf3d-d92010050bf2), [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978). Last updated 2026-06-26.*

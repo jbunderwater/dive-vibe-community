@@ -25,7 +25,7 @@ The defining feature is an intricate network of caves and swimthroughs beginning
 
 - **Location**: Between Las Marietas Islands and El Morro, northern Banderas Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-18 meters
@@ -54,4 +54,4 @@ Boat access; typically combined as a second tank on El Morro or Las Marietas tri
 - Good neutral buoyancy in the passages protects the encrusting walls and makes navigation through tighter sections cleaner
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – El Morro and Los Anegados](https://www.sayulitaentourage.com/services/dive-trips/certified-diver/scuba-diving-in-el-morro-and-los-anegados). Last updated 2026-06-26.*

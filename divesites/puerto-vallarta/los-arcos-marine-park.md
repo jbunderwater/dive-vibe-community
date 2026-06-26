@@ -25,7 +25,7 @@ The shallow zone covered here — sometimes called El Acuario (The Aquarium) —
 
 - **Location**: Near Mismaloya, 12 km south of Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 10-20 meters
@@ -54,4 +54,4 @@ All diving at Los Arcos is by boat. The site is a 10-15 minute ride from Mismalo
 - Combine with El Bajo del Cristo on a two-tank trip to see both the shallow and mid-depth zones of Los Arcos
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Los Arcos National Marine Park – Wikipedia](https://en.wikipedia.org/wiki/Los_Arcos_National_Marine_Park), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [PADI – Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Visit Puerto Vallarta – Los Arcos](https://visitpuertovallarta.com/blog/all-about-puerto-vallarta-s-natural-aquarium-los-arcos-de-mismaloya). Last updated 2026-06-26.*

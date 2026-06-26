@@ -25,7 +25,7 @@ The site features two established underwater trails that guide divers around the
 
 - **Location**: Southern Banderas Bay, boat access only; ~45 min from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-18 meters
@@ -54,4 +54,4 @@ Access is entirely by boat from Puerto Vallarta, approximately 45 minutes each w
 - Morning departures allow best light penetration to the sandy bottom areas where garden eels are most visible
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Vallarta Adventures – Las Caletas](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html). Last updated 2026-06-26.*

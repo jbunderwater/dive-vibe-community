@@ -54,4 +54,4 @@ Boat access from La Londe, Le Lavandou, or Hyères operators. A descent line is 
 Advanced depth and current. Advanced open water certification minimum; deep specialty experience preferred. Monitor gas carefully — the multi-section wreck invites overextended dives. Current should be assessed before each descent. Two SMBs recommended.
 
 ---
-*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/). Last updated 2026-05-25.*
+*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/). Last updated 2026-06-26.*

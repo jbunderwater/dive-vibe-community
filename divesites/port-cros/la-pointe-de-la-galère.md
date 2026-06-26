@@ -3,7 +3,7 @@ name: La Pointe de la Galère
 lat: 42.985
 lng: 6.39
 difficulty: Intermediate
-maxDepth: 34
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -46,7 +46,7 @@ The site is accessible within 30 minutes by boat from La Londe-les-Maures. Moder
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 meters
+- **Maximum Depth**: 35 meters
 - **Protected Status**: Port-Cros National Park
 
 ## Additional Resources

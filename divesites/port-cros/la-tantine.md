@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # La Tantine
 
-A small but historically obscure wreck — a tugboat resting at 48 metres near the islet of Bagaud, famously named for the conger eels that once densely inhabited it.
+A small but historically obscure wreck — a crane pontoon (ponton grue) resting at 48 metres near the islet of Bagaud, famously named for the conger eels that once densely inhabited it.
 
 ## Overview
 
