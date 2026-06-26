@@ -32,4 +32,4 @@ Stairway to Heaven begins at around 24 metres where a sandy channel slopes towar
 Macro critters and reef tropicals populate the shallower sections, while rays, sharks, and large sea turtles have been reported in the open water along the drop-off. The tube sponges and wall structure support a range of Caribbean reef species. Strong currents can bring pelagic visitors to the site.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [ScubaBoard](https://scubaboard.com/community/threads/providencia-questions-our-first-real-diving-experience.316728/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-05-22.*
+*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-06-26.*

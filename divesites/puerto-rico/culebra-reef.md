@@ -33,7 +33,7 @@ Culebra is a small island municipality 27 kilometres east of Puerto Rico's main 
 
 ## Marine Life
 
-Culebra's reefs support some of Puerto Rico's best turtle populations. Both green and hawksbill turtles are regularly encountered, and some individuals are well known to local dive guides. Caribbean reef sharks patrol the outer reef sections. Eagle rays cruise the reef edges and sandy transitions. Large parrotfish, groupers, and French angelfish are abundant throughout. Caribbean spiny lobster hide in reef crevices. The site's healthy coral coverage supports strong invertebrate diversity including flamingo tongues, arrow crabs, and cleaning stations.
+Culebra's reefs support some of Puerto Rico's best turtle populations. Hawksbill turtles are regularly encountered and are well-documented at Carlos Rosario area. Schools of yellow snapper and creole wrasse are characteristic of the reef crest and wall. Blue chromis are abundant during safety stops on the shallower sections. Large parrotfish and groupers are common. The Luis Pena Marine Reserve protection means that reef fish and invertebrates are less disturbed here than at most Puerto Rican mainland sites. Caribbean reef sharks, rays, and dolphins are listed among general sightings by dive operators at Culebra.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Culebra's clear water, healthy reef, and active marine life make it Puerto Rico'
 - Fajardo ferry: regular service connects Culebra to the main island for visiting divers
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Last updated 2026-06-26.*

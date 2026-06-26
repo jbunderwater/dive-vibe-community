@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Felipe's Place
 
-Felipe's Place is one of Providencia's most popular dive sites — a coral garden with ledges, walls, and terraces descending to 24 metres, named for local dive operator Felipe Cabeza.
+Felipe's Place is Providencia's most celebrated dive site — a coral wall and cracked labyrinth formation named for Felipe Cabeza, the local diver who discovered and moored most of Providencia's dive sites.
 
 ## Overview
 
-Felipe's Place is named for local diver and shop owner Felipe Cabeza and is widely cited as one of the most popular sites on Providencia. The site runs from around 9 metres at the reef top, stepping down through ledges and terraces to around 24 metres, where the wall face is covered in hard and soft corals, sponges, gorgonians, and black coral. Water currents are described as gentle by local operators, making this accessible to intermediate divers. The site sits within the UNESCO Seaflower Biosphere Reserve on the island's barrier reef system.
+Felipe's Place begins as a coral shoal at around 9–10 metres, then steps down through ledges and terraces to the wall face at 24 metres. Just Gotta Dive describes the site as "a stunning wall and a huge, cracked labyrinth where coral creates a backdrop for a number of colorful tropical fish." The wall face is densely covered in hard and soft corals, barrel sponges, gorgonians, sea fans, and stands of black coral. Water currents are described as gentle by local operators, making this accessible to intermediate divers and confident beginners. The site sits within the UNESCO Seaflower Biosphere Reserve on the island's outer barrier reef.
+
+Felipe Cabeza is credited with finding, naming, and installing moorings at most of Providencia's dive sites — Felipe's Place is his signature discovery.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ Felipe's Place is named for local diver and shop owner Felipe Cabeza and is wide
 
 ## Marine Life
 
-Crabs, spiny lobster, sea urchins, and reef tropicals populate the ledges and wall face. Sea turtles and Caribbean reef sharks are regularly reported at this site, with barracuda present in the water column above the terraces. The healthy coral cover supports abundant parrotfish, snappers, and angelfish throughout.
+Crabs, spiny lobster, and sea urchins occupy the ledges in the shallower sections. The wall and labyrinth structure support reef tropicals including parrotfish, trumpetfish, and angelfish. Caribbean reef sharks are regularly reported here — as at almost every Providencia site — along with sea turtles and barracuda in the water column above the terraces. Pillar coral stands are present in the shallower reef areas approaching the drop-off.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [PADI](https://www.padi.com/diving-in/san-andres-providencia-and-santa-catalina/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-05-22.*
+*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-06-26.*

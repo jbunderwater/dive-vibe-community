@@ -10,8 +10,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "NASA Earth Observatory, NOAA La Parguera coral reef mapping, Paradise Scuba"
+      "validated": "true",
+      "validation_source": "paradisescubasnorkelingpr.com, zentacle.com, puertoricodaytrips.com, caribdiveguide.com"
     }
   },
   {
@@ -25,8 +25,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "zentacle.com, Apple Maps, crashboatbeach.com"
+      "validated": "true",
+      "validation_source": "zentacle.com, scubaboard.com, aquaticapr.com, scubadiving.com"
     }
   },
   {
@@ -40,8 +40,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "openwaterdata.com, Discover Puerto Rico, Tres Palmas Marine Reserve"
+      "validated": "true",
+      "validation_source": "tainodivers.com, discoverpuertorico.com, scubaboard.com, puertoricodaytrips.com"
     }
   },
   {
@@ -55,8 +55,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "sandee.com, Wikipedia (Blue Beach Vieques)"
+      "validated": "true",
+      "validation_source": "vieques.com, blackbeardsports.com, pureadventurepr.com"
     }
   },
   {
@@ -70,8 +70,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "puertoricobeachfinder.com (Carlos Rosario reef coordinates), zentacle.com, Culebra Divers"
+      "validated": "true",
+      "validation_source": "padi.com, culebradivers.com, aquaadventurepr.com, puertoricodaytrips.com"
     }
   },
   {
@@ -85,8 +85,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "padi.com, zentacle.com, Scuba Dogs"
+      "validated": "true",
+      "validation_source": "scubadogs.net, padi.com, tritonsrealm.com, discoverpuertorico.com"
     }
   },
   {
@@ -100,23 +100,23 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "Palmas del Mar resort coordinates, East Puerto Rico Divers, ScubaPro diving guide"
+      "validated": "true",
+      "validation_source": "jentheredonethat.com, puertoricodaytrips.com, discoveringpuertorico.com"
     }
   },
   {
-    "name": "El Natural Wreck",
+    "name": "El Natural",
     "lat": 18.4627,
     "lon": -67.1682,
-    "depth": 24,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "zentacle.com, puertoricobeachfinder.com"
+      "validated": "true",
+      "validation_source": "zentacle.com, aquaticapr.com, scubaboard.com"
     }
   },
   {
@@ -130,8 +130,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "evendo.com, sandee.com, Hacienda Tamarindo, vieques.com"
+      "validated": "true",
+      "validation_source": "blackbeardsports.com, sevenseasmedia.org, vieques.com, scubaboard.com"
     }
   },
   {
@@ -145,8 +145,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "latitude.to, Wikipedia (Desecheo Island), Aquatica PR"
+      "validated": "true",
+      "validation_source": "aquaticapr.com, padi.com, puertoricodaytrips.com, caribdiveguide.com"
     }
   },
   {
@@ -160,8 +160,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "latitude.to, Wikipedia (Isla de Mona), Scuba Diving Magazine"
+      "validated": "true",
+      "validation_source": "scubadiving.com, caribdiveguide.com, scubaboard.com, julietsailinganddiving.com"
     }
   }
 ]

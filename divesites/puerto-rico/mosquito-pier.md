@@ -25,7 +25,7 @@ Mosquito Pier (Muelle de Mosquito) is a disused military pier located on the nor
 |--------|-------|
 | Depth Range | 3–12 m |
 | Difficulty | Beginner |
-| Entry Type | Boat |
+| Entry Type | Shore (via pier ladder) |
 | Site Type | Reef |
 | Visibility | 15–25 m |
 | Current | Light |
@@ -33,15 +33,15 @@ Mosquito Pier (Muelle de Mosquito) is a disused military pier located on the nor
 
 ## Marine Life
 
-The pier pilings support extraordinary macro diversity. The encrusted surfaces host sea horses (long-snout seahorses are documented here), frogfish, arrow crabs, and banded coral shrimp. Spotted and green morays occupy crevices between the pilings. Caribbean reef octopus hunt along the base at night. Tarpon cruise through the structure. The sandy bottom beneath the pier shelters southern stingrays and flatfish. Above the structure, schools of silversides and anchovies create baitfish balls that attract snook and barracuda.
+The pier pilings support exceptional diversity due to decades of encrustation. Hawksbill and green turtles are regularly encountered along the pier. Spotted and green morays occupy crevices between the pilings. Caribbean reef octopus are active hunters at the base of the structure. Caribbean spiny lobster shelter under ledges. Tarpon school through the structure. Southern stingrays and flatfish rest on the sandy bottom beneath the pier. Parrotfish, French angelfish, barjacks, and blue-headed wrasses are common reef fish. Goliath groupers and manatees have been documented at the site. Frogfish and seahorse sightings are reported anecdotally by local divers but are not guaranteed.
 
 ## Dive Profile
 
-Boat entry adjacent to the pier. Descend to the sandy base and navigate along the pier pilings, examining each closely for macro subjects. The full length of the pier can be covered in a single dive. At night, begin the dive in the sandy areas beneath the pier where octopus and hunting fish are most active. Safety stop at the piling tops at 3–4 metres.
+Enter via the ladder at the end of the pier, descend to the sandy base at approximately 12 metres, and navigate along the pier pilings, examining each closely for macro subjects. The pier stretches for nearly a mile and the full length can be covered across multiple dives. At night, begin in the sandy areas beneath the pier where octopus and hunting fish are most active, then work your way along the pilings. Safety stop at the piling tops at 3–4 metres before exiting up the ladder.
 
 ## Entry and Exit
 
-Boat dive from Vieques operators based in Esperanza or Isabel Segunda. Giant stride or backward roll entry near the pier structure. Exit by ladder to the boat.
+Shore dive accessible from the pier itself. Operators or divers drive out to near the end of Mosquito Pier via pick-up truck, then enter the water via a ladder and platform on the left side of the pier — no rocky scramble required. Exit is by the same ladder. The pier stretches nearly a mile into the sea, so the drive out handles the distance. Local operators (Black Beard Sports, Isla Nena Scuba) run regular trips to the pier and organise transport.
 
 ## Tips and Recommendations
 
@@ -61,4 +61,4 @@ Mosquito Pier is one of Puerto Rico's best macro photography sites. The richly e
 - Blackbeard Sports (Vieques): regular pier dive operations
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Last updated 2026-06-26.*

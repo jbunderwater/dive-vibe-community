@@ -17,11 +17,11 @@ A rare aircraft wreck in the Rade de Bormes — a Royal Navy Grumman F4F Wildcat
 
 ## Overview
 
-The Wildcat is one of the most unusual dive sites in the Hyères archipelago: a single-seat carrier-based fighter identified by English cockades still visible on the fuselage as a Royal Navy Grumman F4F Wildcat — designated the "Martlet V" in British service. The aircraft rests inverted on a sandy bottom at 51–53 metres, with its broken nose, open cockpit, intact propeller, and two machine guns in each wing still recognisable. It is a technically demanding dive due to depth and the frequently strong current at the site.
+The Wildcat is one of the most unusual dive sites in the Hyères archipelago: a single-seat carrier-based fighter identified by Royal Navy cockades (English roundels) still visible on the fuselage as a Grumman F4F Wildcat — designated the "Martlet V" in British Fleet Air Arm service. The aircraft rests inverted on a sandy bottom at 51–53 metres, with its broken nose, open cockpit, intact propeller, and machine guns in the wings still recognisable. The engine is missing. It is a technically demanding dive due to depth and the frequently strong current at the site.
 
-The circumstances that placed the aircraft on the seabed are disputed. American aviation archives — cited by en.bormesplongee.fr — indicate the aircraft was on a reconnaissance mission when it came down on 15 August 1944 (the date of Operation Dragoon, the Allied invasion of southern France) and that the pilot was recovered. Other sources, including tribloo.com, suggest the aircraft was deliberately jettisoned in the 1950s from a carrier — tentatively identified as HMS Hermès — after sustaining irreparable damage. The retracted landing gear visible in the wreck is consistent with either an emergency water landing while airborne or a jettison. Dive operator sources are divided and no documentary source definitively resolves the question. The connection to 15 August 1944 and Operation Dragoon is the claim supported by U.S. archives; the 1950s discard theory remains unverified.
+The circumstances that placed the aircraft on the seabed are genuinely disputed and no documentary source definitively resolves the question. The most widely cited theory across dive operator sources (bormesplongee.fr, miopalmoplongee.com, tribloo.com) is that the aircraft was deliberately jettisoned in the 1950s — possibly 1956 or 1957 — from an aircraft carrier, tentatively identified as HMS Hermès, after sustaining irreparable damage. The retracted landing gear could support this theory. A second theory suggests an emergency water landing or crash, but this is considered less likely by most sources. An earlier version of this site description attributed a specific "15 August 1944 / Operation Dragoon crash" claim to bormesplongee.fr; that attribution was incorrect — bormesplongee.fr favours the 1950s discard theory.
 
-The aircraft measures approximately 12 metres wingspan and 9 metres in length, with a 1,200 hp Pratt & Whitney engine. The Royal Navy used more than 1,200 F4F Wildcats under the Martlet designation during World War II.
+The aircraft measures approximately 12 metres wingspan and 9 metres in length, with a 1,200 hp Pratt & Whitney engine (now absent from the wreck). The F4F Wildcat was armed with 6 machine guns total (not 2 per wing as previously stated). The Royal Navy operated more than 1,200 F4F Wildcats under the Martlet designation during World War II.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ The aircraft measures approximately 12 metres wingspan and 9 metres in length, w
 
 ## Marine Life
 
-Sources confirm galatheas and small lobsters shelter in the fuselage openings; large conger eels are present around the airframe; red scorpionfish blend into the sandy substrate. Occasional large lobsters are recorded at the site. The isolated open-water position means pelagic species pass through above. No site-specific reports of groupers, swallowtail sea perch, or gorgonian colonisation were found in sources consulted during the 2026-05-25 QA review — regional Mediterranean species apply but are not attributed to this specific site.
+Sources confirm galatheas (squat lobsters) shelter near the propeller; small lobsters inhabit fuselage openings; large conger eels patrol around the airframe; red scorpionfish blend into the sandy substrate. Occasional large lobsters are recorded at the site. Overall fauna and flora are minimal at this site (confirmed by miopalmoplongee.com). The isolated open-water position means pelagic species may pass through above, but no site-specific reports of groupers, swallowtail sea perch, or gorgonian colonisation were found in sources consulted — regional Mediterranean species apply but are not attributed to this specific site.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ Advanced or technical certification required. Strong current can make ascent wit
 The inverted aircraft is a distinctive and unusual wide-angle subject. Shooting along the wing line with a diver for scale conveys the fuselage shape clearly. The open cockpit and machine gun detail reward closer macro work. Full artificial lighting is essential at 53 metres — no ambient colour remains.
 
 ---
-*Sources: [en.bormesplongee.fr — Wildcat](https://en.bormesplongee.fr/wildcat), [Tribloo — Wildcat F4F](https://www.tribloo.com/fr/spot-plongee/124/le-wildcat-f4f.html), [Mio Palmo Plongée — Le Wildcat](https://www.miopalmoplongee.com/nos-sites/le-wildcat.php). Last updated 2026-05-25.*
+*Sources: [en.bormesplongee.fr — Wildcat](https://en.bormesplongee.fr/wildcat), [Tribloo — Wildcat F4F](https://www.tribloo.com/fr/spot-plongee/124/le-wildcat-f4f.html), [Mio Palmo Plongée — Le Wildcat](https://www.miopalmoplongee.com/nos-sites/le-wildcat.php). Last updated 2026-06-26.*

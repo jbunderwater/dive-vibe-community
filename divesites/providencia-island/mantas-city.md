@@ -17,7 +17,7 @@ Manta's City is a shallow patch reef site at Providencia, adorned with large sto
 
 ## Overview
 
-Manta's City (also referenced as "Manta's Place" by some operators) is a shallow site within the UNESCO Seaflower Biosphere Reserve, characterised by patch reefs with large stony coral formations and a plethora of reef life. The site reaches around 20 metres at maximum depth and is described as accessible and beginner-friendly. Whether it reliably offers manta ray sightings — as its name suggests — is not confirmed by available sources; sources describe it as a reef dive with abundant fish but do not specifically confirm regular manta ray encounters at this site.
+Manta's City (also referenced as "Manta's Place" by Scuba Diving Magazine and some operators) is a shallow site within the UNESCO Seaflower Biosphere Reserve, characterised by patch reefs with large stony coral formations and a variety of reef life. The site reaches around 20 metres at maximum depth and is described as accessible and beginner-friendly. Whether it reliably offers manta ray sightings — as its name suggests — is not confirmed by available sources; published descriptions focus on the reef fish and coral, without specific confirmation of regular manta ray encounters at this site. Anda Di Wata confirms this as an active dive site they visit.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Manta's City (also referenced as "Manta's Place" by some operators) is a shallow
 
 ## Marine Life
 
-Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, goatfish, and parrotfish, with sea turtles reported at the site. The Anda Di Wata dive school has documented peacock flounder at Manta's City in particular.
+Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, goatfish, and parrotfish, with sea turtles reported at the site. Anda Di Wata has documented peacock flounder at Manta's City specifically — an unusually precise species attribution for a bottom-dwelling species confirmed at this individual site.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/). Last updated 2026-05-22.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia). Last updated 2026-06-26.*

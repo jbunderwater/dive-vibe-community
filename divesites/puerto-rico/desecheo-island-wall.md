@@ -33,7 +33,7 @@ Isla Desecheo is an uninhabited island administered as a US Fish and Wildlife Se
 
 ## Marine Life
 
-Desecheo's remoteness and protected status deliver encounter rates that are exceptional by Puerto Rican standards. Caribbean reef sharks are common, and hammerhead sharks have been documented at the site. Spotted eagle rays and manta rays are seasonal visitors. Schools of Atlantic spadefish congregate at the wall edge. Large groupers and cubera snapper occupy the deeper wall sections. Hawksbill turtles are abundant — the island's beaches are nesting sites. The wall itself carries dense sponge growth and black coral colonies at depth, with excellent gorgonian coverage on the upper sections.
+Desecheo's remoteness and protected status deliver encounter rates that are exceptional by Puerto Rican standards. Caribbean reef sharks and nurse sharks are documented at the site by Aquatica PR and other operators. Spotted eagle rays are reported as regular visitors. Large groupers, snappers, and parrotfish are confirmed as abundant. Schools of fish fill the water column at the reef and cave sections. Hawksbill turtles are documented. The diverse site types — coral gardens at Candyland, wall and overhangs at Yellow Reef, and caves/tunnels at Las Cuevas — each produce different marine encounters. Note: manta ray and hammerhead shark sightings are claimed by some sources for Desecheo but have not been confirmed by multiple independent operator reports; treat these as possible but unverified.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Desecheo is Puerto Rico's best diving photography destination. The combination o
 - US Fish and Wildlife Service: Desecheo is a National Wildlife Refuge; no landing permitted
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Aquatica PR – Desecheo Island Diving](https://aquaticapr.com/desecheo-island-diving-a-bucket-list-adventure-with-aquatica-pr/), [PADI – Desecheo Island Dive Site](https://www.padi.com/dive-site/puerto-rico/desecheo-island/), [PRDayTrips – Desecheo Island](https://www.puertoricodaytrips.com/dive-desecheo-island/), [Carib Dive Guide – West Coast & Desecheo](http://www.caribdiveguide.com/PR_Area_5.htm). Last updated 2026-06-26.*

@@ -61,4 +61,4 @@ Steps/Tres Palmas is one of Puerto Rico's premier reef photography sites. The he
 - Taíno Divers (Rincón): local operator with deep knowledge of the Steps site
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Taino Divers – Rincon Dive Sites](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [PRDayTrips – Rincon Diving](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [ScubaBoard – Puerto Rico Diving](https://scubaboard.com/community/threads/any-must-dives-in-puerto-rico.660989/). Last updated 2026-06-26.*

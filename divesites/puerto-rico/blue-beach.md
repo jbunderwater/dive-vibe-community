@@ -33,7 +33,7 @@ Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's sout
 
 ## Marine Life
 
-The seagrass beds adjacent to the reef support green sea turtles — the south Vieques coast is feeding and nesting habitat for the island's significant turtle population. Hawksbill turtles are also present on the reef sections. The rocky reef areas support parrotfish, French grunts, sergeant majors, and small groupers. Southern stingrays rest on sandy patches. Caribbean spiny lobster shelter under rocks at the reef edge. The calm, shallow water makes Blue Beach excellent for snorkelling as well as entry-level diving.
+The site is primarily known as a snorkelling and shallow dive location. The reef sections support parrotfish, angelfish, butterfly fish, and hawksbill turtles — the latter are documented at this site by vieques.com and local operators. The southern Vieques coast is significant nesting habitat for hawksbill turtles. Eagle ray sightings are reported. Southern stingrays and spiny lobster are likely on the adjacent sandy and rocky substrate, though specific confirmation for Blue Beach is limited. The shallow reef is described as having a mix of healthy coral on the right side of the bay.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Blue Beach's calm, shallow water and reliable turtle encounters make it a simple
 - US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to the east end beaches
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Last updated 2026-06-26.*
