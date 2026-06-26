@@ -22,10 +22,10 @@ Part of the Alki Beach Seacrest Coves 1, 2, and 3 Octopus Preserve designated by
 ## Site Information
 
 - **Location**: Seacrest Park, Alki Beach, West Seattle (Elliott Bay), Washington
-- **Entry Type**: Shore
-- **Site Type**: Rocky reef with artificial structures (wrecks, pilings, I-beams)
-- **Difficulty Level**: Intermediate (cold water; deeper sections require experience)
-- **Maximum Depth**: 27 metres (90 feet)
+- **Entry Type**: beach
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Water Temperature**: 8–13°C year-round
 - **Conservation Status**: Alki Beach Seacrest Coves Octopus Preserve (WDFW)
 

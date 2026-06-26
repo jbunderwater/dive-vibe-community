@@ -53,4 +53,4 @@ Boat access from Tacoma-area launches. No shore entry available.
 Drysuit mandatory. Tidal current timing essential. Steel hull poses entanglement and penetration risks — do not enter enclosed spaces without appropriate wreck training and equipment. SMB required.
 
 ---
-*Sources: [USCGC Tiger — Wikipedia](https://en.wikipedia.org/wiki/USCGC_Tiger), [Scuba Diving Magazine — Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). Wreck identity at this location is unconfirmed by dive-specific sources. Last updated 2026-05-17.*
+*Sources: [Wikipedia — USCGC Tiger](https://en.wikipedia.org/wiki/USCGC_Tiger), [Wikidata — USCGC Tiger (Q110818458)](https://www.wikidata.org/wiki/Q110818458), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). Wreck identity at this dive-site location is unconfirmed by dive-specific sources. Last updated 2026-06-26.*

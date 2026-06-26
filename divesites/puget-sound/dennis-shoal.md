@@ -23,7 +23,7 @@ Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in 
 
 - **Location**: Southern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8–14 metres
@@ -59,4 +59,4 @@ Cold water (7–11°C) demands dry suit diving. The shallow maximum depth reduce
 The 15-metre maximum depth keeps subjects within the range of ambient light in summer, making Dennis Shoal a good natural-light photography site for wide-angle work. Lingcod on the shoal crest, plumose anemone fields, and close-up nudibranch images are all excellent subjects. For accurate colour at depth, supplemental strobes are still recommended.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Dennis Shoal (Q49615627)](https://www.wikidata.org/wiki/Q49615627), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Dennis Shoal; description reflects typical southern San Juan Islands shoal conditions. Last updated 2026-06-26.*

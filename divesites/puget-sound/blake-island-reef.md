@@ -23,7 +23,7 @@ Blake Island sits in central Puget Sound between Seattle and Bremerton. The dive
 
 - **Location**: West side of Blake Island State Park, central Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef (WDFW recycled concrete installation)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 6–12 metres

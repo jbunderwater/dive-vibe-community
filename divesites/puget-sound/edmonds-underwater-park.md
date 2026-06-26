@@ -22,10 +22,10 @@ Located immediately north of the Edmonds–Kingston Washington State Ferry termi
 ## Site Information
 
 - **Location**: Edmonds, Washington (north of Seattle), immediately north of Edmonds ferry terminal
-- **Entry Type**: Shore
-- **Site Type**: Rocky reef with artificial structures and wrecks
-- **Difficulty Level**: Intermediate (cold water, drysuit required)
-- **Maximum Depth**: 14 metres (45 feet)
+- **Entry Type**: beach
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 14 meters
 - **Water Temperature**: 7–13°C year-round
 - **Conservation Status**: No-take zone, Washington Dept. of Fish & Wildlife
 

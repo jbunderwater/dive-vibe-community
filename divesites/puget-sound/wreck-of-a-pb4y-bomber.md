@@ -3,7 +3,7 @@ name: Wreck of a PB4Y bomber
 lat: 47.6774857
 lng: -122.2413892
 difficulty: Advanced
-maxDepth: 47
+maxDepth: 45
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,10 +24,10 @@ A Consolidated PB4Y-2 Privateer (a naval variant of the B-24 Liberator) crashed 
 ## Site Information
 
 - **Location**: Lake Washington, off Warren G. Magnuson Park (formerly NAS Sand Point), Seattle
-- **Entry Type**: Boat (Lake Washington launch)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (technical dive; mandatory decompression)
-- **Maximum Depth**: ~45 metres (depth of deepest sections — see depth note above)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 45 meters
 - **Water Temperature**: 4–10°C
 - **Note**: Lake Washington, not Puget Sound proper — freshwater, different visibility and biota
 

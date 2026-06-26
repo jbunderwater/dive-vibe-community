@@ -23,7 +23,7 @@ Shirt Tail Reef is a submerged rocky structure in the southern San Juan Islands,
 
 - **Location**: Southern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–14 metres
@@ -59,4 +59,4 @@ Cold water (7–11°C) requires dry suit diving. Plan dives for slack tide and a
 The irregular topography and boulder gaps at Shirt Tail Reef make for interesting wide-angle compositions. Octopus peering from den entrances and wolf eel portraits in their rock crevices are strong subjects. Macro photography on nudibranchs and encrusted surfaces is productive throughout the dive. A strobe is essential for colour accuracy.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). No site-specific dive publications found for Shirt Tail Reef; description reflects typical southern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*

@@ -23,7 +23,7 @@ Lawson Reef is a submerged rocky structure in the southern portion of the San Ju
 
 - **Location**: Southern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–14 metres
@@ -59,4 +59,4 @@ Cold water (7–11°C) requires dry suit and appropriate undergarment. Tidal tim
 Lawson Reef offers a full range of photographic subjects. Wide-angle shots of anemone walls, octopus in den entrances, and kelp canopy scenes all work well. Macro photography of nudibranchs and the detailed texture of encrusting sponge communities is equally productive. Strobes and a torch are recommended.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Lawson Reef (Q49618325)](https://www.wikidata.org/wiki/Q49618325), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Lawson Reef; description reflects typical southern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*

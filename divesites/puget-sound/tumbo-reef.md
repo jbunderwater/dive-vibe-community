@@ -23,7 +23,7 @@ Tumbo Reef is a rocky reef dive site located in the San Juan Islands area of nor
 
 - **Location**: Off Tumbo Island, near Saturna Island, British Columbia (approximately 48°48'N, 123°03'W) — Canadian Gulf Islands side of the US–Canada border
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef (kelp and cold-water invertebrates)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Water Temperature**: 8–13°C year-round
@@ -49,4 +49,4 @@ Dive within 30 minutes of slack water in Tumbo Channel — currents can run fast
 Strong tidal currents — this is the primary hazard. Plan exclusively around slack water. Drysuit mandatory. SMB essential. Divers crossing the US–Canada maritime boundary should be aware of border regulations for private vessels.
 
 ---
-*Sources: [Wikidata — Tumbo Reef (Q22541770)](https://www.wikidata.org/wiki/Q22541770), [Fishbrain — Tumbo Reef fishing reports, British Columbia](https://fishbrain.com/fishing-waters/NLtau8CI/tumbo-reef), [Gulf Islands National Park Reserve — Wikipedia](https://en.wikipedia.org/wiki/Gulf_Islands_National_Park_Reserve). Note: Tumbo Reef is in British Columbia, Canada, not in US Puget Sound waters — it is included in the Puget Sound destination as it sits on the international border near the San Juan Islands. Last updated 2026-05-17.*
+*Sources: [Wikidata — Tumbo Reef (Q22541770)](https://www.wikidata.org/wiki/Q22541770), [Fishbrain — Tumbo Reef fishing reports, British Columbia](https://fishbrain.com/fishing-waters/NLtau8CI/tumbo-reef), [Wikipedia — Gulf Islands National Park Reserve](https://en.wikipedia.org/wiki/Gulf_Islands_National_Park_Reserve). Note: Tumbo Reef is in British Columbia, Canada, not in US Puget Sound waters — it is included in the Puget Sound destination as it sits on the international border near the San Juan Islands. Last updated 2026-06-26.*

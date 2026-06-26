@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "port-cros",
-    "portugal",
-    "providencia-island",
-    "puerto-rico",
-    "puerto-vallarta",
-    "puget-sound",
     "raja-ampat",
     "red-sea",
     "roatan",
@@ -174,7 +168,13 @@
     "philippines-malapascua",
     "philippines-palawan",
     "philippines-puerto-galera",
-    "philippines-tubbataha-reefs"
+    "philippines-tubbataha-reefs",
+    "port-cros",
+    "portugal",
+    "providencia-island",
+    "puerto-rico",
+    "puerto-vallarta",
+    "puget-sound"
   ],
   "history": [
     {
@@ -1479,6 +1479,28 @@
           }
         }
       }
+    },
+    {
+      "date": "2026-06-26",
+      "slugs": [
+        "port-cros",
+        "portugal",
+        "providencia-island",
+        "puerto-rico",
+        "puerto-vallarta",
+        "puget-sound"
+      ],
+      "summary": {
+        "sites_total": 92,
+        "sites_validated_today": 45,
+        "sites_re_audited": 51,
+        "hallucinations_removed": 10,
+        "marine_life_stripped": 6,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 12,
+        "notes": "portugal skipped (group destination, no osm_clean data)"
+      },
+      "pr_url": null
     }
   ]
 }

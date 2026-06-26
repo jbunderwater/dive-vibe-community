@@ -23,7 +23,7 @@ Turn Rock is a small, rounded islet near the south shore of Shaw Island, surroun
 
 - **Location**: Near Shaw Island, San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 8–15 metres
@@ -59,4 +59,4 @@ Tidal currents are the primary hazard. Even experienced divers should study the 
 Turn Rock is outstanding for macro photography — nudibranchs, shrimp on anemone tentacles, and warbonnets in their rock holes offer extraordinary detail subjects. For wide-angle shots, the kelp canopy with light rays is compelling in good visibility. Bring a strobe: even with good ambient light, the cold water reduces colour saturation quickly.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Last updated 2026-06-26.*

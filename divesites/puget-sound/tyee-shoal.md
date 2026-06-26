@@ -23,7 +23,7 @@ Tyee Shoal is a submerged rocky rise in central Puget Sound, in the waters betwe
 
 - **Location**: Central Puget Sound, near Kitsap Peninsula, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–10 metres
@@ -59,4 +59,4 @@ Boat traffic in central Puget Sound is year-round and includes commercial vessel
 Octopus portraits in the boulder dens are the photographic highlight at Tyee Shoal. Ratfish on the sandy bottom make unusual and compelling macro subjects. Lingcod resting on the rock surface provide good portrait opportunities. Plumose anemone macros are productive throughout. Strobes required.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Tyee Shoal (Q49623289)](https://www.wikidata.org/wiki/Q49623289), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Tyee Shoal; description reflects typical central Puget Sound shoal conditions. Last updated 2026-06-26.*

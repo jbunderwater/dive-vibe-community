@@ -23,7 +23,7 @@ Bakers Reef lies in the northern reaches of the San Juan archipelago, where the 
 
 - **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–12 metres
@@ -59,4 +59,4 @@ Cold water demands dry suit diving. Currents in this part of the San Juan Island
 White plumose anemone walls and the resident octopus provide dramatic wide-angle and macro subjects respectively. Rockfish portraits, especially of copper rockfish in close focus, are a consistent highlight. A strobe is necessary — ambient light alone produces flat, colour-stripped images below 10 metres in Pacific Northwest waters.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Bakers Reef (Q49613352)](https://www.wikidata.org/wiki/Q49613352), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Bakers Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*

@@ -53,4 +53,4 @@ Bring a dive light to inspect the remaining hull cavities. Steel wrecks in the a
 Drysuit mandatory. Plan around slack water — tidal currents affect visibility and comfort. Derelict wooden structure poses entanglement risk. Carry SMB. Visibility can drop significantly in spring plankton season.
 
 ---
-*Sources: [Emerald Diving — Shilshole Wrecks](https://www.emeralddiving.com/shilshole_wrecks.html), [Wikidata — Dauntless (Q5228059)](https://www.wikidata.org/wiki/Q5228059), [Puget Sound Mosquito Fleet — Wikipedia](https://en.wikipedia.org/wiki/Puget_Sound_mosquito_fleet). Last updated 2026-05-17.*
+*Sources: [Emerald Diving — Shilshole Wrecks](https://www.emeralddiving.com/shilshole_wrecks.html), [Wikidata — Dauntless (Q5228059)](https://www.wikidata.org/wiki/Q5228059), [Wikipedia — Puget Sound Mosquito Fleet](https://en.wikipedia.org/wiki/Puget_Sound_mosquito_fleet). Note: The Shilshole Wrecks site (Emerald Diving) lists the Omar tug, Deep Barge, and Vertical Barge — not the Dauntless. The Dauntless sank at Meadow Point (north of Shilshole). These are distinct sites. Last updated 2026-06-26.*

@@ -17,13 +17,13 @@ A shallow submerged shoal in Hood Canal, offering accessible Puget Sound cold-wa
 
 ## Overview
 
-Case Shoal is a shallow rocky rise in southern Puget Sound, in the Hood Canal corridor — an area known for its extraordinary marine biodiversity including the highly prized spot prawn. Hood Canal is a long, fjord-like inlet that traps nutrients and supports dense populations of invertebrates and crustaceans. The shoal's maximum depth of 15 metres keeps dives well within recreational limits, making it a good destination for newer intermediate divers seeking Pacific Northwest cold-water experience. Water clarity can be 8–12 metres on good days, and the cold, green water (8–12°C) demands at least a 7mm wetsuit, more practically a dry suit.
+Case Shoal is a shallow rocky rise in central Puget Sound (coordinates 47.85°N, 122.67°W place it near Hansville/Kitsap Peninsula, not Hood Canal proper) in an area known for its Puget Sound cold-water biodiversity. Hood Canal is a long, fjord-like inlet that traps nutrients and supports dense populations of invertebrates and crustaceans. The shoal's maximum depth of 15 metres keeps dives well within recreational limits, making it a good destination for newer intermediate divers seeking Pacific Northwest cold-water experience. Water clarity can be 8–12 metres on good days, and the cold, green water (8–12°C) demands at least a 7mm wetsuit, more practically a dry suit.
 
 ## Site Information
 
-- **Location**: Hood Canal / southern Puget Sound, Washington
+- **Location**: Central Puget Sound near Kitsap Peninsula, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8–12 metres
@@ -59,4 +59,4 @@ Cold water requires appropriate exposure protection. Hypothermia can develop fas
 The combination of crustaceans, anemones, and octopus makes Case Shoal a productive macro photography destination. Spot prawns and Dungeness crabs make compelling subjects. Nudibranchs on encrusting sponges and the detail of plumose anemone columns work well with a macro lens. Strobes required for colour accuracy.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Case Shoal (Q49614681)](https://www.wikidata.org/wiki/Q49614681), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Case Shoal; description reflects regional Puget Sound cold-water shoal conditions. Last updated 2026-06-26.*
