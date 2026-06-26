@@ -33,7 +33,7 @@ La Parguera Wall is the defining dive feature of Puerto Rico's southwest coast, 
 
 ## Marine Life
 
-The La Parguera Wall's deep, current-swept character supports an excellent pelagic community. Caribbean reef sharks patrol the open water at the wall edge, particularly in the 20–30 metre zone. Schools of horse-eye jacks and bar jacks sweep along the wall. Spotted eagle rays cruise the wall face and occasionally the sandy reef top. Large groupers occupy the wall overhangs and black coral sections at depth. Hawksbill turtles are common at the upper wall where sponge growth is dense. At night, the wall is exceptionally productive for octopus, moray eels, and lobster encounters.
+The La Parguera Wall supports productive marine life at depth. Large green moray eels are a consistent feature, particularly at Old Buoy and similar sloping sections. Huge snappers and eagle rays have been documented on the wall by Paradise Scuba operators. Ocean triggerfish, French angelfish, and creole wrasse are common in the mid-water zones. Wire coral, deep-water barrel sponges, and black coral cover the deeper wall sections. Hawksbill turtles and manatees have been reported on the shallower outer reef. The site description of "Caribbean reef sharks" in the water column reflects what is typical of Caribbean walls at this depth but has not been confirmed by a named site-specific source for La Parguera Wall specifically.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ La Parguera Wall is Puerto Rico's best advanced wall photography site. The combi
 - Paradise Scuba (Lajas area): regular wall dive operations from La Parguera
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm). Last updated 2026-06-26.*

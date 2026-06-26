@@ -84,12 +84,12 @@
     "osmId": null
   },
   {
-    "name": "El Natural Wreck",
-    "filename": "el-natural-wreck.md",
+    "name": "El Natural",
+    "filename": "el-natural.md",
     "lat": 18.4627,
     "lng": -67.1682,
     "difficulty": "Beginner",
-    "maxDepth": 24,
+    "maxDepth": 12,
     "entryType": "shore",
     "siteType": "reef",
     "ref": "",

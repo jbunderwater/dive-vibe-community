@@ -46,7 +46,7 @@ Brown groupers are present along the northern wall. Moray and conger eels inhabi
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-26
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-05-25.*
+*Sources: [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*

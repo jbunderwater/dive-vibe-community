@@ -33,7 +33,7 @@ Mona Island lies at the midpoint of the Mona Passage, 67 kilometres west of Maya
 
 ## Marine Life
 
-Mona Island's protected status and remote location produce marine life encounters that are virtually unmatched in Puerto Rican waters. Caribbean reef sharks are common on all wall sites. Hammerhead sharks are documented regularly, particularly at deeper sections and around the island's corners where currents converge. Manta rays and spotted eagle rays are frequent visitors. Large cubera snapper and groupers inhabit the deeper wall. Hawksbill and leatherback turtles both use Mona's beaches as nesting sites, and green turtles are abundant underwater. The wall surfaces carry pristine black coral forests, large sponge communities, and dense gorgonian coverage.
+Mona Island's protected status and remote location produce marine life encounter rates described as exceptional by operators who run expeditions there. Caribbean reef sharks are documented at the wall sites. The smaller islet of Monita nearby is described by CaribbeanDiveGuide as a drift dive around an open-ocean pinnacle "swarmed by sharks and other big pelagics." Cubera snapper and groupers are characteristic of the deeper wall sections. Hawksbill and leatherback turtles are confirmed nesters on Mona's beaches. Black coral, gorgonian sea fans, and sponge communities are documented on the wall. Note: hammerhead shark sightings and manta ray encounters are mentioned in some accounts of Mona diving but are not confirmed by multiple independent named sources; these should be treated as possible rather than expected encounters.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Mona Island is Puerto Rico's finest diving photography destination. The combinat
 - Taíno Divers (Rincón) and Caribbean Divers (Aguadilla): organise occasional multi-day Mona expeditions
 
 ---
-*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*
+*Sources: [Carib Dive Guide – West Coast & Mona Island](http://www.caribdiveguide.com/PR_Area_5.htm), [ScubaBoard – Diving Puerto Rico and Mona Island](https://scubaboard.com/community/threads/diving-puerto-rico-and-mona-island.548600/), [Juliet Sailing and Diving – Mona Island](https://julietsailinganddiving.com/mona-island/), [Scuba Diving Magazine – Puerto Rico Mona Island](https://www.scubadiving.com/travel/caribbean-atlantic/new-caribbean-puerto-rico-mona-island). Last updated 2026-06-26.*

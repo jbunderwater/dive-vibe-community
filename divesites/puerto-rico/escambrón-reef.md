@@ -39,7 +39,7 @@ Visibility can drop sharply after rainfall or strong onshore swell. Winter cold 
 
 - **Location**: San Juan, Puerto Rico, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 
@@ -48,4 +48,4 @@ Visibility can drop sharply after rainfall or strong onshore swell. Winter cold 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park). Last updated 2026-05-17.*
+*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Last updated 2026-06-26.*

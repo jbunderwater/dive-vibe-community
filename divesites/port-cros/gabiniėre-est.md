@@ -19,7 +19,7 @@ Gabiniėre Est is the eastern drop-off dive site of the La Gabinière islet at P
 
 Gabiniėre Est (the eastern drop-off of La Gabinière) is one of the three main sections of diving around the La Gabinière islet in Port-Cros National Park. The eastern face is characterised by a sloping and then dropping rocky structure, sheltered from easterly winds by the islet's orientation, making it one of the more reliably diveable aspects in varying weather.
 
-The eastern drop-off descends from shallow rocky terrain to approximately 40 metres, with the wall decorated by red gorgonian fans, false coral, yellow gorgonians, and sea urchins. Groupers — the park's signature species, with a measured population of approximately 200 individuals around the islet — are encountered throughout. At around 28 metres on the eastern side, large anglerfish (monkfish) are commonly spotted resting on the substrate. Moray eels, conger eels, crayfish, and scorpionfish occupy the rocky crevices.
+The eastern drop-off descends from shallow rocky terrain to approximately 40 metres, with the wall decorated by red gorgonian fans, false coral, yellow gorgonians, sea urchins, encrusting yellow anemones, and sponges. Groupers — the park's signature species, with a large population around the islet — are encountered throughout, typically between 15–25 metres depth. Nudibranchs (Dalmatian doris, flabellines) are noted as abundant on the wall surfaces. Moray eels, conger eels, crayfish, and scorpionfish occupy the rocky crevices.
 
 The eastern aspect receives moderate current, which drives mid-water life: shoals of barracuda, yellowtails (Seriola dumerili), porgies (dentex), and seabream are frequently seen in the water column. Compared to the southern pinnacles, the eastern drop-off has more moderate conditions and is within reach of Intermediate-level divers, though depth management to 40 metres requires Advanced certification in practice.
 
@@ -33,12 +33,12 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 
 ## Marine Life
 
-- **Groupers**: Brown groupers present throughout; approach divers closely due to long-term park protection
-- **Anglerfish**: Commonly spotted at ~28 m on east side, resting on rocky substrate
-- **Pelagics**: Barracuda, yellowtail (amberjack), dentex in mid-water
-- **Reef fish**: Seabream, bogue, wrasse
+- **Groupers**: Brown groupers present throughout, typically 15–25 m; approach divers closely due to long-term park protection
+- **Pelagics**: Since summer 2001, a school of approximately 200 barracuda cruises 10–20 m; also yellowtail (amberjack), dentex in mid-water
+- **Reef fish**: Seabream (castagnoles, bogues, oblades, sars, mullets)
 - **Invertebrates**: Moray eels, conger eels, crayfish, scorpionfish, sea urchins
-- **Flora**: Red gorgonian fans, false coral, yellow gorgonians
+- **Nudibranchs**: Dalmatian doris, flabellines notably present
+- **Flora**: Red gorgonian fans, false coral, yellow gorgonians, encrusting yellow anemones, sponges
 
 ## Site Information
 
@@ -54,4 +54,4 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-05-25.*
+*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-06-26.*

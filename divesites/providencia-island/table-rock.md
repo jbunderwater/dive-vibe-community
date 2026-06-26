@@ -32,4 +32,4 @@ Table Rock sits approximately 16.8 kilometres (10.5 miles) from the northern tip
 Nurse sharks rest in the shaded cave passages alongside large schools of silversides and reef tropicals. The outer reef adjacent to the cave system supports parrotfish, surgeonfish, and snappers. Caribbean reef sharks have been reported in the open reef areas near the site.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Deep Blue Hotel](https://www.hoteldeepblue.com/scuba.html). Last updated 2026-05-22.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Deep Blue Hotel](https://www.hoteldeepblue.com/es/scuba.html), [ScubaBoard](https://scubaboard.com/community/threads/providencia-questions-our-first-real-diving-experience.316728/). Last updated 2026-06-26.*

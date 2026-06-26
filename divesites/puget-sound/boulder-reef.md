@@ -23,7 +23,7 @@ True to its name, Boulder Reef is characterised by massive glacially deposited b
 
 - **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–14 metres
@@ -59,4 +59,4 @@ Dry suit diving is standard practice in San Juan Islands waters. Tidal currents 
 Giant Pacific octopus in the boulders are among the most photogenic subjects in Pacific Northwest diving. A wide-angle lens with twin strobes captures their full span. Macro photography on the boulder surfaces reveals nudibranchs, shrimp, and the fractal detail of encrusting organisms. Natural light is limited at depth — artificial lighting is essential.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Boulder Reef (Q49614145)](https://www.wikidata.org/wiki/Q49614145), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Boulder Reef; description reflects typical northern San Juan Islands glacial boulder reef conditions. Last updated 2026-06-26.*

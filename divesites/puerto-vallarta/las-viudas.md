@@ -25,7 +25,7 @@ The site is specifically valued for its rich invertebrate life, which is denser 
 
 - **Location**: West of La Cruz de Huanacaxtle, northern Banderas Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Moderate; can be reduced by particulate over sandy bottom
@@ -54,4 +54,4 @@ Boat dive from Puerto Vallarta marina or operators based in La Cruz de Huanacaxt
 - This site offers a useful contrast to the dramatic reef and pinnacle sites elsewhere in the bay; add it to an itinerary for a change of pace
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Silent World Divers – North Bay Diving](https://silentworlddivers.com/scuba-diving-in-the-bay-of-banderas-north-side-puerto-vallarta-riviera-nayarit-silent-world-divers/). Last updated 2026-06-26.*

@@ -54,4 +54,4 @@ Full-day boat expedition from Puerto Vallarta marina; typically the second dive 
 - A 5mm wetsuit is recommended for the thermoclines that can drop temperatures 5-8°C below the surface layer
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a). Last updated 2026-06-26.*

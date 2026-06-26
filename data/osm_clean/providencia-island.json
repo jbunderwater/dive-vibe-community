@@ -10,10 +10,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,scubadiving.com,padi.com"
+    "validation_source": "justgottadive.com,myscubadivinggearguide.com,pelecanus.com.co"
   },
   {
     "name": "Manta's City",
@@ -26,10 +26,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "note": "Depth of 20m is consistent with multiple sources describing this as a shallow site. Manta ray sightings not confirmed by site-specific sources; name reflects designation only.",
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,andadiwata.com,colombia.travel"
+    "validation_source": "myscubadivinggearguide.com,andadiwata.com,scubadiving.com"
   },
   {
     "name": "Nick's Place",
@@ -42,10 +43,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,scubadiving.com,pelecanus.com.co"
+    "validation_source": "myscubadivinggearguide.com,justgottadive.com,pelecanus.com.co"
   },
   {
     "name": "The Pinnacle",
@@ -58,10 +59,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-06-26"
     },
-    "validated": false,
-    "validation_source": "seacrush.com"
+    "validated": true,
+    "validation_source": "seacrush.com,pelecanus.com.co,myscubadivinggearguide.com"
   },
   {
     "name": "Stairway to Heaven",
@@ -74,10 +75,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,scubaboard.com,pelecanus.com.co"
+    "validation_source": "justgottadive.com,myscubadivinggearguide.com,pelecanus.com.co"
   },
   {
     "name": "Crab Cay Reef",
@@ -90,7 +91,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
     "validation_source": "roads-and-rivers.com,tripadvisor.com,myscubadivinggearguide.com"
@@ -106,8 +107,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth corrected from 24m to 14m per PADI; difficulty corrected from Advanced to Beginner per multiple sources confirming accessible wreck for Open Water divers. Vessel identity and exact sinking history unverified across independent sources.",
-      "last_qa_date": "2026-05-22"
+      "note": "LOCATION CONFLICT: All major dive databases (PADI, Zentacle, DiveAdvisor) place the 'Blue Diamond' / Barco Hundido wreck at San Andrés island (coords ~12.53N, -81.74W), not Providencia (~13.3N). The Providencia wreck is El Planchon. This entry coordinates (13.335) are in Providencia waters. The local Providencia wreck name 'Blue Diamond' is used by some operator sources (myscubadivinggearguide.com) but conflicts with the well-documented San Andrés wreck of the same name. Vessel identity, sinking date, and exact history unverified. Do not mark fully validated until location conflict resolved.",
+      "last_qa_date": "2026-06-26"
     },
     "validated": false,
     "validation_source": "padi.com,myscubadivinggearguide.com"
@@ -123,11 +124,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth corrected from 18m to 9m per multiple sources (7-9m). Pillar coral presence confirmed by multiple sources.",
-      "last_qa_date": "2026-05-22"
+      "note": "Depth 7-9m confirmed by multiple sources. Pillar coral presence confirmed. 'Fishiest' site designation confirmed by local operator sources.",
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,scubadiving.com,hoteldeepblue.com"
+    "validation_source": "myscubadivinggearguide.com,scubadiving.com,waterpixels.net"
   },
   {
     "name": "Convento Reef",
@@ -140,10 +141,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-05-22"
+      "note": "Site existence confirmed by Felipe Diving Facebook post showing parrotfish at 'El Convento, Providencia'. No independent site-specific depth, marine life, or description sources found beyond this confirmation.",
+      "last_qa_date": "2026-06-26"
     },
     "validated": false,
-    "validation_source": ""
+    "validation_source": "facebook.com/felipediving"
   },
   {
     "name": "Table Rock",
@@ -156,8 +158,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth corrected from 25m to 8m per multiple sources (2-8m). Difficulty corrected from Intermediate to Beginner: suitable for snorkelers and all diver levels per Joe's Scuba Shack and Deep Blue. Located 16.8km from northern Santa Catalina.",
-      "last_qa_date": "2026-05-22"
+      "note": "Depth 2-8m confirmed by multiple sources. Cave/cavern with interconnected passages, nurse sharks, silversides confirmed. Suitable for snorkelers and all diver levels.",
+      "last_qa_date": "2026-06-26"
     },
     "validated": true,
     "validation_source": "myscubadivinggearguide.com,hoteldeepblue.com,scubaboard.com"

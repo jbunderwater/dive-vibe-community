@@ -17,15 +17,15 @@ UNESCO Biosphere Reserve with volcanic tunnels, caves, and walls — sea turtles
 
 ## Overview
 
-Las Marietas Islands (Islas Marietas) are a pair of small volcanic islands located approximately 70 minutes by boat northwest of Puerto Vallarta in the open mouth of Banderas Bay. The islands were designated a Marine Protected Area in 2005 and recognized as a UNESCO Biosphere Reserve, protecting one of the most ecologically significant marine environments on Mexico's Pacific coast. Fishing, anchor damage, and removal of marine life are prohibited, and all visitors pay a protected area fee.
+Las Marietas Islands (Islas Marietas) are a pair of small volcanic islands located approximately 70 minutes by boat northwest of Puerto Vallarta in the open mouth of Banderas Bay. The islands were formally designated a National Park on February 2, 2004, and recognized as a UNESCO Biosphere Reserve in 2008, protecting one of the most ecologically significant marine environments on Mexico's Pacific coast. Fishing, anchor damage, and removal of marine life are prohibited, and all visitors pay a protected area fee.
 
-The islands were originally made famous internationally by oceanographer Jacques Cousteau in the 1970s. Underwater, the volcanic origins of the islands are evident everywhere: the formations are riddled with passages, tunnels, caverns, and caves created by lava flow erosion over millennia. Two main dive sites serve most trips: La Montana (The Mountain), where instructors assess diver skill levels on a broad underwater slope with volcanic formations, and La Pared (The Wall), where passages, openings, and tunnels penetrate the volcanic rock from multiple angles. Hard coral coverage is significant, and gorgonians, sea fans, sponges, nudibranchs, and echinoderms cover the walls.
+The islands were brought to international attention by oceanographer Jacques Cousteau in the late 1960s, whose advocacy contributed to the eventual protected-area designation. Underwater, the volcanic origins of the islands are evident everywhere: the formations are riddled with passages, tunnels, caverns, and caves created by lava flow erosion over millennia. Two main dive sites serve most trips: La Montana (The Mountain), where instructors assess diver skill levels on a broad underwater slope with volcanic formations, and La Pared (The Wall), where passages, openings, and tunnels penetrate the volcanic rock from multiple angles. Hard coral coverage is significant, and gorgonians, sea fans, sponges, nudibranchs, and echinoderms cover the walls.
 
 ## Site Information
 
 - **Location**: Northwestern Banderas Bay; 70 minutes from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-12 meters average; up to 20 meters in good conditions
@@ -54,4 +54,4 @@ Boat departure from Nuevo Vallarta (approximately 8:30 AM) or Marina Vallarta (a
 - The northern exposed side of the islands (El Morro) experiences stronger current and is suited for more experienced divers only
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Islas Marietas National Park – Wikipedia](https://en.wikipedia.org/wiki/Islas_Marietas_National_Park), [UNESCO MAB – Islas Marietas](https://www.unesco.org/en/mab/islas-marietas), [Vallarta Adventures – Marietas Islands Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-las-marietas-islands), [Dressel Divers – Marieta Islands Excursion](https://www.dresseldivers.com/excursions/mexico/marieta-islands-excursion/), [Sayulita Entourage – Marietas Islands Diving](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-the-marietas-islands). Last updated 2026-06-26.*

@@ -25,7 +25,7 @@ The site's centerpiece is Las Iglesias (The Churches) — a set of rock formatio
 
 - **Location**: Southern tip of Banderas Bay, ~1h45m from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 10-24 meters
@@ -54,4 +54,4 @@ Boat access only, approximately 1 hour and 45 minutes from the Puerto Vallarta m
 - Las Iglesias' arch openings are large enough for comfortable navigation but reward careful buoyancy; stay neutral to avoid disturbing the rock surfaces
 
 ---
-*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI – El Chimo Dive Site](https://www.padi.com/dive-site/mexico/chimo/), [Vallarta Adventures – Private Scuba Diving at Chimo](https://www.vallarta-adventures.com/en/tour/private-scuba-chimo), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*

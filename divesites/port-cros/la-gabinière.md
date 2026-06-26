@@ -17,7 +17,7 @@ La Gabinière is a reef and wall dive site at Port-Cros National Park, French Me
 
 ## Overview
 
-La Gabinière is a small rocky islet located south of the island of Port-Cros, at the heart of Port-Cros National Park — Europe's oldest and most strictly protected marine and terrestrial national park, established in 1963. The islet itself is an integral reserve, the most protected zone within the park, and it represents the highest-density grouper habitat in the western Mediterranean, with a measured population of approximately 200 brown groupers (Epinephelus marginatus).
+La Gabinière is a small rocky islet located south of the island of Port-Cros, at the heart of Port-Cros National Park — Europe's oldest and most strictly protected marine and terrestrial national park, established in 1963. The islet itself is an integral reserve, the most protected zone within the park, and it represents the highest-density grouper habitat in the western Mediterranean. Local dive sources cite a brown grouper (Epinephelus marginatus) population of approximately 200 individuals around the islet; this figure appears in multiple operator sources (tribloo.com, aqualonde-plongee.com) referencing scientific surveys of the park's grouper population.
 
 The site is structured around three distinct dives: the eastern drop-off (Tombant Est), the western slope (Tombant Ouest), and the dark canyon (La Calanque Sombre). The southern end is richest in marine life due to constant currents delivering nutrients and oxygenated water. Magnificent ridges drop to 40–45 metres, and the entire structure alternates between large rocky screes and vertical drop-offs draped with red gorgonian fans, yellow anemones, sea sponges, and nudibranchs.
 
@@ -61,7 +61,7 @@ Strong currents at the southern pinnacles require Advanced certification and cur
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-26
 
 ---
-*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-05-25.*
+*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-06-26.*

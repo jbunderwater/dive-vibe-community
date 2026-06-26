@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, visitpuertovallarta.com"
+      "validation_source": "scubaboard.com, padi.com, visitpuertovallarta.com, vallarta-adventures.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, divinglore.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -41,14 +43,15 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, vallarta-adventures.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
     "name": "Princesa Vallarta Wreck",
     "lat": 20.549,
     "lon": -105.277,
-    "depth": 38,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -56,7 +59,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, divinglore.com",
+      "notes": "Depth corrected from 38m to 27m (sources: Banderas Scuba 85ft/26m, PADI 70-90ft/21-27m). Vessel ran aground Feb 16 2017, intentionally sunk Oct 24 2017. 10-14 accompanying vessels at site.",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -71,7 +76,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, puertovallarta.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -86,7 +92,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, bocadivers.net, visitpuertovallarta.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -101,7 +108,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, vallarta-adventures.com"
+      "validation_source": "scubaboard.com, vallarta-adventures.com, divinglore.com, 360mexico.org",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -116,7 +124,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, divinglore.com, bocadivers.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -131,7 +140,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -146,7 +156,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, padi.com, vallartaundersea.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -161,7 +172,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -176,7 +188,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, divezone.net, unesco.org"
+      "validation_source": "wikipedia.org, unesco.org, vallarta-adventures.com, dresseldivers.com, sayulitaentourage.com",
+      "notes": "National Park designated Feb 2 2004 (not 2005). UNESCO Biosphere Reserve 2008. Cousteau advocacy was late 1960s (not 1970s).",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -191,7 +205,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, divinglore.com, 360mexico.org",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -206,7 +221,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com, scubaboard.com, banderas-scuba.com"
+      "validation_source": "banderas-scuba.com, divinglore.com, 360mexico.org, sayulitaentourage.com",
+      "notes": "Tunnel length: sources say 40 meters long (Banderas Scuba) or 195 ft. Entry ~27-30m, exit ~15-18m. Removed fabricated '15-meter' tunnel length from prior version.",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -221,7 +238,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, nautilusliveaboards.com"
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, sayulitaentourage.com",
+      "notes": "Boat transit ~2 hours (not '1 hour or more'). Minimum 25 logged dives per most operators. 36 nautical miles from PV confirmed.",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -236,7 +255,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, 360mexico.org",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -251,7 +271,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, sayulitaentourage.com, getyourguide.com",
+      "notes": "Depth range confirmed 9-21m (30-70ft). Tunnel confirmed crossing full rock formation. Open Water certification sufficient per operators.",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -266,7 +288,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallartatours.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -281,7 +304,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallartatours.net",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -296,7 +320,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, silentworlddivers.com",
+      "last_qa_date": "2026-06-26"
     }
   },
   {
@@ -311,7 +336,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com"
+      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
+      "last_qa_date": "2026-06-26"
     }
   }
 ]

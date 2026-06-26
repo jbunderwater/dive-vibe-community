@@ -50,7 +50,7 @@ The site is suitable for those building experience in the national park system, 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-26
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros National Park](https://worldadventuredivers.com/port-cros-national-park/), [Aquabormes — Port-Cros dive sites](https://aquabormes.fr/page-port-cros.html). Last updated 2026-05-25.*
+*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros National Park](https://worldadventuredivers.com/port-cros-national-park/), [Divin'Giens — Port-Cros dive sites](https://divingiens.fr/plongee-a-port-cros/). Last updated 2026-06-26.*

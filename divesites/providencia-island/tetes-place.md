@@ -32,4 +32,4 @@ Tete's Place is a coralline shoal close to Providencia's shoreline at 7 to 9 met
 Dense stands of pillar coral and octocorals support large schools of Caesar grunts, snappers, and squirrelfish, with spotted moray eels occupying the reef crevices. Peacock flounder and yellow-spotted stingrays are reported on the sandy sections. The site is described by local operators as the "fishiest" dive on Providencia for sheer fish density.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia). Last updated 2026-05-22.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Waterpixels Travel](https://waterpixels.net/articles/travel/tiny-concealed-gem-providencia-island-caribbean-r70/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia). Last updated 2026-06-26.*

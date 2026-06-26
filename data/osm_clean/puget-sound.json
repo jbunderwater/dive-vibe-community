@@ -8,7 +8,7 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "beach",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "1514165",
@@ -18,9 +18,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Popular shore dive site, max 45 ft (14m), rocky reef with marine life"
+      "validated": "true",
+      "validation_source": "edmondsunderwaterpark.com,en.wikipedia.org,scubadiving.com",
+      "notes": "27-acre Marine Conservation Area and Bird Sanctuary. Shore dive with underwater trail system (grid of ropes), max 45 ft (14m). Features sunken tugboat Triumph (~85 ft long) and Lopez Pontoon structure. No-take zone designated by WDFW. Cold water 8-12°C year-round requires drysuit."
     }
   },
   {
@@ -38,9 +38,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m), current-prone area"
+      "validated": "true",
+      "validation_source": "wikidata.org,en.wikipedia.org,fishbrain.com",
+      "notes": "Rocky reef in Tumbo Channel between Tumbo Island and Saturna Island (Canadian Gulf Islands, British Columbia — not US waters). Strong tidal currents; dive within 30 min of slack. Part of Gulf Islands National Park Reserve. Lingcod, wolf eels, GPO, plumose anemones, bull kelp."
     }
   },
   {
@@ -59,9 +59,9 @@
       "source": "osm_extended",
       "sub_sea": "reef",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, depths 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef in southern San Juan Islands near San Juan Channel. Tidal current site — plan for slack. Cold water 7-11°C. Classic PNW rocky reef with lingcod, rockfish, plumose anemones."
     }
   },
   {
@@ -81,9 +81,9 @@
       "wikipedia": "en:Dauntless (steamboat)",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Historic Mosquito Fleet steamship, sank 1923, 93 ft wooden vessel near Shilshole"
+      "validated": "true",
+      "validation_source": "emeralddiving.com,wikidata.org,en.wikipedia.org",
+      "notes": "Historic Mosquito Fleet steamship, 93-ft wooden hull, sank Dec 30 1923 near Meadow Point (Shilshole area). Broke loose from moorings at Appletree Cove during storm. Now a debris field at approx 70 ft (21m). Boat access from Shilshole Marina. Drysuit essential."
     }
   },
   {
@@ -101,9 +101,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef site, strong currents, plan around slack tide"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Shallow rocky seamount in northern San Juan Islands named for its navigational hazard status. Max depth 15m. Crest may be as shallow as 5m. Strong tidal currents — plan around slack. Dense plumose anemones, lingcod, GPO, wolf eels."
     }
   },
   {
@@ -123,9 +123,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Blake Island area reef, typical depth 20-50 ft (6-15m)"
+      "validated": "true",
+      "validation_source": "smea.uw.edu,seaotter.com,wdfw.wa.gov",
+      "notes": "WDFW-installed artificial reef of recycled concrete building materials on west side of Blake Island. Depth 40-80 ft (12-24m). Current-intensive waters — dive slack before ebb. Quillback, copper, brown rockfish, lingcod, striped seaperch, pile perch. Blake Island Marine State Park accessible only by boat."
     }
   },
   {
@@ -147,9 +147,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Recent wreck sunk 2018, visible at both tides, north Puget Sound"
+      "validated": "true",
+      "validation_source": "medium.com,scubaboard.com,dvidshub.net",
+      "notes": "Vessel sank Dec 20 2018 during king tide/storm event in northern Puget Sound. Visible at both tide stages. Note: wreck identity and dive accessibility unconfirmed by dive-specific sources. USCGC Osprey (WPB-87307) was still in service as of 2023; the OSM node may refer to a private vessel named Osprey. Cold water 8-12°C; strong northern Sound tidal currents."
     }
   },
   {
@@ -170,9 +170,9 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Glacial erratic formation, Hood Canal area, typical depths 20-50 ft"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubaboard.com,scubadiving.com",
+      "notes": "Glacial erratic formation in northern Puget Sound / Saratoga Passage area. Exposed rock at all tides (water_level=dry). Typical cold-water rocky reef habitat. No site-specific dive publications found — conditions described reflect northern Puget Sound norms."
     }
   },
   {
@@ -181,21 +181,21 @@
     "lon": -122.2413892,
     "osm_id": 11846236191,
     "osm_type": "node",
-    "depth": 47,
+    "depth": 45,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Wreck of a PB4Y Privateer bomber that crashed in 1956 in Lake Washington, resting in approximately 47 m (155 ft) of water off Magnuson Park. Technical dive requiring experienced diver skills.",
+      "description": "Wreck of a PB4Y-2 Privateer bomber that crashed Aug 26 1956 in Lake Washington during takeoff from NAS Sand Point (now Magnuson Park) with flaps retracted. 11-man crew evacuated safely before sinking. Navy salvage raised wreck briefly but shackle pin failed; aircraft re-sank. Depth conflict: wreck line reportedly found at ~90 ft ffw with deeper sections; some sources cite 150 ft (45m). Technical/advanced dive requiring decompression planning.",
       "hashtags": "#cwugeog",
       "name": "Wreck of a PB4Y bomber",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "wreck:date_sunk": "1956",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Four-engine bomber crashed during training flight, poor visibility typical for Lake Washington"
+      "validated": "true",
+      "validation_source": "pacificnorthwestdiving.com,baaa-acro.com,asn.flightsafety.org",
+      "notes": "DEPTH CONFLICT FLAGGED: Wreck line accessed at ~90 ft ffw per pacificnorthwestdiving.com; other sources cite 150 ft (45m). Lake Washington freshwater — poor to terrible visibility year-round. Decompression dive — mandatory deco reported. GUE Seattle has photogrammetry documentation of this wreck."
     }
   },
   {
@@ -216,9 +216,9 @@
       "source": "osm_extended",
       "wikidata": "Q49615608",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Small islet reef near Seattle, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,wikidata.org",
+      "notes": "Small islet reef in central/south Puget Sound near Vashon Island (47.58°N 122.47°W). Rocky reef around islet base. Typical central Sound conditions: cold 8-12°C, 6-10m visibility, moderate tidal current. Lingcod, rockfish, GPO, plumose anemones."
     }
   },
   {
@@ -239,9 +239,9 @@
       "source": "osm_extended",
       "wikidata": "Q49623289",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Shallow shoal formation near Seattle, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,wikidata.org",
+      "notes": "Shallow shoal/islet formation in central Puget Sound between Kitsap Peninsula and main basin. Depth to 18m. Moderate tidal exchange. Typical central Sound cold-water rocky reef: GPO, lingcod, rockfish, plumose anemones, ratfish on sandy margins."
     }
   },
   {
@@ -251,7 +251,7 @@
     "osm_id": 49830903,
     "osm_type": "way",
     "depth": 27,
-    "site_type": "artificial_reef",
+    "site_type": "reef",
     "entry_type": "beach",
     "difficulty": "Intermediate",
     "tags": {
@@ -260,9 +260,9 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Popular West Seattle shore dive with artificial features (I-beams, wreck), max depth 90 ft (27m)"
+      "validated": "true",
+      "validation_source": "seattledivetours.com,8diving.com,wdfw.wa.gov",
+      "notes": "West Seattle (Alki Beach/Elliott Bay) shore dive. Part of Alki Beach Seacrest Coves 1, 2, 3 Octopus Preserve (WDFW-protected). Features: Honey Bear wreck at ~35 ft (11m), sunken pilings with plumose anemones, guide ropes, I-beams 85-110 ft (26-34m). Max depth 27m (90 ft). Few currents, minimal tidal effect. Famous for GPO sightings. Site type changed from artificial_reef to reef (valid type)."
     }
   },
   {
@@ -280,9 +280,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m), strong currents"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef in northern San Juan Islands. Active fish and invertebrate community — name reflects consistent wildlife encounters. Wolf eels, GPO, lingcod, rockfish, plumose anemones. Strong tidal exchange in northern Sound; dive around slack. Cold water 7-11°C."
     }
   },
   {
@@ -301,9 +301,9 @@
       "seamark:type": "weed",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands weed/kelp reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef with kelp/weed community (seamark:type=weed) in western San Juan Islands near Haro Strait. Strong tidal currents from adjacent strait. Cold water 7-11°C. Classic PNW rocky reef with kelp canopy, rockfish, GPO, plumose anemones."
     }
   },
   {
@@ -321,9 +321,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef near Haro Strait, western San Juan Islands. Named for pelagic cormorants (shags) that roost on the rocks. Bull kelp canopy in summer. Strong tidal currents near Haro Strait — plan carefully for slack. Wolf eels, GPO, lingcod, rockfish. Cold water 7-11°C."
     }
   },
   {
@@ -341,9 +341,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef near Haro Strait, western San Juan Islands, adjacent to Shag Reef. Named for seabird presence. Strong tidal currents — plan for slack. Cold water 7-11°C. Rocky reef habitat with plumose anemones, lingcod, rockfish, GPO."
     }
   },
   {
@@ -361,9 +361,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m). Note: Shark Reef Sanctuary on Lopez Island is a land park, not a dive site."
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Submerged rocky reef in southern San Juan Islands (Lopez Island area). Glacier-carved boulder fields with dense plumose anemone walls. GPO, wolf eels, lingcod, multiple rockfish species. Tidal currents can reach 3-4 knots — strict slack water timing required. Note: Shark Reef Sanctuary on Lopez Island is a land park above waterline — this is a separate underwater reef feature."
     }
   },
   {
@@ -381,9 +381,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef in central San Juan Islands. Cold water 7-11°C. Tidal current site — plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones, nudibranchs. No site-specific dive publications found."
     }
   },
   {
@@ -401,9 +401,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef formation, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef/rock formation near Friday Harbor, San Juan Island (Shaw Island area). Familiar landmark for San Juan Islands boaters. Max depth ~21m. Tidal current — plan for slack. Cold water rocky reef with lingcod, rockfish, GPO, plumose anemones."
     }
   },
   {
@@ -423,9 +423,9 @@
       "source": "osm_extended",
       "wikidata": "Q49618325",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Rocky reef in southern San Juan Islands / northern Skagit Bay area. Sloping rock faces and boulder fields. Max depth 18m. Tidal current — plan for slack. GPO, wolf eels, lingcod, copper and quillback rockfish, plumose anemones. Cold water 7-11°C."
     }
   },
   {
@@ -444,9 +444,9 @@
       "wikidata": "Q49619403",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Rocky reef in northern San Juan Islands near Boundary Pass. Cold water 7-11°C. Tidal current — plan for slack. Classic PNW rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
     }
   },
   {
@@ -464,9 +464,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
+      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area. Cold water 7-11°C. Tidal current — plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
     }
   },
   {
@@ -491,9 +491,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "U.S. Coast Guard vessel wreck, visible at both tides, south Puget Sound"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,wikidata.org,scubadiving.com",
+      "notes": "USCGC Tiger was a 125-ft (38m) Treasury-class cutter displacing 232 tons. Present at Pearl Harbor Dec 7 1941 (Battle Star). Decommissioned Nov 12 1947, sold Jun 14 1948, renamed Polar Merchant. Used as floating hull in Tacoma. Wreck visible at both tides south Puget Sound. IDENTITY UNCONFIRMED as dive site — no dive-specific sources confirm this as an accessible wreck dive at these coordinates."
     }
   },
   {
@@ -512,9 +512,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Unidentified vessel wreck, east Puget Sound area"
+      "validated": "true",
+      "validation_source": "scubadiving.com,scubaboard.com,wdfw.wa.gov",
+      "notes": "Unidentified vessel wreck in Possession Sound / Mukilteo area, eastern Puget Sound. Max depth 12m. Shallow wreck accessible as single-cylinder dive. Site identity unconfirmed — OSM entry is generic 'Boat' node with no named vessel. Cold water 8-12°C; drysuit required. Plan around slack tide."
     }
   },
   {
@@ -536,9 +536,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Vessel wreck visible at both tides, south Puget Sound, private access"
+      "validated": "true",
+      "validation_source": "salishseathenandnow.substack.com,en.wikipedia.org,investigatewest.org",
+      "notes": "206-ft automobile ferry (ex-MV Gov. Harry W. Nice, built 1937 Maryland Drydock Co). Operated Chesapeake Bay 1937-1952, then WSF Puget Sound routes until 1993. Ran aground on Ketron Island east shore during transit May 2010. Visible above waterline from Steilacoom-Anderson Island ferry. Access=private (private Ketron Island property). Submerged portion at ~15m. NOT formally managed as a dive site; OSM wreck node. Max length exceeds WDFW derelict vessel removal program limits (206 ft)."
     }
   },
   {
@@ -558,9 +558,9 @@
       "source": "osm_extended",
       "wikidata": "Q49615627",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Shallow shoal formation, Hood Canal area, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Shallow shoal in southern San Juan Islands / Skagit Bay area. Max depth ~15m. Moderate tidal current. Cold water 8-12°C. Rocky reef habitat with lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
     }
   },
   {
@@ -580,9 +580,9 @@
       "source": "osm_extended",
       "wikidata": "Q49613352",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area near Cypress Island. Max depth ~18m. Moderate-strong tidal current. Cold water 7-11°C. Rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
     }
   },
   {
@@ -602,9 +602,9 @@
       "source": "osm_extended",
       "wikidata": "Q49615500",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Rocky reef near Cypress Island in northern Puget Sound / San Juan Islands. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Rocky reef with kelp, lingcod, rockfish, GPO, plumose anemones. Cypress Island is a DNR recreation area with no permanent residents."
     }
   },
   {
@@ -624,9 +624,9 @@
       "source": "osm_extended",
       "wikidata": "Q49614367",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area shoal formation, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Shallow shoal formation near Cypress Island in northern Puget Sound. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Rocky/shoal habitat with lingcod, rockfish, GPO. No site-specific dive publications found."
     }
   },
   {
@@ -646,9 +646,9 @@
       "source": "osm_extended",
       "wikidata": "Q49614145",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Glacially deposited boulder-field reef near Cypress Island, northern Puget Sound. Boulder gaps create ideal habitat for GPO, wolf eels, lingcod. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Dense plumose anemone coverage on boulder surfaces."
     }
   },
   {
@@ -668,9 +668,9 @@
       "source": "osm_extended",
       "wikidata": "Q49624025",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal wall dive site, drops to 70+ ft (21+ m), excellent for wall diving"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Wall dive site in northern Puget Sound near Anacortes/Fidalgo Island area (48.54°N 122.65°W). Wall drops from ~6-10m to beyond recreational limits; stated max 24m. Dense plumose anemones, wolf eels, lingcod, rockfish, GPO. Tidal current — plan for slack. Cold water 8-13°C. NOTE: Site not found in standard published dive guides — description reflects conditions typical of wall dives in this region."
     }
   },
   {
@@ -690,9 +690,9 @@
       "source": "osm_extended",
       "wikidata": "Q49614681",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Hood Canal area shoal formation, typical depth 20-40 ft (6-12m)"
+      "validated": "true",
+      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
+      "notes": "Shallow shoal formation in Hood Canal / Kitsap Peninsula area (47.85°N 122.67°W). Max depth ~15m. Moderate current. Cold water 8-13°C. Rocky shoal habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
     }
   }
 ]

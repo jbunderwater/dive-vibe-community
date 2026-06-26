@@ -5,7 +5,7 @@ lng: -122.3796806
 difficulty: Intermediate
 maxDepth: 27
 entryType: beach
-siteType: artificial_reef
+siteType: reef
 ref: null
 osmId: 49830903
 addedBy: osm_import
@@ -13,32 +13,40 @@ addedBy: osm_import
 
 ## Seacrest Park
 
-Seacrest Park in West Seattle is a popular recreational dive site featuring natural rocky reef and artificial structures placed to enhance the dive experience. The site descends from the beach into deeper water with multiple depth zones suitable for various skill levels.
+Seacrest Park (also known as Alki Cove 2) is the most popular scuba dive site in Seattle, a shore-accessible site in West Seattle's Elliott Bay offering a sunken vessel, pilings, and guide ropes within a WDFW-protected octopus preserve.
 
 ## Overview
 
-Seacrest Park is a mixed natural and artificial reef dive site with distinctive features including the "Honey Bear" small boat wreck (45 feet), I-beams, and rocky reef structures. The site offers gradual depth increase with maximum depth beyond recreational limits. This West Seattle favorite is accessible year-round from the beach and features excellent marine habitat. Water temperature averages 50°F (10°C) year-round, requiring appropriate thermal protection. Visibility typically ranges from 10-40 feet depending on season and tidal conditions.
+Part of the Alki Beach Seacrest Coves 1, 2, and 3 Octopus Preserve designated by the Washington Department of Fish & Wildlife, this West Seattle site combines natural rocky bottom with artificial structures that have accumulated exceptional marine life. Few currents affect the dive and minimal tidal exchange makes it diveable at most states of the tide. The site is primarily flat with a gradual depth increase from the beach entry; maximum depth at the I-beams reaches 90 feet (27 metres). Water temperature holds at 45–55°F (8–13°C) year-round; a drysuit is recommended for extended dives. Winter visibility can reach 100 feet; summer algal blooms reduce it to 10–50 feet.
 
 ## Site Information
 
-- **Location**: West Seattle (Alki area), Washington
+- **Location**: Seacrest Park, Alki Beach, West Seattle (Elliott Bay), Washington
 - **Entry Type**: beach
-- **Site Type**: Artificial_reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Water Temperature**: 45-55°F (8-13°C) year-round
+- **Water Temperature**: 8–13°C year-round
+- **Conservation Status**: Alki Beach Seacrest Coves Octopus Preserve (WDFW)
+
+## Features
+
+- **Honey Bear wreck**: A small vessel sunk in the cove decades ago, resting at approximately 35 feet (11 metres). The primary shallow-water attraction and a reliable spot for giant Pacific octopus.
+- **Sunken pilings**: Massive old pilings to the right of the entry point, covered in plumose anemones and attracting schools of fish.
+- **I-beams**: Lying at 85–110 feet (26–34 metres), suitable for experienced divers; hosts additional invertebrate communities.
+- **Guide ropes**: Aid navigation for divers unfamiliar with the site.
 
 ## Marine Life
 
-Seacrest hosts diverse cold-water species. Common sightings include giant Pacific octopus (especially near the Honey Bear wreck), wolf eels, lingcod, rockfish, cabezon, sea cucumbers, nudibranchs, crabs, starfish, and anemones. The I-beam structures provide attachment points for sponges, sea anemones, and other encrusting organisms. Octopus sightings are frequent and reliable at this site.
+Giant Pacific octopus are the signature species here — reliable sightings near the Honey Bear wreck and along the pilings make this one of the most productive GPO sites in the Seattle area. Rockfish, cabezon, lingcod, and kelp greenlings use the artificial structures as territory. Wolf eels are occasionally found near the deeper structures. Plumose anemones (white and orange) cover the pilings and I-beams. Nudibranchs, sea stars, crabs, and sea cucumbers are abundant throughout the site.
 
 ## Dive Profile
 
-Beach entry leads to a gradual slope descending to the Honey Bear wreck at 45 feet (14 meters) - excellent for recreational divers. The I-beams lie between 85-110 feet (26-34 meters), suitable for advanced divers. Most recreational diving occurs in the 20-50 foot range where visibility is best and marine life is abundant. Typical recreational dive is 30-50 minutes bottom time with appropriate safety stops. Deeper dives require advanced training and technical experience.
+Enter from the park beach and follow the guide rope to the Honey Bear at ~35 feet — this is a self-contained dive for recreational divers. For the I-beams at 85–110 feet, descend along the sloping bottom; these require experience with buoyancy management in cold water and should not be attempted without appropriate training and a drysuit. Recreational diving concentrates between 20–50 feet where visibility and marine life are optimal.
 
 ## Entry and Exit
 
-Seacrest Park beach provides good shore access with parking, facilities, and rinse stations. Enter from the designated beach area. Conditions are generally tide-independent, allowing diving at any tide stage. Winter months provide excellent visibility (up to 100 feet reported), while summer visibility may be limited to 10-50 feet due to algal blooms.
+Parking, changing facilities, and rinse stations available at the park. Entry from the designated beach area; minimal current and tidal exchange allow diving at most tide stages. The site is easily accessed without boat support.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [Seattle Dive Tours — Seacrest Cove 2](https://seattledivetours.com/seacrest-cove-2), [8Diving — Cove 2](https://8diving.com/blog/local-scuba-diving-sites/cove-2), [WDFW — Alki Beach Seacrest Coves Octopus Preserve](https://wdfw.wa.gov/fishing/management/mpa/octopus-preserve/alki-beach-seacrest-coves), [Zentacle — Washington Dive Sites](https://www.zentacle.com/loc/us/wa). Last updated 2026-06-26.*

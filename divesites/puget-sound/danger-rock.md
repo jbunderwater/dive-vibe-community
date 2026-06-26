@@ -23,7 +23,7 @@ Danger Rock is a submerged rocky seamount in the northern San Juan Islands — n
 
 - **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8–15 metres
@@ -59,4 +59,4 @@ Despite the modest depth, cold water demands dry suit equipment. The seamount po
 The shallow, well-lit crest offers some of the best natural-light photography opportunities in the region. Anemone fields shot upward toward the surface can show beautiful silhouettes. Lingcod portraits and rockfish in the water column are consistent subjects. Macro work on the dense invertebrate layer is highly productive.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Site name reflects its status as a navigational hazard. Description reflects typical northern San Juan Islands seamount conditions; no site-specific dive publication found. Last updated 2026-06-26.*

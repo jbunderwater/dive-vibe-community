@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Blue Diamond
 
-Blue Diamond (also known locally as Barco Hundido, or "sunken ship") is a shallow accessible wreck near Providencia, colonised by corals and frequented by reef fish.
+Blue Diamond is a shallow wreck near Providencia, colonised by corals and accessible to Open Water divers — though there is a location conflict: major dive databases place the "Blue Diamond" / Barco Hundido wreck at San Andrés island, while local Providencia sources use this name for a separate nearby wreck.
 
 ## Overview
 
-Blue Diamond is a large sunken vessel lying at approximately 14 metres depth near Providencia's coast, accessible by boat with a short surface swim. The wreck's hull has been colonised by corals and sponges, making it an artificial reef sheltering reef fish including parrotfish, moray eels, queen angelfish, and small grouper. The shallow depth and warm, clear water make it accessible to Open Water divers. The vessel's identity and the circumstances of its sinking are not confirmed by independent historical sources; it is known locally simply as Barco Hundido.
+**Location note:** PADI and Zentacle place the "Blue Diamond" wreck (also called Barco Hundido) at coordinates near San Andrés island (approximately 12.53°N, 81.74°W), not Providencia (approximately 13.3°N). The Providencia wreck typically cited in historical sources is El Planchon — a vessel with a WWII-era history. Joe's Scuba Shack (myscubadivinggearguide.com), one source that specifically lists dive sites for Providencia, does reference a "Blue Diamond" wreck in the Providencia context. It is possible this is a distinct and separate wreck that shares or has borrowed the "Blue Diamond" name, or that the site data has been conflated with the San Andrés wreck of the same name. The vessel identity, sinking date, and exact location are not confirmed across independent sources.
+
+What is consistent across sources: there is a shallow accessible wreck near Providencia at approximately 14 metres depth, colonised by corals and sponges, suitable for Open Water divers.
 
 ## Site Information
 
-- **Location**: Providencia Island, Caribbean
+- **Location**: Providencia Island, Caribbean (location conflict noted above)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -29,7 +31,7 @@ Blue Diamond is a large sunken vessel lying at approximately 14 metres depth nea
 
 ## Marine Life
 
-Parrotfish, moray eels, queen angelfish, blue angelfish, and small grouper are common around the wreck structure. The surrounding reef supports the broader Caribbean fish community typical of the Seaflower Biosphere Reserve.
+Parrotfish, moray eels, queen angelfish, and small grouper are reported around the wreck structure. The surrounding reef supports Caribbean reef fish typical of the Seaflower Biosphere Reserve. No site-specific species counts or confirmed marine life lists were found in independent sources.
 
 ---
-*Sources: [PADI](https://www.padi.com/dive-site/colombia/blue-diamond/), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). No independent historical records for vessel name or sinking date confirmed across sources. Last updated 2026-05-22.*
+*Sources: [PADI](https://www.padi.com/dive-site/colombia/blue-diamond/), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Location conflict with San Andrés wreck of the same name unresolved. Vessel identity and sinking date unverified. Last updated 2026-06-26.*
