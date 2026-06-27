@@ -2215,6 +2215,7 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "qa_note": "Coordinates (29.504°N/34.920°E) are in Eilat waters — this wreck is in Israeli territory, not Egyptian Red Sea. Also appears in jordan-aqaba.json. Possible cross-listing issue. Vessel identity unresolved.",
     "tags": {
       "historic": "wreck",
       "name": "Yatouche",
