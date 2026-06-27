@@ -13,41 +13,44 @@ addedBy: osm_import
 
 ## La Jolla Shores
 
-La Jolla Shores is one of San Diego's most popular and accessible shore dives, featuring a long sandy slope that transitions to the dramatic La Jolla Submarine Canyon walls.
+La Jolla Shores Beach is one of California's most popular and consistently dived shore entry sites — a broad sandy slope that supports world-famous leopard shark aggregations and transitions toward the La Jolla Submarine Canyon for more experienced divers.
 
 ## Overview
 
-La Jolla Shores Beach is the entry point for one of California's most consistently dived sites. The beach offers easy access with a gradual sandy slope descending from the shore. The immediate area features excellent beginner diving in shallow sandy flats teeming with small rays and bottom-dwelling fish. As depth increases, divers can follow the canyon edge toward the submarine canyon walls where advanced divers access deeper water. Most recreational diving stays in the 15-20 meter range, while the canyon beyond 30 meters offers advanced exploration. Calm conditions and good facilities make this site extremely popular year-round.
+La Jolla Shores Beach offers the most accessible shore diving in San Diego. The entry is a wide, sandy beach with a gentle slope — ideal for training dives and refreshers. The immediate dive zone (0–10 metres) consists of sandy flats with small rocky outcrops, which become the summer hunting ground for one of the world's largest aggregations of leopard sharks. As depth increases from 10 to 20 metres, the bottom transitions to rocky patches colonised by kelp bass, sheephead, and other reef species. Beyond 20 metres — requiring an increasingly long surface swim — the La Jolla Canyon wall system begins.
+
+Most recreational diving stays in the 0–20 metre range. The canyon edge beyond 20 metres is intermediate-to-advanced terrain requiring different planning than the beginner zones.
 
 ## Site Information
 
-- **Location**: La Jolla Shores Beach, San Diego (32°51'27"N 117°15'27"W)
+- **Location**: La Jolla Shores Beach, La Jolla, San Diego (near the boat launch ramp)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
+- **Water Temperature**: 13–19°C (55–66°F); 7mm wetsuit recommended; temperatures can drop significantly at depth via upwelling
 
 ## Marine Life
 
-**Leopard Sharks**: Summer visitors (June-September) congregate in the sandy flats at 5-15 meters to mate and birth young. One of the world's largest aggregations occurs here.
+**Leopard Sharks**: June through December (peak August–September), thousands of leopard sharks (Triakis semifasciata) aggregate in the warm shallow sand at 2–8 metres — one of the world's most accessible and largest seasonal shark aggregations. The sharks are non-aggressive toward humans and congregate to thermoregulate and mate.
 
-**Bottom-Dwellers**: Bat rays, angel sharks, halibut, guitarfish, and horn sharks cruise the sandy slopes. Small crustaceans (sheep crabs) and pipefish are abundant.
+**Sandy Bottom Species**: Bat rays (Myliobatis californica), angel sharks, guitarfish, and Pacific halibut lie on the sandy bottom. California sheep crab, pipefish, and toadfish inhabit the sand. Horn sharks rest under rocky overhangs.
 
-**Fish**: Garibaldi, sheephead, kelp bass, and numerous rockfish shelter in rocky areas as depth increases.
+**Reef Species**: Garibaldi, sheephead, kelp bass, señorita, and opaleye are abundant where rocky substrate begins. Harbor seals and sea lions make occasional visits.
 
-**Other Species**: Sea lions occasionally visit, harbor seals are common, and nudibranchs and anemones colonize any hard substrate.
+**Invertebrates**: Nudibranchs (Spanish shawl, sea lemons), anemones, and California spiny lobster colonise any hard substrate. Sea turtles are occasionally reported.
 
-## Site Zones
+## Dive Zones
 
-**Shallow Sand (0-10m)**: Gentle slope ideal for beginners and leopard shark encounters in summer. Small fish and invertebrates are abundant.
+**Shallow Sand (0–10m)**: Best for leopard shark encounters in summer. Open water training conditions. Sandy bottom with small rocky patches.
 
-**Reef Transition (10-20m)**: Sandy areas transition to rocky outcrops where more substantial fish and invertebrates appear.
+**Reef Transition (10–20m)**: Rocky outcrops and kelp patches increase. More reef fish, lobster, and invertebrates. The Marine Room dive area (north end of beach near the restaurant) features a short wall/ledge (the "Main Wall") in 18–21m.
 
-**Canyon Approach (20-30m+)**: The dramatic La Jolla Submarine Canyon walls begin, accessible to intermediate-advanced divers following the main wall.
+**Canyon Approach (20m+)**: Long swim required. Canyon ledge system begins; advanced diving from this depth onward.
 
 ## Dive Profile
 
-Beginner dives typically cover the shallow sandy zone (0-15m) for 40-60 minutes. More experienced divers head toward the canyon ledges (15-30m) for wall diving and pelagic encounters. The site accommodates all levels by using the sandy shallow zone as a natural guide for depth management.
+Enter from the main beach or the Marine Room area depending on your target zone. Leopard shark dives are best in the morning on the open sandy areas — swim straight out from shore and descend when you see the sharks. Canyon dives require navigation to the canyon edge; plan for a 15-minute surface or near-surface transit before descent. Use a surface marker buoy on ascent — boat traffic is moderate.
 
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [La Jolla Shores — San Diego Dive Sites](https://www.sddivesites.com/la-jolla-shores.html), [La Jolla Leopard Sharks — La Jolla Mom](https://lajollamom.com/la-jolla-leopard-sharks/), [Scuba Diving La Jolla Shores to Canyon Ledges — DiveInScuba](https://diveinscuba.com/scuba-diving-from-la-jolla-shores-to-the-ledges-of-la-jolla-canyon-an-underwater-odyssey/), [Diving La Jolla — Waterhorse Charters](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-06-27.*

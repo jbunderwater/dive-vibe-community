@@ -3,7 +3,7 @@ name: Zuñiga Jetty
 lat: 32.6689247
 lng: -117.223125
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 10
 entryType: shore
 siteType: reef
 ref: null
@@ -13,40 +13,34 @@ addedBy: osm_import
 
 ## Zuñiga Jetty
 
-Zuñiga Jetty is a reef dive site in San Diego - La Jolla, North America.
+Zuñiga Jetty is a shallow artificial reef dive at the mouth of San Diego Bay — a rocky granite structure extending 7,500 feet from Coronado's northern tip toward Point Loma, attracting abundant reef fish, California sea lions, and seasonal spiny lobster.
 
 ## Overview
 
-Zuñiga Jetty extends approximately 7,500 feet from the northern tip of Coronado Island toward Point Loma, forming the southern boundary of the entrance to San Diego Bay. The east side of the jetty — sheltered from the open ocean — is the primary dive zone, where the rocky structure creates reef habitat on a sandy bottom. This is primarily a fish-watching and seal encounter site rather than a wreck or dramatic reef dive; its appeal lies in the abundance of reef fish congregating along the jetty's rock-to-sand interface and the presence of California sea lions, which are common and can be inquisitive.
+Zuñiga Jetty (also spelled Zuniga) marks the southern boundary of the San Diego Bay entrance channel. The jetty was constructed from large granite boulders, and its east (sheltered) face is the primary dive zone. The rock-to-sand interface at the base of the jetty structure draws in a classic Southern California reef fish assemblage in relatively shallow, calm water — typically 3–9 metres (10–30 feet). This is a fish-watching and lobster site rather than a dramatic wall or wreck dive; its appeal lies in accessible marine life and sea lion encounters.
+
+**Important access restriction**: Diving inside San Diego Bay (between Ballast Point and Zuñiga Point) is illegal and divers have been ticketed. Access the ocean-facing side of the jetty's tip only. Due to constant Naval and commercial vessel traffic at San Diego Bay's entrance, a dive flag and surface tender are mandatory.
 
 ## Site Information
 
-- **Location**: Northern tip of Coronado Island, entrance to San Diego Bay
+- **Location**: Northern tip of Coronado Island, at the mouth of San Diego Bay
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Water Temperature**: 15–20°C
+- **Maximum Depth**: 10 meters
+- **Water Temperature**: 15–20°C (59–68°F); 5–7mm wetsuit
 
 ## Marine Life
 
-The jetty's rocky structure draws in a classic Southern California reef assemblage. Sand bass (barred sand bass), calico bass (kelp bass), and sheephead are abundant along the rock-to-sand seam. Halibut lie on the sandy bottom on both the ocean and bay sides of the jetty. California spiny lobster congregate in the rocks during season (October–March open season). California sea lions are present and can be territorial — maintain respectful distance. Harbor seals are also occasionally seen. Swell sharks and horn sharks rest in crevices. Opaleye, señoritas, and various wrasse-family fish are common. Garibaldi are present near the rocky sections.
+Sand bass (barred sand bass), calico bass (kelp bass), sheephead, and opaleye are abundant along the rock-to-sand seam. Halibut lie on the sandy bottom on both sides of the jetty. California spiny lobster congregate under rocks in season (October–March open season). Swell sharks and horn sharks rest in crevices. Garibaldi appear near shallower rocky sections. Señoritas and other wrasse-family fish are constant. California sea lions haul out on the outer jetty rocks and enter the water regularly — they can be territorial; do not approach or corner them. Harbor seals also visit occasionally.
 
 ## Dive Profile
 
-The jetty slope descends gradually from the surface to approximately 25 metres at the outer end. Divers typically work the shallower sections (5–15 m) where fish density and light are best. The rock-to-sand transition at the base of the jetty structure is the most productive zone. On slack-to-incoming tide, visibility improves significantly — dirty bay water flush on outgoing tide.
-
-## Entry and Exit
-
-**Important restriction:** It is illegal to dive inside San Diego Bay between Ballast Point and Zuñiga Point — divers have been ticketed in this area. Access the ocean side of the jetty via shore entry from the Coronado area, or approach by kayak or small boat. Target an incoming or slack tide for cleanest water and easiest conditions.
-
-## Tips and Recommendations
-
-Dive slack-to-incoming tide for the best water clarity. The best fish action concentrates along the full length of the jetty at the rock-to-sand seam — work parallel to the structure. Bring a light for examining lobster and shark crevices. Check tides carefully — outgoing tide flushes murky bay water outward.
+The jetty slope is gradual. The most productive zone is the rock-to-sand seam in 3–9 metres, working parallel to the jetty structure. Dive on a slack-to-incoming tide for the clearest water — outgoing tide flushes murky bay water offshore. Carry a torch for examining lobster cavities and shark crevices.
 
 ## Safety Considerations
 
-This site sits at the mouth of one of the US Navy's busiest ports. Boat traffic is constant — fly a dive flag and have a dedicated surface tender. Sea lions can be territorial; do not approach or corner them. Tidal currents at the bay entrance can be significant — stick to the slack window. Water temperature is warmer than Puget Sound (15–20°C) but a 5–7mm wetsuit or drysuit is still appropriate for comfort on longer dives.
+This site sits at the entrance to one of the US Navy's busiest ports. Boat, submarine, and Naval vessel traffic is constant and unpredictable. Fly a dive flag and have a dedicated surface tender at all times. Tidal currents at the bay entrance can be significant — stick to the slack window (±1 hour around slack tide). Sea lions can be aggressive if cornered — give them wide berth. Do not dive inside the bay.
 
 ---
-*Sources: [California Diving News — Zuniga Point](https://cadivingnews.com/dive-spots/zuniga-point/), [San Diego History Center — San Diego's Zuniga Shoals Jetty: Icon and Enigma](https://sandiegohistory.org/journal/2018/may/san-diegos-zuniga-shoals-jetty-icon-and-enigma/), [Spear Factor — Spearfishing San Diego Region-by-Region](https://www.spearfactor.com/post/spearfishing-san-diego-a-region-by-region-breakdown-from-the-border-to-oceanside). Last updated 2026-05-17.*
+*Sources: [Zuniga Point — California Diving News](https://cadivingnews.com/dive-spots/zuniga-point/), [San Diego's Zuniga Shoals Jetty — San Diego History Center](https://sandiegohistory.org/journal/2018/may/san-diegos-zuniga-shoals-jetty-icon-and-enigma/), [Spearfishing San Diego Region-by-Region — Spear Factor](https://www.spearfactor.com/post/spearfishing-san-diego-a-region-by-region-breakdown-from-the-border-to-oceanside). Last updated 2026-06-27.*

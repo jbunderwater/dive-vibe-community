@@ -13,42 +13,36 @@ addedBy: osm_import
 
 ## Sunken Harbor
 
-Sunken Harbor is an advanced artificial reef complex located one mile offshore from Mission Bay, featuring multiple intentionally sunken shipwrecks.
+Sunken Harbor is the seafloor location area off Mission Beach, San Diego where the HMCS Yukon and surrounding wrecks of Wreck Alley were intentionally sunk — the name refers to the place, not a separate individual wreck.
 
 ## Overview
 
-Sunken Harbor comprises a thriving artificial reef system approximately one mile off the coast between La Jolla and Point Loma. Multiple vessels have been sunk here to create habitat for marine life, making this an excellent site for experienced wreck divers. The cold, nutrient-rich waters support dense populations of fish, anemones, crabs, and other marine life that colonize the wreck structures. Boat access is required, with charter operations departing from Mission Bay.
+"Sunken Harbor" refers to the designated artificial reef zone in the Pacific Ocean approximately 1–2 miles off Mission Beach where the vessels now collectively known as "Wreck Alley" were scuttled. The HMCS Yukon — the crown jewel of the complex — was specifically sunk at Sunken Harbor by the San Diego Oceans Foundation on 14 July 2000.
+
+**Important note on naming:** "Sunken Harbor" does not appear as a named individual dive site in published local dive guides, California Diving News, ScubaBoard, or Wikipedia's Wreck Alley article. It is the geographical designation for the reef zone that the HMCS Yukon occupies, not a separate wreck. The OSM node at these coordinates (32.7715°N, 117.2620°W) is extremely close to the HMCS Yukon entry (32.7716°N, 117.2710°W). Divers visiting this area are diving Wreck Alley / HMCS Yukon and the surrounding complex.
 
 ## Site Information
 
-- **Location**: Approximately 1–2 miles offshore from Mission Beach, San Diego (coordinates 32.77°N, 117.26°W — Wreck Alley area)
+- **Location**: Wreck Alley complex, approximately 1–2 miles west of Mission Beach, San Diego
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Water Temperature**: 15–20°C
+- **Water Temperature**: 15–19°C (59–66°F)
 
 ## Marine Life
 
-The Wreck Alley complex — which this site appears to be part of, or closely related to — supports a thriving assemblage of Southern California reef species. Strawberry anemones (*Corynactis californica*) and white metridium anemones carpet wreck surfaces. Kelp bass, calico bass, and barred sand bass school around structure. Garibaldi (California's state marine fish) are present on shallower reef sections. Lingcod, sheephead, and opaleye are frequently reported. Giant sea bass (ESA-listed; recovering population) have been observed on deep wrecks in this area. California spiny lobster shelter in hull cavities. Schools of blacksmith, señorita, and other wrasse-family fish are common. Red and purple sea urchins, scallops, and various nudibranchs colonize all surfaces.
+The wreck complex supports the full Southern California cold-water reef assemblage. Lingcod, cabezon, various rockfish, sheephead, garibaldi, calico bass, and wolf eels are resident year-round. Strawberry anemones (Corynactis californica) and white metridium anemones coat all wreck surfaces. California spiny lobster shelter in hull cavities during the October–March season. Giant sea bass (recovering, protected) have been observed here. Sea lions from nearby colonies visit regularly.
 
 ## Dive Profile
 
-Maximum depth 30 metres (the deeper wrecks in this complex, particularly the HMCS Yukon at approximately 30 m, reach this depth). The site is advanced-only due to depth and the need for careful gas management. Most wreck surfaces are in the 18–30 m range. Bottom time at depth is limited; plan dive profiles conservatively. Visibility is generally excellent — Wreck Alley is known for clear water, typically 10–20 metres, with occasional days exceeding 30 metres.
-
-## Entry and Exit
-
-Boat access required via charter from Mission Bay. Multiple San Diego dive charter operators run regular trips to Wreck Alley. The wrecks are marked with surface buoys for mooring. No shore access.
-
-## Tips and Recommendations
-
-Book with a licensed dive charter out of Mission Bay for the most reliable access. Penetration of wrecks in this complex — particularly the HMCS Yukon, which has been extensively modified with interior access holes — requires wreck penetration certification. Carry a torch for interior exploration. Advanced Open Water minimum; Wreck certification recommended for interior dives.
+Boat access via charter from Mission Bay (Marissa Charters, Waterhorse Charters, San Diego Expeditions, and others run regular Wreck Alley trips). The wrecks are moored with surface buoys for charter access. Dives to the HMCS Yukon begin at approximately 18m (top of wreck) and descend to 30m. Advanced certification required; wreck penetration requires specialist training.
 
 ## Safety Considerations
 
-Advanced divers only. Depth (up to 30 m) requires careful gas planning and ascent management. Penetration of any wreck structure requires appropriate wreck training and redundant light sources. Nitrogen narcosis can be a factor at maximum depth. Current is generally mild but should be checked pre-dive. Cold thermoclines can occur — water temperature may drop noticeably below 20 m.
-
-**Note:** "Sunken Harbor" as a named site does not appear in published Wreck Alley dive guides or Wikipedia's Wreck Alley article. The OSM node at these coordinates places this site in the Wreck Alley complex approximately 1–2 miles off Mission Beach. The description above is based on the documented characteristics of Wreck Alley and its constituent wrecks.
+Advanced divers only. Multiple diver fatalities have occurred on the HMCS Yukon in this zone. Cold water, dark interiors, complex three-dimensional navigation, and potential surge demand experience and preparation. Never penetrate any wreck without proper training and redundant light sources. Deploy an SMB on ascent — summer surface boat traffic is heavy.
 
 ---
-*Sources: [Wikipedia — Wreck Alley](https://en.wikipedia.org/wiki/Wreck_Alley), [Waterhouse Charters — Wreck Alley San Diego](https://www.waterhorsecharters.com/wreck-alley/), [La Jolla.com — Complete Guide to Wreck Alley](https://lajolla.com/article/guide-to-wreck-alley-san-diego/). Last updated 2026-05-17.*
+*Sources: [HMCS Yukon (DDE 263) — Wikipedia](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [Wreck Alley — Wikipedia](https://en.wikipedia.org/wiki/Wreck_Alley), [Complete Guide to Wreck Alley — lajolla.com](https://lajolla.com/article/guide-to-wreck-alley-san-diego/). Last updated 2026-06-27.*
+
+**QA note (2026-06-27):** "Sunken Harbor" is the location name for the seafloor area where HMCS Yukon was sunk, not a separate named dive site. No independent published source lists "Sunken Harbor" as a distinct dive site separate from the HMCS Yukon / Wreck Alley complex. This entry is retained as the OSM node exists, but it likely represents the same area as the HMCS Yukon entry.

@@ -3,7 +3,7 @@ name: Kelapa Dua
 lat: 2.155
 lng: 118.51
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ Kelapa Dua is a wall dive site near Kakaban Island in the Derawan Archipelago, E
 
 ## Overview
 
-Kelapa Dua is a relatively recent addition to the Kakaban dive circuit — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI), descending to depths well beyond recreational limits. Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: thresher sharks visit the wall in the early morning hours, where resident cleaner fish remove parasites — similar to the cleaning station dynamics observed at Malapascua in the Philippines. Open Water divers can explore the colourful upper wall to 18 metres; deeper sections with thresher activity require Advanced certification with deep dive specialty.
+Kelapa Dua sits on the southeast tip of Kakaban Island — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI) down to a maximum recreational depth of 28 metres (91 feet, per PADI). Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: pelagic threshers visit the wall in the early morning hours, where cleaner fish remove parasites — ISRA research data indicates approximately 70% encounter probability on morning dives. The Derawan Islands ISRA report documents cleaning stations in the Kelapa Dua area at 30–38 metres depth, with threshers circling slowly while cleaner fish (Pennant Coral Fish, Yellow-axis Chromis, and Bicolour Cleanerfish) service them. Open Water divers can explore the colourful upper wall to 18 metres; Advanced certification with deep dive specialty is required for the thresher observation depths.
 
 ## Marine Life
 
@@ -30,7 +30,7 @@ Kelapa Dua is a relatively recent addition to the Kakaban dive circuit — PADI 
 
 ## Dive Profile
 
-The wall top begins in shallow water (approximately 5–8 metres) and drops steeply to beyond 40 metres. Upper sections (5–18 metres) are accessible to Open Water divers and feature the richest coral growth. Thresher sharks are reported at the wall in the 20–40 metre range during early morning dives. Currents are variable; the wall structure provides shelter from stronger flows. Visibility can be excellent in clean oceanic water.
+The wall top begins in shallow water (approximately 5–8 metres) and drops steeply. PADI confirms the recreational maximum depth at this site as 28 metres (91 feet). Upper sections (5–18 metres) are accessible to Open Water divers and feature the richest coral growth. Thresher sharks have been documented cleaning at 30–38 metres (ISRA data) — just beyond the standard recreational limit, hence the Advanced Open Water with deep dive specialty requirement. Currents are variable; the wall structure provides shelter from stronger flows. Visibility can be excellent in clean oceanic water approaching Kakaban from the channel side.
 
 ## Entry and Exit
 
@@ -57,11 +57,11 @@ Thresher sharks at cleaning stations are one of the most prized underwater photo
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 28 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives). Last updated 2026-05-17.*
+*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [Derawan Islands ISRA – Important Shark & Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-06-27.*

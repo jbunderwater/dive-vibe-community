@@ -2,7 +2,7 @@
 name: Wreck Alley
 lat: 32.7736123
 lng: -117.2693522
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -13,39 +13,41 @@ addedBy: osm_import
 
 ## Wreck Alley
 
-Wreck Alley is a world-class wreck diving destination featuring multiple intentionally sunken ships that have become thriving artificial reefs a few miles off Mission Beach.
+Wreck Alley is San Diego's premier wreck diving destination — a collection of intentionally sunk vessels approximately 2 miles off Mission Beach that form one of the West Coast's most impressive artificial reef complexes.
 
 ## Overview
 
-Wreck Alley is a premier wreck diving site comprising several intentionally sunk vessels in the Pacific Ocean off Mission Beach, San Diego. The area is home to some of the most well-known and accessible wreck dives on the California coast. Major wrecks include the HMCS Yukon (366-foot Canadian destroyer escort), Ruby E, El Rey, NOSC Tower, the Old Ingraham Street Bridge, and the Hogan. The cold, nutrient-rich waters support dense marine life colonization on all structures, from delicate strawberry anemones to large fish populations. Boat access is essential, with numerous local charter operators specializing in Wreck Alley dives.
+Wreck Alley comprises several intentionally sunk vessels in the Pacific Ocean approximately 2 miles west of Mission Beach, accessible by boat from Mission Bay (roughly 15 minutes transit). The area's cold, nutrient-rich waters have produced dense marine colonization on every structure. The star attraction is the HMCS Yukon — a 366-foot (111.6m) Royal Canadian Navy destroyer escort — but the complex also includes the Ruby E, El Rey, NOSC Tower, and the remains of the old Ingraham Street Bridge.
+
+Difficulty varies significantly by wreck: the NOSC Tower (~18m) is accessible to intermediate divers, while the HMCS Yukon (~30m, on its side, with at least five diver fatalities) is strictly Advanced. The overall Wreck Alley complex is rated Advanced to reflect the deep signature wreck.
 
 ## Site Information
 
-- **Location**: Off Mission Beach, San Diego (approximately 2 miles offshore)
+- **Location**: Approximately 2 miles west of Mission Beach, San Diego
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
-## Key Wrecks at Wreck Alley
+## Individual Wrecks
 
-**HMCS Yukon**: 366-foot Canadian destroyer escort in 100 feet of water with intact superstructure, bridge, and gun turrets. The most popular and extensively dived vessel.
+**HMCS Yukon (DDE 263)** — 366ft Royal Canadian Navy Mackenzie-class destroyer escort, sunk 14 July 2000. Lies on her port side in 30m of water (top of wreck at ~18m). Six decks, 100+ compartments, twin 3-inch gun turrets. At least 5 diver fatalities. Advanced only; wreck penetration requires specialist certification.
 
-**Ruby E**: Intentionally sunk in 1989 as an artificial reef, creating excellent habitat for colonizing species.
+**Ruby E** — 165ft vessel (originally USCG Cutter *Cyane*, built 1934 in Seattle for Prohibition enforcement; later converted to fish processor and salvage vessel). Sits upright in approximately 26m (85 feet) of water. The most photogenic wreck in the complex — wheelhouse and engine room accessible. Sunk 1989. Notable history: the ship contained two hidden drug-smuggling compartments that initially prevented it from sinking.
 
-**El Rey**: Sunk on April 2, 1987, using Navy demolition charges to create an artificial reef.
+**El Rey** — Former kelp harvesting vessel capable of carrying 300 tons of kelp, which made approximately 3,600 voyages over 35 years. Donated for artificial reef creation and sunk April 2, 1987 using US Navy demolition explosives. Now sits in approximately 24m (80 feet) of water, heavily deteriorated but densely colonized.
 
-**NOSC Tower**: A former navigational structure now lying in 60 feet of water, covered with thick growths of brilliantly colored strawberry anemones.
+**NOSC Tower** — Former Naval Ocean Systems Center (NOSC) research platform built in 1959, collapsed in a winter storm and now lies in approximately 18m (60 feet) of water. Heavily coated in strawberry anemones — described as an "underwater jungle gym." The most accessible structure for intermediate divers.
 
-**Ingraham Street Bridge**: Remains of an old Mission Bay bridge, intentionally dumped in approximately 60 feet of water when Mission Bay was developed.
+**Ingraham Street Bridge Remains** — Sections of a former Mission Bay bridge dumped in approximately 18m (60 feet) of water when Mission Bay was developed. Smaller structure but good habitat.
 
 ## Marine Life
 
-The wrecks support dense populations of lingcod, rockfish, cabezon, and numerous other fish species. Large colonies of strawberry anemones and other invertebrates blanket the structures in vibrant displays. Sea lions and harbor seals frequently visit. Giant sea bass and other larger fish are sometimes encountered. The variety of macro subjects and colorful life makes for exceptional photography.
+All wrecks support California cold-water reef species: lingcod, rockfish (various), cabezon, sheephead, kelp bass, calico bass, garibaldi, and señorita are year-round residents. Strawberry anemones (Corynactis californica) and white metridium anemones blanket every surface. California spiny lobster shelter in dark cavities (in season: October–March). Wolf eels, moray eels, and octopus inhabit holes in structure. Giant sea bass (recovering, ESA-listed) have been observed on the deeper wrecks. Sea lions visit regularly from nearby colonies. Nudibranchs provide excellent macro photography opportunities.
 
 ## Dive Profile
 
-Most dives focus on a single major wreck. Descend to the chosen structure and systematically explore the exterior and accessible interior sections. With multiple wrecks at varying depths, divers can choose based on their experience and air supply. Plan for 40-50 minute bottom times at intermediate depths with appropriate safety margins.
+Book with a local charter (Marissa Charters, Waterhorse Charters, San Diego Expeditions) out of Mission Bay. Dives typically focus on one wreck per tank. The HMCS Yukon requires two or more dives to appreciate — plan the first to orient on the exterior before attempting any penetration. For all wrecks, plan gas and ascent conservatively and deploy an SMB for ascent in busy summer boat traffic.
 
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Wreck Alley — Wikipedia](https://en.wikipedia.org/wiki/Wreck_Alley), [Wreck Alley San Diego — Waterhorse Charters](https://www.waterhorsecharters.com/wreck-alley/), [Complete Guide to Wreck Alley — lajolla.com](https://lajolla.com/article/guide-to-wreck-alley-san-diego/), [Ruby E — Wrecked in my rEvo](https://wreckedinmyrevo.com/2022/12/26/ruby-e-san-diego-85-fsw/), [HMCS Yukon Wreck Dive — San Diego Dive Sites](https://www.sddivesites.com/hmcs-yukon.html). Last updated 2026-06-27.*

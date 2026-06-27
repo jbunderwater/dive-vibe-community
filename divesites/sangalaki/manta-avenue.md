@@ -3,7 +3,7 @@ name: Manta Avenue
 lat: 2.09
 lng: 118.378
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -22,16 +22,15 @@ Manta Avenue opens near The Lighthouse on Sangalaki's eastern shore and features
 ## Marine Life
 
 - Reef manta rays (*Manta alfredi*) transiting and feeding
-- Elegant fire gobies and dancing gobies on coral steps
+- Elegant fire gobies and dancing gobies on coral steps (confirmed by Maratua.com and Dive The World)
 - Jawfish hovering at burrow entrances in sandy patches
 - Ribbon eels in the sandy troughs between coral steps
 - Cleaner wrasse stations on the coral crests
 - Frogfish, lionfish, and crocodilefish on open rubble
-- Two small wooden boat wrecks at the Lighthouse section with resident sweetlips, scorpionfish, and clownfish
 
 ## Dive Profile
 
-The reef steps from approximately 5 metres on the crest to 30 metres where the coral meets sandy flat. A typical dive profile follows the steps down to 18–20 metres and returns along shallower coral ridges. Visibility averages 15–25 metres. Currents are mild to moderate; the guide assesses conditions at the surface before descent.
+The reef steps from approximately 5 metres on the crest to a sandy flat at approximately 24 metres — consistent with the general Sangalaki shelf depth. A typical dive profile follows the steps down to 18–20 metres and returns along shallower coral ridges. Visibility averages 15–25 metres. Currents are mild to moderate; the guide assesses conditions at the surface before descent.
 
 ## Entry and Exit
 
@@ -41,7 +40,7 @@ Boat entry only. Divers descend at the Lighthouse marker and navigate north alon
 
 - The coral steps are excellent for spotting small cryptic species — scan slowly and low rather than rushing along at manta eye-level.
 - The site transitions naturally into Manta Parade on the same dive if currents allow; confirm the plan with your guide beforehand.
-- The wooden wrecks near the lighthouse are at snorkelling depth and reward a second shallow pass at the end of the dive.
+- The adjacent Lighthouse Reef site (a separate dive) features two small wooden boat wrecks — ask your dive guide about combining the two sites on a single outing.
 
 ## Safety Considerations
 
@@ -57,11 +56,11 @@ The coral staircase creates natural framing for wide-angle reef compositions. Ma
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 24 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-06-27.*

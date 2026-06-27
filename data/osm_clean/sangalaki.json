@@ -6,23 +6,23 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 6 independent domain sources from markdown research.",
+      "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com,dive-the-world.com",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Difficulty upgraded from Beginner to Intermediate. Scuba Junkie Sangalaki top-sites article explicitly describes Manta Run as 'intermediate to advanced' due to variable and sometimes strong currents; Dive The World confirms drift conditions. Shallow depth (5-15m) accessible to all, but current variability makes Intermediate the correct classification. Site type 'reef' confirmed. Depth 15m confirmed across multiple sources.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com"
+    "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com,dive-the-world.com"
   },
   {
     "name": "Manta Avenue",
     "lat": 2.09,
     "lon": 118.378,
-    "depth": 30,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -30,8 +30,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,asiadivesite.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth revised from 30m to 24m. Maratua.com and starfish.ch both describe Sangalaki's general maximum as ~24m (80ft); maratua.com states no dive exceeds 24m depth on the island. The coral staircase structure descends to a sandy flat—24m is the practical limit. Removed the lighthouse wreck description from Manta Avenue; wrecks belong to Lighthouse Reef (a separate site). Difficulty Intermediate confirmed via multiple sources. Site type reef confirmed.",
       "validated": "true"
     },
     "validated": "true",
@@ -41,7 +41,7 @@
     "name": "Manta Parade",
     "lat": 2.085,
     "lon": 118.375,
-    "depth": 30,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -49,8 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth revised from 30m to 20m. Maratua.com confirms Sangalaki island dives do not exceed 24m and Manta Parade is described as shallow ridges. Dive-the-world says mantas feed near the surface above this reef; ridge tops are 5-10m, troughs to ~20m. No independent source confirms 30m at this site. Site type reef confirmed; difficulty Intermediate confirmed. Manta activity concentration at Mountain Coral and Manta Parade confirmed by Scuba Junkie research data (42.9% of cleaning behaviour at Manta Parade).",
       "validated": "true"
     },
     "validated": "true",
@@ -60,7 +60,7 @@
     "name": "Coral Gardens",
     "lat": 2.08,
     "lon": 118.358,
-    "depth": 27,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -68,8 +68,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,asiadivingvacation.com,starfish.ch,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth revised from 27m to 25m. Dive-the-world describes this as a gradual sloping reef to ~25m on Sangalaki's SW side; 27m was slightly over the typical Sangalaki shelf depth. Site type reef confirmed; Beginner difficulty confirmed (gentle currents, gradual slope). Night dive character confirmed via Dive The World ('very satisfying night dive').",
       "validated": "true"
     },
     "validated": "true",
@@ -87,8 +87,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: All parameters confirmed. Depth 20m, site type reef, Beginner difficulty, boat entry all validated across 5 independent sources. Turtle Town confirmed as SW corner of Sangalaki with gullies and overhangs. Green turtle nesting on Sangalaki beach confirmed (20-30 nests per night per maratua.com). Flat topography confirmed.",
       "validated": "true"
     },
     "validated": "true",
@@ -105,32 +105,32 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com,asiadivingvacation.com",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: All parameters confirmed. Wall drops to 180-250m (multiple sources); grab line at 24m confirmed by PADI and Asia Dive Site. Depth 25m retained (max practical dive depth at grab line plus safety margin). Wall type confirmed. Advanced difficulty confirmed by PADI, Asia Dive Site, Scuba Junkie. Hammerhead sharks noted as 'periodic, conditions-dependent' — retained with caveat (confirmed via Asia Dive Site). Eagle rays and manta rays confirmed passing in current. Note: existing markdown mention of 'hammerhead sharks (periodic)' is appropriately caveated.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com"
+    "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com,asiadivingvacation.com"
   },
   {
     "name": "Blue Light Cave",
     "lat": 2.13737,
     "lon": 118.5303,
-    "depth": 65,
+    "depth": 44,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com,starfish.ch",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth corrected from 65m to 44m. Multiple independent sources (asiadivesite.com, starfish.ch, indonesia.greatestdivesites.com) confirm the primary exit crack at 44m; the secondary alternate exit is at 64m but is technical-diver-only and not the standard exit route. Standard recreational maximum for this dive is 44m. The 65m figure in previous QA referred to the alternate technical exit. Cavern bottom at 30m confirmed. Chimney entrance at 2m confirmed. 120m horizontal swim in cavern confirmed. Advanced difficulty confirmed — cave certification recommended for deeper passages.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com"
+    "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com,starfish.ch"
   },
   {
     "name": "Kakaban Jellyfish Lake",
@@ -143,13 +143,13 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: site_type updated from 'reef' to 'beach' - Kakaban is a landlocked snorkel-only marine lake. Scuba diving is prohibited inside the lake by Indonesian authorities. Validated with 3 independent domain sources from markdown research.",
+      "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com,asiadivingvacation.com",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: All parameters confirmed. Snorkel-only restriction confirmed by multiple independent sources — scuba diving not permitted to protect the jellyfish ecosystem (Indonesian regulation). Depth 17m is lake maximum depth but irrelevant for snorkellers. Four jellyfish species confirmed. 5-minute walk from jetty confirmed. Fins prohibited inside lake confirmed. No-sunscreen rule confirmed. Site type 'beach' retained as best available category for a snorkel-only lake.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com"
+    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com,asiadivingvacation.com"
   },
   {
     "name": "Big Fish Country",
@@ -163,8 +163,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,maratuaseaviewresort.com,zubludiving.com,bluewaterdivetravel.com,padi.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: All parameters confirmed. Drift type confirmed. Depth 27-30m at channel junction confirmed. Advanced difficulty confirmed — Scuba Junkie explicitly does not guide this site due to downwelling risk. Barracuda schools confirmed (thousands, chevron barracuda). Grey reef sharks confirmed. Whale shark mention in markdown is appropriately caveated as 'chance sightings...have been reported' — retained as this is confirmed by Maratua Seaview Resort. Mola-mola mention similarly caveated — retained. Hammerhead sharks: periodic — appropriate caveat retained.",
       "validated": "true"
     },
     "validated": "true",
@@ -182,8 +182,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "padi.com,scubajunkiesangalaki.com,bluewaterdivetravel.com,greennirvanaresort.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: All parameters confirmed. Depth 15m confirmed (shallow reef with bommies and sand channels). Reef type confirmed. Beginner difficulty confirmed (minimal current, shallow). Green and hawksbill turtles confirmed. Bumphead parrotfish listed as 'periodic, passing aggregations' — appropriately caveated. 40+ turtles per dive claim traced to diver account, presented in markdown with attribution — retained.",
       "validated": "true"
     },
     "validated": "true",
@@ -193,45 +193,45 @@
     "name": "Gorgonzola",
     "lat": 2.175,
     "lon": 118.555,
-    "depth": 30,
+    "depth": 23,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "scubajunkiesangalaki.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Markdown footer has 3 URLs but all from same domain (scubajunkiesangalaki.com) - effectively 1 source. Not validated per 3-domain rule.",
-      "validated": "false"
+      "validation_source": "scubajunkiesangalaki.com,sienna-resort.com,premierliveaboarddiving.com",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth corrected from 30m to 23m. Sienna Resort's Maratua dive guide explicitly states Gorgonzola max depth is 23m/75ft with a sandy plateau at 30m — the plateau is at the base of the wall, typical diving is to 23m. Wall type confirmed. Marine life (gorgonian sea fans, bumphead parrotfish, napoleon wrasse confirmed by scubajunkiesangalaki.com and sienna-resort.com). Difficulty: sources describe 'moderate to strong current' making Intermediate appropriate. Now has 3 independent domain sources — validated.",
+      "validated": "true"
     },
-    "validated": "false",
-    "validation_source": "scubajunkiesangalaki.com"
+    "validated": "true",
+    "validation_source": "scubajunkiesangalaki.com,sienna-resort.com,premierliveaboarddiving.com"
   },
   {
     "name": "Kelapa Dua",
     "lat": 2.155,
     "lon": 118.51,
-    "depth": 40,
+    "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com,asiadivesite.com",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Depth corrected from 40m to 28m. PADI explicitly states '91 feet / 28 meters' maximum depth. Previous 40m figure was unsubstantiated. Location confirmed as Kakaban Island (SE tip). Thresher shark cleaning station confirmed by PADI, Scuba Junkie, ISRA research report (70% success rate morning dives, cleaning stations at 30-38m depth — note: ISRA data refers to the thresher cleaning station depth as 30-38m across three stations including Kelapa Dua; PADI says recreational max is 28m which covers where threshers are observed). Wall type confirmed. Advanced difficulty confirmed (deep dive specialty required for thresher depths per PADI).",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com"
+    "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com,asiadivesite.com"
   },
   {
     "name": "North Sangalou",
     "lat": 2.045,
     "lon": 118.24,
-    "depth": 40,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -239,8 +239,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: Max depth revised from 40m to 30m. Scuba Junkie describes the site as 'rolling to 40m' but recommends max dive depth of 30m — 30m is the appropriate operational depth. Site type reef (rolling undulating reefscape) confirmed. Intermediate difficulty confirmed — neither beginner (too deep and open-ocean setting) nor advanced. White-tip reef sharks, blue-spotted stingrays, mangrove whiprays confirmed.",
       "validated": "true"
     },
     "validated": "true",

@@ -3,7 +3,7 @@ name: North Sangalou
 lat: 2.045
 lng: 118.24
 difficulty: Intermediate
-maxDepth: 40
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -31,7 +31,7 @@ North Sangalou is described by Scuba Junkie Sangalaki's dive guide as a site tha
 
 ## Dive Profile
 
-The rolling terrain descends from approximately 8 metres on the upper reef to 40 metres at the outer base of the reef structure. Recommended maximum dive depth is 30 metres to allow sufficient bottom time. Intermediate divers work the 15–25 metre zone where the reef rolls most dramatically. Currents are moderate; visibility in this area can reach 20–30 metres. An SMB is recommended for open-water ascents.
+The rolling terrain descends from approximately 8 metres on the upper reef, dropping progressively toward the outer reef base. Scuba Junkie describes the reef as "rolling to 40m" but recommends a maximum dive depth of 30 metres — the recorded maximum depth for this site. Intermediate divers work the 15–25 metre zone where the reef rolls most dramatically. Currents are moderate; visibility in this area can reach 20–30 metres. An SMB is recommended for open-water ascents.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat dive only. The site is on the outer reef and typically accessed from Sangal
 
 ## Safety Considerations
 
-At 40 metres maximum depth, this site exceeds the limit where Open Water divers should operate. Advanced certification and experience with deep dive planning are appropriate. The outer reef setting means return to the boat is via open water — deploy an SMB for all ascents.
+At 30 metres recommended maximum depth, this site is at the edge of Open Water limits. Advanced certification or equivalent experience with deep dive planning is appropriate, particularly given the outer-reef open water setting. The outer reef setting means return to the boat is via open water — deploy an SMB for all ascents.
 
 ## Photography
 
@@ -57,11 +57,11 @@ The undulating reefscape provides unusual composition opportunities — shooting
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 30 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php). Last updated 2026-05-17.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php). Last updated 2026-06-27.*

@@ -3,7 +3,7 @@ name: Coral Gardens
 lat: 2.08
 lng: 118.358
 difficulty: Beginner
-maxDepth: 27
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -31,7 +31,7 @@ Coral Gardens occupies Sangalaki's southwestern shelf, where the reef shelves gr
 
 ## Dive Profile
 
-The reef shelves from approximately 5 metres on the crest to 27 metres where coral gives way to open sand. A typical profile descends the gradual slope to around 20 metres and returns at 10–12 metres along the more colourful upper reef. Visibility averages 15–25 metres. Currents are gentle and rarely cause problems at this site.
+The reef shelves from approximately 5 metres on the crest to 25 metres where coral gives way to open sand. A typical profile descends the gradual slope to around 20 metres and returns at 10–12 metres along the more colourful upper reef. Visibility averages 15–25 metres. Currents are gentle and rarely cause problems at this site.
 
 ## Entry and Exit
 
@@ -57,11 +57,11 @@ The colourful hard coral garden in 5–10 metres of water makes excellent wide-a
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/). Last updated 2026-06-27.*
