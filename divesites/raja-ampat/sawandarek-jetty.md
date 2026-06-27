@@ -3,7 +3,7 @@ name: Sawandarek Jetty
 lat: -0.5897798
 lng: 130.6033001
 difficulty: Beginner
-maxDepth: 25
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -25,14 +25,14 @@ The wooden jetty at the village of Sawandarek sits above a shallow rubble and co
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet)
 - **Current**: Typically minimal in protected location
 - **Best Time**: Year-round; mandarin fish display at dusk daily
 
 ## Marine Life
 
-Mandarin fish (Synchiropus splendidus) emerge from the rubble substrate at dusk in the very shallows (1–3 meters) and engage in their courtship display — pairs rise together in the water column in a brief, dazzling vertical swim before the female releases her eggs and the pair separates. The display lasts only seconds but is one of diving's most memorable spectacles. Beyond the mandarins, Sawandarek hosts painted ghost pipefish hovering among soft coral, ornate ghost pipefish draped in the rubble, pygmy seahorses on sea fans at the jetty pilings, a variety of frogfish species, and dozens of nudibranch species. Cuttlefish hunt at night and blue-ringed octopus have been recorded in the rubble zone.
+Sources confirmed at this specific site (padi.com, meridianadventuredive.com, birdsheadseascape.com, scubaboard.com): mandarin fish (Synchiropus splendidus) emerging at dusk for their courtship ritual; a resident green sea turtle nicknamed "Turtle City" (confirmed); schooling batfish that follow divers; blue-ringed octopus on night dives; coral restoration project structures in the form of metal manta ray frames. The jetty pilings and surrounding rubble reef host pygmy seahorses, ghost pipefish, and nudibranch species.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ This is an exceptionally safe site for diving — shallow, protected, and low-cu
 Mandarin fish photography at dusk is the bucket-list shot. A macro lens (60mm or 100mm equivalent) and fast strobe is essential — natural light is insufficient at dusk. Focus on the courtship pairing rise in the water column with a manual pre-focus and anticipate the upward swimming trajectory. For the jetty critter life, a macro rig with a good torch and a nudibranch book in your BCD pocket will maximize identifications.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [PADI](https://padi.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*

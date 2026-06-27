@@ -32,7 +32,7 @@ Rising from the depths in the central Dampier Strait, Blue Magic is an exposed o
 
 ## Marine Life
 
-Blue Magic delivers a multi-layered experience. In the water column above the pinnacle: large schools of chevron barracuda forming spiraling tornadoes, golden trevally, batfish in dense aggregations, and occasional oceanic mantas cruising through. On the pinnacle itself: ornate wobbegong sharks rest motionlessly on ledges, tasselled wobbegongs drape over soft coral, and the structure teems with anthias, butterflyfish, and hawksbill turtles. Pygmy seahorses are found in the sea fans on the deeper flanks. Spanish mackerel and grey reef sharks patrol the blue water beyond the pinnacle edge.
+Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, lagaligoliveaboard.com, rajaampatdiveexperience.com): oceanic manta rays (Blue Magic is one of only two Raja Ampat sites for oceanic mantas; cleaning stations on the pinnacle top); tasseled wobbegong sharks; grey reef sharks, blacktip reef sharks, whitetip reef sharks; dogtooth tuna; bumphead parrotfish; pygmy seahorses on the sea fans; leaffish. Conservation diver limits now apply after documented coral damage.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Blue Magic is for experienced, current-competent divers only. Currents can rever
 Blue Magic is a wide-angle photographer's dream. The schooling barracuda form perfect tornado formations that photograph beautifully shooting upward with available light. Soft coral macro at 20–25 meters offers dramatic close-up subjects against vivid backgrounds. Bring both a wide-angle zoom and a dedicated macro port to cover all opportunities.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-06-27.*

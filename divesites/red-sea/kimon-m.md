@@ -13,38 +13,37 @@ addedBy: osm_import
 
 ## Kimon M
 
-The Kimon M is a Greek cargo vessel that struck Abu Nuhas Reef on 12 December 1978, the earliest of the four major wrecks on this reef. She was launched as MF Brunsbüttel on February 11, 1952 and completed in October 1952, built by H.C. Stulcken & Sohn Shipyard in Hamburg — sources report the builder as H.C. Stulcken & Sohn Shipyard in Hamburg; some sources incorrectly attribute it to Nordseewerke, Emden. The vessel measured 106.4 metres in length, 14.8 metres beam, and 6.81 metres draught. She sailed under several names throughout her career: MF Brunsbüttel (1952), Ciudad de Cucuta (1953), Angela (1964), Kimon (1971), and finally Kimon M (1975), owned at the time of sinking by Ianissos Shipping Company, Panama. On her final voyage she was carrying 4,500 tonnes of bagged lentils from the Turkish port of Iskenderun bound for Bombay when she struck the reef on 12 December 1978 — hence her nickname "The Lentil Wreck." The wreck rests on its starboard side, with the bow section in 12–15 metres and the stern at 32 metres on the sandy bottom.
+The Kimon M is a Greek cargo vessel that struck Abu Nuhas Reef on December 12, 1978 — the earliest of the four major wrecks on this reef, and known as "The Lentil Wreck" for her final cargo.
 
 ## Overview
 
-The Kimon M sits on its starboard side on a sloping sandy seabed with the shallowest sections of the wreck at around 12-15 meters and the deepest hull sections at approximately 30-32 meters. The wreck is moderately intact overall, though years of storm surge and salt water have collapsed some structures. Unlike the nearby Giannis D — which is the most visited and most penetrable wreck at Abu Nuhas — the Kimon M is less frequently dived, giving it a quieter character and slightly more pristine encrustation on the exterior surfaces. The hull is covered in soft corals, sponges, and sea fans, particularly on the shaded sections facing away from direct sunlight.
+The Kimon M was launched as *Brunsbuttel* on February 11, 1952 and completed in October 1952. Sources disagree on the builder: the Red Sea Wreck Project cites H.C. Stulcken & Sohn Shipyard in Hamburg (Steinwerder) citing shipyard records, while at least one source attributes it to Nordseewerke in Emden — the Hamburg attribution is better supported. The vessel measured 106.4 metres in length and 14.8 metres beam. Her gross tonnage is reported as 3,694 GRT by redseawreckproject.com and divers-guide.com; wrecksatrisk.com reports 3,714 GRT — the discrepancy is noted and unresolved. She sailed under several names: Brunsbuttel (1952), Ciudad de Cucuta (1953), Angela (1964), Kimon (1971), and finally Kimon M (1975), owned at the time of sinking by Ianissos Shipping Company, Panama. On December 12, 1978, en route from Iskenderun, Turkey to Bombay, India, carrying 4,500 tonnes of bagged lentils, she struck Abu Nuhas Reef at full speed. All crew were rescued by the vessel MV Interasja and delivered to Port Suez on December 15, 1978. The wreck lies on its starboard side, with the bow debris at 12–18 metres and the stern at 32 metres on the sandy bottom.
 
 ## Site Information
 
-- **Location**: Abu Nuhas Reef, northern Red Sea, Egypt (near Hurghada / Sharm el-Sheikh routes)
+- **Location**: Abu Nuhas Reef, northern Red Sea, Egypt (Strait of Gubal)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Typical Visibility**: 20–35 meters
 - **Current**: Moderate; can be stronger on exposed reef sections
 - **Best Time**: October to May
 
 ## Entry and Exit
 
-Accessible by liveaboard from Hurghada or Sharm el-Sheikh, or occasionally by day boat from Hurghada on favourable weather days. The Abu Nuhas reef anchorage is exposed to wind and swell from the north — surface conditions can be rough. Entry via giant stride; the boat maintains a drift pickup in current.
+Accessible by liveaboard from Hurghada or Sharm el-Sheikh, or occasionally by day boat from Hurghada on favourable weather days. The Abu Nuhas reef anchorage is exposed to wind and swell from the north — surface conditions can be rough. Entry via giant stride.
 
 ## Tips and Recommendations
 
-- If diving Abu Nuhas for the first time, dive the Giannis D first to understand reef orientation, then visit the Kimon M as a second dive
+- If diving Abu Nuhas for the first time, consider diving the Giannis D first to understand reef orientation, then the Kimon M as a second dive
 - A primary torch and backup are essential for any interior exploration
-- Nitrox significantly extends bottom time at the deeper hull sections — plan accordingly
-- The wreck lies relatively close to the Giannis D; with a good guide, both can be visited in a single long dive or as separate dives on the same day
+- Nitrox extends bottom time at the deeper hull sections — plan accordingly
 - Watch for fishing nets and monofilament around the superstructure — carry a cutting tool
 
 ## Safety Considerations
 
-The 32-meter maximum depth requires intermediate-level air management skills and an awareness of NDL limits on air. Penetration of the Kimon M requires wreck specialty training, redundant lighting, and a reel or line. The wreck has areas of structural instability — avoid forcing entry through collapsed sections. Currents at Abu Nuhas can pick up quickly; always dive with an SMB and signal device.
+The 32-metre maximum depth requires careful air management and NDL awareness. Penetration of the Kimon M requires wreck specialty training, redundant lighting, and a reel or line. The wreck has areas of structural instability — avoid forcing entry through collapsed sections. Currents at Abu Nuhas can pick up quickly; always dive with an SMB and signal device.
 
 ---
-*Sources: [Red Sea Wreck Project - Kimon M](https://redseawreckproject.com), [Deep Blue Diver - Kimon M](https://deepbluediver.uk), [Wrecks at Risk - Kimon M](https://wrecksatrisk.com), [redsea-diving.com - Kimon M](https://www.redsea-diving.com). Last updated 2026-06-27.*
+*Sources: [Red Sea Wreck Project](https://redseawreckproject.com), [Deep Blue Diver](https://deepbluediver.uk), [Divers Guide](https://divers-guide.com), [CDWS](https://cdws.travel), [redsea-diving.com](https://redsea-diving.com). Last updated 2026-06-27.*

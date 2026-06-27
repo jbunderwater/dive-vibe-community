@@ -3,7 +3,7 @@ name: M Alexand
 lat: 16.3273466
 lng: -86.5007403
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -28,10 +28,10 @@ The M Alexand is primarily a surface/photography attraction visible from the Dre
 ## Site Information
 
 - **Location**: Dixon Cove, north coast of Roatán, Bay Islands, Honduras
-- **Entry Type**: Boat dive (stern section)
-- **Site Type**: Partially beached wreck
-- **Difficulty Level**: Advanced (limited information; check current conditions with local operators)
-- **Maximum Depth**: ~20 meters (stern section)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Current**: Variable; north coast conditions
 
 ## Marine Life

@@ -25,7 +25,7 @@ Herby's Place is a shore-entry reef dive site on Roatán's south shore, listed i
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ The site's defining features are the swim-through "windows" in the limestone roc
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with swim-throughs
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Current**: Variable; assess before entry

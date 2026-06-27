@@ -23,7 +23,7 @@ Butcher Bank is an offshore reef structure located southeast of Roatán, rising 
 
 - **Location**: Offshore southeast of Roatán, Bay Islands, Honduras (open water crossing required)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
@@ -59,4 +59,4 @@ Offshore dive requiring excellent conditions and experienced boat crew. The cros
 Butcher Bank is Roatán's best site for pelagic photography. Wide-angle shots with reef sharks in the blue water create dramatic compositions. Schools of horse-eye jacks in spiral formations around the bank top are stunning subjects. The offshore visibility is typically the clearest of all Roatán sites, giving a pure blue-water backdrop that makes wildlife images pop.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-06-27.*

@@ -25,24 +25,16 @@ The contrast between the sunlit, colourful reef garden and the dramatic drop int
 
 ## Marine Life
 
-- Hard coral gardens (Acropora tables, staghorn, massive Porites) on the reef top
-- Green and hawksbill turtles grazing the reef
-- Orange and yellow soft corals and sea fans on the wall
-- Whitetip reef sharks at the wall base
-- Dogtooth tuna and rainbow runners in open water
-
-## Dive Profile
-
-The dive begins on the shallow reef garden at 5–12 metres before dropping over the wall edge to 20–25 metres, exploring sea fans and cleaning stations. The ascent returns along the shallower wall face and reef top for the safety stop. Intermediate divers with wall diving experience are well suited. Entry and exit are by boat.
+Sources confirmed at this specific site (padi.com, rajaampatdiveexperience.com, lagaligoliveaboard.com, meridianadventuredive.com): endemic Raja Ampat garden eels; pygmy seahorses; ornate ghost pipefish; blacktip and whitetip reef sharks in "Shark Alley" (the deeper section of the wall). Hard coral gardens on the reef top with green and hawksbill turtles.
 
 ## Practical Information
 
 - **Depth range**: 3–25 m
 - **Visibility**: 15–25 m
-- **Current**: Mild to moderate
+- **Current**: Mild to moderate; All levels
 - **Best time**: October–April
 - **Water temperature**: 27–30°C
 - **Entry**: Boat
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*

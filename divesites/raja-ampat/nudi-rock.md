@@ -5,7 +5,7 @@ lng: 130.5656
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: pinnacle
+siteType: wall
 ref: null
 osmId: null
 addedBy: manual_addition
@@ -19,7 +19,7 @@ A small island with surrounding pinnacles in the central Misool area. Abundant n
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 

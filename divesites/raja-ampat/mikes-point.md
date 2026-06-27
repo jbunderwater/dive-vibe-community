@@ -24,8 +24,8 @@ The wall at Mike's Point is rated Advanced due to strong and unpredictable curre
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced (strong, unpredictable currents; occasional downward-pulling current)
-- **Maximum Depth**: 30 meters (south wall extends deeper)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Current**: Strong and unpredictable; Advanced divers only
 - **Best Time**: October to April
 

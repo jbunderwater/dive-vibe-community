@@ -2,8 +2,8 @@
 name: Manta Ridge
 lat: -0.5617019
 lng: 130.537349
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Manta Ridge
 
-Manta Ridge is one of Raja Ampat's dedicated manta ray encounter sites, located in West Papua, Indonesia. The ridge's position in an area of strong upwelling creates a reliable cleaning and feeding station where oceanic manta rays (Mobula birostris) and reef manta rays (Mobula alfredi) congregate year-round.
+SAFETY-CRITICAL CORRECTION: Manta Ridge is rated Advanced — NOT Beginner or Intermediate. Multiple sources explicitly warn this site has mandatory reef hook requirements and documented dangerous down-currents on ascent. Do not dive this site without Advanced certification and experience with strong currents. The functional manta observation zone is 5–20m; the full site extends to 40m.
 
 ## Overview
 
@@ -25,24 +25,21 @@ Visibility averages 15–25 metres. Water temperatures range from 27–30°C. Cu
 
 ## Marine Life
 
-- Oceanic manta rays and reef manta rays at cleaning stations
-- Wrasse and small cleaner fish servicing the mantas
-- Dense schools of anthias and fusiliers over the ridge
-- Reef sharks occasionally passing through deeper water
-- Hard coral gardens along the ridge crest
-
-## Dive Profile
-
-Divers descend to 10–18 metres on the ridge and hold position, minimising movement to avoid startling the mantas. Patience is rewarded with prolonged close encounters. The dive rarely exceeds 20 metres, allowing long bottom times. Entry and exit are by boat.
+Sources confirmed at this specific site (diveconcepts.com, lagaligoliveaboard.com, padi.com, rajaampatdiveexperience.com): oceanic mantas in groups of 5–30, including some entirely black (melanistic) individuals; pilot fish; cobias; golden trevallies; blacktip reef sharks.
 
 ## Practical Information
 
-- **Depth range**: 5–20 m
+- **Depth range**: 5–40 m (manta observation zone: 5–20m)
+- **Difficulty**: Advanced — mandatory reef hook; documented dangerous down-currents on ascent
 - **Visibility**: 15–25 m
-- **Current**: Mild to moderate
+- **Current**: Strong; advanced management required
 - **Best time**: October–April; mantas present year-round
 - **Water temperature**: 27–30°C
-- **Entry**: Boat
+- **Entry**: Boat; reef hook required
+
+## Safety
+
+This site carries documented safety risk from down-currents during ascent. A reef hook is mandatory equipment, not optional. Do not attempt without Advanced OWD and experience managing strong current environments. Multiple sources flag this as Advanced-only.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-06-27.*

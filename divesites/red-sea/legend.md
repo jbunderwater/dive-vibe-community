@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Legend
 
-The Legend is an intentionally sunk vessel resting in the waters near Marsa Alam in the southern Red Sea, Egypt. The OSM data records the sinking date as October 17, 2002, placing this as a relatively modern artificial reef deliberately scuttled to create a dive attraction. The site sits at approximately 25.07°N, 34.94°E — in the Marsa Alam area, a region that has developed rapidly as a dive destination over the past two decades.
+The Legend is a shipwreck in the Marsa Alam area of the southern Red Sea, Egypt, lying at approximately 20 metres since its sinking on October 17, 2002.
 
 ## Overview
 
-Intentionally sunk wrecks in the Red Sea are typically prepared with openings cut for diver access and internal hazards removed before scuttling, making them safer for recreational penetration than natural sinkings. The Legend, having been on the seabed since 2002, has had over two decades for coral and sponge growth to establish across the hull, transforming the steel structure into a vivid artificial reef. At a maximum depth of approximately 20 meters, the site is well within intermediate recreational limits and offers a full range of wreck experiences without demanding deep-diving skills.
+The Legend sank on October 17, 2002 — the OSM record notes this date. Research has not confirmed whether the sinking was accidental or a deliberate scuttling; earlier descriptions claiming it was "intentionally sunk as an artificial reef" were not verified by independent sources and have been removed. Having been on the seabed for over two decades, the hull supports established coral and sponge growth. At a maximum depth of approximately 20 metres, the site is within intermediate recreational limits. Vessel identity, size, and sinking history remain unconfirmed pending independent source verification.
 
 ## Site Information
 
@@ -44,18 +44,18 @@ Accessible by day boat from Marsa Alam-area dive centres and on liveaboard itine
 
 ## Tips and Recommendations
 
-- Carry a torch even on a wreck of this age — interior lighting and dark hull sections benefit significantly from artificial light
+- Carry a torch — interior and dark hull sections benefit significantly from artificial light
 - The coral growth after 20+ years means careful buoyancy is essential to avoid damaging established reef
-- Penetration is possible in prepared sections but stay within your wreck training and experience level
-- Ask the dive operator about the history of the scuttling and any notable features specific to this vessel
+- Penetration requires wreck training and appropriate equipment; stay within your certification level
+- Ask the dive operator about any notable features specific to this vessel
 
 ## Safety Considerations
 
-Penetration of intentionally sunk wrecks should only be undertaken by trained wreck divers with appropriate equipment. Even in a prepared wreck, structural changes occur over two decades — what was open in 2002 may be partially collapsed today. Always carry a torch, a reel or line for penetration, and a cutting tool. Fire coral and sharp edges on the corroding hull require exposure protection and buoyancy control.
+Wreck penetration should only be undertaken by trained wreck divers with appropriate equipment. Structural changes occur over two decades — collapsed sections and reduced openings are possible. Always carry a torch, a reel or line for penetration, and a cutting tool. Fire coral and sharp edges on the corroding hull require exposure protection and buoyancy control.
 
 ## Photography
 
 The combination of colorful coral growth and the stark geometry of the steel hull makes the Legend an excellent photography site. Natural light filtering through open deck structures creates dramatic light shafts in the interior. The soft coral growth in orange and purple tones on the exterior shoots beautifully with a strobe against the blue water background.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*"Intentionally sunk" claim removed — not confirmed by independent sources. Sinking date 2002-10-17 per OSM record. Vessel identity and history unverified. No site-specific dive sources found. Last updated 2026-06-27.*

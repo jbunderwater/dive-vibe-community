@@ -24,7 +24,7 @@ Friwen Bonda is a spectacular wall dive on the outer face of Friwen Island, in t
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner (mild to moderate current; snorkel-friendly shallows)
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Mild to moderate; can strengthen on tidal flow

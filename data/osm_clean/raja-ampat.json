@@ -9,16 +9,17 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "indonesia-tourism.com,diveconcepts.com,rajaampatbiodiversity.com,luxuryrajaampat.com",
     "tags": {
       "name": "Manta Point",
       "scuba_diving:current": "2",
       "scuba_diving:type": "bigfish",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "indonesia-tourism.com,diveconcepts.com,rajaampatbiodiversity.com,luxuryrajaampat.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -31,15 +32,16 @@
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "papua-diving.com,diveconcepts.com,lagaligoliveaboard.com,rajaampatdiveexperience.com",
     "tags": {
       "name": "Blue Magic",
       "name:fr": "Site de plong\u00e9e Blue Magic",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,diveconcepts.com,lagaligoliveaboard.com,rajaampatdiveexperience.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -214,18 +216,19 @@
     "lon": 130.6033001,
     "osm_id": 9865439531,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "padi.com,meridianadventuredive.com,birdsheadseascape.com,scubaboard.com",
     "tags": {
       "name": "Sawandarek Jetty",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "padi.com,meridianadventuredive.com,birdsheadseascape.com,scubaboard.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -234,20 +237,21 @@
     "lon": 130.7139487,
     "osm_id": 9865460718,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "papua-diving.com,diveconcepts.com,padi.com,divernet.com",
     "tags": {
       "depth": "5-30",
       "name": "Sardine Reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,diveconcepts.com,padi.com,divernet.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -459,16 +463,17 @@
     "osm_id": 12167282450,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "lagaligoliveaboard.com,diveconcepts.com,divernet.com,padi.com,scubadiverlife.com",
     "tags": {
       "name": "Manta Sandy",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "lagaligoliveaboard.com,diveconcepts.com,divernet.com,padi.com,scubadiverlife.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1041,19 +1046,20 @@
     "lon": 130.537349,
     "osm_id": 13042160972,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "diveconcepts.com,lagaligoliveaboard.com,padi.com,rajaampatdiveexperience.com",
     "tags": {
-      "depth": "5-20",
+      "depth": "5-40",
       "name": "Manta Ridge",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "diveconcepts.com,lagaligoliveaboard.com,padi.com,rajaampatdiveexperience.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1387,23 +1393,22 @@
     "lon": 130.6915275,
     "osm_id": 565524431,
     "osm_type": "way",
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 40,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "papua-diving.com,diveconcepts.com,lagaligoliveaboard.com,birdsheadseascape.com,padi.com",
     "tags": {
       "area": "yes",
-      "depth": "5-30",
-      "description": "Good corals, a lot of turtles but not a big variety of fishes. But still this spot worth a try. The stream kindly bring you to the west, so you can look the coral around the south of the island.",
+      "depth": "3-40",
       "name": "Cape Kri",
-      "note": "Checked on diving map",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,diveconcepts.com,lagaligoliveaboard.com,birdsheadseascape.com,padi.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1433,21 +1438,21 @@
     "lon": 130.6584611,
     "osm_id": 565524433,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "padi.com,rajaampatbiodiversity.com,divetip.com,originaldiving.com",
     "tags": {
       "area": "yes",
-      "description": "Perfect snorkeling spot. A lot of fishes, some turtles and clown fishes.",
       "name": "Cape Mansuar",
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "padi.com,rajaampatbiodiversity.com,divetip.com,originaldiving.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1482,15 +1487,16 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "padi.com,rajaampatdiveexperience.com,lagaligoliveaboard.com,meridianadventuredive.com",
     "tags": {
       "area": "yes",
       "name": "Friwen Wall",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "padi.com,rajaampatdiveexperience.com,lagaligoliveaboard.com,meridianadventuredive.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1502,12 +1508,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "validation_source": "lagaligoliveaboard.com,misool.info,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "validated": "true",
+      "validation_source": "lagaligoliveaboard.com,misool.info,birdsheadseascape.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1537,13 +1545,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "allstarliveaboards.com, birdsheadseascape.com",
+    "validation_source": "allstarliveaboards.com,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type wall confirmed (overhanging curving wall and slope). Only 2 domain sources — not yet validated."
     }
   },
   {
@@ -1593,13 +1601,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "konjocruisingindonesia.com, birdsheadseascape.com",
+    "validation_source": "konjocruisingindonesia.com,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type wall confirmed (wall, slope and swimthrough sections). Only 2 domain sources — not yet validated."
     }
   },
   {
@@ -1630,13 +1638,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "birdsheadseascape.com, lagaligoliveaboard.com",
+    "validation_source": "birdsheadseascape.com,lagaligoliveaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type cave confirmed (cave/cavern system). Only 2 domain sources — not yet validated."
     }
   },
   {
@@ -1648,12 +1656,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "validation_source": "lagaligoliveaboard.com,misool.info,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "validated": "true",
+      "validation_source": "lagaligoliveaboard.com,misool.info,birdsheadseascape.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1743,8 +1753,8 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type pinnacle confirmed (submerged pinnacles). Only 1 domain source — not yet validated."
     }
   },
   {
@@ -1752,17 +1762,17 @@
     "lat": -2.218383,
     "lon": 130.5656,
     "depth": 30,
-    "site_type": "pinnacle",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "validation_source": "birdsheadseascape.com,notroublesjustbubbles.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type changed from pinnacle to wall (slopes, crevices, sheer faces confirmed). Only 2 domain sources — not yet validated."
     }
   },
   {
@@ -1919,13 +1929,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": false,
-    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "validation_source": "birdsheadseascape.com,notroublesjustbubbles.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: site_type wall confirmed (sea fan and soft coral-covered walls). Only 2 domain sources — not yet validated."
     }
   },
   {

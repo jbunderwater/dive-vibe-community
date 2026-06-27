@@ -23,8 +23,8 @@ Bear's Den is a cavern dive on the southern coast of Roatán, centered on a 120-
 
 - **Location**: South coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Cavern dive
-- **Difficulty Level**: Intermediate (Advanced for chimney chute — requires excellent buoyancy control)
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate on the south wall

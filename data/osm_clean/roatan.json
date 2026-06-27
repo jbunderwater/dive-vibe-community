@@ -1186,10 +1186,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
+      "validated": false,
       "validation_source": "scubaboard_research, dive_operator_sites, xray_mag",
       "last_qa_date": "2026-06-27",
-      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
+      "qa_note": "Re-audit 2026-06-27: validation_source contains only pseudo-sources (scubaboard_research, dive_operator_sites) plus xray_mag without a real article URL. Downgraded to validated=False pending 3 real URL sources."
     }
   },
   {
@@ -5795,7 +5795,7 @@
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": false,
-      "validation_source": "rmp_canonical_kml_only \u2014 name 'Atocha' does NOT correspond to a documented Roat\u00e1n wreck (the famous Atocha is in Florida)",
+      "validation_source": "rmp_canonical_kml_only — name 'Atocha' does NOT correspond to a documented Roatán wreck (the famous Atocha is in Florida)",
       "depth_inferred_from_name": false
     }
   },
@@ -6585,7 +6585,7 @@
     }
   },
   {
-    "name": "Veale\u2019s Hangover Surprise",
+    "name": "Veale’s Hangover Surprise",
     "lat": 16.32477,
     "lon": -86.48317,
     "depth": 18,

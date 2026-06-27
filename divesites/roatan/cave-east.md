@@ -17,7 +17,7 @@ Cave East is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cave East provides access to cavern formations on the eastern end of a cave system within the Sandy Bay reef wall. The site features swim-throughs and overhangs where ambient light creates dramatic effects, and resident marine life includes copper sweepers, lobsters, and the occasional resting nurse shark. The surrounding wall supports healthy gorgonian growth and encrusting sponges. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
+Cave East provides access to cavern formations on the eastern end of a cave system within the Sandy Bay reef wall. The site features swim-throughs and overhangs where ambient light creates dramatic effects. The surrounding wall supports gorgonian growth and encrusting sponges typical of the Sandy Bay reef. No site-specific marine life sources were found; specific species claims have been removed pending source verification.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ Cave East provides access to cavern formations on the eastern end of a cave syst
 Approach the cave entrance carefully and assess conditions before entering. Maintain excellent buoyancy to avoid disturbing sediment. Follow the cave walls and always keep the entrance in sight unless properly trained for overhead environments. Exit the same way you entered.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

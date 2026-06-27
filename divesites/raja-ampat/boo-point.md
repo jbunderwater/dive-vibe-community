@@ -23,7 +23,7 @@ The site features a slope transitioning to steep wall diving, draped in soft cor
 
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall (slope to steep slope)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Current**: Variable; assess before entry
