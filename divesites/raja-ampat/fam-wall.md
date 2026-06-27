@@ -13,26 +13,25 @@ addedBy: osm_import
 
 ## Fam Wall
 
-Fam Wall is a pristine vertical wall along the Fam Islands in southern Raja Ampat — a remote, lightly dived site offering classic wall diving with extraordinary reef coverage and the bonus of nocturnal walking shark encounters in the shallows.
+Fam Wall (also known as the Keruwo/Keruo Channel area) is a wall dive in the Fam Islands in southern Raja Ampat. Multiple sources confirm it as a true wall dive, with the site's signature feature being the mandarin fish (Synchiropus splendidus) courtship ritual performed at dusk, visible to patient observers in the shallows.
 
 ## Overview
 
-The Fam Islands are among Raja Ampat's least-visited diving areas, and Fam Wall's remoteness ensures the marine life here remains largely undisturbed. The wall drops from a reef crest at 3–5 meters to beyond recreational limits, its surface covered in hard and soft coral, sea fans, and encrusting sponges in a spectrum of colors. The wall's protected location in the archipelago means conditions are often calmer than the exposed Dampier Strait sites. Water temperature averages 27–29°C with visibility of 15–25 meters. At night, the reef flat above the wall becomes a hunting ground for epaulette sharks — raja Ampat's remarkable walking sharks — which patrol the shallows after dark.
+Also referenced in some sources as associated with Keruo/Keruwo Channel, Fam Wall drops from a reef crest to a maximum depth of 25 meters (confirmed). The wall is covered in hard and soft coral, sea fans, and encrusting sponges. Water temperature averages 27–29°C. The Fam Islands area is remote and lightly visited, which contributes to the undisturbed state of the marine life.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Fam Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Typically mild; can moderate on tidal flow
-- **Best Time**: October to April; night dives recommended for walking sharks
+- **Best Time**: October to April; dusk dives recommended for mandarin fish
 
 ## Marine Life
 
-The wall's upper zone (5–15 meters) hosts dense hard coral coverage with a rich mix of reef fish — butterflyfish, angelfish, wrasse, and parrotfish in abundance. Deeper on the wall (15–25 meters), sea fans, barrel sponges, and soft coral provide habitat for larger species including white-tip reef sharks, hawksbill turtles, and occasionally bumphead parrotfish. The distinctive highlight of Fam Wall is the epaulette shark (Hemiscyllium sp.) — these walking sharks become active on the reef flat after dark, using their pectoral and pelvic fins to walk across exposed rock and coral in search of prey. A torch dive at dusk or night reveals these extraordinary animals in their element.
+Sources confirmed at this specific site (thescubadirectory.com, lagaligoliveaboard.com, divescover.com, diveconcepts.com): mandarin fish performing their dusk courtship ritual (the site's signature feature), ghost pipefish, and pygmy seahorses on gorgonian fans. The wall structure hosts sea fans, barrel sponges, and soft coral typical of Raja Ampat wall diving.
 
 ## Dive Profile
 
@@ -59,4 +58,4 @@ The wall's drop-off means depth management is essential. Night diving adds compl
 Epaulette shark photography at night is the signature opportunity at Fam Wall. A macro lens on a port or a 60mm equivalent with close-focus capability captures the shark's intricate spotted patterning. Wide-angle wall photography during the day is outstanding — the pristine coral coverage and dramatic depth perspective make compelling shots. The remote location means encounter photographs are rarely crowded with other divers in the background.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [The Scuba Directory](https://thescubadirectory.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Divescover](https://divescover.com/), [Dive Concepts](https://diveconcepts.com/). Last updated 2026-06-27.*

@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Sea Angel I
 
-Sea Angel I is a wreck dive site in Roatán, Caribbean.
-
-## Overview
-
-Sea Angel I is a wreck dive accessible from shore on Roatan's eastern side, resting at around 25 meters on the sandy bottom where its encrusted hull has become a concentrated habitat for groupers, snappers, soldierfish, and glassy sweepers that form dense clouds in the water column above the wreck. The structure has been colonized by hard and soft corals and a thick layer of sponges, while sea turtles and southern stingrays frequent the sandy areas immediately surrounding the hull. Roatan's clear Caribbean water and typically light current make this an approachable wreck for intermediate divers, with the shallow portions of the structure starting at more manageable depths for those not yet comfortable at maximum depth.
+Sea Angel I is a wreck dive site on Roatán's eastern side, accessible from shore, at approximately 25 meters depth. The site is recorded in OpenStreetMap (OSM node 1481583198).
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: East coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
+## Overview
+
+No published information about this wreck's history, vessel type, dimensions, or sinking date was found in any publicly accessible source beyond the OpenStreetMap record. The site appears to be accessible from shore, making it unusual among Roatán's wreck dives. Contact a local dive operator for current conditions and access details.
+
+**Previous description note:** An earlier version of this page contained a detailed description of marine life and site conditions written from regional inference rather than site-specific research. That content has been removed. No site-specific sources were found to support any specific claims about this wreck.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on OpenStreetMap data. No site-specific sources found. Last updated 2026-06-27.*

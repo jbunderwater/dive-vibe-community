@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # El Aguila Wreck
 
-*A large shrimp boat deliberately sunk off Roatán's south coast in 1997, now one of the Bay Islands' most visited wrecks and home to a large moray eel population.*
+*A 75-meter cargo vessel deliberately sunk off Roatán's west coast in 1997, now one of the Bay Islands' most visited wrecks and broken into three sections by Hurricane Mitch.*
 
 ## Overview
 
-The El Aguila (Spanish for "The Eagle") is a 50-meter steel shrimp boat that was deliberately scuttled off the southwest coast of Roatán in 1997 as an artificial reef and dive attraction. Hurricane Mitch in 1998 broke the wreck into three separate sections — the bow, midship, and stern — which now lie on a sandy slope at depths ranging from 14 to 33 meters. The separation actually enhanced the site, creating multiple dive environments on a single wreck. After nearly three decades submerged, El Aguila is heavily encrusted with corals and sponges, with an extraordinary resident moray eel population. It is consistently rated among the top wreck dives in Honduras.
+The El Aguila (Spanish for "The Eagle") is a 75-meter (230-foot) cargo vessel that was deliberately scuttled near Sandy Bay, on the northwest coast of Roatán, in 1997 to serve as an artificial reef and dive attraction. The vessel originally sank off Utila while carrying concrete from Puerto Cortes to Haiti, was salvaged, and eventually purchased and purposefully sunk by Anthony's Key Resort as a replacement for deteriorating wooden-hulled wrecks. Hurricane Mitch in 1998 broke the wreck into three distinct pieces, tilting the structure at a 45-degree angle. The wreck rests on sand at approximately 33 meters (110 feet), with the mast extending upward to around 15 meters (50 feet). After nearly three decades submerged, El Aguila is heavily encrusted with corals and sponges. It is consistently rated among the top wreck dives in Honduras.
 
 ## Site Information
 
@@ -32,11 +32,13 @@ The El Aguila (Spanish for "The Eagle") is a 50-meter steel shrimp boat that was
 
 ## Marine Life
 
-El Aguila hosts one of the largest concentrations of moray eels of any wreck in the Bay Islands. Green morays, spotted morays, and goldentail morays emerge from virtually every opening in the hull. Large groupers — Nassau, yellowfin, and tiger — have taken up permanent residence. Horse-eye jack schools spiral above the wreck. Spotted drums cluster beneath the bow section overhangs. Caribbean reef sharks patrol the sandy areas around the wreck. Hawksbill turtles rest on the wreck sections. The hull is covered in orange and red encrusting sponges, wire corals, and encrusting stony corals — decades of growth transforming the steel into living reef.
+Groupers, snappers, barracuda, and creole wrasse are consistently reported at El Aguila by multiple dive operators. Garden eels inhabit the sandy areas surrounding the wreck sections. Green moray eels occupy crevices in the hull. Schools of yellowtail snappers and chubs circulate above the structure. Blennies and damselfish work the encrusted surfaces. Rays are reported in the area. The mast and upper hull are covered in substantial coral and sponge growth after nearly three decades of colonization. The portholes at the bow shelter arrow crabs and bearded fire worms.
+
+*Note: Some sources reference large moray eel concentrations as a notable feature of this wreck. However, the specific claim that El Aguila hosts "one of the largest concentrations of moray eels of any wreck in the Bay Islands" could not be confirmed across three independent sources and has been removed pending additional verification.*
 
 ## Dive Profile
 
-The three-section layout means a structured dive plan: start at the shallowest section (bow, 14–18 meters) and work progressively deeper to the midship and stern sections. The stern lies at 33 meters — plan your bottom time budget for the deeper section carefully. Penetration of accessible cargo holds and the engine room is possible in the shallower sections with proper equipment. Make a conservative ascent over the wreck and complete the safety stop hovering above the bow at 5–8 meters. Nitrox is recommended to maximize bottom time.
+The three-section layout means a structured dive plan. The wreck rests at approximately 33 meters on sandy bottom, with the mast rising to around 15 meters. Begin at the shallower upper structure and work progressively deeper across the three sections. The stern is tilted at 45 degrees. Penetration of accessible areas is possible in the shallower sections with proper equipment. Make a conservative ascent over the wreck and complete the safety stop at 5–8 meters. Nitrox is strongly recommended to maximize bottom time at depth.
 
 ## Entry and Exit
 
@@ -59,4 +61,4 @@ The broken, multi-level nature of El Aguila requires careful dive planning. The 
 El Aguila is one of the Caribbean's best wreck photography subjects. The dense encrustation of orange sponges on the hull creates vivid color contrast with the blue water. Moray eel portraits — a head emerging from a sponge-encrusted porthole — are the signature shot. The broken hull sections viewed from the sandy seabed with divers above provide dramatic wide-angle compositions. A strobe is essential at depth.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Splash Inn Dive Resort – El Aguila Shipwreck](https://roatansplashinn.com/en/roatan-diving-sites/el-aguila-shipwreck/), [Anthony's Key Resort – El Aguila](https://anthonyskey.com/el-aguila/), [DreamWrecks – El Aguila Roatan](https://dreamwrecks.com/el-aguila-roatan-shipwreck), [Reef Gliders – El Aguila Wreck](https://reefgliders.com/en/blog/el-aguila-wreck), [Greatest Dive Sites – El Aguila](https://honduras.greatestdivesites.com/west_roatan/aguila_eagle_wreck). Last updated 2026-06-27.*

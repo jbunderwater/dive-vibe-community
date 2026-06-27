@@ -3,7 +3,7 @@ name: M Alexand
 lat: 16.3273466
 lng: -86.5007403
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,50 +13,38 @@ addedBy: osm_import
 
 # M Alexand
 
-*A mid-sized freighter wreck lying on Roatán's north side reef shelf, offering an accessible advanced wreck dive with good encrustation.*
+*A 107-meter cargo vessel beached in Dixon Cove since 1981, partially submerged and visible above the waterline — one of Roatán's most photographed surface wrecks.*
 
 ## Overview
 
-The M Alexand (also recorded as the Prince of Wales or similar regional naming variations) is a freighter wreck located on the north side of Roatán, reportedly sunk in 1981. The wreck lies on a reef shelf at 18–30 meters, with the upper hull accessible at moderate depth. After more than four decades submerged, the vessel carries substantial encrustation of corals, sponges, and invertebrates. The north-side location means the site is somewhat sheltered compared to south-coast wrecks, and conditions are generally calmer. Visibility averages 20–28 meters. Water temperatures remain at 27–29°C year-round.
+The M Alexand is a 107-meter general cargo ship (4,064 tons capacity) built in Germany in 1951 as post-war reparations to Israel, where it entered service with Zim Israel Lines under the name Rimon. The vessel passed through several owners and names — Kastor, Nausika, Lady Salla — before being sold to Honduran interests in 1977 and renamed M Alexand. Under the Honduran flag it transported cement from Puerto Cortes throughout the Caribbean.
+
+In 1981, while en route to Ecuador carrying 300,000 sacks of cement, the ship experienced mechanical failures near Puerto Cabezas, Nicaragua. It was brought to Roatán as an emergency refuge, where attempts at repair ultimately failed. The vessel was deliberately beached in Dixon Cove to prevent it sinking in open water. It has remained there since, deteriorating in place, with the stern resting in approximately 18–20 meters of water and the bow and midship visible above the surface.
+
+The M Alexand is primarily a surface/photography attraction visible from the Dream Ferries terminal at Dixon Cove. Divers can explore the submerged stern section in the 18–20 meter range, though published dive reports on the site are limited. It is not an intentionally sunk dive wreck.
+
+**Previous description note:** An earlier version of this page claimed the vessel was "also recorded as the Prince of Wales." This claim has no documentary basis — it does not appear in the vessel's confirmed name history (Rimon → Kastor → Nausika → Lady Salla → M Alexand) or in any published source consulted and has been removed.
 
 ## Site Information
 
-- **Location**: North coast of Roatán, Bay Islands, Honduras
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20–28 meters (65–90 feet)
-- **Current**: Light to minimal; north coast is generally more sheltered
-- **Best Time**: Year-round; north coast can be rough during norther weather events in winter
+- **Location**: Dixon Cove, north coast of Roatán, Bay Islands, Honduras
+- **Entry Type**: Boat dive (stern section)
+- **Site Type**: Partially beached wreck
+- **Difficulty Level**: Advanced (limited information; check current conditions with local operators)
+- **Maximum Depth**: ~20 meters (stern section)
+- **Current**: Variable; north coast conditions
 
 ## Marine Life
 
-The wreck supports a productive artificial reef community. Groupers of multiple species inhabit the hull spaces. Yellowtail snappers school in the water column above. Moray eels — green, spotted, and goldentail — occupy crevices throughout the structure. Spiny lobsters shelter under hull overhangs. The encrusting life on the hull includes feather duster worms, tunicates, and oysters alongside sponge and coral growth. Hawksbill turtles visit the site. The sandy bottom surrounding the wreck is home to garden eels and southern stingrays.
+No site-specific published information on marine life at the M Alexand stern section was found. General Roatán north-coast species apply. Verify with local operators.
 
 ## Dive Profile
 
-Descend to the upper hull at 18–20 meters and begin an exterior circuit of the wreck. Work forward to the bow section and aft to the stern, dropping to the maximum hull depth of 30 meters at the deepest points. Explore the superstructure and any open cargo areas from the exterior. Ascend to the upper hull as your gas depletes, then make a free ascent with SMB or use a mooring line to your safety stop at 5 meters.
+The submerged stern section reaches approximately 18–20 meters. The bow and midship remain above the waterline and are not a dive target. Conditions and access should be confirmed with a local operator before diving, as the wreck continues to deteriorate and the accessible areas may change.
 
 ## Entry and Exit
 
-Served by Sandy Bay and West End dive operators on the north coast of Roatán. Entry via giant stride or back roll. North coast conditions are generally calmer than the south side but can be disrupted by winter northers.
-
-## Tips
-
-- Combine with a north-coast reef dive for a two-tank morning — the north side has different species composition than the south walls
-- Penetration is possible in accessible areas but requires wreck experience and a dive torch
-- The bow section typically has the densest fish concentration — start here
-- Early morning dives have better natural light filtering to the wreck at this depth
-- Ask your operator about the wreck's history and any identifying features
-
-## Safety
-
-Advanced dive requiring proper buoyancy and gas management at 30 meters. Do not penetrate enclosed areas without wreck training and appropriate equipment. The hull has sharp metal edges in deteriorated areas. Always carry an SMB and perform a 3–5 minute safety stop at 5 meters. Dive with a buddy.
-
-## Photography
-
-The wreck's long history of encrustation makes it a compelling photography subject. Wide-angle shots of the hull covered in sponges and corals benefit from strobe fill to bring out colors. The bow or stern viewed from the side creates a classic wreck portrait composition. Macro subjects on the hull — tube worms, nudibranchs, and small invertebrates — reward a patient macro photographer.
+The nearest dive operators are at Dixon Cove and Sandy Bay on Roatán's north coast. Check access conditions before planning a dive on the submerged stern.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Roatan Tourism Bureau – M Alexand](https://roatantourismbureau.com/roatan-most-iconic-shipwreck-m-alexand), [PÄYÄ Magazine – M Alexand Guarding Dixon Cove](https://payamag.com/2022/02/22/m-alexand-guarding-dixon-cove/), [ShipSpotting – M Alexand IMO 5295193](https://www.shipspotting.com/photos/3475249). Last updated 2026-06-27.*

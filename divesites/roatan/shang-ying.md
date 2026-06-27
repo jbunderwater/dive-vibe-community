@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Shang Ying
 
-Shang Ying is a wreck dive site in Roatán, Caribbean.
-
-## Overview
-
-Shang Ying is a wreck dive registered in the Roatan Marine Park database. While detailed published diving information about this wreck is limited, the name suggests a vessel of Asian origin. The wreck sits along Roatan's south coast reef system at approximately 25 meters depth. As with other artificial reefs in Roatan's waters, the wreck structure likely hosts encrusting corals and sponges, with resident groupers, moray eels, and schooling fish sheltering in and around the hull. Visibility in this area typically ranges 20-40 meters.
+Shang Ying is a wreck dive site registered in the Roatan Marine Park database, located along Roatán's south coast at approximately 25 meters depth.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: South coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
+## Overview
+
+No published information about this wreck's history, vessel type, dimensions, or sinking date was found in any publicly accessible source. The wreck is listed in the Roatan Marine Park database and confirmed by GPS coordinates. Contact a local Roatán dive operator for current site conditions and access.
+
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data. No site-specific sources found. Last updated 2026-06-27.*

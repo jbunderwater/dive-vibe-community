@@ -3,7 +3,7 @@ name: Friwen Garden
 lat: -0.4713256
 lng: 130.6985472
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -25,9 +25,9 @@ Friwen Island lies in the northern reaches of Raja Ampat's core diving zone, and
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Typically mild; protected location
+- **Current**: Variable; can strengthen at the key point (Intermediate-appropriate)
 - **Best Time**: October to April
 
 ## Marine Life
@@ -59,4 +59,4 @@ Friwen Garden is a friendly, beginner-accessible site in calm conditions. The ma
 Hard coral wide-angle photography is outstanding here — tabletop Acropora framing a diver in the background is a classic composition. The gentle slope provides comfortable positioning for macro work without current management challenges. Nudibranch variety is excellent and the calm conditions allow extended close-up photography.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/) (documents 2–35m depth range), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*

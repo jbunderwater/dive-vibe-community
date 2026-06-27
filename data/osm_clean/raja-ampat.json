@@ -51,15 +51,16 @@
     "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "papua-diving.com,meridianadventuredive.com,padi.com,lagaligoliveaboard.com",
     "tags": {
       "name": "Friwen Bonda",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,meridianadventuredive.com,padi.com,lagaligoliveaboard.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -92,15 +93,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "papua-diving.com,lagaligoliveaboard.com,diveconcepts.com,meridianadventuredive.com,scubaboard.com",
     "tags": {
       "name": "Melissa's Garden",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,lagaligoliveaboard.com,diveconcepts.com,meridianadventuredive.com,scubaboard.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -195,14 +197,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "thescubadirectory.com,lagaligoliveaboard.com,divescover.com,diveconcepts.com",
     "tags": {
       "name": "Fam Wall",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "thescubadirectory.com,lagaligoliveaboard.com,divescover.com,diveconcepts.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -254,18 +257,19 @@
     "osm_id": 12167186038,
     "osm_type": "node",
     "depth": 27,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "papua-diving.com,lagaligoliveaboard.com,rajaampatbiodiversity.com",
     "tags": {
       "depth": "5-27m",
       "name": "Batu Lima",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,lagaligoliveaboard.com,rajaampatbiodiversity.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -274,18 +278,19 @@
     "lon": 130.6985472,
     "osm_id": 12167193373,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "validated": true,
+    "validation_source": "rajaampatbiodiversity.com,lagaligoliveaboard.com,meridianadventuredive.com",
     "tags": {
       "name": "Friwen Garden",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "rajaampatbiodiversity.com,lagaligoliveaboard.com,meridianadventuredive.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -377,15 +382,16 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "rajaampatbiodiversity.com,lagaligoliveaboard.com,meridianadventuredive.com",
     "tags": {
       "name": "Friwen Laut",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "rajaampatbiodiversity.com,lagaligoliveaboard.com,meridianadventuredive.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -560,8 +566,8 @@
     "tags": {
       "name": "Lao lao",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "last_qa_date": "2026-06-27",
+      "notes": "QA 2026-06-27: difficulty confirmed Advanced (strong currents per most operator sources). Site type pinnacle confirmed. Insufficient sources for full validation (only 1 operator confirmed at time of review)."
     }
   },
   {
@@ -651,16 +657,17 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "papua-diving.com,diveconcepts.com,rajaampatbiodiversity.com,meridianadventuredive.com",
     "tags": {
       "depth": "3-30",
       "name": "Mike's Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
+      "validated": "true",
+      "validation_source": "papua-diving.com,diveconcepts.com,rajaampatbiodiversity.com,meridianadventuredive.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1544,33 +1551,37 @@
     "lat": -2.222017,
     "lon": 130.60945,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "validation_source": "divephotoguide.com,misool.info,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "validated": "true",
+      "validation_source": "divephotoguide.com,misool.info,birdsheadseascape.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
     "name": "Boo Windows",
     "lat": -2.221583,
     "lon": 130.611667,
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "validation_source": "divephotoguide.com,misool.info,birdsheadseascape.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "validated": "true",
+      "validation_source": "divephotoguide.com,misool.info,birdsheadseascape.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {

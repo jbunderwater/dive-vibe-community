@@ -17,7 +17,9 @@ Herby's Place is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Herby's Place sits at West Bay Point on Roatan's south shore, a reef dive that slopes down to 18 meters over a mix of star corals, barrel sponges, and coral outcroppings where garden eels wave from sandy patches and stingrays rest on the bottom. The site forms part of the Roatan Marine Park's network of buoyed reef sites, and regular visitors include sea turtles, nurse sharks resting under coral heads, and hogfish patrolling the mid-water over the reef. Visibility typically runs 20-30 meters in calm conditions, making it a reliable and visually rewarding dive for newer divers and those looking for a relaxed, wildlife-rich reef experience.
+Herby's Place is a shore-entry reef dive site on Roatán's south shore, listed in the Roatan Marine Park's network of buoyed sites. The reef slopes to 18 meters over coral formations and sandy patches. Conditions typical of the Roatán south reef apply: good visibility, warm water, and the coral communities characteristic of the Mesoamerican Barrier Reef system.
+
+*Note: A previous version of this page contained a detailed description of marine life (nurse sharks, hogfish, sea turtles, stingrays, garden eels) attributed to "perplexity" — an AI tool, not a verified source. Those species claims are plausible for the Roatán south reef generally but could not be confirmed as site-specific to Herby's Place and have been removed pending verification from a named source.*
 
 ## Site Information
 
@@ -29,11 +31,11 @@ Herby's Place sits at West Bay Point on Roatan's south shore, a reef dive that s
 
 ## Marine Life
 
-Garden eels wave from sandy patches between the coral outcroppings, southern stingrays rest on the bottom, and nurse sharks shelter under coral heads throughout the reef. Sea turtles are regular visitors and hogfish patrol the mid-water, while the barrel sponges and star coral heads provide habitat for moray eels, spotted drum, and Caribbean spiny lobsters in the reef's lower sections.
+No site-specific marine life sources were found for Herby's Place. Regional Roatán south-reef species apply but specific sightings at this site are unconfirmed. Contact a local operator for current conditions.
 
 ## Dive Profile
 
 The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park site data and regional diving characteristics. No site-specific sources found. Last updated 2026-06-27.*

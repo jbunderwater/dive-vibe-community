@@ -1634,8 +1634,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "wrecksatrisk.com,redsea-diving.com,oceansoul.blue",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "redseawreckproject.com,deepbluediver.uk,wrecksatrisk.com,redsea-diving.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2239,8 +2239,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "seawondersdivingcenter.com,sinai-divers.com,jordan-travel.com,arabdivers.jo,padi.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2846,8 +2846,9 @@
       "name": "Sirnaka Island",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "redsea-diving.com,omneia.de",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -3166,8 +3167,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "seawondersdivingcenter.com,sinai-divers.com,jordan-travel.com,arabdivers.jo,padi.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
