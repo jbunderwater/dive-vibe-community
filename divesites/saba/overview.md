@@ -8,12 +8,13 @@ Dramatic pinnacle dives around an extinct volcanic island with pristine reefs.
 
 ## Description
 
-Saba is a notable diving destination in the Caribbean region with depths ranging from 5 to 30 meters. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Saba is a world-class pinnacle diving destination built around an extinct volcanic island in the northeastern Caribbean. Sites range from sheltered beginner reefs at 5–16 metres to open-ocean pinnacles at 27–35 metres (110 feet). Water temperatures average 24–28°C, with visibility typically 25–40 metres. Year-round diving is possible, with calmer sea conditions generally from May to October.
 
 ### Diving Opportunities
 
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Pinnacle Diving**: Volcanic seamounts and spires rising from open ocean — Third Encounter, Eye of the Needle, and Diamond Rock are among the Caribbean's most dramatic pinnacle dives
+- **Wall Diving**: Tent Reef Wall drops to 30 metres on Saba's leeward side
+- **Night Diving**: Hot Springs and Tent Reef are popular night dive locations featuring bioluminescent ostracods, octopus, lobster, and resident nurse sharks
 
 ### Accessibility
 
@@ -25,7 +26,7 @@ Saba is a notable diving destination in the Caribbean region with depths ranging
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 26-29°C (79-84°F) with visibility of 20-40 meters (65-130 feet). Currents are generally light to moderate.
+- **Water Conditions**: Water temperatures range from 24–28°C with visibility typically 25–40 metres. Currents are variable — light to moderate on sheltered northern sites; strong and unpredictable on the offshore western and southern pinnacles. Most advanced pinnacle sites require experience with strong current.
 - **Marine Biodiversity**: The waters support diverse marine ecosystems including nurse sharks, reef sharks, sea turtles, barracuda, tarpon, flying gurnards.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
@@ -37,4 +38,4 @@ Saba is a notable diving destination in the Caribbean region with depths ranging
 - **Safety**: Always dive within certification limits. Be aware of boat traffic, fire coral, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba Dive Center](https://www.seasaba.com/sabas-dive-sites), [Saba Conservation Foundation](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver - Saba](https://world.dan.org/alert-diver/article/saba/). Last updated 2026-06-28.*

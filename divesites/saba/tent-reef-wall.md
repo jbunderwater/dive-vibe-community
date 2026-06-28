@@ -45,7 +45,7 @@ Boat dive with permanent mooring at the reef top. Entry by giant stride or backw
 
 ## Tips and Recommendations
 
-Tent Reef Wall is strictly an Advanced Open Water or equivalent site. Divers should have wall diving experience and be comfortable managing depth limits in a compelling environment. The 35–40 meter section has the richest invertebrate assemblage, but NDL limits at these depths are short — plan descent and ascent accordingly. A torch is useful for illuminating the true colours of sponges and corals in the deeper sections.
+Tent Reef Wall is strictly an Advanced Open Water or equivalent site. Divers should have wall diving experience and be comfortable managing depth limits in a compelling environment. The maximum depth is 30 metres (100 feet) — plan descent and ascent accordingly. A torch is useful for illuminating the true colours of sponges and corals in the deeper sections.
 
 ## Safety Considerations
 
