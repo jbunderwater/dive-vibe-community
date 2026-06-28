@@ -2,7 +2,7 @@
 name: Friwen Wall
 lat: -0.4774477
 lng: 130.6960298
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -13,36 +13,51 @@ addedBy: osm_import
 
 ## Friwen Wall
 
-Friwen Wall is a wall dive off Friwen Island in Raja Ampat, West Papua, Indonesia. The site combines two distinct diving environments in a single dive: hard coral gardens on the island's shallow reef top give way to a dramatic vertical wall descending into deep blue water. It is one of the Dampier Strait's most consistently excellent sites.
+Friwen Wall is a limestone wall dive in the northeastern Dampier Strait, off the northern coast of Friwen Bonda Island. It is one of very few true wall dives in the central Raja Ampat area — La Galigo Liveaboard describes it as "the only wall dive in central Raja Ampat" — making it a standout site in a region otherwise dominated by sloping reefs and pinnacles.
 
 ## Overview
 
-The dive typically begins on the reef top, where hard coral gardens — dominated by Acropora tables, staghorn thickets, and massive Porites boulders — stretch across the shallow plateau in excellent health. Fish life here is dense: surgeonfish schools graze the algae-trimmed coral edges, butterflyfish patrol in pairs, and green and hawksbill turtles move methodically from coral head to coral head.
+Limestone cliffs plunge vertically from around 2 metres at the surface to a sandy bottom at 25 metres. The wall is densely covered from base to surface in soft corals, gorgonian sea fans, orange carnation coral, sea whips, iridescent sponges, and black coral. Papua Diving calls it "the best soft coral wall in Raja Ampat because of the sheer diversity and abundance."
 
-At the reef edge, the bottom drops away sharply into the wall. The wall face is richly encrusted with orange and yellow soft corals, sea fans extending outward into the current, and barrel sponges large enough to shelter a diver. Whitetip reef sharks rest in the sand at the wall base. The open water off the wall face frequently holds schools of dogtooth tuna or rainbow runners sweeping through on the current. Cleaning stations in the wall crevices draw hawkfish, angelfish, and large grouper throughout the day.
+The site has three distinct zones: a shallow coral ledge accessible to beginners and snorkellers, the main vertical wall face, and a deeper section known as Shark Alley where reef sharks patrol. Two small caves at the base of the wall are a unique feature — fish can sometimes be found orientated upside-down in the cave ceilings. The island is shaped like an arrowhead, with the wall running along its northern face before transitioning to a gently sloping reef on the western end. Currents are mild to moderate, making this one of the most accessible wall dives in the Dampier Strait.
 
-The contrast between the sunlit, colourful reef garden and the dramatic drop into blue water makes Friwen Wall a favourite among underwater photographers. Visibility averages 15–25 metres. Water temperature holds between 27–30°C. Currents run along the wall face and can be moderate.
+## Site Information
+
+- **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: All levels (beginner-accessible)
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 15–30 metres
+- **Current**: Mild to moderate; stronger at tidal turn
+- **Best Time**: October to April
+- **Water temperature**: 27–30°C
 
 ## Marine Life
 
-- Hard coral gardens (Acropora tables, staghorn, massive Porites) on the reef top
-- Green and hawksbill turtles grazing the reef
-- Orange and yellow soft corals and sea fans on the wall
-- Whitetip reef sharks at the wall base
-- Dogtooth tuna and rainbow runners in open water
+Friwen Wall is particularly known for the density and variety of its macro life. Confirmed species at this site:
+
+- Nudibranchs (multiple species; exceptional concentration noted by multiple dive operators)
+- Pygmy seahorses (on gorgonian corals along the wall)
+- Ornate ghost pipefish
+- Moray eels
+- Octopus
+- Mantis shrimp
+- Boxfish and porcupine fish
+- Blacktip and whitetip reef sharks (Shark Alley, deeper section)
+- Schools of fusiliers, trevallies, and snappers (when current is running)
+- Raja Ampat garden eels (endemic species)
+- Occasional manta rays and eagle rays passing the wall face
+
+The gorgonian fans and soft corals host the majority of the macro life; larger schooling fish and sharks concentrate in the deeper section during active tidal flow.
 
 ## Dive Profile
 
-The dive begins on the shallow reef garden at 5–12 metres before dropping over the wall edge to 20–25 metres, exploring sea fans and cleaning stations. The ascent returns along the shallower wall face and reef top for the safety stop. Intermediate divers with wall diving experience are well suited. Entry and exit are by boat.
+Begin on the shallow coral ledge at 2–8 metres, then move to the wall face. The richest soft coral and gorgonian growth is between 8–20 metres. The caves and overhangs at the wall base reward torch exploration. Shark Alley at the deeper end is worth visiting before ascending. The shallow reef top makes an excellent safety stop location.
 
-## Practical Information
+## Entry and Exit
 
-- **Depth range**: 3–25 m
-- **Visibility**: 15–25 m
-- **Current**: Mild to moderate
-- **Best time**: October–April
-- **Water temperature**: 27–30°C
-- **Entry**: Boat
+Boat access only. Approximately 20 minutes from Papua Diving's Kri resort; 5 minutes from Raja Ampat Biodiversity Eco Resort. Entry via back roll or giant stride. The sheltered location makes entry and exit straightforward in most conditions.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Raja Ampat Dive Experience — Friwen Wall](https://rajaampatdiveexperience.com/dive-site/friwen-wall), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [PADI — Friwen Wall](https://www.padi.com/dive-site/indonesia/friwen-wall/), [Meridian Adventure — Friwin Islands](https://raja.meridianadventuredive.com/blog/the-renowned-friwin-islands/). Last updated 2026-06-28.*

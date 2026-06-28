@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Friwen Bonda
 
-Friwen Bonda is a spectacular wall dive on the outer face of Friwen Island, in the heart of Raja Ampat's Bird's Head Seascape — an underwater cliff draped in pristine hard corals and hiding some of the best pygmy seahorse habitat in Indonesia.
+Friwen Bonda is the outer, ocean-facing wall of Friwen Bonda Island in the Dampier Strait, Raja Ampat. "Bonda" in the local language means "outside," and this site earns its name as the exposed face of the island system receiving the full force of nutrient-rich currents from the Banda Sea.
 
 ## Overview
 
-"Bonda" means "outside" in the local language, and this site lives up to its name as the exposed outer wall of Friwen Island. The wall drops vertically from a reef crest at around 5 meters to well beyond recreational limits, its face covered in immaculate hard coral — plate corals, brain corals, massive Porites heads, and dense acropora stands that have escaped anchor damage. Visibility averages 15–25 meters and water temperature sits around 27–29°C. The site is consistently listed among Raja Ampat's top wall dives by liveaboard guides and ScubaBoard contributors.
+The site starts on the northern tip of Friwen Bonda island, running in a south-westerly direction through the channel between the two Friwen islands. Limestone cliffs descend from the surface into a wall that drops to 25 metres and beyond to a sandy seabed at 80 feet (approximately 24 m) or deeper. The outer wall is covered in a dense growth of gorgonian sea fans, orange carnation coral, black coral, sea whips, and anemones — sometimes described locally as "Pink Reef" for the dominant colouration of the soft coral growth.
+
+The strong oceanic currents flowing through the channel to the Banda Sea are the reason for the wall's richness: nutrient upwellings support exceptional coral coverage and concentrate prey fish that attract predators. The site transitions from the steep outer wall to a gently sloping fringe reef system behind the island. Currents can be strong on the outer face; conditions are more sheltered deeper into the channel.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive (outer face), transitioning to sloping reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Mild to moderate; can strengthen on tidal flow
+- **Maximum Depth**: 25 metres (sand bottom 25 m+)
+- **Typical Visibility**: 15–25 metres
+- **Current**: Moderate to strong on the outer face; milder in the channel
 - **Best Time**: October to April
+- **Water temperature**: 27–29°C
 
 ## Marine Life
 
-Pygmy seahorses (Hippocampus bargibanti and H. denise) are the signature find at Friwen Bonda, tucked into the branches of fan corals at 15–20 meters. Knowledgeable guides know precisely which fans to check. The wall also hosts nudibranch species in impressive variety, resident hawksbill turtles, white-tip reef sharks resting at the base of the wall, and dense aggregations of anthias and basslets that give the coral a shimmering quality. Wobbegong sharks rest on ledges. Reef fish diversity is staggering, reflecting Raja Ampat's status as the global epicenter of marine biodiversity.
+Confirmed species at Friwen Bonda:
+
+- Pygmy seahorses (on gorgonian corals; described as a signature find — sources note they are "nearly invisible" against the fan coral)
+- Pontohi pygmy seahorse (confirmed on coral rocks under ledges)
+- Crinoid shrimp
+- Reef octopus
+- Nudibranchs (described as an "insane number of species" — major macro photography highlight)
+- Barracuda (schooling)
+- Jacks and trevallies (schooling)
+- Sweetlips
+- Yellow snapper
+- Wobbegong sharks
+- Various reef fish species
+
+Larger pelagic activity increases when currents are running on the outer face.
 
 ## Dive Profile
 
-Begin at the reef crest at 5 meters and follow the wall downward. The most productive pygmy seahorse habitat is between 15–20 meters — ask the guide to show you the resident sea fans before descending further. The wall continues to 25+ meters with dramatic drop-off perspectives. Return to the top of the wall and finish the dive in the shallow hard coral garden; torch work near the reef crest reveals nudibranchs and small crustaceans invisible in ambient light alone.
+The dive begins on the northern tip of Friwen Bonda island, descending the outer wall and moving south-westerly through the channel. The upper section of the wall at 6–15 metres holds the best gorgonian and pygmy seahorse habitat. The wall continues to 25 m+ before giving way to the sloping reef. The channel section provides shelter from strong outer-face currents and is good for macro exploration.
 
 ## Entry and Exit
 
-Accessed by boat from liveaboards or day trips from Friwen Island homestays. Entry by back roll or giant stride. The wall's crest makes for an easy reference point throughout the dive. Surface in calm water on the island's lee side; deploy SMB before ascending from the wall face.
-
-## Tips and Recommendations
-
-- Ask your guide specifically for pygmy seahorse locations — they are tiny (2 cm) and impossible to find without local knowledge
-- A macro lens and dive torch are essential for the wall crevice life
-- Buoyancy must be excellent — the pristine coral is irreplaceable
-- Depths beyond 20 meters consume air rapidly in the excitement; monitor gauges carefully
-- The shallow reef top at 3–5 meters is outstanding for a final drift before surfacing
-
-## Safety Considerations
-
-The exposed wall face can experience surge and current. Monitor depth carefully — the wall drop-off offers no depth floor reference and divers can drift deeper than planned. Carry an SMB and ascend along the wall rather than ascending in open water. Decompression emergencies require evacuation to Sorong; plan conservative profiles.
-
-## Photography
-
-Friwen Bonda rewards both macro and wide-angle shooters. Pygmy seahorses demand a macro lens, patience, and a steady hand. Wide-angle shots looking up the wall face with diver silhouettes against the blue water create dramatic compositions. The pristine hard coral gardens at the top of the wall are exceptional for coral reef photography.
+Boat access from Friwen Island homestays or liveaboards. Entry at the northern tip of Friwen Bonda island. Deploy SMB on ascent; the channel section has surface current. The sheltered lee side of the island provides calm exit conditions.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine — Friwen Bonda Feature](https://www.scubadiving.com/exotic-scuba-diving-site-dampier-strait-friwen-bonda-island-raja-ampat-indonesia), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Meridian Adventure — Friwin Islands](https://raja.meridianadventuredive.com/blog/the-renowned-friwin-islands/), [La Galigo Liveaboard — Friwen Dive Site](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/friwen/), [Papua Diving — Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/). Last updated 2026-06-28.*

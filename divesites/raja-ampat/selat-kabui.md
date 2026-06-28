@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Selat Kabui
 
-Selat Kabui — "Kabui Passage" or "Kabui Strait" — is one of Raja Ampat's most scenic drift dive experiences: a narrow, jungle-fringed channel between Waigeo and Gam Island where divers drift gently on the tidal flow past limestone karst walls, mangrove roots, and some of the most atmospheric underwater scenery in Indonesia.
+Selat Kabui — "Kabui Strait" in Indonesian — is the geographic name for the narrow passage between Waigeo and Gam Island in Raja Ampat, known to dive operators as "The Passage." This drift dive carries divers on tidal flow through a mangrove-fringed, karst-walled channel with soft corals, sea fans, and an atmosphere unlike any open-reef site in the archipelago.
+
+**Note on site identity:** The OSM dataset places two separate nodes along this waterway: "Selat Kabui" (this entry, at -0.4321515, 130.5515835) and "The Passage" (~500 m east at -0.4286672, 130.5610216). These represent two reference points along the same continuous drift passage rather than genuinely distinct dive sites. Selat Kabui is the Indonesian geographic name; "The Passage" is the dive operator name. See also: [The Passage](the-passage.md) and [Kabui Pass](kabui-pass.md).
 
 ## Overview
 
-The Kabui Passage is a famous geographic feature of Raja Ampat — a scenic, narrow waterway between Waigeo and Gam Island that is popular above water for kayaking and below water for its distinctive drift diving. The passage is framed by towering limestone karst formations draped in tropical vegetation, with mangrove roots at the water's edge above and underwater walls descending into the passage. The drift through the passage on a gentle tidal flow is relaxed and visually rich — divers are carried past varied reef wall sections, through mangrove root systems, and alongside rocky outcrops draped in soft coral and sponge. Water temperature averages 27–29°C with visibility of 8–15 meters in the passage.
+The Kabui Passage is a narrow, approximately 25-metre-wide channel connecting Kabui Bay to the Halmahera Sea, framed by towering limestone karst formations draped in tropical vegetation. Below the waterline, walls descend to around 35 metres and are colonised with soft coral, sponges, and sea fans. Visibility is typically lower than open Raja Ampat reef sites — multiple sources cite 5–10 metres — due to tannins from the mangrove system and tidal mixing of nutrients. The enclosed, sheltered character creates an ecosystem distinct from the region's famous coral reef gardens.
+
+The tidal flow is the defining feature: nutrient-rich water floods through the narrows, feeding the dense soft coral and invertebrate growth, and carrying divers in a relaxed drift past varied wall sections, rocky outcrops, and the mangrove root margins.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
+- **Location**: Between Waigeo and Gam Islands, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive (two-boat setup for linear drift)
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–15 meters (26–50 feet)
-- **Current**: Gentle to moderate tidal drift; direction-dependent on tide phase
+- **Difficulty Level**: Intermediate (requires confident drift diving; current can be strong)
+- **Maximum Depth**: 25 metres (most interest in 5–15 m range)
+- **Typical Visibility**: 5–10 metres (lower than open-reef sites)
+- **Current**: Tidal; gentle to moderate typical, can be strong; direction reverses with tide phase
 - **Best Time**: October to April
 
 ## Marine Life
 
-The passage's varied habitat — limestone walls, mangrove roots, sandy channels, and reef outcrops — supports a correspondingly diverse marine community. Raja Ampat epaulette walking sharks have been reported in the shallow mangrove edge zones. The underwater walls carry sponges, soft coral, and tunicates. Snapper and sweetlips shelter in crevices, and large groupers occupy ledges in the rocky sections. Batfish are commonly seen drifting through the passage. The mangrove root systems at the passage margins are important nursery habitat, and juvenile fish species are conspicuous.
+Multiple operator sources confirm the following species along this waterway:
+
+- **Soft corals and sea fans**: The defining feature — giant orange sea fans and large purple sponges confirmed by multiple sources
+- **Pygmy seahorses**: Denise's and Bargibanti pygmy seahorses confirmed by operator reports
+- **Nudibranchs and flatworms**: Confirmed across multiple sources
+- **Wobbegong sharks**: Confirmed in the passage
+- **Turtles**: Confirmed
+- **Fusiliers, moray eels, sweetlips, snapper**: Confirmed
+- **Archer fish**: Hunting insects from the overhanging mangroves, confirmed by Papua Diving
+- **Epaulette (walking) sharks**: Reported in shallow mangrove-margin zones, primarily at night
+
+Barracuda, reef sharks, and occasional manta or eagle rays have been reported. Mantas are described as rare/opportunistic, not a reliable sighting.
 
 ## Dive Profile
 
-The dive is a linear drift from the upcurrent end of the passage to the designated exit point. Depths vary from 5 meters alongside the passage walls to 20–25 meters in the channel center. Stay shallower (5–15 meters) to enjoy the wall features and avoid drifting into the deeper, less interesting channel floor. The guide sets the pace based on current speed. The passage's scenery is part of the experience — enjoy the topside karst landscape through the surface as you drift.
-
-## Entry and Exit
-
-Boat access with a two-boat setup — entry boat drops divers at the upcurrent end of the passage, exit boat waits at the downcurrent end. Entry timing is coordinated with the guide based on current phase. Deploy SMB approaching the exit to signal the pickup boat.
-
-## Tips and Recommendations
-
-- Check tidal timing with the guide — the drift direction reverses completely with the tide
-- Selat Kabui is as spectacular above water as below — look up through the surface at the limestone karst
-- The narrow passage creates photographic framing opportunities unlike open-water reef sites
-- Visibility is lower than open Dampier Strait sites due to mangrove tannins and passage sediment — manage expectations
-- The mangrove root margins in very shallow water are worth a slow look for juvenile fish and possibly walking sharks
+Linear drift from the upcurrent end to the exit point. Most interest in the 5–15 metre range along the walls and root zones. Current direction reverses completely with tide phase — tidal timing is critical; always confirm direction and timing with your guide before entry.
 
 ## Safety Considerations
 
-The tidal drift is gentle but must be respected — drift direction reverses with tide phase, so tidal timing is essential for the correct drift direction. The narrow passage means boat navigation requires caution. Divers must not surface in the passage until reaching the designated exit point. Carry an SMB. Rocky karst walls in shallow sections can create surge.
+Tidal current must be respected. Ascent mid-passage is not always practical — plan to reach the exit before surfacing. Carry an SMB.
 
-## Photography
-
-Selat Kabui's above-and-below visual character makes it outstanding for wide-angle reef-to-surface photography. Shooting upward through the water surface to capture the limestone karst against the sky is a signature composition available nowhere else in Raja Ampat. Underwater wall photography along the passage sides captures the soft coral and sponge communities. A wide-angle lens (10–17mm or 14–24mm) is the primary tool; macro is secondary on this scenic drift.
+**Saltwater crocodile warning:** ScubaBoard documented a resident saltwater crocodile in the Kabui Passage (October 2018). A fatal attack on a tourist was reported in 2016. Confirm current safety status with your operator before diving; this is a documented site-specific risk.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Original Diving - The Passage](https://www.originaldiving.com/far-east/indonesia/dive-raja-ampat/diving-passage-dive-site), [Papua Explorers - The Passage and Gam Island](https://www.papuaexplorers.com/the-passage/), [DiveConcepts - The Passage Raja Ampat](https://diveconcepts.com/the-passage-raja-ampat), [Papua Diving - Raja Ampat Activities](https://papua-diving.com/activities/), [ScubaBoard - Crocodile Encounters in Raja Ampat](https://scubaboard.com/community/threads/crocodile-encounters-in-raja-ampat.475962/page-3). Last updated 2026-06-28.*
