@@ -1582,7 +1582,9 @@
             "notes": "Manta taxonomy updated Manta alfredi→Mobula alfredi (current taxonomy); oceanic mantas NOT at Sangalaki confirmed; Big Fish Country depth 30→20m; Kelapa Dua thresher shark corrected to Alopias pelagicus + ISRA citation added; Blue Light Cave 65m contextualized as technical exit; Gorgonzola newly validated (3+ sources); Kakaban/Sangalaki island separation confirmed correct throughout"
           }
         }
-      }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/104",
+      "errors": []
     }
   ]
 }
