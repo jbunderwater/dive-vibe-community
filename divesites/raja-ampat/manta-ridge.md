@@ -2,8 +2,8 @@
 name: Manta Ridge
 lat: -0.5617019
 lng: 130.537349
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -13,36 +13,51 @@ addedBy: osm_import
 
 ## Manta Ridge
 
-Manta Ridge is one of Raja Ampat's dedicated manta ray encounter sites, located in West Papua, Indonesia. The ridge's position in an area of strong upwelling creates a reliable cleaning and feeding station where oceanic manta rays (Mobula birostris) and reef manta rays (Mobula alfredi) congregate year-round.
+Manta Ridge is one of Raja Ampat's most reliable manta ray cleaning stations, located between Mansuar and Arborek islands in the Dampier Strait. Both oceanic manta rays (Mobula birostris) and reef manta rays (Mobula alfredi) visit the ridge's cleaning stations, sometimes in groups of 5 to 30 individuals.
+
+**Note on difficulty/depth:** The OSM data records this site at depth 5–20 m and difficulty Intermediate. Multiple independent operator sources confirm the reef slope drops below 40 metres and that strong multi-directional currents — including frequent downcurrents on ascent — make this an Advanced site requiring reef hooks. The OSM tags are inconsistent with on-the-ground conditions.
 
 ## Overview
 
-The site consists of a sloping ridge running through relatively shallow water, making it well-suited for extended observation time without deep-water decompression concerns. Divers typically position themselves low on the reef while mantas circle overhead at the cleaning stations, where wrasse and other cleaner fish pick parasites from the rays' undersides.
+Manta Ridge is a sloping reef ridge positioned between Mansuar Island and Arborek Island in the central Raja Ampat archipelago. The ridge's position in a channel creates the strong tidal currents that drive this site — the same currents that concentrate plankton and the cleaner organisms that attract mantas to the cleaning stations, which operate as shallow as 6 metres.
 
-On current-rich days, mantas may be seen filter-feeding in the water column, performing slow barrel rolls with their cephalic fins extended to funnel plankton. Multiple mantas are commonly present simultaneously. The surrounding reef is carpeted in hard corals and encrusting sponges, with good populations of reef fish along the ridge crest.
+Multiple sources confirm manta sightings year-round, with October to April considered peak season. Groups of 5 to 30 mantas have been documented at the cleaning stations. Some all-black oceanic mantas have been reported here, which is unusual globally.
 
-Visibility averages 15–25 metres. Water temperatures range from 27–30°C. Currents can run moderately strong, making buoyancy control important to avoid disturbing the mantas or the reef.
+Visibility typically reaches 20–30 metres. Water temperature is approximately 29°C.
+
+## Site Information
+
+- **Location**: Between Mansuar Island and Arborek Island, Dampier Strait, Raja Ampat
+- **Entry Type**: Boat dive
+- **Site Type**: Reef slope with cleaning station
+- **Difficulty Level**: Advanced (strong multi-directional currents, frequent downcurrents; reef hook required)
+- **Maximum Depth**: Below 40 metres (cleaning station action 6–17 m)
+- **Typical Visibility**: 20–30 metres
+- **Current**: Strong to very strong in all directions; downcurrents frequent on ascent
+- **Best Time**: October to April (year-round possible)
 
 ## Marine Life
 
-- Oceanic manta rays and reef manta rays at cleaning stations
-- Wrasse and small cleaner fish servicing the mantas
-- Dense schools of anthias and fusiliers over the ridge
-- Reef sharks occasionally passing through deeper water
-- Hard coral gardens along the ridge crest
+The following species are confirmed at Manta Ridge by multiple independent sources:
+
+- **Oceanic and reef manta rays** (Mobula birostris / Mobula alfredi): Primary draw; cleaning station groups of 5–30 confirmed
+- **Blacklip butterflyfish**: Confirmed cleaner species at the manta cleaning stations
+- **Cleaner wrasse**: Confirmed attending mantas at the cleaning stations
+- **Moon wrasse and leopard wrasse**: Confirmed
+- **Bumphead parrotfish**: Confirmed by multiple sources
+- **Blacktip reef sharks**: Confirmed in deeper water on the reef slope
+- **Sea turtles**: Confirmed regularly
+- **Golden trevallies, cobias, remoras**: Confirmed associated with mantas
+- **Yellow pilot fish**: Confirmed
+- **Spotted rays**: Confirmed
 
 ## Dive Profile
 
-Divers descend to 10–18 metres on the ridge and hold position, minimising movement to avoid startling the mantas. Patience is rewarded with prolonged close encounters. The dive rarely exceeds 20 metres, allowing long bottom times. Entry and exit are by boat.
+Entry at the ridge top and swim west keeping the reef on the right side, then reef hook in at the cleaning station zone (typically 6–17 m) to observe the manta display from a stationary position. Avoid the southern slope which is subject to dangerous downcurrents, particularly during ascent. Bottom time on the ridge is extended by the shallow cleaning station depth, allowing long observations. Ascend carefully, watching for down-current.
 
-## Practical Information
+## Safety Considerations
 
-- **Depth range**: 5–20 m
-- **Visibility**: 15–25 m
-- **Current**: Mild to moderate
-- **Best time**: October–April; mantas present year-round
-- **Water temperature**: 27–30°C
-- **Entry**: Boat
+This is an Advanced site. Strong multi-directional currents, including downcurrents on ascent, make this dangerous for inexperienced divers. A reef hook is not optional — it is required to hold position and watch the mantas without fighting current. Downcurrents on the southern slope require active monitoring during ascent. Always dive with a knowledgeable local guide.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard - Manta Ridge](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/manta-ridge/), [DiveConcepts - Manta Ridge Raja Ampat](https://diveconcepts.com/manta-ridge-raja-ampat), [Raja Ampat Dive Experience - Manta Ridge](https://rajaampatdiveexperience.com/dive-site/manta-ridge), [Raja Ampat Biodiversity Resort - Manta Ridge](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/). Last updated 2026-06-28.*

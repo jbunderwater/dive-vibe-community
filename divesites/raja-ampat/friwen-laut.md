@@ -2,7 +2,7 @@
 name: Friwen Laut
 lat: -0.4744472
 lng: 130.7000962
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -13,49 +13,43 @@ addedBy: osm_import
 
 ## Friwen Laut
 
-Friwen Laut — "offshore Friwen" or "sea Friwen" — is the open-water reef site adjacent to Friwen Island in northern Raja Ampat, offering good exposure to Raja Ampat's typical currents and the pelagic visitors they attract, complementing the calmer diving of Friwen Garden nearby.
+Friwen Laut — "offshore Friwen" or "sea Friwen" in Indonesian — is a gently sloping reef adjacent to Friwen Island, best known for its endemic Papuan garden eels and its accessibility to all diver levels including beginners and snorkellers.
 
 ## Overview
 
-While Friwen Bonda (outer wall) and Friwen Garden (inner slope) are the most celebrated sites on Friwen Island, Friwen Laut provides an offshore reef option with slightly more current exposure and the associated fish life that comes with that. The site sits where tidal flow sweeps across the outer reef, bringing nutrients and attracting schools of jacks, fusiliers, and the occasional larger pelagic. Coral cover is healthy, with hard coral dominating the upper reef and soft coral and sea fans more prevalent at depth. Water temperature averages 27–29°C with visibility of 15–20 meters.
+Friwen Laut is the calmer counterpart to the exposed wall and current point of the other Friwen Island sites. The reef slopes from around 3 metres at the crest to 25 metres at depth, with mild to negligible currents and easy conditions. The site is snorkeller-friendly at its shallowest sections. Visibility averages 15–20 metres and water temperature holds at 27–29°C.
+
+The defining feature of Friwen Laut is its population of **Papuan garden eels** (*Heteroconger mercyae*), an endemic species described to science in 2009 that is found only in Raja Ampat. These eels emerge from sandy patches between coral heads and sway in the current — a unique sight not found at most other dive sites globally. The reef also provides typical Friwen area biodiversity in a relaxed, current-free setting.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Moderate; more exposed than inner Friwen sites
+- **Site Type**: Sloping reef
+- **Difficulty Level**: All levels (beginner-accessible; snorkeller-friendly in shallows)
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 15–20 metres
+- **Current**: Mild to none; more sheltered than other Friwen sites
 - **Best Time**: October to April
+- **Water temperature**: 27–29°C
 
 ## Marine Life
 
-The more exposed position of Friwen Laut compared to the sheltered inner reef sites brings better pelagic action. Schools of bigeye trevally and fusiliers work the current. Grey reef sharks and white-tip sharks patrol the reef edge. Hawksbill turtles are a regular sight. The reef itself supports the full complement of Friwen area fish life — butterflyfish, parrotfish, surgeonfish, anthias, and a solid nudibranch population in the reef's encrusting sections.
+Confirmed species at Friwen Laut:
+
+- **Papuan garden eels** (*Heteroconger mercyae*) — endemic to Raja Ampat, found in sandy patches on the reef; the defining species of this site
+- Ribbon eels (confirmed at this site by two independent sources)
+- Blue-spotted stingrays
+- Diverse macro organisms in the coral
+- Typical Friwen area reef fish
 
 ## Dive Profile
 
-Enter the water on the upcurrent side and follow the reef with the current. The reef crest at 5–10 meters offers the best fish activity; the reef slope down to 20–25 meters has more soft coral and macro life. Use a gentle drift along the reef to cover ground efficiently, following the guide's orientation. Finish the dive in the shallows with a comfortable safety stop.
+The reef slopes gently from 3 metres to 25 metres. The sandy patches between coral heads are where the endemic garden eels are found — approach slowly and low to avoid startling them into their burrows. The shallower sections are excellent for snorkelling and photography in natural light. A relaxed pace through the reef rewards macro exploration.
 
 ## Entry and Exit
 
-Boat access from Friwen Island homestays or liveaboards. Entry via giant stride. Current assessment before entry is important — if the flow is moderate, drift diving the reef is straightforward. If very strong, the dive plan should be adjusted. Deploy SMB on ascent.
-
-## Tips and Recommendations
-
-- Friwen Laut works best as part of a Friwen Island multi-dive day alongside Bonda and Garden
-- The current exposure makes it slightly more advanced than the inner sites — assess conditions with your guide
-- Pelagic action is best timed to coincide with moderate incoming tidal flow
-- A reef hook is useful if you want to hold position and watch the schooling fish without fighting current
-
-## Safety Considerations
-
-More current exposure than sheltered Friwen sites — assess conditions carefully. Carry an SMB; the open-water location means boat pickup requires an SMB signal. Stay close to the reef edge for orientation.
-
-## Photography
-
-Good wide-angle site for schooling fish and reef fish portrait photography. The open water adjacent to the reef allows diver/marine-life compositions with blue water backgrounds. Soft coral close-focus wide-angle at depth is productive on the deeper sections.
+Boat access from Friwen Island homestays or liveaboards. Approximately 8 minutes by boat from nearby resorts. Easy conditions make entry and exit straightforward. Friwen Laut is often combined with Friwen Garden and Friwen Bonda for a multi-dive Friwen Island day.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [La Galigo Liveaboard — Friwen Dive Site](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/friwen/), [Divernet — Papuan Garden Eel](https://divernet.com/scuba-news/the-papuan-garden-eel/). Note: only 3 site-specific sources found; species list is limited to confirmed sightings at this specific site. Last updated 2026-06-28.*

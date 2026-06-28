@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Fam Wall
 
-Fam Wall is a pristine vertical wall along the Fam Islands in southern Raja Ampat — a remote, lightly dived site offering classic wall diving with extraordinary reef coverage and the bonus of nocturnal walking shark encounters in the shallows.
+Fam Wall — also known as Keruwo Channel — is a channel drift dive on the east side of Keruo Island in the Penemu area of Raja Ampat. The channel runs between Keruo and Keruwo islands, and the wall faces are blanketed in gorgonian sea fans, hard and soft corals, and sponges.
 
 ## Overview
 
-The Fam Islands are among Raja Ampat's least-visited diving areas, and Fam Wall's remoteness ensures the marine life here remains largely undisturbed. The wall drops from a reef crest at 3–5 meters to beyond recreational limits, its surface covered in hard and soft coral, sea fans, and encrusting sponges in a spectrum of colors. The wall's protected location in the archipelago means conditions are often calmer than the exposed Dampier Strait sites. Water temperature averages 27–29°C with visibility of 15–25 meters. At night, the reef flat above the wall becomes a hunting ground for epaulette sharks — raja Ampat's remarkable walking sharks — which patrol the shallows after dark.
+The site is primarily experienced as a drift dive, with tidal current running through the channel between islands. The direction of drift varies with the tide: on a falling tide divers enter from the north end; on a rising tide they start from the south. The wall is a single continuous structure with some steep slope sections, running for several hundred meters. Visibility is typically around 15 meters; water temperature averages 27–29°C. The site is recommended for intermediate to experienced divers due to medium to strong currents. A shallow area at either end of the channel (around 5 meters) suits photography and safety stops. Gorgonian sea fans are the defining structural feature, providing habitat for pygmy seahorses among other species.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Location**: East side of Keruo Island, Penemu area, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive (drift pickup)
+- **Site Type**: Wall / channel drift dive
+- **Difficulty Level**: Intermediate to experienced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Typically mild; can moderate on tidal flow
-- **Best Time**: October to April; night dives recommended for walking sharks
+- **Typical Visibility**: ~15 meters
+- **Current**: Medium to strong; direction reverses with tide
+- **Best Time**: October to April
 
 ## Marine Life
 
-The wall's upper zone (5–15 meters) hosts dense hard coral coverage with a rich mix of reef fish — butterflyfish, angelfish, wrasse, and parrotfish in abundance. Deeper on the wall (15–25 meters), sea fans, barrel sponges, and soft coral provide habitat for larger species including white-tip reef sharks, hawksbill turtles, and occasionally bumphead parrotfish. The distinctive highlight of Fam Wall is the epaulette shark (Hemiscyllium sp.) — these walking sharks become active on the reef flat after dark, using their pectoral and pelvic fins to walk across exposed rock and coral in search of prey. A torch dive at dusk or night reveals these extraordinary animals in their element.
+The following species have been documented at this site by operator sources:
+
+Pygmy seahorse (on gorgonian fans), barracuda, blacktip reef sharks, midnight snapper, angelfish, spadefish, hawkfish, giant trevally, soldierfish, manta rays, octopus, Phyllidia carlsonhoffi nudibranch, green turtles, moray eels, wrasse, ghost pipefish. Mandarin fish have been reported by one source at dusk in the shallow sections — this is a single-source claim.
+
+Note: Epaulette (walking) sharks are documented broadly across the Keruo/Penemu area of Raja Ampat, but no source specifically confirms them at this named site. The prior description attributing walking sharks to Fam Wall specifically has been removed as unconfirmed at this site.
 
 ## Dive Profile
 
-Daytime: begin at the reef crest and work along the wall, descending to 20–25 meters on the deeper section before ascending slowly and spending time on the coral gardens at 8–12 meters. Night dive: deploy on the reef flat in 2–5 meters of water and search methodically with torches, watching for epaulettes moving through the shallows. Their distinctive leopard-spotted pattern makes them unmistakable when the torch beam finds them.
+Enter upstream and drift along the wall at 10–25 meters. The current does most of the work; divers manage depth and reef distance. Ascend to the shallow sections (5 meters) at the channel exit for safety stop and boat pickup. The boat follows the bubble trail and collects divers at the downstream end.
 
 ## Entry and Exit
 
-Access by liveaboard tender — the Fam Islands are 3–4 hours from Sorong and beyond the range of most day-trip operations. Entry by giant stride or back roll in calm conditions. Night diving requires good torch management and a close group. Exit to the tender with an agreed surface signal.
+Access by liveaboard tender or day-trip boat from nearby resorts. Entry by giant stride or back roll. The drift character means exit is at the downstream end of the channel, not the entry point — confirm pickup arrangements with your boat before descending.
 
 ## Tips and Recommendations
 
-- Book a night dive specifically to observe epaulette sharks walking — this behavior is unique and unmissable
-- During the day, look under ledges and in crevices for resting epaulettes
-- The Fam Islands receive very little dive pressure, so be especially careful about buoyancy
-- Ask your liveaboard guides about the specific walking shark locations — they know them well
-- Carry a compass bearing along the wall to maintain orientation in low light at depth
-
-## Safety Considerations
-
-The wall's drop-off means depth management is essential. Night diving adds complexity — all divers must carry a primary torch and backup, and stay within visual contact of the guide. In a remote location like the Fam Islands, emergencies require significant evacuation time; plan conservative dive profiles.
-
-## Photography
-
-Epaulette shark photography at night is the signature opportunity at Fam Wall. A macro lens on a port or a 60mm equivalent with close-focus capability captures the shark's intricate spotted patterning. Wide-angle wall photography during the day is outstanding — the pristine coral coverage and dramatic depth perspective make compelling shots. The remote location means encounter photographs are rarely crowded with other divers in the background.
+- Check tidal timing with your guide — the site dives best on running current
+- The gorgonian sea fans are the prime habitat for pygmy seahorses; search them carefully
+- Intermediate divers should stay close to the wall to use eddies as current breaks
+- The shallow ends offer excellent photography in calmer water
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard - Keruo Channel](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/keruo-channel/), [The Scuba Directory - Fam Wall](https://thescubadirectory.com/divesiteprofile/Fam-Wall-Raja-Ampat-Indonesia-Dive-Site), [Dive Concepts - Fam Islands](https://diveconcepts.com/fam-islands-raja-ampat), [DiveSSI/Scubago - Fam Wall](https://www.divessi.com/en/mydiveguide/divesite/452163), [Papua Paradise - Fam Islands Diving](https://www.papuaparadise.com/news/diving-raja-ampat-the-fam-islands/). Last updated 2026-06-28.*

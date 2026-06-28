@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Blue Magic
 
-Blue Magic is widely regarded as one of the finest dive sites in Raja Ampat — a submerged pinnacle in the Mansuar area of the Dampier Strait that delivers world-class pelagic action alongside breathtaking soft coral density.
+Blue Magic is widely regarded as one of the finest dive sites in Raja Ampat — a submerged pinnacle in the central Dampier Strait, between Kri Island and Waigeo, that delivers world-class pelagic action alongside an extraordinary concentration of reef life.
 
 ## Overview
 
-Rising from the depths in the central Dampier Strait, Blue Magic is an exposed oceanic pinnacle that channels powerful currents and attracts an extraordinary concentration of marine life. Schools of chevron barracuda, trevally, and batfish swirl in formation around the pinnacle's summit, while manta rays and wobbegong sharks are regular visitors. The structure itself is smothered in dense soft coral growth — orange, purple, and red sea fans festoon every surface. Visibility is typically 20–30 meters in ideal conditions, with water temperatures of 27–29°C. This is a site that rewards experience: currents can be fierce and the action intense.
+Rising from the depths of the Dampier Strait, Blue Magic is an exposed oceanic pinnacle that channels powerful currents and attracts a remarkable density of marine life. The pinnacle top sits at around 7–8 metres, dropping to 30 metres at its base. Schools of barracuda, jacks, and sweetlips swirl in formation around the summit, while oceanic manta rays visit the cleaning stations on the pinnacle's upper flanks — encounters reported on roughly 8 out of every 10 dives by regular visitors. Tasselled wobbegong sharks rest motionlessly in crevices and under ledges throughout the pinnacle structure. Visibility is typically 15–30 metres, with water temperatures of 28–30°C. This is a site for experienced divers: currents can be strong and direction-changing, and the open-ocean environment demands confident buoyancy skills.
 
 ## Site Information
 
@@ -26,37 +26,38 @@ Rising from the depths in the central Dampier Strait, Blue Magic is an exposed o
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
-- **Current**: Strong, direction-changing; best dived at slack or on gentle flow
+- **Pinnacle Top**: approximately 7–8 meters
+- **Typical Visibility**: 15–30 meters (50–100 feet)
+- **Current**: Strong, direction-changing; best dived on incoming flow or slack
 - **Best Time**: October to April; pelagic action peaks on incoming currents
 
 ## Marine Life
 
-Blue Magic delivers a multi-layered experience. In the water column above the pinnacle: large schools of chevron barracuda forming spiraling tornadoes, golden trevally, batfish in dense aggregations, and occasional oceanic mantas cruising through. On the pinnacle itself: ornate wobbegong sharks rest motionlessly on ledges, tasselled wobbegongs drape over soft coral, and the structure teems with anthias, butterflyfish, and hawksbill turtles. Pygmy seahorses are found in the sea fans on the deeper flanks. Spanish mackerel and grey reef sharks patrol the blue water beyond the pinnacle edge.
+Blue Magic delivers a multi-layered experience. In the water column above the pinnacle: large schools of barracuda, giant trevally, dog-toothed tuna, and Spanish mackerel, plus both reef and oceanic mantas that circle the summit and visit the cleaning stations. On the pinnacle itself: tasselled wobbegong sharks rest in crevices and under coral ledges; bumphead parrotfish, snappers, sweetlips, and jack fish are present in numbers; sea fans on the deeper flanks shelter pygmy seahorses. Grey reef, whitetip reef, and blacktip reef sharks patrol the mid-water around the structure. Porcelain crabs, peacock mantis shrimp, nudibranchs, and octopus are confirmed on the pinnacle surface.
 
 ## Dive Profile
 
-Dive Blue Magic during an incoming current for the best pelagic action. Descend quickly to the pinnacle top at around 12 meters and hold position while the schools swirl overhead. Work your way around the summit, then descend the flanks to 20–25 meters to inspect the soft coral gardens and look for wobbegongs and pygmy seahorses in the sea fans. Ascend slowly, spending time at 10–15 meters where the schooling fish activity is highest. Allow time for a 3-minute safety stop — deploy your SMB here.
+Descend quickly to the pinnacle top at around 7–8 metres and hold position as schools swirl overhead. Work your way around the summit, then descend the flanks to 20–25 metres to inspect the sea fan gardens and look for tasselled wobbegongs and pygmy seahorses. Ascend slowly, spending time at 10–15 metres where schooling fish activity is highest. Deploy your SMB for the 3-minute safety stop — strong currents mean boat pickup requires drifters to be visible from the surface.
 
 ## Entry and Exit
 
-Access by boat only — typically a liveaboard or day-trip tender from Mansuar. Entry via back roll or giant stride into the current. The site requires drifting to the mooring line or following the guide's lead on the approach. Strong currents mean pick-up by tender is essential; never surface without your SMB deployed.
+Access by boat only — typically a liveaboard or day-trip tender. Entry via back roll or giant stride into the current. Strong currents mean surface pickup by tender is essential; never surface without your SMB deployed.
 
 ## Tips and Recommendations
 
-- Dive during an incoming current for maximum fish action
-- Master your buoyancy before this dive — hard coral structures are fragile and current work is essential
-- Hook into the reef only where designated; always use a reef hook, never coral
-- Stay shallower than 25 meters to conserve air for the extended mid-water pelagic zone
-- Carry a reef hook and a powerful torch — wobbegongs hide in dark crevices
+- Dive during an incoming current for maximum manta and pelagic action
+- Master your buoyancy before this dive — current work is essential
+- Use a reef hook only on bare rock where designated; never hook on coral
+- Stay shallower than 25 metres to conserve air for the mid-water pelagic show
+- Carry a torch — tasselled wobbegongs hide in dark crevices and overhangs
 
 ## Safety Considerations
 
-Blue Magic is for experienced, current-competent divers only. Currents can reverse without warning and can carry divers away from the pinnacle rapidly. Never dive this site without a guide who knows the tidal timing. Carry an SMB and whistle. Boats must maintain a dedicated dive watch for surfacing divers. Depth management is critical — the blue water beyond the pinnacle wall offers no depth reference.
+Blue Magic is for experienced, current-competent divers only. Currents can reverse without warning and can carry divers rapidly away from the pinnacle. Never dive without a guide who knows the tidal timing. Carry an SMB and whistle. Boats must maintain a dedicated dive watch for surfacing divers. Depth management is critical — the open blue beyond the pinnacle provides no depth reference.
 
 ## Photography
 
-Blue Magic is a wide-angle photographer's dream. The schooling barracuda form perfect tornado formations that photograph beautifully shooting upward with available light. Soft coral macro at 20–25 meters offers dramatic close-up subjects against vivid backgrounds. Bring both a wide-angle zoom and a dedicated macro port to cover all opportunities.
+Blue Magic rewards wide-angle work: schooling jacks and barracuda photograph best shooting upward with available light. Tasselled wobbegong portraits at 15–25 metres require a torch for subject illumination. Manta encounters on the cleaning station at the summit are the site's most coveted photographic subject. Pygmy seahorses on the sea fans reward a 100mm macro lens on the deeper flanks.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Blue Magic Raja Ampat](https://papua-diving.com/blue-magic-raja-ampat/), [La Galigo Liveaboard — Blue Magic Dive Site](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/blue-magic/), [Remote + Afloat — Diving Blue Magic](https://remoteandafloat.com/diving-blue-magic-in-raja-ampat/), [DiveConcepts — Blue Magic Raja Ampat](https://diveconcepts.com/blue-magic-raja-ampat). Last updated 2026-06-28.*

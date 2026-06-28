@@ -2,8 +2,8 @@
 name: Sardine Reef
 lat: -0.5333183
 lng: 130.7139487
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,50 +13,64 @@ addedBy: osm_import
 
 ## Sardine Reef
 
-Sardine Reef is a pinnacle site in the eastern Dampier Strait where the defining spectacle is a living wall of sardines and fusiliers surrounding the structure — a bait ball so dense it literally dims the light as it passes overhead.
+Sardine Reef is a submerged oval-shaped pinnacle off the northeastern tip of Kri Island, named by dive pioneer Max Ammer after his first dive there — he described the experience of being enveloped by such dense schools of fish that it felt like being packed tightly inside a can of sardines. The pinnacle is one of the most consistently productive dive sites in the Dampier Strait.
 
 ## Overview
 
-The name says it all. Sardine Reef's submerged pinnacle rises to within 5 meters of the surface and has become a reliable aggregation point for massive schools of sardines (Sardinella sp.) and mixed fusiliers that circle the structure in formations thousands-strong. These bait balls attract predators — tuna, trevally, and reef sharks work the school's edges while dive hawks and frigate birds wheel above the surface above. Below, the pinnacle itself offers colorful hard and soft coral cover with a typical Raja Ampat complement of resident reef fish. Visibility is typically 15–20 meters and water temperature averages 27–29°C.
+The pinnacle rises from a base at around 30 metres to a summit just 5 metres below the surface. It is oval in shape, approximately 200 metres long, and its position in the Dampier Strait current concentrates plankton that feeds the extraordinary density of fish life around the structure. Different currents converge at the site, and conditions can change rapidly between dives. The site is best dived as a drift dive on a falling east–west current, when visibility reaches 30 metres or more.
+
+Despite the name, the schooling phenomenon is driven primarily by fusiliers, bannerfish, surgeonfish, and snappers — not literal sardines. The fish school so densely around the pinnacle summit that the visual effect matches Ammer's original description. Strong variable currents make this an advanced-rated site.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Moderate; schooling intensity increases with moderate tidal flow
-- **Best Time**: October to April; sardine aggregations strongest in calm season
+- **Location**: Northeast of Kri Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive; 10–15 minutes from nearby resorts
+- **Site Type**: Pinnacle / submerged seamount
+- **Difficulty Level**: Advanced (intermediate divers with drift experience acceptable)
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 20–30+ metres (excellent in good conditions)
+- **Current**: Strong, variable; different currents converge at this site
+- **Best Time**: October to April; schooling activity consistent year-round
 
 ## Marine Life
 
-Sardines and blue-backed fusiliers dominate the water column above and around the pinnacle in spectacular density — schools of tens of thousands that swirl, compress, and expand in response to the trevally and tuna working their edges. Giant trevally, bigeye trevally, and dog-tooth tuna conduct coordinated attacks on the bait ball. Grey reef sharks patrol the perimeter. On the pinnacle itself, large groupers, napoleon wrasse, and hawksbill turtles are resident. The base of the pinnacle at 15–20 meters has soft coral and sponge gardens with nudibranchs and flatworms for those with macro interests.
+Confirmed species at Sardine Reef:
+
+**Schooling fish:**
+- Fusiliers (dominant species; massive, dense schools)
+- Bannerfish and pennant fish
+- Surgeonfish and damsels
+- Snappers and rainbow runners
+- Oriental sweetlips, triggerfish, and batfish
+- Bumphead parrotfish (large schools confirmed)
+
+**Predators:**
+- Giant trevally and bluefin jacks
+- Barracuda
+- Spanish mackerel and dogtooth tuna
+- Blacktip reef sharks
+- Whitetip reef sharks
+- Grey reef sharks
+- Wobbegong sharks (tasselled wobbegong; unusual for a pinnacle site)
+- A ScubaBoard first-person trip report documents 15 sharks of 4 different species in a single dive
+
+**Napoleon wrasse** and moray eels on the pinnacle flanks
+
+**Macro (on gorgonian fans and soft coral at depth):**
+- Three pygmy seahorse species confirmed: Denise's pygmy seahorse, Bargibanti pygmy seahorse, and Pontohi pygmy seahorse
+- Long-nosed hawkfish / freckled hawkfish
+- Nudibranchs and flatworms
+- Lionfish
+
+The pinnacle flanks at 10–30 metres are covered in colourful soft coral, huge gorgonian fans, black coral bushes, large coral bommies, and orange elephant ear sponges.
 
 ## Dive Profile
 
-Descend to the pinnacle top at 5–8 meters and immediately take stock of where the sardine school is concentrated. If the ball is tight and predators are working it, stay at the school's level and watch the hunting behavior unfold. Position below the ball to look up through it against the light — the sensory experience of being surrounded by thousands of fish is extraordinary. Explore the pinnacle flanks at 10–20 meters after time with the school. The school's density often increases and decreases through the dive as predators disperse and regroup it.
+Approach the pinnacle from the upcurrent side and descend to the summit at 5–8 metres. The fish schools are most intense at the summit and upper flanks — spend time here before descending. The pinnacle flanks at 15–30 metres carry the gorgonian fans with pygmy seahorses; a torch helps reveal macro subjects in the coral. Drift around the structure following the current. Deploy SMB at 5 metres; surface pickup by boat.
 
 ## Entry and Exit
 
-Boat access from liveaboards or eastern Dampier Strait operators. The shallow pinnacle top is easily found. Entry via giant stride. Surface conditions are typically calm in this location. Deploy SMB on ascent.
-
-## Tips and Recommendations
-
-- Approach the bait ball slowly and from below — shooting up through the school is the best perspective
-- Predator attacks happen fast; have camera settings pre-configured before descent
-- The sardine school can completely surround divers in a disorienting, exhilarating experience — stay calm
-- Trevally can bump divers inadvertently while chasing sardines; this is normal and not harmful
-- Mid-morning dives often offer the best light for bait ball photography
-
-## Safety Considerations
-
-No significant hazards beyond standard open-water diving protocols. Carry an SMB. The spectacle of the bait ball can be disorienting — maintain depth awareness and buddy contact throughout. Predatory fish (trevally, tuna) in hunt mode may brush past divers; they are not targeting divers but can cause unexpected contact.
-
-## Photography
-
-Sardine Reef is a wildlife spectacle photographer's dream. Wide-angle glass is essential (14–17mm on full frame). The defining shot is positioned below or inside the bait ball, shooting upward toward the surface with the school creating a tunnel or dome effect. Including a diver adds scale. A fast shutter speed (1/200 or faster) freezes the motion of individual fish within the school. Backscatter management is critical — avoid strobe angles that highlight particles in front of the sardines.
+Boat access only, primarily from liveaboards or Kri Island resorts. Current assessment before entry is critical — conditions can be variable and strong. The site is best timed for a falling east–west current for optimal conditions.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Sardine Reef](https://papua-diving.com/sardine-reef-raja-ampat-dive-site/), [Dive Concepts — Sardine Reef](https://diveconcepts.com/sardine-reef-raja-ampat), [PADI — Sardine Reef](https://www.padi.com/dive-site/indonesia/sardine-reef/), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [ScubaBoard — Sardine Reef trip report](https://scubaboard.com/community/threads/raja-ampat-dive-sites-sardine-reef-indonesia.615376/). Last updated 2026-06-28.*

@@ -2,8 +2,8 @@
 name: Friwen Garden
 lat: -0.4713256
 lng: 130.6985472
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Friwen Garden
 
-Friwen Garden is a sheltered coral garden reef off the coast of Friwen Island in northern Raja Ampat, offering a gentle, immersive dive through pristine hard and soft coral formations that exemplify the extraordinary biodiversity of the Bird's Head Seascape.
+Friwen Garden is a reef point dive on Friwen Bonda Island where a split current concentrates schooling fish and triggers active predator feeding behaviour. The site suits all levels and is sometimes combined with Friwen Wall and Friwen Laut for a full Friwen Island diving day.
 
 ## Overview
 
-Friwen Island lies in the northern reaches of Raja Ampat's core diving zone, and the garden reef on its inner-facing side offers conditions distinct from the exposed wall at Friwen Bonda on the outer coast. Here, the reef is gentler — a sloping coral garden that transitions from shallow hard coral flats to deeper soft coral and rubble zones, with manageable currents and excellent accessibility. The Friwen Island area as a whole ranks among the most species-rich locations in Raja Ampat, and the garden reflects this with standout coral coverage and fish diversity. Water temperature averages 27–29°C with visibility of 15–20 meters.
+The reef point at Friwen Garden sits where tidal flow splits around the island, pushing dense schools of fusiliers into tight formations at the reef edge. This concentration of prey fish reliably draws large trevallies, blacktip and whitetip reef sharks, kingfish, and Napoleon wrasse — creating an energetic spectacle in the shallows that contrasts with the quieter macro diving available deeper on the slope.
+
+The reef slopes from around 2 metres at the crest to 35 metres at the deepest point, though most diving activity is concentrated at 15–20 metres where the gorgonian fans — including Muricella sp. fans hosting pygmy seahorses — are found. The upper reef zone has orange gorgonian sea fans under overhangs, snappers, and blennies. Visibility averages 15–20 metres and water temperature holds at 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Typically mild; protected location
+- **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive (positive backroll at the northern tip of Friwen Bonda)
+- **Site Type**: Reef / coral garden with current point
+- **Difficulty Level**: All levels
+- **Maximum Depth**: 35 metres
+- **Typical Visibility**: 15–20 metres
+- **Current**: Mild to moderate; split current at the reef point concentrates fish
 - **Best Time**: October to April
+- **Water temperature**: 27–29°C
 
 ## Marine Life
 
-The sloping garden supports outstanding hard coral diversity with branching Acropora, massive Porites, and tabletop coral formations providing complex habitat. Fish species present include humphead parrotfish, napoleon wrasse, schools of snapper, anthias swarms above every coral head, and numerous wrasse species. Turtles are regular residents. The rubble and sand between coral heads hosts a variety of macro life — robust ghost pipefish, blue-ringed octopus, and flatworms are regularly found by experienced guide eyes. Nudibranchs are abundant throughout the dive.
+Confirmed species at Friwen Garden:
+
+- Hundreds of fusiliers schooling at the reef point in split current
+- Large trevallies hunting fusiliers at the reef edge
+- Whitetip and blacktip reef sharks
+- Kingfish (bluefin trevally)
+- Napoleon (humphead) wrasse (at 15–20 m)
+- Pygmy seahorses (Hippocampus bargibanti) on a Muricella gorgonian fan at approximately 20 m — Raja Ampat Biodiversity Eco Resort reports up to 5–12 individuals on a specific fan
+- Nudibranchs, flatworms, and blennies throughout the reef
+- Orange gorgonian fans under overhangs
+- Yellow snappers
 
 ## Dive Profile
 
-The garden dive begins in shallow water (5–8 meters) on the reef flat and works down the slope to 20–25 meters. The upper zone has the best coral cover; the lower slope transitions to more rubble and sponge. A relaxed pace through the garden is rewarded — the density of life in every direction means rushing through misses most of what the site offers. End the dive on the shallow reef flat, which is excellent for snorkeling-depth photography and a comfortable safety stop.
+Enter at the northern tip of Friwen Bonda island via positive backroll. The reef point at 5–10 metres is where the schooling fish action is most intense. Drop to 15–20 metres to inspect the gorgonian fans for pygmy seahorses with the guide's help. The slope continues to 35 metres for deeper exploration. The upper reef zone provides an easy safety stop. La Galigo Liveaboard recommends a macro lens with lighting due to shadow from the cliff face.
 
 ## Entry and Exit
 
-Accessed by boat from Friwen Island homestays or liveaboards. Entry via giant stride or from a shore platform. The protected location makes entry and exit easy in most weather conditions. Friwen Garden is sometimes combined with Friwen Bonda (the wall) or Friwen Laut (offshore reef) for a full Friwen Island diving day.
-
-## Tips and Recommendations
-
-- Pair with Friwen Bonda (outer wall) for contrasting site types on the same island
-- Carry a macro lens for nudibranch and ghost pipefish hunting on the rubble sections
-- Ask the local guide to show you the blue-ringed octopus if any have been spotted recently
-- The shallow reef top makes this a good training site for photographers working on buoyancy
-- Early morning visits before boat traffic arrives offer the most fish activity on the reef
-
-## Safety Considerations
-
-Friwen Garden is a friendly, beginner-accessible site in calm conditions. The main consideration is the shallow reef top — entry and exit positioning matters to avoid standing on coral. Standard reef diving protocols apply. Carry an SMB.
-
-## Photography
-
-Hard coral wide-angle photography is outstanding here — tabletop Acropora framing a diver in the background is a classic composition. The gentle slope provides comfortable positioning for macro work without current management challenges. Nudibranch variety is excellent and the calm conditions allow extended close-up photography.
+Boat access from Friwen Island homestays or liveaboards. Approximately 5 minutes by boat from nearby resorts. Easy entry and exit in calm conditions. Sometimes combined with Friwen Bonda (wall) or Friwen Laut (offshore reef) for a multi-dive Friwen day.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [La Galigo Liveaboard — Friwen Dive Site](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/friwen/), [Meridian Adventure — Friwin Islands](https://raja.meridianadventuredive.com/blog/the-renowned-friwin-islands/). Note: only 3 site-specific sources found; pygmy seahorse count (5–12 on specific fan) is from a single source. Last updated 2026-06-28.*

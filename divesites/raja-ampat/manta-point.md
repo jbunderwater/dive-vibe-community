@@ -32,7 +32,7 @@ Manta Point sits in the productive waters off Arborek village, where reef manta 
 
 ## Marine Life
 
-Reef manta rays are the headline attraction — multiple individuals per dive is the norm, not the exception. The cleaning station sits at 8–15 meters on a gently sloping coral reef. Beyond the mantas, the reef supports healthy populations of reef sharks, sea turtles, napoleon wrasse, and large schools of fusiliers. The coral garden leading to the station is rich in hard coral growth with resident blue-spotted stingrays resting on sandy patches.
+Reef manta rays are the headline attraction — multiple individuals per dive is the norm, not the exception. The cleaning station sits at 8–15 meters on a gently sloping coral reef. Beyond the mantas, the reef supports reef sharks and sea turtles. The Manta Trust's Raja Ampat Manta Project, which monitors this site, documents both Mobula alfredi (reef manta) and Mobula birostris (oceanic manta) in Raja Ampat waters; this site primarily sees reef mantas. The coral garden leading to the cleaning station has typical hard coral cover. Blue-spotted stingrays rest on sandy patches nearby.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents can pick up on the incoming tide and may make holding position at the c
 Manta Point is one of the finest manta photography locations on Earth. Wide-angle glass (10–17mm fisheye or 16–35mm) is ideal. Shoot looking up toward the surface to silhouette the mantas against the light, or position at the same depth for a level profile shot. Mantas circle predictably, so patience yields exceptional close-focus wide-angle images.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Manta Trust — Raja Ampat Manta Project](https://www.mantatrust.org/ramp), [Papua Diving — How to Dive with Mantas](https://papua-diving.com/how-to-dive-and-snorkel-with-mantas/), [Divernet — Manta Sandy Guide](https://divernet.com/content-marketing/local-guide-to-raja-ampat-dive-sites-manta-sandy/). Last updated 2026-06-28.*

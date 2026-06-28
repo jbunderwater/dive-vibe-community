@@ -3,7 +3,7 @@ name: Mike's Point
 lat: -0.5136831
 lng: 130.674383
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Mike's Point
 
-Mike's Point is a wall dive site in Raja Ampat, West Papua, Indonesia, named after a diver who explored the site.
+Mike's Point is a multi-topography wall dive at the eastern tip of Kerupiar Island, in the heart of the Dampier Strait. The site is named after Mike Ammer, son of Papua Diving founder Max Ammer, who explored and mapped the reef during Raja Ampat's early diving era. It is notable for distinctive crevices, caves, and overhangs that resulted from WWII Allied bombing of the island.
 
 ## Overview
 
-Mike's Point is a vertical wall dive in the central Raja Ampat area, honouring the diver who first mapped or regularly dived the site. The wall character here is classic Raja Ampat: dense encrusting growth of sponges, sea fans, and soft corals on a vertical face that plunges from the shallow reef crest into significant depth. Overhangs and crevices in the wall provide sheltered habitat for a range of invertebrates and fish, while the open water off the wall attracts larger pelagic species drawn by the current. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
+Mike's Point sits at the junction of strong Dampier Strait tidal flows between the Pacific and Indian Oceans. The south and east faces of Kerupiar Island form steep vertical walls descending to 30–40 metres. The northern side levels out to a plateau at approximately 8 metres, giving the site a mix of topographies in a single dive. The walls and overhangs carry good soft coral growth and attract both macro subjects and large pelagics.
+
+The site's defining structural feature is the result of WWII history: Allied aircraft (US Air Force) reportedly bombed Kerupiar Island during the war, mistaking the current wake around the island for a Japanese warship. The bombing created the distinctive grooves, crevices, caves, and cave-like formations visible throughout the wall today. A .50-calibre bullet with a 1942 headstamp was reportedly found near the site. The caves include a swim-through at approximately 9 metres depth. Reef hooks are no longer permitted at this site (conservation regulation, per Meridian Adventure Dive).
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Kerupiar Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-30 meters
-- **Current**: Moderate to strong, directional
-- **Best Time**: October to April
+- **Site Type**: Wall dive with overhangs, caves, and plateau
+- **Difficulty Level**: Intermediate to Advanced
+- **Maximum Depth**: 40 metres (plateau at ~8 m; wall to 30–40+ m)
+- **Typical Visibility**: 15–30 metres
+- **Current**: Strong, variable; occasional downwellings due to Dampier Strait flow speed
+- **Best Time**: October to April; best dived at slack tide for intermediate divers
+- **Water temperature**: 26–30°C
 
 ## Marine Life
 
-Large sea fans and black coral trees at various depths along the wall host cleaning stations where reef fish queue for service from cleaner wrasse and shrimp. Groupers and Napoleon wrasse are resident in the larger overhangs. Reef sharks and trevally patrol the blue water off the wall face, while turtles cruise the wall's surface. The encrusting growth provides abundant macro subjects — nudibranchs, flatworms, and various nudibranch species decorate the sponge and soft coral growth. Pygmy seahorses should be looked for on appropriately coloured sea fans.
+Confirmed species at Mike's Point:
+
+- Blacktip and whitetip reef sharks
+- Wobbegong sharks and epaulette sharks
+- Eagle rays
+- Green and hawksbill turtles
+- Spanish mackerel (actively hunting at the reef edge)
+- Barracuda
+- Napoleon (humphead) wrasse
+- Giant trevally and jacks
+- Schools of fusiliers
+- Yellow-striped sweetlips (grouping on ascent)
+- Parrotfish
+- Moray eels
+- Sea snakes
+- Nudibranchs, pygmy seahorses, and scorpionfish (macro subjects in bomb-crater crevices)
+- Mantis shrimp
+
+The bomb-damage crevices and overhangs provide sheltered habitat for sweetlips, groupers, and macro life that would be less accessible on a smooth wall.
 
 ## Dive Profile
 
-Descend to the wall top at 5-8 meters and begin a controlled descent along the face. The wall's richest section is between 10-25 meters; dive this zone thoroughly before venturing deeper. Multiple overhangs reward exploration with a dive torch. Keep conscious of time and depth, ascending before the 5-meter safety stop mark with sufficient air. The wall top provides a productive safety stop location.
+Descend to the plateau at 8 metres and orientate to the site. Work along the wall face — the WWII-created crevices and the swim-through cave at 9 metres are key features to explore. The richest diving is between 10–25 metres on the south-facing wall. Stronger current dives take advantage of the increased pelagic and shark activity at the reef edge. Ascend carefully given the depth; deploy SMB at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat. Entry near the wall top via giant stride. Current will determine the preferred direction of travel along the wall — your guide will brief accordingly. Deploy SMB before ascending; surface pickup downurrent from the entry point.
-
-## Tips and Recommendations
-
-- Carry a dive torch to illuminate overhangs and crevices
-- Check sea fans carefully for pygmy seahorses and long-nose hawkfish
-- Resist the temptation to descend too deep too early — the wall's best life is mid-depth
-- Look out into the blue water for passing pelagics while exploring the wall
-- Wall dives reward slow, methodical observation rather than speed
-
-## Safety Considerations
-
-Depth management is the primary safety consideration on any wall dive — it is easy to drift deeper than intended when focused on the wall face. Monitor your depth gauge regularly. Currents can be strong and directional. Always carry and deploy an SMB. Dive within your certification limits and experience level.
-
-## Photography
-
-Mike's Point wall offers classic wall dive photography: wide-angle shots along the vertical face with depth and scale in frame, and intimate macro work in the overhangs. Position yourself slightly off the wall and shoot horizontally along the face to capture the growth and relief. For macro, a torch reveals the true colours of the sponges and soft corals that appear dull without light. Overhangs create natural lighting challenges but reward the photographer with atmospheric results.
+Boat access only. Current assessment before entry is essential — downwellings are a site-specific hazard here. Surface pickup by boat via SMB. Strong-current dives require advanced buoyancy and current management skills.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Mike's Point](https://papua-diving.com/mikes-point-dive-site-of-raja-ampat/), [Dive Concepts — Mike's Point](https://diveconcepts.com/mikes-point-raja-ampat), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Meridian Adventure — Mike's Point](https://raja.meridianadventuredive.com/blog/mikes-point/), [Asia Dive Site — Mike's Point](http://www.asiadivesite.com/indonesia-dive-sites/irian-jaya/mikes-point.php). Last updated 2026-06-28.*

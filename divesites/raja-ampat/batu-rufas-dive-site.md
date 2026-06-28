@@ -13,50 +13,44 @@ addedBy: osm_import
 
 ## Batu Rufas Dive Site
 
-Batu Rufas is a productive reef site in the Fam Islands area of southern Raja Ampat, known for its soft coral-encrusted structures and a reputation as one of the region's manta ray transit corridors.
+Batu Rufas ("Rufas Rock") is a wall and reef site on the west side of Rufas Island in the Penemu chain of Raja Ampat. The site features steep walls dropping alongside a large limestone formation, a sheltered lagoon entrance, and a shallow swim-through flanked by sea fans.
 
 ## Overview
 
-Situated in the Fam Island group, Batu Rufas ("Rufas Rock") is a reef system rising from deeper water whose exposed position in the tidal flow creates ideal conditions for filter-feeding organisms and the larger animals that depend on them. The reef is draped in soft coral — red and orange dendronephthya fans, leather corals, and encrusting sponges give the structure vivid color at depth. Manta rays pass through on their feeding circuits, and experienced divemasters time visits around tidal phases that bring mantas closer to the reef. Water temperature averages 27–29°C with visibility of 15–25 meters.
+The name refers to the large limestone rock formation that extends out to a fringing coral reef. On one side of the formation lies a small sheltered lagoon with clear water and a hard coral garden in the shallows; on the other, the reef drops away as a steep wall covered in sea fans, giant barrel sponges, and both hard and soft coral. The dive typically begins at the sheltered lagoon entrance, passes through a swim-through at around 5 meters bordered by sea fans, then moves along the wall to a maximum depth of 25 meters. A second wall section tops out at 15 meters. The site is suitable for both less experienced and experienced divers. Visibility is typically around 20 meters; current is mild to medium, though it can strengthen on a rising tide (the preferred direction for drift diving along the wall is south to north on a rising tide). The dive is also snorkeler-friendly in the lagoon area.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: West side of Rufas Island, Penemu chain, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall and reef (with lagoon and swim-through)
+- **Difficulty Level**: Intermediate (accessible to less experienced divers in mild conditions)
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Moderate; site benefits from tidal flow for soft coral and manta activity
+- **Typical Visibility**: ~20 meters
+- **Current**: Mild to medium; can be strong on rising tide
 - **Best Time**: October to April
 
 ## Marine Life
 
-Reef manta rays are the headline attraction — they pass through the site on feeding circuits, particularly during plankton-rich tidal exchanges. The reef itself supports white-tip and black-tip reef sharks, napoleon wrasse, large schools of fusiliers, and occasional bumphead parrotfish. Soft coral gardens host a range of nudibranchs and flatworms. Hawksbill turtles are resident. The Fam Islands area is one of the least-dived regions in Raja Ampat, so marine life is especially undisturbed.
+The following species have been documented at this site by operator sources:
+
+Damselfish, chromis, fusiliers, mackerel, napoleon wrasse, bumphead parrotfish, bluefin trevally, triggerfish, pufferfish. Macro: pygmy seahorse, seaworms, nudibranchs. Giant barrel sponges on the steep wall faces.
+
+Prior description included manta rays and hawksbill turtles as site-specific features — no source specifically confirms these at Batu Rufas as distinct from the broader Fam Islands area. Manta rays are a feature of the broader Penemu/Fam region; their presence at this specific site has not been confirmed by independent sources and has been removed.
 
 ## Dive Profile
 
-The dive follows the reef structure from the shallows at around 5 meters down to 20–25 meters. The richest soft coral growth tends to be on the current-facing sides of the reef at 12–20 meters. Spend time at depth inspecting the coral structure before ascending slowly up the reef slope. If mantas are present, remain calm and still on the reef top at 8–12 meters and allow them to approach on their feeding passes.
+Enter at the lagoon side, pass through the shallow swim-through at 5 meters (flanked by sea fans), and proceed along the wall to maximum depth. The recommended current direction is south to north on a rising tide. Ascend along the second wall section (which tops at 15 meters) and finish with a safety stop in the shallows.
 
 ## Entry and Exit
 
-Access is by liveaboard tender or day-trip boat. The remote Fam Islands location makes this predominantly a liveaboard site. Entry via giant stride or back roll. Surface conditions are generally calm in this sheltered archipelago. Deploy SMB for ascent when drifting off the reef edge.
+Access by liveaboard tender or day-trip boat. Entry via giant stride or back roll near the lagoon. The sheltered entrance makes entry generally straightforward. Deploy SMB for open-water ascent if drifting off the wall edge.
 
 ## Tips and Recommendations
 
-- Check tidal timing with your guide — manta passage is most likely on the incoming flood tide
-- Carry a wide-angle lens for potential manta encounters alongside a macro setup for soft coral life
-- The site's remote location means dive conditions are usually undisturbed by heavy boat traffic
-- Respect the manta protection zone; do not chase, touch, or cut off manta rays
-- Allow extra bottom time at 10–15 meters for manta passes before ascending
-
-## Safety Considerations
-
-Moderate currents can occur at Batu Rufas during tidal exchange. Carry an SMB and be prepared to drift if current increases unexpectedly. The remote location means emergency services are many hours away — dive conservatively and plan within no-decompression limits.
-
-## Photography
-
-Soft coral macro and manta wide-angle define the photographic opportunities at this site. If a manta is present, wide-angle glass is the priority. If no mantas appear, the dendronephthya soft corals at depth are exceptional macro and close-focus wide-angle subjects. Bring both lens configurations if your system allows.
+- The swim-through at 5 meters is a highlight — take time to examine the sea fans there for pygmy seahorses
+- The lagoon area is excellent for snorkeling; combine with a dive for full coverage
+- Dive on a rising tide for the best current direction and to take advantage of clearer water
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard - Batu Rufus](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/batu-rufus/), [DiveSSI/Scubago - Batu Rufas](https://www.divessi.com/en/mydiveguide/divesite/batu-rufas-indonesia-443805), [Dive Concepts - Fam Islands](https://diveconcepts.com/fam-islands-raja-ampat), [Papua Explorers - Fam Islands](https://www.papuaexplorers.com/fam-islands/), [Divernet - 4 Breathtaking Fam Islands Dive Sites](https://divernet.com/world-dives/4-breathtaking-fam-islands-dive-sites/). Last updated 2026-06-28.*
