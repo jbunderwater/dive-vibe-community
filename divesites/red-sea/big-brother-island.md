@@ -54,4 +54,4 @@ The reef walls drop sharply from the surface. Eastern and western walls offer dr
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Red Sea Wreck Project – Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [Red Sea Wreck Project – Aida](https://www.redseawreckproject.com/dive-sites/a-red-sea-wreck-diving-database/aida/), [Dive the World – Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Last updated 2026-05-17.*
+*Sources: [Red Sea Wreck Project – Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [Red Sea Wreck Project – Aida](https://www.redseawreckproject.com/dive-sites/a-red-sea-wreck-diving-database/aida/), [Dive the World – Brothers Islands](https://www.dive-the-world.com/diving-sites-egypt-brothers-islands.php). Last updated 2026-06-28.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Odyssey Wreck
 
-*A deliberately sunk container ship resting on a sandy shelf off Roatán's south side, now hosting a thriving artificial reef community.*
+*A 91-meter cargo freighter donated after an engine-room fire and scuttled on November 15, 2002 off Roatán's south coast — one of the largest diveable wrecks in the Bay Islands.*
 
 ## Overview
 
-The Odyssey is a 73-meter container ship that was deliberately scuttled off the south coast of Roatán in 2002 to create a dive attraction and artificial reef. The wreck rests on a sandy shelf at 30–33 meters, with the upper deck structure rising to around 18 meters. After more than two decades underwater, the Odyssey has developed into one of the most productive artificial reef structures in the Bay Islands. The hull is colonized with encrusting sponges, black coral, and wire corals. The wreck sits adjacent to the main reef wall, allowing divers to combine a wreck visit with wall diving in a single dive. Visibility is consistently 25–35 meters.
+The Odyssey is a 91-meter (300-foot) cargo freighter that was deliberately scuttled off the south coast of Roatán on November 15, 2002. A fire in the engine room that spread to the living quarters and bridge effectively ended the vessel's commercial life. Rather than scrap it, Hybur Limited (the ship's owner, the Hyde family) donated the Odyssey to Anthony's Key Resort, which organised the sinking as a dive attraction and artificial reef. The wreck rests on a sandy shelf at 30–33 meters, with the upper deck structure rising to around 18 meters. After more than two decades underwater, the Odyssey has developed into one of the most productive artificial reef structures in the Bay Islands. The hull is colonized with encrusting sponges, black coral, and wire corals. The wreck sits adjacent to the main reef wall, allowing divers to combine a wreck visit with wall diving in a single dive. Visibility is consistently 25–35 meters.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Odyssey is a 73-meter container ship that was deliberately scuttled off the 
 
 ## Marine Life
 
-The Odyssey supports an impressive marine community. Large cubera snappers and yellowfin groupers have taken up residence in and around the superstructure. Schools of horse-eye jacks and black durgon circle the wreck. Spotted eagle rays visit the sandy shelf surrounding the hull. Nurse sharks shelter in the deeper hold areas. Moray eels inhabit the railings and deck structures. Black coral has colonized the superstructure, and encrusting sponges cover the hull in orange, red, and purple patches. Caribbean reef sharks patrol the water column adjacent to the wreck. Hawksbill turtles are occasionally seen resting on the upper deck.
+The Odyssey supports an impressive marine community. Large cubera snappers and yellowfin groupers have taken up residence in and around the superstructure. Schools of horse-eye jacks and black durgon circle the wreck. Moray eels inhabit the railings and deck structures. Black coral has colonized the superstructure, and encrusting sponges cover the hull in orange, red, and purple patches. The wreck's scale and structural complexity — multi-level decks, cargo holds, and the bridge structure — provide habitat diversity that supports a notably rich fish community for a relatively young artificial reef. Roatán's regional fauna applies; no site-specific census data for the Odyssey has been published.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Advanced dive requiring good buoyancy control and air management. The 33-meter m
 The Odyssey is one of Roatán's premier wreck photography subjects. The scale of the vessel allows dramatic wide-angle shots — a diver on the upper deck with the hull curving away creates powerful perspective. Black coral on the superstructure provides foreground interest. Schooling jacks circling the hull are an outstanding subject for wide-angle fish photography. A strobe is essential for illuminating the hull sponges at depth where ambient light is limited.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Anthony's Key Resort](https://anthonyskey.com/odyssey/), [Roatan Tourism Bureau](https://roatantourismbureau.com/dive-history-roatan/odyssey-wreck-dive-roatan), [DreamWrecks](https://dreamwrecks.com/odyssey-roatan-shipwreck), [Splash Inn Dive Resort](https://roatansplashinn.com/en/roatan-diving-sites/the-odyssey-shipwreck/), [Turquoise Bay Resort](https://www.turquoisebayresort.com/diving/wreck-dives/). Last updated 2026-06-28.*

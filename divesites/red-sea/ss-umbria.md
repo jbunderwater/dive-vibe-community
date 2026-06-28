@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## SS Umbria
 
-The SS Umbria is one of the finest wreck dives in the world and a crown jewel of Red Sea diving — arguably the most historically compelling wreck on the African continent. An Italian passenger-cargo vessel deliberately scuttled by her own captain on 9 June 1940, just as Italy entered World War II, the Umbria rests at Wingate Reef off Port Sudan, Sudan. Her cargo of approximately 6,000 tonnes of bombs, 600 cases of detonators, 100 tonnes of various weapons, over 2,000 tonnes of cement, and three Fiat 1100 cars went to the bottom with her and remains there today.
+The SS Umbria is one of the finest wreck dives in the world and a crown jewel of Red Sea diving — arguably the most historically compelling wreck on the African continent. An Italian passenger-cargo vessel deliberately scuttled by her own captain on 10 June 1940, just as Italy entered World War II, the Umbria rests at Wingate Reef off Port Sudan, Sudan. Her cargo of approximately 6,000 tonnes of bombs, approximately 60 cases of detonators, 100 tonnes of various weapons, over 2,000 tonnes of cement, and three Fiat 1100 cars went to the bottom with her and remains there today.
 
 ## Overview
 
-The Umbria measures 154.9 metres in length and displaces 10,076 GRT. She lies on her port side with her maximum depth at approximately 38 metres and the hull rising to just 10 metres below the surface. The wreck is remarkably intact and accessible, offering everything from shallow snorkeling along the hull to deep penetration of the holds. The cargo is extraordinary — stacked artillery shells, Fiat cars (still on deck), crated aircraft engines, and ammunition cases are preserved in eerie detail. Equally stunning is the marine life: the wreck has had 85 years to accumulate corals and attract a thriving ecosystem. Access is from Port Sudan, Sudan, typically by liveaboard — making it a destination that requires commitment but delivers an unmatched experience.
+The Umbria measures 154.9 metres in length and displaces 10,076 GRT. She lies on her port side with her maximum depth at approximately 38 metres and the hull rising to within 3–5 metres of the surface. The wreck is remarkably intact and accessible, offering everything from shallow snorkeling along the hull to deep penetration of the holds. The cargo is extraordinary — stacked artillery shells, Fiat cars (still on deck), crated aircraft engines, and ammunition cases are preserved in eerie detail. Equally stunning is the marine life: the wreck has had 85 years to accumulate corals and attract a thriving ecosystem. Access is from Port Sudan, Sudan, typically by liveaboard — making it a destination that requires commitment but delivers an unmatched experience.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Umbria measures 154.9 metres in length and displaces 10,076 GRT. She lies on
 
 ## Marine Life
 
-The Umbria's encrusted hull hosts large colonies of black coral, soft corals in orange and yellow, and dense fish life. humphead wrasse patrol the deck, accompanied by large groupers, lionfish in every nook, and shimmering schools of glassfish. Hammerhead sharks are encountered on the deeper portions of the wreck and in the open water above. Manta rays and whale sharks have been reported in the surrounding waters. The Fiat cars on deck are draped in coral growth and occupied by moray eels — a surreal combination of marine biology and industrial history.
+The Umbria's encrusted hull hosts large colonies of black coral, soft corals in orange and yellow, and dense fish life. Large groupers, lionfish, and shimmering schools of glassfish inhabit the wreck. Hammerhead sharks are encountered in Sudan's open waters and have been reported in the vicinity, though they are not consistently documented as wreck-specific residents. The three Fiat 1100 automobiles remain intact in the cargo holds as remarkable artifacts. Sudan's Red Sea waters are home to diverse pelagic species, though site-specific reports for Umbria focus on the wreck's fish and encrusting life rather than large pelagics.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ The Umbria is accessed exclusively by liveaboard from Port Sudan. Descent is typ
 
 - Plan at least three dives — exterior, forward holds, and aft section — to cover the wreck properly
 - Bring a torch; the cargo holds range from dim to dark, and details reward close inspection
-- The Fiat cars on the upper deck are a must-photograph subject — approach from above with a wide-angle lens
+- The Fiat 1100 cars in the cargo holds are a must-photograph subject — approach from above with a wide-angle lens
 - Book with a specialist Sudan liveaboard operator; political conditions in Sudan require current research before travel
 - Nitrox greatly extends bottom time on the deeper sections
 - Night dives reveal lionfish, moray eels on the hunt, and the cargo in an intimate, atmospheric light
@@ -57,7 +57,7 @@ Sudan requires a special dive permit and entry visa — verify current political
 
 ## Photography
 
-The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The Fiat cars draped in coral are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
+The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The three Fiat 1100 cars in the holds are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
 
 ---
-*Sources: [SS Umbria Wikipedia](https://en.wikipedia.org/wiki/SS_Umbria), [Divers Alert Network - The Last Voyage](https://dan.org/alert-diver/article/the-last-voyage/), [Dive Photo Guide - Umbria](https://www.divephotoguide.com/underwater-photography-special-features/article/sinking-umbria-wreck-sudan/). Last updated 2026-05-25.*
+*Sources: [SS Umbria Wikipedia](https://en.wikipedia.org/wiki/SS_Umbria), [Divers Alert Network - The Last Voyage](https://dan.org/alert-diver/article/the-last-voyage/), [Dive Photo Guide - Umbria](https://www.divephotoguide.com/underwater-photography-special-features/article/sinking-umbria-wreck-sudan/). Last updated 2026-06-28.*

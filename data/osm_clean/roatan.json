@@ -219,8 +219,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, padi.com, dive_operator_sites",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatandivecenter.com, sundiversroatan.com, roatandivers.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1067,7 +1068,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, dive_operator_sites, xray_mag"
+      "validation_source": "padi.com, roatan-diving.com, scubaboard.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1163,7 +1165,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validation_source": "roatan_dive_operators, geographic_name — not confirmed by independent online sources",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1355,7 +1358,8 @@
       "addedBy": "fill_new_destinations",
       "validated": true,
       "validation_source": "coconuttreedivers.com, roatandivers.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1554,8 +1558,8 @@
     "name": "Hole In The Wall",
     "lat": 16.3138371,
     "lon": -86.5917933,
-    "depth": 40,
-    "site_type": "cave",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -1563,7 +1567,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
+      "validation_source": "roatansplashinn.com, padi.com, roatan-diving.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1635,14 +1640,15 @@
     "lat": 16.31,
     "lon": -86.59,
     "depth": 14,
-    "site_type": "drift",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, sundiversroatan"
+      "validation_source": "sundiversroatan.com, roatansplashinn.com, roatan-diving.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1784,8 +1790,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": false,
+      "validation_source": "perplexity_only_insufficient",
+      "last_qa_date": "2026-06-28"
     },
     "depth_max": 15
   },
@@ -2035,13 +2042,14 @@
     "lon": -86.58,
     "depth": 45,
     "site_type": "wall",
-    "entry_type": "shore",
+    "entry_type": "both",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, scuba_diving_guides"
+      "validation_source": "roatansplashinn.com, thescubadirectory.com, roatandivers.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2088,8 +2096,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, padi.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "anthonyskey.com, dreamwrecks.com, roatansplashinn.com, bayislands360.com, sundiversroatan.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2105,7 +2114,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "anthonyskey.com, dreamwrecks.com, roatansplashinn.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2137,7 +2147,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan_dive_operators"
+      "validation_source": "anthonyskey.com, roatansplashinn.com, sundiversroatan.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2432,7 +2443,7 @@
     "name": "Bear's Den",
     "lat": 16.3368125,
     "lon": -86.5688637,
-    "depth": 20,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2440,8 +2451,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com, roatan-octopusdiveschool.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatansplashinn.com, padi.com, roatan-octopusdiveschool.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2577,15 +2589,16 @@
     "lat": 16.3393987,
     "lon": -86.5644513,
     "depth": 27,
-    "site_type": "cave",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "sundiversroatan.com, roatansplashinn.com, padi.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2712,7 +2725,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com"
+      "validation_source": "roatanreview.com, padi.com, roatan-diving.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2871,7 +2885,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites"
+      "validation_source": "roatan-diving.com, sundiversroatan.com, roatandivecenter.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2950,8 +2965,9 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_marine_park_gps_map_only",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3063,7 +3079,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "anthonyskey.com, roatantourismbureau.com, roatansplashinn.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3078,8 +3095,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, roatantourismbureau.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "anthonyskey.com, dreamwrecks.com, roatantourismbureau.com, roatansplashinn.com, turquoisebayresort.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3213,8 +3231,9 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "openstreetmap_wreck_data"
+      "validated": false,
+      "validation_source": "openstreetmap_wreck_data_only",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3357,8 +3376,9 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_marine_park_gps_map_only",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3373,8 +3393,9 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_marine_park_gps_map_only",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3478,7 +3499,7 @@
     "lon": -86.5007403,
     "osm_id": 20255613,
     "osm_type": "relation",
-    "depth": 30,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -3495,7 +3516,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "roatantourismbureau.com, payamag.com, roatan_historical_records"
+      "validation_source": "roatantourismbureau.com, payamag.com, roatandivecenter.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3869,7 +3891,8 @@
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": false,
       "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "depth_inferred_from_name": false,
+      "last_qa_date": "2026-06-28"
     }
   },
   {

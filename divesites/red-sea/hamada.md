@@ -17,7 +17,7 @@ The Hamada is a small cargo ship wreck located off Abu Ghusun, approximately 70 
 
 ## Overview
 
-The Hamada was a 65.1-metre, 654 GRT cargo vessel built in 1965 by John Lewis & Sons Ltd. in Aberdeen, UK, originally named Avocet for P&O's General Steam Navigation subsidiary. On 28 June 1993, while en route from Jeddah to Suez carrying plastic granulate, she struck a submerged object in heavy weather at approximately 24.42°N, 35.25°E near Ras Banas and foundered. The wreck lies on its starboard side in two sections in approximately 14 metres of water at Abu Ghusun reef. Both the cargo holds and engine room are accessible and largely intact. The wreck sits within the protected waters of Wadi El Gemal National Park.
+The Hamada was a 65.1-metre, 654 GRT cargo vessel built in 1965 by John Lewis & Sons Ltd. in Aberdeen, UK, originally named Avocet for P&O's General Steam Navigation subsidiary. On 28 June 1993, while en route from Jeddah to Suez carrying plastic granulate, she struck a submerged object in heavy weather at approximately 24.42°N, 35.25°E near Ras Banas and foundered. The wreck lies on its starboard side in two sections at Abu Ghusun reef, with depths ranging from approximately 12–18 metres across the hull. Both the cargo holds and engine room are accessible and largely intact. The wreck sits within the protected waters of Wadi El Gemal National Park.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Wreck diving requires awareness of entanglement hazards (loose nets, cables, fis
 The coral encrustation on the hull provides colourful wide-angle subjects with good detail. Interior shots require a powerful torch to balance the ambient light at depth. The schooling fish inside the wreck spaces are excellent subjects for atmospheric wreck photography.
 
 ---
-*Sources: [Red Sea Wreck Project - Hamada](https://redseawreckproject.com/2013/08/19/hamada), [Deep South Divers - Abu Ghusun](https://deepsouth-divers.com/tours/abu-ghusun/), [Marsa Alam Shipwrecks Guide](https://marsaalam.com/marsa-alam-shipwrecks/). Last updated 2026-05-25.*
+*Sources: [Red Sea Wreck Project - Hamada](https://redseawreckproject.com/2013/08/19/hamada), [Deep South Divers - Abu Ghusun](https://deepsouth-divers.com/tours/abu-ghusun/), [Marsa Alam Shipwrecks Guide](https://marsaalam.com/marsa-alam-shipwrecks/). Last updated 2026-06-28.*

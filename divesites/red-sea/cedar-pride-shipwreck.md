@@ -17,7 +17,7 @@ The Lebanese freighter scuttled in Aqaba by King Hussein of Jordan in 1985 — t
 
 ## Overview
 
-Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site — a Lebanese freighter scuttled off Aqaba, Jordan in 1985 as an artificial reef at the direction of King Hussein. This OSM entry records the precise wreck position at 29.43°N, 34.97°E with shore access from the Aqaba waterfront. The vessel was cleaned of contaminants before scuttling and lies on her port side with the bow at approximately 20 metres and the stern at 27 metres. The hull is substantially colonised by soft and hard coral growth in the 40+ years since scuttling. It is accessible by shore entry — making it one of the few major Red Sea wrecks that doesn't require a boat.
+Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site — a Lebanese freighter scuttled off Aqaba, Jordan in 1985 as an artificial reef, arranged by Crown Prince Abdullah (now King Abdullah II). This OSM entry records the precise wreck position at 29.43°N, 34.97°E with shore access from the Aqaba waterfront. The vessel was cleaned of contaminants before scuttling and lies on her port side with the bow at approximately 20 metres and the stern at 27 metres. The hull is substantially colonised by soft and hard coral growth in the 40+ years since scuttling. It is accessible by shore entry — making it one of the few major Red Sea wrecks that doesn't require a boat.
 
 ## Site Information
 
@@ -58,4 +58,4 @@ The wreck lies in the busy shipping lane of Aqaba Bay — SMB deployment before 
 The Cedar Pride's iconic images are: the crow's nest at 12–15 metres encrusted with coral and surrounded by fish schools; wide-angle hull profiles showing the full port-side colonisation; and glassfish clouds in the open deck sections. The soft coral growth on the upper hull in available light provides excellent ambient wide-angle conditions without flash.
 
 ---
-*Sources: [Coral Garden Diving - Cedar Pride](https://www.dive-inaqaba.com/cedar-pride-wreck/), [Arab Divers - Cedar Pride](https://www.arabdivers.jo/en/activities/dive-sites/cedar-pride), [The Underwater Club - Wrecks of Jordan](https://theunderwaterclub.com/blog/the-wrecks-of-jordan/). Last updated 2026-05-25.*
+*Sources: [Coral Garden Diving - Cedar Pride](https://www.dive-inaqaba.com/cedar-pride-wreck/), [Arab Divers - Cedar Pride](https://www.arabdivers.jo/en/activities/dive-sites/cedar-pride), [The Underwater Club - Wrecks of Jordan](https://theunderwaterclub.com/blog/the-wrecks-of-jordan/). Last updated 2026-06-28.*

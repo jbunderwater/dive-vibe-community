@@ -60,4 +60,4 @@ Daedalus is an advanced-level open-ocean dive site with no shore proximity or sh
 The northern plateau hammerhead schooling is among the most sought-after photographs in Red Sea diving — wide-angle with a strong blue background and multiple silhouettes. Anemone City rewards macro and close-focus wide-angle equally: the clownfish-anemone combinations are vivid and accessible. For thresher sharks (winter, dawn, south end), long lenses are rarely useful underwater; position yourself correctly at depth and shoot wide. The soft-coral-draped walls are ideal for reef environmental portraits.
 
 ---
-*Sources: [Dive the World - Daedalus Reef](https://www.dive-the-world.com/diving-sites-egypt-daedalus.php), [Divezone - Daedalus](https://divezone.net/divesite/daedalus-reef), [PADI - Daedalus Reef](https://www.padi.com/dive-site/egypt/daedalus-reef/). Last updated 2026-05-25.*
+*Sources: [Dive the World - Daedalus Reef](https://www.dive-the-world.com/diving-sites-egypt-daedalus.php), [Divezone - Daedalus](https://divezone.net/divesite/daedalus-reef), [PADI - Daedalus Reef](https://www.padi.com/dive-site/egypt/daedalus-reef/). Last updated 2026-06-28.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt is a wreck dive site near Port Sudan, Sudan — also known as the "Toyota Wreck" for its cargo of 190 Toyota vehicles. The Blue Belt was a Saudi Arabian general cargo vessel of 2,399 GRT and 103 metres in length, built by Howaldtswerke in Hamburg in 1950. On 2 December 1977 she struck a reef approximately 75 km north of Port Sudan while sailing from Jeddah to Port Sudan, sinking in poor winter weather. The Blue Belt was not a Sudanese vessel — she was Saudi-registered and her cargo of Toyota cars, trucks, pick-ups, and 4x4 vehicles can still be seen scattered around the wreck, now coral-encrusted after nearly five decades on the seabed.
+Blue Belt is a wreck dive site near Port Sudan, Sudan — also known as the "Toyota Wreck" for its cargo of 190 Toyota vehicles. The Blue Belt was a Saudi Arabian general cargo vessel of 2,399 GRT and 103 metres in length, built by Howaldtswerke in Hamburg in 1950. In early December 1977 (most sources give December 2; one source gives December 6) she struck a reef approximately 75 km north of Port Sudan while sailing from Jeddah to Port Sudan, sinking in poor winter weather. The Blue Belt was not a Sudanese vessel — she was Saudi-registered and her cargo of Toyota cars, trucks, pick-ups, and 4x4 vehicles can still be seen scattered around the wreck, now coral-encrusted after nearly five decades on the seabed.
 
 ## Overview
 
-The Blue Belt lies upside down on a sloping seabed, stretching from approximately 21 metres at the shallowest to around 90 metres at the deepest — the bulk of recreational diving takes place in the 21–40 metre range. The wreck is heavily encrusted with hard and soft corals, and scattered coral-encrusted Toyota vehicles lie outside the hull. A resident school of barracuda spirals continuously around the wreck, creating one of Sudan's most dramatic diving experiences. Visibility is excellent at 25–40 metres.
+The Blue Belt lies upside down on a sloping seabed, stretching from approximately 15–21 metres at the shallowest (sources vary) to around 85–90 metres at the deepest — the bulk of recreational diving takes place in the 21–40 metre range. The wreck is heavily encrusted with hard and soft corals, and scattered coral-encrusted Toyota vehicles lie outside the hull. A resident school of barracuda spirals continuously around the wreck, creating one of Sudan's most dramatic diving experiences. Visibility is excellent at 25–40 metres.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Sudan diving requires full liveaboard logistics and experienced guides. The wrec
 Blue Belt offers some of the Red Sea's most dramatic wildlife photography. The barracuda tornado against the blue water background is an iconic subject. Wide-angle shots from beneath the school looking up toward the surface create stunning compositions. Wreck interior photography with torch-illuminated soft coral details provides atmospheric close-up work.
 
 ---
-*Sources: [Cassiopeia Safari - Blue Belt/Toyota Wreck](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Adrex - Toyota Wreck Sudan](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [Good Dive - Blue Belt](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-05-25.*
+*Sources: [Cassiopeia Safari - Blue Belt/Toyota Wreck](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Adrex - Toyota Wreck Sudan](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [Good Dive - Blue Belt](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-06-28.*

@@ -2,8 +2,8 @@
 name: Plane wreck
 lat: 29.4180629
 lng: 34.97162
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 17
 entryType: boat
 siteType: wreck
 ref: null
@@ -11,51 +11,53 @@ osmId: 5522700738
 addedBy: osm_import
 ---
 
-## Plane Wreck
+## Plane Wreck (C-130 Hercules)
 
-Plane Wreck is a small aircraft wreck dive site located in the Gulf of Aqaba near Aqaba/Eilat (at approximately 29.42°N, 34.97°E), not at Ras Muhammad as sometimes incorrectly stated. The wreck is a propeller aircraft of unverified type that rests on a sandy shelf at approximately 28–30 metres depth.
+Jordan's most unusual dive — a Royal Jordanian Air Force C-130 Hercules military transport deliberately scuttled as an artificial reef off Aqaba's South Beach on 16 November 2017, now colonised with marine life at 10–17 metres.
 
 ## Overview
 
-The aircraft is partially intact — the fuselage and recognisable structural elements are heavily encrusted with coral and sponge growth accumulated over decades of submersion. Soft corals and encrusting organisms have transformed the metal structure into an artificial reef supporting resident reef fish. The specific aircraft type and provenance have not been independently confirmed in available sources.
+The Plane Wreck is a Lockheed C-130 Hercules four-engine turboprop military transport aircraft that was decommissioned from the Royal Jordanian Air Force and scuttled as an artificial reef by the Aqaba Special Economic Zone Authority (ASEZA) in partnership with the Royal Jordanian Navy and Aqaba Port Corporation. The aircraft was transported from its Amman base, stripped of engines, propellers, fuel, oil, and paint, and all doors were removed before sinking to ensure safe diver penetration. It was sunk on 16 November 2017, approximately 300 metres offshore near Aqaba's South Beach, in the Jordan side of the Gulf of Aqaba.
+
+The aircraft measures approximately 30 metres in length with a 40-metre wingspan. The cockpit sits at approximately 12–13 metres depth; the tail reaches approximately 17 metres. In March 2020, a major storm broke the fuselage into sections and separated the nose, scattering the wings across the bottom at 10–17 metres depth. Despite the storm damage, the wreck remains an outstanding dive and is now one of Aqaba's signature attractions. A plastic skeleton wearing a flight suit and helmet remains in the pilot's seat as a novelty feature.
 
 ## Site Information
 
-- **Location**: Gulf of Aqaba, near Aqaba/Eilat (approximately 29.42°N, 34.97°E)
+- **Location**: South Beach, Aqaba, Jordan, Gulf of Aqaba
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Moderate; stronger at the Ras Muhammad tip
-- **Best Time**: September to May
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Generally mild in Aqaba Bay
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-The wreck's structure provides shelter for groupers, moray eels, and glassfish schools that swarm through the openings. Lionfish perch on the encrusted wings and fuselage sections. Barracuda often hover above the wreck in a stationary formation. The sand around the base of the wreck frequently holds bluespotted stingrays and small flatfish. Coral growth on the wreck itself includes hard and soft corals, with a diversity of encrusting organisms covering virtually every surface.
+The aircraft's structure has been colonising steadily since 2017. Glassfish schools shelter in the fuselage interior. Lionfish perch on the wings and fuselage sections. Moray eels occupy the accessible interior spaces. Parrotfish, groupers, and snappers patrol the wreck exterior. Soft corals and encrusting organisms are establishing on the aluminium airframe surfaces. The sandy floor around the aircraft holds blue-spotted stingrays.
 
 ## Dive Profile
 
-Descend from the reef base down the sand slope to the wreck at 28-30 meters. Spend your bottom time examining the exterior — the wings, cockpit area, and fuselage provide interesting structural features. The wreck is not suitable for penetration due to its fragile state and siltation. Begin your ascent with adequate reserve for a slow rise back up the slope to the reef base and a safety stop at 5 meters.
+Descend to the cockpit section at 12–13 metres and explore the fuselage interior — the skeleton in the pilot's seat is immediately visible through the windscreen. Work aft along the fuselage, exiting via the removed door openings. The storm-scattered wings lie on the sandy bottom at 10–17 metres. The entire site can be covered in a single dive, with easy penetration throughout due to the open doors and access points. Safety stop in the shallows before surfacing.
 
 ## Entry and Exit
 
-Boat access from Sharm el-Sheikh operators, typically combined with Ras Muhammad reef dives. Giant stride entry with descent on the reef slope. Deploy SMB before your final ascent and safety stop for boat pickup coordination.
+Boat access from Aqaba operators, or shore entry via a surface swim. The adjacent Cedar Pride shipwreck and M42 Duster tank are nearby, allowing multi-wreck day combinations. The site is within the Aqaba Marine Park jurisdiction.
 
 ## Tips and Recommendations
 
-- This site is usually combined with a second dive on the Ras Muhammad reef wall for a full day outing
-- The 30-meter depth means bottom time is limited — plan your air consumption carefully
-- Bring a torch to illuminate the encrusted interior surfaces and the underside of the wings
-- Approach slowly to avoid disturbing silt around the structure
+- The cockpit with the pilot skeleton is the signature photograph — approach from outside, shoot through the windscreen
+- The intact wing surfaces make interesting wide-angle subjects
+- Combine with the Cedar Pride wreck for a two-wreck Aqaba day
+- All access points are open and well-sized — no tight spaces
 
 ## Safety Considerations
 
-The maximum depth of 30 meters reduces no-decompression bottom time significantly — monitor your dive computer throughout. Avoid entering the wreck structure as it is unstable and prone to silt disturbance that causes rapid visibility loss. Plan your ascent to include adequate reserve air for a proper safety stop. Confirm with your guide whether the site is accessible given current conditions at the point.
+Mild conditions and shallow depth make this a beginner-accessible site. Lionfish are present throughout the structure. Do not move or touch the pilot skeleton. Aqaba Bay boat traffic requires SMB deployment before ascending.
 
 ## Photography
 
-The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
+The cockpit interior is the signature image — wide-angle through the windscreen showing the skeleton and instrument panel with fish in the background. The wing surfaces make structural wide-angle subjects. The marine life establishing on the airframe rewards close-focus shooting.
 
 ---
-*Description based on GPS coordinates and regional diving characteristics. Aircraft type and history not confirmed by independent sources. Last updated 2026-05-25.*
+*Sources: [Arab Divers - Plane Wreck Aqaba](https://www.arabdivers.jo/en/activities/dive-sites), [Scubaverse - C-130 Aqaba](https://www.scubaverse.com/), [PADI - Aqaba dive sites](https://www.padi.com/diving-in/jordan/). Last updated 2026-06-28.*

@@ -59,4 +59,4 @@ The Chrisoula K is a penetration dive in the cargo holds — open water divers s
 The Italian floor tiles in the cargo hold are the signature photograph — wide-angle with a torch illuminating the tile cargo in the hold interior. The stern propeller at 26 metres is a classic wreck-photographer's composition. The superstructure covered in soft corals rewards close-focus wide-angle shots at 12–18 metres with natural light from above. Lionfish portraits among sponge growth are consistently available throughout the dive.
 
 ---
-*Sources: [redsea-diving.com - Chrisoula K](https://www.redsea-diving.com/chrisoula-k/), [OceanSoul - Chrisoula K](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/chrisoula-k/), [Wrecks at Risk](https://wrecksatrisk.com/locations/chrisoula-k/). Last updated 2026-05-25.*
+*Sources: [redsea-diving.com - Chrisoula K](https://www.redsea-diving.com/chrisoula-k/), [OceanSoul - Chrisoula K](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/chrisoula-k/), [Wrecks at Risk](https://wrecksatrisk.com/locations/chrisoula-k/). Last updated 2026-06-28.*

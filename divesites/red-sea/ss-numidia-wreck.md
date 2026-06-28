@@ -49,4 +49,4 @@ Dense soft corals, gorgonian fans, and sponges colonise the hull. In the blue wa
 
 Wreck extends well beyond 40 m — plan gas carefully. Strong and unpredictable currents are possible at Big Brother Island. Ascend conservatively and follow your guide's current briefing.
 
-*Sources: [Red Sea Wreck Project — SS Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [MarsaAlam.com — SS Numidia Guide](https://marsaalam.com/ss-numidia-wreck-2025-guide/). Last updated 2026-05-17.*
+*Sources: [Red Sea Wreck Project — SS Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [MarsaAlam.com — SS Numidia Guide](https://marsaalam.com/ss-numidia-wreck-2025-guide/), [The Scuba News — Numidia](https://www.thescubanews.com/). Last updated 2026-06-28.*

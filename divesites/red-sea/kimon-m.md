@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kimon M
 
-The Kimon M is a Greek-Panamanian cargo vessel that struck Abu Nuhas Reef on 12 December 1978, the earliest of the four major wrecks on this reef. She was built in 1952 by Nordseewerke in Emden, Germany, measuring 106 metres in length and approximately 3,714 GRT. She sailed under several names throughout her career: originally MF Brunsbüttel, then Ciudad de Cucuta, Angela, and finally Kimon M. On her final voyage she was carrying 4,500 tonnes of lentils from the Turkish port of Iskenderun bound for Bombay when she struck the northeastern point of the reef at full speed. The entire crew was rescued by the nearby vessel Interasia. The wreck rests on its starboard side, with the bow section in 12–15 metres and the stern at 32 metres on the sandy bottom.
+The Kimon M is a Greek-Panamanian cargo vessel that struck Abu Nuhas Reef on 12 December 1978, the earliest of the four major wrecks on this reef. She was built in 1952 by H.C. Stulcken & Sohn Shipyard in Hamburg, Germany, measuring 106 metres in length and approximately 3,694 GRT (sources vary slightly on this figure). She sailed under several names throughout her career: originally MF Brunsbüttel, then Ciudad de Cucuta, Angela, and finally Kimon M. On her final voyage she was carrying 4,500 tonnes of lentils from the Turkish port of Iskenderun bound for Bombay when she struck the northeastern point of the reef at full speed. The entire crew was rescued by the nearby vessel Interasia. The wreck rests on its starboard side, with the bow section in 12–15 metres and the stern at 32 metres on the sandy bottom.
 
 ## Overview
 
@@ -59,4 +59,4 @@ The 32-meter maximum depth requires intermediate-level air management skills and
 Wide-angle shots of the hull in profile against the blue water background are highly effective at 20-25 meters where the overall wreck scale becomes apparent. Schools of glassy sweepers filling the interior create dramatic backlit compositions. The coral encrustation on the hull exterior offers excellent macro work. Bring a 15mm or wide rectilinear lens for the full hull exterior shots.
 
 ---
-*Sources: [Wrecks at Risk - Kimon M](https://wrecksatrisk.com/locations/kimon-m/), [redsea-diving.com - Kimon M](https://www.redsea-diving.com/kimon-m/), [OceanSoul - Kimon M](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/kimon-m/). Last updated 2026-05-25.*
+*Sources: [Wrecks at Risk - Kimon M](https://wrecksatrisk.com/locations/kimon-m/), [redsea-diving.com - Kimon M](https://www.redsea-diving.com/kimon-m/), [OceanSoul - Kimon M](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/kimon-m/), [Red Sea Wreck Project - Kimon M](https://redseawreckproject.com/). Last updated 2026-06-28.*

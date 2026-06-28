@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # M Alexand
 
-*A mid-sized freighter wreck lying on Roatán's north side reef shelf, offering an accessible advanced wreck dive with good encrustation.*
+*A 107-meter freighter stranded near Dixon Cove on Roatán's south coast in 1981 with a cargo of cement — one of the Bay Islands' most encrusted wreck dives after more than four decades on the reef.*
 
 ## Overview
 
-The M Alexand (also recorded as the Prince of Wales or similar regional naming variations) is a freighter wreck located on the north side of Roatán, reportedly sunk in 1981. The wreck lies on a reef shelf at 18–30 meters, with the upper hull accessible at moderate depth. After more than four decades submerged, the vessel carries substantial encrustation of corals, sponges, and invertebrates. The north-side location means the site is somewhat sheltered compared to south-coast wrecks, and conditions are generally calmer. Visibility averages 20–28 meters. Water temperatures remain at 27–29°C year-round.
+The M Alexand is a 107-meter (350-foot) freighter that ran aground near Dixon Cove on Roatán's south coast in 1981. The vessel, which was carrying a cargo of cement at the time of the grounding, went through multiple name changes over its working life — recorded under various names including Rimon, Kastor, Nausika, and Lady Salla before its final identity as M Alexand. The wreck was German-built in 1951 (gross tonnage approximately 4,064 GRT). It rests on a sandy shelf at 15–20 meters, with the maximum depth near the hull base around 20 meters. After more than four decades submerged, the wreck is heavily encrusted. Sources conflict on some details of the vessel's history; the name sequence and 1981 grounding date are the most consistently reported facts. The wreck is served by south-coast operators from French Harbour and nearby areas.
 
 ## Site Information
 

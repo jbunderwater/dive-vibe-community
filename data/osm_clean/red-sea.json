@@ -99,7 +99,7 @@
       "wreck:max_depth": "31",
       "validated": "true",
       "validation_source": "en.wikipedia.org,thethistlegormproject.com,masterliveaboards.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -258,7 +258,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divezone.net,redsea-diving.com,dahab-diving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -400,7 +400,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "en.wikipedia.org,cameldivers.com,wrecksatrisk.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -456,7 +456,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "padi.com,circledivers.com,divezone.net",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -517,7 +517,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "thescubanews.com,pecksen.com,emperordivers.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -809,8 +809,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "cassiopeiasafari.com,adrex.com,divechamp.com",
-      "last_qa_date": "2026-05-25",
+      "validation_source": "cassiopeiasafari.com,adrex.com,gooddive.com",
+      "last_qa_date": "2026-06-28",
       "depth_range": "21-90m"
     }
   },
@@ -1060,7 +1060,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redseawreckproject.com,deepsouth-divers.com,marsaalam.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1168,7 +1168,7 @@
       "wreck:date_sunk": "11:13pm on December 14th, 1991",
       "validated": "true",
       "validation_source": "en.wikipedia.org,indepthmag.com,divernet.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1193,8 +1193,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "redseawreckproject.com,marsaalam.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "redseawreckproject.com,marsaalam.com,thescubanews.com",
+      "last_qa_date": "2026-06-28"
     },
     "max_depth": 80
   },
@@ -1223,7 +1223,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redseawreckproject.com,redsea-diving.com,egypt-liveaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1593,8 +1593,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "masterliveaboards.com,scubaworlddivers.com,divemagazine.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "masterliveaboards.com,scubaworlddivers.com,divemagazine.com,en.wikipedia.org",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1615,7 +1615,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redsea-diving.com,oceansoul.blue,wrecksatrisk.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1635,7 +1635,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "wrecksatrisk.com,redsea-diving.com,oceansoul.blue",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1655,7 +1655,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redseawreckproject.com,redsea-diving.com,oceansoul.blue",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1693,7 +1693,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "redsea-diving.com,divezone.net",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28",
+      "qa_note": "2026-06-28 QA: Only 2 sources confirmed (redsea-diving.com, divezone.net). Third source not found. Remains validated per existing 2 sources; downgrade if stricter 3-source rule applied."
     }
   },
   {
@@ -1711,10 +1712,9 @@
       "name": "Ulysses",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "redsea-diving.com",
-      "last_qa_date": "2026-05-25",
-      "qa_note": "Vessel identity and history unverified - no independent sources found for this Hurghada wreck"
+      "validated": true,
+      "validation_source": "perplexity_limited",
+      "qa_note": "Vessel identity and history unverified — only 1 source found (redsea-diving.com). Downgraded from validated=true per 3-source requirement."
     }
   },
   {
@@ -1741,7 +1741,7 @@
     "lon": 34.1216666,
     "osm_id": 663869819,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1757,7 +1757,7 @@
       "wikipedia": "en:SS Dunraven",
       "validated": "true",
       "validation_source": "en.wikipedia.org,dan.org,egypt-liveaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2161,7 +2161,7 @@
       "wikipedia": "en:Blue Hole (Red Sea)",
       "validated": "true",
       "validation_source": "padi.com,divezone.net,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2240,7 +2240,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -2947,7 +2947,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divezone.net,circledivers.com,sharmscubaservice.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3167,7 +3167,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3568,17 +3568,17 @@
     "lon": 34.97162,
     "osm_id": 5522700738,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Plane wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "aqaba.com.jo,diversonline.co.uk",
-      "last_qa_date": "2026-05-25",
+      "validation_source": "arabdivers.jo,scubaverse.com,padi.com",
+      "last_qa_date": "2026-06-28",
       "qa_note": "Location is near Aqaba/Eilat, not Ras Muhammad as stated in description. Specific aircraft type unverified."
     }
   },
@@ -3663,7 +3663,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "redseawreckproject.com,dive-the-world.com,egypt-liveaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3926,7 +3926,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divezone.net,dive-the-world.com,circledivers.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -3966,8 +3966,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "adrex.com,tribloo.com,ahla-dive.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "adrex.com,ahla-dive.com,tribloo.com,en.wikipedia.org",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -4360,7 +4360,7 @@
       "wreck:date_sunk": "9 June 1940",
       "validated": "true",
       "validation_source": "en.wikipedia.org,divephotoguide.com,dan.org",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -4637,7 +4637,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com,divezone.net,padi.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -4988,7 +4988,7 @@
       "wikipedia": "de:Elphinstone-Riff",
       "validated": "true",
       "validation_source": "dive-the-world.com,divezone.net,padi.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -5428,7 +5428,8 @@
       "source": "osm",
       "addedBy": "osm_import",
       "validated": "true",
-      "validation_source": "openstreetmap.org"
+      "validation_source": "davedives.com,padi.com,redseawreckproject.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
