@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "raja-ampat",
-    "red-sea",
-    "roatan",
-    "saba",
-    "san-diego-la-jolla",
-    "sangalaki",
     "sardinia",
     "scapa-flow",
     "scotland",
@@ -174,7 +168,13 @@
     "providencia-island",
     "puerto-rico",
     "puerto-vallarta",
-    "puget-sound"
+    "puget-sound",
+    "raja-ampat",
+    "red-sea",
+    "roatan",
+    "saba",
+    "san-diego-la-jolla",
+    "sangalaki"
   ],
   "history": [
     {
@@ -1501,6 +1501,88 @@
         "notes": "portugal skipped (group destination, no osm_clean data)"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/102"
+    },
+    {
+      "date": "2026-06-28",
+      "slugs": [
+        "raja-ampat",
+        "red-sea",
+        "roatan",
+        "saba",
+        "san-diego-la-jolla",
+        "sangalaki"
+      ],
+      "summary": {
+        "sites_total": 1047,
+        "sites_re_audited": 586,
+        "sites_validated_today": 36,
+        "hallucinations_removed": 54,
+        "marine_life_stripped": 33,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 92,
+        "by_destination": {
+          "raja-ampat": {
+            "sites_total": 106,
+            "sites_validated_today": 20,
+            "sites_re_audited": 106,
+            "hallucinations_removed": 12,
+            "marine_life_stripped": 9,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 86,
+            "notes": "Arborek Shark Point H.ocellatum→H.freycineti (Raja Ampat endemic); Boo Point reef→wall; Four Kings depth 30→40m; Manta Ridge depth 20→40m Intermediate→Advanced; Sardine Reef depth 20→30m Intermediate→Advanced; Aerborek Jetty depth 25→18m; Seamount wall→pinnacle; The Passage croc warning added (2016 fatal attack); Cape Mansuar manta cleaning station claim removed; Cape Kri unverified record year + leopard sharks removed; Mioskun '15-30 grey reef sharks schooling' removed"
+          },
+          "red-sea": {
+            "sites_total": 482,
+            "sites_validated_today": 0,
+            "sites_re_audited": 29,
+            "hallucinations_removed": 20,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 2,
+            "notes": "Dunraven length 85→79.6m, tonnage 1800→1613 GRT, depth corrected, sinking Apr 22→25 1876, fire cause removed; SS Thistlegorm Bedford trucks→Leyland/Albion/Morris Commercial; Salem Express '850 bodies recovered' removed (impossible figure); SS Umbria June 9→10, detonators 600→60 cases, hull depth corrected; Cedar Pride King Hussein→Crown Prince Abdullah; Satil Sa'ar 4.5→Sa'ar 3 class; Plane Wreck complete rewrite (C-130 Hercules deliberately scuttled Nov 16 2017); Louilla GRT 2271→2479; Kimon M Nordseewerke→Stulcken shipyard; Giannis D broke in 3 sections not 2; Elphinstone marine life claims softened; Beacon Rock stub rewritten with 3 sources"
+          },
+          "roatan": {
+            "sites_total": 428,
+            "sites_validated_today": 15,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "El Aguila shrimp boat→cargo freighter; SW coast→north coast near Sandy Bay; Odyssey 73m→91m; M Alexand 'Prince of Wales' alias removed, north→south coast Dixon Cove, depth 30→20m; Hole in the Wall cave→wall depth 40→30m; Spooky Channel cave→drift; Shang Ying/Man of War/Thalassa Arg fabricated origin claims removed; Bear's Den complete rewrite (previous desc was for wrong site); Butcher Bank whale sharks/hammerheads removed"
+          },
+          "saba": {
+            "sites_total": 9,
+            "sites_validated_today": 0,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Eye of the Needle 'top within meters of surface' removed (tops at 27m depth); Third Encounter depth range 6-35m→27-35m; Tent Reef Wall depth 40→30m; Torrens Point '130ft drop' removed (50ft/16m per Sea Saba); Diamond Rock Intermediate→Advanced (DAN); Green Island reef→pinnacle; Ladder Labyrinth pinnacle→reef; 6 depth corrections from Sea Saba operator data; 6 unconfirmed species lists stripped and replaced with operator-confirmed fauna"
+          },
+          "san-diego-la-jolla": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "HMCS Yukon DDE 265→263, St-Laurent→Mackenzie class; hmcs-yukon-dde-265.md deleted (wrong designation); Yukon DE-429 flagged as gap-fill duplicate; La Jolla Cove leopard shark depth 5-15m→1-3m; harbor seals removed from Cove and Shores (they're at Children's Pool); SS Monte Carlo depth 20→6m; La Jolla Canyon depth 30→40m; Zuniga Jetty depth 25→9m shore→boat; 4 difficulty corrections; site type labels corrected from tropical coral to kelp/rocky reef"
+          },
+          "sangalaki": {
+            "sites_total": 13,
+            "sites_validated_today": 1,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Manta taxonomy updated Manta alfredi→Mobula alfredi (current taxonomy); oceanic mantas NOT at Sangalaki confirmed; Big Fish Country depth 30→20m; Kelapa Dua thresher shark corrected to Alopias pelagicus + ISRA citation added; Blue Light Cave 65m contextualized as technical exit; Gorgonzola newly validated (3+ sources); Kakaban/Sangalaki island separation confirmed correct throughout"
+          }
+        }
+      }
     }
   ]
 }
