@@ -1,7 +1,7 @@
 ---
 name: Man O War Shoals
-lat: 17.6083
-lng: -63.27
+lat: 17.6467
+lng: -63.2551
 difficulty: Intermediate
 maxDepth: 21
 entryType: boat
@@ -47,7 +47,7 @@ Boat access only, with permanent mooring buoy at the main shoal. Entry by giant 
 
 ## Tips and Recommendations
 
-Man O War Shoals is best dived by following the sand channels — the eagle rays and stingrays are concentrated in these areas, particularly in the morning when rays are actively feeding. Look carefully at the sand at the edges of coral structures for camouflaged flounder and scorpionfish. The multiple shoal structures mean a single dive can be done in multiple configurations, making this a site worth revisiting.
+Man O War Shoals is best dived in the figure-eight pattern Sea Saba recommends — circumnavigating the base and spiraling upward between the twin peaks. Look for sand tile fish, banded jawfish, and Atlantic spadefish, which Sea Saba describes as found only at this site in the Saba Marine Park. The multiple shoal structures mean a single dive can be done in multiple configurations, making this a site worth revisiting. *Eagle ray and stingray claims in a previous version of this description were not confirmed by primary sources for Man O War Shoals specifically and have been removed.*
 
 ## Safety Considerations
 
@@ -55,7 +55,7 @@ Current flows through the channels between the shoals and can be stronger than i
 
 ## Photography
 
-The sand channels with eagle rays are the photographic highlight — wide-angle or medium zoom works best for ray encounters. The shoal tops in 6–10 meters offer classic Caribbean reef shots in excellent ambient light. Sandy channel floors provide clean backgrounds for close-focus wide-angle portraits of resting rays or stingrays.
+The Atlantic spadefish — found only here within the Saba Marine Park — is a distinctive photographic target. The sand tile fish and banded jawfish hovering above burrows make excellent close-focus macro subjects. The shallow shoal tops at 5–7 metres offer strong ambient light for fish portrait work. Wide-angle lenses suit the overall structural photography of the twin peaks.
 
 ## Additional Resources
 
@@ -63,4 +63,4 @@ The sand channels with eagle rays are the photographic highlight — wide-angle 
 - Sea Saba: experienced guides who know the eagle ray sighting patterns at this site
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba - Man O War Shoals](https://www.seasaba.com/saba-7-man-owar-shoals), [DAN Alert Diver - Saba](https://world.dan.org/alert-diver/article/saba/), [Saba Conservation Foundation - Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/). Last updated 2026-06-28.*

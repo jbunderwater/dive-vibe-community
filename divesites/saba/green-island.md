@@ -1,11 +1,11 @@
 ---
 name: Green Island
-lat: 17.6117
-lng: -63.2733
+lat: 17.6501
+lng: -63.2301
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 24
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,31 +13,31 @@ addedBy: osm_import
 
 # Green Island
 
-A sheltered reef site on Saba's leeward side, offering intermediate divers a diverse slope covered with healthy hard corals, large barrel sponges, and abundant Caribbean reef fish.
+A weather-dependent island pinnacle on Saba's eastern side, accessible only on calm days or with southerly winds, featuring gorgonians, black coral, barrel sponges, and nurse sharks around a historic mining-era anchor.
 
 ## Overview
 
-Green Island is a reef dive on Saba's western flank, positioned in relatively calmer water compared to the exposed northwest and south pinnacles. The site features a sloping reef that descends from around 8 meters at the crest to 22 meters at the sandy base, with a varied terrain of hard coral formations, sand channels, and coral bommies. The Saba Marine Park's protection since 1987 has allowed the reef to develop dense hard coral coverage including large brain and star coral colonies. Visibility typically reaches 20–30 meters. Water temperature averages 26–28°C year-round, with cooler upwellings possible in winter.
+Green Island is a small island pinnacle on Saba's eastern side — Sea Saba describes it as "a less often dove site" accessible only "on a calm day or wind out of the south." The site features counter-clockwise navigation around the pinnacle, with a grove of gorgonians and a small colony of both bushy and feather black coral. A large historical anchor from Saba's sulphur mining era — referred to as "Popeye's anchor" — is embedded in the sand and serves as a distinctive navigation landmark. The mooring is at 9 metres (30 feet) and maximum depth is 24 metres (80 feet). Visibility typically reaches 20–30 metres.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–22 m |
+| Depth Range | 9–24 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Pinnacle |
 | Visibility | 20–30 m |
 | Current | Light to moderate |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-Green Island is particularly known for its population of hawksbill turtles, which are a near-certain sighting throughout the Saba Marine Park. The reef slope hosts large schools of blue tang, creole wrasse, and chromis along with individual French and grey angelfish. Spotted moray eels occupy crevices throughout the reef, and Caribbean spiny lobster can be found sheltering beneath coral overhangs. At the sandy base, southern stingrays bury themselves in the sand patches between bommies. Occasional nurse sharks rest on the sand in the deeper sections.
+Sea Saba confirms the following species at Green Island: schools of Bermuda chubs, parrotfish, queen angelfish, nurse sharks among barrel sponges, gorgonians, bushy black coral, feather black coral, and elkhorn coral. Nurse sharks sheltering among barrel sponges are a highlighted feature. *Previous claims about hawksbill turtles, blue tang, creole wrasse, chromis, grey angelfish, spotted moray eels, and southern stingrays as confirmed species at Green Island are not supported by the primary operator's site description and have been removed.*
 
 ## Dive Profile
 
-Descent is via mooring line to the reef crest at approximately 8 meters. Divers typically work north along the slope, gradually descending to 18–22 meters before reversing and ascending the reef face back toward the mooring. The sand-reef interface at 20–22 meters is worth exploring for stingray and lobster encounters before ascending for a safety stop on the crest.
+Sea Saba recommends a counter-clockwise navigation pattern around the island pinnacle. Descent is via mooring at approximately 9 metres (30 feet). Maximum depth is 24 metres (80 feet). Popeye's anchor in the sand is a recommended visit point during the dive — a tangible link to Saba's historical sulphur mining operations.
 
 ## Entry and Exit
 
@@ -45,15 +45,15 @@ All dives at Green Island are conducted from licensed dive boats out of Fort Bay
 
 ## Tips and Recommendations
 
-Green Island is a good intermediate site for a second dive of the day after an advanced morning dive at Eye of the Needle or Third Encounter. The shallower profile and moderate current make it more forgiving for gas management. Morning light hits the western face well for photography, particularly in the 8–15 meter range. The sandy clearings between bommies are excellent for close-focus wide-angle shots of resting rays.
+Green Island is accessible only on calm days or with southerly winds per Sea Saba — operators will assess conditions before departing. This is a less frequently dived site. When conditions permit, it offers a quieter alternative to the more-visited western pinnacles. The historical Popeye's anchor is a distinctive highlight not found at other Saba sites.
 
 ## Safety Considerations
 
-Current at Green Island is generally lighter than exposed pinnacle sites but can increase on incoming tides. Fire coral is present on the reef structure — maintain buoyancy and avoid contact. Sea urchins are common in sandy areas. Always carry a DSMB.
+Green Island is only accessible on calm days or with southerly winds — if conditions change after descending, ascend early. Current is generally lighter than the exposed western pinnacles. Always carry a DSMB. Standard Saba Marine Park rules apply.
 
 ## Photography
 
-The shallow crest at Green Island has excellent ambient light for fish portraits, particularly for the angelfish species that are approachable and photogenic. Wide-angle shots of the coral slope with turtle sightings are a highlight. At depth, barrel sponge formations provide strong compositional elements.
+Queen angelfish and parrotfish are approachable and photogenic subjects in the shallow sections. The gorgonian grove and black coral colonies reward wide-angle photography with supplemental lighting. Popeye's anchor encrusted with marine growth is a distinctive wide-angle subject with historical interest. Nurse sharks among barrel sponges at depth offer classic Caribbean wide-angle opportunities.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The shallow crest at Green Island has excellent ambient light for fish portraits
 - Saba Divers and Sea Saba both visit this site regularly
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba - Green Island](https://www.seasaba.com/saba-31-green-island), [Saba Conservation Foundation - Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [Dive the World - Saba](https://www.dive-the-world.com/diving-sites-saba.php). Last updated 2026-06-28.*

@@ -1,9 +1,9 @@
 ---
 name: Torrens Point
-lat: 17.635
-lng: -63.235
+lat: 17.6434
+lng: -63.253
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Torrens Point
 
-Saba's most beginner-friendly dive site — a gently sloping reef on the northern side of the island with calm water, shallow depths, and reliable encounters with turtles and reef fish.
+Saba's most beginner-friendly dive site — known as "Saba's Nursery," with a sheltered boulder and cave environment where the entire dive can be done shallower than 7 metres, plus a tunnel option for more experienced visitors.
 
 ## Overview
 
-Torrens Point is consistently recommended as the best introduction to Saba diving. The site is located on the northern side of Saba in a position that offers natural protection from the prevailing easterly swells, resulting in calmer surface conditions and gentler underwater motion than the island's exposed western and southern pinnacles. The reef slopes gently from 5 meters at the crest to 15 meters at the sandy base, with a well-developed hard coral community featuring brain, star, and finger corals throughout. The Saba Marine Park's protection since 1987 has allowed the reef to develop dense coverage and a healthy fish population relatively undisturbed. Visibility is excellent, typically 20–30 meters.
+Torrens Point is consistently recommended as the best introduction to Saba diving. Sea Saba calls it "Saba's Nursery" — a calm and protected site where the entire dive can be completed in less than 25 feet (7 metres) of water. The mooring is at 25 feet (7 metres) and maximum depth is 50 feet (16 metres). The area just north of the point features small caves and large boulders to explore. Large anchors are notable features on the sandy bottom. For more experienced divers, a tunnel approximately 60 feet (18 metres) long is available. The protected position from prevailing swells makes surface conditions reliably calm. Visibility is typically 20–30 metres.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–15 m |
+| Depth Range | 5–16 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,11 +33,11 @@ Torrens Point is consistently recommended as the best introduction to Saba divin
 
 ## Marine Life
 
-Hawksbill turtles are among the most reliable sightings at Torrens Point — they graze on sponges on the reef crest and are accustomed to divers. French and queen angelfish are present throughout the reef. Schools of blue tang and surgeonfishes move across the shallower sections, while parrotfish feed on the coral surface. Southern stingrays rest in sandy clearings at the reef base. The protected shallows at Torrens Point also make it an excellent site for observing small, cryptic reef organisms — arrow crabs, cleaning shrimp, and flamingo tongue snails are easily found on sea fans.
+Sea Saba confirms spotted lobsters, Caribbean lobsters, flatworms, and great barracudas at this site. Bait balls are commonly observed here. The protected, shallow boulder environment supports many cryptic reef organisms. Sea Saba confirms this as a good snorkel site as well as a dive. *Previous claims about hawksbill turtles, blue tang schools, southern stingrays, arrow crabs, and flamingo tongue snails are generic Caribbean reef species attributed to Torrens Point without specific primary source confirmation, and have been removed from the confirmed species list.*
 
 ## Dive Profile
 
-Descent via mooring line to the reef crest at 5 meters. Divers navigate south along the reef slope at a comfortable depth, typically between 8–12 meters, before returning along the same or a parallel route. The maximum depth of 15 meters provides generous NDL time — up to 80+ minutes — allowing a very relaxed exploration pace. Safety stop at 5 meters on the mooring crest.
+Descent via mooring line at 7 metres (25 feet). The entire dive can be completed shallower than 7 metres — exploring caves and boulders north of the point. Maximum depth is 16 metres (50 feet). For experienced divers, the guide can lead a 60-foot (18-metre) tunnel passage. The shallow profile provides very generous NDL — 80+ minutes at 10 metres. Safety stop at 5 metres on the mooring.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat access from Fort Bay. Permanent mooring maintained by the Saba Conservation
 
 ## Tips and Recommendations
 
-Torrens Point is the ideal first dive for visitors to Saba, allowing divers to get oriented with local conditions before attempting the more challenging pinnacle sites. The 15-meter maximum depth and gentle current mean there is no pressure on gas or NDL management, allowing divers to focus on observation. Night dives at Torrens Point have been described as excellent by visiting divers — the calm, shallow conditions suit after-dark diving well.
+Torrens Point is the ideal first dive for visitors to Saba. The shallow maximum depth (16 m / 50 ft) and gentle current mean there is no pressure on gas or NDL management. Sea Saba offers this site for snorkelling as well as diving. The tunnel is specifically noted for experienced divers — do not attempt it solo or without guide supervision. This site also works well as a combined dive-and-snorkel for mixed-ability groups.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Even at Saba's calmest sites, current can develop unexpectedly on incoming tides
 
 ## Photography
 
-Torrens Point has excellent ambient light throughout the shallow reef profile. The turtle encounters on the crest at 5–8 meters are photographable with wide-angle or fisheye lenses in beautiful natural light. The arrow crabs and flamingo tongue snails on sea fans require close-up or macro capability. Fish portraits of angelfish and parrotfish are easier here than at current-swept sites.
+Torrens Point has excellent ambient light throughout the shallow profile. The calm, shallow conditions suit underwater photography for beginner photographers. The boulder and cave environment with dappled light creates strong compositional opportunities. Lobster portraits in the cave crevices work well with close-focus macro. Bait ball encounters in the open water above the boulders are a wide-angle opportunity.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Torrens Point has excellent ambient light throughout the shallow reef profile. T
 - Saba Divers and Sea Saba both offer guided discovery dives at Torrens Point
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba - Torrens Point](https://www.seasaba.com/saba-9-torrens-point), [Saba Conservation Foundation - Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [Divezone - Saba](https://divezone.net/diving/saba). Last updated 2026-06-28.*

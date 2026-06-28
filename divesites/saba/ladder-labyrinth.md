@@ -53,7 +53,7 @@ The swim-throughs are all open (no overhead environment) but narrow sections req
 
 ## Photography
 
-Ladder Labyrinth is one of Saba's best macro sites. The interior walls of passages are covered with subjects — tube sponges, basket stars, and the occasional frogfish or seahorse. A wide-angle lens suits the swim-through entrance shots with silhouettes. Carry a torch or video light for the darker interior chambers.
+Ladder Labyrinth is one of Saba's best macro sites. Nudibranchs, flamingo tongue cyphomas, and yellowhead jawfish hovering above sand burrows are the highlights. A torch is useful for the darker recesses between the ridges. The unusual sulfur-coloured volcanic sand creates distinctive macro backgrounds not found at other Saba sites.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Ladder Labyrinth is one of Saba's best macro sites. The interior walls of passag
 - Sea Saba and Saba Divers both offer guided dives at this site
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba - Ladder Labyrinth](https://www.seasaba.com/saba-14-ladder-labyrinth), [DAN Alert Diver - Saba](https://world.dan.org/alert-diver/article/saba/), [Saba Conservation Foundation - Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/). Last updated 2026-06-28.*
